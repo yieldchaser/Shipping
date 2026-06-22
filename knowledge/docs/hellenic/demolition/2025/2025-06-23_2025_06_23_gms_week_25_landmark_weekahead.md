@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 83
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The world watched in disbelief as the U.S. carried out a major attack
     on 3 Iranian nuclear sites and while claiming destruction of the facilitiesdespite
@@ -48,8 +47,7 @@ numeric_observations:
   - 0.2
   - 0.2
   - 73.8
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: And while these seismic shifts are not without reverberations that
     have already been felt all over the Indian sub-continent ship recycling sector,
@@ -59,8 +57,7 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: As tonnage remains absent from the bidding tables, for anxious ship
     recyclers, Trump's incessant hopscotching over tariffs and changing trade policies
@@ -70,8 +67,7 @@ numeric_observations:
   values:
   - 25.0
   - 26.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 25 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -79,8 +75,7 @@ numeric_observations:
   values:
   - 25.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
   unit: null
@@ -92,31 +87,27 @@ numeric_observations:
   - 46.0
   - 2.0
   - 87.0
-- &id006
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: June 20th, 2025
   unit: null
   values:
   - 20.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Week 25 life will reward you with a new hello."
   unit: null
   values:
   - 25.0
-- &id008
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Volume 273, Issue 1190
   unit: null
   values:
   - 273.0
   - 1190.0
-- &id009
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: • Markets creak. The world watchoeudt .i nT hdeisrbee'sli nefo a ssu
     tchhe tUh.iSn.g c aarsr liie fde oinu-tb ae mtwaejoern .a"tt ack on 3 Iranian
@@ -124,8 +115,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 3.0
-- &id010
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Exchange Dry Index) fall a massive 3.5% down to its lowest level seen
     over the last 2 weeks, erasing
@@ -133,8 +123,7 @@ numeric_observations:
   values:
   - 3.5
   - 2.0
-- &id011
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: • Weekend at 6.5% across the week while the Panamax index fell 0.2%
     during the same time. The price of oil,
@@ -142,8 +131,7 @@ numeric_observations:
   values:
   - 6.5
   - 0.2
-- &id012
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: fallen about 0.2% (seems to be a theme here) to end the week at USD
     73.80/barrel. Global markets
@@ -151,48 +139,42 @@ numeric_observations:
   values:
   - 0.2
   - 73.8
-- &id013
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: of recycling tonnage in 2024 in over a decade, all while global ship
     recyclers were bracing (hoping?)
   unit: null
   values:
   - 2024.0
-- &id014
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: for a healthy inflow of vessels in 2025. Much of this backlogged tonnage
     is still expected to come for
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: our dedicated webinar series on Junte 25th and June 26th.
   unit: null
   values:
   - 25.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: recyclers can continue recycling vessels and operate in a post-June
     26th era of ship recycling. As of
   unit: null
   values:
   - 26.0
-- &id018
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: now, 10 recycling yards have successfully obtained their HKC accreditations
     and with about 25
@@ -200,8 +182,7 @@ numeric_observations:
   values:
   - 10.0
   - 25.0
-- &id019
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Fill ing plots. already lost 27 basis points by Friday against the
     U.S. Dollar, reduced the decline to only 7 basis
@@ -209,48 +190,42 @@ numeric_observations:
   values:
   - 27.0
   - 7.0
-- &id020
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: points but at the time of writing and ended at BDT 122.15. Local steel
     plate prices have also resumed
   unit: null
   values:
   - 122.15
-- &id021
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: flatlining at USD 551/Ton (same as last week) that saw local offerings
     retreat, leaving the domestic
   unit: usd
   values:
   - 551.0
-- &id022
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Neg ative pricing. At the macro end, although the country's inflation
     has fallen to 9.05% across May, June has seen
   unit: pct
   values:
   - 9.05
-- &id023
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: of reversing the economic downturn that hasn't let off the gas pedal
     since June 2024. Elections too
   unit: null
   values:
   - 2024.0
-- &id024
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: are expected towards the end of the month and with a USD 5/Ton drop
     expected on vessel prices
   unit: usd
   values:
   - 5.0
-- &id025
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: due to changes in tax structures announced in the recent FY 2025 -
     2026 budget, the expectation is
@@ -258,16 +233,14 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id026
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: sentiments across 2025 that saw the Indian Rupee break historical records
     around region Rs. 88, then Lowest in sub cont.
@@ -275,16 +248,14 @@ numeric_observations:
   values:
   - 2025.0
   - 88.0
-- &id028
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: firm back up to region Rs 85, and resume a fresh ride down the depression
     chute of late as it was the
   unit: null
   values:
   - 85.0
-- &id029
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: at 37 basis points and ended the week at Rs. 86.47. Local steel plate
     prices too were quick to join in
@@ -292,8 +263,7 @@ numeric_observations:
   values:
   - 37.0
   - 86.47
-- &id030
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: during the same time, falling to the lows of USD 43X/Ton, then rising
     all the way to USD 47X/Ton,
@@ -301,8 +271,7 @@ numeric_observations:
   values:
   - 43.0
   - 47.0
-- &id031
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: and are now back down to USD 428.31/Ton after having declined about
     USD 3/Ton this week.
@@ -310,56 +279,49 @@ numeric_observations:
   values:
   - 428.31
   - 3.0
-- &id032
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: disarray as the Pakistani Rupee resumes its decline against the U.S.
     Dollar with a 32-basis point
   unit: null
   values:
   - 32.0
-- &id034
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: drop this week, ending it at PKR 283.52, all while Pakistani steel
     plate prices also resumed flatlining
   unit: null
   values:
   - 283.52
-- &id035
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: at a far healthier USD 611/ton despite maintaining the widest margins
     for Gadani recyclers (when
   unit: usd
   values:
   - 611.0
-- &id036
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: the Iranian Parliament has voted to close to Straits of Hormuz. With
     over 20% of the world's oil
   unit: pct
   values:
   - 20.0
-- &id037
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Lira fell a staggering 79 basis points and ended the week at TRY 39.72
     against the U.S. Dollar. Aliaga Real taste.
@@ -367,8 +329,7 @@ numeric_observations:
   values:
   - 79.0
   - 39.72
-- &id039
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: For Week 25 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -376,8 +337,7 @@ numeric_observations:
   values:
   - 25.0
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -386,8 +346,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id041
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -396,8 +355,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id042
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -406,8 +364,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id043
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -416,16 +373,14 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id044
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 06 - Ashura June 22 - June 30
   unit: null
@@ -433,24 +388,21 @@ numeric_observations:
   - 6.0
   - 22.0
   - 30.0
-- &id046
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 08 - July 16
   unit: null
   values:
   - 8.0
   - 16.0
-- &id047
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 21 - July 29
   unit: null
   values:
   - 21.0
   - 29.0
-- &id048
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 05 - Ashura June 24 - June 27
   unit: null
@@ -458,56 +410,49 @@ numeric_observations:
   - 5.0
   - 24.0
   - 27.0
-- &id049
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 11 - July 14
   unit: null
   values:
   - 11.0
   - 14.0
-- &id050
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 24 - July 27
   unit: null
   values:
   - 24.0
   - 27.0
-- &id051
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: No holidays in July July 01 - Bank Holiday July 15 - Democracy & National
   unit: null
   values:
   - 1.0
   - 15.0
-- &id052
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: July 05 - 06 - Ashoora Solidarity Day
   unit: null
   values:
   - 5.0
   - 6.0
-- &id053
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 20, 2025
   unit: null
   values:
   - 20.0
   - 2025.0
-- &id055
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 1 Bira 2,063 Container Delivered June 14
   unit: null
@@ -515,8 +460,7 @@ numeric_observations:
   - 1.0
   - 2063.0
   - 14.0
-- &id056
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -524,8 +468,7 @@ numeric_observations:
   - 2.0
   - 20001.0
   - 13.0
-- &id057
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 3 Lord 17 2,583 General Cargo Delivered June 14
   unit: null
@@ -534,8 +477,7 @@ numeric_observations:
   - 17.0
   - 2583.0
   - 14.0
-- &id058
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -543,8 +485,7 @@ numeric_observations:
   - 4.0
   - 9623.0
   - 7.0
-- &id059
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 5 Ukhan 32,467 LNG Carrier Delivered June 16
   unit: null
@@ -552,23 +493,20 @@ numeric_observations:
   - 5.0
   - 32467.0
   - 16.0
-- &id060
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 66,737
   unit: null
   values:
   - 66737.0
-- &id061
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 20, 2025
   unit: null
   values:
   - 20.0
   - 2025.0
-- &id062
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 1 Sidimi 2,985 RoRo Cargo Vessel Delivered June 16
   unit: null
@@ -576,16 +514,14 @@ numeric_observations:
   - 1.0
   - 2985.0
   - 16.0
-- &id063
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 20, 2025
   unit: null
   values:
   - 20.0
   - 2025.0
-- &id064
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 1 Pacific K 10,386 Bulk Carrier Arrived June 10
   unit: null
@@ -593,23 +529,20 @@ numeric_observations:
   - 1.0
   - 10386.0
   - 10.0
-- &id065
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 10,386
   unit: null
   values:
   - 10386.0
-- &id066
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id067
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/14/2025 430.99 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
   unit: null
@@ -624,8 +557,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 293.01
-- &id068
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/15/2025 430.99 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
   unit: null
@@ -640,8 +572,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 293.01
-- &id069
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/16/2025 431.14 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
   unit: null
@@ -656,8 +587,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 293.01
-- &id070
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/17/2025 430.19 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
   unit: null
@@ -672,8 +602,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 293.01
-- &id071
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/18/2025 429.00 37,100.00 616.04 174,000.00 551.44 67,000.00 294.73
   unit: null
@@ -688,8 +617,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 294.73
-- &id072
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/19/2025 427.72 37,100.00 616.04 174,000.00 551.44 67,000.00 296.25
   unit: null
@@ -704,8 +632,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 296.25
-- &id073
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 6/20/2025 428.31 37,100.00 616.04 174,000.00 551.44 67,000.00 296.25
   unit: null
@@ -720,8 +647,7 @@ numeric_observations:
   - 551.44
   - 67000.0
   - 296.25
-- &id074
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -730,8 +656,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id075
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -740,8 +665,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id076
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -750,8 +674,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id077
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -760,8 +683,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id078
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -770,8 +692,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id079
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
   unit: null
@@ -783,8 +704,7 @@ numeric_observations:
   - 46.0
   - 2.0
   - 87.0
-- &id080
-  section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+- section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 690x152 mode=RGB'
   unit: null
@@ -827,86 +747,686 @@ section_count: 3
 signals:
   numeric_observation_count: 83
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The world watched in disbelief as the U.S. carried out a major attack
+      on 3 Iranian nuclear sites and while claiming destruction of the facilitiesdespite
+      awaiting BDA (Battle Damage Assessment), early indications seem to suggest that
+      the primary facility may st
+    unit: pct
+    values:
+    - 3.0
+    - 3.5
+    - 2.0
+    - 6.5
+    - 0.2
+    - 0.2
+    - 73.8
+  - section: Main
+    section_type: null
+    source_line: And while these seismic shifts are not without reverberations that
+      have already been felt all over the Indian sub-continent ship recycling sector,
+      the upcoming enforcement of the HKC exacted a self-imposed, yet much-needed
+      set of restrictions to ensure that th
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: As tonnage remains absent from the bidding tables, for anxious ship
+      recyclers, Trump's incessant hopscotching over tariffs and changing trade policies
+      now blended with a fresh new conflict in the Middle East will make it difficult
+      to predict which way the wind
+    unit: null
+    values:
+    - 25.0
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: For Week 25 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 25.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -6.0
+    - -23.0
+    - 25.0
+    - 46.0
+    - 2.0
+    - 87.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: June 20th, 2025
+    unit: null
+    values:
+    - 20.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Week 25 life will reward you with a new hello."
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Volume 273, Issue 1190
+    unit: null
+    values:
+    - 273.0
+    - 1190.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: • Markets creak. The world watchoeudt .i nT hdeisrbee'sli nefo a
+      ssu tchhe tUh.iSn.g c aarsr liie fde oinu-tb ae mtwaejoern .a"tt ack on 3 Iranian
+      nuclear sites and
+    unit: tonnage
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Exchange Dry Index) fall a massive 3.5% down to its lowest level
+      seen over the last 2 weeks, erasing
+    unit: pct
+    values:
+    - 3.5
+    - 2.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: • Weekend at 6.5% across the week while the Panamax index fell 0.2%
+      during the same time. The price of oil,
+    unit: pct
+    values:
+    - 6.5
+    - 0.2
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: fallen about 0.2% (seems to be a theme here) to end the week at USD
+      73.80/barrel. Global markets
+    unit: pct
+    values:
+    - 0.2
+    - 73.8
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: of recycling tonnage in 2024 in over a decade, all while global ship
+      recyclers were bracing (hoping?)
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: for a healthy inflow of vessels in 2025. Much of this backlogged
+      tonnage is still expected to come for
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: our dedicated webinar series on Junte 25th and June 26th.
+    unit: null
+    values:
+    - 25.0
+    - 26.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: recyclers can continue recycling vessels and operate in a post-June
+      26th era of ship recycling. As of
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: now, 10 recycling yards have successfully obtained their HKC accreditations
+      and with about 25
+    unit: null
+    values:
+    - 10.0
+    - 25.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Fill ing plots. already lost 27 basis points by Friday against the
+      U.S. Dollar, reduced the decline to only 7 basis
+    unit: null
+    values:
+    - 27.0
+    - 7.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: points but at the time of writing and ended at BDT 122.15. Local
+      steel plate prices have also resumed
+    unit: null
+    values:
+    - 122.15
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: flatlining at USD 551/Ton (same as last week) that saw local offerings
+      retreat, leaving the domestic
+    unit: usd
+    values:
+    - 551.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Neg ative pricing. At the macro end, although the country's inflation
+      has fallen to 9.05% across May, June has seen
+    unit: pct
+    values:
+    - 9.05
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: of reversing the economic downturn that hasn't let off the gas pedal
+      since June 2024. Elections too
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: are expected towards the end of the month and with a USD 5/Ton drop
+      expected on vessel prices
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: due to changes in tax structures announced in the recent FY 2025
+      - 2026 budget, the expectation is
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: sentiments across 2025 that saw the Indian Rupee break historical
+      records around region Rs. 88, then Lowest in sub cont.
+    unit: null
+    values:
+    - 2025.0
+    - 88.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: firm back up to region Rs 85, and resume a fresh ride down the depression
+      chute of late as it was the
+    unit: null
+    values:
+    - 85.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: at 37 basis points and ended the week at Rs. 86.47. Local steel plate
+      prices too were quick to join in
+    unit: null
+    values:
+    - 37.0
+    - 86.47
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: during the same time, falling to the lows of USD 43X/Ton, then rising
+      all the way to USD 47X/Ton,
+    unit: usd
+    values:
+    - 43.0
+    - 47.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: and are now back down to USD 428.31/Ton after having declined about
+      USD 3/Ton this week.
+    unit: usd
+    values:
+    - 428.31
+    - 3.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: disarray as the Pakistani Rupee resumes its decline against the U.S.
+      Dollar with a 32-basis point
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: drop this week, ending it at PKR 283.52, all while Pakistani steel
+      plate prices also resumed flatlining
+    unit: null
+    values:
+    - 283.52
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: at a far healthier USD 611/ton despite maintaining the widest margins
+      for Gadani recyclers (when
+    unit: usd
+    values:
+    - 611.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: the Iranian Parliament has voted to close to Straits of Hormuz. With
+      over 20% of the world's oil
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Lira fell a staggering 79 basis points and ended the week at TRY
+      39.72 against the U.S. Dollar. Aliaga Real taste.
+    unit: null
+    values:
+    - 79.0
+    - 39.72
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: For Week 25 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 25.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 06 - Ashura June 22 - June 30
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+    - 30.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 08 - July 16
+    unit: null
+    values:
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 21 - July 29
+    unit: null
+    values:
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 05 - Ashura June 24 - June 27
+    unit: null
+    values:
+    - 5.0
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 11 - July 14
+    unit: null
+    values:
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 24 - July 27
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in July July 01 - Bank Holiday July 15 - Democracy &
+      National
+    unit: null
+    values:
+    - 1.0
+    - 15.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: July 05 - 06 - Ashoora Solidarity Day
+    unit: null
+    values:
+    - 5.0
+    - 6.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 20, 2025
+    unit: null
+    values:
+    - 20.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bira 2,063 Container Delivered June 14
+    unit: null
+    values:
+    - 1.0
+    - 2063.0
+    - 14.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 2.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lord 17 2,583 General Cargo Delivered June 14
+    unit: null
+    values:
+    - 3.0
+    - 17.0
+    - 2583.0
+    - 14.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 4.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 5 Ukhan 32,467 LNG Carrier Delivered June 16
+    unit: null
+    values:
+    - 5.0
+    - 32467.0
+    - 16.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 66,737
+    unit: null
+    values:
+    - 66737.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 20, 2025
+    unit: null
+    values:
+    - 20.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sidimi 2,985 RoRo Cargo Vessel Delivered June 16
+    unit: null
+    values:
+    - 1.0
+    - 2985.0
+    - 16.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 20, 2025
+    unit: null
+    values:
+    - 20.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pacific K 10,386 Bulk Carrier Arrived June 10
+    unit: null
+    values:
+    - 1.0
+    - 10386.0
+    - 10.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 10,386
+    unit: null
+    values:
+    - 10386.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/14/2025 430.99 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
+    unit: null
+    values:
+    - 6.0
+    - 14.0
+    - 2025.0
+    - 430.99
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 293.01
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/15/2025 430.99 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
+    unit: null
+    values:
+    - 6.0
+    - 15.0
+    - 2025.0
+    - 430.99
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 293.01
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/16/2025 431.14 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
+    unit: null
+    values:
+    - 6.0
+    - 16.0
+    - 2025.0
+    - 431.14
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 293.01
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/17/2025 430.19 37,100.00 616.04 174,000.00 551.44 67,000.00 293.01
+    unit: null
+    values:
+    - 6.0
+    - 17.0
+    - 2025.0
+    - 430.19
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 293.01
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/18/2025 429.00 37,100.00 616.04 174,000.00 551.44 67,000.00 294.73
+    unit: null
+    values:
+    - 6.0
+    - 18.0
+    - 2025.0
+    - 429.0
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 294.73
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/19/2025 427.72 37,100.00 616.04 174,000.00 551.44 67,000.00 296.25
+    unit: null
+    values:
+    - 6.0
+    - 19.0
+    - 2025.0
+    - 427.72
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 296.25
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 6/20/2025 428.31 37,100.00 616.04 174,000.00 551.44 67,000.00 296.25
+    unit: null
+    values:
+    - 6.0
+    - 20.0
+    - 2025.0
+    - 428.31
+    - 37100.0
+    - 616.04
+    - 174000.0
+    - 551.44
+    - 67000.0
+    - 296.25
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_ship-recycling-market-insight-week-2_08cc12745b0e.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -6.0
+    - -23.0
+    - 25.0
+    - 46.0
+    - 2.0
+    - 87.0
+  - section: 'Linked asset: 2025-06-23_gms-week-25-landmark-weekahead_img1_gms346_d82f387c8de1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 690x152 mode=RGB'
+    unit: null
+    values:
+    - 690.0
+    - 52.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-06-23_gms-week-25-landmark-weekahead.html
 source_stem: 2025-06-23_gms-week-25-landmark-weekahead

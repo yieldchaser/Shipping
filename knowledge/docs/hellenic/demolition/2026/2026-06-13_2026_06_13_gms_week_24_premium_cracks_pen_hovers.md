@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 131
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The war premium has finally cracked. Brent crude fell more than 4%
     on Thursday toward USD 89 per barrel, its lowest level since March,with WTI near
@@ -44,8 +43,7 @@ numeric_observations:
   - 89.0
   - 86.0
   - 15.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The pen is hovering, not yet landed. The week that produced the breakthrough
     also produced US strikes on Iranian radar and drone sites on June 10 and Iranian
@@ -55,8 +53,7 @@ numeric_observations:
   values:
   - 10.0
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight has cooled for the first time in the arc. The Baltic Dry Index
     eased to 2,818 on June 9 from the June 1 peak of 3,222, with the Baltic Capesize
@@ -71,8 +68,7 @@ numeric_observations:
   - 4441.0
   - 40274.0
   - 49511.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'May inflation prints have landed across the basin, and the pattern
     is uniform: annual rates climbing on accumulated base effects even as the monthly
@@ -90,8 +86,7 @@ numeric_observations:
   - 95.4
   - 2026.0
   - 278.39
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The monsoon now rules the beaching calendar regardless of what is
     signed in Europe this weekend. But the shape of the next chapter is forming: if
@@ -100,8 +95,7 @@ numeric_observations:
   unit: null
   values:
   - 30.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 24 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -109,15 +103,13 @@ numeric_observations:
   values:
   - 24.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 126202530.jpg'
   unit: null
   values:
   - 126202530.0
-- &id008
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   unit: null
@@ -130,61 +122,53 @@ numeric_observations:
   - 8.0
   - 24.0
   - 23.0
-- &id009
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x125 mode=RGB'
   unit: null
   values:
   - 600.0
   - 25.0
-- &id010
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id011
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id012
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: June 12th , 2026
   unit: null
   values:
   - 12.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Week 24
   unit: null
   values:
   - 24.0
-- &id015
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1239
   unit: null
   values:
   - 282.0
   - 1239.0
-- &id016
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: The war premium has finally cracked. Brent crude fell more than 4%
     on Thursday toward USD 89 per barrel,
@@ -192,40 +176,35 @@ numeric_observations:
   values:
   - 4.0
   - 89.0
-- &id017
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: • Strikes pause. its lowest level sinc e March, with WTI near USD 86,
     after President Trump suspended military strikes against
   unit: usd
   values:
   - 86.0
-- &id018
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: first reported the war premium cracking in Week 15. Nine weeks later,
     the premium has finally read the report.
   unit: null
   values:
   - 15.0
-- &id019
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Iranian radar and drone sites on June 10 and Iranian missile responses
     across the Gulf, with mediation now
   unit: null
   values:
   - 10.0
-- &id020
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: from Hormuz within 30 days of signature and bars tolls on the strait,
     while even a signed deal faces idled
   unit: null
   values:
   - 30.0
-- &id021
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Freight h as cooled for the first time in the arc. The Baltic Dry Inde
     x eased to 2,818 on June 9 from the June 1
@@ -234,8 +213,7 @@ numeric_observations:
   - 2818.0
   - 9.0
   - 1.0
-- &id022
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: peak of 3,222, with the Baltic Capesize Index at 4,441 and daily Capesize
     earnings at USD 40,274, down from
@@ -244,24 +222,21 @@ numeric_observations:
   - 3222.0
   - 4441.0
   - 40274.0
-- &id023
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: • Freight cools. the USD 49,511 high of the prior week, though Supramax
     and Handysize both firmed. For the first time since
   unit: usd
   values:
   - 49511.0
-- &id024
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: accumulated base effects even as the monthly shocks fade. Pakistan's
     May CPI rose to 11.7%, the highest since
   unit: pct
   values:
   - 11.7
-- &id025
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: June 2024, yet monthly inflation collapsed to 0.5% from 2.5%. Turkey's
     May CPI edged to 32.61% while its
@@ -271,8 +246,7 @@ numeric_observations:
   - 0.5
   - 2.5
   - 32.61
-- &id026
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: monthly pace fell to 1.71% from 4.18%. The fire is going out at the
     stove while the smoke alarm still rings.
@@ -280,16 +254,14 @@ numeric_observations:
   values:
   - 1.71
   - 4.18
-- &id027
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 'Currencies extended their repair: the Indian Rupee held its recovery
     near 95.40, the Pakistani Rupee sustained'
   unit: null
   values:
   - 95.4
-- &id028
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: its 2026 best at approximately 278.39, the Bangladeshi Taka held the
     floor of its band at 122.75, and the Turkish
@@ -298,8 +270,7 @@ numeric_observations:
   - 2026.0
   - 278.39
   - 122.75
-- &id029
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Lira steadied near its record at approximately 45.85. Detailed country
     reads follow on pages 2 through 5.
@@ -308,16 +279,14 @@ numeric_observations:
   - 45.85
   - 2.0
   - 5.0
-- &id030
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 'shape of the next chapter is forming: if the pen lands, the 30-day
     de-mining clock starts, the strait normalises'
   unit: null
   values:
   - 30.0
-- &id031
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 24 of 2026 are on Page 5.
   unit: null
@@ -325,16 +294,14 @@ numeric_observations:
   - 24.0
   - 2026.0
   - 5.0
-- &id032
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 24 with USD/BDT at approximately 122.75, holding
     the floor of the 122.74
@@ -343,95 +310,83 @@ numeric_observations:
   - 24.0
   - 122.75
   - 122.74
-- &id034
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: to 123.18 band that has now contained the Taka through the entire conflict
     and into the monsoon
   unit: null
   values:
   - 123.18
-- &id035
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: without a single breach. The Brent collapse toward USD 89, the broad
     dollar easing on the deal
   unit: usd
   values:
   - 89.0
-- &id036
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: testing the band in either direction. Foreign exchange reserves near
     USD 34.12 billion remain the
   unit: usd
   values:
   - 34.12
-- &id037
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: premium deflates. Local steel plate prices held steady at BDT 65,000
     per ton, with the USD
   unit: usd
   values:
   - 65000.0
-- &id038
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: equivalent near USD 535 per ton, as mill-level easing tracked the Brent
     break.
   unit: usd
   values:
   - 535.0
-- &id039
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: operative watch item in the coming days; the April print at 9.04% remains
     the reference, and the
   unit: pct
   values:
   - 9.04
-- &id040
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: monthly energy shock fades with Brent below USD 90.
   unit: usd
   values:
   - 90.0
-- &id041
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Q3 forms. the framework is signed this weekend and the 30-day de-mining
     clause runs, the strait normalises
   unit: null
   values:
   - 30.0
-- &id042
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: freight premium has already begun to ease from its June 1 peak. Chattogram
     enters that scenario
   unit: null
   values:
   - 1.0
-- &id043
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: USD/INR has held its recovery into a fourth consecutive week at approximately
     95.40, consolidating
   unit: usd_per_unit
   values:
   - 95.4
-- &id045
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: the retreat from the 96.97 record of May 21. The Reserve Bank of India's
     June 5 hold at 5.25%, the
@@ -441,16 +396,14 @@ numeric_observations:
   - 21.0
   - 5.0
   - 5.25
-- &id046
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: toward USD 89 have together given the rupee its most supportive configuration
     since the war opened.
   unit: usd
   values:
   - 89.0
-- &id047
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: India's import bill, exposed on roughly 70% of crude and 90% of LPG
     routing through or near Hormuz,
@@ -458,8 +411,7 @@ numeric_observations:
   values:
   - 70.0
   - 90.0
-- &id048
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: projections, retail inflation at 5.1% for FY2026-27 and growth trimmed
     to 6.6%, were set against the Relief conditional.
@@ -469,31 +421,27 @@ numeric_observations:
   - 26.0
   - -27.0
   - 6.6
-- &id049
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: energy shock as it stood in early June, and a durable Brent settlement
     below USD 90 would materially
   unit: usd
   values:
   - 90.0
-- &id050
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: framework's unresolved questions, the 30-day de-mining clock, the idled
     fields, the damaged export
   unit: null
   values:
   - 30.0
-- &id051
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: beginning to price. The 96.97 record has receded. It has not been repealed.
   unit: null
   values:
   - 96.97
-- &id052
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang softened from INR 38,500 to INR 38,000
     through the week, briefly
@@ -501,8 +449,7 @@ numeric_observations:
   values:
   - 38500.0
   - 38000.0
-- &id053
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: touching INR 37,800, with the USD equivalent easing from approximately
     USD 405 to USD 398 per ton,
@@ -511,32 +458,28 @@ numeric_observations:
   - 37800.0
   - 405.0
   - 398.0
-- &id054
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: destination, with the gap to Pakistan near USD 295 per LDT. The monsoon
     governs Alang's operational
   unit: usd
   values:
   - 295.0
-- &id055
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id056
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Pakistan's May CPI printed at 11.7% year-on-year, up from 10.9% in
     April and the highest reading
@@ -544,8 +487,7 @@ numeric_observations:
   values:
   - 11.7
   - 10.9
-- &id058
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: CP I climbs. since June 2024, with transport at plus 36.8% (versus
     29.9%) and housing and utilities elevated at
@@ -554,16 +496,14 @@ numeric_observations:
   - 2024.0
   - 36.8
   - 29.9
-- &id059
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 16.8%. The headline is the war shock's full accumulation in the annual
     series. The composition tells
   unit: pct
   values:
   - 16.8
-- &id060
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 'the more important story: monthly inflation collapsed to 0.5% from
     April''s 2.5%, the Sensitive Price'
@@ -571,8 +511,7 @@ numeric_observations:
   values:
   - 0.5
   - 2.5
-- &id061
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Indicator's month-on-month pace eased to 0.7%, and the Wholesale Price
     Index declined 0.8% on
@@ -580,8 +519,7 @@ numeric_observations:
   values:
   - 0.7
   - 0.8
-- &id062
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: USD/PKR held at approximately 278.39 through the print, sustaining
     its strongest level of 2026 and
@@ -589,8 +527,7 @@ numeric_observations:
   values:
   - 278.39
   - 2026.0
-- &id063
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: dollar across the entire conflict. The FX market has looked through
     the 11.7% headline to the 0.5 %
@@ -598,8 +535,7 @@ numeric_observations:
   values:
   - 11.7
   - 0.5
-- &id064
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Bank's 100 basis point hike to 11.5% has the trajectory contained.
     With the weekly oil import bill
@@ -607,16 +543,14 @@ numeric_observations:
   values:
   - 100.0
   - 11.5
-- &id065
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: that Prime Minister Sharif quantified at USD 800 million now deflating
     alongside Brent, the
   unit: usd
   values:
   - 800.0
-- &id066
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at PKR 195,000 per ton held, with the USD
     equivalent near USD 700 per ton
@@ -624,8 +558,7 @@ numeric_observations:
   values:
   - 195000.0
   - 700.0
-- &id067
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: near USD 295 per LDT, and the arrival of the Ron at 21,502 LDT marks
     the largest unit Gadani has
@@ -633,24 +566,21 @@ numeric_observations:
   values:
   - 295.0
   - 21502.0
-- &id068
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: premium that anchored Gadani's wartime advantage. A signed deal with
     a 30-day de-mining
   unit: null
   values:
   - 30.0
-- &id069
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: T urkey's May CPI printed at 32.61% year-on-year, up from 32.37% in
     April and slightly above
@@ -658,8 +588,7 @@ numeric_observations:
   values:
   - 32.61
   - 32.37
-- &id071
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: e xpectations of 32.5%, the highest reading since October 2025. As
     in Pakistan, the monthly
@@ -667,24 +596,21 @@ numeric_observations:
   values:
   - 32.5
   - 2025.0
-- &id072
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 'c omposition softened materially: consumer prices rose 1.71% on the
     month, down sharply from'
   unit: pct
   values:
   - 1.71
-- &id073
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: April's 4.18% and the weakest monthly increase since December. Food
     and non-alcoholic beverages
   unit: pct
   values:
   - 4.18
-- &id074
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: rose to 34.86% annually, while housing eased slightly to 45.59% and
     transport to 34.29%. The Istanbul
@@ -693,40 +619,35 @@ numeric_observations:
   - 34.86
   - 45.59
   - 34.29
-- &id075
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: Chamber's parallel series for the city printed 36.8%. The annual rate
     creeps higher on arithmetic. The
   unit: pct
   values:
   - 36.8
-- &id076
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: period of high uncertainty," while maintaining a 24% year-end target
     and tightening liquidity by
   unit: pct
   values:
   - 24.0
-- &id077
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: shifting funding to the 40% overnight lending rate. The suspension
     of the forecast range is the
   unit: pct
   values:
   - 40.0
-- &id078
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: energy shock overran in April cannot yet be re-anchored. USD/TRY steadied
     near 45.85, just off the
   unit: usd_per_unit
   values:
   - 45.85
-- &id079
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: 45.90 record, as the broad dollar eased. The Brent collapse toward
     USD 89, if sustained through a
@@ -734,8 +655,7 @@ numeric_observations:
   values:
   - 45.9
   - 89.0
-- &id080
-  section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+- section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
   source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains structurally
     uncompetitive for
@@ -1082,86 +1002,639 @@ section_count: 3
 signals:
   numeric_observation_count: 131
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The war premium has finally cracked. Brent crude fell more than 4%
+      on Thursday toward USD 89 per barrel, its lowest level since March,with WTI
+      near USD 86, after President Trump suspended military strikes against Iran that
+      had been scheduled for that evening a
+    unit: worldscale_pct
+    values:
+    - 4.0
+    - 89.0
+    - 86.0
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: The pen is hovering, not yet landed. The week that produced the breakthrough
+      also produced US strikes on Iranian radar and drone sites on June 10 and Iranian
+      missile responses across the Gulf, with mediation now running through Qatar
+      and draft texts still bein
+    unit: tonnage
+    values:
+    - 10.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: Freight has cooled for the first time in the arc. The Baltic Dry
+      Index eased to 2,818 on June 9 from the June 1 peak of 3,222, with the Baltic
+      Capesize Index at 4,441 and daily Capesize earnings at USD 40,274, down from
+      the USD 49,511 high of the prior week, t
+    unit: usd
+    values:
+    - 2818.0
+    - 9.0
+    - 1.0
+    - 3222.0
+    - 4441.0
+    - 40274.0
+    - 49511.0
+  - section: Main
+    section_type: null
+    source_line: 'May inflation prints have landed across the basin, and the pattern
+      is uniform: annual rates climbing on accumulated base effects even as the monthly
+      shocks fade. Pakistan''s May CPI rose to 11.7%, the highest since June 2024,
+      yet monthly inflation collapsed to '
+    unit: pct
+    values:
+    - 11.7
+    - 2024.0
+    - 0.5
+    - 2.5
+    - 32.61
+    - 1.71
+    - 4.18
+    - 95.4
+    - 2026.0
+    - 278.39
+  - section: Main
+    section_type: null
+    source_line: 'The monsoon now rules the beaching calendar regardless of what is
+      signed in Europe this weekend. But the shape of the next chapter is forming:
+      if the pen lands, the 30-day de-mining clock starts, the strait normalises through
+      July, the bunker floor and freight'
+    unit: null
+    values:
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: For Week 24 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 126202530.jpg'
+    unit: null
+    values:
+    - 126202530.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -6.0
+    - -13.0
+    - 24.0
+    - 126202530.0
+    - 8.0
+    - 24.0
+    - 23.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 600x125 mode=RGB'
+    unit: null
+    values:
+    - 600.0
+    - 25.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: June 12th , 2026
+    unit: null
+    values:
+    - 12.0
+    - 2026.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Week 24
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1239
+    unit: null
+    values:
+    - 282.0
+    - 1239.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: The war premium has finally cracked. Brent crude fell more than 4%
+      on Thursday toward USD 89 per barrel,
+    unit: pct
+    values:
+    - 4.0
+    - 89.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: • Strikes pause. its lowest level sinc e March, with WTI near USD
+      86, after President Trump suspended military strikes against
+    unit: usd
+    values:
+    - 86.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: first reported the war premium cracking in Week 15. Nine weeks later,
+      the premium has finally read the report.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Iranian radar and drone sites on June 10 and Iranian missile responses
+      across the Gulf, with mediation now
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: from Hormuz within 30 days of signature and bars tolls on the strait,
+      while even a signed deal faces idled
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Freight h as cooled for the first time in the arc. The Baltic Dry
+      Inde x eased to 2,818 on June 9 from the June 1
+    unit: null
+    values:
+    - 2818.0
+    - 9.0
+    - 1.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: peak of 3,222, with the Baltic Capesize Index at 4,441 and daily
+      Capesize earnings at USD 40,274, down from
+    unit: usd
+    values:
+    - 3222.0
+    - 4441.0
+    - 40274.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: • Freight cools. the USD 49,511 high of the prior week, though Supramax
+      and Handysize both firmed. For the first time since
+    unit: usd
+    values:
+    - 49511.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: accumulated base effects even as the monthly shocks fade. Pakistan's
+      May CPI rose to 11.7%, the highest since
+    unit: pct
+    values:
+    - 11.7
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: June 2024, yet monthly inflation collapsed to 0.5% from 2.5%. Turkey's
+      May CPI edged to 32.61% while its
+    unit: pct
+    values:
+    - 2024.0
+    - 0.5
+    - 2.5
+    - 32.61
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: monthly pace fell to 1.71% from 4.18%. The fire is going out at the
+      stove while the smoke alarm still rings.
+    unit: pct
+    values:
+    - 1.71
+    - 4.18
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 'Currencies extended their repair: the Indian Rupee held its recovery
+      near 95.40, the Pakistani Rupee sustained'
+    unit: null
+    values:
+    - 95.4
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: its 2026 best at approximately 278.39, the Bangladeshi Taka held
+      the floor of its band at 122.75, and the Turkish
+    unit: null
+    values:
+    - 2026.0
+    - 278.39
+    - 122.75
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Lira steadied near its record at approximately 45.85. Detailed country
+      reads follow on pages 2 through 5.
+    unit: null
+    values:
+    - 45.85
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 'shape of the next chapter is forming: if the pen lands, the 30-day
+      de-mining clock starts, the strait normalises'
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 24 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 24.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 24 with USD/BDT at approximately 122.75, holding
+      the floor of the 122.74
+    unit: usd_per_unit
+    values:
+    - 24.0
+    - 122.75
+    - 122.74
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: to 123.18 band that has now contained the Taka through the entire
+      conflict and into the monsoon
+    unit: null
+    values:
+    - 123.18
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: without a single breach. The Brent collapse toward USD 89, the broad
+      dollar easing on the deal
+    unit: usd
+    values:
+    - 89.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: testing the band in either direction. Foreign exchange reserves near
+      USD 34.12 billion remain the
+    unit: usd
+    values:
+    - 34.12
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: premium deflates. Local steel plate prices held steady at BDT 65,000
+      per ton, with the USD
+    unit: usd
+    values:
+    - 65000.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: equivalent near USD 535 per ton, as mill-level easing tracked the
+      Brent break.
+    unit: usd
+    values:
+    - 535.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: operative watch item in the coming days; the April print at 9.04%
+      remains the reference, and the
+    unit: pct
+    values:
+    - 9.04
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: monthly energy shock fades with Brent below USD 90.
+    unit: usd
+    values:
+    - 90.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Q3 forms. the framework is signed this weekend and the 30-day de-mining
+      clause runs, the strait normalises
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: freight premium has already begun to ease from its June 1 peak. Chattogram
+      enters that scenario
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR has held its recovery into a fourth consecutive week at approximately
+      95.40, consolidating
+    unit: usd_per_unit
+    values:
+    - 95.4
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: the retreat from the 96.97 record of May 21. The Reserve Bank of
+      India's June 5 hold at 5.25%, the
+    unit: pct
+    values:
+    - 96.97
+    - 21.0
+    - 5.0
+    - 5.25
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: toward USD 89 have together given the rupee its most supportive configuration
+      since the war opened.
+    unit: usd
+    values:
+    - 89.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: India's import bill, exposed on roughly 70% of crude and 90% of LPG
+      routing through or near Hormuz,
+    unit: pct
+    values:
+    - 70.0
+    - 90.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: projections, retail inflation at 5.1% for FY2026-27 and growth trimmed
+      to 6.6%, were set against the Relief conditional.
+    unit: pct
+    values:
+    - 5.1
+    - 26.0
+    - -27.0
+    - 6.6
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: energy shock as it stood in early June, and a durable Brent settlement
+      below USD 90 would materially
+    unit: usd
+    values:
+    - 90.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: framework's unresolved questions, the 30-day de-mining clock, the
+      idled fields, the damaged export
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: beginning to price. The 96.97 record has receded. It has not been
+      repealed.
+    unit: null
+    values:
+    - 96.97
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang softened from INR 38,500 to INR
+      38,000 through the week, briefly
+    unit: null
+    values:
+    - 38500.0
+    - 38000.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: touching INR 37,800, with the USD equivalent easing from approximately
+      USD 405 to USD 398 per ton,
+    unit: usd
+    values:
+    - 37800.0
+    - 405.0
+    - 398.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: destination, with the gap to Pakistan near USD 295 per LDT. The monsoon
+      governs Alang's operational
+    unit: usd
+    values:
+    - 295.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's May CPI printed at 11.7% year-on-year, up from 10.9% in
+      April and the highest reading
+    unit: pct
+    values:
+    - 11.7
+    - 10.9
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: CP I climbs. since June 2024, with transport at plus 36.8% (versus
+      29.9%) and housing and utilities elevated at
+    unit: pct
+    values:
+    - 2024.0
+    - 36.8
+    - 29.9
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 16.8%. The headline is the war shock's full accumulation in the annual
+      series. The composition tells
+    unit: pct
+    values:
+    - 16.8
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 'the more important story: monthly inflation collapsed to 0.5% from
+      April''s 2.5%, the Sensitive Price'
+    unit: pct
+    values:
+    - 0.5
+    - 2.5
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Indicator's month-on-month pace eased to 0.7%, and the Wholesale
+      Price Index declined 0.8% on
+    unit: pct
+    values:
+    - 0.7
+    - 0.8
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR held at approximately 278.39 through the print, sustaining
+      its strongest level of 2026 and
+    unit: usd_per_unit
+    values:
+    - 278.39
+    - 2026.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: dollar across the entire conflict. The FX market has looked through
+      the 11.7% headline to the 0.5 %
+    unit: pct
+    values:
+    - 11.7
+    - 0.5
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Bank's 100 basis point hike to 11.5% has the trajectory contained.
+      With the weekly oil import bill
+    unit: pct
+    values:
+    - 100.0
+    - 11.5
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: that Prime Minister Sharif quantified at USD 800 million now deflating
+      alongside Brent, the
+    unit: usd
+    values:
+    - 800.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at PKR 195,000 per ton held, with the USD
+      equivalent near USD 700 per ton
+    unit: usd
+    values:
+    - 195000.0
+    - 700.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: near USD 295 per LDT, and the arrival of the Ron at 21,502 LDT marks
+      the largest unit Gadani has
+    unit: usd
+    values:
+    - 295.0
+    - 21502.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: premium that anchored Gadani's wartime advantage. A signed deal with
+      a 30-day de-mining
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: T urkey's May CPI printed at 32.61% year-on-year, up from 32.37%
+      in April and slightly above
+    unit: pct
+    values:
+    - 32.61
+    - 32.37
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: e xpectations of 32.5%, the highest reading since October 2025. As
+      in Pakistan, the monthly
+    unit: pct
+    values:
+    - 32.5
+    - 2025.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 'c omposition softened materially: consumer prices rose 1.71% on
+      the month, down sharply from'
+    unit: pct
+    values:
+    - 1.71
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: April's 4.18% and the weakest monthly increase since December. Food
+      and non-alcoholic beverages
+    unit: pct
+    values:
+    - 4.18
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: rose to 34.86% annually, while housing eased slightly to 45.59% and
+      transport to 34.29%. The Istanbul
+    unit: pct
+    values:
+    - 34.86
+    - 45.59
+    - 34.29
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: Chamber's parallel series for the city printed 36.8%. The annual
+      rate creeps higher on arithmetic. The
+    unit: pct
+    values:
+    - 36.8
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: period of high uncertainty," while maintaining a 24% year-end target
+      and tightening liquidity by
+    unit: pct
+    values:
+    - 24.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: shifting funding to the 40% overnight lending rate. The suspension
+      of the forecast range is the
+    unit: pct
+    values:
+    - 40.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: energy shock overran in April cannot yet be re-anchored. USD/TRY
+      steadied near 45.85, just off the
+    unit: usd_per_unit
+    values:
+    - 45.85
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: 45.90 record, as the broad dollar eased. The Brent collapse toward
+      USD 89, if sustained through a
+    unit: usd
+    values:
+    - 45.9
+    - 89.0
+  - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
+    section_type: linked_pdf
+    source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains
+      structurally uncompetitive for
+    unit: usd
+    values:
+    - 268.0
+    - 290.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-06-13_gms-week-24-premium-cracks-pen-hovers.html
 source_stem: 2026-06-13_gms-week-24-premium-cracks-pen-hovers

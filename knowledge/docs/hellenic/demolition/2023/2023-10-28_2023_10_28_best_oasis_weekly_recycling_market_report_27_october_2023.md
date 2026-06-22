@@ -33,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 75
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 28/10/2023
   unit: null
@@ -42,8 +41,7 @@ numeric_observations:
   - 28.0
   - 10.0
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: "Throughout the current week, the ship recycling industry has exhibited
     a lackluster performance across \U0001F4C4 Download PDF: Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf"
@@ -52,8 +50,7 @@ numeric_observations:
   - 21.0
   - 27.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 21 October 2023 - 27 October 2023
   unit: null
@@ -62,8 +59,7 @@ numeric_observations:
   - 2023.0
   - 27.0
   - 2023.0
-- &id004
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -71,8 +67,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id005
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -80,8 +75,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id006
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 83.24 This Week : 110.26 This Week : 277.03 This Week
     : 28.17'
@@ -91,8 +85,7 @@ numeric_observations:
   - 110.26
   - 277.03
   - 28.17
-- &id007
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 83.11 Previous Week : 110.23 Previous Week : 278.77
     Previous Week : 28.00'
@@ -102,8 +95,7 @@ numeric_observations:
   - 110.23
   - 278.77
   - 28.0
-- &id008
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.13 Lost : 0.03 Gained : 1.74 Lost : 0.17'
   unit: null
@@ -112,55 +104,48 @@ numeric_observations:
   - 0.03
   - 1.74
   - 0.17
-- &id009
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id010
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 560 560
   unit: null
   values:
   - 560.0
   - 560.0
-- &id011
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 530 530
   unit: null
   values:
   - 530.0
   - 530.0
-- &id012
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 505 505
   unit: null
   values:
   - 505.0
   - 505.0
-- &id013
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: specifically the benchmarked hot rolled coils, by a minimum of $19
     per tonne. These
   unit: usd
   values:
   - 19.0
-- &id014
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: products are now priced at $537 per tonne for export markets, representing
     a month-
   unit: usd
   values:
   - 537.0
-- &id015
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: on-month decrease of 3-5%. Consequently, Indian exporters have either
     refrained from
@@ -168,8 +153,7 @@ numeric_observations:
   values:
   - 3.0
   - -5.0
-- &id016
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -178,8 +162,7 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id017
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 400 388 400 393
   unit: null
@@ -188,8 +171,7 @@ numeric_observations:
   - 388.0
   - 400.0
   - 393.0
-- &id018
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 27 October to 3 November 2023 100
   unit: null
@@ -198,8 +180,7 @@ numeric_observations:
   - 3.0
   - 2023.0
   - 100.0
-- &id019
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 12 November to 19 November 2023
   unit: null
@@ -207,8 +188,7 @@ numeric_observations:
   - 12.0
   - 19.0
   - 2023.0
-- &id020
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 25 November to 30 November 2023
   unit: null
@@ -216,8 +196,7 @@ numeric_observations:
   - 25.0
   - 30.0
   - 2023.0
-- &id021
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -226,31 +205,27 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id022
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id023
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 540 540
   unit: null
   values:
   - 540.0
   - 540.0
-- &id024
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 520 520
   unit: null
   values:
   - 520.0
   - 520.0
-- &id025
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: After 2/3 days of improving, the local market again started dropping
     prices. As a result,
@@ -258,31 +233,27 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id026
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Bangladesh Bank, the reserve currently stands at $20.89 billion.
   unit: usd
   values:
   - 20.89
-- &id027
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 418 416
   unit: null
   values:
   - 418.0
   - 416.0
-- &id028
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 406 402
   unit: null
   values:
   - 406.0
   - 402.0
-- &id029
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 12 November to 15 November 2023
   unit: null
@@ -290,8 +261,7 @@ numeric_observations:
   - 12.0
   - 15.0
   - 2023.0
-- &id030
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 25 November to 28 November 2023
   unit: null
@@ -299,8 +269,7 @@ numeric_observations:
   - 25.0
   - 28.0
   - 2023.0
-- &id031
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 12 December to 15 December 2023
   unit: null
@@ -308,15 +277,13 @@ numeric_observations:
   - 12.0
   - 15.0
   - 2023.0
-- &id032
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id033
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 515 515 505 505
   unit: null
@@ -325,16 +292,14 @@ numeric_observations:
   - 515.0
   - 505.0
   - 505.0
-- &id034
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: November 1. Commencing from that date, commercial consumers can anticipate
     a
   unit: null
   values:
   - 1.0
-- &id035
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 137% increase in gas prices, whereas domestic consumers can anticipate
     a 172%
@@ -342,8 +307,7 @@ numeric_observations:
   values:
   - 137.0
   - 172.0
-- &id036
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: surge. Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -352,55 +316,48 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id037
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The IMF will dispatch a team to Pakistan the following week to negotiate
     the release of 500
   unit: null
   values:
   - 500.0
-- &id038
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: the second $710 million installment of a $3 billion loan.
   unit: usd
   values:
   - 710.0
   - 3.0
-- &id039
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 403 396
   unit: null
   values:
   - 403.0
   - 396.0
-- &id040
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id041
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 320 320
   unit: null
   values:
   - 320.0
   - 320.0
-- &id042
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 310 310
   unit: null
   values:
   - 310.0
   - 310.0
-- &id043
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The current market conditions indicate a relatively low level of demand.
     300 300
@@ -408,8 +365,7 @@ numeric_observations:
   values:
   - 300.0
   - 300.0
-- &id044
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The market in this setting has seen a decrease of 9 USD in import prices
     and 3 USD in
@@ -417,16 +373,14 @@ numeric_observations:
   values:
   - 9.0
   - 3.0
-- &id045
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: benchmark one-week repo rate by 5 percentage points to 35%.
   unit: pct
   values:
   - 5.0
   - 35.0
-- &id046
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 360 357 361
   unit: null
@@ -434,75 +388,65 @@ numeric_observations:
   - 360.0
   - 357.0
   - 361.0
-- &id047
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id048
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 88.89 This Week : 84.27'
   unit: null
   values:
   - 88.89
   - 84.27
-- &id049
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 93.03 Previous Week : 90.18'
   unit: null
   values:
   - 93.03
   - 90.18
-- &id050
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Movement : - 4.14 Movement : - 5.91'
   unit: null
   values:
   - 4.14
   - 5.91
-- &id051
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '976.00'
   unit: null
   values:
   - 976.0
-- &id052
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '965.00'
   unit: null
   values:
   - 965.0
-- &id053
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 952.00 950.00
   unit: null
   values:
   - 952.0
   - 950.0
-- &id054
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '934.25'
   unit: null
   values:
   - 934.25
-- &id055
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '910.00'
   unit: null
   values:
   - 910.0
-- &id056
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 883.00 889.50 894.50
   unit: null
@@ -510,36 +454,31 @@ numeric_observations:
   - 883.0
   - 889.5
   - 894.5
-- &id057
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '866.75'
   unit: null
   values:
   - 866.75
-- &id058
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '849.00'
   unit: null
   values:
   - 849.0
-- &id059
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '832.75'
   unit: null
   values:
   - 832.75
-- &id060
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id061
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: TRINIDAD 1 CARGO / RORO 8917871 1993 YUGOSLAVIA 3,940 AS-IS ECUADOR
     UNDISCLOSED
@@ -549,8 +488,7 @@ numeric_observations:
   - 8917871.0
   - 1993.0
   - 3940.0
-- &id062
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: LUCKY DRAGON CONTAINER 9117181 1996 POLAND 8,170 AS-IS SINGAPORE 537
   unit: null
@@ -559,15 +497,13 @@ numeric_observations:
   - 1996.0
   - 8170.0
   - 537.0
-- &id063
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id064
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -575,8 +511,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id065
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204'
   unit: null
@@ -585,8 +520,7 @@ numeric_observations:
   - 417.0
   - 188.0
   - 204.0
-- &id066
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 55 836 9147'
   unit: null
@@ -595,8 +529,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id067
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021'
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 172.0
   - 370.0
   - 1021.0
-- &id068
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Greece Phone: +971 4575 4667'
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id069
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -624,8 +555,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id070
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -634,8 +564,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id071
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -644,8 +573,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id072
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -654,8 +582,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id073
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -664,8 +591,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id074
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Work: +81 354 522 405'
   unit: null
@@ -674,8 +600,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id075
-  section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+- section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -695,81 +620,583 @@ section_count: 2
 signals:
   numeric_observation_count: 75
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 28/10/2023
+    unit: null
+    values:
+    - 28.0
+    - 10.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: "Throughout the current week, the ship recycling industry has exhibited
+      a lackluster performance across \U0001F4C4 Download PDF: Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf"
+    unit: null
+    values:
+    - 21.0
+    - 27.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 21 October 2023 - 27 October 2023
+    unit: null
+    values:
+    - 21.0
+    - 2023.0
+    - 27.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 83.24 This Week : 110.26 This Week : 277.03 This Week
+      : 28.17'
+    unit: null
+    values:
+    - 83.24
+    - 110.26
+    - 277.03
+    - 28.17
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 83.11 Previous Week : 110.23 Previous Week : 278.77
+      Previous Week : 28.00'
+    unit: null
+    values:
+    - 83.11
+    - 110.23
+    - 278.77
+    - 28.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.13 Lost : 0.03 Gained : 1.74 Lost : 0.17'
+    unit: null
+    values:
+    - 0.13
+    - 0.03
+    - 1.74
+    - 0.17
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 560 560
+    unit: null
+    values:
+    - 560.0
+    - 560.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 530 530
+    unit: null
+    values:
+    - 530.0
+    - 530.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 505 505
+    unit: null
+    values:
+    - 505.0
+    - 505.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: specifically the benchmarked hot rolled coils, by a minimum of $19
+      per tonne. These
+    unit: usd
+    values:
+    - 19.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: products are now priced at $537 per tonne for export markets, representing
+      a month-
+    unit: usd
+    values:
+    - 537.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: on-month decrease of 3-5%. Consequently, Indian exporters have either
+      refrained from
+    unit: pct
+    values:
+    - 3.0
+    - -5.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 400 388 400 393
+    unit: null
+    values:
+    - 400.0
+    - 388.0
+    - 400.0
+    - 393.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 27 October to 3 November 2023 100
+    unit: null
+    values:
+    - 27.0
+    - 3.0
+    - 2023.0
+    - 100.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 12 November to 19 November 2023
+    unit: null
+    values:
+    - 12.0
+    - 19.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 25 November to 30 November 2023
+    unit: null
+    values:
+    - 25.0
+    - 30.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 540 540
+    unit: null
+    values:
+    - 540.0
+    - 540.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 520 520
+    unit: null
+    values:
+    - 520.0
+    - 520.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: After 2/3 days of improving, the local market again started dropping
+      prices. As a result,
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh Bank, the reserve currently stands at $20.89 billion.
+    unit: usd
+    values:
+    - 20.89
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 418 416
+    unit: null
+    values:
+    - 418.0
+    - 416.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 406 402
+    unit: null
+    values:
+    - 406.0
+    - 402.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 12 November to 15 November 2023
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 25 November to 28 November 2023
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 12 December to 15 December 2023
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 515 515 505 505
+    unit: null
+    values:
+    - 515.0
+    - 515.0
+    - 505.0
+    - 505.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: November 1. Commencing from that date, commercial consumers can anticipate
+      a
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 137% increase in gas prices, whereas domestic consumers can anticipate
+      a 172%
+    unit: pct
+    values:
+    - 137.0
+    - 172.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: surge. Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The IMF will dispatch a team to Pakistan the following week to negotiate
+      the release of 500
+    unit: null
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: the second $710 million installment of a $3 billion loan.
+    unit: usd
+    values:
+    - 710.0
+    - 3.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 403 396
+    unit: null
+    values:
+    - 403.0
+    - 396.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 320 320
+    unit: null
+    values:
+    - 320.0
+    - 320.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 310 310
+    unit: null
+    values:
+    - 310.0
+    - 310.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The current market conditions indicate a relatively low level of
+      demand. 300 300
+    unit: null
+    values:
+    - 300.0
+    - 300.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The market in this setting has seen a decrease of 9 USD in import
+      prices and 3 USD in
+    unit: usd
+    values:
+    - 9.0
+    - 3.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: benchmark one-week repo rate by 5 percentage points to 35%.
+    unit: pct
+    values:
+    - 5.0
+    - 35.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 360 357 361
+    unit: null
+    values:
+    - 360.0
+    - 357.0
+    - 361.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 88.89 This Week : 84.27'
+    unit: null
+    values:
+    - 88.89
+    - 84.27
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 93.03 Previous Week : 90.18'
+    unit: null
+    values:
+    - 93.03
+    - 90.18
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : - 4.14 Movement : - 5.91'
+    unit: null
+    values:
+    - 4.14
+    - 5.91
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '976.00'
+    unit: null
+    values:
+    - 976.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '965.00'
+    unit: null
+    values:
+    - 965.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 952.00 950.00
+    unit: null
+    values:
+    - 952.0
+    - 950.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '934.25'
+    unit: null
+    values:
+    - 934.25
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '910.00'
+    unit: null
+    values:
+    - 910.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 883.00 889.50 894.50
+    unit: null
+    values:
+    - 883.0
+    - 889.5
+    - 894.5
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '866.75'
+    unit: null
+    values:
+    - 866.75
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '849.00'
+    unit: null
+    values:
+    - 849.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '832.75'
+    unit: null
+    values:
+    - 832.75
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: TRINIDAD 1 CARGO / RORO 8917871 1993 YUGOSLAVIA 3,940 AS-IS ECUADOR
+      UNDISCLOSED
+    unit: null
+    values:
+    - 1.0
+    - 8917871.0
+    - 1993.0
+    - 3940.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: LUCKY DRAGON CONTAINER 9117181 1996 POLAND 8,170 AS-IS SINGAPORE
+      537
+    unit: null
+    values:
+    - 9117181.0
+    - 1996.0
+    - 8170.0
+    - 537.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Greece Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Work: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2023-10-28_Weekly-Ship-Recycling-Report-21-October-27-October-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-10-28_best-oasis-weekly-recycling-market-report-27-october-2023.html
 source_stem: 2023-10-28_best-oasis-weekly-recycling-market-report-27-october-2023

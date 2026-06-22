@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 103
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Some of the recent container sales (in particular) have caught the
     eyes of many in the industry, especially as levels gradually edge back up into
@@ -40,8 +39,7 @@ numeric_observations:
   values:
   - 500.0
   - 600.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: India certainly has been the chief driver behind much of the recent
     activity, as domestic steel plate prices once again posted decent gains of about
@@ -51,8 +49,7 @@ numeric_observations:
   values:
   - 13.0
   - 2.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Bangladesh remains completely out of the buying, with levels down and
     L/C & bank approvals once again hard to come by. A decent number of well-priced
@@ -61,8 +58,7 @@ numeric_observations:
   unit: usd
   values:
   - 500.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 37 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -70,8 +66,7 @@ numeric_observations:
   values:
   - 37.0
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-09-18_gms-week-37-food-for-thought_img1_17092023cg_db02389bf5c4.jpg'
   unit: null
@@ -82,31 +77,27 @@ numeric_observations:
   - 37.0
   - 17092023.0
   - 2389.0
-- &id006
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: September 15tht, 2023 "You've got to get up every morning with determination,
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id007
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Volume 253, Issue 1100 if you're going to go to bed with satisfaction."
   unit: null
   values:
   - 253.0
   - 1100.0
-- &id008
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Week 37
   unit: null
   values:
   - 37.0
-- &id009
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: • High 500s/LDT. especially as levels gradually edge back up into the
     high USD 500s/LDT (approaching USD
@@ -114,40 +105,35 @@ numeric_observations:
   values:
   - 500.0
   - 500.0
-- &id010
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 600/LDT), thereby providing prospective Owners of vintage units, food
     for thought about the
   unit: null
   values:
   - 600.0
-- &id011
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: • Pak competes. plate prices once again posted decent gains of about
     USD 13/LDT towards the end of the week.
   unit: usd
   values:
   - 13.0
-- &id012
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: firming of international steel rates to the tune of about 2% - the
     overall business outlook across
   unit: pct
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: of any further deals being done below USD 500/LDT, as competing markets
     inch on higher.
   unit: usd
   values:
   - 500.0
-- &id014
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: For week 37 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -155,8 +141,7 @@ numeric_observations:
   values:
   - 37.0
   - 2023.0
-- &id015
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 1 India Improving 530 / LDT 550 / LDT 570 / LDT
   unit: null
@@ -165,8 +150,7 @@ numeric_observations:
   - 530.0
   - 550.0
   - 570.0
-- &id016
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -175,8 +159,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id017
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -185,8 +168,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id018
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
   unit: null
@@ -195,87 +177,76 @@ numeric_observations:
   - 300.0
   - 310.0
   - 320.0
-- &id019
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: '- below the USD 500/LDT mark, when that is clearly not the case, especially
     as vessels are'
   unit: usd
   values:
   - 500.0
-- &id021
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: the Bangladeshi Taka continues to gradually approach a record BDT 110
     against the U.S.
   unit: null
   values:
   - 110.0
-- &id022
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Dollar, as it ended the week at levels just in excess of BDT 109.5X.
   unit: null
   values:
   - 109.5
-- &id023
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: particularly, favoured container vessels that were committed into the
     high USD 500s/LDT.
   unit: usd
   values:
   - 500.0
-- &id025
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: addition to global steel prices that fiIrmNedD abIouAt 2 % in value
     during the week) causing
   unit: pct
   values:
   - 2.0
-- &id026
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: domestic plates to gain about USD 13/LDT as the week ended, in addition
     to the Indian
   unit: usd
   values:
   - 13.0
-- &id027
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Rupee that is now back down towards the R s. 83 mark against the U.S.
     Dollar, leaving the
   unit: null
   values:
   - 83.0
-- &id028
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: decent improvement from PKR 301 to mid PKR 296s against the U.S. Dollar
     (especially
@@ -283,16 +254,14 @@ numeric_observations:
   values:
   - 301.0
   - 296.0
-- &id030
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: verge of breaching TRY 27 against U.S. Dollar - as it ends the week
     at RY 26.97.
@@ -300,24 +269,21 @@ numeric_observations:
   values:
   - 27.0
   - 26.97
-- &id032
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Pakistani market), it maybe that the variance in prices will likely
     give prospective Owners, TRY 27?
   unit: null
   values:
   - 27.0
-- &id033
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line:  The largest seed in the world is the double coconut. It measures
     up to 1.6 feet (50 cm) around the middle.
@@ -325,8 +291,7 @@ numeric_observations:
   values:
   - 1.6
   - 50.0
-- &id035
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 02 - Mahatma Gandhi Jayanthi September 14 - September 20
   unit: null
@@ -334,8 +299,7 @@ numeric_observations:
   - 2.0
   - 14.0
   - 20.0
-- &id036
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 24 - Vijaya Dashami September 26 - October 05
   unit: null
@@ -343,8 +307,7 @@ numeric_observations:
   - 24.0
   - 26.0
   - 5.0
-- &id037
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 14 - October
     20
@@ -353,16 +316,14 @@ numeric_observations:
   - 31.0
   - 14.0
   - 20.0
-- &id038
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 26 - November 03
   unit: null
   values:
   - 26.0
   - 3.0
-- &id039
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: September 28 - Eid-e-Milad-um-Nami September 14 - September 17
   unit: null
@@ -370,8 +331,7 @@ numeric_observations:
   - 28.0
   - 14.0
   - 17.0
-- &id040
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 24 - Durga Puja September 08 - October 01
   unit: null
@@ -379,24 +339,21 @@ numeric_observations:
   - 24.0
   - 8.0
   - 1.0
-- &id041
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 13 - October 16
   unit: null
   values:
   - 13.0
   - 16.0
-- &id042
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 27 - October 30
   unit: null
   values:
   - 27.0
   - 30.0
-- &id043
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um- No
     Holidays in September
@@ -404,8 +361,7 @@ numeric_observations:
   values:
   - 29.0
   - 28.0
-- &id044
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 01 - 06 - National Holiday Nami October 29 - Republic Day
   unit: null
@@ -413,31 +369,27 @@ numeric_observations:
   - 1.0
   - 6.0
   - 29.0
-- &id045
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day
   unit: null
   values:
   - 24.0
-- &id046
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id048
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 1 Aldo 1,740 Supply Beached September 14
   unit: null
@@ -445,8 +397,7 @@ numeric_observations:
   - 1.0
   - 1740.0
   - 14.0
-- &id049
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 Insta 3,000 Diving Vessel Beached September 15
   unit: null
@@ -454,8 +405,7 @@ numeric_observations:
   - 2.0
   - 3000.0
   - 15.0
-- &id050
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 3 Zefyros Reefer 4,731 Reefer Beached September 08
   unit: null
@@ -463,23 +413,20 @@ numeric_observations:
   - 3.0
   - 4731.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 9,471
   unit: null
   values:
   - 9471.0
-- &id052
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id053
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 1 Abdullah 7,528 Bulk Carrier Beached September 11
   unit: null
@@ -487,8 +434,7 @@ numeric_observations:
   - 1.0
   - 7528.0
   - 11.0
-- &id054
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 Ang Fan 10,934 Bulk Carrier Beached September 11
   unit: null
@@ -496,8 +442,7 @@ numeric_observations:
   - 2.0
   - 10934.0
   - 11.0
-- &id055
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 3 Dapitan Bay 1 5,249 RoRo / Cargo Beached September 11
   unit: null
@@ -506,8 +451,7 @@ numeric_observations:
   - 1.0
   - 5249.0
   - 11.0
-- &id056
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 4 Hally 9,379 Bulk Carrier Arrived September 08
   unit: null
@@ -515,8 +459,7 @@ numeric_observations:
   - 4.0
   - 9379.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 5 Kema 2,950 General Cargo Arrived September 07
   unit: null
@@ -524,8 +467,7 @@ numeric_observations:
   - 5.0
   - 2950.0
   - 7.0
-- &id058
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 6 Nautica Muar (Under Tow) 12,126 Tanker Arrived September 09
   unit: null
@@ -533,8 +475,7 @@ numeric_observations:
   - 6.0
   - 12126.0
   - 9.0
-- &id059
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 7 Patcharawadee 11 1,061 LPG Beached September 14
   unit: null
@@ -543,8 +484,7 @@ numeric_observations:
   - 11.0
   - 1061.0
   - 14.0
-- &id060
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 8 Young Sheng 19 1,118 Tanker Beached September 13
   unit: null
@@ -553,23 +493,20 @@ numeric_observations:
   - 19.0
   - 1118.0
   - 13.0
-- &id061
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 50,346
   unit: null
   values:
   - 50346.0
-- &id062
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id063
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 1 Gloria 1 11,259 Bulk Carrier Beached September 13
   unit: null
@@ -578,8 +515,7 @@ numeric_observations:
   - 1.0
   - 11259.0
   - 13.0
-- &id064
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 Sotiria 11,608 Bulk Carrier Arrived September 11
   unit: null
@@ -587,15 +523,13 @@ numeric_observations:
   - 2.0
   - 11608.0
   - 11.0
-- &id065
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 22,867
   unit: null
   values:
   - 22867.0
-- &id066
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -604,8 +538,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id067
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -614,8 +547,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id068
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -624,8 +556,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id069
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -634,8 +565,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id070
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -644,8 +574,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id071
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /9 /2 0 2 3
   unit: null
@@ -655,8 +584,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id072
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 0 /2 0 2 3
   unit: null
@@ -666,8 +594,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id073
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 1 /2 0 2 3
   unit: null
@@ -678,8 +605,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id074
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 2 /2 0 2 3
   unit: null
@@ -690,8 +616,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id075
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 3 /2 0 2 3
   unit: null
@@ -702,8 +627,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id076
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 4 /2 0 2 3
   unit: null
@@ -714,8 +638,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id077
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 9 /1 5 /2 0 2 3
   unit: null
@@ -726,8 +649,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 8 .6 0
   unit: null
@@ -735,8 +657,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 6.0
-- &id079
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 8 .7 2
   unit: null
@@ -745,8 +666,7 @@ numeric_observations:
   - 8.0
   - 7.0
   - 2.0
-- &id080
-  section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+- section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
   section_type: linked_pdf
   source_line: 2 8 .2 2
   unit: null
@@ -953,86 +873,652 @@ section_count: 3
 signals:
   numeric_observation_count: 103
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Some of the recent container sales (in particular) have caught the
+      eyes of many in the industry, especially as levels gradually edge back up into
+      the high USD 500s/LDT (approaching USD 600/LDT), thereby providing prospective
+      Owners of vintage units, food for t
+    unit: usd
+    values:
+    - 500.0
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: India certainly has been the chief driver behind much of the recent
+      activity, as domestic steel plate prices once again posted decent gains of about
+      USD 13/LDT towards the end of the week. Moreover, following the conclusion of
+      a successful G20 summit - in addi
+    unit: pct
+    values:
+    - 13.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: Bangladesh remains completely out of the buying, with levels down
+      and L/C & bank approvals once again hard to come by. A decent number of well-priced
+      Chinese-owned vessels have also been delivered and beached over the summer /
+      monsoon months, but there seems l
+    unit: usd
+    values:
+    - 500.0
+  - section: Main
+    section_type: null
+    source_line: For week 37 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 37.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-09-18_gms-week-37-food-for-thought_img1_17092023cg_db02389bf5c4.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -9.0
+    - -18.0
+    - 37.0
+    - 17092023.0
+    - 2389.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: September 15tht, 2023 "You've got to get up every morning with determination,
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Volume 253, Issue 1100 if you're going to go to bed with satisfaction."
+    unit: null
+    values:
+    - 253.0
+    - 1100.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Week 37
+    unit: null
+    values:
+    - 37.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: • High 500s/LDT. especially as levels gradually edge back up into
+      the high USD 500s/LDT (approaching USD
+    unit: usd
+    values:
+    - 500.0
+    - 500.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 600/LDT), thereby providing prospective Owners of vintage units,
+      food for thought about the
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: • Pak competes. plate prices once again posted decent gains of about
+      USD 13/LDT towards the end of the week.
+    unit: usd
+    values:
+    - 13.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: firming of international steel rates to the tune of about 2% - the
+      overall business outlook across
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: of any further deals being done below USD 500/LDT, as competing markets
+      inch on higher.
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: For week 37 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 37.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Improving 530 / LDT 550 / LDT 570 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 530.0
+    - 550.0
+    - 570.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 300.0
+    - 310.0
+    - 320.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: '- below the USD 500/LDT mark, when that is clearly not the case,
+      especially as vessels are'
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: the Bangladeshi Taka continues to gradually approach a record BDT
+      110 against the U.S.
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Dollar, as it ended the week at levels just in excess of BDT 109.5X.
+    unit: null
+    values:
+    - 109.5
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: particularly, favoured container vessels that were committed into
+      the high USD 500s/LDT.
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: addition to global steel prices that fiIrmNedD abIouAt 2 % in value
+      during the week) causing
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: domestic plates to gain about USD 13/LDT as the week ended, in addition
+      to the Indian
+    unit: usd
+    values:
+    - 13.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Rupee that is now back down towards the R s. 83 mark against the
+      U.S. Dollar, leaving the
+    unit: null
+    values:
+    - 83.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: decent improvement from PKR 301 to mid PKR 296s against the U.S.
+      Dollar (especially
+    unit: null
+    values:
+    - 301.0
+    - 296.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: verge of breaching TRY 27 against U.S. Dollar - as it ends the week
+      at RY 26.97.
+    unit: null
+    values:
+    - 27.0
+    - 26.97
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani market), it maybe that the variance in prices will likely
+      give prospective Owners, TRY 27?
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line:  The largest seed in the world is the double coconut. It measures
+      up to 1.6 feet (50 cm) around the middle.
+    unit: null
+    values:
+    - 1.6
+    - 50.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 02 - Mahatma Gandhi Jayanthi September 14 - September 20
+    unit: null
+    values:
+    - 2.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Vijaya Dashami September 26 - October 05
+    unit: null
+    values:
+    - 24.0
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 14 - October
+      20
+    unit: null
+    values:
+    - 31.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 26 - November 03
+    unit: null
+    values:
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: September 28 - Eid-e-Milad-um-Nami September 14 - September 17
+    unit: null
+    values:
+    - 28.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Durga Puja September 08 - October 01
+    unit: null
+    values:
+    - 24.0
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 13 - October 16
+    unit: null
+    values:
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 27 - October 30
+    unit: null
+    values:
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um-
+      No Holidays in September
+    unit: null
+    values:
+    - 29.0
+    - 28.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 01 - 06 - National Holiday Nami October 29 - Republic Day
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 29.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 1 Aldo 1,740 Supply Beached September 14
+    unit: null
+    values:
+    - 1.0
+    - 1740.0
+    - 14.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 Insta 3,000 Diving Vessel Beached September 15
+    unit: null
+    values:
+    - 2.0
+    - 3000.0
+    - 15.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 3 Zefyros Reefer 4,731 Reefer Beached September 08
+    unit: null
+    values:
+    - 3.0
+    - 4731.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 9,471
+    unit: null
+    values:
+    - 9471.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 1 Abdullah 7,528 Bulk Carrier Beached September 11
+    unit: null
+    values:
+    - 1.0
+    - 7528.0
+    - 11.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ang Fan 10,934 Bulk Carrier Beached September 11
+    unit: null
+    values:
+    - 2.0
+    - 10934.0
+    - 11.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 3 Dapitan Bay 1 5,249 RoRo / Cargo Beached September 11
+    unit: null
+    values:
+    - 3.0
+    - 1.0
+    - 5249.0
+    - 11.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 4 Hally 9,379 Bulk Carrier Arrived September 08
+    unit: null
+    values:
+    - 4.0
+    - 9379.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 5 Kema 2,950 General Cargo Arrived September 07
+    unit: null
+    values:
+    - 5.0
+    - 2950.0
+    - 7.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 6 Nautica Muar (Under Tow) 12,126 Tanker Arrived September 09
+    unit: null
+    values:
+    - 6.0
+    - 12126.0
+    - 9.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 7 Patcharawadee 11 1,061 LPG Beached September 14
+    unit: null
+    values:
+    - 7.0
+    - 11.0
+    - 1061.0
+    - 14.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 8 Young Sheng 19 1,118 Tanker Beached September 13
+    unit: null
+    values:
+    - 8.0
+    - 19.0
+    - 1118.0
+    - 13.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 50,346
+    unit: null
+    values:
+    - 50346.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 1 Gloria 1 11,259 Bulk Carrier Beached September 13
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 11259.0
+    - 13.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sotiria 11,608 Bulk Carrier Arrived September 11
+    unit: null
+    values:
+    - 2.0
+    - 11608.0
+    - 11.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 22,867
+    unit: null
+    values:
+    - 22867.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /9 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 9.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 0 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 1 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 2 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 3 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 3.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 4 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 4.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 9 /1 5 /2 0 2 3
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 5.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 8 .6 0
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 6.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 8 .7 2
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf'
+    section_type: linked_pdf
+    source_line: 2 8 .2 2
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 2.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-09-18_gms-week-37-food-for-thought.html
 source_stem: 2023-09-18_gms-week-37-food-for-thought

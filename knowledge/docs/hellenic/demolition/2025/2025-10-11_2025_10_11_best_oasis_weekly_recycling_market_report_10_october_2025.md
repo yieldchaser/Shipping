@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 27
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 11/10/2025
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 11.0
   - 10.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: (04 OCTOBER - 10 OCTOBER) 2025
   unit: null
@@ -45,8 +43,7 @@ numeric_observations:
   - 4.0
   - 10.0
   - 2025.0
-- &id003
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -54,8 +51,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -63,8 +59,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: Buyers remain active, focusing mainly on tankers and bulkers in the
     7,000-10,000 LDT
@@ -72,24 +67,21 @@ numeric_observations:
   values:
   - 7000.0
   - -10000.0
-- &id006
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: Import prices have improved by around USD 5 this week, while local
     prices remain
   unit: usd
   values:
   - 5.0
-- &id007
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: Recent data shows that around 30 percent of the global container fleet,
     measured by
   unit: null
   values:
   - 30.0
-- &id008
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (64.44 65.04 ) +0.6'
   unit: null
@@ -97,8 +89,7 @@ numeric_observations:
   - 64.44
   - 65.04
   - 0.6
-- &id009
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (60.83 61.39) +0.56'
   unit: null
@@ -106,8 +97,7 @@ numeric_observations:
   - 60.83
   - 61.39
   - 0.56
-- &id010
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 88.71 This Week : 122.03 This Week : 283.45 This Week
     : 41.81'
@@ -117,8 +107,7 @@ numeric_observations:
   - 122.03
   - 283.45
   - 41.81
-- &id011
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 88.78 Previous Week : 121.70 Previous Week : 282.53
     Previous Week : 41.68'
@@ -128,8 +117,7 @@ numeric_observations:
   - 121.7
   - 282.53
   - 41.68
-- &id012
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: 'Gain : 0.07 Loss : 0.33 Loss : 0.92 Loss : 0.13'
   unit: null
@@ -138,8 +126,7 @@ numeric_observations:
   - 0.33
   - 0.92
   - 0.13
-- &id013
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
   unit: null
@@ -148,16 +135,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id014
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id015
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: INDIA 355 365 (1.41 %)
   unit: pct
@@ -165,8 +150,7 @@ numeric_observations:
   - 355.0
   - 365.0
   - 1.41
-- &id016
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 356 366 (1.97 %)
   unit: pct
@@ -174,8 +158,7 @@ numeric_observations:
   - 356.0
   - 366.0
   - 1.97
-- &id017
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 355 365 (1.41 %)
   unit: pct
@@ -183,8 +166,7 @@ numeric_observations:
   - 355.0
   - 365.0
   - 1.41
-- &id018
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: TURKEY 350 370 (1.41 %)
   unit: pct
@@ -192,8 +174,7 @@ numeric_observations:
   - 350.0
   - 370.0
   - 1.41
-- &id019
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: INDIA SOFT 412 398 383 (1.24 %)
   unit: pct
@@ -202,8 +183,7 @@ numeric_observations:
   - 398.0
   - 383.0
   - 1.24
-- &id020
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH SOFT 441 431 395 ( 3.90 %)
   unit: pct
@@ -212,8 +192,7 @@ numeric_observations:
   - 431.0
   - 395.0
   - 3.9
-- &id021
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN FIRM 415 400 390 (0.42 %)
   unit: pct
@@ -222,8 +201,7 @@ numeric_observations:
   - 400.0
   - 390.0
   - 0.42
-- &id022
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: TURKEY FIRM 270 260 250 (0)
   unit: null
@@ -231,37 +209,32 @@ numeric_observations:
   - 270.0
   - 260.0
   - 250.0
-- &id023
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: NORTHERN ENDEAVOR FPSO 26,500 DELIVERED DENMARK UNDISCLOSED
   unit: null
   values:
   - 26500.0
-- &id024
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: BOW CEDAR TANKER 11,043 DELIVERED ALANG, INDIA 937
   unit: null
   values:
   - 11043.0
   - 937.0
-- &id025
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: TG ARKTIKA BULKER 8,110 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: tonnage
   values:
   - 8110.0
-- &id026
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: NORTH VIKING BULKER 1,428 DELIVERED DENMARK UNDISCLOSED
   unit: null
   values:
   - 1428.0
-- &id027
-  section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+- section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
   section_type: linked_pdf
   source_line: EENA TWEEN 1,444 DELIVERED GADANI, PAKISTAN UNDISCLOSED
   unit: null
@@ -275,33 +248,219 @@ section_count: 2
 signals:
   numeric_observation_count: 27
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 11/10/2025
+    unit: null
+    values:
+    - 11.0
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: (04 OCTOBER - 10 OCTOBER) 2025
+    unit: null
+    values:
+    - 4.0
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: Buyers remain active, focusing mainly on tankers and bulkers in the
+      7,000-10,000 LDT
+    unit: null
+    values:
+    - 7000.0
+    - -10000.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: Import prices have improved by around USD 5 this week, while local
+      prices remain
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: Recent data shows that around 30 percent of the global container
+      fleet, measured by
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (64.44 65.04 ) +0.6'
+    unit: null
+    values:
+    - 64.44
+    - 65.04
+    - 0.6
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (60.83 61.39) +0.56'
+    unit: null
+    values:
+    - 60.83
+    - 61.39
+    - 0.56
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 88.71 This Week : 122.03 This Week : 283.45 This Week
+      : 41.81'
+    unit: null
+    values:
+    - 88.71
+    - 122.03
+    - 283.45
+    - 41.81
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 88.78 Previous Week : 121.70 Previous Week : 282.53
+      Previous Week : 41.68'
+    unit: null
+    values:
+    - 88.78
+    - 121.7
+    - 282.53
+    - 41.68
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Gain : 0.07 Loss : 0.33 Loss : 0.92 Loss : 0.13'
+    unit: null
+    values:
+    - 0.07
+    - 0.33
+    - 0.92
+    - 0.13
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 355 365 (1.41 %)
+    unit: pct
+    values:
+    - 355.0
+    - 365.0
+    - 1.41
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 356 366 (1.97 %)
+    unit: pct
+    values:
+    - 356.0
+    - 366.0
+    - 1.97
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 355 365 (1.41 %)
+    unit: pct
+    values:
+    - 355.0
+    - 365.0
+    - 1.41
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 350 370 (1.41 %)
+    unit: pct
+    values:
+    - 350.0
+    - 370.0
+    - 1.41
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: INDIA SOFT 412 398 383 (1.24 %)
+    unit: pct
+    values:
+    - 412.0
+    - 398.0
+    - 383.0
+    - 1.24
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH SOFT 441 431 395 ( 3.90 %)
+    unit: pct
+    values:
+    - 441.0
+    - 431.0
+    - 395.0
+    - 3.9
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN FIRM 415 400 390 (0.42 %)
+    unit: pct
+    values:
+    - 415.0
+    - 400.0
+    - 390.0
+    - 0.42
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY FIRM 270 260 250 (0)
+    unit: null
+    values:
+    - 270.0
+    - 260.0
+    - 250.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: NORTHERN ENDEAVOR FPSO 26,500 DELIVERED DENMARK UNDISCLOSED
+    unit: null
+    values:
+    - 26500.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: BOW CEDAR TANKER 11,043 DELIVERED ALANG, INDIA 937
+    unit: null
+    values:
+    - 11043.0
+    - 937.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: TG ARKTIKA BULKER 8,110 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: tonnage
+    values:
+    - 8110.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: NORTH VIKING BULKER 1,428 DELIVERED DENMARK UNDISCLOSED
+    unit: null
+    values:
+    - 1428.0
+  - section: 'Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf'
+    section_type: linked_pdf
+    source_line: EENA TWEEN 1,444 DELIVERED GADANI, PAKISTAN UNDISCLOSED
+    unit: null
+    values:
+    - 1444.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-10-11_best-oasis-weekly-recycling-market-report-10-october-2025.html
 source_stem: 2025-10-11_best-oasis-weekly-recycling-market-report-10-october-2025

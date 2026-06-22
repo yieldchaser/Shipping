@@ -29,8 +29,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Pre-MEPC 82 Briefing on black carbon, GHGs, scrubbers, noise, plastics
     & other shipping impacts
@@ -47,7 +46,13 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: Pre-MEPC 82 Briefing on black carbon, GHGs, scrubbers, noise, plastics
+      & other shipping impacts
+    unit: null
+    values:
+    - 82.0
 source: hellenic
 source_path: reports/hellenic/dry_charter/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-pl.html
 source_stem: 2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-pl

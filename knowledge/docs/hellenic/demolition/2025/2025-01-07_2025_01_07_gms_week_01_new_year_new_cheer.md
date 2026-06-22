@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 111
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As forecasted in last week's edition of the WEEKLY, 2025 seems to have
     started on an optimistic note in the ship recycling markets,with a noticeable
@@ -44,8 +43,7 @@ numeric_observations:
   - 5.0
   - 74.0
   - 4.2
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, and as reported in prior editions, news of several large
     LDT wet units (including those with questionable / sanctioned backgrounds) were
@@ -56,8 +54,7 @@ numeric_observations:
   - 40.0
   - 4.0
   - 2024.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, as progress has been made in Bangladesh over the last year
     in upgrading facilities ahead of the HKC's entry into force by the middle of this
@@ -68,8 +65,7 @@ numeric_observations:
   - 2024.0
   - 2024.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 1 of 2025, GMS Market Rankings / vessel indications are as
     below
@@ -77,8 +73,7 @@ numeric_observations:
   values:
   - 1.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-01-07_gms-week-01-new-year-new-cheer_img1_0701222_520134f9da28.jpg'
   unit: null
@@ -90,39 +85,34 @@ numeric_observations:
   - 701222.0
   - 520134.0
   - 8.0
-- &id006
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: January 3rd, 2025
   unit: null
   values:
   - 3.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Week 1 Everything is email."
   unit: null
   values:
   - 1.0
-- &id008
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Volume 268, Issue 1167
   unit: null
   values:
   - 268.0
   - 1167.0
-- &id009
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: dither in the supply of vessels seen across 2024. Although the turn
     of the year seems to be bringing
   unit: null
   values:
   - 2024.0
-- &id010
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: U.S. saw oil prices surge this week, adding another 5% and closing
     the week at nearly USD 74 /
@@ -130,96 +120,84 @@ numeric_observations:
   values:
   - 5.0
   - 74.0
-- &id011
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: ended with a surging of about 4.2% that could potentially delay the
     inflow of tonnage.
   unit: pct
   values:
   - 4.2
-- &id012
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: a +40K LDT asset that requires greater financing and ability to endure
     the fluctuations of the market
   unit: null
   values:
   - 40.0
-- &id013
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: over longer cutting periods, when compared to the smaller sub-4K LDT
     units that have been the
   unit: null
   values:
   - 4.0
-- &id014
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: primary diet through 2024 as stricter L/C and banking limits on larger
     U.S. Dollar value transactions
   unit: null
   values:
   - 2024.0
-- &id015
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: / view the Weekly off towards the end of 2024 and hope for an increased
     bullishness in recycling markets once the pro-
   unit: null
   values:
   - 2024.0
-- &id016
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: domestic inventories in Alang (and even Gadani) across 2024, one that
     has seen a reflection in the
   unit: null
   values:
   - 2024.0
-- &id017
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: week. With Supply expecting to increase going into the 2025 (and hopefully
     beyond), we may not
   unit: null
   values:
   - 2025.0
-- &id018
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 025 = 2024?
   unit: null
   values:
   - 25.0
   - 2024.0
-- &id020
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Although 2024 delivered an uncharacteristically muted year and especially
     Q4 in Chattogram, any
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: real momentum has failed to take hold under the interim government
     since July 2024 when the
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 'return to prices closer to the elusive USD 500/Ton mark remains out
     of reach of the #1 market in'
@@ -227,8 +205,7 @@ numeric_observations:
   values:
   - 500.0
   - 1.0
-- &id023
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: calamitous decline in the middle of 2024 that saw the Taka teetering
     in the high BDT 119s against
@@ -236,63 +213,55 @@ numeric_observations:
   values:
   - 2024.0
   - 119.0
-- &id024
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: the Taka spiked to a record BDT 121.90, before retreating and winding
     the week down at BDT
   unit: null
   values:
   - 121.9
-- &id025
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 120.01. Local steel plate prices too have added another mountain to
     trudge as they have not only
   unit: null
   values:
   - 120.01
-- &id026
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: remaining stagnated at a USD 521/Ton, crippling the ability of local
     recyclers to offer on vessels
   unit: usd
   values:
   - 521.0
-- &id027
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: approaching the coveted USD 5XX/Ton.
   unit: usd
   values:
   - 5.0
-- &id028
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Q1 of 2025 isn't forecasted to offer as much hope as expected by the
     nation's leading economists as
   unit: null
   values:
   - 2025.0
-- &id029
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: see a muted start to, if not all of the 2025. Even Bangladesh's loan
     experiment with the IMF that
   unit: null
   values:
   - 2025.0
-- &id030
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Bangladesh as bulker THREE STAR (7,626 LDT) found a spot on Chattogram's
     beaches in the
   unit: null
   values:
   - 7626.0
-- &id031
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 2025 is last week's arrival that is still idling at anchorage awaiting
     her turn on the next tide. 2025
@@ -300,40 +269,35 @@ numeric_observations:
   values:
   - 2025.0
   - 2025.0
-- &id032
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: THREE STAR Bulker 7,626 USD 470/LT LDT
   unit: usd
   values:
   - 7626.0
   - 470.0
-- &id033
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Despite being the most aggressive of all ship recycling destinations
     at the start of 2025, Alang
   unit: null
   values:
   - 2025.0
-- &id035
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: suffered in kind as not only did Indian plate prices suffer catastrophic
     declines across 2024 resulting
   unit: null
   values:
   - 2024.0
-- &id036
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: this week, declining another USD 1/Ton and end the week at USD 460.64/Ton.
     Yet, it was the Indian
@@ -341,23 +305,20 @@ numeric_observations:
   values:
   - 1.0
   - 460.64
-- &id037
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 86 against the U.S. Dollar, it re-adjusted itself by the time the week
     ended, closing it out at another
   unit: null
   values:
   - 86.0
-- &id038
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: record Rs. 85.77.
   unit: null
   values:
   - 85.77
-- &id039
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: for FY 2025 - 2026 that is due on February 1, 2025, remains omnipresent,
     especially as the business-
@@ -367,24 +328,21 @@ numeric_observations:
   - 2026.0
   - 1.0
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: that were concluded in November 2024, further helping Alang recyclers
     maintain local pricing
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: the calamitous state of 2024, which only speaks volumes of the ability
     of this market to sustain itself
   unit: null
   values:
   - 2024.0
-- &id042
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 2024 and even this week, where tanker RIALTO (9,711 LDT) and another
     private container was sold
@@ -392,8 +350,7 @@ numeric_observations:
   values:
   - 2024.0
   - 9711.0
-- &id043
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: all of its competitors as another 3 vessel / 18K LDT arrived the nation's
     waterfront this week.
@@ -401,32 +358,28 @@ numeric_observations:
   values:
   - 3.0
   - 18.0
-- &id044
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: RIALTO Tanker 9,711 USD 475/LT LDT
   unit: usd
   values:
   - 9711.0
   - 475.0
-- &id045
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: of December 2024 into Gadani, these proposals have yet to translate
     into any finalized deals as yet
   unit: null
   values:
   - 2024.0
-- &id047
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: plate prices gradually slip from the highs of USD 765/Ton to a destitute
     USD 659.37 (yet highest in
@@ -434,87 +387,76 @@ numeric_observations:
   values:
   - 765.0
   - 659.37
-- &id048
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: another 15 basis points against the U.S. Dollar, down to PKR 278.60.
   unit: null
   values:
   - 15.0
   - 278.6
-- &id049
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Buyers ready to acquire into the ongoing performance of Gadani ship
     recyclers throughout all of 2024, where local port
   unit: null
   values:
   - 2024.0
-- &id050
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: position eventually ended the 3rd straight month and the year at large,
     on an empty note. While a
   unit: null
   values:
   - 3.0
-- &id051
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: surprise announcement of the World Bank granting a USD 2 Billion loan
     package to the Pakistan
   unit: usd
   values:
   - 2.0
-- &id052
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: and should all of the above come optimistically to fruition, 2025 might
     just turn out to be one of
   unit: null
   values:
   - 2025.0
-- &id053
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: With the new year now in tow, January has started off just as tired
     as 2024 ended for Aliaga's ship
   unit: null
   values:
   - 2024.0
-- &id055
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: was the Turkish Lira that continues to take centre stage with another
     reported 38 basis point drop
   unit: null
   values:
   - 38.0
-- &id056
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar, wrapping up the week at TRY 35.65.
   unit: null
   values:
   - 35.65
-- &id057
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: supply, which stands to increase globally through 2025 might just provide
     the parachute this market
   unit: null
   values:
   - 2025.0
-- &id058
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: For Week 1 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -522,8 +464,7 @@ numeric_observations:
   values:
   - 1.0
   - 2025.0
-- &id059
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -532,8 +473,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id060
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -542,8 +482,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id061
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -552,8 +491,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id062
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
   unit: null
@@ -562,63 +500,55 @@ numeric_observations:
   - 310.0
   - 320.0
   - 330.0
-- &id063
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: of optimism live 5 to 15 percent longer than people who are more pessimistic.
   unit: null
   values:
   - 5.0
   - 15.0
-- &id065
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line:  In 2014, the authorities in the Himalayan region of Kashmir, at the
     center of tense relations between India and Pakistan,
   unit: null
   values:
   - 2014.0
-- &id066
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line:  One of the earliest accounts of kissing was etched into the Barton
     Cylinder, a clay tablet that dates to around 2400 B.C. It was
   unit: null
   values:
   - 2400.0
-- &id067
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: unearthed in the ancient Sumerian city of Nippur in 1899.
   unit: null
   values:
   - 1899.0
-- &id068
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line:  Miami International Airport is the port of entry for about 90 percent
     of the nation's imported cut flowers.
   unit: null
   values:
   - 90.0
-- &id069
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line:  Before France abolished capital punishment in 1981, executions were
     still carried out by guillotine, as they had been since the
   unit: null
   values:
   - 1981.0
-- &id070
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: January 14 - Pongal December 29 - January 06
   unit: null
@@ -626,8 +556,7 @@ numeric_observations:
   - 14.0
   - 29.0
   - 6.0
-- &id071
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: January 25 - Republic Day January 11 - January 18
   unit: null
@@ -635,24 +564,21 @@ numeric_observations:
   - 25.0
   - 11.0
   - 18.0
-- &id072
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: No holidays in January January 02 - January 05
   unit: null
   values:
   - 2.0
   - 5.0
-- &id073
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: January 15 - January 18
   unit: null
   values:
   - 15.0
   - 18.0
-- &id074
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: January 28 - February 04 - Chinese No holidays in January No more holidays
     in January
@@ -660,24 +586,21 @@ numeric_observations:
   values:
   - 28.0
   - 4.0
-- &id075
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id076
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 03, 2025
   unit: null
   values:
   - 3.0
   - 2025.0
-- &id077
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 1 Bow Clipper 11,277 Tanker Arrived January 03
   unit: null
@@ -685,8 +608,7 @@ numeric_observations:
   - 1.0
   - 11277.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 2 Liya 2,287 Reefer Delivered January 03
   unit: null
@@ -694,8 +616,7 @@ numeric_observations:
   - 2.0
   - 2287.0
   - 3.0
-- &id079
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: 3 MSC Esha F 4,950 Container Arrived December 29
   unit: null
@@ -703,8 +624,7 @@ numeric_observations:
   - 3.0
   - 4950.0
   - 29.0
-- &id080
-  section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+- section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 18,514
   unit: null
@@ -972,86 +892,607 @@ section_count: 3
 signals:
   numeric_observation_count: 111
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As forecasted in last week's edition of the WEEKLY, 2025 seems to
+      have started on an optimistic note in the ship recycling markets,with a noticeable
+      willingness to buy from various buyers across the Indian sub-continent board
+      who have now seen their plots empt
+    unit: worldscale_pct
+    values:
+    - 2025.0
+    - 2024.0
+    - 5.0
+    - 74.0
+    - 4.2
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, and as reported in prior editions, news of several large
+      LDT wet units (including those with questionable / sanctioned backgrounds) were
+      seen making the rounds on the back of which, several VLCCs are reported to have
+      been concluded over preceding we
+    unit: null
+    values:
+    - 40.0
+    - 4.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, as progress has been made in Bangladesh over the last
+      year in upgrading facilities ahead of the HKC's entry into force by the middle
+      of this year, four yards managed to obtain their HKC approvals with several
+      more reportedly set to follow in the mon
+    unit: null
+    values:
+    - 2024.0
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 1 of 2025, GMS Market Rankings / vessel indications are
+      as below
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-01-07_gms-week-01-new-year-new-cheer_img1_0701222_520134f9da28.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -1.0
+    - -7.0
+    - 1.0
+    - 701222.0
+    - 520134.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: January 3rd, 2025
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Week 1 Everything is email."
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 268, Issue 1167
+    unit: null
+    values:
+    - 268.0
+    - 1167.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: dither in the supply of vessels seen across 2024. Although the turn
+      of the year seems to be bringing
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: U.S. saw oil prices surge this week, adding another 5% and closing
+      the week at nearly USD 74 /
+    unit: pct
+    values:
+    - 5.0
+    - 74.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: ended with a surging of about 4.2% that could potentially delay the
+      inflow of tonnage.
+    unit: pct
+    values:
+    - 4.2
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: a +40K LDT asset that requires greater financing and ability to endure
+      the fluctuations of the market
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: over longer cutting periods, when compared to the smaller sub-4K
+      LDT units that have been the
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: primary diet through 2024 as stricter L/C and banking limits on larger
+      U.S. Dollar value transactions
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: / view the Weekly off towards the end of 2024 and hope for an increased
+      bullishness in recycling markets once the pro-
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: domestic inventories in Alang (and even Gadani) across 2024, one
+      that has seen a reflection in the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: week. With Supply expecting to increase going into the 2025 (and
+      hopefully beyond), we may not
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 025 = 2024?
+    unit: null
+    values:
+    - 25.0
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Although 2024 delivered an uncharacteristically muted year and especially
+      Q4 in Chattogram, any
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: real momentum has failed to take hold under the interim government
+      since July 2024 when the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 'return to prices closer to the elusive USD 500/Ton mark remains
+      out of reach of the #1 market in'
+    unit: usd
+    values:
+    - 500.0
+    - 1.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: calamitous decline in the middle of 2024 that saw the Taka teetering
+      in the high BDT 119s against
+    unit: null
+    values:
+    - 2024.0
+    - 119.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: the Taka spiked to a record BDT 121.90, before retreating and winding
+      the week down at BDT
+    unit: null
+    values:
+    - 121.9
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 120.01. Local steel plate prices too have added another mountain
+      to trudge as they have not only
+    unit: null
+    values:
+    - 120.01
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: remaining stagnated at a USD 521/Ton, crippling the ability of local
+      recyclers to offer on vessels
+    unit: usd
+    values:
+    - 521.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: approaching the coveted USD 5XX/Ton.
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Q1 of 2025 isn't forecasted to offer as much hope as expected by
+      the nation's leading economists as
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: see a muted start to, if not all of the 2025. Even Bangladesh's loan
+      experiment with the IMF that
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh as bulker THREE STAR (7,626 LDT) found a spot on Chattogram's
+      beaches in the
+    unit: null
+    values:
+    - 7626.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 2025 is last week's arrival that is still idling at anchorage awaiting
+      her turn on the next tide. 2025
+    unit: null
+    values:
+    - 2025.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: THREE STAR Bulker 7,626 USD 470/LT LDT
+    unit: usd
+    values:
+    - 7626.0
+    - 470.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Despite being the most aggressive of all ship recycling destinations
+      at the start of 2025, Alang
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: suffered in kind as not only did Indian plate prices suffer catastrophic
+      declines across 2024 resulting
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: this week, declining another USD 1/Ton and end the week at USD 460.64/Ton.
+      Yet, it was the Indian
+    unit: usd
+    values:
+    - 1.0
+    - 460.64
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 86 against the U.S. Dollar, it re-adjusted itself by the time the
+      week ended, closing it out at another
+    unit: null
+    values:
+    - 86.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: record Rs. 85.77.
+    unit: null
+    values:
+    - 85.77
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: for FY 2025 - 2026 that is due on February 1, 2025, remains omnipresent,
+      especially as the business-
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: that were concluded in November 2024, further helping Alang recyclers
+      maintain local pricing
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: the calamitous state of 2024, which only speaks volumes of the ability
+      of this market to sustain itself
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 2024 and even this week, where tanker RIALTO (9,711 LDT) and another
+      private container was sold
+    unit: null
+    values:
+    - 2024.0
+    - 9711.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: all of its competitors as another 3 vessel / 18K LDT arrived the
+      nation's waterfront this week.
+    unit: null
+    values:
+    - 3.0
+    - 18.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: RIALTO Tanker 9,711 USD 475/LT LDT
+    unit: usd
+    values:
+    - 9711.0
+    - 475.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: of December 2024 into Gadani, these proposals have yet to translate
+      into any finalized deals as yet
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: plate prices gradually slip from the highs of USD 765/Ton to a destitute
+      USD 659.37 (yet highest in
+    unit: usd
+    values:
+    - 765.0
+    - 659.37
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: another 15 basis points against the U.S. Dollar, down to PKR 278.60.
+    unit: null
+    values:
+    - 15.0
+    - 278.6
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Buyers ready to acquire into the ongoing performance of Gadani ship
+      recyclers throughout all of 2024, where local port
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: position eventually ended the 3rd straight month and the year at
+      large, on an empty note. While a
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: surprise announcement of the World Bank granting a USD 2 Billion
+      loan package to the Pakistan
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: and should all of the above come optimistically to fruition, 2025
+      might just turn out to be one of
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: With the new year now in tow, January has started off just as tired
+      as 2024 ended for Aliaga's ship
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: was the Turkish Lira that continues to take centre stage with another
+      reported 38 basis point drop
+    unit: null
+    values:
+    - 38.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar, wrapping up the week at TRY 35.65.
+    unit: null
+    values:
+    - 35.65
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: supply, which stands to increase globally through 2025 might just
+      provide the parachute this market
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: For Week 1 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 310.0
+    - 320.0
+    - 330.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: of optimism live 5 to 15 percent longer than people who are more
+      pessimistic.
+    unit: null
+    values:
+    - 5.0
+    - 15.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line:  In 2014, the authorities in the Himalayan region of Kashmir, at
+      the center of tense relations between India and Pakistan,
+    unit: null
+    values:
+    - 2014.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line:  One of the earliest accounts of kissing was etched into the Barton
+      Cylinder, a clay tablet that dates to around 2400 B.C. It was
+    unit: null
+    values:
+    - 2400.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: unearthed in the ancient Sumerian city of Nippur in 1899.
+    unit: null
+    values:
+    - 1899.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line:  Miami International Airport is the port of entry for about 90 percent
+      of the nation's imported cut flowers.
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line:  Before France abolished capital punishment in 1981, executions
+      were still carried out by guillotine, as they had been since the
+    unit: null
+    values:
+    - 1981.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: January 14 - Pongal December 29 - January 06
+    unit: null
+    values:
+    - 14.0
+    - 29.0
+    - 6.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: January 25 - Republic Day January 11 - January 18
+    unit: null
+    values:
+    - 25.0
+    - 11.0
+    - 18.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in January January 02 - January 05
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: January 15 - January 18
+    unit: null
+    values:
+    - 15.0
+    - 18.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: January 28 - February 04 - Chinese No holidays in January No more
+      holidays in January
+    unit: null
+    values:
+    - 28.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 03, 2025
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bow Clipper 11,277 Tanker Arrived January 03
+    unit: null
+    values:
+    - 1.0
+    - 11277.0
+    - 3.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Liya 2,287 Reefer Delivered January 03
+    unit: null
+    values:
+    - 2.0
+    - 2287.0
+    - 3.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: 3 MSC Esha F 4,950 Container Arrived December 29
+    unit: null
+    values:
+    - 3.0
+    - 4950.0
+    - 29.0
+  - section: 'Linked asset: 2025-01-07_gms-week-01-new-year-new-cheer_ship-recycling-market-insight-week-0_02b9df597ab6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 18,514
+    unit: null
+    values:
+    - 18514.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-01-07_gms-week-01-new-year-new-cheer.html
 source_stem: 2025-01-07_gms-week-01-new-year-new-cheer

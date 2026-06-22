@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 58
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 04/06/2022
   unit: null
@@ -41,8 +40,7 @@ numeric_observations:
   - 4.0
   - 6.0
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 27th May to 3rd June 2022
   unit: null
@@ -50,32 +48,28 @@ numeric_observations:
   - 27.0
   - 3.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: Oil prices continue their rally and WTI is trading at USD 116.30 per
     barrel
   unit: usd
   values:
   - 116.3
-- &id004
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: despite OPEC+ agreeing to a production hike of 648,000 barrels a day
     for
   unit: null
   values:
   - 648000.0
-- &id005
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: around USD 120-125 per barrel in the second half of the year.
   unit: usd
   values:
   - 120.0
   - -125.0
-- &id006
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: from June 6 to June 10 as the Posidonia returns after a gap of four
     years.
@@ -83,39 +77,34 @@ numeric_observations:
   values:
   - 6.0
   - 10.0
-- &id007
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1,929 companies from 88 countries will exhibit their products and services
   unit: null
   values:
   - 1929.0
   - 88.0
-- &id008
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: and about 20,000 international visitors are expected to attend the
     event.
   unit: null
   values:
   - 20000.0
-- &id009
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: USD 25/MT at the outset but fading by the end of the week. This volatility
     in
   unit: tonnage
   values:
   - 25.0
-- &id010
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: Imported scrap prices have further softened by USD 10/MT week-on-week.
   unit: tonnage
   values:
   - 10.0
-- &id011
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -124,16 +113,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id012
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: HMS 80:20 Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id013
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 11th June to 20th June 2022
   unit: null
@@ -141,8 +128,7 @@ numeric_observations:
   - 11.0
   - 20.0
   - 2022.0
-- &id014
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 25th June to 4th July 2022
   unit: null
@@ -150,8 +136,7 @@ numeric_observations:
   - 25.0
   - 4.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 10th July to 19th July 2022
   unit: null
@@ -159,48 +144,42 @@ numeric_observations:
   - 10.0
   - 19.0
   - 2022.0
-- &id016
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: the upcoming budget which will be presented in Parliament on June 9.
     The
   unit: null
   values:
   - 9.0
-- &id017
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 635 635
   unit: null
   values:
   - 635.0
   - 635.0
-- &id018
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 610 610
   unit: null
   values:
   - 610.0
   - 610.0
-- &id019
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 600 600
   unit: null
   values:
   - 600.0
   - 600.0
-- &id020
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 540 540
   unit: null
   values:
   - 540.0
   - 540.0
-- &id021
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 13th June to 16th June 2022
   unit: null
@@ -208,8 +187,7 @@ numeric_observations:
   - 13.0
   - 16.0
   - 2022.0
-- &id022
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 29th June to 2nd July 2022
   unit: null
@@ -217,8 +195,7 @@ numeric_observations:
   - 29.0
   - 2.0
   - 2022.0
-- &id023
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 13th July to 16th July 2022
   unit: null
@@ -226,195 +203,170 @@ numeric_observations:
   - 13.0
   - 16.0
   - 2022.0
-- &id024
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: increased the prices of petroleum products by PKR 30/liter and will
     hike
   unit: null
   values:
   - 30.0
-- &id025
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: the electricity prices by PKR 7 from July 1 sending shockwaves throughout
   unit: null
   values:
   - 7.0
   - 1.0
-- &id026
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: critical to secure the USD 6 billion IMF loan programme to be able
     to repay
   unit: usd
   values:
   - 6.0
-- &id027
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: USD 21 billion in foreign debt in the next fiscal year and save Pakistan
     from
   unit: usd
   values:
   - 21.0
-- &id028
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 590 590
   unit: null
   values:
   - 590.0
   - 590.0
-- &id029
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 580 580
   unit: null
   values:
   - 580.0
   - 580.0
-- &id030
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 500 500
   unit: null
   values:
   - 500.0
   - 500.0
-- &id031
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: One Cruise ship of about 16,000 LWT has arrived in Aliaga this week.
   unit: null
   values:
   - 16000.0
-- &id032
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: continue their downtrend and softened by about USD 15/MT this week.
   unit: tonnage
   values:
   - 15.0
-- &id033
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: Turkish inflation spiked to 73.5% in May as it came under more pressure
   unit: pct
   values:
   - 73.5
-- &id034
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: at TL 16.51/USD.
   unit: usd
   values:
   - 16.51
-- &id035
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 340 340
   unit: null
   values:
   - 340.0
   - 340.0
-- &id036
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 330 330
   unit: null
   values:
   - 330.0
   - 330.0
-- &id037
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 320 320
   unit: null
   values:
   - 320.0
   - 320.0
-- &id038
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 80:20 & Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id039
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: DAHLIA LNG 1979 U.S.A. 33,141.00 DELIVERED INDIA UNDISCLOSED
   unit: null
   values:
   - 1979.0
   - 33141.0
-- &id040
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: TAI NING REEFER 1983 JAPAN 2,055.00 DELIVERED BANGLADESH UNDISCLOSED
   unit: null
   values:
   - 1983.0
   - 2055.0
-- &id041
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: LOMAIVITI RORO/ 1964 CANADA 3,477.00 DELIVERED INDIA UNDISCLOSED
   unit: null
   values:
   - 1964.0
   - 3477.0
-- &id042
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: PRINCESS 5 PASSENGER
   unit: null
   values:
   - 5.0
-- &id043
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1393 1400
   unit: null
   values:
   - 1393.0
   - 1400.0
-- &id044
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1320 1314
   unit: null
   values:
   - 1320.0
   - 1314.0
-- &id045
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1267 1256
   unit: null
   values:
   - 1267.0
   - 1256.0
-- &id046
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1197 1218
   unit: null
   values:
   - 1197.0
   - 1218.0
-- &id047
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 1148 1152
   unit: null
   values:
   - 1148.0
   - 1152.0
-- &id048
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -426,8 +378,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id049
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -440,8 +391,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id050
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -449,8 +399,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id051
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -459,8 +408,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id052
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -469,8 +417,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id053
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -479,15 +426,13 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id054
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Email: capt.xu@139.com,'
   unit: null
   values:
   - 139.0
-- &id055
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -496,8 +441,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id056
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -506,8 +450,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id057
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +81 354 522 405'
   unit: null
@@ -516,8 +459,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id058
-  section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+- section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -536,64 +478,443 @@ section_count: 2
 signals:
   numeric_observation_count: 58
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 04/06/2022
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 27th May to 3rd June 2022
+    unit: null
+    values:
+    - 27.0
+    - 3.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: Oil prices continue their rally and WTI is trading at USD 116.30
+      per barrel
+    unit: usd
+    values:
+    - 116.3
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: despite OPEC+ agreeing to a production hike of 648,000 barrels a
+      day for
+    unit: null
+    values:
+    - 648000.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: around USD 120-125 per barrel in the second half of the year.
+    unit: usd
+    values:
+    - 120.0
+    - -125.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: from June 6 to June 10 as the Posidonia returns after a gap of four
+      years.
+    unit: null
+    values:
+    - 6.0
+    - 10.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1,929 companies from 88 countries will exhibit their products and
+      services
+    unit: null
+    values:
+    - 1929.0
+    - 88.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: and about 20,000 international visitors are expected to attend the
+      event.
+    unit: null
+    values:
+    - 20000.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: USD 25/MT at the outset but fading by the end of the week. This volatility
+      in
+    unit: tonnage
+    values:
+    - 25.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: Imported scrap prices have further softened by USD 10/MT week-on-week.
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: HMS 80:20 Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 11th June to 20th June 2022
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 25th June to 4th July 2022
+    unit: null
+    values:
+    - 25.0
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 10th July to 19th July 2022
+    unit: null
+    values:
+    - 10.0
+    - 19.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: the upcoming budget which will be presented in Parliament on June
+      9. The
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 635 635
+    unit: null
+    values:
+    - 635.0
+    - 635.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 610 610
+    unit: null
+    values:
+    - 610.0
+    - 610.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 600 600
+    unit: null
+    values:
+    - 600.0
+    - 600.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 540 540
+    unit: null
+    values:
+    - 540.0
+    - 540.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 13th June to 16th June 2022
+    unit: null
+    values:
+    - 13.0
+    - 16.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 29th June to 2nd July 2022
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 13th July to 16th July 2022
+    unit: null
+    values:
+    - 13.0
+    - 16.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: increased the prices of petroleum products by PKR 30/liter and will
+      hike
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: the electricity prices by PKR 7 from July 1 sending shockwaves throughout
+    unit: null
+    values:
+    - 7.0
+    - 1.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: critical to secure the USD 6 billion IMF loan programme to be able
+      to repay
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: USD 21 billion in foreign debt in the next fiscal year and save Pakistan
+      from
+    unit: usd
+    values:
+    - 21.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 590 590
+    unit: null
+    values:
+    - 590.0
+    - 590.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 580 580
+    unit: null
+    values:
+    - 580.0
+    - 580.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 500 500
+    unit: null
+    values:
+    - 500.0
+    - 500.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: One Cruise ship of about 16,000 LWT has arrived in Aliaga this week.
+    unit: null
+    values:
+    - 16000.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: continue their downtrend and softened by about USD 15/MT this week.
+    unit: tonnage
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: Turkish inflation spiked to 73.5% in May as it came under more pressure
+    unit: pct
+    values:
+    - 73.5
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: at TL 16.51/USD.
+    unit: usd
+    values:
+    - 16.51
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 340 340
+    unit: null
+    values:
+    - 340.0
+    - 340.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 330 330
+    unit: null
+    values:
+    - 330.0
+    - 330.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 320 320
+    unit: null
+    values:
+    - 320.0
+    - 320.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 80:20 & Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: DAHLIA LNG 1979 U.S.A. 33,141.00 DELIVERED INDIA UNDISCLOSED
+    unit: null
+    values:
+    - 1979.0
+    - 33141.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: TAI NING REEFER 1983 JAPAN 2,055.00 DELIVERED BANGLADESH UNDISCLOSED
+    unit: null
+    values:
+    - 1983.0
+    - 2055.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: LOMAIVITI RORO/ 1964 CANADA 3,477.00 DELIVERED INDIA UNDISCLOSED
+    unit: null
+    values:
+    - 1964.0
+    - 3477.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: PRINCESS 5 PASSENGER
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1393 1400
+    unit: null
+    values:
+    - 1393.0
+    - 1400.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1320 1314
+    unit: null
+    values:
+    - 1320.0
+    - 1314.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1267 1256
+    unit: null
+    values:
+    - 1267.0
+    - 1256.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1197 1218
+    unit: null
+    values:
+    - 1197.0
+    - 1218.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1148 1152
+    unit: null
+    values:
+    - 1148.0
+    - 1152.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: capt.xu@139.com,'
+    unit: null
+    values:
+    - 139.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2022-06-04_Weekly-Ship-Recycling-Report_3_June_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-06-04_best-oasis-weekly-recycling-market-report-03-june-2022.html
 source_stem: 2022-06-04_best-oasis-weekly-recycling-market-report-03-june-2022

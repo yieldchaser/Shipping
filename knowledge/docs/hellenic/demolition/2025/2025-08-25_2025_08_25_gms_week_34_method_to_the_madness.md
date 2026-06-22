@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 86
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: A week after the anticipated Trump - Putin (TP) meeting (chuckle at
     that one) last week, not much positive has come out of it, especially as Putin
@@ -47,8 +46,7 @@ numeric_observations:
   - 3.3
   - 3.0
   - 1.4
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Ironically still, losses in various individual sectors along the entire
     dry bulk range across the recent past saw the overall benchmark index lose about
@@ -62,8 +60,7 @@ numeric_observations:
   - 2025.0
   - 2024.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Prices have of course cooled and stayed at the current lower levels
     since the recent decline, which were further perpetuated by a lack of available
@@ -72,8 +69,7 @@ numeric_observations:
   unit: null
   values:
   - 26.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 34 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -81,8 +77,7 @@ numeric_observations:
   values:
   - 34.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-08-25_gms-week-34-method-to-the-madness_img1_2025-08-25-122849_5f53c8531760.png'
   unit: null
@@ -97,39 +92,34 @@ numeric_observations:
   - -122849.0
   - 5.0
   - 3.0
-- &id006
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: August 24th, 2025
   unit: null
   values:
   - 24.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Week 34
   unit: null
   values:
   - 34.0
-- &id008
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Volume 275, Issue 1199
   unit: null
   values:
   - 275.0
   - 1199.0
-- &id009
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: reportedly decreased by about 3 million barrels last week thanks to
     cheaper prices and a growing
   unit: null
   values:
   - 3.0
-- &id010
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September helped oil futures report a 0.2% rise and end the week at
     USD 63/barrel, all while the
@@ -137,16 +127,14 @@ numeric_observations:
   values:
   - 0.2
   - 63.0
-- &id011
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Index reported another increase, rising about 2.74% towards the end
     of the week regaining the
   unit: pct
   values:
   - 2.74
-- &id012
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: that collectively contributed gains of 3.3%, 3%, and 1.4% to the overall
     index.
@@ -155,16 +143,14 @@ numeric_observations:
   - 3.3
   - 3.0
   - 1.4
-- &id013
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: past saw the overall benchmark index lose about 5% of its overall value,
     which would explain the
   unit: pct
   values:
   - 5.0
-- &id014
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: comparatively (and maddeningly) slower summers of 2024 and even 2025
     is certainly of concern,
@@ -172,40 +158,35 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: given that the industry clearly miscalculated 2025s recycling performance
     as being a recompensate
   unit: null
   values:
   - 2025.0
-- &id016
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: • India concerns. for 2024s dearth of tonnage and most of the seriously
     overaged tonnage that has been trading since
   unit: null
   values:
   - 2024.0
-- &id017
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: post-covid, would come for recycling in 2025, which clearly has not
     happened.
   unit: null
   values:
   - 2025.0
-- &id018
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: were further perpetuated by a lack of available end buyers post June-26,
     ever since the Hong Kong
   unit: null
   values:
   - 26.0
-- &id019
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 34 of 2025 are on Page 6.
   unit: null
@@ -213,16 +194,14 @@ numeric_observations:
   - 34.0
   - 2025.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: as it fell 21 basis points and closed the week out at BDT 121.65. How
     long this goes on is sadly no
@@ -230,16 +209,14 @@ numeric_observations:
   values:
   - 21.0
   - 121.65
-- &id022
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: clearly dominate the sales boards as nearly 140K LDT and 8 units are
     currently idling at or have been
@@ -247,8 +224,7 @@ numeric_observations:
   values:
   - 140.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: this week, given that it ended USD 2/Ton higher than last at USD 436.67/Ton.
     India even seem seems
@@ -256,8 +232,7 @@ numeric_observations:
   values:
   - 2.0
   - 436.67
-- &id025
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: ending this one 20 basis points stronger to close the week out at (a
     still high) Rs. 87.33. And despite
@@ -265,79 +240,69 @@ numeric_observations:
   values:
   - 20.0
   - 87.33
-- &id026
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: the extent they have stayed in 2nd place on the market rankings and
     not slipped past a weaker
   unit: null
   values:
   - 2.0
-- &id027
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: juicier large LDT vessels to fill their plots while they still can
     i.e. with Bangladesh still in 3rd place
   unit: null
   values:
   - 3.0
-- &id029
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: and Indian tariffs of 50% loom at large. Moreover, given how Bangladesh's
     economy continues to
   unit: pct
   values:
   - 50.0
-- &id030
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: certification. Hopefully soon before the end of 2025 (hopefully, maybe).
   unit: null
   values:
   - 2025.0
-- &id031
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: as not only are local steel plate prices still flatlining at an industry
     leading USD 622/Ton, but even
   unit: usd
   values:
   - 622.0
-- &id032
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Ho pefully maybe. the Pakistani Rupee contributed to the current state
     of affairs as it firmed 18 basis points against
   unit: null
   values:
   - 18.0
-- &id033
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar by the time the week ended, closing it out at PKR 283.15.
     Yet, on the economic front
   unit: null
   values:
   - 283.15
-- &id034
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: as reportedly, profit repatriations from foreign investors surged to
     over 75% in July (an amount of
   unit: pct
   values:
   - 75.0
-- &id035
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: about USD 244 Million) as inflation climbed during the same time to
     its 7-month high, resulting in
@@ -345,48 +310,42 @@ numeric_observations:
   values:
   - 244.0
   - 7.0
-- &id036
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: heads into Q4 2024, in the interim, Gadani remains a very-well placed
     (price-wise) destination for
   unit: null
   values:
   - 2024.0
-- &id037
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: years including this week where the Lira fell 32 basis points (the
     highest of the week in the ship
   unit: null
   values:
   - 32.0
-- &id039
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: recycling industry) and ended the week at TRY 40.91 against the U.S.
     Dollar while briefly spiking
   unit: null
   values:
   - 40.91
-- &id040
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: past TRY 41.10, it was the announcement from regional port authorities
     where reportedly under
   unit: null
   values:
   - 41.1
-- &id041
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: For Week 34 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -394,8 +353,7 @@ numeric_observations:
   values:
   - 34.0
   - 2025.0
-- &id042
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -404,8 +362,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id043
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
   unit: null
@@ -414,8 +371,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id044
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
   unit: null
@@ -424,8 +380,7 @@ numeric_observations:
   - 405.0
   - 425.0
   - 435.0
-- &id045
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -434,55 +389,48 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id046
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line:  A single cloud can weigh about 550 tons or more.
   unit: null
   values:
   - 550.0
-- &id048
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line:  Believe it or not, Canadians eat more Kraft macaroni and cheese than
     Americans. Like, 55% more.
   unit: pct
   values:
   - 55.0
-- &id049
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: No major holidays in September August 20 - August 27
   unit: null
   values:
   - 20.0
   - 27.0
-- &id050
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 05 = September 14
   unit: null
   values:
   - 5.0
   - 14.0
-- &id051
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 19 - September 27
   unit: null
   values:
   - 19.0
   - 27.0
-- &id052
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi August 22 - August 25
   unit: null
@@ -490,48 +438,42 @@ numeric_observations:
   - 5.0
   - 22.0
   - 25.0
-- &id053
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 07 - September 10
   unit: null
   values:
   - 7.0
   - 10.0
-- &id054
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 20 - September 23
   unit: null
   values:
   - 20.0
   - 23.0
-- &id055
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi August 30 - Victory Day
   unit: null
   values:
   - 5.0
   - 30.0
-- &id056
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of August 22, 2025
   unit: null
   values:
   - 22.0
   - 2025.0
-- &id058
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 1 Abdullah F 9,623 Oil Tanker Arrived August 19
   unit: null
@@ -539,8 +481,7 @@ numeric_observations:
   - 1.0
   - 9623.0
   - 19.0
-- &id059
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -548,8 +489,7 @@ numeric_observations:
   - 2.0
   - 20001.0
   - 13.0
-- &id060
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 3 Cosmo 34,158 LNG Tanker Delivered August 22
   unit: null
@@ -557,8 +497,7 @@ numeric_observations:
   - 3.0
   - 34158.0
   - 22.0
-- &id061
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 4 Livia 8,766 Tanker Delivered August 21
   unit: null
@@ -566,8 +505,7 @@ numeric_observations:
   - 4.0
   - 8766.0
   - 21.0
-- &id062
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -575,8 +513,7 @@ numeric_observations:
   - 5.0
   - 9623.0
   - 7.0
-- &id063
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 6 Otaria 16,885 Tanker Delivered August 19
   unit: null
@@ -584,8 +521,7 @@ numeric_observations:
   - 6.0
   - 16885.0
   - 19.0
-- &id064
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 7 R Pisces 19,935 Bulk Carrier Arrived August 09
   unit: null
@@ -593,8 +529,7 @@ numeric_observations:
   - 7.0
   - 19935.0
   - 9.0
-- &id065
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 8 Simas 20,001 Oil Tanker Arrived August 20
   unit: null
@@ -602,23 +537,20 @@ numeric_observations:
   - 8.0
   - 20001.0
   - 20.0
-- &id066
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 138,991
   unit: null
   values:
   - 138991.0
-- &id067
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of August 22, 2025
   unit: null
   values:
   - 22.0
   - 2025.0
-- &id068
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 1 Dalian 21,414 Bulk Carrier Arrived August 13
   unit: null
@@ -626,8 +558,7 @@ numeric_observations:
   - 1.0
   - 21414.0
   - 13.0
-- &id069
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 2 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -636,23 +567,20 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 29,223
   unit: null
   values:
   - 29223.0
-- &id071
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of August 22, 2025
   unit: null
   values:
   - 22.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 1 Best 8 2,571 General Cargo Delivered August 09
   unit: null
@@ -661,8 +589,7 @@ numeric_observations:
   - 8.0
   - 2571.0
   - 9.0
-- &id073
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 2 Hun 8,915 Woodchip Delivered August 17
   unit: null
@@ -670,8 +597,7 @@ numeric_observations:
   - 2.0
   - 8915.0
   - 17.0
-- &id074
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 3 Sister 12 2,261 General Cargo Arrived August 12
   unit: null
@@ -680,23 +606,20 @@ numeric_observations:
   - 12.0
   - 2261.0
   - 12.0
-- &id075
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 13,747
   unit: null
   values:
   - 13747.0
-- &id076
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id077
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -705,8 +628,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -715,8 +637,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -725,8 +646,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+- section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -801,86 +721,631 @@ section_count: 3
 signals:
   numeric_observation_count: 86
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: A week after the anticipated Trump - Putin (TP) meeting (chuckle
+      at that one) last week, not much positive has come out of it, especially as
+      Putin returned to Russia only to launch another offensive against Ukrainian
+      oil refineries causing disruptions along th
+    unit: pct
+    values:
+    - 3.0
+    - 0.2
+    - 63.0
+    - 2.74
+    - 3.3
+    - 3.0
+    - 1.4
+  - section: Main
+    section_type: null
+    source_line: Ironically still, losses in various individual sectors along the
+      entire dry bulk range across the recent past saw the overall benchmark index
+      lose about 5% of its overall value, which would explain the recent (and ongoing)
+      influx of tonnage into the West Coast
+    unit: pct
+    values:
+    - 5.0
+    - 2024.0
+    - 2025.0
+    - 2025.0
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Prices have of course cooled and stayed at the current lower levels
+      since the recent decline, which were further perpetuated by a lack of available
+      end buyers post June-26, ever since the Hong Kong Convention kicked in (especially
+      in Bangladesh as highlighted '
+    unit: null
+    values:
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: For Week 34 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 34.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-08-25_gms-week-34-method-to-the-madness_img1_2025-08-25-122849_5f53c8531760.png'
+    unit: null
+    values:
+    - 2025.0
+    - -8.0
+    - -25.0
+    - 34.0
+    - 2025.0
+    - -8.0
+    - -25.0
+    - -122849.0
+    - 5.0
+    - 3.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: August 24th, 2025
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Week 34
+    unit: null
+    values:
+    - 34.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Volume 275, Issue 1199
+    unit: null
+    values:
+    - 275.0
+    - 1199.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: reportedly decreased by about 3 million barrels last week thanks
+      to cheaper prices and a growing
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September helped oil futures report a 0.2% rise and end the week
+      at USD 63/barrel, all while the
+    unit: pct
+    values:
+    - 0.2
+    - 63.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Index reported another increase, rising about 2.74% towards the end
+      of the week regaining the
+    unit: pct
+    values:
+    - 2.74
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: that collectively contributed gains of 3.3%, 3%, and 1.4% to the
+      overall index.
+    unit: pct
+    values:
+    - 3.3
+    - 3.0
+    - 1.4
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: past saw the overall benchmark index lose about 5% of its overall
+      value, which would explain the
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: comparatively (and maddeningly) slower summers of 2024 and even 2025
+      is certainly of concern,
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: given that the industry clearly miscalculated 2025s recycling performance
+      as being a recompensate
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: • India concerns. for 2024s dearth of tonnage and most of the seriously
+      overaged tonnage that has been trading since
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: post-covid, would come for recycling in 2025, which clearly has not
+      happened.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: were further perpetuated by a lack of available end buyers post June-26,
+      ever since the Hong Kong
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 34 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 34.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: as it fell 21 basis points and closed the week out at BDT 121.65.
+      How long this goes on is sadly no
+    unit: null
+    values:
+    - 21.0
+    - 121.65
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: clearly dominate the sales boards as nearly 140K LDT and 8 units
+      are currently idling at or have been
+    unit: null
+    values:
+    - 140.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: this week, given that it ended USD 2/Ton higher than last at USD
+      436.67/Ton. India even seem seems
+    unit: usd
+    values:
+    - 2.0
+    - 436.67
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: ending this one 20 basis points stronger to close the week out at
+      (a still high) Rs. 87.33. And despite
+    unit: null
+    values:
+    - 20.0
+    - 87.33
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: the extent they have stayed in 2nd place on the market rankings and
+      not slipped past a weaker
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: juicier large LDT vessels to fill their plots while they still can
+      i.e. with Bangladesh still in 3rd place
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: and Indian tariffs of 50% loom at large. Moreover, given how Bangladesh's
+      economy continues to
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: certification. Hopefully soon before the end of 2025 (hopefully,
+      maybe).
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: as not only are local steel plate prices still flatlining at an industry
+      leading USD 622/Ton, but even
+    unit: usd
+    values:
+    - 622.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Ho pefully maybe. the Pakistani Rupee contributed to the current
+      state of affairs as it firmed 18 basis points against
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar by the time the week ended, closing it out at PKR
+      283.15. Yet, on the economic front
+    unit: null
+    values:
+    - 283.15
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: as reportedly, profit repatriations from foreign investors surged
+      to over 75% in July (an amount of
+    unit: pct
+    values:
+    - 75.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: about USD 244 Million) as inflation climbed during the same time
+      to its 7-month high, resulting in
+    unit: usd
+    values:
+    - 244.0
+    - 7.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: heads into Q4 2024, in the interim, Gadani remains a very-well placed
+      (price-wise) destination for
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: years including this week where the Lira fell 32 basis points (the
+      highest of the week in the ship
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: recycling industry) and ended the week at TRY 40.91 against the U.S.
+      Dollar while briefly spiking
+    unit: null
+    values:
+    - 40.91
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: past TRY 41.10, it was the announcement from regional port authorities
+      where reportedly under
+    unit: null
+    values:
+    - 41.1
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: For Week 34 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 34.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 405.0
+    - 425.0
+    - 435.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line:  A single cloud can weigh about 550 tons or more.
+    unit: null
+    values:
+    - 550.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line:  Believe it or not, Canadians eat more Kraft macaroni and cheese
+      than Americans. Like, 55% more.
+    unit: pct
+    values:
+    - 55.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: No major holidays in September August 20 - August 27
+    unit: null
+    values:
+    - 20.0
+    - 27.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 05 = September 14
+    unit: null
+    values:
+    - 5.0
+    - 14.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 19 - September 27
+    unit: null
+    values:
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi August 22 - August 25
+    unit: null
+    values:
+    - 5.0
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 07 - September 10
+    unit: null
+    values:
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 20 - September 23
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi August 30 - Victory Day
+    unit: null
+    values:
+    - 5.0
+    - 30.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of August 22, 2025
+    unit: null
+    values:
+    - 22.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Abdullah F 9,623 Oil Tanker Arrived August 19
+    unit: null
+    values:
+    - 1.0
+    - 9623.0
+    - 19.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 2.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 3 Cosmo 34,158 LNG Tanker Delivered August 22
+    unit: null
+    values:
+    - 3.0
+    - 34158.0
+    - 22.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 4 Livia 8,766 Tanker Delivered August 21
+    unit: null
+    values:
+    - 4.0
+    - 8766.0
+    - 21.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 5.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 6 Otaria 16,885 Tanker Delivered August 19
+    unit: null
+    values:
+    - 6.0
+    - 16885.0
+    - 19.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 7 R Pisces 19,935 Bulk Carrier Arrived August 09
+    unit: null
+    values:
+    - 7.0
+    - 19935.0
+    - 9.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 8 Simas 20,001 Oil Tanker Arrived August 20
+    unit: null
+    values:
+    - 8.0
+    - 20001.0
+    - 20.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 138,991
+    unit: null
+    values:
+    - 138991.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of August 22, 2025
+    unit: null
+    values:
+    - 22.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Dalian 21,414 Bulk Carrier Arrived August 13
+    unit: null
+    values:
+    - 1.0
+    - 21414.0
+    - 13.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 2 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 29,223
+    unit: null
+    values:
+    - 29223.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of August 22, 2025
+    unit: null
+    values:
+    - 22.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Best 8 2,571 General Cargo Delivered August 09
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2571.0
+    - 9.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hun 8,915 Woodchip Delivered August 17
+    unit: null
+    values:
+    - 2.0
+    - 8915.0
+    - 17.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sister 12 2,261 General Cargo Arrived August 12
+    unit: null
+    values:
+    - 3.0
+    - 12.0
+    - 2261.0
+    - 12.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 13,747
+    unit: null
+    values:
+    - 13747.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-08-25_gms-week-34-method-to-the-madness_ship-recycling-market-insight-week-3_da7986fc833b.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-08-25_gms-week-34-method-to-the-madness.html
 source_stem: 2025-08-25_gms-week-34-method-to-the-madness

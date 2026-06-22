@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 107
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Ongoing difficulties in obtaining the relevant financing / L/C approvals
     also continues to pose a significant problem for recyclers in both Pakistan &
@@ -39,8 +38,7 @@ numeric_observations:
   unit: usd
   values:
   - 600.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, Turkey also slips again this week as the Lira finally breaches
     past TRY 28, and on the back of slipping plate prices (both import and local steel),
@@ -51,8 +49,7 @@ numeric_observations:
   - 28.0
   - 10.0
   - 300.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Accordingly, it is unlikely to be the busy conclusion to 2023 that
     many were anticipating (especially based on recent sentiments) and expectations
@@ -62,8 +59,7 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 42 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -71,8 +67,7 @@ numeric_observations:
   values:
   - 42.0
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-10-23_gms-week-42-momentum-stalls_img1_22102023gmsw53_fcae6157baf7.jpg'
   unit: null
@@ -84,8 +79,7 @@ numeric_observations:
   - 22102023.0
   - 3.0
   - 157.0
-- &id006
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: October 2 0th, 2023 "The only one who can tell you "You can't win"
     is you,
@@ -93,38 +87,33 @@ numeric_observations:
   values:
   - 2.0
   - 2023.0
-- &id007
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Volume 254, Issue 1105 and you don't have to listen."
   unit: null
   values:
   - 254.0
   - 1105.0
-- &id008
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Week 42
   unit: null
   values:
   - 42.0
-- &id009
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: prices (one even breaching the magical USD 600/LDT mark) as a result.
   unit: usd
   values:
   - 600.0
-- &id010
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: • Empty sales. Finally, Turkey also slips again this week as the Lira
     finally breaches past TRY 28, and on the
   unit: null
   values:
   - 28.0
-- &id011
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: about USD 10/MT themselves, dipping Aliaga below USD 300/MT for dry
     units.
@@ -132,23 +121,20 @@ numeric_observations:
   values:
   - 10.0
   - 300.0
-- &id012
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Accordingly, it is unlikely to be the busy conclusion to 2023 that
     many were anticipating
   unit: null
   values:
   - 2023.0
-- &id013
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 2024 (at the very minimum) for ship recycling.
   unit: null
   values:
   - 2024.0
-- &id014
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: For week 42 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -156,8 +142,7 @@ numeric_observations:
   values:
   - 42.0
   - 2023.0
-- &id015
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 1 India Declining 520 / LDT 545 / LDT 565 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 520.0
   - 545.0
   - 565.0
-- &id016
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh* Weak 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -176,8 +160,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id017
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan* Weak 505 / LDT 525 / LDT 545 / LDT
   unit: null
@@ -186,8 +169,7 @@ numeric_observations:
   - 505.0
   - 525.0
   - 545.0
-- &id018
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Declining 290 / LDT 300 / LDT 310 / LDT
   unit: null
@@ -196,217 +178,189 @@ numeric_observations:
   - 290.0
   - 300.0
   - 310.0
-- &id019
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: have ready L/C limits (such aBs lAast NweeGk'sL saAle oDf thEe SSuHezm
     ax Tanker ALANA - 22,471
   unit: null
   values:
   - 22471.0
-- &id021
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 500s/Ton this week, it is very difficult to see how any Owner / Cash
     Buyer can accept
   unit: null
   values:
   - 500.0
-- &id022
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: plants itself at BDT 110.20 against the U.S. Dollar this week.
   unit: null
   values:
   - 110.2
-- &id023
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: that have declined for two consecutive weeks (and to the tune of about
     USD 20/LDT),
   unit: usd
   values:
   - 20.0
-- &id025
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: end of the year, The Alang market may well have peaked for Q4 2023.
   unit: null
   values:
   - 2023.0
-- &id026
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: As mentioned above, while local steelI pNlatDe prIicAes did cool off
     by about USD 20/Ton over
   unit: usd
   values:
   - 20.0
-- &id027
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: not depreciate against the U.S. Dollar this w eek and it hung on to
     levels in the low Rs. 83.
   unit: null
   values:
   - 83.0
-- &id028
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: also the only destination that remained the busiest this week with
     12 vessels and nearly
   unit: null
   values:
   - 12.0
-- &id029
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 100K LDT that is either idling at anchorage or has ended up on the
     beach. These recently
   unit: null
   values:
   - 100.0
-- &id030
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: the year / 2024, when supply is expected to pick once again.
   unit: null
   values:
   - 2024.0
-- &id031
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Alarming app reciation. Rupee by about 10% over recent weeks has o
     nce again seen Gadani Recyclers abstain from
   unit: pct
   values:
   - 10.0
-- &id033
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: U.S. Dollar once again, ending the week at PKR 278.40, all while local
     steel plate prices
   unit: null
   values:
   - 278.4
-- &id034
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: finally resume trading once again this week and immediately weaken
     by USD 5/Ton as
   unit: usd
   values:
   - 5.0
-- &id035
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Overall, after the recent sales of 6 Panamax Bulkers for recycling
     into Gadani, vessel
   unit: null
   values:
   - 6.0
-- &id036
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: TRY 28 is here.
   unit: null
   values:
   - 28.0
-- &id038
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: certainly been a volatile 2023.
   unit: null
   values:
   - 2023.0
-- &id039
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: only did import and local steel plate prices decline by about USD 10/Ton
     in unison, but the
   unit: usd
   values:
   - 10.0
-- &id040
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Lira has finally breached the TRY 28.0 mark against the U.S. Dollar
     this week.
   unit: null
   values:
   - 28.0
-- &id041
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Below USD 300/Ton.
   unit: usd
   values:
   - 300.0
-- &id042
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: are certainly highlighting that as local indications slip below USD
     300/MT and levels
   unit: tonnage
   values:
   - 300.0
-- &id043
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: overall fell about USD 10/Ton as well this week.
   unit: usd
   values:
   - 10.0
-- &id044
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line:  Scien tists guess that an asteroid hit the earth about 48 hundred
     years ago in the Indian Ocean and created a wave up to
   unit: null
   values:
   - 48.0
-- &id046
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: October 24 - Vijaya Dashami October 14 - October 20
   unit: null
@@ -414,8 +368,7 @@ numeric_observations:
   - 24.0
   - 14.0
   - 20.0
-- &id047
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 26 - November
     03
@@ -424,8 +377,7 @@ numeric_observations:
   - 31.0
   - 26.0
   - 3.0
-- &id048
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: November 12 - Diwali November 12 - November 19
   unit: null
@@ -433,16 +385,14 @@ numeric_observations:
   - 12.0
   - 12.0
   - 19.0
-- &id049
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: November 25 - December 02
   unit: null
   values:
   - 25.0
   - 2.0
-- &id050
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: October 24 - Durga Puja October 27 - October 30
   unit: null
@@ -450,24 +400,21 @@ numeric_observations:
   - 24.0
   - 27.0
   - 30.0
-- &id051
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 12 - November 15
   unit: null
   values:
   - 12.0
   - 15.0
-- &id052
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: November 25 - November 28
   unit: null
   values:
   - 25.0
   - 28.0
-- &id053
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: No holidays in November October 24 - Founding Day October 29 - Republic
     Day
@@ -475,31 +422,27 @@ numeric_observations:
   values:
   - 24.0
   - 29.0
-- &id054
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: November 09 - Iqbal Day No holidays in November
   unit: null
   values:
   - 9.0
-- &id055
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id056
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of October 20, 2023
   unit: null
   values:
   - 20.0
   - 2023.0
-- &id057
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 1 Dan 6,776 Container Arrived October 20
   unit: null
@@ -507,8 +450,7 @@ numeric_observations:
   - 1.0
   - 6776.0
   - 20.0
-- &id058
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 2 Fortune Trader 7,912 Container Beached October 17
   unit: null
@@ -516,8 +458,7 @@ numeric_observations:
   - 2.0
   - 7912.0
   - 17.0
-- &id059
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 3 Hal Anant 4,092 Supply Vessel Beached October 20
   unit: null
@@ -525,8 +466,7 @@ numeric_observations:
   - 3.0
   - 4092.0
   - 20.0
-- &id060
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 4 Hua DA 606 3,473 General Cargo Arrived October 17
   unit: null
@@ -535,8 +475,7 @@ numeric_observations:
   - 606.0
   - 3473.0
   - 17.0
-- &id061
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 5 Marsa Iris 7,852 Container Beached October 15
   unit: null
@@ -544,8 +483,7 @@ numeric_observations:
   - 5.0
   - 7852.0
   - 15.0
-- &id062
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 6 Ming Zhou 13,370 Container Arrived October 18
   unit: null
@@ -553,8 +491,7 @@ numeric_observations:
   - 6.0
   - 13370.0
   - 18.0
-- &id063
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 7 MSC Denisse 14,349 Container Beached October 18
   unit: null
@@ -562,8 +499,7 @@ numeric_observations:
   - 7.0
   - 14349.0
   - 18.0
-- &id064
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 8 MSC Levina 12,858 Container Beached October 20
   unit: null
@@ -571,8 +507,7 @@ numeric_observations:
   - 8.0
   - 12858.0
   - 20.0
-- &id065
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 9 Nanta 7 5,095 Container Beached October 19
   unit: null
@@ -581,8 +516,7 @@ numeric_observations:
   - 7.0
   - 5095.0
   - 19.0
-- &id066
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 10 Nevey 3,435 General Cargo Arrived October 17
   unit: null
@@ -590,8 +524,7 @@ numeric_observations:
   - 10.0
   - 3435.0
   - 17.0
-- &id067
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 11 Tycoon 12,651 Bulk Carrier Beached October 19
   unit: null
@@ -599,8 +532,7 @@ numeric_observations:
   - 11.0
   - 12651.0
   - 19.0
-- &id068
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 12 Uni Aspire 7,098 Container Beached October 15
   unit: null
@@ -608,23 +540,20 @@ numeric_observations:
   - 12.0
   - 7098.0
   - 15.0
-- &id069
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 98,961
   unit: null
   values:
   - 98961.0
-- &id070
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of October 20, 2023
   unit: null
   values:
   - 20.0
   - 2023.0
-- &id071
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 1 Jahan 7,516 Bulk Carrier Arrived October 18
   unit: null
@@ -632,8 +561,7 @@ numeric_observations:
   - 1.0
   - 7516.0
   - 18.0
-- &id072
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 2 S. Maru 4 1,095 Tanker Arrived October 15
   unit: null
@@ -642,8 +570,7 @@ numeric_observations:
   - 4.0
   - 1095.0
   - 15.0
-- &id073
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 3 Tai H 4,044 RoRo / Cargo Arrived October 10
   unit: null
@@ -651,23 +578,20 @@ numeric_observations:
   - 3.0
   - 4044.0
   - 10.0
-- &id074
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 12,655
   unit: null
   values:
   - 12655.0
-- &id075
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of October 20, 2023
   unit: null
   values:
   - 20.0
   - 2023.0
-- &id076
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -676,8 +600,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id077
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -686,8 +609,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id078
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -696,8 +618,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id079
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -706,8 +627,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id080
-  section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+- section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -945,86 +865,613 @@ section_count: 3
 signals:
   numeric_observation_count: 107
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Ongoing difficulties in obtaining the relevant financing / L/C approvals
+      also continues to pose a significant problem for recyclers in both Pakistan
+      & Bangladesh and this has led to a minimal number of vessels being concluded
+      into both markets over the past se
+    unit: usd
+    values:
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: Finally, Turkey also slips again this week as the Lira finally breaches
+      past TRY 28, and on the back of slipping plate prices (both import and local
+      steel), Turkish levels were seen slipping by about USD 10/MT themselves, dipping
+      Aliaga below USD 300/MT for dr
+    unit: tonnage
+    values:
+    - 28.0
+    - 10.0
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: Accordingly, it is unlikely to be the busy conclusion to 2023 that
+      many were anticipating (especially based on recent sentiments) and expectations
+      are that the next sales will likely take place at similar (if lucky) or (most
+      likely) lower levels. An empty sale
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 42 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 42.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-10-23_gms-week-42-momentum-stalls_img1_22102023gmsw53_fcae6157baf7.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -10.0
+    - -23.0
+    - 42.0
+    - 22102023.0
+    - 3.0
+    - 157.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: October 2 0th, 2023 "The only one who can tell you "You can't win"
+      is you,
+    unit: null
+    values:
+    - 2.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Volume 254, Issue 1105 and you don't have to listen."
+    unit: null
+    values:
+    - 254.0
+    - 1105.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Week 42
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: prices (one even breaching the magical USD 600/LDT mark) as a result.
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: • Empty sales. Finally, Turkey also slips again this week as the
+      Lira finally breaches past TRY 28, and on the
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: about USD 10/MT themselves, dipping Aliaga below USD 300/MT for dry
+      units.
+    unit: tonnage
+    values:
+    - 10.0
+    - 300.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Accordingly, it is unlikely to be the busy conclusion to 2023 that
+      many were anticipating
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 2024 (at the very minimum) for ship recycling.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: For week 42 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 42.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Declining 520 / LDT 545 / LDT 565 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 545.0
+    - 565.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh* Weak 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan* Weak 505 / LDT 525 / LDT 545 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 505.0
+    - 525.0
+    - 545.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Declining 290 / LDT 300 / LDT 310 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 290.0
+    - 300.0
+    - 310.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: have ready L/C limits (such aBs lAast NweeGk'sL saAle oDf thEe SSuHezm
+      ax Tanker ALANA - 22,471
+    unit: null
+    values:
+    - 22471.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 500s/Ton this week, it is very difficult to see how any Owner / Cash
+      Buyer can accept
+    unit: null
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: plants itself at BDT 110.20 against the U.S. Dollar this week.
+    unit: null
+    values:
+    - 110.2
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: that have declined for two consecutive weeks (and to the tune of
+      about USD 20/LDT),
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: end of the year, The Alang market may well have peaked for Q4 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: As mentioned above, while local steelI pNlatDe prIicAes did cool
+      off by about USD 20/Ton over
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: not depreciate against the U.S. Dollar this w eek and it hung on
+      to levels in the low Rs. 83.
+    unit: null
+    values:
+    - 83.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: also the only destination that remained the busiest this week with
+      12 vessels and nearly
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 100K LDT that is either idling at anchorage or has ended up on the
+      beach. These recently
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: the year / 2024, when supply is expected to pick once again.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Alarming app reciation. Rupee by about 10% over recent weeks has
+      o nce again seen Gadani Recyclers abstain from
+    unit: pct
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: U.S. Dollar once again, ending the week at PKR 278.40, all while
+      local steel plate prices
+    unit: null
+    values:
+    - 278.4
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: finally resume trading once again this week and immediately weaken
+      by USD 5/Ton as
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Overall, after the recent sales of 6 Panamax Bulkers for recycling
+      into Gadani, vessel
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: TRY 28 is here.
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: certainly been a volatile 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: only did import and local steel plate prices decline by about USD
+      10/Ton in unison, but the
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Lira has finally breached the TRY 28.0 mark against the U.S. Dollar
+      this week.
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Below USD 300/Ton.
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: are certainly highlighting that as local indications slip below USD
+      300/MT and levels
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: overall fell about USD 10/Ton as well this week.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line:  Scien tists guess that an asteroid hit the earth about 48 hundred
+      years ago in the Indian Ocean and created a wave up to
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Vijaya Dashami October 14 - October 20
+    unit: null
+    values:
+    - 24.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 26 - November
+      03
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: November 12 - Diwali November 12 - November 19
+    unit: null
+    values:
+    - 12.0
+    - 12.0
+    - 19.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - December 02
+    unit: null
+    values:
+    - 25.0
+    - 2.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Durga Puja October 27 - October 30
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 12 - November 15
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - November 28
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November October 24 - Founding Day October 29 - Republic
+      Day
+    unit: null
+    values:
+    - 24.0
+    - 29.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: November 09 - Iqbal Day No holidays in November
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of October 20, 2023
+    unit: null
+    values:
+    - 20.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 Dan 6,776 Container Arrived October 20
+    unit: null
+    values:
+    - 1.0
+    - 6776.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 Fortune Trader 7,912 Container Beached October 17
+    unit: null
+    values:
+    - 2.0
+    - 7912.0
+    - 17.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hal Anant 4,092 Supply Vessel Beached October 20
+    unit: null
+    values:
+    - 3.0
+    - 4092.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 4 Hua DA 606 3,473 General Cargo Arrived October 17
+    unit: null
+    values:
+    - 4.0
+    - 606.0
+    - 3473.0
+    - 17.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 5 Marsa Iris 7,852 Container Beached October 15
+    unit: null
+    values:
+    - 5.0
+    - 7852.0
+    - 15.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 6 Ming Zhou 13,370 Container Arrived October 18
+    unit: null
+    values:
+    - 6.0
+    - 13370.0
+    - 18.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 7 MSC Denisse 14,349 Container Beached October 18
+    unit: null
+    values:
+    - 7.0
+    - 14349.0
+    - 18.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 8 MSC Levina 12,858 Container Beached October 20
+    unit: null
+    values:
+    - 8.0
+    - 12858.0
+    - 20.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 9 Nanta 7 5,095 Container Beached October 19
+    unit: null
+    values:
+    - 9.0
+    - 7.0
+    - 5095.0
+    - 19.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 10 Nevey 3,435 General Cargo Arrived October 17
+    unit: null
+    values:
+    - 10.0
+    - 3435.0
+    - 17.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 11 Tycoon 12,651 Bulk Carrier Beached October 19
+    unit: null
+    values:
+    - 11.0
+    - 12651.0
+    - 19.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 12 Uni Aspire 7,098 Container Beached October 15
+    unit: null
+    values:
+    - 12.0
+    - 7098.0
+    - 15.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 98,961
+    unit: null
+    values:
+    - 98961.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of October 20, 2023
+    unit: null
+    values:
+    - 20.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 Jahan 7,516 Bulk Carrier Arrived October 18
+    unit: null
+    values:
+    - 1.0
+    - 7516.0
+    - 18.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 S. Maru 4 1,095 Tanker Arrived October 15
+    unit: null
+    values:
+    - 2.0
+    - 4.0
+    - 1095.0
+    - 15.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 3 Tai H 4,044 RoRo / Cargo Arrived October 10
+    unit: null
+    values:
+    - 3.0
+    - 4044.0
+    - 10.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 12,655
+    unit: null
+    values:
+    - 12655.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of October 20, 2023
+    unit: null
+    values:
+    - 20.0
+    - 2023.0
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-10-23_gms-week-42-momentum-stalls_ship-recycling-market-insight-week-4_178d80f194ae.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-10-23_gms-week-42-momentum-stalls.html
 source_stem: 2023-10-23_gms-week-42-momentum-stalls

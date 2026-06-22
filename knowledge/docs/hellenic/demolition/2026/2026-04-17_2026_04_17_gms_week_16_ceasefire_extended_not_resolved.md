@@ -33,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 117
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The Week 15 thesis that the war premium was cracking has not held.What
     looked like a diplomatic off-ramp has narrowed into a less convincing outcome.
@@ -43,8 +42,7 @@ numeric_observations:
   unit: null
   values:
   - 15.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Risk remains elevated. The U.S. has imposed a naval blockade on Iranian
     ports, while Tehran continues to restrict the Strait of Hormuz to non-Iranian
@@ -54,8 +52,7 @@ numeric_observations:
   values:
   - 6000.0
   - 4200.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Brent traded between USD 94.89 and USD 97.06 per barrel, settling near
     USD 95, down from Week 15's USD 101 close. The driver has shifted from de-escalation
@@ -71,8 +68,7 @@ numeric_observations:
   - 2026.0
   - 9.13
   - 154000.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Freight is clearer. The Baltic Dry Index extended its rally to nine
     consecutive sessions, closing at 2,523 on April 16, up 39 points and at its highest
@@ -84,8 +80,7 @@ numeric_observations:
   - 16.0
   - 39.0
   - 3100.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Currencies and steel are not the drivers. The USD/INR is around 93.46,
     Pakistan and Bangladesh remain steady, the Turkish Lira has held its recovery,
@@ -96,8 +91,7 @@ numeric_observations:
   - 93.46
   - 99.0
   - 15.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The Week 15 expectation of a tonnage release has shifted. Week 16
     shows that even a ceasefire extension can keep vessels trading. As Week 17 approaches,
@@ -108,8 +102,7 @@ numeric_observations:
   - 15.0
   - 16.0
   - 17.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 16 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -117,15 +110,13 @@ numeric_observations:
   values:
   - 16.0
   - 2026.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 174202570.jpg'
   unit: null
   values:
   - 174202570.0
-- &id009
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   unit: null
@@ -138,24 +129,21 @@ numeric_observations:
   - 2.0
   - 93.0
   - 2314.0
-- &id010
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x152 mode=RGB'
   unit: null
   values:
   - 687.0
   - 52.0
-- &id011
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id012
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Pakistan [Firming -[ 445-450/LDT [465-470 /LDT | 475.180 /LDT
     |'
@@ -167,8 +155,7 @@ numeric_observations:
   - 465.0
   - -470.0
   - 475.18
-- &id013
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: '[oa [turkey [Steady | 268-270 /LDT | 278-280/ LDT | 288-290 /LDT |'
   unit: null
@@ -179,30 +166,26 @@ numeric_observations:
   - -280.0
   - 288.0
   - -290.0
-- &id014
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: April 17t h, 2026
   unit: null
   values:
   - 17.0
   - 2026.0
-- &id016
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Week 16
   unit: null
   values:
   - 16.0
-- &id017
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Volume 2 82, Issue 1231 -Albert Einstein
   unit: null
@@ -210,16 +193,14 @@ numeric_observations:
   - 2.0
   - 82.0
   - 1231.0
-- &id018
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: The Week 15 thesis that the war premium was cra cking has not held.
     What looked like a diplomatic
   unit: null
   values:
   - 15.0
-- &id019
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: deploying 6,000 additional troops, with a further 4,200 expected by
     month-end. A ten-day Israel-
@@ -227,8 +208,7 @@ numeric_observations:
   values:
   - 6000.0
   - 4200.0
-- &id020
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Brent traded between USD 94.89 and USD 97.06 per barrel, settling near
     USD 95, down from Week
@@ -237,8 +217,7 @@ numeric_observations:
   - 94.89
   - 97.06
   - 95.0
-- &id021
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 15's USD 101 close. The driver has shifted from de-escalation hopes
     to demand concerns after the
@@ -246,8 +225,7 @@ numeric_observations:
   values:
   - 15.0
   - 101.0
-- &id022
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: IEA cut its 2026 consumption forecast. At the same time, U.S. crude
     inventories posted a 9.13 million
@@ -255,16 +233,14 @@ numeric_observations:
   values:
   - 2026.0
   - 9.13
-- &id023
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: barrel draw against expectations of a 154,000-barrel build, the first
     draw after seven consecutive
   unit: null
   values:
   - 154000.0
-- &id024
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 2,523 on April 16, up 39 points and at its highest level since early
     December. Capesize rates moved
@@ -273,39 +249,34 @@ numeric_observations:
   - 2523.0
   - 16.0
   - 39.0
-- &id025
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: above 3,100 points to a four-month high on Brazil to China iron ore
     flows, with Panamax and
   unit: null
   values:
   - 3100.0
-- &id026
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: • Owners hold. Currencies and steel are not the drivers. The USD/INR
     is around 93.46, Pakistan and Bangladesh
   unit: usd_per_unit
   values:
   - 93.46
-- &id027
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: remain steady, the Turkish Lira has held its recovery, and the Dollar
     Index remains near 99.
   unit: null
   values:
   - 99.0
-- &id028
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Bangladesh steel holds Week 15 gains, while Pakistan edges higher.
   unit: null
   values:
   - 15.0
-- &id029
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: The Week 15 expectation of a tonnage release has shifted. Week 16 shows
     that even a ceasefire
@@ -313,16 +284,14 @@ numeric_observations:
   values:
   - 15.0
   - 16.0
-- &id030
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: extension can keep vessels trading. As Week 17 approaches, the question
     is whether supply returns
   unit: null
   values:
   - 17.0
-- &id031
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 16 of 2026 are on Page 5.
   unit: null
@@ -330,24 +299,21 @@ numeric_observations:
   - 16.0
   - 2026.0
   - 5.0
-- &id032
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 16 with its structural pricing advantage intact
     and its pre-monsoon clock
   unit: null
   values:
   - 16.0
-- &id034
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Wi ndow narrows. loudest. Local steel plate prices have held at BDT
     71,000 per ton, sustaining the USD 578 to USD
@@ -355,16 +321,14 @@ numeric_observations:
   values:
   - 71000.0
   - 578.0
-- &id035
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 584 per ton USD equivalent established the previous week. The USD/BDT
     rate has remained steady
   unit: usd_per_unit
   values:
   - 584.0
-- &id036
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: in the 122.70 to 122.85 range, unchanged from the close of Week 14
     and Week 15, preserving the
@@ -374,16 +338,14 @@ numeric_observations:
   - 122.85
   - 14.0
   - 15.0
-- &id037
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Compliance lingers. Post-Eid central bank approvals are gathering further
     momentum entering Week 16, and the
   unit: null
   values:
   - 16.0
-- &id038
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's March 2026 CPI at 8.71% provides continued central bank
     flexibility on LC approvals
@@ -391,40 +353,35 @@ numeric_observations:
   values:
   - 2026.0
   - 8.71
-- &id039
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Supply decides. without introducing fresh macro concerns. Non-food
     inflation at 9.09% remains elevated, but the
   unit: pct
   values:
   - 9.09
-- &id040
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: the Baltic Dry Index to 2,523 points has made the supply side harder,
     not easier. The oil softening
   unit: null
   values:
   - 2523.0
-- &id041
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: India's Week 16 is characterised by the continuation of the currency
     slide that began at the close of
   unit: null
   values:
   - 16.0
-- &id043
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Week 15. The USD/INR rate has drifted to approximately 93.46, extending
     the partial reversal of the C urrency tells.
@@ -432,8 +389,7 @@ numeric_observations:
   values:
   - 15.0
   - 93.46
-- &id044
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: RBI-engineered recovery from the Week 14 record low of 94.42. The Strait
     of Hormuz remains
@@ -441,32 +397,28 @@ numeric_observations:
   values:
   - 14.0
   - 94.42
-- &id045
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: benefit that the Week 15 oil pullback was supposed to deliver to India's
     import bill. Approximately
   unit: null
   values:
   - 15.0
-- &id046
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 90% of India's LPG continues to transit routes impacted by the Hormuz
     constraint and approximately
   unit: pct
   values:
   - 90.0
-- &id047
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 70% of crude is similarly exposed. The intervention capacity of the
     RBI has not been exhausted, but the
   unit: pct
   values:
   - 70.0
-- &id048
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: prices have oscillated through the week between INR 40,800 and INR
     41,900, settling around INR Oil misleads.
@@ -474,8 +426,7 @@ numeric_observations:
   values:
   - 40800.0
   - 41900.0
-- &id049
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 40,900 at the time of writing, a mid-week pattern that mirrors Week
     15's uneven recovery in yard-level
@@ -483,40 +434,35 @@ numeric_observations:
   values:
   - 40900.0
   - 15.0
-- &id050
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: energy supply. At a USD equivalent of approximately USD 437 per ton,
     India remains the lowest-priced
   unit: usd
   values:
   - 437.0
-- &id051
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: destination in the sub-continent, with the gap to Pakistan holding
     near USD 200 per LDT. This position
   unit: usd
   values:
   - 200.0
-- &id052
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: More than 110 yards at Alang hold valid Statements of Compliance, a
     capacity that no other sub- Supply lacking.
   unit: null
   values:
   - 110.0
-- &id053
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Pakistan's Week 16 extends and arguably intensifies the stability theme
     that defined Week 15. The
@@ -524,16 +470,14 @@ numeric_observations:
   values:
   - 16.0
   - 15.0
-- &id055
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Sta bility holds. Pakistani Rupee has held in a narrow range near 278.90
     through the week, essentially unchanged
   unit: null
   values:
   - 278.9
-- &id056
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: from the close of Week 14 and Week 15, and local steel plate prices
     at PKR 188,000 per ton have
@@ -542,8 +486,7 @@ numeric_observations:
   - 14.0
   - 15.0
   - 188000.0
-- &id057
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: pushed further above the Week 14 level, translating to a USD equivalent
     near USD 671 per ton.
@@ -551,16 +494,14 @@ numeric_observations:
   values:
   - 14.0
   - 671.0
-- &id058
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: widened modestly to approximately USD 230 per ton at current levels,
     reaffirming Pakistan's
   unit: usd
   values:
   - 230.0
-- &id059
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: March 2026 CPI at 7.3% sits above the State Bank's 5% to 7% target,
     driven primarily by transport
@@ -570,48 +511,42 @@ numeric_observations:
   - 7.3
   - 5.0
   - 7.0
-- &id060
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: at plus 12.5% on the month and housing, but the trajectory remains
     manageable for yard economics
   unit: pct
   values:
   - 12.5
-- &id061
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: noted in Week 15, that a broader de-escalation might moderate Pakistan's
     Gulf proximity
   unit: null
   values:
   - 15.0
-- &id062
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Turkey enters Week 16 having consolidated rather than extended the
     modest gains of the previous
   unit: null
   values:
   - 16.0
-- &id064
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: week. The Turkish lira has held near 44.30 against the US Dollar, essentially
     unchanged from the
   unit: null
   values:
   - 44.3
-- &id065
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Week 15 close of 44.34, with neither fresh downside from the broader
     geopolitical environment nor
@@ -619,24 +554,21 @@ numeric_observations:
   values:
   - 15.0
   - 44.34
-- &id066
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: with constrained flexibility, having sold more than USD 8 billion in
     reserves during March and
   unit: usd
   values:
   - 8.0
-- &id067
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: unchanged entering Week 16, and the lira's week should be read as a
     pause rather than a turn.
   unit: null
   values:
   - 16.0
-- &id068
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: March 2026 CPI at 30.87% printed below both 31.53% previously and market
     expectations of 31.4 %,
@@ -646,8 +578,7 @@ numeric_observations:
   - 30.87
   - 31.53
   - 31.4
-- &id069
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: costs accelerated to plus 34.35% annually and plus 4.52% on the month
     as fuel costs filtered through.
@@ -655,16 +586,14 @@ numeric_observations:
   values:
   - 34.35
   - 4.52
-- &id070
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Independent estimates remain materially higher, with ENAG at 54.62%
     and Istanbul Chamber data
   unit: pct
   values:
   - 54.62
-- &id071
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: at 37.68%. The central bank's 16% year-end target remains formally
     in place but is increasingly
@@ -672,8 +601,7 @@ numeric_observations:
   values:
   - 37.68
   - 16.0
-- &id072
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains structurally
     uncompetitive for
@@ -681,8 +609,7 @@ numeric_observations:
   values:
   - 268.0
   - 290.0
-- &id073
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: mainstream tonnage. The gap to Pakistan at approximately USD 445 to
     USD 480 per LDT, and to
@@ -690,8 +617,7 @@ numeric_observations:
   values:
   - 445.0
   - 480.0
-- &id074
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: Bangladesh at USD 460 to USD 495, is simply too wide to bridge on anything
     other than EU-regulated
@@ -699,16 +625,14 @@ numeric_observations:
   values:
   - 460.0
   - 495.0
-- &id075
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: to that niche. Outside it, nothing in Week 16 suggests any meaningful
     shift in positioning, and
   unit: null
   values:
   - 16.0
-- &id076
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: For Week 16 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -716,8 +640,7 @@ numeric_observations:
   values:
   - 16.0
   - 2026.0
-- &id077
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
   unit: null
@@ -729,8 +652,7 @@ numeric_observations:
   - -485.0
   - 490.0
   - -495.0
-- &id078
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Firming 445-450 / LDT 465-470 / LDT 475-480 / LDT
   unit: null
@@ -742,8 +664,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id079
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 3 India Softening 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -752,8 +673,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id080
-  section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 268-270 / LDT 278-280 / LDT 288-290 / LDT
   unit: null
@@ -1066,86 +986,659 @@ section_count: 3
 signals:
   numeric_observation_count: 117
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The Week 15 thesis that the war premium was cracking has not held.What
+      looked like a diplomatic off-ramp has narrowed into a less convincing outcome.
+      Washington and Tehran are considering a two-week ceasefire extension, but talks
+      are now focused on a temporary
+    unit: null
+    values:
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: Risk remains elevated. The U.S. has imposed a naval blockade on Iranian
+      ports, while Tehran continues to restrict the Strait of Hormuz to non-Iranian
+      traffic. The Department of Defense is deploying 6,000 additional troops, with
+      a further 4,200 expected by mont
+    unit: null
+    values:
+    - 6000.0
+    - 4200.0
+  - section: Main
+    section_type: null
+    source_line: Brent traded between USD 94.89 and USD 97.06 per barrel, settling
+      near USD 95, down from Week 15's USD 101 close. The driver has shifted from
+      de-escalation hopes to demand concerns after the IEA cut its 2026 consumption
+      forecast. At the same time, U.S. crude i
+    unit: usd
+    values:
+    - 94.89
+    - 97.06
+    - 95.0
+    - 15.0
+    - 101.0
+    - 2026.0
+    - 9.13
+    - 154000.0
+  - section: Main
+    section_type: null
+    source_line: 'Freight is clearer. The Baltic Dry Index extended its rally to nine
+      consecutive sessions, closing at 2,523 on April 16, up 39 points and at its
+      highest level since early December. Capesize rates moved above 3,100 points
+      to a four-month high on Brazil to China '
+    unit: null
+    values:
+    - 2523.0
+    - 16.0
+    - 39.0
+    - 3100.0
+  - section: Main
+    section_type: null
+    source_line: Currencies and steel are not the drivers. The USD/INR is around 93.46,
+      Pakistan and Bangladesh remain steady, the Turkish Lira has held its recovery,
+      and the Dollar Index remains near 99. Bangladesh steel holds Week 15 gains,
+      while Pakistan edges higher.
+    unit: usd_per_unit
+    values:
+    - 93.46
+    - 99.0
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: 'The Week 15 expectation of a tonnage release has shifted. Week 16
+      shows that even a ceasefire extension can keep vessels trading. As Week 17 approaches,
+      the question is whether supply returns before the monsoon or rolls into a backlog,
+      dependent on the Hormuz '
+    unit: null
+    values:
+    - 15.0
+    - 16.0
+    - 17.0
+  - section: Main
+    section_type: null
+    source_line: For Week 16 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 174202570.jpg'
+    unit: null
+    values:
+    - 174202570.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -4.0
+    - -17.0
+    - 16.0
+    - 174202570.0
+    - 2.0
+    - 93.0
+    - 2314.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x152 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 52.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Pakistan [Firming -[ 445-450/LDT [465-470 /LDT | 475.180 /LDT
+      |'
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.18
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
+    section_type: linked_image_asset
+    source_line: '[oa [turkey [Steady | 268-270 /LDT | 278-280/ LDT | 288-290 /LDT
+      |'
+    unit: null
+    values:
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: April 17t h, 2026
+    unit: null
+    values:
+    - 17.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Week 16
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 82, Issue 1231 -Albert Einstein
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 1231.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: The Week 15 thesis that the war premium was cra cking has not held.
+      What looked like a diplomatic
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: deploying 6,000 additional troops, with a further 4,200 expected
+      by month-end. A ten-day Israel-
+    unit: null
+    values:
+    - 6000.0
+    - 4200.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Brent traded between USD 94.89 and USD 97.06 per barrel, settling
+      near USD 95, down from Week
+    unit: usd
+    values:
+    - 94.89
+    - 97.06
+    - 95.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 15's USD 101 close. The driver has shifted from de-escalation hopes
+      to demand concerns after the
+    unit: usd
+    values:
+    - 15.0
+    - 101.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: IEA cut its 2026 consumption forecast. At the same time, U.S. crude
+      inventories posted a 9.13 million
+    unit: null
+    values:
+    - 2026.0
+    - 9.13
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: barrel draw against expectations of a 154,000-barrel build, the first
+      draw after seven consecutive
+    unit: null
+    values:
+    - 154000.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 2,523 on April 16, up 39 points and at its highest level since early
+      December. Capesize rates moved
+    unit: null
+    values:
+    - 2523.0
+    - 16.0
+    - 39.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: above 3,100 points to a four-month high on Brazil to China iron ore
+      flows, with Panamax and
+    unit: null
+    values:
+    - 3100.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: • Owners hold. Currencies and steel are not the drivers. The USD/INR
+      is around 93.46, Pakistan and Bangladesh
+    unit: usd_per_unit
+    values:
+    - 93.46
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: remain steady, the Turkish Lira has held its recovery, and the Dollar
+      Index remains near 99.
+    unit: null
+    values:
+    - 99.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh steel holds Week 15 gains, while Pakistan edges higher.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: The Week 15 expectation of a tonnage release has shifted. Week 16
+      shows that even a ceasefire
+    unit: null
+    values:
+    - 15.0
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: extension can keep vessels trading. As Week 17 approaches, the question
+      is whether supply returns
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 16 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 16 with its structural pricing advantage intact
+      and its pre-monsoon clock
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Wi ndow narrows. loudest. Local steel plate prices have held at BDT
+      71,000 per ton, sustaining the USD 578 to USD
+    unit: usd
+    values:
+    - 71000.0
+    - 578.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 584 per ton USD equivalent established the previous week. The USD/BDT
+      rate has remained steady
+    unit: usd_per_unit
+    values:
+    - 584.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: in the 122.70 to 122.85 range, unchanged from the close of Week 14
+      and Week 15, preserving the
+    unit: null
+    values:
+    - 122.7
+    - 122.85
+    - 14.0
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Compliance lingers. Post-Eid central bank approvals are gathering
+      further momentum entering Week 16, and the
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh's March 2026 CPI at 8.71% provides continued central bank
+      flexibility on LC approvals
+    unit: pct
+    values:
+    - 2026.0
+    - 8.71
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Supply decides. without introducing fresh macro concerns. Non-food
+      inflation at 9.09% remains elevated, but the
+    unit: pct
+    values:
+    - 9.09
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: the Baltic Dry Index to 2,523 points has made the supply side harder,
+      not easier. The oil softening
+    unit: null
+    values:
+    - 2523.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: India's Week 16 is characterised by the continuation of the currency
+      slide that began at the close of
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Week 15. The USD/INR rate has drifted to approximately 93.46, extending
+      the partial reversal of the C urrency tells.
+    unit: usd_per_unit
+    values:
+    - 15.0
+    - 93.46
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: RBI-engineered recovery from the Week 14 record low of 94.42. The
+      Strait of Hormuz remains
+    unit: null
+    values:
+    - 14.0
+    - 94.42
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: benefit that the Week 15 oil pullback was supposed to deliver to
+      India's import bill. Approximately
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 90% of India's LPG continues to transit routes impacted by the Hormuz
+      constraint and approximately
+    unit: pct
+    values:
+    - 90.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 70% of crude is similarly exposed. The intervention capacity of the
+      RBI has not been exhausted, but the
+    unit: pct
+    values:
+    - 70.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: prices have oscillated through the week between INR 40,800 and INR
+      41,900, settling around INR Oil misleads.
+    unit: null
+    values:
+    - 40800.0
+    - 41900.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 40,900 at the time of writing, a mid-week pattern that mirrors Week
+      15's uneven recovery in yard-level
+    unit: null
+    values:
+    - 40900.0
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: energy supply. At a USD equivalent of approximately USD 437 per ton,
+      India remains the lowest-priced
+    unit: usd
+    values:
+    - 437.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: destination in the sub-continent, with the gap to Pakistan holding
+      near USD 200 per LDT. This position
+    unit: usd
+    values:
+    - 200.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: More than 110 yards at Alang hold valid Statements of Compliance,
+      a capacity that no other sub- Supply lacking.
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's Week 16 extends and arguably intensifies the stability
+      theme that defined Week 15. The
+    unit: null
+    values:
+    - 16.0
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Sta bility holds. Pakistani Rupee has held in a narrow range near
+      278.90 through the week, essentially unchanged
+    unit: null
+    values:
+    - 278.9
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: from the close of Week 14 and Week 15, and local steel plate prices
+      at PKR 188,000 per ton have
+    unit: null
+    values:
+    - 14.0
+    - 15.0
+    - 188000.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: pushed further above the Week 14 level, translating to a USD equivalent
+      near USD 671 per ton.
+    unit: usd
+    values:
+    - 14.0
+    - 671.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: widened modestly to approximately USD 230 per ton at current levels,
+      reaffirming Pakistan's
+    unit: usd
+    values:
+    - 230.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: March 2026 CPI at 7.3% sits above the State Bank's 5% to 7% target,
+      driven primarily by transport
+    unit: pct
+    values:
+    - 2026.0
+    - 7.3
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: at plus 12.5% on the month and housing, but the trajectory remains
+      manageable for yard economics
+    unit: pct
+    values:
+    - 12.5
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: noted in Week 15, that a broader de-escalation might moderate Pakistan's
+      Gulf proximity
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Turkey enters Week 16 having consolidated rather than extended the
+      modest gains of the previous
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: week. The Turkish lira has held near 44.30 against the US Dollar,
+      essentially unchanged from the
+    unit: null
+    values:
+    - 44.3
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Week 15 close of 44.34, with neither fresh downside from the broader
+      geopolitical environment nor
+    unit: null
+    values:
+    - 15.0
+    - 44.34
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: with constrained flexibility, having sold more than USD 8 billion
+      in reserves during March and
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: unchanged entering Week 16, and the lira's week should be read as
+      a pause rather than a turn.
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: March 2026 CPI at 30.87% printed below both 31.53% previously and
+      market expectations of 31.4 %,
+    unit: pct
+    values:
+    - 2026.0
+    - 30.87
+    - 31.53
+    - 31.4
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: costs accelerated to plus 34.35% annually and plus 4.52% on the month
+      as fuel costs filtered through.
+    unit: pct
+    values:
+    - 34.35
+    - 4.52
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Independent estimates remain materially higher, with ENAG at 54.62%
+      and Istanbul Chamber data
+    unit: pct
+    values:
+    - 54.62
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: at 37.68%. The central bank's 16% year-end target remains formally
+      in place but is increasingly
+    unit: pct
+    values:
+    - 37.68
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains
+      structurally uncompetitive for
+    unit: usd
+    values:
+    - 268.0
+    - 290.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: mainstream tonnage. The gap to Pakistan at approximately USD 445
+      to USD 480 per LDT, and to
+    unit: usd
+    values:
+    - 445.0
+    - 480.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh at USD 460 to USD 495, is simply too wide to bridge on
+      anything other than EU-regulated
+    unit: usd
+    values:
+    - 460.0
+    - 495.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: to that niche. Outside it, nothing in Week 16 suggests any meaningful
+      shift in positioning, and
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: For Week 16 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 460.0
+    - -465.0
+    - 480.0
+    - -485.0
+    - 490.0
+    - -495.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Firming 445-450 / LDT 465-470 / LDT 475-480 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Softening 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 268-270 / LDT 278-280 / LDT 288-290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-04-17_gms-week-16-ceasefire-extended-not-resolved.html
 source_stem: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved

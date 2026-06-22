@@ -30,8 +30,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Oceanos - NTUA was established in 2016 and comprises 70 undergraduate
     students from various institutions.Located at the NTUA campus, the team is organized
@@ -56,7 +55,21 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: Oceanos - NTUA was established in 2016 and comprises 70 undergraduate
+      students from various institutions.Located at the NTUA campus, the team is organized
+      into five sub-teams. They actively participated in the HydroContest for two
+      years (2017-18) and have been
+    unit: null
+    values:
+    - 2016.0
+    - 70.0
+    - 2017.0
+    - -18.0
+    - 2.0
+    - 2023.0
+    - 1.0
 source: hellenic
 source_path: reports/hellenic/dry_charter/2024/2024-06-27_oceanos-ntua-national-technical-university-of-athens-greece.html
 source_stem: 2024-06-27_oceanos-ntua-national-technical-university-of-athens-greece

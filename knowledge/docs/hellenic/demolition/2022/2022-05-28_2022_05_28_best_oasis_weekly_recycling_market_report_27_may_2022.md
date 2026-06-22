@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 47
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 28/05/2022
   unit: null
@@ -41,8 +40,7 @@ numeric_observations:
   - 28.0
   - 5.0
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 20th May to 27th May 2022
   unit: null
@@ -50,32 +48,28 @@ numeric_observations:
   - 20.0
   - 27.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: Oil prices climbed again this week and WTI is currently trading at
     USD 114
   unit: usd
   values:
   - 114.0
-- &id004
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: June 1, declining U.S. crude inventories and the prospect of an EU
     ban on
   unit: null
   values:
   - 1.0
-- &id005
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: all participants agreed to a 50-basis point interest rate hike and
     laid out
   unit: null
   values:
   - 50.0
-- &id006
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: and ferronickel and export duty is hiked to 50% on iron ore and by
     15% on
@@ -83,16 +77,14 @@ numeric_observations:
   values:
   - 50.0
   - 15.0
-- &id007
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: som e steel intermediaries . The imposition of a 15% export duty will
     remove
   unit: pct
   values:
   - 15.0
-- &id008
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -101,24 +93,21 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id009
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 510 510
   unit: null
   values:
   - 510.0
   - 510.0
-- &id010
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: HMS 80:20 Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id011
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 27th May to 4th June 2022
   unit: null
@@ -126,8 +115,7 @@ numeric_observations:
   - 27.0
   - 4.0
   - 2022.0
-- &id012
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 11th June to 20th June 2022
   unit: null
@@ -135,8 +123,7 @@ numeric_observations:
   - 11.0
   - 20.0
   - 2022.0
-- &id013
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 25th June to 4th July 2022
   unit: null
@@ -144,24 +131,21 @@ numeric_observations:
   - 25.0
   - 4.0
   - 2022.0
-- &id014
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: Steel mills have increased Rebar offers by USD 10/MT this week due
     to
   unit: tonnage
   values:
   - 10.0
-- &id015
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 635 635
   unit: null
   values:
   - 635.0
   - 635.0
-- &id016
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 29th May to 1st June 2022
   unit: null
@@ -169,8 +153,7 @@ numeric_observations:
   - 29.0
   - 1.0
   - 2022.0
-- &id017
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 13th June to 16th June 2022
   unit: null
@@ -178,8 +161,7 @@ numeric_observations:
   - 13.0
   - 16.0
   - 2022.0
-- &id018
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 29th June to 2nd July 2022
   unit: null
@@ -187,76 +169,66 @@ numeric_observations:
   - 29.0
   - 2.0
   - 2022.0
-- &id019
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee advanced by 2% as the government withdrew fuel
   unit: pct
   values:
   - 2.0
-- &id020
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: the bailout program. It is currently trading at USD 199.50/USD.
   unit: usd
   values:
   - 199.5
-- &id021
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 600 600
   unit: null
   values:
   - 600.0
   - 600.0
-- &id022
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 14% for a fifth consecutive month despite soaring inflation and depleted
   unit: pct
   values:
   - 14.0
-- &id023
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: weakening Lira. The currency is presently trading at TL 16.40/USD.
   unit: usd
   values:
   - 16.4
-- &id024
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 340 340
   unit: null
   values:
   - 340.0
   - 340.0
-- &id025
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 330 330
   unit: null
   values:
   - 330.0
   - 330.0
-- &id026
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 320 320
   unit: null
   values:
   - 320.0
   - 320.0
-- &id027
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 80:20 & Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id028
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: AVIATOR BULK CARRIER 2007 JAPAN 4,681.00 DELIVERED INDIA 580.00
   unit: null
@@ -264,24 +236,21 @@ numeric_observations:
   - 2007.0
   - 4681.0
   - 580.0
-- &id029
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: NIKI OIL TANKER 2000 S. KOREA 40,711.00 AS-IS MALAYSIA UNDISCLOSED
   unit: null
   values:
   - 2000.0
   - 40711.0
-- &id030
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: ODYSSEY OIL TANKER 2002 S. KOREA 24,901.00 DELIVERED PAKISTAN UNDISCLOSED
   unit: null
   values:
   - 2002.0
   - 24901.0
-- &id031
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: MASCOT 8 OIL TANKER 1998 JAPAN 16,616.00 AS-IS SINGAPORE 640.00
   unit: null
@@ -290,23 +259,20 @@ numeric_observations:
   - 1998.0
   - 16616.0
   - 640.0
-- &id032
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: (Including 250 MT Bunkers)
   unit: tonnage
   values:
   - 250.0
-- &id033
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 1320 1314
   unit: null
   values:
   - 1320.0
   - 1314.0
-- &id034
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 1236 1239 1252
   unit: null
@@ -314,24 +280,21 @@ numeric_observations:
   - 1236.0
   - 1239.0
   - 1252.0
-- &id035
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 1148 1152
   unit: null
   values:
   - 1148.0
   - 1152.0
-- &id036
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 1108 1102
   unit: null
   values:
   - 1108.0
   - 1102.0
-- &id037
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -343,8 +306,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id038
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -357,8 +319,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id039
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -366,8 +327,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id040
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -376,8 +336,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id041
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -386,8 +345,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id042
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -396,15 +354,13 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id043
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Email: capt.xu@139.com,'
   unit: null
   values:
   - 139.0
-- &id044
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -413,8 +369,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id045
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -423,8 +378,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id046
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +81 354 522 405'
   unit: null
@@ -433,8 +387,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id047
-  section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+- section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -453,53 +406,370 @@ section_count: 2
 signals:
   numeric_observation_count: 47
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 28/05/2022
+    unit: null
+    values:
+    - 28.0
+    - 5.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 20th May to 27th May 2022
+    unit: null
+    values:
+    - 20.0
+    - 27.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: Oil prices climbed again this week and WTI is currently trading at
+      USD 114
+    unit: usd
+    values:
+    - 114.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: June 1, declining U.S. crude inventories and the prospect of an EU
+      ban on
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: all participants agreed to a 50-basis point interest rate hike and
+      laid out
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: and ferronickel and export duty is hiked to 50% on iron ore and by
+      15% on
+    unit: pct
+    values:
+    - 50.0
+    - 15.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: som e steel intermediaries . The imposition of a 15% export duty
+      will remove
+    unit: pct
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 510 510
+    unit: null
+    values:
+    - 510.0
+    - 510.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: HMS 80:20 Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 27th May to 4th June 2022
+    unit: null
+    values:
+    - 27.0
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 11th June to 20th June 2022
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 25th June to 4th July 2022
+    unit: null
+    values:
+    - 25.0
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: Steel mills have increased Rebar offers by USD 10/MT this week due
+      to
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 635 635
+    unit: null
+    values:
+    - 635.0
+    - 635.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 29th May to 1st June 2022
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 13th June to 16th June 2022
+    unit: null
+    values:
+    - 13.0
+    - 16.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 29th June to 2nd July 2022
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+    - 2022.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee advanced by 2% as the government withdrew fuel
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: the bailout program. It is currently trading at USD 199.50/USD.
+    unit: usd
+    values:
+    - 199.5
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 600 600
+    unit: null
+    values:
+    - 600.0
+    - 600.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 14% for a fifth consecutive month despite soaring inflation and depleted
+    unit: pct
+    values:
+    - 14.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: weakening Lira. The currency is presently trading at TL 16.40/USD.
+    unit: usd
+    values:
+    - 16.4
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 340 340
+    unit: null
+    values:
+    - 340.0
+    - 340.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 330 330
+    unit: null
+    values:
+    - 330.0
+    - 330.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 320 320
+    unit: null
+    values:
+    - 320.0
+    - 320.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 80:20 & Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: AVIATOR BULK CARRIER 2007 JAPAN 4,681.00 DELIVERED INDIA 580.00
+    unit: null
+    values:
+    - 2007.0
+    - 4681.0
+    - 580.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: NIKI OIL TANKER 2000 S. KOREA 40,711.00 AS-IS MALAYSIA UNDISCLOSED
+    unit: null
+    values:
+    - 2000.0
+    - 40711.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: ODYSSEY OIL TANKER 2002 S. KOREA 24,901.00 DELIVERED PAKISTAN UNDISCLOSED
+    unit: null
+    values:
+    - 2002.0
+    - 24901.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: MASCOT 8 OIL TANKER 1998 JAPAN 16,616.00 AS-IS SINGAPORE 640.00
+    unit: null
+    values:
+    - 8.0
+    - 1998.0
+    - 16616.0
+    - 640.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: (Including 250 MT Bunkers)
+    unit: tonnage
+    values:
+    - 250.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1320 1314
+    unit: null
+    values:
+    - 1320.0
+    - 1314.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1236 1239 1252
+    unit: null
+    values:
+    - 1236.0
+    - 1239.0
+    - 1252.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1148 1152
+    unit: null
+    values:
+    - 1148.0
+    - 1152.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1108 1102
+    unit: null
+    values:
+    - 1108.0
+    - 1102.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: capt.xu@139.com,'
+    unit: null
+    values:
+    - 139.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2022-05-28_Weekly-Ship-Recycling-Report_27_May_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-05-28_best-oasis-weekly-recycling-market-report-27-may-2022.html
 source_stem: 2022-05-28_best-oasis-weekly-recycling-market-report-27-may-2022

@@ -29,8 +29,7 @@ linked_assets_skipped: 2
 market_tone: cautiously_bearish
 numeric_observation_count: 105
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 22/01/2024
   unit: null
@@ -38,8 +37,7 @@ numeric_observations:
   - 22.0
   - 1.0
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling_img1.jpg'
   unit: null
@@ -49,8 +47,7 @@ numeric_observations:
   - -22.0
   - 3.0
   - -2024.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: With 2024 well underway and HKC sales having taken center stage of
     late, GMSremains delighted to remind our readers that its Sustainable Ship & Offshore
@@ -59,8 +56,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: In a testament to this fact, since inception, SSORP has not only completed
     the successful recycling supervision & compliance monitoring of over 120 ships
@@ -70,8 +66,7 @@ numeric_observations:
   values:
   - 120.0
   - 30.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Ship Recycling front this week, even as vessel prices improved
     from the lows seen towards the end of 2023 and plate prices made a massive jump
@@ -83,8 +78,7 @@ numeric_observations:
   - 2024.0
   - 500.0
   - 100.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 3 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -92,8 +86,7 @@ numeric_observations:
   values:
   - 3.0
   - 2024.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: "\U0001F4C4 Download PDF: Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf"
   unit: null
@@ -101,8 +94,7 @@ numeric_observations:
   - 3.0
   - -2024.0
   - -2024.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling_img2.jpg'
   unit: null
@@ -112,8 +104,7 @@ numeric_observations:
   - -22.0
   - 3.0
   - -2024.0
-- &id009
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: January 1 9th, 2024 "Life becomes easier when you learn to accept
   unit: null
@@ -121,94 +112,82 @@ numeric_observations:
   - 1.0
   - 9.0
   - 2024.0
-- &id010
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Volume 257, Issue 1118 the apology you never got."
   unit: null
   values:
   - 257.0
   - 1118.0
-- &id011
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Week 3
   unit: null
   values:
   - 3.0
-- &id012
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 2024, SSORP, & SHIP RECYCLING!
   unit: null
   values:
   - 2024.0
-- &id013
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: •GMS SSORP. With 2024 well underway and HKC sales having taken center
     stage of late, GMS remai ns delighted
   unit: null
   values:
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: supervisio n & compliance monitoring of over 120 ships & of fshore
     assets, over the years, SSORP
   unit: null
   values:
   - 120.0
-- &id015
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 30 ship & offshore owners have nominated SSORP as their only compliance
     monitoring partner.
   unit: null
   values:
   - 30.0
-- &id016
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: • Low USD 500s/LDT. at the helm, your company's ESG requirements are
     adeptly realized & aligned with your recycling
   unit: usd
   values:
   - 500.0
-- &id017
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: the end of 2023 and plate prices made a massive jump in Bangladesh
     over the last couple of weeks,
   unit: null
   values:
   - 2023.0
-- &id018
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: • Scan to download only a trickle of sales have been confirmed into
     the recycling markets in 2024 thus far. There also
   unit: null
   values:
   - 2024.0
-- &id019
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: GMS Recycling App seems a reluctance from ship owners to bite at current
     offers in the low USD 500s/LDT, having
   unit: usd
   values:
   - 500.0
-- &id020
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: seen levels around USD 100/LDT higher only a couple of quarters ago.
     Mercifully, L/C restrictions
   unit: usd
   values:
   - 100.0
-- &id021
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: For week 3 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -216,8 +195,7 @@ numeric_observations:
   values:
   - 3.0
   - 2024.0
-- &id022
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -226,8 +204,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id023
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh* Improving 490 / LDT 510 / LDT 530 / LDT
   unit: null
@@ -236,8 +213,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 530.0
-- &id024
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -246,8 +222,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id025
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 340 / LDT 350 / LDT 360 / LDT
   unit: null
@@ -256,164 +231,143 @@ numeric_observations:
   - 340.0
   - 350.0
   - 360.0
-- &id026
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: country, and a whopping USD 50/Ton jump reported in local steel plate
     prices over the
   unit: usd
   values:
   - 50.0
-- &id028
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: On th e loca l fundamentals front, after the recent USD 50/Ton firming
     of plate prices, steel
   unit: usd
   values:
   - 50.0
-- &id029
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: spiked towards BDT 110 against the U.S. Dollar, only to strengthen
     marginally and end
   unit: null
   values:
   - 110.0
-- &id030
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: the week at levels closer to BDT 109.50.
   unit: null
   values:
   - 109.5
-- &id031
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: domestic steel has seen local plate prices decline by almost 10% in
     recent months (and a
   unit: pct
   values:
   - 10.0
-- &id033
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: further USD 6/Ton this week), whilst the Ind ian Rupee weakens in unison,
     crossing over
   unit: usd
   values:
   - 6.0
-- &id034
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: the dreaded Rs. 83 mark against the U.S. Dollar once again.
   unit: null
   values:
   - 83.0
-- &id035
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: recycling neighbours for much of 2023 has in advertently helped Alang
     Recyclers conclude
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: a handy collection of decent deals - even across January 2024 so far
     - with a majority of the
   unit: null
   values:
   - 2024.0
-- &id037
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: As such, MSC committed their third coInNtainDer IveAsse l with the
     sale of MSC JEMIMA (12,677
   unit: null
   values:
   - 12677.0
-- &id038
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: LDT) at an ongoing & decent USD 525/LT LDT, a price that not only includes
     about USD
   unit: usd
   values:
   - 525.0
-- &id039
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 10/Ton worth of bankers onboard, but also restricts the HKC only recycling
     resale to a
   unit: null
   values:
   - 10.0
-- &id040
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: India wil l likely get more than its fair share of the supply of recycling
     units through 2024
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: USD 525/LT LDT (for limited HKC
   unit: usd
   values:
   - 525.0
-- &id042
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: MSC JEMIMA Container 12,677
   unit: null
   values:
   - 12677.0
-- &id043
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Port Position on Page 7), local Recyclers with freshly available financing
     are reportedly
   unit: null
   values:
   - 7.0
-- &id045
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: This became even more apparent (in Pakistan) this week as despite only
     3 vessels being at
   unit: null
   values:
   - 3.0
-- &id046
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: India & Bangladesh, where 8 & 7 vessels are at their respective waterfronts
     - clearly
@@ -421,16 +375,14 @@ numeric_observations:
   values:
   - 8.0
   - 7.0
-- &id047
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Week 3 of 2021 has endured another wild snoozer for Aliaga Recyclers
     as there was no
@@ -438,38 +390,33 @@ numeric_observations:
   values:
   - 3.0
   - 2021.0
-- &id049
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: TRY 30.20.
   unit: null
   values:
   - 30.2
-- &id050
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line:  Sunlight can only penetrate to a depth of about 80m in the ocean.
   unit: null
   values:
   - 80.0
-- &id052
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line:  The largest light source in the oceans is Bioluminescence. In fact,
     a majority of the creatures thriving below about 1,500
   unit: null
   values:
   - 1500.0
-- &id053
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line:  Inside the closed space of an Easy-Bake oven, a 100-watt bulb can
     form a temperature of 325 F.
@@ -477,8 +424,7 @@ numeric_observations:
   values:
   - 100.0
   - 325.0
-- &id054
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 23 - January 30
   unit: null
@@ -486,24 +432,21 @@ numeric_observations:
   - 26.0
   - 23.0
   - 30.0
-- &id055
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: No Holidays in February February 08 - February 15
   unit: null
   values:
   - 8.0
   - 15.0
-- &id056
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: February 23 - February 27
   unit: null
   values:
   - 23.0
   - 27.0
-- &id057
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: February 21 - Marty's Day January 27 - January 30
   unit: null
@@ -511,8 +454,7 @@ numeric_observations:
   - 21.0
   - 27.0
   - 30.0
-- &id058
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: February 25 - Shab-e-Barat February 09 - February 14
   unit: null
@@ -520,16 +462,14 @@ numeric_observations:
   - 25.0
   - 9.0
   - 14.0
-- &id059
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: February 24 - February 29
   unit: null
   values:
   - 24.0
   - 29.0
-- &id060
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: February 10 - February 16 - Spring February 05 - Kashmir Solidarity
     No Holidays through February
@@ -538,24 +478,21 @@ numeric_observations:
   - 10.0
   - 16.0
   - 5.0
-- &id061
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id063
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 1 Arkay AB 11 (Under Tow) 788 Dumb Barge Beached January 16
   unit: null
@@ -564,8 +501,7 @@ numeric_observations:
   - 11.0
   - 788.0
   - 16.0
-- &id064
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 2 Arkay AB 12 (Under Tow) 779 Dumb Barge Arrived January 19
   unit: null
@@ -574,8 +510,7 @@ numeric_observations:
   - 12.0
   - 779.0
   - 19.0
-- &id065
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 3 AT Middle Bridge 3,406 General Cargo Arrived January 12
   unit: null
@@ -583,8 +518,7 @@ numeric_observations:
   - 3.0
   - 3406.0
   - 12.0
-- &id066
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 4 MSC Sophie 13,616 Container Beached January 12
   unit: null
@@ -592,8 +526,7 @@ numeric_observations:
   - 4.0
   - 13616.0
   - 12.0
-- &id067
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 5 MSC UMA 10,455 Container Beached January 13
   unit: null
@@ -601,8 +534,7 @@ numeric_observations:
   - 5.0
   - 10455.0
   - 13.0
-- &id068
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 6 Proliv Longa 1,270 Fishing Vessel Beached January 13
   unit: null
@@ -610,8 +542,7 @@ numeric_observations:
   - 6.0
   - 1270.0
   - 13.0
-- &id069
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 7 Sas 4 935 Supply Vessel Arrived December 16
   unit: null
@@ -620,8 +551,7 @@ numeric_observations:
   - 4.0
   - 935.0
   - 16.0
-- &id070
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 8 Viliga 807 Fishing Vessel Arrived January 18
   unit: null
@@ -629,23 +559,20 @@ numeric_observations:
   - 8.0
   - 807.0
   - 18.0
-- &id071
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 32,057
   unit: null
   values:
   - 32057.0
-- &id072
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id073
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 1 Duta 1 5,913 RoRo / Cargo Beached January 18
   unit: null
@@ -654,8 +581,7 @@ numeric_observations:
   - 1.0
   - 5913.0
   - 18.0
-- &id074
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 2 General Romulo (Dead Vessel) 2,553 General Cargo / Container Beached
     January 17
@@ -664,8 +590,7 @@ numeric_observations:
   - 2.0
   - 2553.0
   - 17.0
-- &id075
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 3 Guangzhou 8,895 Container Beached January 16
   unit: null
@@ -673,8 +598,7 @@ numeric_observations:
   - 3.0
   - 8895.0
   - 16.0
-- &id076
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 4 Jin Hai Xi 5,931 Bulk Carrier Beached January 13
   unit: null
@@ -682,8 +606,7 @@ numeric_observations:
   - 4.0
   - 5931.0
   - 13.0
-- &id077
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 5 Sambong 3 2,570 General Cargo Arrived January 18
   unit: null
@@ -692,8 +615,7 @@ numeric_observations:
   - 3.0
   - 2570.0
   - 18.0
-- &id078
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 6 Yi Cheng 58 4,301 MPP Arrived January 16
   unit: null
@@ -702,8 +624,7 @@ numeric_observations:
   - 58.0
   - 4301.0
   - 16.0
-- &id079
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: 7 Yong Feng 2,055 Tanker Beached January 17
   unit: null
@@ -711,8 +632,7 @@ numeric_observations:
   - 7.0
   - 2055.0
   - 17.0
-- &id080
-  section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+- section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 32,218
   unit: null
@@ -975,86 +895,615 @@ section_count: 4
 signals:
   numeric_observation_count: 105
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 22/01/2024
+    unit: null
+    values:
+    - 22.0
+    - 1.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling_img1.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -22.0
+    - 3.0
+    - -2024.0
+  - section: Main
+    section_type: null
+    source_line: With 2024 well underway and HKC sales having taken center stage of
+      late, GMSremains delighted to remind our readers that its Sustainable Ship &
+      Offshore Recycling Program (SSORP) continues to surpass all of the stipulations
+      & requirements for the environmental
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: In a testament to this fact, since inception, SSORP has not only
+      completed the successful recycling supervision & compliance monitoring of over
+      120 ships & offshore assets, over the years, SSORP has also become the only
+      choice for a growing number of prestigio
+    unit: null
+    values:
+    - 120.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: On the Ship Recycling front this week, even as vessel prices improved
+      from the lows seen towards the end of 2023 and plate prices made a massive jump
+      in Bangladesh over the last couple of weeks, only a trickle of sales have been
+      confirmed into the recycling ma
+    unit: usd
+    values:
+    - 2023.0
+    - 2024.0
+    - 500.0
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: For week 3 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: "\U0001F4C4 Download PDF: Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf"
+    unit: null
+    values:
+    - 3.0
+    - -2024.0
+    - -2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling_img2.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -22.0
+    - 3.0
+    - -2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: January 1 9th, 2024 "Life becomes easier when you learn to accept
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Volume 257, Issue 1118 the apology you never got."
+    unit: null
+    values:
+    - 257.0
+    - 1118.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Week 3
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 2024, SSORP, & SHIP RECYCLING!
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: •GMS SSORP. With 2024 well underway and HKC sales having taken center
+      stage of late, GMS remai ns delighted
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: supervisio n & compliance monitoring of over 120 ships & of fshore
+      assets, over the years, SSORP
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 30 ship & offshore owners have nominated SSORP as their only compliance
+      monitoring partner.
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: • Low USD 500s/LDT. at the helm, your company's ESG requirements
+      are adeptly realized & aligned with your recycling
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: the end of 2023 and plate prices made a massive jump in Bangladesh
+      over the last couple of weeks,
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download only a trickle of sales have been confirmed into
+      the recycling markets in 2024 thus far. There also
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: GMS Recycling App seems a reluctance from ship owners to bite at
+      current offers in the low USD 500s/LDT, having
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: seen levels around USD 100/LDT higher only a couple of quarters ago.
+      Mercifully, L/C restrictions
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: For week 3 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh* Improving 490 / LDT 510 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 490.0
+    - 510.0
+    - 530.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 340 / LDT 350 / LDT 360 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 340.0
+    - 350.0
+    - 360.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: country, and a whopping USD 50/Ton jump reported in local steel plate
+      prices over the
+    unit: usd
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: On th e loca l fundamentals front, after the recent USD 50/Ton firming
+      of plate prices, steel
+    unit: usd
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: spiked towards BDT 110 against the U.S. Dollar, only to strengthen
+      marginally and end
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: the week at levels closer to BDT 109.50.
+    unit: null
+    values:
+    - 109.5
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: domestic steel has seen local plate prices decline by almost 10%
+      in recent months (and a
+    unit: pct
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: further USD 6/Ton this week), whilst the Ind ian Rupee weakens in
+      unison, crossing over
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: the dreaded Rs. 83 mark against the U.S. Dollar once again.
+    unit: null
+    values:
+    - 83.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: recycling neighbours for much of 2023 has in advertently helped Alang
+      Recyclers conclude
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: a handy collection of decent deals - even across January 2024 so
+      far - with a majority of the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: As such, MSC committed their third coInNtainDer IveAsse l with the
+      sale of MSC JEMIMA (12,677
+    unit: null
+    values:
+    - 12677.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: LDT) at an ongoing & decent USD 525/LT LDT, a price that not only
+      includes about USD
+    unit: usd
+    values:
+    - 525.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 10/Ton worth of bankers onboard, but also restricts the HKC only
+      recycling resale to a
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: India wil l likely get more than its fair share of the supply of
+      recycling units through 2024
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: USD 525/LT LDT (for limited HKC
+    unit: usd
+    values:
+    - 525.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: MSC JEMIMA Container 12,677
+    unit: null
+    values:
+    - 12677.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Port Position on Page 7), local Recyclers with freshly available
+      financing are reportedly
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: This became even more apparent (in Pakistan) this week as despite
+      only 3 vessels being at
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: India & Bangladesh, where 8 & 7 vessels are at their respective waterfronts
+      - clearly
+    unit: null
+    values:
+    - 8.0
+    - 7.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Week 3 of 2021 has endured another wild snoozer for Aliaga Recyclers
+      as there was no
+    unit: null
+    values:
+    - 3.0
+    - 2021.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: TRY 30.20.
+    unit: null
+    values:
+    - 30.2
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line:  Sunlight can only penetrate to a depth of about 80m in the ocean.
+    unit: null
+    values:
+    - 80.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line:  The largest light source in the oceans is Bioluminescence. In fact,
+      a majority of the creatures thriving below about 1,500
+    unit: null
+    values:
+    - 1500.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line:  Inside the closed space of an Easy-Bake oven, a 100-watt bulb can
+      form a temperature of 325 F.
+    unit: null
+    values:
+    - 100.0
+    - 325.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 23 - January 30
+    unit: null
+    values:
+    - 26.0
+    - 23.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in February February 08 - February 15
+    unit: null
+    values:
+    - 8.0
+    - 15.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: February 23 - February 27
+    unit: null
+    values:
+    - 23.0
+    - 27.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Marty's Day January 27 - January 30
+    unit: null
+    values:
+    - 21.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: February 25 - Shab-e-Barat February 09 - February 14
+    unit: null
+    values:
+    - 25.0
+    - 9.0
+    - 14.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: February 24 - February 29
+    unit: null
+    values:
+    - 24.0
+    - 29.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: February 10 - February 16 - Spring February 05 - Kashmir Solidarity
+      No Holidays through February
+    unit: null
+    values:
+    - 10.0
+    - 16.0
+    - 5.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 1 Arkay AB 11 (Under Tow) 788 Dumb Barge Beached January 16
+    unit: null
+    values:
+    - 1.0
+    - 11.0
+    - 788.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 2 Arkay AB 12 (Under Tow) 779 Dumb Barge Arrived January 19
+    unit: null
+    values:
+    - 2.0
+    - 12.0
+    - 779.0
+    - 19.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 3 AT Middle Bridge 3,406 General Cargo Arrived January 12
+    unit: null
+    values:
+    - 3.0
+    - 3406.0
+    - 12.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 4 MSC Sophie 13,616 Container Beached January 12
+    unit: null
+    values:
+    - 4.0
+    - 13616.0
+    - 12.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 5 MSC UMA 10,455 Container Beached January 13
+    unit: null
+    values:
+    - 5.0
+    - 10455.0
+    - 13.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 6 Proliv Longa 1,270 Fishing Vessel Beached January 13
+    unit: null
+    values:
+    - 6.0
+    - 1270.0
+    - 13.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 7 Sas 4 935 Supply Vessel Arrived December 16
+    unit: null
+    values:
+    - 7.0
+    - 4.0
+    - 935.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 8 Viliga 807 Fishing Vessel Arrived January 18
+    unit: null
+    values:
+    - 8.0
+    - 807.0
+    - 18.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 32,057
+    unit: null
+    values:
+    - 32057.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 1 Duta 1 5,913 RoRo / Cargo Beached January 18
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 5913.0
+    - 18.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 2 General Romulo (Dead Vessel) 2,553 General Cargo / Container Beached
+      January 17
+    unit: null
+    values:
+    - 2.0
+    - 2553.0
+    - 17.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 3 Guangzhou 8,895 Container Beached January 16
+    unit: null
+    values:
+    - 3.0
+    - 8895.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 4 Jin Hai Xi 5,931 Bulk Carrier Beached January 13
+    unit: null
+    values:
+    - 4.0
+    - 5931.0
+    - 13.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 5 Sambong 3 2,570 General Cargo Arrived January 18
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+    - 2570.0
+    - 18.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 6 Yi Cheng 58 4,301 MPP Arrived January 16
+    unit: null
+    values:
+    - 6.0
+    - 58.0
+    - 4301.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: 7 Yong Feng 2,055 Tanker Beached January 17
+    unit: null
+    values:
+    - 7.0
+    - 2055.0
+    - 17.0
+  - section: 'Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 32,218
+    unit: null
+    values:
+    - 32218.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-01-22_gms-week-03-2024-ssorp-ship-recycling.html
 source_stem: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling

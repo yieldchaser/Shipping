@@ -31,8 +31,7 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 43
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 15th October 2021 to 22nd October 2021
   unit: null
@@ -41,8 +40,7 @@ numeric_observations:
   - 2021.0
   - 22.0
   - 2021.0
-- &id002
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: shortages. While the 1st half of 2021 saw the demolition prices rising
     led by
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 1.0
   - 2021.0
-- &id003
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -60,16 +57,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id004
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: HMS 80:20 Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id005
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 19th October to 25th October 2021
   unit: null
@@ -77,8 +72,7 @@ numeric_observations:
   - 19.0
   - 25.0
   - 2021.0
-- &id006
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 3rd November to 11th November 2021
   unit: null
@@ -86,8 +80,7 @@ numeric_observations:
   - 3.0
   - 11.0
   - 2021.0
-- &id007
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 17th November to 24th November 2021
   unit: null
@@ -95,15 +88,13 @@ numeric_observations:
   - 17.0
   - 24.0
   - 2021.0
-- &id008
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 20/MT backed by continual rise in imported scrap prices.
   unit: tonnage
   values:
   - 20.0
-- &id009
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 4th November to 7th November 2021
   unit: null
@@ -111,8 +102,7 @@ numeric_observations:
   - 4.0
   - 7.0
   - 2021.0
-- &id010
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 17th November to 20th November 2021
   unit: null
@@ -120,84 +110,73 @@ numeric_observations:
   - 17.0
   - 20.0
   - 2021.0
-- &id011
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: is currently trading at PKR 173.81/USD.
   unit: usd
   values:
   - 173.81
-- &id012
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 605 605
   unit: null
   values:
   - 605.0
   - 605.0
-- &id013
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 595 595
   unit: null
   values:
   - 595.0
   - 595.0
-- &id014
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: scrap prices by USD 25/MT whereas the imported scrap prices have risen
   unit: tonnage
   values:
   - 25.0
-- &id015
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: by USD 7/MT.
   unit: tonnage
   values:
   - 7.0
-- &id016
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: ease policy, the bank lowered its repo rate to 16%. The president has
     urged
   unit: pct
   values:
   - 16.0
-- &id017
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: high foreign debt. It is currently trading at TL 9.58/USD.
   unit: usd
   values:
   - 9.58
-- &id018
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 300 300
   unit: null
   values:
   - 300.0
   - 300.0
-- &id019
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 290 290
   unit: null
   values:
   - 290.0
   - 290.0
-- &id020
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 80:20 & Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id021
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Chemical Pioneer Chemical Tanker 1968 U.S.A. 12,269.00 As-Is Philadelphia
     Undisclosed
@@ -205,8 +184,7 @@ numeric_observations:
   values:
   - 1968.0
   - 12269.0
-- &id022
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Massarah Ro-Ro Passenger 1977 Denmark 5,883.40 As-Is Safaga/KFK 500
   unit: null
@@ -214,8 +192,7 @@ numeric_observations:
   - 1977.0
   - 5883.4
   - 500.0
-- &id023
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Mahabbah Ro-Ro Passenger 1972 Japan 7,175.70 As-Is Safaga/KFK 500
   unit: null
@@ -223,8 +200,7 @@ numeric_observations:
   - 1972.0
   - 7175.7
   - 500.0
-- &id024
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Asan Ho Dredger 1992 S. Korea 3152.80 As-Is Batam 345
   unit: null
@@ -232,8 +208,7 @@ numeric_observations:
   - 1992.0
   - 3152.8
   - 345.0
-- &id025
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Sonangol Luanda Tanker 2000 S. Korea 23,192.00 Delivered Alang 587
   unit: null
@@ -241,8 +216,7 @@ numeric_observations:
   - 2000.0
   - 23192.0
   - 587.0
-- &id026
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Sonangol Girassol Tanker 2000 S. Korea 23,312.87 Delivered Alang 587
   unit: null
@@ -250,16 +224,14 @@ numeric_observations:
   - 2000.0
   - 23312.87
   - 587.0
-- &id027
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Aris Tanker 2001 Romania 11,442.00 As-Is UAE Undisclosed
   unit: null
   values:
   - 2001.0
   - 11442.0
-- &id028
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: Pelican Tanker 1999 Japan 4,234.00 As-Is KFK/Sri Lanka 942
   unit: null
@@ -267,24 +239,21 @@ numeric_observations:
   - 1999.0
   - 4234.0
   - 942.0
-- &id029
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 769 768
   unit: null
   values:
   - 769.0
   - 768.0
-- &id030
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 710 710
   unit: null
   values:
   - 710.0
   - 710.0
-- &id031
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -296,8 +265,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id032
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -310,8 +278,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id033
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -319,8 +286,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id034
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -329,8 +295,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id035
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 461 7999'
   unit: null
@@ -339,15 +304,13 @@ numeric_observations:
   - 210.0
   - 461.0
   - 7999.0
-- &id036
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Ext: 241'
   unit: null
   values:
   - 241.0
-- &id037
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -356,8 +319,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id038
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -366,22 +328,19 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id039
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Email: capt.xu@139.com,'
   unit: null
   values:
   - 139.0
-- &id040
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Ext: 243'
   unit: null
   values:
   - 243.0
-- &id041
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -390,8 +349,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id042
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +81 354 522 405'
   unit: null
@@ -400,8 +358,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id043
-  section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+- section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -420,49 +377,344 @@ section_count: 2
 signals:
   numeric_observation_count: 43
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 15th October 2021 to 22nd October 2021
+    unit: null
+    values:
+    - 15.0
+    - 2021.0
+    - 22.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: shortages. While the 1st half of 2021 saw the demolition prices rising
+      led by
+    unit: null
+    values:
+    - 1.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: HMS 80:20 Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 19th October to 25th October 2021
+    unit: null
+    values:
+    - 19.0
+    - 25.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 3rd November to 11th November 2021
+    unit: null
+    values:
+    - 3.0
+    - 11.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 17th November to 24th November 2021
+    unit: null
+    values:
+    - 17.0
+    - 24.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 20/MT backed by continual rise in imported scrap prices.
+    unit: tonnage
+    values:
+    - 20.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 4th November to 7th November 2021
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 17th November to 20th November 2021
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+    - 2021.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: is currently trading at PKR 173.81/USD.
+    unit: usd
+    values:
+    - 173.81
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 605 605
+    unit: null
+    values:
+    - 605.0
+    - 605.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 595 595
+    unit: null
+    values:
+    - 595.0
+    - 595.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: scrap prices by USD 25/MT whereas the imported scrap prices have
+      risen
+    unit: tonnage
+    values:
+    - 25.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: by USD 7/MT.
+    unit: tonnage
+    values:
+    - 7.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: ease policy, the bank lowered its repo rate to 16%. The president
+      has urged
+    unit: pct
+    values:
+    - 16.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: high foreign debt. It is currently trading at TL 9.58/USD.
+    unit: usd
+    values:
+    - 9.58
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 300 300
+    unit: null
+    values:
+    - 300.0
+    - 300.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 290 290
+    unit: null
+    values:
+    - 290.0
+    - 290.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 80:20 & Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Chemical Pioneer Chemical Tanker 1968 U.S.A. 12,269.00 As-Is Philadelphia
+      Undisclosed
+    unit: null
+    values:
+    - 1968.0
+    - 12269.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Massarah Ro-Ro Passenger 1977 Denmark 5,883.40 As-Is Safaga/KFK 500
+    unit: null
+    values:
+    - 1977.0
+    - 5883.4
+    - 500.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Mahabbah Ro-Ro Passenger 1972 Japan 7,175.70 As-Is Safaga/KFK 500
+    unit: null
+    values:
+    - 1972.0
+    - 7175.7
+    - 500.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Asan Ho Dredger 1992 S. Korea 3152.80 As-Is Batam 345
+    unit: null
+    values:
+    - 1992.0
+    - 3152.8
+    - 345.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Sonangol Luanda Tanker 2000 S. Korea 23,192.00 Delivered Alang 587
+    unit: null
+    values:
+    - 2000.0
+    - 23192.0
+    - 587.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Sonangol Girassol Tanker 2000 S. Korea 23,312.87 Delivered Alang
+      587
+    unit: null
+    values:
+    - 2000.0
+    - 23312.87
+    - 587.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Aris Tanker 2001 Romania 11,442.00 As-Is UAE Undisclosed
+    unit: null
+    values:
+    - 2001.0
+    - 11442.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: Pelican Tanker 1999 Japan 4,234.00 As-Is KFK/Sri Lanka 942
+    unit: null
+    values:
+    - 1999.0
+    - 4234.0
+    - 942.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 769 768
+    unit: null
+    values:
+    - 769.0
+    - 768.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 710 710
+    unit: null
+    values:
+    - 710.0
+    - 710.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 461 7999'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 461.0
+    - 7999.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Ext: 241'
+    unit: null
+    values:
+    - 241.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: capt.xu@139.com,'
+    unit: null
+    values:
+    - 139.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Ext: 243'
+    unit: null
+    values:
+    - 243.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021_weekly-ship-recycling-report-3_413ac93b35b3.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021.html
 source_stem: 2021-10-23_best-oasis-weekly-recycling-market-report-22-october-2021

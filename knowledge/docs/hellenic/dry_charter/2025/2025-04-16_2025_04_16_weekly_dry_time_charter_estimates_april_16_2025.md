@@ -142,6 +142,17 @@ signals:
   - *id008
   - *id009
   rate_observations:
+  - segment: supramax
+    source_line: SMAXIULTRA 14,250 15,000 14,000 ‘4500 | 13,000 13,850
+    timeframe: null
+    unit: null
+    values:
+    - 14250.0
+    - 15000.0
+    - 14000.0
+    - 4500.0
+    - 13000.0
+    - 13850.0
   - segment: capesize
     source_line: CAPESIZE 22,000 22,000 21,000 21,000 | 24,000 21,000
     timeframe: null
@@ -155,6 +166,7 @@ signals:
     - 21000.0
   rate_summary:
     capesize: 21000.0
+    supramax: 13850.0
   signal_family: hellenic_charter_rates
   timeframes: []
 source: hellenic

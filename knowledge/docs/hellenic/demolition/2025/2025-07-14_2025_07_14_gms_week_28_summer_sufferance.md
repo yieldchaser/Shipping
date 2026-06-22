@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 103
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Trump''s twisted tariff tantrums went terminal this week after his
     self-imposed July 1st deadline to major U.S. trade partners on presentingpotential
@@ -50,8 +49,7 @@ numeric_observations:
   - 26.4
   - 8.0
   - 2.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: In the interim, international ship recycling markets continue suffering
     over these summer / monsoon months as prices fall and an overall temperament of
@@ -61,8 +59,7 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: As a result, incessant market volatilities have seen fundamentals drive
     prices from the highs of USD 600/Ton in January of 2024, down to below 400/LDT
@@ -74,8 +71,7 @@ numeric_observations:
   - 2024.0
   - 400.0
   - 390.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-07-14_gms-week-28-summer-sufferance_img1_147_3f3ce78acb46.png'
   unit: null
@@ -88,39 +84,34 @@ numeric_observations:
   - 3.0
   - 8.0
   - 6.0
-- &id005
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: July 11th, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Week 28
   unit: null
   values:
   - 28.0
-- &id007
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Volume 274, Issue 1193
   unit: null
   values:
   - 274.0
   - 1193.0
-- &id008
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: • Terminal tariffs. Trump's twisted tariff tantrums went terminal th
     is week after his self-imposed July 1st deadline to
   unit: null
   values:
   - 1.0
-- &id009
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: trading nations that were in his crosshairs. As a result, a new deadline
     of August 1st, 2025, has been
@@ -128,8 +119,7 @@ numeric_observations:
   values:
   - 1.0
   - 2025.0
-- &id010
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: put forth as the final date to respond, all while tariffs ranging from
     15% to 50% on nations from
@@ -137,24 +127,21 @@ numeric_observations:
   values:
   - 15.0
   - 50.0
-- &id011
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: currencies, even seeing the Turkish Lira finally breach the dreaded
     TRY 40 mark this week. Local
   unit: null
   values:
   - 40.0
-- &id012
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: • Rising reticence. a 13.5% jump in the freight index this week, primarily
     on the back of the Cape index that jumped a
   unit: pct
   values:
   - 13.5
-- &id013
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: whopping 26.4%, whilst the Panamax and Supramax indices added 8% and
     2% respectively.
@@ -163,24 +150,21 @@ numeric_observations:
   - 26.4
   - 8.0
   - 2.0
-- &id014
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: volatile fundamentals, a Hong Kong Convention that finally came into
     effect on June 26th, a rising
   unit: null
   values:
   - 26.0
-- &id015
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: • Gov impacts. the supply of tonnage throughout the year, against the
     backdrop of an expectedly busier 2025.
   unit: null
   values:
   - 2025.0
-- &id016
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: • Scan to download 600/Ton in January of 2024, down to below 400/LDT
     on certain vessels given that one Handymax
@@ -189,16 +173,14 @@ numeric_observations:
   - 600.0
   - 2024.0
   - 400.0
-- &id017
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: / view the Weekly bulker was concluded at about USD 390/LDT into Bangladesh
     last week, as market movements scare
   unit: usd
   values:
   - 390.0
-- &id018
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 28 of 2025 are on Page 5.
   unit: null
@@ -206,48 +188,42 @@ numeric_observations:
   - 28.0
   - 2025.0
   - 5.0
-- &id019
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: and fall to the lowest level they have been since January of 2024,
     when a container vessel was sold
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: at a massive price of USD 600/Ton to a local recycler. And while there
     have been deals concluded
   unit: usd
   values:
   - 600.0
-- &id022
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: below the USD 400/LDT mark, for the time being at least, it seems that
     a healthy majority (if not
   unit: usd
   values:
   - 400.0
-- &id023
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: for tonnage as only 12 have thus far managed to get their HKC affairs
     in order and have already
   unit: null
   values:
   - 12.0
-- &id024
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Bel ow 400/LDT. taken in a bevy of deliveries over the last month.
     A remaining 10 are still scrambling to get their
@@ -255,23 +231,20 @@ numeric_observations:
   values:
   - 400.0
   - 10.0
-- &id025
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: regime in June of 2024. The nation has struggled with infrastructure
     projects ever since, causing
   unit: null
   values:
   - 2024.0
-- &id026
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: imported steel at region USD 330/Ton just last week.
   unit: usd
   values:
   - 330.0
-- &id027
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: about USD 3/Ton higher than last at about USD 552/Ton, where they flatlined
     till close of Friday.
@@ -279,8 +252,7 @@ numeric_observations:
   values:
   - 3.0
   - 552.0
-- &id028
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: an impressive 1.27% against the U.S. Dollar, closing the week out at
     BDT 121.40, after hitting an
@@ -288,79 +260,69 @@ numeric_observations:
   values:
   - 1.27
   - 121.4
-- &id029
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: impressive low of BDT 120.62 mid-week. Adding to the silver-linings
     is the fact that another large
   unit: null
   values:
   - 120.62
-- &id030
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: LNG arrived local anchorage, bumping the total LDT at Chattogram to
     over 42K this week.
   unit: null
   values:
   - 42.0
-- &id031
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: struggling to merely maintain balance amidst a serious "list" in its
     Q3 2025 performance.
   unit: null
   values:
   - 2025.0
-- &id032
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: each, India remained the leader of the pack with nearly 70K LDT of
     larger LDT tonnage arrivals and
   unit: null
   values:
   - 70.0
-- &id034
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: deliveries just this week, bumping the total number of vessels and
     tonnage at Alang anchorage to 6
   unit: null
   values:
   - 6.0
-- &id035
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: and nearly 104K LDT respectively. Certainly, an impressive number given
     that the number of market
   unit: null
   values:
   - 104.0
-- &id036
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: potential 35% tariffs would likely be applied against Indian imports.
   unit: pct
   values:
   - 35.0
-- &id037
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Although this did see the Indian Rupee drop 42 basis points against
     the U.S. Dollar and end the week
   unit: null
   values:
   - 42.0
-- &id038
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: at Rs. 85.80, local steel plate prices were the ones that climbed another
     (nearly) USD 3/Ton through No specialist.
@@ -368,63 +330,55 @@ numeric_observations:
   values:
   - 85.8
   - 3.0
-- &id039
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: the week, closing it out at nearly USD 430/Ton and shifting potential
     upcoming fixtures further into
   unit: usd
   values:
   - 430.0
-- &id040
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: reported U.S. Dollar reserves to have increased to over USD 702 Billion
     this week, further cementing
   unit: usd
   values:
   - 702.0
-- &id041
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: On the ship recycling front as well, having 10 times the number of
     approved yards in the Indian sub-
   unit: null
   values:
   - 10.0
-- &id042
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: A Is nto 1st.
   unit: null
   values:
   - 1.0
-- &id043
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Leading the way. Speaking of the waterfront, the markets were surprised
     to witness a smallish nearly 6K LDT Bulk
   unit: null
   values:
   - 6.0
-- &id045
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: As local offerings continue holding up above the psychological USD
     400/LDT mark while offers
   unit: usd
   values:
   - 400.0
-- &id046
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: it has consistently declined over the last 5 weeks, falling another
     15 basis points this week and
@@ -432,8 +386,7 @@ numeric_observations:
   values:
   - 5.0
   - 15.0
-- &id047
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: closing at PKR 283.40 against the U.S. Dollar, whilst briefly spiking
     above PKR 285 on more than
@@ -441,8 +394,7 @@ numeric_observations:
   values:
   - 283.4
   - 285.0
-- &id048
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: induced fear that saw steel climb nearly USD 4/Ton and close the week
     out at nearly USD 619/Ton
@@ -450,24 +402,21 @@ numeric_observations:
   values:
   - 4.0
   - 619.0
-- &id049
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: finally passed the point of no return, collapsing 82 basis points against
     the U.S. Dollar and closing
   unit: null
   values:
   - 82.0
-- &id051
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: the week out at TRY 40.20, but an approximately 3K LDT General Cargo
     vessel has reportedly been
@@ -475,23 +424,20 @@ numeric_observations:
   values:
   - 40.2
   - 3.0
-- &id052
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: concluded to a local recycler at levels region USD 260/MT.
   unit: tonnage
   values:
   - 260.0
-- &id053
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: This is impressive for 2 reasons as firstly, the dearth of tonnage
     has driven Aliaga recyclers out of
   unit: null
   values:
   - 2.0
-- &id054
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: For Week 28 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -499,8 +445,7 @@ numeric_observations:
   values:
   - 28.0
   - 2025.0
-- &id055
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Weak 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -509,8 +454,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id056
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -519,8 +463,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id057
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -529,8 +472,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id058
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -539,16 +481,14 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id059
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line:  Babies have more bones than adults. A lot more. Babies are born with
     about 300 bones, whereas adults have 206 bones. As
@@ -556,8 +496,7 @@ numeric_observations:
   values:
   - 300.0
   - 206.0
-- &id061
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 09 - Raksha Bandhan July 08 - July 16
   unit: null
@@ -565,8 +504,7 @@ numeric_observations:
   - 9.0
   - 8.0
   - 16.0
-- &id062
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day July 21 - July 29
   unit: null
@@ -574,8 +512,7 @@ numeric_observations:
   - 15.0
   - 21.0
   - 29.0
-- &id063
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami August 08 - August 16
   unit: null
@@ -583,16 +520,14 @@ numeric_observations:
   - 16.0
   - 8.0
   - 16.0
-- &id064
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 20 - August 27
   unit: null
   values:
   - 20.0
   - 27.0
-- &id065
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 05 - July Mass Uprising Day July 11 - July 14
   unit: null
@@ -600,8 +535,7 @@ numeric_observations:
   - 5.0
   - 11.0
   - 14.0
-- &id066
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 15 - National Mourning Day July 24 - July 27
   unit: null
@@ -609,8 +543,7 @@ numeric_observations:
   - 15.0
   - 24.0
   - 27.0
-- &id067
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami August 09 - August 12
   unit: null
@@ -618,8 +551,7 @@ numeric_observations:
   - 16.0
   - 9.0
   - 12.0
-- &id068
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: No holidays until September August 14 - Independence Day July 15 -
     Democracy & National
@@ -627,31 +559,27 @@ numeric_observations:
   values:
   - 14.0
   - 15.0
-- &id069
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: August 30 - Victory Day
   unit: null
   values:
   - 30.0
-- &id070
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 11, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -659,8 +587,7 @@ numeric_observations:
   - 1.0
   - 20001.0
   - 13.0
-- &id073
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 2 Enterprise 16,480 Container Delivered July 10
   unit: null
@@ -668,8 +595,7 @@ numeric_observations:
   - 2.0
   - 16480.0
   - 10.0
-- &id074
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 3 Inda 17,647 Oil Tanker Delivered July 11
   unit: null
@@ -677,8 +603,7 @@ numeric_observations:
   - 3.0
   - 17647.0
   - 11.0
-- &id075
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -686,8 +611,7 @@ numeric_observations:
   - 4.0
   - 9623.0
   - 7.0
-- &id076
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 5 Run Fu 2 6,183 Bulk Carrier Arrived June 04
   unit: null
@@ -696,8 +620,7 @@ numeric_observations:
   - 2.0
   - 6183.0
   - 4.0
-- &id077
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 6 Techno 34,047 LNG Carrier Delivered July 10
   unit: null
@@ -705,23 +628,20 @@ numeric_observations:
   - 6.0
   - 34047.0
   - 10.0
-- &id078
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 103,980
   unit: null
   values:
   - 103980.0
-- &id079
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of July 11, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id080
-  section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+- section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
   section_type: linked_pdf
   source_line: 1 Ang Min 11,243 Bulk Carrier Delivered July 02
   unit: null
@@ -968,86 +888,624 @@ section_count: 3
 signals:
   numeric_observation_count: 103
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'Trump''s twisted tariff tantrums went terminal this week after his
+      self-imposed July 1st deadline to major U.S. trade partners on presentingpotential
+      proposals to offset his tariffs saw no response from trading nations that were
+      in his crosshairs. As a result, '
+    unit: worldscale_pct
+    values:
+    - 1.0
+    - 1.0
+    - 2025.0
+    - 15.0
+    - 50.0
+    - 40.0
+    - 13.5
+    - 26.4
+    - 8.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: In the interim, international ship recycling markets continue suffering
+      over these summer / monsoon months as prices fall and an overall temperament
+      of diminishing demand settles in on the back of volatile fundamentals, a Hong
+      Kong Convention that finally came
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: As a result, incessant market volatilities have seen fundamentals
+      drive prices from the highs of USD 600/Ton in January of 2024, down to below
+      400/LDT on certain vessels given that one Handymax bulker was concluded at about
+      USD 390/LDT into Bangladesh last wee
+    unit: usd
+    values:
+    - 600.0
+    - 2024.0
+    - 400.0
+    - 390.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-07-14_gms-week-28-summer-sufferance_img1_147_3f3ce78acb46.png'
+    unit: null
+    values:
+    - 2025.0
+    - -7.0
+    - -14.0
+    - 28.0
+    - 147.0
+    - 3.0
+    - 8.0
+    - 6.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: July 11th, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Week 28
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Volume 274, Issue 1193
+    unit: null
+    values:
+    - 274.0
+    - 1193.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: • Terminal tariffs. Trump's twisted tariff tantrums went terminal
+      th is week after his self-imposed July 1st deadline to
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: trading nations that were in his crosshairs. As a result, a new deadline
+      of August 1st, 2025, has been
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: put forth as the final date to respond, all while tariffs ranging
+      from 15% to 50% on nations from
+    unit: pct
+    values:
+    - 15.0
+    - 50.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: currencies, even seeing the Turkish Lira finally breach the dreaded
+      TRY 40 mark this week. Local
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: • Rising reticence. a 13.5% jump in the freight index this week,
+      primarily on the back of the Cape index that jumped a
+    unit: pct
+    values:
+    - 13.5
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: whopping 26.4%, whilst the Panamax and Supramax indices added 8%
+      and 2% respectively.
+    unit: pct
+    values:
+    - 26.4
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: volatile fundamentals, a Hong Kong Convention that finally came into
+      effect on June 26th, a rising
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: • Gov impacts. the supply of tonnage throughout the year, against
+      the backdrop of an expectedly busier 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download 600/Ton in January of 2024, down to below 400/LDT
+      on certain vessels given that one Handymax
+    unit: null
+    values:
+    - 600.0
+    - 2024.0
+    - 400.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: / view the Weekly bulker was concluded at about USD 390/LDT into
+      Bangladesh last week, as market movements scare
+    unit: usd
+    values:
+    - 390.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 28 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: and fall to the lowest level they have been since January of 2024,
+      when a container vessel was sold
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: at a massive price of USD 600/Ton to a local recycler. And while
+      there have been deals concluded
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: below the USD 400/LDT mark, for the time being at least, it seems
+      that a healthy majority (if not
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: for tonnage as only 12 have thus far managed to get their HKC affairs
+      in order and have already
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Bel ow 400/LDT. taken in a bevy of deliveries over the last month.
+      A remaining 10 are still scrambling to get their
+    unit: null
+    values:
+    - 400.0
+    - 10.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: regime in June of 2024. The nation has struggled with infrastructure
+      projects ever since, causing
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: imported steel at region USD 330/Ton just last week.
+    unit: usd
+    values:
+    - 330.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: about USD 3/Ton higher than last at about USD 552/Ton, where they
+      flatlined till close of Friday.
+    unit: usd
+    values:
+    - 3.0
+    - 552.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: an impressive 1.27% against the U.S. Dollar, closing the week out
+      at BDT 121.40, after hitting an
+    unit: pct
+    values:
+    - 1.27
+    - 121.4
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: impressive low of BDT 120.62 mid-week. Adding to the silver-linings
+      is the fact that another large
+    unit: null
+    values:
+    - 120.62
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: LNG arrived local anchorage, bumping the total LDT at Chattogram
+      to over 42K this week.
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: struggling to merely maintain balance amidst a serious "list" in
+      its Q3 2025 performance.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: each, India remained the leader of the pack with nearly 70K LDT of
+      larger LDT tonnage arrivals and
+    unit: null
+    values:
+    - 70.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: deliveries just this week, bumping the total number of vessels and
+      tonnage at Alang anchorage to 6
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: and nearly 104K LDT respectively. Certainly, an impressive number
+      given that the number of market
+    unit: null
+    values:
+    - 104.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: potential 35% tariffs would likely be applied against Indian imports.
+    unit: pct
+    values:
+    - 35.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Although this did see the Indian Rupee drop 42 basis points against
+      the U.S. Dollar and end the week
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: at Rs. 85.80, local steel plate prices were the ones that climbed
+      another (nearly) USD 3/Ton through No specialist.
+    unit: usd
+    values:
+    - 85.8
+    - 3.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: the week, closing it out at nearly USD 430/Ton and shifting potential
+      upcoming fixtures further into
+    unit: usd
+    values:
+    - 430.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: reported U.S. Dollar reserves to have increased to over USD 702 Billion
+      this week, further cementing
+    unit: usd
+    values:
+    - 702.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: On the ship recycling front as well, having 10 times the number of
+      approved yards in the Indian sub-
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: A Is nto 1st.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Leading the way. Speaking of the waterfront, the markets were surprised
+      to witness a smallish nearly 6K LDT Bulk
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: As local offerings continue holding up above the psychological USD
+      400/LDT mark while offers
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: it has consistently declined over the last 5 weeks, falling another
+      15 basis points this week and
+    unit: null
+    values:
+    - 5.0
+    - 15.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: closing at PKR 283.40 against the U.S. Dollar, whilst briefly spiking
+      above PKR 285 on more than
+    unit: null
+    values:
+    - 283.4
+    - 285.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: induced fear that saw steel climb nearly USD 4/Ton and close the
+      week out at nearly USD 619/Ton
+    unit: usd
+    values:
+    - 4.0
+    - 619.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: finally passed the point of no return, collapsing 82 basis points
+      against the U.S. Dollar and closing
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: the week out at TRY 40.20, but an approximately 3K LDT General Cargo
+      vessel has reportedly been
+    unit: null
+    values:
+    - 40.2
+    - 3.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: concluded to a local recycler at levels region USD 260/MT.
+    unit: tonnage
+    values:
+    - 260.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: This is impressive for 2 reasons as firstly, the dearth of tonnage
+      has driven Aliaga recyclers out of
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: For Week 28 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Weak 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line:  Babies have more bones than adults. A lot more. Babies are born
+      with about 300 bones, whereas adults have 206 bones. As
+    unit: null
+    values:
+    - 300.0
+    - 206.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 09 - Raksha Bandhan July 08 - July 16
+    unit: null
+    values:
+    - 9.0
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day July 21 - July 29
+    unit: null
+    values:
+    - 15.0
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami August 08 - August 16
+    unit: null
+    values:
+    - 16.0
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 20 - August 27
+    unit: null
+    values:
+    - 20.0
+    - 27.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 05 - July Mass Uprising Day July 11 - July 14
+    unit: null
+    values:
+    - 5.0
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - National Mourning Day July 24 - July 27
+    unit: null
+    values:
+    - 15.0
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami August 09 - August 12
+    unit: null
+    values:
+    - 16.0
+    - 9.0
+    - 12.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until September August 14 - Independence Day July 15
+      - Democracy & National
+    unit: null
+    values:
+    - 14.0
+    - 15.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: August 30 - Victory Day
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 11, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 1.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Enterprise 16,480 Container Delivered July 10
+    unit: null
+    values:
+    - 2.0
+    - 16480.0
+    - 10.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 3 Inda 17,647 Oil Tanker Delivered July 11
+    unit: null
+    values:
+    - 3.0
+    - 17647.0
+    - 11.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 4.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 5 Run Fu 2 6,183 Bulk Carrier Arrived June 04
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 6183.0
+    - 4.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 6 Techno 34,047 LNG Carrier Delivered July 10
+    unit: null
+    values:
+    - 6.0
+    - 34047.0
+    - 10.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 103,980
+    unit: null
+    values:
+    - 103980.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of July 11, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-14_gms-week-28-summer-sufferance_ship-recycling-market-insight-week-2_75c20a03c01e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ang Min 11,243 Bulk Carrier Delivered July 02
+    unit: null
+    values:
+    - 1.0
+    - 11243.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance.html
 source_stem: 2025-07-14_gms-week-28-summer-sufferance

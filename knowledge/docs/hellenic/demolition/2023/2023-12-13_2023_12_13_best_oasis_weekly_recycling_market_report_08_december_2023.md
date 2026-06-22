@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 81
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 13/12/2023
   unit: null
@@ -39,8 +38,7 @@ numeric_observations:
   - 13.0
   - 12.0
   - 2023.0
-- &id002
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 05 December 2023 - 08 December 2023
   unit: null
@@ -49,8 +47,7 @@ numeric_observations:
   - 2023.0
   - 8.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -67,8 +63,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The European List of ship recycling facilities had its 12th edition
     adopted by the European Commission. Two yards situated in Türkiye and one yard
@@ -76,8 +71,7 @@ numeric_observations:
   unit: null
   values:
   - 12.0
-- &id006
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: from the revised inventory due to their discontinuation of activities
     related to ship recycling. At present, there are 45 ship-recycling facilities
@@ -85,8 +79,7 @@ numeric_observations:
   unit: null
   values:
   - 45.0
-- &id007
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: List, 15 in the United States, 9 in Turkey, and 35 yards in Europe
     (EU, Norway, and UK).
@@ -95,16 +88,14 @@ numeric_observations:
   - 15.0
   - 9.0
   - 35.0
-- &id008
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Saudi Arabia and Russia, the two largest oil exporting nations globally,
     issued a joint statement on December 7, urging all member countries of the
   unit: null
   values:
   - 7.0
-- &id009
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 83.38 This Week : 109.90 This Week : 283.73 This Week
     : 28.98'
@@ -114,8 +105,7 @@ numeric_observations:
   - 109.9
   - 283.73
   - 28.98
-- &id010
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 83.29 Previous Week : 110.19 Previous Week : 285.33
     Previous Week : 28.92'
@@ -125,8 +115,7 @@ numeric_observations:
   - 110.19
   - 285.33
   - 28.92
-- &id011
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.09 Gained : 0.29 Gained : 1.60 Lost : 0.06'
   unit: null
@@ -135,31 +124,27 @@ numeric_observations:
   - 0.29
   - 1.6
   - 0.06
-- &id012
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 540 540
   unit: null
   values:
   - 540.0
   - 540.0
-- &id014
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 510 510
   unit: null
   values:
   - 510.0
   - 510.0
-- &id015
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The local market experienced a marginal improvement, with prices per
     ton rising by 500- 495 495
@@ -168,31 +153,27 @@ numeric_observations:
   - 500.0
   - 495.0
   - 495.0
-- &id016
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 800 INR.
   unit: null
   values:
   - 800.0
-- &id017
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The current situation exhibits a slight improvement compared to the
     previous week, and 300
   unit: null
   values:
   - 300.0
-- &id018
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: S&P Global Ratings forecasts that India will emerge as the third-largest
     global economy 100
   unit: null
   values:
   - 100.0
-- &id019
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: by 2030. In the fiscal year 2026-27, the rating agency forecasts that
     India's GDP growth
@@ -201,15 +182,13 @@ numeric_observations:
   - 2030.0
   - 2026.0
   - -27.0
-- &id020
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: will reach a level of 7%. Container Tanker Bulker
   unit: pct
   values:
   - 7.0
-- &id021
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -218,24 +197,21 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id022
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: In tune with the premise, the Indian economy expanded at a robust 7.6%
     annual rate in
   unit: pct
   values:
   - 7.6
-- &id023
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 390 395
   unit: null
   values:
   - 390.0
   - 395.0
-- &id024
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 01 December to 02 December 2023
   unit: null
@@ -243,8 +219,7 @@ numeric_observations:
   - 1.0
   - 2.0
   - 2023.0
-- &id025
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 11 December to 19 December 2023
   unit: null
@@ -252,8 +227,7 @@ numeric_observations:
   - 11.0
   - 19.0
   - 2023.0
-- &id026
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -262,23 +236,20 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id027
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id028
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 520 520
   unit: null
   values:
   - 520.0
   - 520.0
-- &id029
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The current state of the local market is characterized by a sluggish
     pace and a notable 490 490
@@ -286,40 +257,35 @@ numeric_observations:
   values:
   - 490.0
   - 490.0
-- &id030
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 500 470
   unit: null
   values:
   - 500.0
   - 470.0
-- &id031
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: of 124 - 126 taka per USD.
   unit: usd
   values:
   - 124.0
   - 126.0
-- &id032
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: no interest. Additionally, the Bangladeshi elections will take place
     on January 7, so we
   unit: null
   values:
   - 7.0
-- &id033
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 425 435
   unit: null
   values:
   - 425.0
   - 435.0
-- &id034
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 12 December to 15 December 2023
   unit: null
@@ -327,8 +293,7 @@ numeric_observations:
   - 12.0
   - 15.0
   - 2023.0
-- &id035
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 26 December to 29 December 2023
   unit: null
@@ -336,23 +301,20 @@ numeric_observations:
   - 26.0
   - 29.0
   - 2023.0
-- &id036
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id037
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 535 535
   unit: null
   values:
   - 535.0
   - 535.0
-- &id038
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 520 520 505 505
   unit: null
@@ -361,23 +323,20 @@ numeric_observations:
   - 520.0
   - 505.0
   - 505.0
-- &id039
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: The local market appeared to be extremely quiet. 300
   unit: null
   values:
   - 300.0
-- &id040
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: It is anticipated that Pakistan's economy will recover in fiscal year
     2024, as evidenced
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: by a 2.1% increase in Gross Domestic Product (GDP), following a 0.17%
     contraction in
@@ -385,8 +344,7 @@ numeric_observations:
   values:
   - 2.1
   - 0.17
-- &id042
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: the preceding year. In fiscal year 2025, the growth rate is anticipated
     to spike to 4.8%.
@@ -394,16 +352,14 @@ numeric_observations:
   values:
   - 2025.0
   - 4.8
-- &id043
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Pakistan's initial assessment, which will release $700 million under
     the standby
   unit: usd
   values:
   - 700.0
-- &id044
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: arrangement (SBA), will be reviewed by the IMF's Executive Board for
     approval on Price of HMS 1&2 (80:20) and Shredded
@@ -413,144 +369,125 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id045
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: January 11, 2024.
   unit: null
   values:
   - 11.0
   - 2024.0
-- &id046
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id047
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 370 360
   unit: null
   values:
   - 370.0
   - 360.0
-- &id048
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 350 350
   unit: null
   values:
   - 350.0
   - 350.0
-- &id049
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: A notable increase of 20 USD has been observed in both import and local
     prices.
   unit: usd
   values:
   - 20.0
-- &id050
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: the number of candidates in the first quarter of 2024.
   unit: null
   values:
   - 2024.0
-- &id051
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: November witnessed a 62% year-over-year increase in inflation in Turkey.
     November's
   unit: pct
   values:
   - 62.0
-- &id052
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: increase follows October's annual increase of 61.36%, a trend fueled
     by the Turkish lira's
   unit: worldscale_pct
   values:
   - 61.36
-- &id053
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 428 418
   unit: null
   values:
   - 428.0
   - 418.0
-- &id054
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id055
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 75.71 This Week : 70.91'
   unit: null
   values:
   - 75.71
   - 70.91
-- &id056
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 78.88 Previous Week : 74.07'
   unit: null
   values:
   - 78.88
   - 74.07
-- &id057
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Movement : - 3.17 Movement : -3.16'
   unit: null
   values:
   - 3.17
   - -3.16
-- &id058
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '927.50'
   unit: null
   values:
   - 927.5
-- &id059
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '887.50'
   unit: null
   values:
   - 887.5
-- &id060
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '860.00'
   unit: null
   values:
   - 860.0
-- &id061
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '840.75'
   unit: null
   values:
   - 840.75
-- &id062
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '810.00'
   unit: null
   values:
   - 810.0
-- &id063
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 800 789.50 785.50
   unit: null
@@ -558,51 +495,44 @@ numeric_observations:
   - 800.0
   - 789.5
   - 785.5
-- &id064
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '768.75'
   unit: null
   values:
   - 768.75
-- &id065
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 754.50 755.75
   unit: null
   values:
   - 754.5
   - 755.75
-- &id066
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '747.00'
   unit: null
   values:
   - 747.0
-- &id067
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: '733.50'
   unit: null
   values:
   - 733.5
-- &id068
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id069
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id070
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -610,8 +540,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id071
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204'
   unit: null
@@ -620,8 +549,7 @@ numeric_observations:
   - 417.0
   - 188.0
   - 204.0
-- &id072
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 55 836 9147'
   unit: null
@@ -630,8 +558,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id073
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021'
   unit: null
@@ -640,8 +567,7 @@ numeric_observations:
   - 172.0
   - 370.0
   - 1021.0
-- &id074
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Greece Phone: +971 4575 4667'
   unit: null
@@ -649,8 +575,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id075
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -659,8 +584,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id076
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -669,8 +593,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id077
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -679,8 +602,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id078
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -689,8 +611,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id079
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -699,8 +620,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id080
-  section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+- section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Work: +81 354 522 405'
   unit: null
@@ -729,86 +649,605 @@ section_count: 2
 signals:
   numeric_observation_count: 81
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 13/12/2023
+    unit: null
+    values:
+    - 13.0
+    - 12.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 05 December 2023 - 08 December 2023
+    unit: null
+    values:
+    - 5.0
+    - 2023.0
+    - 8.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The European List of ship recycling facilities had its 12th edition
+      adopted by the European Commission. Two yards situated in Türkiye and one yard
+      in the
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: from the revised inventory due to their discontinuation of activities
+      related to ship recycling. At present, there are 45 ship-recycling facilities
+      on the European
+    unit: null
+    values:
+    - 45.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: List, 15 in the United States, 9 in Turkey, and 35 yards in Europe
+      (EU, Norway, and UK).
+    unit: null
+    values:
+    - 15.0
+    - 9.0
+    - 35.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Saudi Arabia and Russia, the two largest oil exporting nations globally,
+      issued a joint statement on December 7, urging all member countries of the
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 83.38 This Week : 109.90 This Week : 283.73 This Week
+      : 28.98'
+    unit: null
+    values:
+    - 83.38
+    - 109.9
+    - 283.73
+    - 28.98
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 83.29 Previous Week : 110.19 Previous Week : 285.33
+      Previous Week : 28.92'
+    unit: null
+    values:
+    - 83.29
+    - 110.19
+    - 285.33
+    - 28.92
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.09 Gained : 0.29 Gained : 1.60 Lost : 0.06'
+    unit: null
+    values:
+    - 0.09
+    - 0.29
+    - 1.6
+    - 0.06
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 540 540
+    unit: null
+    values:
+    - 540.0
+    - 540.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 510 510
+    unit: null
+    values:
+    - 510.0
+    - 510.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The local market experienced a marginal improvement, with prices
+      per ton rising by 500- 495 495
+    unit: null
+    values:
+    - 500.0
+    - 495.0
+    - 495.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 800 INR.
+    unit: null
+    values:
+    - 800.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The current situation exhibits a slight improvement compared to the
+      previous week, and 300
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: S&P Global Ratings forecasts that India will emerge as the third-largest
+      global economy 100
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: by 2030. In the fiscal year 2026-27, the rating agency forecasts
+      that India's GDP growth
+    unit: null
+    values:
+    - 2030.0
+    - 2026.0
+    - -27.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: will reach a level of 7%. Container Tanker Bulker
+    unit: pct
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: In tune with the premise, the Indian economy expanded at a robust
+      7.6% annual rate in
+    unit: pct
+    values:
+    - 7.6
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 390 395
+    unit: null
+    values:
+    - 390.0
+    - 395.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 01 December to 02 December 2023
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 11 December to 19 December 2023
+    unit: null
+    values:
+    - 11.0
+    - 19.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 520 520
+    unit: null
+    values:
+    - 520.0
+    - 520.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The current state of the local market is characterized by a sluggish
+      pace and a notable 490 490
+    unit: null
+    values:
+    - 490.0
+    - 490.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 500 470
+    unit: null
+    values:
+    - 500.0
+    - 470.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: of 124 - 126 taka per USD.
+    unit: usd
+    values:
+    - 124.0
+    - 126.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: no interest. Additionally, the Bangladeshi elections will take place
+      on January 7, so we
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 425 435
+    unit: null
+    values:
+    - 425.0
+    - 435.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 12 December to 15 December 2023
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 26 December to 29 December 2023
+    unit: null
+    values:
+    - 26.0
+    - 29.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 535 535
+    unit: null
+    values:
+    - 535.0
+    - 535.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 520 520 505 505
+    unit: null
+    values:
+    - 520.0
+    - 520.0
+    - 505.0
+    - 505.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The local market appeared to be extremely quiet. 300
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: It is anticipated that Pakistan's economy will recover in fiscal
+      year 2024, as evidenced
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: by a 2.1% increase in Gross Domestic Product (GDP), following a 0.17%
+      contraction in
+    unit: pct
+    values:
+    - 2.1
+    - 0.17
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: the preceding year. In fiscal year 2025, the growth rate is anticipated
+      to spike to 4.8%.
+    unit: pct
+    values:
+    - 2025.0
+    - 4.8
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's initial assessment, which will release $700 million under
+      the standby
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: arrangement (SBA), will be reviewed by the IMF's Executive Board
+      for approval on Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: January 11, 2024.
+    unit: null
+    values:
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 370 360
+    unit: null
+    values:
+    - 370.0
+    - 360.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 350 350
+    unit: null
+    values:
+    - 350.0
+    - 350.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: A notable increase of 20 USD has been observed in both import and
+      local prices.
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: the number of candidates in the first quarter of 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: November witnessed a 62% year-over-year increase in inflation in
+      Turkey. November's
+    unit: pct
+    values:
+    - 62.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: increase follows October's annual increase of 61.36%, a trend fueled
+      by the Turkish lira's
+    unit: worldscale_pct
+    values:
+    - 61.36
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 428 418
+    unit: null
+    values:
+    - 428.0
+    - 418.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 75.71 This Week : 70.91'
+    unit: null
+    values:
+    - 75.71
+    - 70.91
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 78.88 Previous Week : 74.07'
+    unit: null
+    values:
+    - 78.88
+    - 74.07
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : - 3.17 Movement : -3.16'
+    unit: null
+    values:
+    - 3.17
+    - -3.16
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '927.50'
+    unit: null
+    values:
+    - 927.5
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '887.50'
+    unit: null
+    values:
+    - 887.5
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '860.00'
+    unit: null
+    values:
+    - 860.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '840.75'
+    unit: null
+    values:
+    - 840.75
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '810.00'
+    unit: null
+    values:
+    - 810.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 800 789.50 785.50
+    unit: null
+    values:
+    - 800.0
+    - 789.5
+    - 785.5
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '768.75'
+    unit: null
+    values:
+    - 768.75
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 754.50 755.75
+    unit: null
+    values:
+    - 754.5
+    - 755.75
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '747.00'
+    unit: null
+    values:
+    - 747.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '733.50'
+    unit: null
+    values:
+    - 733.5
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Greece Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2023-12-13_Weekly-Ship-Recycling-Report-05-December-08-December-2023_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Work: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-12-13_best-oasis-weekly-recycling-market-report-08-december-2023.html
 source_stem: 2023-12-13_best-oasis-weekly-recycling-market-report-08-december-2023

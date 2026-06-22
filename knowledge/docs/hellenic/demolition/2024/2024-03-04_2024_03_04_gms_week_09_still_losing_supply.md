@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 74
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As freight markets push further on, global ship recycling markets remain
     deprived of tonnage, makingit an increasingly suffocating environment for ship
@@ -40,8 +39,7 @@ numeric_observations:
   values:
   - 1.0
   - 2.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'On the supply side, the dry bulk / container sectors continue to surge
     in rates since the start of the year, resulting in owners of even 25-30-year-old
@@ -52,8 +50,7 @@ numeric_observations:
   - 25.0
   - -30.0
   - 10.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Finally, ongoing geopolitical hurdles remain fundamental to this most
     recent & sustained surge in charter rates, and the world has clearly been thrust
@@ -63,8 +60,7 @@ numeric_observations:
   values:
   - 100.0
   - 2023.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 9 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -72,8 +68,7 @@ numeric_observations:
   values:
   - 9.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   unit: null
@@ -85,16 +80,14 @@ numeric_observations:
   - 3032024.0
   - 2631.0
   - 78425.0
-- &id006
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 1s t, 2024
   unit: null
   values:
   - 1.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: e 2 59, Issue 1124
   unit: null
@@ -102,8 +95,7 @@ numeric_observations:
   - 2.0
   - 59.0
   - 1124.0
-- &id008
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: condition than other forms of imported scrap metal / steel (HMS 1,
     HMS 2, shredded steel, etc.),
@@ -111,8 +103,7 @@ numeric_observations:
   values:
   - 1.0
   - 2.0
-- &id009
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: the year, resulting in owners of even 25-30-year-old vessels finding
     a decent route to keep their
@@ -120,32 +111,28 @@ numeric_observations:
   values:
   - 25.0
   - -30.0
-- &id010
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: • Political gains. levels by about USD 10/MT this week, the much-anticipated
     first in a long time.
   unit: tonnage
   values:
   - 10.0
-- &id011
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: • Scan to download of late. Nevertheless, recycling locations are recovering
     from the loss of about USD 100/LDT in
   unit: usd
   values:
   - 100.0
-- &id012
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: and view the GMS value over the course of 2023 as Pakistan & Bangladeshi
     Recyclers battled L/C & finance
   unit: null
   values:
   - 2023.0
-- &id013
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: For week 9 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -153,8 +140,7 @@ numeric_observations:
   values:
   - 9.0
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Improving 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -163,8 +149,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id015
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -173,8 +158,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id016
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -183,8 +167,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id017
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Declining 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -193,112 +176,98 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id018
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: diversion of a ‘97 built handy-size Bulk Carrier that was discharging
     in Bangladeshi
   unit: null
   values:
   - 97.0
-- &id020
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi Taka that ended the week at BDT 109.50 against the U.S.
     Dollar, all while
   unit: null
   values:
   - 109.5
-- &id021
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: With India's General Elections now scheduled around (early) May 2024,
     many in the
   unit: null
   values:
   - 2024.0
-- &id023
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: all of the current administration's policies, inadvertently altering
     the 2024 & beyond
   unit: null
   values:
   - 2024.0
-- &id024
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: continues to trade firmly in the high Rs. 82s against the U.S. Dollar,
     providing a much-
   unit: null
   values:
   - 82.0
-- &id025
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: as it ended the week at levels approaching PKR 279.20 against the U.S.
     Dollar. Even local
   unit: null
   values:
   - 279.2
-- &id027
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: (Hong Kong Convention), given that the convention is due to enter into
     force a mere 16
   unit: null
   values:
   - 16.0
-- &id028
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: vessel prices that not only fell by about USD 10/MT this week, but
     may also fall further in
   unit: tonnage
   values:
   - 10.0
-- &id030
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: on full display (even this week) as it spiked past TRY 31.42, only
     to have ended the week
   unit: null
   values:
   - 31.42
-- &id031
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: at TRY 31.31 against the U.S. Dollar. One can only assume that TRY
     32 is nothing more
@@ -306,40 +275,35 @@ numeric_observations:
   values:
   - 31.31
   - 32.0
-- &id032
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 10/MT and USD 5/MT this week.
   unit: tonnage
   values:
   - 10.0
   - 5.0
-- &id033
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line:  The mind was mapped like never before. 2023 was a big year for neural
     cartography. In March, researchers at the
   unit: null
   values:
   - 2023.0
-- &id035
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: scientists at the Allen Institute for Brain Science, in the US, were
     beginning to map the 3,000-plus cell types that make up
   unit: null
   values:
   - 3000.0
-- &id036
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 08 - Maha Shivratri March 08 - March 15
   unit: null
@@ -347,8 +311,7 @@ numeric_observations:
   - 8.0
   - 8.0
   - 15.0
-- &id037
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 25 - March 26 - Holi March 26 - March 30
   unit: null
@@ -357,15 +320,13 @@ numeric_observations:
   - 26.0
   - 26.0
   - 30.0
-- &id038
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 29 - Good Friday
   unit: null
   values:
   - 29.0
-- &id039
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 17 - Sheikh Rehman's Birthday March 11 - March 14
   unit: null
@@ -373,8 +334,7 @@ numeric_observations:
   - 17.0
   - 11.0
   - 14.0
-- &id040
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day March 25 - March 28
   unit: null
@@ -382,39 +342,34 @@ numeric_observations:
   - 26.0
   - 25.0
   - 28.0
-- &id041
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: No Holidays through March March 11 - Bank Holiday Only No Holidays
     through March
   unit: null
   values:
   - 11.0
-- &id042
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: March 23 - Pakistan Day
   unit: null
   values:
   - 23.0
-- &id043
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 01, 2024
   unit: null
   values:
   - 1.0
   - 2024.0
-- &id045
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 1 Ancier 9,283 RoRo Arrived February 28
   unit: null
@@ -422,8 +377,7 @@ numeric_observations:
   - 1.0
   - 9283.0
   - 28.0
-- &id046
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2 Bontrup Emirates 11,736 General Cargo Beached February 25
   unit: null
@@ -431,23 +385,20 @@ numeric_observations:
   - 2.0
   - 11736.0
   - 25.0
-- &id047
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 21,019
   unit: null
   values:
   - 21019.0
-- &id048
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 01, 2024
   unit: null
   values:
   - 1.0
   - 2024.0
-- &id049
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 1 John C 4,759 Tanker Beached February 28
   unit: null
@@ -455,8 +406,7 @@ numeric_observations:
   - 1.0
   - 4759.0
   - 28.0
-- &id050
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2 Xin Xiang An 5,113 Bulk Carrier Arrived February 19
   unit: null
@@ -464,23 +414,20 @@ numeric_observations:
   - 2.0
   - 5113.0
   - 19.0
-- &id051
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 9,872
   unit: null
   values:
   - 9872.0
-- &id052
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 01, 2024
   unit: null
   values:
   - 1.0
   - 2024.0
-- &id053
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 1 Bukhta Nagaeva 2,353 Reefer Beached March 01
   unit: null
@@ -488,8 +435,7 @@ numeric_observations:
   - 1.0
   - 2353.0
   - 1.0
-- &id054
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2 Dhafi 6,040 Passenger Arrived February 19
   unit: null
@@ -497,8 +443,7 @@ numeric_observations:
   - 2.0
   - 6040.0
   - 19.0
-- &id055
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 3 Gap 3,837 Container Beached March 01
   unit: null
@@ -506,8 +451,7 @@ numeric_observations:
   - 3.0
   - 3837.0
   - 1.0
-- &id056
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 4 Wang Hai 23,039 Bulk Carrier Beached March 01
   unit: null
@@ -515,23 +459,20 @@ numeric_observations:
   - 4.0
   - 23039.0
   - 1.0
-- &id057
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 35,268
   unit: null
   values:
   - 35268.0
-- &id058
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/24/2024 475.04 39,400.00 736.28 208,000.00 608.13 74,800.00 379.21
   unit: null
@@ -546,8 +487,7 @@ numeric_observations:
   - 608.13
   - 74800.0
   - 379.21
-- &id060
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/25/2024 475.04 39,400.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -562,8 +502,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id061
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/26/2024 475.27 39,400.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -578,8 +517,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id062
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/27/2024 472.92 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -594,8 +532,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id063
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/28/2024 470.33 39,000.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -610,8 +547,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id064
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 2/29/2024 472.74 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -626,8 +562,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id065
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 3/1/2024 473.03 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
   unit: null
@@ -642,8 +577,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 379.21
-- &id066
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -652,8 +586,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id067
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -662,8 +595,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id068
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -672,8 +604,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id069
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -682,8 +613,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id070
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -692,8 +622,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id071
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   unit: null
@@ -705,24 +634,21 @@ numeric_observations:
   - 3032024.0
   - 2631.0
   - 78425.0
-- &id072
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x192 mode=RGB'
   unit: null
   values:
   - 687.0
   - 92.0
-- &id073
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id074
-  section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+- section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
   section_type: linked_image_asset
   source_line: '| 4 [turkey | Dectining | 330/tbT | 340/LDT | 350/LDT_|'
   unit: null
@@ -741,80 +667,634 @@ section_count: 3
 signals:
   numeric_observation_count: 74
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
+  - section: Main
+    section_type: null
+    source_line: As freight markets push further on, global ship recycling markets
+      remain deprived of tonnage, makingit an increasingly suffocating environment
+      for ship recyclers to operate in. In countries like Bangladesh & Pakistan that
+      rely heavily on imported ship's steel,
+    unit: usd_per_unit
+    values:
+    - 1.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: 'On the supply side, the dry bulk / container sectors continue to
+      surge in rates since the start of the year, resulting in owners of even 25-30-year-old
+      vessels finding a decent route to keep their units employed in! Moreover, the
+      ongoing & unexpected surge in '
+    unit: tonnage
+    values:
+    - 25.0
+    - -30.0
+    - 10.0
+  - section: Main
+    section_type: null
+    source_line: 'Finally, ongoing geopolitical hurdles remain fundamental to this
+      most recent & sustained surge in charter rates, and the world has clearly been
+      thrust into unchartered territory this year, given all of the ongoing disruptions
+      affecting global trade. This also '
+    unit: usd
+    values:
+    - 100.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: For week 9 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -3.0
+    - -4.0
+    - 9.0
+    - 3032024.0
+    - 2631.0
+    - 78425.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 1s t, 2024
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: e 2 59, Issue 1124
+    unit: null
+    values:
+    - 2.0
+    - 59.0
+    - 1124.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: condition than other forms of imported scrap metal / steel (HMS 1,
+      HMS 2, shredded steel, etc.),
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: the year, resulting in owners of even 25-30-year-old vessels finding
+      a decent route to keep their
+    unit: null
+    values:
+    - 25.0
+    - -30.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: • Political gains. levels by about USD 10/MT this week, the much-anticipated
+      first in a long time.
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download of late. Nevertheless, recycling locations are
+      recovering from the loss of about USD 100/LDT in
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: and view the GMS value over the course of 2023 as Pakistan & Bangladeshi
+      Recyclers battled L/C & finance
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: For week 9 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Improving 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Declining 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: diversion of a ‘97 built handy-size Bulk Carrier that was discharging
+      in Bangladeshi
+    unit: null
+    values:
+    - 97.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi Taka that ended the week at BDT 109.50 against the U.S.
+      Dollar, all while
+    unit: null
+    values:
+    - 109.5
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: With India's General Elections now scheduled around (early) May 2024,
+      many in the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: all of the current administration's policies, inadvertently altering
+      the 2024 & beyond
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: continues to trade firmly in the high Rs. 82s against the U.S. Dollar,
+      providing a much-
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: as it ended the week at levels approaching PKR 279.20 against the
+      U.S. Dollar. Even local
+    unit: null
+    values:
+    - 279.2
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: (Hong Kong Convention), given that the convention is due to enter
+      into force a mere 16
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: vessel prices that not only fell by about USD 10/MT this week, but
+      may also fall further in
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: on full display (even this week) as it spiked past TRY 31.42, only
+      to have ended the week
+    unit: null
+    values:
+    - 31.42
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: at TRY 31.31 against the U.S. Dollar. One can only assume that TRY
+      32 is nothing more
+    unit: null
+    values:
+    - 31.31
+    - 32.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 10/MT and USD 5/MT this week.
+    unit: tonnage
+    values:
+    - 10.0
+    - 5.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line:  The mind was mapped like never before. 2023 was a big year for
+      neural cartography. In March, researchers at the
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: scientists at the Allen Institute for Brain Science, in the US, were
+      beginning to map the 3,000-plus cell types that make up
+    unit: null
+    values:
+    - 3000.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 08 - Maha Shivratri March 08 - March 15
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+    - 15.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 25 - March 26 - Holi March 26 - March 30
+    unit: null
+    values:
+    - 25.0
+    - 26.0
+    - 26.0
+    - 30.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - Good Friday
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 17 - Sheikh Rehman's Birthday March 11 - March 14
+    unit: null
+    values:
+    - 17.0
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day March 25 - March 28
+    unit: null
+    values:
+    - 26.0
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays through March March 11 - Bank Holiday Only No Holidays
+      through March
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: March 23 - Pakistan Day
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 01, 2024
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ancier 9,283 RoRo Arrived February 28
+    unit: null
+    values:
+    - 1.0
+    - 9283.0
+    - 28.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bontrup Emirates 11,736 General Cargo Beached February 25
+    unit: null
+    values:
+    - 2.0
+    - 11736.0
+    - 25.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 21,019
+    unit: null
+    values:
+    - 21019.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 01, 2024
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 1 John C 4,759 Tanker Beached February 28
+    unit: null
+    values:
+    - 1.0
+    - 4759.0
+    - 28.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Xin Xiang An 5,113 Bulk Carrier Arrived February 19
+    unit: null
+    values:
+    - 2.0
+    - 5113.0
+    - 19.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 9,872
+    unit: null
+    values:
+    - 9872.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 01, 2024
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bukhta Nagaeva 2,353 Reefer Beached March 01
+    unit: null
+    values:
+    - 1.0
+    - 2353.0
+    - 1.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dhafi 6,040 Passenger Arrived February 19
+    unit: null
+    values:
+    - 2.0
+    - 6040.0
+    - 19.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gap 3,837 Container Beached March 01
+    unit: null
+    values:
+    - 3.0
+    - 3837.0
+    - 1.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 4 Wang Hai 23,039 Bulk Carrier Beached March 01
+    unit: null
+    values:
+    - 4.0
+    - 23039.0
+    - 1.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 35,268
+    unit: null
+    values:
+    - 35268.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/24/2024 475.04 39,400.00 736.28 208,000.00 608.13 74,800.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 24.0
+    - 2024.0
+    - 475.04
+    - 39400.0
+    - 736.28
+    - 208000.0
+    - 608.13
+    - 74800.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/25/2024 475.04 39,400.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 25.0
+    - 2024.0
+    - 475.04
+    - 39400.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/26/2024 475.27 39,400.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 26.0
+    - 2024.0
+    - 475.27
+    - 39400.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/27/2024 472.92 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 27.0
+    - 2024.0
+    - 472.92
+    - 39200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/28/2024 470.33 39,000.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 28.0
+    - 2024.0
+    - 470.33
+    - 39000.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 2/29/2024 472.74 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 2.0
+    - 29.0
+    - 2024.0
+    - 472.74
+    - 39200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 3/1/2024 473.03 39,200.00 736.28 208,000.00 607.32 74,700.00 379.21
+    unit: null
+    values:
+    - 3.0
+    - 1.0
+    - 2024.0
+    - 473.03
+    - 39200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 379.21
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_ship-recycling-market-insight-week-0_0a1fe077ce84.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -3.0
+    - -4.0
+    - 9.0
+    - 3032024.0
+    - 2631.0
+    - 78425.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x192 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 92.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2024-03-04_gms-week-09-still-losing-supply_img1_03032024_2631d078425d.jpg'
+    section_type: linked_image_asset
+    source_line: '| 4 [turkey | Dectining | 330/tbT | 340/LDT | 350/LDT_|'
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-03-04_gms-week-09-still-losing-supply.html
 source_stem: 2024-03-04_gms-week-09-still-losing-supply

@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 83
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'However, this firming is certainly surprising, given that recycling
     destination currencies suffered through their own versions of (shocking) volatility
@@ -41,8 +40,7 @@ numeric_observations:
   - 600.0
   - 600.0
   - 600.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Amidst this week's unexpected batch of tonnage offerings of containers,
     several older bulkers & general cargo vessels from Far Eastern / Chinese markets
@@ -51,8 +49,7 @@ numeric_observations:
   unit: null
   values:
   - 2015.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 15 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -60,8 +57,7 @@ numeric_observations:
   values:
   - 15.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
   unit: null
@@ -76,23 +72,20 @@ numeric_observations:
   - -230.0
   - 7.0
   - 802.0
-- &id005
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 12th, 2024 "People seldom do what they believe in.
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Week 15 They do what is convenient, and then repent."
   unit: null
   values:
   - 15.0
-- &id007
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Volume 2 60, Issue 1129
   unit: null
@@ -100,40 +93,35 @@ numeric_observations:
   - 2.0
   - 60.0
   - 1129.0
-- &id008
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: recycling mindset, which also saw Sinokor's container breach USD 600/LDT
     just last week. This
   unit: usd
   values:
   - 600.0
-- &id009
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: surprised Ship Owners welcomed the possibility of achieving USD 600/LT
     for their again unit,
   unit: usd
   values:
   - 600.0
-- &id010
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: • Chinese bulkers. for tonnage. Accordingly, frantic offerings ensued
     and although USD 600/Ton was not breached,
   unit: usd
   values:
   - 600.0
-- &id011
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: one in 2015, during ship recycling's most recent recession. Indeed,
     the Indian market has jumped
   unit: null
   values:
   - 2015.0
-- &id012
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: For week 15 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -141,8 +129,7 @@ numeric_observations:
   values:
   - 15.0
   - 2024.0
-- &id013
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Improving 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -151,8 +138,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id014
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Improving 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -161,8 +147,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id015
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 3 India Improving 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -171,8 +156,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id016
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -181,64 +165,56 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id017
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: overextended lives of their aged beauties, via 2024s unexpected Q1
     freight rush.
   unit: null
   values:
   - 2024.0
-- &id019
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: as local steel plate prices remain flatlined at levels region USD 610/Ton
     and with vessel
   unit: usd
   values:
   - 610.0
-- &id020
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: yards occupied, but these jumps will certainly be nowhere near USD
     600/Ton next week.
   unit: usd
   values:
   - 600.0
-- &id021
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: market rate of a marginally weaker, yet steady BDT 109.95 against the
     U.S. Dollar. As
   unit: null
   values:
   - 109.95
-- &id022
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: week's jump in local steel plate prices (to the tune of about USD 20/Ton),
     they (local
   unit: usd
   values:
   - 20.0
-- &id024
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 1) A rapid retreat that saw plate prices fall by nearly half (about
     USD 9/Ton) across the
@@ -246,101 +222,88 @@ numeric_observations:
   values:
   - 1.0
   - 9.0
-- &id025
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 2) The unexpected shocker of a rapid decli ne that saw the Indian Rupee
     break past all
   unit: null
   values:
   - 2.0
-- &id026
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: previously held records, ending the week at a disastrous Rs 83.55 against
     the U.S.
   unit: null
   values:
   - 83.55
-- &id027
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: subsequently collapse domestic steel plate prices (as they did back
     in 2015). While this
   unit: null
   values:
   - 2015.0
-- &id028
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: for liftoff once again, and we head deeper into the second quarter
     of 2024, ever closer to
   unit: null
   values:
   - 2024.0
-- &id030
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Shortag e. continue their horizontal dance (aka flatline) at region
     USD 740/Ton, offering far more of a
   unit: usd
   values:
   - 740.0
-- &id031
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: PKR 277.79 against the U.S. Dollar.
   unit: null
   values:
   - 277.79
-- &id032
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: certainly led to a pleasantly busier than expected Gadani Port Report
     for 2024 thus far, as
   unit: null
   values:
   - 2024.0
-- &id033
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: the domestic Ship Recycling community remain a mere 2 vessels shy of
     beaching past last
   unit: null
   values:
   - 2.0
-- &id034
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: year's volume of 17 ships - certainly a commendable jump in performance.
   unit: null
   values:
   - 17.0
-- &id035
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: tides eventually turn come May 2024.
   unit: null
   values:
   - 2024.0
-- &id036
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Amidst the Lira spiking to nearly TRY 32.80 and resume its depreciation
     to nearly TRY TRY 33 already?
@@ -348,38 +311,33 @@ numeric_observations:
   values:
   - 32.8
   - 33.0
-- &id038
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 32.35 against the U.S. Dollar, Eid celebrations, no reported improvement
     in the supply of
   unit: null
   values:
   - 32.35
-- &id039
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: North Seas back to Aliaga shores through Q2 2024.
   unit: null
   values:
   - 2024.0
-- &id040
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id042
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: and is considered the most active moon in the solar system, sending
     plumes of sulfur up to 190 miles (300 kilometers) into
@@ -387,16 +345,14 @@ numeric_observations:
   values:
   - 190.0
   - 300.0
-- &id043
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line:  According to a statement from NASA, Io's volcanos emit one ton (more
     than 900 kilograms) of gases and particles into the
   unit: null
   values:
   - 900.0
-- &id044
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: the biggest volcano ever discovered in the solar system. At 374 miles
     (602 km) across, the volcano is comparable to the size
@@ -404,8 +360,7 @@ numeric_observations:
   values:
   - 374.0
   - 602.0
-- &id045
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line:  It's 16 miles (25 kilometers) high, or triple the height of Mount
     Everest, the tallest mountain on Earth. By volume,
@@ -413,16 +368,14 @@ numeric_observations:
   values:
   - 16.0
   - 25.0
-- &id046
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: according to NASA, Olympus Mons is 100 times larger than Earth's largest
     volcano, Hawaii's Mauna Loa.
   unit: null
   values:
   - 100.0
-- &id047
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 14 - Dr. Ambedkar Jayanti April 06 - April 13
   unit: null
@@ -430,16 +383,14 @@ numeric_observations:
   - 14.0
   - 6.0
   - 13.0
-- &id048
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 23 - April 29
   unit: null
   values:
   - 23.0
   - 29.0
-- &id049
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 10 - April 12 - Eid April 08 - April 11
   unit: null
@@ -448,8 +399,7 @@ numeric_observations:
   - 12.0
   - 8.0
   - 11.0
-- &id050
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year April 23 - April 26
   unit: null
@@ -457,8 +407,7 @@ numeric_observations:
   - 14.0
   - 23.0
   - 26.0
-- &id051
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: No Holidays in April April 10 - April 12 - Eid-ul-Fitr April 09 - April
     12 - Ramazan.
@@ -468,39 +417,34 @@ numeric_observations:
   - 12.0
   - 9.0
   - 12.0
-- &id052
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: April 23 - National Sovereignty &
   unit: null
   values:
   - 23.0
-- &id053
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 12, 2024
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id055
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 12, 2024
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id056
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 1 Hong Yuan 01 11,481 Container Arrived March 29
   unit: null
@@ -509,8 +453,7 @@ numeric_observations:
   - 1.0
   - 11481.0
   - 29.0
-- &id057
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 2 Hong Yuan You 19 2,580 Tanker Arrived March 31
   unit: null
@@ -519,8 +462,7 @@ numeric_observations:
   - 19.0
   - 2580.0
   - 31.0
-- &id058
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 3 Lu Zhou 966 Tanker Beached April 06
   unit: null
@@ -528,8 +470,7 @@ numeric_observations:
   - 3.0
   - 966.0
   - 6.0
-- &id059
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4 Xin Run 2,908 Tanker Arrived April 08
   unit: null
@@ -537,23 +478,20 @@ numeric_observations:
   - 4.0
   - 2908.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 17,935
   unit: null
   values:
   - 17935.0
-- &id061
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 12, 2024
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id062
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 1 Bos Lina 3,287 General Cargo Beached April 07
   unit: null
@@ -561,8 +499,7 @@ numeric_observations:
   - 1.0
   - 3287.0
   - 7.0
-- &id063
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 2 Oscar 1 2,620 General Cargo Beached April 07
   unit: null
@@ -571,8 +508,7 @@ numeric_observations:
   - 1.0
   - 2620.0
   - 7.0
-- &id064
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 3 Qatar Ana 8,015 Bulk Carrier Beached April 06
   unit: null
@@ -580,8 +516,7 @@ numeric_observations:
   - 3.0
   - 8015.0
   - 6.0
-- &id065
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4 Sea Flower 5,282 General Cargo Arrived March 27
   unit: null
@@ -589,23 +524,20 @@ numeric_observations:
   - 4.0
   - 5282.0
   - 27.0
-- &id066
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,204
   unit: null
   values:
   - 19204.0
-- &id067
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/6/2024 489.80 40,800.00 736.28 208,000.00 607.32 74,700.00 336.16
   unit: null
@@ -620,8 +552,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.16
-- &id069
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/7/2024 489.80 40,800.00 736.28 208,000.00 607.32 74,700.00 336.16
   unit: null
@@ -636,8 +567,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.16
-- &id070
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/8/2024 487.28 40,600.00 736.28 208,000.00 607.32 74,700.00 336.16
   unit: null
@@ -652,8 +582,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.16
-- &id071
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/9/2024 483.68 40,300.00 736.28 208,000.00 607.32 74,700.00 331.94
   unit: null
@@ -668,8 +597,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 331.94
-- &id072
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/10/2024 483.29 40,200.00 736.28 208,000.00 607.32 74,700.00 333.31
   unit: null
@@ -684,8 +612,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 333.31
-- &id073
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/11/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 336.11
   unit: null
@@ -700,8 +627,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.11
-- &id074
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 4/12/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 337.48
   unit: null
@@ -716,8 +642,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 337.48
-- &id075
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -726,8 +651,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id076
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -736,8 +660,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id077
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -746,8 +669,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id078
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -756,8 +678,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id079
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -766,8 +687,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id080
-  section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
+- section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
   unit: null
@@ -812,86 +732,679 @@ section_count: 3
 signals:
   numeric_observation_count: 83
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'However, this firming is certainly surprising, given that recycling
+      destination currencies suffered through their own versions of (shocking) volatility
+      against the U.S. Dollar this week and to still have witnessed a firmer week,
+      is very unlike the reactionary '
+    unit: usd
+    values:
+    - 600.0
+    - 600.0
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: Amidst this week's unexpected batch of tonnage offerings of containers,
+      several older bulkers & general cargo vessels from Far Eastern / Chinese markets
+      remain on the recycling menu, as freight rates unexpectedly experienced their
+      own ‘dip' this week, after wh
+    unit: null
+    values:
+    - 2015.0
+  - section: Main
+    section_type: null
+    source_line: For week 15 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
+    unit: null
+    values:
+    - 2024.0
+    - -4.0
+    - -15.0
+    - 15.0
+    - 2024.0
+    - -4.0
+    - -15.0
+    - -230.0
+    - 7.0
+    - 802.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 12th, 2024 "People seldom do what they believe in.
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Week 15 They do what is convenient, and then repent."
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 60, Issue 1129
+    unit: null
+    values:
+    - 2.0
+    - 60.0
+    - 1129.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: recycling mindset, which also saw Sinokor's container breach USD
+      600/LDT just last week. This
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: surprised Ship Owners welcomed the possibility of achieving USD 600/LT
+      for their again unit,
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: • Chinese bulkers. for tonnage. Accordingly, frantic offerings ensued
+      and although USD 600/Ton was not breached,
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: one in 2015, during ship recycling's most recent recession. Indeed,
+      the Indian market has jumped
+    unit: null
+    values:
+    - 2015.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: For week 15 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Improving 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Improving 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Improving 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: overextended lives of their aged beauties, via 2024s unexpected Q1
+      freight rush.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: as local steel plate prices remain flatlined at levels region USD
+      610/Ton and with vessel
+    unit: usd
+    values:
+    - 610.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: yards occupied, but these jumps will certainly be nowhere near USD
+      600/Ton next week.
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: market rate of a marginally weaker, yet steady BDT 109.95 against
+      the U.S. Dollar. As
+    unit: null
+    values:
+    - 109.95
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: week's jump in local steel plate prices (to the tune of about USD
+      20/Ton), they (local
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 1) A rapid retreat that saw plate prices fall by nearly half (about
+      USD 9/Ton) across the
+    unit: usd
+    values:
+    - 1.0
+    - 9.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 2) The unexpected shocker of a rapid decli ne that saw the Indian
+      Rupee break past all
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: previously held records, ending the week at a disastrous Rs 83.55
+      against the U.S.
+    unit: null
+    values:
+    - 83.55
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: subsequently collapse domestic steel plate prices (as they did back
+      in 2015). While this
+    unit: null
+    values:
+    - 2015.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: for liftoff once again, and we head deeper into the second quarter
+      of 2024, ever closer to
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Shortag e. continue their horizontal dance (aka flatline) at region
+      USD 740/Ton, offering far more of a
+    unit: usd
+    values:
+    - 740.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: PKR 277.79 against the U.S. Dollar.
+    unit: null
+    values:
+    - 277.79
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: certainly led to a pleasantly busier than expected Gadani Port Report
+      for 2024 thus far, as
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: the domestic Ship Recycling community remain a mere 2 vessels shy
+      of beaching past last
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: year's volume of 17 ships - certainly a commendable jump in performance.
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: tides eventually turn come May 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Amidst the Lira spiking to nearly TRY 32.80 and resume its depreciation
+      to nearly TRY TRY 33 already?
+    unit: null
+    values:
+    - 32.8
+    - 33.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 32.35 against the U.S. Dollar, Eid celebrations, no reported improvement
+      in the supply of
+    unit: null
+    values:
+    - 32.35
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: North Seas back to Aliaga shores through Q2 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: and is considered the most active moon in the solar system, sending
+      plumes of sulfur up to 190 miles (300 kilometers) into
+    unit: null
+    values:
+    - 190.0
+    - 300.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line:  According to a statement from NASA, Io's volcanos emit one ton
+      (more than 900 kilograms) of gases and particles into the
+    unit: null
+    values:
+    - 900.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: the biggest volcano ever discovered in the solar system. At 374 miles
+      (602 km) across, the volcano is comparable to the size
+    unit: null
+    values:
+    - 374.0
+    - 602.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line:  It's 16 miles (25 kilometers) high, or triple the height of Mount
+      Everest, the tallest mountain on Earth. By volume,
+    unit: null
+    values:
+    - 16.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: according to NASA, Olympus Mons is 100 times larger than Earth's
+      largest volcano, Hawaii's Mauna Loa.
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Dr. Ambedkar Jayanti April 06 - April 13
+    unit: null
+    values:
+    - 14.0
+    - 6.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 23 - April 29
+    unit: null
+    values:
+    - 23.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 10 - April 12 - Eid April 08 - April 11
+    unit: null
+    values:
+    - 10.0
+    - 12.0
+    - 8.0
+    - 11.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year April 23 - April 26
+    unit: null
+    values:
+    - 14.0
+    - 23.0
+    - 26.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in April April 10 - April 12 - Eid-ul-Fitr April 09 -
+      April 12 - Ramazan.
+    unit: null
+    values:
+    - 10.0
+    - 12.0
+    - 9.0
+    - 12.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: April 23 - National Sovereignty &
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 12, 2024
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 12, 2024
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 1 Hong Yuan 01 11,481 Container Arrived March 29
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 11481.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hong Yuan You 19 2,580 Tanker Arrived March 31
+    unit: null
+    values:
+    - 2.0
+    - 19.0
+    - 2580.0
+    - 31.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lu Zhou 966 Tanker Beached April 06
+    unit: null
+    values:
+    - 3.0
+    - 966.0
+    - 6.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4 Xin Run 2,908 Tanker Arrived April 08
+    unit: null
+    values:
+    - 4.0
+    - 2908.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 17,935
+    unit: null
+    values:
+    - 17935.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 12, 2024
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bos Lina 3,287 General Cargo Beached April 07
+    unit: null
+    values:
+    - 1.0
+    - 3287.0
+    - 7.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 2 Oscar 1 2,620 General Cargo Beached April 07
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2620.0
+    - 7.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 3 Qatar Ana 8,015 Bulk Carrier Beached April 06
+    unit: null
+    values:
+    - 3.0
+    - 8015.0
+    - 6.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sea Flower 5,282 General Cargo Arrived March 27
+    unit: null
+    values:
+    - 4.0
+    - 5282.0
+    - 27.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,204
+    unit: null
+    values:
+    - 19204.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/6/2024 489.80 40,800.00 736.28 208,000.00 607.32 74,700.00 336.16
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 2024.0
+    - 489.8
+    - 40800.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.16
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/7/2024 489.80 40,800.00 736.28 208,000.00 607.32 74,700.00 336.16
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 2024.0
+    - 489.8
+    - 40800.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.16
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/8/2024 487.28 40,600.00 736.28 208,000.00 607.32 74,700.00 336.16
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+    - 2024.0
+    - 487.28
+    - 40600.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.16
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/9/2024 483.68 40,300.00 736.28 208,000.00 607.32 74,700.00 331.94
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 2024.0
+    - 483.68
+    - 40300.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 331.94
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/10/2024 483.29 40,200.00 736.28 208,000.00 607.32 74,700.00 333.31
+    unit: null
+    values:
+    - 4.0
+    - 10.0
+    - 2024.0
+    - 483.29
+    - 40200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 333.31
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/11/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 336.11
+    unit: null
+    values:
+    - 4.0
+    - 11.0
+    - 2024.0
+    - 481.96
+    - 40200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.11
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 4/12/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 337.48
+    unit: null
+    values:
+    - 4.0
+    - 12.0
+    - 2024.0
+    - 481.96
+    - 40200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 337.48
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_ship-recycling-market-insight-week-1_d31c337d5593.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-04-15_gms-week-15-ramadan-resurgenceor-not_img1_screenshot-2024-04-15-000230_7ddc1802ccfe.png'
+    unit: null
+    values:
+    - 2024.0
+    - -4.0
+    - -15.0
+    - 15.0
+    - 2024.0
+    - -4.0
+    - -15.0
+    - -230.0
+    - 7.0
+    - 802.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-04-15_gms-week-15-ramadan-resurgenceor-not.html
 source_stem: 2024-04-15_gms-week-15-ramadan-resurgenceor-not

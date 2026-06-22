@@ -26,8 +26,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 21
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: (02 JUNE - 05 JUNE) 2026
   unit: null
@@ -35,8 +34,7 @@ numeric_observations:
   - 2.0
   - 5.0
   - 2026.0
-- &id002
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -44,8 +42,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id003
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -53,16 +50,14 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id004
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: period of 10 days, after payment cycles had loosened during recent
     geopolitical
   unit: null
   values:
   - 10.0
-- &id005
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (93.56 94.90) + 1.34'
   unit: null
@@ -70,8 +65,7 @@ numeric_observations:
   - 93.56
   - 94.9
   - 1.34
-- &id006
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE : (90.11 92.90) + 2.79'
   unit: null
@@ -79,8 +73,7 @@ numeric_observations:
   - 90.11
   - 92.9
   - 2.79
-- &id007
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 95.09 This Week : 122.78 This Week : 278.39 This Week
     : 46.06'
@@ -90,8 +83,7 @@ numeric_observations:
   - 122.78
   - 278.39
   - 46.06
-- &id008
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 94.92 Previous Week : 122.73 Previous Week : 278 Previous
     Week : 45.89'
@@ -101,8 +93,7 @@ numeric_observations:
   - 122.73
   - 278.0
   - 45.89
-- &id009
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: 'Loss : 0.17 Loss : 0.05 Loss : 0.39 Loss : 0.17'
   unit: null
@@ -111,8 +102,7 @@ numeric_observations:
   - 0.05
   - 0.39
   - 0.17
-- &id010
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: PPRRIICCEE OOFF HHMMSS 11&&22 ((8800::2200)) AANNDD SSHHRREEDDDDEEDD
   unit: null
@@ -121,48 +111,42 @@ numeric_observations:
   - 22.0
   - 8800.0
   - 2200.0
-- &id011
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id012
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: INDIA 400 415 (0)
   unit: null
   values:
   - 400.0
   - 415.0
-- &id013
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 405 420 (0)
   unit: null
   values:
   - 405.0
   - 420.0
-- &id014
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 405 420 (0)
   unit: null
   values:
   - 405.0
   - 420.0
-- &id015
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: TURKEY 400 420 (0)
   unit: null
   values:
   - 400.0
   - 420.0
-- &id016
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: INDIA SOFT 430 415 400 (2.47%)
   unit: pct
@@ -171,8 +155,7 @@ numeric_observations:
   - 415.0
   - 400.0
   - 2.47
-- &id017
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH SOFT 460 450 425 (0)
   unit: null
@@ -180,8 +163,7 @@ numeric_observations:
   - 460.0
   - 450.0
   - 425.0
-- &id018
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN SOFT 480 470 460 (4.44%)
   unit: pct
@@ -190,8 +172,7 @@ numeric_observations:
   - 470.0
   - 460.0
   - 4.44
-- &id019
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: TURKEY SOFT 290 280 270 (0)
   unit: null
@@ -199,15 +180,13 @@ numeric_observations:
   - 290.0
   - 280.0
   - 270.0
-- &id020
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: YAMAL IRBIS MPP 4,179 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: null
   values:
   - 4179.0
-- &id021
-  section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+- section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
   section_type: linked_pdf
   source_line: AFER MPP 1,625 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: null
@@ -221,27 +200,172 @@ section_count: 2
 signals:
   numeric_observation_count: 21
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: (02 JUNE - 05 JUNE) 2026
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+    - 2026.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: period of 10 days, after payment cycles had loosened during recent
+      geopolitical
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (93.56 94.90) + 1.34'
+    unit: null
+    values:
+    - 93.56
+    - 94.9
+    - 1.34
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE : (90.11 92.90) + 2.79'
+    unit: null
+    values:
+    - 90.11
+    - 92.9
+    - 2.79
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 95.09 This Week : 122.78 This Week : 278.39 This Week
+      : 46.06'
+    unit: null
+    values:
+    - 95.09
+    - 122.78
+    - 278.39
+    - 46.06
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 94.92 Previous Week : 122.73 Previous Week : 278
+      Previous Week : 45.89'
+    unit: null
+    values:
+    - 94.92
+    - 122.73
+    - 278.0
+    - 45.89
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: 'Loss : 0.17 Loss : 0.05 Loss : 0.39 Loss : 0.17'
+    unit: null
+    values:
+    - 0.17
+    - 0.05
+    - 0.39
+    - 0.17
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: PPRRIICCEE OOFF HHMMSS 11&&22 ((8800::2200)) AANNDD SSHHRREEDDDDEEDD
+    unit: null
+    values:
+    - 11.0
+    - 22.0
+    - 8800.0
+    - 2200.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 400 415 (0)
+    unit: null
+    values:
+    - 400.0
+    - 415.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 405 420 (0)
+    unit: null
+    values:
+    - 405.0
+    - 420.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 405 420 (0)
+    unit: null
+    values:
+    - 405.0
+    - 420.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 400 420 (0)
+    unit: null
+    values:
+    - 400.0
+    - 420.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: INDIA SOFT 430 415 400 (2.47%)
+    unit: pct
+    values:
+    - 430.0
+    - 415.0
+    - 400.0
+    - 2.47
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH SOFT 460 450 425 (0)
+    unit: null
+    values:
+    - 460.0
+    - 450.0
+    - 425.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN SOFT 480 470 460 (4.44%)
+    unit: pct
+    values:
+    - 480.0
+    - 470.0
+    - 460.0
+    - 4.44
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY SOFT 290 280 270 (0)
+    unit: null
+    values:
+    - 290.0
+    - 280.0
+    - 270.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: YAMAL IRBIS MPP 4,179 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: null
+    values:
+    - 4179.0
+  - section: 'Linked asset: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf'
+    section_type: linked_pdf
+    source_line: AFER MPP 1,625 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: null
+    values:
+    - 1625.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026.html
 source_stem: 2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026

@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 109
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Following the recent drastic falls - which have seen almost USD 100/LDT
     wiped off prices - the ship recycling industry in the Indian sub-continent seems
@@ -40,8 +39,7 @@ numeric_observations:
   unit: usd
   values:
   - 100.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the West end, Turkey is far worse off with its plummeting steel
     plate prices (both import and local) and a currency that has shaken the local
@@ -50,8 +48,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 300.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 24 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -59,16 +56,14 @@ numeric_observations:
   values:
   - 24.0
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 111-9.jpg'
   unit: null
   values:
   - 111.0
   - -9.0
-- &id005
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
   unit: null
@@ -80,24 +75,21 @@ numeric_observations:
   - 111.0
   - -9.0
   - 7862578481.0
-- &id006
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 614x183 mode=RGB'
   unit: null
   values:
   - 614.0
   - 83.0
-- &id007
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id008
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh 600/LDT | 610/LDT | 620/LDT
   unit: null
@@ -105,47 +97,41 @@ numeric_observations:
   - 600.0
   - 610.0
   - 620.0
-- &id009
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: June 17th, 2022 "Talent wins games, but teamwork and intelligence win
   unit: null
   values:
   - 17.0
   - 2022.0
-- &id010
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Volume 239, Issue 1036 championships."
   unit: null
   values:
   - 239.0
   - 1036.0
-- &id011
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Week 24 - Michael Jordan
   unit: null
   values:
   - 24.0
-- &id012
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: • Breather. Following the recent drastic falls - which have seen almost
     USD 100/LDT wiped off prices - the
   unit: usd
   values:
   - 100.0
-- &id013
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: or even news of fresh deals as local offerings are firmly below the
     USD 300/MT mark.
   unit: tonnage
   values:
   - 300.0
-- &id014
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: For week 24 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -153,8 +139,7 @@ numeric_observations:
   values:
   - 24.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 1 India Weak 610 / LDT 620 / LDT 630 / LDT
   unit: null
@@ -163,8 +148,7 @@ numeric_observations:
   - 610.0
   - 620.0
   - 630.0
-- &id016
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh Weak 600 / LDT 610 / LDT 620 / LDT
   unit: null
@@ -173,8 +157,7 @@ numeric_observations:
   - 600.0
   - 610.0
   - 620.0
-- &id017
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 590 / LDT 600 / LDT 610 / LDT
   unit: null
@@ -183,8 +166,7 @@ numeric_observations:
   - 590.0
   - 600.0
   - 610.0
-- &id018
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -193,134 +175,117 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id019
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Unjustified panic. On the fundamentals front, local steel plat e prices
     cruised down about USD 10/Ton
   unit: usd
   values:
   - 10.0
-- &id021
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: breaching a record BDT 90, only to settle back down towards BDT 85.
   unit: null
   values:
   - 90.0
   - 85.0
-- &id022
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: mirrored Bangladesh with a nearly USD 10/Ton decline. Meanwhile, the
     currency
   unit: usd
   values:
   - 10.0
-- &id024
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: depreciated past the psychologicallyI wNorDryinIgA ra te in excess
     of Rs. 78 against the U.S.
   unit: null
   values:
   - 78.0
-- &id025
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Dollar, but strengthened back to levels in the high Rs. 77s.
   unit: null
   values:
   - 77.0
-- &id026
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: of the currency to a record low against the U.S. Dollar (breaching
     the coveted PKR 207 and
   unit: null
   values:
   - 207.0
-- &id028
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: on its way towards PKR 208), local steel plate prices that are still
     displaying their share of
   unit: null
   values:
   - 208.0
-- &id029
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: volatility (with a near USD 25/Ton decline through mid-week and a minor
     recovery
   unit: usd
   values:
   - 25.0
-- &id030
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Below 300
   unit: null
   values:
   - 300.0
-- &id032
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: types of units are now fetching firmly below the USD 300/MT mark. This
     is quite the
   unit: tonnage
   values:
   - 300.0
-- &id033
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: staggering plummet when levels close to USD 500/MT were on the table
     just a few weeks
   unit: tonnage
   values:
   - 500.0
-- &id034
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: A nearly USD 200/MT plummet in about a month is quite noteworthy and
     those Owners
   unit: tonnage
   values:
   - 200.0
-- &id035
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: plummeted USD 30/Ton as import followed suit, with a marginally higher
     USD 35/Ton
@@ -328,64 +293,56 @@ numeric_observations:
   values:
   - 30.0
   - 35.0
-- &id036
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: fall. Even the Lira has peaked at a record TRY 17.3X against the U.S.
     Dollar, leaving local
   unit: null
   values:
   - 17.3
-- &id037
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: one pufferfish to kill 30 people-and there's no antidote. Still, pufferfish,
     called fugu, is a highly-prized
   unit: null
   values:
   - 30.0
-- &id039
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: No holidays in June June 11 - June 20
   unit: null
   values:
   - 11.0
   - 20.0
-- &id040
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: June 25 - July 04
   unit: null
   values:
   - 25.0
   - 4.0
-- &id041
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: No holidays in June June 13 - June 16
   unit: null
   values:
   - 13.0
   - 16.0
-- &id042
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: June 29 - July 02
   unit: null
   values:
   - 29.0
   - 2.0
-- &id043
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: June 03 - June 05 - Dragon Boat No holidays in June No holidays in
     June
@@ -393,24 +350,21 @@ numeric_observations:
   values:
   - 3.0
   - 5.0
-- &id044
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 17, 2022
   unit: null
   values:
   - 17.0
   - 2022.0
-- &id046
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 1 Izabela 1,687 Oil Tanker Beached June 11
   unit: null
@@ -418,8 +372,7 @@ numeric_observations:
   - 1.0
   - 1687.0
   - 11.0
-- &id047
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 2 Jarvis 2,046 Supply Tug Beached June 16
   unit: null
@@ -427,8 +380,7 @@ numeric_observations:
   - 2.0
   - 2046.0
   - 16.0
-- &id048
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 3 Odin 15,285 Passenger Vessel Arrived June 03
   unit: null
@@ -436,8 +388,7 @@ numeric_observations:
   - 3.0
   - 15285.0
   - 3.0
-- &id049
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 4 Rich 7,199 RoRo Arrived June 14
   unit: null
@@ -445,23 +396,20 @@ numeric_observations:
   - 4.0
   - 7199.0
   - 14.0
-- &id050
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 26,216
   unit: null
   values:
   - 26216.0
-- &id051
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 17, 2022
   unit: null
   values:
   - 17.0
   - 2022.0
-- &id052
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 1 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -469,8 +417,7 @@ numeric_observations:
   - 1.0
   - 16885.0
   - 28.0
-- &id053
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 2 Ion 16,640 Tanker Beached June 17
   unit: null
@@ -478,8 +425,7 @@ numeric_observations:
   - 2.0
   - 16640.0
   - 17.0
-- &id054
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 3 Mary the Queen (Under Tow) 6,479 RoRo / Cargo Beached June 15
   unit: null
@@ -487,8 +433,7 @@ numeric_observations:
   - 3.0
   - 6479.0
   - 15.0
-- &id055
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 4 Super Shuttle RoRo 3 (Under Tow) 5,078 Vehicles Carrier Beached June
     15
@@ -498,8 +443,7 @@ numeric_observations:
   - 3.0
   - 5078.0
   - 15.0
-- &id056
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 6 Thanos 2,362 Offshore Tug Beached June 14
   unit: null
@@ -507,23 +451,20 @@ numeric_observations:
   - 6.0
   - 2362.0
   - 14.0
-- &id057
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 47,443
   unit: null
   values:
   - 47443.0
-- &id058
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 17, 2022
   unit: null
   values:
   - 17.0
   - 2022.0
-- &id059
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 1 Admarine 100 8,763 Tanker Arrived June 06
   unit: null
@@ -532,8 +473,7 @@ numeric_observations:
   - 100.0
   - 8763.0
   - 6.0
-- &id060
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 2 Fortune 3,500 Tanker Arrived June 12
   unit: null
@@ -541,8 +481,7 @@ numeric_observations:
   - 2.0
   - 3500.0
   - 12.0
-- &id061
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 3 Westin 3,803 Tanker Beached June 11
   unit: null
@@ -550,15 +489,13 @@ numeric_observations:
   - 3.0
   - 3803.0
   - 11.0
-- &id062
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,066
   unit: null
   values:
   - 16066.0
-- &id063
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -567,8 +504,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id064
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -577,8 +513,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id065
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -587,8 +522,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id066
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -597,8 +531,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id067
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -607,8 +540,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id068
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 1 /2
   unit: null
@@ -616,8 +548,7 @@ numeric_observations:
   - 1.0
   - 1.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 2 /2
   unit: null
@@ -625,8 +556,7 @@ numeric_observations:
   - 1.0
   - 2.0
   - 2.0
-- &id070
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 3 /2
   unit: null
@@ -634,8 +564,7 @@ numeric_observations:
   - 1.0
   - 3.0
   - 2.0
-- &id071
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 4 /2
   unit: null
@@ -643,8 +572,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 2.0
-- &id072
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 5 /2
   unit: null
@@ -652,8 +580,7 @@ numeric_observations:
   - 1.0
   - 5.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 6 /2
   unit: null
@@ -661,8 +588,7 @@ numeric_observations:
   - 1.0
   - 6.0
   - 2.0
-- &id074
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: /1 7 /2
   unit: null
@@ -670,8 +596,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 7 2 .9 7
   unit: null
@@ -680,8 +605,7 @@ numeric_observations:
   - 2.0
   - 9.0
   - 7.0
-- &id076
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 7 0 .2 2
   unit: null
@@ -689,8 +613,7 @@ numeric_observations:
   - 7.0
   - 2.0
   - 2.0
-- &id077
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 6 6 .8 1
   unit: null
@@ -699,8 +622,7 @@ numeric_observations:
   - 6.0
   - 8.0
   - 1.0
-- &id078
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 5 8 .4 7
   unit: null
@@ -709,8 +631,7 @@ numeric_observations:
   - 8.0
   - 4.0
   - 7.0
-- &id079
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 5 9 .7 5
   unit: null
@@ -719,8 +640,7 @@ numeric_observations:
   - 9.0
   - 7.0
   - 5.0
-- &id080
-  section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+- section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
   section_type: linked_pdf
   source_line: 6 3 .5 2
   unit: null
@@ -981,86 +901,626 @@ section_count: 3
 signals:
   numeric_observation_count: 109
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Following the recent drastic falls - which have seen almost USD 100/LDT
+      wiped off prices - the ship recycling industry in the Indian sub-continent seems
+      to be taking a bit of a pause, as End Buyers remain less than confident to offer
+      any firm prices with certa
+    unit: usd
+    values:
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: On the West end, Turkey is far worse off with its plummeting steel
+      plate prices (both import and local) and a currency that has shaken the local
+      market to a standstill, with no new arrivals or even news of fresh deals as
+      local offerings are firmly below the US
+    unit: tonnage
+    values:
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: For week 24 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 111-9.jpg'
+    unit: null
+    values:
+    - 111.0
+    - -9.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -6.0
+    - -20.0
+    - 24.0
+    - 111.0
+    - -9.0
+    - 7862578481.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 614x183 mode=RGB'
+    unit: null
+    values:
+    - 614.0
+    - 83.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_111-9_7862578481e5.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh 600/LDT | 610/LDT | 620/LDT
+    unit: null
+    values:
+    - 600.0
+    - 610.0
+    - 620.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: June 17th, 2022 "Talent wins games, but teamwork and intelligence
+      win
+    unit: null
+    values:
+    - 17.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Volume 239, Issue 1036 championships."
+    unit: null
+    values:
+    - 239.0
+    - 1036.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Week 24 - Michael Jordan
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: • Breather. Following the recent drastic falls - which have seen
+      almost USD 100/LDT wiped off prices - the
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: or even news of fresh deals as local offerings are firmly below the
+      USD 300/MT mark.
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: For week 24 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Weak 610 / LDT 620 / LDT 630 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 610.0
+    - 620.0
+    - 630.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh Weak 600 / LDT 610 / LDT 620 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 600.0
+    - 610.0
+    - 620.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 590 / LDT 600 / LDT 610 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 590.0
+    - 600.0
+    - 610.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Unjustified panic. On the fundamentals front, local steel plat e
+      prices cruised down about USD 10/Ton
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: breaching a record BDT 90, only to settle back down towards BDT 85.
+    unit: null
+    values:
+    - 90.0
+    - 85.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: mirrored Bangladesh with a nearly USD 10/Ton decline. Meanwhile,
+      the currency
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: depreciated past the psychologicallyI wNorDryinIgA ra te in excess
+      of Rs. 78 against the U.S.
+    unit: null
+    values:
+    - 78.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Dollar, but strengthened back to levels in the high Rs. 77s.
+    unit: null
+    values:
+    - 77.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: of the currency to a record low against the U.S. Dollar (breaching
+      the coveted PKR 207 and
+    unit: null
+    values:
+    - 207.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: on its way towards PKR 208), local steel plate prices that are still
+      displaying their share of
+    unit: null
+    values:
+    - 208.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: volatility (with a near USD 25/Ton decline through mid-week and a
+      minor recovery
+    unit: usd
+    values:
+    - 25.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Below 300
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: types of units are now fetching firmly below the USD 300/MT mark.
+      This is quite the
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: staggering plummet when levels close to USD 500/MT were on the table
+      just a few weeks
+    unit: tonnage
+    values:
+    - 500.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: A nearly USD 200/MT plummet in about a month is quite noteworthy
+      and those Owners
+    unit: tonnage
+    values:
+    - 200.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: plummeted USD 30/Ton as import followed suit, with a marginally higher
+      USD 35/Ton
+    unit: usd
+    values:
+    - 30.0
+    - 35.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: fall. Even the Lira has peaked at a record TRY 17.3X against the
+      U.S. Dollar, leaving local
+    unit: null
+    values:
+    - 17.3
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: one pufferfish to kill 30 people-and there's no antidote. Still,
+      pufferfish, called fugu, is a highly-prized
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in June June 11 - June 20
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: June 25 - July 04
+    unit: null
+    values:
+    - 25.0
+    - 4.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in June June 13 - June 16
+    unit: null
+    values:
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: June 29 - July 02
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: June 03 - June 05 - Dragon Boat No holidays in June No holidays in
+      June
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 17, 2022
+    unit: null
+    values:
+    - 17.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 1 Izabela 1,687 Oil Tanker Beached June 11
+    unit: null
+    values:
+    - 1.0
+    - 1687.0
+    - 11.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 2 Jarvis 2,046 Supply Tug Beached June 16
+    unit: null
+    values:
+    - 2.0
+    - 2046.0
+    - 16.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 3 Odin 15,285 Passenger Vessel Arrived June 03
+    unit: null
+    values:
+    - 3.0
+    - 15285.0
+    - 3.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 4 Rich 7,199 RoRo Arrived June 14
+    unit: null
+    values:
+    - 4.0
+    - 7199.0
+    - 14.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 26,216
+    unit: null
+    values:
+    - 26216.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 17, 2022
+    unit: null
+    values:
+    - 17.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 1 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 1.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ion 16,640 Tanker Beached June 17
+    unit: null
+    values:
+    - 2.0
+    - 16640.0
+    - 17.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 3 Mary the Queen (Under Tow) 6,479 RoRo / Cargo Beached June 15
+    unit: null
+    values:
+    - 3.0
+    - 6479.0
+    - 15.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 4 Super Shuttle RoRo 3 (Under Tow) 5,078 Vehicles Carrier Beached
+      June 15
+    unit: null
+    values:
+    - 4.0
+    - 3.0
+    - 5078.0
+    - 15.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 6 Thanos 2,362 Offshore Tug Beached June 14
+    unit: null
+    values:
+    - 6.0
+    - 2362.0
+    - 14.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 47,443
+    unit: null
+    values:
+    - 47443.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 17, 2022
+    unit: null
+    values:
+    - 17.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 1 Admarine 100 8,763 Tanker Arrived June 06
+    unit: null
+    values:
+    - 1.0
+    - 100.0
+    - 8763.0
+    - 6.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 2 Fortune 3,500 Tanker Arrived June 12
+    unit: null
+    values:
+    - 2.0
+    - 3500.0
+    - 12.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 3 Westin 3,803 Tanker Beached June 11
+    unit: null
+    values:
+    - 3.0
+    - 3803.0
+    - 11.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,066
+    unit: null
+    values:
+    - 16066.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 1 /2
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 2 /2
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 3 /2
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 4 /2
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 5 /2
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 6 /2
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: /1 7 /2
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 7 2 .9 7
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 9.0
+    - 7.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 7 0 .2 2
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 6 6 .8 1
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 5 8 .4 7
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 5 9 .7 5
+    unit: null
+    values:
+    - 5.0
+    - 9.0
+    - 7.0
+    - 5.0
+  - section: 'Linked asset: 2022-06-20_gms-week-24-summer-stasis_june-17-2022_8f209bcb0377.pdf'
+    section_type: linked_pdf
+    source_line: 6 3 .5 2
+    unit: null
+    values:
+    - 6.0
+    - 3.0
+    - 5.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-06-20_gms-week-24-summer-stasis.html
 source_stem: 2022-06-20_gms-week-24-summer-stasis

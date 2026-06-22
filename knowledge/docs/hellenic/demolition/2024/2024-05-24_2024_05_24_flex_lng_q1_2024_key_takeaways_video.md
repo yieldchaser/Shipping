@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 2
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Recent Videos 24/05/2024
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 24.0
   - 5.0
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Key highlights from the Flex LNG Ltd Q1-2024 Result Presentation on
     May 23, 2024. The full presentation, includinga Q&A session, will be available
@@ -58,8 +56,27 @@ section_count: 1
 signals:
   numeric_observation_count: 2
   numeric_observations:
-  - *id001
-  - *id002
+  - section: Main
+    section_type: null
+    source_line: in Recent Videos 24/05/2024
+    unit: null
+    values:
+    - 24.0
+    - 5.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Key highlights from the Flex LNG Ltd Q1-2024 Result Presentation
+      on May 23, 2024. The full presentation, includinga Q&A session, will be available
+      on YouTube on May 23, 2024. Flex LNG Ltd is a shipping company focused on the
+      growing market for Liquefied Natura
+    unit: null
+    values:
+    - -2024.0
+    - 23.0
+    - 2024.0
+    - 23.0
+    - 2024.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-05-24_flex-lng-q1-2024-key-takeaways-video.html
 source_stem: 2024-05-24_flex-lng-q1-2024-key-takeaways-video

@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 10
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: This inactivity has come at something of an appropriate time, with
     levels in all sub-continent markets having declined by about USD 20 - USD 30/LDT,
@@ -37,8 +36,7 @@ numeric_observations:
   values:
   - 20.0
   - 30.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The falls in India have been far more pronounced, with about USD 50
     - USD 60/LDT being knocked off vessel prices due to plummeting domestic steel
@@ -49,8 +47,7 @@ numeric_observations:
   - 50.0
   - 60.0
   - 500.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Chattogram Buyers have been active too in recent weeks, securing a
     Suezmax and an Aframax tanker at impressive levels above USD 600/LDT. Finally,
@@ -61,8 +58,7 @@ numeric_observations:
   - 600.0
   - 10.48
   - 5.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 53 of 2021, GMS demo rankings / pricing for the week are as
     below.
@@ -70,15 +66,13 @@ numeric_observations:
   values:
   - 53.0
   - 2021.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: Καταγραφή-12.jpg'
   unit: null
   values:
   - -12.0
-- &id006
-  section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+- section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   unit: null
@@ -90,31 +84,27 @@ numeric_observations:
   - -12.0
   - 6.0
   - 74.0
-- &id007
-  section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+- section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 617x160 mode=RGB'
   unit: null
   values:
   - 617.0
   - 60.0
-- &id008
-  section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+- section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id009
-  section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+- section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   section_type: linked_image_asset
   source_line: Demo x 2 Dry Bulk Tankers Containers
   unit: null
   values:
   - 2.0
-- &id010
-  section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+- section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
   section_type: linked_image_asset
   source_line: '| 1 _ | Bangladesh 590/LDT | 600/LDT 610 /LDT'
   unit: null
@@ -131,16 +121,92 @@ section_count: 2
 signals:
   numeric_observation_count: 10
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
+  - section: Main
+    section_type: null
+    source_line: This inactivity has come at something of an appropriate time, with
+      levels in all sub-continent markets having declined by about USD 20 - USD 30/LDT,
+      from the peaks seen in September - October.
+    unit: usd
+    values:
+    - 20.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: The falls in India have been far more pronounced, with about USD
+      50 - USD 60/LDT being knocked off vessel prices due to plummeting domestic steel
+      plate prices. Quotes on certain less favored units are now coming in even below
+      USD 500/LDT on occasion!
+    unit: usd
+    values:
+    - 50.0
+    - 60.0
+    - 500.0
+  - section: Main
+    section_type: null
+    source_line: 'Chattogram Buyers have been active too in recent weeks, securing
+      a Suezmax and an Aframax tanker at impressive levels above USD 600/LDT. Finally,
+      the Turkish market saw the Lira firming and settling in around the TRY 10.48
+      mark by the time the week ended, and '
+    unit: usd
+    values:
+    - 600.0
+    - 10.48
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: For week 53 of 2021, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 53.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: Καταγραφή-12.jpg'
+    unit: null
+    values:
+    - -12.0
+  - section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -12.0
+    - -28.0
+    - 53.0
+    - -12.0
+    - 6.0
+    - 74.0
+  - section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 617x160 mode=RGB'
+    unit: null
+    values:
+    - 617.0
+    - 60.0
+  - section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    section_type: linked_image_asset
+    source_line: Demo x 2 Dry Bulk Tankers Containers
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2021-12-28_gms-week-53-christmas-cheer_καταγραφή-12_e46f6e274b40.jpg'
+    section_type: linked_image_asset
+    source_line: '| 1 _ | Bangladesh 590/LDT | 600/LDT 610 /LDT'
+    unit: null
+    values:
+    - 1.0
+    - 590.0
+    - 600.0
+    - 610.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-12-28_gms-week-53-christmas-cheer.html
 source_stem: 2021-12-28_gms-week-53-christmas-cheer

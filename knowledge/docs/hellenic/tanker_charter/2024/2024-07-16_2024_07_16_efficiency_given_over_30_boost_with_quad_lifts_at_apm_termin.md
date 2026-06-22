@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Recent Videos 16/07/2024
   unit: null
@@ -46,7 +45,14 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: in Recent Videos 16/07/2024
+    unit: null
+    values:
+    - 16.0
+    - 7.0
+    - 2024.0
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2024/2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-termin.html
 source_stem: 2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-termin

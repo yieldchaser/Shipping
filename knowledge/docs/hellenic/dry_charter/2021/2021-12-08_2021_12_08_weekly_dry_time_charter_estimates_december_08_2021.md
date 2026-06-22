@@ -200,6 +200,28 @@ signals:
     - 20500.0
     - 16500.0
     - 16000.0
+  - segment: supramax
+    source_line: ULTRAMAX | 33,000|= 22,750) = 28,500)- 20,750)- 17,500|}- 17,000
+    timeframe: null
+    unit: null
+    values:
+    - 33000.0
+    - 22750.0
+    - 28500.0
+    - 20750.0
+    - 17500.0
+    - 17000.0
+  - segment: panamax
+    source_line: PANA/KMAX | & 28,250| 27,000) = 23,000)" 22,250|" 17,500| 17,250
+    timeframe: null
+    unit: null
+    values:
+    - 28250.0
+    - 27000.0
+    - 23000.0
+    - 22250.0
+    - 17500.0
+    - 17250.0
   - segment: capesize
     source_line: CAPESIZE | 27,250|@ 25,750) & 25,000) 23,500)= 20250|= 19,250
     timeframe: null

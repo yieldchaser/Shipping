@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 113
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Indeed, the USD 600/Ton mark was even breached on a container unit
     once again, in what seems to be the surest sign yet, that sentiments and demand
@@ -38,8 +37,7 @@ numeric_observations:
   unit: usd
   values:
   - 600.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, Indian local steel plate prices had gained about USD 13/LDT
     last week (as international steel prices simultaneously reported a 2% increase)
@@ -49,8 +47,7 @@ numeric_observations:
   values:
   - 13.0
   - 2.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 38 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 38.0
   - 2023.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-09-25_gms-week-38-feverish-buying_img1_25092023gms_2cbebd14dd5e.jpg'
   unit: null
@@ -71,62 +67,54 @@ numeric_observations:
   - 25092023.0
   - 2.0
   - 4.0
-- &id005
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Septemb er 22nd, 2023
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id006
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Volume 253, Issue 1101
   unit: null
   values:
   - 253.0
   - 1101.0
-- &id007
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Week 38 - Melissa McCarthy
   unit: null
   values:
   - 38.0
-- &id008
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Indeed, the USD 600/Ton mark was even breached on a container unit
     once again, in what
   unit: usd
   values:
   - 600.0
-- &id009
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: • Breaching 600.
   unit: null
   values:
   - 600.0
-- &id010
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, Indian local steel plate prices had gained about USD 13/LDT
     last week (as
   unit: usd
   values:
   - 13.0
-- &id011
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: international steel prices simultaneously reported a 2% increase) and
     this week saw some
   unit: pct
   values:
   - 2.0
-- &id012
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: For week 38 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -134,8 +122,7 @@ numeric_observations:
   values:
   - 38.0
   - 2023.0
-- &id013
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 1 India Improving 540 / LDT 560 / LDT 580 / LDT
   unit: null
@@ -144,8 +131,7 @@ numeric_observations:
   - 540.0
   - 560.0
   - 580.0
-- &id014
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -154,8 +140,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id015
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -164,8 +149,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id016
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 300 / LDT 310 / LDT 320 / LDT
   unit: null
@@ -174,63 +158,55 @@ numeric_observations:
   - 300.0
   - 310.0
   - 320.0
-- &id017
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Bangladesh steel prices on page 8), while the Bangladeshi Taka continues
     to languish at
   unit: null
   values:
   - 8.0
-- &id019
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: BDT 109.50 against the U.S. Dollar.
   unit: null
   values:
   - 109.5
-- &id020
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Curiously, however, the Chattogram had the busiest local anchorage
     for the week, as 13
   unit: null
   values:
   - 13.0
-- &id021
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: We have even seen USD 600/Ton breached on the sale of a Sinokor controlled
     container
   unit: usd
   values:
   - 600.0
-- &id023
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: vessel (fifth sold so far this year) asI tNhe FDORITAUN E TRADER (7,192
     LDT) managed to
   unit: null
   values:
   - 7192.0
-- &id024
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: fetch an unbelievable USD 612/LT LDT (with 100 Tons of bunkers on delivery)
     in a
@@ -238,8 +214,7 @@ numeric_observations:
   values:
   - 612.0
   - 100.0
-- &id025
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: MSC MARIA (3,952 LDT) at USD 547/LT LDT (for limited HKC yards only),
     whilst
@@ -247,8 +222,7 @@ numeric_observations:
   values:
   - 3952.0
   - 547.0
-- &id026
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: another Chinese Panamax Bulker, the YA TAI 1 (10,399), managed to fetch
     an impressive
@@ -256,15 +230,13 @@ numeric_observations:
   values:
   - 1.0
   - 10399.0
-- &id027
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: USD 475/LT LDT basis an ‘as is' Guangzhou delivery.
   unit: usd
   values:
   - 475.0
-- &id028
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: FORTUNE TRADER Container 7,192 USD 612/LT LDT (with 100 Ts bunkers)
   unit: usd
@@ -272,22 +244,19 @@ numeric_observations:
   - 7192.0
   - 612.0
   - 100.0
-- &id029
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: USD 547/LT LDT (for limited yards
   unit: usd
   values:
   - 547.0
-- &id030
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: MSC MARIA Container 3,952
   unit: null
   values:
   - 3952.0
-- &id031
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: YA TAI 1 Bulker 10,399 USD 475/LT LDT (‘as is' Guangzhou)
   unit: usd
@@ -295,55 +264,48 @@ numeric_observations:
   - 1.0
   - 10399.0
   - 475.0
-- &id032
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: week at PKR 292.75.
   unit: null
   values:
   - 292.75
-- &id034
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Although the Lira has now passed TRY 27.1X against the U.S. Dollar,
     local steel plate
   unit: null
   values:
   - 27.1
-- &id036
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: mindset and Aliaga Buyers are now coming forward looking for tonnage,
     as they become TRY 27 breached.
   unit: null
   values:
   - 27.0
-- &id037
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line:  In th e movie Apollo 13, the zero-gravity scenes are real. The crew
     filmed about four hours of material in 612 parabola
@@ -351,24 +313,21 @@ numeric_observations:
   values:
   - 13.0
   - 612.0
-- &id039
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line:  The pull of gravity on Earth makes it impossible for mountains to
     be more than a little under 50 thousand feet tall.
   unit: null
   values:
   - 50.0
-- &id040
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line:  To maintain our same living standard, every person in the United
     States needs over 48 thousand pounds of minerals
   unit: null
   values:
   - 48.0
-- &id041
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 02 - Mahatma Gandhi Jayanthi September 26 - October 05
   unit: null
@@ -376,8 +335,7 @@ numeric_observations:
   - 2.0
   - 26.0
   - 5.0
-- &id042
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 24 - Vijaya Dashami October 14 - October 20
   unit: null
@@ -385,8 +343,7 @@ numeric_observations:
   - 24.0
   - 14.0
   - 20.0
-- &id043
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 26 - November
     03
@@ -395,8 +352,7 @@ numeric_observations:
   - 31.0
   - 26.0
   - 3.0
-- &id044
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: September 28 - Eid-e-Milad-um-Nami September 08 - October 01
   unit: null
@@ -404,8 +360,7 @@ numeric_observations:
   - 28.0
   - 8.0
   - 1.0
-- &id045
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 24 - Durga Puja October 13 - October 16
   unit: null
@@ -413,16 +368,14 @@ numeric_observations:
   - 24.0
   - 13.0
   - 16.0
-- &id046
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 27 - October 30
   unit: null
   values:
   - 27.0
   - 30.0
-- &id047
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um- No
     Holidays in September
@@ -430,8 +383,7 @@ numeric_observations:
   values:
   - 29.0
   - 28.0
-- &id048
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 01 - 06 - National Holiday Nami October 29 - Republic Day
   unit: null
@@ -439,31 +391,27 @@ numeric_observations:
   - 1.0
   - 6.0
   - 29.0
-- &id049
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day
   unit: null
   values:
   - 24.0
-- &id050
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 22, 2023
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id052
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 1 Maritime Riyal 12,246 Chemical Tanker Beached September 20
   unit: null
@@ -471,8 +419,7 @@ numeric_observations:
   - 1.0
   - 12246.0
   - 20.0
-- &id053
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 2 Sinokor Vladivostok 4,672 Container Arrived September 19
   unit: null
@@ -480,8 +427,7 @@ numeric_observations:
   - 2.0
   - 4672.0
   - 19.0
-- &id054
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 3 White Purl 5,450 LPG Arrived September 19
   unit: null
@@ -489,8 +435,7 @@ numeric_observations:
   - 3.0
   - 5450.0
   - 19.0
-- &id055
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 4 Zho 6,729 Bulk Carrier Arrived September 20
   unit: null
@@ -498,23 +443,20 @@ numeric_observations:
   - 4.0
   - 6729.0
   - 20.0
-- &id056
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 29,097
   unit: null
   values:
   - 29097.0
-- &id057
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 22, 2023
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id058
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 1 Abdullah 7,528 Bulk Carrier Beached September 19
   unit: null
@@ -522,8 +464,7 @@ numeric_observations:
   - 1.0
   - 7528.0
   - 19.0
-- &id059
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 2 Alba 1 12,573 Bulk Carrier Arrived September 19
   unit: null
@@ -532,8 +473,7 @@ numeric_observations:
   - 1.0
   - 12573.0
   - 19.0
-- &id060
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 3 Ang Fan 10,934 Bulk Carrier Beached September 17
   unit: null
@@ -541,8 +481,7 @@ numeric_observations:
   - 3.0
   - 10934.0
   - 17.0
-- &id061
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 4 Busan Gas 1,130 LPG Tanker Arrived September 20
   unit: null
@@ -550,8 +489,7 @@ numeric_observations:
   - 4.0
   - 1130.0
   - 20.0
-- &id062
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 5 Dapitan Bay 1 5,249 RoRo / Cargo Beached September 17
   unit: null
@@ -560,8 +498,7 @@ numeric_observations:
   - 1.0
   - 5249.0
   - 17.0
-- &id063
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 6 Express 6 1,265 Tanker Arrived September 20
   unit: null
@@ -570,8 +507,7 @@ numeric_observations:
   - 6.0
   - 1265.0
   - 20.0
-- &id064
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 7 Fatema Jahan 7,487 Bulk Carrier Arrived September 17
   unit: null
@@ -579,8 +515,7 @@ numeric_observations:
   - 7.0
   - 7487.0
   - 17.0
-- &id065
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 8 Hally 9,379 Bulk Carrier Arrived September 08
   unit: null
@@ -588,8 +523,7 @@ numeric_observations:
   - 8.0
   - 9379.0
   - 8.0
-- &id066
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 9 Harin Transport 1 1,065 General Cargo Arrived September 21
   unit: null
@@ -598,8 +532,7 @@ numeric_observations:
   - 1.0
   - 1065.0
   - 21.0
-- &id067
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 10 Heng Hui 2 14,546 Container Arrived September 18
   unit: null
@@ -608,8 +541,7 @@ numeric_observations:
   - 2.0
   - 14546.0
   - 18.0
-- &id068
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 11 Kema 2,950 General Cargo Beached September 16
   unit: null
@@ -617,8 +549,7 @@ numeric_observations:
   - 11.0
   - 2950.0
   - 16.0
-- &id069
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 12 Nautica Muar (Under Tow) 12,126 Tanker Beached September 16
   unit: null
@@ -626,8 +557,7 @@ numeric_observations:
   - 12.0
   - 12126.0
   - 16.0
-- &id070
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 13 Yi Ding 9 1,552 Tanker Arrived September 21
   unit: null
@@ -636,23 +566,20 @@ numeric_observations:
   - 9.0
   - 1552.0
   - 21.0
-- &id071
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 87,784
   unit: null
   values:
   - 87784.0
-- &id072
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 22, 2023
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id073
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 1 Sotiria 11,608 Bulk Carrier Beached September 17
   unit: null
@@ -660,8 +587,7 @@ numeric_observations:
   - 1.0
   - 11608.0
   - 17.0
-- &id074
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 2 Yong Ning 12,724 Bulk Carrier Arrived September 18
   unit: null
@@ -669,15 +595,13 @@ numeric_observations:
   - 2.0
   - 12724.0
   - 18.0
-- &id075
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 24,332
   unit: null
   values:
   - 24332.0
-- &id076
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -686,8 +610,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id077
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -696,8 +619,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id078
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -706,8 +628,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id079
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -716,8 +637,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id080
-  section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+- section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -991,86 +911,623 @@ section_count: 3
 signals:
   numeric_observation_count: 113
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Indeed, the USD 600/Ton mark was even breached on a container unit
+      once again, in what seems to be the surest sign yet, that sentiments and demand
+      in Alang are back on track again.
+    unit: usd
+    values:
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, Indian local steel plate prices had gained about USD 13/LDT
+      last week (as international steel prices simultaneously reported a 2% increase)
+      and this week saw some further gains, before a slight tail off towards the end
+      of the week.
+    unit: pct
+    values:
+    - 13.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: For week 38 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-09-25_gms-week-38-feverish-buying_img1_25092023gms_2cbebd14dd5e.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -9.0
+    - -25.0
+    - 38.0
+    - 25092023.0
+    - 2.0
+    - 4.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Septemb er 22nd, 2023
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Volume 253, Issue 1101
+    unit: null
+    values:
+    - 253.0
+    - 1101.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Week 38 - Melissa McCarthy
+    unit: null
+    values:
+    - 38.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Indeed, the USD 600/Ton mark was even breached on a container unit
+      once again, in what
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: • Breaching 600.
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, Indian local steel plate prices had gained about USD 13/LDT
+      last week (as
+    unit: usd
+    values:
+    - 13.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: international steel prices simultaneously reported a 2% increase)
+      and this week saw some
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: For week 38 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Improving 540 / LDT 560 / LDT 580 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 540.0
+    - 560.0
+    - 580.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 300 / LDT 310 / LDT 320 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 300.0
+    - 310.0
+    - 320.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh steel prices on page 8), while the Bangladeshi Taka continues
+      to languish at
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: BDT 109.50 against the U.S. Dollar.
+    unit: null
+    values:
+    - 109.5
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Curiously, however, the Chattogram had the busiest local anchorage
+      for the week, as 13
+    unit: null
+    values:
+    - 13.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: We have even seen USD 600/Ton breached on the sale of a Sinokor controlled
+      container
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: vessel (fifth sold so far this year) asI tNhe FDORITAUN E TRADER
+      (7,192 LDT) managed to
+    unit: null
+    values:
+    - 7192.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: fetch an unbelievable USD 612/LT LDT (with 100 Tons of bunkers on
+      delivery) in a
+    unit: usd
+    values:
+    - 612.0
+    - 100.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: MSC MARIA (3,952 LDT) at USD 547/LT LDT (for limited HKC yards only),
+      whilst
+    unit: usd
+    values:
+    - 3952.0
+    - 547.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: another Chinese Panamax Bulker, the YA TAI 1 (10,399), managed to
+      fetch an impressive
+    unit: null
+    values:
+    - 1.0
+    - 10399.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: USD 475/LT LDT basis an ‘as is' Guangzhou delivery.
+    unit: usd
+    values:
+    - 475.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: FORTUNE TRADER Container 7,192 USD 612/LT LDT (with 100 Ts bunkers)
+    unit: usd
+    values:
+    - 7192.0
+    - 612.0
+    - 100.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: USD 547/LT LDT (for limited yards
+    unit: usd
+    values:
+    - 547.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: MSC MARIA Container 3,952
+    unit: null
+    values:
+    - 3952.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: YA TAI 1 Bulker 10,399 USD 475/LT LDT (‘as is' Guangzhou)
+    unit: usd
+    values:
+    - 1.0
+    - 10399.0
+    - 475.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: week at PKR 292.75.
+    unit: null
+    values:
+    - 292.75
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Although the Lira has now passed TRY 27.1X against the U.S. Dollar,
+      local steel plate
+    unit: null
+    values:
+    - 27.1
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: mindset and Aliaga Buyers are now coming forward looking for tonnage,
+      as they become TRY 27 breached.
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line:  In th e movie Apollo 13, the zero-gravity scenes are real. The
+      crew filmed about four hours of material in 612 parabola
+    unit: null
+    values:
+    - 13.0
+    - 612.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line:  The pull of gravity on Earth makes it impossible for mountains
+      to be more than a little under 50 thousand feet tall.
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line:  To maintain our same living standard, every person in the United
+      States needs over 48 thousand pounds of minerals
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 02 - Mahatma Gandhi Jayanthi September 26 - October 05
+    unit: null
+    values:
+    - 2.0
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Vijaya Dashami October 14 - October 20
+    unit: null
+    values:
+    - 24.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 31 - Sardar Vallabhbhai Patel Jayanthi October 26 - November
+      03
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: September 28 - Eid-e-Milad-um-Nami September 08 - October 01
+    unit: null
+    values:
+    - 28.0
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Durga Puja October 13 - October 16
+    unit: null
+    values:
+    - 24.0
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 27 - October 30
+    unit: null
+    values:
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um-
+      No Holidays in September
+    unit: null
+    values:
+    - 29.0
+    - 28.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 01 - 06 - National Holiday Nami October 29 - Republic Day
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 29.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 22, 2023
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Maritime Riyal 12,246 Chemical Tanker Beached September 20
+    unit: null
+    values:
+    - 1.0
+    - 12246.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sinokor Vladivostok 4,672 Container Arrived September 19
+    unit: null
+    values:
+    - 2.0
+    - 4672.0
+    - 19.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 3 White Purl 5,450 LPG Arrived September 19
+    unit: null
+    values:
+    - 3.0
+    - 5450.0
+    - 19.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Zho 6,729 Bulk Carrier Arrived September 20
+    unit: null
+    values:
+    - 4.0
+    - 6729.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 29,097
+    unit: null
+    values:
+    - 29097.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 22, 2023
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Abdullah 7,528 Bulk Carrier Beached September 19
+    unit: null
+    values:
+    - 1.0
+    - 7528.0
+    - 19.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Alba 1 12,573 Bulk Carrier Arrived September 19
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 12573.0
+    - 19.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ang Fan 10,934 Bulk Carrier Beached September 17
+    unit: null
+    values:
+    - 3.0
+    - 10934.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Busan Gas 1,130 LPG Tanker Arrived September 20
+    unit: null
+    values:
+    - 4.0
+    - 1130.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 5 Dapitan Bay 1 5,249 RoRo / Cargo Beached September 17
+    unit: null
+    values:
+    - 5.0
+    - 1.0
+    - 5249.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 6 Express 6 1,265 Tanker Arrived September 20
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 1265.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 7 Fatema Jahan 7,487 Bulk Carrier Arrived September 17
+    unit: null
+    values:
+    - 7.0
+    - 7487.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 8 Hally 9,379 Bulk Carrier Arrived September 08
+    unit: null
+    values:
+    - 8.0
+    - 9379.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 9 Harin Transport 1 1,065 General Cargo Arrived September 21
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 1065.0
+    - 21.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 10 Heng Hui 2 14,546 Container Arrived September 18
+    unit: null
+    values:
+    - 10.0
+    - 2.0
+    - 14546.0
+    - 18.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 11 Kema 2,950 General Cargo Beached September 16
+    unit: null
+    values:
+    - 11.0
+    - 2950.0
+    - 16.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 12 Nautica Muar (Under Tow) 12,126 Tanker Beached September 16
+    unit: null
+    values:
+    - 12.0
+    - 12126.0
+    - 16.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 13 Yi Ding 9 1,552 Tanker Arrived September 21
+    unit: null
+    values:
+    - 13.0
+    - 9.0
+    - 1552.0
+    - 21.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 87,784
+    unit: null
+    values:
+    - 87784.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 22, 2023
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sotiria 11,608 Bulk Carrier Beached September 17
+    unit: null
+    values:
+    - 1.0
+    - 11608.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Yong Ning 12,724 Bulk Carrier Arrived September 18
+    unit: null
+    values:
+    - 2.0
+    - 12724.0
+    - 18.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 24,332
+    unit: null
+    values:
+    - 24332.0
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-09-25_gms-week-38-feverish-buying.html
 source_stem: 2023-09-25_gms-week-38-feverish-buying

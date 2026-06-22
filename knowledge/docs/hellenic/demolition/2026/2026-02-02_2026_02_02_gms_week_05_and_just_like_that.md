@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 100
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: … January 2026 joins the pages of history as being the purveyors of
     ongoing misery for the global ship recycling world as despite theodd wave of tonnage
@@ -41,8 +40,7 @@ numeric_observations:
   values:
   - 2026.0
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: To start, we have noteworthy surges to report this week. Across the
     board, for most of the major fundamentals, except sub-continent steel plate prices
@@ -58,8 +56,7 @@ numeric_observations:
   - 65.0
   - 65.1
   - 1.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: And the U.S. Dollar's performance across the ship recycling markets
     was reminiscent of Marilyn Monroe's infamous wavy skirt subway photo, the wavy
@@ -68,8 +65,7 @@ numeric_observations:
   unit: null
   values:
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Yet, the performances of the various dry indices stand to support the
     general expectation that supply will more than likely slow further down as we
@@ -79,8 +75,7 @@ numeric_observations:
   values:
   - 90.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 05 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -88,8 +83,7 @@ numeric_observations:
   values:
   - 5.0
   - 2026.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-02-02_gms-week-05-and-just-like-that_img1_0709_a2394e3dc567.jpg'
   unit: null
@@ -101,55 +95,48 @@ numeric_observations:
   - 709.0
   - 394.0
   - 67.0
-- &id007
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: January 3 0th, 2026
   unit: null
   values:
   - 3.0
   - 2026.0
-- &id008
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: '"Tomorrow is the first blank page of a 365-page book. Write a good
     one."'
   unit: null
   values:
   - 365.0
-- &id009
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Week 5
   unit: null
   values:
   - 5.0
-- &id010
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Volume 280, Issue 1221
   unit: null
   values:
   - 280.0
   - 1221.0
-- &id011
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: • Debbie Downer. … January 2026 joins the pages of history as bein
     g the purveyors of ongoing misery for the global
   unit: null
   values:
   - 2026.0
-- &id012
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: has posed global markets to setup a serious "Debbie Downer" for February
     2026, especially if the
   unit: null
   values:
   - 2026.0
-- &id013
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: certainly be felt within the next 4 weeks. While the dry index soared
     7.3% on the back of Capes pole-
@@ -157,8 +144,7 @@ numeric_observations:
   values:
   - 4.0
   - 7.3
-- &id014
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: • Supply slow. vaulting 12%, Panamaxes tripping up 1.6% in comparison,
     and Supras having a comparatively
@@ -166,8 +152,7 @@ numeric_observations:
   values:
   - 12.0
   - 1.6
-- &id015
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: minor hiccup gain of 0.5%, oil futures impressively slid past USD 65/barrel
     and close the week out
@@ -175,40 +160,35 @@ numeric_observations:
   values:
   - 0.5
   - 65.0
-- &id016
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: at USD 65.10 - a near 1% jump from last week.
   unit: pct
   values:
   - 65.1
   - 1.0
-- &id017
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: secured their share of available market vessels since the start of
     January 2026 (and in a long time).
   unit: null
   values:
   - 2026.0
-- &id018
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: own depreciation records (now firmly in the 90s against the U.S. Dollar),
     and an urgent need to
   unit: null
   values:
   - 90.0
-- &id019
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: starts flowing in, Q1 2026 certainly stands critical. Notwithstanding,
     there was still some good news
   unit: null
   values:
   - 2026.0
-- &id020
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 5 of 2026 are on Page 6.
   unit: null
@@ -216,39 +196,34 @@ numeric_observations:
   - 5.0
   - 2026.0
   - 6.0
-- &id021
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: landmark elections - the first in 2 years - standing just 2 weeks away.
     It has certainly been a long
   unit: null
   values:
   - 2.0
-- &id023
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 22 HKC yards.
   unit: null
   values:
   - 22.0
-- &id024
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: smaller tankers are emerging as well, with one reportedly achieving
     a meager USD 330/LT, hence
   unit: usd
   values:
   - 330.0
-- &id025
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: for at least 2 weeks running), which are stranded at USD 487.24/ton.
     Add into the pricing cocktail,
@@ -256,8 +231,7 @@ numeric_observations:
   values:
   - 2.0
   - 487.24
-- &id026
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: some spicy Tabasco of Bangladeshi Taka, which fell 1% this week and
     closed it out at BDT 122.95
@@ -265,8 +239,7 @@ numeric_observations:
   values:
   - 1.0
   - 122.95
-- &id027
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Overall, with 2 2 yar ds (and counting) that now stand HKC approved,
     it has been encouraging to
@@ -274,23 +247,20 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
-- &id028
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: (tick tock reality, its 2026 already).
   unit: null
   values:
   - 2026.0
-- &id029
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: plummeted another 25 basis points by week's end, and after briefly
     surging to Rs. 92.18 against the U.S.
@@ -298,23 +268,20 @@ numeric_observations:
   values:
   - 25.0
   - 92.18
-- &id031
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Dollar - currently still in excess of Rs. 93 for non-regulatory Dollar
     purchases (i.e. for regular people) -
   unit: null
   values:
   - 93.0
-- &id032
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: it closed shop for the weekend at Rs. 91.82.
   unit: null
   values:
   - 91.82
-- &id033
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 398/Ton before recovering to a - still lower than last week - level
     of about USD 401/Ton, dictating the
@@ -322,16 +289,14 @@ numeric_observations:
   values:
   - 398.0
   - 401.0
-- &id034
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: currency may even breach Rs. 100 against U.S. Dollar, ensuring future
     acquisitions get ever so dicier!
   unit: null
   values:
   - 100.0
-- &id035
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: of all anchorages as nearly 47K LDT via 6 vessels (including another
     large LDT tanker) earmarked the
@@ -339,63 +304,55 @@ numeric_observations:
   values:
   - 47.0
   - 6.0
-- &id036
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 587/ton. But after weeks of flaunting its stabilizing (and even firming)
     ability, it was the Pakistani
   unit: null
   values:
   - 587.0
-- &id038
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Rupee that took home the attention of the industry, declining by about
     1.4% and wrapping up the
   unit: pct
   values:
   - 1.4
-- &id039
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: week at nearly PKR 282 once again.
   unit: null
   values:
   - 282.0
-- &id040
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: the rise, including the rise of the U.S. Dollar against the Turkish
     Lira that too ended the week 26 basis
   unit: null
   values:
   - 26.0
-- &id042
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: points weaker, at TRY 43.50, merrily on their way to greet TRY 44.
   unit: null
   values:
   - 43.5
   - 44.0
-- &id043
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: For Week 5 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -403,8 +360,7 @@ numeric_observations:
   values:
   - 5.0
   - 2026.0
-- &id044
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Improving 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -413,8 +369,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id045
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -423,8 +378,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id046
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -433,8 +387,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id047
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -443,23 +396,20 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id048
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ANOTHER…2025 IN REVIEW!!
   unit: null
   values:
   - 2025.0
-- &id050
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Jan 03: 17-year-old darts prodigy Luke Littler became the youngest-ever
     World Darts Champion.'
@@ -467,8 +417,7 @@ numeric_observations:
   values:
   - 3.0
   - 17.0
-- &id051
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Jan 20: Donald Trump was inaugurated as the 47th President of the
     United States of America.'
@@ -476,8 +425,7 @@ numeric_observations:
   values:
   - 20.0
   - 47.0
-- &id052
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Jan 27: Nvidia stocks fell by $588.8 billion after the release of
     Chinese AI model DeepSeek.'
@@ -485,8 +433,7 @@ numeric_observations:
   values:
   - 27.0
   - 588.8
-- &id053
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Jan 29: A US Army helicopter crashed into a commercial jet during
     night training near D.C., killing all 67 on board.'
@@ -494,16 +441,14 @@ numeric_observations:
   values:
   - 29.0
   - 67.0
-- &id054
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Feb 08: Chen Ying-chu won Taiwan''s first-ever medal at the Asian
     Winter Games in speed skating.'
   unit: null
   values:
   - 8.0
-- &id055
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Feb 10: World leaders from over 100 countries gathered in Paris
     to discuss and promote the responsible development of AI.'
@@ -511,8 +456,7 @@ numeric_observations:
   values:
   - 10.0
   - 100.0
-- &id056
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Feb 15: A gold-mine collapse near Kéniéba in Mali killed 42 people
     and injured several others.'
@@ -520,8 +464,7 @@ numeric_observations:
   values:
   - 15.0
   - 42.0
-- &id057
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Feb 25: A nationwide blackout in Chile left over 90% of the country
     without power.'
@@ -529,39 +472,34 @@ numeric_observations:
   values:
   - 25.0
   - 90.0
-- &id058
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ' Mar 02: Firefly Aerospace''s Blue Ghost became the first commercial
     lander to make a successful soft landing on the Moon.'
   unit: null
   values:
   - 2.0
-- &id059
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: to 46%.
   unit: pct
   values:
   - 46.0
-- &id060
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: No holidays in February January 30 - February 06
   unit: null
   values:
   - 30.0
   - 6.0
-- &id061
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 16 - February 23
   unit: null
   values:
   - 16.0
   - 23.0
-- &id062
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 11 - General Holiday February 03 - February 06
   unit: null
@@ -569,8 +507,7 @@ numeric_observations:
   - 11.0
   - 3.0
   - 6.0
-- &id063
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 12 - Election Holiday February 19 - February 22
   unit: null
@@ -578,45 +515,39 @@ numeric_observations:
   - 12.0
   - 19.0
   - 22.0
-- &id064
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 21 - Martyr's Day
   unit: null
   values:
   - 21.0
-- &id065
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 05 - Kashmir Solidarity Day No holidays in February
   unit: null
   values:
   - 5.0
-- &id066
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: February 18 - Bank Holiday
   unit: null
   values:
   - 18.0
-- &id067
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 30, 2026
   unit: null
   values:
   - 30.0
   - 2026.0
-- &id069
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 1 Global Star (Under Tow) 4,237 Oil Tanker Delivered January 25
   unit: null
@@ -624,8 +555,7 @@ numeric_observations:
   - 1.0
   - 4237.0
   - 25.0
-- &id070
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 2 Olga L 3,734 Reefer Arrived January 24
   unit: null
@@ -633,8 +563,7 @@ numeric_observations:
   - 2.0
   - 3734.0
   - 24.0
-- &id071
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 3 Rising Harrier 8,553 Bulk Carrier Arrived January 25
   unit: null
@@ -642,8 +571,7 @@ numeric_observations:
   - 3.0
   - 8553.0
   - 25.0
-- &id072
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 4 Woodchip 22,800 Oil Tanker Arrived January 29
   unit: null
@@ -651,8 +579,7 @@ numeric_observations:
   - 4.0
   - 22800.0
   - 29.0
-- &id073
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 5 Yong Ang 6,057 Reefer Delivered January 30
   unit: null
@@ -660,8 +587,7 @@ numeric_observations:
   - 5.0
   - 6057.0
   - 30.0
-- &id074
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 6 Yun Da You 6 1,139 Oil Tanker Arrived January 20
   unit: null
@@ -670,23 +596,20 @@ numeric_observations:
   - 6.0
   - 1139.0
   - 20.0
-- &id075
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: Morality 46,520
   unit: null
   values:
   - 46520.0
-- &id076
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 30, 2026
   unit: null
   values:
   - 30.0
   - 2026.0
-- &id077
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 1 Fuji 950 Tanker Arrived January 29
   unit: null
@@ -694,8 +617,7 @@ numeric_observations:
   - 1.0
   - 950.0
   - 29.0
-- &id078
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 2 Hakata 354 Tanker Arrived January 29
   unit: null
@@ -703,8 +625,7 @@ numeric_observations:
   - 2.0
   - 354.0
   - 29.0
-- &id079
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 3 Hong Li 6,132 Bulk Carrier Arrived January 24
   unit: null
@@ -712,8 +633,7 @@ numeric_observations:
   - 3.0
   - 6132.0
   - 24.0
-- &id080
-  section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+- section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: 4 Kohzan Maru 9,963 Tanker Delivered January 26
   unit: null
@@ -945,86 +865,617 @@ section_count: 3
 signals:
   numeric_observation_count: 100
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: … January 2026 joins the pages of history as being the purveyors
+      of ongoing misery for the global ship recycling world as despite theodd wave
+      of tonnage that has made us numb to the conflicting signals of the markets based
+      on supply trends across the last 5 ye
+    unit: null
+    values:
+    - 2026.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: To start, we have noteworthy surges to report this week. Across the
+      board, for most of the major fundamentals, except sub-continent steel plate
+      prices that have become the perennial party poopers of the recycling world of
+      late, the momentum was definitely beyo
+    unit: pct
+    values:
+    - 4.0
+    - 7.3
+    - 12.0
+    - 1.6
+    - 0.5
+    - 65.0
+    - 65.1
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: And the U.S. Dollar's performance across the ship recycling markets
+      was reminiscent of Marilyn Monroe's infamous wavy skirt subway photo, the wavy
+      lines capturing just how volatile Trump has made global financial markets on
+      the back of further tariff threats a
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Yet, the performances of the various dry indices stand to support
+      the general expectation that supply will more than likely slow further down
+      as we head into the traditionally quieter Chinese New Year period / warmer months,
+      and as a variety of geopolitical an
+    unit: null
+    values:
+    - 90.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: For Week 05 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 5.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-02-02_gms-week-05-and-just-like-that_img1_0709_a2394e3dc567.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -2.0
+    - -2.0
+    - 5.0
+    - 709.0
+    - 394.0
+    - 67.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: January 3 0th, 2026
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: '"Tomorrow is the first blank page of a 365-page book. Write a good
+      one."'
+    unit: null
+    values:
+    - 365.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Week 5
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Volume 280, Issue 1221
+    unit: null
+    values:
+    - 280.0
+    - 1221.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: • Debbie Downer. … January 2026 joins the pages of history as bein
+      g the purveyors of ongoing misery for the global
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: has posed global markets to setup a serious "Debbie Downer" for February
+      2026, especially if the
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: certainly be felt within the next 4 weeks. While the dry index soared
+      7.3% on the back of Capes pole-
+    unit: pct
+    values:
+    - 4.0
+    - 7.3
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: • Supply slow. vaulting 12%, Panamaxes tripping up 1.6% in comparison,
+      and Supras having a comparatively
+    unit: pct
+    values:
+    - 12.0
+    - 1.6
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: minor hiccup gain of 0.5%, oil futures impressively slid past USD
+      65/barrel and close the week out
+    unit: pct
+    values:
+    - 0.5
+    - 65.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: at USD 65.10 - a near 1% jump from last week.
+    unit: pct
+    values:
+    - 65.1
+    - 1.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: secured their share of available market vessels since the start of
+      January 2026 (and in a long time).
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: own depreciation records (now firmly in the 90s against the U.S.
+      Dollar), and an urgent need to
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: starts flowing in, Q1 2026 certainly stands critical. Notwithstanding,
+      there was still some good news
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 5 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 5.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: landmark elections - the first in 2 years - standing just 2 weeks
+      away. It has certainly been a long
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 22 HKC yards.
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: smaller tankers are emerging as well, with one reportedly achieving
+      a meager USD 330/LT, hence
+    unit: usd
+    values:
+    - 330.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: for at least 2 weeks running), which are stranded at USD 487.24/ton.
+      Add into the pricing cocktail,
+    unit: tonnage
+    values:
+    - 2.0
+    - 487.24
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: some spicy Tabasco of Bangladeshi Taka, which fell 1% this week and
+      closed it out at BDT 122.95
+    unit: pct
+    values:
+    - 1.0
+    - 122.95
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Overall, with 2 2 yar ds (and counting) that now stand HKC approved,
+      it has been encouraging to
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: (tick tock reality, its 2026 already).
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: plummeted another 25 basis points by week's end, and after briefly
+      surging to Rs. 92.18 against the U.S.
+    unit: null
+    values:
+    - 25.0
+    - 92.18
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Dollar - currently still in excess of Rs. 93 for non-regulatory Dollar
+      purchases (i.e. for regular people) -
+    unit: null
+    values:
+    - 93.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: it closed shop for the weekend at Rs. 91.82.
+    unit: null
+    values:
+    - 91.82
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 398/Ton before recovering to a - still lower than last week - level
+      of about USD 401/Ton, dictating the
+    unit: usd
+    values:
+    - 398.0
+    - 401.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: currency may even breach Rs. 100 against U.S. Dollar, ensuring future
+      acquisitions get ever so dicier!
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: of all anchorages as nearly 47K LDT via 6 vessels (including another
+      large LDT tanker) earmarked the
+    unit: null
+    values:
+    - 47.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 587/ton. But after weeks of flaunting its stabilizing (and even firming)
+      ability, it was the Pakistani
+    unit: null
+    values:
+    - 587.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Rupee that took home the attention of the industry, declining by
+      about 1.4% and wrapping up the
+    unit: pct
+    values:
+    - 1.4
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: week at nearly PKR 282 once again.
+    unit: null
+    values:
+    - 282.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: the rise, including the rise of the U.S. Dollar against the Turkish
+      Lira that too ended the week 26 basis
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: points weaker, at TRY 43.50, merrily on their way to greet TRY 44.
+    unit: null
+    values:
+    - 43.5
+    - 44.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: For Week 5 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 5.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Improving 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ANOTHER…2025 IN REVIEW!!
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Jan 03: 17-year-old darts prodigy Luke Littler became the youngest-ever
+      World Darts Champion.'
+    unit: null
+    values:
+    - 3.0
+    - 17.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Jan 20: Donald Trump was inaugurated as the 47th President of
+      the United States of America.'
+    unit: null
+    values:
+    - 20.0
+    - 47.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Jan 27: Nvidia stocks fell by $588.8 billion after the release
+      of Chinese AI model DeepSeek.'
+    unit: usd
+    values:
+    - 27.0
+    - 588.8
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Jan 29: A US Army helicopter crashed into a commercial jet during
+      night training near D.C., killing all 67 on board.'
+    unit: null
+    values:
+    - 29.0
+    - 67.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Feb 08: Chen Ying-chu won Taiwan''s first-ever medal at the Asian
+      Winter Games in speed skating.'
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Feb 10: World leaders from over 100 countries gathered in Paris
+      to discuss and promote the responsible development of AI.'
+    unit: null
+    values:
+    - 10.0
+    - 100.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Feb 15: A gold-mine collapse near Kéniéba in Mali killed 42 people
+      and injured several others.'
+    unit: null
+    values:
+    - 15.0
+    - 42.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Feb 25: A nationwide blackout in Chile left over 90% of the country
+      without power.'
+    unit: pct
+    values:
+    - 25.0
+    - 90.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ' Mar 02: Firefly Aerospace''s Blue Ghost became the first commercial
+      lander to make a successful soft landing on the Moon.'
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: to 46%.
+    unit: pct
+    values:
+    - 46.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in February January 30 - February 06
+    unit: null
+    values:
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 16 - February 23
+    unit: null
+    values:
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 11 - General Holiday February 03 - February 06
+    unit: null
+    values:
+    - 11.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 12 - Election Holiday February 19 - February 22
+    unit: null
+    values:
+    - 12.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Martyr's Day
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 05 - Kashmir Solidarity Day No holidays in February
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: February 18 - Bank Holiday
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 30, 2026
+    unit: null
+    values:
+    - 30.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 1 Global Star (Under Tow) 4,237 Oil Tanker Delivered January 25
+    unit: null
+    values:
+    - 1.0
+    - 4237.0
+    - 25.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 2 Olga L 3,734 Reefer Arrived January 24
+    unit: null
+    values:
+    - 2.0
+    - 3734.0
+    - 24.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rising Harrier 8,553 Bulk Carrier Arrived January 25
+    unit: null
+    values:
+    - 3.0
+    - 8553.0
+    - 25.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 4 Woodchip 22,800 Oil Tanker Arrived January 29
+    unit: null
+    values:
+    - 4.0
+    - 22800.0
+    - 29.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 5 Yong Ang 6,057 Reefer Delivered January 30
+    unit: null
+    values:
+    - 5.0
+    - 6057.0
+    - 30.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 6 Yun Da You 6 1,139 Oil Tanker Arrived January 20
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 1139.0
+    - 20.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: Morality 46,520
+    unit: null
+    values:
+    - 46520.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 30, 2026
+    unit: null
+    values:
+    - 30.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 1 Fuji 950 Tanker Arrived January 29
+    unit: null
+    values:
+    - 1.0
+    - 950.0
+    - 29.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hakata 354 Tanker Arrived January 29
+    unit: null
+    values:
+    - 2.0
+    - 354.0
+    - 29.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hong Li 6,132 Bulk Carrier Arrived January 24
+    unit: null
+    values:
+    - 3.0
+    - 6132.0
+    - 24.0
+  - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
+    section_type: linked_pdf
+    source_line: 4 Kohzan Maru 9,963 Tanker Delivered January 26
+    unit: null
+    values:
+    - 4.0
+    - 9963.0
+    - 26.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-02-02_gms-week-05-and-just-like-that.html
 source_stem: 2026-02-02_gms-week-05-and-just-like-that

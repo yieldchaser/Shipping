@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 111
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'This week earmarked President Biden placing sanctions against China''s
     national shipping arm COSCO, on the basis of the companybeing a part of the Chinese
@@ -45,8 +44,7 @@ numeric_observations:
   - 2019.0
   - 76.57
   - 8.2
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Meanwhile, the various ship recycling nations endured another week
     of mixed performances as there has already been a marked contrast in terms of
@@ -57,8 +55,7 @@ numeric_observations:
   - 2024.0
   - 2025.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 2 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -66,8 +63,7 @@ numeric_observations:
   values:
   - 2.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-01-13_gms-week-02-sanction-station_img1_13012025gf_065574061a15.jpg'
   unit: null
@@ -79,87 +75,76 @@ numeric_observations:
   - 13012025.0
   - 65574061.0
   - 5.0
-- &id005
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: January 10th, 2025
   unit: null
   values:
   - 10.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Week 2
   unit: null
   values:
   - 2.0
-- &id007
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Volume 268, Issue 1168
   unit: null
   values:
   - 268.0
   - 1168.0
-- &id008
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: reportedly sanctioning over 180 vessels and dozens of entities in Russia
     as well, in what has turned
   unit: null
   values:
   - 180.0
-- &id009
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: a s the 2019 sanctions did, but energy costs for nations on CO SCOs
     supply-chain routes will likely
   unit: null
   values:
   - 2019.0
-- &id010
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Russia sent the barrel soaring to US$ 76.57 / barrel, a level not seen
     since last October. Additionally,
   unit: usd
   values:
   - 76.57
-- &id011
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: the Baltic Index Dry Freight Index for dry bulk commodities jumped
     8.2% by Friday, marking a
   unit: pct
   values:
   - 8.2
-- &id012
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: • Gadani lags. very muted 2024, which saw the lowest volumes of overall
     units sold for recycling in over a decade.
   unit: null
   values:
   - 2024.0
-- &id013
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! the requirements of the convention, it is likely that
     2025 will be another hallmark year characterized
   unit: null
   values:
   - 2025.0
-- &id014
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: even in Turkey, where the only movements reported by the week, are
     on the Lira. Viva 2025.
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 2 of 2025 are on Page 5.
   unit: null
@@ -167,16 +152,14 @@ numeric_observations:
   - 2.0
   - 2025.0
   - 5.0
-- &id016
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: last 2+ quarters, suffered at the hands of the U.S. Dollar as it ends
     the week nearly 1% weaker and
@@ -184,8 +167,7 @@ numeric_observations:
   values:
   - 2.0
   - 1.0
-- &id018
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: at a comparatively weaker BDT 120.96, despite having nearly breached
     BDT 122 once again. Local
@@ -193,55 +175,48 @@ numeric_observations:
   values:
   - 120.96
   - 122.0
-- &id019
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: being flatlined yet again, they remain suspended at a comparatively
     healthier USD 529.41/Ton.
   unit: usd
   values:
   - 529.41
-- &id020
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: offers are still the highest in the industry, it has certainly helped
     bring in another 2 small tankers
   unit: null
   values:
   - 2.0
-- &id021
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: with a total weight of just about 6.5K LDT at Chattogram's anchorage.
     Just how will Biden's
   unit: null
   values:
   - 6.5
-- &id022
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Exuberance. and excited cash buyers who were banking on a post-2024
     Bangladesh at levels firmer than those
   unit: null
   values:
   - 2024.0
-- &id023
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 024 STUCK!
   unit: null
   values:
   - 24.0
-- &id025
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: L ike Bangladesh, the Indian market continues to strut through a n
     u n e x p e c t e d J a n u a r y 2 0 2 5 with the
@@ -250,16 +225,14 @@ numeric_observations:
   - 2.0
   - 2.0
   - 5.0
-- &id026
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: w ater and ended the week at levels approaching Rs. 86.20 - adding
     another (yet solid) excuse that
   unit: null
   values:
   - 86.2
-- &id027
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 2024 and even so far in 2025, where this week, 6 vessels and nearly
     58K LDT lies idling or delivered
@@ -269,39 +242,34 @@ numeric_observations:
   - 2025.0
   - 6.0
   - 58.0
-- &id028
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: ending the week on a downward trajectory and a Rupee short, at USD
     459.94/Ton. And although
   unit: usd
   values:
   - 459.94
-- &id029
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Stuck in 450s.
   unit: null
   values:
   - 450.0
-- &id030
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: sector has, for the most part since the advent of Q4 2024, remained
     underwater.
   unit: null
   values:
   - 2024.0
-- &id032
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: currencies of all, across 2024. On the back of minimal fluctuations
     within a PKR 2 limit where it
@@ -309,16 +277,14 @@ numeric_observations:
   values:
   - 2024.0
   - 2.0
-- &id033
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: fluctuated and eventually ended every week in 2024, including this
     week one, where it wound up
   unit: null
   values:
   - 2024.0
-- &id034
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 35 basis points weaker, at PKR 278.32. Even the lack of domestic trade
     in ship's steel has left
@@ -326,40 +292,35 @@ numeric_observations:
   values:
   - 35.0
   - 278.32
-- &id035
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Pakistani plate prices stranded at the (comparatively) healthiest level
     of USD 639.37/Ton in the
   unit: usd
   values:
   - 639.37
-- &id036
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: post-June 2025 once the HKC comes into effect, unless they initiate
     upgrading their yards in time.
   unit: null
   values:
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: would rollover a parked USD 2 Billion, further assisting the Pakistani
     government maintain their
   unit: usd
   values:
   - 2.0
-- &id038
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: As week 2 of 2025 wraps up in Turkey, they seem to be jolly, celebrating
     an over-extended Christmas
@@ -367,23 +328,20 @@ numeric_observations:
   values:
   - 2.0
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: of obscurity, as it records another 23 basis point reduction that saw
     it close the week scratching TRY
   unit: null
   values:
   - 23.0
-- &id041
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 34.45 against the U.S. Dollar.
   unit: null
   values:
   - 34.45
-- &id042
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: For Week 2 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -391,8 +349,7 @@ numeric_observations:
   values:
   - 2.0
   - 2025.0
-- &id043
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -401,8 +358,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id044
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 455 / LDT 475 / LDT 485 / LDT
   unit: null
@@ -411,8 +367,7 @@ numeric_observations:
   - 455.0
   - 475.0
   - 485.0
-- &id045
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -421,8 +376,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id046
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
   unit: null
@@ -431,79 +385,69 @@ numeric_observations:
   - 310.0
   - 320.0
   - 330.0
-- &id047
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line:  Nearly half of Australia's birds and 90 percent of its mammals, reptiles
     and frogs are found nowhere else on the planet.
   unit: null
   values:
   - 90.0
-- &id049
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line:  Americans discard roughly 36 million tons of plastic each year, which
     is more than any other country. But the plastic recycling
   unit: null
   values:
   - 36.0
-- &id050
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: rate has languished below 10 percent for decades.
   unit: null
   values:
   - 10.0
-- &id051
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line:  Rats are prodigious breeders, with one pair having the potential
     to produce 15,000 descendants in a year.
   unit: null
   values:
   - 15000.0
-- &id052
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line:  Food allergies have been increasing in prevalence over the past 20
     years, though it is not clear why. Some 5.5 million children
   unit: null
   values:
   - 5.5
-- &id053
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: and 13.6 million U.S. adults have food allergies, and many are allergic
     to more than one food.
   unit: null
   values:
   - 13.6
-- &id054
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: ' For the 2022 movie "Avatar: The Way of Water," the actress Kate
     Winslet, after considerable training, held her breath'
   unit: null
   values:
   - 2022.0
-- &id055
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: underwater for seven minutes and 15 seconds (some Navy Seals never
     break three minutes).
   unit: null
   values:
   - 15.0
-- &id056
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line:  America's approximately 100 historically Black colleges and universities
     have produced at least 70 percent of the country's
@@ -511,16 +455,14 @@ numeric_observations:
   values:
   - 100.0
   - 70.0
-- &id057
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Black doctors and dentists; half of the Black lawyers; and 40 percent
     of Black engineers.
   unit: null
   values:
   - 40.0
-- &id058
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: January 14 - Pongal December 29 - January 06
   unit: null
@@ -528,8 +470,7 @@ numeric_observations:
   - 14.0
   - 29.0
   - 6.0
-- &id059
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: January 25 - Republic Day January 11 - January 18
   unit: null
@@ -537,24 +478,21 @@ numeric_observations:
   - 25.0
   - 11.0
   - 18.0
-- &id060
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: No holidays in January January 02 - January 05
   unit: null
   values:
   - 2.0
   - 5.0
-- &id061
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: January 15 - January 18
   unit: null
   values:
   - 15.0
   - 18.0
-- &id062
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: January 28 - February 04 - Chinese No holidays in January No holidays
     in January
@@ -562,24 +500,21 @@ numeric_observations:
   values:
   - 28.0
   - 4.0
-- &id063
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 10, 2025
   unit: null
   values:
   - 10.0
   - 2025.0
-- &id065
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 1 Bow Clipper 11,277 Tanker Delivered January 06
   unit: null
@@ -587,8 +522,7 @@ numeric_observations:
   - 1.0
   - 11277.0
   - 6.0
-- &id066
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 2 Enzo 17,398 Oil Tanker Arrived January 04
   unit: null
@@ -596,8 +530,7 @@ numeric_observations:
   - 2.0
   - 17398.0
   - 4.0
-- &id067
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 3 Karam 14 3,169 Bulk Carrier Arrived January 08
   unit: null
@@ -606,8 +539,7 @@ numeric_observations:
   - 14.0
   - 3169.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 4 Lady Cedros 17,823 Bulk Carrier Arrived January 08
   unit: null
@@ -615,8 +547,7 @@ numeric_observations:
   - 4.0
   - 17823.0
   - 8.0
-- &id069
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 5 MSC Esha F 4,950 Container Delivered January 04
   unit: null
@@ -624,8 +555,7 @@ numeric_observations:
   - 5.0
   - 4950.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 6 Nevelsk 2,993 General Cargo Delivered January 08
   unit: null
@@ -633,23 +563,20 @@ numeric_observations:
   - 6.0
   - 2993.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 57,610
   unit: null
   values:
   - 57610.0
-- &id072
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 10, 2025
   unit: null
   values:
   - 10.0
   - 2025.0
-- &id073
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 1 Ark Progress (Dead Vessel) 2,635 Tanker Arrived January 04
   unit: null
@@ -657,8 +584,7 @@ numeric_observations:
   - 1.0
   - 2635.0
   - 4.0
-- &id074
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 2 New Smile 1,969 Tanker Delivered January 04
   unit: null
@@ -666,8 +592,7 @@ numeric_observations:
   - 2.0
   - 1969.0
   - 4.0
-- &id075
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 3 Ulsan Gas 1,814 LPG Tanker Arrived January 04
   unit: null
@@ -675,23 +600,20 @@ numeric_observations:
   - 3.0
   - 1814.0
   - 4.0
-- &id076
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 6,418
   unit: null
   values:
   - 6418.0
-- &id077
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 10, 2025
   unit: null
   values:
   - 10.0
   - 2025.0
-- &id078
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -700,8 +622,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id079
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -710,8 +631,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id080
-  section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+- section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -1008,86 +928,614 @@ section_count: 3
 signals:
   numeric_observation_count: 111
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'This week earmarked President Biden placing sanctions against China''s
+      national shipping arm COSCO, on the basis of the companybeing a part of the
+      Chinese military, blacklisting its energy / tanker division. In fact, the octogenarian
+      went on quite the sanction '
+    unit: pct
+    values:
+    - 180.0
+    - 2019.0
+    - 76.57
+    - 8.2
+  - section: Main
+    section_type: null
+    source_line: 'Meanwhile, the various ship recycling nations endured another week
+      of mixed performances as there has already been a marked contrast in terms of
+      actually workable candidates compared to a very muted 2024, which saw the lowest
+      volumes of overall units sold for '
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 2 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-01-13_gms-week-02-sanction-station_img1_13012025gf_065574061a15.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -1.0
+    - -13.0
+    - 2.0
+    - 13012025.0
+    - 65574061.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: January 10th, 2025
+    unit: null
+    values:
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Week 2
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Volume 268, Issue 1168
+    unit: null
+    values:
+    - 268.0
+    - 1168.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: reportedly sanctioning over 180 vessels and dozens of entities in
+      Russia as well, in what has turned
+    unit: null
+    values:
+    - 180.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: a s the 2019 sanctions did, but energy costs for nations on CO SCOs
+      supply-chain routes will likely
+    unit: null
+    values:
+    - 2019.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Russia sent the barrel soaring to US$ 76.57 / barrel, a level not
+      seen since last October. Additionally,
+    unit: usd
+    values:
+    - 76.57
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: the Baltic Index Dry Freight Index for dry bulk commodities jumped
+      8.2% by Friday, marking a
+    unit: pct
+    values:
+    - 8.2
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: • Gadani lags. very muted 2024, which saw the lowest volumes of overall
+      units sold for recycling in over a decade.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: on the GMS App! the requirements of the convention, it is likely
+      that 2025 will be another hallmark year characterized
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: even in Turkey, where the only movements reported by the week, are
+      on the Lira. Viva 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 2 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: last 2+ quarters, suffered at the hands of the U.S. Dollar as it
+      ends the week nearly 1% weaker and
+    unit: pct
+    values:
+    - 2.0
+    - 1.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: at a comparatively weaker BDT 120.96, despite having nearly breached
+      BDT 122 once again. Local
+    unit: null
+    values:
+    - 120.96
+    - 122.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: being flatlined yet again, they remain suspended at a comparatively
+      healthier USD 529.41/Ton.
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: offers are still the highest in the industry, it has certainly helped
+      bring in another 2 small tankers
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: with a total weight of just about 6.5K LDT at Chattogram's anchorage.
+      Just how will Biden's
+    unit: null
+    values:
+    - 6.5
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Exuberance. and excited cash buyers who were banking on a post-2024
+      Bangladesh at levels firmer than those
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 024 STUCK!
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: L ike Bangladesh, the Indian market continues to strut through a
+      n u n e x p e c t e d J a n u a r y 2 0 2 5 with the
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: w ater and ended the week at levels approaching Rs. 86.20 - adding
+      another (yet solid) excuse that
+    unit: null
+    values:
+    - 86.2
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 2024 and even so far in 2025, where this week, 6 vessels and nearly
+      58K LDT lies idling or delivered
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+    - 6.0
+    - 58.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: ending the week on a downward trajectory and a Rupee short, at USD
+      459.94/Ton. And although
+    unit: usd
+    values:
+    - 459.94
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Stuck in 450s.
+    unit: null
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: sector has, for the most part since the advent of Q4 2024, remained
+      underwater.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: currencies of all, across 2024. On the back of minimal fluctuations
+      within a PKR 2 limit where it
+    unit: null
+    values:
+    - 2024.0
+    - 2.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: fluctuated and eventually ended every week in 2024, including this
+      week one, where it wound up
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 35 basis points weaker, at PKR 278.32. Even the lack of domestic
+      trade in ship's steel has left
+    unit: null
+    values:
+    - 35.0
+    - 278.32
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani plate prices stranded at the (comparatively) healthiest
+      level of USD 639.37/Ton in the
+    unit: usd
+    values:
+    - 639.37
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: post-June 2025 once the HKC comes into effect, unless they initiate
+      upgrading their yards in time.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: would rollover a parked USD 2 Billion, further assisting the Pakistani
+      government maintain their
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: As week 2 of 2025 wraps up in Turkey, they seem to be jolly, celebrating
+      an over-extended Christmas
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: of obscurity, as it records another 23 basis point reduction that
+      saw it close the week scratching TRY
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 34.45 against the U.S. Dollar.
+    unit: null
+    values:
+    - 34.45
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: For Week 2 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 455 / LDT 475 / LDT 485 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 455.0
+    - 475.0
+    - 485.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 310.0
+    - 320.0
+    - 330.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line:  Nearly half of Australia's birds and 90 percent of its mammals,
+      reptiles and frogs are found nowhere else on the planet.
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line:  Americans discard roughly 36 million tons of plastic each year,
+      which is more than any other country. But the plastic recycling
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: rate has languished below 10 percent for decades.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line:  Rats are prodigious breeders, with one pair having the potential
+      to produce 15,000 descendants in a year.
+    unit: null
+    values:
+    - 15000.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line:  Food allergies have been increasing in prevalence over the past
+      20 years, though it is not clear why. Some 5.5 million children
+    unit: null
+    values:
+    - 5.5
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: and 13.6 million U.S. adults have food allergies, and many are allergic
+      to more than one food.
+    unit: null
+    values:
+    - 13.6
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: ' For the 2022 movie "Avatar: The Way of Water," the actress Kate
+      Winslet, after considerable training, held her breath'
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: underwater for seven minutes and 15 seconds (some Navy Seals never
+      break three minutes).
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line:  America's approximately 100 historically Black colleges and universities
+      have produced at least 70 percent of the country's
+    unit: null
+    values:
+    - 100.0
+    - 70.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Black doctors and dentists; half of the Black lawyers; and 40 percent
+      of Black engineers.
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: January 14 - Pongal December 29 - January 06
+    unit: null
+    values:
+    - 14.0
+    - 29.0
+    - 6.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: January 25 - Republic Day January 11 - January 18
+    unit: null
+    values:
+    - 25.0
+    - 11.0
+    - 18.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in January January 02 - January 05
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: January 15 - January 18
+    unit: null
+    values:
+    - 15.0
+    - 18.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: January 28 - February 04 - Chinese No holidays in January No holidays
+      in January
+    unit: null
+    values:
+    - 28.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 10, 2025
+    unit: null
+    values:
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bow Clipper 11,277 Tanker Delivered January 06
+    unit: null
+    values:
+    - 1.0
+    - 11277.0
+    - 6.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Enzo 17,398 Oil Tanker Arrived January 04
+    unit: null
+    values:
+    - 2.0
+    - 17398.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 3 Karam 14 3,169 Bulk Carrier Arrived January 08
+    unit: null
+    values:
+    - 3.0
+    - 14.0
+    - 3169.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Lady Cedros 17,823 Bulk Carrier Arrived January 08
+    unit: null
+    values:
+    - 4.0
+    - 17823.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 5 MSC Esha F 4,950 Container Delivered January 04
+    unit: null
+    values:
+    - 5.0
+    - 4950.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 6 Nevelsk 2,993 General Cargo Delivered January 08
+    unit: null
+    values:
+    - 6.0
+    - 2993.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 57,610
+    unit: null
+    values:
+    - 57610.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 10, 2025
+    unit: null
+    values:
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ark Progress (Dead Vessel) 2,635 Tanker Arrived January 04
+    unit: null
+    values:
+    - 1.0
+    - 2635.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 2 New Smile 1,969 Tanker Delivered January 04
+    unit: null
+    values:
+    - 2.0
+    - 1969.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ulsan Gas 1,814 LPG Tanker Arrived January 04
+    unit: null
+    values:
+    - 3.0
+    - 1814.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 6,418
+    unit: null
+    values:
+    - 6418.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 10, 2025
+    unit: null
+    values:
+    - 10.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-01-13_gms-week-02-sanction-station_ship-recycling-market-insight-week-0_203b608eeacb.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-01-13_gms-week-02-sanction-station.html
 source_stem: 2025-01-13_gms-week-02-sanction-station

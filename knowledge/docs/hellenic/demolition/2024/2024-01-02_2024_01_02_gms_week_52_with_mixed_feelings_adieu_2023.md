@@ -30,8 +30,7 @@ linked_assets_skipped: 2
 market_tone: cautiously_bearish
 numeric_observation_count: 104
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 02/01/2024
   unit: null
@@ -39,8 +38,7 @@ numeric_observations:
   - 2.0
   - 1.0
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023_img1.jpg'
   unit: null
@@ -50,8 +48,7 @@ numeric_observations:
   - -2.0
   - 52.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: On the one hand, we have seen comparatively more deals concluded in
     2023 than we did in 2022, with 2022 being the weakest of years over the last decade
@@ -62,8 +59,7 @@ numeric_observations:
   - 2023.0
   - 2022.0
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Prices too have endured a rocky ride through much of 2023, with peaks
     well above and into USD 600/LDT being surpassed in the first half of the year,
@@ -75,8 +71,7 @@ numeric_observations:
   - 600.0
   - 150.0
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 52 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -84,16 +79,14 @@ numeric_observations:
   values:
   - 52.0
   - 2023.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: All at GMS would like to wish readers a Happy New Year and all the
     best for 2024!
   unit: null
   values:
   - 2024.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: "\U0001F4C4 Download PDF: Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf"
   unit: null
@@ -101,8 +94,7 @@ numeric_observations:
   - 52.0
   - -2023.0
   - 2023.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023_img2.jpg'
   unit: null
@@ -112,38 +104,33 @@ numeric_observations:
   - -2.0
   - 52.0
   - 2023.0
-- &id009
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Decembe r 29th, 2023
   unit: null
   values:
   - 29.0
   - 2023.0
-- &id010
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Volume 256, Issue 1115
   unit: null
   values:
   - 256.0
   - 1115.0
-- &id011
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Week 52
   unit: null
   values:
   - 52.0
-- &id012
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: WITH MIXED FEELINGS, ADIEU 2023!
   unit: null
   values:
   - 2023.0
-- &id013
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: • Last week of 2023. The last week of the year deliyvoeure'rde uonutto.
     Tthhee irnet'esr nnoa tsiounchal tshhiinpg r eacsy lciflien ign c-obmetmweuennit.y"
@@ -151,16 +138,14 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id014
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: On the one hand, we have seen comparatively more deals concluded in
     2023 than we did in
   unit: null
   values:
   - 2023.0
-- &id015
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 2022, with 2022 being the weakest of years over the last decade (in
     terms of the volume of
@@ -168,40 +153,35 @@ numeric_observations:
   values:
   - 2022.0
   - 2022.0
-- &id016
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: • Rocky ride. Prices too have endured a rocky ride through much of
     2023, with peaks well above and into
   unit: null
   values:
   - 2023.0
-- &id017
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: USD 600/LDT being surpassed in the first half of the year, followed
     by the traditional summer
   unit: usd
   values:
   - 600.0
-- &id018
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: / monsoon collapse that saw about USD 150/LDT wiped off in a few short
     months during the
   unit: usd
   values:
   - 150.0
-- &id019
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: •Financing issues. brighter days for this sector and we forever bid
     2023 goodbye.
   unit: null
   values:
   - 2023.0
-- &id020
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: For week 52 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -209,16 +189,14 @@ numeric_observations:
   values:
   - 52.0
   - 2023.0
-- &id021
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: All at GMS would like to wish readers a Happy New Year and all the
     best for 2024!
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 1 India Weak 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -227,8 +205,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id023
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -237,8 +214,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id024
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 490 / LDT 510 / LDT 530 / LDT
   unit: null
@@ -247,8 +223,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 530.0
-- &id025
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
   unit: null
@@ -257,40 +232,35 @@ numeric_observations:
   - 340.0
   - 350.0
   - 360.0
-- &id026
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: recycling sector (especially over the last two q uarters) - an overall
     disastrous 2023 for this
   unit: null
   values:
   - 2023.0
-- &id028
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Chattogram's ship-recycling sBecAtor)N wiGll ceLrtaAinlDy bEe ySeaHrnin
     g for a brighter 2024.
   unit: null
   values:
   - 2024.0
-- &id029
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: unrests, strikes, violent riots, and protests over the last 2 quarters
     that occasionally lead
   unit: null
   values:
   - 2.0
-- &id030
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: As we stand at the doorstep of 2024, The Taka took an unexpected drop
     past BDT 109.50
@@ -298,118 +268,103 @@ numeric_observations:
   values:
   - 2024.0
   - 109.5
-- &id031
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: resulting in the INR ending the week at Rs 83.20 against the U.S. Dollar.
   unit: null
   values:
   - 83.2
-- &id033
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: continued their own volatile dance, lIosNingD neIaArly USD 10/Ton within
     the first couple of
   unit: usd
   values:
   - 10.0
-- &id034
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: days of trading, only to end the week USD 7/Ton weaker.
   unit: usd
   values:
   - 7.0
-- &id035
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Overall, with 2023 now bidding adieu to the world and despite a healthy
     majority of
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: As 2023 nearly wraps up, Pakistan has finally recognized and adopted
     the Hong Kong
   unit: null
   values:
   - 2023.0
-- &id038
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: yards, all while keeping an aim at staying ahead of the 2025 entry
     of the HKC into force!
   unit: null
   values:
   - 2025.0
-- &id039
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: neighboring India, where the PKR started the week at levels just shy
     of PKR 283 against
   unit: null
   values:
   - 283.0
-- &id040
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar, only to volley around and en d the week marginally
     firmer at PKR 281.78.
   unit: null
   values:
   - 281.78
-- &id041
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Overall, we can only hope that the extIreNmeD volIaAtilit y in the
     currency starts to settle as 2023
   unit: null
   values:
   - 2023.0
-- &id042
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Through the final few days before the struggle to write "2024" on personal
     checks becomes
   unit: null
   values:
   - 2024.0
-- &id044
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: USD 10/Ton, all while the Turkish Lira becomes the only currency to
     consistently decline
   unit: usd
   values:
   - 10.0
-- &id045
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: the week at TRY 29.50 - steadily on its way to breaching TRY 30. A
     truly sad, epic, and
@@ -417,23 +372,20 @@ numeric_observations:
   values:
   - 29.5
   - 30.0
-- &id046
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: TRY 30 next?
   unit: null
   values:
   - 30.0
-- &id047
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 36,0 00 mph. In comparison, the fastest aircraft on earth - The SR-71
     Blackbird - travels at a mere 2,700 MPH.
@@ -442,8 +394,7 @@ numeric_observations:
   - 360.0
   - 71.0
   - 2700.0
-- &id049
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve December 24 - December 31
   unit: null
@@ -451,8 +402,7 @@ numeric_observations:
   - 31.0
   - 24.0
   - 31.0
-- &id050
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 09 - January 17
   unit: null
@@ -460,8 +410,7 @@ numeric_observations:
   - 1.0
   - 9.0
   - 17.0
-- &id051
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 15 - Pongal January 23 - January 30
   unit: null
@@ -469,15 +418,13 @@ numeric_observations:
   - 15.0
   - 23.0
   - 30.0
-- &id052
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day
   unit: null
   values:
   - 26.0
-- &id053
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday December 26 - December 29
   unit: null
@@ -485,8 +432,7 @@ numeric_observations:
   - 31.0
   - 26.0
   - 29.0
-- &id054
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 13 - January 16
   unit: null
@@ -494,8 +440,7 @@ numeric_observations:
   - 1.0
   - 13.0
   - 16.0
-- &id055
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January 30
   unit: null
@@ -503,8 +448,7 @@ numeric_observations:
   - 7.0
   - 27.0
   - 30.0
-- &id056
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 01 - New Year's Day January 01
     - New Year's Day
@@ -513,24 +457,21 @@ numeric_observations:
   - 1.0
   - 1.0
   - 1.0
-- &id057
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 29, 2023
   unit: null
   values:
   - 29.0
   - 2023.0
-- &id059
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 1 Chime 5,072 Gen Cargo Beached December 27
   unit: null
@@ -538,8 +479,7 @@ numeric_observations:
   - 1.0
   - 5072.0
   - 27.0
-- &id060
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 2 Daytona Dynamic 6,058 Bulk Carrier Beached December 26
   unit: null
@@ -547,8 +487,7 @@ numeric_observations:
   - 2.0
   - 6058.0
   - 26.0
-- &id061
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 3 Gas Dollart 2,491 LPG Beached December 28
   unit: null
@@ -556,8 +495,7 @@ numeric_observations:
   - 3.0
   - 2491.0
   - 28.0
-- &id062
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 4 Ibra 4,960 Dredger Beached December 25
   unit: null
@@ -565,8 +503,7 @@ numeric_observations:
   - 4.0
   - 4960.0
   - 25.0
-- &id063
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 5 Iconic 09 3,062 Supply Beached December 25
   unit: null
@@ -575,8 +512,7 @@ numeric_observations:
   - 9.0
   - 3062.0
   - 25.0
-- &id064
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 6 Race I 5,425 Container Beached December 25
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 6.0
   - 5425.0
   - 25.0
-- &id065
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 7 Ria Towed (Under Tow) 29,500 LNG Beached December 25
   unit: null
@@ -593,8 +528,7 @@ numeric_observations:
   - 7.0
   - 29500.0
   - 25.0
-- &id066
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 8 Sas 4 935 Supply Arrived December 16
   unit: null
@@ -603,8 +537,7 @@ numeric_observations:
   - 4.0
   - 935.0
   - 16.0
-- &id067
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 9 Seas 10,061 Oil Tanker Beached December 22
   unit: null
@@ -612,8 +545,7 @@ numeric_observations:
   - 9.0
   - 10061.0
   - 22.0
-- &id068
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 10 Silk 7,036 Container Arrived December 24
   unit: null
@@ -621,8 +553,7 @@ numeric_observations:
   - 10.0
   - 7036.0
   - 24.0
-- &id069
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 11 White Palm (Under Tow) 762 Pilot Boat Arrived December 16
   unit: null
@@ -630,8 +561,7 @@ numeric_observations:
   - 11.0
   - 762.0
   - 16.0
-- &id070
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 12 Xin Feng 10,316 Container Arrived December 28
   unit: null
@@ -639,23 +569,20 @@ numeric_observations:
   - 12.0
   - 10316.0
   - 28.0
-- &id071
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 85,678
   unit: null
   values:
   - 85678.0
-- &id072
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 29, 2023
   unit: null
   values:
   - 29.0
   - 2023.0
-- &id073
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 1 Silver Wind 1,012 General Cargo Beached December 27
   unit: null
@@ -663,8 +590,7 @@ numeric_observations:
   - 1.0
   - 1012.0
   - 27.0
-- &id074
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 2 West Ocean 12 1,733 General Cargo Arrived December 23
   unit: null
@@ -673,8 +599,7 @@ numeric_observations:
   - 12.0
   - 1733.0
   - 23.0
-- &id075
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 3 Ying Shen 3,868 Container Arrived December 20
   unit: null
@@ -682,8 +607,7 @@ numeric_observations:
   - 3.0
   - 3868.0
   - 20.0
-- &id076
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 4 Yosei Maru 818 Cement Carrier Beached December 29
   unit: null
@@ -691,23 +615,20 @@ numeric_observations:
   - 4.0
   - 818.0
   - 29.0
-- &id077
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 7,431
   unit: null
   values:
   - 7431.0
-- &id078
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 27, 2023
   unit: null
   values:
   - 27.0
   - 2023.0
-- &id079
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 1 Dong 9,808 Bulk Carrier Arrived December 24
   unit: null
@@ -715,8 +636,7 @@ numeric_observations:
   - 1.0
   - 9808.0
   - 24.0
-- &id080
-  section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+- section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
   section_type: linked_pdf
   source_line: 2 Iku Maru 450 Tanker Arrived December 26
   unit: null
@@ -975,86 +895,622 @@ section_count: 4
 signals:
   numeric_observation_count: 104
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 02/01/2024
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023_img1.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -2.0
+    - 52.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: On the one hand, we have seen comparatively more deals concluded
+      in 2023 than we did in 2022, with 2022 being the weakest of years over the last
+      decade (in terms of the volume of vessels recycled in a single year). On the
+      other hand, despite the industry witne
+    unit: null
+    values:
+    - 2023.0
+    - 2022.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: Prices too have endured a rocky ride through much of 2023, with peaks
+      well above and into USD 600/LDT being surpassed in the first half of the year,
+      followed by the traditional summer / monsoon collapse that saw about USD 150/LDT
+      wiped off in a few short month
+    unit: usd
+    values:
+    - 2023.0
+    - 600.0
+    - 150.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: For week 52 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 52.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: All at GMS would like to wish readers a Happy New Year and all the
+      best for 2024!
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: "\U0001F4C4 Download PDF: Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf"
+    unit: null
+    values:
+    - 52.0
+    - -2023.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023_img2.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -2.0
+    - 52.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 29th, 2023
+    unit: null
+    values:
+    - 29.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Volume 256, Issue 1115
+    unit: null
+    values:
+    - 256.0
+    - 1115.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Week 52
+    unit: null
+    values:
+    - 52.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: WITH MIXED FEELINGS, ADIEU 2023!
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: • Last week of 2023. The last week of the year deliyvoeure'rde uonutto.
+      Tthhee irnet'esr nnoa tsiounchal tshhiinpg r eacsy lciflien ign c-obmetmweuennit.y"
+      & industry
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: On the one hand, we have seen comparatively more deals concluded
+      in 2023 than we did in
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 2022, with 2022 being the weakest of years over the last decade (in
+      terms of the volume of
+    unit: null
+    values:
+    - 2022.0
+    - 2022.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: • Rocky ride. Prices too have endured a rocky ride through much of
+      2023, with peaks well above and into
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: USD 600/LDT being surpassed in the first half of the year, followed
+      by the traditional summer
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: / monsoon collapse that saw about USD 150/LDT wiped off in a few
+      short months during the
+    unit: usd
+    values:
+    - 150.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: •Financing issues. brighter days for this sector and we forever bid
+      2023 goodbye.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: For week 52 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 52.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: All at GMS would like to wish readers a Happy New Year and all the
+      best for 2024!
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Weak 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 490 / LDT 510 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 490.0
+    - 510.0
+    - 530.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 340.0
+    - 350.0
+    - 360.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: recycling sector (especially over the last two q uarters) - an overall
+      disastrous 2023 for this
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Chattogram's ship-recycling sBecAtor)N wiGll ceLrtaAinlDy bEe ySeaHrnin
+      g for a brighter 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: unrests, strikes, violent riots, and protests over the last 2 quarters
+      that occasionally lead
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: As we stand at the doorstep of 2024, The Taka took an unexpected
+      drop past BDT 109.50
+    unit: null
+    values:
+    - 2024.0
+    - 109.5
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: resulting in the INR ending the week at Rs 83.20 against the U.S.
+      Dollar.
+    unit: null
+    values:
+    - 83.2
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: continued their own volatile dance, lIosNingD neIaArly USD 10/Ton
+      within the first couple of
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: days of trading, only to end the week USD 7/Ton weaker.
+    unit: usd
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Overall, with 2023 now bidding adieu to the world and despite a healthy
+      majority of
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: As 2023 nearly wraps up, Pakistan has finally recognized and adopted
+      the Hong Kong
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: yards, all while keeping an aim at staying ahead of the 2025 entry
+      of the HKC into force!
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: neighboring India, where the PKR started the week at levels just
+      shy of PKR 283 against
+    unit: null
+    values:
+    - 283.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar, only to volley around and en d the week marginally
+      firmer at PKR 281.78.
+    unit: null
+    values:
+    - 281.78
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Overall, we can only hope that the extIreNmeD volIaAtilit y in the
+      currency starts to settle as 2023
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Through the final few days before the struggle to write "2024" on
+      personal checks becomes
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: USD 10/Ton, all while the Turkish Lira becomes the only currency
+      to consistently decline
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: the week at TRY 29.50 - steadily on its way to breaching TRY 30.
+      A truly sad, epic, and
+    unit: null
+    values:
+    - 29.5
+    - 30.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: TRY 30 next?
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 36,0 00 mph. In comparison, the fastest aircraft on earth - The SR-71
+      Blackbird - travels at a mere 2,700 MPH.
+    unit: null
+    values:
+    - 360.0
+    - 71.0
+    - 2700.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve December 24 - December 31
+    unit: null
+    values:
+    - 31.0
+    - 24.0
+    - 31.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 09 - January 17
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 17.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 15 - Pongal January 23 - January 30
+    unit: null
+    values:
+    - 15.0
+    - 23.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday December 26 - December 29
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 29.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 13 - January 16
+    unit: null
+    values:
+    - 1.0
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January
+      30
+    unit: null
+    values:
+    - 7.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 01 - New Year's Day January 01
+      - New Year's Day
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 1.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 29, 2023
+    unit: null
+    values:
+    - 29.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 1 Chime 5,072 Gen Cargo Beached December 27
+    unit: null
+    values:
+    - 1.0
+    - 5072.0
+    - 27.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 2 Daytona Dynamic 6,058 Bulk Carrier Beached December 26
+    unit: null
+    values:
+    - 2.0
+    - 6058.0
+    - 26.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gas Dollart 2,491 LPG Beached December 28
+    unit: null
+    values:
+    - 3.0
+    - 2491.0
+    - 28.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 4 Ibra 4,960 Dredger Beached December 25
+    unit: null
+    values:
+    - 4.0
+    - 4960.0
+    - 25.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 5 Iconic 09 3,062 Supply Beached December 25
+    unit: null
+    values:
+    - 5.0
+    - 9.0
+    - 3062.0
+    - 25.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 6 Race I 5,425 Container Beached December 25
+    unit: null
+    values:
+    - 6.0
+    - 5425.0
+    - 25.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 7 Ria Towed (Under Tow) 29,500 LNG Beached December 25
+    unit: null
+    values:
+    - 7.0
+    - 29500.0
+    - 25.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 8 Sas 4 935 Supply Arrived December 16
+    unit: null
+    values:
+    - 8.0
+    - 4.0
+    - 935.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 9 Seas 10,061 Oil Tanker Beached December 22
+    unit: null
+    values:
+    - 9.0
+    - 10061.0
+    - 22.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 10 Silk 7,036 Container Arrived December 24
+    unit: null
+    values:
+    - 10.0
+    - 7036.0
+    - 24.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 11 White Palm (Under Tow) 762 Pilot Boat Arrived December 16
+    unit: null
+    values:
+    - 11.0
+    - 762.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 12 Xin Feng 10,316 Container Arrived December 28
+    unit: null
+    values:
+    - 12.0
+    - 10316.0
+    - 28.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 85,678
+    unit: null
+    values:
+    - 85678.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 29, 2023
+    unit: null
+    values:
+    - 29.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 1 Silver Wind 1,012 General Cargo Beached December 27
+    unit: null
+    values:
+    - 1.0
+    - 1012.0
+    - 27.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 2 West Ocean 12 1,733 General Cargo Arrived December 23
+    unit: null
+    values:
+    - 2.0
+    - 12.0
+    - 1733.0
+    - 23.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ying Shen 3,868 Container Arrived December 20
+    unit: null
+    values:
+    - 3.0
+    - 3868.0
+    - 20.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 4 Yosei Maru 818 Cement Carrier Beached December 29
+    unit: null
+    values:
+    - 4.0
+    - 818.0
+    - 29.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 7,431
+    unit: null
+    values:
+    - 7431.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 27, 2023
+    unit: null
+    values:
+    - 27.0
+    - 2023.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 1 Dong 9,808 Bulk Carrier Arrived December 24
+    unit: null
+    values:
+    - 1.0
+    - 9808.0
+    - 24.0
+  - section: 'Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf'
+    section_type: linked_pdf
+    source_line: 2 Iku Maru 450 Tanker Arrived December 26
+    unit: null
+    values:
+    - 2.0
+    - 450.0
+    - 26.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023.html
 source_stem: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023

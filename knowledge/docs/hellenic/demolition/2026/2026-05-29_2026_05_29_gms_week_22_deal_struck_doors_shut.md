@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 112
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The seven-week wait for a reopening signal has produced its deal. The
     United States and Iran reached a tentative agreement on May 28to extend the April
@@ -45,8 +44,7 @@ numeric_observations:
   - 8.0
   - 60.0
   - 23.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Brent crude has fallen sharply to approximately USD 96 to USD 97, down
     hard on the week and the month from the USD 105 to USD 107 range, as the market
@@ -63,8 +61,7 @@ numeric_observations:
   - 3005.0
   - 5272.0
   - 44314.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Currency divergence has begun, for the first time in the arc, to partially
     reverse. The Indian Rupee recovered sharply from its near-97 record to approximately
@@ -82,8 +79,7 @@ numeric_observations:
   - 2026.0
   - 26.0
   - 15.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: This is Eid al-Adha week. Markets across the sub-continent are thin
     or closed through May 29. The deal the basin has awaited since February has arrived
@@ -94,8 +90,7 @@ numeric_observations:
   - 29.0
   - 15.0
   - 22.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 22 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -103,15 +98,13 @@ numeric_observations:
   values:
   - 22.0
   - 2026.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 2952025.jpg Download PDF'
   unit: null
   values:
   - 2952025.0
-- &id007
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   unit: null
@@ -122,61 +115,53 @@ numeric_observations:
   - 22.0
   - 2952025.0
   - 36.0
-- &id008
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x135 mode=RGB'
   unit: null
   values:
   - 600.0
   - 35.0
-- &id009
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id010
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id011
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id012
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: May 29th , 2026
   unit: null
   values:
   - 29.0
   - 2026.0
-- &id013
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Week 22
   unit: null
   values:
   - 22.0
-- &id014
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1237
   unit: null
   values:
   - 282.0
   - 1237.0
-- &id015
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: • Deal struck. tentative agreemen t on May 28 to extend the April 8
     ceasefire by 60 days and to begin de-mining and reopening
@@ -185,16 +170,14 @@ numeric_observations:
   - 28.0
   - 8.0
   - 60.0
-- &id016
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: the Strait of Hormuz, with President Trump describing the framework
     on May 23 as "largely negotiated, subject
   unit: null
   values:
   - 23.0
-- &id017
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Brent crude has fallen sharply to approximately USD 96 to USD 97, down
     hard on the week and the month
@@ -202,8 +185,7 @@ numeric_observations:
   values:
   - 96.0
   - 97.0
-- &id018
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: • Rupee recovers. from the USD 105 to USD 107 range, as the market
     prices the deal ahead of its signature. Freight has moved
@@ -211,8 +193,7 @@ numeric_observations:
   values:
   - 105.0
   - 107.0
-- &id019
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: the other way. The Baltic Dry Index rallied to 3,124 on May 27, recovering
     from the 3,005 close of the prior
@@ -221,8 +202,7 @@ numeric_observations:
   - 3124.0
   - 27.0
   - 3005.0
-- &id020
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: week, with the Baltic Capesize Index at 5,272 and daily Capesize earnings
     at USD 44,314. The Panamax segment
@@ -230,8 +210,7 @@ numeric_observations:
   values:
   - 5272.0
   - 44314.0
-- &id021
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: sharply from its near-97 record to approximately 95.78 on the deal
     hopes and visible Reserve Bank intervention.
@@ -239,16 +218,14 @@ numeric_observations:
   values:
   - 97.0
   - 95.78
-- &id022
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: The Pakistani Rupee held its anchor at approximately 278.58, now stronger
     year-to-date. The Bangladeshi Taka
   unit: null
   values:
   - 278.58
-- &id023
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: held its 122.74 to 123.18 band through the Eid week at approximately
     122.85. The Turkish Lira alone broke to a
@@ -257,8 +234,7 @@ numeric_observations:
   - 122.74
   - 123.18
   - 122.85
-- &id024
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: fresh record of approximately 45.90, with Ankara now projecting end-2026
     inflation at 26%, well above its
@@ -267,8 +243,7 @@ numeric_observations:
   - 45.9
   - 2026.0
   - 26.0
-- &id025
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: earlier 15% to 21% range. The Dollar Index eased on the deal. Bangladesh
     remains the most constructive
@@ -276,16 +251,14 @@ numeric_observations:
   values:
   - 15.0
   - 21.0
-- &id026
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! This is Eid al-Adha week. Markets across the sub-continent
     are thin or closed through May 29. The deal the
   unit: null
   values:
   - 29.0
-- &id027
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 'week arc from Week 15 to Week 22 ends where it began: with tonnage
     that is not arriving. The owner who'
@@ -293,8 +266,7 @@ numeric_observations:
   values:
   - 15.0
   - 22.0
-- &id028
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 22 of 2026 are on Page 5.
   unit: null
@@ -302,16 +274,14 @@ numeric_observations:
   - 22.0
   - 2026.0
   - 5.0
-- &id029
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 22 with USD/BDT at approximately 122.85, holding
     the 122.74 to 123.18
@@ -321,32 +291,28 @@ numeric_observations:
   - 122.85
   - 122.74
   - 123.18
-- &id031
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: direction. The band has survived the diplomatic whipsaw, Brent's collapse
     to USD 96, the Indian
   unit: usd
   values:
   - 96.0
-- &id032
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Rupee's round trip to near-97 and back, and the Turkish Lira's break
     to a fresh record. Through the
   unit: null
   values:
   - 97.0
-- &id033
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Foreign exchange reserves near USD 34.12 billion remain the operative
     buffer. Local steel plate
   unit: usd
   values:
   - 34.12
-- &id034
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: prices have held the softened BDT 66,000 to BDT 66,700 range, with
     the USD equivalent at
@@ -354,8 +320,7 @@ numeric_observations:
   values:
   - 66000.0
   - 66700.0
-- &id035
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: approximately USD 537 to USD 543 per ton, and no fresh direction set
     during the holiday lull.
@@ -363,8 +328,7 @@ numeric_observations:
   values:
   - 537.0
   - 543.0
-- &id036
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Eid al-Adha, o bserv ed May 26 to 28, has brought Chattogram cash-buyer
     activity to its seasonal
@@ -372,16 +336,14 @@ numeric_observations:
   values:
   - 26.0
   - 28.0
-- &id037
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: decisions are expected to be taken or executed until the working week
     resumes after May 29, by
   unit: null
   values:
   - 29.0
-- &id038
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: that cleared through Weeks 17 to 21 enters the holiday in its most
     permissive posture since the war
@@ -389,8 +351,7 @@ numeric_observations:
   values:
   - 17.0
   - 21.0
-- &id039
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's April CPI at 9.04%, released in Week 21, remains the operative
     read, materially below
@@ -398,8 +359,7 @@ numeric_observations:
   values:
   - 9.04
   - 21.0
-- &id040
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Pakistan's 10.9% and Turkey's 32.37%, confirming that Taka stability
     substantially insulated the
@@ -407,16 +367,14 @@ numeric_observations:
   values:
   - 10.9
   - 32.37
-- &id041
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: near-97 record of approximately 96.97 set on May 21 to approximately
     95.78 by May 27. The move was
@@ -427,16 +385,14 @@ numeric_observations:
   - 21.0
   - 95.78
   - 27.0
-- &id043
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: sold a net USD 9.76 billion in March and returned to the market through
     the rupee's stress peak. The
   unit: usd
   values:
   - 9.76
-- &id044
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: pressure on the roughly 70% of Indian crude and 90% of LPG that route
     through or near the strait. The
@@ -444,16 +400,14 @@ numeric_observations:
   values:
   - 70.0
   - 90.0
-- &id045
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: ADNOC and Aramco continue to flag late 2027 as the realistic horizon
     for full Middle East oil-flow
   unit: null
   values:
   - 2027.0
-- &id046
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: normalisation. The rupee's move from 96.97 to 95.78 should therefore
     be read as a repricing of
@@ -461,15 +415,13 @@ numeric_observations:
   values:
   - 96.97
   - 95.78
-- &id047
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: framework, the 96.97 record is a single headline away.
   unit: null
   values:
   - 96.97
-- &id048
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: an INR 38,500 to INR 39,200 range with the USD equivalent at approximately
     USD 402 to USD 409 per
@@ -479,64 +431,56 @@ numeric_observations:
   - 39200.0
   - 402.0
   - 409.0
-- &id049
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: ton. India remains the lowest-priced sub-continent destination, with
     the gap to Pakistan near USD 280
   unit: usd
   values:
   - 280.0
-- &id050
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 'per LDT. The compliance footprint is unchanged: more than 110 yards
     at Alang hold valid Statements'
   unit: null
   values:
   - 110.0
-- &id051
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id052
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Pakistan closes the month as the basin's currency anchor. USD/PKR held
     at approximately 278.58
   unit: usd_per_unit
   values:
   - 278.58
-- &id054
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Ru pee anchored. on May 28, essentially unchanged across three consecutive
     weeks and now stronger by roughly
   unit: null
   values:
   - 28.0
-- &id055
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 1.6% year-to-date, the only sub-continent currency to have appreciated
     against the dollar since the
   unit: pct
   values:
   - 1.6
-- &id056
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: war opened. The configuration that began as a Week 19 vulnerability,
     when the 10.9% April CPI
@@ -544,16 +488,14 @@ numeric_observations:
   values:
   - 19.0
   - 10.9
-- &id057
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: shock forced the State Bank into its first rate hike in three years,
     has fully matured into a Week 22
   unit: null
   values:
   - 22.0
-- &id058
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: structural advantage. The 100 basis point move to 11.5%, sustained
     remittance inflows through the
@@ -561,8 +503,7 @@ numeric_observations:
   values:
   - 100.0
   - 11.5
-- &id059
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Eid al-Adha, observed May 27 to 29 in Pakistan, has brought Gadani
     to its seasonal halt. As at
@@ -570,8 +511,7 @@ numeric_observations:
   values:
   - 27.0
   - 29.0
-- &id060
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at PKR 195,000 per ton held the Week 20 step-up
     through the holiday, with
@@ -579,32 +519,28 @@ numeric_observations:
   values:
   - 195000.0
   - 20.0
-- &id061
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Position intact. the USD equivalent near USD 700 per ton on the steady
     rupee. Gadani's absolute pricing remains
   unit: usd
   values:
   - 700.0
-- &id062
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: the firmest of the year, and the gap to India sits near USD 280 per
     LDT. Three HKC-certified yards
   unit: usd
   values:
   - 280.0
-- &id063
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: T urkey enters Week 22 with USD/TRY at approximately 45.90, a fresh
     record low surpassing the
@@ -612,8 +548,7 @@ numeric_observations:
   values:
   - 22.0
   - 45.9
-- &id065
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: W eek 21 reference of 45.58 and touching an intraday extreme near 46.09.
     The lira has weakened
@@ -622,8 +557,7 @@ numeric_observations:
   - 21.0
   - 45.58
   - 46.09
-- &id066
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: a pproximately 1.75% over the past month and 17.4% over the past 12
     months. Alone among the
@@ -631,8 +565,7 @@ numeric_observations:
   values:
   - 1.75
   - 17.4
-- &id067
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: The TCMB has now revised its end-2026 inflation projection to 26%,
     materially above the 15% to 21%
@@ -642,8 +575,7 @@ numeric_observations:
   - 26.0
   - 15.0
   - 21.0
-- &id068
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 32.37%, with monthly inflation at 4.18%, remains the operative read,
     and independent estimates from
@@ -651,16 +583,14 @@ numeric_observations:
   values:
   - 32.37
   - 4.18
-- &id069
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: to USD 96 may, if sustained, offer the first genuine disinflation tailwind
     Turkey has seen all year. "If
   unit: usd
   values:
   - 96.0
-- &id070
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains structurally
     uncompetitive for
@@ -668,16 +598,14 @@ numeric_observations:
   values:
   - 268.0
   - 290.0
-- &id071
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: mainstream tonnage. The lira's break to 45.90 has firmed Turkish offers
     marginally in USD terms,
   unit: usd
   values:
   - 45.9
-- &id072
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: but the gap to Pakistan at USD 445 to USD 480 and Bangladesh at USD
     460 to USD 495 remains
@@ -687,8 +615,7 @@ numeric_observations:
   - 480.0
   - 460.0
   - 495.0
-- &id073
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: unbridgeable. The gap to India at USD 415 to USD 420 narrowed slightly
     as the rupee recovered.
@@ -696,8 +623,7 @@ numeric_observations:
   values:
   - 415.0
   - 420.0
-- &id074
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: For Week 22 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -705,8 +631,7 @@ numeric_observations:
   values:
   - 22.0
   - 2026.0
-- &id075
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
   unit: null
@@ -718,8 +643,7 @@ numeric_observations:
   - -485.0
   - 490.0
   - -495.0
-- &id076
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Firming 445-450 / LDT 465-470 / LDT 475-480 / LDT
   unit: null
@@ -731,8 +655,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id077
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 415-420 / LDT 435-440 / LDT 445-450 / LDT
   unit: null
@@ -744,8 +667,7 @@ numeric_observations:
   - -440.0
   - 445.0
   - -450.0
-- &id078
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Softening 268-270 / LDT 278-280 / LDT 288-290 / LDT
   unit: null
@@ -757,16 +679,14 @@ numeric_observations:
   - -280.0
   - 288.0
   - -290.0
-- &id079
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id080
-  section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: volume of more than 80,000 Olympic-sized swimming pools.
   unit: null
@@ -1036,86 +956,666 @@ section_count: 3
 signals:
   numeric_observation_count: 112
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The seven-week wait for a reopening signal has produced its deal.
+      The United States and Iran reached a tentative agreement on May 28to extend
+      the April 8 ceasefire by 60 days and to begin de-mining and reopening the Strait
+      of Hormuz, with President Trump descr
+    unit: null
+    values:
+    - 28.0
+    - 8.0
+    - 60.0
+    - 23.0
+  - section: Main
+    section_type: null
+    source_line: Brent crude has fallen sharply to approximately USD 96 to USD 97,
+      down hard on the week and the month from the USD 105 to USD 107 range, as the
+      market prices the deal ahead of its signature. Freight has moved the other way.
+      The Baltic Dry Index rallied to 3,12
+    unit: usd
+    values:
+    - 96.0
+    - 97.0
+    - 105.0
+    - 107.0
+    - 3124.0
+    - 27.0
+    - 3005.0
+    - 5272.0
+    - 44314.0
+  - section: Main
+    section_type: null
+    source_line: Currency divergence has begun, for the first time in the arc, to
+      partially reverse. The Indian Rupee recovered sharply from its near-97 record
+      to approximately 95.78 on the deal hopes and visible Reserve Bank intervention.
+      The Pakistani Rupee held its anchor a
+    unit: pct
+    values:
+    - 97.0
+    - 95.78
+    - 278.58
+    - 122.74
+    - 123.18
+    - 122.85
+    - 45.9
+    - 2026.0
+    - 26.0
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: This is Eid al-Adha week. Markets across the sub-continent are thin
+      or closed through May 29. The deal the basin has awaited since February has
+      arrived in the one week the basin cannot act on it, and ahead of the monsoon
+      that will close the beaching window reg
+    unit: null
+    values:
+    - 29.0
+    - 15.0
+    - 22.0
+  - section: Main
+    section_type: null
+    source_line: For Week 22 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 22.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 2952025.jpg Download PDF'
+    unit: null
+    values:
+    - 2952025.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -5.0
+    - -29.0
+    - 22.0
+    - 2952025.0
+    - 36.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 600x135 mode=RGB'
+    unit: null
+    values:
+    - 600.0
+    - 35.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: May 29th , 2026
+    unit: null
+    values:
+    - 29.0
+    - 2026.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Week 22
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1237
+    unit: null
+    values:
+    - 282.0
+    - 1237.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: • Deal struck. tentative agreemen t on May 28 to extend the April
+      8 ceasefire by 60 days and to begin de-mining and reopening
+    unit: null
+    values:
+    - 28.0
+    - 8.0
+    - 60.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: the Strait of Hormuz, with President Trump describing the framework
+      on May 23 as "largely negotiated, subject
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Brent crude has fallen sharply to approximately USD 96 to USD 97,
+      down hard on the week and the month
+    unit: usd
+    values:
+    - 96.0
+    - 97.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: • Rupee recovers. from the USD 105 to USD 107 range, as the market
+      prices the deal ahead of its signature. Freight has moved
+    unit: usd
+    values:
+    - 105.0
+    - 107.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: the other way. The Baltic Dry Index rallied to 3,124 on May 27, recovering
+      from the 3,005 close of the prior
+    unit: null
+    values:
+    - 3124.0
+    - 27.0
+    - 3005.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: week, with the Baltic Capesize Index at 5,272 and daily Capesize
+      earnings at USD 44,314. The Panamax segment
+    unit: usd
+    values:
+    - 5272.0
+    - 44314.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: sharply from its near-97 record to approximately 95.78 on the deal
+      hopes and visible Reserve Bank intervention.
+    unit: null
+    values:
+    - 97.0
+    - 95.78
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: The Pakistani Rupee held its anchor at approximately 278.58, now
+      stronger year-to-date. The Bangladeshi Taka
+    unit: null
+    values:
+    - 278.58
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: held its 122.74 to 123.18 band through the Eid week at approximately
+      122.85. The Turkish Lira alone broke to a
+    unit: null
+    values:
+    - 122.74
+    - 123.18
+    - 122.85
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: fresh record of approximately 45.90, with Ankara now projecting end-2026
+      inflation at 26%, well above its
+    unit: pct
+    values:
+    - 45.9
+    - 2026.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: earlier 15% to 21% range. The Dollar Index eased on the deal. Bangladesh
+      remains the most constructive
+    unit: pct
+    values:
+    - 15.0
+    - 21.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: on the GMS App! This is Eid al-Adha week. Markets across the sub-continent
+      are thin or closed through May 29. The deal the
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 'week arc from Week 15 to Week 22 ends where it began: with tonnage
+      that is not arriving. The owner who'
+    unit: null
+    values:
+    - 15.0
+    - 22.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 22 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 22.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 22 with USD/BDT at approximately 122.85, holding
+      the 122.74 to 123.18
+    unit: usd_per_unit
+    values:
+    - 22.0
+    - 122.85
+    - 122.74
+    - 123.18
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: direction. The band has survived the diplomatic whipsaw, Brent's
+      collapse to USD 96, the Indian
+    unit: usd
+    values:
+    - 96.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Rupee's round trip to near-97 and back, and the Turkish Lira's break
+      to a fresh record. Through the
+    unit: null
+    values:
+    - 97.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Foreign exchange reserves near USD 34.12 billion remain the operative
+      buffer. Local steel plate
+    unit: usd
+    values:
+    - 34.12
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: prices have held the softened BDT 66,000 to BDT 66,700 range, with
+      the USD equivalent at
+    unit: usd
+    values:
+    - 66000.0
+    - 66700.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: approximately USD 537 to USD 543 per ton, and no fresh direction
+      set during the holiday lull.
+    unit: usd
+    values:
+    - 537.0
+    - 543.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Eid al-Adha, o bserv ed May 26 to 28, has brought Chattogram cash-buyer
+      activity to its seasonal
+    unit: null
+    values:
+    - 26.0
+    - 28.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: decisions are expected to be taken or executed until the working
+      week resumes after May 29, by
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: that cleared through Weeks 17 to 21 enters the holiday in its most
+      permissive posture since the war
+    unit: null
+    values:
+    - 17.0
+    - 21.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh's April CPI at 9.04%, released in Week 21, remains the
+      operative read, materially below
+    unit: pct
+    values:
+    - 9.04
+    - 21.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's 10.9% and Turkey's 32.37%, confirming that Taka stability
+      substantially insulated the
+    unit: pct
+    values:
+    - 10.9
+    - 32.37
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: near-97 record of approximately 96.97 set on May 21 to approximately
+      95.78 by May 27. The move was
+    unit: null
+    values:
+    - 97.0
+    - 96.97
+    - 21.0
+    - 95.78
+    - 27.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: sold a net USD 9.76 billion in March and returned to the market through
+      the rupee's stress peak. The
+    unit: usd
+    values:
+    - 9.76
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: pressure on the roughly 70% of Indian crude and 90% of LPG that route
+      through or near the strait. The
+    unit: pct
+    values:
+    - 70.0
+    - 90.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: ADNOC and Aramco continue to flag late 2027 as the realistic horizon
+      for full Middle East oil-flow
+    unit: null
+    values:
+    - 2027.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: normalisation. The rupee's move from 96.97 to 95.78 should therefore
+      be read as a repricing of
+    unit: null
+    values:
+    - 96.97
+    - 95.78
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: framework, the 96.97 record is a single headline away.
+    unit: null
+    values:
+    - 96.97
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: an INR 38,500 to INR 39,200 range with the USD equivalent at approximately
+      USD 402 to USD 409 per
+    unit: usd
+    values:
+    - 38500.0
+    - 39200.0
+    - 402.0
+    - 409.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: ton. India remains the lowest-priced sub-continent destination, with
+      the gap to Pakistan near USD 280
+    unit: usd
+    values:
+    - 280.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 'per LDT. The compliance footprint is unchanged: more than 110 yards
+      at Alang hold valid Statements'
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan closes the month as the basin's currency anchor. USD/PKR
+      held at approximately 278.58
+    unit: usd_per_unit
+    values:
+    - 278.58
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Ru pee anchored. on May 28, essentially unchanged across three consecutive
+      weeks and now stronger by roughly
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 1.6% year-to-date, the only sub-continent currency to have appreciated
+      against the dollar since the
+    unit: pct
+    values:
+    - 1.6
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: war opened. The configuration that began as a Week 19 vulnerability,
+      when the 10.9% April CPI
+    unit: pct
+    values:
+    - 19.0
+    - 10.9
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: shock forced the State Bank into its first rate hike in three years,
+      has fully matured into a Week 22
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: structural advantage. The 100 basis point move to 11.5%, sustained
+      remittance inflows through the
+    unit: worldscale_pct
+    values:
+    - 100.0
+    - 11.5
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Eid al-Adha, observed May 27 to 29 in Pakistan, has brought Gadani
+      to its seasonal halt. As at
+    unit: null
+    values:
+    - 27.0
+    - 29.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at PKR 195,000 per ton held the Week 20
+      step-up through the holiday, with
+    unit: null
+    values:
+    - 195000.0
+    - 20.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: Position intact. the USD equivalent near USD 700 per ton on the steady
+      rupee. Gadani's absolute pricing remains
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: the firmest of the year, and the gap to India sits near USD 280 per
+      LDT. Three HKC-certified yards
+    unit: usd
+    values:
+    - 280.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: T urkey enters Week 22 with USD/TRY at approximately 45.90, a fresh
+      record low surpassing the
+    unit: usd_per_unit
+    values:
+    - 22.0
+    - 45.9
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: W eek 21 reference of 45.58 and touching an intraday extreme near
+      46.09. The lira has weakened
+    unit: null
+    values:
+    - 21.0
+    - 45.58
+    - 46.09
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: a pproximately 1.75% over the past month and 17.4% over the past
+      12 months. Alone among the
+    unit: pct
+    values:
+    - 1.75
+    - 17.4
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: The TCMB has now revised its end-2026 inflation projection to 26%,
+      materially above the 15% to 21%
+    unit: pct
+    values:
+    - 2026.0
+    - 26.0
+    - 15.0
+    - 21.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 32.37%, with monthly inflation at 4.18%, remains the operative read,
+      and independent estimates from
+    unit: pct
+    values:
+    - 32.37
+    - 4.18
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: to USD 96 may, if sustained, offer the first genuine disinflation
+      tailwind Turkey has seen all year. "If
+    unit: usd
+    values:
+    - 96.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: At USD 268 to USD 290 per LDT across vessel types, Aliaga remains
+      structurally uncompetitive for
+    unit: usd
+    values:
+    - 268.0
+    - 290.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: mainstream tonnage. The lira's break to 45.90 has firmed Turkish
+      offers marginally in USD terms,
+    unit: usd
+    values:
+    - 45.9
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: but the gap to Pakistan at USD 445 to USD 480 and Bangladesh at USD
+      460 to USD 495 remains
+    unit: usd
+    values:
+    - 445.0
+    - 480.0
+    - 460.0
+    - 495.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: unbridgeable. The gap to India at USD 415 to USD 420 narrowed slightly
+      as the rupee recovered.
+    unit: usd
+    values:
+    - 415.0
+    - 420.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: For Week 22 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 22.0
+    - 2026.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 460.0
+    - -465.0
+    - 480.0
+    - -485.0
+    - 490.0
+    - -495.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Firming 445-450 / LDT 465-470 / LDT 475-480 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 415-420 / LDT 435-440 / LDT 445-450 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 415.0
+    - -420.0
+    - 435.0
+    - -440.0
+    - 445.0
+    - -450.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Softening 268-270 / LDT 278-280 / LDT 288-290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+    section_type: linked_pdf
+    source_line: volume of more than 80,000 Olympic-sized swimming pools.
+    unit: null
+    values:
+    - 80000.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-05-29_gms-week-22-deal-struck-doors-shut.html
 source_stem: 2026-05-29_gms-week-22-deal-struck-doors-shut

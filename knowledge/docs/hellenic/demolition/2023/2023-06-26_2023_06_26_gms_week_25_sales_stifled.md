@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 84
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The onset of Eid holidays and celebrations has also not assisted the
     current situation as many labourers and office staff head back to hometowns for
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 1.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: In the far end on the West, Turkish Recyclers turn increasingly frustrated
     on that Lira that has been in freefall for 18 months now and has weakened by a
@@ -49,8 +47,7 @@ numeric_observations:
   unit: pct
   values:
   - 200.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 25 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 25.0
   - 2023.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-06-26_gms-week-25-sales-stifled_img1_25062023d_9bba7dad6002.jpg'
   unit: null
@@ -71,47 +67,41 @@ numeric_observations:
   - 25062023.0
   - 9.0
   - 2.0
-- &id005
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: June 23rd , 2023
   unit: null
   values:
   - 23.0
   - 2023.0
-- &id006
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Volume 250, Issue 1088
   unit: null
   values:
   - 250.0
   - 1088.0
-- &id007
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Week 25
   unit: null
   values:
   - 25.0
-- &id008
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: end on 1 July) while nearly all of the yards virtually close and activity
     subsides over the rainy
   unit: null
   values:
   - 1.0
-- &id009
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: been in freefall for 18 months now and has weakened by a nearly catastrophic
     200% during this
   unit: pct
   values:
   - 200.0
-- &id010
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: For week 25 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -119,8 +109,7 @@ numeric_observations:
   values:
   - 25.0
   - 2023.0
-- &id011
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Stable 575 / LDT 605 / LDT 625 / LDT
   unit: null
@@ -129,8 +118,7 @@ numeric_observations:
   - 575.0
   - 605.0
   - 625.0
-- &id012
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -139,8 +127,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id013
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan* Weak 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -149,8 +136,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id014
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -159,79 +145,69 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id015
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id016
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: marginally), as it slipped passed BDT 108.0 against the U.S. Dollar
     this week.
   unit: null
   values:
   - 108.0
-- &id017
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Not only has the Indian Rupee firmed again st the U.S. Dollar and is
     below Rs. 82 (at the
   unit: null
   values:
   - 82.0
-- &id019
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: marginally from PKR 287.20 to PKR 286.33.
   unit: null
   values:
   - 287.2
   - 286.33
-- &id021
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: TRY 26??
   unit: null
   values:
   - 26.0
-- &id023
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Last week, the Lira drastically depreciated past TRY 22, ending the
     week at levels excess
   unit: null
   values:
   - 22.0
-- &id024
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: TRY 23.5X. This week, the Lira pushed past TRY 25.75 mid-week, only
     to end the week at
@@ -239,30 +215,26 @@ numeric_observations:
   values:
   - 23.5
   - 25.75
-- &id025
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: levels just above TRY 25.
   unit: null
   values:
   - 25.0
-- &id026
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line:  The average temperature on Mars is minus 81 degrees Fahrenheit.
   unit: null
   values:
   - 81.0
-- &id028
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: tJhuen sep 2ir8i t-u Jauln ceo u30si -n Eoifd e lUepl hAaznhtas. June
     14 - June 22
@@ -271,8 +243,7 @@ numeric_observations:
   - 2.0
   - 14.0
   - 22.0
-- &id029
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line:  TheJruel iys 2a8n - i nJutelyrn 2a9t i-o Anaslh Curlao ud Committee.
     June 30 - July 09
@@ -282,8 +253,7 @@ numeric_observations:
   - 2.0
   - 30.0
   - 9.0
-- &id030
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line:  Any planet with an atmosphere most likely has clouds. July 13 - July
     22
@@ -291,8 +261,7 @@ numeric_observations:
   values:
   - 13.0
   - 22.0
-- &id031
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: June 28 - June 30 - Eid Ul Azha July 03 - July 06
   unit: null
@@ -301,8 +270,7 @@ numeric_observations:
   - 30.0
   - 3.0
   - 6.0
-- &id032
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: July 01 - Bank Holiday July 18 - July 21
   unit: null
@@ -310,15 +278,13 @@ numeric_observations:
   - 1.0
   - 18.0
   - 21.0
-- &id033
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: July 29 - Ashura
   unit: null
   values:
   - 29.0
-- &id034
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 24 - Dragon Boat June 29 - July 01 - Eid Ul Azha June
     27 - July 01 - Kurban Bayrami
@@ -330,40 +296,35 @@ numeric_observations:
   - 1.0
   - 27.0
   - 1.0
-- &id035
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Festival July 03 - Bank Holiday July 15 - Democracy and National
   unit: null
   values:
   - 3.0
   - 15.0
-- &id036
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: No Holidays in July July 27 - July 28 - Ashoora Solidarity Day
   unit: null
   values:
   - 27.0
   - 28.0
-- &id037
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id039
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 1 Diadem 21,731 Container Beached June 20
   unit: null
@@ -371,8 +332,7 @@ numeric_observations:
   - 1.0
   - 21731.0
   - 20.0
-- &id040
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 2 Enix 2,529 LPG Beached June 20
   unit: null
@@ -380,8 +340,7 @@ numeric_observations:
   - 2.0
   - 2529.0
   - 20.0
-- &id041
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 3 MSC Kerry 15,580 Container Beached June 21
   unit: null
@@ -389,8 +348,7 @@ numeric_observations:
   - 3.0
   - 15580.0
   - 21.0
-- &id042
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 MSC Nicole 14,305 Container Arrived June 23
   unit: null
@@ -398,23 +356,20 @@ numeric_observations:
   - 4.0
   - 14305.0
   - 23.0
-- &id043
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 36,098
   unit: null
   values:
   - 36098.0
-- &id044
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id045
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 1 Changyang 7,993 General Cargo Beached June 22
   unit: null
@@ -422,8 +377,7 @@ numeric_observations:
   - 1.0
   - 7993.0
   - 22.0
-- &id046
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 2 Daebokgasho 1,108 LPG Arrived June 20
   unit: null
@@ -431,8 +385,7 @@ numeric_observations:
   - 2.0
   - 1108.0
   - 20.0
-- &id047
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 3 Eternal Luck 7,527 Bulk Carrier Beached June 20
   unit: null
@@ -440,8 +393,7 @@ numeric_observations:
   - 3.0
   - 7527.0
   - 20.0
-- &id048
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 Golden Sun 6,096 Bulk Carrier Beached June 17
   unit: null
@@ -449,8 +401,7 @@ numeric_observations:
   - 4.0
   - 6096.0
   - 17.0
-- &id049
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 H Power 18,239 Bulk Carrier Beached June 19
   unit: null
@@ -458,8 +409,7 @@ numeric_observations:
   - 5.0
   - 18239.0
   - 19.0
-- &id050
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 6 Hong Hao 11,857 General Cargo Arrived June 20
   unit: null
@@ -467,8 +417,7 @@ numeric_observations:
   - 6.0
   - 11857.0
   - 20.0
-- &id051
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 7 Jin Yuan Xing 9 7,576 Bulk Carrier Beached June 21
   unit: null
@@ -477,8 +426,7 @@ numeric_observations:
   - 9.0
   - 7576.0
   - 21.0
-- &id052
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 8 Tian He Shun 7,349 Bulk Carrier Beached June 18
   unit: null
@@ -486,23 +434,20 @@ numeric_observations:
   - 8.0
   - 7349.0
   - 18.0
-- &id053
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 55,524
   unit: null
   values:
   - 55524.0
-- &id054
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id055
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -511,8 +456,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id056
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -521,8 +465,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id057
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -531,8 +474,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id058
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -541,8 +483,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id059
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -551,8 +492,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id060
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /1 7 /2
   unit: null
@@ -560,8 +500,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2.0
-- &id061
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /1 8 /2
   unit: null
@@ -569,8 +508,7 @@ numeric_observations:
   - 1.0
   - 8.0
   - 2.0
-- &id062
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /1 9 /2
   unit: null
@@ -578,16 +516,14 @@ numeric_observations:
   - 1.0
   - 9.0
   - 2.0
-- &id063
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /2 0 /2
   unit: null
   values:
   - 2.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /2 1 /2
   unit: null
@@ -595,8 +531,7 @@ numeric_observations:
   - 2.0
   - 1.0
   - 2.0
-- &id065
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /2 2 /2
   unit: null
@@ -604,8 +539,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id066
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: /2 3 /2
   unit: null
@@ -613,8 +547,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 9 .1 8
   unit: null
@@ -623,8 +556,7 @@ numeric_observations:
   - 9.0
   - 1.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 9 .2 0
   unit: null
@@ -632,8 +564,7 @@ numeric_observations:
   - 4.0
   - 9.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 4 9 .7 3
   unit: null
@@ -642,8 +573,7 @@ numeric_observations:
   - 9.0
   - 7.0
   - 3.0
-- &id070
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 2 .7 8
   unit: null
@@ -652,8 +582,7 @@ numeric_observations:
   - 2.0
   - 7.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 2 .3 0
   unit: null
@@ -661,31 +590,27 @@ numeric_observations:
   - 5.0
   - 2.0
   - 3.0
-- &id072
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 ,0 0 0 .0
   unit: null
   values:
   - 5.0
-- &id073
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 ,1 0 0 .0
   unit: null
   values:
   - 5.0
   - 1.0
-- &id074
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 5 ,3 0 0 .0
   unit: null
   values:
   - 5.0
   - 3.0
-- &id075
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 7 7 .3 9
   unit: null
@@ -694,16 +619,14 @@ numeric_observations:
   - 7.0
   - 3.0
   - 9.0
-- &id076
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 2 2 0 ,0 0 0 .0 0
   unit: null
   values:
   - 2.0
   - 2.0
-- &id077
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 6 9 5 .2 4
   unit: null
@@ -713,16 +636,14 @@ numeric_observations:
   - 5.0
   - 2.0
   - 4.0
-- &id078
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 7 3 ,0 0 0 .0 0
   unit: null
   values:
   - 7.0
   - 3.0
-- &id079
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: 3 5 7 .0 0
   unit: null
@@ -730,8 +651,7 @@ numeric_observations:
   - 3.0
   - 5.0
   - 7.0
-- &id080
-  section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+- section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
@@ -781,86 +701,634 @@ section_count: 3
 signals:
   numeric_observation_count: 84
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The onset of Eid holidays and celebrations has also not assisted
+      the current situation as many labourers and office staff head back to hometowns
+      for several weeks (even though Eid holidays end on 1 July) while nearly all
+      of the yards virtually close and activi
+    unit: null
+    values:
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: In the far end on the West, Turkish Recyclers turn increasingly frustrated
+      on that Lira that has been in freefall for 18 months now and has weakened by
+      a nearly catastrophic 200% during this time.
+    unit: pct
+    values:
+    - 200.0
+  - section: Main
+    section_type: null
+    source_line: For week 25 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 25.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-06-26_gms-week-25-sales-stifled_img1_25062023d_9bba7dad6002.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -6.0
+    - -26.0
+    - 25.0
+    - 25062023.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: June 23rd , 2023
+    unit: null
+    values:
+    - 23.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Volume 250, Issue 1088
+    unit: null
+    values:
+    - 250.0
+    - 1088.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Week 25
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: end on 1 July) while nearly all of the yards virtually close and
+      activity subsides over the rainy
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: been in freefall for 18 months now and has weakened by a nearly catastrophic
+      200% during this
+    unit: pct
+    values:
+    - 200.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: For week 25 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 25.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Stable 575 / LDT 605 / LDT 625 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 575.0
+    - 605.0
+    - 625.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan* Weak 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: marginally), as it slipped passed BDT 108.0 against the U.S. Dollar
+      this week.
+    unit: null
+    values:
+    - 108.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Not only has the Indian Rupee firmed again st the U.S. Dollar and
+      is below Rs. 82 (at the
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: marginally from PKR 287.20 to PKR 286.33.
+    unit: null
+    values:
+    - 287.2
+    - 286.33
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: TRY 26??
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Last week, the Lira drastically depreciated past TRY 22, ending the
+      week at levels excess
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: TRY 23.5X. This week, the Lira pushed past TRY 25.75 mid-week, only
+      to end the week at
+    unit: null
+    values:
+    - 23.5
+    - 25.75
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: levels just above TRY 25.
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line:  The average temperature on Mars is minus 81 degrees Fahrenheit.
+    unit: null
+    values:
+    - 81.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: tJhuen sep 2ir8i t-u Jauln ceo u30si -n Eoifd e lUepl hAaznhtas.
+      June 14 - June 22
+    unit: null
+    values:
+    - 2.0
+    - 14.0
+    - 22.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line:  TheJruel iys 2a8n - i nJutelyrn 2a9t i-o Anaslh Curlao ud Committee.
+      June 30 - July 09
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 30.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line:  Any planet with an atmosphere most likely has clouds. July 13 -
+      July 22
+    unit: null
+    values:
+    - 13.0
+    - 22.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: June 28 - June 30 - Eid Ul Azha July 03 - July 06
+    unit: null
+    values:
+    - 28.0
+    - 30.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: July 01 - Bank Holiday July 18 - July 21
+    unit: null
+    values:
+    - 1.0
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: July 29 - Ashura
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 24 - Dragon Boat June 29 - July 01 - Eid Ul Azha June
+      27 - July 01 - Kurban Bayrami
+    unit: null
+    values:
+    - 22.0
+    - 24.0
+    - 29.0
+    - 1.0
+    - 27.0
+    - 1.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Festival July 03 - Bank Holiday July 15 - Democracy and National
+    unit: null
+    values:
+    - 3.0
+    - 15.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in July July 27 - July 28 - Ashoora Solidarity Day
+    unit: null
+    values:
+    - 27.0
+    - 28.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Diadem 21,731 Container Beached June 20
+    unit: null
+    values:
+    - 1.0
+    - 21731.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 2 Enix 2,529 LPG Beached June 20
+    unit: null
+    values:
+    - 2.0
+    - 2529.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 3 MSC Kerry 15,580 Container Beached June 21
+    unit: null
+    values:
+    - 3.0
+    - 15580.0
+    - 21.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 MSC Nicole 14,305 Container Arrived June 23
+    unit: null
+    values:
+    - 4.0
+    - 14305.0
+    - 23.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 36,098
+    unit: null
+    values:
+    - 36098.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Changyang 7,993 General Cargo Beached June 22
+    unit: null
+    values:
+    - 1.0
+    - 7993.0
+    - 22.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 2 Daebokgasho 1,108 LPG Arrived June 20
+    unit: null
+    values:
+    - 2.0
+    - 1108.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Eternal Luck 7,527 Bulk Carrier Beached June 20
+    unit: null
+    values:
+    - 3.0
+    - 7527.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Golden Sun 6,096 Bulk Carrier Beached June 17
+    unit: null
+    values:
+    - 4.0
+    - 6096.0
+    - 17.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 H Power 18,239 Bulk Carrier Beached June 19
+    unit: null
+    values:
+    - 5.0
+    - 18239.0
+    - 19.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 6 Hong Hao 11,857 General Cargo Arrived June 20
+    unit: null
+    values:
+    - 6.0
+    - 11857.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 7 Jin Yuan Xing 9 7,576 Bulk Carrier Beached June 21
+    unit: null
+    values:
+    - 7.0
+    - 9.0
+    - 7576.0
+    - 21.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 8 Tian He Shun 7,349 Bulk Carrier Beached June 18
+    unit: null
+    values:
+    - 8.0
+    - 7349.0
+    - 18.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 55,524
+    unit: null
+    values:
+    - 55524.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /1 7 /2
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /1 8 /2
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /1 9 /2
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /2 0 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /2 1 /2
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /2 2 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: /2 3 /2
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 9 .1 8
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 1.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 9 .2 0
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 4 9 .7 3
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 7.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 2 .7 8
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 2 .3 0
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,0 0 0 .0
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,1 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 1.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,3 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 7 7 .3 9
+    unit: null
+    values:
+    - 7.0
+    - 7.0
+    - 3.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 2 2 0 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 6 9 5 .2 4
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+    - 5.0
+    - 2.0
+    - 4.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 7 .0 0
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2023-06-26_gms-week-25-sales-stifled_ship-recycling-market-insight-week-2_979d23916db4.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-06-26_gms-week-25-sales-stifled.html
 source_stem: 2023-06-26_gms-week-25-sales-stifled

@@ -26,8 +26,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 6
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 25/11/2025
   unit: null
@@ -35,8 +34,7 @@ numeric_observations:
   - 25.0
   - 11.0
   - 2025.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   unit: null
@@ -46,8 +44,7 @@ numeric_observations:
   - -25.0
   - 47.0
   - -202.0
-- &id003
-  section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+- section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   unit: null
@@ -57,23 +54,20 @@ numeric_observations:
   - -25.0
   - 47.0
   - -202.0
-- &id004
-  section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+- section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 120x100 mode=RGB'
   unit: null
   values:
   - 120.0
-- &id005
-  section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+- section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72, 72)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id006
-  section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+- section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
@@ -87,12 +81,53 @@ section_count: 2
 signals:
   numeric_observation_count: 6
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 25/11/2025
+    unit: null
+    values:
+    - 25.0
+    - 11.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -11.0
+    - -25.0
+    - 47.0
+    - -202.0
+  - section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -11.0
+    - -25.0
+    - 47.0
+    - -202.0
+  - section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 120x100 mode=RGB'
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72, 72)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202.html
 source_stem: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202

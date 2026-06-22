@@ -28,8 +28,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 9
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Bangladesh saw steel prices cool off and jump back up by about USD
     20/LDT over the last couple of weeks and a healthy number of Chattogram Buyers
@@ -38,8 +37,7 @@ numeric_observations:
   unit: usd
   values:
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, most are not expecting any upcoming decline (collapse?) to
     be as bad as that of 2008 or even 2015, when prices tumbled at an alarming rate
@@ -51,8 +49,7 @@ numeric_observations:
   - 2015.0
   - 2008.0
   - 2015.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Barring another major disaster and / or black swan event, there seems
     to be a small chance of a similar decline this time, as much of the disruption
@@ -61,8 +58,7 @@ numeric_observations:
   unit: null
   values:
   - 19.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 34 of 2021, GMS demo rankings / pricing for the week are as
     below.
@@ -70,15 +66,13 @@ numeric_observations:
   values:
   - 34.0
   - 2021.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: Καταγραφή-6.jpg'
   unit: null
   values:
   - -6.0
-- &id006
-  section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+- section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
   unit: null
@@ -90,24 +84,21 @@ numeric_observations:
   - -6.0
   - 9.0
   - 6.0
-- &id007
-  section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+- section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 682x168 mode=RGB'
   unit: null
   values:
   - 682.0
   - 68.0
-- &id008
-  section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+- section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id009
-  section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+- section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
   section_type: linked_image_asset
   source_line: '| 1 _ | Bangladesh 590/LDT | 600/LDT 610/LDT'
   unit: null
@@ -124,15 +115,85 @@ section_count: 2
 signals:
   numeric_observation_count: 9
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
+  - section: Main
+    section_type: null
+    source_line: Bangladesh saw steel prices cool off and jump back up by about USD
+      20/LDT over the last couple of weeks and a healthy number of Chattogram Buyers
+      have subsequently decided to wait-and-watch market developments before offering
+      firm on any fresh units.
+    unit: usd
+    values:
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Overall, most are not expecting any upcoming decline (collapse?)
+      to be as bad as that of 2008 or even 2015, when prices tumbled at an alarming
+      rate - largely in response to black swan events i.e. the financial crisis of
+      2008 and the aggressive dumping of Chine
+    unit: null
+    values:
+    - 2008.0
+    - 2015.0
+    - 2008.0
+    - 2015.0
+  - section: Main
+    section_type: null
+    source_line: 'Barring another major disaster and / or black swan event, there
+      seems to be a small chance of a similar decline this time, as much of the disruption
+      caused by Covid-19 seems to have been factored in and many consider the worst
+      to be over as the global vaccine '
+    unit: null
+    values:
+    - 19.0
+  - section: Main
+    section_type: null
+    source_line: For week 34 of 2021, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 34.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: Καταγραφή-6.jpg'
+    unit: null
+    values:
+    - -6.0
+  - section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -8.0
+    - -23.0
+    - 34.0
+    - -6.0
+    - 9.0
+    - 6.0
+  - section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 682x168 mode=RGB'
+    unit: null
+    values:
+    - 682.0
+    - 68.0
+  - section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2021-08-23_gms-week-34-instability-continues_καταγραφή-6_f0c39bbfea36.jpg'
+    section_type: linked_image_asset
+    source_line: '| 1 _ | Bangladesh 590/LDT | 600/LDT 610/LDT'
+    unit: null
+    values:
+    - 1.0
+    - 590.0
+    - 600.0
+    - 610.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-08-23_gms-week-34-instability-continues.html
 source_stem: 2021-08-23_gms-week-34-instability-continues

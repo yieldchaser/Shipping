@@ -27,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 9
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Despite the recent downturns in the sub-continent markets, which have
     seen prices correct by as much as USD 25/Ton of late, levels still remain at historically
@@ -36,8 +35,7 @@ numeric_observations:
   unit: usd
   values:
   - 25.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Not since the glory days of 2008 have we seen prices so high (when
     the USD 800/LDT mark was breached). Notwithstanding, levels in the mid USD 600s/LDT
@@ -48,8 +46,7 @@ numeric_observations:
   - 2008.0
   - 800.0
   - 600.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Covid-19 of course remains an ever-present concern, and particularly
     for the Far Eastern market, where deliveries are being thwarted by the ongoing
@@ -57,8 +54,7 @@ numeric_observations:
   unit: null
   values:
   - 19.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 38 of 2021, GMS demo rankings / pricing for the week are as
     below.
@@ -66,16 +62,14 @@ numeric_observations:
   values:
   - 38.0
   - 2021.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 1-32.jpg'
   unit: null
   values:
   - 1.0
   - -32.0
-- &id006
-  section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+- section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
   unit: null
@@ -88,24 +82,21 @@ numeric_observations:
   - -32.0
   - 5.0
   - 673.0
-- &id007
-  section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+- section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 684x168 mode=RGB'
   unit: null
   values:
   - 684.0
   - 68.0
-- &id008
-  section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+- section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id009
-  section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+- section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
   section_type: linked_image_asset
   source_line: '| 1 | Bangladesh 590/LDT | 600/LDT 610 /LDT'
   unit: null
@@ -122,15 +113,84 @@ section_count: 2
 signals:
   numeric_observation_count: 9
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
+  - section: Main
+    section_type: null
+    source_line: Despite the recent downturns in the sub-continent markets, which
+      have seen prices correct by as much as USD 25/Ton of late, levels still remain
+      at historically impressive highs across the sub-continent markets.
+    unit: usd
+    values:
+    - 25.0
+  - section: Main
+    section_type: null
+    source_line: Not since the glory days of 2008 have we seen prices so high (when
+      the USD 800/LDT mark was breached). Notwithstanding, levels in the mid USD 600s/LDT
+      are still very impressive and are certainly the highest we have seen for nearly
+      12 years now. Yet, despite th
+    unit: usd
+    values:
+    - 2008.0
+    - 800.0
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: Covid-19 of course remains an ever-present concern, and particularly
+      for the Far Eastern market, where deliveries are being thwarted by the ongoing
+      spread of the Delta variant.
+    unit: null
+    values:
+    - 19.0
+  - section: Main
+    section_type: null
+    source_line: For week 38 of 2021, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 1-32.jpg'
+    unit: null
+    values:
+    - 1.0
+    - -32.0
+  - section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -9.0
+    - -21.0
+    - 38.0
+    - 1.0
+    - -32.0
+    - 5.0
+    - 673.0
+  - section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 684x168 mode=RGB'
+    unit: null
+    values:
+    - 684.0
+    - 68.0
+  - section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2021-09-21_gms-week-38-fourth-quarter-dawn_1-32_ea45af5673de.jpg'
+    section_type: linked_image_asset
+    source_line: '| 1 | Bangladesh 590/LDT | 600/LDT 610 /LDT'
+    unit: null
+    values:
+    - 1.0
+    - 590.0
+    - 600.0
+    - 610.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-09-21_gms-week-38-fourth-quarter-dawn.html
 source_stem: 2021-09-21_gms-week-38-fourth-quarter-dawn

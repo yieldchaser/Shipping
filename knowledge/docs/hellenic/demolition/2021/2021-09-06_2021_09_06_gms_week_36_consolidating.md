@@ -28,8 +28,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 9
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Far from being the traditionally quieter summer / monsoon months, July
     and August have passed with marginally weaker, albeit (still) record numbers above
@@ -38,8 +37,7 @@ numeric_observations:
   unit: usd
   values:
   - 600.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: There had been a slight wobble in the Bangladeshi market, with a USD
     30/LDT correction in steel prices. Nevertheless, rates remain firm going into
@@ -48,8 +46,7 @@ numeric_observations:
   unit: usd
   values:
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Vaccines continue their rollout at pace across the sub-continent and
     many are hoping that the worst of Covid-19 has now passed, having seen horrific
@@ -58,8 +55,7 @@ numeric_observations:
   unit: null
   values:
   - 19.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 36 of 2021, GMS demo rankings / pricing for the week are as
     below.
@@ -67,16 +63,14 @@ numeric_observations:
   values:
   - 36.0
   - 2021.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 11-2.jpg'
   unit: null
   values:
   - 11.0
   - -2.0
-- &id006
-  section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+- section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
   unit: null
@@ -89,24 +83,21 @@ numeric_observations:
   - -2.0
   - 6.0
   - 33.0
-- &id007
-  section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+- section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 685x170 mode=RGB'
   unit: null
   values:
   - 685.0
   - 70.0
-- &id008
-  section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+- section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id009
-  section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+- section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
   section_type: linked_image_asset
   source_line: '[4 [turkey [steady | 260/tor | 290/tor_[ _300/tDT'
   unit: null
@@ -123,15 +114,84 @@ section_count: 2
 signals:
   numeric_observation_count: 9
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
+  - section: Main
+    section_type: null
+    source_line: Far from being the traditionally quieter summer / monsoon months,
+      July and August have passed with marginally weaker, albeit (still) record numbers
+      above USD 600/Ton and deals still being concluded, particularly in the beleaguered
+      tanker and offshore sectors!
+    unit: usd
+    values:
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: There had been a slight wobble in the Bangladeshi market, with a
+      USD 30/LDT correction in steel prices. Nevertheless, rates remain firm going
+      into the final month of Q3 and there is plenty of capacity at sub-continent
+      yards as hungry Recyclers look to take ton
+    unit: usd
+    values:
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: Vaccines continue their rollout at pace across the sub-continent
+      and many are hoping that the worst of Covid-19 has now passed, having seen horrific
+      caseloads and fatalities earlier in the year. Moreover, the spread of the even
+      more contagious Delta variant is
+    unit: null
+    values:
+    - 19.0
+  - section: Main
+    section_type: null
+    source_line: For week 36 of 2021, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 36.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 11-2.jpg'
+    unit: null
+    values:
+    - 11.0
+    - -2.0
+  - section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -9.0
+    - -6.0
+    - 36.0
+    - 11.0
+    - -2.0
+    - 6.0
+    - 33.0
+  - section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 685x170 mode=RGB'
+    unit: null
+    values:
+    - 685.0
+    - 70.0
+  - section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2021-09-06_gms-week-36-consolidating_11-2_f3e76aa1c533.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [turkey [steady | 260/tor | 290/tor_[ _300/tDT'
+    unit: null
+    values:
+    - 4.0
+    - 260.0
+    - 290.0
+    - 300.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-09-06_gms-week-36-consolidating.html
 source_stem: 2021-09-06_gms-week-36-consolidating

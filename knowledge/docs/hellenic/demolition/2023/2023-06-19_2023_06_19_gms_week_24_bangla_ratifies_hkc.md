@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 84
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Indian fundamentals remained firm this week as the Rupee appreciated
     against the U.S. Dollar and amidst continued demand for raw materials, steel plate
@@ -42,8 +41,7 @@ numeric_observations:
   - 500.0
   - 600.0
   - 30.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 24 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -51,8 +49,7 @@ numeric_observations:
   values:
   - 24.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-06-19_gms-week-24-bangla-ratifies-hkc_img1_18062023pgd_da2bea8ae640.jpg'
   unit: null
@@ -63,16 +60,14 @@ numeric_observations:
   - 24.0
   - 18062023.0
   - 40.0
-- &id004
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: June 16th , 2023 " We all have problems.
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id005
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Volume 250, Issue 1087 But it's not what happens to us, [it 's] the
     choices we make after. "
@@ -80,23 +75,20 @@ numeric_observations:
   values:
   - 250.0
   - 1087.0
-- &id006
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Week 24 - Elizabeth Smart
   unit: null
   values:
   - 24.0
-- &id007
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: seen last year when the USD 700/LDT mark was breached. Notwithstanding,
     at these
   unit: usd
   values:
   - 700.0
-- &id008
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: • Ageing fleet. historically firm levels into the USD 500s/LDT and
     even close to USD 600/LDT, we are still 30%
@@ -105,8 +97,7 @@ numeric_observations:
   - 500.0
   - 600.0
   - 30.0
-- &id009
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: For week 24 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -114,8 +105,7 @@ numeric_observations:
   values:
   - 24.0
   - 2023.0
-- &id010
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Stable 585 / LDT 615 / LD 635 / LDT
   unit: null
@@ -124,8 +114,7 @@ numeric_observations:
   - 585.0
   - 615.0
   - 635.0
-- &id011
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 530 / LDT 550 / LDT 570 / LDT
   unit: null
@@ -134,8 +123,7 @@ numeric_observations:
   - 530.0
   - 550.0
   - 570.0
-- &id012
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan* Weak 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -144,8 +132,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id013
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -154,87 +141,76 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id014
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id015
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: to get Marshall Islands flag sBtateA toN ratGify LthAe HDKCE anSdH
     ent er it into force, alongside 20
   unit: null
   values:
   - 20.0
-- &id016
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: it temporarily breached BDT 109.25, whilst local steel plate prices
     flatlined through the
   unit: null
   values:
   - 109.25
-- &id017
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: ground over the previous few weeks, firming to under Rs. 81.87 against
     the U.S. Dollar,
   unit: null
   values:
   - 81.87
-- &id019
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: as it briefly surpassed PKR 287.70, while local steel plate prices
     have yet to be resuscitated
   unit: null
   values:
   - 287.7
-- &id021
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: TRY 24?
   unit: null
   values:
   - 24.0
-- &id023
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: firmed by about USD 5/Ton) or the upcoming religious holidays that
     could further slow
   unit: usd
   values:
   - 5.0
-- &id024
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Seemingly on its way to TRY 24, the Lira temporarily breached TRY 23.75
     early in the week,
@@ -242,23 +218,20 @@ numeric_observations:
   values:
   - 24.0
   - 23.75
-- &id025
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: only to settle in at TRY 23.60 against the U.S. Dollar.
   unit: null
   values:
   - 23.6
-- &id026
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line:  The Andromeda Galaxy is coming towards the Milky Way at a speed of
     100 to 140 kilometers a
@@ -266,16 +239,14 @@ numeric_observations:
   values:
   - 100.0
   - 140.0
-- &id028
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: ' Jupiter has 67 moons organized into three groups: inner moons, Galilean
     moons, and outer moons.'
   unit: null
   values:
   - 67.0
-- &id029
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line:  The first sighting of Jupiter that was recorded was around 7th or
     8th B.C. by the Babylonians.
@@ -283,15 +254,13 @@ numeric_observations:
   values:
   - 7.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line:  Galileo discovered four of Jupiter's moons in 1610.
   unit: null
   values:
   - 1610.0
-- &id031
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: June 28 - June 30 - Eid Ul Azha June 14 - June 22
   unit: null
@@ -300,8 +269,7 @@ numeric_observations:
   - 30.0
   - 14.0
   - 22.0
-- &id032
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: July 28 - July 29 - Ashura June 30 - July 09
   unit: null
@@ -310,16 +278,14 @@ numeric_observations:
   - 29.0
   - 30.0
   - 9.0
-- &id033
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: July 13 - July 22
   unit: null
   values:
   - 13.0
   - 22.0
-- &id034
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: June 28 - June 30 - Eid Ul Azha June 17 - June 20
   unit: null
@@ -328,8 +294,7 @@ numeric_observations:
   - 30.0
   - 17.0
   - 20.0
-- &id035
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: July 01 - Bank Holiday July 03 - July 06
   unit: null
@@ -337,8 +302,7 @@ numeric_observations:
   - 1.0
   - 3.0
   - 6.0
-- &id036
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: July 29 - Ashura July 18 - July 21
   unit: null
@@ -346,8 +310,7 @@ numeric_observations:
   - 29.0
   - 18.0
   - 21.0
-- &id037
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 24 - Dragon Boat June 29 - July 01 - Eid Ul Azha June
     27 - July 01 - Kurban Bayrami
@@ -359,55 +322,48 @@ numeric_observations:
   - 1.0
   - 27.0
   - 1.0
-- &id038
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Festival July 03 - Bank Holiday July 15 - Democracy and National
   unit: null
   values:
   - 3.0
   - 15.0
-- &id039
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: No Holidays in July July 27 - July 28 - Ashoora Solidarity Day
   unit: null
   values:
   - 27.0
   - 28.0
-- &id040
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id042
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 36,098
   unit: null
   values:
   - 36098.0
-- &id043
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id044
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 1 Eternal Luck 7,527 Bulk Carrier Arrived June 14
   unit: null
@@ -415,8 +371,7 @@ numeric_observations:
   - 1.0
   - 7527.0
   - 14.0
-- &id045
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 2 Golden Sun 6,096 Bulk Carrier Arrived June 09
   unit: null
@@ -424,8 +379,7 @@ numeric_observations:
   - 2.0
   - 6096.0
   - 9.0
-- &id046
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 H Power 18,239 Bulk Carrier Arrived June 15
   unit: null
@@ -433,8 +387,7 @@ numeric_observations:
   - 3.0
   - 18239.0
   - 15.0
-- &id047
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 Jin Yuan Xing 9 7,576 Bulk Carrier Arrived June 13
   unit: null
@@ -443,8 +396,7 @@ numeric_observations:
   - 9.0
   - 7576.0
   - 13.0
-- &id048
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 5 Meratus Makassar 5,455 Container Beached June 15
   unit: null
@@ -452,8 +404,7 @@ numeric_observations:
   - 5.0
   - 5455.0
   - 15.0
-- &id049
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 6 Tian He Shun 7,349 Bulk Carrier Arrived June 13
   unit: null
@@ -461,23 +412,20 @@ numeric_observations:
   - 6.0
   - 7349.0
   - 13.0
-- &id050
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 55,524
   unit: null
   values:
   - 55524.0
-- &id051
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 16, 2023
   unit: null
   values:
   - 16.0
   - 2023.0
-- &id052
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -486,8 +434,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id053
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -496,8 +443,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id054
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -506,8 +452,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id055
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -516,8 +461,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id056
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -526,16 +470,14 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id057
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 0 /2
   unit: null
   values:
   - 1.0
   - 2.0
-- &id058
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 1 /2
   unit: null
@@ -543,8 +485,7 @@ numeric_observations:
   - 1.0
   - 1.0
   - 2.0
-- &id059
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 2 /2
   unit: null
@@ -552,8 +493,7 @@ numeric_observations:
   - 1.0
   - 2.0
   - 2.0
-- &id060
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 3 /2
   unit: null
@@ -561,8 +501,7 @@ numeric_observations:
   - 1.0
   - 3.0
   - 2.0
-- &id061
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 4 /2
   unit: null
@@ -570,8 +509,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 2.0
-- &id062
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 5 /2
   unit: null
@@ -579,8 +517,7 @@ numeric_observations:
   - 1.0
   - 5.0
   - 2.0
-- &id063
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: /1 6 /2
   unit: null
@@ -588,8 +525,7 @@ numeric_observations:
   - 1.0
   - 6.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 7 .2 3
   unit: null
@@ -598,8 +534,7 @@ numeric_observations:
   - 7.0
   - 2.0
   - 3.0
-- &id065
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 9 .8 5
   unit: null
@@ -608,8 +543,7 @@ numeric_observations:
   - 9.0
   - 8.0
   - 5.0
-- &id066
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 0 .2 5
   unit: null
@@ -617,8 +551,7 @@ numeric_observations:
   - 4.0
   - 2.0
   - 5.0
-- &id067
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 2 .0 2
   unit: null
@@ -626,8 +559,7 @@ numeric_observations:
   - 4.0
   - 2.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 1 .6 9
   unit: null
@@ -636,8 +568,7 @@ numeric_observations:
   - 1.0
   - 6.0
   - 9.0
-- &id069
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 7 .9 0
   unit: null
@@ -645,32 +576,28 @@ numeric_observations:
   - 4.0
   - 7.0
   - 9.0
-- &id070
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 ,3 0 0 .0
   unit: null
   values:
   - 4.0
   - 3.0
-- &id071
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 ,5 0 0 .0
   unit: null
   values:
   - 4.0
   - 5.0
-- &id072
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 4 ,9 0 0 .0
   unit: null
   values:
   - 4.0
   - 9.0
-- &id073
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 7 7 .3 9
   unit: null
@@ -679,16 +606,14 @@ numeric_observations:
   - 7.0
   - 3.0
   - 9.0
-- &id074
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 2 2 0 ,0 0 0 .0 0
   unit: null
   values:
   - 2.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 6 9 5 .2 4
   unit: null
@@ -698,16 +623,14 @@ numeric_observations:
   - 5.0
   - 2.0
   - 4.0
-- &id076
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 7 3 ,0 0 0 .0 0
   unit: null
   values:
   - 7.0
   - 3.0
-- &id077
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 5 2 .2 5
   unit: null
@@ -717,8 +640,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 5.0
-- &id078
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 5 4 .5 6
   unit: null
@@ -728,8 +650,7 @@ numeric_observations:
   - 4.0
   - 5.0
   - 6.0
-- &id079
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: 3 5 7 .0 0
   unit: null
@@ -737,8 +658,7 @@ numeric_observations:
   - 3.0
   - 5.0
   - 7.0
-- &id080
-  section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+- section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
@@ -789,86 +709,642 @@ section_count: 3
 signals:
   numeric_observation_count: 84
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Indian fundamentals remained firm this week as the Rupee appreciated
+      against the U.S. Dollar and amidst continued demand for raw materials, steel
+      plate prices firm. We are not at the peaks seen last year when the USD 700/LDT
+      mark was breached. Notwithstanding,
+    unit: pct
+    values:
+    - 700.0
+    - 500.0
+    - 600.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: For week 24 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-06-19_gms-week-24-bangla-ratifies-hkc_img1_18062023pgd_da2bea8ae640.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -6.0
+    - -19.0
+    - 24.0
+    - 18062023.0
+    - 40.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: June 16th , 2023 " We all have problems.
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Volume 250, Issue 1087 But it's not what happens to us, [it 's] the
+      choices we make after. "
+    unit: null
+    values:
+    - 250.0
+    - 1087.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Week 24 - Elizabeth Smart
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: seen last year when the USD 700/LDT mark was breached. Notwithstanding,
+      at these
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: • Ageing fleet. historically firm levels into the USD 500s/LDT and
+      even close to USD 600/LDT, we are still 30%
+    unit: pct
+    values:
+    - 500.0
+    - 600.0
+    - 30.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: For week 24 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Stable 585 / LDT 615 / LD 635 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 585.0
+    - 615.0
+    - 635.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 530 / LDT 550 / LDT 570 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 530.0
+    - 550.0
+    - 570.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan* Weak 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: to get Marshall Islands flag sBtateA toN ratGify LthAe HDKCE anSdH
+      ent er it into force, alongside 20
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: it temporarily breached BDT 109.25, whilst local steel plate prices
+      flatlined through the
+    unit: null
+    values:
+    - 109.25
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: ground over the previous few weeks, firming to under Rs. 81.87 against
+      the U.S. Dollar,
+    unit: null
+    values:
+    - 81.87
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: as it briefly surpassed PKR 287.70, while local steel plate prices
+      have yet to be resuscitated
+    unit: null
+    values:
+    - 287.7
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: TRY 24?
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: firmed by about USD 5/Ton) or the upcoming religious holidays that
+      could further slow
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Seemingly on its way to TRY 24, the Lira temporarily breached TRY
+      23.75 early in the week,
+    unit: null
+    values:
+    - 24.0
+    - 23.75
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: only to settle in at TRY 23.60 against the U.S. Dollar.
+    unit: null
+    values:
+    - 23.6
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line:  The Andromeda Galaxy is coming towards the Milky Way at a speed
+      of 100 to 140 kilometers a
+    unit: null
+    values:
+    - 100.0
+    - 140.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: ' Jupiter has 67 moons organized into three groups: inner moons,
+      Galilean moons, and outer moons.'
+    unit: null
+    values:
+    - 67.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line:  The first sighting of Jupiter that was recorded was around 7th
+      or 8th B.C. by the Babylonians.
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line:  Galileo discovered four of Jupiter's moons in 1610.
+    unit: null
+    values:
+    - 1610.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: June 28 - June 30 - Eid Ul Azha June 14 - June 22
+    unit: null
+    values:
+    - 28.0
+    - 30.0
+    - 14.0
+    - 22.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: July 28 - July 29 - Ashura June 30 - July 09
+    unit: null
+    values:
+    - 28.0
+    - 29.0
+    - 30.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: July 13 - July 22
+    unit: null
+    values:
+    - 13.0
+    - 22.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: June 28 - June 30 - Eid Ul Azha June 17 - June 20
+    unit: null
+    values:
+    - 28.0
+    - 30.0
+    - 17.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: July 01 - Bank Holiday July 03 - July 06
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: July 29 - Ashura July 18 - July 21
+    unit: null
+    values:
+    - 29.0
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 24 - Dragon Boat June 29 - July 01 - Eid Ul Azha June
+      27 - July 01 - Kurban Bayrami
+    unit: null
+    values:
+    - 22.0
+    - 24.0
+    - 29.0
+    - 1.0
+    - 27.0
+    - 1.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Festival July 03 - Bank Holiday July 15 - Democracy and National
+    unit: null
+    values:
+    - 3.0
+    - 15.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in July July 27 - July 28 - Ashoora Solidarity Day
+    unit: null
+    values:
+    - 27.0
+    - 28.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 36,098
+    unit: null
+    values:
+    - 36098.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Eternal Luck 7,527 Bulk Carrier Arrived June 14
+    unit: null
+    values:
+    - 1.0
+    - 7527.0
+    - 14.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 2 Golden Sun 6,096 Bulk Carrier Arrived June 09
+    unit: null
+    values:
+    - 2.0
+    - 6096.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 H Power 18,239 Bulk Carrier Arrived June 15
+    unit: null
+    values:
+    - 3.0
+    - 18239.0
+    - 15.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Jin Yuan Xing 9 7,576 Bulk Carrier Arrived June 13
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 7576.0
+    - 13.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 5 Meratus Makassar 5,455 Container Beached June 15
+    unit: null
+    values:
+    - 5.0
+    - 5455.0
+    - 15.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 6 Tian He Shun 7,349 Bulk Carrier Arrived June 13
+    unit: null
+    values:
+    - 6.0
+    - 7349.0
+    - 13.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 55,524
+    unit: null
+    values:
+    - 55524.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 16, 2023
+    unit: null
+    values:
+    - 16.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 0 /2
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 1 /2
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 2 /2
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 3 /2
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 4 /2
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 5 /2
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: /1 6 /2
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 7 .2 3
+    unit: null
+    values:
+    - 3.0
+    - 7.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 9 .8 5
+    unit: null
+    values:
+    - 3.0
+    - 9.0
+    - 8.0
+    - 5.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 0 .2 5
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 2 .0 2
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 1 .6 9
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 7 .9 0
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 ,3 0 0 .0
+    unit: null
+    values:
+    - 4.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 ,5 0 0 .0
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 4 ,9 0 0 .0
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 7 7 .3 9
+    unit: null
+    values:
+    - 7.0
+    - 7.0
+    - 3.0
+    - 9.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 2 2 0 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 6 9 5 .2 4
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+    - 5.0
+    - 2.0
+    - 4.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 2 .2 5
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 2.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 4 .5 6
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 4.0
+    - 5.0
+    - 6.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 7 .0 0
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc.html
 source_stem: 2023-06-19_gms-week-24-bangla-ratifies-hkc

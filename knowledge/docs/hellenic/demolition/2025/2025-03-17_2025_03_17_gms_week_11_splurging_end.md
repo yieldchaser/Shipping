@@ -33,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 104
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: After what has certainly been a hectic January of negotiations and
     a late February / early March of unending deliveries with nearly200K of LDT delivered
@@ -44,8 +43,7 @@ numeric_observations:
   values:
   - 450.0
   - 2.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: It has been a number of weeks since we saw more than one market unit
     concluded into the sub-continent ship recycling markets as the Baltic's Dry Bulk
@@ -57,8 +55,7 @@ numeric_observations:
   - 1.0
   - 0.9
   - 67.2
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For now, the ongoing downtime via the lack of availability of tonnage
     is providing recyclers in both Bangladesh and Pakistan the perfect opportunity
@@ -67,8 +64,7 @@ numeric_observations:
   unit: null
   values:
   - 26.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 11 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -76,8 +72,7 @@ numeric_observations:
   values:
   - 11.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-03-17_gms-week-11-splurging-end_img1_346775_317039d8c9b7.jpg'
   unit: null
@@ -88,79 +83,69 @@ numeric_observations:
   - 11.0
   - 346775.0
   - 317039.0
-- &id006
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 14th, 2025 "Never be afraid to try something new.
   unit: null
   values:
   - 14.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Week 11 Remember, amateurs built the ark. Professionals built the Titanic."
   unit: null
   values:
   - 11.0
-- &id008
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Volume 270, Issue 1176
   unit: null
   values:
   - 270.0
   - 1176.0
-- &id009
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: • 200K LDT. After what has certainly been a hectic January of negotiations
     an d a late February / early March of
   unit: null
   values:
   - 200.0
-- &id010
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: unending deliveries with nearly 200K of LDT delivered in recent weeks,
     a period of calm reflection
   unit: null
   values:
   - 200.0
-- &id011
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: even well under the now chased after USD 450s/LDT across the board
     (as confirmed via last week's
   unit: usd
   values:
   - 450.0
-- &id012
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: dithered Alang anchorage and Pakistan's 2nd delivery in 3 months this
     year.
   unit: null
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: and registered its highest levels since November 2024, further deviating
     dry bulk & container freight
   unit: null
   values:
   - 2024.0
-- &id014
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Dt hat much worse. Even oil prices continue to see jitters after they
     declined another 1% in early-week
   unit: pct
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: • Downtime for HKC. trading and rose back 0.9% by Friday, as oil closed
     the week out at $67.20 / Ton, all in the face of an
@@ -168,16 +153,14 @@ numeric_observations:
   values:
   - 0.9
   - 67.2
-- &id016
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: / view the Weekly of its entry into force on June 26th, while a majority
     (if not all) Alang yards are already HKC
   unit: null
   values:
   - 26.0
-- &id017
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 11 of 2025 are on Page 5.
   unit: null
@@ -185,87 +168,76 @@ numeric_observations:
   - 11.0
   - 2025.0
   - 5.0
-- &id018
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: As the price & tonnage leaders in the ship recycling sector across
     a majority of Q1 2025, Bangladesh
   unit: null
   values:
   - 2025.0
-- &id020
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: frustrations even though local anchorage continues to report healthy
     arrivals of nearly 72K LDT
   unit: null
   values:
   - 72.0
-- &id021
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: via 7 ships (including another LNG Tanker), that are either idling
     at the nations waterfront or have
   unit: null
   values:
   - 7.0
-- &id022
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: the demand that has been resurfacing of late, as now-aggressive tier
     2 recyclers become keen to fill
   unit: null
   values:
   - 2.0
-- &id023
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: their plots with tonnage at these newly cemented and comfortable levels
     in the USD 450s/Ton.
   unit: usd
   values:
   - 450.0
-- &id024
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Far East over the last 2 quarters, on the back of steel late prices
     that ended another week flatlined
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: at region USD 529/Ton. Notwithstanding, while the economy and the Bangladeshi
     Taka are doing
   unit: usd
   values:
   - 529.0
-- &id026
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: head in the wrong direction as the Taka weakens another 5 basis points
     to end the week at BDT
   unit: null
   values:
   - 5.0
-- &id027
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 121.42 against the U.S. Dollar.
   unit: null
   values:
   - 121.42
-- &id028
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 0.5% in February 2025 whilst still at a high 9.32%, oil and energy
     costs are skyrocketing, and
@@ -274,8 +246,7 @@ numeric_observations:
   - 0.5
   - 2025.0
   - 9.32
-- &id029
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: far) was confirmed as the RUN FU 6 (6,297 LDT) fetched a weakened USD
     435/LT LDT with a
@@ -284,8 +255,7 @@ numeric_observations:
   - 6.0
   - 6297.0
   - 435.0
-- &id030
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: RUN FU 6 Bulker 6,297 USD 435/LT LDT
   unit: usd
@@ -293,32 +263,28 @@ numeric_observations:
   - 6.0
   - 6297.0
   - 435.0
-- &id031
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: steel levels fell nearly another Dollar, down to USD 443/Ton and well
     below the current vessel pricing
   unit: usd
   values:
   - 443.0
-- &id033
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: strategy out of India, and the U.S. Dollar too made a (meaningless)
     12 basis point jump this week, but
   unit: null
   values:
   - 12.0
-- &id034
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: still ending the week at an astronomical level just above Rs. 87 (at
     the time of writing). 4%
@@ -326,40 +292,35 @@ numeric_observations:
   values:
   - 87.0
   - 4.0
-- &id035
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: competing ship recycling neighbors), with retail inflation finally
     slipping below the 4% mark in
   unit: pct
   values:
   - 4.0
-- &id036
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Gadani recyclers have been struggling at the bidding tables since Q3
     2024 since when, they have
   unit: null
   values:
   - 2024.0
-- &id038
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Unstable economy. only managed to secure 2 units thus far. Unluckily
     for Gadani buyers and in contrast to what is
   unit: null
   values:
   - 2.0
-- &id039
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: both the Pakistani Rupee that firmed 24 basis points to end the week
     at PKR 279.64 and local steel
@@ -367,64 +328,56 @@ numeric_observations:
   values:
   - 24.0
   - 279.64
-- &id040
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: stabilize domestic spending, despite national inflation bouncing around
     the 3% market. Even the
   unit: pct
   values:
   - 3.0
-- &id041
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: them watch India slide right on by and invariably slip Pakistan into
     2nd place on the ship recycling
   unit: null
   values:
   - 2.0
-- &id042
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: market rankings, in effect, helping them negotiate and even have 2
     vessels with delivered locally
   unit: null
   values:
   - 2.0
-- &id043
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: with another 2 recent fixtures reportedly having navigational charts
     for Pakistani waters on
   unit: null
   values:
   - 2.0
-- &id044
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Yet, it seems unlikely that these facilities will be ready to operate
     before the June 26th deadline and
   unit: null
   values:
   - 26.0
-- &id045
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: along Aliaga's pricing trajectory, having declined other 18 basis points
     and ending the week at nearly
   unit: null
   values:
   - 18.0
-- &id047
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: TRY 36.60 against the U.S. Dollar, all while Indian / Pakistani offerings
     remain nearly USD 150/Ton
@@ -432,8 +385,7 @@ numeric_observations:
   values:
   - 36.6
   - 150.0
-- &id048
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: For Week 11 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -441,8 +393,7 @@ numeric_observations:
   values:
   - 11.0
   - 2025.0
-- &id049
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -451,8 +402,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id050
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Stable 435 / LDT 455 / LDT 465 / LDT
   unit: null
@@ -461,8 +411,7 @@ numeric_observations:
   - 435.0
   - 455.0
   - 465.0
-- &id051
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -471,8 +420,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id052
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -481,23 +429,20 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id053
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 2024 FUN FACTS
   unit: null
   values:
   - 2024.0
-- &id055
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line:  Ecuador's Ancient City (January 11th, 2024) - The year started with
     the discovery of an ancient complex in the Ecuador
@@ -505,8 +450,7 @@ numeric_observations:
   values:
   - 11.0
   - 2024.0
-- &id056
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Amazon. Experts believe it would have had a larger population than
     the Aztecs or Mayans. As many as 15,000 or even 30,000
@@ -514,8 +458,7 @@ numeric_observations:
   values:
   - 15000.0
   - 30000.0
-- &id057
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line:  Ginny's Last Mars Flight - (January 18th, 2024) - Ingenuity, or ‘Ginny,'
     is a NASA helicopter that became the first
@@ -523,8 +466,7 @@ numeric_observations:
   values:
   - 18.0
   - 2024.0
-- &id058
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: lasted 72 flights in three years. However, Ginny landed badly on January
     18th this year and couldn't launch again. NASA
@@ -532,8 +474,7 @@ numeric_observations:
   values:
   - 72.0
   - 18.0
-- &id059
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line:  Japan Becomes Fifth Country to Land on the Moon (January 20th, 2024)
     - Japan became the fifth country to land a
@@ -541,16 +482,14 @@ numeric_observations:
   values:
   - 20.0
   - 2024.0
-- &id060
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: spacecraft on the moon with its SLIM craft in January 2024. The Smart
     Lander for Investigating Moon (SLIM) is an
   unit: null
   values:
   - 2024.0
-- &id061
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 28 - Jamat-ul-Wida March 13 - March 18
   unit: null
@@ -558,8 +497,7 @@ numeric_observations:
   - 28.0
   - 13.0
   - 18.0
-- &id062
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 30 - Gudi Padwa March 27 - April 05
   unit: null
@@ -567,15 +505,13 @@ numeric_observations:
   - 30.0
   - 27.0
   - 5.0
-- &id063
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 31 - Eid-ul-Fitr
   unit: null
   values:
   - 31.0
-- &id064
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence & National Day March 14 - March 17
   unit: null
@@ -583,8 +519,7 @@ numeric_observations:
   - 26.0
   - 14.0
   - 17.0
-- &id065
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 28 - Shab-e-Qadr March 29 - April 01
   unit: null
@@ -592,16 +527,14 @@ numeric_observations:
   - 28.0
   - 29.0
   - 1.0
-- &id066
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 29 - April 02 - Eid-ul-Fitr
   unit: null
   values:
   - 29.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: No holidays until April March 23 - Pakistan Day March 29 - April 03
     - Ramzan
@@ -610,32 +543,28 @@ numeric_observations:
   - 23.0
   - 29.0
   - 3.0
-- &id068
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
   unit: null
   values:
   - 30.0
   - 4.0
-- &id069
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 14, 2025
   unit: null
   values:
   - 14.0
   - 2025.0
-- &id071
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 1 AK Hamburg 2,616 Oil Tanker Delivered March 11
   unit: null
@@ -643,8 +572,7 @@ numeric_observations:
   - 1.0
   - 2616.0
   - 11.0
-- &id072
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 2 Hesen M 2,240 Gen Cargo Arrived March 08
   unit: null
@@ -652,23 +580,20 @@ numeric_observations:
   - 2.0
   - 2240.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 4,856
   unit: null
   values:
   - 4856.0
-- &id074
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 14, 2025
   unit: null
   values:
   - 14.0
   - 2025.0
-- &id075
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 1 Banglar Jyoti 3,700 Tanker Delivered March 10
   unit: null
@@ -676,8 +601,7 @@ numeric_observations:
   - 1.0
   - 3700.0
   - 10.0
-- &id076
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 2 Banglar Shourabh 3,700 Tanker Delivered March 10
   unit: null
@@ -685,8 +609,7 @@ numeric_observations:
   - 2.0
   - 3700.0
   - 10.0
-- &id077
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 3 Best Unity 9,826 Bulk Carrier Arrived March 13
   unit: null
@@ -694,8 +617,7 @@ numeric_observations:
   - 3.0
   - 9826.0
   - 13.0
-- &id078
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 4 Run Fu 6,978 Bulk Carrier Delivered March 13
   unit: null
@@ -703,8 +625,7 @@ numeric_observations:
   - 4.0
   - 6978.0
   - 13.0
-- &id079
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 5 Tasos 10,738 Bulk Carrier Arrived March 12
   unit: null
@@ -712,8 +633,7 @@ numeric_observations:
   - 5.0
   - 10738.0
   - 12.0
-- &id080
-  section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+- section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
   section_type: linked_pdf
   source_line: 6 Three Star 7,627 Bulk Carrier Arrived January 23
   unit: null
@@ -978,86 +898,615 @@ section_count: 3
 signals:
   numeric_observation_count: 104
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: After what has certainly been a hectic January of negotiations and
+      a late February / early March of unending deliveries with nearly200K of LDT
+      delivered in recent weeks, a period of calm reflection descended across Indian
+      sub-continent ship recycling markets w
+    unit: usd
+    values:
+    - 450.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: It has been a number of weeks since we saw more than one market unit
+      concluded into the sub-continent ship recycling markets as the Baltic's Dry
+      Bulk Sea Freight Index reported further climbs and registered its highest levels
+      since November 2024, further devia
+    unit: pct
+    values:
+    - 2024.0
+    - 1.0
+    - 0.9
+    - 67.2
+  - section: Main
+    section_type: null
+    source_line: For now, the ongoing downtime via the lack of availability of tonnage
+      is providing recyclers in both Bangladesh and Pakistan the perfect opportunity
+      to upgrade their yards up to HKC standards ahead of its entry into force on
+      June 26th, while a majority (if not
+    unit: null
+    values:
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: For Week 11 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-03-17_gms-week-11-splurging-end_img1_346775_317039d8c9b7.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -3.0
+    - -17.0
+    - 11.0
+    - 346775.0
+    - 317039.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 14th, 2025 "Never be afraid to try something new.
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Week 11 Remember, amateurs built the ark. Professionals built the
+      Titanic."
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Volume 270, Issue 1176
+    unit: null
+    values:
+    - 270.0
+    - 1176.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: • 200K LDT. After what has certainly been a hectic January of negotiations
+      an d a late February / early March of
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: unending deliveries with nearly 200K of LDT delivered in recent weeks,
+      a period of calm reflection
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: even well under the now chased after USD 450s/LDT across the board
+      (as confirmed via last week's
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: dithered Alang anchorage and Pakistan's 2nd delivery in 3 months
+      this year.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: and registered its highest levels since November 2024, further deviating
+      dry bulk & container freight
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Dt hat much worse. Even oil prices continue to see jitters after
+      they declined another 1% in early-week
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: • Downtime for HKC. trading and rose back 0.9% by Friday, as oil
+      closed the week out at $67.20 / Ton, all in the face of an
+    unit: pct
+    values:
+    - 0.9
+    - 67.2
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: / view the Weekly of its entry into force on June 26th, while a majority
+      (if not all) Alang yards are already HKC
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 11 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: As the price & tonnage leaders in the ship recycling sector across
+      a majority of Q1 2025, Bangladesh
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: frustrations even though local anchorage continues to report healthy
+      arrivals of nearly 72K LDT
+    unit: null
+    values:
+    - 72.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: via 7 ships (including another LNG Tanker), that are either idling
+      at the nations waterfront or have
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: the demand that has been resurfacing of late, as now-aggressive tier
+      2 recyclers become keen to fill
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: their plots with tonnage at these newly cemented and comfortable
+      levels in the USD 450s/Ton.
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Far East over the last 2 quarters, on the back of steel late prices
+      that ended another week flatlined
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: at region USD 529/Ton. Notwithstanding, while the economy and the
+      Bangladeshi Taka are doing
+    unit: usd
+    values:
+    - 529.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: head in the wrong direction as the Taka weakens another 5 basis points
+      to end the week at BDT
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 121.42 against the U.S. Dollar.
+    unit: null
+    values:
+    - 121.42
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 0.5% in February 2025 whilst still at a high 9.32%, oil and energy
+      costs are skyrocketing, and
+    unit: pct
+    values:
+    - 0.5
+    - 2025.0
+    - 9.32
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: far) was confirmed as the RUN FU 6 (6,297 LDT) fetched a weakened
+      USD 435/LT LDT with a
+    unit: usd
+    values:
+    - 6.0
+    - 6297.0
+    - 435.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: RUN FU 6 Bulker 6,297 USD 435/LT LDT
+    unit: usd
+    values:
+    - 6.0
+    - 6297.0
+    - 435.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: steel levels fell nearly another Dollar, down to USD 443/Ton and
+      well below the current vessel pricing
+    unit: usd
+    values:
+    - 443.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: strategy out of India, and the U.S. Dollar too made a (meaningless)
+      12 basis point jump this week, but
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: still ending the week at an astronomical level just above Rs. 87
+      (at the time of writing). 4%
+    unit: pct
+    values:
+    - 87.0
+    - 4.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: competing ship recycling neighbors), with retail inflation finally
+      slipping below the 4% mark in
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Gadani recyclers have been struggling at the bidding tables since
+      Q3 2024 since when, they have
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Unstable economy. only managed to secure 2 units thus far. Unluckily
+      for Gadani buyers and in contrast to what is
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: both the Pakistani Rupee that firmed 24 basis points to end the week
+      at PKR 279.64 and local steel
+    unit: null
+    values:
+    - 24.0
+    - 279.64
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: stabilize domestic spending, despite national inflation bouncing
+      around the 3% market. Even the
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: them watch India slide right on by and invariably slip Pakistan into
+      2nd place on the ship recycling
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: market rankings, in effect, helping them negotiate and even have
+      2 vessels with delivered locally
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: with another 2 recent fixtures reportedly having navigational charts
+      for Pakistani waters on
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Yet, it seems unlikely that these facilities will be ready to operate
+      before the June 26th deadline and
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: along Aliaga's pricing trajectory, having declined other 18 basis
+      points and ending the week at nearly
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: TRY 36.60 against the U.S. Dollar, all while Indian / Pakistani offerings
+      remain nearly USD 150/Ton
+    unit: usd
+    values:
+    - 36.6
+    - 150.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: For Week 11 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Stable 435 / LDT 455 / LDT 465 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 435.0
+    - 455.0
+    - 465.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 2024 FUN FACTS
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line:  Ecuador's Ancient City (January 11th, 2024) - The year started
+      with the discovery of an ancient complex in the Ecuador
+    unit: null
+    values:
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Amazon. Experts believe it would have had a larger population than
+      the Aztecs or Mayans. As many as 15,000 or even 30,000
+    unit: null
+    values:
+    - 15000.0
+    - 30000.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line:  Ginny's Last Mars Flight - (January 18th, 2024) - Ingenuity, or
+      ‘Ginny,' is a NASA helicopter that became the first
+    unit: null
+    values:
+    - 18.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: lasted 72 flights in three years. However, Ginny landed badly on
+      January 18th this year and couldn't launch again. NASA
+    unit: null
+    values:
+    - 72.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line:  Japan Becomes Fifth Country to Land on the Moon (January 20th,
+      2024) - Japan became the fifth country to land a
+    unit: null
+    values:
+    - 20.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: spacecraft on the moon with its SLIM craft in January 2024. The Smart
+      Lander for Investigating Moon (SLIM) is an
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Jamat-ul-Wida March 13 - March 18
+    unit: null
+    values:
+    - 28.0
+    - 13.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - Gudi Padwa March 27 - April 05
+    unit: null
+    values:
+    - 30.0
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence & National Day March 14 - March 17
+    unit: null
+    values:
+    - 26.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Shab-e-Qadr March 29 - April 01
+    unit: null
+    values:
+    - 28.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - April 02 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until April March 23 - Pakistan Day March 29 - April
+      03 - Ramzan
+    unit: null
+    values:
+    - 23.0
+    - 29.0
+    - 3.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 14, 2025
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 1 AK Hamburg 2,616 Oil Tanker Delivered March 11
+    unit: null
+    values:
+    - 1.0
+    - 2616.0
+    - 11.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hesen M 2,240 Gen Cargo Arrived March 08
+    unit: null
+    values:
+    - 2.0
+    - 2240.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 4,856
+    unit: null
+    values:
+    - 4856.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 14, 2025
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Banglar Jyoti 3,700 Tanker Delivered March 10
+    unit: null
+    values:
+    - 1.0
+    - 3700.0
+    - 10.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Banglar Shourabh 3,700 Tanker Delivered March 10
+    unit: null
+    values:
+    - 2.0
+    - 3700.0
+    - 10.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 3 Best Unity 9,826 Bulk Carrier Arrived March 13
+    unit: null
+    values:
+    - 3.0
+    - 9826.0
+    - 13.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 4 Run Fu 6,978 Bulk Carrier Delivered March 13
+    unit: null
+    values:
+    - 4.0
+    - 6978.0
+    - 13.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 5 Tasos 10,738 Bulk Carrier Arrived March 12
+    unit: null
+    values:
+    - 5.0
+    - 10738.0
+    - 12.0
+  - section: 'Linked asset: 2025-03-17_gms-week-11-splurging-end_ship-recycling-market-insight-week-1_3033b5f6cbdd.pdf'
+    section_type: linked_pdf
+    source_line: 6 Three Star 7,627 Bulk Carrier Arrived January 23
+    unit: null
+    values:
+    - 6.0
+    - 7627.0
+    - 23.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-03-17_gms-week-11-splurging-end.html
 source_stem: 2025-03-17_gms-week-11-splurging-end

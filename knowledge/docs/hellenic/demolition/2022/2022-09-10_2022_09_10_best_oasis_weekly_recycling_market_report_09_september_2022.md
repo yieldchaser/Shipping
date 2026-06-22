@@ -33,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 69
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 10/09/2022
   unit: null
@@ -42,8 +41,7 @@ numeric_observations:
   - 10.0
   - 9.0
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 2 September - 9 September 2022
   unit: null
@@ -51,8 +49,7 @@ numeric_observations:
   - 2.0
   - 9.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -60,8 +57,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -69,8 +65,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Steel demand from China, which accounted for 52% of the global demand
     in 2021, is witnessing a decline as the economy prepares for the combined
@@ -78,8 +73,7 @@ numeric_observations:
   values:
   - 52.0
   - 2021.0
-- &id006
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 79.62 This Week : 94.81 This Week : 228.11 This Week :
     18.24'
@@ -89,8 +83,7 @@ numeric_observations:
   - 94.81
   - 228.11
   - 18.24
-- &id007
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 79.36 Previous Week : 95.02 Previous Week : 218.79
     Previous Week : 18.21'
@@ -100,8 +93,7 @@ numeric_observations:
   - 95.02
   - 218.79
   - 18.21
-- &id008
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.33 % Gained : 0.22 % Lost : 4.08 % Lost : 0.16 %'
   unit: pct
@@ -110,30 +102,26 @@ numeric_observations:
   - 0.22
   - 4.08
   - 0.16
-- &id009
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id010
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Steel prices continue to decline 750
   unit: null
   values:
   - 750.0
-- &id011
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 610 605
   unit: null
   values:
   - 610.0
   - 605.0
-- &id012
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 580 575 570 565
   unit: null
@@ -142,23 +130,20 @@ numeric_observations:
   - 575.0
   - 570.0
   - 565.0
-- &id013
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: finished steel. 250
   unit: null
   values:
   - 250.0
-- &id014
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: about USD 250 million worth of goods imported from the UK if no agreement
     is
   unit: usd
   values:
   - 250.0
-- &id015
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -167,16 +152,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id016
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 500 485
   unit: null
   values:
   - 500.0
   - 485.0
-- &id017
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: rebar are not likely to correct further as inventory depletion is already
     allowing for 455 460
@@ -184,8 +167,7 @@ numeric_observations:
   values:
   - 455.0
   - 460.0
-- &id018
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 7 September to 15 September 2022
   unit: null
@@ -193,8 +175,7 @@ numeric_observations:
   - 7.0
   - 15.0
   - 2022.0
-- &id019
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 24 September to 2 October 2022
   unit: null
@@ -202,8 +183,7 @@ numeric_observations:
   - 24.0
   - 2.0
   - 2022.0
-- &id020
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 7 October to 15 October 2022 0
   unit: null
@@ -211,8 +191,7 @@ numeric_observations:
   - 7.0
   - 15.0
   - 2022.0
-- &id021
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -221,54 +200,47 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id022
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id023
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Offer prices remain stable 750
   unit: null
   values:
   - 750.0
-- &id024
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 620 620
   unit: null
   values:
   - 620.0
   - 620.0
-- &id025
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 590 590
   unit: null
   values:
   - 590.0
   - 590.0
-- &id026
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 575 575
   unit: null
   values:
   - 575.0
   - 575.0
-- &id027
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: on 50% capacity while others having suspended production for few days
     due
   unit: pct
   values:
   - 50.0
-- &id028
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 500 470 500 495
   unit: null
@@ -277,8 +249,7 @@ numeric_observations:
   - 470.0
   - 500.0
   - 495.0
-- &id029
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 9 September to 12 September 2022 200
   unit: null
@@ -287,8 +258,7 @@ numeric_observations:
   - 12.0
   - 2022.0
   - 200.0
-- &id030
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 25 September to 28 September 2022
   unit: null
@@ -296,8 +266,7 @@ numeric_observations:
   - 25.0
   - 28.0
   - 2022.0
-- &id031
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 8 October to 11 October 2022
   unit: null
@@ -305,23 +274,20 @@ numeric_observations:
   - 8.0
   - 11.0
   - 2022.0
-- &id032
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id033
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 610 610
   unit: null
   values:
   - 610.0
   - 610.0
-- &id034
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 590 590 580 580
   unit: null
@@ -330,79 +296,69 @@ numeric_observations:
   - 590.0
   - 580.0
   - 580.0
-- &id035
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: throughout the week as the country continues to suffer an economic
     hit 445
   unit: null
   values:
   - 445.0
-- &id036
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: caused by heavy floods. There's a significant increase in import of
     food items 400
   unit: null
   values:
   - 400.0
-- &id037
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id038
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 270 270
   unit: null
   values:
   - 270.0
   - 270.0
-- &id039
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 260 260
   unit: null
   values:
   - 260.0
   - 260.0
-- &id040
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 250 250
   unit: null
   values:
   - 250.0
   - 250.0
-- &id041
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: to sanctions, they export to Turkey at prices of upto 50% discount
     leading
   unit: pct
   values:
   - 50.0
-- &id042
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: to depreciation in prices and huge losses for Turkish producers and
     the 100
   unit: null
   values:
   - 100.0
-- &id043
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Imported scrap prices have softened by about USD 25/MT and are likely
     to
   unit: tonnage
   values:
   - 25.0
-- &id044
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: by around 20% and by around 50% for industry, putting further upward
     Previous Week This Week
@@ -410,8 +366,7 @@ numeric_observations:
   values:
   - 20.0
   - 50.0
-- &id045
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 400 390 390
   unit: null
@@ -419,8 +374,7 @@ numeric_observations:
   - 400.0
   - 390.0
   - 390.0
-- &id046
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Turkey's annual inflation climbed to a fresh 24-year high of 80.21
     percent in
@@ -428,38 +382,33 @@ numeric_observations:
   values:
   - 24.0
   - 80.21
-- &id047
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: August, a bit below expectations according to official data, after
     the central 300
   unit: null
   values:
   - 300.0
-- &id048
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Beaching Dates 100
   unit: null
   values:
   - 100.0
-- &id049
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id050
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 89.39 This Week : 83.65'
   unit: null
   values:
   - 89.39
   - 83.65
-- &id051
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: '1308 1303 Previous Week : 92.07 Previous Week : 86.16'
   unit: null
@@ -468,8 +417,7 @@ numeric_observations:
   - 1303.0
   - 92.07
   - 86.16
-- &id052
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: '1202 Movement : -2.91 % Movement : -2.91%'
   unit: pct
@@ -477,31 +425,27 @@ numeric_observations:
   - 1202.0
   - -2.91
   - -2.91
-- &id053
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 1116 1125
   unit: null
   values:
   - 1116.0
   - 1125.0
-- &id054
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 1094 1085
   unit: null
   values:
   - 1094.0
   - 1085.0
-- &id055
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id056
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: CHANG SHENG BULKER 9178408 1998 JAPAN 9,824.00 AS-IS SINGAPORE 595.00
   unit: null
@@ -510,8 +454,7 @@ numeric_observations:
   - 1998.0
   - 9824.0
   - 595.0
-- &id057
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: POLAN TANKER 9176761 1999 S. KOREA 12,423.20 AS-IS SINGAPORE 589.00
   unit: null
@@ -520,8 +463,7 @@ numeric_observations:
   - 1999.0
   - 12423.2
   - 589.0
-- &id058
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: BULKER 9218868 2000 JAPAN 21,216.00 AS-IS SINGAPORE 602.50
   unit: null
@@ -530,15 +472,13 @@ numeric_observations:
   - 2000.0
   - 21216.0
   - 602.5
-- &id059
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id060
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -550,8 +490,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id061
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -564,8 +503,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id062
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -573,8 +511,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id063
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -583,8 +520,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id064
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -593,8 +529,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id065
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -603,8 +538,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id066
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -613,8 +547,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id067
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -623,8 +556,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id068
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Work: +81 354 522 405'
   unit: null
@@ -633,8 +565,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id069
-  section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+- section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -654,75 +585,547 @@ section_count: 2
 signals:
   numeric_observation_count: 69
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 10/09/2022
+    unit: null
+    values:
+    - 10.0
+    - 9.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 2 September - 9 September 2022
+    unit: null
+    values:
+    - 2.0
+    - 9.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Steel demand from China, which accounted for 52% of the global demand
+      in 2021, is witnessing a decline as the economy prepares for the combined
+    unit: pct
+    values:
+    - 52.0
+    - 2021.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 79.62 This Week : 94.81 This Week : 228.11 This Week
+      : 18.24'
+    unit: null
+    values:
+    - 79.62
+    - 94.81
+    - 228.11
+    - 18.24
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 79.36 Previous Week : 95.02 Previous Week : 218.79
+      Previous Week : 18.21'
+    unit: null
+    values:
+    - 79.36
+    - 95.02
+    - 218.79
+    - 18.21
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.33 % Gained : 0.22 % Lost : 4.08 % Lost : 0.16 %'
+    unit: pct
+    values:
+    - 0.33
+    - 0.22
+    - 4.08
+    - 0.16
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Steel prices continue to decline 750
+    unit: null
+    values:
+    - 750.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 610 605
+    unit: null
+    values:
+    - 610.0
+    - 605.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 580 575 570 565
+    unit: null
+    values:
+    - 580.0
+    - 575.0
+    - 570.0
+    - 565.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: finished steel. 250
+    unit: null
+    values:
+    - 250.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: about USD 250 million worth of goods imported from the UK if no agreement
+      is
+    unit: usd
+    values:
+    - 250.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 500 485
+    unit: null
+    values:
+    - 500.0
+    - 485.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: rebar are not likely to correct further as inventory depletion is
+      already allowing for 455 460
+    unit: null
+    values:
+    - 455.0
+    - 460.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 7 September to 15 September 2022
+    unit: null
+    values:
+    - 7.0
+    - 15.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 24 September to 2 October 2022
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 7 October to 15 October 2022 0
+    unit: null
+    values:
+    - 7.0
+    - 15.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Offer prices remain stable 750
+    unit: null
+    values:
+    - 750.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 620 620
+    unit: null
+    values:
+    - 620.0
+    - 620.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 590 590
+    unit: null
+    values:
+    - 590.0
+    - 590.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 575 575
+    unit: null
+    values:
+    - 575.0
+    - 575.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: on 50% capacity while others having suspended production for few
+      days due
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 500 470 500 495
+    unit: null
+    values:
+    - 500.0
+    - 470.0
+    - 500.0
+    - 495.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 9 September to 12 September 2022 200
+    unit: null
+    values:
+    - 9.0
+    - 12.0
+    - 2022.0
+    - 200.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 25 September to 28 September 2022
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 8 October to 11 October 2022
+    unit: null
+    values:
+    - 8.0
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 610 610
+    unit: null
+    values:
+    - 610.0
+    - 610.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 590 590 580 580
+    unit: null
+    values:
+    - 590.0
+    - 590.0
+    - 580.0
+    - 580.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: throughout the week as the country continues to suffer an economic
+      hit 445
+    unit: null
+    values:
+    - 445.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: caused by heavy floods. There's a significant increase in import
+      of food items 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 270 270
+    unit: null
+    values:
+    - 270.0
+    - 270.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 260 260
+    unit: null
+    values:
+    - 260.0
+    - 260.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 250 250
+    unit: null
+    values:
+    - 250.0
+    - 250.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: to sanctions, they export to Turkey at prices of upto 50% discount
+      leading
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: to depreciation in prices and huge losses for Turkish producers and
+      the 100
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Imported scrap prices have softened by about USD 25/MT and are likely
+      to
+    unit: tonnage
+    values:
+    - 25.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: by around 20% and by around 50% for industry, putting further upward
+      Previous Week This Week
+    unit: pct
+    values:
+    - 20.0
+    - 50.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 400 390 390
+    unit: null
+    values:
+    - 400.0
+    - 390.0
+    - 390.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Turkey's annual inflation climbed to a fresh 24-year high of 80.21
+      percent in
+    unit: null
+    values:
+    - 24.0
+    - 80.21
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: August, a bit below expectations according to official data, after
+      the central 300
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Beaching Dates 100
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 89.39 This Week : 83.65'
+    unit: null
+    values:
+    - 89.39
+    - 83.65
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: '1308 1303 Previous Week : 92.07 Previous Week : 86.16'
+    unit: null
+    values:
+    - 1308.0
+    - 1303.0
+    - 92.07
+    - 86.16
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: '1202 Movement : -2.91 % Movement : -2.91%'
+    unit: pct
+    values:
+    - 1202.0
+    - -2.91
+    - -2.91
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1116 1125
+    unit: null
+    values:
+    - 1116.0
+    - 1125.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1094 1085
+    unit: null
+    values:
+    - 1094.0
+    - 1085.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: CHANG SHENG BULKER 9178408 1998 JAPAN 9,824.00 AS-IS SINGAPORE 595.00
+    unit: null
+    values:
+    - 9178408.0
+    - 1998.0
+    - 9824.0
+    - 595.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: POLAN TANKER 9176761 1999 S. KOREA 12,423.20 AS-IS SINGAPORE 589.00
+    unit: null
+    values:
+    - 9176761.0
+    - 1999.0
+    - 12423.2
+    - 589.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: BULKER 9218868 2000 JAPAN 21,216.00 AS-IS SINGAPORE 602.50
+    unit: null
+    values:
+    - 9218868.0
+    - 2000.0
+    - 21216.0
+    - 602.5
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Work: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2022-09-10_Weekly-Ship-Recycling-Report_9_September_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-09-10_best-oasis-weekly-recycling-market-report-09-september-2022.html
 source_stem: 2022-09-10_best-oasis-weekly-recycling-market-report-09-september-2022

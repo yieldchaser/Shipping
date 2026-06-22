@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 100
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Firming global freight rates have left the global ship recycling industry
     on life support over the last +5 quarters, whereby not only has wet tonnage almost
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 5.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Smack in the middle is the Indian stock market that suffered sudden
     falls amidst the alarming possibility that PM Modi's BJP party might not bag the
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 272.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 24 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -59,8 +56,7 @@ numeric_observations:
   values:
   - 24.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-06-17_gms-week-24-shaken-not-stirred_img1_47574_2e158bc5f890.jpg'
   unit: null
@@ -73,54 +69,47 @@ numeric_observations:
   - 2.0
   - 58.0
   - 90.0
-- &id005
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: June 14th, 2024
   unit: null
   values:
   - 14.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Week 24
   unit: null
   values:
   - 24.0
-- &id007
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Volume 262, Issue 1138 - John C. Maxwell
   unit: null
   values:
   - 262.0
   - 1138.0
-- &id008
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: • Life Support. last +5 quarters, whereby not only has wet tonnage
     almost completely steered cleared of the
   unit: null
   values:
   - 5.0
-- &id009
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: possibility that PM Modi's BJP party might not bag the votes needed
     to hold on to 272 seat majority
   unit: null
   values:
   - 272.0
-- &id010
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: and view the GMS Turkish ship recycling since January 2023.
   unit: null
   values:
   - 2023.0
-- &id011
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Recycling App! For week 24 of 2024, GMS demo rankings / pricing for
     the week are as below.
@@ -128,8 +117,7 @@ numeric_observations:
   values:
   - 24.0
   - 2024.0
-- &id012
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -138,8 +126,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id013
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 2 India Uncertain 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -148,8 +135,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id014
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -158,8 +144,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id015
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey* Dead 360 / LDT 370 / LDT 380 / LDT
   unit: null
@@ -168,30 +153,26 @@ numeric_observations:
   - 360.0
   - 370.0
   - 380.0
-- &id016
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: '* +10K LDT Units'
   unit: null
   values:
   - 10.0
-- &id017
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 0.03%.
   unit: pct
   values:
   - 0.03
-- &id019
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 117.50, but the Taka also briefly breached past BDT 118.10 early in
     the week, which could
@@ -199,24 +180,21 @@ numeric_observations:
   values:
   - 117.5
   - 118.1
-- &id020
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: from their last trading value of USD 590/Ton - likely on account of
     upcoming Eid holidays
   unit: usd
   values:
   - 590.0
-- &id021
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: bunkers, which have been impacted with FO taxes receiving an approx.
     BDT 8500 (USD
   unit: usd
   values:
   - 8500.0
-- &id022
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 73 / MT bump), LO taxes increasing by approx. BDT 56,000 (USD 478 /
     MT) and DO taxes
@@ -225,61 +203,53 @@ numeric_observations:
   - 73.0
   - 56000.0
   - 478.0
-- &id023
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 1 arrival.
   unit: null
   values:
   - 1.0
-- &id024
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: local arrivals tapering off and only 1 small LDT bulker having arrived
     Chattogram
   unit: null
   values:
   - 1.0
-- &id025
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 'UCKY #...3?'
   unit: null
   values:
   - 3.0
-- &id027
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: where it stands in 5th place today, juIstN shyD ofI JaApa n's GDP and
     having eclipsed all of the
   unit: null
   values:
   - 5.0
-- &id028
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: for hopefully a Lucky 3rd term, as they now share power with a smaller
     alliance of parties
   unit: null
   values:
   - 3.0
-- &id029
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: the minimum 272 seats required to retain a majority in India's Parliament.
   unit: null
   values:
   - 272.0
-- &id030
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: With India's annual budget for FY 2024 - 2025 due to be announced by
     the new
@@ -287,56 +257,49 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id031
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: administration on July 22nd, it will not only be interesting to see
     the performance of the
   unit: null
   values:
   - 22.0
-- &id032
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Modi navigates the complexities of not having a majority as his 3rd
     term begins, and just
   unit: null
   values:
   - 3.0
-- &id033
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Dollar gain against the Indian Rupee, ending another week approaching
     Rs. 83.50, but
   unit: null
   values:
   - 83.5
-- &id034
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: local steel plate prices also saw a healthy drop of about USD 9/Ton
     themselves. While
   unit: usd
   values:
   - 9.0
-- &id035
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: MSC TIA II Container 10,478 USD 570/LT LDT
   unit: usd
   values:
   - 10478.0
   - 570.0
-- &id036
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: nation state via its FY24 - FY25 budget that was announced this week
     - a strategy that is
@@ -344,48 +307,42 @@ numeric_observations:
   values:
   - 4.0
   - 5.0
-- &id038
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: '- January 2021 - 5.65%'
   unit: pct
   values:
   - 2021.0
   - 5.65
-- &id039
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: '- January 2022 - 13.00%'
   unit: pct
   values:
   - 2022.0
   - 13.0
-- &id040
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: '- January 2023 - 27.60%'
   unit: pct
   values:
   - 2023.0
   - 27.6
-- &id041
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: o April 2023 - Almost 40%
   unit: pct
   values:
   - 2023.0
   - 40.0
-- &id042
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: '- January 2024 - 28.34%'
   unit: pct
   values:
   - 2024.0
   - 28.34
-- &id043
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 8-fold I nflation. o May 2024 - 11%
   unit: pct
@@ -393,16 +350,14 @@ numeric_observations:
   - 8.0
   - 2024.0
   - 11.0
-- &id044
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: indicators on the performance of Pakistan's ship-recycling sector (especially
     over the last 4
   unit: null
   values:
   - 4.0
-- &id045
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: April of 2023 whereby Pakistan suffered rabid inflation that was nearly
     8-fold its original
@@ -410,8 +365,7 @@ numeric_observations:
   values:
   - 2023.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: (since January 2021) and that too in Ia NspaDn oIf Aon ly 9 short quarters,
     it is clear that the
@@ -419,32 +373,28 @@ numeric_observations:
   values:
   - 2021.0
   - 9.0
-- &id047
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: clearly eased its inflationary pains down to 11% by COB May 2024.
   unit: pct
   values:
   - 11.0
   - 2024.0
-- &id048
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee that firmed by about 0.6% against the U.S. Dollar as
     it ended the week at
   unit: pct
   values:
   - 0.6
-- &id049
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: PKR 279.97, local steel plate prices that remain flatlined at an extremely
     comfortable USD
   unit: usd
   values:
   - 279.97
-- &id050
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 706/Ton, and a healthy 20 vessels (nearly 150K LDT) already delivered
     to Gadani Recyclers
@@ -453,39 +403,34 @@ numeric_observations:
   - 706.0
   - 20.0
   - 150.0
-- &id051
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id054
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line:  6:30 is the best time on a clock, hands down.
   unit: null
   values:
   - 6.0
   - 30.0
-- &id055
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
   unit: null
@@ -494,8 +439,7 @@ numeric_observations:
   - 18.0
   - 19.0
   - 28.0
-- &id056
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 17 - Ashura July 02 - July 11
   unit: null
@@ -503,16 +447,14 @@ numeric_observations:
   - 17.0
   - 2.0
   - 11.0
-- &id057
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 19 - July 27
   unit: null
   values:
   - 19.0
   - 27.0
-- &id058
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Eid-Ul-Azha June 22 - June 25
   unit: null
@@ -521,8 +463,7 @@ numeric_observations:
   - 18.0
   - 22.0
   - 25.0
-- &id059
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 17 - Ashura July 05 - July 08
   unit: null
@@ -530,16 +471,14 @@ numeric_observations:
   - 17.0
   - 5.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 21 - July 24
   unit: null
   values:
   - 21.0
   - 24.0
-- &id061
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: No holidays in July June 17 - June 19 - Eid-Ul-Azha June 15 - June
     19 - Kurban Bayrami
@@ -549,8 +488,7 @@ numeric_observations:
   - 19.0
   - 15.0
   - 19.0
-- &id062
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 16 & 17 - Ashura July 01 - Bank Holiday
   unit: null
@@ -558,31 +496,27 @@ numeric_observations:
   - 16.0
   - 17.0
   - 1.0
-- &id063
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: July 15 - Democracy & National
   unit: null
   values:
   - 15.0
-- &id064
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id065
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 14, 2024
   unit: null
   values:
   - 14.0
   - 2024.0
-- &id066
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 1 Balyuzek 2,630 Reefer Arrived June 07
   unit: null
@@ -590,8 +524,7 @@ numeric_observations:
   - 1.0
   - 2630.0
   - 7.0
-- &id067
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 2 Bord 5,723 Container Beached June 07
   unit: null
@@ -599,8 +532,7 @@ numeric_observations:
   - 2.0
   - 5723.0
   - 7.0
-- &id068
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 3 IDM Doodle 4,303 General Cargo Arrived June 12
   unit: null
@@ -608,8 +540,7 @@ numeric_observations:
   - 3.0
   - 4303.0
   - 12.0
-- &id069
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 4 Nezha 1,571 General Cargo Delivered June 11
   unit: null
@@ -617,8 +548,7 @@ numeric_observations:
   - 4.0
   - 1571.0
   - 11.0
-- &id070
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 5 Professor B 5,121 Container Arrived June 14
   unit: null
@@ -626,8 +556,7 @@ numeric_observations:
   - 5.0
   - 5121.0
   - 14.0
-- &id071
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 6 Stream 9,147 Reefer Delivered June 07
   unit: null
@@ -635,8 +564,7 @@ numeric_observations:
   - 6.0
   - 9147.0
   - 7.0
-- &id072
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 7 United ID 7,173 Bulk Carrier Delivered June 12
   unit: null
@@ -644,8 +572,7 @@ numeric_observations:
   - 7.0
   - 7173.0
   - 12.0
-- &id073
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 8 Victor Gavrilov 5,962 Fishing Vessel Arrived June 13
   unit: null
@@ -653,23 +580,20 @@ numeric_observations:
   - 8.0
   - 5962.0
   - 13.0
-- &id074
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 41,630
   unit: null
   values:
   - 41630.0
-- &id075
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 14, 2024
   unit: null
   values:
   - 14.0
   - 2024.0
-- &id076
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 1 Hai Shun Feng 8 3,402 MPP / Container Delivered June 09
   unit: null
@@ -678,8 +602,7 @@ numeric_observations:
   - 8.0
   - 3402.0
   - 9.0
-- &id077
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 2 Xin Hao Jiang 206 3,328 Bulk Carrier Arrived June 08
   unit: null
@@ -688,8 +611,7 @@ numeric_observations:
   - 206.0
   - 3328.0
   - 8.0
-- &id078
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 3 Yua 4,476 Container Delivered June 10
   unit: null
@@ -697,8 +619,7 @@ numeric_observations:
   - 3.0
   - 4476.0
   - 10.0
-- &id079
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: 4 Zhong Hong Da 1 3,981 Container Delivered June 14
   unit: null
@@ -707,8 +628,7 @@ numeric_observations:
   - 1.0
   - 3981.0
   - 14.0
-- &id080
-  section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+- section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 15,188
   unit: null
@@ -932,86 +852,611 @@ section_count: 3
 signals:
   numeric_observation_count: 100
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Firming global freight rates have left the global ship recycling
+      industry on life support over the last +5 quarters, whereby not only has wet
+      tonnage almost completely steered cleared of the bidding tables (for now), but
+      firming dry rates are forecasted to fur
+    unit: null
+    values:
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: Smack in the middle is the Indian stock market that suffered sudden
+      falls amidst the alarming possibility that PM Modi's BJP party might not bag
+      the votes needed to hold on to 272 seat majority in the Parliament in order
+      to maintain unfettered control over the
+    unit: null
+    values:
+    - 272.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: For week 24 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-06-17_gms-week-24-shaken-not-stirred_img1_47574_2e158bc5f890.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -6.0
+    - -17.0
+    - 24.0
+    - 47574.0
+    - 2.0
+    - 58.0
+    - 90.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: June 14th, 2024
+    unit: null
+    values:
+    - 14.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Week 24
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 262, Issue 1138 - John C. Maxwell
+    unit: null
+    values:
+    - 262.0
+    - 1138.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: • Life Support. last +5 quarters, whereby not only has wet tonnage
+      almost completely steered cleared of the
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: possibility that PM Modi's BJP party might not bag the votes needed
+      to hold on to 272 seat majority
+    unit: null
+    values:
+    - 272.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: and view the GMS Turkish ship recycling since January 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Recycling App! For week 24 of 2024, GMS demo rankings / pricing for
+      the week are as below.
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Uncertain 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey* Dead 360 / LDT 370 / LDT 380 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 360.0
+    - 370.0
+    - 380.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: '* +10K LDT Units'
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 0.03%.
+    unit: pct
+    values:
+    - 0.03
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 117.50, but the Taka also briefly breached past BDT 118.10 early
+      in the week, which could
+    unit: null
+    values:
+    - 117.5
+    - 118.1
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: from their last trading value of USD 590/Ton - likely on account
+      of upcoming Eid holidays
+    unit: usd
+    values:
+    - 590.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: bunkers, which have been impacted with FO taxes receiving an approx.
+      BDT 8500 (USD
+    unit: usd
+    values:
+    - 8500.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 73 / MT bump), LO taxes increasing by approx. BDT 56,000 (USD 478
+      / MT) and DO taxes
+    unit: tonnage
+    values:
+    - 73.0
+    - 56000.0
+    - 478.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 arrival.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: local arrivals tapering off and only 1 small LDT bulker having arrived
+      Chattogram
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 'UCKY #...3?'
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: where it stands in 5th place today, juIstN shyD ofI JaApa n's GDP
+      and having eclipsed all of the
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: for hopefully a Lucky 3rd term, as they now share power with a smaller
+      alliance of parties
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: the minimum 272 seats required to retain a majority in India's Parliament.
+    unit: null
+    values:
+    - 272.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: With India's annual budget for FY 2024 - 2025 due to be announced
+      by the new
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: administration on July 22nd, it will not only be interesting to see
+      the performance of the
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Modi navigates the complexities of not having a majority as his 3rd
+      term begins, and just
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Dollar gain against the Indian Rupee, ending another week approaching
+      Rs. 83.50, but
+    unit: null
+    values:
+    - 83.5
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: local steel plate prices also saw a healthy drop of about USD 9/Ton
+      themselves. While
+    unit: usd
+    values:
+    - 9.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: MSC TIA II Container 10,478 USD 570/LT LDT
+    unit: usd
+    values:
+    - 10478.0
+    - 570.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: nation state via its FY24 - FY25 budget that was announced this week
+      - a strategy that is
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: '- January 2021 - 5.65%'
+    unit: pct
+    values:
+    - 2021.0
+    - 5.65
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: '- January 2022 - 13.00%'
+    unit: pct
+    values:
+    - 2022.0
+    - 13.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: '- January 2023 - 27.60%'
+    unit: pct
+    values:
+    - 2023.0
+    - 27.6
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: o April 2023 - Almost 40%
+    unit: pct
+    values:
+    - 2023.0
+    - 40.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: '- January 2024 - 28.34%'
+    unit: pct
+    values:
+    - 2024.0
+    - 28.34
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 8-fold I nflation. o May 2024 - 11%
+    unit: pct
+    values:
+    - 8.0
+    - 2024.0
+    - 11.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: indicators on the performance of Pakistan's ship-recycling sector
+      (especially over the last 4
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: April of 2023 whereby Pakistan suffered rabid inflation that was
+      nearly 8-fold its original
+    unit: null
+    values:
+    - 2023.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: (since January 2021) and that too in Ia NspaDn oIf Aon ly 9 short
+      quarters, it is clear that the
+    unit: null
+    values:
+    - 2021.0
+    - 9.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: clearly eased its inflationary pains down to 11% by COB May 2024.
+    unit: pct
+    values:
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee that firmed by about 0.6% against the U.S. Dollar
+      as it ended the week at
+    unit: pct
+    values:
+    - 0.6
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: PKR 279.97, local steel plate prices that remain flatlined at an
+      extremely comfortable USD
+    unit: usd
+    values:
+    - 279.97
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 706/Ton, and a healthy 20 vessels (nearly 150K LDT) already delivered
+      to Gadani Recyclers
+    unit: null
+    values:
+    - 706.0
+    - 20.0
+    - 150.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line:  6:30 is the best time on a clock, hands down.
+    unit: null
+    values:
+    - 6.0
+    - 30.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 19.0
+    - 28.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 17 - Ashura July 02 - July 11
+    unit: null
+    values:
+    - 17.0
+    - 2.0
+    - 11.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 19 - July 27
+    unit: null
+    values:
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Eid-Ul-Azha June 22 - June 25
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 17 - Ashura July 05 - July 08
+    unit: null
+    values:
+    - 17.0
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 21 - July 24
+    unit: null
+    values:
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in July June 17 - June 19 - Eid-Ul-Azha June 15 - June
+      19 - Kurban Bayrami
+    unit: null
+    values:
+    - 17.0
+    - 19.0
+    - 15.0
+    - 19.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 16 & 17 - Ashura July 01 - Bank Holiday
+    unit: null
+    values:
+    - 16.0
+    - 17.0
+    - 1.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: July 15 - Democracy & National
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 14, 2024
+    unit: null
+    values:
+    - 14.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Balyuzek 2,630 Reefer Arrived June 07
+    unit: null
+    values:
+    - 1.0
+    - 2630.0
+    - 7.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bord 5,723 Container Beached June 07
+    unit: null
+    values:
+    - 2.0
+    - 5723.0
+    - 7.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 IDM Doodle 4,303 General Cargo Arrived June 12
+    unit: null
+    values:
+    - 3.0
+    - 4303.0
+    - 12.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nezha 1,571 General Cargo Delivered June 11
+    unit: null
+    values:
+    - 4.0
+    - 1571.0
+    - 11.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 5 Professor B 5,121 Container Arrived June 14
+    unit: null
+    values:
+    - 5.0
+    - 5121.0
+    - 14.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 6 Stream 9,147 Reefer Delivered June 07
+    unit: null
+    values:
+    - 6.0
+    - 9147.0
+    - 7.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 7 United ID 7,173 Bulk Carrier Delivered June 12
+    unit: null
+    values:
+    - 7.0
+    - 7173.0
+    - 12.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 8 Victor Gavrilov 5,962 Fishing Vessel Arrived June 13
+    unit: null
+    values:
+    - 8.0
+    - 5962.0
+    - 13.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 41,630
+    unit: null
+    values:
+    - 41630.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 14, 2024
+    unit: null
+    values:
+    - 14.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Hai Shun Feng 8 3,402 MPP / Container Delivered June 09
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 3402.0
+    - 9.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Xin Hao Jiang 206 3,328 Bulk Carrier Arrived June 08
+    unit: null
+    values:
+    - 2.0
+    - 206.0
+    - 3328.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Yua 4,476 Container Delivered June 10
+    unit: null
+    values:
+    - 3.0
+    - 4476.0
+    - 10.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Zhong Hong Da 1 3,981 Container Delivered June 14
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 3981.0
+    - 14.0
+  - section: 'Linked asset: 2024-06-17_gms-week-24-shaken-not-stirred_ship-recycling-market-insight-week-2_5287f19d81f6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 15,188
+    unit: null
+    values:
+    - 15188.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-06-17_gms-week-24-shaken-not-stirred.html
 source_stem: 2024-06-17_gms-week-24-shaken-not-stirred

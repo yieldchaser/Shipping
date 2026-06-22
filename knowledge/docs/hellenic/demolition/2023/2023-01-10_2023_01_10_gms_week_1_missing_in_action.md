@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 115
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we reflect on the year gone by and look forward to a busier and
     healthier 2023 for the various recycling destinations, 2022 has been the lowest
@@ -39,8 +38,7 @@ numeric_observations:
   values:
   - 2023.0
   - 2022.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'All freight / dry sectors started to fly simultaneously at various
     points during 2022 and even the wet / tanker markets started rallying thereafter,
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 2022.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Compared to previous years, a much smaller number of vessels have been
     beached in India during 2022, and it is a similar story in Pakistan, Bangladesh,
@@ -59,8 +56,7 @@ numeric_observations:
   unit: null
   values:
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For the time being, the only sub-continent market of any reliability
     remains India, and whilst the supply of vessels remains mercifully low, prices
@@ -69,8 +65,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Unsurprisingly, 2023 seemed to have kicked off well in Turkey as well,
     as steel plate prices (both import and local steel) have reported noteworthy gains
@@ -81,8 +76,7 @@ numeric_observations:
   - 2023.0
   - 40.0
   - 300.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, in order for levels to maintain their present buoyancy (bearing
     in mind the decade average on scrap prices of around USD 350/LDT), we will need
@@ -91,8 +85,7 @@ numeric_observations:
   unit: usd
   values:
   - 350.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 1 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -100,8 +93,7 @@ numeric_observations:
   values:
   - 1.0
   - 2023.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-01-10_gms-week-1-missing-in-action_img1_9120238_c2665d4f56e6.jpg'
   unit: null
@@ -113,16 +105,14 @@ numeric_observations:
   - 9120238.0
   - 665.0
   - 6.0
-- &id009
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 6th, 2023 "Not having the best situation,
   unit: null
   values:
   - 6.0
   - 2023.0
-- &id010
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Volume 246, Issue 1064 but seeing the best in your situation is the
     key to happiness."
@@ -130,93 +120,81 @@ numeric_observations:
   values:
   - 246.0
   - 1064.0
-- &id011
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Week 1
   unit: null
   values:
   - 1.0
-- &id012
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: • Lowest supply. As we reflect on the year gone by and look forward
     to a busier and healthier 2023 for the various
   unit: null
   values:
   - 2023.0
-- &id013
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: recycling destinations, 2022 has been the lowest year for more than
     a decade across all ship
   unit: null
   values:
   - 2022.0
-- &id014
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: • Freight flys. All freight / dry sectors started to fly simultaneously
     at various points during 2022 and even
   unit: null
   values:
   - 2022.0
-- &id015
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: from these segments that we can anticipate seeing a majority of the
     recycling tonnage in 2023.
   unit: null
   values:
   - 2023.0
-- &id016
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: during 2022, and it is a similar story in Pakistan, Bangladesh, and
     even Turkey, where local
   unit: null
   values:
   - 2022.0
-- &id017
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: up in 2023.
   unit: null
   values:
   - 2023.0
-- &id018
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Unsurprisingly, 2023 seemed to have kicked off well in Turkey as well,
     as steel plate prices
   unit: null
   values:
   - 2023.0
-- &id019
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: GMS Recycling App resulting in post-New Year prices jumping by nearly
     USD 40/MT, finally breaching USD
   unit: tonnage
   values:
   - 40.0
-- &id020
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 300/MT - certainly an impressive return to form.
   unit: tonnage
   values:
   - 300.0
-- &id021
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: average on scrap prices of around USD 350/LDT), we will need each market
     to be firing on all
   unit: usd
   values:
   - 350.0
-- &id022
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: For week 1 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -224,8 +202,7 @@ numeric_observations:
   values:
   - 1.0
   - 2023.0
-- &id023
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 1 India Stable 520 / LDT 530 / LDT 540 / LDT
   unit: null
@@ -234,8 +211,7 @@ numeric_observations:
   - 520.0
   - 530.0
   - 540.0
-- &id024
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 510 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -244,8 +220,7 @@ numeric_observations:
   - 510.0
   - 520.0
   - 530.0
-- &id025
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
   unit: null
@@ -254,8 +229,7 @@ numeric_observations:
   - 500.0
   - 510.0
   - 520.0
-- &id026
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -264,40 +238,35 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id027
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: As such, it has been an extremely quiet end to 2022 for new vessels
     in Chattogram. Even
   unit: null
   values:
   - 2022.0
-- &id029
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: The U SD 1 million limitation on fresh L/Cs has resulted in a bevy
     of local Recyclers
   unit: null
   values:
   - 1.0
-- &id030
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Fundamentals heading into 2023 aren't too promising either, with the
     Taka nearly hitting
   unit: null
   values:
   - 2023.0
-- &id031
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: BDT 104 against the U.S. Dollar, whilst local steel plate prices fell
     a marginal USD 5/MT
@@ -305,93 +274,81 @@ numeric_observations:
   values:
   - 104.0
   - 5.0
-- &id032
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Fundamentals remain shaky as ever as the Rupee continues to wobble
     around the Rs. 82.7X
   unit: null
   values:
   - 82.7
-- &id034
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: an overall USD 5/Ton improvement.
   unit: usd
   values:
   - 5.0
-- &id035
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: expected to be a far more dynamic market in Alang for 2023.
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Gadani Buyers empty handed once again, after what has been a dire 2022
     of declines,
   unit: null
   values:
   - 2022.0
-- &id038
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: week, while the PKR continues to slip into the abyss at it approaches
     PKR 227 against the
   unit: null
   values:
   - 227.0
-- &id039
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 023 SIGNS!!!
   unit: null
   values:
   - 23.0
-- &id041
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Despite the Turkish Lira dancing around a record TRY 18.8X against
     the U.S. Dollar, the
   unit: null
   values:
   - 18.8
-- &id042
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Turkish market seems to be the only market that started 2023 with a
     bang as local steel
   unit: null
   values:
   - 2023.0
-- &id043
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: plate prices climbed over USD 40/MT and nearly USD 25/Ton on local
     steel plate prices,
@@ -399,40 +356,35 @@ numeric_observations:
   values:
   - 40.0
   - 25.0
-- &id044
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: summer 2022, have levels finally hit USD 300/MT once again.
   unit: tonnage
   values:
   - 2022.0
   - 300.0
-- &id045
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: With sub-continent levels still slipping to find their footing and
     with this most recent jump USD 300/MT.
   unit: tonnage
   values:
   - 300.0
-- &id046
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: For now, however, this market seems like it is gearing up once again
     for a busy 2023.
   unit: null
   values:
   - 2023.0
-- &id047
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 04 - January 11
   unit: null
@@ -440,8 +392,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 11.0
-- &id049
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 19 - January 27
   unit: null
@@ -449,8 +400,7 @@ numeric_observations:
   - 26.0
   - 19.0
   - 27.0
-- &id050
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 01 - Bank Holiday January 07 - January 10
   unit: null
@@ -458,16 +408,14 @@ numeric_observations:
   - 1.0
   - 7.0
   - 10.0
-- &id051
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 22 - January 25
   unit: null
   values:
   - 22.0
   - 25.0
-- &id052
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 01 - 02 - New Year's Day January 01 - Bank Holiday January
     01 - New Year's Day
@@ -477,32 +425,28 @@ numeric_observations:
   - 2.0
   - 1.0
   - 1.0
-- &id053
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: January 21 - 27 - Spring Festival
   unit: null
   values:
   - 21.0
   - 27.0
-- &id054
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id056
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 1 Akinada Bridge 24,294 Bulk Carrier Arrived January 05
   unit: null
@@ -510,8 +454,7 @@ numeric_observations:
   - 1.0
   - 24294.0
   - 5.0
-- &id057
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 2 Cape Osprey 21,277 Bulk Carrier Arrived January 03
   unit: null
@@ -519,8 +462,7 @@ numeric_observations:
   - 2.0
   - 21277.0
   - 3.0
-- &id058
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 3 Chun Ying No. 777 581 Fishing Vessel Beached January 06
   unit: null
@@ -529,8 +471,7 @@ numeric_observations:
   - 777.0
   - 581.0
   - 6.0
-- &id059
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 4 Nix - 7 2,705 LPG Arrived January 05
   unit: null
@@ -539,23 +480,20 @@ numeric_observations:
   - 7.0
   - 2705.0
   - 5.0
-- &id060
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 48,857
   unit: null
   values:
   - 48857.0
-- &id061
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id062
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 1 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -563,8 +501,7 @@ numeric_observations:
   - 1.0
   - 15672.0
   - 22.0
-- &id063
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 2 Bhum 5,104 Container Arrived December 21
   unit: null
@@ -572,8 +509,7 @@ numeric_observations:
   - 2.0
   - 5104.0
   - 21.0
-- &id064
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 3 Chang Fa Hai 10,072 Bulk Carrier Beached January 06
   unit: null
@@ -581,8 +517,7 @@ numeric_observations:
   - 3.0
   - 10072.0
   - 6.0
-- &id065
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 4 De Xiang 1,820 Tanker Arrived January 06
   unit: null
@@ -590,8 +525,7 @@ numeric_observations:
   - 4.0
   - 1820.0
   - 6.0
-- &id066
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 5 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -599,8 +533,7 @@ numeric_observations:
   - 5.0
   - 16885.0
   - 28.0
-- &id067
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 6 Hai Feng 698 7,240 Reefer Arrived December 21
   unit: null
@@ -609,8 +542,7 @@ numeric_observations:
   - 698.0
   - 7240.0
   - 21.0
-- &id068
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 7 Hong Fa 2,172 Tanker Arrived December 31
   unit: null
@@ -618,8 +550,7 @@ numeric_observations:
   - 7.0
   - 2172.0
   - 31.0
-- &id069
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 8 Joint Luck 2,063 Tanker Arrived December 24
   unit: null
@@ -627,8 +558,7 @@ numeric_observations:
   - 8.0
   - 2063.0
   - 24.0
-- &id070
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 9 Lumo 7,987 Bulk Carrier Arrived January 04
   unit: null
@@ -636,8 +566,7 @@ numeric_observations:
   - 9.0
   - 7987.0
   - 4.0
-- &id071
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 10 Shun Rong 880 Tanker Beached January 03
   unit: null
@@ -645,8 +574,7 @@ numeric_observations:
   - 10.0
   - 880.0
   - 3.0
-- &id072
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 11 Sun Shun 1,207 Tanker Arrived January 06
   unit: null
@@ -654,8 +582,7 @@ numeric_observations:
   - 11.0
   - 1207.0
   - 6.0
-- &id073
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 12 Sylt 2,002 Tanker Beached January 03
   unit: null
@@ -663,8 +590,7 @@ numeric_observations:
   - 12.0
   - 2002.0
   - 3.0
-- &id074
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 13 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -673,8 +599,7 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id075
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 14 Xiang Shun 1,314 Tanker Arrived January 06
   unit: null
@@ -682,23 +607,20 @@ numeric_observations:
   - 14.0
   - 1314.0
   - 6.0
-- &id076
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 75,392
   unit: null
   values:
   - 75392.0
-- &id077
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id078
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 1 Jamila 7,700 Bulk Carrier Arrived December 28
   unit: null
@@ -706,8 +628,7 @@ numeric_observations:
   - 1.0
   - 7700.0
   - 28.0
-- &id079
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 2 Lila Kyoto 21,221 Bulk Carrier Beached January 07
   unit: null
@@ -715,8 +636,7 @@ numeric_observations:
   - 2.0
   - 21221.0
   - 7.0
-- &id080
-  section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+- section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
   section_type: linked_pdf
   source_line: 3 Murad Bay 6,729 Bulk Carrier Arrived December 27
   unit: null
@@ -1024,86 +944,621 @@ section_count: 3
 signals:
   numeric_observation_count: 115
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we reflect on the year gone by and look forward to a busier and
+      healthier 2023 for the various recycling destinations, 2022 has been the lowest
+      year for more than a decade across all ship recycling locations.
+    unit: null
+    values:
+    - 2023.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'All freight / dry sectors started to fly simultaneously at various
+      points during 2022 and even the wet / tanker markets started rallying thereafter,
+      and with stunning results. However, Container and Dry Bulk markets finally started
+      to cool off towards the end '
+    unit: null
+    values:
+    - 2022.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: Compared to previous years, a much smaller number of vessels have
+      been beached in India during 2022, and it is a similar story in Pakistan, Bangladesh,
+      and even Turkey, where local Recyclers have been likewise starved of tonnage.
+    unit: null
+    values:
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: For the time being, the only sub-continent market of any reliability
+      remains India, and whilst the supply of vessels remains mercifully low, prices
+      are managing to hold up somewhat in Alang, while the number of small LDT arrivals
+      at Chattogram's waterfront has
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: Unsurprisingly, 2023 seemed to have kicked off well in Turkey as
+      well, as steel plate prices (both import and local steel) have reported noteworthy
+      gains over the last couple of weeks, resulting in post-New Year prices jumping
+      by nearly USD 40/MT, finally brea
+    unit: tonnage
+    values:
+    - 2023.0
+    - 40.0
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: Overall, in order for levels to maintain their present buoyancy (bearing
+      in mind the decade average on scrap prices of around USD 350/LDT), we will need
+      each market to be firing on all cylinders this year to absorb the expected influx
+      of vessels that will sure
+    unit: usd
+    values:
+    - 350.0
+  - section: Main
+    section_type: null
+    source_line: For week 1 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-01-10_gms-week-1-missing-in-action_img1_9120238_c2665d4f56e6.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -1.0
+    - -10.0
+    - 1.0
+    - 9120238.0
+    - 665.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 6th, 2023 "Not having the best situation,
+    unit: null
+    values:
+    - 6.0
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Volume 246, Issue 1064 but seeing the best in your situation is the
+      key to happiness."
+    unit: null
+    values:
+    - 246.0
+    - 1064.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Week 1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: • Lowest supply. As we reflect on the year gone by and look forward
+      to a busier and healthier 2023 for the various
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: recycling destinations, 2022 has been the lowest year for more than
+      a decade across all ship
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: • Freight flys. All freight / dry sectors started to fly simultaneously
+      at various points during 2022 and even
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: from these segments that we can anticipate seeing a majority of the
+      recycling tonnage in 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: during 2022, and it is a similar story in Pakistan, Bangladesh, and
+      even Turkey, where local
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: up in 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Unsurprisingly, 2023 seemed to have kicked off well in Turkey as
+      well, as steel plate prices
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: GMS Recycling App resulting in post-New Year prices jumping by nearly
+      USD 40/MT, finally breaching USD
+    unit: tonnage
+    values:
+    - 40.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 300/MT - certainly an impressive return to form.
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: average on scrap prices of around USD 350/LDT), we will need each
+      market to be firing on all
+    unit: usd
+    values:
+    - 350.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: For week 1 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Stable 520 / LDT 530 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 530.0
+    - 540.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 510 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 510.0
+    - 520.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: As such, it has been an extremely quiet end to 2022 for new vessels
+      in Chattogram. Even
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: The U SD 1 million limitation on fresh L/Cs has resulted in a bevy
+      of local Recyclers
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Fundamentals heading into 2023 aren't too promising either, with
+      the Taka nearly hitting
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: BDT 104 against the U.S. Dollar, whilst local steel plate prices
+      fell a marginal USD 5/MT
+    unit: tonnage
+    values:
+    - 104.0
+    - 5.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Fundamentals remain shaky as ever as the Rupee continues to wobble
+      around the Rs. 82.7X
+    unit: null
+    values:
+    - 82.7
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: an overall USD 5/Ton improvement.
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: expected to be a far more dynamic market in Alang for 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Gadani Buyers empty handed once again, after what has been a dire
+      2022 of declines,
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: week, while the PKR continues to slip into the abyss at it approaches
+      PKR 227 against the
+    unit: null
+    values:
+    - 227.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 023 SIGNS!!!
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Despite the Turkish Lira dancing around a record TRY 18.8X against
+      the U.S. Dollar, the
+    unit: null
+    values:
+    - 18.8
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Turkish market seems to be the only market that started 2023 with
+      a bang as local steel
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: plate prices climbed over USD 40/MT and nearly USD 25/Ton on local
+      steel plate prices,
+    unit: tonnage
+    values:
+    - 40.0
+    - 25.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: summer 2022, have levels finally hit USD 300/MT once again.
+    unit: tonnage
+    values:
+    - 2022.0
+    - 300.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: With sub-continent levels still slipping to find their footing and
+      with this most recent jump USD 300/MT.
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: For now, however, this market seems like it is gearing up once again
+      for a busy 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 04 - January 11
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 19 - January 27
+    unit: null
+    values:
+    - 26.0
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - Bank Holiday January 07 - January 10
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 22 - January 25
+    unit: null
+    values:
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - 02 - New Year's Day January 01 - Bank Holiday January
+      01 - New Year's Day
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 1.0
+    - 1.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: January 21 - 27 - Spring Festival
+    unit: null
+    values:
+    - 21.0
+    - 27.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 1 Akinada Bridge 24,294 Bulk Carrier Arrived January 05
+    unit: null
+    values:
+    - 1.0
+    - 24294.0
+    - 5.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 2 Cape Osprey 21,277 Bulk Carrier Arrived January 03
+    unit: null
+    values:
+    - 2.0
+    - 21277.0
+    - 3.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 3 Chun Ying No. 777 581 Fishing Vessel Beached January 06
+    unit: null
+    values:
+    - 3.0
+    - 777.0
+    - 581.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nix - 7 2,705 LPG Arrived January 05
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 2705.0
+    - 5.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 48,857
+    unit: null
+    values:
+    - 48857.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 1.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bhum 5,104 Container Arrived December 21
+    unit: null
+    values:
+    - 2.0
+    - 5104.0
+    - 21.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 3 Chang Fa Hai 10,072 Bulk Carrier Beached January 06
+    unit: null
+    values:
+    - 3.0
+    - 10072.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 4 De Xiang 1,820 Tanker Arrived January 06
+    unit: null
+    values:
+    - 4.0
+    - 1820.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 5 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 5.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 6 Hai Feng 698 7,240 Reefer Arrived December 21
+    unit: null
+    values:
+    - 6.0
+    - 698.0
+    - 7240.0
+    - 21.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 7 Hong Fa 2,172 Tanker Arrived December 31
+    unit: null
+    values:
+    - 7.0
+    - 2172.0
+    - 31.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 8 Joint Luck 2,063 Tanker Arrived December 24
+    unit: null
+    values:
+    - 8.0
+    - 2063.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 9 Lumo 7,987 Bulk Carrier Arrived January 04
+    unit: null
+    values:
+    - 9.0
+    - 7987.0
+    - 4.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 10 Shun Rong 880 Tanker Beached January 03
+    unit: null
+    values:
+    - 10.0
+    - 880.0
+    - 3.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 11 Sun Shun 1,207 Tanker Arrived January 06
+    unit: null
+    values:
+    - 11.0
+    - 1207.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 12 Sylt 2,002 Tanker Beached January 03
+    unit: null
+    values:
+    - 12.0
+    - 2002.0
+    - 3.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 13 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 13.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 14 Xiang Shun 1,314 Tanker Arrived January 06
+    unit: null
+    values:
+    - 14.0
+    - 1314.0
+    - 6.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 75,392
+    unit: null
+    values:
+    - 75392.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 1 Jamila 7,700 Bulk Carrier Arrived December 28
+    unit: null
+    values:
+    - 1.0
+    - 7700.0
+    - 28.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 2 Lila Kyoto 21,221 Bulk Carrier Beached January 07
+    unit: null
+    values:
+    - 2.0
+    - 21221.0
+    - 7.0
+  - section: 'Linked asset: 2023-01-10_gms-week-1-missing-in-action_ship-recycling-market-insight-week-0_808a4ff28438.pdf'
+    section_type: linked_pdf
+    source_line: 3 Murad Bay 6,729 Bulk Carrier Arrived December 27
+    unit: null
+    values:
+    - 3.0
+    - 6729.0
+    - 27.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-01-10_gms-week-1-missing-in-action.html
 source_stem: 2023-01-10_gms-week-1-missing-in-action

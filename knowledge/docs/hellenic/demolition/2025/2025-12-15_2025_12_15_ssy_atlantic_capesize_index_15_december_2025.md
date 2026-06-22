@@ -19,8 +19,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: SSY ATLANTIC CAPESIZE INDEX 15 DECEMBER 2025
   unit: null
@@ -36,7 +35,13 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: SSY ATLANTIC CAPESIZE INDEX 15 DECEMBER 2025
+    unit: null
+    values:
+    - 15.0
+    - 2025.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-12-15_ssy-atlantic-capesize-index-15-december-2025.html
 source_stem: 2025-12-15_ssy-atlantic-capesize-index-15-december-2025

@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 104
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As sub-continent markets veer through the last couple of weeks towards
     the end of the year, we can look back and reflect on what has been an extremely
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 2022.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Prices reached decade long peaks above USD 700/LDT in the first quarter
     of the year before crashing back down by about USD 200/LDT, with certain trades
@@ -52,8 +50,7 @@ numeric_observations:
   - 200.0
   - 500.0
   - 400.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: On the West End, the situation was no different in Turkey, where levels
     too hit a record USD 500/Ton for a brief period, only to plummet about half in
@@ -63,8 +60,7 @@ numeric_observations:
   values:
   - 500.0
   - 250.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Dry Bulk and Containers have also had outstanding years, with minimal
     scrapping seen in both sectors during the first half of the year. As such, moving
@@ -73,8 +69,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: There are also a number of vessels trading right up to their limits
     (in terms of surveys) and due to older age profiles and reduced earnings, Owners
@@ -84,8 +79,7 @@ numeric_observations:
   values:
   - 350.0
   - 2023.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 51 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -93,8 +87,7 @@ numeric_observations:
   values:
   - 51.0
   - 2022.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-12-27_gms-week-51-turbulent-times_img1_27gmsf_046b1c83d29d.jpg'
   unit: null
@@ -107,47 +100,41 @@ numeric_observations:
   - 46.0
   - 3.0
   - 9.0
-- &id008
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Decembe r 23rd, 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Volume 245, Issue 1062
   unit: null
   values:
   - 245.0
   - 1062.0
-- &id010
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Week 51
   unit: null
   values:
   - 51.0
-- &id011
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: we can look back and reflect on what has been an extremely turbulent
     2022. - Kathy Collins
   unit: null
   values:
   - 2022.0
-- &id012
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Prices reached decade long peaks above USD 700/LDT in the first quarter
     of the year before
   unit: usd
   values:
   - 700.0
-- &id013
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: • Decade peaks. crashing back down by about USD 200/LDT, with certain
     trades seeing below the USD 500/LDT
@@ -155,15 +142,13 @@ numeric_observations:
   values:
   - 200.0
   - 500.0
-- &id014
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: barrier and even into the high USD 400s/LDT on certain occasions.
   unit: usd
   values:
   - 400.0
-- &id015
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 500/Ton for a brief period, only to plummet about half in value (about
     USD 250/MT) in a rather
@@ -171,32 +156,28 @@ numeric_observations:
   values:
   - 500.0
   - 250.0
-- &id016
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: • Hitting limits. sectors during the first half of the year. As such,
     moving into 2023, we do expect to see more
   unit: null
   values:
   - 2023.0
-- &id017
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: may well scrap with recycling rates still looking relatively firm (USD
     350/LDT being the
   unit: usd
   values:
   - 350.0
-- &id018
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: for 2023 should help charter rates recover and for various earning
     cycles to start again.
   unit: null
   values:
   - 2023.0
-- &id019
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: For week 51 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -204,8 +185,7 @@ numeric_observations:
   values:
   - 51.0
   - 2022.0
-- &id020
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Weak 520 / LDT 530 / LDT 540 / LDT
   unit: null
@@ -214,8 +194,7 @@ numeric_observations:
   - 520.0
   - 530.0
   - 540.0
-- &id021
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 510 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -224,8 +203,7 @@ numeric_observations:
   - 510.0
   - 520.0
   - 530.0
-- &id022
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
   unit: null
@@ -234,8 +212,7 @@ numeric_observations:
   - 500.0
   - 510.0
   - 520.0
-- &id023
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
   unit: null
@@ -244,154 +221,134 @@ numeric_observations:
   - 240.0
   - 250.0
   - 260.0
-- &id024
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: sales for years taking place above USD 700 /LDT and for all types and
     sizes as well -
   unit: usd
   values:
   - 700.0
-- &id026
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi Taka closed at BDT 105.5X against the U.S. Dollar, while
     local steel plate
   unit: null
   values:
   - 105.5
-- &id027
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Hopefully 2023 will find Chattogram Buyers back in the fray once the
     Central Bank eases
   unit: null
   values:
   - 2023.0
-- &id028
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: close to historical highs of Rs. 83 against the U.S. Dollar.
   unit: null
   values:
   - 83.0
-- &id030
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: the bidding tables, in the belief that the market has perhaps bottomed
     out and 2023 will
   unit: null
   values:
   - 2023.0
-- &id032
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: passes the PKR 225.5X against the U.S. Dollar.
   unit: null
   values:
   - 225.5
-- &id033
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 023 HOPES!
   unit: null
   values:
   - 23.0
-- &id035
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 2023 deliveries.
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: potentially worked basis a 2023 delivery.
   unit: null
   values:
   - 2023.0
-- &id037
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: while the Turkish Lira seems to have found its new playfield around
     the TRY 18.6X mark
   unit: null
   values:
   - 18.6
-- &id038
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: are optimistic about a better 2023.
   unit: null
   values:
   - 2023.0
-- &id039
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line:  The Pope can't be an organ donor. Pope Benedict XVI was issued an
     organ donor card in 1970. Once he
   unit: null
   values:
   - 1970.0
-- &id041
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: ascended to the papacy in 2005, the card was invalid, reports the Telegraph.
     According to the Vatican, the
   unit: null
   values:
   - 2005.0
-- &id042
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: first-ever World Cup in 1930. In the last game between Uruguay and
     Argentina, Castro scored the winning
   unit: null
   values:
   - 1930.0
-- &id043
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: goal in the last minute of the game. The final score was 4-2, making
     Uruguay the first country to win the
@@ -399,16 +356,14 @@ numeric_observations:
   values:
   - 4.0
   - -2.0
-- &id044
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: swin g it as a bat, or use your imagination to turn it into a lightsaber.
     That's why, in 2008, the National Toy
   unit: null
   values:
   - 2008.0
-- &id045
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas December 21 - December 29
   unit: null
@@ -416,8 +371,7 @@ numeric_observations:
   - 25.0
   - 21.0
   - 29.0
-- &id046
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 04 - January 11
   unit: null
@@ -425,8 +379,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 11.0
-- &id047
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 19 - January 27
   unit: null
@@ -434,8 +387,7 @@ numeric_observations:
   - 26.0
   - 19.0
   - 27.0
-- &id048
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas December 23 - December 26
   unit: null
@@ -443,8 +395,7 @@ numeric_observations:
   - 25.0
   - 23.0
   - 26.0
-- &id049
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday January 07 - January 10
   unit: null
@@ -452,8 +403,7 @@ numeric_observations:
   - 31.0
   - 7.0
   - 10.0
-- &id050
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: January 01 - Bank Holiday January 22 - January 25
   unit: null
@@ -461,8 +411,7 @@ numeric_observations:
   - 1.0
   - 22.0
   - 25.0
-- &id051
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: January 01 - 02 - New Year's Day December 25 - Quaid-e-Azam Day January
     01 - New Year's Day
@@ -472,8 +421,7 @@ numeric_observations:
   - 2.0
   - 25.0
   - 1.0
-- &id052
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: January 21 - 27 - Spring Festival January 01 - Bank Holiday
   unit: null
@@ -481,24 +429,21 @@ numeric_observations:
   - 21.0
   - 27.0
   - 1.0
-- &id053
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 24, 2022
   unit: null
   values:
   - 24.0
   - 2022.0
-- &id055
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 1 T-20 (Under Tow) 9,408 Rig Arrived December 19
   unit: null
@@ -507,8 +452,7 @@ numeric_observations:
   - 20.0
   - 9408.0
   - 19.0
-- &id056
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 2 Ethan 5,104 Container Arrived December 19
   unit: null
@@ -516,23 +460,20 @@ numeric_observations:
   - 2.0
   - 5104.0
   - 19.0
-- &id057
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 14,512
   unit: null
   values:
   - 14512.0
-- &id058
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 24, 2022
   unit: null
   values:
   - 24.0
   - 2022.0
-- &id059
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 1 An Ping 8 9,804 Bulk Carrier Arrived December 19
   unit: null
@@ -541,8 +482,7 @@ numeric_observations:
   - 8.0
   - 9804.0
   - 19.0
-- &id060
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 2 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -550,8 +490,7 @@ numeric_observations:
   - 2.0
   - 15672.0
   - 22.0
-- &id061
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 Bell 7,995 Bulk Carrier Arrived December 18
   unit: null
@@ -559,8 +498,7 @@ numeric_observations:
   - 3.0
   - 7995.0
   - 18.0
-- &id062
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 4 Bosfor 780 Tanker Beached December 20
   unit: null
@@ -568,8 +506,7 @@ numeric_observations:
   - 4.0
   - 780.0
   - 20.0
-- &id063
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 5 Funning 2 5,002 Bulk Carrier Arrived December 10
   unit: null
@@ -578,8 +515,7 @@ numeric_observations:
   - 2.0
   - 5002.0
   - 10.0
-- &id064
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 6 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -587,8 +523,7 @@ numeric_observations:
   - 6.0
   - 16885.0
   - 28.0
-- &id065
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 7 Hai Feng 698 7,240 Reefer Arrived December 21
   unit: null
@@ -597,8 +532,7 @@ numeric_observations:
   - 698.0
   - 7240.0
   - 21.0
-- &id066
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 8 Mei Zhou I 9,453 Bulk Carrier Arrived December 17
   unit: null
@@ -606,8 +540,7 @@ numeric_observations:
   - 8.0
   - 9453.0
   - 17.0
-- &id067
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 9 PK 27 1,104 LPG Beached December 21
   unit: null
@@ -616,8 +549,7 @@ numeric_observations:
   - 27.0
   - 1104.0
   - 21.0
-- &id068
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 10 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -626,23 +558,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id069
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 74,909
   unit: null
   values:
   - 74909.0
-- &id070
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 24, 2022
   unit: null
   values:
   - 24.0
   - 2022.0
-- &id071
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -651,8 +580,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id072
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -661,8 +589,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id073
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -671,8 +598,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id074
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -681,8 +607,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id075
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -691,8 +616,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id076
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 6 .9 9
   unit: null
@@ -701,8 +625,7 @@ numeric_observations:
   - 6.0
   - 9.0
   - 9.0
-- &id077
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 8 .0 9
   unit: null
@@ -710,8 +633,7 @@ numeric_observations:
   - 3.0
   - 8.0
   - 9.0
-- &id078
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 8 .9 1
   unit: null
@@ -720,8 +642,7 @@ numeric_observations:
   - 8.0
   - 9.0
   - 1.0
-- &id079
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 5 .3 5
   unit: null
@@ -730,8 +651,7 @@ numeric_observations:
   - 5.0
   - 3.0
   - 5.0
-- &id080
-  section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+- section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
   section_type: linked_pdf
   source_line: 3 5 .0 2
   unit: null
@@ -949,86 +869,635 @@ section_count: 3
 signals:
   numeric_observation_count: 104
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As sub-continent markets veer through the last couple of weeks towards
+      the end of the year, we can look back and reflect on what has been an extremely
+      turbulent 2022.
+    unit: null
+    values:
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: Prices reached decade long peaks above USD 700/LDT in the first quarter
+      of the year before crashing back down by about USD 200/LDT, with certain trades
+      seeing below the USD 500/LDT barrier and even into the high USD 400s/LDT on
+      certain occasions.
+    unit: usd
+    values:
+    - 700.0
+    - 200.0
+    - 500.0
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: On the West End, the situation was no different in Turkey, where
+      levels too hit a record USD 500/Ton for a brief period, only to plummet about
+      half in value (about USD 250/MT) in a rather short period, and has remained
+      on the sidelines ever since.
+    unit: tonnage
+    values:
+    - 500.0
+    - 250.0
+  - section: Main
+    section_type: null
+    source_line: Dry Bulk and Containers have also had outstanding years, with minimal
+      scrapping seen in both sectors during the first half of the year. As such, moving
+      into 2023, we do expect to see more vessels enter the market for recycling from
+      each of these sectors, espec
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: There are also a number of vessels trading right up to their limits
+      (in terms of surveys) and due to older age profiles and reduced earnings, Owners
+      are unlikely to pass further surveys and may well scrap with recycling rates
+      still looking relatively firm (USD
+    unit: usd
+    values:
+    - 350.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: For week 51 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 51.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-12-27_gms-week-51-turbulent-times_img1_27gmsf_046b1c83d29d.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -12.0
+    - -27.0
+    - 51.0
+    - 27.0
+    - 46.0
+    - 3.0
+    - 9.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 23rd, 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Volume 245, Issue 1062
+    unit: null
+    values:
+    - 245.0
+    - 1062.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Week 51
+    unit: null
+    values:
+    - 51.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: we can look back and reflect on what has been an extremely turbulent
+      2022. - Kathy Collins
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Prices reached decade long peaks above USD 700/LDT in the first quarter
+      of the year before
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: • Decade peaks. crashing back down by about USD 200/LDT, with certain
+      trades seeing below the USD 500/LDT
+    unit: usd
+    values:
+    - 200.0
+    - 500.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: barrier and even into the high USD 400s/LDT on certain occasions.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 500/Ton for a brief period, only to plummet about half in value (about
+      USD 250/MT) in a rather
+    unit: tonnage
+    values:
+    - 500.0
+    - 250.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: • Hitting limits. sectors during the first half of the year. As such,
+      moving into 2023, we do expect to see more
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: may well scrap with recycling rates still looking relatively firm
+      (USD 350/LDT being the
+    unit: usd
+    values:
+    - 350.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: for 2023 should help charter rates recover and for various earning
+      cycles to start again.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: For week 51 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 51.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Weak 520 / LDT 530 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 530.0
+    - 540.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 510 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 510.0
+    - 520.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 240.0
+    - 250.0
+    - 260.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: sales for years taking place above USD 700 /LDT and for all types
+      and sizes as well -
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi Taka closed at BDT 105.5X against the U.S. Dollar, while
+      local steel plate
+    unit: null
+    values:
+    - 105.5
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Hopefully 2023 will find Chattogram Buyers back in the fray once
+      the Central Bank eases
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: close to historical highs of Rs. 83 against the U.S. Dollar.
+    unit: null
+    values:
+    - 83.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: the bidding tables, in the belief that the market has perhaps bottomed
+      out and 2023 will
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: passes the PKR 225.5X against the U.S. Dollar.
+    unit: null
+    values:
+    - 225.5
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 023 HOPES!
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 2023 deliveries.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: potentially worked basis a 2023 delivery.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: while the Turkish Lira seems to have found its new playfield around
+      the TRY 18.6X mark
+    unit: null
+    values:
+    - 18.6
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: are optimistic about a better 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line:  The Pope can't be an organ donor. Pope Benedict XVI was issued
+      an organ donor card in 1970. Once he
+    unit: null
+    values:
+    - 1970.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: ascended to the papacy in 2005, the card was invalid, reports the
+      Telegraph. According to the Vatican, the
+    unit: null
+    values:
+    - 2005.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: first-ever World Cup in 1930. In the last game between Uruguay and
+      Argentina, Castro scored the winning
+    unit: null
+    values:
+    - 1930.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: goal in the last minute of the game. The final score was 4-2, making
+      Uruguay the first country to win the
+    unit: null
+    values:
+    - 4.0
+    - -2.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: swin g it as a bat, or use your imagination to turn it into a lightsaber.
+      That's why, in 2008, the National Toy
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas December 21 - December 29
+    unit: null
+    values:
+    - 25.0
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 04 - January 11
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 19 - January 27
+    unit: null
+    values:
+    - 26.0
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas December 23 - December 26
+    unit: null
+    values:
+    - 25.0
+    - 23.0
+    - 26.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday January 07 - January 10
+    unit: null
+    values:
+    - 31.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - Bank Holiday January 22 - January 25
+    unit: null
+    values:
+    - 1.0
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - 02 - New Year's Day December 25 - Quaid-e-Azam Day January
+      01 - New Year's Day
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 25.0
+    - 1.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: January 21 - 27 - Spring Festival January 01 - Bank Holiday
+    unit: null
+    values:
+    - 21.0
+    - 27.0
+    - 1.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 24, 2022
+    unit: null
+    values:
+    - 24.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 1 T-20 (Under Tow) 9,408 Rig Arrived December 19
+    unit: null
+    values:
+    - 1.0
+    - 20.0
+    - 9408.0
+    - 19.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ethan 5,104 Container Arrived December 19
+    unit: null
+    values:
+    - 2.0
+    - 5104.0
+    - 19.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 14,512
+    unit: null
+    values:
+    - 14512.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 24, 2022
+    unit: null
+    values:
+    - 24.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 1 An Ping 8 9,804 Bulk Carrier Arrived December 19
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 9804.0
+    - 19.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 2.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bell 7,995 Bulk Carrier Arrived December 18
+    unit: null
+    values:
+    - 3.0
+    - 7995.0
+    - 18.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 4 Bosfor 780 Tanker Beached December 20
+    unit: null
+    values:
+    - 4.0
+    - 780.0
+    - 20.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 5 Funning 2 5,002 Bulk Carrier Arrived December 10
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 5002.0
+    - 10.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 6 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 6.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 7 Hai Feng 698 7,240 Reefer Arrived December 21
+    unit: null
+    values:
+    - 7.0
+    - 698.0
+    - 7240.0
+    - 21.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 8 Mei Zhou I 9,453 Bulk Carrier Arrived December 17
+    unit: null
+    values:
+    - 8.0
+    - 9453.0
+    - 17.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 9 PK 27 1,104 LPG Beached December 21
+    unit: null
+    values:
+    - 9.0
+    - 27.0
+    - 1104.0
+    - 21.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 10 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 74,909
+    unit: null
+    values:
+    - 74909.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 24, 2022
+    unit: null
+    values:
+    - 24.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 6 .9 9
+    unit: null
+    values:
+    - 3.0
+    - 6.0
+    - 9.0
+    - 9.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 8 .0 9
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+    - 9.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 8 .9 1
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+    - 9.0
+    - 1.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 .3 5
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 3.0
+    - 5.0
+  - section: 'Linked asset: 2022-12-27_gms-week-51-turbulent-times_ship-recycling-market-insight-week-5_096fcb23524f.pdf'
+    section_type: linked_pdf
+    source_line: 3 5 .0 2
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-12-27_gms-week-51-turbulent-times.html
 source_stem: 2022-12-27_gms-week-51-turbulent-times

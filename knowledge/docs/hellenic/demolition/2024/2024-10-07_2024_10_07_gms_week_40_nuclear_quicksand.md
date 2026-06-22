@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 90
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, for the 2nd running week and on the back of firming Chinese
     plate prices last week, ship recycling markets endured some positive moves as
@@ -43,8 +42,7 @@ numeric_observations:
   - 0.5
   - 75.0
   - 2025.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 40 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -52,8 +50,7 @@ numeric_observations:
   values:
   - 40.0
   - 2024.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-10-07_gms-week-40-nuclear-quicksand_img1_71020249_de2f34440716.jpg'
   unit: null
@@ -64,63 +61,55 @@ numeric_observations:
   - 40.0
   - 71020249.0
   - 4440716.0
-- &id004
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 4th, 2024
   unit: null
   values:
   - 4.0
   - 2024.0
-- &id005
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Week 40 That gratitude allows me to be happy."
   unit: null
   values:
   - 40.0
-- &id006
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Volume 265, Issue 1154 - Will Arnett
   unit: null
   values:
   - 265.0
   - 1154.0
-- &id007
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: • More tankers? Meanwhile, for the 2nd running week and on the back
     of firming Chinese plate prices last week, ship
   unit: null
   values:
   - 2.0
-- &id008
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: waterfronts, in typifying this dark year in ship recycling. After the
     U.S. Fed rate cut of 0.5% on
   unit: pct
   values:
   - 0.5
-- &id009
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: the wake of measures being set in place for the 75th Anniversary of
     CCP rule, the ongoing October
   unit: null
   values:
   - 75.0
-- &id010
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 2025? Time will tell. For now, the world turns cockeyed, with one eye
     on how China opens after the
   unit: null
   values:
   - 2025.0
-- &id011
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 40 of 2024 are on Page 5.
   unit: null
@@ -128,24 +117,21 @@ numeric_observations:
   - 40.0
   - 2024.0
   - 5.0
-- &id012
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id013
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: that is still flat on the floor at a slightly lower rate of USD 533/Ton,
     whilst competing sub-continent
   unit: usd
   values:
   - 533.0
-- &id014
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: past the BDT 120 mark against the U.S. Dollar, closing the week 10
     basis points weaker at
@@ -153,16 +139,14 @@ numeric_observations:
   values:
   - 120.0
   - 10.0
-- &id015
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: historically record breaking levels of BDT 119.55. Of note, the new
     "baseline" for the Taka seems
   unit: null
   values:
   - 119.55
-- &id016
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: to be in the BDT 119 - BDT 120 region, quite the collapse from the
     time when BDT 77 - BDT 78
@@ -172,32 +156,28 @@ numeric_observations:
   - 120.0
   - 77.0
   - 78.0
-- &id017
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: only / HKC intended units or SS tanker or even Fishing vessels as another
     mammoth 26K LDT
   unit: null
   values:
   - 26.0
-- &id019
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: factored in after nearly USD 20 / LDT of steel gains recorded over
     recent weeks, and even more this
   unit: usd
   values:
   - 20.0
-- &id020
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: coupled with ongoing October holidays in China from October 1st - October
     7th has seen steel climb
@@ -205,8 +185,7 @@ numeric_observations:
   values:
   - 1.0
   - 7.0
-- &id021
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: even further by a about USD 5/Ton, approaching the USD 500/Ton barrier
     once again having closed
@@ -214,32 +193,28 @@ numeric_observations:
   values:
   - 5.0
   - 500.0
-- &id022
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: the week at levels nearly touching USD 492/Ton. This rebound seems
     to be buying relief to a wet
   unit: usd
   values:
   - 492.0
-- &id023
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Pakistani steel plate prices jumped USD 8/Ton this week, likely in
     response to firming Chinese
   unit: usd
   values:
   - 8.0
-- &id025
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: country where its currency gained 5 basis points and it ended the week
     at a firmer PKR 278.30
@@ -247,32 +222,28 @@ numeric_observations:
   values:
   - 5.0
   - 278.3
-- &id026
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Gadani buyers push Pakistan into 2nd place in the market rankings.
     Unfortunately, given that this
   unit: null
   values:
   - 2.0
-- &id027
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: this week as both, import and local steel plate prices reported jumps
     of about USD 15/Ton and USD
   unit: usd
   values:
   - 15.0
-- &id029
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 10/Ton respectively. However, unlike the Pakistani market, the Turkish
     Lira recorded a nearly 30
@@ -280,40 +251,35 @@ numeric_observations:
   values:
   - 10.0
   - 30.0
-- &id030
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: basis point decline that saw the Lira end the week at an all-time record-breaking
     low of TRY 34.26
   unit: null
   values:
   - 34.26
-- &id031
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Moreover, even though Turkey's inflation rate has improved from the
     highs of over 70%, it is still at
   unit: pct
   values:
   - 70.0
-- &id032
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: an incredible 52% (as of September reports) and with the U.S. Dollar
     being so much more expensive,
   unit: pct
   values:
   - 52.0
-- &id033
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: it is therefore puzzling to see local offerings for tonnage firm by
     about USD 20/MT this week, likely
   unit: tonnage
   values:
   - 20.0
-- &id034
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: For Week 40 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -321,8 +287,7 @@ numeric_observations:
   values:
   - 40.0
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 1 India Steady 480 / LDT 500 / LDT 510 / LDT
   unit: null
@@ -331,8 +296,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 510.0
-- &id036
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -341,8 +305,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id037
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Declining 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -351,8 +314,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id038
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Firming 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -361,16 +323,14 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id039
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line:  The world's oldest wooden wheel has been around for more than 5,000
     years. It was found in 2002, approximately 12 miles
@@ -379,8 +339,7 @@ numeric_observations:
   - 5000.0
   - 2002.0
   - 12.0
-- &id041
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: determine the wheel's age, which is somewhere between 5,100 and 5,350
     years old.
@@ -388,23 +347,20 @@ numeric_observations:
   values:
   - 5100.0
   - 5350.0
-- &id042
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: shed around 200 million skin cells each hour-and they have to go somewhere
     when we're indoors. If the idea of skin dust
   unit: null
   values:
   - 200.0
-- &id043
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: squalene naturally helps reduce indoor ozone levels by up to 15 percent.
   unit: null
   values:
   - 15.0
-- &id044
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: numbers aren't even close. While 138 pyramids have been discovered
     in Egypt, Sudan boasts around 255.
@@ -412,8 +368,7 @@ numeric_observations:
   values:
   - 138.0
   - 255.0
-- &id045
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line:  The bumblebee bat is the world's smallest mammal. Weighing in at
     0.05 to 0.07 ounces, with a head-to-body length of 1.14
@@ -422,8 +377,7 @@ numeric_observations:
   - 0.05
   - 0.07
   - 1.14
-- &id046
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: to 1.29 inches and a wingspan of 5.1 to 5.7 inches, the bumblebee bat-also
     known as Kitti's hog-nosed bat-is the smallest
@@ -432,32 +386,28 @@ numeric_observations:
   - 1.29
   - 5.1
   - 5.7
-- &id047
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line:  The circulatory system is more than 60,000 miles long. If a child's
     entire circulatory system-we're talking veins, arteries,
   unit: null
   values:
   - 60000.0
-- &id048
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: and capillaries-were laid out flat, it would stretch for more than
     60,000 miles, according to the Franklin Institute. By the
   unit: null
   values:
   - 60000.0
-- &id049
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: time we reach adulthood, our bodies have become home to approximately
     100,000 miles of blood vessels.
   unit: null
   values:
   - 100000.0
-- &id050
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Oct 10 - Oct 12 Dussehra October 03 - October 08
   unit: null
@@ -466,8 +416,7 @@ numeric_observations:
   - 12.0
   - 3.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 13 - Durga Puja October 15 - October 23
   unit: null
@@ -475,15 +424,13 @@ numeric_observations:
   - 13.0
   - 15.0
   - 23.0
-- &id052
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 31 - Diwali & Sardar Patel's Birthday
   unit: null
   values:
   - 31.0
-- &id053
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 13 - Durga Puja October 01 - October 04
   unit: null
@@ -491,24 +438,21 @@ numeric_observations:
   - 13.0
   - 1.0
   - 4.0
-- &id054
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 16 - October 19
   unit: null
   values:
   - 16.0
   - 19.0
-- &id055
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: October 30 - November 02
   unit: null
   values:
   - 30.0
   - 2.0
-- &id056
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Oct 01 - Oct 07 - Chinese Natn'l Day October 24 - Founding Day October
     29 - Republic Day
@@ -518,24 +462,21 @@ numeric_observations:
   - 7.0
   - 24.0
   - 29.0
-- &id057
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of October 04, 2024
   unit: null
   values:
   - 4.0
   - 2024.0
-- &id059
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 1 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
   unit: null
@@ -543,8 +484,7 @@ numeric_observations:
   - 1.0
   - 7263.0
   - 26.0
-- &id060
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 2 Divo 26,136 Fishing Vessel Arrived October 03
   unit: null
@@ -552,8 +492,7 @@ numeric_observations:
   - 2.0
   - 26136.0
   - 3.0
-- &id061
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 3 Ice Runner 6,974 Reefer Delivered September 28
   unit: null
@@ -561,8 +500,7 @@ numeric_observations:
   - 3.0
   - 6974.0
   - 28.0
-- &id062
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 4 Uni III 7,098 Container Arrived October 03
   unit: null
@@ -570,23 +508,20 @@ numeric_observations:
   - 4.0
   - 7098.0
   - 3.0
-- &id063
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 47,471
   unit: null
   values:
   - 47471.0
-- &id064
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of October 04, 2024
   unit: null
   values:
   - 4.0
   - 2024.0
-- &id065
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 1 Chang Hua Hai 2,988 General Cargo Arrived September 30
   unit: null
@@ -594,8 +529,7 @@ numeric_observations:
   - 1.0
   - 2988.0
   - 30.0
-- &id066
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 2 Ipek 6,751 General Cargo / Container Delivered October 01
   unit: null
@@ -603,8 +537,7 @@ numeric_observations:
   - 2.0
   - 6751.0
   - 1.0
-- &id067
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 3 Shun Da Fa Zhan 7,809 Bulk Carrier Arrived September 28
   unit: null
@@ -612,8 +545,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 28.0
-- &id068
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 4 Sola Gratia 2,051 Cement Cargo Vessel Delivered October 01
   unit: null
@@ -621,31 +553,27 @@ numeric_observations:
   - 4.0
   - 2051.0
   - 1.0
-- &id069
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,599
   unit: null
   values:
   - 19599.0
-- &id070
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of October 04, 2024
   unit: null
   values:
   - 4.0
   - 2024.0
-- &id071
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 9/28/2024 487.46 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
   unit: null
@@ -660,8 +588,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id073
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 9/29/2024 487.46 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
   unit: null
@@ -676,8 +603,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id074
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 9/30/2024 486.87 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
   unit: null
@@ -692,8 +618,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id075
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 10/1/2024 489.14 41,000.00 671.45 187,000.00 533.61 63,500.00 307.41
   unit: null
@@ -708,8 +633,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id076
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 10/2/2024 486.76 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
   unit: null
@@ -724,8 +648,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id077
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 10/3/2024 488.27 41,000.00 679.29 189,000.00 533.61 63,500.00 307.41
   unit: null
@@ -740,8 +663,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id078
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 10/4/2024 491.84 41,300.00 679.29 189,000.00 533.61 63,500.00 307.41
   unit: null
@@ -756,8 +678,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 307.41
-- &id079
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -766,8 +687,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id080
-  section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+- section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -874,86 +794,672 @@ section_count: 3
 signals:
   numeric_observation_count: 90
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, for the 2nd running week and on the back of firming Chinese
+      plate prices last week, ship recycling markets endured some positive moves as
+      local plate prices remain on a positive to firm footing across the board. Increasing
+      magnification into local m
+    unit: pct
+    values:
+    - 2.0
+    - 0.5
+    - 75.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 40 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 40.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-10-07_gms-week-40-nuclear-quicksand_img1_71020249_de2f34440716.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -10.0
+    - -7.0
+    - 40.0
+    - 71020249.0
+    - 4440716.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 4th, 2024
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Week 40 That gratitude allows me to be happy."
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Volume 265, Issue 1154 - Will Arnett
+    unit: null
+    values:
+    - 265.0
+    - 1154.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: • More tankers? Meanwhile, for the 2nd running week and on the back
+      of firming Chinese plate prices last week, ship
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: waterfronts, in typifying this dark year in ship recycling. After
+      the U.S. Fed rate cut of 0.5% on
+    unit: pct
+    values:
+    - 0.5
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: the wake of measures being set in place for the 75th Anniversary
+      of CCP rule, the ongoing October
+    unit: null
+    values:
+    - 75.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 2025? Time will tell. For now, the world turns cockeyed, with one
+      eye on how China opens after the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 40 of 2024 are on Page 5.
+    unit: null
+    values:
+    - 40.0
+    - 2024.0
+    - 5.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: that is still flat on the floor at a slightly lower rate of USD 533/Ton,
+      whilst competing sub-continent
+    unit: usd
+    values:
+    - 533.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: past the BDT 120 mark against the U.S. Dollar, closing the week 10
+      basis points weaker at
+    unit: null
+    values:
+    - 120.0
+    - 10.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: historically record breaking levels of BDT 119.55. Of note, the new
+      "baseline" for the Taka seems
+    unit: null
+    values:
+    - 119.55
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: to be in the BDT 119 - BDT 120 region, quite the collapse from the
+      time when BDT 77 - BDT 78
+    unit: null
+    values:
+    - 119.0
+    - 120.0
+    - 77.0
+    - 78.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: only / HKC intended units or SS tanker or even Fishing vessels as
+      another mammoth 26K LDT
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: factored in after nearly USD 20 / LDT of steel gains recorded over
+      recent weeks, and even more this
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: coupled with ongoing October holidays in China from October 1st -
+      October 7th has seen steel climb
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: even further by a about USD 5/Ton, approaching the USD 500/Ton barrier
+      once again having closed
+    unit: usd
+    values:
+    - 5.0
+    - 500.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: the week at levels nearly touching USD 492/Ton. This rebound seems
+      to be buying relief to a wet
+    unit: usd
+    values:
+    - 492.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani steel plate prices jumped USD 8/Ton this week, likely in
+      response to firming Chinese
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: country where its currency gained 5 basis points and it ended the
+      week at a firmer PKR 278.30
+    unit: null
+    values:
+    - 5.0
+    - 278.3
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Gadani buyers push Pakistan into 2nd place in the market rankings.
+      Unfortunately, given that this
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: this week as both, import and local steel plate prices reported jumps
+      of about USD 15/Ton and USD
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 10/Ton respectively. However, unlike the Pakistani market, the Turkish
+      Lira recorded a nearly 30
+    unit: null
+    values:
+    - 10.0
+    - 30.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: basis point decline that saw the Lira end the week at an all-time
+      record-breaking low of TRY 34.26
+    unit: null
+    values:
+    - 34.26
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Moreover, even though Turkey's inflation rate has improved from the
+      highs of over 70%, it is still at
+    unit: pct
+    values:
+    - 70.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: an incredible 52% (as of September reports) and with the U.S. Dollar
+      being so much more expensive,
+    unit: pct
+    values:
+    - 52.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: it is therefore puzzling to see local offerings for tonnage firm
+      by about USD 20/MT this week, likely
+    unit: tonnage
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: For Week 40 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 40.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Steady 480 / LDT 500 / LDT 510 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 480.0
+    - 500.0
+    - 510.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Declining 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Firming 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line:  The world's oldest wooden wheel has been around for more than 5,000
+      years. It was found in 2002, approximately 12 miles
+    unit: null
+    values:
+    - 5000.0
+    - 2002.0
+    - 12.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: determine the wheel's age, which is somewhere between 5,100 and 5,350
+      years old.
+    unit: null
+    values:
+    - 5100.0
+    - 5350.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: shed around 200 million skin cells each hour-and they have to go
+      somewhere when we're indoors. If the idea of skin dust
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: squalene naturally helps reduce indoor ozone levels by up to 15 percent.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: numbers aren't even close. While 138 pyramids have been discovered
+      in Egypt, Sudan boasts around 255.
+    unit: null
+    values:
+    - 138.0
+    - 255.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line:  The bumblebee bat is the world's smallest mammal. Weighing in at
+      0.05 to 0.07 ounces, with a head-to-body length of 1.14
+    unit: null
+    values:
+    - 0.05
+    - 0.07
+    - 1.14
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: to 1.29 inches and a wingspan of 5.1 to 5.7 inches, the bumblebee
+      bat-also known as Kitti's hog-nosed bat-is the smallest
+    unit: null
+    values:
+    - 1.29
+    - 5.1
+    - 5.7
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line:  The circulatory system is more than 60,000 miles long. If a child's
+      entire circulatory system-we're talking veins, arteries,
+    unit: null
+    values:
+    - 60000.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: and capillaries-were laid out flat, it would stretch for more than
+      60,000 miles, according to the Franklin Institute. By the
+    unit: null
+    values:
+    - 60000.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: time we reach adulthood, our bodies have become home to approximately
+      100,000 miles of blood vessels.
+    unit: null
+    values:
+    - 100000.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Oct 10 - Oct 12 Dussehra October 03 - October 08
+    unit: null
+    values:
+    - 10.0
+    - 12.0
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 13 - Durga Puja October 15 - October 23
+    unit: null
+    values:
+    - 13.0
+    - 15.0
+    - 23.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 31 - Diwali & Sardar Patel's Birthday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 13 - Durga Puja October 01 - October 04
+    unit: null
+    values:
+    - 13.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 16 - October 19
+    unit: null
+    values:
+    - 16.0
+    - 19.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: October 30 - November 02
+    unit: null
+    values:
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Oct 01 - Oct 07 - Chinese Natn'l Day October 24 - Founding Day October
+      29 - Republic Day
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 24.0
+    - 29.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of October 04, 2024
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
+    unit: null
+    values:
+    - 1.0
+    - 7263.0
+    - 26.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 2 Divo 26,136 Fishing Vessel Arrived October 03
+    unit: null
+    values:
+    - 2.0
+    - 26136.0
+    - 3.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ice Runner 6,974 Reefer Delivered September 28
+    unit: null
+    values:
+    - 3.0
+    - 6974.0
+    - 28.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 4 Uni III 7,098 Container Arrived October 03
+    unit: null
+    values:
+    - 4.0
+    - 7098.0
+    - 3.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 47,471
+    unit: null
+    values:
+    - 47471.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of October 04, 2024
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 1 Chang Hua Hai 2,988 General Cargo Arrived September 30
+    unit: null
+    values:
+    - 1.0
+    - 2988.0
+    - 30.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ipek 6,751 General Cargo / Container Delivered October 01
+    unit: null
+    values:
+    - 2.0
+    - 6751.0
+    - 1.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 3 Shun Da Fa Zhan 7,809 Bulk Carrier Arrived September 28
+    unit: null
+    values:
+    - 3.0
+    - 7809.0
+    - 28.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sola Gratia 2,051 Cement Cargo Vessel Delivered October 01
+    unit: null
+    values:
+    - 4.0
+    - 2051.0
+    - 1.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,599
+    unit: null
+    values:
+    - 19599.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of October 04, 2024
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 9/28/2024 487.46 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 9.0
+    - 28.0
+    - 2024.0
+    - 487.46
+    - 40800.0
+    - 671.45
+    - 187000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 9/29/2024 487.46 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 9.0
+    - 29.0
+    - 2024.0
+    - 487.46
+    - 40800.0
+    - 671.45
+    - 187000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 9/30/2024 486.87 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 9.0
+    - 30.0
+    - 2024.0
+    - 486.87
+    - 40800.0
+    - 671.45
+    - 187000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 10/1/2024 489.14 41,000.00 671.45 187,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 10.0
+    - 1.0
+    - 2024.0
+    - 489.14
+    - 41000.0
+    - 671.45
+    - 187000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 10/2/2024 486.76 40,800.00 671.45 187,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 10.0
+    - 2.0
+    - 2024.0
+    - 486.76
+    - 40800.0
+    - 671.45
+    - 187000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 10/3/2024 488.27 41,000.00 679.29 189,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 10.0
+    - 3.0
+    - 2024.0
+    - 488.27
+    - 41000.0
+    - 679.29
+    - 189000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 10/4/2024 491.84 41,300.00 679.29 189,000.00 533.61 63,500.00 307.41
+    unit: null
+    values:
+    - 10.0
+    - 4.0
+    - 2024.0
+    - 491.84
+    - 41300.0
+    - 679.29
+    - 189000.0
+    - 533.61
+    - 63500.0
+    - 307.41
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-10-07_gms-week-40-nuclear-quicksand.html
 source_stem: 2024-10-07_gms-week-40-nuclear-quicksand

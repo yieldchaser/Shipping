@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 94
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As global conflicts rage on with no signs of resolution or abatement
     on the horizon, the ongoing and deliberate spectacle of politicalgoof-ups continues
@@ -46,8 +45,7 @@ numeric_observations:
   - 0.5
   - 62.74
   - 62.14
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Mixed in with the craziness of tariffs is the growing and murky collection
     of sanctioned units that continue to trickle into the markets along with legitimate
@@ -56,8 +54,7 @@ numeric_observations:
   unit: null
   values:
   - 155.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: As we segue into individual sub-continent ship recycling destinations,
     with yard infrastructure upgrades ticking forward by the week, HKC approvals remain
@@ -66,8 +63,7 @@ numeric_observations:
   unit: null
   values:
   - 18.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 37 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -75,8 +71,7 @@ numeric_observations:
   values:
   - 37.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-09-15_gms-week-37-governing-goof-ups_img1_15092025dg_62c8502bcfe0.jpg'
   unit: null
@@ -88,39 +83,34 @@ numeric_observations:
   - 15092025.0
   - 62.0
   - 502.0
-- &id006
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: September 12th, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Week 37
   unit: null
   values:
   - 37.0
-- &id008
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Volume 276, Issue 1202
   unit: null
   values:
   - 276.0
   - 1202.0
-- &id009
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Exchange Dry Index reporting a whopping 7.4% overall increase. Capesize,
     Panamax, and
   unit: pct
   values:
   - 7.4
-- &id010
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Supramax indices all firmed in unison to the tune of 1.0%, 0.4%, and
     0.5% respectively. As trading
@@ -129,39 +119,34 @@ numeric_observations:
   - 1.0
   - 0.4
   - 0.5
-- &id011
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: • Conflicts conflate. rates jumped, so did crude oil-albeit marginally-ending
     the week at USD 62.74/barrel (vs. USD
   unit: usd
   values:
   - 62.74
-- &id012
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 62.14/barrel at the start of the week).
   unit: null
   values:
   - 62.14
-- &id013
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Bangladesh and en masse into India, with over 155K Tons LDT and a few
     behemoth LNGs arriving
   unit: null
   values:
   - 155.0
-- &id014
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: • Depreciation. upgrades ticking forward by the week, HKC approvals
     remain the bright spot in Bangladesh as 18
   unit: null
   values:
   - 18.0
-- &id015
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 37 of 2025 are on Page 6.
   unit: null
@@ -169,40 +154,35 @@ numeric_observations:
   - 37.0
   - 2025.0
   - 6.0
-- &id016
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: The bleak situation in Bangladesh that started festering back in June
     2024, has further metastasized
   unit: null
   values:
   - 2024.0
-- &id018
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: into madness over the last 2-3 months and it seems unlikely to improve
     any time soon, as the local
   unit: null
   values:
   - 2.0
-- &id019
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 2026. Recently imposed HKC requirements have further burdened the otherwise
     industry-leading
   unit: null
   values:
   - 2026.0
-- &id020
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: speeds, which explains the trickle of tonnage we have seen drip into
     this market since June 26, 2025.
@@ -210,39 +190,34 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id021
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Por t empty. passing behemoth as the only arrival of the week saw a
     near 30K LDT LNG carrier greet
   unit: null
   values:
   - 30.0
-- &id022
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: this does appear to be the case now as well since steel values remained
     stuck at BDT 519.59/Ton
   unit: null
   values:
   - 519.59
-- &id023
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: throughout the week and tariff pressures nudged the Bangladeshi Taka
     higher by about 18 basis
   unit: null
   values:
   - 18.0
-- &id024
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: points, ending the week at BDT 122.02 against the U.S. Dollar.
   unit: null
   values:
   - 122.02
-- &id025
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: to find some impressive resilience as inflation fell from a high of
     8.55% back in July to 8.28% as
@@ -250,32 +225,28 @@ numeric_observations:
   values:
   - 8.55
   - 8.28
-- &id026
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: August closed, the lowest inflation the nation has endured since July
     2022. And clearly not
   unit: null
   values:
   - 2022.0
-- &id027
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: an anchorage holding over 155K tons of recycling tonnage either at
     anchor or delivered locally. Minus
   unit: null
   values:
   - 155.0
-- &id029
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: the prior long-term campers, Alang recyclers not only greeted a 10K
     and 14K LDT tanker, but, far more
@@ -283,24 +254,21 @@ numeric_observations:
   values:
   - 10.0
   - 14.0
-- &id030
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: impressively, two massive 33K LDT LNG carriers that brought in the
     big waves-and some much-
   unit: null
   values:
   - 33.0
-- &id031
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: With the INR now trading at an unprecedented historical low in the
     high Rs. 88s against the U.S. Dollar
   unit: null
   values:
   - 88.0
-- &id032
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: levelled off at USD 448/Ton, the Rupee took over the reins sliding
     11 basis points across the week to
@@ -308,23 +276,20 @@ numeric_observations:
   values:
   - 448.0
   - 11.0
-- &id033
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: end deeper at INR 88.28 against the U.S. Dollar.
   unit: null
   values:
   - 88.28
-- &id034
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: has suffered an over 5% depreciation in the last 12 months alone, continually
     dragging down prices,
   unit: pct
   values:
   - 5.0
-- &id035
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: accelerated from 1.6% in July to 2.1% in August, CPI remains very much
     in the healthy range and
@@ -332,24 +297,21 @@ numeric_observations:
   values:
   - 1.6
   - 2.1
-- &id036
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: is projected to climb to nearly 7% (as forecasted by Fitch). Yet these
     long-term potentials don't feed
   unit: pct
   values:
   - 7.0
-- &id037
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: in the industry this week (by nearly 19 basis points and end it at
     nearly PKR 284 against the U.S.
@@ -357,8 +319,7 @@ numeric_observations:
   values:
   - 19.0
   - 284.0
-- &id039
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 'remain at or above USD 625/Ton. To put this in context: India''s plate
     prices are at USD 448/Ton,'
@@ -366,54 +327,47 @@ numeric_observations:
   values:
   - 625.0
   - 448.0
-- &id040
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: and Bangladesh's are at USD 519/Ton. Even a generous grant of import
     tax relief, duties, and fees
   unit: usd
   values:
   - 519.0
-- &id041
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: could not bridge a gap of over USD 100/Ton on the value of a ship-let
     alone one that's
   unit: usd
   values:
   - 100.0
-- &id042
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: approaching nearly USD 200/Ton.
   unit: usd
   values:
   - 200.0
-- &id043
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: supply love triangle plays out on the beaches of Gadani, 2025 has still
     managed to deliver sporadic
   unit: null
   values:
   - 2025.0
-- &id044
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 2025's headwinds remains to be seen.
   unit: null
   values:
   - 2025.0
-- &id045
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Just like the rest of the industry, the Turkish Lira ended the week
     18 basis points weaker at TRY 41.33
@@ -421,8 +375,7 @@ numeric_observations:
   values:
   - 18.0
   - 41.33
-- &id047
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: For Week 37 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -430,8 +383,7 @@ numeric_observations:
   values:
   - 37.0
   - 2025.0
-- &id048
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -440,8 +392,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id049
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -450,8 +401,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id050
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -460,8 +410,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id051
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -470,40 +419,35 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id052
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line:  Mysterious Sundial at Aigai (Turkey) - A remarkably preserved 2,200-year-old
     sundial was unearthed, revealing
   unit: null
   values:
   - 2200.0
-- &id054
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: No major holidays in September September 05 - September 14
   unit: null
   values:
   - 5.0
   - 14.0
-- &id055
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: September 19 - September 27
   unit: null
   values:
   - 19.0
   - 27.0
-- &id056
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi September 07 - September 10
   unit: null
@@ -511,39 +455,34 @@ numeric_observations:
   - 5.0
   - 7.0
   - 10.0
-- &id057
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: September 20 - September 23
   unit: null
   values:
   - 20.0
   - 23.0
-- &id058
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi No major holidays in September
   unit: null
   values:
   - 5.0
-- &id059
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 12, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 1 Coal II 14,840 Oil Tanker Arrived September 13
   unit: null
@@ -551,8 +490,7 @@ numeric_observations:
   - 1.0
   - 14840.0
   - 13.0
-- &id062
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -560,8 +498,7 @@ numeric_observations:
   - 2.0
   - 20001.0
   - 13.0
-- &id063
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 3 FP Future 9,799 Woodchip Carrier Delivered September 11
   unit: null
@@ -569,8 +506,7 @@ numeric_observations:
   - 3.0
   - 9799.0
   - 11.0
-- &id064
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 4 Khaza 33,456 LNG Carrier Delivered September 09
   unit: null
@@ -578,8 +514,7 @@ numeric_observations:
   - 4.0
   - 33456.0
   - 9.0
-- &id065
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 5 Mahar 18,264 Oil Tanker Delivered September 06
   unit: null
@@ -587,8 +522,7 @@ numeric_observations:
   - 5.0
   - 18264.0
   - 6.0
-- &id066
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 6 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -596,8 +530,7 @@ numeric_observations:
   - 6.0
   - 9623.0
   - 7.0
-- &id067
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 7 Pione 10,129 Oil Tanker Arrived September 12
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 7.0
   - 10129.0
   - 12.0
-- &id068
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 8 Rising Falcon 5,964 Bulk Carrier Arrived September 12
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 8.0
   - 5964.0
   - 12.0
-- &id069
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 9 Shaan 33,406 LNG Carrier Delivered September 10
   unit: null
@@ -623,23 +554,20 @@ numeric_observations:
   - 9.0
   - 33406.0
   - 10.0
-- &id070
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 155,482
   unit: null
   values:
   - 155482.0
-- &id071
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 12, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -648,8 +576,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id073
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 2 Rade 29,941 LNG Carrier Arrived September 12
   unit: null
@@ -657,31 +584,27 @@ numeric_observations:
   - 2.0
   - 29941.0
   - 12.0
-- &id074
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 37,750
   unit: null
   values:
   - 37750.0
-- &id075
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 12, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id076
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id077
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 9/6/2025 448.88 38,000.00 625.44 177,000.00 519.59 63,000.00 310.17
   unit: null
@@ -696,8 +619,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id078
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 9/7/2025 448.88 38,000.00 625.44 177,000.00 519.59 63,000.00 310.17
   unit: null
@@ -712,8 +634,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id079
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 9/8/2025 448.88 38,200.00 625.44 177,000.00 519.59 63,000.00 310.17
   unit: null
@@ -728,8 +649,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id080
-  section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+- section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
   section_type: linked_pdf
   source_line: 9/9/2025 448.88 38,300.00 625.44 177,000.00 519.59 63,000.00 310.17
   unit: null
@@ -896,86 +816,639 @@ section_count: 3
 signals:
   numeric_observation_count: 94
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As global conflicts rage on with no signs of resolution or abatement
+      on the horizon, the ongoing and deliberate spectacle of politicalgoof-ups continues
+      to dictate the destiny of global freight rates as well as the ship recycling
+      markets - with determined impu
+    unit: pct
+    values:
+    - 7.4
+    - 1.0
+    - 0.4
+    - 0.5
+    - 62.74
+    - 62.14
+  - section: Main
+    section_type: null
+    source_line: 'Mixed in with the craziness of tariffs is the growing and murky
+      collection of sanctioned units that continue to trickle into the markets along
+      with legitimate ones. This week also delivered an early Christmas surprise as
+      tonnage that had been missing from the '
+    unit: null
+    values:
+    - 155.0
+  - section: Main
+    section_type: null
+    source_line: As we segue into individual sub-continent ship recycling destinations,
+      with yard infrastructure upgrades ticking forward by the week, HKC approvals
+      remain the bright spot in Bangladesh as 18 ship recycling yards are now fully
+      accredited to global standards. Pa
+    unit: null
+    values:
+    - 18.0
+  - section: Main
+    section_type: null
+    source_line: For Week 37 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 37.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-09-15_gms-week-37-governing-goof-ups_img1_15092025dg_62c8502bcfe0.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -9.0
+    - -15.0
+    - 37.0
+    - 15092025.0
+    - 62.0
+    - 502.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: September 12th, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Week 37
+    unit: null
+    values:
+    - 37.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Volume 276, Issue 1202
+    unit: null
+    values:
+    - 276.0
+    - 1202.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Exchange Dry Index reporting a whopping 7.4% overall increase. Capesize,
+      Panamax, and
+    unit: pct
+    values:
+    - 7.4
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Supramax indices all firmed in unison to the tune of 1.0%, 0.4%,
+      and 0.5% respectively. As trading
+    unit: pct
+    values:
+    - 1.0
+    - 0.4
+    - 0.5
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: • Conflicts conflate. rates jumped, so did crude oil-albeit marginally-ending
+      the week at USD 62.74/barrel (vs. USD
+    unit: usd
+    values:
+    - 62.74
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 62.14/barrel at the start of the week).
+    unit: null
+    values:
+    - 62.14
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh and en masse into India, with over 155K Tons LDT and a
+      few behemoth LNGs arriving
+    unit: null
+    values:
+    - 155.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: • Depreciation. upgrades ticking forward by the week, HKC approvals
+      remain the bright spot in Bangladesh as 18
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 37 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 37.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: The bleak situation in Bangladesh that started festering back in
+      June 2024, has further metastasized
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: into madness over the last 2-3 months and it seems unlikely to improve
+      any time soon, as the local
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 2026. Recently imposed HKC requirements have further burdened the
+      otherwise industry-leading
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: speeds, which explains the trickle of tonnage we have seen drip into
+      this market since June 26, 2025.
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Por t empty. passing behemoth as the only arrival of the week saw
+      a near 30K LDT LNG carrier greet
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: this does appear to be the case now as well since steel values remained
+      stuck at BDT 519.59/Ton
+    unit: null
+    values:
+    - 519.59
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: throughout the week and tariff pressures nudged the Bangladeshi Taka
+      higher by about 18 basis
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: points, ending the week at BDT 122.02 against the U.S. Dollar.
+    unit: null
+    values:
+    - 122.02
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: to find some impressive resilience as inflation fell from a high
+      of 8.55% back in July to 8.28% as
+    unit: pct
+    values:
+    - 8.55
+    - 8.28
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: August closed, the lowest inflation the nation has endured since
+      July 2022. And clearly not
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: an anchorage holding over 155K tons of recycling tonnage either at
+      anchor or delivered locally. Minus
+    unit: null
+    values:
+    - 155.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: the prior long-term campers, Alang recyclers not only greeted a 10K
+      and 14K LDT tanker, but, far more
+    unit: null
+    values:
+    - 10.0
+    - 14.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: impressively, two massive 33K LDT LNG carriers that brought in the
+      big waves-and some much-
+    unit: null
+    values:
+    - 33.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: With the INR now trading at an unprecedented historical low in the
+      high Rs. 88s against the U.S. Dollar
+    unit: null
+    values:
+    - 88.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: levelled off at USD 448/Ton, the Rupee took over the reins sliding
+      11 basis points across the week to
+    unit: usd
+    values:
+    - 448.0
+    - 11.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: end deeper at INR 88.28 against the U.S. Dollar.
+    unit: null
+    values:
+    - 88.28
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: has suffered an over 5% depreciation in the last 12 months alone,
+      continually dragging down prices,
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: accelerated from 1.6% in July to 2.1% in August, CPI remains very
+      much in the healthy range and
+    unit: pct
+    values:
+    - 1.6
+    - 2.1
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: is projected to climb to nearly 7% (as forecasted by Fitch). Yet
+      these long-term potentials don't feed
+    unit: pct
+    values:
+    - 7.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: in the industry this week (by nearly 19 basis points and end it at
+      nearly PKR 284 against the U.S.
+    unit: null
+    values:
+    - 19.0
+    - 284.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 'remain at or above USD 625/Ton. To put this in context: India''s
+      plate prices are at USD 448/Ton,'
+    unit: usd
+    values:
+    - 625.0
+    - 448.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: and Bangladesh's are at USD 519/Ton. Even a generous grant of import
+      tax relief, duties, and fees
+    unit: usd
+    values:
+    - 519.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: could not bridge a gap of over USD 100/Ton on the value of a ship-let
+      alone one that's
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: approaching nearly USD 200/Ton.
+    unit: usd
+    values:
+    - 200.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: supply love triangle plays out on the beaches of Gadani, 2025 has
+      still managed to deliver sporadic
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 2025's headwinds remains to be seen.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Just like the rest of the industry, the Turkish Lira ended the week
+      18 basis points weaker at TRY 41.33
+    unit: null
+    values:
+    - 18.0
+    - 41.33
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: For Week 37 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 37.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line:  Mysterious Sundial at Aigai (Turkey) - A remarkably preserved 2,200-year-old
+      sundial was unearthed, revealing
+    unit: null
+    values:
+    - 2200.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: No major holidays in September September 05 - September 14
+    unit: null
+    values:
+    - 5.0
+    - 14.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: September 19 - September 27
+    unit: null
+    values:
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi September 07 - September 10
+    unit: null
+    values:
+    - 5.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: September 20 - September 23
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi No major holidays in September
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 12, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 1 Coal II 14,840 Oil Tanker Arrived September 13
+    unit: null
+    values:
+    - 1.0
+    - 14840.0
+    - 13.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 2.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 3 FP Future 9,799 Woodchip Carrier Delivered September 11
+    unit: null
+    values:
+    - 3.0
+    - 9799.0
+    - 11.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 4 Khaza 33,456 LNG Carrier Delivered September 09
+    unit: null
+    values:
+    - 4.0
+    - 33456.0
+    - 9.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 5 Mahar 18,264 Oil Tanker Delivered September 06
+    unit: null
+    values:
+    - 5.0
+    - 18264.0
+    - 6.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 6 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 6.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 7 Pione 10,129 Oil Tanker Arrived September 12
+    unit: null
+    values:
+    - 7.0
+    - 10129.0
+    - 12.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 8 Rising Falcon 5,964 Bulk Carrier Arrived September 12
+    unit: null
+    values:
+    - 8.0
+    - 5964.0
+    - 12.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 9 Shaan 33,406 LNG Carrier Delivered September 10
+    unit: null
+    values:
+    - 9.0
+    - 33406.0
+    - 10.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 155,482
+    unit: null
+    values:
+    - 155482.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 12, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 2 Rade 29,941 LNG Carrier Arrived September 12
+    unit: null
+    values:
+    - 2.0
+    - 29941.0
+    - 12.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 37,750
+    unit: null
+    values:
+    - 37750.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 12, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 9/6/2025 448.88 38,000.00 625.44 177,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 6.0
+    - 2025.0
+    - 448.88
+    - 38000.0
+    - 625.44
+    - 177000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 9/7/2025 448.88 38,000.00 625.44 177,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 7.0
+    - 2025.0
+    - 448.88
+    - 38000.0
+    - 625.44
+    - 177000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 9/8/2025 448.88 38,200.00 625.44 177,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 8.0
+    - 2025.0
+    - 448.88
+    - 38200.0
+    - 625.44
+    - 177000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-15_gms-week-37-governing-goof-ups_ship-recycling-market-insight-week-3_5c940d1fea34.pdf'
+    section_type: linked_pdf
+    source_line: 9/9/2025 448.88 38,300.00 625.44 177,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 9.0
+    - 2025.0
+    - 448.88
+    - 38300.0
+    - 625.44
+    - 177000.0
+    - 519.59
+    - 63000.0
+    - 310.17
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-15_gms-week-37-governing-goof-ups.html
 source_stem: 2025-09-15_gms-week-37-governing-goof-ups

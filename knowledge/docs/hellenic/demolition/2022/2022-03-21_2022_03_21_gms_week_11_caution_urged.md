@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 114
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Yet, these are decade long highs that we are witnessing at present,
     and not since the heady days of 2008 have vessel prices been so firm. As a result,
@@ -42,8 +41,7 @@ numeric_observations:
   unit: null
   values:
   - 2008.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Notwithstanding, chartering markets, particularly in the dry and container
     sectors, continue to perform admirably and certain routes on tankers have once
@@ -53,8 +51,7 @@ numeric_observations:
   values:
   - 20.0
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: The Indian Rupee, despite firming marginally this week, has suffered
     some noteworthy currency reversals of late, compounding some of the drastic steel
@@ -64,8 +61,7 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, it may perhaps take a week or two of stability before we understand
     where the new reality on prices actually is, as the coveted USD 700/LDT level
@@ -74,8 +70,7 @@ numeric_observations:
   unit: usd
   values:
   - 700.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 11 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -83,8 +78,7 @@ numeric_observations:
   values:
   - 11.0
   - 2022.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-03-21_gms-week-11-caution-urged_img1_wk11-1_eab31589b74b.jpg'
   unit: null
@@ -97,8 +91,7 @@ numeric_observations:
   - -1.0
   - 1589.0
   - 4.0
-- &id007
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: March 18th, 2022 "One secret of success in life is for a man to be
     ready for his opportunity
@@ -106,31 +99,27 @@ numeric_observations:
   values:
   - 18.0
   - 2022.0
-- &id008
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Volume 236, Issue 1023 when it comes."
   unit: null
   values:
   - 236.0
   - 1023.0
-- &id009
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Week 11 - Benjamin Disraeli
   unit: null
   values:
   - 11.0
-- &id010
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: of 2008 h ave vessel prices been so firm. As a result, most ow ners
     are witnessing values on their
   unit: null
   values:
   - 2008.0
-- &id011
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Furthermore, despite this latest dip of about USD 20 - USD 30 / LDT,
     commodity prices remain
@@ -138,8 +127,7 @@ numeric_observations:
   values:
   - 20.0
   - 30.0
-- &id012
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: currency reversals of late, compounding some of the drastic steel falls
     seen over the last 2 - 3
@@ -147,16 +135,14 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id013
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: reality on prices actually is, as the coveted USD 700/LDT level (and
     above) still appears
   unit: usd
   values:
   - 700.0
-- &id014
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: For week 11 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -164,8 +150,7 @@ numeric_observations:
   values:
   - 11.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weakening 660 / LDT 670 / LDT 680 / LDT
   unit: null
@@ -174,8 +159,7 @@ numeric_observations:
   - 660.0
   - 670.0
   - 680.0
-- &id016
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 2 India Weakening 640 / LDT 650 / LDT 660 / LDT
   unit: null
@@ -184,8 +168,7 @@ numeric_observations:
   - 640.0
   - 650.0
   - 660.0
-- &id017
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weakening 630 / LDT 640 / LDT 650 / LDT
   unit: null
@@ -194,8 +177,7 @@ numeric_observations:
   - 630.0
   - 640.0
   - 650.0
-- &id018
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 450 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -204,39 +186,34 @@ numeric_observations:
   - 450.0
   - 460.0
   - 470.0
-- &id019
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: prices (to the tune of about USD 17/Ton).
   unit: usd
   values:
   - 17.0
-- &id021
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Much of the talk recently has surrounded levels exceeding USD 700/LDT,
     but it would
   unit: usd
   values:
   - 700.0
-- &id022
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: USD 65/LDT) coupled with a recent currency depreciation (to the tune
     of about 4%
@@ -244,133 +221,116 @@ numeric_observations:
   values:
   - 65.0
   - 4.0
-- &id024
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: over USD 45/Ton by the time the week ended, eliminating at least half
     of the recent losses
   unit: usd
   values:
   - 45.0
-- &id025
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: USD 600s/LDT, however they may be left with no alternative in order
     to fill plots and
   unit: usd
   values:
   - 600.0
-- &id026
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: SVEABO RG (5,015 LDT) was committed for an excellent USD 795/LT LDT.
   unit: usd
   values:
   - 5015.0
   - 795.0
-- &id027
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: SVEABORG Fish Factory 5,015 USD 795/LT LDT
   unit: usd
   values:
   - 5015.0
   - 795.0
-- &id028
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: by about USD 15 / Ton, but local steel plate prices also saw a minor
     correction - to the tune
   unit: usd
   values:
   - 15.0
-- &id031
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: of about USD 10/Ton this week.
   unit: usd
   values:
   - 10.0
-- &id032
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line:  Each year 16 million thunderstorms happen around the world, and at
     any given moment, there are about
   unit: null
   values:
   - 16.0
-- &id034
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 2,00 0 thunderstorms in progress.
   unit: null
   values:
   - 200.0
-- &id035
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line:  Sweden has 267,570 islands, the most of any country in the world.
   unit: null
   values:
   - 267570.0
-- &id036
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line:  At over 29,000 feet tall, Mt. Everest is the highest point on Earth,
     but it doesn't compare to the deepest point
   unit: tonnage
   values:
   - 29000.0
-- &id037
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: on E arth, the Mariana Trench, which is over 36,000 feet deep-nearly
     seven miles-in the Pacific Ocean.
   unit: null
   values:
   - 36000.0
-- &id038
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line:  This isn't exactly a "fun" fact, but there are over 200 dead bodies
     of climbers on Mt. Everest because it's so
   unit: tonnage
   values:
   - 200.0
-- &id039
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: ' Onl y two people have ever swum the entire length of the 2,350-mile
     Mississippi River: Slovenian long-'
   unit: null
   values:
   - 2350.0
-- &id040
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: dista nce swimmer Martin Strel in 2002 and American former Navy SEAL
     Chris Ring in 2015. Strel swam for
@@ -378,32 +338,28 @@ numeric_observations:
   values:
   - 2002.0
   - 2015.0
-- &id041
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 68 d ays in a row; Ring took one day off a week, taking 181 days.
   unit: null
   values:
   - 68.0
   - 181.0
-- &id042
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: ' There''s a world record for the holder of the most world records:
     Ashrita Furman, who''s set more than 600'
   unit: null
   values:
   - 600.0
-- &id043
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: records and currently holds more than 200. His records have ranged
     from fastest mile on a pogo stick, longest
   unit: null
   values:
   - 200.0
-- &id044
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: March 19 - Holi March 17 - March 24
   unit: null
@@ -411,8 +367,7 @@ numeric_observations:
   - 19.0
   - 17.0
   - 24.0
-- &id045
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: April 10 - Ram Navami March 30 - April 05
   unit: null
@@ -420,8 +375,7 @@ numeric_observations:
   - 10.0
   - 30.0
   - 5.0
-- &id046
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: April 15 - Good Friday April 16 - April 22
   unit: null
@@ -429,8 +383,7 @@ numeric_observations:
   - 15.0
   - 16.0
   - 22.0
-- &id047
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day March 19 - March 22
   unit: null
@@ -438,8 +391,7 @@ numeric_observations:
   - 26.0
   - 19.0
   - 22.0
-- &id048
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year's Day April 01 - April 04
   unit: null
@@ -447,8 +399,7 @@ numeric_observations:
   - 14.0
   - 1.0
   - 4.0
-- &id049
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: April 29 - May Day April 17 - April 20
   unit: null
@@ -456,39 +407,34 @@ numeric_observations:
   - 29.0
   - 17.0
   - 20.0
-- &id050
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: No holidays in March March 23 - Pakistan Day April 23 - National Sovereignty
   unit: null
   values:
   - 23.0
   - 23.0
-- &id051
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: April 05 - Qinming Festival No holidays in April and Children's Day
   unit: null
   values:
   - 5.0
-- &id052
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 18, 2022
   unit: null
   values:
   - 18.0
   - 2022.0
-- &id054
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 1 Al Baraka III 1,963 Livestock Carrier Beached March 16
   unit: null
@@ -496,8 +442,7 @@ numeric_observations:
   - 1.0
   - 1963.0
   - 16.0
-- &id055
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 2 Cape Enterprise 22,043 Bulk Carrier Arrived March 07
   unit: null
@@ -505,8 +450,7 @@ numeric_observations:
   - 2.0
   - 22043.0
   - 7.0
-- &id056
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 3 Harriet 2,292 Tanker Beached March 13
   unit: null
@@ -514,8 +458,7 @@ numeric_observations:
   - 3.0
   - 2292.0
   - 13.0
-- &id057
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 4 Helsingfors 3,930 Fishing Vessel Arrived March 14
   unit: null
@@ -523,8 +466,7 @@ numeric_observations:
   - 4.0
   - 3930.0
   - 14.0
-- &id058
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 5 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
     12
@@ -533,8 +475,7 @@ numeric_observations:
   - 5.0
   - 2778.0
   - 12.0
-- &id059
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 6 Moskovskaya Olimpiad 3,916 Fishing Vessel Arrived March 08
   unit: null
@@ -542,8 +483,7 @@ numeric_observations:
   - 6.0
   - 3916.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 7 Myth 4,540 RoRo Beached March 16
   unit: null
@@ -551,8 +491,7 @@ numeric_observations:
   - 7.0
   - 4540.0
   - 16.0
-- &id061
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 8 Nand Aparna 796 Barge Beached March 18
   unit: null
@@ -560,8 +499,7 @@ numeric_observations:
   - 8.0
   - 796.0
   - 18.0
-- &id062
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 9 Sapper 5,503 Chemical Tanker Beached March 16
   unit: null
@@ -569,8 +507,7 @@ numeric_observations:
   - 9.0
   - 5503.0
   - 16.0
-- &id063
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 10 Tag 5 1,764 Supply Vessel Beached March 09
   unit: null
@@ -579,23 +516,20 @@ numeric_observations:
   - 5.0
   - 1764.0
   - 9.0
-- &id064
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 49,525
   unit: null
   values:
   - 49525.0
-- &id065
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 18, 2022
   unit: null
   values:
   - 18.0
   - 2022.0
-- &id066
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 1 Aristos 10,529 Tanker Arrived March 11
   unit: null
@@ -603,16 +537,14 @@ numeric_observations:
   - 1.0
   - 10529.0
   - 11.0
-- &id067
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 2 EX BNS Shahjalal TBA Supply Vessel Arrived March 10
   unit: null
   values:
   - 2.0
   - 10.0
-- &id068
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 3 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -620,8 +552,7 @@ numeric_observations:
   - 3.0
   - 16885.0
   - 28.0
-- &id069
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 4 Kapten Caroq 20,015 Tanker Arrived March 11
   unit: null
@@ -629,8 +560,7 @@ numeric_observations:
   - 4.0
   - 20015.0
   - 11.0
-- &id070
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 5 One Vision 13,616 Bulk Carrier Arrived March 15
   unit: null
@@ -638,8 +568,7 @@ numeric_observations:
   - 5.0
   - 13616.0
   - 15.0
-- &id071
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 6 Petrogaruda 19,015 Tanker Arrived March 10
   unit: null
@@ -647,8 +576,7 @@ numeric_observations:
   - 6.0
   - 19015.0
   - 10.0
-- &id072
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 7 Rugen 7 8,865 Tanker Arrived March 15
   unit: null
@@ -657,23 +585,20 @@ numeric_observations:
   - 7.0
   - 8865.0
   - 15.0
-- &id073
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 88,925
   unit: null
   values:
   - 88925.0
-- &id074
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 18, 2022
   unit: null
   values:
   - 18.0
   - 2022.0
-- &id075
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 1 Trident Bird 2,000.00 Tanker Beached March 12
   unit: null
@@ -681,15 +606,13 @@ numeric_observations:
   - 1.0
   - 2000.0
   - 12.0
-- &id076
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 2,000
   unit: null
   values:
   - 2000.0
-- &id077
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -698,8 +621,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -708,8 +630,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -718,8 +639,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+- section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -1023,86 +943,623 @@ section_count: 3
 signals:
   numeric_observation_count: 114
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Yet, these are decade long highs that we are witnessing at present,
+      and not since the heady days of 2008 have vessel prices been so firm. As a result,
+      most owners are witnessing values on their end-of-life ships at least double
+      over the past year or so.
+    unit: null
+    values:
+    - 2008.0
+  - section: Main
+    section_type: null
+    source_line: Notwithstanding, chartering markets, particularly in the dry and
+      container sectors, continue to perform admirably and certain routes on tankers
+      have once again started to pick up, which is increasingly depriving hungry Recyclers
+      of tonnage and is keeping price
+    unit: usd
+    values:
+    - 20.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: The Indian Rupee, despite firming marginally this week, has suffered
+      some noteworthy currency reversals of late, compounding some of the drastic
+      steel falls seen over the last 2 - 3 weeks. Finally, in the West End, steel
+      fundamentals (both import and local ste
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: Main
+    section_type: null
+    source_line: Overall, it may perhaps take a week or two of stability before we
+      understand where the new reality on prices actually is, as the coveted USD 700/LDT
+      level (and above) still appears somewhat illusory for the most part and on most
+      standard units.
+    unit: usd
+    values:
+    - 700.0
+  - section: Main
+    section_type: null
+    source_line: For week 11 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-03-21_gms-week-11-caution-urged_img1_wk11-1_eab31589b74b.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -3.0
+    - -21.0
+    - 11.0
+    - 1.0
+    - -1.0
+    - 1589.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: March 18th, 2022 "One secret of success in life is for a man to be
+      ready for his opportunity
+    unit: null
+    values:
+    - 18.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Volume 236, Issue 1023 when it comes."
+    unit: null
+    values:
+    - 236.0
+    - 1023.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Week 11 - Benjamin Disraeli
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: of 2008 h ave vessel prices been so firm. As a result, most ow ners
+      are witnessing values on their
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Furthermore, despite this latest dip of about USD 20 - USD 30 / LDT,
+      commodity prices remain
+    unit: usd
+    values:
+    - 20.0
+    - 30.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: currency reversals of late, compounding some of the drastic steel
+      falls seen over the last 2 - 3
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: reality on prices actually is, as the coveted USD 700/LDT level (and
+      above) still appears
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: For week 11 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weakening 660 / LDT 670 / LDT 680 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 660.0
+    - 670.0
+    - 680.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weakening 640 / LDT 650 / LDT 660 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 640.0
+    - 650.0
+    - 660.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weakening 630 / LDT 640 / LDT 650 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 630.0
+    - 640.0
+    - 650.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 450 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 450.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: prices (to the tune of about USD 17/Ton).
+    unit: usd
+    values:
+    - 17.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Much of the talk recently has surrounded levels exceeding USD 700/LDT,
+      but it would
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: USD 65/LDT) coupled with a recent currency depreciation (to the tune
+      of about 4%
+    unit: pct
+    values:
+    - 65.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: over USD 45/Ton by the time the week ended, eliminating at least
+      half of the recent losses
+    unit: usd
+    values:
+    - 45.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: USD 600s/LDT, however they may be left with no alternative in order
+      to fill plots and
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: SVEABO RG (5,015 LDT) was committed for an excellent USD 795/LT LDT.
+    unit: usd
+    values:
+    - 5015.0
+    - 795.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: SVEABORG Fish Factory 5,015 USD 795/LT LDT
+    unit: usd
+    values:
+    - 5015.0
+    - 795.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: by about USD 15 / Ton, but local steel plate prices also saw a minor
+      correction - to the tune
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: of about USD 10/Ton this week.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line:  Each year 16 million thunderstorms happen around the world, and
+      at any given moment, there are about
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 2,00 0 thunderstorms in progress.
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line:  Sweden has 267,570 islands, the most of any country in the world.
+    unit: null
+    values:
+    - 267570.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line:  At over 29,000 feet tall, Mt. Everest is the highest point on Earth,
+      but it doesn't compare to the deepest point
+    unit: tonnage
+    values:
+    - 29000.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: on E arth, the Mariana Trench, which is over 36,000 feet deep-nearly
+      seven miles-in the Pacific Ocean.
+    unit: null
+    values:
+    - 36000.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line:  This isn't exactly a "fun" fact, but there are over 200 dead bodies
+      of climbers on Mt. Everest because it's so
+    unit: tonnage
+    values:
+    - 200.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: ' Onl y two people have ever swum the entire length of the 2,350-mile
+      Mississippi River: Slovenian long-'
+    unit: null
+    values:
+    - 2350.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: dista nce swimmer Martin Strel in 2002 and American former Navy SEAL
+      Chris Ring in 2015. Strel swam for
+    unit: null
+    values:
+    - 2002.0
+    - 2015.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 68 d ays in a row; Ring took one day off a week, taking 181 days.
+    unit: null
+    values:
+    - 68.0
+    - 181.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: ' There''s a world record for the holder of the most world records:
+      Ashrita Furman, who''s set more than 600'
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: records and currently holds more than 200. His records have ranged
+      from fastest mile on a pogo stick, longest
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Holi March 17 - March 24
+    unit: null
+    values:
+    - 19.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: April 10 - Ram Navami March 30 - April 05
+    unit: null
+    values:
+    - 10.0
+    - 30.0
+    - 5.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: April 15 - Good Friday April 16 - April 22
+    unit: null
+    values:
+    - 15.0
+    - 16.0
+    - 22.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day March 19 - March 22
+    unit: null
+    values:
+    - 26.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year's Day April 01 - April 04
+    unit: null
+    values:
+    - 14.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: April 29 - May Day April 17 - April 20
+    unit: null
+    values:
+    - 29.0
+    - 17.0
+    - 20.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in March March 23 - Pakistan Day April 23 - National
+      Sovereignty
+    unit: null
+    values:
+    - 23.0
+    - 23.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: April 05 - Qinming Festival No holidays in April and Children's Day
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 18, 2022
+    unit: null
+    values:
+    - 18.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Al Baraka III 1,963 Livestock Carrier Beached March 16
+    unit: null
+    values:
+    - 1.0
+    - 1963.0
+    - 16.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 2 Cape Enterprise 22,043 Bulk Carrier Arrived March 07
+    unit: null
+    values:
+    - 2.0
+    - 22043.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 3 Harriet 2,292 Tanker Beached March 13
+    unit: null
+    values:
+    - 3.0
+    - 2292.0
+    - 13.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Helsingfors 3,930 Fishing Vessel Arrived March 14
+    unit: null
+    values:
+    - 4.0
+    - 3930.0
+    - 14.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 5 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
+      12
+    unit: null
+    values:
+    - 5.0
+    - 2778.0
+    - 12.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 6 Moskovskaya Olimpiad 3,916 Fishing Vessel Arrived March 08
+    unit: null
+    values:
+    - 6.0
+    - 3916.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 7 Myth 4,540 RoRo Beached March 16
+    unit: null
+    values:
+    - 7.0
+    - 4540.0
+    - 16.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 8 Nand Aparna 796 Barge Beached March 18
+    unit: null
+    values:
+    - 8.0
+    - 796.0
+    - 18.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sapper 5,503 Chemical Tanker Beached March 16
+    unit: null
+    values:
+    - 9.0
+    - 5503.0
+    - 16.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 10 Tag 5 1,764 Supply Vessel Beached March 09
+    unit: null
+    values:
+    - 10.0
+    - 5.0
+    - 1764.0
+    - 9.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 49,525
+    unit: null
+    values:
+    - 49525.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 18, 2022
+    unit: null
+    values:
+    - 18.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Aristos 10,529 Tanker Arrived March 11
+    unit: null
+    values:
+    - 1.0
+    - 10529.0
+    - 11.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 2 EX BNS Shahjalal TBA Supply Vessel Arrived March 10
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 3.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Kapten Caroq 20,015 Tanker Arrived March 11
+    unit: null
+    values:
+    - 4.0
+    - 20015.0
+    - 11.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 5 One Vision 13,616 Bulk Carrier Arrived March 15
+    unit: null
+    values:
+    - 5.0
+    - 13616.0
+    - 15.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 6 Petrogaruda 19,015 Tanker Arrived March 10
+    unit: null
+    values:
+    - 6.0
+    - 19015.0
+    - 10.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 7 Rugen 7 8,865 Tanker Arrived March 15
+    unit: null
+    values:
+    - 7.0
+    - 7.0
+    - 8865.0
+    - 15.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 88,925
+    unit: null
+    values:
+    - 88925.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 18, 2022
+    unit: null
+    values:
+    - 18.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Trident Bird 2,000.00 Tanker Beached March 12
+    unit: null
+    values:
+    - 1.0
+    - 2000.0
+    - 12.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 2,000
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-03-21_gms-week-11-caution-urged_2022-03-21tmb-org_aae89deebdf8.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-03-21_gms-week-11-caution-urged.html
 source_stem: 2022-03-21_gms-week-11-caution-urged

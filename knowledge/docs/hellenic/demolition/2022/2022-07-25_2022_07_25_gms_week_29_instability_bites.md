@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 98
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: This week, the Bangladeshi government introduced new limits to cap
     the outgoing volume of U.S. Dollars for ‘essential' purchases only - raising question
@@ -40,8 +39,7 @@ numeric_observations:
   unit: usd
   values:
   - 5.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 29 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -49,16 +47,14 @@ numeric_observations:
   values:
   - 29.0
   - 2022.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 111-16.jpg'
   unit: null
   values:
   - 111.0
   - -16.0
-- &id004
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
   unit: null
@@ -72,24 +68,21 @@ numeric_observations:
   - 26.0
   - 65.0
   - 7.0
-- &id005
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 684x196 mode=RGB'
   unit: null
   values:
   - 684.0
   - 96.0
-- &id006
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id007
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
   section_type: linked_image_asset
   source_line: '| 1 _| Bangladesh 580/LDT | 590/LDT | 600/LDT'
   unit: null
@@ -98,39 +91,34 @@ numeric_observations:
   - 580.0
   - 590.0
   - 600.0
-- &id008
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: July 22nd, 2022 "Don't bunt. Aim out of the ballpark.
   unit: null
   values:
   - 22.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Volume 240, Issue 1041 Aim for the company of immortals."
   unit: null
   values:
   - 240.0
   - 1041.0
-- &id010
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Week 29
   unit: null
   values:
   - 29.0
-- &id011
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: L/C over USD 5 million has to be approved by the Central State Bank
     for opening, with the
   unit: usd
   values:
   - 5.0
-- &id012
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: For week 29 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -138,8 +126,7 @@ numeric_observations:
   values:
   - 29.0
   - 2022.0
-- &id013
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 580 / LDT 590 / LDT 600 / LDT
   unit: null
@@ -148,8 +135,7 @@ numeric_observations:
   - 580.0
   - 590.0
   - 600.0
-- &id014
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 570 / LDT 580 / LDT 590 / LDT
   unit: null
@@ -158,8 +144,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 590.0
-- &id015
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
   unit: null
@@ -168,8 +153,7 @@ numeric_observations:
   - 560.0
   - 570.0
   - 580.0
-- &id016
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 260 / LDT 270 / LDT 280 / LDT
   unit: null
@@ -178,47 +162,41 @@ numeric_observations:
   - 260.0
   - 270.0
   - 280.0
-- &id017
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: News that any L/C valued over USD 5 million would need to be approved
     by the Central
   unit: usd
   values:
   - 5.0
-- &id019
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: While local steel plate prices recorded an eye-watering jump of nearly
     USD 50/Ton within
   unit: usd
   values:
   - 50.0
-- &id020
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: breached BDT 94 this week.
   unit: null
   values:
   - 94.0
-- &id021
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: breaching Rs. 80 and settling down in the high Rs. 79s), leaving the
     local market
@@ -226,8 +204,7 @@ numeric_observations:
   values:
   - 80.0
   - 79.0
-- &id023
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Steel plate prices can often rise and fall by USD 15 - USD 20/Ton in
     a single day, making
@@ -235,16 +212,14 @@ numeric_observations:
   values:
   - 15.0
   - 20.0
-- &id024
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: nearly USD 50/Ton, Pakistani steel plIatNe pDriceIsA plu mmeted by
     over USD 80/Ton, further
@@ -252,55 +227,48 @@ numeric_observations:
   values:
   - 50.0
   - 80.0
-- &id026
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: market tumbled further this week with an additional USD 20/Ton decline
     on local and
   unit: usd
   values:
   - 20.0
-- &id028
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: USD 30/Ton on import steel.
   unit: usd
   values:
   - 30.0
-- &id029
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: unstoppably towards TRY 18 while flying past TRY 17.65 this week.
   unit: null
   values:
   - 18.0
   - 17.65
-- &id030
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line:  A co w-bison hybrid is called a beefalo. You can even buy its meat
     in at least 21 states.
   unit: null
   values:
   - 21.0
-- &id032
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: ' Scot land has 421 words for snow. Yes, 421! Some examples: sneesl
     (to start raining or snowing); feefle (to'
@@ -308,16 +276,14 @@ numeric_observations:
   values:
   - 421.0
   - 421.0
-- &id033
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: know this random fact, but we're betting most other people don't. Chicago's
     nickname was coined by 19th-
   unit: null
   values:
   - 19.0
-- &id034
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day July 26 - August 03
   unit: null
@@ -325,24 +291,21 @@ numeric_observations:
   - 15.0
   - 26.0
   - 3.0
-- &id035
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 08 - August 17
   unit: null
   values:
   - 8.0
   - 17.0
-- &id036
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 25 - September 02
   unit: null
   values:
   - 25.0
   - 2.0
-- &id037
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 09 - Moharram July 29 - August 01
   unit: null
@@ -350,8 +313,7 @@ numeric_observations:
   - 9.0
   - 29.0
   - 1.0
-- &id038
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 15 - National Mourning Day August 11 - August 14
   unit: null
@@ -359,8 +321,7 @@ numeric_observations:
   - 15.0
   - 11.0
   - 14.0
-- &id039
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 18 - Janmashtami August 27 - August 30
   unit: null
@@ -368,8 +329,7 @@ numeric_observations:
   - 18.0
   - 27.0
   - 30.0
-- &id040
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: No holidays in August August 7 - 8 - Muharram August 30 - Victory Day
   unit: null
@@ -377,39 +337,34 @@ numeric_observations:
   - 7.0
   - 8.0
   - 30.0
-- &id041
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: August 14 - Independence Day
   unit: null
   values:
   - 14.0
-- &id042
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 22, 2022
   unit: null
   values:
   - 22.0
   - 2022.0
-- &id044
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of July 22, 2022
   unit: null
   values:
   - 22.0
   - 2022.0
-- &id045
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 1 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -417,8 +372,7 @@ numeric_observations:
   - 1.0
   - 15672.0
   - 22.0
-- &id046
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 2 Cui Hua 5,491 Bulk Carrier Beached July 16
   unit: null
@@ -426,8 +380,7 @@ numeric_observations:
   - 2.0
   - 5491.0
   - 16.0
-- &id047
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 3 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -435,8 +388,7 @@ numeric_observations:
   - 3.0
   - 16885.0
   - 28.0
-- &id048
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 4 Muhibbah PB 16 (Under Tow) 728 Barge Beached July 19
   unit: null
@@ -445,8 +397,7 @@ numeric_observations:
   - 16.0
   - 728.0
   - 19.0
-- &id049
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 5 Ocean Alice 3,071 Tanker Beached July 20
   unit: null
@@ -454,8 +405,7 @@ numeric_observations:
   - 5.0
   - 3071.0
   - 20.0
-- &id050
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 6 Onsan Gas 2,094 LPG Arrived July 21
   unit: null
@@ -463,8 +413,7 @@ numeric_observations:
   - 6.0
   - 2094.0
   - 21.0
-- &id051
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 Pacific Marine 1,150 Tanker Arrived July 14
   unit: null
@@ -472,8 +421,7 @@ numeric_observations:
   - 7.0
   - 1150.0
   - 14.0
-- &id052
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 8 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -482,23 +430,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id053
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 46,066
   unit: null
   values:
   - 46066.0
-- &id054
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of July 22, 2022
   unit: null
   values:
   - 22.0
   - 2022.0
-- &id055
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 1 Israr 1 470 Fishing Trawler Beached July 18
   unit: null
@@ -507,15 +452,13 @@ numeric_observations:
   - 1.0
   - 470.0
   - 18.0
-- &id056
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 470
   unit: null
   values:
   - 470.0
-- &id057
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -524,8 +467,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id058
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -534,8 +476,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id059
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -544,8 +485,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id060
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -554,8 +494,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id061
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -564,8 +503,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id062
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /1 6 /2
   unit: null
@@ -573,8 +511,7 @@ numeric_observations:
   - 1.0
   - 6.0
   - 2.0
-- &id063
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /1 7 /2
   unit: null
@@ -582,8 +519,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /1 8 /2
   unit: null
@@ -591,8 +527,7 @@ numeric_observations:
   - 1.0
   - 8.0
   - 2.0
-- &id065
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /1 9 /2
   unit: null
@@ -600,16 +535,14 @@ numeric_observations:
   - 1.0
   - 9.0
   - 2.0
-- &id066
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /2 0 /2
   unit: null
   values:
   - 2.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /2 1 /2
   unit: null
@@ -617,8 +550,7 @@ numeric_observations:
   - 2.0
   - 1.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: /2 2 /2
   unit: null
@@ -626,8 +558,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 8 .3 7
   unit: null
@@ -636,8 +567,7 @@ numeric_observations:
   - 8.0
   - 3.0
   - 7.0
-- &id070
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 5 .1 4
   unit: null
@@ -646,8 +576,7 @@ numeric_observations:
   - 5.0
   - 1.0
   - 4.0
-- &id071
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 9 .1 8
   unit: null
@@ -656,8 +585,7 @@ numeric_observations:
   - 9.0
   - 1.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 3 .8 2
   unit: null
@@ -666,8 +594,7 @@ numeric_observations:
   - 3.0
   - 8.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 2 .8 6
   unit: null
@@ -676,8 +603,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 6.0
-- &id074
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 7 0 .6 4
   unit: null
@@ -685,47 +611,41 @@ numeric_observations:
   - 7.0
   - 6.0
   - 4.0
-- &id075
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 6 ,2 0 0 .0
   unit: null
   values:
   - 6.0
   - 2.0
-- &id076
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 6 ,0 0 0 .0
   unit: null
   values:
   - 6.0
-- &id077
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 6 ,3 0 0 .0
   unit: null
   values:
   - 6.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 5 ,9 0 0 .0
   unit: null
   values:
   - 5.0
   - 9.0
-- &id079
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 5 ,8 0 0 .0
   unit: null
   values:
   - 5.0
   - 8.0
-- &id080
-  section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+- section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
   section_type: linked_pdf
   source_line: 5 ,6 0 0 .0
   unit: null
@@ -901,86 +821,629 @@ section_count: 3
 signals:
   numeric_observation_count: 98
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: This week, the Bangladeshi government introduced new limits to cap
+      the outgoing volume of U.S. Dollars for ‘essential' purchases only - raising
+      question marks about higher priced vessels for recycling purchases in the foreseeable
+      future. As such, the governmen
+    unit: usd
+    values:
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: For week 29 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 29.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 111-16.jpg'
+    unit: null
+    values:
+    - 111.0
+    - -16.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -7.0
+    - -25.0
+    - 29.0
+    - 111.0
+    - -16.0
+    - 26.0
+    - 65.0
+    - 7.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 684x196 mode=RGB'
+    unit: null
+    values:
+    - 684.0
+    - 96.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_111-16_ed726f365b87.jpg'
+    section_type: linked_image_asset
+    source_line: '| 1 _| Bangladesh 580/LDT | 590/LDT | 600/LDT'
+    unit: null
+    values:
+    - 1.0
+    - 580.0
+    - 590.0
+    - 600.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: July 22nd, 2022 "Don't bunt. Aim out of the ballpark.
+    unit: null
+    values:
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Volume 240, Issue 1041 Aim for the company of immortals."
+    unit: null
+    values:
+    - 240.0
+    - 1041.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Week 29
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: L/C over USD 5 million has to be approved by the Central State Bank
+      for opening, with the
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: For week 29 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 29.0
+    - 2022.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 580 / LDT 590 / LDT 600 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 580.0
+    - 590.0
+    - 600.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 570 / LDT 580 / LDT 590 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 570.0
+    - 580.0
+    - 590.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 560.0
+    - 570.0
+    - 580.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 260 / LDT 270 / LDT 280 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 260.0
+    - 270.0
+    - 280.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: News that any L/C valued over USD 5 million would need to be approved
+      by the Central
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: While local steel plate prices recorded an eye-watering jump of nearly
+      USD 50/Ton within
+    unit: usd
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: breached BDT 94 this week.
+    unit: null
+    values:
+    - 94.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: breaching Rs. 80 and settling down in the high Rs. 79s), leaving
+      the local market
+    unit: null
+    values:
+    - 80.0
+    - 79.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Steel plate prices can often rise and fall by USD 15 - USD 20/Ton
+      in a single day, making
+    unit: usd
+    values:
+    - 15.0
+    - 20.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: nearly USD 50/Ton, Pakistani steel plIatNe pDriceIsA plu mmeted by
+      over USD 80/Ton, further
+    unit: usd
+    values:
+    - 50.0
+    - 80.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: market tumbled further this week with an additional USD 20/Ton decline
+      on local and
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: USD 30/Ton on import steel.
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: unstoppably towards TRY 18 while flying past TRY 17.65 this week.
+    unit: null
+    values:
+    - 18.0
+    - 17.65
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line:  A co w-bison hybrid is called a beefalo. You can even buy its meat
+      in at least 21 states.
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: ' Scot land has 421 words for snow. Yes, 421! Some examples: sneesl
+      (to start raining or snowing); feefle (to'
+    unit: null
+    values:
+    - 421.0
+    - 421.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: know this random fact, but we're betting most other people don't.
+      Chicago's nickname was coined by 19th-
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day July 26 - August 03
+    unit: null
+    values:
+    - 15.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 08 - August 17
+    unit: null
+    values:
+    - 8.0
+    - 17.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 25 - September 02
+    unit: null
+    values:
+    - 25.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 09 - Moharram July 29 - August 01
+    unit: null
+    values:
+    - 9.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - National Mourning Day August 11 - August 14
+    unit: null
+    values:
+    - 15.0
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 18 - Janmashtami August 27 - August 30
+    unit: null
+    values:
+    - 18.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in August August 7 - 8 - Muharram August 30 - Victory
+      Day
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+    - 30.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: August 14 - Independence Day
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 22, 2022
+    unit: null
+    values:
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of July 22, 2022
+    unit: null
+    values:
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 1.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 2 Cui Hua 5,491 Bulk Carrier Beached July 16
+    unit: null
+    values:
+    - 2.0
+    - 5491.0
+    - 16.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 3.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Muhibbah PB 16 (Under Tow) 728 Barge Beached July 19
+    unit: null
+    values:
+    - 4.0
+    - 16.0
+    - 728.0
+    - 19.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 5 Ocean Alice 3,071 Tanker Beached July 20
+    unit: null
+    values:
+    - 5.0
+    - 3071.0
+    - 20.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 6 Onsan Gas 2,094 LPG Arrived July 21
+    unit: null
+    values:
+    - 6.0
+    - 2094.0
+    - 21.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 Pacific Marine 1,150 Tanker Arrived July 14
+    unit: null
+    values:
+    - 7.0
+    - 1150.0
+    - 14.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 8 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 8.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 46,066
+    unit: null
+    values:
+    - 46066.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of July 22, 2022
+    unit: null
+    values:
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Israr 1 470 Fishing Trawler Beached July 18
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 470.0
+    - 18.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 470
+    unit: null
+    values:
+    - 470.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /1 6 /2
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /1 7 /2
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /1 8 /2
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /1 9 /2
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /2 0 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /2 1 /2
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: /2 2 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 8 .3 7
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+    - 3.0
+    - 7.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 5 .1 4
+    unit: null
+    values:
+    - 7.0
+    - 5.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 9 .1 8
+    unit: null
+    values:
+    - 7.0
+    - 9.0
+    - 1.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 .8 2
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 2 .8 6
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 8.0
+    - 6.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 7 0 .6 4
+    unit: null
+    values:
+    - 7.0
+    - 6.0
+    - 4.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 6 ,2 0 0 .0
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 6 ,0 0 0 .0
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 6 ,3 0 0 .0
+    unit: null
+    values:
+    - 6.0
+    - 3.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,9 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 9.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,8 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-07-25_gms-week-29-instability-bites_ship-recycling-market-insight-week-2_dd6e8f6573a4.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,6 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 6.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-07-25_gms-week-29-instability-bites.html
 source_stem: 2022-07-25_gms-week-29-instability-bites

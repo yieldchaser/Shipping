@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 103
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: After what has been an overall miserable 2023 in the ship-recycling
     industry and even worse6-month tail end of, whereby all of the major ship recycling
@@ -39,8 +38,7 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Critical factors such as declining currency values (except in India),
     flatlining / declining local steel plate prices, and the dreadful (& ongoing)
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 100.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: ‘Thankfully', the ongoing dearth of tonnage seems to have played its
     part and kept vessel prices relatively buoyant in nearly all of the international
@@ -64,8 +61,7 @@ numeric_observations:
   - 200.0
   - 2015.0
   - 2016.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Additionally, the lack of financing available to Ship Recyclers in
     both Bangladesh and Pakistan through much of 2023 has only further ensured that
@@ -74,8 +70,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: While the rampant flatlining of local steel plate prices (in Bangladesh
     & Pakistan) was ensued by the ever-present volatility that devoured much of 2023,
@@ -86,8 +81,7 @@ numeric_observations:
   - 2023.0
   - 2024.0
   - 2024.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 1 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -95,16 +89,14 @@ numeric_observations:
   values:
   - 1.0
   - 2024.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: GMS would like to wish readers a Happy New Year and the best for 2024
     ahead!
   unit: null
   values:
   - 2024.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-01-08_gms-week-01-whats-in-store-for-24_img1_246563_b176213bde17.jpg'
   unit: null
@@ -117,16 +109,14 @@ numeric_observations:
   - 246563.0
   - 76213.0
   - 7.0
-- &id009
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: January 5th, 2024 "Concentrate all your thoughts upon the work in hand.
   unit: null
   values:
   - 5.0
   - 2024.0
-- &id010
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Volume 257, Issue 1116 The sun's rays do not burn until brought to
     a focus."
@@ -134,22 +124,19 @@ numeric_observations:
   values:
   - 257.0
   - 1116.0
-- &id011
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Week 1 - Alexander Graham Bell
   unit: null
   values:
   - 1.0
-- &id012
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: WHAT'S IN STORE, FOR ‘24?
   unit: null
   values:
   - 24.0
-- &id013
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: • New year hopes. After what has been an overall miserable 2023 in
     the ship-recycling industry and eve n worse 6-
@@ -157,38 +144,33 @@ numeric_observations:
   values:
   - 2023.0
   - 6.0
-- &id014
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: rampant global inflation, 2024 seems to be off with just a little more
     hope and a chance at
   unit: null
   values:
   - 2024.0
-- &id015
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: • 2023 decline.
   unit: null
   values:
   - 2023.0
-- &id016
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: eventually bogged the markets down by over USD 100/LDT on vessel prices,
     over the course
   unit: usd
   values:
   - 100.0
-- &id017
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: • Tonnage lacking. of the summer / monsoon months of 2023.
   unit: null
   values:
   - 2023.0
-- &id018
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: well in excess of) USD 500/Ton in the Indian sub-continent & around
     USD 350/MT in Turkey -
@@ -196,16 +178,14 @@ numeric_observations:
   values:
   - 500.0
   - 350.0
-- &id019
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: •Elections loom. certainly some very strong numbers to contend with,
     given that lows in the USD 200s/Ton
   unit: usd
   values:
   - 200.0
-- &id020
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: greeted the sub-continent ship recycling markets only as recently as
     2015 / 2016.
@@ -213,16 +193,14 @@ numeric_observations:
   values:
   - 2015.0
   - 2016.0
-- &id021
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: through much of 2023 has only further ensured that a minimal number
     of deals would be
   unit: null
   values:
   - 2023.0
-- &id022
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: by the ever-present volatility that devoured much of 2023, early 2024
     (especially until May) will
@@ -230,16 +208,14 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id023
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: to stimulate their respective economies & drive some much-needed growth
     for the rest of 2024.
   unit: null
   values:
   - 2024.0
-- &id024
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: For week 1 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -247,16 +223,14 @@ numeric_observations:
   values:
   - 1.0
   - 2024.0
-- &id025
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: GMS would like to wish readers a Happy New Year and the best for 2024
     ahead!
   unit: null
   values:
   - 2024.0
-- &id026
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -265,8 +239,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id027
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 490 / LDT 510 / LDT 530 / LDT
   unit: null
@@ -275,8 +248,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 530.0
-- &id028
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -285,8 +257,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id029
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
   unit: null
@@ -295,39 +266,34 @@ numeric_observations:
   - 340.0
   - 350.0
   - 360.0
-- &id030
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: elections that are due to be held on January 7t h, there has been a
     muted amount of activity
   unit: null
   values:
   - 7.0
-- &id032
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: inches dangerously closer to breaching BDT 110 against the U.S. Dollar.
   unit: null
   values:
   - 110.0
-- &id033
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: from Alang through week 1 of 2024, despite India being the sub-continent's
     only hassle-
@@ -335,54 +301,47 @@ numeric_observations:
   values:
   - 1.0
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: of 2023. INDIA
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Notwithstanding, the onset of 2024 does seem a little rosier, in that,
     despite its omnipresent
   unit: null
   values:
   - 2024.0
-- &id037
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: volatility, local steel plate prices did the end the week in excess
     of USD 4/Ton higher than
   unit: usd
   values:
   - 4.0
-- &id038
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: last, while the Indian Rupee gradually firms its way towards the doors
     of Rs. 82.99, as it
   unit: null
   values:
   - 82.99
-- &id039
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: ended the week at levels approaching Rs. 83.05 against the U.S. Dollar,
   unit: null
   values:
   - 83.05
-- &id040
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Finally, India becomes the first destination to confirm the first and
     only market sale of 2024
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: container vessel MSC SOPHIE (13,616 LDT), at a relatively firm USD
     565/LT LDT, with
@@ -390,109 +349,95 @@ numeric_observations:
   values:
   - 13616.0
   - 565.0
-- &id042
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: about 1,2 00 Tons of bunkers included in the sale that contributed
     approximately USD
   unit: usd
   values:
   - 12.0
-- &id043
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 40/LDT t o the value of, and basis a guaranteed HKC recycling to a
     limited number of
   unit: null
   values:
   - 40.0
-- &id044
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: USD 565/LT LDT (with about 1,200 Ts
   unit: usd
   values:
   - 565.0
   - 1200.0
-- &id045
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: MSC SOPHIE Container 13,616
   unit: null
   values:
   - 13616.0
-- &id046
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Even though Pakistan is the top placed ship-recycling market at the
     onset of 2024 (in terms
   unit: null
   values:
   - 2024.0
-- &id048
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: in 2023 possibly being the worst performing year in Pakistan's ship-recycling
     history, with
   unit: null
   values:
   - 2023.0
-- &id049
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: a mere 16 vessels being beached throuIgNhouDt thIeA yea r.
   unit: null
   values:
   - 16.0
-- &id050
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: once again, the Pakistani Rupee ended the first week of 2024 marginally
     firmer and at levels
   unit: null
   values:
   - 2024.0
-- &id051
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: just shy of PKR 281.50 against the U.SI. DNollDar. IA
   unit: null
   values:
   - 281.5
-- &id052
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Hong Kong Conventions entry into force in 2025, and as Gadani Buyers
     start to effectively
   unit: null
   values:
   - 2025.0
-- &id053
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 300/MT offers that this market has been historically programmed to
     fall back to), Turkish
   unit: tonnage
   values:
   - 300.0
-- &id055
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 30, ending the week at levels in the region of TRY 29.85 against the
     U.S. Dollar.
@@ -500,31 +445,27 @@ numeric_observations:
   values:
   - 30.0
   - 29.85
-- &id056
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: has been all but invisible and the fact that Turkish yards have even
     managed to ride 2023
   unit: null
   values:
   - 2023.0
-- &id057
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Here's to hoping Q1 '24 isn't more of the same.
   unit: null
   values:
   - 24.0
-- &id058
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line:  The sun and the earth are at a distance of 150 million km. Because
     light travels 300,000 km/second, it takes only 8
@@ -533,22 +474,19 @@ numeric_observations:
   - 150.0
   - 300000.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: minu tes and 19 seconds to travel from the sun to the earth.
   unit: null
   values:
   - 19.0
-- &id061
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: hole is about 10,000 light-years from earth.
   unit: null
   values:
   - 10000.0
-- &id062
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: January 15 - Pongal January 09 - January 17
   unit: null
@@ -556,8 +494,7 @@ numeric_observations:
   - 15.0
   - 9.0
   - 17.0
-- &id063
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 23 - January 30
   unit: null
@@ -565,8 +502,7 @@ numeric_observations:
   - 26.0
   - 23.0
   - 30.0
-- &id064
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 13 - January 16
   unit: null
@@ -574,8 +510,7 @@ numeric_observations:
   - 1.0
   - 13.0
   - 16.0
-- &id065
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January 30
   unit: null
@@ -583,24 +518,21 @@ numeric_observations:
   - 7.0
   - 27.0
   - 30.0
-- &id066
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id067
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 05, 2024
   unit: null
   values:
   - 5.0
   - 2024.0
-- &id068
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 1 Onyx 1 10,643 Container Arrived January 04
   unit: null
@@ -609,8 +541,7 @@ numeric_observations:
   - 1.0
   - 10643.0
   - 4.0
-- &id069
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 2 Proliv Longa 1,270 Fishing Arrived January 04
   unit: null
@@ -618,8 +549,7 @@ numeric_observations:
   - 2.0
   - 1270.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 3 Sas 4 935 Supply Arrived December 16
   unit: null
@@ -628,8 +558,7 @@ numeric_observations:
   - 4.0
   - 935.0
   - 16.0
-- &id071
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 4 Silk 7,036 Container Beached December 29
   unit: null
@@ -637,8 +566,7 @@ numeric_observations:
   - 4.0
   - 7036.0
   - 29.0
-- &id072
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 5 Sol 3,870 Container Arrived January 05
   unit: null
@@ -646,8 +574,7 @@ numeric_observations:
   - 5.0
   - 3870.0
   - 5.0
-- &id073
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 6 Wau 7 5,730 Container Beached December 31
   unit: null
@@ -656,8 +583,7 @@ numeric_observations:
   - 7.0
   - 5730.0
   - 31.0
-- &id074
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 7 White Palm (Under Tow) 762 Pilot Boat Arrived December 16
   unit: null
@@ -665,8 +591,7 @@ numeric_observations:
   - 7.0
   - 762.0
   - 16.0
-- &id075
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 8 Xin Feng 10,316 Container Beached December 31
   unit: null
@@ -674,23 +599,20 @@ numeric_observations:
   - 8.0
   - 10316.0
   - 31.0
-- &id076
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 40,563
   unit: null
   values:
   - 40563.0
-- &id077
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 05, 2024
   unit: null
   values:
   - 5.0
   - 2024.0
-- &id078
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 1 General Romulo (Dead Vessel) 2,553 General Cargo / Container Arrived
     January 03
@@ -699,8 +621,7 @@ numeric_observations:
   - 1.0
   - 2553.0
   - 3.0
-- &id079
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 2 Jin Hai Xi 5,931 Bulk Carrier Arrived January 02
   unit: null
@@ -708,8 +629,7 @@ numeric_observations:
   - 2.0
   - 5931.0
   - 2.0
-- &id080
-  section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+- section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
   section_type: linked_pdf
   source_line: 3 West Ocean 12 1,733 General Cargo Arrived December 23
   unit: null
@@ -959,86 +879,618 @@ section_count: 3
 signals:
   numeric_observation_count: 103
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: After what has been an overall miserable 2023 in the ship-recycling
+      industry and even worse6-month tail end of, whereby all of the major ship recycling
+      destinations were swept up in declining vessel prices, a plummeting supply of
+      fresh units, currency deprecia
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Critical factors such as declining currency values (except in India),
+      flatlining / declining local steel plate prices, and the dreadful (& ongoing)
+      lack of funding on fresh acquisitions (in Bangladesh and Pakistan), all came
+      together and festered into the ines
+    unit: usd
+    values:
+    - 100.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: ‘Thankfully', the ongoing dearth of tonnage seems to have played
+      its part and kept vessel prices relatively buoyant in nearly all of the international
+      ship recycling markets - around (and even well in excess of) USD 500/Ton in
+      the Indian sub-continent & around
+    unit: tonnage
+    values:
+    - 500.0
+    - 350.0
+    - 200.0
+    - 2015.0
+    - 2016.0
+  - section: Main
+    section_type: null
+    source_line: 'Additionally, the lack of financing available to Ship Recyclers
+      in both Bangladesh and Pakistan through much of 2023 has only further ensured
+      that a minimal number of deals would be concluded into these markets - so unsparingly
+      & unforgiving have these recent '
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: While the rampant flatlining of local steel plate prices (in Bangladesh
+      & Pakistan) was ensued by the ever-present volatility that devoured much of
+      2023, early 2024 (especially until May) will likely be a similarly quieter period
+      as elections are expected acro
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 1 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: GMS would like to wish readers a Happy New Year and the best for
+      2024 ahead!
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-01-08_gms-week-01-whats-in-store-for-24_img1_246563_b176213bde17.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -8.0
+    - 1.0
+    - 24.0
+    - 246563.0
+    - 76213.0
+    - 7.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: January 5th, 2024 "Concentrate all your thoughts upon the work in
+      hand.
+    unit: null
+    values:
+    - 5.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Volume 257, Issue 1116 The sun's rays do not burn until brought to
+      a focus."
+    unit: null
+    values:
+    - 257.0
+    - 1116.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Week 1 - Alexander Graham Bell
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: WHAT'S IN STORE, FOR ‘24?
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: • New year hopes. After what has been an overall miserable 2023 in
+      the ship-recycling industry and eve n worse 6-
+    unit: null
+    values:
+    - 2023.0
+    - 6.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: rampant global inflation, 2024 seems to be off with just a little
+      more hope and a chance at
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: • 2023 decline.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: eventually bogged the markets down by over USD 100/LDT on vessel
+      prices, over the course
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: • Tonnage lacking. of the summer / monsoon months of 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: well in excess of) USD 500/Ton in the Indian sub-continent & around
+      USD 350/MT in Turkey -
+    unit: tonnage
+    values:
+    - 500.0
+    - 350.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: •Elections loom. certainly some very strong numbers to contend with,
+      given that lows in the USD 200s/Ton
+    unit: usd
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: greeted the sub-continent ship recycling markets only as recently
+      as 2015 / 2016.
+    unit: null
+    values:
+    - 2015.0
+    - 2016.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: through much of 2023 has only further ensured that a minimal number
+      of deals would be
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: by the ever-present volatility that devoured much of 2023, early
+      2024 (especially until May) will
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: to stimulate their respective economies & drive some much-needed
+      growth for the rest of 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: For week 1 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: GMS would like to wish readers a Happy New Year and the best for
+      2024 ahead!
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 490 / LDT 510 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 490.0
+    - 510.0
+    - 530.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 340.0
+    - 350.0
+    - 360.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: elections that are due to be held on January 7t h, there has been
+      a muted amount of activity
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: inches dangerously closer to breaching BDT 110 against the U.S. Dollar.
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: from Alang through week 1 of 2024, despite India being the sub-continent's
+      only hassle-
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: of 2023. INDIA
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Notwithstanding, the onset of 2024 does seem a little rosier, in
+      that, despite its omnipresent
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: volatility, local steel plate prices did the end the week in excess
+      of USD 4/Ton higher than
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: last, while the Indian Rupee gradually firms its way towards the
+      doors of Rs. 82.99, as it
+    unit: null
+    values:
+    - 82.99
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: ended the week at levels approaching Rs. 83.05 against the U.S. Dollar,
+    unit: null
+    values:
+    - 83.05
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Finally, India becomes the first destination to confirm the first
+      and only market sale of 2024
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: container vessel MSC SOPHIE (13,616 LDT), at a relatively firm USD
+      565/LT LDT, with
+    unit: usd
+    values:
+    - 13616.0
+    - 565.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: about 1,2 00 Tons of bunkers included in the sale that contributed
+      approximately USD
+    unit: usd
+    values:
+    - 12.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 40/LDT t o the value of, and basis a guaranteed HKC recycling to
+      a limited number of
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: USD 565/LT LDT (with about 1,200 Ts
+    unit: usd
+    values:
+    - 565.0
+    - 1200.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: MSC SOPHIE Container 13,616
+    unit: null
+    values:
+    - 13616.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Even though Pakistan is the top placed ship-recycling market at the
+      onset of 2024 (in terms
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: in 2023 possibly being the worst performing year in Pakistan's ship-recycling
+      history, with
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: a mere 16 vessels being beached throuIgNhouDt thIeA yea r.
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: once again, the Pakistani Rupee ended the first week of 2024 marginally
+      firmer and at levels
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: just shy of PKR 281.50 against the U.SI. DNollDar. IA
+    unit: null
+    values:
+    - 281.5
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Hong Kong Conventions entry into force in 2025, and as Gadani Buyers
+      start to effectively
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 300/MT offers that this market has been historically programmed to
+      fall back to), Turkish
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 30, ending the week at levels in the region of TRY 29.85 against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 30.0
+    - 29.85
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: has been all but invisible and the fact that Turkish yards have even
+      managed to ride 2023
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Here's to hoping Q1 '24 isn't more of the same.
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line:  The sun and the earth are at a distance of 150 million km. Because
+      light travels 300,000 km/second, it takes only 8
+    unit: null
+    values:
+    - 150.0
+    - 300000.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: minu tes and 19 seconds to travel from the sun to the earth.
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: hole is about 10,000 light-years from earth.
+    unit: null
+    values:
+    - 10000.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: January 15 - Pongal January 09 - January 17
+    unit: null
+    values:
+    - 15.0
+    - 9.0
+    - 17.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 23 - January 30
+    unit: null
+    values:
+    - 26.0
+    - 23.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 13 - January 16
+    unit: null
+    values:
+    - 1.0
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January
+      30
+    unit: null
+    values:
+    - 7.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 05, 2024
+    unit: null
+    values:
+    - 5.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 1 Onyx 1 10,643 Container Arrived January 04
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 10643.0
+    - 4.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 2 Proliv Longa 1,270 Fishing Arrived January 04
+    unit: null
+    values:
+    - 2.0
+    - 1270.0
+    - 4.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sas 4 935 Supply Arrived December 16
+    unit: null
+    values:
+    - 3.0
+    - 4.0
+    - 935.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 4 Silk 7,036 Container Beached December 29
+    unit: null
+    values:
+    - 4.0
+    - 7036.0
+    - 29.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 5 Sol 3,870 Container Arrived January 05
+    unit: null
+    values:
+    - 5.0
+    - 3870.0
+    - 5.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 6 Wau 7 5,730 Container Beached December 31
+    unit: null
+    values:
+    - 6.0
+    - 7.0
+    - 5730.0
+    - 31.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 7 White Palm (Under Tow) 762 Pilot Boat Arrived December 16
+    unit: null
+    values:
+    - 7.0
+    - 762.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 8 Xin Feng 10,316 Container Beached December 31
+    unit: null
+    values:
+    - 8.0
+    - 10316.0
+    - 31.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 40,563
+    unit: null
+    values:
+    - 40563.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 05, 2024
+    unit: null
+    values:
+    - 5.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 1 General Romulo (Dead Vessel) 2,553 General Cargo / Container Arrived
+      January 03
+    unit: null
+    values:
+    - 1.0
+    - 2553.0
+    - 3.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 2 Jin Hai Xi 5,931 Bulk Carrier Arrived January 02
+    unit: null
+    values:
+    - 2.0
+    - 5931.0
+    - 2.0
+  - section: 'Linked asset: 2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf'
+    section_type: linked_pdf
+    source_line: 3 West Ocean 12 1,733 General Cargo Arrived December 23
+    unit: null
+    values:
+    - 3.0
+    - 12.0
+    - 1733.0
+    - 23.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-01-08_gms-week-01-whats-in-store-for-24.html
 source_stem: 2024-01-08_gms-week-01-whats-in-store-for-24

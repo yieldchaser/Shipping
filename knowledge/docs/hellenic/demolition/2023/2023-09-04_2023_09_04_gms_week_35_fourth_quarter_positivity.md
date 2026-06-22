@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 113
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Several sales have reportedly been confirmed into Pakistan over the
     last month (a couple of units have even greeted Gadani's waterfront this week),
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 1.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Indeed, global steel plate prices have firmed up by about 2% over this
     past week, reportedly off the back of Chinese measures to boost the housing market
@@ -49,8 +47,7 @@ numeric_observations:
   unit: pct
   values:
   - 2.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Only in Bangladesh have plate prices remained stranded / flatlined
     in the doldrums for yet another week, as no serious offers on vessels have emanated
@@ -59,8 +56,7 @@ numeric_observations:
   unit: usd
   values:
   - 450.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 35 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -68,8 +64,7 @@ numeric_observations:
   values:
   - 35.0
   - 2023.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-09-04_gms-week-35-fourth-quarter-positivity_img1_03092023gms_f356a2ea7ebb.jpg'
   unit: null
@@ -80,55 +75,48 @@ numeric_observations:
   - 35.0
   - 3092023.0
   - 56.0
-- &id006
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Septemb er 1st, 2023
   unit: null
   values:
   - 1.0
   - 2023.0
-- &id007
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Volume 253, Issue 1098
   unit: null
   values:
   - 253.0
   - 1098.0
-- &id008
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Week 35
   unit: null
   values:
   - 35.0
-- &id009
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: (precariously) coming through for some of the tier-1 Recyclers in Gadani,
     where capacity and
   unit: null
   values:
   - 1.0
-- &id010
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: • Global steel boon. Indeed, global steel plate prices have firmed
     up by about 2% over this past week, reportedly
   unit: pct
   values:
   - 2.0
-- &id011
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: believe they can secure bargain deals closer to USD 450/LDT (in vain,
     if we may add).
   unit: usd
   values:
   - 450.0
-- &id012
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: For week 35 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -136,8 +124,7 @@ numeric_observations:
   values:
   - 35.0
   - 2023.0
-- &id013
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -146,8 +133,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id014
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 2 India Improving 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id015
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id016
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
   unit: null
@@ -176,39 +160,34 @@ numeric_observations:
   - 300.0
   - 310.0
   - 320.0
-- &id017
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Gone are the days of Bangladesh securing distressed sales below USD
     500/LDT and even
   unit: usd
   values:
   - 500.0
-- &id019
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: the U.S Dollar, grooving around at levels above BDT 109.10.
   unit: null
   values:
   - 109.1
-- &id020
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: USD 12/Ton, while the Indian Rupee IcNontDinueIsA to dance around the
     mid Rs. 82x against
@@ -216,8 +195,7 @@ numeric_observations:
   values:
   - 12.0
   - 82.0
-- &id022
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: (6,499 LDT) was fixed for a decent UISND 5D45/LITA LD T basis an ‘as
     is' Singapore delivery,
@@ -226,60 +204,52 @@ numeric_observations:
   - 6499.0
   - 5.0
   - 5.0
-- &id023
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: with 350 Tons of bunkers included in the sale, and basis a full range
     HKC resale only.
   unit: null
   values:
   - 350.0
-- &id024
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: USD 545/LT LDT (‘as is' Singapore with
   unit: usd
   values:
   - 545.0
-- &id025
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: CHERRY Container 6,499
   unit: null
   values:
   - 6499.0
-- &id026
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 350 Ts bunkers)
   unit: null
   values:
   - 350.0
-- &id027
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: deposit close to 100% cash margins with their banks.
   unit: pct
   values:
   - 100.0
-- &id029
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: confirmed to a Gadani Recycler, as the Italian built bulker SOTIRIA
     (11,588 LDT) was
   unit: null
   values:
   - 11588.0
-- &id030
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: concluded for a firm USD 545/LT LDT. This follows last week's sale
     of bulker GLORIA 1
@@ -287,8 +257,7 @@ numeric_observations:
   values:
   - 545.0
   - 1.0
-- &id031
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: (11,259 LDT) that was also committed to Pakistan, for a healthy USD
     525/LT LDT.
@@ -296,8 +265,7 @@ numeric_observations:
   values:
   - 11259.0
   - 525.0
-- &id032
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Rupee collapses past PKR 300, ending the we ek past PKR 305 against
     the U.S. Dollar.
@@ -305,93 +273,81 @@ numeric_observations:
   values:
   - 300.0
   - 305.0
-- &id033
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: SOTIRIA Bulker 11,588 USD 545/LT LDT
   unit: usd
   values:
   - 11588.0
   - 545.0
-- &id034
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: mid TRY 26s against the U.S. Dollar, the introduction of units at a
     time when prices have
   unit: null
   values:
   - 26.0
-- &id036
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line:  About 80 percent of the world's fresh water originates in the mountains.
   unit: null
   values:
   - 80.0
-- &id038
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line:  The tallest mountain in the world is Mount Everest, which is 29,029
     feet high. The tallest mountain in the
   unit: null
   values:
   - 29029.0
-- &id039
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: known universe is 84,480 feet high.
   unit: null
   values:
   - 84480.0
-- &id040
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line:  The world's highest unclimbed mountain is Gangkhar Puensum in Bhutan.
     It is 24,982 feet tall, and it is the
   unit: null
   values:
   - 24982.0
-- &id041
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 40th tallest mountain in the world.
   unit: null
   values:
   - 40.0
-- &id042
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Some scientists believe that some of these portions have been deserts
     for 40 million years.
   unit: null
   values:
   - 40.0
-- &id043
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line:  There are still farmers in the Atacama Desert. The population there
     is 1 million
   unit: null
   values:
   - 1.0
-- &id044
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: August 31 - Raksha Bandhan August 28 - September 06
   unit: null
@@ -399,8 +355,7 @@ numeric_observations:
   - 31.0
   - 28.0
   - 6.0
-- &id045
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 06 - Janmashtami September 14 - September 20
   unit: null
@@ -408,16 +363,14 @@ numeric_observations:
   - 6.0
   - 14.0
   - 20.0
-- &id046
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 26 - October 05
   unit: null
   values:
   - 26.0
   - 5.0
-- &id047
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 06 - Janmashtami August 30 - September 02
   unit: null
@@ -425,8 +378,7 @@ numeric_observations:
   - 6.0
   - 30.0
   - 2.0
-- &id048
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 28 - Eid-e-Milad-um-Nami September 14 - September 17
   unit: null
@@ -434,16 +386,14 @@ numeric_observations:
   - 28.0
   - 14.0
   - 17.0
-- &id049
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 08 - October 01
   unit: null
   values:
   - 8.0
   - 1.0
-- &id050
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um- August
     30 - Victory Day
@@ -452,24 +402,21 @@ numeric_observations:
   - 29.0
   - 28.0
   - 30.0
-- &id051
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 01, 2023
   unit: null
   values:
   - 1.0
   - 2023.0
-- &id053
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 1 Lila Ningbo 24,181 Bulk Carrier Beached August 31
   unit: null
@@ -477,8 +424,7 @@ numeric_observations:
   - 1.0
   - 24181.0
   - 31.0
-- &id054
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 2 Maersk Patras 12,400 Container Beached August 29
   unit: null
@@ -486,8 +432,7 @@ numeric_observations:
   - 2.0
   - 12400.0
   - 29.0
-- &id055
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 3 One Happy 7,726 Bulk Carrier Arrived September 01
   unit: null
@@ -495,8 +440,7 @@ numeric_observations:
   - 3.0
   - 7726.0
   - 1.0
-- &id056
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 4 Sein Star 2,198 Reefer Beached August 30
   unit: null
@@ -504,8 +448,7 @@ numeric_observations:
   - 4.0
   - 2198.0
   - 30.0
-- &id057
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 5 Sinokor Akita 4,672 Container Arrived August 29
   unit: null
@@ -513,8 +456,7 @@ numeric_observations:
   - 5.0
   - 4672.0
   - 29.0
-- &id058
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 6 Sinokor Tian Jin 4,672 Container Beached August 31
   unit: null
@@ -522,23 +464,20 @@ numeric_observations:
   - 6.0
   - 4672.0
   - 31.0
-- &id059
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 55,849
   unit: null
   values:
   - 55849.0
-- &id060
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 01, 2023
   unit: null
   values:
   - 1.0
   - 2023.0
-- &id061
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 1 Fine Star 9,859 Bulk Carrier Arrived August 31
   unit: null
@@ -546,8 +485,7 @@ numeric_observations:
   - 1.0
   - 9859.0
   - 31.0
-- &id062
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 2 Harin Navee 7 698 General Cargo Arrived August 23
   unit: null
@@ -556,8 +494,7 @@ numeric_observations:
   - 7.0
   - 698.0
   - 23.0
-- &id063
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 3 Harmonia 9,738 Woodchip Carrier Arrived August 30
   unit: null
@@ -565,8 +502,7 @@ numeric_observations:
   - 3.0
   - 9738.0
   - 30.0
-- &id064
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 4 Jabal Ali 5 5,965 RoRo / Cargo Arrived August 30
   unit: null
@@ -575,8 +511,7 @@ numeric_observations:
   - 5.0
   - 5965.0
   - 30.0
-- &id065
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 5 Jen Z 10,784 Bulk Carrier Beached August 31
   unit: null
@@ -584,8 +519,7 @@ numeric_observations:
   - 5.0
   - 10784.0
   - 31.0
-- &id066
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 6 Lauren Ocean 8,400 Bulk Carrier Arrived August 31
   unit: null
@@ -593,8 +527,7 @@ numeric_observations:
   - 6.0
   - 8400.0
   - 31.0
-- &id067
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 7 Lucky 3 1,042 General Cargo (Other) Beached August 26
   unit: null
@@ -603,8 +536,7 @@ numeric_observations:
   - 3.0
   - 1042.0
   - 26.0
-- &id068
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 8 Ocean Success 10,163 Bulk Carrier Arrived August 31
   unit: null
@@ -612,8 +544,7 @@ numeric_observations:
   - 8.0
   - 10163.0
   - 31.0
-- &id069
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 9 Sol Hind 7,852 Container Beached September 01
   unit: null
@@ -621,8 +552,7 @@ numeric_observations:
   - 9.0
   - 7852.0
   - 1.0
-- &id070
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 10 Thida 7 6,232 Container Beached September 01
   unit: null
@@ -631,8 +561,7 @@ numeric_observations:
   - 7.0
   - 6232.0
   - 1.0
-- &id071
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 11 Wellwin 8,940 Bulk Carrier Beached August 31
   unit: null
@@ -640,8 +569,7 @@ numeric_observations:
   - 11.0
   - 8940.0
   - 31.0
-- &id072
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 12 Xiang He 9,016 General Cargo Beached September 01
   unit: null
@@ -649,8 +577,7 @@ numeric_observations:
   - 12.0
   - 9016.0
   - 1.0
-- &id073
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 13 YuaN Tu 3,495 General Cargo Arrived August 31
   unit: null
@@ -658,8 +585,7 @@ numeric_observations:
   - 13.0
   - 3495.0
   - 31.0
-- &id074
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 14 Zen G 10,750 Bulk Carrier Beached September 01
   unit: null
@@ -667,23 +593,20 @@ numeric_observations:
   - 14.0
   - 10750.0
   - 1.0
-- &id075
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 102,933
   unit: null
   values:
   - 102933.0
-- &id076
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 01, 2023
   unit: null
   values:
   - 1.0
   - 2023.0
-- &id077
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 1 Chang Min 9,483 Bulk Carrier Arrived August 26
   unit: null
@@ -691,8 +614,7 @@ numeric_observations:
   - 1.0
   - 9483.0
   - 26.0
-- &id078
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 2 Sun Shine 10,317 Bulk Carrier Arrived August 28
   unit: null
@@ -700,15 +622,13 @@ numeric_observations:
   - 2.0
   - 10317.0
   - 28.0
-- &id079
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,800
   unit: null
   values:
   - 19800.0
-- &id080
-  section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+- section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -1020,86 +940,614 @@ section_count: 3
 signals:
   numeric_observation_count: 113
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Several sales have reportedly been confirmed into Pakistan over the
+      last month (a couple of units have even greeted Gadani's waterfront this week),
+      especially as L/C approvals are now (precariously) coming through for some of
+      the tier-1 Recyclers in Gadani, wh
+    unit: null
+    values:
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: Indeed, global steel plate prices have firmed up by about 2% over
+      this past week, reportedly off the back of Chinese measures to boost the housing
+      market (lowering mortgage rates for the first time for domestic home buyers)
+      and to support the Renminbi (the off
+    unit: pct
+    values:
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: Only in Bangladesh have plate prices remained stranded / flatlined
+      in the doldrums for yet another week, as no serious offers on vessels have emanated
+      from local Recyclers as a result. Moreover, foreign currency / U.S. Dollar reserves
+      are still struggling to b
+    unit: usd
+    values:
+    - 450.0
+  - section: Main
+    section_type: null
+    source_line: For week 35 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-09-04_gms-week-35-fourth-quarter-positivity_img1_03092023gms_f356a2ea7ebb.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -9.0
+    - -4.0
+    - 35.0
+    - 3092023.0
+    - 56.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Septemb er 1st, 2023
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Volume 253, Issue 1098
+    unit: null
+    values:
+    - 253.0
+    - 1098.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Week 35
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: (precariously) coming through for some of the tier-1 Recyclers in
+      Gadani, where capacity and
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: • Global steel boon. Indeed, global steel plate prices have firmed
+      up by about 2% over this past week, reportedly
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: believe they can secure bargain deals closer to USD 450/LDT (in vain,
+      if we may add).
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: For week 35 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan* Improving 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Improving 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 300.0
+    - 310.0
+    - 320.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Gone are the days of Bangladesh securing distressed sales below USD
+      500/LDT and even
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: the U.S Dollar, grooving around at levels above BDT 109.10.
+    unit: null
+    values:
+    - 109.1
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: USD 12/Ton, while the Indian Rupee IcNontDinueIsA to dance around
+      the mid Rs. 82x against
+    unit: usd
+    values:
+    - 12.0
+    - 82.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: (6,499 LDT) was fixed for a decent UISND 5D45/LITA LD T basis an
+      ‘as is' Singapore delivery,
+    unit: null
+    values:
+    - 6499.0
+    - 5.0
+    - 5.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: with 350 Tons of bunkers included in the sale, and basis a full range
+      HKC resale only.
+    unit: null
+    values:
+    - 350.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: USD 545/LT LDT (‘as is' Singapore with
+    unit: usd
+    values:
+    - 545.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: CHERRY Container 6,499
+    unit: null
+    values:
+    - 6499.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 350 Ts bunkers)
+    unit: null
+    values:
+    - 350.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: deposit close to 100% cash margins with their banks.
+    unit: pct
+    values:
+    - 100.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: confirmed to a Gadani Recycler, as the Italian built bulker SOTIRIA
+      (11,588 LDT) was
+    unit: null
+    values:
+    - 11588.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: concluded for a firm USD 545/LT LDT. This follows last week's sale
+      of bulker GLORIA 1
+    unit: usd
+    values:
+    - 545.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: (11,259 LDT) that was also committed to Pakistan, for a healthy USD
+      525/LT LDT.
+    unit: usd
+    values:
+    - 11259.0
+    - 525.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Rupee collapses past PKR 300, ending the we ek past PKR 305 against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 300.0
+    - 305.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: SOTIRIA Bulker 11,588 USD 545/LT LDT
+    unit: usd
+    values:
+    - 11588.0
+    - 545.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: mid TRY 26s against the U.S. Dollar, the introduction of units at
+      a time when prices have
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line:  About 80 percent of the world's fresh water originates in the mountains.
+    unit: null
+    values:
+    - 80.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line:  The tallest mountain in the world is Mount Everest, which is 29,029
+      feet high. The tallest mountain in the
+    unit: null
+    values:
+    - 29029.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: known universe is 84,480 feet high.
+    unit: null
+    values:
+    - 84480.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line:  The world's highest unclimbed mountain is Gangkhar Puensum in Bhutan.
+      It is 24,982 feet tall, and it is the
+    unit: null
+    values:
+    - 24982.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 40th tallest mountain in the world.
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Some scientists believe that some of these portions have been deserts
+      for 40 million years.
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line:  There are still farmers in the Atacama Desert. The population there
+      is 1 million
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: August 31 - Raksha Bandhan August 28 - September 06
+    unit: null
+    values:
+    - 31.0
+    - 28.0
+    - 6.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 06 - Janmashtami September 14 - September 20
+    unit: null
+    values:
+    - 6.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 26 - October 05
+    unit: null
+    values:
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 06 - Janmashtami August 30 - September 02
+    unit: null
+    values:
+    - 6.0
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 28 - Eid-e-Milad-um-Nami September 14 - September 17
+    unit: null
+    values:
+    - 28.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 08 - October 01
+    unit: null
+    values:
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: September 29 - Mid-Autumn Festival September 28 - Eid-e-Milad-um-
+      August 30 - Victory Day
+    unit: null
+    values:
+    - 29.0
+    - 28.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 01, 2023
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Lila Ningbo 24,181 Bulk Carrier Beached August 31
+    unit: null
+    values:
+    - 1.0
+    - 24181.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Maersk Patras 12,400 Container Beached August 29
+    unit: null
+    values:
+    - 2.0
+    - 12400.0
+    - 29.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 3 One Happy 7,726 Bulk Carrier Arrived September 01
+    unit: null
+    values:
+    - 3.0
+    - 7726.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sein Star 2,198 Reefer Beached August 30
+    unit: null
+    values:
+    - 4.0
+    - 2198.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 5 Sinokor Akita 4,672 Container Arrived August 29
+    unit: null
+    values:
+    - 5.0
+    - 4672.0
+    - 29.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 6 Sinokor Tian Jin 4,672 Container Beached August 31
+    unit: null
+    values:
+    - 6.0
+    - 4672.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 55,849
+    unit: null
+    values:
+    - 55849.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 01, 2023
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Fine Star 9,859 Bulk Carrier Arrived August 31
+    unit: null
+    values:
+    - 1.0
+    - 9859.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Harin Navee 7 698 General Cargo Arrived August 23
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+    - 698.0
+    - 23.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 3 Harmonia 9,738 Woodchip Carrier Arrived August 30
+    unit: null
+    values:
+    - 3.0
+    - 9738.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 4 Jabal Ali 5 5,965 RoRo / Cargo Arrived August 30
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+    - 5965.0
+    - 30.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 5 Jen Z 10,784 Bulk Carrier Beached August 31
+    unit: null
+    values:
+    - 5.0
+    - 10784.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 6 Lauren Ocean 8,400 Bulk Carrier Arrived August 31
+    unit: null
+    values:
+    - 6.0
+    - 8400.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 7 Lucky 3 1,042 General Cargo (Other) Beached August 26
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+    - 1042.0
+    - 26.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 8 Ocean Success 10,163 Bulk Carrier Arrived August 31
+    unit: null
+    values:
+    - 8.0
+    - 10163.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sol Hind 7,852 Container Beached September 01
+    unit: null
+    values:
+    - 9.0
+    - 7852.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 10 Thida 7 6,232 Container Beached September 01
+    unit: null
+    values:
+    - 10.0
+    - 7.0
+    - 6232.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 11 Wellwin 8,940 Bulk Carrier Beached August 31
+    unit: null
+    values:
+    - 11.0
+    - 8940.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 12 Xiang He 9,016 General Cargo Beached September 01
+    unit: null
+    values:
+    - 12.0
+    - 9016.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 13 YuaN Tu 3,495 General Cargo Arrived August 31
+    unit: null
+    values:
+    - 13.0
+    - 3495.0
+    - 31.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 14 Zen G 10,750 Bulk Carrier Beached September 01
+    unit: null
+    values:
+    - 14.0
+    - 10750.0
+    - 1.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 102,933
+    unit: null
+    values:
+    - 102933.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 01, 2023
+    unit: null
+    values:
+    - 1.0
+    - 2023.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 1 Chang Min 9,483 Bulk Carrier Arrived August 26
+    unit: null
+    values:
+    - 1.0
+    - 9483.0
+    - 26.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sun Shine 10,317 Bulk Carrier Arrived August 28
+    unit: null
+    values:
+    - 2.0
+    - 10317.0
+    - 28.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,800
+    unit: null
+    values:
+    - 19800.0
+  - section: 'Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-09-04_gms-week-35-fourth-quarter-positivity.html
 source_stem: 2023-09-04_gms-week-35-fourth-quarter-positivity

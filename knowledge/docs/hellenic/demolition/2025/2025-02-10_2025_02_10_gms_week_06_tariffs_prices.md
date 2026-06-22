@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 104
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: With week 6 of 2025 behind us, the raging fires of tariffs and counter-tariffs
     that continue to suppress recycling vesselprices via volatile fundamentals, are
@@ -45,8 +44,7 @@ numeric_observations:
   - 2023.0
   - 2024.0
   - 2025.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As the Baltic Exchange's Dry Index reported dry bulk rates stabilizing
     across January 2025 and even start to climb across the last couple of weeks, the
@@ -56,8 +54,7 @@ numeric_observations:
   values:
   - 2025.0
   - 71.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'This weakening in ship recycling nation currencies as well flatlining
     / declining steel plate prices have seen vessel offers continually cooling across
@@ -67,8 +64,7 @@ numeric_observations:
   values:
   - 30.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 6 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -76,8 +72,7 @@ numeric_observations:
   values:
   - 6.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-02-10_gms-week-06-tariffs-prices_img1_1234567_5e5d64feeb6a.jpg'
   unit: null
@@ -89,31 +84,27 @@ numeric_observations:
   - 1234567.0
   - 5.0
   - 4.0
-- &id006
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 7th, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Week 6
   unit: null
   values:
   - 6.0
-- &id008
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Volume 269, Issue 1172
   unit: null
   values:
   - 269.0
   - 1172.0
-- &id009
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: • Surprise softening. With week 7 of 20o2u5 tb. eThhinedre u'ss n,
     toh es urachgi tnhgi nfigre ass o lfi t faer iinff-sb aentdw ceoeunn."t er-tariffs
@@ -122,8 +113,7 @@ numeric_observations:
   values:
   - 7.0
   - 20.0
-- &id010
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: the skies across 2023 and especially 2024, only subjected the ship
     recycling industry to one of the
@@ -131,48 +121,42 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id011
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: the industry has as a result, seen a flurry of tonnage enter the markets
     since the onset of 2025, which
   unit: null
   values:
   - 2025.0
-- &id012
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: • Slimmer at the As the Baltic Exchange's Dry Index reported dry bulk
     rates stabilizing across January 2025 and even
   unit: null
   values:
   - 2025.0
-- &id013
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: close the week out at USD 71/barrel amidst further fears of rising
     fuel and energy prices and
   unit: usd
   values:
   - 71.0
-- &id014
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: • Continually up to USD 30/LDT across the board were wiped out at a
     time that is a traditionally stronger period
   unit: usd
   values:
   - 30.0
-- &id015
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: owners globally re-positioning their units on the back of rising rates
     / sanctions, 2025 might be the
   unit: null
   values:
   - 2025.0
-- &id016
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 6 of 2025 are on Page 5.
   unit: null
@@ -180,47 +164,41 @@ numeric_observations:
   - 6.0
   - 2025.0
   - 5.0
-- &id017
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 024 AGAIN?
   unit: null
   values:
   - 24.0
-- &id019
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Speaking of tonnage, Chattogram's anchorage remains an impressive sigth
     with 7 ships and nearly
   unit: null
   values:
   - 7.0
-- &id020
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 82K LDT either lying in wait at the waterfront or delivered to their
     respective owners through the
   unit: null
   values:
   - 82.0
-- &id021
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: that have refused to move from USD 529.41/Ton for about a quarter now.
     Further suppressing the
   unit: usd
   values:
   - 529.41
-- &id022
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: hemorrhaging in value since June 2024 including this week, where it
     ended nearly 0.5% lower than
@@ -228,55 +206,48 @@ numeric_observations:
   values:
   - 2024.0
   - 0.5
-- &id023
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: last and at BDT 121.33 against the U.S. Dollar.
   unit: null
   values:
   - 121.33
-- &id024
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: vintage 90s built bulk carriers that have been and continue to ease
     off charter and as time only
   unit: null
   values:
   - 90.0
-- &id025
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: to March 31st, an act that has merely extended the inevitable for Chattogram
     choppers, Q3 will be
   unit: null
   values:
   - 31.0
-- &id026
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: the top of the marking rankings since 2024 and even managed to conclude
     their fair share of tonnage
   unit: null
   values:
   - 2024.0
-- &id028
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: USD 400s/LDT that continue to face immense downward pressures and are,
     as a result, displaying an
   unit: usd
   values:
   - 400.0
-- &id029
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: week at nearly 1.6% against the U.S. Dollar, ending it at a historical
     record of Rs. 87.71.
@@ -284,8 +255,7 @@ numeric_observations:
   values:
   - 1.6
   - 87.71
-- &id030
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 2025 - 2026 budget (for Alang's ship recycling sector), any form of
     domestic recovery in the domestic
@@ -293,8 +263,7 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id031
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: managed to squirrel away another 6 ships and nearly 75K LDT, a healthy
     number at Alang given that
@@ -302,72 +271,63 @@ numeric_observations:
   values:
   - 6.0
   - 75.0
-- &id032
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: On the eve of the 5th month potentially highlighting an empty port
     report, the Gadani Gang seems
   unit: null
   values:
   - 5.0
-- &id034
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: entrenched in third place since Q4 2024, further compelling this market
     down the path of Turkey's
   unit: null
   values:
   - 2024.0
-- &id035
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: sub-continent, have remained horizontal for the longest at USD 643.78
     / Ton, being suppressed by
   unit: usd
   values:
   - 643.78
-- &id036
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: to HKC standards by July 1st of this year, or gay of the way of the
     Dodo.
   unit: null
   values:
   - 1.0
-- &id037
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: that on price levels so that Pakistan can remain a relevant destination
     heading into 2026.
   unit: null
   values:
   - 2026.0
-- &id038
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: recyclers thus far, and certainly with reason. Like the sub-continent
     markets, with USD 30/MT being
   unit: tonnage
   values:
   - 30.0
-- &id040
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: that weakened further by 27 basis points and ended the week, squarely
     at a record-breaking TRY 36
@@ -375,8 +335,7 @@ numeric_observations:
   values:
   - 27.0
   - 36.0
-- &id041
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: For Week 6 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -384,8 +343,7 @@ numeric_observations:
   values:
   - 6.0
   - 2025.0
-- &id042
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -394,8 +352,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id043
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -404,8 +361,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id044
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -414,8 +370,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id045
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -424,54 +379,47 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id046
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line:  For years, the C.I.A. collaborated with the Mafia to plot the assassination
     of Fidel Castro, who seized power in Cuba in 1959.
   unit: null
   values:
   - 1959.0
-- &id048
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line:  According to the Murder Accountability Project, which tracks h omicide
     data nationwide, nearly 300,000 people have died in
   unit: null
   values:
   - 300000.0
-- &id049
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: unsolved homicides since 1980.
   unit: null
   values:
   - 1980.0
-- &id050
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line:  The most recent "hothouse" period in the Earth's history was around
     56 million years ago, when palm trees and alligators
   unit: null
   values:
   - 56.0
-- &id051
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: $6,700.
   unit: usd
   values:
   - 6700.0
-- &id052
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 26 - Maha Shivratri February 10 - February 16
   unit: null
@@ -479,32 +427,28 @@ numeric_observations:
   - 26.0
   - 10.0
   - 16.0
-- &id053
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 26 - March 05
   unit: null
   values:
   - 26.0
   - 5.0
-- &id054
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: March 13 - March 18
   unit: null
   values:
   - 13.0
   - 18.0
-- &id055
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: March 27 - April 05
   unit: null
   values:
   - 27.0
   - 5.0
-- &id056
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 15 - Shab-e-Barat February 14 - February 17
   unit: null
@@ -512,8 +456,7 @@ numeric_observations:
   - 15.0
   - 14.0
   - 17.0
-- &id057
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 21 - Shahid Day February 28 - March 03
   unit: null
@@ -521,8 +464,7 @@ numeric_observations:
   - 21.0
   - 28.0
   - 3.0
-- &id058
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: February 26 - Independence & National Day March 14 - March 17
   unit: null
@@ -530,24 +472,21 @@ numeric_observations:
   - 26.0
   - 14.0
   - 17.0
-- &id059
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of February 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 1 Athina 3 9,969 Oil Tanker Delivered February 06
   unit: null
@@ -556,8 +495,7 @@ numeric_observations:
   - 3.0
   - 9969.0
   - 6.0
-- &id062
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 2 Ceano (Under Tow) 23,277 Jack-up Rig Delivered February 04
   unit: null
@@ -565,8 +503,7 @@ numeric_observations:
   - 2.0
   - 23277.0
   - 4.0
-- &id063
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 3 Fortu 16,120 Passenger Vessel Delivered February 02
   unit: null
@@ -574,8 +511,7 @@ numeric_observations:
   - 3.0
   - 16120.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 4 Grif (Under Tow) 1,305 Supply Vessel Delivered February 06
   unit: null
@@ -583,8 +519,7 @@ numeric_observations:
   - 4.0
   - 1305.0
   - 6.0
-- &id065
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 5 Nolan 21,861 Oil Tanker Delivered February 01
   unit: null
@@ -592,8 +527,7 @@ numeric_observations:
   - 5.0
   - 21861.0
   - 1.0
-- &id066
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 6 RDS 1 1,816 Supply Vessel Arrived February 03
   unit: null
@@ -602,23 +536,20 @@ numeric_observations:
   - 1.0
   - 1816.0
   - 3.0
-- &id067
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 74,349
   unit: null
   values:
   - 74349.0
-- &id068
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of February 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 1 Alek 3,120 General Cargo Delivered February 05
   unit: null
@@ -626,8 +557,7 @@ numeric_observations:
   - 1.0
   - 3120.0
   - 5.0
-- &id070
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 2 East Pioneer 10,891 Bulk Carrier Arrived February 04
   unit: null
@@ -635,8 +565,7 @@ numeric_observations:
   - 2.0
   - 10891.0
   - 4.0
-- &id071
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 3 Golden O 10,664 Bulk Carrier Arrived February 04
   unit: null
@@ -644,8 +573,7 @@ numeric_observations:
   - 3.0
   - 10664.0
   - 4.0
-- &id072
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 4 Guo Yuan 9 9,265 Bulk Carrier Delivered February 02
   unit: null
@@ -654,8 +582,7 @@ numeric_observations:
   - 9.0
   - 9265.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 5 Lean 29,182 LNG Tanker Arrived January 27
   unit: null
@@ -663,8 +590,7 @@ numeric_observations:
   - 5.0
   - 29182.0
   - 27.0
-- &id074
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 6 Ocean Peace 10,848 Bulk Carrier Arrived January 28
   unit: null
@@ -672,8 +598,7 @@ numeric_observations:
   - 6.0
   - 10848.0
   - 28.0
-- &id075
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 7 Three Star 7,627 Bulk Carrier Arrived January 23
   unit: null
@@ -681,23 +606,20 @@ numeric_observations:
   - 7.0
   - 7627.0
   - 23.0
-- &id076
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 81,597
   unit: null
   values:
   - 81597.0
-- &id077
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of February 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id078
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 1 Leena 5,204 Bulk Carrier Arrived February 02
   unit: null
@@ -705,15 +627,13 @@ numeric_observations:
   - 1.0
   - 5204.0
   - 2.0
-- &id079
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 5,204
   unit: null
   values:
   - 5204.0
-- &id080
-  section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+- section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -933,86 +853,617 @@ section_count: 3
 signals:
   numeric_observation_count: 104
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: With week 6 of 2025 behind us, the raging fires of tariffs and counter-tariffs
+      that continue to suppress recycling vesselprices via volatile fundamentals,
+      are now creating a path for the (near) future of the ship recycling industry,
+      one that seems to be headed
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+    - 2023.0
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: As the Baltic Exchange's Dry Index reported dry bulk rates stabilizing
+      across January 2025 and even start to climb across the last couple of weeks,
+      the inflow of recycling tonnage at the bidding tables has continued unabated
+      even in the face of declining offer
+    unit: usd
+    values:
+    - 2025.0
+    - 71.0
+  - section: Main
+    section_type: null
+    source_line: 'This weakening in ship recycling nation currencies as well flatlining
+      / declining steel plate prices have seen vessel offers continually cooling across
+      the sub-continent markets, which remains no surprise given that the true nature
+      of unfolding reality is yet '
+    unit: usd
+    values:
+    - 30.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 6 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-02-10_gms-week-06-tariffs-prices_img1_1234567_5e5d64feeb6a.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -2.0
+    - -10.0
+    - 6.0
+    - 1234567.0
+    - 5.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 7th, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Week 6
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Volume 269, Issue 1172
+    unit: null
+    values:
+    - 269.0
+    - 1172.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: • Surprise softening. With week 7 of 20o2u5 tb. eThhinedre u'ss n,
+      toh es urachgi tnhgi nfigre ass o lfi t faer iinff-sb aentdw ceoeunn."t er-tariffs
+      that continue to suppress
+    unit: null
+    values:
+    - 7.0
+    - 20.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: the skies across 2023 and especially 2024, only subjected the ship
+      recycling industry to one of the
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: the industry has as a result, seen a flurry of tonnage enter the
+      markets since the onset of 2025, which
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: • Slimmer at the As the Baltic Exchange's Dry Index reported dry
+      bulk rates stabilizing across January 2025 and even
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: close the week out at USD 71/barrel amidst further fears of rising
+      fuel and energy prices and
+    unit: usd
+    values:
+    - 71.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: • Continually up to USD 30/LDT across the board were wiped out at
+      a time that is a traditionally stronger period
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: owners globally re-positioning their units on the back of rising
+      rates / sanctions, 2025 might be the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 6 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 024 AGAIN?
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Speaking of tonnage, Chattogram's anchorage remains an impressive
+      sigth with 7 ships and nearly
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 82K LDT either lying in wait at the waterfront or delivered to their
+      respective owners through the
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: that have refused to move from USD 529.41/Ton for about a quarter
+      now. Further suppressing the
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: hemorrhaging in value since June 2024 including this week, where
+      it ended nearly 0.5% lower than
+    unit: pct
+    values:
+    - 2024.0
+    - 0.5
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: last and at BDT 121.33 against the U.S. Dollar.
+    unit: null
+    values:
+    - 121.33
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: vintage 90s built bulk carriers that have been and continue to ease
+      off charter and as time only
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: to March 31st, an act that has merely extended the inevitable for
+      Chattogram choppers, Q3 will be
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: the top of the marking rankings since 2024 and even managed to conclude
+      their fair share of tonnage
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: USD 400s/LDT that continue to face immense downward pressures and
+      are, as a result, displaying an
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: week at nearly 1.6% against the U.S. Dollar, ending it at a historical
+      record of Rs. 87.71.
+    unit: pct
+    values:
+    - 1.6
+    - 87.71
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 2025 - 2026 budget (for Alang's ship recycling sector), any form
+      of domestic recovery in the domestic
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: managed to squirrel away another 6 ships and nearly 75K LDT, a healthy
+      number at Alang given that
+    unit: null
+    values:
+    - 6.0
+    - 75.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: On the eve of the 5th month potentially highlighting an empty port
+      report, the Gadani Gang seems
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: entrenched in third place since Q4 2024, further compelling this
+      market down the path of Turkey's
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: sub-continent, have remained horizontal for the longest at USD 643.78
+      / Ton, being suppressed by
+    unit: usd
+    values:
+    - 643.78
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: to HKC standards by July 1st of this year, or gay of the way of the
+      Dodo.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: that on price levels so that Pakistan can remain a relevant destination
+      heading into 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: recyclers thus far, and certainly with reason. Like the sub-continent
+      markets, with USD 30/MT being
+    unit: tonnage
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: that weakened further by 27 basis points and ended the week, squarely
+      at a record-breaking TRY 36
+    unit: null
+    values:
+    - 27.0
+    - 36.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: For Week 6 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line:  For years, the C.I.A. collaborated with the Mafia to plot the assassination
+      of Fidel Castro, who seized power in Cuba in 1959.
+    unit: null
+    values:
+    - 1959.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line:  According to the Murder Accountability Project, which tracks h
+      omicide data nationwide, nearly 300,000 people have died in
+    unit: null
+    values:
+    - 300000.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: unsolved homicides since 1980.
+    unit: null
+    values:
+    - 1980.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line:  The most recent "hothouse" period in the Earth's history was around
+      56 million years ago, when palm trees and alligators
+    unit: null
+    values:
+    - 56.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: $6,700.
+    unit: usd
+    values:
+    - 6700.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Maha Shivratri February 10 - February 16
+    unit: null
+    values:
+    - 26.0
+    - 10.0
+    - 16.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - March 05
+    unit: null
+    values:
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: March 13 - March 18
+    unit: null
+    values:
+    - 13.0
+    - 18.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: March 27 - April 05
+    unit: null
+    values:
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 15 - Shab-e-Barat February 14 - February 17
+    unit: null
+    values:
+    - 15.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Shahid Day February 28 - March 03
+    unit: null
+    values:
+    - 21.0
+    - 28.0
+    - 3.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Independence & National Day March 14 - March 17
+    unit: null
+    values:
+    - 26.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of February 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Athina 3 9,969 Oil Tanker Delivered February 06
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 9969.0
+    - 6.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ceano (Under Tow) 23,277 Jack-up Rig Delivered February 04
+    unit: null
+    values:
+    - 2.0
+    - 23277.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Fortu 16,120 Passenger Vessel Delivered February 02
+    unit: null
+    values:
+    - 3.0
+    - 16120.0
+    - 2.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Grif (Under Tow) 1,305 Supply Vessel Delivered February 06
+    unit: null
+    values:
+    - 4.0
+    - 1305.0
+    - 6.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 5 Nolan 21,861 Oil Tanker Delivered February 01
+    unit: null
+    values:
+    - 5.0
+    - 21861.0
+    - 1.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 6 RDS 1 1,816 Supply Vessel Arrived February 03
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+    - 1816.0
+    - 3.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 74,349
+    unit: null
+    values:
+    - 74349.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of February 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Alek 3,120 General Cargo Delivered February 05
+    unit: null
+    values:
+    - 1.0
+    - 3120.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 2 East Pioneer 10,891 Bulk Carrier Arrived February 04
+    unit: null
+    values:
+    - 2.0
+    - 10891.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Golden O 10,664 Bulk Carrier Arrived February 04
+    unit: null
+    values:
+    - 3.0
+    - 10664.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Guo Yuan 9 9,265 Bulk Carrier Delivered February 02
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 9265.0
+    - 2.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 5 Lean 29,182 LNG Tanker Arrived January 27
+    unit: null
+    values:
+    - 5.0
+    - 29182.0
+    - 27.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 6 Ocean Peace 10,848 Bulk Carrier Arrived January 28
+    unit: null
+    values:
+    - 6.0
+    - 10848.0
+    - 28.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 7 Three Star 7,627 Bulk Carrier Arrived January 23
+    unit: null
+    values:
+    - 7.0
+    - 7627.0
+    - 23.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 81,597
+    unit: null
+    values:
+    - 81597.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of February 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Leena 5,204 Bulk Carrier Arrived February 02
+    unit: null
+    values:
+    - 1.0
+    - 5204.0
+    - 2.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 5,204
+    unit: null
+    values:
+    - 5204.0
+  - section: 'Linked asset: 2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-02-10_gms-week-06-tariffs-prices.html
 source_stem: 2025-02-10_gms-week-06-tariffs-prices

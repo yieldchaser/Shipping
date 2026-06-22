@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 92
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'On the Ship Recycling front, off of the back of the first set of 2024
     L/C approvals that saw a subsequent increase in the number of inquiries emerging
@@ -41,8 +40,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Elections are also to conclude in Pakistan & India in the coming months
     and in India as well, Prime Minister Modi's party is expected to maintain its
@@ -52,8 +50,7 @@ numeric_observations:
   values:
   - 5.0
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, amidst all of the ongoing uncertainty & turmoil that is currently
     unfolding across much of the Middle East, Chinese New Year holidays hopefully
@@ -62,8 +59,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 2 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -71,8 +67,7 @@ numeric_observations:
   values:
   - 2.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1_14012024_a18b4918f32e.jpg'
   unit: null
@@ -85,8 +80,7 @@ numeric_observations:
   - 8.0
   - 918.0
   - 2.0
-- &id006
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: January 12th, 2024 "A man who has committed a mistake and doesn't correct
     it,
@@ -94,55 +88,48 @@ numeric_observations:
   values:
   - 12.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Volume 257, Issue 1117 is committing an even bigger mistake."
   unit: null
   values:
   - 257.0
   - 1117.0
-- &id008
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Week 2 - Confucius Kongzi
   unit: null
   values:
   - 2.0
-- &id009
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: On the Ship Recycling front, off of the back of the first set of 2024
     L/C approvals that saw a
   unit: null
   values:
   - 2024.0
-- &id010
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: incoming votes for another 5-year term, as India continues to compete
     incredibly at a global level,
   unit: null
   values:
   - 5.0
-- &id011
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: market in the West end remained quiet as ever, despite the Lira blowing
     past TRY 30 this week.
   unit: null
   values:
   - 30.0
-- &id012
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: in the supply of recycling candidates towards the end of Q1 2024 is
     expected to hit the industry.
   unit: null
   values:
   - 2024.0
-- &id013
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: For week 2 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -150,8 +137,7 @@ numeric_observations:
   values:
   - 2.0
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -160,8 +146,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id015
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh* Improving 490 / LDT 510 / LDT 530 / LDT
   unit: null
@@ -170,8 +155,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 530.0
-- &id016
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -180,8 +164,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id017
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
   unit: null
@@ -190,24 +173,21 @@ numeric_observations:
   - 340.0
   - 350.0
   - 360.0
-- &id018
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Subsequent to the terrible summer / monsoon months of 2023, which saw
     vessel prices
   unit: null
   values:
   - 2023.0
-- &id020
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: tumble from highs well-above USD 600/LDT , down to USD 500/LDT and
     even below,
@@ -215,31 +195,27 @@ numeric_observations:
   values:
   - 600.0
   - 500.0
-- &id021
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: been a trying 2 quarters - notB onAly NforG BaLngAladDeshE's SShHip
     R ecycling Sector but also the
   unit: null
   values:
   - 2.0
-- &id022
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: power for another term, it is hoped that much of the pre-2024 protesting
     and violence
   unit: null
   values:
   - 2024.0
-- &id023
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: last 6 - 7 months.
   unit: null
   values:
   - 6.0
-- &id024
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 109.50 against the U.S. Dollar (staying above the dreaded BDT 110 level),
     whilst local
@@ -247,24 +223,21 @@ numeric_observations:
   values:
   - 109.5
   - 110.0
-- &id025
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: second week of 2024, whereby Alang has now sunk to the lowest-placed
     and is the lowest-
   unit: null
   values:
   - 2024.0
-- &id027
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: vessel MSC UMA (10,455 LDT) at a relatively decent USD 528/LT LDT this
     week, but the
@@ -272,32 +245,28 @@ numeric_observations:
   values:
   - 10455.0
   - 528.0
-- &id028
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: had a smooth descend by a mere USD 2.5/Ton on the one hand, it was
     the Indian Rupee
   unit: usd
   values:
   - 2.5
-- &id029
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: on the other hand that really impressed this week as the INR firmed
     from Rs. 83.06 against
   unit: null
   values:
   - 83.06
-- &id030
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar, down to Rs 82.75, which should likely bolster local
     sentiments and assist
   unit: null
   values:
   - 82.75
-- &id031
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: As such, given how utterly miserable 2023 ended for this market, week
     3 of January 2024
@@ -306,93 +275,81 @@ numeric_observations:
   - 2023.0
   - 3.0
   - 2024.0
-- &id032
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: USD 530/LT LDT (for limited HKC
   unit: usd
   values:
   - 530.0
-- &id033
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: MSC UMA Container 10,455
   unit: null
   values:
   - 10455.0
-- &id034
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: to end the week at PKR 280.30, while local ste el plate prices remained
     flatlined through the
   unit: null
   values:
   - 280.3
-- &id036
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Turkey has finally passed the dreaded (yet historic) TRY 30 mark against
     the U.S. Dollar
   unit: null
   values:
   - 30.0
-- &id038
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Lira breaches 30.
   unit: null
   values:
   - 30.0
-- &id039
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: In fact, a mere 5 years ago, the Lira was basking in the sunshine of
     a firm TRY 5.X against
   unit: null
   values:
   - 5.0
-- &id040
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar whereas today, it stands 6 times weaker and despite
     suffering through a
   unit: null
   values:
   - 6.0
-- &id041
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  We have known all our lives that the human body has 206 bones. But
     did you know, infants are born with approximately
   unit: null
   values:
   - 206.0
-- &id043
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 300 bones? As they grow up, the bones fuse and only 206 bones remain
     as we become adults.
@@ -400,8 +357,7 @@ numeric_observations:
   values:
   - 300.0
   - 206.0
-- &id044
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  Our body produces 25 million cells every second. That means every
     15 seconds the body produces cells even more than the
@@ -409,8 +365,7 @@ numeric_observations:
   values:
   - 25.0
   - 15.0
-- &id045
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  Ther e are about 60,000 - 100,000 miles of blood vessels in the human
     body. If you had the grim chance to lay them end-to-
@@ -418,8 +373,7 @@ numeric_observations:
   values:
   - 60000.0
   - 100000.0
-- &id046
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  The brain acquires only 2% of the human body mass. However, it consumes
     over 20% of the total oxygen and blood
@@ -427,24 +381,21 @@ numeric_observations:
   values:
   - 2.0
   - 20.0
-- &id047
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  Hum an bones are stronger than steel. A block of bone is capable
     to support a size of up to 18,000 pounds.
   unit: null
   values:
   - 18000.0
-- &id048
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line:  One of the most amazing science facts is the human stomach is incredibly
     strong. Acids are ranked on a scale of 0-14 (the
   unit: null
   values:
   - -14.0
-- &id049
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: January 15 - Pongal January 09 - January 17
   unit: null
@@ -452,8 +403,7 @@ numeric_observations:
   - 15.0
   - 9.0
   - 17.0
-- &id050
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 23 - January 30
   unit: null
@@ -461,8 +411,7 @@ numeric_observations:
   - 26.0
   - 23.0
   - 30.0
-- &id051
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 13 - January 16
   unit: null
@@ -470,8 +419,7 @@ numeric_observations:
   - 1.0
   - 13.0
   - 16.0
-- &id052
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January 30
   unit: null
@@ -479,24 +427,21 @@ numeric_observations:
   - 7.0
   - 27.0
   - 30.0
-- &id053
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 12, 2024
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id055
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1 AT Middle Bridge 3,406 General Cargo Arrived January 12
   unit: null
@@ -504,8 +449,7 @@ numeric_observations:
   - 1.0
   - 3406.0
   - 12.0
-- &id056
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 2 MSC Sophie 13,616 Container Arrived January 10
   unit: null
@@ -513,8 +457,7 @@ numeric_observations:
   - 2.0
   - 13616.0
   - 10.0
-- &id057
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 3 MSC UMA 10,455 Container Arrived January 12
   unit: null
@@ -522,8 +465,7 @@ numeric_observations:
   - 3.0
   - 10455.0
   - 12.0
-- &id058
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 4 Onyx 1 10,643 Container Beached January 10
   unit: null
@@ -532,8 +474,7 @@ numeric_observations:
   - 1.0
   - 10643.0
   - 10.0
-- &id059
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 5 Proliv Longa 1,270 Fishing Arrived January 04
   unit: null
@@ -541,8 +482,7 @@ numeric_observations:
   - 5.0
   - 1270.0
   - 4.0
-- &id060
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 6 Sas 4 935 Supply Arrived December 16
   unit: null
@@ -551,8 +491,7 @@ numeric_observations:
   - 4.0
   - 935.0
   - 16.0
-- &id061
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 7 Sol 3,870 Container Beached January 11
   unit: null
@@ -560,8 +499,7 @@ numeric_observations:
   - 7.0
   - 3870.0
   - 11.0
-- &id062
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 8 White Palm (Under Tow) 762 Pilot Boat Beached January 08
   unit: null
@@ -569,8 +507,7 @@ numeric_observations:
   - 8.0
   - 762.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 9 Ze Leng 7,007 Reefer Beached January 12
   unit: null
@@ -578,23 +515,20 @@ numeric_observations:
   - 9.0
   - 7007.0
   - 12.0
-- &id064
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 51,965
   unit: null
   values:
   - 51965.0
-- &id065
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 12, 2024
   unit: null
   values:
   - 12.0
   - 2024.0
-- &id066
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1 Duta 1 5,913 RoRo / Cargo Arrived January 09
   unit: null
@@ -603,8 +537,7 @@ numeric_observations:
   - 1.0
   - 5913.0
   - 9.0
-- &id067
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 2 General Romulo (Dead Vessel) 2,553 General Cargo / Container Arrived
     January 03
@@ -613,8 +546,7 @@ numeric_observations:
   - 2.0
   - 2553.0
   - 3.0
-- &id068
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 3 Jin Hai Xi 5,931 Bulk Carrier Arrived January 02
   unit: null
@@ -622,8 +554,7 @@ numeric_observations:
   - 3.0
   - 5931.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 4 West Ocean 12 1,733 General Cargo Beached January 11
   unit: null
@@ -632,23 +563,20 @@ numeric_observations:
   - 12.0
   - 1733.0
   - 11.0
-- &id070
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,130
   unit: null
   values:
   - 16130.0
-- &id071
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 10, 2024
   unit: null
   values:
   - 10.0
   - 2024.0
-- &id072
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1 G Harmony 11,312 General Cargo Arrived January 06
   unit: null
@@ -656,23 +584,20 @@ numeric_observations:
   - 1.0
   - 11312.0
   - 6.0
-- &id073
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 11,312
   unit: null
   values:
   - 11312.0
-- &id074
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/6/2024 476.02 39,600.00 736.28 208,000.00 569.11 70,000.00 379.57
   unit: null
@@ -687,8 +612,7 @@ numeric_observations:
   - 569.11
   - 70000.0
   - 379.57
-- &id076
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/7/2024 476.02 39,600.00 736.28 208,000.00 569.11 70,000.00 379.57
   unit: null
@@ -703,8 +627,7 @@ numeric_observations:
   - 569.11
   - 70000.0
   - 379.57
-- &id077
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/8/2024 475.10 39,500.00 736.28 208,000.00 569.11 70,000.00 379.57
   unit: null
@@ -719,8 +642,7 @@ numeric_observations:
   - 569.11
   - 70000.0
   - 379.57
-- &id078
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/9/2024 474.01 39,400.00 736.28 208,000.00 569.11 70,000.00 379.57
   unit: null
@@ -735,8 +657,7 @@ numeric_observations:
   - 569.11
   - 70000.0
   - 379.57
-- &id079
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/10/2024 473.21 39,300.00 736.28 208,000.00 610.57 75,100.00 380.69
   unit: null
@@ -751,8 +672,7 @@ numeric_observations:
   - 610.57
   - 75100.0
   - 380.69
-- &id080
-  section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+- section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
   section_type: linked_pdf
   source_line: 1/11/2024 473.27 39,300.00 736.28 208,000.00 610.57 75,100.00 379.11
   unit: null
@@ -884,86 +804,663 @@ section_count: 3
 signals:
   numeric_observation_count: 92
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'On the Ship Recycling front, off of the back of the first set of
+      2024 L/C approvals that saw a subsequent increase in the number of inquiries
+      emerging from both Bangladeshi and Pakistani markets this week, it seems there
+      are still signs of (recycling) life in '
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Elections are also to conclude in Pakistan & India in the coming
+      months and in India as well, Prime Minister Modi's party is expected to maintain
+      its much-deserved command over a majority of the incoming votes for another
+      5-year term, as India continues to com
+    unit: null
+    values:
+    - 5.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: Overall, amidst all of the ongoing uncertainty & turmoil that is
+      currently unfolding across much of the Middle East, Chinese New Year holidays
+      hopefully bring some much-needed hope & respite to the rest of the world. Coupled
+      with the recent cooling of global f
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 2 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1_14012024_a18b4918f32e.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -1.0
+    - -15.0
+    - 2.0
+    - 14012024.0
+    - 8.0
+    - 918.0
+    - 2.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: January 12th, 2024 "A man who has committed a mistake and doesn't
+      correct it,
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Volume 257, Issue 1117 is committing an even bigger mistake."
+    unit: null
+    values:
+    - 257.0
+    - 1117.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Week 2 - Confucius Kongzi
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: On the Ship Recycling front, off of the back of the first set of
+      2024 L/C approvals that saw a
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: incoming votes for another 5-year term, as India continues to compete
+      incredibly at a global level,
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: market in the West end remained quiet as ever, despite the Lira blowing
+      past TRY 30 this week.
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: in the supply of recycling candidates towards the end of Q1 2024
+      is expected to hit the industry.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: For week 2 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan* Improving 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh* Improving 490 / LDT 510 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 490.0
+    - 510.0
+    - 530.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 340 / LDT 350 / LDT 360 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 340.0
+    - 350.0
+    - 360.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Subsequent to the terrible summer / monsoon months of 2023, which
+      saw vessel prices
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: tumble from highs well-above USD 600/LDT , down to USD 500/LDT and
+      even below,
+    unit: usd
+    values:
+    - 600.0
+    - 500.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: been a trying 2 quarters - notB onAly NforG BaLngAladDeshE's SShHip
+      R ecycling Sector but also the
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: power for another term, it is hoped that much of the pre-2024 protesting
+      and violence
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: last 6 - 7 months.
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 109.50 against the U.S. Dollar (staying above the dreaded BDT 110
+      level), whilst local
+    unit: null
+    values:
+    - 109.5
+    - 110.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: second week of 2024, whereby Alang has now sunk to the lowest-placed
+      and is the lowest-
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: vessel MSC UMA (10,455 LDT) at a relatively decent USD 528/LT LDT
+      this week, but the
+    unit: usd
+    values:
+    - 10455.0
+    - 528.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: had a smooth descend by a mere USD 2.5/Ton on the one hand, it was
+      the Indian Rupee
+    unit: usd
+    values:
+    - 2.5
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: on the other hand that really impressed this week as the INR firmed
+      from Rs. 83.06 against
+    unit: null
+    values:
+    - 83.06
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar, down to Rs 82.75, which should likely bolster local
+      sentiments and assist
+    unit: null
+    values:
+    - 82.75
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: As such, given how utterly miserable 2023 ended for this market,
+      week 3 of January 2024
+    unit: null
+    values:
+    - 2023.0
+    - 3.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: USD 530/LT LDT (for limited HKC
+    unit: usd
+    values:
+    - 530.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: MSC UMA Container 10,455
+    unit: null
+    values:
+    - 10455.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: to end the week at PKR 280.30, while local ste el plate prices remained
+      flatlined through the
+    unit: null
+    values:
+    - 280.3
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Turkey has finally passed the dreaded (yet historic) TRY 30 mark
+      against the U.S. Dollar
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Lira breaches 30.
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: In fact, a mere 5 years ago, the Lira was basking in the sunshine
+      of a firm TRY 5.X against
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar whereas today, it stands 6 times weaker and despite
+      suffering through a
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  We have known all our lives that the human body has 206 bones.
+      But did you know, infants are born with approximately
+    unit: null
+    values:
+    - 206.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 300 bones? As they grow up, the bones fuse and only 206 bones remain
+      as we become adults.
+    unit: null
+    values:
+    - 300.0
+    - 206.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  Our body produces 25 million cells every second. That means every
+      15 seconds the body produces cells even more than the
+    unit: null
+    values:
+    - 25.0
+    - 15.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  Ther e are about 60,000 - 100,000 miles of blood vessels in the
+      human body. If you had the grim chance to lay them end-to-
+    unit: null
+    values:
+    - 60000.0
+    - 100000.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  The brain acquires only 2% of the human body mass. However, it
+      consumes over 20% of the total oxygen and blood
+    unit: pct
+    values:
+    - 2.0
+    - 20.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  Hum an bones are stronger than steel. A block of bone is capable
+      to support a size of up to 18,000 pounds.
+    unit: null
+    values:
+    - 18000.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line:  One of the most amazing science facts is the human stomach is incredibly
+      strong. Acids are ranked on a scale of 0-14 (the
+    unit: null
+    values:
+    - -14.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: January 15 - Pongal January 09 - January 17
+    unit: null
+    values:
+    - 15.0
+    - 9.0
+    - 17.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 23 - January 30
+    unit: null
+    values:
+    - 26.0
+    - 23.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 13 - January 16
+    unit: null
+    values:
+    - 1.0
+    - 13.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: January 07 - Bangladesh Parliamentary Polls January 27 - January
+      30
+    unit: null
+    values:
+    - 7.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 12, 2024
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1 AT Middle Bridge 3,406 General Cargo Arrived January 12
+    unit: null
+    values:
+    - 1.0
+    - 3406.0
+    - 12.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 2 MSC Sophie 13,616 Container Arrived January 10
+    unit: null
+    values:
+    - 2.0
+    - 13616.0
+    - 10.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 3 MSC UMA 10,455 Container Arrived January 12
+    unit: null
+    values:
+    - 3.0
+    - 10455.0
+    - 12.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 4 Onyx 1 10,643 Container Beached January 10
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 10643.0
+    - 10.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 5 Proliv Longa 1,270 Fishing Arrived January 04
+    unit: null
+    values:
+    - 5.0
+    - 1270.0
+    - 4.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 6 Sas 4 935 Supply Arrived December 16
+    unit: null
+    values:
+    - 6.0
+    - 4.0
+    - 935.0
+    - 16.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 7 Sol 3,870 Container Beached January 11
+    unit: null
+    values:
+    - 7.0
+    - 3870.0
+    - 11.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 8 White Palm (Under Tow) 762 Pilot Boat Beached January 08
+    unit: null
+    values:
+    - 8.0
+    - 762.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 9 Ze Leng 7,007 Reefer Beached January 12
+    unit: null
+    values:
+    - 9.0
+    - 7007.0
+    - 12.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 51,965
+    unit: null
+    values:
+    - 51965.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 12, 2024
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1 Duta 1 5,913 RoRo / Cargo Arrived January 09
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 5913.0
+    - 9.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 2 General Romulo (Dead Vessel) 2,553 General Cargo / Container Arrived
+      January 03
+    unit: null
+    values:
+    - 2.0
+    - 2553.0
+    - 3.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 3 Jin Hai Xi 5,931 Bulk Carrier Arrived January 02
+    unit: null
+    values:
+    - 3.0
+    - 5931.0
+    - 2.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 4 West Ocean 12 1,733 General Cargo Beached January 11
+    unit: null
+    values:
+    - 4.0
+    - 12.0
+    - 1733.0
+    - 11.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,130
+    unit: null
+    values:
+    - 16130.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 10, 2024
+    unit: null
+    values:
+    - 10.0
+    - 2024.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1 G Harmony 11,312 General Cargo Arrived January 06
+    unit: null
+    values:
+    - 1.0
+    - 11312.0
+    - 6.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 11,312
+    unit: null
+    values:
+    - 11312.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/6/2024 476.02 39,600.00 736.28 208,000.00 569.11 70,000.00 379.57
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 2024.0
+    - 476.02
+    - 39600.0
+    - 736.28
+    - 208000.0
+    - 569.11
+    - 70000.0
+    - 379.57
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/7/2024 476.02 39,600.00 736.28 208,000.00 569.11 70,000.00 379.57
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2024.0
+    - 476.02
+    - 39600.0
+    - 736.28
+    - 208000.0
+    - 569.11
+    - 70000.0
+    - 379.57
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/8/2024 475.10 39,500.00 736.28 208,000.00 569.11 70,000.00 379.57
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2024.0
+    - 475.1
+    - 39500.0
+    - 736.28
+    - 208000.0
+    - 569.11
+    - 70000.0
+    - 379.57
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/9/2024 474.01 39,400.00 736.28 208,000.00 569.11 70,000.00 379.57
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2024.0
+    - 474.01
+    - 39400.0
+    - 736.28
+    - 208000.0
+    - 569.11
+    - 70000.0
+    - 379.57
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/10/2024 473.21 39,300.00 736.28 208,000.00 610.57 75,100.00 380.69
+    unit: null
+    values:
+    - 1.0
+    - 10.0
+    - 2024.0
+    - 473.21
+    - 39300.0
+    - 736.28
+    - 208000.0
+    - 610.57
+    - 75100.0
+    - 380.69
+  - section: 'Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf'
+    section_type: linked_pdf
+    source_line: 1/11/2024 473.27 39,300.00 736.28 208,000.00 610.57 75,100.00 379.11
+    unit: null
+    values:
+    - 1.0
+    - 11.0
+    - 2024.0
+    - 473.27
+    - 39300.0
+    - 736.28
+    - 208000.0
+    - 610.57
+    - 75100.0
+    - 379.11
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign.html
 source_stem: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign

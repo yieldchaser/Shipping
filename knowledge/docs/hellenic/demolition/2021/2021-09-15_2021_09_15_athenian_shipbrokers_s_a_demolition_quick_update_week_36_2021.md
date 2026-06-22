@@ -27,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 15
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
   unit: null
@@ -37,8 +36,7 @@ numeric_observations:
   - 109.0
   - 166.0
   - 73.0
-- &id002
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
   unit: null
@@ -49,8 +47,7 @@ numeric_observations:
   - 30.0
   - 210.0
   - 8996040.0
-- &id003
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: Week 36 (6th September to 12th September 2021)
   unit: null
@@ -59,8 +56,7 @@ numeric_observations:
   - 6.0
   - 12.0
   - 2021.0
-- &id004
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: $590 $595 $590 $270
   unit: usd
@@ -69,8 +65,7 @@ numeric_observations:
   - 595.0
   - 590.0
   - 270.0
-- &id005
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: $600 $610 $600 $295
   unit: usd
@@ -79,8 +74,7 @@ numeric_observations:
   - 610.0
   - 600.0
   - 295.0
-- &id006
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: $605 $615 $300
   unit: usd
@@ -88,32 +82,28 @@ numeric_observations:
   - 605.0
   - 615.0
   - 300.0
-- &id007
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: Yearly Demolition 2007-2021
   unit: null
   values:
   - 2007.0
   - -2021.0
-- &id008
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 60 55.8
   unit: null
   values:
   - 60.0
   - 55.8
-- &id009
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 40 38.8
   unit: null
   values:
   - 40.0
   - 38.8
-- &id010
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 40 34.3 35.3
   unit: null
@@ -121,24 +111,21 @@ numeric_observations:
   - 40.0
   - 34.3
   - 35.3
-- &id011
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 32 30.4
   unit: null
   values:
   - 32.0
   - 30.4
-- &id012
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 26 23.2
   unit: null
   values:
   - 26.0
   - 23.2
-- &id013
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 20 16.9 16.6
   unit: null
@@ -146,8 +133,7 @@ numeric_observations:
   - 20.0
   - 16.9
   - 16.6
-- &id014
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
     2021
@@ -163,8 +149,7 @@ numeric_observations:
   - 2014.0
   - 2015.0
   - 2016.0
-- &id015
-  section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+- section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
   section_type: linked_pdf
   source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
     S.A.
@@ -179,21 +164,135 @@ section_count: 2
 signals:
   numeric_observation_count: 15
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+    unit: null
+    values:
+    - 107.0
+    - 109.0
+    - 166.0
+    - 73.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 9659700.0
+    - 30.0
+    - 210.0
+    - 8996040.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: Week 36 (6th September to 12th September 2021)
+    unit: null
+    values:
+    - 36.0
+    - 6.0
+    - 12.0
+    - 2021.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: $590 $595 $590 $270
+    unit: usd
+    values:
+    - 590.0
+    - 595.0
+    - 590.0
+    - 270.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: $600 $610 $600 $295
+    unit: usd
+    values:
+    - 600.0
+    - 610.0
+    - 600.0
+    - 295.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: $605 $615 $300
+    unit: usd
+    values:
+    - 605.0
+    - 615.0
+    - 300.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: Yearly Demolition 2007-2021
+    unit: null
+    values:
+    - 2007.0
+    - -2021.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 60 55.8
+    unit: null
+    values:
+    - 60.0
+    - 55.8
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 40 38.8
+    unit: null
+    values:
+    - 40.0
+    - 38.8
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 40 34.3 35.3
+    unit: null
+    values:
+    - 40.0
+    - 34.3
+    - 35.3
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 32 30.4
+    unit: null
+    values:
+    - 32.0
+    - 30.4
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 26 23.2
+    unit: null
+    values:
+    - 26.0
+    - 23.2
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 20 16.9 16.6
+    unit: null
+    values:
+    - 20.0
+    - 16.9
+    - 16.6
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+      2020 2021
+    unit: null
+    values:
+    - 2007.0
+    - 2008.0
+    - 2009.0
+    - 2010.0
+    - 2011.0
+    - 2012.0
+    - 2013.0
+    - 2014.0
+    - 2015.0
+    - 2016.0
+  - section: 'Linked asset: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021_demo-ig-weekly-36-2021_118f79f79fa3.pdf'
+    section_type: linked_pdf
+    source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
+      S.A.
+    unit: null
+    values:
+    - 2021.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021.html
 source_stem: 2021-09-15_athenian-shipbrokers-s-a-demolition-quick-update-week-36-2021

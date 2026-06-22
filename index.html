@@ -2495,6 +2495,67 @@
     letter-spacing: 0.05em;
     text-transform: uppercase;
   }
+
+  /* --- COLLAPSIBLE SIGNALS SECTIONS --- */
+  .signals-section {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    transition: border-color 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .signals-section:hover {
+    border-color: rgba(88,166,255,0.4);
+  }
+  .signals-section-header {
+    background: rgba(20,25,32,0.6);
+    padding: 14px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: var(--text);
+    user-select: none;
+    border-bottom: 1px solid var(--border);
+    transition: background-color 0.2s ease;
+  }
+  .signals-section-header:hover {
+    background: rgba(20,25,32,0.95);
+  }
+  .signals-section-header .section-title-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .signals-section-header .expand-icon {
+    font-size: 11px;
+    color: var(--text-muted);
+    transition: transform 0.2s ease;
+  }
+  .signals-section.collapsed .expand-icon {
+    transform: rotate(-90deg);
+  }
+  .signals-section-body {
+    padding: 20px;
+    display: block;
+  }
+  .signals-section.collapsed .signals-section-body {
+    display: none;
+  }
+  .kpi-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--border);
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+  }
 </style>
 </head>
 
@@ -3364,309 +3425,393 @@
     <!-- ===== TAB: SIGNALS ===== -->
     <div class="tab-panel" id="tab-signals">
 
-      <!-- 1. Bollinger Bands -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Volatility Envelope (20D, 2σ) - Identifies price 'tightening' (Squeeze) and expansion. Narrow bandwidth often precedes major directional breakouts; 'walking' the upper band confirms capital expansion.">Bollinger Bands (20-Day, 2σ)</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="bbBtn1y" onclick="setBBWindow('1y')">1Y</button>
-            <button class="toggle-btn" id="bbBtn3y" onclick="setBBWindow('3y')">3Y</button>
-            <button class="toggle-btn" id="bbBtn5y" onclick="setBBWindow('5y')">5Y</button>
+      <!-- SECTION 1: DERIVATIVES & TECHNICALS (COLLAPSIBLE) -->
+      <div class="signals-section" id="signals-sec-tech">
+        <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-tech')">
+          <div class="section-title-wrap">
+            <span>📈 Derivatives & Technicals</span>
           </div>
+          <span class="expand-icon">▼</span>
         </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="bbRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="bbRangeTrack">
-            <div class="dual-range-fill" id="bbRangeFill"></div>
-            <input type="range" id="bbRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="bbRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="bbChart"></canvas></div>
-      </div>
+        <div class="signals-section-body">
 
-      <!-- 1b. Historical Volatility -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" id="hvChartTitle" data-tooltip="Historical Volatility for the currently selected index (auto-updates with the product picker). Four colour-coded regimes based on the all-time HV percentile: Blue = Low (<25th), Green = Normal (25-75th), Amber = Elevated (75-90th), Red = Spike (>90th). A shift from Spike to Elevated often precedes a directional breakout.">Historical Volatility - Annualized (Log-Return Std Dev × √252)</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="hvBtn3y" onclick="setHVWindow('3y')">3Y</button>
-            <button class="toggle-btn" id="hvBtn5y" onclick="setHVWindow('5y')">5Y</button>
-            <button class="toggle-btn" id="hvBtnAll" onclick="setHVWindow('all')">All</button>
+          <!-- 1. Bollinger Bands -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Volatility Envelope (20D, 2σ) - Identifies price 'tightening' (Squeeze) and expansion. Narrow bandwidth often precedes major directional breakouts; 'walking' the upper band confirms capital expansion.">Bollinger Bands (20-Day, 2σ)</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="bbBtn1y" onclick="setBBWindow('1y')">1Y</button>
+                <button class="toggle-btn" id="bbBtn3y" onclick="setBBWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="bbBtn5y" onclick="setBBWindow('5y')">5Y</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="bbRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="bbRangeTrack">
+                <div class="dual-range-fill" id="bbRangeFill"></div>
+                <input type="range" id="bbRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="bbRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="bbChart"></canvas></div>
           </div>
-        </div>
-        <div id="hvKpiStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;"></div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="hvRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="hvRangeTrack">
-            <div class="dual-range-fill" id="hvRangeFill"></div>
-            <input type="range" id="hvRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="hvRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="hvChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Annualized HV = rolling std dev of log returns × √252. Regimes based on 1Y HV vs all-time percentile: &nbsp;
-          <span style="color:#58a6ff">■ Low</span> (&lt;25th) &nbsp;
-          <span style="color:#3fb950">■ Normal</span> (25-75th) &nbsp;
-          <span style="color:#e3b341">■ Elevated</span> (75-90th) &nbsp;
-          <span style="color:#f85149">■ Spike</span> (&gt;90th)
-        </div>
-      </div>
 
-      <!-- 2. Cape/Panamax Spread -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Sector Rotation Proxy - divides BCI by BPI. High (>2.5) signals Capesize overextension; Low (<1.2) suggests Capesize is historically undervalued vs. Grains. Measures iron ore velocity vs. agricultural flows.">Cape / Panamax Ratio - Iron Ore vs Bulk Grain Proxy</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="spreadBtn3y" onclick="setSpreadWindow('3y')">3Y</button>
-            <button class="toggle-btn" id="spreadBtn5y" onclick="setSpreadWindow('5y')">5Y</button>
-            <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
-      </div>
-
-      <!-- 3. Rate-of-Change Heatmap -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Rate-of-Change Heatmap - computes the % price change for every product over every major timeframe (5D, 1M, 3M, 6M, 1Y). Redder = falling faster; greener = gaining faster. Each row is one shipping index/ETF; each column is a timeframe. Use to instantly spot which class is leading or lagging.">Rate-of-Change Heatmap - All Products × Timeframes</div>
-        </div>
-        <div id="rocHeatmap" style="overflow-x:auto;margin-top:4px;"></div>
-      </div>
-
-      <!-- 4. Seasonal Decomposition -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Seasonal Decomposition - the solid line is the average value for each calendar day across all historical years. The shaded band is ±1 standard deviation. When the current price (plotted externally) sits outside this band, it signals a statistically unusual seasonal deviation.">Seasonal Pattern - Avg Intra-Year ± 1σ (All Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
-      </div>
-
-      <!-- 6. ETF Premium/Discount Z-Score Signal -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Market timing signal based on how much the P/D deviates from its 1-year mean. High Z (> +2) = Overheated; Low Z (< -2) = Capitulation.">ETF Premium/Discount Z-Score - Market Top &amp; Bottom Signal</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="pdZBtn1y" onclick="setPDZWindow('1y')">1Y</button>
-            <button class="toggle-btn" id="pdZBtn3y" onclick="setPDZWindow('3y')">3Y</button>
-            <button class="toggle-btn" id="pdZBtnAll" onclick="setPDZWindow('all')">All</button>
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="pdZscoreChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Z-Score = (Current P/D - Rolling 252-Day Mean) / Rolling 252-Day StdDev.
-          Z &gt; +2 = extreme premium (crowd chasing, potential top). Z &lt; -2 = extreme discount (forced selling, potential bottom).
-        </div>
-      </div>
-
-      <!-- 6b. ETF Fund Flow Signals -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="flex-row" style="gap:12px;align-items:center;">
-            <div class="chart-title" data-tooltip="Fund Flow Signal Chart - overlays the ETF NAV price against the rolling 5-day net flow. Price rising + flow diverging downward = Distribution ⚠️ (sell signal). Price falling + flow positive = Accumulation ⚠️ (potential reversal). Price and flow both rising = Confirmed momentum.">ETF Fund Flow Signals - Momentum &amp; Divergence</div>
-            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="flowSigTabBdry" onclick="switchFlowSigTab('bdry')"
-                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
-              <button id="flowSigTabBwet" onclick="switchFlowSigTab('bwet')"
-                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
+          <!-- 1b. Historical Volatility -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" id="hvChartTitle" data-tooltip="Historical Volatility for the currently selected index (auto-updates with the product picker). Four colour-coded regimes based on the all-time HV percentile: Blue = Low (<25th), Green = Normal (25-75th), Amber = Elevated (75-90th), Red = Spike (>90th). A shift from Spike to Elevated often precedes a directional breakout.">Historical Volatility - Annualized (Log-Return Std Dev × √252)</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="hvBtn3y" onclick="setHVWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="hvBtn5y" onclick="setHVWindow('5y')">5Y</button>
+                <button class="toggle-btn" id="hvBtnAll" onclick="setHVWindow('all')">All</button>
+              </div>
+            </div>
+            <div id="hvKpiStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;"></div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="hvRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="hvRangeTrack">
+                <div class="dual-range-fill" id="hvRangeFill"></div>
+                <input type="range" id="hvRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="hvRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="hvChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Annualized HV = rolling std dev of log returns × √252. Regimes based on 1Y HV vs all-time percentile: &nbsp;
+              <span style="color:#58a6ff">■ Low</span> (&lt;25th) &nbsp;
+              <span style="color:#3fb950">■ Normal</span> (25-75th) &nbsp;
+              <span style="color:#e3b341">■ Elevated</span> (75-90th) &nbsp;
+              <span style="color:#f85149">■ Spike</span> (&gt;90th)
             </div>
           </div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="flowSigBtn1y" onclick="setFlowSigWindow('1y')">1Y</button>
-            <button class="toggle-btn" id="flowSigBtn3y" onclick="setFlowSigWindow('3y')">3Y</button>
-            <button class="toggle-btn" id="flowSigBtnAll" onclick="setFlowSigWindow('all')">All</button>
+
+          <!-- 2. Cape/Panamax Spread -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Sector Rotation Proxy - divides BCI by BPI. High (>2.5) signals Capesize overextension; Low (<1.2) suggests Capesize is historically undervalued vs. Grains. Measures iron ore velocity vs. agricultural flows.">Cape / Panamax Ratio - Iron Ore vs Bulk Grain Proxy</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="spreadBtn3y" onclick="setSpreadWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="spreadBtn5y" onclick="setSpreadWindow('5y')">5Y</button>
+                <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
           </div>
-        </div>
-        <div id="flowSigKpiStrip" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:12px;margin-bottom:16px;"></div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="flowSigRangeLabel">Loading…</span>
+
+          <!-- 3. Rate-of-Change Heatmap -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Rate-of-Change Heatmap - computes the % price change for every product over every major timeframe (5D, 1M, 3M, 6M, 1Y). Redder = falling faster; greener = gaining faster. Each row is one shipping index/ETF; each column is a timeframe. Use to instantly spot which class is leading or lagging.">Rate-of-Change Heatmap - All Products × Timeframes</div>
+            </div>
+            <div id="rocHeatmap" style="overflow-x:auto;margin-top:4px;"></div>
           </div>
-          <div class="dual-range-track" id="flowSigRangeTrack">
-            <div class="dual-range-fill" id="flowSigRangeFill"></div>
-            <input type="range" id="flowSigRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="flowSigRangeEnd" min="0" max="100" value="100" step="1">
+
+          <!-- 4. Seasonal Decomposition -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Seasonal Decomposition - the solid line is the average value for each calendar day across all historical years. The shaded band is ±1 standard deviation. When the current price (plotted externally) sits outside this band, it signals a statistically unusual seasonal deviation.">Seasonal Pattern - Avg Intra-Year ± 1σ (All Years)</div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
           </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="flowSigChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Visualizing ETF Price vs 5D Flow to identify structural divergence. Red bars indicate distribution, green bars indicate accumulation.
+
+          <!-- 6. ETF Premium/Discount Z-Score Signal -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Market timing signal based on how much the P/D deviates from its 1-year mean. High Z (> +2) = Overheated; Low Z (< -2) = Capitulation.">ETF Premium/Discount Z-Score - Market Top &amp; Bottom Signal</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="pdZBtn1y" onclick="setPDZWindow('1y')">1Y</button>
+                <button class="toggle-btn" id="pdZBtn3y" onclick="setPDZWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="pdZBtnAll" onclick="setPDZWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="pdZscoreChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Z-Score = (Current P/D - Rolling 252-Day Mean) / Rolling 252-Day StdDev.
+              Z &gt; +2 = extreme premium (crowd chasing, potential top). Z &lt; -2 = extreme discount (forced selling, potential bottom).
+            </div>
+          </div>
+
+          <!-- 6b. ETF Fund Flow Signals -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="flex-row" style="gap:12px;align-items:center;">
+                <div class="chart-title" data-tooltip="Fund Flow Signal Chart - overlays the ETF NAV price against the rolling 5-day net flow. Price rising + flow diverging downward = Distribution ⚠️ (sell signal). Price falling + flow positive = Accumulation ⚠️ (potential reversal). Price and flow both rising = Confirmed momentum.">ETF Fund Flow Signals - Momentum &amp; Divergence</div>
+                <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+                  <button id="flowSigTabBdry" onclick="switchFlowSigTab('bdry')"
+                    style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
+                  <button id="flowSigTabBwet" onclick="switchFlowSigTab('bwet')"
+                    style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
+                </div>
+              </div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="flowSigBtn1y" onclick="setFlowSigWindow('1y')">1Y</button>
+                <button class="toggle-btn" id="flowSigBtn3y" onclick="setFlowSigWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="flowSigBtnAll" onclick="setFlowSigWindow('all')">All</button>
+              </div>
+            </div>
+            <div id="flowSigKpiStrip" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:12px;margin-bottom:16px;"></div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="flowSigRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="flowSigRangeTrack">
+                <div class="dual-range-fill" id="flowSigRangeFill"></div>
+                <input type="range" id="flowSigRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="flowSigRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="flowSigChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Visualizing ETF Price vs 5D Flow to identify structural divergence. Red bars indicate distribution, green bars indicate accumulation.
+            </div>
+          </div>
+
+          <!-- 5. Term Structure Slope -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal). 🔴 Backwardation (Down) = tight near-term supply; 🟢 Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
+              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+                <div style="display:flex;gap:4px;align-items:center;">
+                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
+                  <button class="toggle-btn" id="termComp1w" onclick="setTermComp('1w')">1W ago</button>
+                  <button class="toggle-btn" id="termComp2w" onclick="setTermComp('2w')">2W ago</button>
+                  <button class="toggle-btn" id="termComp1m" onclick="setTermComp('1m')">1M ago</button>
+                  <button class="toggle-btn" id="termComp3m" onclick="setTermComp('3m')">3M ago</button>
+                  <button class="toggle-btn active" id="termCompNone" onclick="setTermComp('none')">No Compare</button>
+                </div>
+              </div>
+            </div>
+            <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
+              <div>
+                <div
+                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
+                  BDRY - Dry Bulk FFA Curve</div>
+                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBdryChart"></canvas></div>
+                <div id="termBdrySlope" style="margin-top:8px;font-size:12px;"></div>
+              </div>
+              <div>
+                <div
+                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
+                  BWET - Tanker FFA Curve</div>
+                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBwetChart"></canvas></div>
+                <div id="termBwetSlope" style="margin-top:8px;font-size:12px;"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 7. SGX FFA Forward Curve -->
+          <div class="chart-container mb-20" style="margin-top:4px;">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
+              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+                <div style="display:flex;gap:4px;">
+                  <button class="toggle-btn active" id="ffaBtnCape" onclick="setFFAProduct('cape')">Cape</button>
+                  <button class="toggle-btn" id="ffaBtnPanamax" onclick="setFFAProduct('panamax')">Panamax</button>
+                  <button class="toggle-btn" id="ffaBtnSupramax" onclick="setFFAProduct('supramax')">Supramax</button>
+                  <button class="toggle-btn" id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
+                </div>
+                <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
+                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
+                  <button class="toggle-btn" id="ffaComp1w" onclick="setFFAComp('1w')">1W ago</button>
+                  <button class="toggle-btn" id="ffaComp2w" onclick="setFFAComp('2w')">2W ago</button>
+                  <button class="toggle-btn" id="ffaComp1m" onclick="setFFAComp('1m')">1M ago</button>
+                  <button class="toggle-btn" id="ffaComp3m" onclick="setFFAComp('3m')">3M ago</button>
+                  <button class="toggle-btn active" id="ffaCompNone" onclick="setFFAComp('none')">No Compare</button>
+                </div>
+              </div>
+            </div>
+            <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
+              Latest settlement prices per contract month. Click any point to view full contract history below.
+            </div>
+            <div id="ffaNoData"
+              style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
+              SGX FFA data not available yet. Data populates after the first daily update run.
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="ffaForwardChart"></canvas></div>
+          </div>
+
+          <!-- 8. SGX FFA Contract History (shown on click) -->
+          <div class="chart-container mb-20" id="ffaHistoryPanel" style="display:none;">
+            <div class="chart-header">
+              <div class="chart-title" id="ffaHistoryTitle" data-tooltip="Historic Settlement Trace - settlement history for the selected forward contract. Essential for identifying whether the curve is hardening or melting.">Contract History</div>
+              <div class="flex-row" style="gap:8px;align-items:center;">
+                <span id="ffaHistoryBadge"
+                  style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
+                <button class="toggle-btn"
+                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">✕
+                  Close</button>
+              </div>
+            </div>
+            <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
+            <div class="chart-canvas-wrap" style="height:280px"><canvas id="ffaHistoryChart"></canvas></div>
+          </div>
+
+          <!-- 9. Futures Premium (Basis) -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Market Basis - (Front-Month FFA vs. Synthetic Spot). Sustained Contango (>5%) indicates institutional 'Front-Running' of expected spot market rallies; deep Backwardation signals extreme near-term stress.">Futures vs Spot Premium - BDRYFF vs Synthetic Spot</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn" id="basisBtn3m" onclick="setBasisWindow('3m')">3M</button>
+                <button class="toggle-btn active" id="basisBtn1y" onclick="setBasisWindow('1y')">1Y</button>
+                <button class="toggle-btn" id="basisBtnAll" onclick="setBasisWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="basisRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="basisRangeTrack">
+                <div class="dual-range-fill" id="basisRangeFill"></div>
+                <input type="range" id="basisRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="basisRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basisChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Premium % = (Front Month FFA - Combined Spot Index) / Combined Spot × 100. Shaded green = Contango, Red = Backwardation.
+            </div>
+          </div>
+
+          <!-- 10. Vessel-Class Contribution to BDI -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="BDI Attribution - decomposes daily moves by weighting (Capesize 50%, Panamax 40%, Supramax 10%). Reveals whether a rally is broad-based or driven by a specific commodity sector (e.g. Iron Ore vs. Grains).">BDI Daily Change - Vessel Class Contribution</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="bdiContribBtn3m" onclick="setBDIContribWindow('3m')">3M</button>
+                <button class="toggle-btn" id="bdiContribBtn6m" onclick="setBDIContribWindow('6m')">6M</button>
+                <button class="toggle-btn" id="bdiContribBtn1y" onclick="setBDIContribWindow('1y')">1Y</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="bdiContribRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="bdiContribRangeTrack">
+                <div class="dual-range-fill" id="bdiContribRangeFill"></div>
+                <input type="range" id="bdiContribRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="bdiContribRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="bdiContribChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Approximate decomposition: 50% Capesize, 40% Panamax, 10% Supramax.
+            </div>
+          </div>
+
+          <!-- 11. Lead-Lag Correlation Analysis -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Predictive Lag Analysis - identifies which assets lead others. Yellow dot marks the 'Sweet Spot' where Asset A most reliably predicts Asset B.">Lead-Lag Correlation (Cross-Correlation of Log Returns)</div>
+            </div>
+            <div class="signals-controls">
+              <label for="leadLagPair" class="context-label" style="margin-bottom:0">Pairs:</label>
+              <select id="leadLagPair" class="signals-select" onchange="renderLeadLagChart()">
+                <optgroup label="Financial Speed (ETF Leads)">
+                  <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
+                  <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
+                  <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
+                  <option value="bdry:bdryff">BDRY vs BDRYFF (ETF vs Futures)</option>
+                  <option value="bwet:bwetff">BWET vs BWETFF (ETF vs Futures)</option>
+                </optgroup>
+                <optgroup label="Vessel Rotation (Ripple Effects)">
+                  <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
+                  <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
+                </optgroup>
+                <optgroup label="Basis & Indices">
+                  <option value="bdiy:bdryff">BDI vs BDRYFF</option>
+                  <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
+                  <option value="cape:bdiy">BCI vs BDI</option>
+                  <option value="panama:bdiy">BPI vs BDI</option>
+                  <option value="suprama:bdiy">BSI vs BDI</option>
+                  <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
+                </optgroup>
+              </select>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
+            <div id="leadLagInfo" class="lead-lag-info"></div>
+          </div>
+
         </div>
       </div>
 
-      <!-- 5. Term Structure Slope -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal). 🔴 Backwardation (Down) = tight near-term supply; 🟢 Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
-          <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
-            <div style="display:flex;gap:4px;align-items:center;">
-              <span style="font-size:11px;color:var(--text-muted);">vs</span>
-              <button class="toggle-btn" id="termComp1w" onclick="setTermComp('1w')">1W ago</button>
-              <button class="toggle-btn" id="termComp2w" onclick="setTermComp('2w')">2W ago</button>
-              <button class="toggle-btn" id="termComp1m" onclick="setTermComp('1m')">1M ago</button>
-              <button class="toggle-btn" id="termComp3m" onclick="setTermComp('3m')">3M ago</button>
-              <button class="toggle-btn active" id="termCompNone" onclick="setTermComp('none')">No Compare</button>
+      <!-- SECTION 2: PHYSICAL FREIGHT & CARGO (COLLAPSIBLE) -->
+      <div class="signals-section" id="signals-sec-physical">
+        <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-physical')">
+          <div class="section-title-wrap">
+            <span>🚢 Physical Freight & Cargo</span>
+          </div>
+          <span class="expand-icon">▼</span>
+        </div>
+        <div class="signals-section-body">
+          <!-- Time Charter spot vs term curve -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" id="tcChartTitle" data-tooltip="Yield Curve of Shipping - compares daily Spot Index against weekly 1-Year & 2-Year Time Charter rates. High Spot-to-TC ratio indicates tight short-term supply; low ratio suggests cyclical support floor.">Time Charter Curve (Spot vs Term Rates)</div>
+              <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
+          </div>
+
+          <!-- C3/C5 Tonnage Basin Arbitrage spread -->
+          <div class="chart-container mb-20" id="basinSpreadContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Basin Arbitrage - Atlantic vs Pacific 1-Year Time Charter rates. High spread/ratio attracts ballasters to the Atlantic, tightening Pacific tonnage.">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
+          </div>
+
+          <!-- Leading Restocking Pressures -->
+          <div class="chart-container mb-20" id="restockingContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="restockingTitle" data-tooltip="Restocking Pressures - correlates spot rates (Left Axis) with port inventories (Right Axis). Depleting port stocks during a spot breakout represents a high-conviction demand signal.">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 3: VESSEL CAPITAL CYCLE (COLLAPSIBLE) -->
+      <div class="signals-section" id="signals-sec-capital">
+        <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-capital')">
+          <div class="section-title-wrap">
+            <span>⚓ Vessel Capital Cycle</span>
+          </div>
+          <span class="expand-icon">▼</span>
+        </div>
+        <div class="signals-section-body">
+          <!-- Vessel valuations and scrap floor -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" id="valuationTitle" data-tooltip="Steel Scrap Value Floor - tracks weekly regional demolition scrap prices ($/LDT). Live gauge displays estimated scrap value floor based on typical ship displacement tonnage.">Vessel Scrap Floor & Demolition Prices</div>
+              <div id="scrapFloorBadge" class="kpi-badge">Floor: --</div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="vesselValuationsChart"></canvas></div>
+          </div>
+
+          <!-- Shipping Market Cycle Quadrant -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Market Cycle Quadrant - maps Spot Momentum (60D Change) against Asset Play Sentiment (Spot/TC Ratio Z-score). Traces the trajectory of the market through 4 distinct cyclical phases: Recovery, Boom, Over-ordering, Restructuring.">Shipping Market Cycle Quadrant</div>
+            </div>
+            <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;">
+              <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
+              <div id="quadrantLegendCard" style="flex:0 0 240px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);">
+                <div style="font-weight:600;color:var(--text);margin-bottom:8px;font-size:13px;">Current Phase Analysis</div>
+                <div id="quadrantPhaseText" style="font-weight:600;font-size:14px;color:var(--accent);margin-bottom:10px;">--</div>
+                <div style="margin-top:10px;line-height:1.4;border-top: 1px solid var(--border);padding-top: 8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
+              </div>
             </div>
           </div>
         </div>
-        <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
-          <div>
-            <div
-              style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
-              BDRY - Dry Bulk FFA Curve</div>
-            <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBdryChart"></canvas></div>
-            <div id="termBdrySlope" style="margin-top:8px;font-size:12px;"></div>
-          </div>
-          <div>
-            <div
-              style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
-              BWET - Tanker FFA Curve</div>
-            <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBwetChart"></canvas></div>
-            <div id="termBwetSlope" style="margin-top:8px;font-size:12px;"></div>
-          </div>
-        </div>
-      </div>
-
-      <!-- 7. SGX FFA Forward Curve -->
-      <div class="chart-container mb-20" style="margin-top:4px;">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
-          <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
-            <div style="display:flex;gap:4px;">
-              <button class="toggle-btn active" id="ffaBtnCape" onclick="setFFAProduct('cape')">Cape</button>
-              <button class="toggle-btn" id="ffaBtnPanamax" onclick="setFFAProduct('panamax')">Panamax</button>
-              <button class="toggle-btn" id="ffaBtnSupramax" onclick="setFFAProduct('supramax')">Supramax</button>
-              <button class="toggle-btn" id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
-            </div>
-            <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
-              <span style="font-size:11px;color:var(--text-muted);">vs</span>
-              <button class="toggle-btn" id="ffaComp1w" onclick="setFFAComp('1w')">1W ago</button>
-              <button class="toggle-btn" id="ffaComp2w" onclick="setFFAComp('2w')">2W ago</button>
-              <button class="toggle-btn" id="ffaComp1m" onclick="setFFAComp('1m')">1M ago</button>
-              <button class="toggle-btn" id="ffaComp3m" onclick="setFFAComp('3m')">3M ago</button>
-              <button class="toggle-btn active" id="ffaCompNone" onclick="setFFAComp('none')">No Compare</button>
-            </div>
-          </div>
-        </div>
-        <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
-          Latest settlement prices per contract month. Click any point to view full contract history below.
-        </div>
-        <div id="ffaNoData"
-          style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
-          SGX FFA data not available yet. Data populates after the first daily update run.
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="ffaForwardChart"></canvas></div>
-      </div>
-
-      <!-- 8. SGX FFA Contract History (shown on click) -->
-      <div class="chart-container mb-20" id="ffaHistoryPanel" style="display:none;">
-        <div class="chart-header">
-          <div class="chart-title" id="ffaHistoryTitle" data-tooltip="Historic Settlement Trace - settlement history for the selected forward contract. Essential for identifying whether the curve is hardening or melting.">Contract History</div>
-          <div class="flex-row" style="gap:8px;align-items:center;">
-            <span id="ffaHistoryBadge"
-              style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
-            <button class="toggle-btn"
-              onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">✕
-              Close</button>
-          </div>
-        </div>
-        <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
-        <div class="chart-canvas-wrap" style="height:280px"><canvas id="ffaHistoryChart"></canvas></div>
-      </div>
-
-      <!-- 9. Futures Premium (Basis) -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Market Basis - (Front-Month FFA vs. Synthetic Spot). Sustained Contango (>5%) indicates institutional 'Front-Running' of expected spot market rallies; deep Backwardation signals extreme near-term stress.">Futures vs Spot Premium - BDRYFF vs Synthetic Spot</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn" id="basisBtn3m" onclick="setBasisWindow('3m')">3M</button>
-            <button class="toggle-btn active" id="basisBtn1y" onclick="setBasisWindow('1y')">1Y</button>
-            <button class="toggle-btn" id="basisBtnAll" onclick="setBasisWindow('all')">All</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="basisRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="basisRangeTrack">
-            <div class="dual-range-fill" id="basisRangeFill"></div>
-            <input type="range" id="basisRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="basisRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="basisChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Premium % = (Front Month FFA - Combined Spot Index) / Combined Spot × 100. Shaded green = Contango, Red = Backwardation.
-        </div>
-      </div>
-
-      <!-- 10. Vessel-Class Contribution to BDI -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="BDI Attribution - decomposes daily moves by weighting (Capesize 50%, Panamax 40%, Supramax 10%). Reveals whether a rally is broad-based or driven by a specific commodity sector (e.g. Iron Ore vs. Grains).">BDI Daily Change - Vessel Class Contribution</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn active" id="bdiContribBtn3m" onclick="setBDIContribWindow('3m')">3M</button>
-            <button class="toggle-btn" id="bdiContribBtn6m" onclick="setBDIContribWindow('6m')">6M</button>
-            <button class="toggle-btn" id="bdiContribBtn1y" onclick="setBDIContribWindow('1y')">1Y</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="bdiContribRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="bdiContribRangeTrack">
-            <div class="dual-range-fill" id="bdiContribRangeFill"></div>
-            <input type="range" id="bdiContribRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="bdiContribRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="bdiContribChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Approximate decomposition: 50% Capesize, 40% Panamax, 10% Supramax.
-        </div>
-      </div>
-
-      <!-- 11. Lead-Lag Correlation Analysis -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Predictive Lag Analysis - identifies which assets lead others. Yellow dot marks the 'Sweet Spot' where Asset A most reliably predicts Asset B.">Lead-Lag Correlation (Cross-Correlation of Log Returns)</div>
-        </div>
-        <div class="signals-controls">
-          <label for="leadLagPair" class="context-label" style="margin-bottom:0">Pairs:</label>
-          <select id="leadLagPair" class="signals-select" onchange="renderLeadLagChart()">
-            <optgroup label="Financial Speed (ETF Leads)">
-              <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
-              <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
-              <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
-              <option value="bdry:bdryff">BDRY vs BDRYFF (ETF vs Futures)</option>
-              <option value="bwet:bwetff">BWET vs BWETFF (ETF vs Futures)</option>
-            </optgroup>
-            <optgroup label="Vessel Rotation (Ripple Effects)">
-              <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
-              <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
-            </optgroup>
-            <optgroup label="Basis & Indices">
-              <option value="bdiy:bdryff">BDI vs BDRYFF</option>
-              <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
-              <option value="cape:bdiy">BCI vs BDI</option>
-              <option value="panama:bdiy">BPI vs BDI</option>
-              <option value="suprama:bdiy">BSI vs BDI</option>
-              <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
-            </optgroup>
-          </select>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
-        <div id="leadLagInfo" class="lead-lag-info"></div>
       </div>
 
     </div>
@@ -4381,7 +4526,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
-      const total = PRODUCT_KEYS.length + 14; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows, +2 holdings history
+      const total = PRODUCT_KEYS.length + 17; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows, +2 holdings history, +3 physical signals
 
       function tick(label) {
         loaded++;
@@ -4438,6 +4583,67 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         .then(r => { DATA.bwetHoldingsHistory = r; tick('BWET History'); })
         .catch(e => { DATA.bwetHoldingsHistory = []; tick('BWET History (fail)'); console.warn('[BWET History] Load failed:', e.message); });
 
+      // Physical Signals Derived CSVs
+      const tcPromise = fetchCSV('data/derived/time_charter_rates.csv')
+        .then(r => {
+          DATA.timeCharterRates = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+          tick('Time Charter Rates');
+        })
+        .catch(e => {
+          DATA.timeCharterRates = [];
+          tick('Time Charter Rates (fail)');
+          console.warn('[TC] Load failed:', e);
+        });
+
+      const ioPromise = fetchCSV('data/derived/iron_ore_restocking.csv')
+        .then(r => {
+          DATA.ironOreRestocking = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+          tick('Iron Ore Restocking');
+        })
+        .catch(e => {
+          DATA.ironOreRestocking = [];
+          tick('Iron Ore Restocking (fail)');
+          console.warn('[Iron Ore] Load failed:', e);
+        });
+
+      const valPromise = fetchCSV('data/derived/vessel_valuations.csv')
+        .then(r => {
+          DATA.vesselValuations = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+          tick('Vessel Valuations');
+        })
+        .catch(e => {
+          DATA.vesselValuations = [];
+          tick('Vessel Valuations (fail)');
+          console.warn('[Valuations] Load failed:', e);
+        });
+
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
         cape: 'data/futures/sgx_cape_futures.csv',
@@ -4456,7 +4662,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
       });
 
-      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, ...sgxPromises]);
+      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, tcPromise, ioPromise, valPromise, ...sgxPromises]);
 
       await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
@@ -9293,6 +9499,617 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _bbWindow = '1y';
     var _spreadWindow = '3y';
 
+    function toggleSignalsSection(sectionId) {
+      const sec = document.getElementById(sectionId);
+      if (sec) {
+        sec.classList.toggle('collapsed');
+      }
+    }
+
+    function renderTimeCharterChart(productKey) {
+      const canvas = document.getElementById('timeCharterChart');
+      if (!canvas) return;
+
+      // Determine spot and TC column mappings
+      let spotKey = 'cape';
+      let tc1yCol = 'capesize_1y_avg';
+      let tc2yCol = 'capesize_2y_avg';
+      let labelPrefix = 'Capesize';
+
+      if (productKey === 'panama') {
+        spotKey = 'panama';
+        tc1yCol = 'panamax_1y_avg';
+        tc2yCol = 'panamax_2y_avg';
+        labelPrefix = 'Panamax';
+      } else if (productKey === 'suprama') {
+        spotKey = 'suprama';
+        tc1yCol = 'supramax_1y_avg';
+        tc2yCol = 'supramax_2y_avg';
+        labelPrefix = 'Supramax';
+      } else if (productKey === 'handysize') {
+        spotKey = 'handysize';
+        tc1yCol = 'handysize_1y_avg';
+        tc2yCol = 'handysize_2y_avg';
+        labelPrefix = 'Handysize';
+      } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') {
+        spotKey = 'dirtytanker';
+        tc1yCol = 'vlcc_1y';
+        tc2yCol = 'suezmax_1y';
+        labelPrefix = 'Tanker';
+      } else if (productKey === 'cleantanker') {
+        spotKey = 'cleantanker';
+        tc1yCol = 'mr_1y';
+        tc2yCol = 'lr2_1y';
+        labelPrefix = 'Clean Tanker';
+      }
+
+      const spotRows = getRows(spotKey);
+      const tcRows = DATA.timeCharterRates || [];
+      if (!spotRows.length || !tcRows.length) return;
+
+      const spotMap = {};
+      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+
+      const aligned = [];
+      tcRows.forEach(r => {
+        let spotVal = spotMap[r.dateStr];
+        if (spotVal == null) {
+          let closest = null;
+          let minDiff = Infinity;
+          spotRows.forEach(sr => {
+            const diff = Math.abs(sr.date - r.date);
+            if (diff < minDiff && diff <= 4 * 86400000) {
+              minDiff = diff;
+              closest = sr.value;
+            }
+          });
+          spotVal = closest;
+        }
+
+        const tc1y = r[tc1yCol];
+        const tc2y = r[tc2yCol];
+
+        if (spotVal != null && (tc1y != null || tc2y != null)) {
+          aligned.push({
+            date: r.date,
+            dateStr: r.dateStr,
+            spot: spotVal,
+            tc1y: tc1y,
+            tc2y: tc2y,
+            ratio: tc1y ? spotVal / tc1y : null
+          });
+        }
+      });
+
+      if (!aligned.length) return;
+
+      const cutoff = new Date();
+      cutoff.setFullYear(cutoff.getFullYear() - 3);
+      const rows = aligned.filter(r => r.date >= cutoff);
+      if (!rows.length) return;
+
+      const latest = rows[rows.length - 1];
+      const ratioBadge = document.getElementById('spotTcRatioBadge');
+      if (ratioBadge && latest.ratio != null) {
+        ratioBadge.textContent = `Spot/1Y TC: ${latest.ratio.toFixed(2)}x`;
+        if (latest.ratio > 1.3) {
+          ratioBadge.style.background = '#f85149';
+          ratioBadge.style.color = '#fff';
+        } else if (latest.ratio < 0.8) {
+          ratioBadge.style.background = '#3fb950';
+          ratioBadge.style.color = '#fff';
+        } else {
+          ratioBadge.style.background = 'var(--border)';
+          ratioBadge.style.color = 'var(--text-muted)';
+        }
+      }
+
+      destroyChart('timeCharterChart');
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const spotSeries = rows.map(r => r.spot);
+      const tc1ySeries = rows.map(r => r.tc1y);
+      const tc2ySeries = rows.map(r => r.tc2y);
+      const ratioSeries = rows.map(r => r.ratio);
+
+      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC' :
+                        (productKey === 'cleantanker') ? 'LR2 1Y TC' : '2-Year TC';
+      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
+                        (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
+
+      chartRegistry['timeCharterChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1 },
+            { label: tc1yLabel, data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 },
+            { label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 },
+            { label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1 }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '-');
+                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', min: 0.4, max: 2.2, grid: { drawOnChartArea: false }, ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'x' }, title: { display: true, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    function renderBasinSpreadChart(productKey) {
+      const container = document.getElementById('basinSpreadContainer');
+      const canvas = document.getElementById('basinSpreadChart');
+      if (!canvas || !container) return;
+
+      let isTanker = (productKey === 'dirtytanker' || productKey === 'cleantanker' || productKey === 'bwet' || productKey === 'bwetff');
+      
+      let col1 = 'capesize_1y_atl';
+      let col2 = 'capesize_1y_pac';
+      let label1 = 'Capesize 1Y Atl TC';
+      let label2 = 'Capesize 1Y Pac TC';
+
+      if (productKey === 'panama') {
+        col1 = 'panamax_1y_atl';
+        col2 = 'panamax_1y_pac';
+        label1 = 'Panamax 1Y Atl TC';
+        label2 = 'Panamax 1Y Pac TC';
+      } else if (productKey === 'suprama') {
+        col1 = 'supramax_1y_atl';
+        col2 = 'supramax_1y_pac';
+        label1 = 'Supramax 1Y Atl TC';
+        label2 = 'Supramax 1Y Pac TC';
+      } else if (productKey === 'handysize') {
+        col1 = 'handysize_1y_atl';
+        col2 = 'handysize_1y_pac';
+        label1 = 'Handysize 1Y Atl TC';
+        label2 = 'Handysize 1Y Pac TC';
+      } else if (isTanker) {
+        col1 = 'vlcc_1y';
+        col2 = 'mr_1y';
+        label1 = 'VLCC 1Y TC (Crude)';
+        label2 = 'MR 1Y TC (Product)';
+      }
+
+      const tcRows = DATA.timeCharterRates || [];
+      if (!tcRows.length) return;
+
+      const filtered = tcRows.map(r => {
+        return {
+          date: r.date,
+          dateStr: r.dateStr,
+          v1: r[col1],
+          v2: r[col2],
+          ratio: (r[col1] != null && r[col2] != null && r[col2] > 0) ? (r[col1] / r[col2]) : null
+        };
+      }).filter(r => r.v1 != null && r.v2 != null);
+
+      if (!filtered.length) {
+        container.style.display = 'none';
+        return;
+      } else {
+        container.style.display = '';
+      }
+
+      const cutoff = new Date();
+      cutoff.setFullYear(cutoff.getFullYear() - 3);
+      const rows = filtered.filter(r => r.date >= cutoff);
+      if (!rows.length) return;
+
+      destroyChart('basinSpreadChart');
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const v1Series = rows.map(r => r.v1);
+      const v2Series = rows.map(r => r.v2);
+      const ratioSeries = rows.map(r => r.ratio);
+
+      chartRegistry['basinSpreadChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: label1, data: v1Series, yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+            { label: label2, data: v2Series, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+            { label: isTanker ? 'VLCC / MR Ratio' : 'Atlantic / Pacific Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
+                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', min: 0.5, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'x' }, title: { display: true, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    function renderIronOreRestockingChart(productKey) {
+      const container = document.getElementById('restockingContainer');
+      const canvas = document.getElementById('ironOreRestockingChart');
+      if (!canvas || !container) return;
+
+      let isTanker = (productKey === 'dirtytanker' || productKey === 'cleantanker' || productKey === 'bwet' || productKey === 'bwetff');
+      if (isTanker) {
+        container.style.display = 'none';
+        return;
+      } else {
+        container.style.display = '';
+      }
+
+      let spotKey = 'cape';
+      if (productKey === 'panama') spotKey = 'panama';
+      else if (productKey === 'suprama') spotKey = 'suprama';
+      else if (productKey === 'handysize') spotKey = 'handysize';
+
+      const spotRows = getRows(spotKey);
+      const ioRows = DATA.ironOreRestocking || [];
+      if (!spotRows.length || !ioRows.length) return;
+
+      const spotMap = {};
+      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+
+      const aligned = [];
+      ioRows.forEach(r => {
+        let spotVal = spotMap[r.dateStr];
+        if (spotVal == null) {
+          let closest = null;
+          let minDiff = Infinity;
+          spotRows.forEach(sr => {
+            const diff = Math.abs(sr.date - r.date);
+            if (diff < minDiff && diff <= 4 * 86400000) {
+              minDiff = diff;
+              closest = sr.value;
+            }
+          });
+          spotVal = closest;
+        }
+
+        const cfr62 = r.cfr_62;
+        const portStock62 = r.port_stock_62;
+
+        if (spotVal != null && (cfr62 != null || portStock62 != null)) {
+          aligned.push({
+            date: r.date,
+            dateStr: r.dateStr,
+            spot: spotVal,
+            cfr62: cfr62,
+            portStock: portStock62
+          });
+        }
+      });
+
+      if (!aligned.length) return;
+
+      const cutoff = new Date();
+      cutoff.setFullYear(cutoff.getFullYear() - 3);
+      const rows = aligned.filter(r => r.date >= cutoff);
+      if (!rows.length) return;
+
+      destroyChart('ironOreRestockingChart');
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const spotSeries = rows.map(r => r.spot);
+      const cfr62Series = rows.map(r => r.cfr62);
+      const portStockSeries = rows.map(r => r.portStock);
+
+      const spotLabel = PRODUCTS[spotKey] ? PRODUCTS[spotKey].label : spotKey;
+
+      chartRegistry['ironOreRestockingChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: `${spotLabel} Spot (Left)`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+            { label: 'CFR 62% Iron Ore Price (Left)', data: cfr62Series, yAxisID: 'yLeft', borderColor: '#ff6b6b', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+            { label: 'Qingdao Port Inventory (Right)', data: portStockSeries, yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  if (c.dataset.label.includes('Inventory')) return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y) + 'k tons';
+                  if (c.dataset.label.includes('CFR')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(1) + '/dmt';
+                  return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y);
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Index / Price (USD)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Port Inventory (10k tons)', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    function renderVesselValuationsChart(productKey) {
+      const canvas = document.getElementById('vesselValuationsChart');
+      if (!canvas) return;
+
+      let isTanker = (productKey === 'dirtytanker' || productKey === 'cleantanker' || productKey === 'bwet' || productKey === 'bwetff');
+
+      let ldt = 24000;
+      let labelPrefix = 'Capesize';
+      let scrapCol = 'dry_india';
+
+      if (productKey === 'panama') {
+        ldt = 12000;
+        labelPrefix = 'Panamax';
+        scrapCol = 'dry_india';
+      } else if (productKey === 'suprama') {
+        ldt = 9500;
+        labelPrefix = 'Supramax';
+        scrapCol = 'dry_india';
+      } else if (productKey === 'handysize') {
+        ldt = 7500;
+        labelPrefix = 'Handysize';
+        scrapCol = 'dry_india';
+      } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') {
+        ldt = 40000;
+        labelPrefix = 'VLCC Tanker';
+        scrapCol = 'tanker_india';
+      } else if (productKey === 'cleantanker') {
+        ldt = 9500;
+        labelPrefix = 'MR Clean Tanker';
+        scrapCol = 'tanker_india';
+      }
+
+      const valRows = DATA.vesselValuations || [];
+      if (!valRows.length) return;
+
+      const cutoff = new Date();
+      cutoff.setFullYear(cutoff.getFullYear() - 3);
+      const rows = valRows.filter(r => r.date >= cutoff && r[scrapCol] != null);
+      if (!rows.length) return;
+
+      const latest = rows[rows.length - 1];
+      const scrapVal = latest[scrapCol];
+      const floorM = (ldt * scrapVal) / 1000000;
+
+      const scrapBadge = document.getElementById('scrapFloorBadge');
+      if (scrapBadge) {
+        scrapBadge.textContent = `${labelPrefix} Scrap Floor: $${floorM.toFixed(2)}M`;
+        scrapBadge.style.background = 'var(--accent)';
+        scrapBadge.style.color = '#fff';
+      }
+
+      destroyChart('vesselValuationsChart');
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const indiaScrap = rows.map(r => r[scrapCol]);
+      const banglaScrap = rows.map(r => isTanker ? r.tanker_bangla : r.dry_bangla);
+      const pakScrap = rows.map(r => isTanker ? r.tanker_pak : r.dry_pak);
+      const scrapFloorSeries = rows.map(r => (ldt * r[scrapCol]) / 1000000);
+
+      chartRegistry['vesselValuationsChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: 'India Demolition ($/LDT, Left)', data: indiaScrap, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+            { label: 'Bangladesh Demolition ($/LDT, Left)', data: banglaScrap, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+            { label: 'Pakistan Demolition ($/LDT, Left)', data: pakScrap, yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+            { label: `${labelPrefix} Est Scrap Floor ($M, Right)`, data: scrapFloorSeries, yAxisID: 'yRight', borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  if (c.dataset.label.includes('Floor')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + 'M';
+                  return ' ' + c.dataset.label + ': $' + c.parsed.y + '/LDT';
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Scrap Price ($/LDT)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Vessel Scrap Floor Value ($M)', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    function renderMarketCycleQuadrantChart(productKey) {
+      const canvas = document.getElementById('marketCycleQuadrantChart');
+      if (!canvas) return;
+
+      let spotKey = 'cape';
+      let tc1yCol = 'capesize_1y_avg';
+      if (productKey === 'panama') { spotKey = 'panama'; tc1yCol = 'panamax_1y_avg'; }
+      else if (productKey === 'suprama') { spotKey = 'suprama'; tc1yCol = 'supramax_1y_avg'; }
+      else if (productKey === 'handysize') { spotKey = 'handysize'; tc1yCol = 'handysize_1y_avg'; }
+      else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') { spotKey = 'dirtytanker'; tc1yCol = 'vlcc_1y'; }
+      else if (productKey === 'cleantanker') { spotKey = 'cleantanker'; tc1yCol = 'mr_1y'; }
+
+      const spotRows = getRows(spotKey);
+      const tcRows = DATA.timeCharterRates || [];
+      if (spotRows.length < 90 || !tcRows.length) return;
+
+      const spotMap = {};
+      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+
+      const points = [];
+      tcRows.forEach(r => {
+        let spotVal = spotMap[r.dateStr];
+        if (spotVal == null) {
+          let closest = null;
+          let minDiff = Infinity;
+          spotRows.forEach(sr => {
+            const diff = Math.abs(sr.date - r.date);
+            if (diff < minDiff && diff <= 4 * 86400000) {
+              minDiff = diff;
+              closest = sr.value;
+            }
+          });
+          spotVal = closest;
+        }
+
+        const pastDate = new Date(r.date.getTime() - 60 * 86400000);
+        let pastVal = null;
+        let minDiffPast = Infinity;
+        spotRows.forEach(sr => {
+          const diff = Math.abs(sr.date - pastDate);
+          if (diff < minDiffPast && diff <= 7 * 86400000) {
+            minDiffPast = diff;
+            pastVal = sr.value;
+          }
+        });
+
+        const tc1y = r[tc1yCol];
+
+        if (spotVal != null && pastVal != null && tc1y != null && tc1y > 0) {
+          const momentum = ((spotVal - pastVal) / pastVal) * 100;
+          const ratio = spotVal / tc1y;
+          points.push({
+            date: r.date,
+            dateStr: r.dateStr,
+            x: momentum,
+            y: ratio
+          });
+        }
+      });
+
+      if (points.length < 15) return;
+
+      for (let i = 0; i < points.length; i++) {
+        const startIdx = Math.max(0, i - 51);
+        const baseline = points.slice(startIdx, i + 1).map(p => p.y);
+        const mean = baseline.reduce((a, b) => a + b, 0) / baseline.length;
+        const std = Math.sqrt(baseline.reduce((a, b) => a + (b - mean) * (b - mean), 0) / baseline.length) || 0.1;
+        points[i].z = (points[i].y - mean) / std;
+      }
+
+      const lastWeeks = points.slice(-20);
+      if (!lastWeeks.length) return;
+
+      const current = lastWeeks[lastWeeks.length - 1];
+      const phaseTextEl = document.getElementById('quadrantPhaseText');
+      if (phaseTextEl) {
+        let phase = 'RESTRUCTURING';
+        let desc = 'Spot momentum is negative and vessel earnings are cheap relative to term rates. Ideal window for long-term cyclical accumulation.';
+        let color = '#58a6ff';
+
+        if (current.x > 0 && current.z > 0) {
+          phase = 'BOOM';
+          desc = 'High spot momentum and asset/term premium. Peak cyclical expansion. Cargo demand exceeds vessel capacity.';
+          color = '#ff6b6b';
+        } else if (current.x <= 0 && current.z > 0) {
+          phase = 'OVER-ORDERING';
+          desc = 'Spot momentum slows, but earnings are still high relative to term commitments. Near-term correction risk increases.';
+          color = '#e3b341';
+        } else if (current.x > 0 && current.z <= 0) {
+          phase = 'RECOVERY';
+          desc = 'Cargo demand starting to lift spot rates, but term/asset play is still cheap. Early-stage expansion.';
+          color = '#3fb950';
+        }
+        phaseTextEl.textContent = `${phase} (Spot Momentum: ${current.x.toFixed(1)}%, Spot/TC Z-Score: ${current.z.toFixed(2)}σ)`;
+        phaseTextEl.style.color = color;
+        const descEl = document.getElementById('quadrantLegendCard');
+        if (descEl) {
+          descEl.querySelector('div:last-child') || (descEl.innerHTML += '<div style="margin-top:10px;line-height:1.4;"></div>');
+          const divs = descEl.querySelectorAll('div');
+          if (divs.length >= 3) {
+            divs[2].textContent = desc;
+            divs[2].style.borderTop = '1px solid var(--border)';
+            divs[2].style.paddingTop = '8px';
+            divs[2].style.marginTop = '8px';
+          }
+        }
+      }
+
+      destroyChart('marketCycleQuadrantChart');
+
+      const scatterData = lastWeeks.map((p, idx) => {
+        return {
+          x: p.x,
+          y: p.z,
+          label: fmtDate(p.date),
+          opacity: 0.2 + 0.8 * (idx / (lastWeeks.length - 1))
+        };
+      });
+
+      chartRegistry['marketCycleQuadrantChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'scatter',
+        data: {
+          datasets: [{
+            label: 'Market Cycle Path',
+            data: scatterData,
+            borderColor: '#58a6ff',
+            backgroundColor: scatterData.map(p => `rgba(88,166,255, ${p.opacity})`),
+            borderWidth: 1.5,
+            showLine: true,
+            tension: 0.3,
+            pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 8 : 4),
+            pointHoverRadius: 8
+          }]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  return ` Date: ${c.raw.label} | Momentum: ${c.raw.x.toFixed(1)}% | Z-Score: ${c.raw.y.toFixed(2)}σ`;
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { color: '#1c2333' },
+              ticks: { font: { size: 11 } },
+              title: { display: true, text: 'Spot Momentum (60D % Change)', color: '#8b949e', font: { size: 11 } }
+            },
+            y: {
+              grid: { color: '#1c2333' },
+              ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'σ' },
+              title: { display: true, text: 'Asset Sentiment (Spot/TC Ratio Z-Score)', color: '#8b949e', font: { size: 11 } }
+            }
+          }
+        }
+      });
+    }
+
     function renderSignalsTab(productKey) {
       if (document.getElementById('bbRangeStart')) initBBRange(productKey);
       if (document.getElementById('basisRangeStart')) initBasisRange();
@@ -9314,6 +10131,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function () { renderBasisChart(); },
         function () { renderBDIContributionChart(); },
         function () { renderLeadLagChart(); },
+        // New Physical & Capital Signals
+        function () { renderTimeCharterChart(productKey); },
+        function () { renderBasinSpreadChart(productKey); },
+        function () { renderIronOreRestockingChart(productKey); },
+        function () { renderVesselValuationsChart(productKey); },
+        function () { renderMarketCycleQuadrantChart(productKey); },
       ];
       fns.forEach(function (fn, i) {
         setTimeout(function () { try { fn(); } catch (e) { console.error('[SignalsTab]', e); } }, i * 16);

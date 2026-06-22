@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 105
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Markets remain precariously poised as Diwali holidays are finally upon
     the sub-continent markets and theindustry heads into the final months of the 2023.
@@ -38,8 +37,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'On the Eastern end and in the lead up to the Bangladeshi elections
     due in mid-January 2024 - disruptions, protests, and even strikes have embattled
@@ -48,8 +46,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, after another period on the sidelines, Pakistan is starting
     to see some buying interest reemerge, as the currency continues to depreciate
@@ -58,8 +55,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Lastly, the Turkish market reports even more improvements as both local
     and import steel prices registered improvements this week, with even price indications
@@ -67,8 +63,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 10.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 45 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -76,8 +71,7 @@ numeric_observations:
   values:
   - 45.0
   - 2023.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-11-13_gms-week-45-yet-to-match-up_img1_12112023cder_7b05ca59107d.jpg'
   unit: null
@@ -90,62 +84,54 @@ numeric_observations:
   - 7.0
   - 5.0
   - 9107.0
-- &id007
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Novemb er 10th, 2023 "Hustle beats talent when talent doesn't hustle."
   unit: null
   values:
   - 10.0
   - 2023.0
-- &id008
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Volume 255, Issue 1108
   unit: null
   values:
   - 255.0
   - 1108.0
-- &id009
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Week 45
   unit: null
   values:
   - 45.0
-- &id010
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: markets and the industry heads into the final months of the 2023. Although
     sev-e rKaal tshayl eCso hllainvse
   unit: null
   values:
   - 2023.0
-- &id011
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: • Bangla disruption. On the Eastern end and in the lead up to the Bangladeshi
     elections due in mid-January 2024 -
   unit: null
   values:
   - 2024.0
-- &id012
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: encouragement on potentially selling their product at workable levels
     in the near future / 2024.
   unit: null
   values:
   - 2024.0
-- &id013
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: by about USD 10/MT.
   unit: tonnage
   values:
   - 10.0
-- &id014
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: For week 45 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -153,8 +139,7 @@ numeric_observations:
   values:
   - 45.0
   - 2023.0
-- &id015
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 India Declining 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -163,8 +148,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id016
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh* Weak 505 / LDT 525 / LDT 545 / LDT
   unit: null
@@ -173,8 +157,7 @@ numeric_observations:
   - 505.0
   - 525.0
   - 545.0
-- &id017
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -183,8 +166,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id018
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 310 / LDT 320 / LDT 330 / LDT
   unit: null
@@ -193,40 +175,35 @@ numeric_observations:
   - 310.0
   - 320.0
   - 330.0
-- &id019
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: BDT 110 against the U.S. Dollar, all while lo cal steel plate prices
     have started flatlining
   unit: null
   values:
   - 110.0
-- &id021
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: the year and before the election date reportedly scheduled in January
     2024, but even if
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Despite the recent correction in prices - down between USD 20 - USD
     25/LDT by this point
@@ -234,40 +211,35 @@ numeric_observations:
   values:
   - 20.0
   - 25.0
-- &id024
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: '- steel volatility continues as prices increased by about USD 6/Ton
     this week, while deals'
   unit: usd
   values:
   - 6.0
-- &id025
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Firstly, the GearBulk controlled General Carg o vessel BONTRUP MALDIVES
     (10,993 LDT)
   unit: null
   values:
   - 10993.0
-- &id026
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: was finalised for a decent USD 545/LT LDT, basis strictly HKC green
     recycling and with
   unit: usd
   values:
   - 545.0
-- &id027
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 350 Tons of bunkers reportedly includIeNd inD thIe Asale at the time
     of arrival.
   unit: null
   values:
   - 350.0
-- &id028
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Additionally, MSC sold the container vessel MSC CHIARA (14,305 LDT),
     for USD 535/LT
@@ -275,24 +247,21 @@ numeric_observations:
   values:
   - 14305.0
   - 535.0
-- &id029
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: LDT and for restricted HKC recycling, also with 330 Tons of bunkers
     on arrival.
   unit: null
   values:
   - 330.0
-- &id030
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Finally, Chinese owners sold their Handymax Bulker the WUYANG GODDESS
     (7,481
   unit: null
   values:
   - 7481.0
-- &id031
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: LDT) for a decent USD 480/LT LDT, basis a n ‘as is' China delivery
     and with 500 Tons of
@@ -300,145 +269,126 @@ numeric_observations:
   values:
   - 480.0
   - 500.0
-- &id032
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: USD 545/LT LDT (with 350 Tons
   unit: usd
   values:
   - 545.0
   - 350.0
-- &id033
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: BON TRUP MALDIVES General Cargo 10,993
   unit: null
   values:
   - 10993.0
-- &id034
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: USD 535/LT LDT (for limited yards
   unit: usd
   values:
   - 535.0
-- &id035
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: MSC CHIARA Container 14,305 HKC sale only with 330 Tons bunkers
   unit: null
   values:
   - 14305.0
   - 330.0
-- &id036
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: USD 480/LT LDT (‘as is' China with 500
   unit: usd
   values:
   - 480.0
   - 500.0
-- &id037
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: WU YANG GODDESS Bulker 7,481
   unit: null
   values:
   - 7481.0
-- &id038
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: about USD 5/Ton, all while the PakistIaNni RDupIeeA de values further
     this week - ending just
   unit: usd
   values:
   - 5.0
-- &id040
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: shy of PKR 287 against the U.S. Dollar.
   unit: null
   values:
   - 287.0
-- &id041
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Overall, after the last batch of six or so Panamax Bulkers that were
     sold to the few tier-1
   unit: null
   values:
   - 1.0
-- &id042
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Another USD 10/MT
   unit: tonnage
   values:
   - 10.0
-- &id044
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: especially as import steel plate prices jumped another USD 8/MT as
     local steel plate prices
   unit: tonnage
   values:
   - 8.0
-- &id045
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: reported a USD 5/MT increase of their own.
   unit: tonnage
   values:
   - 5.0
-- &id046
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Moreover, even as the Lira corrodes deeper into TRY 28 levels against
     the U.S. Dollar,
   unit: null
   values:
   - 28.0
-- &id047
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: firmed by another USD 10/MT this week, further igniting local demand
     before the
   unit: tonnage
   values:
   - 10.0
-- &id048
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: conclusion of 2023.
   unit: null
   values:
   - 2023.0
-- &id049
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line:  Stud ies show, around 600-800 million years ago, Earth has been through
     intense climatic changes. It became so cold that
@@ -446,15 +396,13 @@ numeric_observations:
   values:
   - 600.0
   - -800.0
-- &id051
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: with the -60 degrees Celsius temperature of Mars.
   unit: null
   values:
   - -60.0
-- &id052
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: November 12 - November 15 - Diwali November 12 - November 19
   unit: null
@@ -463,55 +411,48 @@ numeric_observations:
   - 15.0
   - 12.0
   - 19.0
-- &id053
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: November 25 - December 02
   unit: null
   values:
   - 25.0
   - 2.0
-- &id054
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 12 - November 15
   unit: null
   values:
   - 12.0
   - 15.0
-- &id055
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: November 25 - November 28
   unit: null
   values:
   - 25.0
   - 28.0
-- &id056
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 09 - Iqbal Day No holidays in November
   unit: null
   values:
   - 9.0
-- &id057
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 10, 2023
   unit: null
   values:
   - 10.0
   - 2023.0
-- &id059
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 Angel A 1,391 General Cargo Arrived November 07
   unit: null
@@ -519,8 +460,7 @@ numeric_observations:
   - 1.0
   - 1391.0
   - 7.0
-- &id060
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 2 Great 9,759 Bulker Arrived November 08
   unit: null
@@ -528,8 +468,7 @@ numeric_observations:
   - 2.0
   - 9759.0
   - 8.0
-- &id061
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 3 Mas Mulia (Under Tow) 5,601 Barge Arrived November 08
   unit: null
@@ -537,8 +476,7 @@ numeric_observations:
   - 3.0
   - 5601.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 4 One Destiny 7,698 Bulker Arrived November 07
   unit: null
@@ -546,23 +484,20 @@ numeric_observations:
   - 4.0
   - 7698.0
   - 7.0
-- &id063
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 24,449
   unit: null
   values:
   - 24449.0
-- &id064
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of November 10, 2023
   unit: null
   values:
   - 10.0
   - 2023.0
-- &id065
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 Kokuryu Maru 2,473 RoRo / Cargo Arrived November 05
   unit: null
@@ -570,8 +505,7 @@ numeric_observations:
   - 1.0
   - 2473.0
   - 5.0
-- &id066
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 2 Sighter 11,238 Vehicles Carrier Arrived November 06
   unit: null
@@ -579,8 +513,7 @@ numeric_observations:
   - 2.0
   - 11238.0
   - 6.0
-- &id067
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 3 Yango 5,866 Container Arrived November 08
   unit: null
@@ -588,23 +521,20 @@ numeric_observations:
   - 3.0
   - 5866.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,577
   unit: null
   values:
   - 19577.0
-- &id069
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of November 02, 2023
   unit: null
   values:
   - 2.0
   - 2023.0
-- &id070
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 Ventura 16,810 Tanker Beached November 02
   unit: null
@@ -612,15 +542,13 @@ numeric_observations:
   - 1.0
   - 16810.0
   - 2.0
-- &id071
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,810
   unit: null
   values:
   - 16810.0
-- &id072
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -629,8 +557,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id073
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -639,8 +566,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id074
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -649,8 +575,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id075
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -659,8 +584,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id076
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -669,8 +593,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id077
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 1 /4 /2 0 2 3
   unit: null
@@ -681,8 +604,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 1 /5 /2 0 2 3
   unit: null
@@ -693,8 +615,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id079
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 1 /6 /2 0 2 3
   unit: null
@@ -705,8 +626,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id080
-  section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+- section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
   section_type: linked_pdf
   source_line: 1 1 /7 /2 0 2 3
   unit: null
@@ -938,86 +858,615 @@ section_count: 3
 signals:
   numeric_observation_count: 105
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Markets remain precariously poised as Diwali holidays are finally
+      upon the sub-continent markets and theindustry heads into the final months of
+      the 2023. Although several sales have reportedly registered into India at some
+      impressive levels, sentiments and pri
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'On the Eastern end and in the lead up to the Bangladeshi elections
+      due in mid-January 2024 - disruptions, protests, and even strikes have embattled
+      the country and as such, it is expected to become even more challenging to get
+      L/Cs open & deliveries completed '
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, after another period on the sidelines, Pakistan is starting
+      to see some buying interest reemerge, as the currency continues to depreciate
+      once again; in that, as vessels get increasingly expensive, local steel plate
+      prices would eventually have to f
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Lastly, the Turkish market reports even more improvements as both
+      local and import steel prices registered improvements this week, with even price
+      indications seeming to firm about by about USD 10/MT.
+    unit: tonnage
+    values:
+    - 10.0
+  - section: Main
+    section_type: null
+    source_line: For week 45 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 45.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-11-13_gms-week-45-yet-to-match-up_img1_12112023cder_7b05ca59107d.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -11.0
+    - -13.0
+    - 45.0
+    - 12112023.0
+    - 7.0
+    - 5.0
+    - 9107.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Novemb er 10th, 2023 "Hustle beats talent when talent doesn't hustle."
+    unit: null
+    values:
+    - 10.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 255, Issue 1108
+    unit: null
+    values:
+    - 255.0
+    - 1108.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Week 45
+    unit: null
+    values:
+    - 45.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: markets and the industry heads into the final months of the 2023.
+      Although sev-e rKaal tshayl eCso hllainvse
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: • Bangla disruption. On the Eastern end and in the lead up to the
+      Bangladeshi elections due in mid-January 2024 -
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: encouragement on potentially selling their product at workable levels
+      in the near future / 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: by about USD 10/MT.
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: For week 45 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 45.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Declining 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh* Weak 505 / LDT 525 / LDT 545 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 505.0
+    - 525.0
+    - 545.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 310 / LDT 320 / LDT 330 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 310.0
+    - 320.0
+    - 330.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: BDT 110 against the U.S. Dollar, all while lo cal steel plate prices
+      have started flatlining
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: the year and before the election date reportedly scheduled in January
+      2024, but even if
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Despite the recent correction in prices - down between USD 20 - USD
+      25/LDT by this point
+    unit: usd
+    values:
+    - 20.0
+    - 25.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: '- steel volatility continues as prices increased by about USD 6/Ton
+      this week, while deals'
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Firstly, the GearBulk controlled General Carg o vessel BONTRUP MALDIVES
+      (10,993 LDT)
+    unit: null
+    values:
+    - 10993.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: was finalised for a decent USD 545/LT LDT, basis strictly HKC green
+      recycling and with
+    unit: usd
+    values:
+    - 545.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 350 Tons of bunkers reportedly includIeNd inD thIe Asale at the time
+      of arrival.
+    unit: null
+    values:
+    - 350.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Additionally, MSC sold the container vessel MSC CHIARA (14,305 LDT),
+      for USD 535/LT
+    unit: usd
+    values:
+    - 14305.0
+    - 535.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: LDT and for restricted HKC recycling, also with 330 Tons of bunkers
+      on arrival.
+    unit: null
+    values:
+    - 330.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Finally, Chinese owners sold their Handymax Bulker the WUYANG GODDESS
+      (7,481
+    unit: null
+    values:
+    - 7481.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: LDT) for a decent USD 480/LT LDT, basis a n ‘as is' China delivery
+      and with 500 Tons of
+    unit: usd
+    values:
+    - 480.0
+    - 500.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: USD 545/LT LDT (with 350 Tons
+    unit: usd
+    values:
+    - 545.0
+    - 350.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: BON TRUP MALDIVES General Cargo 10,993
+    unit: null
+    values:
+    - 10993.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: USD 535/LT LDT (for limited yards
+    unit: usd
+    values:
+    - 535.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: MSC CHIARA Container 14,305 HKC sale only with 330 Tons bunkers
+    unit: null
+    values:
+    - 14305.0
+    - 330.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: USD 480/LT LDT (‘as is' China with 500
+    unit: usd
+    values:
+    - 480.0
+    - 500.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: WU YANG GODDESS Bulker 7,481
+    unit: null
+    values:
+    - 7481.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: about USD 5/Ton, all while the PakistIaNni RDupIeeA de values further
+      this week - ending just
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: shy of PKR 287 against the U.S. Dollar.
+    unit: null
+    values:
+    - 287.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Overall, after the last batch of six or so Panamax Bulkers that were
+      sold to the few tier-1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Another USD 10/MT
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: especially as import steel plate prices jumped another USD 8/MT as
+      local steel plate prices
+    unit: tonnage
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: reported a USD 5/MT increase of their own.
+    unit: tonnage
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Moreover, even as the Lira corrodes deeper into TRY 28 levels against
+      the U.S. Dollar,
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: firmed by another USD 10/MT this week, further igniting local demand
+      before the
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: conclusion of 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line:  Stud ies show, around 600-800 million years ago, Earth has been
+      through intense climatic changes. It became so cold that
+    unit: null
+    values:
+    - 600.0
+    - -800.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: with the -60 degrees Celsius temperature of Mars.
+    unit: null
+    values:
+    - -60.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: November 12 - November 15 - Diwali November 12 - November 19
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 12.0
+    - 19.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - December 02
+    unit: null
+    values:
+    - 25.0
+    - 2.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 12 - November 15
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - November 28
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 09 - Iqbal Day No holidays in November
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 10, 2023
+    unit: null
+    values:
+    - 10.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Angel A 1,391 General Cargo Arrived November 07
+    unit: null
+    values:
+    - 1.0
+    - 1391.0
+    - 7.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Great 9,759 Bulker Arrived November 08
+    unit: null
+    values:
+    - 2.0
+    - 9759.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Mas Mulia (Under Tow) 5,601 Barge Arrived November 08
+    unit: null
+    values:
+    - 3.0
+    - 5601.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 4 One Destiny 7,698 Bulker Arrived November 07
+    unit: null
+    values:
+    - 4.0
+    - 7698.0
+    - 7.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 24,449
+    unit: null
+    values:
+    - 24449.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of November 10, 2023
+    unit: null
+    values:
+    - 10.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Kokuryu Maru 2,473 RoRo / Cargo Arrived November 05
+    unit: null
+    values:
+    - 1.0
+    - 2473.0
+    - 5.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sighter 11,238 Vehicles Carrier Arrived November 06
+    unit: null
+    values:
+    - 2.0
+    - 11238.0
+    - 6.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Yango 5,866 Container Arrived November 08
+    unit: null
+    values:
+    - 3.0
+    - 5866.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,577
+    unit: null
+    values:
+    - 19577.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of November 02, 2023
+    unit: null
+    values:
+    - 2.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ventura 16,810 Tanker Beached November 02
+    unit: null
+    values:
+    - 1.0
+    - 16810.0
+    - 2.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,810
+    unit: null
+    values:
+    - 16810.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /4 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 4.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /5 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 5.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /6 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 6.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /7 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 7.0
+    - 2.0
+    - 2.0
+    - 3.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-11-13_gms-week-45-yet-to-match-up.html
 source_stem: 2023-11-13_gms-week-45-yet-to-match-up

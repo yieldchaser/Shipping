@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 109
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As such, after a decade long low supply and activity, last year even
     though it seemed as though it would been an overall busy and bullish start to
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 15 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -49,8 +47,7 @@ numeric_observations:
   values:
   - 15.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-04-18_gms-week-15-taking-a-backseat_img1_1804gms2023_0051e04ad6c2.jpg'
   unit: null
@@ -63,8 +60,7 @@ numeric_observations:
   - 23.0
   - 51.0
   - 4.0
-- &id004
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: April 14t h, 2023 "What you get by achieving your goals is not as important
     as what you
@@ -72,8 +68,7 @@ numeric_observations:
   values:
   - 14.0
   - 2023.0
-- &id005
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Volume 2 48, Issue 1078 become by achieving your goals."
   unit: null
@@ -81,23 +76,20 @@ numeric_observations:
   - 2.0
   - 48.0
   - 1078.0
-- &id006
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Week 15 - Zig Ziglar
   unit: null
   values:
   - 15.0
-- &id007
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: iDt would been an overall busy and bullish start to 2023 for the major
     recycling markets.
   unit: null
   values:
   - 2023.0
-- &id008
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: For week 15 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -105,8 +97,7 @@ numeric_observations:
   values:
   - 15.0
   - 2023.0
-- &id009
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Positive 590 / LDT* 610 / LDT* 630 / LDT*
   unit: null
@@ -115,8 +106,7 @@ numeric_observations:
   - 590.0
   - 610.0
   - 630.0
-- &id010
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 2 India Positive 570 / LDT 580 / LDT 600 / LDT
   unit: null
@@ -125,8 +115,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 600.0
-- &id011
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 540 / LDT* 550 / LDT* 560 / LDT*
   unit: null
@@ -135,8 +124,7 @@ numeric_observations:
   - 540.0
   - 550.0
   - 560.0
-- &id012
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -145,40 +133,35 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id013
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id014
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: continues to volley in the earlBy BADTN 10G6 agLaiAnstD theE US.S.H
     Do llar.
   unit: null
   values:
   - 10.0
-- &id015
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: vessel ATLANTIC RAY (2,461 LDT), built in Turkey, with a steel propeller,
     eventually
   unit: null
   values:
   - 2461.0
-- &id016
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: managed to obtain a fantastic USD 620/LT LDT - showing that smaller
     LDT units are
   unit: usd
   values:
   - 620.0
-- &id017
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: PACIFIC (2,188 LDT), sold from Vietnamese owners for a very firm USD
     655/LT LDT.
@@ -186,150 +169,131 @@ numeric_observations:
   values:
   - 2188.0
   - 655.0
-- &id018
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Finally, the handy Logger Bulker OCEAN GREAT (6,311 LDT) from Chinese
     Sellers was
   unit: null
   values:
   - 6311.0
-- &id019
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: committed for a decent USD 575/LT LDT.
   unit: usd
   values:
   - 575.0
-- &id020
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: A POLLO PACIFIC LPG 2,188 USD 655/LT LDT
   unit: usd
   values:
   - 2188.0
   - 655.0
-- &id021
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: A TLANTIC RAY General Cargo 2,461 USD 620/LT LDT
   unit: usd
   values:
   - 2461.0
   - 620.0
-- &id022
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: OCEAN GREAT Bulker 6,311 USD 575/LT LDT
   unit: usd
   values:
   - 6311.0
   - 575.0
-- &id023
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Fundamentals-wise, local steel plate prices declined a marginal USD
     5/Ton, while the
   unit: usd
   values:
   - 5.0
-- &id025
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Indian Rupee continues to slide around the Rs. 81.8X mark against the
     U.S. Dollar.
   unit: null
   values:
   - 81.8
-- &id026
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: through the week - the Pakistani Rupee firmed to the early PKR 284
     against the U.S Dollar.
   unit: null
   values:
   - 284.0
-- &id028
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Both import and local steel plate prices have fallen by about USD 5/Ton
     this week as the
   unit: usd
   values:
   - 5.0
-- &id030
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Lira continues to gradually sink against the U.S. Dollar approaching
     TRY 19.40.
   unit: null
   values:
   - 19.4
-- &id031
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line:  Venus is the hottest planet in the solar system and has an average
     surface temperature of around 450° C.
   unit: null
   values:
   - 450.0
-- &id033
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line:  While the entire suit costs a cool $12m, 70% of that cost is for
     the backpack and control module. However,
   unit: pct
   values:
   - 70.0
-- &id034
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: the space suits that NASA uses were built in 1974. If these were priced
     by today's pricing, they would
   unit: null
   values:
   - 1974.0
-- &id035
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: cost an estimated 150 million dollars!
   unit: null
   values:
   - 150.0
-- &id036
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line:  The Sun accounts for 99.86% of the mass in our solar system with
     a mass of around 330,000 times that of
@@ -337,24 +301,21 @@ numeric_observations:
   values:
   - 99.86
   - 330000.0
-- &id037
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line:  The Sun is large enough that approximately 1.3 million Earths could
     fit inside (if squashed in) or if the
   unit: null
   values:
   - 1.3
-- &id038
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Earths retained their spherical shape then 960,000 would fit. But can
     you visualize that number of Earths?
   unit: null
   values:
   - 960000.0
-- &id039
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: April 22 - Eid-ul-Fitr April 18 - April 25
   unit: null
@@ -362,8 +323,7 @@ numeric_observations:
   - 22.0
   - 18.0
   - 25.0
-- &id040
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day May 04 - May 11
   unit: null
@@ -371,8 +331,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 11.0
-- &id041
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 05 - Buddha Purnima May 16 - May 24
   unit: null
@@ -380,8 +339,7 @@ numeric_observations:
   - 5.0
   - 16.0
   - 24.0
-- &id042
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: April 19 - Shab-E-Qadr April 19 - April 22
   unit: null
@@ -389,8 +347,7 @@ numeric_observations:
   - 19.0
   - 19.0
   - 22.0
-- &id043
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: April 21 - April 23 - Eid-ul-Azha May 05 - May 08
   unit: null
@@ -399,8 +356,7 @@ numeric_observations:
   - 23.0
   - 5.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 01 - May Day May 18 - May 21
   unit: null
@@ -408,23 +364,20 @@ numeric_observations:
   - 1.0
   - 18.0
   - 21.0
-- &id045
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 04 - Buddha Purnima
   unit: null
   values:
   - 4.0
-- &id046
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: April 20 - April 24 - Ramazan
   unit: null
   values:
   - 20.0
   - 24.0
-- &id047
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 01 - 03 - Labor Day April 22 - April 24 - Eid-ul-Fitr Bayrami
   unit: null
@@ -433,39 +386,34 @@ numeric_observations:
   - 3.0
   - 22.0
   - 24.0
-- &id048
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day May 01 - Labor and Solidarity Day
   unit: null
   values:
   - 1.0
   - 1.0
-- &id049
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: May 19 - Youth and Sports Day
   unit: null
   values:
   - 19.0
-- &id050
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 14, 2023
   unit: null
   values:
   - 14.0
   - 2023.0
-- &id052
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 1 Augusta II 9,920 Oil Tanker Arrived April 12
   unit: null
@@ -473,8 +421,7 @@ numeric_observations:
   - 1.0
   - 9920.0
   - 12.0
-- &id053
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 2 Ice 9,646 Drill Ship Beached April 08
   unit: null
@@ -482,8 +429,7 @@ numeric_observations:
   - 2.0
   - 9646.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 3 Leonard 7,852 Container Beached April 12
   unit: null
@@ -491,23 +437,20 @@ numeric_observations:
   - 3.0
   - 7852.0
   - 12.0
-- &id055
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 27,418
   unit: null
   values:
   - 27418.0
-- &id056
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 14, 2023
   unit: null
   values:
   - 14.0
   - 2023.0
-- &id057
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 1 Adriatic Energy 32,303 LPG Beached April 08
   unit: null
@@ -515,8 +458,7 @@ numeric_observations:
   - 1.0
   - 32303.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 2 Agia Trias 22,143 Bulk Carrier Arrived April 12
   unit: null
@@ -524,8 +466,7 @@ numeric_observations:
   - 2.0
   - 22143.0
   - 12.0
-- &id059
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 3 Grace Energy 30,426 LNG Arrived April 14
   unit: null
@@ -533,8 +474,7 @@ numeric_observations:
   - 3.0
   - 30426.0
   - 14.0
-- &id060
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 4 Ida 9,828 Tanker Arrived April 07
   unit: null
@@ -542,8 +482,7 @@ numeric_observations:
   - 4.0
   - 9828.0
   - 7.0
-- &id061
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 5 Lily Breeze 9,898 Bulk Carrier Arrived April 07
   unit: null
@@ -551,8 +490,7 @@ numeric_observations:
   - 5.0
   - 9898.0
   - 7.0
-- &id062
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 6 Rowan 2,755 General Cargo Arrived April 07
   unit: null
@@ -560,8 +498,7 @@ numeric_observations:
   - 6.0
   - 2755.0
   - 7.0
-- &id063
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 7 Salamis 9,238 Tanker Arrived April 04
   unit: null
@@ -569,8 +506,7 @@ numeric_observations:
   - 7.0
   - 9238.0
   - 4.0
-- &id064
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 8 Shravan 7,399 Container Beached April 08
   unit: null
@@ -578,8 +514,7 @@ numeric_observations:
   - 8.0
   - 7399.0
   - 8.0
-- &id065
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 9 Sun Bulk 7,553 Bulk Carrier Beached April 11
   unit: null
@@ -587,8 +522,7 @@ numeric_observations:
   - 9.0
   - 7553.0
   - 11.0
-- &id066
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 10 Sunny Voyager 22,706 Bulk Carrier Arrived April 06
   unit: null
@@ -596,8 +530,7 @@ numeric_observations:
   - 10.0
   - 22706.0
   - 6.0
-- &id067
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 11 Vir 10,540 Bulk Carrier Beached April 08
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 11.0
   - 10540.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 12 Yu Hai 5,017 Bulk Carrier Beached April 08
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 12.0
   - 5017.0
   - 8.0
-- &id069
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 13 Yuang Da Fa 102 1,736 Reefer Beached April 10
   unit: null
@@ -624,23 +555,20 @@ numeric_observations:
   - 102.0
   - 1736.0
   - 10.0
-- &id070
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 171,542
   unit: null
   values:
   - 171542.0
-- &id071
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 14, 2023
   unit: null
   values:
   - 14.0
   - 2023.0
-- &id072
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 1 Madina 1 1,657 Tanker Arrived March 03
   unit: null
@@ -649,15 +577,13 @@ numeric_observations:
   - 1.0
   - 1657.0
   - 3.0
-- &id073
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 1,657
   unit: null
   values:
   - 1657.0
-- &id074
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -666,8 +592,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id075
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -676,8 +601,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id076
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -686,8 +610,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id077
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -696,8 +619,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id078
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -706,8 +628,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id079
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 4 /8 /2 0 2 3
   unit: null
@@ -717,8 +638,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id080
-  section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+- section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
   section_type: linked_pdf
   source_line: 4 /9 /2 0 2 3
   unit: null
@@ -992,86 +912,624 @@ section_count: 3
 signals:
   numeric_observation_count: 109
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As such, after a decade long low supply and activity, last year even
+      though it seemed as though it would been an overall busy and bullish start to
+      2023 for the major recycling markets. However, things seem to be easing off
+      even before May arrives and the custo
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: For week 15 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-04-18_gms-week-15-taking-a-backseat_img1_1804gms2023_0051e04ad6c2.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -4.0
+    - -18.0
+    - 15.0
+    - 1804.0
+    - 23.0
+    - 51.0
+    - 4.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: April 14t h, 2023 "What you get by achieving your goals is not as
+      important as what you
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 48, Issue 1078 become by achieving your goals."
+    unit: null
+    values:
+    - 2.0
+    - 48.0
+    - 1078.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Week 15 - Zig Ziglar
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: iDt would been an overall busy and bullish start to 2023 for the
+      major recycling markets.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: For week 15 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Positive 590 / LDT* 610 / LDT* 630 / LDT*
+    unit: null
+    values:
+    - 1.0
+    - 590.0
+    - 610.0
+    - 630.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Positive 570 / LDT 580 / LDT 600 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 570.0
+    - 580.0
+    - 600.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 540 / LDT* 550 / LDT* 560 / LDT*
+    unit: null
+    values:
+    - 3.0
+    - 540.0
+    - 550.0
+    - 560.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: continues to volley in the earlBy BADTN 10G6 agLaiAnstD theE US.S.H
+      Do llar.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: vessel ATLANTIC RAY (2,461 LDT), built in Turkey, with a steel propeller,
+      eventually
+    unit: null
+    values:
+    - 2461.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: managed to obtain a fantastic USD 620/LT LDT - showing that smaller
+      LDT units are
+    unit: usd
+    values:
+    - 620.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: PACIFIC (2,188 LDT), sold from Vietnamese owners for a very firm
+      USD 655/LT LDT.
+    unit: usd
+    values:
+    - 2188.0
+    - 655.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Finally, the handy Logger Bulker OCEAN GREAT (6,311 LDT) from Chinese
+      Sellers was
+    unit: null
+    values:
+    - 6311.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: committed for a decent USD 575/LT LDT.
+    unit: usd
+    values:
+    - 575.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: A POLLO PACIFIC LPG 2,188 USD 655/LT LDT
+    unit: usd
+    values:
+    - 2188.0
+    - 655.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: A TLANTIC RAY General Cargo 2,461 USD 620/LT LDT
+    unit: usd
+    values:
+    - 2461.0
+    - 620.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: OCEAN GREAT Bulker 6,311 USD 575/LT LDT
+    unit: usd
+    values:
+    - 6311.0
+    - 575.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Fundamentals-wise, local steel plate prices declined a marginal USD
+      5/Ton, while the
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Indian Rupee continues to slide around the Rs. 81.8X mark against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 81.8
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: through the week - the Pakistani Rupee firmed to the early PKR 284
+      against the U.S Dollar.
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Both import and local steel plate prices have fallen by about USD
+      5/Ton this week as the
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Lira continues to gradually sink against the U.S. Dollar approaching
+      TRY 19.40.
+    unit: null
+    values:
+    - 19.4
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line:  Venus is the hottest planet in the solar system and has an average
+      surface temperature of around 450° C.
+    unit: null
+    values:
+    - 450.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line:  While the entire suit costs a cool $12m, 70% of that cost is for
+      the backpack and control module. However,
+    unit: pct
+    values:
+    - 70.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: the space suits that NASA uses were built in 1974. If these were
+      priced by today's pricing, they would
+    unit: null
+    values:
+    - 1974.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: cost an estimated 150 million dollars!
+    unit: null
+    values:
+    - 150.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line:  The Sun accounts for 99.86% of the mass in our solar system with
+      a mass of around 330,000 times that of
+    unit: pct
+    values:
+    - 99.86
+    - 330000.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line:  The Sun is large enough that approximately 1.3 million Earths could
+      fit inside (if squashed in) or if the
+    unit: null
+    values:
+    - 1.3
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Earths retained their spherical shape then 960,000 would fit. But
+      can you visualize that number of Earths?
+    unit: null
+    values:
+    - 960000.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: April 22 - Eid-ul-Fitr April 18 - April 25
+    unit: null
+    values:
+    - 22.0
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day May 04 - May 11
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 05 - Buddha Purnima May 16 - May 24
+    unit: null
+    values:
+    - 5.0
+    - 16.0
+    - 24.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: April 19 - Shab-E-Qadr April 19 - April 22
+    unit: null
+    values:
+    - 19.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: April 21 - April 23 - Eid-ul-Azha May 05 - May 08
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - May Day May 18 - May 21
+    unit: null
+    values:
+    - 1.0
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 04 - Buddha Purnima
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: April 20 - April 24 - Ramazan
+    unit: null
+    values:
+    - 20.0
+    - 24.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - 03 - Labor Day April 22 - April 24 - Eid-ul-Fitr Bayrami
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 22.0
+    - 24.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day May 01 - Labor and Solidarity Day
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: May 19 - Youth and Sports Day
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 14, 2023
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 1 Augusta II 9,920 Oil Tanker Arrived April 12
+    unit: null
+    values:
+    - 1.0
+    - 9920.0
+    - 12.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ice 9,646 Drill Ship Beached April 08
+    unit: null
+    values:
+    - 2.0
+    - 9646.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 3 Leonard 7,852 Container Beached April 12
+    unit: null
+    values:
+    - 3.0
+    - 7852.0
+    - 12.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 27,418
+    unit: null
+    values:
+    - 27418.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 14, 2023
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 1 Adriatic Energy 32,303 LPG Beached April 08
+    unit: null
+    values:
+    - 1.0
+    - 32303.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 2 Agia Trias 22,143 Bulk Carrier Arrived April 12
+    unit: null
+    values:
+    - 2.0
+    - 22143.0
+    - 12.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 3 Grace Energy 30,426 LNG Arrived April 14
+    unit: null
+    values:
+    - 3.0
+    - 30426.0
+    - 14.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 4 Ida 9,828 Tanker Arrived April 07
+    unit: null
+    values:
+    - 4.0
+    - 9828.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 5 Lily Breeze 9,898 Bulk Carrier Arrived April 07
+    unit: null
+    values:
+    - 5.0
+    - 9898.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 6 Rowan 2,755 General Cargo Arrived April 07
+    unit: null
+    values:
+    - 6.0
+    - 2755.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 7 Salamis 9,238 Tanker Arrived April 04
+    unit: null
+    values:
+    - 7.0
+    - 9238.0
+    - 4.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 8 Shravan 7,399 Container Beached April 08
+    unit: null
+    values:
+    - 8.0
+    - 7399.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sun Bulk 7,553 Bulk Carrier Beached April 11
+    unit: null
+    values:
+    - 9.0
+    - 7553.0
+    - 11.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 10 Sunny Voyager 22,706 Bulk Carrier Arrived April 06
+    unit: null
+    values:
+    - 10.0
+    - 22706.0
+    - 6.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 11 Vir 10,540 Bulk Carrier Beached April 08
+    unit: null
+    values:
+    - 11.0
+    - 10540.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 12 Yu Hai 5,017 Bulk Carrier Beached April 08
+    unit: null
+    values:
+    - 12.0
+    - 5017.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 13 Yuang Da Fa 102 1,736 Reefer Beached April 10
+    unit: null
+    values:
+    - 13.0
+    - 102.0
+    - 1736.0
+    - 10.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 171,542
+    unit: null
+    values:
+    - 171542.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 14, 2023
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 1 Madina 1 1,657 Tanker Arrived March 03
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 1657.0
+    - 3.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 1,657
+    unit: null
+    values:
+    - 1657.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 4 /8 /2 0 2 3
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-04-18_gms-week-15-taking-a-backseat_ship-recycling-market-insight-week-1_74f6b3c57b91.pdf'
+    section_type: linked_pdf
+    source_line: 4 /9 /2 0 2 3
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 2.0
+    - 2.0
+    - 3.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-04-18_gms-week-15-taking-a-backseat.html
 source_stem: 2023-04-18_gms-week-15-taking-a-backseat

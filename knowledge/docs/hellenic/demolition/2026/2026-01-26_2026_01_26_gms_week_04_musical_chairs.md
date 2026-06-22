@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 77
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we await January's inflation figures from the various destinations,
     the Baltic Exchange Dry Index managed to edge up a little more on Friday, helped
@@ -46,15 +45,13 @@ numeric_observations:
   - 60.92
   - 7.3
   - 16.81
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 2026 is certainly off with a bang - just the wrong kind, it would seem.
   unit: null
   values:
   - 2026.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 04 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -62,8 +59,7 @@ numeric_observations:
   values:
   - 4.0
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   unit: null
@@ -76,8 +72,7 @@ numeric_observations:
   - 35.0
   - 7.0
   - 925.0
-- &id005
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: January 23rd, 2026 "Your present circumstances don't determine where
     you can go. They
@@ -85,15 +80,13 @@ numeric_observations:
   values:
   - 23.0
   - 2026.0
-- &id006
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Week 4 merely determine where you start."
   unit: null
   values:
   - 4.0
-- &id007
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Volume 2 80, Issue 1220
   unit: null
@@ -101,24 +94,21 @@ numeric_observations:
   - 2.0
   - 80.0
   - 1220.0
-- &id008
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: managed to edge up a little more on Friday, helped by the smaller segments,
     while capes fell 0.2%
   unit: pct
   values:
   - 0.2
-- &id009
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: a nd the panamax index declined by about 0.1%. Meanwhile , crude oil
     finally breached the awaited
   unit: pct
   values:
   - 0.1
-- &id010
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: USD 60/barrel barrier and wrapped up the week at USD 60.92/barrel,
     rising nearly 7.3% over the
@@ -127,23 +117,20 @@ numeric_observations:
   - 60.0
   - 60.92
   - 7.3
-- &id011
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: last month but still dangling 16.81% lower than the same time a year
     ago.
   unit: pct
   values:
   - 16.81
-- &id012
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 2026 is certainly off with a bang - just the wrong kind, it would seem.
   unit: null
   values:
   - 2026.0
-- &id013
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 4 of 2026 are on Page 6.
   unit: null
@@ -151,16 +138,14 @@ numeric_observations:
   - 4.0
   - 2026.0
   - 6.0
-- &id014
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id015
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: week, it gained a healthy 40 basis points against the U.S. Dollar yet
     closed at BDT 122.02. Local
@@ -168,16 +153,14 @@ numeric_observations:
   values:
   - 40.0
   - 122.02
-- &id016
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: week's closing level of USD 487/ton, as resale prices of ships steel
     are being severely undercut by
   unit: usd
   values:
   - 487.0
-- &id017
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: both February 11 and 12, as the populace prepares to vote and either
     gear up (or grind down) the
@@ -185,31 +168,27 @@ numeric_observations:
   values:
   - 11.0
   - 12.0
-- &id018
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: of over 23K LDT waiting to be delivered to their respective owners.
   unit: null
   values:
   - 23.0
-- &id020
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: India has by far been the apostle of misfortune, as not only did the
     Rupee collapse by over 1% in just
   unit: pct
   values:
   - 1.0
-- &id021
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: five days, it also closed the week breaching Rs. 91 by a wide margin
     (nearly hitting Rs. 92) and
@@ -217,78 +196,68 @@ numeric_observations:
   values:
   - 91.0
   - 92.0
-- &id022
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: wrapping its roller coast ride at Rs. 91.65.
   unit: null
   values:
   - 91.65
-- &id023
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Gadani's anchorage, which has sat empty throughout 2026 (and then some),
     and despite Pakistan
   unit: null
   values:
   - 2026.0
-- &id025
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: New Year holidays on February 17 - a traditionally quieter time for
     sale-and-purchase activity in
   unit: null
   values:
   - 17.0
-- &id026
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Su pply worries. over recent weeks, with the Pakistani Rupee even gaining
     an impressive 70 basis points against the
   unit: null
   values:
   - 70.0
-- &id027
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: U.S. Dollar and log in a healthy PKR 278.19 at the time of close -
     levels not seen since circa Q1
   unit: null
   values:
   - 278.19
-- &id028
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 2025. Local steel plate prices too , after improving to current levels
     over recent weeks, have
   unit: null
   values:
   - 2025.0
-- &id029
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: helplessly flatlined at an industry-leading USD 587/ton.
   unit: usd
   values:
   - 587.0
-- &id030
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: the Pax surge of 2022 / 2023 that saw Aliaga's anchorage littered with
     cruise ships / luxury liners
@@ -296,24 +265,21 @@ numeric_observations:
   values:
   - 2022.0
   - 2023.0
-- &id032
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: that the Lira lost another 30 basis points against the U.S. Dollar
     and closing the week out atr another
   unit: null
   values:
   - 30.0
-- &id033
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: record breaking TRY 43.97 and already a foot into TRY 44?
   unit: null
   values:
   - 43.97
   - 44.0
-- &id034
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: For Week 4 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -321,8 +287,7 @@ numeric_observations:
   values:
   - 4.0
   - 2026.0
-- &id035
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Improving 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -331,8 +296,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id036
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -341,8 +305,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id037
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Declining 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -351,8 +314,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id038
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -361,24 +323,21 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id039
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: often takes just 10 percent more calories than the body needs to maintain
     itself.
   unit: null
   values:
   - 10.0
-- &id041
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line:  A plastic-bristled toothbrush may add approximately 30 to 120 microparticles
     of plastic to your diet with each
@@ -386,8 +345,7 @@ numeric_observations:
   values:
   - 30.0
   - 120.0
-- &id042
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 30 - February 06
   unit: null
@@ -395,16 +353,14 @@ numeric_observations:
   - 26.0
   - 30.0
   - 6.0
-- &id043
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: No holidays in February February 16 - February 23
   unit: null
   values:
   - 16.0
   - 23.0
-- &id044
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: February 11 - General Holiday February 03 - February 06
   unit: null
@@ -412,8 +368,7 @@ numeric_observations:
   - 11.0
   - 3.0
   - 6.0
-- &id045
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: February 12 - Election Holiday February 19 - February 22
   unit: null
@@ -421,45 +376,39 @@ numeric_observations:
   - 12.0
   - 19.0
   - 22.0
-- &id046
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: February 21 - Martyr's Day
   unit: null
   values:
   - 21.0
-- &id047
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: February 05 - Kashmir Solidarity Day No holidays in February
   unit: null
   values:
   - 5.0
-- &id048
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: February 18 - Bank Holiday
   unit: null
   values:
   - 18.0
-- &id049
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 23, 2026
   unit: null
   values:
   - 23.0
   - 2026.0
-- &id051
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1 Olga L 3,734 Reefer Arrived January 24
   unit: null
@@ -467,8 +416,7 @@ numeric_observations:
   - 1.0
   - 3734.0
   - 24.0
-- &id052
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 2 Sheng Lu 6,311 Bulk Carrier Delivered January 17
   unit: null
@@ -476,8 +424,7 @@ numeric_observations:
   - 2.0
   - 6311.0
   - 17.0
-- &id053
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 3 Tan 5,581 Fishing Arrived January 21
   unit: null
@@ -485,8 +432,7 @@ numeric_observations:
   - 3.0
   - 5581.0
   - 21.0
-- &id054
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 4 Tan 6,311 Bulk Carrier Delivered January 24
   unit: null
@@ -494,8 +440,7 @@ numeric_observations:
   - 4.0
   - 6311.0
   - 24.0
-- &id055
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 5 Yun Da You 6 1,139 Oil Tanker Arrived January 20
   unit: null
@@ -504,39 +449,34 @@ numeric_observations:
   - 6.0
   - 1139.0
   - 20.0
-- &id056
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Morality 23,076
   unit: null
   values:
   - 23076.0
-- &id057
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 23, 2026
   unit: null
   values:
   - 23.0
   - 2026.0
-- &id058
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 23, 2026
   unit: null
   values:
   - 23.0
   - 2026.0
-- &id059
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/17/2026 410.52 37,300.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -551,8 +491,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id061
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/18/2026 410.52 37,300.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -567,8 +506,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id062
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/19/2026 414.70 37,700.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -583,8 +521,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id063
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/20/2026 408.93 37,200.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -599,8 +536,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id064
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/21/2026 400.22 36,700.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -615,8 +551,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id065
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/22/2026 398.38 36,500.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -631,8 +566,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id066
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 1/23/2026 401.70 36,800.00 586.98 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -647,8 +581,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id067
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -657,8 +590,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id068
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -667,8 +599,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id069
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -677,8 +608,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id070
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -687,8 +617,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id071
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -697,8 +626,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id072
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   unit: null
@@ -711,24 +639,21 @@ numeric_observations:
   - 35.0
   - 7.0
   - 925.0
-- &id073
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x153 mode=RGB'
   unit: null
   values:
   - 687.0
   - 53.0
-- &id074
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id075
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: '[2 [india [Steady | ai0/LbT | 430/tpr_ | 440/LbT_ |'
   unit: null
@@ -736,8 +661,7 @@ numeric_observations:
   - 2.0
   - 430.0
   - 440.0
-- &id076
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: '[3 [Bangladesh | Declining | 400/LDT | 420/LpT | 430/LDT_ |'
   unit: null
@@ -746,8 +670,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id077
-  section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+- section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey [Steady] 270/ubr [| 280/tpr | 290/tbT_|'
   unit: null
@@ -766,83 +689,656 @@ section_count: 3
 signals:
   numeric_observation_count: 77
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
+  - section: Main
+    section_type: null
+    source_line: As we await January's inflation figures from the various destinations,
+      the Baltic Exchange Dry Index managed to edge up a little more on Friday, helped
+      by the smaller segments, while capes fell 0.2% and the panamax index declined
+      by about 0.1%. Meanwhile, crud
+    unit: pct
+    values:
+    - 0.2
+    - 0.1
+    - 60.0
+    - 60.92
+    - 7.3
+    - 16.81
+  - section: Main
+    section_type: null
+    source_line: 2026 is certainly off with a bang - just the wrong kind, it would
+      seem.
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: For Week 04 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 4.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -26.0
+    - 4.0
+    - 26012026.0
+    - 35.0
+    - 7.0
+    - 925.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: January 23rd, 2026 "Your present circumstances don't determine where
+      you can go. They
+    unit: null
+    values:
+    - 23.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Week 4 merely determine where you start."
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 80, Issue 1220
+    unit: null
+    values:
+    - 2.0
+    - 80.0
+    - 1220.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: managed to edge up a little more on Friday, helped by the smaller
+      segments, while capes fell 0.2%
+    unit: pct
+    values:
+    - 0.2
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: a nd the panamax index declined by about 0.1%. Meanwhile , crude
+      oil finally breached the awaited
+    unit: pct
+    values:
+    - 0.1
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: USD 60/barrel barrier and wrapped up the week at USD 60.92/barrel,
+      rising nearly 7.3% over the
+    unit: pct
+    values:
+    - 60.0
+    - 60.92
+    - 7.3
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: last month but still dangling 16.81% lower than the same time a year
+      ago.
+    unit: pct
+    values:
+    - 16.81
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 2026 is certainly off with a bang - just the wrong kind, it would
+      seem.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 4 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 4.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: week, it gained a healthy 40 basis points against the U.S. Dollar
+      yet closed at BDT 122.02. Local
+    unit: null
+    values:
+    - 40.0
+    - 122.02
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: week's closing level of USD 487/ton, as resale prices of ships steel
+      are being severely undercut by
+    unit: usd
+    values:
+    - 487.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: both February 11 and 12, as the populace prepares to vote and either
+      gear up (or grind down) the
+    unit: null
+    values:
+    - 11.0
+    - 12.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: of over 23K LDT waiting to be delivered to their respective owners.
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: India has by far been the apostle of misfortune, as not only did
+      the Rupee collapse by over 1% in just
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: five days, it also closed the week breaching Rs. 91 by a wide margin
+      (nearly hitting Rs. 92) and
+    unit: null
+    values:
+    - 91.0
+    - 92.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: wrapping its roller coast ride at Rs. 91.65.
+    unit: null
+    values:
+    - 91.65
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Gadani's anchorage, which has sat empty throughout 2026 (and then
+      some), and despite Pakistan
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: New Year holidays on February 17 - a traditionally quieter time for
+      sale-and-purchase activity in
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Su pply worries. over recent weeks, with the Pakistani Rupee even
+      gaining an impressive 70 basis points against the
+    unit: null
+    values:
+    - 70.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: U.S. Dollar and log in a healthy PKR 278.19 at the time of close
+      - levels not seen since circa Q1
+    unit: null
+    values:
+    - 278.19
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 2025. Local steel plate prices too , after improving to current levels
+      over recent weeks, have
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: helplessly flatlined at an industry-leading USD 587/ton.
+    unit: usd
+    values:
+    - 587.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: the Pax surge of 2022 / 2023 that saw Aliaga's anchorage littered
+      with cruise ships / luxury liners
+    unit: null
+    values:
+    - 2022.0
+    - 2023.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: that the Lira lost another 30 basis points against the U.S. Dollar
+      and closing the week out atr another
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: record breaking TRY 43.97 and already a foot into TRY 44?
+    unit: null
+    values:
+    - 43.97
+    - 44.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: For Week 4 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 4.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Improving 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Declining 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: often takes just 10 percent more calories than the body needs to
+      maintain itself.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line:  A plastic-bristled toothbrush may add approximately 30 to 120 microparticles
+      of plastic to your diet with each
+    unit: null
+    values:
+    - 30.0
+    - 120.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 30 - February 06
+    unit: null
+    values:
+    - 26.0
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in February February 16 - February 23
+    unit: null
+    values:
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: February 11 - General Holiday February 03 - February 06
+    unit: null
+    values:
+    - 11.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: February 12 - Election Holiday February 19 - February 22
+    unit: null
+    values:
+    - 12.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Martyr's Day
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: February 05 - Kashmir Solidarity Day No holidays in February
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: February 18 - Bank Holiday
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 23, 2026
+    unit: null
+    values:
+    - 23.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1 Olga L 3,734 Reefer Arrived January 24
+    unit: null
+    values:
+    - 1.0
+    - 3734.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sheng Lu 6,311 Bulk Carrier Delivered January 17
+    unit: null
+    values:
+    - 2.0
+    - 6311.0
+    - 17.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 3 Tan 5,581 Fishing Arrived January 21
+    unit: null
+    values:
+    - 3.0
+    - 5581.0
+    - 21.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 4 Tan 6,311 Bulk Carrier Delivered January 24
+    unit: null
+    values:
+    - 4.0
+    - 6311.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 5 Yun Da You 6 1,139 Oil Tanker Arrived January 20
+    unit: null
+    values:
+    - 5.0
+    - 6.0
+    - 1139.0
+    - 20.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Morality 23,076
+    unit: null
+    values:
+    - 23076.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 23, 2026
+    unit: null
+    values:
+    - 23.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 23, 2026
+    unit: null
+    values:
+    - 23.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/17/2026 410.52 37,300.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 17.0
+    - 2026.0
+    - 410.52
+    - 37300.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/18/2026 410.52 37,300.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 18.0
+    - 2026.0
+    - 410.52
+    - 37300.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/19/2026 414.70 37,700.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 19.0
+    - 2026.0
+    - 414.7
+    - 37700.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/20/2026 408.93 37,200.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 20.0
+    - 2026.0
+    - 408.93
+    - 37200.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/21/2026 400.22 36,700.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 21.0
+    - 2026.0
+    - 400.22
+    - 36700.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/22/2026 398.38 36,500.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 22.0
+    - 2026.0
+    - 398.38
+    - 36500.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 1/23/2026 401.70 36,800.00 586.98 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 2026.0
+    - 401.7
+    - 36800.0
+    - 586.98
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -26.0
+    - 4.0
+    - 26012026.0
+    - 35.0
+    - 7.0
+    - 925.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x153 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 53.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [india [Steady | ai0/LbT | 430/tpr_ | 440/LbT_ |'
+    unit: null
+    values:
+    - 2.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: '[3 [Bangladesh | Declining | 400/LDT | 420/LpT | 430/LDT_ |'
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey [Steady] 270/ubr [| 280/tpr | 290/tbT_|'
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-01-26_gms-week-04-musical-chairs.html
 source_stem: 2026-01-26_gms-week-04-musical-chairs

@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 86
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, following a sluggish few months of performance, the Bangladeshi
     market seems to have come roaring back to the forefront this week, with a noticeable
@@ -40,8 +39,7 @@ numeric_observations:
   values:
   - 20.0
   - 30.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 4 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -49,15 +47,13 @@ numeric_observations:
   values:
   - 4.0
   - 2022.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: aa-11.jpg'
   unit: null
   values:
   - 11.0
-- &id004
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
   unit: null
@@ -69,24 +65,21 @@ numeric_observations:
   - 11.0
   - 5.0
   - 97057.0
-- &id005
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 685x174 mode=RGB'
   unit: null
   values:
   - 685.0
   - 74.0
-- &id006
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id007
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh 610/LDT | 620/LDT 630 / LDT
   unit: null
@@ -94,31 +87,27 @@ numeric_observations:
   - 610.0
   - 620.0
   - 630.0
-- &id008
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: January 28th, 2022 "To know how much there is to know
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Volume 233, Issue 1016 is the beginning of learning to live."
   unit: null
   values:
   - 233.0
   - 1016.0
-- &id010
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Week 4 - Dorothy West
   unit: null
   values:
   - 4.0
-- &id011
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: between USD 20 - USD 30/LDT, as the Chattogram market seems to finally
     wake up.
@@ -126,8 +115,7 @@ numeric_observations:
   values:
   - 20.0
   - 30.0
-- &id012
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: For week 4 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -135,8 +123,7 @@ numeric_observations:
   values:
   - 4.0
   - 2022.0
-- &id013
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 610 / LDT 620 / LDT 630 / LDT
   unit: null
@@ -145,8 +132,7 @@ numeric_observations:
   - 610.0
   - 620.0
   - 630.0
-- &id014
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Improving 600 / LDT 610 / LDT 620 / LDT
   unit: null
@@ -155,8 +141,7 @@ numeric_observations:
   - 600.0
   - 610.0
   - 620.0
-- &id015
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 3 India Improving 580 / LDT 590 / LDT 600 / LDT
   unit: null
@@ -165,8 +150,7 @@ numeric_observations:
   - 580.0
   - 590.0
   - 600.0
-- &id016
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -175,104 +159,91 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id017
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Steel improves. nearly USD 18/Ton, and demand starts to pi ck up following
     a largely inert Christmas /
   unit: usd
   values:
   - 18.0
-- &id019
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Given the way levels are persisting well above the USD 600/LDT mark,
     it is certainly
   unit: usd
   values:
   - 600.0
-- &id020
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Above 600. surprising that more Owners have decided not to cash in
     on their older assets at these
   unit: null
   values:
   - 600.0
-- &id021
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: made their way to Alang this year, especially as prices improve closer
     to the USD 600/LDT
   unit: usd
   values:
   - 600.0
-- &id023
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Rs. 74s against the U.S. Dollar, whilst local steel plate prices have
     improved by nearly USD
   unit: usd
   values:
   - 74.0
-- &id024
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 16/Ton over the course of the week,I leNavDing IthAe I ndian market
     positively poised as we
   unit: null
   values:
   - 16.0
-- &id025
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: steady and the Turkish Lira buoys around the mid TRY 13s against the
     U.S. Dollar.
   unit: null
   values:
   - 13.0
-- &id028
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line:  The wedding of Princess Diana and Prince Charles was watched by 750
     million people worldwide in 1981;
@@ -280,16 +251,14 @@ numeric_observations:
   values:
   - 750.0
   - 1981.0
-- &id030
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: sadl y, 2.5 billion watched her funeral in 1997.
   unit: null
   values:
   - 2.5
   - 1997.0
-- &id031
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line:  With 3.572 billion viewers, half the world's population watched the
     2018 FIFA World Cup of soccer (or
@@ -297,8 +266,7 @@ numeric_observations:
   values:
   - 3.572
   - 2018.0
-- &id032
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 2016 Summer Olympics; but only a quarter of the world watched the less-popular
     Winter Olympics in 2018.
@@ -306,39 +274,34 @@ numeric_observations:
   values:
   - 2016.0
   - 2018.0
-- &id033
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: ' The hardest working muscle in your body is your heart: It pumps
     more than 2,000 gallons of blood a day and'
   unit: null
   values:
   - 2000.0
-- &id034
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: beat s more than 2.5 billion times in a 70-year life span.
   unit: null
   values:
   - 2.5
   - 70.0
-- &id035
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line:  The earth's circumference is 24,900 miles.
   unit: null
   values:
   - 24900.0
-- &id036
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line:  All of an adult human's blood vessels, if laid out end to end, would
     be about 100,000 miles, so they could
   unit: null
   values:
   - 100000.0
-- &id037
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line:  The longest fingernails ever were over 28 feet in total. American
     Lee Redmond started growing them in 1979
@@ -346,8 +309,7 @@ numeric_observations:
   values:
   - 28.0
   - 1979.0
-- &id038
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: and set the record in 2008. Sadly, she lost her nails in a car crash
     in 2009.
@@ -355,8 +317,7 @@ numeric_observations:
   values:
   - 2008.0
   - 2009.0
-- &id039
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 05 - Vasant Panchami. January 29 - February 06
   unit: null
@@ -364,24 +325,21 @@ numeric_observations:
   - 5.0
   - 29.0
   - 6.0
-- &id040
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 15 - February 22
   unit: null
   values:
   - 15.0
   - 22.0
-- &id041
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 28 - March 06
   unit: null
   values:
   - 28.0
   - 6.0
-- &id042
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 21 - Shaheed Day February 01 - February 04
   unit: null
@@ -389,16 +347,14 @@ numeric_observations:
   - 21.0
   - 1.0
   - 4.0
-- &id043
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 18 - February 21
   unit: null
   values:
   - 18.0
   - 21.0
-- &id044
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: February 01 - 04 - Spring Festival February 05 - Kashmir Solidarity
     No holidays in February.
@@ -407,24 +363,21 @@ numeric_observations:
   - 1.0
   - 4.0
   - 5.0
-- &id045
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id047
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1 Bratya Stoyanovy 3,484 Fishing Arrived December 24
   unit: null
@@ -432,8 +385,7 @@ numeric_observations:
   - 1.0
   - 3484.0
   - 24.0
-- &id048
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 2 Coral 2,763 Chemical Tanker Beached January 25
   unit: null
@@ -441,8 +393,7 @@ numeric_observations:
   - 2.0
   - 2763.0
   - 25.0
-- &id049
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 3 Glier 1,806 Chemical Tanker Arrived January 28
   unit: null
@@ -450,8 +401,7 @@ numeric_observations:
   - 3.0
   - 1806.0
   - 28.0
-- &id050
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 4 Harriet 2,292 Tanker Arrived December 09
   unit: null
@@ -459,8 +409,7 @@ numeric_observations:
   - 4.0
   - 2292.0
   - 9.0
-- &id051
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 5 Installer 5,525 Supply Vessel Arrived January 28
   unit: null
@@ -468,8 +417,7 @@ numeric_observations:
   - 5.0
   - 5525.0
   - 28.0
-- &id052
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 6 Prosperity 5,314 Chemical Tanker Arrived January 25
   unit: null
@@ -477,8 +425,7 @@ numeric_observations:
   - 6.0
   - 5314.0
   - 25.0
-- &id053
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 7 Saehan Chemstar 2,518 Chemical Tanker Arrived January 24
   unit: null
@@ -486,8 +433,7 @@ numeric_observations:
   - 7.0
   - 2518.0
   - 24.0
-- &id054
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 8 Sea Golden 2,830 Chemical Tanker Beached January 25
   unit: null
@@ -495,8 +441,7 @@ numeric_observations:
   - 8.0
   - 2830.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 9 Yeti 4,603 Oil Tanker Beached January 23
   unit: null
@@ -504,23 +449,20 @@ numeric_observations:
   - 9.0
   - 4603.0
   - 23.0
-- &id056
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 31,134
   unit: null
   values:
   - 31134.0
-- &id057
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id058
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1 Bumble Bee 3 (Under Tow) 711 Hopper Barge Arrived January 26
   unit: null
@@ -529,8 +471,7 @@ numeric_observations:
   - 3.0
   - 711.0
   - 26.0
-- &id059
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 2 C Fortune 5,744 Tanker Arrived January 27
   unit: null
@@ -538,8 +479,7 @@ numeric_observations:
   - 2.0
   - 5744.0
   - 27.0
-- &id060
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 3 Indoia 9,420 Tanker Arrived January 22
   unit: null
@@ -547,8 +487,7 @@ numeric_observations:
   - 3.0
   - 9420.0
   - 22.0
-- &id061
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 4 Itfa 3 1,278 Reefer Beached January 22
   unit: null
@@ -557,8 +496,7 @@ numeric_observations:
   - 3.0
   - 1278.0
   - 22.0
-- &id062
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 5 Nigata 2,085 Tanker Beached January 25
   unit: null
@@ -566,8 +504,7 @@ numeric_observations:
   - 5.0
   - 2085.0
   - 25.0
-- &id063
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 6 Ocean 68 2,369 General Cargo Beached January 24
   unit: null
@@ -576,8 +513,7 @@ numeric_observations:
   - 68.0
   - 2369.0
   - 24.0
-- &id064
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 7 Ocean Mighty 435 Tug Arrived January 26
   unit: null
@@ -585,8 +521,7 @@ numeric_observations:
   - 7.0
   - 435.0
   - 26.0
-- &id065
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 8 Ravi 2,084 Tug Arrived January 25
   unit: null
@@ -594,8 +529,7 @@ numeric_observations:
   - 8.0
   - 2084.0
   - 25.0
-- &id066
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 9 Rich Sino 7,301 Tanker Beached January 21
   unit: null
@@ -603,8 +537,7 @@ numeric_observations:
   - 9.0
   - 7301.0
   - 21.0
-- &id067
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 10 Y6 8,243 Bulk Carrier Arrived January 24
   unit: null
@@ -612,23 +545,20 @@ numeric_observations:
   - 10.0
   - 8243.0
   - 24.0
-- &id068
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 39,669
   unit: null
   values:
   - 39669.0
-- &id069
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id070
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1 Atlantic Enterprise 4,083.00 Accomodation Ship Arrived December 07
   unit: null
@@ -636,8 +566,7 @@ numeric_observations:
   - 1.0
   - 4083.0
   - 7.0
-- &id071
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 3 Louisa 7,798.00 Tanker Beached January 25
   unit: null
@@ -645,8 +574,7 @@ numeric_observations:
   - 3.0
   - 7798.0
   - 25.0
-- &id072
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 2 Oriental Dragon 10,300.00 Passenger Vessel Arrived January 25
   unit: null
@@ -654,23 +582,20 @@ numeric_observations:
   - 2.0
   - 10300.0
   - 25.0
-- &id073
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 22,181
   unit: null
   values:
   - 22181.0
-- &id074
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/22/2022 572.43 42,600.00 773.98 138,000.00 666.67 57,000.00 519.03
   unit: null
@@ -685,8 +610,7 @@ numeric_observations:
   - 666.67
   - 57000.0
   - 519.03
-- &id076
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/23/2022 572.43 42,600.00 773.98 138,000.00 666.67 57,000.00 519.03
   unit: null
@@ -701,8 +625,7 @@ numeric_observations:
   - 666.67
   - 57000.0
   - 519.03
-- &id077
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/24/2022 574.03 42,800.00 773.98 138,000.00 678.36 58,000.00 519.03
   unit: null
@@ -717,8 +640,7 @@ numeric_observations:
   - 678.36
   - 58000.0
   - 519.03
-- &id078
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/25/2022 577.69 43,200.00 773.98 138,000.00 684.21 58,500.00 519.03
   unit: null
@@ -733,8 +655,7 @@ numeric_observations:
   - 684.21
   - 58500.0
   - 519.03
-- &id079
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/26/2022 577.69 43,200.00 768.37 137,000.00 684.21 58,500.00 519.03
   unit: null
@@ -749,8 +670,7 @@ numeric_observations:
   - 684.21
   - 58500.0
   - 519.03
-- &id080
-  section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+- section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
   section_type: linked_pdf
   source_line: 1/27/2022 580.79 43,600.00 768.37 137,000.00 684.21 58,500.00 519.03
   unit: null
@@ -836,86 +756,663 @@ section_count: 3
 signals:
   numeric_observation_count: 86
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, following a sluggish few months of performance, the Bangladeshi
+      market seems to have come roaring back to the forefront this week, with a noticeable
+      increase in levels anywhere between USD 20 - USD 30/LDT, as the Chattogram market
+      seems to finally w
+    unit: usd
+    values:
+    - 20.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: For week 4 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: aa-11.jpg'
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -1.0
+    - -31.0
+    - 4.0
+    - 11.0
+    - 5.0
+    - 97057.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 685x174 mode=RGB'
+    unit: null
+    values:
+    - 685.0
+    - 74.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_aa-11_a9d15b697057.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh 610/LDT | 620/LDT 630 / LDT
+    unit: null
+    values:
+    - 610.0
+    - 620.0
+    - 630.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: January 28th, 2022 "To know how much there is to know
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Volume 233, Issue 1016 is the beginning of learning to live."
+    unit: null
+    values:
+    - 233.0
+    - 1016.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Week 4 - Dorothy West
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: between USD 20 - USD 30/LDT, as the Chattogram market seems to finally
+      wake up.
+    unit: usd
+    values:
+    - 20.0
+    - 30.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: For week 4 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 610 / LDT 620 / LDT 630 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 610.0
+    - 620.0
+    - 630.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Improving 600 / LDT 610 / LDT 620 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 600.0
+    - 610.0
+    - 620.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Improving 580 / LDT 590 / LDT 600 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 580.0
+    - 590.0
+    - 600.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Steel improves. nearly USD 18/Ton, and demand starts to pi ck up
+      following a largely inert Christmas /
+    unit: usd
+    values:
+    - 18.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Given the way levels are persisting well above the USD 600/LDT mark,
+      it is certainly
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Above 600. surprising that more Owners have decided not to cash in
+      on their older assets at these
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: made their way to Alang this year, especially as prices improve closer
+      to the USD 600/LDT
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Rs. 74s against the U.S. Dollar, whilst local steel plate prices
+      have improved by nearly USD
+    unit: usd
+    values:
+    - 74.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 16/Ton over the course of the week,I leNavDing IthAe I ndian market
+      positively poised as we
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: steady and the Turkish Lira buoys around the mid TRY 13s against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 13.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line:  The wedding of Princess Diana and Prince Charles was watched by
+      750 million people worldwide in 1981;
+    unit: null
+    values:
+    - 750.0
+    - 1981.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: sadl y, 2.5 billion watched her funeral in 1997.
+    unit: null
+    values:
+    - 2.5
+    - 1997.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line:  With 3.572 billion viewers, half the world's population watched
+      the 2018 FIFA World Cup of soccer (or
+    unit: null
+    values:
+    - 3.572
+    - 2018.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 2016 Summer Olympics; but only a quarter of the world watched the
+      less-popular Winter Olympics in 2018.
+    unit: null
+    values:
+    - 2016.0
+    - 2018.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: ' The hardest working muscle in your body is your heart: It pumps
+      more than 2,000 gallons of blood a day and'
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: beat s more than 2.5 billion times in a 70-year life span.
+    unit: null
+    values:
+    - 2.5
+    - 70.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line:  The earth's circumference is 24,900 miles.
+    unit: null
+    values:
+    - 24900.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line:  All of an adult human's blood vessels, if laid out end to end,
+      would be about 100,000 miles, so they could
+    unit: null
+    values:
+    - 100000.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line:  The longest fingernails ever were over 28 feet in total. American
+      Lee Redmond started growing them in 1979
+    unit: null
+    values:
+    - 28.0
+    - 1979.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: and set the record in 2008. Sadly, she lost her nails in a car crash
+      in 2009.
+    unit: null
+    values:
+    - 2008.0
+    - 2009.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 05 - Vasant Panchami. January 29 - February 06
+    unit: null
+    values:
+    - 5.0
+    - 29.0
+    - 6.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 15 - February 22
+    unit: null
+    values:
+    - 15.0
+    - 22.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 28 - March 06
+    unit: null
+    values:
+    - 28.0
+    - 6.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Shaheed Day February 01 - February 04
+    unit: null
+    values:
+    - 21.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 18 - February 21
+    unit: null
+    values:
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: February 01 - 04 - Spring Festival February 05 - Kashmir Solidarity
+      No holidays in February.
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bratya Stoyanovy 3,484 Fishing Arrived December 24
+    unit: null
+    values:
+    - 1.0
+    - 3484.0
+    - 24.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Coral 2,763 Chemical Tanker Beached January 25
+    unit: null
+    values:
+    - 2.0
+    - 2763.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 3 Glier 1,806 Chemical Tanker Arrived January 28
+    unit: null
+    values:
+    - 3.0
+    - 1806.0
+    - 28.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 4 Harriet 2,292 Tanker Arrived December 09
+    unit: null
+    values:
+    - 4.0
+    - 2292.0
+    - 9.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 5 Installer 5,525 Supply Vessel Arrived January 28
+    unit: null
+    values:
+    - 5.0
+    - 5525.0
+    - 28.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 6 Prosperity 5,314 Chemical Tanker Arrived January 25
+    unit: null
+    values:
+    - 6.0
+    - 5314.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 7 Saehan Chemstar 2,518 Chemical Tanker Arrived January 24
+    unit: null
+    values:
+    - 7.0
+    - 2518.0
+    - 24.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 8 Sea Golden 2,830 Chemical Tanker Beached January 25
+    unit: null
+    values:
+    - 8.0
+    - 2830.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 9 Yeti 4,603 Oil Tanker Beached January 23
+    unit: null
+    values:
+    - 9.0
+    - 4603.0
+    - 23.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 31,134
+    unit: null
+    values:
+    - 31134.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bumble Bee 3 (Under Tow) 711 Hopper Barge Arrived January 26
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 711.0
+    - 26.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 2 C Fortune 5,744 Tanker Arrived January 27
+    unit: null
+    values:
+    - 2.0
+    - 5744.0
+    - 27.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 3 Indoia 9,420 Tanker Arrived January 22
+    unit: null
+    values:
+    - 3.0
+    - 9420.0
+    - 22.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 4 Itfa 3 1,278 Reefer Beached January 22
+    unit: null
+    values:
+    - 4.0
+    - 3.0
+    - 1278.0
+    - 22.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 5 Nigata 2,085 Tanker Beached January 25
+    unit: null
+    values:
+    - 5.0
+    - 2085.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 6 Ocean 68 2,369 General Cargo Beached January 24
+    unit: null
+    values:
+    - 6.0
+    - 68.0
+    - 2369.0
+    - 24.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 7 Ocean Mighty 435 Tug Arrived January 26
+    unit: null
+    values:
+    - 7.0
+    - 435.0
+    - 26.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 8 Ravi 2,084 Tug Arrived January 25
+    unit: null
+    values:
+    - 8.0
+    - 2084.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 9 Rich Sino 7,301 Tanker Beached January 21
+    unit: null
+    values:
+    - 9.0
+    - 7301.0
+    - 21.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 10 Y6 8,243 Bulk Carrier Arrived January 24
+    unit: null
+    values:
+    - 10.0
+    - 8243.0
+    - 24.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 39,669
+    unit: null
+    values:
+    - 39669.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atlantic Enterprise 4,083.00 Accomodation Ship Arrived December
+      07
+    unit: null
+    values:
+    - 1.0
+    - 4083.0
+    - 7.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 3 Louisa 7,798.00 Tanker Beached January 25
+    unit: null
+    values:
+    - 3.0
+    - 7798.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 2 Oriental Dragon 10,300.00 Passenger Vessel Arrived January 25
+    unit: null
+    values:
+    - 2.0
+    - 10300.0
+    - 25.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 22,181
+    unit: null
+    values:
+    - 22181.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/22/2022 572.43 42,600.00 773.98 138,000.00 666.67 57,000.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 22.0
+    - 2022.0
+    - 572.43
+    - 42600.0
+    - 773.98
+    - 138000.0
+    - 666.67
+    - 57000.0
+    - 519.03
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/23/2022 572.43 42,600.00 773.98 138,000.00 666.67 57,000.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 2022.0
+    - 572.43
+    - 42600.0
+    - 773.98
+    - 138000.0
+    - 666.67
+    - 57000.0
+    - 519.03
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/24/2022 574.03 42,800.00 773.98 138,000.00 678.36 58,000.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+    - 2022.0
+    - 574.03
+    - 42800.0
+    - 773.98
+    - 138000.0
+    - 678.36
+    - 58000.0
+    - 519.03
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/25/2022 577.69 43,200.00 773.98 138,000.00 684.21 58,500.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 25.0
+    - 2022.0
+    - 577.69
+    - 43200.0
+    - 773.98
+    - 138000.0
+    - 684.21
+    - 58500.0
+    - 519.03
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/26/2022 577.69 43,200.00 768.37 137,000.00 684.21 58,500.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 26.0
+    - 2022.0
+    - 577.69
+    - 43200.0
+    - 768.37
+    - 137000.0
+    - 684.21
+    - 58500.0
+    - 519.03
+  - section: 'Linked asset: 2022-01-31_gms-week-4-eye-of-the-tiger_2022-01-31fuq-org_eef927357abd.pdf'
+    section_type: linked_pdf
+    source_line: 1/27/2022 580.79 43,600.00 768.37 137,000.00 684.21 58,500.00 519.03
+    unit: null
+    values:
+    - 1.0
+    - 27.0
+    - 2022.0
+    - 580.79
+    - 43600.0
+    - 768.37
+    - 137000.0
+    - 684.21
+    - 58500.0
+    - 519.03
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-01-31_gms-week-4-eye-of-the-tiger.html
 source_stem: 2022-01-31_gms-week-4-eye-of-the-tiger

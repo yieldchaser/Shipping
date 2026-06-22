@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 43
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 19/03/2022
   unit: null
@@ -40,8 +39,7 @@ numeric_observations:
   - 19.0
   - 3.0
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 11th March to 18th March 2022
   unit: null
@@ -49,30 +47,26 @@ numeric_observations:
   - 11.0
   - 18.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: Oil prices marched back towards USD 110 per barrel as prices have been
   unit: usd
   values:
   - 110.0
-- &id004
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: The US Federal Reserve raised interest rates by 25 basis points and
   unit: null
   values:
   - 25.0
-- &id005
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 660 660
   unit: null
   values:
   - 660.0
   - 660.0
-- &id006
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -81,16 +75,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id007
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: HMS 80:20 Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id008
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 17th March to 24th March 2022
   unit: null
@@ -98,8 +90,7 @@ numeric_observations:
   - 17.0
   - 24.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 30th March to 5th April 2022
   unit: null
@@ -107,8 +98,7 @@ numeric_observations:
   - 30.0
   - 5.0
   - 2022.0
-- &id010
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 16th April to 22nd April 2022
   unit: null
@@ -116,32 +106,28 @@ numeric_observations:
   - 16.0
   - 22.0
   - 2022.0
-- &id011
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 710 710
   unit: null
   values:
   - 710.0
   - 710.0
-- &id012
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 690 690
   unit: null
   values:
   - 690.0
   - 690.0
-- &id013
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 680 680
   unit: null
   values:
   - 680.0
   - 680.0
-- &id014
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 19th March to 22nd March 2022
   unit: null
@@ -149,8 +135,7 @@ numeric_observations:
   - 19.0
   - 22.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 1st April to 4th April 2022
   unit: null
@@ -158,8 +143,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 2022.0
-- &id016
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 17th April to 20th April 2022
   unit: null
@@ -167,101 +151,88 @@ numeric_observations:
   - 17.0
   - 20.0
   - 2022.0
-- &id017
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: PKR crosses 180-mark against USD
   unit: usd
   values:
   - 180.0
-- &id018
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: The PKR fell to a fresh all-time low at Rs.180.07 per USD due to
   unit: usd
   values:
   - 180.07
-- &id019
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: downward trend for the past 10 months by losing 18.25 % compared to
     the
   unit: pct
   values:
   - 18.25
-- &id020
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: record high of Rs. 152.27 in May 2021.
   unit: null
   values:
   - 152.27
   - 2021.0
-- &id021
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 685 685
   unit: null
   values:
   - 685.0
   - 685.0
-- &id022
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: Turkish Steel Exporters' Association stated the 15% quota increase
     in
   unit: pct
   values:
   - 15.0
-- &id023
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: Turkey steel exports to EU will have a positive impact of USD 1 Billion
     on
   unit: usd
   values:
   - 1.0
-- &id024
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: TL 14.78/USD.
   unit: usd
   values:
   - 14.78
-- &id025
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 460 460
   unit: null
   values:
   - 460.0
   - 460.0
-- &id026
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 450 450
   unit: null
   values:
   - 450.0
   - 450.0
-- &id027
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 80:20 & Shredded
   unit: null
   values:
   - 80.0
   - 20.0
-- &id028
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: CAPE SUN BULKER 1999 S. KOREA 22,396.00 AS-IS HO CHI MINH/ UNDISCLOSED
   unit: null
   values:
   - 1999.0
   - 22396.0
-- &id029
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: SVEABORG FISHING 1979 POLAND 5,015.91 DELIVERED INDIA 795
   unit: null
@@ -269,8 +240,7 @@ numeric_observations:
   - 1979.0
   - 5015.91
   - 795.0
-- &id030
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: ALABAMA STAR TANKER 2004 S. KOREA 13,638.00 DELIVERED SUBCONTINENT
     725
@@ -279,16 +249,14 @@ numeric_observations:
   - 2004.0
   - 13638.0
   - 725.0
-- &id031
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 1296 1313
   unit: null
   values:
   - 1296.0
   - 1313.0
-- &id032
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 1163 1176 1187 1164 1198
   unit: null
@@ -298,8 +266,7 @@ numeric_observations:
   - 1187.0
   - 1164.0
   - 1198.0
-- &id033
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -311,8 +278,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id034
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -325,8 +291,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id035
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -334,8 +299,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id036
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -344,8 +308,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id037
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -354,8 +317,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id038
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -364,8 +326,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id039
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -374,15 +335,13 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id040
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Ms. Irini Mylona Email: capt.xu@139.com,'
   unit: null
   values:
   - 139.0
-- &id041
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -391,8 +350,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id042
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +81 354 522 405'
   unit: null
@@ -401,8 +359,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id043
-  section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+- section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -421,49 +378,344 @@ section_count: 2
 signals:
   numeric_observation_count: 43
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 19/03/2022
+    unit: null
+    values:
+    - 19.0
+    - 3.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 11th March to 18th March 2022
+    unit: null
+    values:
+    - 11.0
+    - 18.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: Oil prices marched back towards USD 110 per barrel as prices have
+      been
+    unit: usd
+    values:
+    - 110.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: The US Federal Reserve raised interest rates by 25 basis points and
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 660 660
+    unit: null
+    values:
+    - 660.0
+    - 660.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: HMS 80:20 Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 17th March to 24th March 2022
+    unit: null
+    values:
+    - 17.0
+    - 24.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 30th March to 5th April 2022
+    unit: null
+    values:
+    - 30.0
+    - 5.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 16th April to 22nd April 2022
+    unit: null
+    values:
+    - 16.0
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 710 710
+    unit: null
+    values:
+    - 710.0
+    - 710.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 690 690
+    unit: null
+    values:
+    - 690.0
+    - 690.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 680 680
+    unit: null
+    values:
+    - 680.0
+    - 680.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 19th March to 22nd March 2022
+    unit: null
+    values:
+    - 19.0
+    - 22.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1st April to 4th April 2022
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 17th April to 20th April 2022
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: PKR crosses 180-mark against USD
+    unit: usd
+    values:
+    - 180.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: The PKR fell to a fresh all-time low at Rs.180.07 per USD due to
+    unit: usd
+    values:
+    - 180.07
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: downward trend for the past 10 months by losing 18.25 % compared
+      to the
+    unit: pct
+    values:
+    - 18.25
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: record high of Rs. 152.27 in May 2021.
+    unit: null
+    values:
+    - 152.27
+    - 2021.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 685 685
+    unit: null
+    values:
+    - 685.0
+    - 685.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: Turkish Steel Exporters' Association stated the 15% quota increase
+      in
+    unit: pct
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: Turkey steel exports to EU will have a positive impact of USD 1 Billion
+      on
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: TL 14.78/USD.
+    unit: usd
+    values:
+    - 14.78
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 460 460
+    unit: null
+    values:
+    - 460.0
+    - 460.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 450 450
+    unit: null
+    values:
+    - 450.0
+    - 450.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 80:20 & Shredded
+    unit: null
+    values:
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: CAPE SUN BULKER 1999 S. KOREA 22,396.00 AS-IS HO CHI MINH/ UNDISCLOSED
+    unit: null
+    values:
+    - 1999.0
+    - 22396.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: SVEABORG FISHING 1979 POLAND 5,015.91 DELIVERED INDIA 795
+    unit: null
+    values:
+    - 1979.0
+    - 5015.91
+    - 795.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: ALABAMA STAR TANKER 2004 S. KOREA 13,638.00 DELIVERED SUBCONTINENT
+      725
+    unit: null
+    values:
+    - 2004.0
+    - 13638.0
+    - 725.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1296 1313
+    unit: null
+    values:
+    - 1296.0
+    - 1313.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1163 1176 1187 1164 1198
+    unit: null
+    values:
+    - 1163.0
+    - 1176.0
+    - 1187.0
+    - 1164.0
+    - 1198.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Ms. Irini Mylona Email: capt.xu@139.com,'
+    unit: null
+    values:
+    - 139.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-03-19_best-oasis-weekly-recycling-market-report-18-march-2022.html
 source_stem: 2022-03-19_best-oasis-weekly-recycling-market-report-18-march-2022

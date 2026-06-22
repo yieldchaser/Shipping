@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 118
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: A recent and ongoing uptick in freight rates across many sectors (especially
     dry, as wet rates have been performingfar admirably in comparison) has resumed
@@ -41,8 +40,7 @@ numeric_observations:
   unit: null
   values:
   - 90.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Speaking of tariffs, while the ones already implemented have kept the
     oil markets subdued of late, those tariffs still in the pipeline have pulled the
@@ -52,8 +50,7 @@ numeric_observations:
   values:
   - 70.0
   - 70.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: As a result, ship recycling markets offerings have fallen by up to
     USD 30/LDT over the first month of the year and while further pressures on key
@@ -66,8 +63,7 @@ numeric_observations:
   - 2025.0
   - 2024.0
   - 1.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 8 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -75,8 +71,7 @@ numeric_observations:
   values:
   - 8.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-02-24_gms-week-08-freight-frustrates_img1_24022025chine345_956b04a3ddeb.jpg'
   unit: null
@@ -89,95 +84,83 @@ numeric_observations:
   - 45.0
   - 956.0
   - 4.0
-- &id006
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: February 21st, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Week 8
   unit: null
   values:
   - 8.0
-- &id008
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Volume 269, Issue 1173
   unit: null
   values:
   - 269.0
   - 1173.0
-- &id009
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: a bounce in rates this week with owners of vintage 90s-built units
     seemingly managing to fix their
   unit: null
   values:
   - 90.0
-- &id010
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: those tariffs still in the pipeline have pulled the barrel back closer
     to USD 70/barrel this week, as
   unit: usd
   values:
   - 70.0
-- &id011
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: around the early USD 70s in the near future. Whilst global economies
     adjust around these unfolding
   unit: usd
   values:
   - 70.0
-- &id012
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: As a result, ship recycling markets offerings have fallen by up to
     USD 30/LDT over the first month
   unit: usd
   values:
   - 30.0
-- &id013
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: • Bangla upgrades. 450/LDT despite indications far below on certain
     units are easily forthcoming. Now that workable
   unit: null
   values:
   - 450.0
-- &id014
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: of Q1 2025 as we have even seen Pakistan come back into the picture
     of late, securing a smaller LDT
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: seen just one arrival at the nation's waterfront since Qct 2024. Moreover,
     despite Bangladeshi ship
   unit: null
   values:
   - 2024.0
-- &id016
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: ready to operate post July 1 and business being as usual thereafter.
     Finally, Turkey continues to
   unit: null
   values:
   - 1.0
-- &id017
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 8 of 2025 are on Page 5.
   unit: null
@@ -185,32 +168,28 @@ numeric_observations:
   - 8.0
   - 2025.0
   - 5.0
-- &id018
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: through recent times, which have certainly been the most trying since
     2008. And while external
   unit: null
   values:
   - 2008.0
-- &id020
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: left the domestic ship recycling sector in a state of stasis across
     much of Q3 - Q4 2024; a time that
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: bulk of Far Eastern deliveries, has continued even this week where
     over 52K LDT and 7 vessels are
@@ -218,32 +197,28 @@ numeric_observations:
   values:
   - 52.0
   - 7.0
-- &id022
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Wo rk underway. of longest in the industry since October 2024, albeit
     a relatively healthier (than local offers on ships)
   unit: null
   values:
   - 2024.0
-- &id023
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: USD 529.41/Ton. As steel trade resumes amidst domestic infrastructure
     projects that remain
   unit: usd
   values:
   - 529.41
-- &id024
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: which is expected around June of 2025. And although this should buy
     some time for domestic
   unit: null
   values:
   - 2025.0
-- &id025
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: businesses to prepare for the eventual FY 25 - F26 budget, it also
     afford them the time to initiate
@@ -251,40 +226,35 @@ numeric_observations:
   values:
   - 25.0
   - 6.0
-- &id026
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: delivered the most downward pressure on recycling offers as it nearly
     breached BDT 122 once
   unit: null
   values:
   - 122.0
-- &id027
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: again this week, only to firm up towards the end of the week and still
     end it 20 basis points weaker
   unit: null
   values:
   - 20.0
-- &id028
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: at BDT 121.53. And although personal incoming U.S. Dollar remittances
     from overseas to families
   unit: null
   values:
   - 121.53
-- &id029
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: resulted in a growing economic fragility of the future for the country
     for the rest of 2025.
   unit: null
   values:
   - 2025.0
-- &id030
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: from January 31st to March 31st and failure to react in time could
     see even the nation's ship recycling
@@ -292,40 +262,35 @@ numeric_observations:
   values:
   - 31.0
   - 31.0
-- &id031
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: as it nearly breached INR 87 against the U.S. Dollar, only to settle
     the week unchanged from last at
   unit: null
   values:
   - 87.0
-- &id033
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Rs 86.60. And while local recyclers went into a tailspin over PM Trump's
     raft of tariffs introduced last
   unit: null
   values:
   - 86.6
-- &id034
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: week including a healthy 25% on Chinese steel and aluminum products,
     Chinese steel plate prices Modi moves.
   unit: pct
   values:
   - 25.0
-- &id035
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: near USD 15/Ton decline over the last 3 weeks. As the only sub-continent
     destination to face declines
@@ -333,16 +298,14 @@ numeric_observations:
   values:
   - 15.0
   - 3.0
-- &id036
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: greatest stability against the U.S. Dollar as it has stayed between
     PKR 277 - PKR 280 over the last
@@ -350,8 +313,7 @@ numeric_observations:
   values:
   - 277.0
   - 280.0
-- &id038
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 4 quarters including this week, where despite losing 22 basis points,
     it still ended the week at USD
@@ -359,8 +321,7 @@ numeric_observations:
   values:
   - 4.0
   - 22.0
-- &id039
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 279.48. Simultaneously, local steel plate prices remain the highest
     in the industry at USD 643.78
@@ -368,79 +329,69 @@ numeric_observations:
   values:
   - 279.48
   - 643.78
-- &id040
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: more competitive level near USD 300/Ton, this has invariably helped
     domestic steel mills stay
   unit: usd
   values:
   - 300.0
-- &id041
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: to keep the net return on its only delivery of 2025 in the green or
     even for those that still are / will
   unit: null
   values:
   - 2025.0
-- &id042
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: downgraded Pakistan's forecast for 2025 citing ongoing governmental
     irregularities and reported
   unit: null
   values:
   - 2025.0
-- &id043
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: to import any tonnage from July 1st), frustrations at the bidding tables
     are starting to build up at
   unit: null
   values:
   - 1.0
-- &id044
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Aliaga recyclers have been hemorrhaging the worst of the ship recycling
     world since 2023 on the
   unit: null
   values:
   - 2023.0
-- &id046
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 1,355% decline.
   unit: pct
   values:
   - 1355.0
-- &id047
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: weakening import and local steel plate prices, a Lira that has declined
     nearly 492% against the U.S.
   unit: pct
   values:
   - 492.0
-- &id048
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Dollar over the last five years (nearly a 1,355% decline if you go
     back a decade), a shortage of tonnage
   unit: pct
   values:
   - 1355.0
-- &id049
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: For Week 8 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -448,8 +399,7 @@ numeric_observations:
   values:
   - 8.0
   - 2025.0
-- &id050
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -458,8 +408,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id051
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 435 / LDT 455 / LDT 465 / LDT
   unit: null
@@ -468,8 +417,7 @@ numeric_observations:
   - 435.0
   - 455.0
   - 465.0
-- &id052
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -478,8 +426,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id053
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -488,79 +435,69 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id054
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  Only about a third of the countries in the United Nations have ever
     had a female head of the government. Just 13 of
   unit: null
   values:
   - 13.0
-- &id056
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: the body's 193 member countries are currently led by women, according
     to the Pew Research Center.
   unit: null
   values:
   - 193.0
-- &id057
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  Noise from fireworks can reach levels as high as 160 decibels or
     more. That's louder than a jet plane taking off from
   unit: null
   values:
   - 160.0
-- &id058
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 100 yards away or a jackhammer.
   unit: null
   values:
   - 100.0
-- &id059
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  When Lucille Ball became pregnant while filming "I Love Lucy" in
     the 1950s, she couldn't actually say the word
   unit: null
   values:
   - 1950.0
-- &id060
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  At 5,525 miles, the border separating the United States and Canada
     is the longest between any two countries.
   unit: null
   values:
   - 5525.0
-- &id061
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  The median Black family in the United States possesses about 15 percent
     of the wealth owned by the median white
   unit: null
   values:
   - 15.0
-- &id062
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  Invented by the Parisian organ-maker Auguste Mustel in 1886, the
     celesta is a transposing instrument, meaning that
   unit: null
   values:
   - 1886.0
-- &id063
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line:  Through its 149th and final show, Taylor Swift's Eras Tour sold more
     than $2 billion in tickets - double the gross
@@ -568,8 +505,7 @@ numeric_observations:
   values:
   - 149.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: February 26 - Maha Shivratri February 26 - March 05
   unit: null
@@ -577,8 +513,7 @@ numeric_observations:
   - 26.0
   - 26.0
   - 5.0
-- &id065
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 14 - Holi March 13 - March 18
   unit: null
@@ -586,8 +521,7 @@ numeric_observations:
   - 14.0
   - 13.0
   - 18.0
-- &id066
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 28 - Jamat-ul-Wida March 27 - April 05
   unit: null
@@ -595,22 +529,19 @@ numeric_observations:
   - 28.0
   - 27.0
   - 5.0
-- &id067
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 30 - Gudi Padwa
   unit: null
   values:
   - 30.0
-- &id068
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 31 - Eid-ul-Fitr
   unit: null
   values:
   - 31.0
-- &id069
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence & National Day February 28 - March 03
   unit: null
@@ -618,8 +549,7 @@ numeric_observations:
   - 26.0
   - 28.0
   - 3.0
-- &id070
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 28 - Shab-e-Qadr March 14 - March 17
   unit: null
@@ -627,8 +557,7 @@ numeric_observations:
   - 28.0
   - 14.0
   - 17.0
-- &id071
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 29 - April 02 - Eid-ul-Fitr March 29 - April 01
   unit: null
@@ -637,8 +566,7 @@ numeric_observations:
   - 2.0
   - 29.0
   - 1.0
-- &id072
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: No holidays until April March 23 - Pakistan Day March 29 - April 03
     - Ramzan
@@ -647,32 +575,28 @@ numeric_observations:
   - 23.0
   - 29.0
   - 3.0
-- &id073
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
   unit: null
   values:
   - 30.0
   - 4.0
-- &id074
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of February 21, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id076
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 1 Jabal Ali 7 7,128 RoRo Delivered February 18
   unit: null
@@ -681,23 +605,20 @@ numeric_observations:
   - 7.0
   - 7128.0
   - 18.0
-- &id077
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 7,128
   unit: null
   values:
   - 7128.0
-- &id078
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of February 21, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id079
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 1 East Pioneer 10,891 Bulk Carrier Arrived February 04
   unit: null
@@ -705,8 +626,7 @@ numeric_observations:
   - 1.0
   - 10891.0
   - 4.0
-- &id080
-  section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+- section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
   section_type: linked_pdf
   source_line: 2 Ever Feng 1,745 Tanker Delivered February 18
   unit: null
@@ -1054,86 +974,609 @@ section_count: 3
 signals:
   numeric_observation_count: 118
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: A recent and ongoing uptick in freight rates across many sectors
+      (especially dry, as wet rates have been performingfar admirably in comparison)
+      has resumed depriving global ship recycling markets of tonnage over the last
+      couple of weeks and this has promptly m
+    unit: null
+    values:
+    - 90.0
+  - section: Main
+    section_type: null
+    source_line: Speaking of tariffs, while the ones already implemented have kept
+      the oil markets subdued of late, those tariffs still in the pipeline have pulled
+      the barrel back closer to USD 70/barrel this week, as recent sanctions coupled
+      with growing U.S. oil reserves cou
+    unit: usd
+    values:
+    - 70.0
+    - 70.0
+  - section: Main
+    section_type: null
+    source_line: As a result, ship recycling markets offerings have fallen by up to
+      USD 30/LDT over the first month of the year and while further pressures on key
+      drivers seem to have been working in unison to pull recycling offers further
+      down, the lack of tonnage has seeming
+    unit: usd
+    values:
+    - 30.0
+    - 450.0
+    - 2025.0
+    - 2024.0
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: For Week 8 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-02-24_gms-week-08-freight-frustrates_img1_24022025chine345_956b04a3ddeb.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -2.0
+    - -24.0
+    - 8.0
+    - 24022025.0
+    - 45.0
+    - 956.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: February 21st, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Week 8
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Volume 269, Issue 1173
+    unit: null
+    values:
+    - 269.0
+    - 1173.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: a bounce in rates this week with owners of vintage 90s-built units
+      seemingly managing to fix their
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: those tariffs still in the pipeline have pulled the barrel back closer
+      to USD 70/barrel this week, as
+    unit: usd
+    values:
+    - 70.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: around the early USD 70s in the near future. Whilst global economies
+      adjust around these unfolding
+    unit: usd
+    values:
+    - 70.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: As a result, ship recycling markets offerings have fallen by up to
+      USD 30/LDT over the first month
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: • Bangla upgrades. 450/LDT despite indications far below on certain
+      units are easily forthcoming. Now that workable
+    unit: null
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: of Q1 2025 as we have even seen Pakistan come back into the picture
+      of late, securing a smaller LDT
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: seen just one arrival at the nation's waterfront since Qct 2024.
+      Moreover, despite Bangladeshi ship
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: ready to operate post July 1 and business being as usual thereafter.
+      Finally, Turkey continues to
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 8 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: through recent times, which have certainly been the most trying since
+      2008. And while external
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: left the domestic ship recycling sector in a state of stasis across
+      much of Q3 - Q4 2024; a time that
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: bulk of Far Eastern deliveries, has continued even this week where
+      over 52K LDT and 7 vessels are
+    unit: null
+    values:
+    - 52.0
+    - 7.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Wo rk underway. of longest in the industry since October 2024, albeit
+      a relatively healthier (than local offers on ships)
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: USD 529.41/Ton. As steel trade resumes amidst domestic infrastructure
+      projects that remain
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: which is expected around June of 2025. And although this should buy
+      some time for domestic
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: businesses to prepare for the eventual FY 25 - F26 budget, it also
+      afford them the time to initiate
+    unit: null
+    values:
+    - 25.0
+    - 6.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: delivered the most downward pressure on recycling offers as it nearly
+      breached BDT 122 once
+    unit: null
+    values:
+    - 122.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: again this week, only to firm up towards the end of the week and
+      still end it 20 basis points weaker
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: at BDT 121.53. And although personal incoming U.S. Dollar remittances
+      from overseas to families
+    unit: null
+    values:
+    - 121.53
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: resulted in a growing economic fragility of the future for the country
+      for the rest of 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: from January 31st to March 31st and failure to react in time could
+      see even the nation's ship recycling
+    unit: null
+    values:
+    - 31.0
+    - 31.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: as it nearly breached INR 87 against the U.S. Dollar, only to settle
+      the week unchanged from last at
+    unit: null
+    values:
+    - 87.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Rs 86.60. And while local recyclers went into a tailspin over PM
+      Trump's raft of tariffs introduced last
+    unit: null
+    values:
+    - 86.6
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: week including a healthy 25% on Chinese steel and aluminum products,
+      Chinese steel plate prices Modi moves.
+    unit: pct
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: near USD 15/Ton decline over the last 3 weeks. As the only sub-continent
+      destination to face declines
+    unit: usd
+    values:
+    - 15.0
+    - 3.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: greatest stability against the U.S. Dollar as it has stayed between
+      PKR 277 - PKR 280 over the last
+    unit: null
+    values:
+    - 277.0
+    - 280.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 4 quarters including this week, where despite losing 22 basis points,
+      it still ended the week at USD
+    unit: usd
+    values:
+    - 4.0
+    - 22.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 279.48. Simultaneously, local steel plate prices remain the highest
+      in the industry at USD 643.78
+    unit: usd
+    values:
+    - 279.48
+    - 643.78
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: more competitive level near USD 300/Ton, this has invariably helped
+      domestic steel mills stay
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: to keep the net return on its only delivery of 2025 in the green
+      or even for those that still are / will
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: downgraded Pakistan's forecast for 2025 citing ongoing governmental
+      irregularities and reported
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: to import any tonnage from July 1st), frustrations at the bidding
+      tables are starting to build up at
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Aliaga recyclers have been hemorrhaging the worst of the ship recycling
+      world since 2023 on the
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 1,355% decline.
+    unit: pct
+    values:
+    - 1355.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: weakening import and local steel plate prices, a Lira that has declined
+      nearly 492% against the U.S.
+    unit: pct
+    values:
+    - 492.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Dollar over the last five years (nearly a 1,355% decline if you go
+      back a decade), a shortage of tonnage
+    unit: pct
+    values:
+    - 1355.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: For Week 8 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 435 / LDT 455 / LDT 465 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 435.0
+    - 455.0
+    - 465.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  Only about a third of the countries in the United Nations have
+      ever had a female head of the government. Just 13 of
+    unit: null
+    values:
+    - 13.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: the body's 193 member countries are currently led by women, according
+      to the Pew Research Center.
+    unit: null
+    values:
+    - 193.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  Noise from fireworks can reach levels as high as 160 decibels or
+      more. That's louder than a jet plane taking off from
+    unit: null
+    values:
+    - 160.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 100 yards away or a jackhammer.
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  When Lucille Ball became pregnant while filming "I Love Lucy" in
+      the 1950s, she couldn't actually say the word
+    unit: null
+    values:
+    - 1950.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  At 5,525 miles, the border separating the United States and Canada
+      is the longest between any two countries.
+    unit: null
+    values:
+    - 5525.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  The median Black family in the United States possesses about 15
+      percent of the wealth owned by the median white
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  Invented by the Parisian organ-maker Auguste Mustel in 1886, the
+      celesta is a transposing instrument, meaning that
+    unit: null
+    values:
+    - 1886.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line:  Through its 149th and final show, Taylor Swift's Eras Tour sold
+      more than $2 billion in tickets - double the gross
+    unit: usd
+    values:
+    - 149.0
+    - 2.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Maha Shivratri February 26 - March 05
+    unit: null
+    values:
+    - 26.0
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 14 - Holi March 13 - March 18
+    unit: null
+    values:
+    - 14.0
+    - 13.0
+    - 18.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Jamat-ul-Wida March 27 - April 05
+    unit: null
+    values:
+    - 28.0
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - Gudi Padwa
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence & National Day February 28 - March 03
+    unit: null
+    values:
+    - 26.0
+    - 28.0
+    - 3.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Shab-e-Qadr March 14 - March 17
+    unit: null
+    values:
+    - 28.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - April 02 - Eid-ul-Fitr March 29 - April 01
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until April March 23 - Pakistan Day March 29 - April
+      03 - Ramzan
+    unit: null
+    values:
+    - 23.0
+    - 29.0
+    - 3.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of February 21, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Jabal Ali 7 7,128 RoRo Delivered February 18
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 7128.0
+    - 18.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 7,128
+    unit: null
+    values:
+    - 7128.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of February 21, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 1 East Pioneer 10,891 Bulk Carrier Arrived February 04
+    unit: null
+    values:
+    - 1.0
+    - 10891.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ever Feng 1,745 Tanker Delivered February 18
+    unit: null
+    values:
+    - 2.0
+    - 1745.0
+    - 18.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-02-24_gms-week-08-freight-frustrates.html
 source_stem: 2025-02-24_gms-week-08-freight-frustrates

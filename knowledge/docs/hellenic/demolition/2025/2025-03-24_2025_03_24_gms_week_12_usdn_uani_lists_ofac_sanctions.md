@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 101
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: How the future of recycling the world's dark fleet unfolds in this
     post-sanction friendly, trade war rollercoaster world of 2025 remains to be seen.
@@ -41,8 +40,7 @@ numeric_observations:
   values:
   - 2025.0
   - 68.3
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, with so much backlogged tonnage, it is expected that the ship
     recycling markets will get busier heading into the second half of this year, especially
@@ -51,8 +49,7 @@ numeric_observations:
   unit: null
   values:
   - 26.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 12 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -60,8 +57,7 @@ numeric_observations:
   values:
   - 12.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_img1_24032025hinese544_e994dbd28756.jpg'
   unit: usd
@@ -74,71 +70,62 @@ numeric_observations:
   - 44.0
   - 94.0
   - 8756.0
-- &id005
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 21st, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Week 12
   unit: null
   values:
   - 12.0
-- &id007
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Volume 270, Issue 1177 - Unknown
   unit: null
   values:
   - 270.0
   - 1177.0
-- &id008
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: rollercoaster world of 2025 remains to be seen. For now, it does seem
     as though ship recycling
   unit: null
   values:
   - 2025.0
-- &id009
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: while charter rates jump, oil remains anemic overall as it ended the
     week at USD 68.30 / barrel,
   unit: usd
   values:
   - 68.3
-- &id010
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: likely April calm. And with the Hong Kong Conventions (HKC) entry into
     force on 26th June, there
   unit: null
   values:
   - 26.0
-- &id011
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id012
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: future awaiting at OPL, inner anchorage was whole new song and dance
     with over 103K LDT via
   unit: null
   values:
   - 103.0
-- &id013
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 7 vessels ranging from sub-1.5K LDT to over 42K LDT units that are
     either awaiting delivery or
@@ -147,79 +134,69 @@ numeric_observations:
   - 7.0
   - 1.5
   - 42.0
-- &id014
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Moreover, with Ramadan holidays incoming and the country bracing for
     an unprecedented 11-day
   unit: null
   values:
   - 11.0
-- &id015
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: plate prices during this time, which remain dead on the floor at about
     USD 529/Ton for about two
   unit: usd
   values:
   - 529.0
-- &id016
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Jack rabbit. as it shuttered through its share of volatility across
     the week and ended it, 25 basis points weaker
   unit: null
   values:
   - 25.0
-- &id017
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: at BDT 121.70.
   unit: null
   values:
   - 121.7
-- &id018
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: the necessary yard upgrades that are due to have started by Match 31st
     failing which, those yards
   unit: null
   values:
   - 31.0
-- &id019
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Overall, as demand has seemingly pent up and indications have come
     up by about USD 10/LDT,
   unit: usd
   values:
   - 10.0
-- &id020
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: tonnage or even those units with a WC India / Pakistan / Bangladesh
     range redelivery where a INR jumps 1%.
   unit: pct
   values:
   - 1.0
-- &id022
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: but the Indian Rupee also reported a strong 1% increase against the
     U.S. Dollar closing the week out
   unit: pct
   values:
   - 1.0
-- &id023
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: at Rs. 86.07, as did local steel plate prices record a massive USD
     10/Ton jump to USD 453.33/Ton,
@@ -228,24 +205,21 @@ numeric_observations:
   - 86.07
   - 10.0
   - 453.33
-- &id024
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 'helping local indications firm up across the week and dislodge Pakistan
     for the #2 spot on the market'
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Notwithstanding, Alang of course remains ready to take in the full
     range of HKC units post June 26th, HKC formalities.
   unit: null
   values:
   - 26.0
-- &id026
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: implementation of the Hong Kong Convention (HKC) post June 26, 2025,
     which are highlighted as
@@ -253,39 +227,34 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id027
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: X (< 3K LDT)
   unit: null
   values:
   - 3.0
-- &id028
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: that helped them briefly move into 2nd place on the market rankings,
     Gadani anchorage has finally
   unit: null
   values:
   - 2.0
-- &id030
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: a second sub 9K LDT bulker arrived and was delivered to her new owners
     this week. While this
   unit: null
   values:
   - 9.0
-- &id031
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 3.5/Ton drop this week (totaling the entire decline to just about USD
     26/Ton over the last four
@@ -293,16 +262,14 @@ numeric_observations:
   values:
   - 3.5
   - 26.0
-- &id032
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Price moves. weeks alone), including the Pakistani Rupee, which fell
     13 basis points and clocked the week out,
   unit: null
   values:
   - 13.0
-- &id033
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: breaching the coveted PKR 280 mark, at a record-breaking PKR 280.06
     against the U.S. Dollar.
@@ -310,16 +277,14 @@ numeric_observations:
   values:
   - 280.0
   - 280.06
-- &id034
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: that the central government has decided to maintain the prevailing
     interest rate at 12%, the ship
   unit: pct
   values:
   - 12.0
-- &id035
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: slowest year on record over the last decade, with 2023 being the slowest
     with just 16 deliveries
@@ -327,40 +292,35 @@ numeric_observations:
   values:
   - 2023.0
   - 16.0
-- &id036
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Pakistan to perform post June 26th given that they are yet to commence
     any serious upgrades, as
   unit: null
   values:
   - 26.0
-- &id037
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: spike to over TRY 40.75 against the U.S. Dollar, but it also still
     closed the week having declined a
   unit: null
   values:
   - 40.75
-- &id039
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: whopping 3.57%, at TRY 37.91.
   unit: pct
   values:
   - 3.57
   - 37.91
-- &id040
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: For Week 12 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -368,8 +328,7 @@ numeric_observations:
   values:
   - 12.0
   - 2025.0
-- &id041
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -378,8 +337,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id042
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Stable 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -388,8 +346,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id043
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -398,8 +355,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id044
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -408,23 +364,20 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id045
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 2024 FUN FACTS
   unit: null
   values:
   - 2024.0
-- &id047
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: ' Largest Cruise Ship Sets Sail - January 27th, 2024: The largest
     cruise ship in the world, ‘Icon of the Seas, '' set sail for the'
@@ -432,8 +385,7 @@ numeric_observations:
   values:
   - 27.0
   - 2024.0
-- &id048
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: first time on January 27th, 2024. The ship has 20 decks and is 1,198
     feet long, making it longer than the Eiffel Tower is tall.
@@ -443,8 +395,7 @@ numeric_observations:
   - 2024.0
   - 20.0
   - 1198.0
-- &id049
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: ' Super Bowl LVIII Becomes Most Watched Program in US History - February
     11th, 2024: February''s Super Bowl'
@@ -452,16 +403,14 @@ numeric_observations:
   values:
   - 11.0
   - 2024.0
-- &id050
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: LVIII became the most-watched TV program in US history. Over 123.4
     million viewers across TV and streaming platforms
   unit: null
   values:
   - 123.4
-- &id051
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: ' Mexico Announces its First Female President - June 2nd, 2024: Mexico
     announced Claudia Sheinbaum as the first-ever'
@@ -469,8 +418,7 @@ numeric_observations:
   values:
   - 2.0
   - 2024.0
-- &id052
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: female president on June 2nd, with almost 60.7% of the vote. That's
     the highest vote percentage in Mexican democracy!
@@ -478,16 +426,14 @@ numeric_observations:
   values:
   - 2.0
   - 60.7
-- &id053
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Revolution (PRD) in 1989. Sheinbaum is the first female president elected
     in North America.
   unit: null
   values:
   - 1989.0
-- &id054
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: ' India Announces Results In The World''s Largest Election - June
     4th, 2024: India''s general election this year was six'
@@ -495,8 +441,7 @@ numeric_observations:
   values:
   - 4.0
   - 2024.0
-- &id055
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: weeks long and split into 44 phases. 642 million people voted and chose
     between 543 members for the lower house of
@@ -505,15 +450,13 @@ numeric_observations:
   - 44.0
   - 642.0
   - 543.0
-- &id056
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Parliament. India's 2024 vote became the world's largest-ever election.
   unit: null
   values:
   - 2024.0
-- &id057
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 28 - Jamat-ul-Wida March 27 - April 05
   unit: null
@@ -521,8 +464,7 @@ numeric_observations:
   - 28.0
   - 27.0
   - 5.0
-- &id058
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 30 - Gudi Padwa April 12 - April 17
   unit: null
@@ -530,8 +472,7 @@ numeric_observations:
   - 30.0
   - 12.0
   - 17.0
-- &id059
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 31 - Eid-ul-Fitr April 26 - May 03
   unit: null
@@ -539,8 +480,7 @@ numeric_observations:
   - 31.0
   - 26.0
   - 3.0
-- &id060
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence & National Day March 29 - April 01
   unit: null
@@ -548,8 +488,7 @@ numeric_observations:
   - 26.0
   - 29.0
   - 1.0
-- &id061
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 28 - Shab-e-Qadr April 12 - April 15
   unit: null
@@ -557,8 +496,7 @@ numeric_observations:
   - 28.0
   - 12.0
   - 15.0
-- &id062
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 29 - April 03 - Eid-ul-Fitr April 27 - April 30
   unit: null
@@ -567,8 +505,7 @@ numeric_observations:
   - 3.0
   - 27.0
   - 30.0
-- &id063
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: No holidays until April March 23 - Pakistan Day March 29 - April 03
     - Ramzan
@@ -577,32 +514,28 @@ numeric_observations:
   - 23.0
   - 29.0
   - 3.0
-- &id064
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
   unit: null
   values:
   - 30.0
   - 4.0
-- &id065
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id066
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 21, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id067
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 1 Epon 2,689 General Cargo Delivered March 18
   unit: null
@@ -610,8 +543,7 @@ numeric_observations:
   - 1.0
   - 2689.0
   - 18.0
-- &id068
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 2 Hesen M 2,240 General Cargo Delivered March 21
   unit: null
@@ -619,8 +551,7 @@ numeric_observations:
   - 2.0
   - 2240.0
   - 21.0
-- &id069
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 3 KG 7 2,649 Oil Tanker Arrived March 22
   unit: null
@@ -629,23 +560,20 @@ numeric_observations:
   - 7.0
   - 2649.0
   - 22.0
-- &id070
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 7,578
   unit: null
   values:
   - 7578.0
-- &id071
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 21, 2025
   unit: null
   values:
   - 21.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 1 Best Unity 9,826 Bulk Carrier Delivered March 17
   unit: null
@@ -653,8 +581,7 @@ numeric_observations:
   - 1.0
   - 9826.0
   - 17.0
-- &id073
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 2 Equator 42,649 Tanker Arrived March 18
   unit: null
@@ -662,8 +589,7 @@ numeric_observations:
   - 2.0
   - 42649.0
   - 18.0
-- &id074
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 3 Sungho 2,345 General Cargo Delivered March 20
   unit: null
@@ -671,8 +597,7 @@ numeric_observations:
   - 3.0
   - 2345.0
   - 20.0
-- &id075
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 4 Tasos 10,738 Bulk Carrier Delivered March 17
   unit: null
@@ -680,8 +605,7 @@ numeric_observations:
   - 4.0
   - 10738.0
   - 17.0
-- &id076
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 5 Three Star 7,627 Bulk Carrier Arrived January 23
   unit: null
@@ -689,8 +613,7 @@ numeric_observations:
   - 5.0
   - 7627.0
   - 23.0
-- &id077
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 6 Trader III 29,101 LNG Tanker Delivered March 15
   unit: null
@@ -698,8 +621,7 @@ numeric_observations:
   - 6.0
   - 29101.0
   - 15.0
-- &id078
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 7 Vik 1,330 Tanker Arrived March 19
   unit: null
@@ -707,15 +629,13 @@ numeric_observations:
   - 7.0
   - 1330.0
   - 19.0
-- &id079
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: 103,617
   unit: null
   values:
   - 103617.0
-- &id080
-  section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+- section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 21, 2025
   unit: null
@@ -958,86 +878,618 @@ section_count: 3
 signals:
   numeric_observation_count: 101
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: How the future of recycling the world's dark fleet unfolds in this
+      post-sanction friendly, trade war rollercoaster world of 2025 remains to be
+      seen. For now, it does seem as though ship recycling markets maybe heading for
+      a firmer Q2 as the slowing supply of c
+    unit: usd
+    values:
+    - 2025.0
+    - 68.3
+  - section: Main
+    section_type: null
+    source_line: Overall, with so much backlogged tonnage, it is expected that the
+      ship recycling markets will get busier heading into the second half of this
+      year, especially if tonnage supply gets a boost after a likely April calm. And
+      with the Hong Kong Conventions (HKC) en
+    unit: null
+    values:
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: For Week 12 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_img1_24032025hinese544_e994dbd28756.jpg'
+    unit: usd
+    values:
+    - 2025.0
+    - -3.0
+    - -24.0
+    - 12.0
+    - 24032025.0
+    - 44.0
+    - 94.0
+    - 8756.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 21st, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Week 12
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Volume 270, Issue 1177 - Unknown
+    unit: null
+    values:
+    - 270.0
+    - 1177.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: rollercoaster world of 2025 remains to be seen. For now, it does
+      seem as though ship recycling
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: while charter rates jump, oil remains anemic overall as it ended
+      the week at USD 68.30 / barrel,
+    unit: usd
+    values:
+    - 68.3
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: likely April calm. And with the Hong Kong Conventions (HKC) entry
+      into force on 26th June, there
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: future awaiting at OPL, inner anchorage was whole new song and dance
+      with over 103K LDT via
+    unit: null
+    values:
+    - 103.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 7 vessels ranging from sub-1.5K LDT to over 42K LDT units that are
+      either awaiting delivery or
+    unit: null
+    values:
+    - 7.0
+    - 1.5
+    - 42.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Moreover, with Ramadan holidays incoming and the country bracing
+      for an unprecedented 11-day
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: plate prices during this time, which remain dead on the floor at
+      about USD 529/Ton for about two
+    unit: usd
+    values:
+    - 529.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Jack rabbit. as it shuttered through its share of volatility across
+      the week and ended it, 25 basis points weaker
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: at BDT 121.70.
+    unit: null
+    values:
+    - 121.7
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: the necessary yard upgrades that are due to have started by Match
+      31st failing which, those yards
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Overall, as demand has seemingly pent up and indications have come
+      up by about USD 10/LDT,
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: tonnage or even those units with a WC India / Pakistan / Bangladesh
+      range redelivery where a INR jumps 1%.
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: but the Indian Rupee also reported a strong 1% increase against the
+      U.S. Dollar closing the week out
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: at Rs. 86.07, as did local steel plate prices record a massive USD
+      10/Ton jump to USD 453.33/Ton,
+    unit: usd
+    values:
+    - 86.07
+    - 10.0
+    - 453.33
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 'helping local indications firm up across the week and dislodge Pakistan
+      for the #2 spot on the market'
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Notwithstanding, Alang of course remains ready to take in the full
+      range of HKC units post June 26th, HKC formalities.
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: implementation of the Hong Kong Convention (HKC) post June 26, 2025,
+      which are highlighted as
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: X (< 3K LDT)
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: that helped them briefly move into 2nd place on the market rankings,
+      Gadani anchorage has finally
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: a second sub 9K LDT bulker arrived and was delivered to her new owners
+      this week. While this
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 3.5/Ton drop this week (totaling the entire decline to just about
+      USD 26/Ton over the last four
+    unit: usd
+    values:
+    - 3.5
+    - 26.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Price moves. weeks alone), including the Pakistani Rupee, which fell
+      13 basis points and clocked the week out,
+    unit: null
+    values:
+    - 13.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: breaching the coveted PKR 280 mark, at a record-breaking PKR 280.06
+      against the U.S. Dollar.
+    unit: null
+    values:
+    - 280.0
+    - 280.06
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: that the central government has decided to maintain the prevailing
+      interest rate at 12%, the ship
+    unit: pct
+    values:
+    - 12.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: slowest year on record over the last decade, with 2023 being the
+      slowest with just 16 deliveries
+    unit: null
+    values:
+    - 2023.0
+    - 16.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan to perform post June 26th given that they are yet to commence
+      any serious upgrades, as
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: spike to over TRY 40.75 against the U.S. Dollar, but it also still
+      closed the week having declined a
+    unit: null
+    values:
+    - 40.75
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: whopping 3.57%, at TRY 37.91.
+    unit: pct
+    values:
+    - 3.57
+    - 37.91
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: For Week 12 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Stable 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 2024 FUN FACTS
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: ' Largest Cruise Ship Sets Sail - January 27th, 2024: The largest
+      cruise ship in the world, ‘Icon of the Seas, '' set sail for the'
+    unit: null
+    values:
+    - 27.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: first time on January 27th, 2024. The ship has 20 decks and is 1,198
+      feet long, making it longer than the Eiffel Tower is tall.
+    unit: null
+    values:
+    - 27.0
+    - 2024.0
+    - 20.0
+    - 1198.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: ' Super Bowl LVIII Becomes Most Watched Program in US History -
+      February 11th, 2024: February''s Super Bowl'
+    unit: null
+    values:
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: LVIII became the most-watched TV program in US history. Over 123.4
+      million viewers across TV and streaming platforms
+    unit: null
+    values:
+    - 123.4
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: ' Mexico Announces its First Female President - June 2nd, 2024:
+      Mexico announced Claudia Sheinbaum as the first-ever'
+    unit: null
+    values:
+    - 2.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: female president on June 2nd, with almost 60.7% of the vote. That's
+      the highest vote percentage in Mexican democracy!
+    unit: pct
+    values:
+    - 2.0
+    - 60.7
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Revolution (PRD) in 1989. Sheinbaum is the first female president
+      elected in North America.
+    unit: null
+    values:
+    - 1989.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: ' India Announces Results In The World''s Largest Election - June
+      4th, 2024: India''s general election this year was six'
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: weeks long and split into 44 phases. 642 million people voted and
+      chose between 543 members for the lower house of
+    unit: null
+    values:
+    - 44.0
+    - 642.0
+    - 543.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Parliament. India's 2024 vote became the world's largest-ever election.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Jamat-ul-Wida March 27 - April 05
+    unit: null
+    values:
+    - 28.0
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - Gudi Padwa April 12 - April 17
+    unit: null
+    values:
+    - 30.0
+    - 12.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Eid-ul-Fitr April 26 - May 03
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence & National Day March 29 - April 01
+    unit: null
+    values:
+    - 26.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Shab-e-Qadr April 12 - April 15
+    unit: null
+    values:
+    - 28.0
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - April 03 - Eid-ul-Fitr April 27 - April 30
+    unit: null
+    values:
+    - 29.0
+    - 3.0
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until April March 23 - Pakistan Day March 29 - April
+      03 - Ramzan
+    unit: null
+    values:
+    - 23.0
+    - 29.0
+    - 3.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 21, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 1 Epon 2,689 General Cargo Delivered March 18
+    unit: null
+    values:
+    - 1.0
+    - 2689.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hesen M 2,240 General Cargo Delivered March 21
+    unit: null
+    values:
+    - 2.0
+    - 2240.0
+    - 21.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 3 KG 7 2,649 Oil Tanker Arrived March 22
+    unit: null
+    values:
+    - 3.0
+    - 7.0
+    - 2649.0
+    - 22.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 7,578
+    unit: null
+    values:
+    - 7578.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 21, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 1 Best Unity 9,826 Bulk Carrier Delivered March 17
+    unit: null
+    values:
+    - 1.0
+    - 9826.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 2 Equator 42,649 Tanker Arrived March 18
+    unit: null
+    values:
+    - 2.0
+    - 42649.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sungho 2,345 General Cargo Delivered March 20
+    unit: null
+    values:
+    - 3.0
+    - 2345.0
+    - 20.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 4 Tasos 10,738 Bulk Carrier Delivered March 17
+    unit: null
+    values:
+    - 4.0
+    - 10738.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 5 Three Star 7,627 Bulk Carrier Arrived January 23
+    unit: null
+    values:
+    - 5.0
+    - 7627.0
+    - 23.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 6 Trader III 29,101 LNG Tanker Delivered March 15
+    unit: null
+    values:
+    - 6.0
+    - 29101.0
+    - 15.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 7 Vik 1,330 Tanker Arrived March 19
+    unit: null
+    values:
+    - 7.0
+    - 1330.0
+    - 19.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: 103,617
+    unit: null
+    values:
+    - 103617.0
+  - section: 'Linked asset: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions_ship-recycling-market-insight-week-1_2f08da4c66f2.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 21, 2025
+    unit: null
+    values:
+    - 21.0
+    - 2025.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions.html
 source_stem: 2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions

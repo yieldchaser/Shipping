@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 100
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Taking the limelight for all of 2024 was this week, where President-elect
     Donald J. Trump won the 47th Presidency of the United Statesof America, the ripples
@@ -46,8 +45,7 @@ numeric_observations:
   - 3.0
   - 0.25
   - 2.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For now, his win has certainly returned a modicum of stability to the
     ship recycling industry, with about USD 10/LDT gained across the board and Bangladesh
@@ -64,8 +62,7 @@ numeric_observations:
   - 20.0
   - 2025.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 45 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -73,8 +70,7 @@ numeric_observations:
   values:
   - 45.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-11-11_gms-week-45-victoryor-doom_img1_87663_a6aa926a5455.jpg'
   unit: null
@@ -86,63 +82,55 @@ numeric_observations:
   - 87663.0
   - 26.0
   - 455.0
-- &id005
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: November 8th, 2024
   unit: null
   values:
   - 8.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Week 45
   unit: null
   values:
   - 45.0
-- &id007
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Volume 266, Issue 1159
   unit: null
   values:
   - 266.0
   - 1159.0
-- &id008
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: • Trump term! Taking the limelight for all of 2024 was this week ,
     where President-elect Donald J. Trump won the
   unit: null
   values:
   - 2024.0
-- &id009
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 47th Presidency of the United States of America, the ripples of which
     have already had near & far-
   unit: null
   values:
   - 47.0
-- &id010
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: January 2025 amidst Trump's ongoing rhetoric on shutting down the border
     and deporting all
   unit: null
   values:
   - 2025.0
-- &id011
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: blast from Trump's victory also saw him issue a warning to Hamas to
     release the remaining 97
   unit: null
   values:
   - 97.0
-- &id012
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: hostages before he takes office on January 20th. In light of his statements
     and 3 reported phone calls
@@ -150,32 +138,28 @@ numeric_observations:
   values:
   - 20.0
   - 3.0
-- &id013
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: U.S. Fed also announced another 0.25% reduction in interest rates whilst
     inflation continues to hover
   unit: pct
   values:
   - 0.25
-- &id014
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: around 2%, the U.S. Dollar surged against all ship recycling nation
     currencies in unison, making it
   unit: pct
   values:
   - 2.0
-- &id015
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: • Stimulus sought. about USD 10/LDT gained across the board and Bangladesh
     leapfrogging India for pole position
   unit: usd
   values:
   - 10.0
-- &id016
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: this week, including the purchases of 2 Panamax Bulk Carriers in the
     USD 470s/LDT. Although the
@@ -183,16 +167,14 @@ numeric_observations:
   values:
   - 2.0
   - 470.0
-- &id017
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: cautious optimism within the community as we head towards 2025. We
     aren't suggesting that
   unit: null
   values:
   - 2025.0
-- &id018
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: markets will hit or even exceed the ever-coveted USD 500/LDT mark before
     Q1 2025. However, the
@@ -200,8 +182,7 @@ numeric_observations:
   values:
   - 500.0
   - 2025.0
-- &id019
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: • Scan to download January 20th, 2025 is expected. And despite the
     short-term post U.S. election bounce in both trading
@@ -209,16 +190,14 @@ numeric_observations:
   values:
   - 20.0
   - 2025.0
-- &id020
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Republican run administration and global inflationary pressures will
     persist into 2025, there is
   unit: null
   values:
   - 2025.0
-- &id021
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 45 of 2024 are on Page 5.
   unit: null
@@ -226,181 +205,158 @@ numeric_observations:
   - 45.0
   - 2024.0
   - 5.0
-- &id022
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: several private Panamax bulkers at levels into the USD 470s/LDT has
     increasingly suggested that
   unit: usd
   values:
   - 470.0
-- &id024
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: saw local steel plate prices flatline at a weak USD 528/LT LDT, and
     finally, the Bangladeshi Taka
   unit: usd
   values:
   - 528.0
-- &id025
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: that lost 35 basis points against the U.S. Dollar and winding down
     the week at a record-breaking
   unit: null
   values:
   - 35.0
-- &id026
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: BDT 120.05, was the TLDR version of the nation state overall.
   unit: null
   values:
   - 120.05
-- &id027
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: stance. One thing is certain, these relative periods of exuberance
     that are reserved for Tier 1
   unit: null
   values:
   - 1.0
-- &id028
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: u nits from India at these increasingly acceptable levels in the mid
     USD 450s/LDT does remain, an
   unit: usd
   values:
   - 450.0
-- &id030
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: To start, fundamentals are still in shambles as the Indian Rupee depreciated
     33 basis points this
   unit: null
   values:
   - 33.0
-- &id031
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: week, to a record-breaking INR 84.37 against the U.S. Dollar, all while
     local steel plate prices, though
   unit: null
   values:
   - 84.37
-- &id032
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: at shocking lows, marked a minor USD 3/Ton improvement likely on the
     back of movements
   unit: usd
   values:
   - 3.0
-- &id033
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: As India's current inflationary trajectory of 5.35% remains of domestic
     concern, the Reserve Bank of
   unit: pct
   values:
   - 5.35
-- &id034
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: India (RBI) has reportedly deferred any intended interest rate cuts
     until February 2025, in order to
   unit: null
   values:
   - 2025.0
-- &id035
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: performance of freight markets across 2024.
   unit: null
   values:
   - 2024.0
-- &id036
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: fundamentals whereby the Pakistani Rupee took a lickin' this week as
     it fell by over 60 basis points
   unit: null
   values:
   - 60.0
-- &id038
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: to end the week at nearly PKR 279.22 against the U.S. Dollar, whilst
     local steel plate prices continue
   unit: null
   values:
   - 279.22
-- &id039
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: a marginal USD 4/Ton, similar to India.
   unit: usd
   values:
   - 4.0
-- &id040
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: and IMF both investigate the mismanagement of over USD 400 million
     of relief funds awarded to
   unit: usd
   values:
   - 400.0
-- &id041
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: the Middle East reportedly exceeded USD 3 Billion through October alone.
     While this has greatly
   unit: usd
   values:
   - 3.0
-- &id042
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: reported" phase for the rest of Q4 2024 and regional recycling destinations
     remain on edge,
   unit: null
   values:
   - 2024.0
-- &id043
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: depressing show as it fell nearly 8 basis points down to TRY 34.37
     against the U.S. Dollar this week.
@@ -408,16 +364,14 @@ numeric_observations:
   values:
   - 8.0
   - 34.37
-- &id045
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: As such, it does seem like more bad news and burnt gravy for this market
     as we head towards 2025.
   unit: null
   values:
   - 2025.0
-- &id046
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: For Week 45 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -425,8 +379,7 @@ numeric_observations:
   values:
   - 45.0
   - 2024.0
-- &id047
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -435,8 +388,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id048
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -445,8 +397,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id049
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Steady 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -455,8 +406,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id050
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Unchanged 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -465,31 +415,27 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id051
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 2024 NEWS…IN SEQUENCE.
   unit: null
   values:
   - 2024.0
-- &id053
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Feb 25 - Algeria officially inaugurated the Grand Mosque of Algiers,
     the world's third-largest mosque. Algerian President
   unit: null
   values:
   - 25.0
-- &id054
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Abdelmadjid Tebboune officially opened the new mosque. It can hold
     as many as 120,000 people and features an 869-foot (265-
@@ -498,16 +444,14 @@ numeric_observations:
   - 120000.0
   - 869.0
   - 265.0
-- &id055
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Mar 4 - France became the first country in the world to include access
     to abortion in its constitution.
   unit: null
   values:
   - 4.0
-- &id056
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Mar 10 - Christopher Nolan won Best Director, and his film "Oppenheimer"
     won Best Film at the 96th Academy Awards.
@@ -515,8 +459,7 @@ numeric_observations:
   values:
   - 10.0
   - 96.0
-- &id057
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Mar 17 - Vladimir Putin won the Russian Presidential election again.
     While Putin supposedly won 88% of the vote, major
@@ -524,24 +467,21 @@ numeric_observations:
   values:
   - 17.0
   - 88.0
-- &id058
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Mar 26 - Baltimore's iconic Francis Scott Key Bridge collapsed after
     being struck by a cargo ship. Fortunately, the event
   unit: null
   values:
   - 26.0
-- &id059
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: happened in the early hours of the morning rather than during peak
     hours. Although Dali, the cargo ship, was only going 9
   unit: null
   values:
   - 9.0
-- &id060
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: mph (15 km/hr), its massive weight caused the entire span of the 1.6-mile
     (2.6-km) long bridge to collapse.
@@ -550,72 +490,63 @@ numeric_observations:
   - 15.0
   - 1.6
   - 2.6
-- &id061
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line:  Apr 2 - Taylor Swift became the world's first musician to become
     a billionaire solely from songs and concerts.
   unit: null
   values:
   - 2.0
-- &id062
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: No holidays in November October 31 - November 07
   unit: null
   values:
   - 31.0
   - 7.0
-- &id063
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: November 14 - November 21
   unit: null
   values:
   - 14.0
   - 21.0
-- &id064
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: No holidays in November October 30 - November 02
   unit: null
   values:
   - 30.0
   - 2.0
-- &id065
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: November 14 - November 17
   unit: null
   values:
   - 14.0
   - 17.0
-- &id066
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: No holidays in November No holidays in November No holidays until Dec
     24
   unit: null
   values:
   - 24.0
-- &id067
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 08, 2024
   unit: null
   values:
   - 8.0
   - 2024.0
-- &id069
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 1 Ali A 2,578 General Cargo Arrived November 08
   unit: null
@@ -623,8 +554,7 @@ numeric_observations:
   - 1.0
   - 2578.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
   unit: null
@@ -632,8 +562,7 @@ numeric_observations:
   - 2.0
   - 7263.0
   - 26.0
-- &id071
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 3 Green Bodo 2,957 Reefer Delivered November 08
   unit: null
@@ -641,8 +570,7 @@ numeric_observations:
   - 3.0
   - 2957.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 4 MSC Alexa 16,228 Container Delivered November 02
   unit: null
@@ -650,8 +578,7 @@ numeric_observations:
   - 4.0
   - 16228.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 5 Star 5,538 Reefer Arrived November 07
   unit: null
@@ -659,8 +586,7 @@ numeric_observations:
   - 5.0
   - 5538.0
   - 7.0
-- &id074
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 6 Wind 2,489 General Cargo Delivered November 07
   unit: null
@@ -668,23 +594,20 @@ numeric_observations:
   - 6.0
   - 2489.0
   - 7.0
-- &id075
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 37,052
   unit: null
   values:
   - 37052.0
-- &id076
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of November 08, 2024
   unit: null
   values:
   - 8.0
   - 2024.0
-- &id077
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 1 Chang Fei Hai 2,943 Bulk Carrier Delivered November 06
   unit: null
@@ -692,8 +615,7 @@ numeric_observations:
   - 1.0
   - 2943.0
   - 6.0
-- &id078
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 2 Chun Chao 9 2,736 General Cargo Delivered November 08
   unit: null
@@ -702,8 +624,7 @@ numeric_observations:
   - 9.0
   - 2736.0
   - 8.0
-- &id079
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 3 Rada 18,860 Tanker Delivered November 01
   unit: null
@@ -711,8 +632,7 @@ numeric_observations:
   - 3.0
   - 18860.0
   - 1.0
-- &id080
-  section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+- section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
   section_type: linked_pdf
   source_line: 4 Yun Da Hai 2,881 Bulk Carrier Delivered November 07
   unit: null
@@ -943,86 +863,617 @@ section_count: 3
 signals:
   numeric_observation_count: 100
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Taking the limelight for all of 2024 was this week, where President-elect
+      Donald J. Trump won the 47th Presidency of the United Statesof America, the
+      ripples of which have already had near & far-reaching effects across a spectrum
+      of positives and negatives res
+    unit: pct
+    values:
+    - 2024.0
+    - 47.0
+    - 2025.0
+    - 97.0
+    - 20.0
+    - 3.0
+    - 0.25
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: For now, his win has certainly returned a modicum of stability to
+      the ship recycling industry, with about USD 10/LDT gained across the board and
+      Bangladesh leapfrogging India for pole position this week, including the purchases
+      of 2 Panamax Bulk Carriers in th
+    unit: usd
+    values:
+    - 10.0
+    - 2.0
+    - 470.0
+    - 2025.0
+    - 500.0
+    - 2025.0
+    - 20.0
+    - 2025.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 45 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 45.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-11-11_gms-week-45-victoryor-doom_img1_87663_a6aa926a5455.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -11.0
+    - -11.0
+    - 45.0
+    - 87663.0
+    - 26.0
+    - 455.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: November 8th, 2024
+    unit: null
+    values:
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Week 45
+    unit: null
+    values:
+    - 45.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Volume 266, Issue 1159
+    unit: null
+    values:
+    - 266.0
+    - 1159.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: • Trump term! Taking the limelight for all of 2024 was this week
+      , where President-elect Donald J. Trump won the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 47th Presidency of the United States of America, the ripples of which
+      have already had near & far-
+    unit: null
+    values:
+    - 47.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: January 2025 amidst Trump's ongoing rhetoric on shutting down the
+      border and deporting all
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: blast from Trump's victory also saw him issue a warning to Hamas
+      to release the remaining 97
+    unit: null
+    values:
+    - 97.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: hostages before he takes office on January 20th. In light of his
+      statements and 3 reported phone calls
+    unit: null
+    values:
+    - 20.0
+    - 3.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: U.S. Fed also announced another 0.25% reduction in interest rates
+      whilst inflation continues to hover
+    unit: pct
+    values:
+    - 0.25
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: around 2%, the U.S. Dollar surged against all ship recycling nation
+      currencies in unison, making it
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: • Stimulus sought. about USD 10/LDT gained across the board and Bangladesh
+      leapfrogging India for pole position
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: this week, including the purchases of 2 Panamax Bulk Carriers in
+      the USD 470s/LDT. Although the
+    unit: usd
+    values:
+    - 2.0
+    - 470.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: cautious optimism within the community as we head towards 2025. We
+      aren't suggesting that
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: markets will hit or even exceed the ever-coveted USD 500/LDT mark
+      before Q1 2025. However, the
+    unit: usd
+    values:
+    - 500.0
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download January 20th, 2025 is expected. And despite the
+      short-term post U.S. election bounce in both trading
+    unit: null
+    values:
+    - 20.0
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Republican run administration and global inflationary pressures will
+      persist into 2025, there is
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 45 of 2024 are on Page 5.
+    unit: null
+    values:
+    - 45.0
+    - 2024.0
+    - 5.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: several private Panamax bulkers at levels into the USD 470s/LDT has
+      increasingly suggested that
+    unit: usd
+    values:
+    - 470.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: saw local steel plate prices flatline at a weak USD 528/LT LDT, and
+      finally, the Bangladeshi Taka
+    unit: usd
+    values:
+    - 528.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: that lost 35 basis points against the U.S. Dollar and winding down
+      the week at a record-breaking
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: BDT 120.05, was the TLDR version of the nation state overall.
+    unit: null
+    values:
+    - 120.05
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: stance. One thing is certain, these relative periods of exuberance
+      that are reserved for Tier 1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: u nits from India at these increasingly acceptable levels in the
+      mid USD 450s/LDT does remain, an
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: To start, fundamentals are still in shambles as the Indian Rupee
+      depreciated 33 basis points this
+    unit: null
+    values:
+    - 33.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: week, to a record-breaking INR 84.37 against the U.S. Dollar, all
+      while local steel plate prices, though
+    unit: null
+    values:
+    - 84.37
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: at shocking lows, marked a minor USD 3/Ton improvement likely on
+      the back of movements
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: As India's current inflationary trajectory of 5.35% remains of domestic
+      concern, the Reserve Bank of
+    unit: pct
+    values:
+    - 5.35
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: India (RBI) has reportedly deferred any intended interest rate cuts
+      until February 2025, in order to
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: performance of freight markets across 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: fundamentals whereby the Pakistani Rupee took a lickin' this week
+      as it fell by over 60 basis points
+    unit: null
+    values:
+    - 60.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: to end the week at nearly PKR 279.22 against the U.S. Dollar, whilst
+      local steel plate prices continue
+    unit: null
+    values:
+    - 279.22
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: a marginal USD 4/Ton, similar to India.
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: and IMF both investigate the mismanagement of over USD 400 million
+      of relief funds awarded to
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: the Middle East reportedly exceeded USD 3 Billion through October
+      alone. While this has greatly
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: reported" phase for the rest of Q4 2024 and regional recycling destinations
+      remain on edge,
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: depressing show as it fell nearly 8 basis points down to TRY 34.37
+      against the U.S. Dollar this week.
+    unit: null
+    values:
+    - 8.0
+    - 34.37
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: As such, it does seem like more bad news and burnt gravy for this
+      market as we head towards 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: For Week 45 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 45.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Steady 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Unchanged 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 2024 NEWS…IN SEQUENCE.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Feb 25 - Algeria officially inaugurated the Grand Mosque of Algiers,
+      the world's third-largest mosque. Algerian President
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Abdelmadjid Tebboune officially opened the new mosque. It can hold
+      as many as 120,000 people and features an 869-foot (265-
+    unit: null
+    values:
+    - 120000.0
+    - 869.0
+    - 265.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Mar 4 - France became the first country in the world to include
+      access to abortion in its constitution.
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Mar 10 - Christopher Nolan won Best Director, and his film "Oppenheimer"
+      won Best Film at the 96th Academy Awards.
+    unit: null
+    values:
+    - 10.0
+    - 96.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Mar 17 - Vladimir Putin won the Russian Presidential election again.
+      While Putin supposedly won 88% of the vote, major
+    unit: pct
+    values:
+    - 17.0
+    - 88.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Mar 26 - Baltimore's iconic Francis Scott Key Bridge collapsed
+      after being struck by a cargo ship. Fortunately, the event
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: happened in the early hours of the morning rather than during peak
+      hours. Although Dali, the cargo ship, was only going 9
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: mph (15 km/hr), its massive weight caused the entire span of the
+      1.6-mile (2.6-km) long bridge to collapse.
+    unit: null
+    values:
+    - 15.0
+    - 1.6
+    - 2.6
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line:  Apr 2 - Taylor Swift became the world's first musician to become
+      a billionaire solely from songs and concerts.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November October 31 - November 07
+    unit: null
+    values:
+    - 31.0
+    - 7.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: November 14 - November 21
+    unit: null
+    values:
+    - 14.0
+    - 21.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November October 30 - November 02
+    unit: null
+    values:
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: November 14 - November 17
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November No holidays in November No holidays until
+      Dec 24
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 08, 2024
+    unit: null
+    values:
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ali A 2,578 General Cargo Arrived November 08
+    unit: null
+    values:
+    - 1.0
+    - 2578.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
+    unit: null
+    values:
+    - 2.0
+    - 7263.0
+    - 26.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 3 Green Bodo 2,957 Reefer Delivered November 08
+    unit: null
+    values:
+    - 3.0
+    - 2957.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 4 MSC Alexa 16,228 Container Delivered November 02
+    unit: null
+    values:
+    - 4.0
+    - 16228.0
+    - 2.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 5 Star 5,538 Reefer Arrived November 07
+    unit: null
+    values:
+    - 5.0
+    - 5538.0
+    - 7.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 6 Wind 2,489 General Cargo Delivered November 07
+    unit: null
+    values:
+    - 6.0
+    - 2489.0
+    - 7.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 37,052
+    unit: null
+    values:
+    - 37052.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of November 08, 2024
+    unit: null
+    values:
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 1 Chang Fei Hai 2,943 Bulk Carrier Delivered November 06
+    unit: null
+    values:
+    - 1.0
+    - 2943.0
+    - 6.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 2 Chun Chao 9 2,736 General Cargo Delivered November 08
+    unit: null
+    values:
+    - 2.0
+    - 9.0
+    - 2736.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rada 18,860 Tanker Delivered November 01
+    unit: null
+    values:
+    - 3.0
+    - 18860.0
+    - 1.0
+  - section: 'Linked asset: 2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf'
+    section_type: linked_pdf
+    source_line: 4 Yun Da Hai 2,881 Bulk Carrier Delivered November 07
+    unit: null
+    values:
+    - 4.0
+    - 2881.0
+    - 7.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-11-11_gms-week-45-victoryor-doom.html
 source_stem: 2024-11-11_gms-week-45-victoryor-doom

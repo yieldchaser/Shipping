@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 85
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we enter October, global markets are ready registering spooks across
     the board, marking a drastic debut into Week 41. While inflationary numbersfrom
@@ -44,8 +43,7 @@ numeric_observations:
   - 16.0
   - 60.0
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Decidedly slipping into the micro, Indian sub-continent ship recycling
     destinations did not escape the incoming dark of the month as nearly all markets
@@ -54,8 +52,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Markets have resumed a tonnage scarcity that that is struggling to
     keep ailing yards active, which themselves remain burdened by HKC requirements,
@@ -65,8 +62,7 @@ numeric_observations:
   values:
   - 2022.0
   - 2027.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: With 18 HKC approved yards in Bangladesh and another 3 set to follow
     this month, Pakistan remains absent on its HKC scoreboard as the Gadani Gang continues
@@ -77,8 +73,7 @@ numeric_observations:
   - 18.0
   - 3.0
   - 300.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 40 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -86,8 +81,7 @@ numeric_observations:
   values:
   - 40.0
   - 2025.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-10-06_gms-week-40-halloween-already_img1_06102025chinese34_10e99f19d623.jpg'
   unit: null
@@ -102,39 +96,34 @@ numeric_observations:
   - 9.0
   - 9.0
   - 23.0
-- &id007
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 3rd, 2025
   unit: null
   values:
   - 3.0
   - 2025.0
-- &id008
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Week 40
   unit: null
   values:
   - 40.0
-- &id009
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Volume 277, Issue 1205 - Barbara Smith
   unit: null
   values:
   - 277.0
   - 1205.0
-- &id010
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: drastic debut into Week 41. While inflationary numbers from the various
     locations pertinent to this
   unit: null
   values:
   - 41.0
-- &id011
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: the worst drop since January 2025 as the entire index declined nearly
     16% for the week. Oil, on the
@@ -142,8 +131,7 @@ numeric_observations:
   values:
   - 2025.0
   - 16.0
-- &id012
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: • Still not over! other hand, tripped towards USD 60 / barrel and is
     nearly 20% lower than the same time last year
@@ -151,16 +139,14 @@ numeric_observations:
   values:
   - 60.0
   - 20.0
-- &id013
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: an unexpectedly woeful 2025 of declining fundamentals, supply, prices,
     and sentiment. Indeed, this
   unit: null
   values:
   - 2025.0
-- &id014
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: has been a festering situation that's only been getting worse since
     2022. So, 2027 now?
@@ -168,8 +154,7 @@ numeric_observations:
   values:
   - 2022.0
   - 2027.0
-- &id015
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: With 18 HKC approved yards in Bangladesh and another 3 set to follow
     this month, Pakistan
@@ -177,16 +162,14 @@ numeric_observations:
   values:
   - 18.0
   - 3.0
-- &id016
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: reported possibility of over 300 containers being earmarked for a ‘grey
     fleet' designation? Spicy!
   unit: null
   values:
   - 300.0
-- &id017
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 40 of 2025 are on Page 6.
   unit: null
@@ -194,70 +177,61 @@ numeric_observations:
   - 40.0
   - 2025.0
   - 6.0
-- &id018
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: scorched earth territory for Q4 2025.
   unit: null
   values:
   - 2025.0
-- &id020
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices meanwhile remain stranded at a comparatively
     stronger USD 520/Ton,
   unit: usd
   values:
   - 520.0
-- &id021
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: steel imports. The currency too continues to dance on week after week
     as it loses another 5 basis
   unit: null
   values:
   - 5.0
-- &id022
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: points this week and end it at BDT 121.70. The silver lining to the
     currency woes? They've managed
   unit: null
   values:
   - 121.7
-- &id023
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: to remain within a BDT 3 limit for the last couple of months.
   unit: null
   values:
   - 3.0
-- &id024
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: government for the next 4+ months, Bangladesh's ship recycling fraternity
     seems as though it could
   unit: null
   values:
   - 4.0
-- &id025
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 88s against the U.S. Dollar. In fact, even this week, The US$ gained
     12 basis points against the Rupee,
@@ -265,8 +239,7 @@ numeric_observations:
   values:
   - 88.0
   - 12.0
-- &id027
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: winding the week down at Rs. 88.74, inching back towards the increasingly
     dreaded Rs. 89 mark.
@@ -274,8 +247,7 @@ numeric_observations:
   values:
   - 88.74
   - 89.0
-- &id028
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Constantly sliding steel plate prices that fell another USD 6/Ton and
     end the week at USD 402/Ton
@@ -283,32 +255,28 @@ numeric_observations:
   values:
   - 6.0
   - 402.0
-- &id029
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: chase prices down at a time Bangladesh is already a mere USD 10/Ton
     below and Pakistani recyclers Noise to LDT ratio.
   unit: usd
   values:
   - 10.0
-- &id030
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: recycling destination. Moreover, with most of the 100+ operating yards
     in Alang already HKC
   unit: null
   values:
   - 100.0
-- &id031
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: One sale was however recorded for the week as the BOW CEDAR (11,043
     LDT) from Norwegian
   unit: null
   values:
   - 11043.0
-- &id032
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: owners Odfjell managed to fetch a decent USD 940/LT LDT, thanks to
     the prevalence of 2,300 tons of
@@ -316,24 +284,21 @@ numeric_observations:
   values:
   - 940.0
   - 2300.0
-- &id033
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: solid stainless steel on board and 700 tons of bunkers on delivery,
     to a select HKC yard, the second
   unit: null
   values:
   - 700.0
-- &id034
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: While local steel plate prices have managed to stay steady above USD
     600/Ton (currently USD 100/
@@ -341,8 +306,7 @@ numeric_observations:
   values:
   - 600.0
   - 100.0
-- &id036
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: ton higher than Bangladesh at USD 620/Ton) for a healthy part of 2025,
     not much is there to write
@@ -350,8 +314,7 @@ numeric_observations:
   values:
   - 620.0
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: of the year as it finds itself devaluing from the highs of region PKR
     276 down to PKR 283 against
@@ -359,8 +322,7 @@ numeric_observations:
   values:
   - 276.0
   - 283.0
-- &id038
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: economic belly as it nearly doubled from 3% in August to 5.4% as September
     closed.
@@ -368,24 +330,21 @@ numeric_observations:
   values:
   - 3.0
   - 5.4
-- &id039
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: What lies ahead in October is the same as what Bangladesh will likely
     to face i.e. a tight 4 weeks,
   unit: null
   values:
   - 4.0
-- &id040
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: a mission to eventually cross the TRY 50 mark as it lost a whopping
     27 basis points against the U.S.
@@ -393,16 +352,14 @@ numeric_observations:
   values:
   - 50.0
   - 27.0
-- &id042
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Dollar this week and closed it out at TRY 41.70, but it was also domestic
     inflation that resulted in a
   unit: null
   values:
   - 41.7
-- &id043
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: meerkat moment for local recyclers as it reportedly went up from 32.95%
     to nearly 33.30%.
@@ -410,8 +367,7 @@ numeric_observations:
   values:
   - 32.95
   - 33.3
-- &id044
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: For Week 40 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -419,8 +375,7 @@ numeric_observations:
   values:
   - 40.0
   - 2025.0
-- &id045
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -429,8 +384,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id046
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -439,8 +393,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id047
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -449,8 +402,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id048
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -459,16 +411,14 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id049
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 02 - Dussehra / Gandhi Jayanthi October 05 - October 13
   unit: null
@@ -476,8 +426,7 @@ numeric_observations:
   - 2.0
   - 5.0
   - 13.0
-- &id051
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 03 - Durga Puja October 20 - October 26
   unit: null
@@ -485,15 +434,13 @@ numeric_observations:
   - 3.0
   - 20.0
   - 26.0
-- &id052
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 22 - Diwali
   unit: null
   values:
   - 22.0
-- &id053
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 01 & 02 - Durga Puja October 06 - October 09
   unit: null
@@ -502,16 +449,14 @@ numeric_observations:
   - 2.0
   - 6.0
   - 9.0
-- &id054
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 20 - October 23
   unit: null
   values:
   - 20.0
   - 23.0
-- &id055
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day October 28 & 29 - Republic Day
   unit: null
@@ -519,24 +464,21 @@ numeric_observations:
   - 24.0
   - 28.0
   - 29.0
-- &id056
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 26, 2025
   unit: null
   values:
   - 26.0
   - 2025.0
-- &id058
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 1 Ali S 4,869 Buk Carrier Arrived September 22
   unit: null
@@ -544,8 +486,7 @@ numeric_observations:
   - 1.0
   - 4869.0
   - 22.0
-- &id059
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -553,8 +494,7 @@ numeric_observations:
   - 2.0
   - 20001.0
   - 13.0
-- &id060
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 3 Lady L 5,827 Reefer Arrived September 28
   unit: null
@@ -562,8 +502,7 @@ numeric_observations:
   - 3.0
   - 5827.0
   - 28.0
-- &id061
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -571,8 +510,7 @@ numeric_observations:
   - 4.0
   - 9623.0
   - 7.0
-- &id062
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 5 Trut 2,700 General Cargo Arrived September 27
   unit: null
@@ -580,23 +518,20 @@ numeric_observations:
   - 5.0
   - 2700.0
   - 27.0
-- &id063
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 43,020
   unit: null
   values:
   - 43020.0
-- &id064
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 26, 2025
   unit: null
   values:
   - 26.0
   - 2025.0
-- &id065
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -605,16 +540,14 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id066
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 26, 2025
   unit: null
   values:
   - 26.0
   - 2025.0
-- &id067
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 1 Eena 1 1,444 General Cargo Arrived September 27
   unit: null
@@ -623,23 +556,20 @@ numeric_observations:
   - 1.0
   - 1444.0
   - 27.0
-- &id068
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 1,444
   unit: null
   values:
   - 1444.0
-- &id069
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 9/27/2025 408.07 36,200.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -654,8 +584,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id071
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 9/28/2025 408.07 36,200.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -670,8 +599,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id072
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 9/29/2025 406.71 36,100.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -686,8 +614,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id073
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 9/30/2025 405.50 36,000.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -702,8 +629,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id074
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 10/1/2025 403.65 35,800.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -718,8 +644,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id075
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 10/2/2025 403.65 35,800.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -734,8 +659,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id076
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 10/3/2025 402.12 35,700.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -750,8 +674,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id077
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -760,8 +683,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -770,8 +692,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -780,8 +701,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+- section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -848,86 +768,686 @@ section_count: 3
 signals:
   numeric_observation_count: 85
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we enter October, global markets are ready registering spooks
+      across the board, marking a drastic debut into Week 41. While inflationary numbersfrom
+      the various locations pertinent to this Newsletter are still incoming, reports
+      from both Turkey and Pakistan
+    unit: worldscale_pct
+    values:
+    - 41.0
+    - 2025.0
+    - 16.0
+    - 60.0
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Decidedly slipping into the micro, Indian sub-continent ship recycling
+      destinations did not escape the incoming dark of the month as nearly all markets
+      reported dithering numbers of arrivals at respective anchorages while recyclers
+      continue to look for a "lift
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: Markets have resumed a tonnage scarcity that that is struggling to
+      keep ailing yards active, which themselves remain burdened by HKC requirements,
+      delays, and regulatory changes. Ship recyclers must truly wonder whether all
+      of the HKC upgrades and requirements
+    unit: null
+    values:
+    - 2022.0
+    - 2027.0
+  - section: Main
+    section_type: null
+    source_line: With 18 HKC approved yards in Bangladesh and another 3 set to follow
+      this month, Pakistan remains absent on its HKC scoreboard as the Gadani Gang
+      continues to work hard upgrading their facilities after a slow pre-HKC start,
+      all while Alang yards are all dresse
+    unit: null
+    values:
+    - 18.0
+    - 3.0
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: For Week 40 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 40.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-10-06_gms-week-40-halloween-already_img1_06102025chinese34_10e99f19d623.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -10.0
+    - -6.0
+    - 40.0
+    - 6102025.0
+    - 4.0
+    - 10.0
+    - 9.0
+    - 9.0
+    - 23.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 3rd, 2025
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Week 40
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Volume 277, Issue 1205 - Barbara Smith
+    unit: null
+    values:
+    - 277.0
+    - 1205.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: drastic debut into Week 41. While inflationary numbers from the various
+      locations pertinent to this
+    unit: null
+    values:
+    - 41.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: the worst drop since January 2025 as the entire index declined nearly
+      16% for the week. Oil, on the
+    unit: pct
+    values:
+    - 2025.0
+    - 16.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: • Still not over! other hand, tripped towards USD 60 / barrel and
+      is nearly 20% lower than the same time last year
+    unit: pct
+    values:
+    - 60.0
+    - 20.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: an unexpectedly woeful 2025 of declining fundamentals, supply, prices,
+      and sentiment. Indeed, this
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: has been a festering situation that's only been getting worse since
+      2022. So, 2027 now?
+    unit: null
+    values:
+    - 2022.0
+    - 2027.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: With 18 HKC approved yards in Bangladesh and another 3 set to follow
+      this month, Pakistan
+    unit: null
+    values:
+    - 18.0
+    - 3.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: reported possibility of over 300 containers being earmarked for a
+      ‘grey fleet' designation? Spicy!
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 40 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 40.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: scorched earth territory for Q4 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices meanwhile remain stranded at a comparatively
+      stronger USD 520/Ton,
+    unit: usd
+    values:
+    - 520.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: steel imports. The currency too continues to dance on week after
+      week as it loses another 5 basis
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: points this week and end it at BDT 121.70. The silver lining to the
+      currency woes? They've managed
+    unit: null
+    values:
+    - 121.7
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: to remain within a BDT 3 limit for the last couple of months.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: government for the next 4+ months, Bangladesh's ship recycling fraternity
+      seems as though it could
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 88s against the U.S. Dollar. In fact, even this week, The US$ gained
+      12 basis points against the Rupee,
+    unit: usd
+    values:
+    - 88.0
+    - 12.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: winding the week down at Rs. 88.74, inching back towards the increasingly
+      dreaded Rs. 89 mark.
+    unit: null
+    values:
+    - 88.74
+    - 89.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Constantly sliding steel plate prices that fell another USD 6/Ton
+      and end the week at USD 402/Ton
+    unit: usd
+    values:
+    - 6.0
+    - 402.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: chase prices down at a time Bangladesh is already a mere USD 10/Ton
+      below and Pakistani recyclers Noise to LDT ratio.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: recycling destination. Moreover, with most of the 100+ operating
+      yards in Alang already HKC
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: One sale was however recorded for the week as the BOW CEDAR (11,043
+      LDT) from Norwegian
+    unit: null
+    values:
+    - 11043.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: owners Odfjell managed to fetch a decent USD 940/LT LDT, thanks to
+      the prevalence of 2,300 tons of
+    unit: usd
+    values:
+    - 940.0
+    - 2300.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: solid stainless steel on board and 700 tons of bunkers on delivery,
+      to a select HKC yard, the second
+    unit: null
+    values:
+    - 700.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: While local steel plate prices have managed to stay steady above
+      USD 600/Ton (currently USD 100/
+    unit: usd
+    values:
+    - 600.0
+    - 100.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: ton higher than Bangladesh at USD 620/Ton) for a healthy part of
+      2025, not much is there to write
+    unit: usd
+    values:
+    - 620.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: of the year as it finds itself devaluing from the highs of region
+      PKR 276 down to PKR 283 against
+    unit: null
+    values:
+    - 276.0
+    - 283.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: economic belly as it nearly doubled from 3% in August to 5.4% as
+      September closed.
+    unit: pct
+    values:
+    - 3.0
+    - 5.4
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: What lies ahead in October is the same as what Bangladesh will likely
+      to face i.e. a tight 4 weeks,
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: a mission to eventually cross the TRY 50 mark as it lost a whopping
+      27 basis points against the U.S.
+    unit: null
+    values:
+    - 50.0
+    - 27.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Dollar this week and closed it out at TRY 41.70, but it was also
+      domestic inflation that resulted in a
+    unit: null
+    values:
+    - 41.7
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: meerkat moment for local recyclers as it reportedly went up from
+      32.95% to nearly 33.30%.
+    unit: pct
+    values:
+    - 32.95
+    - 33.3
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: For Week 40 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 40.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 02 - Dussehra / Gandhi Jayanthi October 05 - October 13
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+    - 13.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 03 - Durga Puja October 20 - October 26
+    unit: null
+    values:
+    - 3.0
+    - 20.0
+    - 26.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 22 - Diwali
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 01 & 02 - Durga Puja October 06 - October 09
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 20 - October 23
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day October 28 & 29 - Republic Day
+    unit: null
+    values:
+    - 24.0
+    - 28.0
+    - 29.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 26, 2025
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ali S 4,869 Buk Carrier Arrived September 22
+    unit: null
+    values:
+    - 1.0
+    - 4869.0
+    - 22.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 2.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lady L 5,827 Reefer Arrived September 28
+    unit: null
+    values:
+    - 3.0
+    - 5827.0
+    - 28.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 4.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 5 Trut 2,700 General Cargo Arrived September 27
+    unit: null
+    values:
+    - 5.0
+    - 2700.0
+    - 27.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 43,020
+    unit: null
+    values:
+    - 43020.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 26, 2025
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 26, 2025
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Eena 1 1,444 General Cargo Arrived September 27
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 1444.0
+    - 27.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 1,444
+    unit: null
+    values:
+    - 1444.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 9/27/2025 408.07 36,200.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 27.0
+    - 2025.0
+    - 408.07
+    - 36200.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 9/28/2025 408.07 36,200.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 28.0
+    - 2025.0
+    - 408.07
+    - 36200.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 9/29/2025 406.71 36,100.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 29.0
+    - 2025.0
+    - 406.71
+    - 36100.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 9/30/2025 405.50 36,000.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 30.0
+    - 2025.0
+    - 405.5
+    - 36000.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 10/1/2025 403.65 35,800.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 10.0
+    - 1.0
+    - 2025.0
+    - 403.65
+    - 35800.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 10/2/2025 403.65 35,800.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 10.0
+    - 2.0
+    - 2025.0
+    - 403.65
+    - 35800.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 10/3/2025 402.12 35,700.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 10.0
+    - 3.0
+    - 2025.0
+    - 402.12
+    - 35700.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-10-06_gms-week-40-halloween-already.html
 source_stem: 2025-10-06_gms-week-40-halloween-already

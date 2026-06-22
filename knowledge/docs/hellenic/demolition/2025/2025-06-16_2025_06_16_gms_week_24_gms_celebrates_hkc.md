@@ -30,8 +30,7 @@ linked_assets_skipped: 2
 market_tone: cautiously_bearish
 numeric_observation_count: 109
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In other worldwide news, the unending volatility that the world is
     barely getting used to through 2025, skyrocketed this week not only did Israel
@@ -46,8 +45,7 @@ numeric_observations:
   - 3.4
   - 4.7
   - 1.9
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The Indian sub-continent recycling markets meanwhile have been on a
     downward spiral for most of this year and this week was no different, with offers
@@ -56,8 +54,7 @@ numeric_observations:
   unit: null
   values:
   - 10.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 24 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -65,8 +62,7 @@ numeric_observations:
   values:
   - 24.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-06-16_gms-week-24-gms-celebrates-hkc_img1_896756_d1999cb47863.jpg'
   unit: null
@@ -78,39 +74,34 @@ numeric_observations:
   - 896756.0
   - 999.0
   - 7863.0
-- &id005
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: June 13th, 2025
   unit: null
   values:
   - 13.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: '"Tomorrow is the first blank page of a 365-page book. Write a good
     one."'
   unit: null
   values:
   - 365.0
-- &id007
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Week 24
   unit: null
   values:
   - 24.0
-- &id008
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Volume 273, Issue 1189 - Brad Paisley
   unit: null
   values:
   - 273.0
   - 1189.0
-- &id009
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: '• 3-part HKC GMS is pleased too uatn. nTohuenrcee''s an sop seucicahl
     tthhrieneg- paas rlti fwe eibni-nbaert wseereiens. "titled "HKC Compliance: What
@@ -118,8 +109,7 @@ numeric_observations:
   unit: null
   values:
   - 3.0
-- &id010
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Webinar. Maritime Indust-r yK Nateheyd Cso tloli nKsn ow," being hosted
     on June 25th & June 26th, 2025. This event marks
@@ -128,8 +118,7 @@ numeric_observations:
   - 25.0
   - 26.0
   - 2025.0
-- &id011
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Recycling of Ships (HKC), which officially enters into force on June
     26, 2025. Implemented by
@@ -137,127 +126,111 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id012
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: the International Maritime Organization (IMO) in 2009, the Hong Kong
     Convention (HKC)
   unit: null
   values:
   - 2009.0
-- &id013
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: C onvention enters into force after 16 years, following ratific ation
     by nations representing over 40%
   unit: pct
   values:
   - 40.0
-- &id014
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: • Shadow moves. 2025, skyrocketed this week not only did Israel strike
     Iranian nuclear sites, arms facilities, and oil
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: with a vengeance this week. To start with, as Israel struck several
     sites across Iran over 50 straight
   unit: null
   values:
   - 50.0
-- &id016
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: hours including major oil refineries, oil futures surged by over 7.2%
     in a matter of a couple of days
   unit: pct
   values:
   - 7.2
-- &id017
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: that saw oil futures settle at USD 73 / barrel, as further waves of
     attacks near the Gulf of Hormuz
   unit: usd
   values:
   - 73.0
-- &id018
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: • HKC due. spark fears of oil export disruptions. Freight rates meanwhile
     tailed along with an overall 3.4% jump
   unit: pct
   values:
   - 3.4
-- &id019
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: reported by the Baltic Exchange Dry Index, with Capes and Panamax sectors
     reporting 4.7% and
   unit: pct
   values:
   - 4.7
-- &id020
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 1.9% jumps respectively, reaching their highest levels in 2 months.
     The resulting chaos saw the U.S.
   unit: pct
   values:
   - 1.9
-- &id021
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: risk it. Meanwhile, the imminent inception of the Hong Kong Convention
     into force in the next 10
   unit: null
   values:
   - 10.0
-- &id022
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 2 w eeks away.
   unit: null
   values:
   - 2.0
-- &id024
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: HKC accreditations ahead of the official entry of the Convention into
     force in less than 2 weeks.
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: imports into the country as no fresh units have arrived Chattogram
     over the last 2 weeks and a
   unit: null
   values:
   - 2.0
-- &id026
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 5/LDT moving forward, adding further pressure on local sentiments that
     are already seeing vessel
   unit: null
   values:
   - 5.0
-- &id027
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: steel plate prices fallen by about USD 7/Ton to end the week at about
     USD 548/Ton, but the
@@ -265,8 +238,7 @@ numeric_observations:
   values:
   - 7.0
   - 548.0
-- &id028
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi Taka also fell 19 basis points to end the week at BDT 122.10
     against the U.S. Dollar,
@@ -274,15 +246,13 @@ numeric_observations:
   values:
   - 19.0
   - 122.1
-- &id029
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: while barely grazing BDT 122.95 late in the week.
   unit: null
   values:
   - 122.95
-- &id030
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Occ upied. Yet, inflation keeps falling as the domestic rate fell to
     9.05% through May, down from 9.17% in
@@ -290,56 +260,49 @@ numeric_observations:
   values:
   - 9.05
   - 9.17
-- &id031
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: abating or even stabilising as yet, with levels in the low USD 400s/LDT
     for bulkers (some reportedly Not stabilising.
   unit: usd
   values:
   - 400.0
-- &id033
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: even seeing indications in the high USD 390s/LDT) that has now placed
     India as the lowest of all sub-
   unit: usd
   values:
   - 390.0
-- &id034
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: the U.S. and the recent 50% tariffs on steel exports from various countries
     (including China) has
   unit: pct
   values:
   - 50.0
-- &id035
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: And while local steel plate prices fell about USD 5/Ton across the
     week, the overall decline has been
   unit: usd
   values:
   - 5.0
-- &id036
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: about USD 30/Ton over the last months or so. The Indian Rupee too has
     been taking a beating once Cheap steel repeat?
   unit: usd
   values:
   - 30.0
-- &id037
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: again as it declined 42 basis points against the U.S. Dollar and closed
     the week out at levels Rs. 86.14.
@@ -347,47 +310,41 @@ numeric_observations:
   values:
   - 42.0
   - 86.14
-- &id038
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: causing inflation to potentially rise again despite retail inflation
     hitting a 6 year low at 2.82%, as the
   unit: pct
   values:
   - 2.82
-- &id039
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: post June 26th world.
   unit: null
   values:
   - 26.0
-- &id041
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: placed above India on the pricing chart, only one 10K LDT vessel managed
     to arrive locally while
   unit: null
   values:
   - 10.0
-- &id042
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: remained steady at an industry leading USD 616/Ton, in addition to
     the Pakistani Rupee that also
   unit: usd
   values:
   - 616.0
-- &id043
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: declined 27 basis points against the U.S. Dollar and ended the week
     at PKR 282.90, inching ever
@@ -395,15 +352,13 @@ numeric_observations:
   values:
   - 27.0
   - 282.9
-- &id044
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: closer to PKR 283.
   unit: null
   values:
   - 283.0
-- &id045
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: through the week. Pakistan's FY 2025 - 2026 too was announced this
     week with reports that a 20%
@@ -412,32 +367,28 @@ numeric_observations:
   - 2025.0
   - 2026.0
   - 20.0
-- &id046
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: potential 2% tax cut on scrap imports is being reported as further
     details are expected next week.
   unit: pct
   values:
   - 2.0
-- &id047
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Turkey returns to a silent market as no interesting reports surfaced
     from this market this week other 39.16.
   unit: null
   values:
   - 39.16
-- &id049
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: than the Lira sinking another 33 basis points and merrily on its way
     to TRY 40 against the U.S. Dollar
@@ -445,15 +396,13 @@ numeric_observations:
   values:
   - 33.0
   - 40.0
-- &id050
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: as it winds the week down at TRY 39.38.
   unit: null
   values:
   - 39.38
-- &id051
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: For Week 24 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -461,8 +410,7 @@ numeric_observations:
   values:
   - 24.0
   - 2025.0
-- &id052
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -471,8 +419,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id053
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -481,8 +428,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id054
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -491,8 +437,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id055
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -501,8 +446,7 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id056
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GGMMSS PWoeret kRleyp orts P P a a g g e e 6 7 o o f f 8 8
   unit: null
@@ -511,8 +455,7 @@ numeric_observations:
   - 7.0
   - 8.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line:  If there are 23 people in a room, the probability that two people
     have the same birthday is over 50%.
@@ -520,48 +463,42 @@ numeric_observations:
   values:
   - 23.0
   - 50.0
-- &id058
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: No more holidays till July June 09 - June 17
   unit: null
   values:
   - 9.0
   - 17.0
-- &id059
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 30
   unit: null
   values:
   - 22.0
   - 30.0
-- &id060
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: No more holidays till July June 11 - June 14
   unit: null
   values:
   - 11.0
   - 14.0
-- &id061
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: June 24 - June 27
   unit: null
   values:
   - 24.0
   - 27.0
-- &id062
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 13, 2025
   unit: null
   values:
   - 13.0
   - 2025.0
-- &id063
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 1 Asmaa 7,616 Bulk Carrier Delivered June 10
   unit: null
@@ -569,8 +506,7 @@ numeric_observations:
   - 1.0
   - 7616.0
   - 10.0
-- &id064
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 2 Bira 2,063 Container Arrived June 11
   unit: null
@@ -578,8 +514,7 @@ numeric_observations:
   - 2.0
   - 2063.0
   - 11.0
-- &id065
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -587,8 +522,7 @@ numeric_observations:
   - 3.0
   - 20001.0
   - 13.0
-- &id066
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 4 Dhezi 10,407 Oil Tanker Delivered June 12
   unit: null
@@ -596,8 +530,7 @@ numeric_observations:
   - 4.0
   - 10407.0
   - 12.0
-- &id067
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 5 Lord 17 2,583 General Cargo Arrived May 11
   unit: null
@@ -606,8 +539,7 @@ numeric_observations:
   - 17.0
   - 2583.0
   - 11.0
-- &id068
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 6 Mimi 1,227 General Cargo Delivered June 10
   unit: null
@@ -615,8 +547,7 @@ numeric_observations:
   - 6.0
   - 1227.0
   - 10.0
-- &id069
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 7 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -624,23 +555,20 @@ numeric_observations:
   - 7.0
   - 9623.0
   - 7.0
-- &id070
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 53,521
   unit: null
   values:
   - 53521.0
-- &id071
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 13, 2025
   unit: null
   values:
   - 13.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 1 Sidimi 2,985 RoRo Cargo Vessel Arrived May 16
   unit: null
@@ -648,16 +576,14 @@ numeric_observations:
   - 1.0
   - 2985.0
   - 16.0
-- &id073
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 13, 2025
   unit: null
   values:
   - 13.0
   - 2025.0
-- &id074
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 1 Pacific K 10,386 Bulk Carrier Arrived June 10
   unit: null
@@ -665,8 +591,7 @@ numeric_observations:
   - 1.0
   - 10386.0
   - 10.0
-- &id075
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 2 Pete 10,176 Bulk Carrier Delivered June 05
   unit: null
@@ -674,15 +599,13 @@ numeric_observations:
   - 2.0
   - 10176.0
   - 5.0
-- &id076
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 20,562
   unit: null
   values:
   - 20562.0
-- &id077
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -691,8 +614,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -701,8 +623,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -711,8 +632,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+- section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -991,86 +911,617 @@ section_count: 3
 signals:
   numeric_observation_count: 109
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: In other worldwide news, the unending volatility that the world is
+      barely getting used to through 2025, skyrocketed this week not only did Israel
+      strike Iranian nuclear sites, arms facilities, and oil depots across the country,
+      but Trump also revived the tarif
+    unit: worldscale_pct
+    values:
+    - 2025.0
+    - 50.0
+    - 7.2
+    - 73.0
+    - 3.4
+    - 4.7
+    - 1.9
+  - section: Main
+    section_type: null
+    source_line: The Indian sub-continent recycling markets meanwhile have been on
+      a downward spiral for most of this year and this week was no different, with
+      offers retreating across the market rankings and owners firmly in the area of
+      chasing market levels amidst an economi
+    unit: null
+    values:
+    - 10.0
+  - section: Main
+    section_type: null
+    source_line: For Week 24 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-06-16_gms-week-24-gms-celebrates-hkc_img1_896756_d1999cb47863.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -6.0
+    - -16.0
+    - 24.0
+    - 896756.0
+    - 999.0
+    - 7863.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: June 13th, 2025
+    unit: null
+    values:
+    - 13.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: '"Tomorrow is the first blank page of a 365-page book. Write a good
+      one."'
+    unit: null
+    values:
+    - 365.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Week 24
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Volume 273, Issue 1189 - Brad Paisley
+    unit: null
+    values:
+    - 273.0
+    - 1189.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: '• 3-part HKC GMS is pleased too uatn. nTohuenrcee''s an sop seucicahl
+      tthhrieneg- paas rlti fwe eibni-nbaert wseereiens. "titled "HKC Compliance:
+      What the'
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Webinar. Maritime Indust-r yK Nateheyd Cso tloli nKsn ow," being
+      hosted on June 25th & June 26th, 2025. This event marks
+    unit: null
+    values:
+    - 25.0
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Recycling of Ships (HKC), which officially enters into force on June
+      26, 2025. Implemented by
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: the International Maritime Organization (IMO) in 2009, the Hong Kong
+      Convention (HKC)
+    unit: null
+    values:
+    - 2009.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: C onvention enters into force after 16 years, following ratific ation
+      by nations representing over 40%
+    unit: pct
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: • Shadow moves. 2025, skyrocketed this week not only did Israel strike
+      Iranian nuclear sites, arms facilities, and oil
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: with a vengeance this week. To start with, as Israel struck several
+      sites across Iran over 50 straight
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: hours including major oil refineries, oil futures surged by over
+      7.2% in a matter of a couple of days
+    unit: pct
+    values:
+    - 7.2
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: that saw oil futures settle at USD 73 / barrel, as further waves
+      of attacks near the Gulf of Hormuz
+    unit: usd
+    values:
+    - 73.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: • HKC due. spark fears of oil export disruptions. Freight rates meanwhile
+      tailed along with an overall 3.4% jump
+    unit: pct
+    values:
+    - 3.4
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: reported by the Baltic Exchange Dry Index, with Capes and Panamax
+      sectors reporting 4.7% and
+    unit: pct
+    values:
+    - 4.7
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 1.9% jumps respectively, reaching their highest levels in 2 months.
+      The resulting chaos saw the U.S.
+    unit: pct
+    values:
+    - 1.9
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: risk it. Meanwhile, the imminent inception of the Hong Kong Convention
+      into force in the next 10
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 2 w eeks away.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: HKC accreditations ahead of the official entry of the Convention
+      into force in less than 2 weeks.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: imports into the country as no fresh units have arrived Chattogram
+      over the last 2 weeks and a
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 5/LDT moving forward, adding further pressure on local sentiments
+      that are already seeing vessel
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices fallen by about USD 7/Ton to end the week at about
+      USD 548/Ton, but the
+    unit: usd
+    values:
+    - 7.0
+    - 548.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi Taka also fell 19 basis points to end the week at BDT
+      122.10 against the U.S. Dollar,
+    unit: null
+    values:
+    - 19.0
+    - 122.1
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: while barely grazing BDT 122.95 late in the week.
+    unit: null
+    values:
+    - 122.95
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Occ upied. Yet, inflation keeps falling as the domestic rate fell
+      to 9.05% through May, down from 9.17% in
+    unit: pct
+    values:
+    - 9.05
+    - 9.17
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: abating or even stabilising as yet, with levels in the low USD 400s/LDT
+      for bulkers (some reportedly Not stabilising.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: even seeing indications in the high USD 390s/LDT) that has now placed
+      India as the lowest of all sub-
+    unit: usd
+    values:
+    - 390.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. and the recent 50% tariffs on steel exports from various
+      countries (including China) has
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: And while local steel plate prices fell about USD 5/Ton across the
+      week, the overall decline has been
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: about USD 30/Ton over the last months or so. The Indian Rupee too
+      has been taking a beating once Cheap steel repeat?
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: again as it declined 42 basis points against the U.S. Dollar and
+      closed the week out at levels Rs. 86.14.
+    unit: null
+    values:
+    - 42.0
+    - 86.14
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: causing inflation to potentially rise again despite retail inflation
+      hitting a 6 year low at 2.82%, as the
+    unit: pct
+    values:
+    - 2.82
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: post June 26th world.
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: placed above India on the pricing chart, only one 10K LDT vessel
+      managed to arrive locally while
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: remained steady at an industry leading USD 616/Ton, in addition to
+      the Pakistani Rupee that also
+    unit: usd
+    values:
+    - 616.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: declined 27 basis points against the U.S. Dollar and ended the week
+      at PKR 282.90, inching ever
+    unit: null
+    values:
+    - 27.0
+    - 282.9
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: closer to PKR 283.
+    unit: null
+    values:
+    - 283.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: through the week. Pakistan's FY 2025 - 2026 too was announced this
+      week with reports that a 20%
+    unit: pct
+    values:
+    - 2025.0
+    - 2026.0
+    - 20.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: potential 2% tax cut on scrap imports is being reported as further
+      details are expected next week.
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Turkey returns to a silent market as no interesting reports surfaced
+      from this market this week other 39.16.
+    unit: null
+    values:
+    - 39.16
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: than the Lira sinking another 33 basis points and merrily on its
+      way to TRY 40 against the U.S. Dollar
+    unit: null
+    values:
+    - 33.0
+    - 40.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: as it winds the week down at TRY 39.38.
+    unit: null
+    values:
+    - 39.38
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: For Week 24 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GGMMSS PWoeret kRleyp orts P P a a g g e e 6 7 o o f f 8 8
+    unit: null
+    values:
+    - 6.0
+    - 7.0
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line:  If there are 23 people in a room, the probability that two people
+      have the same birthday is over 50%.
+    unit: pct
+    values:
+    - 23.0
+    - 50.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: No more holidays till July June 09 - June 17
+    unit: null
+    values:
+    - 9.0
+    - 17.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 30
+    unit: null
+    values:
+    - 22.0
+    - 30.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: No more holidays till July June 11 - June 14
+    unit: null
+    values:
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: June 24 - June 27
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 13, 2025
+    unit: null
+    values:
+    - 13.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 1 Asmaa 7,616 Bulk Carrier Delivered June 10
+    unit: null
+    values:
+    - 1.0
+    - 7616.0
+    - 10.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bira 2,063 Container Arrived June 11
+    unit: null
+    values:
+    - 2.0
+    - 2063.0
+    - 11.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 3.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 4 Dhezi 10,407 Oil Tanker Delivered June 12
+    unit: null
+    values:
+    - 4.0
+    - 10407.0
+    - 12.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 5 Lord 17 2,583 General Cargo Arrived May 11
+    unit: null
+    values:
+    - 5.0
+    - 17.0
+    - 2583.0
+    - 11.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 6 Mimi 1,227 General Cargo Delivered June 10
+    unit: null
+    values:
+    - 6.0
+    - 1227.0
+    - 10.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 7 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 7.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 53,521
+    unit: null
+    values:
+    - 53521.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 13, 2025
+    unit: null
+    values:
+    - 13.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sidimi 2,985 RoRo Cargo Vessel Arrived May 16
+    unit: null
+    values:
+    - 1.0
+    - 2985.0
+    - 16.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 13, 2025
+    unit: null
+    values:
+    - 13.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pacific K 10,386 Bulk Carrier Arrived June 10
+    unit: null
+    values:
+    - 1.0
+    - 10386.0
+    - 10.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pete 10,176 Bulk Carrier Delivered June 05
+    unit: null
+    values:
+    - 2.0
+    - 10176.0
+    - 5.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 20,562
+    unit: null
+    values:
+    - 20562.0
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-06-16_gms-week-24-gms-celebrates-hkc_ship-recycling-market-insight-week-2_54e6758a5862.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-06-16_gms-week-24-gms-celebrates-hkc.html
 source_stem: 2025-06-16_gms-week-24-gms-celebrates-hkc

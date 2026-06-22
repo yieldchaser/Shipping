@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 90
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we head into the traditionally quieter festive / Christmas season,
     ship recycling markets appear to be hamstrungon the back of a stubborn and persistent
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'To start, the onset of December brought with it a declining Baltic
     Exchange that saw the Dry Index fall by about 3%, this week, dragged down by mounting
@@ -55,8 +53,7 @@ numeric_observations:
   - 5.0
   - 59.7
   - 60.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: But it were financial currencies that really battered both India and
     Bangladesh, all while Turkey perennially decorated the top three of the declining
@@ -65,8 +62,7 @@ numeric_observations:
   unit: usd
   values:
   - 5.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: As such, the lack of tonnage has delivered yet another characteristically
     low supply of vessels for a few weeks now, especially considering the lack of
@@ -75,8 +71,7 @@ numeric_observations:
   unit: null
   values:
   - 15.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Thankfully, compulsion has successfully driven remarkable developments
     across the Indian sub-continent ship recycling sector, with HKC infrastructure
@@ -86,8 +81,7 @@ numeric_observations:
   values:
   - 23.0
   - 26.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, 2025 will probably be the cherry-year of the last four and
     2026 hopefully brings more tonnage and stability across the globe.
@@ -95,8 +89,7 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 49 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -104,8 +97,7 @@ numeric_observations:
   values:
   - 49.0
   - 2025.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-12-08_gms-week-49-turkey-and-hamstrung_img1_81220253_c1e5de84a0e4.jpg'
   unit: null
@@ -116,23 +108,20 @@ numeric_observations:
   - 49.0
   - 81220253.0
   - 4.0
-- &id009
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Decembe r 5th, 2025
   unit: null
   values:
   - 5.0
   - 2025.0
-- &id010
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Week 49
   unit: null
   values:
   - 49.0
-- &id011
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Volume 2 79, Issue 1214 - Erica Jong
   unit: null
@@ -140,24 +129,21 @@ numeric_observations:
   - 2.0
   - 79.0
   - 1214.0
-- &id012
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: non-stop for near ly all of 2025 that has seen purchasing sentiment
     in a post-HKC world get crushed
   unit: null
   values:
   - 2025.0
-- &id013
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: fall by about 3%, this week, dragged down by mounting pressure across
     all segments that saw capes
   unit: pct
   values:
   - 3.0
-- &id014
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: slipping 4.4%, panamax dropping 1.4%, and the smaller segments shedding
     5 basis points, all while
@@ -166,56 +152,49 @@ numeric_observations:
   - 4.4
   - 1.4
   - 5.0
-- &id015
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: oil barely moved the needle as it closed another week at region USD
     59.70/barrel (expected to breach
   unit: usd
   values:
   - 59.7
-- &id016
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: U SD 60/barrel in the coming week) and inflation reported m inor improvements
     at a couple of key
   unit: null
   values:
   - 60.0
-- &id017
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Not wanting to be left behind, local steel plate prices also fell by
     just under USD 5/ton across all sub-
   unit: usd
   values:
   - 5.0
-- &id018
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Da round 15 sold so far this year) drying up as freight rates continue
     to remain at elevated overall
   unit: null
   values:
   - 15.0
-- &id019
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: continent ship recycling sector, with HKC infrastructure upgrades still
     ongoing and a confirmed 23
   unit: null
   values:
   - 23.0
-- &id020
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: • Scan to download Hong Kong Convention came into force on June 26th
     earlier in the year, it has been encouraging to
   unit: null
   values:
   - 26.0
-- &id021
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Overall, 2025 will probably be the cherry-year of the last four and
     2026 hopefully brings more
@@ -223,8 +202,7 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id022
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 49 of 2025 are on Page 6.
   unit: null
@@ -232,24 +210,21 @@ numeric_observations:
   - 49.0
   - 2025.0
   - 6.0
-- &id023
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: completed as not only did the BDT lose 35 basis points against the
     U.S. Dollar ending the week at
   unit: null
   values:
   - 35.0
-- &id025
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: BDT 122.35, b ut loc al steel plate prices also fell by about USD 5/Ton
     to end the week at USD
@@ -257,64 +232,56 @@ numeric_observations:
   values:
   - 122.35
   - 5.0
-- &id026
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 502/Ton. Clearly afflicted by the recent performance of fundamentals
     and other than a sea of
   unit: null
   values:
   - 502.0
-- &id027
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: locally as 22 ship recycling yards have now received their HKC accreditations
     since March this year
   unit: null
   values:
   - 22.0
-- &id028
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Economically overall, inflation is expected to continue lingering around
     the high 8.x% range as an
   unit: pct
   values:
   - 8.0
-- &id029
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: itself is aware of its impending dissolution come February 2026 on
     the back of the upcoming
   unit: null
   values:
   - 2026.0
-- &id030
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Fundamentals have also been dragging the sentiment canoe down level
     1 rapids as not only has the Poleaxed.
   unit: null
   values:
   - 1.0
-- &id032
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Indian Rupee depreciated against the U.S. Dollar once again by a massive
     70 basis points and clock the
   unit: null
   values:
   - 70.0
-- &id033
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: week out at a deathly Rs. 89.96, but local steel plate prices also
     retreated a milder USD 4/Ton and end
@@ -322,32 +289,28 @@ numeric_observations:
   values:
   - 89.96
   - 4.0
-- &id034
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: the week at nearly USD 387/Ton - clearly highlighting the upcoming
     levels of local offerings in the
   unit: usd
   values:
   - 387.0
-- &id035
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Primetime! Gadani, but also the first facility to bring Pakistan into
     the international playground within 2025.
   unit: null
   values:
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: USD 5/Ton again and drifted further down to USD 575/Ton (from the highs
     of USD 650/Ton), as
@@ -356,8 +319,7 @@ numeric_observations:
   - 5.0
   - 575.0
   - 650.0
-- &id038
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: impressive 45 basis points against the U.S. Dollar and end the week
     at PKR 280.42.
@@ -365,39 +327,34 @@ numeric_observations:
   values:
   - 45.0
   - 280.42
-- &id039
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Ta king stock. to achieve HKC approvals will probably be in Q1 2026,
     whilst several more yards in Bangladesh
   unit: null
   values:
   - 2026.0
-- &id040
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: by about USD 10/Ton, which in turn promptly transitioned to firmer
     levels from Aliaga recyclers that
   unit: usd
   values:
   - 10.0
-- &id042
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: jumped by about USD 10/Ton as well.
   unit: usd
   values:
   - 10.0
-- &id043
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 20 basis points and end the week at a disastrous TRY 42.55. Just how
     soon and effective will the
@@ -405,8 +362,7 @@ numeric_observations:
   values:
   - 20.0
   - 42.55
-- &id044
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: For Week 49 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -414,8 +370,7 @@ numeric_observations:
   values:
   - 49.0
   - 2025.0
-- &id045
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -424,8 +379,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id046
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -434,8 +388,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id047
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -444,8 +397,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id048
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -454,24 +406,21 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id049
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line:  Gamma-ray bursts release more energy in 10 seconds tha n our Sun
     in its entire life. Nothing in the Universe rivals the
   unit: null
   values:
   - 10.0
-- &id051
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 24 - Christmas Eve December 02 - December 10
   unit: null
@@ -479,8 +428,7 @@ numeric_observations:
   - 24.0
   - 2.0
   - 10.0
-- &id052
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 18 - December 25
   unit: null
@@ -488,15 +436,13 @@ numeric_observations:
   - 25.0
   - 18.0
   - 25.0
-- &id053
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve
   unit: null
   values:
   - 31.0
-- &id054
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 01 - 02 - Durga Puja December 03 - December 06
   unit: null
@@ -505,8 +451,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 6.0
-- &id055
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day December 21 - December 24
   unit: null
@@ -514,45 +459,39 @@ numeric_observations:
   - 16.0
   - 21.0
   - 24.0
-- &id056
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day
   unit: null
   values:
   - 25.0
-- &id057
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday
   unit: null
   values:
   - 31.0
-- &id058
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: December 25 - Quaid-e-Azam No holidays in December
   unit: null
   values:
   - 25.0
-- &id059
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 05, 2025
   unit: null
   values:
   - 5.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -560,23 +499,20 @@ numeric_observations:
   - 1.0
   - 20001.0
   - 13.0
-- &id062
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 20,001
   unit: null
   values:
   - 20001.0
-- &id063
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 05, 2025
   unit: null
   values:
   - 5.0
   - 2025.0
-- &id064
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 1 Nica 7,779 Bulk Carrier Delivered December 03
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 1.0
   - 7779.0
   - 3.0
-- &id065
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 2 Patcharawadee 10 1,295 LPG Delivered November 29
   unit: null
@@ -594,8 +529,7 @@ numeric_observations:
   - 10.0
   - 1295.0
   - 29.0
-- &id066
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 3 Patcharawadee 12 1,244 LPG Delivered November 29
   unit: null
@@ -604,8 +538,7 @@ numeric_observations:
   - 12.0
   - 1244.0
   - 29.0
-- &id067
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 4 Patcharawadee 14 2,450 LPG Delivered November 30
   unit: null
@@ -614,8 +547,7 @@ numeric_observations:
   - 14.0
   - 2450.0
   - 30.0
-- &id068
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 5 Star Advance 9,691 Chemical Tanker Delivered December 04
   unit: null
@@ -623,31 +555,27 @@ numeric_observations:
   - 5.0
   - 9691.0
   - 4.0
-- &id069
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 22,459
   unit: null
   values:
   - 22459.0
-- &id070
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 05, 2025
   unit: null
   values:
   - 5.0
   - 2025.0
-- &id071
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 11/29/2025 390.16 34,900.00 579.25 163,000.00 506.17 61,500.00 301.35
   unit: null
@@ -662,8 +590,7 @@ numeric_observations:
   - 506.17
   - 61500.0
   - 301.35
-- &id073
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 11/30/2025 390.16 34,900.00 579.25 163,000.00 506.17 61,500.00 301.35
   unit: null
@@ -678,8 +605,7 @@ numeric_observations:
   - 506.17
   - 61500.0
   - 301.35
-- &id074
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 12/1/2025 387.10 34,800.00 579.25 163,000.00 506.17 61,500.00 301.35
   unit: null
@@ -694,8 +620,7 @@ numeric_observations:
   - 506.17
   - 61500.0
   - 301.35
-- &id075
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 12/2/2025 389.45 35,000.00 579.25 163,000.00 506.17 61,500.00 301.35
   unit: null
@@ -710,8 +635,7 @@ numeric_observations:
   - 506.17
   - 61500.0
   - 301.35
-- &id076
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 12/3/2025 385.85 34,800.00 575.69 162,000.00 506.17 61,500.00 303.16
   unit: null
@@ -726,8 +650,7 @@ numeric_observations:
   - 506.17
   - 61500.0
   - 303.16
-- &id077
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 12/4/2025 386.80 34,800.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -742,8 +665,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id078
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 12/5/2025 387.86 34,900.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -758,8 +680,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id079
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -768,8 +689,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id080
-  section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+- section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -876,86 +796,674 @@ section_count: 3
 signals:
   numeric_observation_count: 90
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we head into the traditionally quieter festive / Christmas season,
+      ship recycling markets appear to be hamstrungon the back of a stubborn and persistent
+      lack of meaningful tonnage, violently collapsing fundamentals that were promptly
+      followed by declining o
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'To start, the onset of December brought with it a declining Baltic
+      Exchange that saw the Dry Index fall by about 3%, this week, dragged down by
+      mounting pressure across all segments that saw capes slipping 4.4%, panamax
+      dropping 1.4%, and the smaller segments '
+    unit: pct
+    values:
+    - 3.0
+    - 4.4
+    - 1.4
+    - 5.0
+    - 59.7
+    - 60.0
+  - section: Main
+    section_type: null
+    source_line: But it were financial currencies that really battered both India
+      and Bangladesh, all while Turkey perennially decorated the top three of the
+      declining currency marathon that it alone has been on. Not wanting to be left
+      behind, local steel plate prices also fel
+    unit: usd
+    values:
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: As such, the lack of tonnage has delivered yet another characteristically
+      low supply of vessels for a few weeks now, especially considering the lack of
+      the occasional large LDT LNG vessels (with around 15 sold so far this year)
+      drying up as freight rates conti
+    unit: null
+    values:
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: Thankfully, compulsion has successfully driven remarkable developments
+      across the Indian sub-continent ship recycling sector, with HKC infrastructure
+      upgrades still ongoing and a confirmed 23 HKC-certified ship recycling yards
+      now added to the existing sub-con
+    unit: null
+    values:
+    - 23.0
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: Overall, 2025 will probably be the cherry-year of the last four and
+      2026 hopefully brings more tonnage and stability across the globe.
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: For Week 49 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 49.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-12-08_gms-week-49-turkey-and-hamstrung_img1_81220253_c1e5de84a0e4.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -12.0
+    - -8.0
+    - 49.0
+    - 81220253.0
+    - 4.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 5th, 2025
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Week 49
+    unit: null
+    values:
+    - 49.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 79, Issue 1214 - Erica Jong
+    unit: null
+    values:
+    - 2.0
+    - 79.0
+    - 1214.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: non-stop for near ly all of 2025 that has seen purchasing sentiment
+      in a post-HKC world get crushed
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: fall by about 3%, this week, dragged down by mounting pressure across
+      all segments that saw capes
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: slipping 4.4%, panamax dropping 1.4%, and the smaller segments shedding
+      5 basis points, all while
+    unit: pct
+    values:
+    - 4.4
+    - 1.4
+    - 5.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: oil barely moved the needle as it closed another week at region USD
+      59.70/barrel (expected to breach
+    unit: usd
+    values:
+    - 59.7
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: U SD 60/barrel in the coming week) and inflation reported m inor
+      improvements at a couple of key
+    unit: null
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Not wanting to be left behind, local steel plate prices also fell
+      by just under USD 5/ton across all sub-
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Da round 15 sold so far this year) drying up as freight rates continue
+      to remain at elevated overall
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: continent ship recycling sector, with HKC infrastructure upgrades
+      still ongoing and a confirmed 23
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download Hong Kong Convention came into force on June 26th
+      earlier in the year, it has been encouraging to
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Overall, 2025 will probably be the cherry-year of the last four and
+      2026 hopefully brings more
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 49 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 49.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: completed as not only did the BDT lose 35 basis points against the
+      U.S. Dollar ending the week at
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: BDT 122.35, b ut loc al steel plate prices also fell by about USD
+      5/Ton to end the week at USD
+    unit: usd
+    values:
+    - 122.35
+    - 5.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 502/Ton. Clearly afflicted by the recent performance of fundamentals
+      and other than a sea of
+    unit: null
+    values:
+    - 502.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: locally as 22 ship recycling yards have now received their HKC accreditations
+      since March this year
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Economically overall, inflation is expected to continue lingering
+      around the high 8.x% range as an
+    unit: pct
+    values:
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: itself is aware of its impending dissolution come February 2026 on
+      the back of the upcoming
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Fundamentals have also been dragging the sentiment canoe down level
+      1 rapids as not only has the Poleaxed.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Indian Rupee depreciated against the U.S. Dollar once again by a
+      massive 70 basis points and clock the
+    unit: null
+    values:
+    - 70.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: week out at a deathly Rs. 89.96, but local steel plate prices also
+      retreated a milder USD 4/Ton and end
+    unit: usd
+    values:
+    - 89.96
+    - 4.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: the week at nearly USD 387/Ton - clearly highlighting the upcoming
+      levels of local offerings in the
+    unit: usd
+    values:
+    - 387.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Primetime! Gadani, but also the first facility to bring Pakistan
+      into the international playground within 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: USD 5/Ton again and drifted further down to USD 575/Ton (from the
+      highs of USD 650/Ton), as
+    unit: usd
+    values:
+    - 5.0
+    - 575.0
+    - 650.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: impressive 45 basis points against the U.S. Dollar and end the week
+      at PKR 280.42.
+    unit: null
+    values:
+    - 45.0
+    - 280.42
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Ta king stock. to achieve HKC approvals will probably be in Q1 2026,
+      whilst several more yards in Bangladesh
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: by about USD 10/Ton, which in turn promptly transitioned to firmer
+      levels from Aliaga recyclers that
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: jumped by about USD 10/Ton as well.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 20 basis points and end the week at a disastrous TRY 42.55. Just
+      how soon and effective will the
+    unit: null
+    values:
+    - 20.0
+    - 42.55
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: For Week 49 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 49.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line:  Gamma-ray bursts release more energy in 10 seconds tha n our Sun
+      in its entire life. Nothing in the Universe rivals the
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - Christmas Eve December 02 - December 10
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 18 - December 25
+    unit: null
+    values:
+    - 25.0
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 01 - 02 - Durga Puja December 03 - December 06
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day December 21 - December 24
+    unit: null
+    values:
+    - 16.0
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Quaid-e-Azam No holidays in December
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 05, 2025
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 1.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 20,001
+    unit: null
+    values:
+    - 20001.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 05, 2025
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 1 Nica 7,779 Bulk Carrier Delivered December 03
+    unit: null
+    values:
+    - 1.0
+    - 7779.0
+    - 3.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 2 Patcharawadee 10 1,295 LPG Delivered November 29
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+    - 1295.0
+    - 29.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 3 Patcharawadee 12 1,244 LPG Delivered November 29
+    unit: null
+    values:
+    - 3.0
+    - 12.0
+    - 1244.0
+    - 29.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 4 Patcharawadee 14 2,450 LPG Delivered November 30
+    unit: null
+    values:
+    - 4.0
+    - 14.0
+    - 2450.0
+    - 30.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 5 Star Advance 9,691 Chemical Tanker Delivered December 04
+    unit: null
+    values:
+    - 5.0
+    - 9691.0
+    - 4.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 22,459
+    unit: null
+    values:
+    - 22459.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 05, 2025
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 11/29/2025 390.16 34,900.00 579.25 163,000.00 506.17 61,500.00 301.35
+    unit: null
+    values:
+    - 11.0
+    - 29.0
+    - 2025.0
+    - 390.16
+    - 34900.0
+    - 579.25
+    - 163000.0
+    - 506.17
+    - 61500.0
+    - 301.35
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 11/30/2025 390.16 34,900.00 579.25 163,000.00 506.17 61,500.00 301.35
+    unit: null
+    values:
+    - 11.0
+    - 30.0
+    - 2025.0
+    - 390.16
+    - 34900.0
+    - 579.25
+    - 163000.0
+    - 506.17
+    - 61500.0
+    - 301.35
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 12/1/2025 387.10 34,800.00 579.25 163,000.00 506.17 61,500.00 301.35
+    unit: null
+    values:
+    - 12.0
+    - 1.0
+    - 2025.0
+    - 387.1
+    - 34800.0
+    - 579.25
+    - 163000.0
+    - 506.17
+    - 61500.0
+    - 301.35
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 12/2/2025 389.45 35,000.00 579.25 163,000.00 506.17 61,500.00 301.35
+    unit: null
+    values:
+    - 12.0
+    - 2.0
+    - 2025.0
+    - 389.45
+    - 35000.0
+    - 579.25
+    - 163000.0
+    - 506.17
+    - 61500.0
+    - 301.35
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 12/3/2025 385.85 34,800.00 575.69 162,000.00 506.17 61,500.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 3.0
+    - 2025.0
+    - 385.85
+    - 34800.0
+    - 575.69
+    - 162000.0
+    - 506.17
+    - 61500.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 12/4/2025 386.80 34,800.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 4.0
+    - 2025.0
+    - 386.8
+    - 34800.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 12/5/2025 387.86 34,900.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 5.0
+    - 2025.0
+    - 387.86
+    - 34900.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-12-08_gms-week-49-turkey-and-hamstrung.html
 source_stem: 2025-12-08_gms-week-49-turkey-and-hamstrung

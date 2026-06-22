@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 107
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Global markets continue struggling, having to constantly re-adjust
     to the weekly jitters from the White House on the back of proclaimedtariffs that
@@ -44,8 +43,7 @@ numeric_observations:
   - 6.5
   - 3.0
   - 64.6
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: And with the aforementioned tariffs on steel imports still looming
     large, the ship recycling industry can almost certainly expect a knock-on effect
@@ -54,8 +52,7 @@ numeric_observations:
   unit: worldscale_pct
   values:
   - 5.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Pakistan meanwhile has been tragically lagging behind on their HKC
     schedule, which also saw a healthy collection of confused local recyclers hesitant
@@ -64,8 +61,7 @@ numeric_observations:
   unit: null
   values:
   - 26.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 23 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -73,8 +69,7 @@ numeric_observations:
   values:
   - 23.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-06-09_gms-week-23-demand-gets-rained_img1_09062025chinese355_a609f03ab3bb.jpg'
   unit: null
@@ -87,31 +82,27 @@ numeric_observations:
   - 55.0
   - 9.0
   - 3.0
-- &id006
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 6th, 2025
   unit: null
   values:
   - 6.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Week 23
   unit: null
   values:
   - 23.0
-- &id008
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Volume 273, Issue 1188 - C.S. Lewis
   unit: null
   values:
   - 273.0
   - 1188.0
-- &id009
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: markets surge again with both Panamax and Cape sectors jumping 2% and
     1% respectively, hitting
@@ -119,16 +110,14 @@ numeric_observations:
   values:
   - 2.0
   - 1.0
-- &id010
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: the highest levels recorded since March. Oil futures too followed suit
     marking an over 6.5% increase
   unit: pct
   values:
   - 6.5
-- &id011
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: over the last 3 weeks, closing the week out at USD 64.60 / barrel on
     the back of ostensibly optimistic
@@ -136,24 +125,21 @@ numeric_observations:
   values:
   - 3.0
   - 64.6
-- &id012
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: of offerings from Alang recyclers, which have fallen about 5% over
     the last month or so, as local
   unit: pct
   values:
   - 5.0
-- &id013
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: the imminent enforcement date of the HKC on June 26th draws ever closer.
     Of note, local authorities
   unit: null
   values:
   - 26.0
-- &id014
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 23 of 2025 are on Page 5.
   unit: null
@@ -161,40 +147,35 @@ numeric_observations:
   - 23.0
   - 2025.0
   - 5.0
-- &id015
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id016
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Chattogram this week. The number of open yards that are also HKC approved
     remains at 9, with
   unit: null
   values:
   - 9.0
-- &id017
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: no fresh approvals being reported this week. In essence, the local
     market has gone from about 35
   unit: null
   values:
   - 35.0
-- &id018
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: domestic ship recycling yards down to only 9 HKC approved facilities
     and even those have been
   unit: null
   values:
   - 9.0
-- &id019
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: that of the Berge Bulk controlled VLOC BERGE FUJI (37,379 LDT) receiving
     USD 440/LT LDT, in
@@ -202,16 +183,14 @@ numeric_observations:
   values:
   - 37379.0
   - 440.0
-- &id020
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: the largest dry bulk recycling sale to have taken place in 2025 thus
     far. As evident from this fixture,
   unit: null
   values:
   - 2025.0
-- &id021
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: week, which also saw local steel plate prices fall another USD 7/Ton
     down to about USD 548/Ton,
@@ -219,32 +198,28 @@ numeric_observations:
   values:
   - 7.0
   - 548.0
-- &id022
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: a drop totaling nearly USD 30/Ton over the last month or so. Yet, any
     transaction concluded in line
   unit: usd
   values:
   - 30.0
-- &id023
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: state of the Bangladeshi Taka also saw some reprieve this week as it
     registered a minor 26 basis
   unit: null
   values:
   - 26.0
-- &id024
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: VLO C sold. point improvement against the U.S. Dollar, still ending
     the week at a disastrous BDT 122.57.
   unit: null
   values:
   - 122.57
-- &id025
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, the announcement of the Bangladeshi budget for FY 2025 -
     2026 mid-week saw some
@@ -252,72 +227,63 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id026
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: of about USD 5/LDT lower moving forward, adding to the festering negativity
     surrounding pricing
   unit: usd
   values:
   - 5.0
-- &id027
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: while being si multa neously drenched in the torrential rains of 2025.
     As election fever continues,
   unit: null
   values:
   - 2025.0
-- &id028
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: expected to last for the next 10 days, will likely see ship recycling
     activities including post-recycling
   unit: null
   values:
   - 10.0
-- &id029
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: What happens with local fixtures post July 1st as more and more yards
     attain certification amidst
   unit: null
   values:
   - 1.0
-- &id030
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: the ongoing burp of tonnage availability, remains to be seen. One thing
     is certain, the next 3 weeks
   unit: null
   values:
   - 3.0
-- &id031
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: BERGE FUJI VLOC 37,379 USD 440/LT LDT
   unit: usd
   values:
   - 37379.0
   - 440.0
-- &id032
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Rupee that is running up the totem pole of depreciation as it heads
     towards Rs. 86. once again.
   unit: null
   values:
   - 86.0
-- &id034
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: week, but they also proceeded to lose another USD 2/Ton this week totalling
     a nearly USD 18/Ton
@@ -325,8 +291,7 @@ numeric_observations:
   values:
   - 2.0
   - 18.0
-- &id035
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: to weaken as it slips another 28 basis points and closes the week out
     at Rs. 85.90 against the U.S.
@@ -334,56 +299,49 @@ numeric_observations:
   values:
   - 28.0
   - 85.9
-- &id036
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: The clear and cumulative effect of the weakening state of fundamentals
     has also seen about 5% Tariff Tango
   unit: pct
   values:
   - 5.0
-- &id037
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: get stuffed post June 26th. India has therefore sunk to the bottom
     of the sub-continent pricing board
   unit: null
   values:
   - 26.0
-- &id038
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: offerings that are scheduled to arrive before the June 26th deadline,
     which could prohibit them from
   unit: null
   values:
   - 26.0
-- &id039
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: much to be desired, with the Hong Kong Convention coming into force
     on June 26th and Gadani
   unit: null
   values:
   - 26.0
-- &id041
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: as the lonely vessel still outside Gadani has been there for the last
     3 weeks and there have been no
   unit: null
   values:
   - 3.0
-- &id042
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: USD 611/Ton, but the Pakistan Rupee was the only recycling nation currency
     to register a 12-basis
@@ -391,16 +349,14 @@ numeric_observations:
   values:
   - 611.0
   - 12.0
-- &id043
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: point improvement against the U.S. Dollar and closing the week out
     at PKR 282.18. This, coupled
   unit: null
   values:
   - 282.18
-- &id044
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: provinces for the upcoming FY budget for 2025 - 2026 may have a direct
     / indirect effect on local
@@ -408,16 +364,14 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id045
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: No change from Turkey to report other than the usual i.e. Lira weakened
     marginally by just 2 basis 3%
@@ -425,16 +379,14 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id047
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: points, inflation down a whole 3% points through May, and a return
     to the visuals of an empty Aliaga
   unit: pct
   values:
   - 3.0
-- &id048
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: For Week 23 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -442,8 +394,7 @@ numeric_observations:
   values:
   - 23.0
   - 2025.0
-- &id049
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -452,8 +403,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id050
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -462,8 +412,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id051
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -472,8 +421,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id052
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -482,32 +430,28 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id053
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line:  Stay underwater up to ten minutes - If 30 seconds of holding your
     breath induces panic, you'll appreciate the powers of the
   unit: null
   values:
   - 30.0
-- &id055
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: gradually and that the brain eventually becomes attuned to a sense
     of direction in new environments. Find out more about the 9
   unit: null
   values:
   - 9.0
-- &id056
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 07 - Bakri-Eid June 09 - June 17
   unit: null
@@ -515,16 +459,14 @@ numeric_observations:
   - 7.0
   - 9.0
   - 17.0
-- &id057
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 30
   unit: null
   values:
   - 22.0
   - 30.0
-- &id058
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 07 - 12 - Eid-ul-Azha June 11 - June 14
   unit: null
@@ -533,16 +475,14 @@ numeric_observations:
   - 12.0
   - 11.0
   - 14.0
-- &id059
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 24 - June 27
   unit: null
   values:
   - 24.0
   - 27.0
-- &id060
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: May 31 - June 02 - Dragon Boat Holiday June 05 - Day or Arafah June
     05 - 09 - Kurban Bayrami
@@ -553,32 +493,28 @@ numeric_observations:
   - 5.0
   - 5.0
   - 9.0
-- &id061
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: June 06 - 09 - Eid-ul-Azha
   unit: null
   values:
   - 6.0
   - 9.0
-- &id062
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of June 06, 2025
   unit: null
   values:
   - 6.0
   - 2025.0
-- &id064
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 1 Asmaa 7,616 Bulk Carrier Arrived June 02
   unit: null
@@ -586,8 +522,7 @@ numeric_observations:
   - 1.0
   - 7616.0
   - 2.0
-- &id065
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 2 Dhezi 10,407 Oil Tanker Arrived June 04
   unit: null
@@ -595,8 +530,7 @@ numeric_observations:
   - 2.0
   - 10407.0
   - 4.0
-- &id066
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 3 Lord 17 2,583 General Cargo Arrived May 11
   unit: null
@@ -605,8 +539,7 @@ numeric_observations:
   - 17.0
   - 2583.0
   - 11.0
-- &id067
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 4 Mimi 1,227 General Cargo Arrived June 03
   unit: null
@@ -614,8 +547,7 @@ numeric_observations:
   - 4.0
   - 1227.0
   - 3.0
-- &id068
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -623,23 +555,20 @@ numeric_observations:
   - 5.0
   - 9623.0
   - 7.0
-- &id069
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 31,457
   unit: null
   values:
   - 31457.0
-- &id070
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of June 06, 2025
   unit: null
   values:
   - 6.0
   - 2025.0
-- &id071
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 1 Futong Express 8,857 Woodchip Carrier Delivered May 31
   unit: null
@@ -647,8 +576,7 @@ numeric_observations:
   - 1.0
   - 8857.0
   - 31.0
-- &id072
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 2 Sidimi 2,985 RoRo Cargo Vessel Arrived May 16
   unit: null
@@ -656,23 +584,20 @@ numeric_observations:
   - 2.0
   - 2985.0
   - 16.0
-- &id073
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 11,842
   unit: null
   values:
   - 11842.0
-- &id074
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of June 06, 2025
   unit: null
   values:
   - 6.0
   - 2025.0
-- &id075
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 1 Pete 10,176 Bulk Carrier Arrived May 27
   unit: null
@@ -680,15 +605,13 @@ numeric_observations:
   - 1.0
   - 10176.0
   - 27.0
-- &id076
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 10,176
   unit: null
   values:
   - 10176.0
-- &id077
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -697,8 +620,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -707,8 +629,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -717,8 +638,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+- section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -982,86 +902,623 @@ section_count: 3
 signals:
   numeric_observation_count: 107
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Global markets continue struggling, having to constantly re-adjust
+      to the weekly jitters from the White House on the back of proclaimedtariffs
+      that are yet to go into effect and this week saw freight markets surge again
+      with both Panamax and Cape sectors jumpi
+    unit: worldscale_pct
+    values:
+    - 2.0
+    - 1.0
+    - 6.5
+    - 3.0
+    - 64.6
+  - section: Main
+    section_type: null
+    source_line: And with the aforementioned tariffs on steel imports still looming
+      large, the ship recycling industry can almost certainly expect a knock-on effect
+      on recycling offers in the coming weeks, with India being the market to react
+      most negatively to the news and co
+    unit: worldscale_pct
+    values:
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: 'Pakistan meanwhile has been tragically lagging behind on their HKC
+      schedule, which also saw a healthy collection of confused local recyclers hesitant
+      to place offers as uncertainties surrounding the imminent enforcement date of
+      the HKC on June 26th draws ever '
+    unit: null
+    values:
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: For Week 23 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 23.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-06-09_gms-week-23-demand-gets-rained_img1_09062025chinese355_a609f03ab3bb.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -6.0
+    - -9.0
+    - 23.0
+    - 9062025.0
+    - 55.0
+    - 9.0
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 6th, 2025
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Week 23
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 273, Issue 1188 - C.S. Lewis
+    unit: null
+    values:
+    - 273.0
+    - 1188.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: markets surge again with both Panamax and Cape sectors jumping 2%
+      and 1% respectively, hitting
+    unit: pct
+    values:
+    - 2.0
+    - 1.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: the highest levels recorded since March. Oil futures too followed
+      suit marking an over 6.5% increase
+    unit: pct
+    values:
+    - 6.5
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: over the last 3 weeks, closing the week out at USD 64.60 / barrel
+      on the back of ostensibly optimistic
+    unit: usd
+    values:
+    - 3.0
+    - 64.6
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: of offerings from Alang recyclers, which have fallen about 5% over
+      the last month or so, as local
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: the imminent enforcement date of the HKC on June 26th draws ever
+      closer. Of note, local authorities
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 23 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 23.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Chattogram this week. The number of open yards that are also HKC
+      approved remains at 9, with
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: no fresh approvals being reported this week. In essence, the local
+      market has gone from about 35
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: domestic ship recycling yards down to only 9 HKC approved facilities
+      and even those have been
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: that of the Berge Bulk controlled VLOC BERGE FUJI (37,379 LDT) receiving
+      USD 440/LT LDT, in
+    unit: usd
+    values:
+    - 37379.0
+    - 440.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: the largest dry bulk recycling sale to have taken place in 2025 thus
+      far. As evident from this fixture,
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: week, which also saw local steel plate prices fall another USD 7/Ton
+      down to about USD 548/Ton,
+    unit: usd
+    values:
+    - 7.0
+    - 548.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: a drop totaling nearly USD 30/Ton over the last month or so. Yet,
+      any transaction concluded in line
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: state of the Bangladeshi Taka also saw some reprieve this week as
+      it registered a minor 26 basis
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: VLO C sold. point improvement against the U.S. Dollar, still ending
+      the week at a disastrous BDT 122.57.
+    unit: null
+    values:
+    - 122.57
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, the announcement of the Bangladeshi budget for FY 2025
+      - 2026 mid-week saw some
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: of about USD 5/LDT lower moving forward, adding to the festering
+      negativity surrounding pricing
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: while being si multa neously drenched in the torrential rains of
+      2025. As election fever continues,
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: expected to last for the next 10 days, will likely see ship recycling
+      activities including post-recycling
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: What happens with local fixtures post July 1st as more and more yards
+      attain certification amidst
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: the ongoing burp of tonnage availability, remains to be seen. One
+      thing is certain, the next 3 weeks
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: BERGE FUJI VLOC 37,379 USD 440/LT LDT
+    unit: usd
+    values:
+    - 37379.0
+    - 440.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Rupee that is running up the totem pole of depreciation as it heads
+      towards Rs. 86. once again.
+    unit: null
+    values:
+    - 86.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: week, but they also proceeded to lose another USD 2/Ton this week
+      totalling a nearly USD 18/Ton
+    unit: usd
+    values:
+    - 2.0
+    - 18.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: to weaken as it slips another 28 basis points and closes the week
+      out at Rs. 85.90 against the U.S.
+    unit: null
+    values:
+    - 28.0
+    - 85.9
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: The clear and cumulative effect of the weakening state of fundamentals
+      has also seen about 5% Tariff Tango
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: get stuffed post June 26th. India has therefore sunk to the bottom
+      of the sub-continent pricing board
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: offerings that are scheduled to arrive before the June 26th deadline,
+      which could prohibit them from
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: much to be desired, with the Hong Kong Convention coming into force
+      on June 26th and Gadani
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: as the lonely vessel still outside Gadani has been there for the
+      last 3 weeks and there have been no
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: USD 611/Ton, but the Pakistan Rupee was the only recycling nation
+      currency to register a 12-basis
+    unit: usd
+    values:
+    - 611.0
+    - 12.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: point improvement against the U.S. Dollar and closing the week out
+      at PKR 282.18. This, coupled
+    unit: null
+    values:
+    - 282.18
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: provinces for the upcoming FY budget for 2025 - 2026 may have a direct
+      / indirect effect on local
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: No change from Turkey to report other than the usual i.e. Lira weakened
+      marginally by just 2 basis 3%
+    unit: pct
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: points, inflation down a whole 3% points through May, and a return
+      to the visuals of an empty Aliaga
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: For Week 23 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 23.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line:  Stay underwater up to ten minutes - If 30 seconds of holding your
+      breath induces panic, you'll appreciate the powers of the
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: gradually and that the brain eventually becomes attuned to a sense
+      of direction in new environments. Find out more about the 9
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 07 - Bakri-Eid June 09 - June 17
+    unit: null
+    values:
+    - 7.0
+    - 9.0
+    - 17.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 30
+    unit: null
+    values:
+    - 22.0
+    - 30.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 07 - 12 - Eid-ul-Azha June 11 - June 14
+    unit: null
+    values:
+    - 7.0
+    - 12.0
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 24 - June 27
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: May 31 - June 02 - Dragon Boat Holiday June 05 - Day or Arafah June
+      05 - 09 - Kurban Bayrami
+    unit: null
+    values:
+    - 31.0
+    - 2.0
+    - 5.0
+    - 5.0
+    - 9.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: June 06 - 09 - Eid-ul-Azha
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of June 06, 2025
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Asmaa 7,616 Bulk Carrier Arrived June 02
+    unit: null
+    values:
+    - 1.0
+    - 7616.0
+    - 2.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dhezi 10,407 Oil Tanker Arrived June 04
+    unit: null
+    values:
+    - 2.0
+    - 10407.0
+    - 4.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lord 17 2,583 General Cargo Arrived May 11
+    unit: null
+    values:
+    - 3.0
+    - 17.0
+    - 2583.0
+    - 11.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Mimi 1,227 General Cargo Arrived June 03
+    unit: null
+    values:
+    - 4.0
+    - 1227.0
+    - 3.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 5.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 31,457
+    unit: null
+    values:
+    - 31457.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of June 06, 2025
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Futong Express 8,857 Woodchip Carrier Delivered May 31
+    unit: null
+    values:
+    - 1.0
+    - 8857.0
+    - 31.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sidimi 2,985 RoRo Cargo Vessel Arrived May 16
+    unit: null
+    values:
+    - 2.0
+    - 2985.0
+    - 16.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 11,842
+    unit: null
+    values:
+    - 11842.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of June 06, 2025
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pete 10,176 Bulk Carrier Arrived May 27
+    unit: null
+    values:
+    - 1.0
+    - 10176.0
+    - 27.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 10,176
+    unit: null
+    values:
+    - 10176.0
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-06-09_gms-week-23-demand-gets-rained_ship-recycling-market-insight-week-2_4af5a74639f6.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-06-09_gms-week-23-demand-gets-rained.html
 source_stem: 2025-06-09_gms-week-23-demand-gets-rained

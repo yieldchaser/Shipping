@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 19
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 21/07/2021
   unit: null
@@ -37,8 +36,7 @@ numeric_observations:
   - 21.0
   - 7.0
   - 2021.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   unit: null
@@ -48,8 +46,7 @@ numeric_observations:
   - -21.0
   - 28.0
   - -202.0
-- &id003
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: 107-109, Vas. Pavlou Str., GR 166 73, Voula, Athens, Greece
   unit: null
@@ -58,8 +55,7 @@ numeric_observations:
   - -109.0
   - 166.0
   - 73.0
-- &id004
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: 'Tel: +30 210 9659700 - Fax: +30 210 8996040'
   unit: null
@@ -70,8 +66,7 @@ numeric_observations:
   - 30.0
   - 210.0
   - 8996040.0
-- &id005
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: Week 28 2021 (12th- 16nd July)
   unit: null
@@ -80,31 +75,27 @@ numeric_observations:
   - 2021.0
   - 12.0
   - 16.0
-- &id006
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: India USD 555/lt Ldt USD 565/lt Ldt
   unit: usd
   values:
   - 555.0
   - 565.0
-- &id007
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: with few sales over USD 600/LDT. Pakistan
   unit: usd
   values:
   - 600.0
-- &id008
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: Bangladesh USD 583/lt Ldt USD 593/lt Ldt
   unit: usd
   values:
   - 583.0
   - 593.0
-- &id009
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: remained closed to its Bangladesh counter Pakistan USD 572/lt Ldt USD
     585/lt Ldt
@@ -112,8 +103,7 @@ numeric_observations:
   values:
   - 572.0
   - 585.0
-- &id010
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: parts, in the race of the market pricing. India on Turkey USD 280/lt
     Ldt USD 300 /lt Ldt
@@ -121,8 +111,7 @@ numeric_observations:
   values:
   - 280.0
   - 300.0
-- &id011
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: 32 34,3 30,4
   unit: null
@@ -130,16 +119,14 @@ numeric_observations:
   - 32.0
   - 343.0
   - 304.0
-- &id012
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: 26 23,2
   unit: null
   values:
   - 26.0
   - 232.0
-- &id013
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
     2021
@@ -155,8 +142,7 @@ numeric_observations:
   - 2014.0
   - 2015.0
   - 2016.0
-- &id014
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: TANK 507 287 338 485 482 405 435 425 300 300 440 435 380 410 565
   unit: null
@@ -171,8 +157,7 @@ numeric_observations:
   - 425.0
   - 300.0
   - 300.0
-- &id015
-  section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+- section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
   section_type: linked_pdf
   source_line: BULK 472 268 328 437 456 375 410 400 285 280 425 425 370 390 555
   unit: null
@@ -187,8 +172,7 @@ numeric_observations:
   - 400.0
   - 285.0
   - 280.0
-- &id016
-  section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+- section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   unit: null
@@ -198,23 +182,20 @@ numeric_observations:
   - -21.0
   - 28.0
   - -202.0
-- &id017
-  section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+- section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 120x100 mode=RGB'
   unit: null
   values:
   - 120.0
-- &id018
-  section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+- section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72, 72)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id019
-  section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+- section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
@@ -228,25 +209,179 @@ section_count: 3
 signals:
   numeric_observation_count: 19
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 21/07/2021
+    unit: null
+    values:
+    - 21.0
+    - 7.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -7.0
+    - -21.0
+    - 28.0
+    - -202.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: 107-109, Vas. Pavlou Str., GR 166 73, Voula, Athens, Greece
+    unit: null
+    values:
+    - 107.0
+    - -109.0
+    - 166.0
+    - 73.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: 'Tel: +30 210 9659700 - Fax: +30 210 8996040'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 9659700.0
+    - 30.0
+    - 210.0
+    - 8996040.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: Week 28 2021 (12th- 16nd July)
+    unit: null
+    values:
+    - 28.0
+    - 2021.0
+    - 12.0
+    - 16.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: India USD 555/lt Ldt USD 565/lt Ldt
+    unit: usd
+    values:
+    - 555.0
+    - 565.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: with few sales over USD 600/LDT. Pakistan
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh USD 583/lt Ldt USD 593/lt Ldt
+    unit: usd
+    values:
+    - 583.0
+    - 593.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: remained closed to its Bangladesh counter Pakistan USD 572/lt Ldt
+      USD 585/lt Ldt
+    unit: usd
+    values:
+    - 572.0
+    - 585.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: parts, in the race of the market pricing. India on Turkey USD 280/lt
+      Ldt USD 300 /lt Ldt
+    unit: usd
+    values:
+    - 280.0
+    - 300.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: 32 34,3 30,4
+    unit: null
+    values:
+    - 32.0
+    - 343.0
+    - 304.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: 26 23,2
+    unit: null
+    values:
+    - 26.0
+    - 232.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+      2020 2021
+    unit: null
+    values:
+    - 2007.0
+    - 2008.0
+    - 2009.0
+    - 2010.0
+    - 2011.0
+    - 2012.0
+    - 2013.0
+    - 2014.0
+    - 2015.0
+    - 2016.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: TANK 507 287 338 485 482 405 435 425 300 300 440 435 380 410 565
+    unit: null
+    values:
+    - 507.0
+    - 287.0
+    - 338.0
+    - 485.0
+    - 482.0
+    - 405.0
+    - 435.0
+    - 425.0
+    - 300.0
+    - 300.0
+  - section: 'Linked asset: 2021-07-21_ship_Recycling__weekly_28_2021_Athenian.pdf'
+    section_type: linked_pdf
+    source_line: BULK 472 268 328 437 456 375 410 400 285 280 425 425 370 390 555
+    unit: null
+    values:
+    - 472.0
+    - 268.0
+    - 328.0
+    - 437.0
+    - 456.0
+    - 375.0
+    - 410.0
+    - 400.0
+    - 285.0
+    - 280.0
+  - section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -7.0
+    - -21.0
+    - 28.0
+    - -202.0
+  - section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 120x100 mode=RGB'
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72, 72)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202.html
 source_stem: 2021-07-21_athenian-shipbrokers-s-a-demolition-quick-update-week-28-202

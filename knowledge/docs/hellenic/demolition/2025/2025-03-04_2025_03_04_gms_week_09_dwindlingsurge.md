@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 126
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As chaos continues to churn across all the world, the incredibly deceptive
     nature of ship recycling has once again reared its headthis week in the middle
@@ -40,8 +39,7 @@ numeric_observations:
   unit: usd
   values:
   - 69.76
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As tonnage availability has been notably absent at the bidding tables
     of late, the industry was greeted by the start of the Holy Month of Ramadan this
@@ -50,8 +48,7 @@ numeric_observations:
   unit: usd
   values:
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: At the respective ship recycling destinations, as currency and steel
     starts to hammer harder where ongoing Indian declines were joined by Pakistan
@@ -64,8 +61,7 @@ numeric_observations:
   - 4.0
   - 10.0
   - 280.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 9 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -73,8 +69,7 @@ numeric_observations:
   values:
   - 9.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-03-04_gms-week-09-dwindlingsurge_img1_04032025chinese456_92f78bfa2d6d.jpg'
   unit: null
@@ -87,63 +82,55 @@ numeric_observations:
   - 56.0
   - 92.0
   - 8.0
-- &id006
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: February 28th, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Week 9 at some point, you will."
   unit: null
   values:
   - 9.0
-- &id008
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Volume 269, Issue 1174
   unit: null
   values:
   - 269.0
   - 1174.0
-- &id009
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: • Price decline. its first month of over month decline and wrapping
     up the week at USD 69.76/barrel.
   unit: usd
   values:
   - 69.76
-- &id010
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: • Freight surge. of about USD 30/LDT due to ongoing geopolitical volatility
     that has perpetuated itself via flatlining
   unit: usd
   values:
   - 30.0
-- &id011
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Do ngoing Indian declines were joined by Pakistan for the first time
     since October 2024, further
   unit: null
   values:
   - 2024.0
-- &id012
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: • Trade concerns. highlighting the unfolding effects of the tariff
     wars as news of 25% against Mexico and Canada
   unit: worldscale_pct
   values:
   - 25.0
-- &id013
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: going into effect on March 4th surfaced this week, including an additional
     10% to be levied against
@@ -151,16 +138,14 @@ numeric_observations:
   values:
   - 4.0
   - 10.0
-- &id014
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: by Turkish offerings even below USD 280/Ton on units, all amidst a
     devasted Lira that remains
   unit: usd
   values:
   - 280.0
-- &id015
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 9 of 2025 are on Page 5.
   unit: null
@@ -168,16 +153,14 @@ numeric_observations:
   - 9.0
   - 2025.0
   - 5.0
-- &id016
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: week, with over 105K LDT and 10 vessels (LNGs, Tankers, and Bulkers)
     that are either lying in
@@ -185,56 +168,49 @@ numeric_observations:
   values:
   - 105.0
   - 10.0
-- &id018
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: held dead on at about USD 529/Ton, but it has been the Taka which,
     like the Lira, has lost a far less
   unit: usd
   values:
   - 529.0
-- &id019
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Pol itical shakes. disastrous in comparison, yet disastrous enough
     on its own as it has plummeted over 11% in just
   unit: pct
   values:
   - 11.0
-- &id020
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: over the last year alone including this week, where it fell another
     20 basis points and ended the
   unit: null
   values:
   - 20.0
-- &id021
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: week at a calamitous BDT 121.97/Ton. With the budget expected in about
     3 months from now, the
   unit: null
   values:
   - 121.97
-- &id022
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: some easing in inflation rates reported across February, it (inflation)
     remains at a concerned 9.98%
   unit: pct
   values:
   - 9.98
-- &id023
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 3 quarters now. Moreover, despite key indicators highlighting a gradual
     recovery, the nation faces
   unit: null
   values:
   - 3.0
-- &id024
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: All of this coming to a head and at a time the HKC stands to enter
     into force by July 1st 2025,
@@ -242,72 +218,63 @@ numeric_observations:
   values:
   - 1.0
   - 2025.0
-- &id025
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: deadline extension for upgrades to start by March 31st and subsequently
     obtain relevant SOC
   unit: null
   values:
   - 31.0
-- &id026
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: operate post Q2 2025. For now, amidst a sharp decline in the availability
     of vessels, Ramadan
   unit: null
   values:
   - 2025.0
-- &id027
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: from the same tier of buyers resumes again, all while the 2nd batch
     of hungry buyers are lingering
   unit: null
   values:
   - 2.0
-- &id028
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: counterparts, Alang's port position has recorded an impressive number
     of arrivals exceeding 40K
   unit: null
   values:
   - 40.0
-- &id030
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: LDT via 5 decent size units including tankers, dry units, and even
     a RoRo.
   unit: null
   values:
   - 5.0
-- &id031
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: only has the Indian Rupee suffered a devastating week as it lost nearly
     1% in value to close the week
   unit: pct
   values:
   - 1.0
-- &id032
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: out at Rs. 87.48 against the U.S. Dollar, but local steel plate prices
     have not stopped falling over the
   unit: null
   values:
   - 87.48
-- &id033
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: recent past as they fell another $2/Ton this week, pushing the total
     decline to over USD 17/Ton over USD 17/Ton
@@ -316,72 +283,63 @@ numeric_observations:
   - 2.0
   - 17.0
   - 17.0
-- &id034
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: in the right direction as Q4 2024 ended with an uptick noted on the
     back of increased government
   unit: null
   values:
   - 2024.0
-- &id035
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: and consumer spending that even drove the country's economic growth
     by over 6% during the same
   unit: pct
   values:
   - 6.0
-- &id036
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Even though the Gadani gang stand in 3rd place on the market rankings,
     their inability to perform
   unit: null
   values:
   - 3.0
-- &id038
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: recycler whereafter, the market has gone silent again as it wraps up
     the 2nd consecutive week of an
   unit: null
   values:
   - 2.0
-- &id039
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: decade. And with the looks of it, 2025 is certainly off to a rocky
     start.
   unit: null
   values:
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: that even saw inflation sit at the perfect level of around 3% that
     is needed for every major economy
   unit: pct
   values:
   - 3.0
-- &id041
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: into 2nd place and eke out the next healthy batch of units before the
     next slowdown in the supply
   unit: null
   values:
   - 2.0
-- &id042
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: prices fell a massive USD 11/Ton while the Pakistani Rupee itself lost
     4 basis points and ended the
@@ -389,56 +347,49 @@ numeric_observations:
   values:
   - 11.0
   - 4.0
-- &id043
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: week at PKR 279.56 against the U.S. Dollar, likely putting their own
     pressures on Gadani offerings
   unit: null
   values:
   - 279.56
-- &id044
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 200/Ton price differential with the sub-continent markets have left
     little for Aliaga buyers to nibble
   unit: null
   values:
   - 200.0
-- &id046
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: are permeating even below the current price floor of USD 280/Ton. Fundamentals
     continue afflict
   unit: usd
   values:
   - 280.0
-- &id047
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: jitters, all while the Lira remains in freefall as it collapsed another
     20 basis points to end the week at
   unit: null
   values:
   - 20.0
-- &id048
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: TRY 36.53. Certainly not an even playing field for Aliaga recyclers
     under the current environment.
   unit: null
   values:
   - 36.53
-- &id049
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: For Week 9 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -446,8 +397,7 @@ numeric_observations:
   values:
   - 9.0
   - 2025.0
-- &id050
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -456,8 +406,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id051
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 435 / LDT 455 / LDT 465 / LDT
   unit: null
@@ -466,8 +415,7 @@ numeric_observations:
   - 435.0
   - 455.0
   - 465.0
-- &id052
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -476,8 +424,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id053
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -486,16 +433,14 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id054
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  For only the second time since the start of the Major League Baseball
     draft in 1965, all but one of the first 10 picks in 2024
@@ -504,8 +449,7 @@ numeric_observations:
   - 1965.0
   - 10.0
   - 2024.0
-- &id056
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  About 800 million people across the world lack access to electricity,
     down from over 1.5 billion in 1998.
@@ -514,39 +458,34 @@ numeric_observations:
   - 800.0
   - 1.5
   - 1998.0
-- &id057
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  In 1945, Grand Rapids, Mich., became the first city in the world
     to begin intentionally fluoridating its water. A decade later,
   unit: null
   values:
   - 1945.0
-- &id058
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: the rate of tooth decay among the city's children had dropped by over
     60 percent.
   unit: null
   values:
   - 60.0
-- &id059
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  The title character of the film "Guillermo del Toro's Pinocchio"
     is the first metal 3-D-printed puppet. It was animated using
   unit: null
   values:
   - 3.0
-- &id060
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: some 3,000 replacement faces.
   unit: null
   values:
   - 3000.0
-- &id061
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  Neuropsychology has shown that short-term memory lasts 15 to 30 seconds,
     after which it either has to be encoded as a long-
@@ -554,16 +493,14 @@ numeric_observations:
   values:
   - 15.0
   - 30.0
-- &id062
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line:  The world produces about 400 million metric tons of plastic waste
     each year, according to a United Nations report. About half
   unit: null
   values:
   - 400.0
-- &id063
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 14 - Holi February 26 - March 05
   unit: null
@@ -571,8 +508,7 @@ numeric_observations:
   - 14.0
   - 26.0
   - 5.0
-- &id064
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 28 - Jamat-ul-Wida March 13 - March 18
   unit: null
@@ -580,8 +516,7 @@ numeric_observations:
   - 28.0
   - 13.0
   - 18.0
-- &id065
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 30 - Gudi Padwa March 27 - April 05
   unit: null
@@ -589,15 +524,13 @@ numeric_observations:
   - 30.0
   - 27.0
   - 5.0
-- &id066
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 31 - Eid-ul-Fitr
   unit: null
   values:
   - 31.0
-- &id067
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence & National Day February 28 - March 03
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 26.0
   - 28.0
   - 3.0
-- &id068
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 28 - Shab-e-Qadr March 14 - March 17
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 28.0
   - 14.0
   - 17.0
-- &id069
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 29 - April 02 - Eid-ul-Fitr March 29 - April 01
   unit: null
@@ -624,8 +555,7 @@ numeric_observations:
   - 2.0
   - 29.0
   - 1.0
-- &id070
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: No holidays until April March 23 - Pakistan Day March 29 - April 03
     - Ramzan
@@ -634,32 +564,28 @@ numeric_observations:
   - 23.0
   - 29.0
   - 3.0
-- &id071
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
   unit: null
   values:
   - 30.0
   - 4.0
-- &id072
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of February 28, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id074
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 1 Athina I 14,883 Oil Tanker Arrived February 28
   unit: null
@@ -667,8 +593,7 @@ numeric_observations:
   - 1.0
   - 14883.0
   - 28.0
-- &id075
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 2 Bluefins 12,997 Oil Tanker Arrived February 22
   unit: null
@@ -676,8 +601,7 @@ numeric_observations:
   - 2.0
   - 12997.0
   - 22.0
-- &id076
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 3 Iris of Sea 2,783 General Cargo Arrived February 26
   unit: null
@@ -685,8 +609,7 @@ numeric_observations:
   - 3.0
   - 2783.0
   - 26.0
-- &id077
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 4 Jabal Ali 7 7,128 RoRo Delivered February 18
   unit: null
@@ -695,8 +618,7 @@ numeric_observations:
   - 7.0
   - 7128.0
   - 18.0
-- &id078
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: 5 Talent Blu 3,532 Bulk Carrier Arrived February 21
   unit: null
@@ -704,15 +626,13 @@ numeric_observations:
   - 5.0
   - 3532.0
   - 21.0
-- &id079
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 41,324
   unit: null
   values:
   - 41324.0
-- &id080
-  section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+- section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of February 28, 2025
   unit: null
@@ -1052,86 +972,615 @@ section_count: 3
 signals:
   numeric_observation_count: 126
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As chaos continues to churn across all the world, the incredibly
+      deceptive nature of ship recycling has once again reared its headthis week in
+      the middle of amidst a dwindling of tonnage, where local port positions marked
+      an impressive batch of arrivals of bot
+    unit: usd
+    values:
+    - 69.76
+  - section: Main
+    section_type: null
+    source_line: As tonnage availability has been notably absent at the bidding tables
+      of late, the industry was greeted by the start of the Holy Month of Ramadan
+      this week, which descended across the Indian sub-continent (and Turkish) markets,
+      providing India and Bangladesh s
+    unit: usd
+    values:
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: At the respective ship recycling destinations, as currency and steel
+      starts to hammer harder where ongoing Indian declines were joined by Pakistan
+      for the first time since October 2024, further highlighting the unfolding effects
+      of the tariff wars as news of 2
+    unit: worldscale_pct
+    values:
+    - 2024.0
+    - 25.0
+    - 4.0
+    - 10.0
+    - 280.0
+  - section: Main
+    section_type: null
+    source_line: For Week 9 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-03-04_gms-week-09-dwindlingsurge_img1_04032025chinese456_92f78bfa2d6d.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -3.0
+    - -4.0
+    - 9.0
+    - 4032025.0
+    - 56.0
+    - 92.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: February 28th, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Week 9 at some point, you will."
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Volume 269, Issue 1174
+    unit: null
+    values:
+    - 269.0
+    - 1174.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: • Price decline. its first month of over month decline and wrapping
+      up the week at USD 69.76/barrel.
+    unit: usd
+    values:
+    - 69.76
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: • Freight surge. of about USD 30/LDT due to ongoing geopolitical
+      volatility that has perpetuated itself via flatlining
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Do ngoing Indian declines were joined by Pakistan for the first time
+      since October 2024, further
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: • Trade concerns. highlighting the unfolding effects of the tariff
+      wars as news of 25% against Mexico and Canada
+    unit: worldscale_pct
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: going into effect on March 4th surfaced this week, including an additional
+      10% to be levied against
+    unit: pct
+    values:
+    - 4.0
+    - 10.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: by Turkish offerings even below USD 280/Ton on units, all amidst
+      a devasted Lira that remains
+    unit: usd
+    values:
+    - 280.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 9 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 9.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: week, with over 105K LDT and 10 vessels (LNGs, Tankers, and Bulkers)
+      that are either lying in
+    unit: null
+    values:
+    - 105.0
+    - 10.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: held dead on at about USD 529/Ton, but it has been the Taka which,
+      like the Lira, has lost a far less
+    unit: usd
+    values:
+    - 529.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Pol itical shakes. disastrous in comparison, yet disastrous enough
+      on its own as it has plummeted over 11% in just
+    unit: pct
+    values:
+    - 11.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: over the last year alone including this week, where it fell another
+      20 basis points and ended the
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: week at a calamitous BDT 121.97/Ton. With the budget expected in
+      about 3 months from now, the
+    unit: null
+    values:
+    - 121.97
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: some easing in inflation rates reported across February, it (inflation)
+      remains at a concerned 9.98%
+    unit: pct
+    values:
+    - 9.98
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 3 quarters now. Moreover, despite key indicators highlighting a gradual
+      recovery, the nation faces
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: All of this coming to a head and at a time the HKC stands to enter
+      into force by July 1st 2025,
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: deadline extension for upgrades to start by March 31st and subsequently
+      obtain relevant SOC
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: operate post Q2 2025. For now, amidst a sharp decline in the availability
+      of vessels, Ramadan
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: from the same tier of buyers resumes again, all while the 2nd batch
+      of hungry buyers are lingering
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: counterparts, Alang's port position has recorded an impressive number
+      of arrivals exceeding 40K
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: LDT via 5 decent size units including tankers, dry units, and even
+      a RoRo.
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: only has the Indian Rupee suffered a devastating week as it lost
+      nearly 1% in value to close the week
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: out at Rs. 87.48 against the U.S. Dollar, but local steel plate prices
+      have not stopped falling over the
+    unit: null
+    values:
+    - 87.48
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: recent past as they fell another $2/Ton this week, pushing the total
+      decline to over USD 17/Ton over USD 17/Ton
+    unit: usd
+    values:
+    - 2.0
+    - 17.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: in the right direction as Q4 2024 ended with an uptick noted on the
+      back of increased government
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: and consumer spending that even drove the country's economic growth
+      by over 6% during the same
+    unit: pct
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Even though the Gadani gang stand in 3rd place on the market rankings,
+      their inability to perform
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: recycler whereafter, the market has gone silent again as it wraps
+      up the 2nd consecutive week of an
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: decade. And with the looks of it, 2025 is certainly off to a rocky
+      start.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: that even saw inflation sit at the perfect level of around 3% that
+      is needed for every major economy
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: into 2nd place and eke out the next healthy batch of units before
+      the next slowdown in the supply
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: prices fell a massive USD 11/Ton while the Pakistani Rupee itself
+      lost 4 basis points and ended the
+    unit: usd
+    values:
+    - 11.0
+    - 4.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: week at PKR 279.56 against the U.S. Dollar, likely putting their
+      own pressures on Gadani offerings
+    unit: null
+    values:
+    - 279.56
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 200/Ton price differential with the sub-continent markets have left
+      little for Aliaga buyers to nibble
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: are permeating even below the current price floor of USD 280/Ton.
+      Fundamentals continue afflict
+    unit: usd
+    values:
+    - 280.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: jitters, all while the Lira remains in freefall as it collapsed another
+      20 basis points to end the week at
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: TRY 36.53. Certainly not an even playing field for Aliaga recyclers
+      under the current environment.
+    unit: null
+    values:
+    - 36.53
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: For Week 9 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 435 / LDT 455 / LDT 465 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 435.0
+    - 455.0
+    - 465.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  For only the second time since the start of the Major League Baseball
+      draft in 1965, all but one of the first 10 picks in 2024
+    unit: null
+    values:
+    - 1965.0
+    - 10.0
+    - 2024.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  About 800 million people across the world lack access to electricity,
+      down from over 1.5 billion in 1998.
+    unit: null
+    values:
+    - 800.0
+    - 1.5
+    - 1998.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  In 1945, Grand Rapids, Mich., became the first city in the world
+      to begin intentionally fluoridating its water. A decade later,
+    unit: null
+    values:
+    - 1945.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: the rate of tooth decay among the city's children had dropped by
+      over 60 percent.
+    unit: null
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  The title character of the film "Guillermo del Toro's Pinocchio"
+      is the first metal 3-D-printed puppet. It was animated using
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: some 3,000 replacement faces.
+    unit: null
+    values:
+    - 3000.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  Neuropsychology has shown that short-term memory lasts 15 to 30
+      seconds, after which it either has to be encoded as a long-
+    unit: null
+    values:
+    - 15.0
+    - 30.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line:  The world produces about 400 million metric tons of plastic waste
+      each year, according to a United Nations report. About half
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 14 - Holi February 26 - March 05
+    unit: null
+    values:
+    - 14.0
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Jamat-ul-Wida March 13 - March 18
+    unit: null
+    values:
+    - 28.0
+    - 13.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - Gudi Padwa March 27 - April 05
+    unit: null
+    values:
+    - 30.0
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence & National Day February 28 - March 03
+    unit: null
+    values:
+    - 26.0
+    - 28.0
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 28 - Shab-e-Qadr March 14 - March 17
+    unit: null
+    values:
+    - 28.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - April 02 - Eid-ul-Fitr March 29 - April 01
+    unit: null
+    values:
+    - 29.0
+    - 2.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until April March 23 - Pakistan Day March 29 - April
+      03 - Ramzan
+    unit: null
+    values:
+    - 23.0
+    - 29.0
+    - 3.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: March 30 - April 04 -Eid-Ul-Fitr Bayrami
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of February 28, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 1 Athina I 14,883 Oil Tanker Arrived February 28
+    unit: null
+    values:
+    - 1.0
+    - 14883.0
+    - 28.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bluefins 12,997 Oil Tanker Arrived February 22
+    unit: null
+    values:
+    - 2.0
+    - 12997.0
+    - 22.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 3 Iris of Sea 2,783 General Cargo Arrived February 26
+    unit: null
+    values:
+    - 3.0
+    - 2783.0
+    - 26.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 4 Jabal Ali 7 7,128 RoRo Delivered February 18
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 7128.0
+    - 18.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: 5 Talent Blu 3,532 Bulk Carrier Arrived February 21
+    unit: null
+    values:
+    - 5.0
+    - 3532.0
+    - 21.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 41,324
+    unit: null
+    values:
+    - 41324.0
+  - section: 'Linked asset: 2025-03-04_gms-week-09-dwindlingsurge_ship-recycling-market-insight-week-0_69422406373c.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of February 28, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-03-04_gms-week-09-dwindlingsurge.html
 source_stem: 2025-03-04_gms-week-09-dwindlingsurge

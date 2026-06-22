@@ -27,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 23
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: (24 MARCH - 27 MARCH) 2026
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 24.0
   - 27.0
   - 2026.0
-- &id002
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -45,8 +43,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id003
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -54,23 +51,20 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id004
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: Import prices increased by approximately USD 8, while domestic steel
     prices improved
   unit: usd
   values:
   - 8.0
-- &id005
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: by around USD 10.
   unit: usd
   values:
   - 10.0
-- &id006
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (103.88 110.80 ) + 6.92'
   unit: null
@@ -78,8 +72,7 @@ numeric_observations:
   - 103.88
   - 110.8
   - 6.92
-- &id007
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (91.58 97.55 ) + 5.97'
   unit: null
@@ -87,8 +80,7 @@ numeric_observations:
   - 91.58
   - 97.55
   - 5.97
-- &id008
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 94.86 This Week : 122.68 This Week : 279.09 This Week
     : 44.43'
@@ -98,8 +90,7 @@ numeric_observations:
   - 122.68
   - 279.09
   - 44.43
-- &id009
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 93.43 Previous Week : 122.70 Previous Week : 278.79
     Previous Week : 44.31'
@@ -109,8 +100,7 @@ numeric_observations:
   - 122.7
   - 278.79
   - 44.31
-- &id010
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 1.43 Gain : 0.02 Lost : 0.3 Lost : 0.12'
   unit: null
@@ -119,8 +109,7 @@ numeric_observations:
   - 0.02
   - 0.3
   - 0.12
-- &id011
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
   unit: null
@@ -129,16 +118,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id012
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id013
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: INDIA 385 395 (+ 1.30)
   unit: null
@@ -146,24 +133,21 @@ numeric_observations:
   - 385.0
   - 395.0
   - 1.3
-- &id014
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 385 395 (0)
   unit: null
   values:
   - 385.0
   - 395.0
-- &id015
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 385 395 (0)
   unit: null
   values:
   - 385.0
   - 395.0
-- &id016
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: TURKEY 390 410 (+ 2.57)
   unit: null
@@ -171,8 +155,7 @@ numeric_observations:
   - 390.0
   - 410.0
   - 2.57
-- &id017
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: INDIA SOFT 410 395 380 (-2.47)
   unit: null
@@ -181,8 +164,7 @@ numeric_observations:
   - 395.0
   - 380.0
   - -2.47
-- &id018
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH FIRM 455 445 420 (0)
   unit: null
@@ -190,8 +172,7 @@ numeric_observations:
   - 455.0
   - 445.0
   - 420.0
-- &id019
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN SOFT 430 415 405 (0)
   unit: null
@@ -199,8 +180,7 @@ numeric_observations:
   - 430.0
   - 415.0
   - 405.0
-- &id020
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: TURKEY SOFT 290 280 270 (0)
   unit: null
@@ -208,22 +188,19 @@ numeric_observations:
   - 290.0
   - 280.0
   - 270.0
-- &id021
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: TORO MPP 1,873 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: null
   values:
   - 1873.0
-- &id022
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: STAR GATE BULKER 1,596 DELIVERED SOUTH KOREA UNDISCLOSED
   unit: null
   values:
   - 1596.0
-- &id023
-  section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+- section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
   section_type: linked_pdf
   source_line: OCEAN ROSEMARY BULKER 8,783.1 DELIVERED CHITTAGONG,BANGLADESH 470
   unit: null
@@ -238,29 +215,186 @@ section_count: 2
 signals:
   numeric_observation_count: 23
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: (24 MARCH - 27 MARCH) 2026
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: Import prices increased by approximately USD 8, while domestic steel
+      prices improved
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: by around USD 10.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (103.88 110.80 ) + 6.92'
+    unit: null
+    values:
+    - 103.88
+    - 110.8
+    - 6.92
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (91.58 97.55 ) + 5.97'
+    unit: null
+    values:
+    - 91.58
+    - 97.55
+    - 5.97
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 94.86 This Week : 122.68 This Week : 279.09 This Week
+      : 44.43'
+    unit: null
+    values:
+    - 94.86
+    - 122.68
+    - 279.09
+    - 44.43
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 93.43 Previous Week : 122.70 Previous Week : 278.79
+      Previous Week : 44.31'
+    unit: null
+    values:
+    - 93.43
+    - 122.7
+    - 278.79
+    - 44.31
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 1.43 Gain : 0.02 Lost : 0.3 Lost : 0.12'
+    unit: null
+    values:
+    - 1.43
+    - 0.02
+    - 0.3
+    - 0.12
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 385 395 (+ 1.30)
+    unit: null
+    values:
+    - 385.0
+    - 395.0
+    - 1.3
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 385 395 (0)
+    unit: null
+    values:
+    - 385.0
+    - 395.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 385 395 (0)
+    unit: null
+    values:
+    - 385.0
+    - 395.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 390 410 (+ 2.57)
+    unit: null
+    values:
+    - 390.0
+    - 410.0
+    - 2.57
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: INDIA SOFT 410 395 380 (-2.47)
+    unit: null
+    values:
+    - 410.0
+    - 395.0
+    - 380.0
+    - -2.47
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH FIRM 455 445 420 (0)
+    unit: null
+    values:
+    - 455.0
+    - 445.0
+    - 420.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN SOFT 430 415 405 (0)
+    unit: null
+    values:
+    - 430.0
+    - 415.0
+    - 405.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY SOFT 290 280 270 (0)
+    unit: null
+    values:
+    - 290.0
+    - 280.0
+    - 270.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: TORO MPP 1,873 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: null
+    values:
+    - 1873.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: STAR GATE BULKER 1,596 DELIVERED SOUTH KOREA UNDISCLOSED
+    unit: null
+    values:
+    - 1596.0
+  - section: 'Linked asset: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026_weekly-ship-recycling-report-24-marc_083fc5d97105.pdf'
+    section_type: linked_pdf
+    source_line: OCEAN ROSEMARY BULKER 8,783.1 DELIVERED CHITTAGONG,BANGLADESH 470
+    unit: null
+    values:
+    - 8783.1
+    - 470.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026.html
 source_stem: 2026-03-28_best-oasis-weekly-recycling-market-report-27-march-2026

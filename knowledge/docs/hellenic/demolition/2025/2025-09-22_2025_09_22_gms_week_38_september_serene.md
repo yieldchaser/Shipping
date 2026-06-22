@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 84
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: After what seemed like months of unstoppable volatility, a modicum
     of stability seemed to enter the global trading marketsthis week as oil climbed
@@ -48,8 +47,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 1.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: A majority of the slim collection of recent market sales remained focused
     on India, with Pakistan and (especially) Bangladesh still struggling to summon
@@ -58,8 +56,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 38 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -67,8 +64,7 @@ numeric_observations:
   values:
   - 38.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
   unit: null
@@ -82,39 +78,34 @@ numeric_observations:
   - 7.0
   - 29.0
   - 5.0
-- &id005
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: September 19th, 2025
   unit: null
   values:
   - 19.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: Week 38
   unit: null
   values:
   - 38.0
-- &id007
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: Volume 276, Issue 1203 - Amelia Earhart
   unit: null
   values:
   - 276.0
   - 1203.0
-- &id008
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: the global trading markets this week as oil climbed marginally (0.17%)
     before the week ended, yet
   unit: pct
   values:
   - 0.17
-- &id009
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: this remains a near 1.4% drop just this month and a 10.8% overall decline
     from the same time last
@@ -122,16 +113,14 @@ numeric_observations:
   values:
   - 1.4
   - 10.8
-- &id010
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: year. On the flip side, trading markets continue to edge on as they
     surged another 3.6% this week,
   unit: pct
   values:
   - 3.6
-- &id011
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 2% and 3% respectively, while the Cape index, which has been carrying
     the bulk of the dry index
@@ -139,22 +128,19 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id012
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: • Market focus. sector, climbed nearly 1% this week.
   unit: pct
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: the performance of various indices over all of 2025.
   unit: null
   values:
   - 2025.0
-- &id014
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 38 of 2025 are on Page 6.
   unit: null
@@ -162,16 +148,14 @@ numeric_observations:
   - 38.0
   - 2025.0
   - 6.0
-- &id015
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id016
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: steadily retreated over preceding months as it ended August at 8.29%
     down from 9.8% just a few
@@ -179,40 +163,35 @@ numeric_observations:
   values:
   - 8.29
   - 9.8
-- &id017
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: segments across various quarters, it ended the week subdued at BDT
     121.74, while local steel plate
   unit: null
   values:
   - 121.74
-- &id018
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: healthy USD 519/Ton. Local port position meanwhile escaped isolation
     as another fresh candidate
   unit: usd
   values:
   - 519.0
-- &id019
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: Overall, as all eyes and all hopes remain posted on the upcoming elections
     in February 2026 when
   unit: null
   values:
   - 2026.0
-- &id020
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 21 basis points to end this week at Rs. 88.09. Local steel plate prices
     also started to mirror neighbouring
@@ -220,39 +199,34 @@ numeric_observations:
   values:
   - 21.0
   - 88.09
-- &id022
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: competitors as they flatlined for the consecutive 3rd week in a row,
     at the sub-continent's lowest levels
   unit: null
   values:
   - 3.0
-- &id023
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: at USD 448/Ton.
   unit: usd
   values:
   - 448.0
-- &id024
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: arrivals and nearly 84K LDT of tonnage idling at anchorage / delivered
     locally. And while larger LDT
   unit: null
   values:
   - 84.0
-- &id025
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: '"India only" domain for nearly 2 decades - and the fact that Pakistan
     banned LNGs circa 2007.'
@@ -260,32 +234,28 @@ numeric_observations:
   values:
   - 2.0
   - 2007.0
-- &id027
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: fundamentals continue to support their ongoing price levels - the PKR
     firming 18 basis points
   unit: null
   values:
   - 18.0
-- &id028
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar closing the week out at PKR 283.44 and local
     steel plate prices stagnating at
   unit: null
   values:
   - 283.44
-- &id029
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: W ork to do. the highest levels in the industry at USD 623/Ton (despite
     declining a comparatively marginal USD
   unit: usd
   values:
   - 623.0
-- &id030
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 4/Ton and still closing the week out USD 619/Ton) - Pakistan remains
     geared to be an industry
@@ -293,16 +263,14 @@ numeric_observations:
   values:
   - 4.0
   - 619.0
-- &id031
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: prices fell for the 2nd week in a row, the Lira slid 15 basis points
     to end the week at TRY 41.41 against
@@ -311,8 +279,7 @@ numeric_observations:
   - 2.0
   - 15.0
   - 41.41
-- &id033
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: For Week 38 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -320,8 +287,7 @@ numeric_observations:
   values:
   - 38.0
   - 2025.0
-- &id034
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -330,8 +296,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id035
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -340,8 +305,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id036
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -350,8 +314,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id037
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -360,31 +323,27 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id038
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line:  On average, lightning strikes Earth 100 times per second.
   unit: null
   values:
   - 100.0
-- &id040
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line:  Due to their genes, redheads may need about 20% more anesthesia than
     non-redheads.
   unit: pct
   values:
   - 20.0
-- &id041
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 02 - Dussehra / Gandhi Jayanthi September 19 - September 27
   unit: null
@@ -392,8 +351,7 @@ numeric_observations:
   - 2.0
   - 19.0
   - 27.0
-- &id042
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 03 - Durga Puja October 05 - October 13
   unit: null
@@ -401,8 +359,7 @@ numeric_observations:
   - 3.0
   - 5.0
   - 13.0
-- &id043
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 22 - Diwali October 20 - October 26
   unit: null
@@ -410,8 +367,7 @@ numeric_observations:
   - 22.0
   - 20.0
   - 26.0
-- &id044
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 01 & 02 - Durga Puja September 20 - September 23
   unit: null
@@ -420,24 +376,21 @@ numeric_observations:
   - 2.0
   - 20.0
   - 23.0
-- &id045
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 06 - October 09
   unit: null
   values:
   - 6.0
   - 9.0
-- &id046
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 20 - October 23
   unit: null
   values:
   - 20.0
   - 23.0
-- &id047
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day October 28 & 29 - Republic Day
   unit: null
@@ -445,24 +398,21 @@ numeric_observations:
   - 24.0
   - 28.0
   - 29.0
-- &id048
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 19, 2025
   unit: null
   values:
   - 19.0
   - 2025.0
-- &id050
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 1 Bonita 10,201 Bulk Carrier Arrived September 18
   unit: null
@@ -470,8 +420,7 @@ numeric_observations:
   - 1.0
   - 10201.0
   - 18.0
-- &id051
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 2 Coal II 14,840 Oil Tanker Delivered September 17
   unit: null
@@ -479,8 +428,7 @@ numeric_observations:
   - 2.0
   - 14840.0
   - 17.0
-- &id052
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -488,8 +436,7 @@ numeric_observations:
   - 3.0
   - 20001.0
   - 13.0
-- &id053
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 4 Gas Pioneer 1,140 LPG Arrived September 17
   unit: null
@@ -497,8 +444,7 @@ numeric_observations:
   - 4.0
   - 1140.0
   - 17.0
-- &id054
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 5 Kavita 6,614 General Cargo Arrived September 16
   unit: null
@@ -506,8 +452,7 @@ numeric_observations:
   - 5.0
   - 6614.0
   - 16.0
-- &id055
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 6 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -515,8 +460,7 @@ numeric_observations:
   - 6.0
   - 9623.0
   - 7.0
-- &id056
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 7 Pione 10,129 Oil Tanker Delivered September 17
   unit: null
@@ -524,8 +468,7 @@ numeric_observations:
   - 7.0
   - 10129.0
   - 17.0
-- &id057
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 8 Rising Eagle 5,440 Bulk Carrier Arrived September 18
   unit: null
@@ -533,8 +476,7 @@ numeric_observations:
   - 8.0
   - 5440.0
   - 18.0
-- &id058
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9 Rising Falcon 5,964 Bulk Carrier Delivered September 18
   unit: null
@@ -542,23 +484,20 @@ numeric_observations:
   - 9.0
   - 5964.0
   - 18.0
-- &id059
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 83,952
   unit: null
   values:
   - 83952.0
-- &id060
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 19, 2025
   unit: null
   values:
   - 19.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 1 Crystal 7,052 Tanker Arrived September 17
   unit: null
@@ -566,8 +505,7 @@ numeric_observations:
   - 1.0
   - 7052.0
   - 17.0
-- &id062
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 2 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -576,8 +514,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id063
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 3 Rade 29,941 LNG Carrier Delivered September 21
   unit: null
@@ -585,31 +522,27 @@ numeric_observations:
   - 3.0
   - 29941.0
   - 21.0
-- &id064
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 44,802
   unit: null
   values:
   - 44802.0
-- &id065
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 19, 2025
   unit: null
   values:
   - 19.0
   - 2025.0
-- &id066
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id067
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/13/2025 448.88 37,900.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -624,8 +557,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id068
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/14/2025 448.88 37,900.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -640,8 +572,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id069
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/15/2025 448.88 37,800.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -656,8 +587,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id070
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/16/2025 448.88 37,600.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -672,8 +602,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id071
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/17/2025 448.88 37,600.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -688,8 +617,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id072
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/18/2025 448.88 37,400.00 623.01 176,000.00 519.59 63,000.00 310.17
   unit: null
@@ -704,8 +632,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id073
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 9/19/2025 448.88 37,400.00 619.03 175,000.00 519.59 63,000.00 310.17
   unit: null
@@ -720,8 +647,7 @@ numeric_observations:
   - 519.59
   - 63000.0
   - 310.17
-- &id074
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -730,8 +656,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id075
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -740,8 +665,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id076
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -750,8 +674,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id077
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -760,8 +683,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id078
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -770,8 +692,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id079
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
   unit: null
@@ -785,8 +706,7 @@ numeric_observations:
   - 7.0
   - 29.0
   - 5.0
-- &id080
-  section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+- section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 691x160 mode=RGB'
   unit: null
@@ -836,86 +756,688 @@ section_count: 3
 signals:
   numeric_observation_count: 84
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: After what seemed like months of unstoppable volatility, a modicum
+      of stability seemed to enter the global trading marketsthis week as oil climbed
+      marginally (0.17%) before the week ended, yet this remains a near 1.4% drop
+      just this month and a 10.8% overall d
+    unit: pct
+    values:
+    - 0.17
+    - 1.4
+    - 10.8
+    - 3.6
+    - 2.0
+    - 3.0
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: A majority of the slim collection of recent market sales remained
+      focused on India, with Pakistan and (especially) Bangladesh still struggling
+      to summon any coherent offerings or a clear buying at present, even for those
+      vessels that are literally positioned i
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 38 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -9.0
+    - -22.0
+    - 38.0
+    - 6785.0
+    - -1.0
+    - 7.0
+    - 29.0
+    - 5.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: September 19th, 2025
+    unit: null
+    values:
+    - 19.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: Week 38
+    unit: null
+    values:
+    - 38.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: Volume 276, Issue 1203 - Amelia Earhart
+    unit: null
+    values:
+    - 276.0
+    - 1203.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: the global trading markets this week as oil climbed marginally (0.17%)
+      before the week ended, yet
+    unit: pct
+    values:
+    - 0.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: this remains a near 1.4% drop just this month and a 10.8% overall
+      decline from the same time last
+    unit: pct
+    values:
+    - 1.4
+    - 10.8
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: year. On the flip side, trading markets continue to edge on as they
+      surged another 3.6% this week,
+    unit: pct
+    values:
+    - 3.6
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 2% and 3% respectively, while the Cape index, which has been carrying
+      the bulk of the dry index
+    unit: pct
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: • Market focus. sector, climbed nearly 1% this week.
+    unit: pct
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: the performance of various indices over all of 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 38 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 38.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: steadily retreated over preceding months as it ended August at 8.29%
+      down from 9.8% just a few
+    unit: pct
+    values:
+    - 8.29
+    - 9.8
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: segments across various quarters, it ended the week subdued at BDT
+      121.74, while local steel plate
+    unit: null
+    values:
+    - 121.74
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: healthy USD 519/Ton. Local port position meanwhile escaped isolation
+      as another fresh candidate
+    unit: usd
+    values:
+    - 519.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: Overall, as all eyes and all hopes remain posted on the upcoming
+      elections in February 2026 when
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 21 basis points to end this week at Rs. 88.09. Local steel plate
+      prices also started to mirror neighbouring
+    unit: null
+    values:
+    - 21.0
+    - 88.09
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: competitors as they flatlined for the consecutive 3rd week in a row,
+      at the sub-continent's lowest levels
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: at USD 448/Ton.
+    unit: usd
+    values:
+    - 448.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: arrivals and nearly 84K LDT of tonnage idling at anchorage / delivered
+      locally. And while larger LDT
+    unit: null
+    values:
+    - 84.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: '"India only" domain for nearly 2 decades - and the fact that Pakistan
+      banned LNGs circa 2007.'
+    unit: null
+    values:
+    - 2.0
+    - 2007.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: fundamentals continue to support their ongoing price levels - the
+      PKR firming 18 basis points
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar closing the week out at PKR 283.44 and local
+      steel plate prices stagnating at
+    unit: null
+    values:
+    - 283.44
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: W ork to do. the highest levels in the industry at USD 623/Ton (despite
+      declining a comparatively marginal USD
+    unit: usd
+    values:
+    - 623.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 4/Ton and still closing the week out USD 619/Ton) - Pakistan remains
+      geared to be an industry
+    unit: usd
+    values:
+    - 4.0
+    - 619.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: prices fell for the 2nd week in a row, the Lira slid 15 basis points
+      to end the week at TRY 41.41 against
+    unit: null
+    values:
+    - 2.0
+    - 15.0
+    - 41.41
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: For Week 38 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line:  On average, lightning strikes Earth 100 times per second.
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line:  Due to their genes, redheads may need about 20% more anesthesia
+      than non-redheads.
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 02 - Dussehra / Gandhi Jayanthi September 19 - September
+      27
+    unit: null
+    values:
+    - 2.0
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 03 - Durga Puja October 05 - October 13
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 13.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 22 - Diwali October 20 - October 26
+    unit: null
+    values:
+    - 22.0
+    - 20.0
+    - 26.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 01 & 02 - Durga Puja September 20 - September 23
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 06 - October 09
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 20 - October 23
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day October 28 & 29 - Republic Day
+    unit: null
+    values:
+    - 24.0
+    - 28.0
+    - 29.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 19, 2025
+    unit: null
+    values:
+    - 19.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bonita 10,201 Bulk Carrier Arrived September 18
+    unit: null
+    values:
+    - 1.0
+    - 10201.0
+    - 18.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 2 Coal II 14,840 Oil Tanker Delivered September 17
+    unit: null
+    values:
+    - 2.0
+    - 14840.0
+    - 17.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 3.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 4 Gas Pioneer 1,140 LPG Arrived September 17
+    unit: null
+    values:
+    - 4.0
+    - 1140.0
+    - 17.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 5 Kavita 6,614 General Cargo Arrived September 16
+    unit: null
+    values:
+    - 5.0
+    - 6614.0
+    - 16.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 6 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 6.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 7 Pione 10,129 Oil Tanker Delivered September 17
+    unit: null
+    values:
+    - 7.0
+    - 10129.0
+    - 17.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 8 Rising Eagle 5,440 Bulk Carrier Arrived September 18
+    unit: null
+    values:
+    - 8.0
+    - 5440.0
+    - 18.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9 Rising Falcon 5,964 Bulk Carrier Delivered September 18
+    unit: null
+    values:
+    - 9.0
+    - 5964.0
+    - 18.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 83,952
+    unit: null
+    values:
+    - 83952.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 19, 2025
+    unit: null
+    values:
+    - 19.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 1 Crystal 7,052 Tanker Arrived September 17
+    unit: null
+    values:
+    - 1.0
+    - 7052.0
+    - 17.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 2 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rade 29,941 LNG Carrier Delivered September 21
+    unit: null
+    values:
+    - 3.0
+    - 29941.0
+    - 21.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 44,802
+    unit: null
+    values:
+    - 44802.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 19, 2025
+    unit: null
+    values:
+    - 19.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/13/2025 448.88 37,900.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 13.0
+    - 2025.0
+    - 448.88
+    - 37900.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/14/2025 448.88 37,900.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 14.0
+    - 2025.0
+    - 448.88
+    - 37900.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/15/2025 448.88 37,800.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 15.0
+    - 2025.0
+    - 448.88
+    - 37800.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/16/2025 448.88 37,600.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 16.0
+    - 2025.0
+    - 448.88
+    - 37600.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/17/2025 448.88 37,600.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 17.0
+    - 2025.0
+    - 448.88
+    - 37600.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/18/2025 448.88 37,400.00 623.01 176,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 18.0
+    - 2025.0
+    - 448.88
+    - 37400.0
+    - 623.01
+    - 176000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 9/19/2025 448.88 37,400.00 619.03 175,000.00 519.59 63,000.00 310.17
+    unit: null
+    values:
+    - 9.0
+    - 19.0
+    - 2025.0
+    - 448.88
+    - 37400.0
+    - 619.03
+    - 175000.0
+    - 519.59
+    - 63000.0
+    - 310.17
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_ship-recycling-market-insight-week-3_dee477f3b3ed.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -9.0
+    - -22.0
+    - 38.0
+    - 6785.0
+    - -1.0
+    - 7.0
+    - 29.0
+    - 5.0
+  - section: 'Linked asset: 2025-09-22_gms-week-38-september-serene_img1_6785-1_7be129ed15f0.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 691x160 mode=RGB'
+    unit: null
+    values:
+    - 691.0
+    - 60.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-22_gms-week-38-september-serene.html
 source_stem: 2025-09-22_gms-week-38-september-serene

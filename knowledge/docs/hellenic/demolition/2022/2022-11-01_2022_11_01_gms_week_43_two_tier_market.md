@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 95
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As a result, a sort of two tier market has emerged, one where Cash
     Buyers, Brokers and Owners expect the market to be at a certain level, and another
@@ -38,8 +37,7 @@ numeric_observations:
   unit: usd
   values:
   - 50.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Standard Handy, Panamax Bulk Carriers, and Capes are seeing prices
     in the mid USD 550s/LDT (if at all), as the number of End Buyers with the ability
@@ -47,8 +45,7 @@ numeric_observations:
   unit: usd
   values:
   - 550.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 43 of 2022, GMS demo rankings / pricing for the week are as
     below. Download PDF
@@ -56,8 +53,7 @@ numeric_observations:
   values:
   - 43.0
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-11-01_gms-week-43-two-tier-market_img1_311020225_129d5375aa91.jpg'
   unit: null
@@ -70,55 +66,48 @@ numeric_observations:
   - 129.0
   - 375.0
   - 1.0
-- &id005
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: October 28th, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id006
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Volume 243, Issue 1054
   unit: null
   values:
   - 243.0
   - 1054.0
-- &id007
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Week 43
   unit: null
   values:
   - 43.0
-- &id008
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: intentionally positioning prices well below asking levels, and both
     are about USD 50/LDT apart
   unit: usd
   values:
   - 50.0
-- &id009
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: • Mid 550s/LDT. in decent condition are welcomed with acceptable numbers
     from the markets, particularly from
   unit: null
   values:
   - 550.0
-- &id010
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Standard Handy, Panamax Bulk Carriers, and Capes are seeing prices
     in the mid USD 550s/LDT
   unit: usd
   values:
   - 550.0
-- &id011
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: For week 43 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -126,8 +115,7 @@ numeric_observations:
   values:
   - 43.0
   - 2022.0
-- &id012
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
   unit: null
@@ -136,8 +124,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 590.0
-- &id013
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
   unit: null
@@ -146,8 +133,7 @@ numeric_observations:
   - 560.0
   - 570.0
   - 580.0
-- &id014
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 550 / LDT 560 / LDT 570 / LDT
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 550.0
   - 560.0
   - 570.0
-- &id015
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
   unit: null
@@ -166,24 +151,21 @@ numeric_observations:
   - 240.0
   - 250.0
   - 260.0
-- &id016
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Fundamentals also remain quirky as local steel plate prices fell about
     USD 15/Ton while
   unit: usd
   values:
   - 15.0
-- &id018
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: the Bangladeshi Taka firmed back from BDT 104.X to BDT 100 against
     the U.S. Dollar - a
@@ -191,144 +173,126 @@ numeric_observations:
   values:
   - 104.0
   - 100.0
-- &id019
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: nearly 4% readjustment after having fallen nearly the same amount just
     a couple of weeks
   unit: pct
   values:
   - 4.0
-- &id020
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: While local steel plate prices posted a marginal USD 3/Ton improvement
     this week, it is
   unit: usd
   values:
   - 3.0
-- &id022
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: the Indian Rupee that registered some no teworthy gains, briefly firming
     into Rs. 81.9
   unit: null
   values:
   - 81.9
-- &id023
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: before settling back towards a still firmer Rs. 82.30 against the U.S.
     Dollar - as another mute
   unit: null
   values:
   - 82.3
-- &id024
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: On the fundamentals front, local steel plate prices declined nearly
     USD 25/Ton, while the
   unit: usd
   values:
   - 25.0
-- &id026
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee gradually weakened past PKR 222 against the U.S. Dollar
     this week.
   unit: null
   values:
   - 222.0
-- &id027
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: As such, there certainly seem increasing signs of a silent end to 2022
     and probably early
   unit: null
   values:
   - 2022.0
-- &id028
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: The Lira continues to bob around the TRY 18.5X mark whilst market supply
     remains
   unit: null
   values:
   - 18.5
-- &id030
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line:  A waffle iron inspired one of the first pairs of Nikes. Bill Bowerman
     was a track and field coach in the 1950s
   unit: null
   values:
   - 1950.0
-- &id032
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: even lighter and could be worn on a variety of surfaces. During a waffle
     breakfast with his wife in 1970, he
   unit: null
   values:
   - 1970.0
-- &id033
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: big debut in the 1972 U.S. Olympic track and field trials in Eugene,
     Oregon.
   unit: null
   values:
   - 1972.0
-- &id034
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line:  Base ball umpires used to sit in rocking chairs. People have been
     playing baseball since the mid-19th century.
   unit: null
   values:
   - 19.0
-- &id035
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: In th e early days, umpires would officiate the games while reclining
     in a rocking chair located 20 feet behind
   unit: null
   values:
   - 20.0
-- &id036
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: home plate. By 1878, the National League also declared that home teams
     must pay umpires $5 per game.
@@ -336,8 +300,7 @@ numeric_observations:
   values:
   - 1878.0
   - 5.0
-- &id037
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: November 08 - Guru Nanak Jayanthi October 25 - October 31
   unit: null
@@ -345,56 +308,49 @@ numeric_observations:
   - 8.0
   - 25.0
   - 31.0
-- &id038
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: November 06 - November 13
   unit: null
   values:
   - 6.0
   - 13.0
-- &id039
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: November 22 - November 29
   unit: null
   values:
   - 22.0
   - 29.0
-- &id040
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 06 - November 09
   unit: null
   values:
   - 6.0
   - 9.0
-- &id041
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: November 22 - November 25
   unit: null
   values:
   - 22.0
   - 25.0
-- &id042
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of October 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id044
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 1 Angelos (Under Tow) 3,841 Tanker Arrived October 28
   unit: null
@@ -402,8 +358,7 @@ numeric_observations:
   - 1.0
   - 3841.0
   - 28.0
-- &id045
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 2 Deed 1 1,986 General Cargo Arrived September 29
   unit: null
@@ -412,8 +367,7 @@ numeric_observations:
   - 1.0
   - 1986.0
   - 29.0
-- &id046
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 3 Dolphin 3,567 Fishing Vessel Beached October 21
   unit: null
@@ -421,23 +375,20 @@ numeric_observations:
   - 3.0
   - 3567.0
   - 21.0
-- &id047
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 9,393
   unit: null
   values:
   - 9393.0
-- &id048
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of October 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id049
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 1 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -445,8 +396,7 @@ numeric_observations:
   - 1.0
   - 15672.0
   - 22.0
-- &id050
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 2 Ark 41,756 Tanker Beached October 27
   unit: null
@@ -454,8 +404,7 @@ numeric_observations:
   - 2.0
   - 41756.0
   - 27.0
-- &id051
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 3 Bo Yang 18 3,524 Tanker Arrived October 22
   unit: null
@@ -464,8 +413,7 @@ numeric_observations:
   - 18.0
   - 3524.0
   - 22.0
-- &id052
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 4 Daiyu 623 General Cargo Beached October 25
   unit: null
@@ -473,8 +421,7 @@ numeric_observations:
   - 4.0
   - 623.0
   - 25.0
-- &id053
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 5 Dawn Luck 2,012 Tanker Arrived October 21
   unit: null
@@ -482,8 +429,7 @@ numeric_observations:
   - 5.0
   - 2012.0
   - 21.0
-- &id054
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 6 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -491,8 +437,7 @@ numeric_observations:
   - 6.0
   - 16885.0
   - 28.0
-- &id055
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 Java Illithyia 2,257 Survey Vessel Beached October 24
   unit: null
@@ -500,8 +445,7 @@ numeric_observations:
   - 7.0
   - 2257.0
   - 24.0
-- &id056
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 8 Propserity 5,822 Bulk Carrier Beached October 26
   unit: null
@@ -509,8 +453,7 @@ numeric_observations:
   - 8.0
   - 5822.0
   - 26.0
-- &id057
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 9 Searich 1,778 Tanker Arrived October 21
   unit: null
@@ -518,8 +461,7 @@ numeric_observations:
   - 9.0
   - 1778.0
   - 21.0
-- &id058
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 10 Shiny 22,009 Bulk Carrier Beached October 27
   unit: null
@@ -527,8 +469,7 @@ numeric_observations:
   - 10.0
   - 22009.0
   - 27.0
-- &id059
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 11 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -537,23 +478,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 113,312
   unit: null
   values:
   - 113312.0
-- &id061
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of October 28, 2022
   unit: null
   values:
   - 28.0
   - 2022.0
-- &id062
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 1 Linda Star 6,475 Bulk Carrier Arrived October 19
   unit: null
@@ -561,8 +499,7 @@ numeric_observations:
   - 1.0
   - 6475.0
   - 19.0
-- &id063
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 2 Medrock II 1,550 Barge Beached October 26
   unit: null
@@ -570,8 +507,7 @@ numeric_observations:
   - 2.0
   - 1550.0
   - 26.0
-- &id064
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 3 Ocean Younker 625 Tug Beached October 26
   unit: null
@@ -579,8 +515,7 @@ numeric_observations:
   - 3.0
   - 625.0
   - 26.0
-- &id065
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 4 Sea Master 2,316 Barge Beached October 27
   unit: null
@@ -588,15 +523,13 @@ numeric_observations:
   - 4.0
   - 2316.0
   - 27.0
-- &id066
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 10,966
   unit: null
   values:
   - 10966.0
-- &id067
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id068
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -615,8 +547,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id069
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -625,8 +556,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id070
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -635,8 +565,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id071
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -645,8 +574,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id072
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 3 .2 9
   unit: null
@@ -655,8 +583,7 @@ numeric_observations:
   - 3.0
   - 2.0
   - 9.0
-- &id073
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 3 .0 2
   unit: null
@@ -664,8 +591,7 @@ numeric_observations:
   - 7.0
   - 3.0
   - 2.0
-- &id074
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 2 .8 2
   unit: null
@@ -674,8 +600,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 6 .6 0
   unit: null
@@ -683,32 +608,28 @@ numeric_observations:
   - 7.0
   - 6.0
   - 6.0
-- &id076
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 ,4 0 0 .0
   unit: null
   values:
   - 7.0
   - 4.0
-- &id077
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 ,2 0 0 .0
   unit: null
   values:
   - 7.0
   - 2.0
-- &id078
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 7 ,5 0 0 .0
   unit: null
   values:
   - 7.0
   - 5.0
-- &id079
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 6 8 .1 9
   unit: null
@@ -717,8 +638,7 @@ numeric_observations:
   - 8.0
   - 1.0
   - 9.0
-- &id080
-  section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+- section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
   section_type: linked_pdf
   source_line: 4 4 .5 8
   unit: null
@@ -872,86 +792,625 @@ section_count: 3
 signals:
   numeric_observation_count: 95
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As a result, a sort of two tier market has emerged, one where Cash
+      Buyers, Brokers and Owners expect the market to be at a certain level, and another
+      where Local Recyclers seem to be intentionally positioning prices well below
+      asking levels, and both are about
+    unit: usd
+    values:
+    - 50.0
+  - section: Main
+    section_type: null
+    source_line: Standard Handy, Panamax Bulk Carriers, and Capes are seeing prices
+      in the mid USD 550s/LDT (if at all), as the number of End Buyers with the ability
+      to establish workable L/Cs across the sub-continent continues to dwindle.
+    unit: usd
+    values:
+    - 550.0
+  - section: Main
+    section_type: null
+    source_line: For week 43 of 2022, GMS demo rankings / pricing for the week are
+      as below. Download PDF
+    unit: null
+    values:
+    - 43.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-11-01_gms-week-43-two-tier-market_img1_311020225_129d5375aa91.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -11.0
+    - -1.0
+    - 43.0
+    - 311020225.0
+    - 129.0
+    - 375.0
+    - 1.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: October 28th, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Volume 243, Issue 1054
+    unit: null
+    values:
+    - 243.0
+    - 1054.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Week 43
+    unit: null
+    values:
+    - 43.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: intentionally positioning prices well below asking levels, and both
+      are about USD 50/LDT apart
+    unit: usd
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: • Mid 550s/LDT. in decent condition are welcomed with acceptable
+      numbers from the markets, particularly from
+    unit: null
+    values:
+    - 550.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Standard Handy, Panamax Bulk Carriers, and Capes are seeing prices
+      in the mid USD 550s/LDT
+    unit: usd
+    values:
+    - 550.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: For week 43 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 43.0
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
+    unit: null
+    values:
+    - 1.0
+    - 570.0
+    - 580.0
+    - 590.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 560.0
+    - 570.0
+    - 580.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 550 / LDT 560 / LDT 570 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 550.0
+    - 560.0
+    - 570.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 240.0
+    - 250.0
+    - 260.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Fundamentals also remain quirky as local steel plate prices fell
+      about USD 15/Ton while
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: the Bangladeshi Taka firmed back from BDT 104.X to BDT 100 against
+      the U.S. Dollar - a
+    unit: null
+    values:
+    - 104.0
+    - 100.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: nearly 4% readjustment after having fallen nearly the same amount
+      just a couple of weeks
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: While local steel plate prices posted a marginal USD 3/Ton improvement
+      this week, it is
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: the Indian Rupee that registered some no teworthy gains, briefly
+      firming into Rs. 81.9
+    unit: null
+    values:
+    - 81.9
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: before settling back towards a still firmer Rs. 82.30 against the
+      U.S. Dollar - as another mute
+    unit: null
+    values:
+    - 82.3
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: On the fundamentals front, local steel plate prices declined nearly
+      USD 25/Ton, while the
+    unit: usd
+    values:
+    - 25.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee gradually weakened past PKR 222 against the U.S.
+      Dollar this week.
+    unit: null
+    values:
+    - 222.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: As such, there certainly seem increasing signs of a silent end to
+      2022 and probably early
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: The Lira continues to bob around the TRY 18.5X mark whilst market
+      supply remains
+    unit: null
+    values:
+    - 18.5
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line:  A waffle iron inspired one of the first pairs of Nikes. Bill Bowerman
+      was a track and field coach in the 1950s
+    unit: null
+    values:
+    - 1950.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: even lighter and could be worn on a variety of surfaces. During a
+      waffle breakfast with his wife in 1970, he
+    unit: null
+    values:
+    - 1970.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: big debut in the 1972 U.S. Olympic track and field trials in Eugene,
+      Oregon.
+    unit: null
+    values:
+    - 1972.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line:  Base ball umpires used to sit in rocking chairs. People have been
+      playing baseball since the mid-19th century.
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: In th e early days, umpires would officiate the games while reclining
+      in a rocking chair located 20 feet behind
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: home plate. By 1878, the National League also declared that home
+      teams must pay umpires $5 per game.
+    unit: usd
+    values:
+    - 1878.0
+    - 5.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: November 08 - Guru Nanak Jayanthi October 25 - October 31
+    unit: null
+    values:
+    - 8.0
+    - 25.0
+    - 31.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: November 06 - November 13
+    unit: null
+    values:
+    - 6.0
+    - 13.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: November 22 - November 29
+    unit: null
+    values:
+    - 22.0
+    - 29.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 06 - November 09
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: November 22 - November 25
+    unit: null
+    values:
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of October 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Angelos (Under Tow) 3,841 Tanker Arrived October 28
+    unit: null
+    values:
+    - 1.0
+    - 3841.0
+    - 28.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 Deed 1 1,986 General Cargo Arrived September 29
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 1986.0
+    - 29.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Dolphin 3,567 Fishing Vessel Beached October 21
+    unit: null
+    values:
+    - 3.0
+    - 3567.0
+    - 21.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 9,393
+    unit: null
+    values:
+    - 9393.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of October 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 1.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ark 41,756 Tanker Beached October 27
+    unit: null
+    values:
+    - 2.0
+    - 41756.0
+    - 27.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bo Yang 18 3,524 Tanker Arrived October 22
+    unit: null
+    values:
+    - 3.0
+    - 18.0
+    - 3524.0
+    - 22.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Daiyu 623 General Cargo Beached October 25
+    unit: null
+    values:
+    - 4.0
+    - 623.0
+    - 25.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 5 Dawn Luck 2,012 Tanker Arrived October 21
+    unit: null
+    values:
+    - 5.0
+    - 2012.0
+    - 21.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 6 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 6.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 Java Illithyia 2,257 Survey Vessel Beached October 24
+    unit: null
+    values:
+    - 7.0
+    - 2257.0
+    - 24.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 8 Propserity 5,822 Bulk Carrier Beached October 26
+    unit: null
+    values:
+    - 8.0
+    - 5822.0
+    - 26.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 9 Searich 1,778 Tanker Arrived October 21
+    unit: null
+    values:
+    - 9.0
+    - 1778.0
+    - 21.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 10 Shiny 22,009 Bulk Carrier Beached October 27
+    unit: null
+    values:
+    - 10.0
+    - 22009.0
+    - 27.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 11 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 11.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 113,312
+    unit: null
+    values:
+    - 113312.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of October 28, 2022
+    unit: null
+    values:
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Linda Star 6,475 Bulk Carrier Arrived October 19
+    unit: null
+    values:
+    - 1.0
+    - 6475.0
+    - 19.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 2 Medrock II 1,550 Barge Beached October 26
+    unit: null
+    values:
+    - 2.0
+    - 1550.0
+    - 26.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ocean Younker 625 Tug Beached October 26
+    unit: null
+    values:
+    - 3.0
+    - 625.0
+    - 26.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sea Master 2,316 Barge Beached October 27
+    unit: null
+    values:
+    - 4.0
+    - 2316.0
+    - 27.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 10,966
+    unit: null
+    values:
+    - 10966.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 .2 9
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+    - 2.0
+    - 9.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 .0 2
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 2 .8 2
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 6 .6 0
+    unit: null
+    values:
+    - 7.0
+    - 6.0
+    - 6.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 ,4 0 0 .0
+    unit: null
+    values:
+    - 7.0
+    - 4.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 ,2 0 0 .0
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 7 ,5 0 0 .0
+    unit: null
+    values:
+    - 7.0
+    - 5.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 6 8 .1 9
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+    - 1.0
+    - 9.0
+  - section: 'Linked asset: 2022-11-01_gms-week-43-two-tier-market_ship-recycling-market-insight-week-4_578afcf6ed9d.pdf'
+    section_type: linked_pdf
+    source_line: 4 4 .5 8
+    unit: null
+    values:
+    - 4.0
+    - 4.0
+    - 5.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-11-01_gms-week-43-two-tier-market.html
 source_stem: 2022-11-01_gms-week-43-two-tier-market

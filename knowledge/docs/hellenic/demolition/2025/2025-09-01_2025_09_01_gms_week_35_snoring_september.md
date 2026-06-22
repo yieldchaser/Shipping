@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 100
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As August winds down, global markets gave us another week of shy half-gestures
     and newlywed hesitant moves, all while confidentlypretending they were marching
@@ -46,8 +45,7 @@ numeric_observations:
   - 2025.0
   - 3.1
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Tonnage supply this week has however slowed, with fewer arrivals across
     the Indian sub-continent ship recycling waterfronts that left Bangladesh and Pakistan
@@ -56,8 +54,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Inflation levels only added to the ongoing facade as it is looking
     less like a synchronized dance and more like a badly rehearsed opera of monkeys.
@@ -73,8 +70,7 @@ numeric_observations:
   - 3.5
   - 0.5
   - 32.6
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 35 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -82,8 +78,7 @@ numeric_observations:
   values:
   - 35.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-09-01_gms-week-35-snoring-september_img1_089564_66f062af8a3f.jpg'
   unit: null
@@ -95,31 +90,27 @@ numeric_observations:
   - 89564.0
   - 66.0
   - 62.0
-- &id006
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: August 31st, 2025
   unit: null
   values:
   - 31.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Week 35
   unit: null
   values:
   - 35.0
-- &id008
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Volume 275, Issue 1200
   unit: null
   values:
   - 275.0
   - 1200.0
-- &id009
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: closed at USD 64/barrel with Brent just above USD 68-moves so small
     they looked like rounding
@@ -127,48 +118,42 @@ numeric_observations:
   values:
   - 64.0
   - 68.0
-- &id010
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: errors. Yet the steady draw of about 3 million barrels from U.S. reserves
     keeps feeding the illusion
   unit: null
   values:
   - 3.0
-- &id011
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: • Slow supply. The Baltic Dry Index also added its own stage drama,
     closing at 2,025, the best in a month, but the
   unit: null
   values:
   - 2025.0
-- &id012
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'split beneath the headline was far more telling: Panamaxes up 3.1%,
     Supramaxes at highs not seen'
   unit: pct
   values:
   - 3.1
-- &id013
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: since May 2024, and lumbering Capesizes stumbled on their own wakes
     thanks to weak iron ore
   unit: null
   values:
   - 2024.0
-- &id014
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: would be happen through the summer of 2025 - much to the industry's
     dismay. Currencies also
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: more like a badly rehearsed opera of monkeys. In the U.S., levels stayed
     steady around 2.7-2.8%, as
@@ -176,8 +161,7 @@ numeric_observations:
   values:
   - 2.7
   - -2.8
-- &id016
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Inflation again at 8.5%. Pakistan bounced absurdly from April's 0.3%
     (the lowest since the 1960s) to
@@ -186,32 +170,28 @@ numeric_observations:
   - 8.5
   - 0.3
   - 1960.0
-- &id017
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 3.5% in May, like inflation had forgotten to show up and then arrived
     late to the party. China
   unit: pct
   values:
   - 3.5
-- &id018
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: whispered at 0.5%, barely audible, while Turkey, though far better
     than a year ago, is still screaming
   unit: pct
   values:
   - 0.5
-- &id019
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: • Scan to download at 32.6%, fiscal drama queen hogging center stage
     while driving Turkish recyclers into oblivion.
   unit: pct
   values:
   - 32.6
-- &id020
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 35 of 2025 are on Page 6.
   unit: null
@@ -219,16 +199,14 @@ numeric_observations:
   - 35.0
   - 2025.0
   - 6.0
-- &id021
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: plate prices flatlining at USD 541.9/ton and the Taka seemingly steadying
     itself at BDT 121.7 against
@@ -236,48 +214,42 @@ numeric_observations:
   values:
   - 541.9
   - 121.7
-- &id023
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: tonnage. As pr eviou sly reported, inflation has climbed back to 8.55%
     in July, further elevating local
   unit: pct
   values:
   - 8.55
-- &id024
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: eyes are focusing on the upcoming national elections scheduled for
     February 2026, where hopes
   unit: null
   values:
   - 2026.0
-- &id025
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: While seven vessels totalling 90,653 LDT were logged for the week in
     India, a couple were prior arrivals
   unit: null
   values:
   - 90653.0
-- &id027
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: vessel having a ULCC like ego of 281 LDT. This in fact has been a trickle,
     not a flood - but enough for
   unit: null
   values:
   - 281.0
-- &id028
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: USD 442.9/ton to 448.9/ton - a healthy gain of USD 6/ton for the week
     - any optimism was undercut by
@@ -286,40 +258,35 @@ numeric_observations:
   - 442.9
   - 448.9
   - 6.0
-- &id029
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: the collapse of the Rupee, which fell to a disastrous record low of
     INR 88.3 against the U.S. Dollar and
   unit: null
   values:
   - 88.3
-- &id030
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: show as they continue to hold firm at USD 621.9/ton, still the highest
     in the sub-continent and with
   unit: usd
   values:
   - 621.9
-- &id032
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: performance is the fact is that the Pakistani Rupee held steady at
     a recent and decent PKR 281.8
   unit: null
   values:
   - 281.8
-- &id033
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Inflation may have nudged upward - from April's surreal 0.3% low (the
     weakest since the 1960s)
@@ -327,24 +294,21 @@ numeric_observations:
   values:
   - 0.3
   - 1960.0
-- &id034
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: to 3.5% in May - but in the context of ship recycling, stable local
     fundamentals outweigh macro
   unit: pct
   values:
   - 3.5
-- &id035
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: For Week 35 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -352,8 +316,7 @@ numeric_observations:
   values:
   - 35.0
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -362,8 +325,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id038
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
   unit: null
@@ -372,8 +334,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id039
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
   unit: null
@@ -382,8 +343,7 @@ numeric_observations:
   - 405.0
   - 425.0
   - 435.0
-- &id040
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -392,32 +352,28 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id041
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line:  Fish Puke Immortalized in Rock - A 66-million-year-old fossilized
     chunk of fish vomit-complete with bits of sea lilies-was
   unit: null
   values:
   - 66.0
-- &id043
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line:  Interstellar Comet with an Identity Crisis - 3I/ATLAS, only the third
     confirmed interstellar visitor, surprised scientists
   unit: null
   values:
   - 3.0
-- &id044
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line:  Uranus Gets a New Moon - Astronomers spotted a probable new satellite
     of Uranus, named S/2025 U 1-a tiny 10 km rock
@@ -426,32 +382,28 @@ numeric_observations:
   - 2025.0
   - 1.0
   - 10.0
-- &id045
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: lurking just beyond the planet's rings. It's the first moon discovery
     since 2003.
   unit: null
   values:
   - 2003.0
-- &id046
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: No major holidays in September September 05 = September 14
   unit: null
   values:
   - 5.0
   - 14.0
-- &id047
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: September 19 - September 27
   unit: null
   values:
   - 19.0
   - 27.0
-- &id048
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi September 07 - September 10
   unit: null
@@ -459,40 +411,35 @@ numeric_observations:
   - 5.0
   - 7.0
   - 10.0
-- &id049
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: September 20 - September 23
   unit: null
   values:
   - 20.0
   - 23.0
-- &id050
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: September 05 - Eid-e-Milad-un-Nabi August 30 - Victory Day
   unit: null
   values:
   - 5.0
   - 30.0
-- &id051
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of August 29, 2025
   unit: null
   values:
   - 29.0
   - 2025.0
-- &id053
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 1 Abdullah F 9,623 Oil Tanker Arrived August 19
   unit: null
@@ -500,8 +447,7 @@ numeric_observations:
   - 1.0
   - 9623.0
   - 19.0
-- &id054
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 2 Bow Fagus 11,189 Chemical Tanker Delivered August 27
   unit: null
@@ -509,8 +455,7 @@ numeric_observations:
   - 2.0
   - 11189.0
   - 27.0
-- &id055
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -518,8 +463,7 @@ numeric_observations:
   - 3.0
   - 20001.0
   - 13.0
-- &id056
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 4 Muru 281 Supply Vessel Delivered August 30
   unit: null
@@ -527,8 +471,7 @@ numeric_observations:
   - 4.0
   - 281.0
   - 30.0
-- &id057
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -536,8 +479,7 @@ numeric_observations:
   - 5.0
   - 9623.0
   - 7.0
-- &id058
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 6 Simas 20,001 Oil Tanker Delivered August 26
   unit: null
@@ -545,23 +487,20 @@ numeric_observations:
   - 6.0
   - 20001.0
   - 26.0
-- &id059
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 70,718
   unit: null
   values:
   - 70718.0
-- &id060
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of August 29, 2025
   unit: null
   values:
   - 29.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -570,8 +509,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id062
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 2 Dalian 21,414 Bulk Carrier Delivered August 23
   unit: null
@@ -579,23 +517,20 @@ numeric_observations:
   - 2.0
   - 21414.0
   - 23.0
-- &id063
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 29,223
   unit: null
   values:
   - 29223.0
-- &id064
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of August 29, 2025
   unit: null
   values:
   - 29.0
   - 2025.0
-- &id065
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 1 Sister 12 2,261 General Cargo Arrived August 12
   unit: null
@@ -604,15 +539,13 @@ numeric_observations:
   - 12.0
   - 2261.0
   - 12.0
-- &id066
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 2,261
   unit: null
   values:
   - 2261.0
-- &id067
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -621,8 +554,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id068
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -631,8 +563,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id069
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -641,8 +572,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id070
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -651,8 +581,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id071
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -661,8 +590,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id072
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 3 /2
   unit: null
@@ -670,8 +598,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 4 /2
   unit: null
@@ -679,8 +606,7 @@ numeric_observations:
   - 2.0
   - 4.0
   - 2.0
-- &id074
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 5 /2
   unit: null
@@ -688,8 +614,7 @@ numeric_observations:
   - 2.0
   - 5.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 6 /2
   unit: null
@@ -697,8 +622,7 @@ numeric_observations:
   - 2.0
   - 6.0
   - 2.0
-- &id076
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 7 /2
   unit: null
@@ -706,8 +630,7 @@ numeric_observations:
   - 2.0
   - 7.0
   - 2.0
-- &id077
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 8 /2
   unit: null
@@ -715,8 +638,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 2.0
-- &id078
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: /2 9 /2
   unit: null
@@ -724,8 +646,7 @@ numeric_observations:
   - 2.0
   - 9.0
   - 2.0
-- &id079
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 4 2 .8 8
   unit: null
@@ -734,8 +655,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 8.0
-- &id080
-  section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+- section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
   section_type: linked_pdf
   source_line: 4 3 .8 8
   unit: null
@@ -923,86 +843,639 @@ section_count: 3
 signals:
   numeric_observation_count: 100
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As August winds down, global markets gave us another week of shy
+      half-gestures and newlywed hesitant moves, all while confidentlypretending they
+      were marching somewhere important. Oil traders kept one eye on inventories,
+      the other on geopolitics, and both cock
+    unit: pct
+    values:
+    - 64.0
+    - 68.0
+    - 3.0
+    - 2025.0
+    - 3.1
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Tonnage supply this week has however slowed, with fewer arrivals
+      across the Indian sub-continent ship recycling waterfronts that left Bangladesh
+      and Pakistan feeling quieter than recent ledgers suggest, while only a couple
+      of tankers and a tiny supply vessel s
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: Inflation levels only added to the ongoing facade as it is looking
+      less like a synchronized dance and more like a badly rehearsed opera of monkeys.
+      In the U.S., levels stayed steady around 2.7-2.8%, as the Feds keep U.S. interest
+      rates on hold. India played th
+    unit: tonnage
+    values:
+    - 2.7
+    - -2.8
+    - 8.5
+    - 0.3
+    - 1960.0
+    - 3.5
+    - 0.5
+    - 32.6
+  - section: Main
+    section_type: null
+    source_line: For Week 35 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-09-01_gms-week-35-snoring-september_img1_089564_66f062af8a3f.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -9.0
+    - -1.0
+    - 35.0
+    - 89564.0
+    - 66.0
+    - 62.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: August 31st, 2025
+    unit: null
+    values:
+    - 31.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Week 35
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Volume 275, Issue 1200
+    unit: null
+    values:
+    - 275.0
+    - 1200.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: closed at USD 64/barrel with Brent just above USD 68-moves so small
+      they looked like rounding
+    unit: usd
+    values:
+    - 64.0
+    - 68.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: errors. Yet the steady draw of about 3 million barrels from U.S.
+      reserves keeps feeding the illusion
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: • Slow supply. The Baltic Dry Index also added its own stage drama,
+      closing at 2,025, the best in a month, but the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'split beneath the headline was far more telling: Panamaxes up 3.1%,
+      Supramaxes at highs not seen'
+    unit: pct
+    values:
+    - 3.1
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: since May 2024, and lumbering Capesizes stumbled on their own wakes
+      thanks to weak iron ore
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: would be happen through the summer of 2025 - much to the industry's
+      dismay. Currencies also
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: more like a badly rehearsed opera of monkeys. In the U.S., levels
+      stayed steady around 2.7-2.8%, as
+    unit: pct
+    values:
+    - 2.7
+    - -2.8
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Inflation again at 8.5%. Pakistan bounced absurdly from April's 0.3%
+      (the lowest since the 1960s) to
+    unit: pct
+    values:
+    - 8.5
+    - 0.3
+    - 1960.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 3.5% in May, like inflation had forgotten to show up and then arrived
+      late to the party. China
+    unit: pct
+    values:
+    - 3.5
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: whispered at 0.5%, barely audible, while Turkey, though far better
+      than a year ago, is still screaming
+    unit: pct
+    values:
+    - 0.5
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download at 32.6%, fiscal drama queen hogging center stage
+      while driving Turkish recyclers into oblivion.
+    unit: pct
+    values:
+    - 32.6
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 35 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 35.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: plate prices flatlining at USD 541.9/ton and the Taka seemingly steadying
+      itself at BDT 121.7 against
+    unit: usd
+    values:
+    - 541.9
+    - 121.7
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: tonnage. As pr eviou sly reported, inflation has climbed back to
+      8.55% in July, further elevating local
+    unit: pct
+    values:
+    - 8.55
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: eyes are focusing on the upcoming national elections scheduled for
+      February 2026, where hopes
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: While seven vessels totalling 90,653 LDT were logged for the week
+      in India, a couple were prior arrivals
+    unit: null
+    values:
+    - 90653.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: vessel having a ULCC like ego of 281 LDT. This in fact has been a
+      trickle, not a flood - but enough for
+    unit: null
+    values:
+    - 281.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: USD 442.9/ton to 448.9/ton - a healthy gain of USD 6/ton for the
+      week - any optimism was undercut by
+    unit: usd
+    values:
+    - 442.9
+    - 448.9
+    - 6.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: the collapse of the Rupee, which fell to a disastrous record low
+      of INR 88.3 against the U.S. Dollar and
+    unit: null
+    values:
+    - 88.3
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: show as they continue to hold firm at USD 621.9/ton, still the highest
+      in the sub-continent and with
+    unit: usd
+    values:
+    - 621.9
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: performance is the fact is that the Pakistani Rupee held steady at
+      a recent and decent PKR 281.8
+    unit: null
+    values:
+    - 281.8
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Inflation may have nudged upward - from April's surreal 0.3% low
+      (the weakest since the 1960s)
+    unit: pct
+    values:
+    - 0.3
+    - 1960.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: to 3.5% in May - but in the context of ship recycling, stable local
+      fundamentals outweigh macro
+    unit: pct
+    values:
+    - 3.5
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: For Week 35 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 405.0
+    - 425.0
+    - 435.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line:  Fish Puke Immortalized in Rock - A 66-million-year-old fossilized
+      chunk of fish vomit-complete with bits of sea lilies-was
+    unit: null
+    values:
+    - 66.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line:  Interstellar Comet with an Identity Crisis - 3I/ATLAS, only the
+      third confirmed interstellar visitor, surprised scientists
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line:  Uranus Gets a New Moon - Astronomers spotted a probable new satellite
+      of Uranus, named S/2025 U 1-a tiny 10 km rock
+    unit: null
+    values:
+    - 2025.0
+    - 1.0
+    - 10.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: lurking just beyond the planet's rings. It's the first moon discovery
+      since 2003.
+    unit: null
+    values:
+    - 2003.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: No major holidays in September September 05 = September 14
+    unit: null
+    values:
+    - 5.0
+    - 14.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: September 19 - September 27
+    unit: null
+    values:
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi September 07 - September 10
+    unit: null
+    values:
+    - 5.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: September 20 - September 23
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: September 05 - Eid-e-Milad-un-Nabi August 30 - Victory Day
+    unit: null
+    values:
+    - 5.0
+    - 30.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of August 29, 2025
+    unit: null
+    values:
+    - 29.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Abdullah F 9,623 Oil Tanker Arrived August 19
+    unit: null
+    values:
+    - 1.0
+    - 9623.0
+    - 19.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bow Fagus 11,189 Chemical Tanker Delivered August 27
+    unit: null
+    values:
+    - 2.0
+    - 11189.0
+    - 27.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 3.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Muru 281 Supply Vessel Delivered August 30
+    unit: null
+    values:
+    - 4.0
+    - 281.0
+    - 30.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 5 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 5.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 6 Simas 20,001 Oil Tanker Delivered August 26
+    unit: null
+    values:
+    - 6.0
+    - 20001.0
+    - 26.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 70,718
+    unit: null
+    values:
+    - 70718.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of August 29, 2025
+    unit: null
+    values:
+    - 29.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dalian 21,414 Bulk Carrier Delivered August 23
+    unit: null
+    values:
+    - 2.0
+    - 21414.0
+    - 23.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 29,223
+    unit: null
+    values:
+    - 29223.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of August 29, 2025
+    unit: null
+    values:
+    - 29.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sister 12 2,261 General Cargo Arrived August 12
+    unit: null
+    values:
+    - 1.0
+    - 12.0
+    - 2261.0
+    - 12.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 2,261
+    unit: null
+    values:
+    - 2261.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 3 /2
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 4 /2
+    unit: null
+    values:
+    - 2.0
+    - 4.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 5 /2
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 6 /2
+    unit: null
+    values:
+    - 2.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 7 /2
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 8 /2
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: /2 9 /2
+    unit: null
+    values:
+    - 2.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 4 2 .8 8
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-09-01_gms-week-35-snoring-september_ship-recycling-market-insight-week-3_2c1e393985c3.pdf'
+    section_type: linked_pdf
+    source_line: 4 3 .8 8
+    unit: null
+    values:
+    - 4.0
+    - 3.0
+    - 8.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-01_gms-week-35-snoring-september.html
 source_stem: 2025-09-01_gms-week-35-snoring-september

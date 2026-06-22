@@ -28,8 +28,7 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 7
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As the world starts to emerge to the new realities of dealing in a
     post Covid-19 world and economies try to get back into the swing once again, we
@@ -39,8 +38,7 @@ numeric_observations:
   values:
   - 19.0
   - 2022.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 37 of 2021, GMS demo rankings / pricing for the week are as
     below.
@@ -48,16 +46,14 @@ numeric_observations:
   values:
   - 37.0
   - 2021.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 1-21.jpg'
   unit: null
   values:
   - 1.0
   - -21.0
-- &id004
-  section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+- section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
   unit: null
@@ -70,24 +66,21 @@ numeric_observations:
   - -21.0
   - 61890.0
   - 36.0
-- &id005
-  section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+- section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 616x155 mode=RGB'
   unit: null
   values:
   - 616.0
   - 55.0
-- &id006
-  section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+- section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id007
-  section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+- section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh 590/LDT | 600/LDT__| 610/LDT
   unit: null
@@ -103,13 +96,66 @@ section_count: 2
 signals:
   numeric_observation_count: 7
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
+  - section: Main
+    section_type: null
+    source_line: As the world starts to emerge to the new realities of dealing in
+      a post Covid-19 world and economies try to get back into the swing once again,
+      we can only hope for some sustained stability for the ship recycling sector
+      heading into 2022.
+    unit: null
+    values:
+    - 19.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: For week 37 of 2021, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 37.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 1-21.jpg'
+    unit: null
+    values:
+    - 1.0
+    - -21.0
+  - section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -9.0
+    - -13.0
+    - 37.0
+    - 1.0
+    - -21.0
+    - 61890.0
+    - 36.0
+  - section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 616x155 mode=RGB'
+    unit: null
+    values:
+    - 616.0
+    - 55.0
+  - section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2021-09-13_gms-week-37-post-covid-reality_1-21_dd961890c436.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh 590/LDT | 600/LDT__| 610/LDT
+    unit: null
+    values:
+    - 590.0
+    - 600.0
+    - 610.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-09-13_gms-week-37-post-covid-reality.html
 source_stem: 2021-09-13_gms-week-37-post-covid-reality

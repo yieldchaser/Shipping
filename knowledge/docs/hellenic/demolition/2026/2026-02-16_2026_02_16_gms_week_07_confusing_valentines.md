@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 96
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In an expanded view, the Baltic Exchange's Dry Bulk Index fell 0.6%
     this week, pressured primarily by the larger-sized segments, as Capes fell nearly
@@ -45,8 +44,7 @@ numeric_observations:
   - 0.6
   - 1.8
   - 62.8
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: But for the ship recycling world, it's likely to be even quieter as
     Chine enters its New Year holiday period, an already subdued (in terms of volumes,
@@ -56,8 +54,7 @@ numeric_observations:
   values:
   - 600.0
   - 400.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Recycling markets do seem to have stabilized within the region of the
     turbulence and for the time being, events are conspiring in favor of sub-continent
@@ -67,8 +64,7 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 7 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -76,8 +72,7 @@ numeric_observations:
   values:
   - 7.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-02-16_gms-week-07-confusing-valentines_img1_162202513_30c38c67f6d5.jpg'
   unit: null
@@ -90,23 +85,20 @@ numeric_observations:
   - 30.0
   - 8.0
   - 7.0
-- &id006
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: February 13th, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id007
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Week 7
   unit: null
   values:
   - 7.0
-- &id008
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Volume 2 81, Issue 1223 - Sam Levenson
   unit: null
@@ -114,24 +106,21 @@ numeric_observations:
   - 2.0
   - 81.0
   - 1223.0
-- &id009
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: In an expanded view, the Baltic Exchange's Dry Bulk Index fell 0.6%
     this week, pressured primarily
   unit: pct
   values:
   - 0.6
-- &id010
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: by the larger-sized segments, as Capes fell nearly 2% and the Panamax
     index slipped a matching
   unit: pct
   values:
   - 2.0
-- &id011
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 0.6%, Supras marched (improved) an impressive 1.8% of their own. Sliding
     into the barrel, we see
@@ -139,32 +128,28 @@ numeric_observations:
   values:
   - 0.6
   - 1.8
-- &id012
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: WTI crude oil futures pull a drone maneuver and hover around (a lower)
     USD 62.8/barrel, as
   unit: usd
   values:
   - 62.8
-- &id013
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Ds everal years, and depreciating levels from the highs of USD 600/LDT
     down to well below USD
   unit: usd
   values:
   - 600.0
-- &id014
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 400/LDT, have been a jolt to end-of-life residual values of ships and
     the books of owners/operators.
   unit: null
   values:
   - 400.0
-- &id015
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: banned former PM Sheikh Hasina's party), as the BNP claimed power with
     over a 2/3 majority. The
@@ -172,8 +157,7 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id016
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 7 of 2026 are on Page 6.
   unit: null
@@ -181,16 +165,14 @@ numeric_observations:
   - 7.0
   - 2026.0
   - 6.0
-- &id017
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: (BNP), into the leadership seat with more than a 2/3 majority win during
     the nation's recent General
@@ -198,24 +180,21 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id019
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: On the fundamentals side, all was not rosy, especially given that the
     Taka lost 17 basis points
   unit: null
   values:
   - 17.0
-- &id020
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar and closed the week out at BDT 122.25, on a
     trajectory that seems to indicate
   unit: null
   values:
   - 122.25
-- &id021
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: hammocks as they continue to flatline at nearly USD 494/ton for nearly
     3 weeks now, indicating an
@@ -223,55 +202,48 @@ numeric_observations:
   values:
   - 494.0
   - 3.0
-- &id022
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: only did local recyclers manage to reel in another collection of smaller
     LDT units including a 7K
   unit: null
   values:
   - 7.0
-- &id023
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: LDT bulker, it was the arrival of a 24K LDT unit that confirmed why
     Chattogram choppers
   unit: null
   values:
   - 24.0
-- &id024
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: anchorage this week, where well over 47K LDT is idling / has been delivered
     to its new owners,
   unit: null
   values:
   - 47.0
-- &id026
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: including 2 rare large LDT tankers - certainly a sight for hungry eyes.
   unit: null
   values:
   - 2.0
-- &id027
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: declines, where even this week, we saw local steel plate prices systematically
     fell nearly USD 10/ton
   unit: usd
   values:
   - 10.0
-- &id028
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: better option and reclaimed another 15 basis points against the U.S.
     Dollar, to end the week at Rs. 90.6.
@@ -279,24 +251,21 @@ numeric_observations:
   values:
   - 15.0
   - 90.6
-- &id029
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: not only has the Pakistani Rupee firmed to below PKR 280, but local
     steel plate prices even rose
   unit: null
   values:
   - 280.0
-- &id031
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 279.59. Local steel plate prices, too, remain even-keeled at an industry-fantastic
     PKR 594/ton -
@@ -304,8 +273,7 @@ numeric_observations:
   values:
   - 279.59
   - 594.0
-- &id032
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: USD 100/ton more than those from Bangladesh and about USD 190/ton above
     those from Alang.
@@ -313,8 +281,7 @@ numeric_observations:
   values:
   - 100.0
   - 190.0
-- &id033
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: total volume of tonnage at anchorage to nearly 30K LDT via 4 vessels
     this week. A massive upgrade
@@ -322,24 +289,21 @@ numeric_observations:
   values:
   - 30.0
   - 4.0
-- &id034
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: years. And since Lira is all there ever is, it's down another 24 basis
     points this week and scratching
   unit: null
   values:
   - 24.0
-- &id036
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: at the knees of TRY 44, having closed the week at TRY 43.71 against
     the U.S. Dollar. Local offerings
@@ -347,8 +311,7 @@ numeric_observations:
   values:
   - 44.0
   - 43.71
-- &id037
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: For Week 7 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -356,8 +319,7 @@ numeric_observations:
   values:
   - 7.0
   - 2026.0
-- &id038
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -366,8 +328,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id039
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -376,8 +337,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id040
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -386,8 +346,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id041
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -396,23 +355,20 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id042
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ANOTHER…2025 IN REVIEW!!
   unit: null
   values:
   - 2025.0
-- &id044
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Aug 03: At least 100,000 people marched across the Sydney Harbour
     Bridge in a pro-Palestine protest.'
@@ -420,8 +376,7 @@ numeric_observations:
   values:
   - 3.0
   - 100000.0
-- &id045
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Aug 11: Fictional girl group HUNTR/X from the Netflix''s "KPop Demon
     Hunters" reached #1 on the U.S. Billboard'
@@ -429,15 +384,13 @@ numeric_observations:
   values:
   - 11.0
   - 1.0
-- &id046
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Hot 100, with their viral song "Golden."
   unit: null
   values:
   - 100.0
-- &id047
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Aug 15: The first-ever World Humanoid Robot Games opened in Beijing,
     China, featuring over 500 androids from 16'
@@ -446,8 +399,7 @@ numeric_observations:
   - 15.0
   - 500.0
   - 16.0
-- &id048
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Aug 28: An AI-enhanced immersive version of the 1939 film The Wizard
     of Oz premiered at the Sphere in Las Vegas.'
@@ -455,8 +407,7 @@ numeric_observations:
   values:
   - 28.0
   - 1939.0
-- &id049
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Sep 06: Max Verstappen broke the record for the fastest qualifying
     lap in Formula One history with a time of 1:18.792.'
@@ -465,16 +416,14 @@ numeric_observations:
   - 6.0
   - 1.0
   - 18.792
-- &id050
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ' Sep 16: The co-founder of Ben & Jerry''s ice cream, Jerry Greenfield,
     resigned after the parent company, Unilever,'
   unit: null
   values:
   - 16.0
-- &id051
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 04 - Holi February 16 - February 23
   unit: null
@@ -482,8 +431,7 @@ numeric_observations:
   - 4.0
   - 16.0
   - 23.0
-- &id052
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 01 - March 07
   unit: null
@@ -491,8 +439,7 @@ numeric_observations:
   - 21.0
   - 1.0
   - 7.0
-- &id053
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 26 - Ram Navami March 18 - March 24
   unit: null
@@ -500,15 +447,13 @@ numeric_observations:
   - 26.0
   - 18.0
   - 24.0
-- &id054
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 31 - Mahavir Jayanthi
   unit: null
   values:
   - 31.0
-- &id055
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: February 21 - Martyr's Day February 19 - February 22
   unit: null
@@ -516,8 +461,7 @@ numeric_observations:
   - 21.0
   - 19.0
   - 22.0
-- &id056
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 19 - Eid-ul-Fitr March 04 - March 07
   unit: null
@@ -525,8 +469,7 @@ numeric_observations:
   - 19.0
   - 4.0
   - 7.0
-- &id057
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
     22
@@ -538,15 +481,13 @@ numeric_observations:
   - 3.0
   - 19.0
   - 22.0
-- &id058
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id059
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March 23
     - Eid-ul-Fitr & Ramzan Bayrami
@@ -559,24 +500,21 @@ numeric_observations:
   - 3.0
   - 19.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id061
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of February 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id062
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 1 Diana 15,065 Oil Tanker Arrived February 13
   unit: null
@@ -584,8 +522,7 @@ numeric_observations:
   - 1.0
   - 15065.0
   - 13.0
-- &id063
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 2 Dimple 4,869 Bulk Carrier Arrived February 13
   unit: null
@@ -593,8 +530,7 @@ numeric_observations:
   - 2.0
   - 4869.0
   - 13.0
-- &id064
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 3 J M A 2,505 Oil Tanker Delivered February 10
   unit: null
@@ -602,8 +538,7 @@ numeric_observations:
   - 3.0
   - 2505.0
   - 10.0
-- &id065
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 4 Saltlake 2,127 Reefer Delivered February 10
   unit: null
@@ -611,8 +546,7 @@ numeric_observations:
   - 4.0
   - 2127.0
   - 10.0
-- &id066
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 5 Woodchip 22,800 Oil Tanker Delivered February 06
   unit: null
@@ -620,23 +554,20 @@ numeric_observations:
   - 5.0
   - 22800.0
   - 6.0
-- &id067
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Morality 47,366
   unit: null
   values:
   - 47366.0
-- &id068
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of February 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id069
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 1 Beihai 24,181 Bulk Carrier Arrived February 10
   unit: null
@@ -644,8 +575,7 @@ numeric_observations:
   - 1.0
   - 24181.0
   - 10.0
-- &id070
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 2 Chung 3,551 Cement Carrier Arrived February 07
   unit: null
@@ -653,8 +583,7 @@ numeric_observations:
   - 2.0
   - 3551.0
   - 7.0
-- &id071
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 3 Hansung 2,731 RoRo Arrived February 05
   unit: null
@@ -662,8 +591,7 @@ numeric_observations:
   - 3.0
   - 2731.0
   - 5.0
-- &id072
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 4 Sirrah 7,072 Bulk Carrier Arrived February 13
   unit: null
@@ -671,23 +599,20 @@ numeric_observations:
   - 4.0
   - 7072.0
   - 13.0
-- &id073
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 37,534
   unit: null
   values:
   - 37534.0
-- &id074
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of February 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id075
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 1 Bright Ace 2,573 General Cargo Arrived February 10
   unit: null
@@ -695,8 +620,7 @@ numeric_observations:
   - 1.0
   - 2573.0
   - 10.0
-- &id076
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 2 Jimei Fuhao 9,881 Bulk Carrier Arrived February 05
   unit: null
@@ -704,8 +628,7 @@ numeric_observations:
   - 2.0
   - 9881.0
   - 5.0
-- &id077
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 3 Rui Tiger 10,198 Bulk Carrier Arrived February 07
   unit: null
@@ -713,8 +636,7 @@ numeric_observations:
   - 3.0
   - 10198.0
   - 7.0
-- &id078
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: 4 Sheng Le 6,961 Bulk Carrier Arrived February 04
   unit: null
@@ -722,15 +644,13 @@ numeric_observations:
   - 4.0
   - 6961.0
   - 4.0
-- &id079
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 29,612
   unit: null
   values:
   - 29612.0
-- &id080
-  section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+- section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
@@ -934,86 +854,634 @@ section_count: 3
 signals:
   numeric_observation_count: 96
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: In an expanded view, the Baltic Exchange's Dry Bulk Index fell 0.6%
+      this week, pressured primarily by the larger-sized segments, as Capes fell nearly
+      2% and the Panamax index slipped a matching 0.6%, Supras marched (improved)
+      an impressive 1.8% of their own. S
+    unit: pct
+    values:
+    - 0.6
+    - 2.0
+    - 0.6
+    - 1.8
+    - 62.8
+  - section: Main
+    section_type: null
+    source_line: But for the ship recycling world, it's likely to be even quieter
+      as Chine enters its New Year holiday period, an already subdued (in terms of
+      volumes, not price/demand) international ship recycling market is more than
+      likely to be deprived of potential recycli
+    unit: usd
+    values:
+    - 600.0
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: Recycling markets do seem to have stabilized within the region of
+      the turbulence and for the time being, events are conspiring in favor of sub-continent
+      markets that paint a brighter picture moving forward. The much anticipated (and
+      long overdue) Bangladeshi e
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: Main
+    section_type: null
+    source_line: For Week 7 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 7.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-02-16_gms-week-07-confusing-valentines_img1_162202513_30c38c67f6d5.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -2.0
+    - -16.0
+    - 7.0
+    - 162202513.0
+    - 30.0
+    - 8.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: February 13th, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Week 7
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 81, Issue 1223 - Sam Levenson
+    unit: null
+    values:
+    - 2.0
+    - 81.0
+    - 1223.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: In an expanded view, the Baltic Exchange's Dry Bulk Index fell 0.6%
+      this week, pressured primarily
+    unit: pct
+    values:
+    - 0.6
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: by the larger-sized segments, as Capes fell nearly 2% and the Panamax
+      index slipped a matching
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 0.6%, Supras marched (improved) an impressive 1.8% of their own.
+      Sliding into the barrel, we see
+    unit: pct
+    values:
+    - 0.6
+    - 1.8
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: WTI crude oil futures pull a drone maneuver and hover around (a lower)
+      USD 62.8/barrel, as
+    unit: usd
+    values:
+    - 62.8
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Ds everal years, and depreciating levels from the highs of USD 600/LDT
+      down to well below USD
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 400/LDT, have been a jolt to end-of-life residual values of ships
+      and the books of owners/operators.
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: banned former PM Sheikh Hasina's party), as the BNP claimed power
+      with over a 2/3 majority. The
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 7 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 7.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: (BNP), into the leadership seat with more than a 2/3 majority win
+      during the nation's recent General
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: On the fundamentals side, all was not rosy, especially given that
+      the Taka lost 17 basis points
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar and closed the week out at BDT 122.25, on
+      a trajectory that seems to indicate
+    unit: null
+    values:
+    - 122.25
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: hammocks as they continue to flatline at nearly USD 494/ton for nearly
+      3 weeks now, indicating an
+    unit: usd
+    values:
+    - 494.0
+    - 3.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: only did local recyclers manage to reel in another collection of
+      smaller LDT units including a 7K
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: LDT bulker, it was the arrival of a 24K LDT unit that confirmed why
+      Chattogram choppers
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: anchorage this week, where well over 47K LDT is idling / has been
+      delivered to its new owners,
+    unit: null
+    values:
+    - 47.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: including 2 rare large LDT tankers - certainly a sight for hungry
+      eyes.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: declines, where even this week, we saw local steel plate prices systematically
+      fell nearly USD 10/ton
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: better option and reclaimed another 15 basis points against the U.S.
+      Dollar, to end the week at Rs. 90.6.
+    unit: null
+    values:
+    - 15.0
+    - 90.6
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: not only has the Pakistani Rupee firmed to below PKR 280, but local
+      steel plate prices even rose
+    unit: null
+    values:
+    - 280.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 279.59. Local steel plate prices, too, remain even-keeled at an industry-fantastic
+      PKR 594/ton -
+    unit: null
+    values:
+    - 279.59
+    - 594.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: USD 100/ton more than those from Bangladesh and about USD 190/ton
+      above those from Alang.
+    unit: usd
+    values:
+    - 100.0
+    - 190.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: total volume of tonnage at anchorage to nearly 30K LDT via 4 vessels
+      this week. A massive upgrade
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: years. And since Lira is all there ever is, it's down another 24
+      basis points this week and scratching
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: at the knees of TRY 44, having closed the week at TRY 43.71 against
+      the U.S. Dollar. Local offerings
+    unit: null
+    values:
+    - 44.0
+    - 43.71
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: For Week 7 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 7.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ANOTHER…2025 IN REVIEW!!
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Aug 03: At least 100,000 people marched across the Sydney Harbour
+      Bridge in a pro-Palestine protest.'
+    unit: null
+    values:
+    - 3.0
+    - 100000.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Aug 11: Fictional girl group HUNTR/X from the Netflix''s "KPop
+      Demon Hunters" reached #1 on the U.S. Billboard'
+    unit: null
+    values:
+    - 11.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Hot 100, with their viral song "Golden."
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Aug 15: The first-ever World Humanoid Robot Games opened in Beijing,
+      China, featuring over 500 androids from 16'
+    unit: null
+    values:
+    - 15.0
+    - 500.0
+    - 16.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Aug 28: An AI-enhanced immersive version of the 1939 film The
+      Wizard of Oz premiered at the Sphere in Las Vegas.'
+    unit: null
+    values:
+    - 28.0
+    - 1939.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Sep 06: Max Verstappen broke the record for the fastest qualifying
+      lap in Formula One history with a time of 1:18.792.'
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+    - 18.792
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ' Sep 16: The co-founder of Ben & Jerry''s ice cream, Jerry Greenfield,
+      resigned after the parent company, Unilever,'
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 04 - Holi February 16 - February 23
+    unit: null
+    values:
+    - 4.0
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 01 - March
+      07
+    unit: null
+    values:
+    - 21.0
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Ram Navami March 18 - March 24
+    unit: null
+    values:
+    - 26.0
+    - 18.0
+    - 24.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Mahavir Jayanthi
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Martyr's Day February 19 - February 22
+    unit: null
+    values:
+    - 21.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Eid-ul-Fitr March 04 - March 07
+    unit: null
+    values:
+    - 19.0
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
+      22
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March
+      23 - Eid-ul-Fitr & Ramzan Bayrami
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+    - 1.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 23.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of February 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 1 Diana 15,065 Oil Tanker Arrived February 13
+    unit: null
+    values:
+    - 1.0
+    - 15065.0
+    - 13.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dimple 4,869 Bulk Carrier Arrived February 13
+    unit: null
+    values:
+    - 2.0
+    - 4869.0
+    - 13.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 3 J M A 2,505 Oil Tanker Delivered February 10
+    unit: null
+    values:
+    - 3.0
+    - 2505.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 4 Saltlake 2,127 Reefer Delivered February 10
+    unit: null
+    values:
+    - 4.0
+    - 2127.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 5 Woodchip 22,800 Oil Tanker Delivered February 06
+    unit: null
+    values:
+    - 5.0
+    - 22800.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Morality 47,366
+    unit: null
+    values:
+    - 47366.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of February 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 1 Beihai 24,181 Bulk Carrier Arrived February 10
+    unit: null
+    values:
+    - 1.0
+    - 24181.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 2 Chung 3,551 Cement Carrier Arrived February 07
+    unit: null
+    values:
+    - 2.0
+    - 3551.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hansung 2,731 RoRo Arrived February 05
+    unit: null
+    values:
+    - 3.0
+    - 2731.0
+    - 5.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sirrah 7,072 Bulk Carrier Arrived February 13
+    unit: null
+    values:
+    - 4.0
+    - 7072.0
+    - 13.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 37,534
+    unit: null
+    values:
+    - 37534.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of February 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bright Ace 2,573 General Cargo Arrived February 10
+    unit: null
+    values:
+    - 1.0
+    - 2573.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 2 Jimei Fuhao 9,881 Bulk Carrier Arrived February 05
+    unit: null
+    values:
+    - 2.0
+    - 9881.0
+    - 5.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rui Tiger 10,198 Bulk Carrier Arrived February 07
+    unit: null
+    values:
+    - 3.0
+    - 10198.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sheng Le 6,961 Bulk Carrier Arrived February 04
+    unit: null
+    values:
+    - 4.0
+    - 6961.0
+    - 4.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 29,612
+    unit: null
+    values:
+    - 29612.0
+  - section: 'Linked asset: 2026-02-16_gms-week-07-confusing-valentines_ship-recycling-market-insight-week-0_baeb7defff75.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-02-16_gms-week-07-confusing-valentines.html
 source_stem: 2026-02-16_gms-week-07-confusing-valentines

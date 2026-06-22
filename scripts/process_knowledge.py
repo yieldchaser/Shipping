@@ -212,8 +212,8 @@ HELLENIC_CHARTER_CATEGORIES = {"dry_charter", "tanker_charter"}
 CHARTER_SEGMENT_ALIASES = {
     "dry_charter": {
         "capesize": ["capesize", "cape"],
-        "panamax": ["panamax", "pmax"],
-        "supramax": ["supramax", "supra", "smx"],
+        "panamax": ["panamax", "pmax", "pana/kmax", "kamsarmax", "kmax", "panaikmax"],
+        "supramax": ["supramax", "supra", "smx", "ultramax", "umx", "smax", "smaxiultra", "smax/ultra"],
         "handysize": ["handysize", "handy", "hsize"],
     },
     "tanker_charter": {
@@ -551,6 +551,36 @@ def extract_hellenic_signals(text: str, category: str, existing_metadata: dict |
         parsed = extract_hellenic_iron_ore_signals(text)
     else:
         parsed = {}
+
+    # If parsed is empty, attempt to recover by parsing numeric observations from existing metadata
+    if not parsed:
+        obs_list = []
+        if isinstance(existing_signals, dict):
+            obs_list = existing_signals.get("numeric_observations") or []
+        if not obs_list:
+            obs_list = existing_metadata.get("numeric_observations") or []
+        
+        if isinstance(obs_list, list) and obs_list:
+            recovered_lines = []
+            for obs in obs_list:
+                if isinstance(obs, dict) and "source_line" in obs:
+                    recovered_lines.append(obs["source_line"])
+            if recovered_lines:
+                recovered_text = "\n".join(recovered_lines)
+                if category in HELLENIC_CHARTER_CATEGORIES:
+                    recovered_parsed = extract_hellenic_charter_signals(recovered_text, category)
+                elif category == "iron_ore":
+                    recovered_parsed = extract_hellenic_iron_ore_signals(recovered_text)
+                else:
+                    recovered_parsed = {}
+                
+                if recovered_parsed:
+                    # Retain any extra keys from existing_signals if present
+                    if isinstance(existing_signals, dict):
+                        for k, v in existing_signals.items():
+                            if k not in recovered_parsed:
+                                recovered_parsed[k] = v
+                    parsed = recovered_parsed
 
     if parsed:
         return parsed
@@ -2010,7 +2040,8 @@ def extract_linked_text_asset(asset_path: Path) -> str:
     return ""
 
 
-def collect_linked_asset_sections(source: str, html_path: Path, root) -> tuple[list[dict], dict]:
+def collect_linked_asset_sections(source: str, html_path: Path, root, existing_sections: dict | None = None) -> tuple[list[dict], dict]:
+    existing_sections = existing_sections or {}
     stats = empty_linked_asset_stats()
     if source not in LINKED_ASSET_SOURCES or root is None:
         return [], stats
@@ -2061,12 +2092,25 @@ def collect_linked_asset_sections(source: str, html_path: Path, root) -> tuple[l
             continue
         seen_paths.add(linked_rel)
 
-        try:
-            linked_text = extract_linked_text_asset(linked_path)
-        except Exception:
-            # Linked assets should never abort the parent document compilation.
-            stats["linked_assets_failed"] += 1
-            continue
+        heading_key = f"Linked asset: {linked_path.name}"
+        if heading_key in existing_sections:
+            existing_text = existing_sections[heading_key]
+            prefix = f"Source asset: {linked_rel}\n\n"
+            if existing_text.startswith(prefix):
+                linked_text = existing_text[len(prefix):]
+            else:
+                lines_text = existing_text.splitlines()
+                if len(lines_text) > 2 and lines_text[0].startswith("Source asset:"):
+                    linked_text = "\n".join(lines_text[2:])
+                else:
+                    linked_text = existing_text
+        else:
+            try:
+                linked_text = extract_linked_text_asset(linked_path)
+            except Exception:
+                # Linked assets should never abort the parent document compilation.
+                stats["linked_assets_failed"] += 1
+                continue
         if not linked_text:
             stats["linked_assets_failed"] += 1
             continue
@@ -2545,7 +2589,33 @@ def adapt_archive_html(
             fallback = title
         sections = [{"heading": "Main", "text": fallback}]
 
-    linked_sections, linked_asset_stats = collect_linked_asset_sections(source, html_path, root)
+    # Determine destination document path to check for existing sections
+    doc_id = make_archive_doc_id(source, category, html_path, date_str)
+    source_stem = slugify(html_path.stem)
+    year = date_str[:4] if date_str else html_path.parent.name
+    if source in {"baltic", "breakwave_insights", "hellenic"} and date_str:
+        filename = f"{date_str}_{source_stem}.md"
+    else:
+        filename = f"{date_str}.md" if date_str else f"{source_stem}.md"
+    output_path = DOCS_DIR / source / category / year / filename
+
+    existing_sections = {}
+    if output_path.exists():
+        try:
+            content = output_path.read_text(encoding="utf-8", errors="ignore")
+            parts = content.split("\n## ")
+            for part in parts:
+                part = part.strip()
+                if not part:
+                    continue
+                lines = part.splitlines()
+                heading = lines[0].strip()
+                text = "\n".join(lines[1:]).strip()
+                existing_sections[heading] = text
+        except Exception:
+            pass
+
+    linked_sections, linked_asset_stats = collect_linked_asset_sections(source, html_path, root, existing_sections=existing_sections)
     if linked_sections:
         sections.extend(linked_sections)
 
@@ -3048,6 +3118,225 @@ def build_derived(llm_enabled: bool = False):
         append_jsonl(SECTION_INDEX_DERIVED, row)
 
     TIMELINES_DERIVED.write_text(json.dumps(dict(sorted(timelines.items())), indent=2, ensure_ascii=False), encoding="utf-8")
+
+    # -------------------------------------------------------------------------
+    # COMPILE DERIVED SUMMARY CSVS FOR THE FRONTEND
+    # -------------------------------------------------------------------------
+    derived_dir = REPO_ROOT / "data" / "derived"
+    derived_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1. Compile Time Charter Rates (Weekly)
+    tc_records = {}
+    for r in signal_rows:
+        source = r.get("source")
+        category = r.get("category")
+        date = r.get("date")
+        if source == "hellenic" and category in {"dry_charter", "tanker_charter"} and date:
+            signals = r.get("signals", {}) or {}
+            rate_obs = signals.get("rate_observations", []) or []
+            if not rate_obs:
+                continue
+            if date not in tc_records:
+                tc_records[date] = {}
+            for obs in rate_obs:
+                seg = obs.get("segment")
+                vals = obs.get("values") or []
+                if not seg or not vals:
+                    continue
+                if category == "dry_charter":
+                    rates = vals[-6:]
+                    if len(rates) == 6:
+                        tc_records[date][f"{seg}_1y_atl"] = rates[2]
+                        tc_records[date][f"{seg}_1y_pac"] = rates[3]
+                        tc_records[date][f"{seg}_1y_avg"] = (rates[2] + rates[3]) / 2.0
+                        tc_records[date][f"{seg}_2y_atl"] = rates[4]
+                        tc_records[date][f"{seg}_2y_pac"] = rates[5]
+                        tc_records[date][f"{seg}_2y_avg"] = (rates[4] + rates[5]) / 2.0
+                else: # tanker_charter
+                    rates = vals[-4:]
+                    if len(rates) == 4:
+                        tc_records[date][f"{seg}_1y"] = rates[0]
+                        tc_records[date][f"{seg}_2y"] = rates[1]
+                        tc_records[date][f"{seg}_3y"] = rates[2]
+                        tc_records[date][f"{seg}_5y"] = rates[3]
+
+    tc_file = derived_dir / "time_charter_rates.csv"
+    tc_cols = [
+        "date",
+        "capesize_1y_atl", "capesize_1y_pac", "capesize_1y_avg",
+        "capesize_2y_atl", "capesize_2y_pac", "capesize_2y_avg",
+        "panamax_1y_atl", "panamax_1y_pac", "panamax_1y_avg",
+        "panamax_2y_atl", "panamax_2y_pac", "panamax_2y_avg",
+        "supramax_1y_atl", "supramax_1y_pac", "supramax_1y_avg",
+        "supramax_2y_atl", "supramax_2y_pac", "supramax_2y_avg",
+        "handysize_1y_atl", "handysize_1y_pac", "handysize_1y_avg",
+        "handysize_2y_atl", "handysize_2y_pac", "handysize_2y_avg",
+        "vlcc_1y", "vlcc_2y", "vlcc_3y", "vlcc_5y",
+        "suezmax_1y", "suezmax_2y", "suezmax_3y", "suezmax_5y",
+        "aframax_1y", "aframax_2y", "aframax_3y", "aframax_5y",
+        "mr_1y", "mr_2y", "mr_3y", "mr_5y",
+        "lr1_1y", "lr1_2y", "lr1_3y", "lr1_5y",
+        "lr2_1y", "lr2_2y", "lr2_3y", "lr2_5y"
+    ]
+    with open(tc_file, "w", encoding="utf-8", newline="") as f:
+        import csv
+        writer = csv.writer(f)
+        writer.writerow(tc_cols)
+        for date in sorted(tc_records.keys()):
+            row = [date]
+            data = tc_records[date]
+            for col in tc_cols[1:]:
+                val = None
+                if col in data:
+                    val = data[col]
+                else:
+                    col_parts = col.split("_", 1)
+                    if len(col_parts) == 2:
+                        col_seg, col_suffix = col_parts
+                        for key, key_val in data.items():
+                            key_parts = key.split("_", 1)
+                            if len(key_parts) == 2:
+                                key_seg, key_suffix = key_parts
+                                if key_suffix == col_suffix:
+                                    if col_seg == "panamax" and ("panam" in key_seg or "kmax" in key_seg):
+                                        val = key_val
+                                        break
+                                    elif col_seg == "supramax" and ("supra" in key_seg or "smax" in key_seg or "ultra" in key_seg):
+                                        val = key_val
+                                        break
+                row.append(val if val is not None else "")
+            writer.writerow(row)
+
+    # 2. Compile Iron Ore Restocking (Daily/Weekly)
+    iron_ore_records = {}
+    for r in signal_rows:
+        source = r.get("source")
+        category = r.get("category")
+        date = r.get("date")
+        if source == "hellenic" and category == "iron_ore" and date:
+            signals = r.get("signals", {}) or {}
+            obs_list = signals.get("iron_ore_metrics", []) or []
+            if not obs_list:
+                continue
+            if date not in iron_ore_records:
+                iron_ore_records[date] = {}
+            for obs in obs_list:
+                line = obs.get("source_line", "")
+                vals = obs.get("values") or []
+                if not line or not vals:
+                    continue
+                line_lower = line.lower()
+                if "iosi62" in line_lower and len(vals) >= 3:
+                    for v in vals[2:]:
+                        if 40 <= v <= 250:
+                            iron_ore_records[date]["cfr_62"] = v
+                            break
+                elif "iosi65" in line_lower and len(vals) >= 3:
+                    for v in vals[2:]:
+                        if 40 <= v <= 250:
+                            iron_ore_records[date]["cfr_65"] = v
+                            break
+                elif "iopi62" in line_lower and len(vals) >= 3:
+                    for v in vals[2:]:
+                        if 300 <= v <= 1800:
+                            iron_ore_records[date]["port_stock_62"] = v
+                            break
+                elif "iopi65" in line_lower and len(vals) >= 3:
+                    for v in vals[2:]:
+                        if 300 <= v <= 1800:
+                            iron_ore_records[date]["port_stock_65"] = v
+                            break
+    # Now merge Breakwave fundamentals (inventories)
+    for doc in documents:
+        doc_path = REPO_ROOT / doc["doc_path"]
+        if not doc_path.exists():
+            continue
+        try:
+            post = frontmatter.load(doc_path)
+        except Exception:
+            continue
+        meta = post.metadata
+        source = meta.get("source")
+        category = meta.get("category")
+        date_str = meta.get("date")
+        if source == "breakwave" and category == "drybulk" and date_str:
+            fundamentals = meta.get("fundamentals_table", {}) or {}
+            def clean_mt(val_str):
+                if not val_str:
+                    return None
+                m = re.search(r"(\d+\.?\d*)", str(val_str))
+                if m:
+                    return float(m.group(1))
+                return None
+            ore_inv = clean_mt((fundamentals.get("China Iron Ore Inventories") or {}).get("ytd"))
+            steel_prod = clean_mt((fundamentals.get("China Steel Production") or {}).get("ytd"))
+            steel_inv = clean_mt((fundamentals.get("China Steel Inventories") or {}).get("ytd"))
+            if ore_inv or steel_prod or steel_inv:
+                if date_str not in iron_ore_records:
+                    iron_ore_records[date_str] = {}
+                if ore_inv:
+                    iron_ore_records[date_str]["inventories_mt"] = ore_inv
+                if steel_prod:
+                    iron_ore_records[date_str]["steel_production_mt"] = steel_prod
+                if steel_inv:
+                    iron_ore_records[date_str]["steel_inventories_mt"] = steel_inv
+
+    io_file = derived_dir / "iron_ore_restocking.csv"
+    io_cols = ["date", "cfr_62", "cfr_65", "port_stock_62", "port_stock_65", "inventories_mt", "steel_production_mt", "steel_inventories_mt"]
+    with open(io_file, "w", encoding="utf-8", newline="") as f:
+        import csv
+        writer = csv.writer(f)
+        writer.writerow(io_cols)
+        for date in sorted(iron_ore_records.keys()):
+            row = [date]
+            data = iron_ore_records[date]
+            for col in io_cols[1:]:
+                row.append(data.get(col, ""))
+            writer.writerow(row)
+
+    # 3. Compile Demolition Scrap Prices (Weekly)
+    demo_records = {}
+    for r in signal_rows:
+        source = r.get("source")
+        category = r.get("category")
+        date = r.get("date")
+        if source == "hellenic" and category == "demolition" and date:
+            signals = r.get("signals", {}) or {}
+            obs_list = signals.get("numeric_observations", []) or []
+            if not obs_list:
+                continue
+            matches = []
+            for obs in obs_list:
+                line = obs.get("source_line", "")
+                vals = obs.get("values") or []
+                if not line or not vals:
+                    continue
+                if len(vals) == 4 and all(150 <= v <= 800 for v in vals):
+                    matches.append(vals)
+            if len(matches) == 3:
+                demo_records[date] = {
+                    "dry_india": matches[0][0],
+                    "dry_bangla": matches[0][1],
+                    "dry_pak": matches[0][2],
+                    "dry_turkey": matches[0][3],
+                    "tanker_india": matches[1][0],
+                    "tanker_bangla": matches[1][1],
+                    "tanker_pak": matches[1][2],
+                    "container_india": matches[2][0]
+                }
+    
+    val_file = derived_dir / "vessel_valuations.csv"
+    val_cols = ["date", "dry_india", "dry_bangla", "dry_pak", "dry_turkey", "tanker_india", "tanker_bangla", "tanker_pak", "container_india"]
+    with open(val_file, "w", encoding="utf-8", newline="") as f:
+        import csv
+        writer = csv.writer(f)
+        writer.writerow(val_cols)
+        for date in sorted(demo_records.keys()):
+            row = [date]
+            data = demo_records[date]
+            for col in val_cols[1:]:
+                row.append(data.get(col, ""))
+            writer.writerow(row)
     build_wiki(
         repo_root=REPO_ROOT,
         config_dir=CONFIG_DIR,

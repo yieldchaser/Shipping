@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 120
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As President Trump's inauguration and looming tariffs lie days ahead,
     outgoing President Biden's unrelenting effortstowards attaining a Gaza ceasefire
@@ -46,8 +45,7 @@ numeric_observations:
   - 2024.0
   - 2025.0
   - 48.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Yet, along with the jilted state of global economies, ship recycling
     destinations suffered worrying reversals in vessel prices of late, primarily on
@@ -60,8 +58,7 @@ numeric_observations:
   - 2024.0
   - 90.0
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 3 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -69,8 +66,7 @@ numeric_observations:
   values:
   - 3.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-01-20_gms-week-03-tumbling-dice_img1_235647_9d3f35a45201.jpg'
   unit: null
@@ -83,87 +79,76 @@ numeric_observations:
   - 9.0
   - 5.0
   - 5201.0
-- &id005
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: January 17th, 2025
   unit: null
   values:
   - 17.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Week 3
   unit: null
   values:
   - 3.0
-- &id007
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Volume 268, Issue 1169
   unit: null
   values:
   - 268.0
   - 1169.0
-- &id008
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: sea traffic in the area, helping ease global inflation and along with
     2024's economic hangover that is
   unit: null
   values:
   - 2024.0
-- &id009
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: • Depreciation pie. w eek, closing at nearly USD 77.80/barrel, stresses
     resulting fr om the recent sanctions against Russia
   unit: usd
   values:
   - 77.8
-- &id010
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: • Supply drive. nearly all sectors, which has caused dry bulk markets
     to close another week with a near 6% decline.
   unit: pct
   values:
   - 6.0
-- &id011
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: As forecasted in weeks prior and based on the trajectory of charter
     rates through the tail end of 2024
   unit: null
   values:
   - 2024.0
-- &id012
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: and even thus far in 2025, ship recycling markets should continue to
     enjoy a healthier Q1 of vessel
   unit: null
   values:
   - 2025.0
-- &id013
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: after week, even highlighting the 48K LDT of recycling tonnage at both
     anchorages.
   unit: null
   values:
   - 48.0
-- &id014
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: of vessels starts to increase after 2024 was awarded the lowest year
     for recycling volumes in over a
   unit: null
   values:
   - 2024.0
-- &id015
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: • Looking bleak. incredible performance of freight markets through
     the first 3 Quarters of 2024. Given that most of
@@ -171,24 +156,21 @@ numeric_observations:
   values:
   - 3.0
   - 2024.0
-- &id016
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: these units are likely starting to come off charter with the turn of
     the year, a raft of 90s built drybulk
   unit: null
   values:
   - 90.0
-- &id017
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: • Scan to download Bangladesh has been the hardest hit this year, with
     up to USD 30/LDT wiped off vessel prices over
   unit: usd
   values:
   - 30.0
-- &id018
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 3 of 2025 are on Page 5.
   unit: null
@@ -196,24 +178,21 @@ numeric_observations:
   - 3.0
   - 2025.0
   - 5.0
-- &id019
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: steel plate prices have managed to cement themselves at USD 529.41/Ton
     for several weeks now,
   unit: usd
   values:
   - 529.41
-- &id021
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: another whopping 1.22% decline through the course of the week, ending
     it past BDT 121.65.
@@ -221,24 +200,21 @@ numeric_observations:
   values:
   - 1.22
   - 121.65
-- &id022
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: remain on hold due to the lack of dithered domestic reserves - at least
     until the upcoming FY 2025
   unit: null
   values:
   - 2025.0
-- &id023
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: '- 2026 budget is announced in the second quarter of this year. In
     the interim, this likely won''t afford'
   unit: null
   values:
   - 2026.0
-- &id024
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: even include at least 4 - 5 other previous private deals (including
     the private sale of a VLCC). As
@@ -246,16 +222,14 @@ numeric_observations:
   values:
   - 4.0
   - 5.0
-- &id025
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: such, this week's fixtures started off with Chinese Sellers fixing
     OCEAN PEACE (10,847 LDT) at
   unit: null
   values:
   - 10847.0
-- &id026
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: USD 455/LT LDT, before the next lower priced sale of the RONG YUAN
     (9,165 LDT) took place,
@@ -263,24 +237,21 @@ numeric_observations:
   values:
   - 455.0
   - 9165.0
-- &id027
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: only managing to fetch USD 450/LT LDT, as increasing regional sellers
     look to offload units before
   unit: usd
   values:
   - 450.0
-- &id028
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: dose of arrival in excess of 48K LDT, most of them promptly delivered
     to their respective recyclers
   unit: null
   values:
   - 48.0
-- &id029
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: OCEAN PEACE Bulker 10,847 USD 455/LT LDT (with 200 Ts bunkers)
   unit: usd
@@ -288,80 +259,70 @@ numeric_observations:
   - 10847.0
   - 455.0
   - 200.0
-- &id030
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: RONG YUAN Bulker 9,165 USD 450/LT LDT
   unit: usd
   values:
   - 9165.0
   - 450.0
-- &id031
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: an anticipatedly busier 2025 lies ahead, Pakistan still looking to
     get back into the picture after an
   unit: null
   values:
   - 2025.0
-- &id033
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: well into 2026. This is of course unless China amends it ongoing policy
     and opens up domestic ship
   unit: null
   values:
   - 2026.0
-- &id034
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: is the U.S. Dollar hammering the Indian Rupee, which saw it close the
     week out nearly 50 basis
   unit: null
   values:
   - 50.0
-- &id035
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: points weaker at INR 86.56, but local steel plate prices are the ones
     dancing with the fragility of
   unit: null
   values:
   - 86.56
-- &id036
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: on February 1st, where the government is expected to lower import taxes
     for certain sectors, and this
   unit: null
   values:
   - 1.0
-- &id037
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: struggles to have it all their own way in 2025, especially until the
     start of Chine New Year holiday
   unit: null
   values:
   - 2025.0
-- &id038
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: nearly USD 7/Ton this week, but they also closed the week out at nearly
     USD 644/Ton. Yet, the
@@ -369,39 +330,34 @@ numeric_observations:
   values:
   - 7.0
   - 644.0
-- &id040
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Buyers ready to acquire PKR was ironically the only recycling nation
     currency to register an improvement of 35 basis points
   unit: null
   values:
   - 35.0
-- &id041
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: and close the week out at PKR 278.66 against the U.S. Dollar.
   unit: null
   values:
   - 278.66
-- &id042
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: in debt (with the IMF), is in the process of obtaining fresh loans
     to the tune of USD 20 Billion
   unit: usd
   values:
   - 20.0
-- &id043
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: UAE), and are still in the process of clarifying queries to the tune
     of about USD 440 Million that
   unit: usd
   values:
   - 440.0
-- &id044
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, there remains no news about the state of Pakistan's FY 2025
     - 2026 budget and this
@@ -409,40 +365,35 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id045
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: recycling community certainly has an uphill challenge for themselves
     in 2025.
   unit: null
   values:
   - 2025.0
-- &id046
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: one where not only did both import and local stee plate prices report
     declines of about USD 10/MT,
   unit: tonnage
   values:
   - 10.0
-- &id048
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: down with it as it wraps up the week at USD 35.45 against the U.S.
     Dollar.
   unit: usd
   values:
   - 35.45
-- &id049
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: For Week 3 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -450,8 +401,7 @@ numeric_observations:
   values:
   - 3.0
   - 2025.0
-- &id050
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -460,8 +410,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id051
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -470,8 +419,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id052
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -480,8 +428,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id053
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
   unit: null
@@ -490,55 +437,48 @@ numeric_observations:
   - 310.0
   - 320.0
   - 330.0
-- &id054
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  Americans discard roughly 36 million tons of plastic each year, which
     is more than any other country. But the plastic recycling
   unit: null
   values:
   - 36.0
-- &id056
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: rate has languished below 10 percent for decades.
   unit: null
   values:
   - 10.0
-- &id057
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  Rats are prodigious breeders, with one pair having the potential
     to produce 15,000 descendants in a year.
   unit: null
   values:
   - 15000.0
-- &id058
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  Nearly half of Australia's birds and 90 percent of its mammals, reptiles
     and frogs are found nowhere else on the planet.
   unit: null
   values:
   - 90.0
-- &id059
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  Only 15 percent of previously married women say they want to do it
     again, according to a Pew Center for Research study.
   unit: null
   values:
   - 15.0
-- &id060
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  A study from Goldman Sachs estimates that, by 2028, up to 70 million
     Americans will have tried Ozempic or similar drugs for
@@ -546,8 +486,7 @@ numeric_observations:
   values:
   - 2028.0
   - 70.0
-- &id061
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  Pew Research Center has found that about one-third of 18- to 29-year-olds
     say they get news regularly on TikTok, far
@@ -555,24 +494,21 @@ numeric_observations:
   values:
   - 18.0
   - 29.0
-- &id062
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  About 60 percent of young Americans with severe depression receive
     no treatment, according to Mental Health America, a
   unit: null
   values:
   - 60.0
-- &id063
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line:  In the United States, more than 60 percent of the work force lives
     paycheck to paycheck. The average American is in five- to
   unit: null
   values:
   - 60.0
-- &id064
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 28 - February 04
   unit: null
@@ -580,8 +516,7 @@ numeric_observations:
   - 26.0
   - 28.0
   - 4.0
-- &id065
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: February 02 & 03 - Vasant Panchami February 10 - February 16
   unit: null
@@ -590,15 +525,13 @@ numeric_observations:
   - 3.0
   - 10.0
   - 16.0
-- &id066
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: February 26 - Maha Shivratri
   unit: null
   values:
   - 26.0
-- &id067
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: February 15 - Shab-e-Barat January 30 - February 02
   unit: null
@@ -606,8 +539,7 @@ numeric_observations:
   - 15.0
   - 30.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: February 21 - Shahid Day February 14 - February 17
   unit: null
@@ -615,15 +547,13 @@ numeric_observations:
   - 21.0
   - 14.0
   - 17.0
-- &id069
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: February 26 - Independence & National Day
   unit: null
   values:
   - 26.0
-- &id070
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: January 28 - February 04 - Chinese February 05 - Kashmir Solidarity
     No holidays until March
@@ -632,24 +562,21 @@ numeric_observations:
   - 28.0
   - 4.0
   - 5.0
-- &id071
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 19, 2025
   unit: null
   values:
   - 19.0
   - 2025.0
-- &id073
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 1 Enzo 17,398 Oil Tanker Delivered January 12
   unit: null
@@ -657,8 +584,7 @@ numeric_observations:
   - 1.0
   - 17398.0
   - 12.0
-- &id074
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 2 Karam 14 3,169 Bulk Carrier Delivered January 17
   unit: null
@@ -667,8 +593,7 @@ numeric_observations:
   - 14.0
   - 3169.0
   - 17.0
-- &id075
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 3 Lady Cedros 17,823 Bulk Carrier Delivered January 15
   unit: null
@@ -676,8 +601,7 @@ numeric_observations:
   - 3.0
   - 17823.0
   - 15.0
-- &id076
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 4 Rialto 9,695 Oil Tanker Delivered January 19
   unit: null
@@ -685,23 +609,20 @@ numeric_observations:
   - 4.0
   - 9695.0
   - 19.0
-- &id077
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 48,085
   unit: null
   values:
   - 48085.0
-- &id078
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 17, 2025
   unit: null
   values:
   - 17.0
   - 2025.0
-- &id079
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 1 Ark Progress (Dead Vessel) 2,635 Tanker Arrived January 04
   unit: null
@@ -709,8 +630,7 @@ numeric_observations:
   - 1.0
   - 2635.0
   - 4.0
-- &id080
-  section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+- section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
   section_type: linked_pdf
   source_line: 2 Jim 14,894 Bulk Carrier Delivered January 16
   unit: null
@@ -1061,86 +981,613 @@ section_count: 3
 signals:
   numeric_observation_count: 120
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As President Trump's inauguration and looming tariffs lie days ahead,
+      outgoing President Biden's unrelenting effortstowards attaining a Gaza ceasefire
+      deal finally saw fruition this week with the release of the first set of Israeli
+      hostages marking their retur
+    unit: pct
+    values:
+    - 2024.0
+    - 77.8
+    - 6.0
+    - 2024.0
+    - 2025.0
+    - 48.0
+  - section: Main
+    section_type: null
+    source_line: Yet, along with the jilted state of global economies, ship recycling
+      destinations suffered worrying reversals in vessel prices of late, primarily
+      on the back of weaker currencies, depressed sentiments, and overall declining
+      steel plate prices which, for the fi
+    unit: usd
+    values:
+    - 2024.0
+    - 3.0
+    - 2024.0
+    - 90.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: For Week 3 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-01-20_gms-week-03-tumbling-dice_img1_235647_9d3f35a45201.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -1.0
+    - -20.0
+    - 3.0
+    - 235647.0
+    - 9.0
+    - 5.0
+    - 5201.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: January 17th, 2025
+    unit: null
+    values:
+    - 17.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Week 3
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Volume 268, Issue 1169
+    unit: null
+    values:
+    - 268.0
+    - 1169.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: sea traffic in the area, helping ease global inflation and along
+      with 2024's economic hangover that is
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: • Depreciation pie. w eek, closing at nearly USD 77.80/barrel, stresses
+      resulting fr om the recent sanctions against Russia
+    unit: usd
+    values:
+    - 77.8
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: • Supply drive. nearly all sectors, which has caused dry bulk markets
+      to close another week with a near 6% decline.
+    unit: pct
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: As forecasted in weeks prior and based on the trajectory of charter
+      rates through the tail end of 2024
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: and even thus far in 2025, ship recycling markets should continue
+      to enjoy a healthier Q1 of vessel
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: after week, even highlighting the 48K LDT of recycling tonnage at
+      both anchorages.
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: of vessels starts to increase after 2024 was awarded the lowest year
+      for recycling volumes in over a
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: • Looking bleak. incredible performance of freight markets through
+      the first 3 Quarters of 2024. Given that most of
+    unit: null
+    values:
+    - 3.0
+    - 2024.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: these units are likely starting to come off charter with the turn
+      of the year, a raft of 90s built drybulk
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download Bangladesh has been the hardest hit this year,
+      with up to USD 30/LDT wiped off vessel prices over
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 3 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices have managed to cement themselves at USD 529.41/Ton
+      for several weeks now,
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: another whopping 1.22% decline through the course of the week, ending
+      it past BDT 121.65.
+    unit: pct
+    values:
+    - 1.22
+    - 121.65
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: remain on hold due to the lack of dithered domestic reserves - at
+      least until the upcoming FY 2025
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: '- 2026 budget is announced in the second quarter of this year. In
+      the interim, this likely won''t afford'
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: even include at least 4 - 5 other previous private deals (including
+      the private sale of a VLCC). As
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: such, this week's fixtures started off with Chinese Sellers fixing
+      OCEAN PEACE (10,847 LDT) at
+    unit: null
+    values:
+    - 10847.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: USD 455/LT LDT, before the next lower priced sale of the RONG YUAN
+      (9,165 LDT) took place,
+    unit: usd
+    values:
+    - 455.0
+    - 9165.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: only managing to fetch USD 450/LT LDT, as increasing regional sellers
+      look to offload units before
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: dose of arrival in excess of 48K LDT, most of them promptly delivered
+      to their respective recyclers
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: OCEAN PEACE Bulker 10,847 USD 455/LT LDT (with 200 Ts bunkers)
+    unit: usd
+    values:
+    - 10847.0
+    - 455.0
+    - 200.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: RONG YUAN Bulker 9,165 USD 450/LT LDT
+    unit: usd
+    values:
+    - 9165.0
+    - 450.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: an anticipatedly busier 2025 lies ahead, Pakistan still looking to
+      get back into the picture after an
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: well into 2026. This is of course unless China amends it ongoing
+      policy and opens up domestic ship
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: is the U.S. Dollar hammering the Indian Rupee, which saw it close
+      the week out nearly 50 basis
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: points weaker at INR 86.56, but local steel plate prices are the
+      ones dancing with the fragility of
+    unit: null
+    values:
+    - 86.56
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: on February 1st, where the government is expected to lower import
+      taxes for certain sectors, and this
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: struggles to have it all their own way in 2025, especially until
+      the start of Chine New Year holiday
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: nearly USD 7/Ton this week, but they also closed the week out at
+      nearly USD 644/Ton. Yet, the
+    unit: usd
+    values:
+    - 7.0
+    - 644.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Buyers ready to acquire PKR was ironically the only recycling nation
+      currency to register an improvement of 35 basis points
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: and close the week out at PKR 278.66 against the U.S. Dollar.
+    unit: null
+    values:
+    - 278.66
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: in debt (with the IMF), is in the process of obtaining fresh loans
+      to the tune of USD 20 Billion
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: UAE), and are still in the process of clarifying queries to the tune
+      of about USD 440 Million that
+    unit: usd
+    values:
+    - 440.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, there remains no news about the state of Pakistan's FY
+      2025 - 2026 budget and this
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: recycling community certainly has an uphill challenge for themselves
+      in 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: one where not only did both import and local stee plate prices report
+      declines of about USD 10/MT,
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: down with it as it wraps up the week at USD 35.45 against the U.S.
+      Dollar.
+    unit: usd
+    values:
+    - 35.45
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: For Week 3 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 310 / LDT 320 / LDT 330 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 310.0
+    - 320.0
+    - 330.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  Americans discard roughly 36 million tons of plastic each year,
+      which is more than any other country. But the plastic recycling
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: rate has languished below 10 percent for decades.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  Rats are prodigious breeders, with one pair having the potential
+      to produce 15,000 descendants in a year.
+    unit: null
+    values:
+    - 15000.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  Nearly half of Australia's birds and 90 percent of its mammals,
+      reptiles and frogs are found nowhere else on the planet.
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  Only 15 percent of previously married women say they want to do
+      it again, according to a Pew Center for Research study.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  A study from Goldman Sachs estimates that, by 2028, up to 70 million
+      Americans will have tried Ozempic or similar drugs for
+    unit: null
+    values:
+    - 2028.0
+    - 70.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  Pew Research Center has found that about one-third of 18- to 29-year-olds
+      say they get news regularly on TikTok, far
+    unit: tonnage
+    values:
+    - 18.0
+    - 29.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  About 60 percent of young Americans with severe depression receive
+      no treatment, according to Mental Health America, a
+    unit: null
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line:  In the United States, more than 60 percent of the work force lives
+      paycheck to paycheck. The average American is in five- to
+    unit: null
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 28 - February 04
+    unit: null
+    values:
+    - 26.0
+    - 28.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: February 02 & 03 - Vasant Panchami February 10 - February 16
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 10.0
+    - 16.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Maha Shivratri
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: February 15 - Shab-e-Barat January 30 - February 02
+    unit: null
+    values:
+    - 15.0
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Shahid Day February 14 - February 17
+    unit: null
+    values:
+    - 21.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Independence & National Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: January 28 - February 04 - Chinese February 05 - Kashmir Solidarity
+      No holidays until March
+    unit: null
+    values:
+    - 28.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 19, 2025
+    unit: null
+    values:
+    - 19.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Enzo 17,398 Oil Tanker Delivered January 12
+    unit: null
+    values:
+    - 1.0
+    - 17398.0
+    - 12.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Karam 14 3,169 Bulk Carrier Delivered January 17
+    unit: null
+    values:
+    - 2.0
+    - 14.0
+    - 3169.0
+    - 17.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lady Cedros 17,823 Bulk Carrier Delivered January 15
+    unit: null
+    values:
+    - 3.0
+    - 17823.0
+    - 15.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Rialto 9,695 Oil Tanker Delivered January 19
+    unit: null
+    values:
+    - 4.0
+    - 9695.0
+    - 19.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 48,085
+    unit: null
+    values:
+    - 48085.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 17, 2025
+    unit: null
+    values:
+    - 17.0
+    - 2025.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ark Progress (Dead Vessel) 2,635 Tanker Arrived January 04
+    unit: null
+    values:
+    - 1.0
+    - 2635.0
+    - 4.0
+  - section: 'Linked asset: 2025-01-20_gms-week-03-tumbling-dice_ship-recycling-market-insight-week-0_6e3394a57dd3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Jim 14,894 Bulk Carrier Delivered January 16
+    unit: null
+    values:
+    - 2.0
+    - 14894.0
+    - 16.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-01-20_gms-week-03-tumbling-dice.html
 source_stem: 2025-01-20_gms-week-03-tumbling-dice

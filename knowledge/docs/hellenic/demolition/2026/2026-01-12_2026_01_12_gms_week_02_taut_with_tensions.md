@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 87
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: If 2026 continues as it has started, we are more than likely in for
     another roller-coaster year full of geopolitical risks,tensions, aggravations,
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Trump's kidnapping (let's call it what it is) of President Maduro and
     his wife from Venezuela - followed by U.S. claims that it will "run" the country
@@ -50,8 +48,7 @@ numeric_observations:
   unit: null
   values:
   - 2026.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Markets reacted as they always do i.e. with chaos and volatility. The
     Baltic Exchange reported another bleak week of declines for the fifth straight
@@ -64,8 +61,7 @@ numeric_observations:
   - 9.0
   - 0.7
   - 59.5
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Trickling down to the ship recycling sector, while India has enjoyed
     a resurgent start to the year on the back of local steel plate prices that jumped
@@ -74,8 +70,7 @@ numeric_observations:
   unit: usd
   values:
   - 30.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: As such, after the end-of-2025 decline in pricing, owners with vintage
     tonnage and surveys due may look to test the market again as levels hover around
@@ -84,8 +79,7 @@ numeric_observations:
   values:
   - 2025.0
   - 400.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 02 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -93,8 +87,7 @@ numeric_observations:
   values:
   - 2.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-01-12_gms-week-02-taut-with-tensions_img1_09786_2613adc8e34b.jpg'
   unit: null
@@ -106,23 +99,20 @@ numeric_observations:
   - 9786.0
   - 2613.0
   - 4.0
-- &id008
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: January 9 th, 2026
   unit: null
   values:
   - 9.0
   - 2026.0
-- &id009
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Week 2
   unit: null
   values:
   - 2.0
-- &id010
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Volume 2 80, Issue 1218 - Laird Hamilton
   unit: null
@@ -130,32 +120,28 @@ numeric_observations:
   - 2.0
   - 80.0
   - 1218.0
-- &id011
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: • Constant shocks. If 2026 continues as it has started, we are more
     t han likely in for another roller-coaster year full of
   unit: null
   values:
   - 2026.0
-- &id012
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: • US threats. already set the tone for the madness we can expect in
     2026. Amping up the octogenarian crankiness,
   unit: null
   values:
   - 2026.0
-- &id013
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: another bleak week of declines for the fifth straight Friday, falling
     about 1.7%, dragged down by
   unit: pct
   values:
   - 1.7
-- &id014
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: capes (down 3%) and supramaxes (down 9 points), while panamaxes jumped
     about 0.7% by Friday's
@@ -164,47 +150,41 @@ numeric_observations:
   - 3.0
   - 9.0
   - 0.7
-- &id015
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: close. Oil meanwhile managed to rise just about USD 59.50/barrel, extending
     its gain for a third
   unit: usd
   values:
   - 59.5
-- &id016
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: • Around 400.
   unit: null
   values:
   - 400.0
-- &id017
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: the back of local steel plate prices that jumped nearly USD 30/Ton,
     this week saw local sentiment
   unit: usd
   values:
   - 30.0
-- &id018
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: As such, after the end-of-2025 decline in pricing, owners with vintage
     tonnage and surveys due may
   unit: null
   values:
   - 2025.0
-- &id019
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: look to test the market again as levels hover around the USD 400/LDT
     mark, which are still strong
   unit: usd
   values:
   - 400.0
-- &id020
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 2 of 2026 are on Page 6.
   unit: null
@@ -212,56 +192,49 @@ numeric_observations:
   - 2.0
   - 2026.0
   - 6.0
-- &id021
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: After the stark declines towards the tail-end of Q4 2025 followed by
     vanishing demand and
   unit: null
   values:
   - 2025.0
-- &id023
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Dollar and walked out the Friday door at BDT 122.26. Local steel plate
     prices, on the other hand,
   unit: null
   values:
   - 122.26
-- &id024
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: finally started trading once again and opened mid-week around USD 500/ton
     - not the best place
   unit: usd
   values:
   - 500.0
-- &id025
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: to be, but still not as grim as India, which is nearly USD 100/ton
     lower and yet continues to outbid
   unit: usd
   values:
   - 100.0
-- &id026
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: '- with levels jumping nearly USD 30/ton last week, this week, they
     opened USD 6/ton lower than last'
@@ -269,71 +242,62 @@ numeric_observations:
   values:
   - 30.0
   - 6.0
-- &id028
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: and ended up wiping out all of the recent gains, sliding back down
     to USD 400/ton once again. Not
   unit: usd
   values:
   - 400.0
-- &id029
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: wanting to be outdone, the Rupee chased the U.S. Dollar as it lost
     another 20 basis points this week
   unit: null
   values:
   - 20.0
-- &id030
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: and closed at Rs. 90.21.
   unit: null
   values:
   - 90.21
-- &id031
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: same time, a USD 30/ton swing in the core pricing mechanism of recycling
     vessels is not something to
   unit: usd
   values:
   - 30.0
-- &id032
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: anchorage" syndrome as at least one 2,500 LDT vessel greeted the waterfront
     last week, with another
   unit: null
   values:
   - 2500.0
-- &id033
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: However, local offerings have (as has been the trend over the last
     2.5 decades from this market)
   unit: null
   values:
   - 2.5
-- &id035
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Not only did local steel plate prices firm by about USD 6/ton this
     week, they also closed the week
   unit: usd
   values:
   - 6.0
-- &id036
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: out at USD 585/ton - USD 185/ton higher than India and an USD 85/ton
     margin over Bangladesh.
@@ -342,71 +306,62 @@ numeric_observations:
   - 585.0
   - 185.0
   - 85.0
-- &id037
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar and closed the week at PKR 280.12 - inching
     its way back toward the PKR
   unit: null
   values:
   - 280.12
-- &id038
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: year with just 202 total vessel s delivered locally. Seemingly this
     year - this poor waterfront
   unit: null
   values:
   - 202.0
-- &id039
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: This has left the market barren at the waterfront, and for the second
     week in a row in 2026, Gadani's
   unit: null
   values:
   - 2026.0
-- &id040
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Speaking of inflow, with the supply of tonnage expected to increase
     in 2026, Pakistan ship recyclers
   unit: null
   values:
   - 2026.0
-- &id041
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: news emerging other than the ever-degrading Turkish lira, which lost
     another 23 basis points this
   unit: null
   values:
   - 23.0
-- &id043
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: week and closed at TRY 43.14 against the U.S. Dollar.
   unit: null
   values:
   - 43.14
-- &id044
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: the HKC, it remains to be seen whether any knock-on changes will be
     forthcoming for Aliaga in 2026.
   unit: null
   values:
   - 2026.0
-- &id045
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: For Week 2 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -414,8 +369,7 @@ numeric_observations:
   values:
   - 2.0
   - 2026.0
-- &id046
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -424,8 +378,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id047
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
   unit: null
@@ -434,8 +387,7 @@ numeric_observations:
   - 390.0
   - 410.0
   - 420.0
-- &id048
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 3 India Declining 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -444,8 +396,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id049
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -454,16 +405,14 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id050
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line:  The winners of the Academy Award for Best Cinematogra phy from 2011
     to 2013 were all 3-D movies.
@@ -472,24 +421,21 @@ numeric_observations:
   - 2011.0
   - 2013.0
   - 3.0
-- &id052
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line:  The United States' first-ever racially integrated baseball league
     for women will begin playing in the spring of 2026.
   unit: null
   values:
   - 2026.0
-- &id053
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line:  There are an estimated 25,000 city-killer-size asteroids in near-Earth
     orbits and just under half have been found.
   unit: null
   values:
   - 25000.0
-- &id054
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line:  In 1972, about one in five people who died in the U.S. received an
     autopsy. That rate has since dropped below one in 10.
@@ -497,8 +443,7 @@ numeric_observations:
   values:
   - 1972.0
   - 10.0
-- &id055
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: January 14 - Pongal January 17 - January 24
   unit: null
@@ -506,8 +451,7 @@ numeric_observations:
   - 14.0
   - 17.0
   - 24.0
-- &id056
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 30 - February 06
   unit: null
@@ -515,32 +459,28 @@ numeric_observations:
   - 26.0
   - 30.0
   - 6.0
-- &id057
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: No Holidays in January January 21 - January 24
   unit: null
   values:
   - 21.0
   - 24.0
-- &id058
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 09, 2026
   unit: null
   values:
   - 9.0
   - 2026.0
-- &id060
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1 Emano 11 2,556 General Cargo Arrived January 02
   unit: null
@@ -549,23 +489,20 @@ numeric_observations:
   - 11.0
   - 2556.0
   - 2.0
-- &id061
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Morality 2,556
   unit: null
   values:
   - 2556.0
-- &id062
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 09, 2026
   unit: null
   values:
   - 9.0
   - 2026.0
-- &id063
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1 Gold Origin 2,486 General Cargo Delivered January 07
   unit: null
@@ -573,8 +510,7 @@ numeric_observations:
   - 1.0
   - 2486.0
   - 7.0
-- &id064
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 2 K Asia 29,686 LNG / Gas Carrier Delivered January 05
   unit: null
@@ -582,8 +518,7 @@ numeric_observations:
   - 2.0
   - 29686.0
   - 5.0
-- &id065
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 3 Victor 6,086 Bulk Carrier Delivered January 07
   unit: null
@@ -591,8 +526,7 @@ numeric_observations:
   - 3.0
   - 6086.0
   - 7.0
-- &id066
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 4 Vigo 1,302 Tanker Delivered January 09
   unit: null
@@ -600,31 +534,27 @@ numeric_observations:
   - 4.0
   - 1302.0
   - 9.0
-- &id067
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 39,560
   unit: null
   values:
   - 39560.0
-- &id068
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 09, 2026
   unit: null
   values:
   - 9.0
   - 2026.0
-- &id069
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/3/2026 424.61 38,300.00 579.86 163,000.00 NO TRADING NO TRADING 302.96
   unit: null
@@ -637,8 +567,7 @@ numeric_observations:
   - 579.86
   - 163000.0
   - 302.96
-- &id071
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/4/2026 424.61 38,300.00 579.86 163,000.00 NO TRADING NO TRADING 302.96
   unit: null
@@ -651,8 +580,7 @@ numeric_observations:
   - 579.86
   - 163000.0
   - 302.96
-- &id072
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/5/2026 423.13 38,200.00 579.86 163,000.00 NO TRADING NO TRADING 302.96
   unit: null
@@ -665,8 +593,7 @@ numeric_observations:
   - 579.86
   - 163000.0
   - 302.96
-- &id073
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/6/2026 415.88 37,500.00 586.56 165,000.00 502.06 61,000.00 303.75
   unit: null
@@ -681,8 +608,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.75
-- &id074
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/7/2026 413.89 37,200.00 586.56 165,000.00 499.59 60,700.00 303.75
   unit: null
@@ -697,8 +623,7 @@ numeric_observations:
   - 499.59
   - 60700.0
   - 303.75
-- &id075
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/8/2026 406.58 36,600.00 586.56 165,000.00 499.59 60,700.00 303.75
   unit: null
@@ -713,8 +638,7 @@ numeric_observations:
   - 499.59
   - 60700.0
   - 303.75
-- &id076
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 1/9/2026 400.35 36,100.00 586.56 165,000.00 499.59 60,700.00 303.75
   unit: null
@@ -729,8 +653,7 @@ numeric_observations:
   - 499.59
   - 60700.0
   - 303.75
-- &id077
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -739,8 +662,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -749,8 +671,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -759,8 +680,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+- section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -840,86 +760,668 @@ section_count: 3
 signals:
   numeric_observation_count: 87
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: If 2026 continues as it has started, we are more than likely in for
+      another roller-coaster year full of geopolitical risks,tensions, aggravations,
+      and increasingly frequent shocks that could affect the shipping and ship recycling
+      industries in numerous - and a
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Trump's kidnapping (let's call it what it is) of President Maduro
+      and his wife from Venezuela - followed by U.S. claims that it will "run" the
+      country when Trump can't even handle the U.S. - has already set the tone for
+      the madness we can expect in 2026. Ampin
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Markets reacted as they always do i.e. with chaos and volatility.
+      The Baltic Exchange reported another bleak week of declines for the fifth straight
+      Friday, falling about 1.7%, dragged down by capes (down 3%) and supramaxes (down
+      9 points), while panamaxes jum
+    unit: pct
+    values:
+    - 1.7
+    - 3.0
+    - 9.0
+    - 0.7
+    - 59.5
+  - section: Main
+    section_type: null
+    source_line: Trickling down to the ship recycling sector, while India has enjoyed
+      a resurgent start to the year on the back of local steel plate prices that jumped
+      nearly USD 30/Ton, this week saw local sentiment turning negative again as plate
+      levels retreated just as rap
+    unit: usd
+    values:
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: As such, after the end-of-2025 decline in pricing, owners with vintage
+      tonnage and surveys due may look to test the market again as levels hover around
+      the USD 400/LDT mark, which are still strong - all things considered.
+    unit: usd
+    values:
+    - 2025.0
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: For Week 02 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-01-12_gms-week-02-taut-with-tensions_img1_09786_2613adc8e34b.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -12.0
+    - 2.0
+    - 9786.0
+    - 2613.0
+    - 4.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: January 9 th, 2026
+    unit: null
+    values:
+    - 9.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Week 2
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 80, Issue 1218 - Laird Hamilton
+    unit: null
+    values:
+    - 2.0
+    - 80.0
+    - 1218.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: • Constant shocks. If 2026 continues as it has started, we are more
+      t han likely in for another roller-coaster year full of
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: • US threats. already set the tone for the madness we can expect
+      in 2026. Amping up the octogenarian crankiness,
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: another bleak week of declines for the fifth straight Friday, falling
+      about 1.7%, dragged down by
+    unit: pct
+    values:
+    - 1.7
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: capes (down 3%) and supramaxes (down 9 points), while panamaxes jumped
+      about 0.7% by Friday's
+    unit: pct
+    values:
+    - 3.0
+    - 9.0
+    - 0.7
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: close. Oil meanwhile managed to rise just about USD 59.50/barrel,
+      extending its gain for a third
+    unit: usd
+    values:
+    - 59.5
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: • Around 400.
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: the back of local steel plate prices that jumped nearly USD 30/Ton,
+      this week saw local sentiment
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: As such, after the end-of-2025 decline in pricing, owners with vintage
+      tonnage and surveys due may
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: look to test the market again as levels hover around the USD 400/LDT
+      mark, which are still strong
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 2 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: After the stark declines towards the tail-end of Q4 2025 followed
+      by vanishing demand and
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Dollar and walked out the Friday door at BDT 122.26. Local steel
+      plate prices, on the other hand,
+    unit: null
+    values:
+    - 122.26
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: finally started trading once again and opened mid-week around USD
+      500/ton - not the best place
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: to be, but still not as grim as India, which is nearly USD 100/ton
+      lower and yet continues to outbid
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: '- with levels jumping nearly USD 30/ton last week, this week, they
+      opened USD 6/ton lower than last'
+    unit: usd
+    values:
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: and ended up wiping out all of the recent gains, sliding back down
+      to USD 400/ton once again. Not
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: wanting to be outdone, the Rupee chased the U.S. Dollar as it lost
+      another 20 basis points this week
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: and closed at Rs. 90.21.
+    unit: null
+    values:
+    - 90.21
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: same time, a USD 30/ton swing in the core pricing mechanism of recycling
+      vessels is not something to
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: anchorage" syndrome as at least one 2,500 LDT vessel greeted the
+      waterfront last week, with another
+    unit: null
+    values:
+    - 2500.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: However, local offerings have (as has been the trend over the last
+      2.5 decades from this market)
+    unit: null
+    values:
+    - 2.5
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Not only did local steel plate prices firm by about USD 6/ton this
+      week, they also closed the week
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: out at USD 585/ton - USD 185/ton higher than India and an USD 85/ton
+      margin over Bangladesh.
+    unit: usd
+    values:
+    - 585.0
+    - 185.0
+    - 85.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar and closed the week at PKR 280.12 - inching
+      its way back toward the PKR
+    unit: null
+    values:
+    - 280.12
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: year with just 202 total vessel s delivered locally. Seemingly this
+      year - this poor waterfront
+    unit: null
+    values:
+    - 202.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: This has left the market barren at the waterfront, and for the second
+      week in a row in 2026, Gadani's
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Speaking of inflow, with the supply of tonnage expected to increase
+      in 2026, Pakistan ship recyclers
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: news emerging other than the ever-degrading Turkish lira, which lost
+      another 23 basis points this
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: week and closed at TRY 43.14 against the U.S. Dollar.
+    unit: null
+    values:
+    - 43.14
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: the HKC, it remains to be seen whether any knock-on changes will
+      be forthcoming for Aliaga in 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: For Week 2 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 390.0
+    - 410.0
+    - 420.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Declining 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line:  The winners of the Academy Award for Best Cinematogra phy from
+      2011 to 2013 were all 3-D movies.
+    unit: null
+    values:
+    - 2011.0
+    - 2013.0
+    - 3.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line:  The United States' first-ever racially integrated baseball league
+      for women will begin playing in the spring of 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line:  There are an estimated 25,000 city-killer-size asteroids in near-Earth
+      orbits and just under half have been found.
+    unit: null
+    values:
+    - 25000.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line:  In 1972, about one in five people who died in the U.S. received
+      an autopsy. That rate has since dropped below one in 10.
+    unit: null
+    values:
+    - 1972.0
+    - 10.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: January 14 - Pongal January 17 - January 24
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 30 - February 06
+    unit: null
+    values:
+    - 26.0
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in January January 21 - January 24
+    unit: null
+    values:
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 09, 2026
+    unit: null
+    values:
+    - 9.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1 Emano 11 2,556 General Cargo Arrived January 02
+    unit: null
+    values:
+    - 1.0
+    - 11.0
+    - 2556.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Morality 2,556
+    unit: null
+    values:
+    - 2556.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 09, 2026
+    unit: null
+    values:
+    - 9.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1 Gold Origin 2,486 General Cargo Delivered January 07
+    unit: null
+    values:
+    - 1.0
+    - 2486.0
+    - 7.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 2 K Asia 29,686 LNG / Gas Carrier Delivered January 05
+    unit: null
+    values:
+    - 2.0
+    - 29686.0
+    - 5.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 3 Victor 6,086 Bulk Carrier Delivered January 07
+    unit: null
+    values:
+    - 3.0
+    - 6086.0
+    - 7.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 4 Vigo 1,302 Tanker Delivered January 09
+    unit: null
+    values:
+    - 4.0
+    - 1302.0
+    - 9.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 39,560
+    unit: null
+    values:
+    - 39560.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 09, 2026
+    unit: null
+    values:
+    - 9.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/3/2026 424.61 38,300.00 579.86 163,000.00 NO TRADING NO TRADING
+      302.96
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 2026.0
+    - 424.61
+    - 38300.0
+    - 579.86
+    - 163000.0
+    - 302.96
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/4/2026 424.61 38,300.00 579.86 163,000.00 NO TRADING NO TRADING
+      302.96
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 2026.0
+    - 424.61
+    - 38300.0
+    - 579.86
+    - 163000.0
+    - 302.96
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/5/2026 423.13 38,200.00 579.86 163,000.00 NO TRADING NO TRADING
+      302.96
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 2026.0
+    - 423.13
+    - 38200.0
+    - 579.86
+    - 163000.0
+    - 302.96
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/6/2026 415.88 37,500.00 586.56 165,000.00 502.06 61,000.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 2026.0
+    - 415.88
+    - 37500.0
+    - 586.56
+    - 165000.0
+    - 502.06
+    - 61000.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/7/2026 413.89 37,200.00 586.56 165,000.00 499.59 60,700.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2026.0
+    - 413.89
+    - 37200.0
+    - 586.56
+    - 165000.0
+    - 499.59
+    - 60700.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/8/2026 406.58 36,600.00 586.56 165,000.00 499.59 60,700.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2026.0
+    - 406.58
+    - 36600.0
+    - 586.56
+    - 165000.0
+    - 499.59
+    - 60700.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 1/9/2026 400.35 36,100.00 586.56 165,000.00 499.59 60,700.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2026.0
+    - 400.35
+    - 36100.0
+    - 586.56
+    - 165000.0
+    - 499.59
+    - 60700.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-01-12_gms-week-02-taut-with-tensions.html
 source_stem: 2026-01-12_gms-week-02-taut-with-tensions

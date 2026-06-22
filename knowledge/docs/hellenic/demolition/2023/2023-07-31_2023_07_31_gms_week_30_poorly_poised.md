@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 93
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, the Turkish market remains suspended in no-man's land (just
     like the sub-continent markets), with the Lira briefly breaching TRY 27 and no
@@ -37,8 +36,7 @@ numeric_observations:
   unit: null
   values:
   - 27.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 30 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -46,8 +44,7 @@ numeric_observations:
   values:
   - 30.0
   - 2023.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-07-31_gms-week-30-poorly-poised_img1_3007j223gf_405ff96d7fb2.jpg'
   unit: null
@@ -60,39 +57,34 @@ numeric_observations:
   - 23.0
   - 405.0
   - 6.0
-- &id004
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: July 28th, 2023
   unit: null
   values:
   - 28.0
   - 2023.0
-- &id005
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Volume 251, Issue 1093
   unit: null
   values:
   - 251.0
   - 1093.0
-- &id006
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Week 30
   unit: null
   values:
   - 30.0
-- &id007
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: markets), with the Lira briefly breaching TRY 27 and no movement reported
     in steel prices.
   unit: null
   values:
   - 27.0
-- &id008
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: For week 30 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -100,8 +92,7 @@ numeric_observations:
   values:
   - 30.0
   - 2023.0
-- &id009
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Weak 540 / LDT 570 / LDT 590 / LDT
   unit: null
@@ -110,8 +101,7 @@ numeric_observations:
   - 540.0
   - 570.0
   - 590.0
-- &id010
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Weak 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -120,8 +110,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id011
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -130,8 +119,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id012
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
   unit: null
@@ -140,23 +128,20 @@ numeric_observations:
   - 300.0
   - 310.0
   - 320.0
-- &id013
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id014
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Sale over 600.
   unit: null
   values:
   - 600.0
-- &id015
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: the SINOKOR TIANJIN (4,672 LDT) manage d to fetch an astonishing USD
     622/LT LDT
@@ -164,8 +149,7 @@ numeric_observations:
   values:
   - 4672.0
   - 622.0
-- &id016
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: The sale included about 250 Tons of bunkers (about USD 10/LT worth)
     and the favored
@@ -173,23 +157,20 @@ numeric_observations:
   values:
   - 250.0
   - 10.0
-- &id017
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 20/Ton this week, but the Bangladeshi Taka also continues to languish
     at record-lows
   unit: null
   values:
   - 20.0
-- &id018
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar - at nearly BDT 108.50.
   unit: null
   values:
   - 108.5
-- &id019
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: SINOKOR TIANJIN Container 4,672 USD 622/LT LDT (with 250 Ts bunkers)
   unit: usd
@@ -197,40 +178,35 @@ numeric_observations:
   - 4672.0
   - 622.0
   - 250.0
-- &id020
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Buyers started placing opportunistic numbers - even below USD 500/LDT
     on occasion on
   unit: usd
   values:
   - 500.0
-- &id022
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: firmed marginally this week, all while the Indian Rupee deteriorated
     past Rs. 82 against
   unit: null
   values:
   - 82.0
-- &id023
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: The Pakistani Rupee is still in the high PKR 2 80s against the U.S.
     Dollar as local steel plate
@@ -238,86 +214,75 @@ numeric_observations:
   values:
   - 2.0
   - 80.0
-- &id025
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: into force and officially in 2025.
   unit: null
   values:
   - 2025.0
-- &id026
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Below USD 300/MT.
   unit: tonnage
   values:
   - 300.0
-- &id028
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: offers (some reportedly even below USD 300/MT) are probably not going
     to entice many
   unit: tonnage
   values:
   - 300.0
-- &id029
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: levels, briefly surpassing TRY 27 against the U.S. Dollar, while local
     steel plate prices
   unit: null
   values:
   - 27.0
-- &id030
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: that contains trillions of icy bodies. It's up to 2000 times farther
     away than Eris.
   unit: null
   values:
   - 2000.0
-- &id032
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line:  Eve n though there are so many objects in our solar system, the sun
     still accounts for 99.8 percent of the total
   unit: null
   values:
   - 99.8
-- &id033
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line:  The skin of an average human replaces itself 900 times during one
     lifetime.
   unit: null
   values:
   - 900.0
-- &id034
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line:  The average person produces about 25 thousand quarts of saliva in
     a lifetime. That about enough to fill two
   unit: null
   values:
   - 25.0
-- &id035
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: July 28 - July 29 - Ashura July 30 - August 07
   unit: null
@@ -326,8 +291,7 @@ numeric_observations:
   - 29.0
   - 30.0
   - 7.0
-- &id036
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day August 14 - August 20
   unit: null
@@ -335,8 +299,7 @@ numeric_observations:
   - 15.0
   - 14.0
   - 20.0
-- &id037
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: August 31 - Raksha Bandhan August 28 - September 06
   unit: null
@@ -344,8 +307,7 @@ numeric_observations:
   - 31.0
   - 28.0
   - 6.0
-- &id038
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: July 29 - Ashura August 01 - August 04
   unit: null
@@ -353,8 +315,7 @@ numeric_observations:
   - 29.0
   - 1.0
   - 4.0
-- &id039
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: August 15 - National Mourning Day August 16 - August 19
   unit: null
@@ -362,16 +323,14 @@ numeric_observations:
   - 15.0
   - 16.0
   - 19.0
-- &id040
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: August 30 - September 02
   unit: null
   values:
   - 30.0
   - 2.0
-- &id041
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: No Holidays in July & August July 27 - July 28 - Ashoora August 30
     - Victory Day
@@ -380,31 +339,27 @@ numeric_observations:
   - 27.0
   - 28.0
   - 30.0
-- &id042
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: August 14 - Independence Day
   unit: null
   values:
   - 14.0
-- &id043
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 28, 2023
   unit: null
   values:
   - 28.0
   - 2023.0
-- &id045
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 Green Explorer 2,435 Reefer Beached July 28
   unit: null
@@ -412,23 +367,20 @@ numeric_observations:
   - 1.0
   - 2435.0
   - 28.0
-- &id046
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 2,435
   unit: null
   values:
   - 2435.0
-- &id047
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of July 28, 2023
   unit: null
   values:
   - 28.0
   - 2023.0
-- &id048
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 Beauty 9,502 Bulk Carrier Arrived July 27
   unit: null
@@ -436,8 +388,7 @@ numeric_observations:
   - 1.0
   - 9502.0
   - 27.0
-- &id049
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 Fu Sheng 10,780 Bulk Carrier Arrived July 21
   unit: null
@@ -445,8 +396,7 @@ numeric_observations:
   - 2.0
   - 10780.0
   - 21.0
-- &id050
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 3 Hong Da Xin 18 3,661 Container Arrived July 28
   unit: null
@@ -455,8 +405,7 @@ numeric_observations:
   - 18.0
   - 3661.0
   - 28.0
-- &id051
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 4 Santa 804 Fishing Vessel Arrived July 26
   unit: null
@@ -464,8 +413,7 @@ numeric_observations:
   - 4.0
   - 804.0
   - 26.0
-- &id052
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 5 Victory 3,045 Reefer Beached July 24
   unit: null
@@ -473,8 +421,7 @@ numeric_observations:
   - 5.0
   - 3045.0
   - 24.0
-- &id053
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 6 Well Win 8,940 Bulk Carrier Arrived July 11
   unit: null
@@ -482,8 +429,7 @@ numeric_observations:
   - 6.0
   - 8940.0
   - 11.0
-- &id054
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 7 Xin Hai Zhou 7 6,496 General Cargo Arrived July 21
   unit: null
@@ -492,23 +438,20 @@ numeric_observations:
   - 7.0
   - 6496.0
   - 21.0
-- &id055
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 43,227
   unit: null
   values:
   - 43227.0
-- &id056
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of July 28, 2023
   unit: null
   values:
   - 28.0
   - 2023.0
-- &id057
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -517,8 +460,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id058
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -527,8 +469,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id059
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -537,8 +478,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id060
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -547,8 +487,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id061
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -557,8 +496,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id062
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 2 /2
   unit: null
@@ -566,8 +504,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id063
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 3 /2
   unit: null
@@ -575,8 +512,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 2.0
-- &id064
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 4 /2
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 2.0
   - 4.0
   - 2.0
-- &id065
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 5 /2
   unit: null
@@ -593,8 +528,7 @@ numeric_observations:
   - 2.0
   - 5.0
   - 2.0
-- &id066
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 6 /2
   unit: null
@@ -602,8 +536,7 @@ numeric_observations:
   - 2.0
   - 6.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 7 /2
   unit: null
@@ -611,8 +544,7 @@ numeric_observations:
   - 2.0
   - 7.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: /2 8 /2
   unit: null
@@ -620,8 +552,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 6 .1 7
   unit: null
@@ -630,8 +561,7 @@ numeric_observations:
   - 6.0
   - 1.0
   - 7.0
-- &id070
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 6 .9 9
   unit: null
@@ -640,8 +570,7 @@ numeric_observations:
   - 6.0
   - 9.0
   - 9.0
-- &id071
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 5 .4 5
   unit: null
@@ -650,8 +579,7 @@ numeric_observations:
   - 5.0
   - 4.0
   - 5.0
-- &id072
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 8 .2 9
   unit: null
@@ -660,8 +588,7 @@ numeric_observations:
   - 8.0
   - 2.0
   - 9.0
-- &id073
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 8 .8 0
   unit: null
@@ -669,8 +596,7 @@ numeric_observations:
   - 1.0
   - 8.0
   - 8.0
-- &id074
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 1 8 .9 6
   unit: null
@@ -679,40 +605,35 @@ numeric_observations:
   - 8.0
   - 9.0
   - 6.0
-- &id075
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 ,3 0 0 .0
   unit: null
   values:
   - 2.0
   - 3.0
-- &id076
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 ,2 0 0 .0
   unit: null
   values:
   - 2.0
   - 2.0
-- &id077
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 ,5 0 0 .0
   unit: null
   values:
   - 2.0
   - 5.0
-- &id078
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 ,7 0 0 .0
   unit: null
   values:
   - 2.0
   - 7.0
-- &id079
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 9 4 .2 2
   unit: null
@@ -721,8 +642,7 @@ numeric_observations:
   - 4.0
   - 2.0
   - 2.0
-- &id080
-  section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+- section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
   section_type: linked_pdf
   source_line: 2 2 0 ,0 0 0 .0 0
   unit: null
@@ -852,86 +772,627 @@ section_count: 3
 signals:
   numeric_observation_count: 93
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Finally, the Turkish market remains suspended in no-man's land (just
+      like the sub-continent markets), with the Lira briefly breaching TRY 27 and
+      no movement reported in steel prices.
+    unit: null
+    values:
+    - 27.0
+  - section: Main
+    section_type: null
+    source_line: For week 30 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-07-31_gms-week-30-poorly-poised_img1_3007j223gf_405ff96d7fb2.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -7.0
+    - -31.0
+    - 30.0
+    - 3007.0
+    - 23.0
+    - 405.0
+    - 6.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: July 28th, 2023
+    unit: null
+    values:
+    - 28.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Volume 251, Issue 1093
+    unit: null
+    values:
+    - 251.0
+    - 1093.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Week 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: markets), with the Lira briefly breaching TRY 27 and no movement
+      reported in steel prices.
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: For week 30 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Weak 540 / LDT 570 / LDT 590 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 540.0
+    - 570.0
+    - 590.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Weak 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 300 / LDT 310 / LDT 320 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 300.0
+    - 310.0
+    - 320.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Sale over 600.
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: the SINOKOR TIANJIN (4,672 LDT) manage d to fetch an astonishing
+      USD 622/LT LDT
+    unit: usd
+    values:
+    - 4672.0
+    - 622.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: The sale included about 250 Tons of bunkers (about USD 10/LT worth)
+      and the favored
+    unit: usd
+    values:
+    - 250.0
+    - 10.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 20/Ton this week, but the Bangladeshi Taka also continues to languish
+      at record-lows
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar - at nearly BDT 108.50.
+    unit: null
+    values:
+    - 108.5
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: SINOKOR TIANJIN Container 4,672 USD 622/LT LDT (with 250 Ts bunkers)
+    unit: usd
+    values:
+    - 4672.0
+    - 622.0
+    - 250.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Buyers started placing opportunistic numbers - even below USD 500/LDT
+      on occasion on
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: firmed marginally this week, all while the Indian Rupee deteriorated
+      past Rs. 82 against
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: The Pakistani Rupee is still in the high PKR 2 80s against the U.S.
+      Dollar as local steel plate
+    unit: null
+    values:
+    - 2.0
+    - 80.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: into force and officially in 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Below USD 300/MT.
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: offers (some reportedly even below USD 300/MT) are probably not going
+      to entice many
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: levels, briefly surpassing TRY 27 against the U.S. Dollar, while
+      local steel plate prices
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: that contains trillions of icy bodies. It's up to 2000 times farther
+      away than Eris.
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line:  Eve n though there are so many objects in our solar system, the
+      sun still accounts for 99.8 percent of the total
+    unit: null
+    values:
+    - 99.8
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line:  The skin of an average human replaces itself 900 times during one
+      lifetime.
+    unit: null
+    values:
+    - 900.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line:  The average person produces about 25 thousand quarts of saliva
+      in a lifetime. That about enough to fill two
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: July 28 - July 29 - Ashura July 30 - August 07
+    unit: null
+    values:
+    - 28.0
+    - 29.0
+    - 30.0
+    - 7.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day August 14 - August 20
+    unit: null
+    values:
+    - 15.0
+    - 14.0
+    - 20.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: August 31 - Raksha Bandhan August 28 - September 06
+    unit: null
+    values:
+    - 31.0
+    - 28.0
+    - 6.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: July 29 - Ashura August 01 - August 04
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - National Mourning Day August 16 - August 19
+    unit: null
+    values:
+    - 15.0
+    - 16.0
+    - 19.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: August 30 - September 02
+    unit: null
+    values:
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in July & August July 27 - July 28 - Ashoora August 30
+      - Victory Day
+    unit: null
+    values:
+    - 27.0
+    - 28.0
+    - 30.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: August 14 - Independence Day
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 28, 2023
+    unit: null
+    values:
+    - 28.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 Green Explorer 2,435 Reefer Beached July 28
+    unit: null
+    values:
+    - 1.0
+    - 2435.0
+    - 28.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 2,435
+    unit: null
+    values:
+    - 2435.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of July 28, 2023
+    unit: null
+    values:
+    - 28.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 Beauty 9,502 Bulk Carrier Arrived July 27
+    unit: null
+    values:
+    - 1.0
+    - 9502.0
+    - 27.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 Fu Sheng 10,780 Bulk Carrier Arrived July 21
+    unit: null
+    values:
+    - 2.0
+    - 10780.0
+    - 21.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hong Da Xin 18 3,661 Container Arrived July 28
+    unit: null
+    values:
+    - 3.0
+    - 18.0
+    - 3661.0
+    - 28.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 4 Santa 804 Fishing Vessel Arrived July 26
+    unit: null
+    values:
+    - 4.0
+    - 804.0
+    - 26.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 5 Victory 3,045 Reefer Beached July 24
+    unit: null
+    values:
+    - 5.0
+    - 3045.0
+    - 24.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 6 Well Win 8,940 Bulk Carrier Arrived July 11
+    unit: null
+    values:
+    - 6.0
+    - 8940.0
+    - 11.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 7 Xin Hai Zhou 7 6,496 General Cargo Arrived July 21
+    unit: null
+    values:
+    - 7.0
+    - 7.0
+    - 6496.0
+    - 21.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 43,227
+    unit: null
+    values:
+    - 43227.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of July 28, 2023
+    unit: null
+    values:
+    - 28.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 2 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 3 /2
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 4 /2
+    unit: null
+    values:
+    - 2.0
+    - 4.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 5 /2
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 6 /2
+    unit: null
+    values:
+    - 2.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 7 /2
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: /2 8 /2
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 6 .1 7
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 6 .9 9
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 9.0
+    - 9.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 5 .4 5
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 8 .2 9
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2.0
+    - 9.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 8 .8 0
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 1 8 .9 6
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 9.0
+    - 6.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 ,3 0 0 .0
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 ,2 0 0 .0
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 ,5 0 0 .0
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 ,7 0 0 .0
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 9 4 .2 2
+    unit: null
+    values:
+    - 9.0
+    - 4.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-07-31_gms-week-30-poorly-poised_ship-recycling-market-insight-week-3_c485d1c1a16f.pdf'
+    section_type: linked_pdf
+    source_line: 2 2 0 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 2.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-07-31_gms-week-30-poorly-poised.html
 source_stem: 2023-07-31_gms-week-30-poorly-poised

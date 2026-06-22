@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 20
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 13/02/2024
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 13.0
   - 2.0
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   unit: null
@@ -47,8 +45,7 @@ numeric_observations:
   - -13.0
   - 6.0
   - -2024.0
-- &id003
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
   unit: null
@@ -57,8 +54,7 @@ numeric_observations:
   - 109.0
   - 166.0
   - 73.0
-- &id004
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
   unit: null
@@ -69,8 +65,7 @@ numeric_observations:
   - 30.0
   - 210.0
   - 8996040.0
-- &id005
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: Week 06 (5th to 11th February 2024)
   unit: null
@@ -79,8 +74,7 @@ numeric_observations:
   - 5.0
   - 11.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: $500 $505 $520 $340
   unit: usd
@@ -89,8 +83,7 @@ numeric_observations:
   - 505.0
   - 520.0
   - 340.0
-- &id007
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: $510 $525 $530 $350
   unit: usd
@@ -99,8 +92,7 @@ numeric_observations:
   - 525.0
   - 530.0
   - 350.0
-- &id008
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: $525 $545 $545 $360
   unit: usd
@@ -109,24 +101,21 @@ numeric_observations:
   - 545.0
   - 545.0
   - 360.0
-- &id009
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: Yearly Demolition 2009-2024
   unit: null
   values:
   - 2009.0
   - -2024.0
-- &id010
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 60 55.8
   unit: null
   values:
   - 60.0
   - 55.8
-- &id011
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 40 32 40 34.3 38.8 35.3
   unit: null
@@ -137,32 +126,28 @@ numeric_observations:
   - 34.3
   - 38.8
   - 35.3
-- &id012
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 23.2 23.7
   unit: null
   values:
   - 23.2
   - 23.7
-- &id013
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 20 16.9
   unit: null
   values:
   - 20.0
   - 16.9
-- &id014
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 12.5 10.5
   unit: null
   values:
   - 12.5
   - 10.5
-- &id015
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
     2023 2024
@@ -178,16 +163,14 @@ numeric_observations:
   - 2016.0
   - 2017.0
   - 2018.0
-- &id016
-  section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+- section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
   section_type: linked_pdf
   source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
     S.A.
   unit: null
   values:
   - 2021.0
-- &id017
-  section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+- section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   unit: null
@@ -197,23 +180,20 @@ numeric_observations:
   - -13.0
   - 6.0
   - -2024.0
-- &id018
-  section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+- section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 120x100 mode=RGB'
   unit: null
   values:
   - 120.0
-- &id019
-  section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+- section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72, 72)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id020
-  section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+- section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
@@ -227,26 +207,178 @@ section_count: 3
 signals:
   numeric_observation_count: 20
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 13/02/2024
+    unit: null
+    values:
+    - 13.0
+    - 2.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -2.0
+    - -13.0
+    - 6.0
+    - -2024.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+    unit: null
+    values:
+    - 107.0
+    - 109.0
+    - 166.0
+    - 73.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 9659700.0
+    - 30.0
+    - 210.0
+    - 8996040.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: Week 06 (5th to 11th February 2024)
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: $500 $505 $520 $340
+    unit: usd
+    values:
+    - 500.0
+    - 505.0
+    - 520.0
+    - 340.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: $510 $525 $530 $350
+    unit: usd
+    values:
+    - 510.0
+    - 525.0
+    - 530.0
+    - 350.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: $525 $545 $545 $360
+    unit: usd
+    values:
+    - 525.0
+    - 545.0
+    - 545.0
+    - 360.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: Yearly Demolition 2009-2024
+    unit: null
+    values:
+    - 2009.0
+    - -2024.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 60 55.8
+    unit: null
+    values:
+    - 60.0
+    - 55.8
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 40 32 40 34.3 38.8 35.3
+    unit: null
+    values:
+    - 40.0
+    - 32.0
+    - 40.0
+    - 34.3
+    - 38.8
+    - 35.3
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 23.2 23.7
+    unit: null
+    values:
+    - 23.2
+    - 23.7
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 20 16.9
+    unit: null
+    values:
+    - 20.0
+    - 16.9
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 12.5 10.5
+    unit: null
+    values:
+    - 12.5
+    - 10.5
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+      2022 2023 2024
+    unit: null
+    values:
+    - 2009.0
+    - 2010.0
+    - 2011.0
+    - 2012.0
+    - 2013.0
+    - 2014.0
+    - 2015.0
+    - 2016.0
+    - 2017.0
+    - 2018.0
+  - section: 'Linked asset: 2024-02-13_Week-06-2024-Athenian-Demo-Report.pdf'
+    section_type: linked_pdf
+    source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
+      S.A.
+    unit: null
+    values:
+    - 2021.0
+  - section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -2.0
+    - -13.0
+    - 6.0
+    - -2024.0
+  - section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 120x100 mode=RGB'
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72, 72)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024_img1.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024.html
 source_stem: 2024-02-13_athenian-shipbrokers-s-a-demolition-quick-update-week-6-2024

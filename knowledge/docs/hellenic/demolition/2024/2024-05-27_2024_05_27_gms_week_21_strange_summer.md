@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 99
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'As the summer / monsoon months creep closer, ship recycling markets
     in Turkey and the Indian sub-continent have beenfirming over recent weeks, as
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 3.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: In fact, the issue surrounding a shortage of U.S. Dollar reserves has
     been most acute in Bangladesh over the recent year and changes affecting the country's
@@ -51,8 +49,7 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 21 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -60,8 +57,7 @@ numeric_observations:
   values:
   - 21.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-05-27_gms-week-21-strange-summer_img1_6436563563_9471fd086698.jpg'
   unit: null
@@ -73,39 +69,34 @@ numeric_observations:
   - 6436563563.0
   - 9471.0
   - 86698.0
-- &id005
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: May 24th, 2024
   unit: null
   values:
   - 24.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Week 21 what I need to do now in order to get there then."
   unit: null
   values:
   - 21.0
-- &id007
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Volume 261, Issue 1135 - Diana Ross
   unit: null
   values:
   - 261.0
   - 1135.0
-- &id008
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: size) and despite having bested last year's recycling volumes with
     another 3 fresh arrivals this
   unit: null
   values:
   - 3.0
-- &id009
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Din dustry gears up for summer, Bangladesh's Budget for fiscal year
     2024 - 2025 is due to be
@@ -113,16 +104,14 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id010
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: • Election week 4. announced early June as this market preps for another
     forecasted decline through June / early July.
   unit: null
   values:
   - 4.0
-- &id011
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Recycling App! For week 21 of 2024, GMS demo rankings / pricing for
     the week are as below.
@@ -130,8 +119,7 @@ numeric_observations:
   values:
   - 21.0
   - 2024.0
-- &id012
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -140,8 +128,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id013
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 2 India Firming 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -150,8 +137,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id014
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -160,8 +146,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id015
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey* Dull 360 / LDT 370 / LDT 380 / LDT
   unit: null
@@ -170,31 +155,27 @@ numeric_observations:
   - 360.0
   - 370.0
   - 380.0
-- &id016
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: '* +10K LDT Units'
   unit: null
   values:
   - 10.0
-- &id017
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: deader than those in PakistanB (wAait,N whGat? LSeeA PaDge 4E), S(c)H
     lik ely restrictions on L/Cs in the
   unit: null
   values:
   - 4.0
-- &id019
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: of tonnage that is still opening in the Far East, with nearly 50K LDT
     / 12 vessels that are
@@ -202,24 +183,21 @@ numeric_observations:
   values:
   - 50.0
   - 12.0
-- &id020
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: sector as the Taka wraps up the week at BDT 117.35 against the U.S.
     Dollar, whilst local
   unit: null
   values:
   - 117.35
-- &id021
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: steel plate prices can be found where they were 2 quarters ago … on
     the floor.
   unit: null
   values:
   - 2.0
-- &id022
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: to transact as every USD 1 is adding another BDT 7 to the value of
     every L/C, and with
@@ -227,8 +205,7 @@ numeric_observations:
   values:
   - 1.0
   - 7.0
-- &id023
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: national budget for 2024 - 2025 hopefully loosening the potential transactional
     chokehold
@@ -236,24 +213,21 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id024
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: now. Fortunately for Alang Recyclers, plate prices in the world's 5th
     largest economy
   unit: null
   values:
   - 5.0
-- &id026
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: that has sent Indian steel plate prices up by over USD 41/Ton in the
     last 30 days i.e. since
@@ -261,24 +235,21 @@ numeric_observations:
   values:
   - 41.0
   - 30.0
-- &id027
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: week of April 24, 2024.
   unit: null
   values:
   - 24.0
   - 2024.0
-- &id028
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: This in turn has seen India jump to 2nd place in the market rankings
     ahead of Pakistan
   unit: null
   values:
   - 2.0
-- &id029
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: well) as another nearly 20K LDT / 6 IshNipsD areI uAnd ergoing deliveries
     to Alang Recyclers.
@@ -286,40 +257,35 @@ numeric_observations:
   values:
   - 20.0
   - 6.0
-- &id030
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: wrapped up at levels just shy of breaching into Rs. 82.99 territory
     against the U.S. Dollar
   unit: null
   values:
   - 82.99
-- &id031
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: on the chicane for yet another victory and a 3rd consecutive term as
     the nation's Prime
   unit: null
   values:
   - 3.0
-- &id032
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: witness local anchorage report 3 fresh arrivals through this week,
     including a couple of
   unit: null
   values:
   - 3.0
-- &id034
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 2023 ship recycling volume, having already taken in 20 vessels within
     a span of nearly 2
@@ -328,62 +294,54 @@ numeric_observations:
   - 2023.0
   - 20.0
   - 2.0
-- &id035
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: the fact that a grand total of 150K LDT will be delivered into the
     country within this year
   unit: null
   values:
   - 150.0
-- &id036
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: plate levels plummeted a whopping USD 25/Ton within the span of a day,
     only to continue
   unit: usd
   values:
   - 25.0
-- &id037
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: prices this week. Even the Pakistani Rupee shakily firmed towards PKR
     278.10 against the
   unit: null
   values:
   - 278.1
-- &id038
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: leaders India and Bangladesh look to duke it out through Q3 2024.
   unit: null
   values:
   - 2024.0
-- &id039
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: ISSION IMPOSSIBLE - ELEMENT 2024!
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Reportedly, inflation still stands at 85% over the last 3 years, domestic
     interest rates are
   unit: pct
   values:
   - 85.0
-- &id042
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: still around the +60% mark, the Lira remains perched atop a treacherous
     TRY 32.22 against
@@ -391,31 +349,27 @@ numeric_observations:
   values:
   - 60.0
   - 32.22
-- &id043
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: for over 4 Quarters now? Certainly, begs the question given that an
     increasing number of
   unit: null
   values:
   - 4.0
-- &id044
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id046
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 21 - May 29
   unit: null
@@ -423,8 +377,7 @@ numeric_observations:
   - 23.0
   - 21.0
   - 29.0
-- &id047
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: June 01 - Public Holiday June 03 - June 11
   unit: null
@@ -432,8 +385,7 @@ numeric_observations:
   - 1.0
   - 3.0
   - 11.0
-- &id048
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
   unit: null
@@ -442,8 +394,7 @@ numeric_observations:
   - 18.0
   - 19.0
   - 28.0
-- &id049
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 23 - May 25
   unit: null
@@ -451,8 +402,7 @@ numeric_observations:
   - 23.0
   - 23.0
   - 25.0
-- &id050
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Eid-Ul-Azha June 05 - June 08
   unit: null
@@ -461,16 +411,14 @@ numeric_observations:
   - 18.0
   - 5.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 25
   unit: null
   values:
   - 22.0
   - 25.0
-- &id052
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: June 01 - Dragon Boat Festival June 17 - June 19 - Eid-Ul-Azha June
     15 - June 19 - Kurban Bayrami
@@ -481,24 +429,21 @@ numeric_observations:
   - 19.0
   - 15.0
   - 19.0
-- &id053
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of May 24, 2024
   unit: null
   values:
   - 24.0
   - 2024.0
-- &id055
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 1 Fesco Trader 5,113 Container Delivered May 23
   unit: null
@@ -506,8 +451,7 @@ numeric_observations:
   - 1.0
   - 5113.0
   - 23.0
-- &id056
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 2 Frost Olympus 2,410 Reefer Vessel Arrived May 18
   unit: null
@@ -515,8 +459,7 @@ numeric_observations:
   - 2.0
   - 2410.0
   - 18.0
-- &id057
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 3 Hana 1,260 Chemical Tanker Delivered May 21
   unit: null
@@ -524,8 +467,7 @@ numeric_observations:
   - 3.0
   - 1260.0
   - 21.0
-- &id058
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 4 Hironin 3,994 Fishing Vessel Delivered May 23
   unit: null
@@ -533,8 +475,7 @@ numeric_observations:
   - 4.0
   - 3994.0
   - 23.0
-- &id059
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 5 New Courage 4,426 General Cargo Delivered May 22
   unit: null
@@ -542,8 +483,7 @@ numeric_observations:
   - 5.0
   - 4426.0
   - 22.0
-- &id060
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 6 Ocmis Gar 2,477 General Cargo Arrived May 17
   unit: null
@@ -551,23 +491,20 @@ numeric_observations:
   - 6.0
   - 2477.0
   - 17.0
-- &id061
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,680
   unit: null
   values:
   - 19680.0
-- &id062
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of May 24, 2024
   unit: null
   values:
   - 24.0
   - 2024.0
-- &id063
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 1 Atar 9,576 General Cargo Delivered May 24
   unit: null
@@ -575,8 +512,7 @@ numeric_observations:
   - 1.0
   - 9576.0
   - 24.0
-- &id064
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 2 Bao Di Long 8 3,133 MPP Delivered May 22
   unit: null
@@ -585,8 +521,7 @@ numeric_observations:
   - 8.0
   - 3133.0
   - 22.0
-- &id065
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 3 Dong Fang Yong Shi 2 2,254 Offshore Supply Tug Delivered May 24
   unit: null
@@ -595,8 +530,7 @@ numeric_observations:
   - 2.0
   - 2254.0
   - 24.0
-- &id066
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 4 Gaku 7,795 Vehicles Carrier Delivered May 24
   unit: null
@@ -604,8 +538,7 @@ numeric_observations:
   - 4.0
   - 7795.0
   - 24.0
-- &id067
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 5 Han Ji 2 2,212 Offshore Supply Tug Arrived May 18
   unit: null
@@ -614,8 +547,7 @@ numeric_observations:
   - 2.0
   - 2212.0
   - 18.0
-- &id068
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 6 Heung-A-Tokyo 2,447 Container Arrived May 22
   unit: null
@@ -623,8 +555,7 @@ numeric_observations:
   - 6.0
   - 2447.0
   - 22.0
-- &id069
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 7 Naga 2 2,453 Container Arrived May 20
   unit: null
@@ -633,8 +564,7 @@ numeric_observations:
   - 2.0
   - 2453.0
   - 20.0
-- &id070
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 8 Pilatus 21 890 LPG Tanker Delivered May 18
   unit: null
@@ -643,8 +573,7 @@ numeric_observations:
   - 21.0
   - 890.0
   - 18.0
-- &id071
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 9 Sia 2 1,836 General Cargo Delivered May 18
   unit: null
@@ -653,8 +582,7 @@ numeric_observations:
   - 2.0
   - 1836.0
   - 18.0
-- &id072
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 10 Span 33 1,826 General Cargo Delivered May 24
   unit: null
@@ -663,8 +591,7 @@ numeric_observations:
   - 33.0
   - 1826.0
   - 24.0
-- &id073
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 11 Titan 6,979 Limestone Carrier Delivered May 23
   unit: null
@@ -672,8 +599,7 @@ numeric_observations:
   - 11.0
   - 6979.0
   - 23.0
-- &id074
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 12 Xin LV Bao Shi 7,957 Bulk Carrier Delivered May 21
   unit: null
@@ -681,23 +607,20 @@ numeric_observations:
   - 12.0
   - 7957.0
   - 21.0
-- &id075
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 49,360
   unit: null
   values:
   - 49360.0
-- &id076
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of May 24, 2024
   unit: null
   values:
   - 24.0
   - 2024.0
-- &id077
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 1 Poseidon M 7,000 Bulk Carrier Arrived May 18
   unit: null
@@ -705,8 +628,7 @@ numeric_observations:
   - 1.0
   - 7000.0
   - 18.0
-- &id078
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 2 Uranus J 5,778 Bulk Carrier Arrived May 20
   unit: null
@@ -714,8 +636,7 @@ numeric_observations:
   - 2.0
   - 5778.0
   - 20.0
-- &id079
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: 3 WSS II 300 Tug Delivered May 18
   unit: null
@@ -723,8 +644,7 @@ numeric_observations:
   - 3.0
   - 300.0
   - 18.0
-- &id080
-  section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+- section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 13,078
   unit: null
@@ -945,86 +865,626 @@ section_count: 3
 signals:
   numeric_observation_count: 99
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'As the summer / monsoon months creep closer, ship recycling markets
+      in Turkey and the Indian sub-continent have beenfirming over recent weeks, as
+      Pakistan, though still relatively firm, feels sluggishly satiated of late having
+      taken in a healthy collection of '
+    unit: null
+    values:
+    - 3.0
+  - section: Main
+    section_type: null
+    source_line: In fact, the issue surrounding a shortage of U.S. Dollar reserves
+      has been most acute in Bangladesh over the recent year and changes affecting
+      the country's economy over recent weeks certainly have all of the prime markers
+      for this issue to resurface for air o
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For week 21 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 21.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-05-27_gms-week-21-strange-summer_img1_6436563563_9471fd086698.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -5.0
+    - -27.0
+    - 21.0
+    - 6436563563.0
+    - 9471.0
+    - 86698.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: May 24th, 2024
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Week 21 what I need to do now in order to get there then."
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Volume 261, Issue 1135 - Diana Ross
+    unit: null
+    values:
+    - 261.0
+    - 1135.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: size) and despite having bested last year's recycling volumes with
+      another 3 fresh arrivals this
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Din dustry gears up for summer, Bangladesh's Budget for fiscal year
+      2024 - 2025 is due to be
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: • Election week 4. announced early June as this market preps for
+      another forecasted decline through June / early July.
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Recycling App! For week 21 of 2024, GMS demo rankings / pricing for
+      the week are as below.
+    unit: null
+    values:
+    - 21.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Firming 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey* Dull 360 / LDT 370 / LDT 380 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 360.0
+    - 370.0
+    - 380.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: '* +10K LDT Units'
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: deader than those in PakistanB (wAait,N whGat? LSeeA PaDge 4E), S(c)H
+      lik ely restrictions on L/Cs in the
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: of tonnage that is still opening in the Far East, with nearly 50K
+      LDT / 12 vessels that are
+    unit: null
+    values:
+    - 50.0
+    - 12.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: sector as the Taka wraps up the week at BDT 117.35 against the U.S.
+      Dollar, whilst local
+    unit: null
+    values:
+    - 117.35
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices can be found where they were 2 quarters ago …
+      on the floor.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: to transact as every USD 1 is adding another BDT 7 to the value of
+      every L/C, and with
+    unit: usd
+    values:
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: national budget for 2024 - 2025 hopefully loosening the potential
+      transactional chokehold
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: now. Fortunately for Alang Recyclers, plate prices in the world's
+      5th largest economy
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: that has sent Indian steel plate prices up by over USD 41/Ton in
+      the last 30 days i.e. since
+    unit: usd
+    values:
+    - 41.0
+    - 30.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: week of April 24, 2024.
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: This in turn has seen India jump to 2nd place in the market rankings
+      ahead of Pakistan
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: well) as another nearly 20K LDT / 6 IshNipsD areI uAnd ergoing deliveries
+      to Alang Recyclers.
+    unit: null
+    values:
+    - 20.0
+    - 6.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: wrapped up at levels just shy of breaching into Rs. 82.99 territory
+      against the U.S. Dollar
+    unit: null
+    values:
+    - 82.99
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: on the chicane for yet another victory and a 3rd consecutive term
+      as the nation's Prime
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: witness local anchorage report 3 fresh arrivals through this week,
+      including a couple of
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 2023 ship recycling volume, having already taken in 20 vessels within
+      a span of nearly 2
+    unit: null
+    values:
+    - 2023.0
+    - 20.0
+    - 2.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: the fact that a grand total of 150K LDT will be delivered into the
+      country within this year
+    unit: null
+    values:
+    - 150.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: plate levels plummeted a whopping USD 25/Ton within the span of a
+      day, only to continue
+    unit: usd
+    values:
+    - 25.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: prices this week. Even the Pakistani Rupee shakily firmed towards
+      PKR 278.10 against the
+    unit: null
+    values:
+    - 278.1
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: leaders India and Bangladesh look to duke it out through Q3 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: ISSION IMPOSSIBLE - ELEMENT 2024!
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Reportedly, inflation still stands at 85% over the last 3 years,
+      domestic interest rates are
+    unit: pct
+    values:
+    - 85.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: still around the +60% mark, the Lira remains perched atop a treacherous
+      TRY 32.22 against
+    unit: pct
+    values:
+    - 60.0
+    - 32.22
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: for over 4 Quarters now? Certainly, begs the question given that
+      an increasing number of
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 21 - May 29
+    unit: null
+    values:
+    - 23.0
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: June 01 - Public Holiday June 03 - June 11
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 11.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 19.0
+    - 28.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 23 - May 25
+    unit: null
+    values:
+    - 23.0
+    - 23.0
+    - 25.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Eid-Ul-Azha June 05 - June 08
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 25
+    unit: null
+    values:
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: June 01 - Dragon Boat Festival June 17 - June 19 - Eid-Ul-Azha June
+      15 - June 19 - Kurban Bayrami
+    unit: null
+    values:
+    - 1.0
+    - 17.0
+    - 19.0
+    - 15.0
+    - 19.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of May 24, 2024
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Fesco Trader 5,113 Container Delivered May 23
+    unit: null
+    values:
+    - 1.0
+    - 5113.0
+    - 23.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 2 Frost Olympus 2,410 Reefer Vessel Arrived May 18
+    unit: null
+    values:
+    - 2.0
+    - 2410.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hana 1,260 Chemical Tanker Delivered May 21
+    unit: null
+    values:
+    - 3.0
+    - 1260.0
+    - 21.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Hironin 3,994 Fishing Vessel Delivered May 23
+    unit: null
+    values:
+    - 4.0
+    - 3994.0
+    - 23.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 5 New Courage 4,426 General Cargo Delivered May 22
+    unit: null
+    values:
+    - 5.0
+    - 4426.0
+    - 22.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 6 Ocmis Gar 2,477 General Cargo Arrived May 17
+    unit: null
+    values:
+    - 6.0
+    - 2477.0
+    - 17.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,680
+    unit: null
+    values:
+    - 19680.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of May 24, 2024
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atar 9,576 General Cargo Delivered May 24
+    unit: null
+    values:
+    - 1.0
+    - 9576.0
+    - 24.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bao Di Long 8 3,133 MPP Delivered May 22
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 3133.0
+    - 22.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 3 Dong Fang Yong Shi 2 2,254 Offshore Supply Tug Delivered May 24
+    unit: null
+    values:
+    - 3.0
+    - 2.0
+    - 2254.0
+    - 24.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 4 Gaku 7,795 Vehicles Carrier Delivered May 24
+    unit: null
+    values:
+    - 4.0
+    - 7795.0
+    - 24.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 5 Han Ji 2 2,212 Offshore Supply Tug Arrived May 18
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 2212.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 6 Heung-A-Tokyo 2,447 Container Arrived May 22
+    unit: null
+    values:
+    - 6.0
+    - 2447.0
+    - 22.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 7 Naga 2 2,453 Container Arrived May 20
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 2453.0
+    - 20.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 8 Pilatus 21 890 LPG Tanker Delivered May 18
+    unit: null
+    values:
+    - 8.0
+    - 21.0
+    - 890.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sia 2 1,836 General Cargo Delivered May 18
+    unit: null
+    values:
+    - 9.0
+    - 2.0
+    - 1836.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 10 Span 33 1,826 General Cargo Delivered May 24
+    unit: null
+    values:
+    - 10.0
+    - 33.0
+    - 1826.0
+    - 24.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 11 Titan 6,979 Limestone Carrier Delivered May 23
+    unit: null
+    values:
+    - 11.0
+    - 6979.0
+    - 23.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 12 Xin LV Bao Shi 7,957 Bulk Carrier Delivered May 21
+    unit: null
+    values:
+    - 12.0
+    - 7957.0
+    - 21.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 49,360
+    unit: null
+    values:
+    - 49360.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of May 24, 2024
+    unit: null
+    values:
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 1 Poseidon M 7,000 Bulk Carrier Arrived May 18
+    unit: null
+    values:
+    - 1.0
+    - 7000.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 2 Uranus J 5,778 Bulk Carrier Arrived May 20
+    unit: null
+    values:
+    - 2.0
+    - 5778.0
+    - 20.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: 3 WSS II 300 Tug Delivered May 18
+    unit: null
+    values:
+    - 3.0
+    - 300.0
+    - 18.0
+  - section: 'Linked asset: 2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 13,078
+    unit: null
+    values:
+    - 13078.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-05-27_gms-week-21-strange-summer.html
 source_stem: 2024-05-27_gms-week-21-strange-summer

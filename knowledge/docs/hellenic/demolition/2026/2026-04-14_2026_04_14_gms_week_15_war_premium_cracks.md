@@ -34,8 +34,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 119
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The single most consequential development of Week 15 came out of Washington,
     not the recycling yards. President Trump'sdecision to delay planned strikes on
@@ -48,8 +47,7 @@ numeric_observations:
   - 101.0
   - 8.0
   - 90.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The Baltic Dry Index rose to 2,139 by April 8th, continuing a recovery
     that began from the March trough and extending to its highest level since early
@@ -61,8 +59,7 @@ numeric_observations:
   - 8.0
   - 30.0
   - 2024.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Currency markets remained largely stable. The Indian Rupee softened
     slightly to 93.21, reversing part of last week's recovery, while Pakistan and
@@ -72,8 +69,7 @@ numeric_observations:
   values:
   - 93.21
   - 99.3
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'As Week 15 closes, the industry stands at a genuine inflection point,
     one that was not visible at the start of Q2. Whether this moment marks the beginning
@@ -82,8 +78,7 @@ numeric_observations:
   unit: null
   values:
   - 15.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 15 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -91,15 +86,13 @@ numeric_observations:
   values:
   - 15.0
   - 2026.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 75634.jpg'
   unit: null
   values:
   - 75634.0
-- &id007
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   unit: null
@@ -110,24 +103,21 @@ numeric_observations:
   - 15.0
   - 75634.0
   - 9.0
-- &id008
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x152 mode=RGB'
   unit: null
   values:
   - 687.0
   - 52.0
-- &id009
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id010
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Pakistan [Steady | 445-450/ LD | 465-470 /LDT | 475-480/LDT |'
   unit: null
@@ -139,8 +129,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id011
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey [| Steady | 268-270/ LDT | 278-280/ LDT | 288-290/LDT |'
   unit: null
@@ -152,30 +141,26 @@ numeric_observations:
   - -280.0
   - 288.0
   - -290.0
-- &id012
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: April 10t h, 2026
   unit: null
   values:
   - 10.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Week 15
   unit: null
   values:
   - 15.0
-- &id015
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Volume 2 82, Issue 1230 -Kakuzo Okakura
   unit: null
@@ -183,24 +168,21 @@ numeric_observations:
   - 2.0
   - 82.0
   - 1230.0
-- &id016
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: The single most consequential development of Week 15 came out of Washington,
     not the recycling
   unit: null
   values:
   - 15.0
-- &id017
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: reversal since the conflict began. Brent, which had held above USD
     109/barrel through Q1 and into
   unit: usd
   values:
   - 109.0
-- &id018
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: early Q2, fell to near USD 101/barrel by week's end, an almost 8% drop
     in a matter of hours. WTI
@@ -208,16 +190,14 @@ numeric_observations:
   values:
   - 101.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: followed, settling around USD 90/barrel. Tehran denied any negotiations
     even as Washington
   unit: usd
   values:
   - 90.0
-- &id020
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: The Baltic Dry Index rose to 2,139 by April 8th, continuing a recovery
     that began from the March
@@ -225,8 +205,7 @@ numeric_observations:
   values:
   - 2139.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: USD 30 /metric ton for the first time since July 2024. Panam ax and
     supramax both held gains. The
@@ -234,32 +213,28 @@ numeric_observations:
   values:
   - 30.0
   - 2024.0
-- &id022
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: DC urrency markets remained largely stable. The Indian Rupee softened
     slightly to 93.21, reversing
   unit: null
   values:
   - 93.21
-- &id023
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: DXY near 99.3, offers some support to sub-continent buyers heading
     into Q2.
   unit: null
   values:
   - 99.3
-- &id024
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! As Week 15 closes, the industry stands at a genuine
     inflection point, one that was not visible at the
   unit: null
   values:
   - 15.0
-- &id025
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 15 of 2026 are on Page 5.
   unit: null
@@ -267,40 +242,35 @@ numeric_observations:
   - 15.0
   - 2026.0
   - 5.0
-- &id026
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 15 with the sharpest improvement in steel economics
     seen in the quarter.
   unit: null
   values:
   - 15.0
-- &id028
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices jumped to BDT 71,000 per ton, the most significant
     single-week move of
   unit: null
   values:
   - 71000.0
-- &id029
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Q1-Q2, translating to a USD equivalent near USD 578/ton at current
     exchange rates. With the
   unit: usd
   values:
   - 578.0
-- &id030
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: USD/BDT rate holding steady at 122.70-122.85, barely changed from 122.81-122.91
     at the close of
@@ -310,24 +280,21 @@ numeric_observations:
   - -122.85
   - 122.81
   - -122.91
-- &id031
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Week 14, the steel price improvement flows directly into offer capacity
     without the FX offset that
   unit: null
   values:
   - 14.0
-- &id032
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: is meaningfully less acute entering Week 15. The two OFAC-sanctioned
     VLCCs at OPL Chattogram
   unit: null
   values:
   - 15.0
-- &id033
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's March 2026 CPI eased to 8.71%, down from 9.13% in February,
     which had been the
@@ -336,24 +303,21 @@ numeric_observations:
   - 2026.0
   - 8.71
   - 9.13
-- &id034
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: highest reading since May 2025. The moderation was driven by food price
     declines in the post-Eid
   unit: null
   values:
   - 2025.0
-- &id035
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: period, while non-food inflation edged higher to 9.09%. The relative
     macro stability provides
   unit: pct
   values:
   - 9.09
-- &id036
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: HONG KONG ENERGY LNG 31,340 USD 513/LT LDT ('as is' Linggi, Malaysia
     with 250 Ts bunkers)
@@ -362,16 +326,14 @@ numeric_observations:
   - 31340.0
   - 513.0
   - 250.0
-- &id037
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: India's Week 15 was defined by the partial reversal of the currency
     gains that had been Week 14's most
@@ -379,32 +341,28 @@ numeric_observations:
   values:
   - 15.0
   - 14.0
-- &id039
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: positive domestic development. The USD/INR rate moved back to approximately
     93.21, retracing a R upee reversal.
   unit: usd_per_unit
   values:
   - 93.21
-- &id040
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: portion of the RBI-engineered recovery from the record low of 94.42
     recorded in the prior week. The
   unit: null
   values:
   - 94.42
-- &id041
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: move aligns with the risk outlined in Week 14, that the INR recovery's
     durability was conditional on
   unit: null
   values:
   - 14.0
-- &id042
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: is directionally positive for India's import bill, with approximately
     70% of crude and 90% of LPG
@@ -412,8 +370,7 @@ numeric_observations:
   values:
   - 70.0
   - 90.0
-- &id043
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: reached INR 41,000 during the week before settling back near INR 40,600,
     a mid-week improvement Energy drag lingers.
@@ -421,16 +378,14 @@ numeric_observations:
   values:
   - 41000.0
   - 40600.0
-- &id044
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: equivalent of approximately USD 436/ton, India remains the lowest-priced
     destination in the sub-
   unit: usd
   values:
   - 436.0
-- &id045
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: recycling tonnage flow. India's February 2026 CPI of 3.21% confirms
     that inflation remains well within
@@ -438,32 +393,28 @@ numeric_observations:
   values:
   - 2026.0
   - 3.21
-- &id046
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: infrastructure. With more than 110 yards holding valid Statements of
     Compliance, Alang retains HKC strength.
   unit: null
   values:
   - 110.0
-- &id047
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Pakistan's Week 15 is characterized by one quality that has been notably
     scarce in the sub-continent
   unit: null
   values:
   - 15.0
-- &id049
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 'Fir m footing. through Q1: stability. The Pakistani Rupee has held
     in a narrow 278.58-279.00 range through the'
@@ -471,8 +422,7 @@ numeric_observations:
   values:
   - 278.58
   - -279.0
-- &id050
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: week, essentially unchanged from the 279.07 recorded at the close of
     Week 14, and local steel plate
@@ -480,8 +430,7 @@ numeric_observations:
   values:
   - 279.07
   - 14.0
-- &id051
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: prices at PKR 177,000, with a USD equivalent of approximately USD 634/ton,
     have remained firm
@@ -489,16 +438,14 @@ numeric_observations:
   values:
   - 177000.0
   - 634.0
-- &id052
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: terms, approximately USD 200/ton at current levels, reaffirms Gadani's
     position as the sub-
   unit: usd
   values:
   - 200.0
-- &id053
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: continent's second most competitive recycling destination. March 2026
     CPI at 7.3% represents a
@@ -506,8 +453,7 @@ numeric_observations:
   values:
   - 2026.0
   - 7.3
-- &id054
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: move above the State Bank's 5-7% target, driven primarily by transport,
     which rose 12.5% on the
@@ -516,32 +462,28 @@ numeric_observations:
   - 5.0
   - -7.0
   - 12.5
-- &id055
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: The one ambiguity introduced by the Week 15 oil move is the potential
     moderation of Gadani's
   unit: null
   values:
   - 15.0
-- &id056
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Turkey enters Week 15 with its first modestly positive week of Q2.
     The Turkish lira edged from its
   unit: null
   values:
   - 15.0
-- &id058
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Week 14 record low of 44.59 to approximately 44.34 against the U.S.
     Dollar, supported by the oil price
@@ -550,16 +492,14 @@ numeric_observations:
   - 14.0
   - 44.59
   - 44.34
-- &id059
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: maneuver, having sold more than USD 8 billion in reserves during March
     and halting its rate-cutting
   unit: usd
   values:
   - 8.0
-- &id060
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: March 2026 CPI eased to 30.87%, below both 31.53% previously and expectations
     of 31.4%. The softer
@@ -569,8 +509,7 @@ numeric_observations:
   - 30.87
   - 31.53
   - 31.4
-- &id061
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: accelerated sharply, rising 34.35% annually and 4.52% on the month
     as fuel costs filtered through.
@@ -578,16 +517,14 @@ numeric_observations:
   values:
   - 34.35
   - 4.52
-- &id062
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Independent estimates remain significantly higher, with ENAG at 54.62%
     and Istanbul Chamber data
   unit: pct
   values:
   - 54.62
-- &id063
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: at 37.68%. The central bank maintains its 16% year-end target, though
     this remains difficult to
@@ -595,8 +532,7 @@ numeric_observations:
   values:
   - 37.68
   - 16.0
-- &id064
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: At USD 265-285/LDT, improving marginally to about USD 268-288 on the
     firmer lira, Aliağa remains
@@ -606,31 +542,27 @@ numeric_observations:
   - -285.0
   - 268.0
   - -288.0
-- &id065
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: structurally uncompetitive for mainstream tonnage. The gap to Pakistan,
     at roughly USD 445-
   unit: usd
   values:
   - 445.0
-- &id066
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 475/LDT, remains too wide to bridge. Turkey's relevance is confined
     to its EU-approved yards
   unit: null
   values:
   - 475.0
-- &id067
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Week 15 suggests any meaningful shift in positioning.
   unit: null
   values:
   - 15.0
-- &id068
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: For Week 15 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -638,8 +570,7 @@ numeric_observations:
   values:
   - 15.0
   - 2026.0
-- &id069
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
   unit: null
@@ -651,8 +582,7 @@ numeric_observations:
   - -485.0
   - 490.0
   - -495.0
-- &id070
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 445-450 / LDT 465-470 / LDT 475-480 / LDT
   unit: null
@@ -664,8 +594,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id071
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -674,8 +603,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id072
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 268-270 / LDT 278-280 / LDT 288-290 / LDT
   unit: null
@@ -687,16 +615,14 @@ numeric_observations:
   - -280.0
   - 288.0
   - -290.0
-- &id073
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id074
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 576,000 km of railway tracks, enough to circle the Earth more than
     14 times.
@@ -704,47 +630,41 @@ numeric_observations:
   values:
   - 576000.0
   - 14.0
-- &id075
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: 9 coal-fired power plants annually, highlighting the industry's significant
     environmental impact.
   unit: null
   values:
   - 9.0
-- &id076
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: April 16 - April 23
   unit: null
   values:
   - 16.0
   - 23.0
-- &id077
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: May 01 - Buddha Purnima
   unit: null
   values:
   - 1.0
-- &id078
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: April 29 - May 06
   unit: null
   values:
   - 29.0
   - 6.0
-- &id079
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: April 17 - April 20
   unit: null
   values:
   - 17.0
   - 20.0
-- &id080
-  section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year
   unit: null
@@ -1092,86 +1012,644 @@ section_count: 3
 signals:
   numeric_observation_count: 119
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The single most consequential development of Week 15 came out of
+      Washington, not the recycling yards. President Trump'sdecision to delay planned
+      strikes on Iranian energy infrastructure by five days, alongside comments describing
+      talks with Iran as "productive
+    unit: pct
+    values:
+    - 15.0
+    - 109.0
+    - 101.0
+    - 8.0
+    - 90.0
+  - section: Main
+    section_type: null
+    source_line: The Baltic Dry Index rose to 2,139 by April 8th, continuing a recovery
+      that began from the March trough and extending to its highest level since early
+      March. Capesize earnings improved as a Brazil-to-China iron ore window opened,
+      with the BCI C3 Brazil-to-Qing
+    unit: usd
+    values:
+    - 2139.0
+    - 8.0
+    - 30.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Currency markets remained largely stable. The Indian Rupee softened
+      slightly to 93.21, reversing part of last week's recovery, while Pakistan and
+      Bangladesh currencies held steady. The Turkish Lira improved modestly from recent
+      lows but remains structurally we
+    unit: null
+    values:
+    - 93.21
+    - 99.3
+  - section: Main
+    section_type: null
+    source_line: 'As Week 15 closes, the industry stands at a genuine inflection point,
+      one that was not visible at the start of Q2. Whether this moment marks the beginning
+      of supply normalization or merely a temporary reprieve in a geopolitically defined
+      market will determine '
+    unit: null
+    values:
+    - 15.0
+  - section: Main
+    section_type: null
+    source_line: For Week 15 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 75634.jpg'
+    unit: null
+    values:
+    - 75634.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -4.0
+    - -14.0
+    - 15.0
+    - 75634.0
+    - 9.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x152 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 52.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Pakistan [Steady | 445-450/ LD | 465-470 /LDT | 475-480/LDT
+      |'
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey [| Steady | 268-270/ LDT | 278-280/ LDT | 288-290/LDT
+      |'
+    unit: null
+    values:
+    - 4.0
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: April 10t h, 2026
+    unit: null
+    values:
+    - 10.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Week 15
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 82, Issue 1230 -Kakuzo Okakura
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 1230.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: The single most consequential development of Week 15 came out of
+      Washington, not the recycling
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: reversal since the conflict began. Brent, which had held above USD
+      109/barrel through Q1 and into
+    unit: usd
+    values:
+    - 109.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: early Q2, fell to near USD 101/barrel by week's end, an almost 8%
+      drop in a matter of hours. WTI
+    unit: pct
+    values:
+    - 101.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: followed, settling around USD 90/barrel. Tehran denied any negotiations
+      even as Washington
+    unit: usd
+    values:
+    - 90.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: The Baltic Dry Index rose to 2,139 by April 8th, continuing a recovery
+      that began from the March
+    unit: null
+    values:
+    - 2139.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: USD 30 /metric ton for the first time since July 2024. Panam ax and
+      supramax both held gains. The
+    unit: usd
+    values:
+    - 30.0
+    - 2024.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: DC urrency markets remained largely stable. The Indian Rupee softened
+      slightly to 93.21, reversing
+    unit: null
+    values:
+    - 93.21
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: DXY near 99.3, offers some support to sub-continent buyers heading
+      into Q2.
+    unit: null
+    values:
+    - 99.3
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: on the GMS App! As Week 15 closes, the industry stands at a genuine
+      inflection point, one that was not visible at the
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 15 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 15.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 15 with the sharpest improvement in steel
+      economics seen in the quarter.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices jumped to BDT 71,000 per ton, the most significant
+      single-week move of
+    unit: null
+    values:
+    - 71000.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Q1-Q2, translating to a USD equivalent near USD 578/ton at current
+      exchange rates. With the
+    unit: usd
+    values:
+    - 578.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: USD/BDT rate holding steady at 122.70-122.85, barely changed from
+      122.81-122.91 at the close of
+    unit: usd_per_unit
+    values:
+    - 122.7
+    - -122.85
+    - 122.81
+    - -122.91
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Week 14, the steel price improvement flows directly into offer capacity
+      without the FX offset that
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: is meaningfully less acute entering Week 15. The two OFAC-sanctioned
+      VLCCs at OPL Chattogram
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh's March 2026 CPI eased to 8.71%, down from 9.13% in February,
+      which had been the
+    unit: pct
+    values:
+    - 2026.0
+    - 8.71
+    - 9.13
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: highest reading since May 2025. The moderation was driven by food
+      price declines in the post-Eid
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: period, while non-food inflation edged higher to 9.09%. The relative
+      macro stability provides
+    unit: pct
+    values:
+    - 9.09
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: HONG KONG ENERGY LNG 31,340 USD 513/LT LDT ('as is' Linggi, Malaysia
+      with 250 Ts bunkers)
+    unit: usd
+    values:
+    - 31340.0
+    - 513.0
+    - 250.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: India's Week 15 was defined by the partial reversal of the currency
+      gains that had been Week 14's most
+    unit: null
+    values:
+    - 15.0
+    - 14.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: positive domestic development. The USD/INR rate moved back to approximately
+      93.21, retracing a R upee reversal.
+    unit: usd_per_unit
+    values:
+    - 93.21
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: portion of the RBI-engineered recovery from the record low of 94.42
+      recorded in the prior week. The
+    unit: null
+    values:
+    - 94.42
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: move aligns with the risk outlined in Week 14, that the INR recovery's
+      durability was conditional on
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: is directionally positive for India's import bill, with approximately
+      70% of crude and 90% of LPG
+    unit: pct
+    values:
+    - 70.0
+    - 90.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: reached INR 41,000 during the week before settling back near INR
+      40,600, a mid-week improvement Energy drag lingers.
+    unit: null
+    values:
+    - 41000.0
+    - 40600.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: equivalent of approximately USD 436/ton, India remains the lowest-priced
+      destination in the sub-
+    unit: usd
+    values:
+    - 436.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: recycling tonnage flow. India's February 2026 CPI of 3.21% confirms
+      that inflation remains well within
+    unit: pct
+    values:
+    - 2026.0
+    - 3.21
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: infrastructure. With more than 110 yards holding valid Statements
+      of Compliance, Alang retains HKC strength.
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's Week 15 is characterized by one quality that has been
+      notably scarce in the sub-continent
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 'Fir m footing. through Q1: stability. The Pakistani Rupee has held
+      in a narrow 278.58-279.00 range through the'
+    unit: null
+    values:
+    - 278.58
+    - -279.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: week, essentially unchanged from the 279.07 recorded at the close
+      of Week 14, and local steel plate
+    unit: null
+    values:
+    - 279.07
+    - 14.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: prices at PKR 177,000, with a USD equivalent of approximately USD
+      634/ton, have remained firm
+    unit: usd
+    values:
+    - 177000.0
+    - 634.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: terms, approximately USD 200/ton at current levels, reaffirms Gadani's
+      position as the sub-
+    unit: usd
+    values:
+    - 200.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: continent's second most competitive recycling destination. March
+      2026 CPI at 7.3% represents a
+    unit: pct
+    values:
+    - 2026.0
+    - 7.3
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: move above the State Bank's 5-7% target, driven primarily by transport,
+      which rose 12.5% on the
+    unit: pct
+    values:
+    - 5.0
+    - -7.0
+    - 12.5
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: The one ambiguity introduced by the Week 15 oil move is the potential
+      moderation of Gadani's
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Turkey enters Week 15 with its first modestly positive week of Q2.
+      The Turkish lira edged from its
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Week 14 record low of 44.59 to approximately 44.34 against the U.S.
+      Dollar, supported by the oil price
+    unit: null
+    values:
+    - 14.0
+    - 44.59
+    - 44.34
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: maneuver, having sold more than USD 8 billion in reserves during
+      March and halting its rate-cutting
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: March 2026 CPI eased to 30.87%, below both 31.53% previously and
+      expectations of 31.4%. The softer
+    unit: pct
+    values:
+    - 2026.0
+    - 30.87
+    - 31.53
+    - 31.4
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: accelerated sharply, rising 34.35% annually and 4.52% on the month
+      as fuel costs filtered through.
+    unit: pct
+    values:
+    - 34.35
+    - 4.52
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Independent estimates remain significantly higher, with ENAG at 54.62%
+      and Istanbul Chamber data
+    unit: pct
+    values:
+    - 54.62
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: at 37.68%. The central bank maintains its 16% year-end target, though
+      this remains difficult to
+    unit: pct
+    values:
+    - 37.68
+    - 16.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: At USD 265-285/LDT, improving marginally to about USD 268-288 on
+      the firmer lira, Aliağa remains
+    unit: usd
+    values:
+    - 265.0
+    - -285.0
+    - 268.0
+    - -288.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: structurally uncompetitive for mainstream tonnage. The gap to Pakistan,
+      at roughly USD 445-
+    unit: usd
+    values:
+    - 445.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 475/LDT, remains too wide to bridge. Turkey's relevance is confined
+      to its EU-approved yards
+    unit: null
+    values:
+    - 475.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: Week 15 suggests any meaningful shift in positioning.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: For Week 15 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 460-465 / LDT 480-485 / LDT 490-495 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 460.0
+    - -465.0
+    - 480.0
+    - -485.0
+    - 490.0
+    - -495.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 445-450 / LDT 465-470 / LDT 475-480 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 268-270 / LDT 278-280 / LDT 288-290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 576,000 km of railway tracks, enough to circle the Earth more than
+      14 times.
+    unit: null
+    values:
+    - 576000.0
+    - 14.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: 9 coal-fired power plants annually, highlighting the industry's significant
+      environmental impact.
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: April 16 - April 23
+    unit: null
+    values:
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Buddha Purnima
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: April 29 - May 06
+    unit: null
+    values:
+    - 29.0
+    - 6.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: April 17 - April 20
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+  - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year
+    unit: null
+    values:
+    - 14.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-04-14_gms-week-15-war-premium-cracks.html
 source_stem: 2026-04-14_gms-week-15-war-premium-cracks

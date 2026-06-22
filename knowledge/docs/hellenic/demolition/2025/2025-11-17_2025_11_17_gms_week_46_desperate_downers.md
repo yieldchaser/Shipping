@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 92
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: With the last 6 weeks of 2025 now firmly on the horizon, the final
     stretch of the year continues to demonstrateits sheer unwillingness to compromise
@@ -43,8 +42,7 @@ numeric_observations:
   - 2025.0
   - 3.0
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'While the Baltic Exchange Dry Index reported gains once again this
     week on the back of virtually all inclusive sub-sectors reporting improvements
@@ -53,8 +51,7 @@ numeric_observations:
   unit: usd
   values:
   - 59.5
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: This double gut-punch targeted at the purchasing prowess of the ship
     recycling fraternity has driven demand and vessel offerings even further down
@@ -64,8 +61,7 @@ numeric_observations:
   values:
   - 400.0
   - 300.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, as HKC developments have taken precedent over filling plots
     and with mandatory yard upgrades marring the recycling progress, Bangladesh remains
@@ -75,8 +71,7 @@ numeric_observations:
   values:
   - 18.0
   - 2.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 46 of 2025, GMS Market Rankings / vessel indications are as
     below
@@ -84,8 +79,7 @@ numeric_observations:
   values:
   - 46.0
   - 2025.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-11-17_gms-week-46-desperate-downers_img1_17112025chine_b61bbabeb8e7.jpg'
   unit: null
@@ -96,23 +90,20 @@ numeric_observations:
   - 46.0
   - 17112025.0
   - 1.0
-- &id007
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Novemb er 14th, 2025
   unit: null
   values:
   - 14.0
   - 2025.0
-- &id008
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Week 46 and you don't have to listen."
   unit: null
   values:
   - 46.0
-- &id009
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Volume 2 78, Issue 1211
   unit: null
@@ -120,8 +111,7 @@ numeric_observations:
   - 2.0
   - 78.0
   - 1211.0
-- &id010
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: • Precarious. With the last 6 weeks of 2025 now firmly on the horizon,
     the final stretch of the year continues to
@@ -129,8 +119,7 @@ numeric_observations:
   values:
   - 6.0
   - 2025.0
-- &id011
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: the last 3 - 4 years and is now expected (feared) to likely continue
     deep into 2026.
@@ -138,55 +127,48 @@ numeric_observations:
   values:
   - 3.0
   - 2026.0
-- &id012
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: other hand seem to be taking a beating after levels clocked the week
     out at USD 59.50/barrel after
   unit: usd
   values:
   - 59.5
-- &id013
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: th e transactions concluded are at levels far below expectations and
     in the low USD 400s/LDT, with
   unit: usd
   values:
   - 400.0
-- &id014
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: several reportedly in the high USD 300s/LDT on less preferred / small
     LDT tonnage.
   unit: usd
   values:
   - 300.0
-- &id015
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: upgrades marring the recycling progress, Bangladesh remains with only
     18 HKC approved yards
   unit: null
   values:
   - 18.0
-- &id016
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: USD 2XX/Ton party awaiting a lone passerby.
   unit: usd
   values:
   - 2.0
-- &id017
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: of tonnage that saw 7 vessels and nearly 66K LDT suddenly arrive the
     nation's recycling
@@ -194,55 +176,48 @@ numeric_observations:
   values:
   - 7.0
   - 66.0
-- &id019
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: anchorage just this week, including at least one large 21K LDT dry
     bulk unit.
   unit: null
   values:
   - 21.0
-- &id020
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: late has likely attributed to this outcome since Bangladesh has suffered
     a nearly barren 2025 ever
   unit: null
   values:
   - 2025.0
-- &id021
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Barren 2025.
   unit: null
   values:
   - 2025.0
-- &id022
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 30% tariffs, overly paralyzing monsoons, political instability and
     unrest over the upcoming
   unit: pct
   values:
   - 30.0
-- &id023
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: February 2026 elections, economic downturns, volatile inflationary
     figures, a collapsing Taka, and
   unit: null
   values:
   - 2026.0
-- &id024
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: the local ship recycling mindset over the last 2 quarters. In fact,
     just this week, we saw the Taka
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: plunge nearly 40 basis points down to BDT 122.35 against the U.S. Dollar,
     whilst local steel plate
@@ -250,40 +225,35 @@ numeric_observations:
   values:
   - 40.0
   - 122.35
-- &id026
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: prices took up the challenge and fell a meager USD 1/Ton after flatlining
     for the entire week.
   unit: usd
   values:
   - 1.0
-- &id027
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: For now, the forecast for Bangladesh's 2025 end remains unchallenged
     and otherwise expectedly
   unit: null
   values:
   - 2025.0
-- &id028
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: destination in the world today, such a reticence and disillusionment
     over the ongoing performance of USD 600/Ton?
   unit: usd
   values:
   - 600.0
-- &id030
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: the course of 2025 and even back in 2024, where levels not-since-seen
     the highs of USD 600/LDT has
@@ -292,48 +262,42 @@ numeric_observations:
   - 2025.0
   - 2024.0
   - 600.0
-- &id031
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: turned the business of ship recycling into a struggle for survival
     for the 100 HKC approved yards that
   unit: null
   values:
   - 100.0
-- &id032
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: pr ice out on the books, especially as fundamentals continue taking
     a hammering. The Rupee lost 11 Hopes ahead.
   unit: null
   values:
   - 11.0
-- &id033
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: ba sis points to end the week at Rs. 88.70, local steel plate prices
     were the only ones to make an
   unit: null
   values:
   - 88.7
-- &id034
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: un expected turnaround by about USD 4/Ton, though it remains far from
     stable territory to where
   unit: usd
   values:
   - 4.0
-- &id035
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: acceptable offerings on smaller LDT dry units could scrape past USD
     400/Ton.
   unit: usd
   values:
   - 400.0
-- &id036
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Seems 2026 is gearing up to be a playback of 2025 with its own flavour
     of unexpected coming the
@@ -341,16 +305,14 @@ numeric_observations:
   values:
   - 2026.0
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: remarkably, managed to even decline a whopping USD 13/Ton and below
     the USD 600/Ton mark
@@ -358,16 +320,14 @@ numeric_observations:
   values:
   - 13.0
   - 600.0
-- &id039
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: for the first in a few quarters. Not to be outdone, the PKR too fell
     about 11 basis points and closed
   unit: null
   values:
   - 11.0
-- &id040
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: the week out at levels approaching PKR 283 against the U.S. Dollar,
     at PKR 282.80.
@@ -375,16 +335,14 @@ numeric_observations:
   values:
   - 283.0
   - 282.8
-- &id041
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: table in terms of safe redeliveries. Case-and-point, if a tiny 1400
     Ton straggler can manage to
   unit: null
   values:
   - 1400.0
-- &id042
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: like the last 2 years and especially 2023 have turned out, where a
     meager 16 vessels were
@@ -392,32 +350,28 @@ numeric_observations:
   values:
   - 2023.0
   - 16.0
-- &id043
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: nothing other than the perennial decline of the Lira to first highlight
     as it declined a healthy 25
   unit: null
   values:
   - 25.0
-- &id045
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: basis points into neverland and passed TRY 42.30 against the U.S. Dollar,
     making the recent price
   unit: null
   values:
   - 42.3
-- &id046
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: For Week 46 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -425,8 +379,7 @@ numeric_observations:
   values:
   - 46.0
   - 2025.0
-- &id047
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -435,8 +388,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id048
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -445,8 +397,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id049
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -455,8 +406,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id050
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 260 / LDT 270 / LDT 280 / LDT
   unit: null
@@ -465,79 +415,69 @@ numeric_observations:
   - 260.0
   - 270.0
   - 280.0
-- &id051
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line:  Milky Way smells of rum, raspberries and booze. In 2009, astronomers
     exploring a giant cloud of gas and dust at the
   unit: null
   values:
   - 2009.0
-- &id053
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 04 - November 11
   unit: null
   values:
   - 4.0
   - 11.0
-- &id054
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: November 18 - November 25
   unit: null
   values:
   - 18.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 04 - November 07
   unit: null
   values:
   - 4.0
   - 7.0
-- &id056
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: November 18 - November 21
   unit: null
   values:
   - 18.0
   - 21.0
-- &id057
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: November 09 - Iqbal Day No holidays in November
   unit: null
   values:
   - 9.0
-- &id058
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id060
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 1 Ark 1,366 General Cargo Delivered November 06
   unit: null
@@ -545,8 +485,7 @@ numeric_observations:
   - 1.0
   - 1366.0
   - 6.0
-- &id061
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -554,8 +493,7 @@ numeric_observations:
   - 2.0
   - 20001.0
   - 13.0
-- &id062
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 3 Dalia 1,368 General Cargo Arrived November 04
   unit: null
@@ -563,8 +501,7 @@ numeric_observations:
   - 3.0
   - 1368.0
   - 4.0
-- &id063
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 4 Masal 23,159 Oil Tanker Delivered November 06
   unit: null
@@ -572,8 +509,7 @@ numeric_observations:
   - 4.0
   - 23159.0
   - 6.0
-- &id064
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 5 Rimba Empat 3,193 General Cargo Delivered October 28
   unit: null
@@ -581,23 +517,20 @@ numeric_observations:
   - 5.0
   - 3193.0
   - 28.0
-- &id065
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 49,087
   unit: null
   values:
   - 49087.0
-- &id066
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of November 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id067
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 1 Ang 2,631 Barge Delivered November 04
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 1.0
   - 2631.0
   - 4.0
-- &id068
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 2 Ang Ho 494 Pusher Tug Delivered November 04
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 2.0
   - 494.0
   - 4.0
-- &id069
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 3 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -624,23 +555,20 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 10,933
   unit: null
   values:
   - 10933.0
-- &id071
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of November 07, 2025
   unit: null
   values:
   - 7.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 1 Asmaa Z 7,078 Bulk Carrier Arrived October 28
   unit: null
@@ -648,8 +576,7 @@ numeric_observations:
   - 1.0
   - 7078.0
   - 28.0
-- &id073
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 2 Eena 1 1,444 General Cargo Arrived September 27
   unit: null
@@ -658,23 +585,20 @@ numeric_observations:
   - 1.0
   - 1444.0
   - 27.0
-- &id074
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 8,522
   unit: null
   values:
   - 8522.0
-- &id075
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id076
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 11/8/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
   unit: null
@@ -689,8 +613,7 @@ numeric_observations:
   - 526.75
   - 64000.0
   - 304.1
-- &id077
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 11/9/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
   unit: null
@@ -705,8 +628,7 @@ numeric_observations:
   - 526.75
   - 64000.0
   - 304.1
-- &id078
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 11/10/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
   unit: null
@@ -721,8 +643,7 @@ numeric_observations:
   - 526.75
   - 64000.0
   - 304.1
-- &id079
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 11/11/2025 387.31 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
   unit: null
@@ -737,8 +658,7 @@ numeric_observations:
   - 526.75
   - 64000.0
   - 304.1
-- &id080
-  section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+- section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: 11/12/2025 389.26 34,500.00 610.90 172,000.00 526.75 64,000.00 304.10
   unit: null
@@ -882,86 +802,649 @@ section_count: 3
 signals:
   numeric_observation_count: 92
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: With the last 6 weeks of 2025 now firmly on the horizon, the final
+      stretch of the year continues to demonstrateits sheer unwillingness to compromise
+      as global economies are still reporting volatile movements of commodity prices
+      and oil futures that are still u
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+    - 3.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'While the Baltic Exchange Dry Index reported gains once again this
+      week on the back of virtually all inclusive sub-sectors reporting improvements
+      of their own through the week, oil futures on the other hand seem to be taking
+      a beating after levels clocked the '
+    unit: usd
+    values:
+    - 59.5
+  - section: Main
+    section_type: null
+    source_line: This double gut-punch targeted at the purchasing prowess of the ship
+      recycling fraternity has driven demand and vessel offerings even further down
+      this week as vintage tonnage starts to unexpectedly arrive at anchorages i.e.
+      Bangladesh, which healthily beat In
+    unit: usd
+    values:
+    - 400.0
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: Finally, as HKC developments have taken precedent over filling plots
+      and with mandatory yard upgrades marring the recycling progress, Bangladesh
+      remains with only 18 HKC approved yards while Pakistan is at the tail end of
+      the race as it awaits its first HKC ap
+    unit: usd
+    values:
+    - 18.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: For Week 46 of 2025, GMS Market Rankings / vessel indications are
+      as below
+    unit: null
+    values:
+    - 46.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-11-17_gms-week-46-desperate-downers_img1_17112025chine_b61bbabeb8e7.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -11.0
+    - -17.0
+    - 46.0
+    - 17112025.0
+    - 1.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Novemb er 14th, 2025
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Week 46 and you don't have to listen."
+    unit: null
+    values:
+    - 46.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 78, Issue 1211
+    unit: null
+    values:
+    - 2.0
+    - 78.0
+    - 1211.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: • Precarious. With the last 6 weeks of 2025 now firmly on the horizon,
+      the final stretch of the year continues to
+    unit: null
+    values:
+    - 6.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: the last 3 - 4 years and is now expected (feared) to likely continue
+      deep into 2026.
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: other hand seem to be taking a beating after levels clocked the week
+      out at USD 59.50/barrel after
+    unit: usd
+    values:
+    - 59.5
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: th e transactions concluded are at levels far below expectations
+      and in the low USD 400s/LDT, with
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: several reportedly in the high USD 300s/LDT on less preferred / small
+      LDT tonnage.
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: upgrades marring the recycling progress, Bangladesh remains with
+      only 18 HKC approved yards
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: USD 2XX/Ton party awaiting a lone passerby.
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: of tonnage that saw 7 vessels and nearly 66K LDT suddenly arrive
+      the nation's recycling
+    unit: null
+    values:
+    - 7.0
+    - 66.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: anchorage just this week, including at least one large 21K LDT dry
+      bulk unit.
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: late has likely attributed to this outcome since Bangladesh has suffered
+      a nearly barren 2025 ever
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Barren 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 30% tariffs, overly paralyzing monsoons, political instability and
+      unrest over the upcoming
+    unit: pct
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: February 2026 elections, economic downturns, volatile inflationary
+      figures, a collapsing Taka, and
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: the local ship recycling mindset over the last 2 quarters. In fact,
+      just this week, we saw the Taka
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: plunge nearly 40 basis points down to BDT 122.35 against the U.S.
+      Dollar, whilst local steel plate
+    unit: null
+    values:
+    - 40.0
+    - 122.35
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: prices took up the challenge and fell a meager USD 1/Ton after flatlining
+      for the entire week.
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: For now, the forecast for Bangladesh's 2025 end remains unchallenged
+      and otherwise expectedly
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: destination in the world today, such a reticence and disillusionment
+      over the ongoing performance of USD 600/Ton?
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: the course of 2025 and even back in 2024, where levels not-since-seen
+      the highs of USD 600/LDT has
+    unit: usd
+    values:
+    - 2025.0
+    - 2024.0
+    - 600.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: turned the business of ship recycling into a struggle for survival
+      for the 100 HKC approved yards that
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: pr ice out on the books, especially as fundamentals continue taking
+      a hammering. The Rupee lost 11 Hopes ahead.
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: ba sis points to end the week at Rs. 88.70, local steel plate prices
+      were the only ones to make an
+    unit: null
+    values:
+    - 88.7
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: un expected turnaround by about USD 4/Ton, though it remains far
+      from stable territory to where
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: acceptable offerings on smaller LDT dry units could scrape past USD
+      400/Ton.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Seems 2026 is gearing up to be a playback of 2025 with its own flavour
+      of unexpected coming the
+    unit: null
+    values:
+    - 2026.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: remarkably, managed to even decline a whopping USD 13/Ton and below
+      the USD 600/Ton mark
+    unit: usd
+    values:
+    - 13.0
+    - 600.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: for the first in a few quarters. Not to be outdone, the PKR too fell
+      about 11 basis points and closed
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: the week out at levels approaching PKR 283 against the U.S. Dollar,
+      at PKR 282.80.
+    unit: null
+    values:
+    - 283.0
+    - 282.8
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: table in terms of safe redeliveries. Case-and-point, if a tiny 1400
+      Ton straggler can manage to
+    unit: null
+    values:
+    - 1400.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: like the last 2 years and especially 2023 have turned out, where
+      a meager 16 vessels were
+    unit: null
+    values:
+    - 2023.0
+    - 16.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: nothing other than the perennial decline of the Lira to first highlight
+      as it declined a healthy 25
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: basis points into neverland and passed TRY 42.30 against the U.S.
+      Dollar, making the recent price
+    unit: null
+    values:
+    - 42.3
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: For Week 46 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 46.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 260 / LDT 270 / LDT 280 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 260.0
+    - 270.0
+    - 280.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line:  Milky Way smells of rum, raspberries and booze. In 2009, astronomers
+      exploring a giant cloud of gas and dust at the
+    unit: null
+    values:
+    - 2009.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 04 - November 11
+    unit: null
+    values:
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: November 18 - November 25
+    unit: null
+    values:
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 04 - November 07
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: November 18 - November 21
+    unit: null
+    values:
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: November 09 - Iqbal Day No holidays in November
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ark 1,366 General Cargo Delivered November 06
+    unit: null
+    values:
+    - 1.0
+    - 1366.0
+    - 6.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 2.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 Dalia 1,368 General Cargo Arrived November 04
+    unit: null
+    values:
+    - 3.0
+    - 1368.0
+    - 4.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 4 Masal 23,159 Oil Tanker Delivered November 06
+    unit: null
+    values:
+    - 4.0
+    - 23159.0
+    - 6.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 5 Rimba Empat 3,193 General Cargo Delivered October 28
+    unit: null
+    values:
+    - 5.0
+    - 3193.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 49,087
+    unit: null
+    values:
+    - 49087.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of November 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ang 2,631 Barge Delivered November 04
+    unit: null
+    values:
+    - 1.0
+    - 2631.0
+    - 4.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ang Ho 494 Pusher Tug Delivered November 04
+    unit: null
+    values:
+    - 2.0
+    - 494.0
+    - 4.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 3.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 10,933
+    unit: null
+    values:
+    - 10933.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of November 07, 2025
+    unit: null
+    values:
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Asmaa Z 7,078 Bulk Carrier Arrived October 28
+    unit: null
+    values:
+    - 1.0
+    - 7078.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Eena 1 1,444 General Cargo Arrived September 27
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 1444.0
+    - 27.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 8,522
+    unit: null
+    values:
+    - 8522.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 11/8/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
+    unit: null
+    values:
+    - 11.0
+    - 8.0
+    - 2025.0
+    - 386.7
+    - 34300.0
+    - 610.9
+    - 172000.0
+    - 526.75
+    - 64000.0
+    - 304.1
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 11/9/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
+    unit: null
+    values:
+    - 11.0
+    - 9.0
+    - 2025.0
+    - 386.7
+    - 34300.0
+    - 610.9
+    - 172000.0
+    - 526.75
+    - 64000.0
+    - 304.1
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 11/10/2025 386.70 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
+    unit: null
+    values:
+    - 11.0
+    - 10.0
+    - 2025.0
+    - 386.7
+    - 34300.0
+    - 610.9
+    - 172000.0
+    - 526.75
+    - 64000.0
+    - 304.1
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 11/11/2025 387.31 34,300.00 610.90 172,000.00 526.75 64,000.00 304.10
+    unit: null
+    values:
+    - 11.0
+    - 11.0
+    - 2025.0
+    - 387.31
+    - 34300.0
+    - 610.9
+    - 172000.0
+    - 526.75
+    - 64000.0
+    - 304.1
+  - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
+    section_type: linked_pdf
+    source_line: 11/12/2025 389.26 34,500.00 610.90 172,000.00 526.75 64,000.00 304.10
+    unit: null
+    values:
+    - 11.0
+    - 12.0
+    - 2025.0
+    - 389.26
+    - 34500.0
+    - 610.9
+    - 172000.0
+    - 526.75
+    - 64000.0
+    - 304.1
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-11-17_gms-week-46-desperate-downers.html
 source_stem: 2025-11-17_gms-week-46-desperate-downers

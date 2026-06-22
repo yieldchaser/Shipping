@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 97
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: An extremely volatile week of tariff announcements, suspensions, mishandling
     of economic affairs and fluctuating markets has left Indiansub-continent ship
@@ -47,8 +46,7 @@ numeric_observations:
   - 90.0
   - 125.0
   - 145.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Although the 90-day suspension seems to have given recyclers some reprieve
     for the time being, the deadline realistically stands a mere quarter away. In
@@ -60,8 +58,7 @@ numeric_observations:
   - 56.0
   - 2020.0
   - 61.5
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, for those facilities (especially ones with incoming deliveries
     over the next tides) who are to initiate yard upgrades to HKC standards in Bangladesh
@@ -73,8 +70,7 @@ numeric_observations:
   - 26.0
   - 2024.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-04-14_gms-week-15-tariff-tainted_img1_64758568_0a3514c5fc33.jpg'
   unit: null
@@ -86,31 +82,27 @@ numeric_observations:
   - 64758568.0
   - 514.0
   - 3.0
-- &id005
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 11th, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Week 15
   unit: null
   values:
   - 15.0
-- &id007
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Volume 271, Issue 1180
   unit: null
   values:
   - 271.0
   - 1180.0
-- &id008
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: declined nearly 20% and lost over USD 11.2 Trillion, only to appreciate
     by about 10% in the days
@@ -119,40 +111,35 @@ numeric_observations:
   - 20.0
   - 11.2
   - 10.0
-- &id009
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: following the announcement of a 90-day suspension on all tariffs to
     nearly all countries worldwide.
   unit: null
   values:
   - 90.0
-- &id010
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: signs of abating as about 125% in duties have been placed by China
     so far while counter-tariffs to
   unit: pct
   values:
   - 125.0
-- &id011
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: the tune of 145% have been levied by the United States. Reportedly,
     Trump's tariff backtracks
   unit: tonnage
   values:
   - 145.0
-- &id012
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Although the 90-day suspension seems to have given recyclers some reprieve
     for the time being, the
   unit: null
   values:
   - 90.0
-- &id013
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: • 90 day pause. in the wind, declining all the way to USD 56/barrel
     mid-week (lowest levels seen since 2020), before
@@ -161,48 +148,42 @@ numeric_observations:
   - 90.0
   - 56.0
   - 2020.0
-- &id014
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: climbing back up to USD 61.50/barrel where it ended the week, and future
     declines are still expected
   unit: usd
   values:
   - 61.5
-- &id015
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: extension from the March 31st decline is expected to come through next
     week once the nation returns
   unit: null
   values:
   - 31.0
-- &id016
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: HKC deadline expected on 26 June this year along with the Trump regime
     re-visiting the tariffs
   unit: null
   values:
   - 26.0
-- &id017
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: shortly thereafter, 2024 seems as though it may have just been a ripple
     in a pool that's slow drained
   unit: null
   values:
   - 2024.0
-- &id018
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: itself into the rapids of 2025, especially if long-term tariffs come
     into effect and / or worse yet, a
   unit: null
   values:
   - 2025.0
-- &id019
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 15 of 2025 are on Page 5.
   unit: null
@@ -210,56 +191,49 @@ numeric_observations:
   - 15.0
   - 2025.0
   - 5.0
-- &id020
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 31st deadline within which, Chattogram yard owners must have initiated
     the necessary upgrades
   unit: null
   values:
   - 31.0
-- &id022
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: within June 26th of this year, this does not seem to have been the
     case as this Department has no
   unit: null
   values:
   - 26.0
-- &id023
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: nation's domestic reserves to well over USD 21 Billion, further facilitating
     Bangladesh's foreign
   unit: usd
   values:
   - 21.0
-- &id024
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: from this week's arrivals where 2 really small units greeted Chattogram's
     anchorage.
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: part, especially as the Trump administration announced 30% tariffs
     on Bangladesh and reversed
   unit: pct
   values:
   - 30.0
-- &id026
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: and ending the week 13 basis points stronger at BDT 121.76. On account
     of the local holidays, local
@@ -267,71 +241,62 @@ numeric_observations:
   values:
   - 13.0
   - 121.76
-- &id027
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: trade) and remained where they have been for a while now (USD 529/Ton).
     This has delivered a
   unit: usd
   values:
   - 529.0
-- &id028
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: levels once the 90-day suspension was announced.
   unit: null
   values:
   - 90.0
-- &id029
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: in order to keep operating when the Hong Kong Convention comes into
     force on June 26th this year,
   unit: null
   values:
   - 26.0
-- &id030
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: along with the 90 day pause on tariffs that could rear its head up
     against the local economy from
   unit: null
   values:
   - 90.0
-- &id031
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: he took office on January 20th, when PM Modi made several visits to
     the U.S. in order to address
   unit: null
   values:
   - 20.0
-- &id033
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: future trade between the nations. And although tariffs were initially
     imposed on India, the 90-day
   unit: null
   values:
   - 90.0
-- &id034
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: greater results for the Indian economy post July, especially given
     how tenaciously volatile 2025 has
   unit: null
   values:
   - 2025.0
-- &id035
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: volatile dance against the U.S. Dollar as it lost 80 basis points and
     ended the week at Rs. 86.05, having
@@ -339,8 +304,7 @@ numeric_observations:
   values:
   - 80.0
   - 86.05
-- &id036
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: nearly approached Rs. 87 by mid-week. Even local steel plate prices
     fell by about USD 6/Ton overall,
@@ -348,16 +312,14 @@ numeric_observations:
   values:
   - 87.0
   - 6.0
-- &id037
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: especially now that Chinese steel plate levels themselves plummeted
     over USD 15/Ton this week and
   unit: usd
   values:
   - 15.0
-- &id038
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: ended the week at USD 293/Ton, well below their usual playing field
     of USD 300/Ton.
@@ -365,24 +327,21 @@ numeric_observations:
   values:
   - 293.0
   - 300.0
-- &id039
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: ne of the busiest times for the Alang market, especially considering
     how 2025 is
   unit: null
   values:
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: finally settled (after falling over USD 40/Ton over March) at USD 624/Ton
     over the last couple of
@@ -390,101 +349,88 @@ numeric_observations:
   values:
   - 40.0
   - 624.0
-- &id042
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Dollar after it briefly gained a lot of ground mid-week, yet lost 10
     basis points overall and declined
   unit: null
   values:
   - 10.0
-- &id043
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: to PKR 280.06 as the week ended.
   unit: null
   values:
   - 280.06
-- &id044
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: plummeted about USD 15/Ton this week and the fear is that cheaper competitive
     steel products
   unit: usd
   values:
   - 15.0
-- &id045
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: recyclers might have to rapidly make amends in order to continue operating
     in a post June 26th
   unit: null
   values:
   - 26.0
-- &id046
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 8,00 0 points. world, or simply shut shop.
   unit: null
   values:
   - 800.0
-- &id047
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Overall, despite the Pakistani stock exchange plunging over 8,000 points
     on the back of economic
   unit: null
   values:
   - 8000.0
-- &id048
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: week as on the one hand, both local and import steel plate prices declined
     by USD 10/ton and USD
   unit: usd
   values:
   - 10.0
-- &id050
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 20/Ton respectively, but the Turkish Lira amazingly ended the week
     on a positive note, having
   unit: null
   values:
   - 20.0
-- &id051
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: firmed 10 basis points against the U.S. Dollar and closing the week
     out at a still whopping / record
   unit: null
   values:
   - 10.0
-- &id052
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: breaking TRY 37.94.
   unit: null
   values:
   - 37.94
-- &id053
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: number of available recyclers who are still operating with one eye
     open. Mercifully, the 90 day pause
   unit: null
   values:
   - 90.0
-- &id054
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: For Week 15 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -492,8 +438,7 @@ numeric_observations:
   values:
   - 15.0
   - 2025.0
-- &id055
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -502,8 +447,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id056
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Improving 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -512,8 +456,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id057
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 3 India Improving 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -522,8 +465,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id058
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Stable 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -532,23 +474,20 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id059
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line:  The weight of giant pumpkins increased 20-fold in half a century.
   unit: null
   values:
   - 20.0
-- &id061
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 14 - Dr. Ambedkar Jayanti April 12 - April 17
   unit: null
@@ -556,8 +495,7 @@ numeric_observations:
   - 14.0
   - 12.0
   - 17.0
-- &id062
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 18 - Good Friday April 26 - May 03
   unit: null
@@ -565,15 +503,13 @@ numeric_observations:
   - 18.0
   - 26.0
   - 3.0
-- &id063
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 20 - Easter Sunday
   unit: null
   values:
   - 20.0
-- &id064
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year April 12 - April 15
   unit: null
@@ -581,16 +517,14 @@ numeric_observations:
   - 14.0
   - 12.0
   - 15.0
-- &id065
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: April 27 - April 30
   unit: null
   values:
   - 27.0
   - 30.0
-- &id066
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: May 01 - 05 - Labor Day May 01 - Labor Day April 23 - National Sovereignty
     &
@@ -600,32 +534,28 @@ numeric_observations:
   - 5.0
   - 1.0
   - 23.0
-- &id067
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: May 31 - June 02 - Dragon Boat Holiday Children's Day
   unit: null
   values:
   - 31.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id069
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 11, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id070
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 1 Athena 1,178 Supply Vessel Arrived April 03
   unit: null
@@ -633,23 +563,20 @@ numeric_observations:
   - 1.0
   - 1178.0
   - 3.0
-- &id071
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 1,178
   unit: null
   values:
   - 1178.0
-- &id072
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 11, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id073
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 1 Jarucha 6 975 General Cargo Arrived April 10
   unit: null
@@ -658,8 +585,7 @@ numeric_observations:
   - 6.0
   - 975.0
   - 10.0
-- &id074
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 2 King Hung No. 2 948 Tanker Delivered April 10
   unit: null
@@ -668,8 +594,7 @@ numeric_observations:
   - 2.0
   - 948.0
   - 10.0
-- &id075
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 3 Rich Anna 1,011 General Cargo Delivered April 10
   unit: null
@@ -677,16 +602,14 @@ numeric_observations:
   - 3.0
   - 1011.0
   - 10.0
-- &id076
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 11, 2025
   unit: null
   values:
   - 11.0
   - 2025.0
-- &id077
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 1 DSM Star 8,000 Bulk Carrier Arrived April 02
   unit: null
@@ -694,8 +617,7 @@ numeric_observations:
   - 1.0
   - 8000.0
   - 2.0
-- &id078
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: 2 Sea Wise 5,533 Bulk Carrier Arrived April 09
   unit: null
@@ -703,15 +625,13 @@ numeric_observations:
   - 2.0
   - 5533.0
   - 9.0
-- &id079
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 13,533
   unit: null
   values:
   - 13533.0
-- &id080
-  section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+- section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
@@ -922,86 +842,612 @@ section_count: 3
 signals:
   numeric_observation_count: 97
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: An extremely volatile week of tariff announcements, suspensions,
+      mishandling of economic affairs and fluctuating markets has left Indiansub-continent
+      ship recycling destinations on edge, fearful of the next moves by a seemingly
+      irrational & aggressive Trump re
+    unit: worldscale_pct
+    values:
+    - 20.0
+    - 11.2
+    - 10.0
+    - 90.0
+    - 125.0
+    - 145.0
+  - section: Main
+    section_type: null
+    source_line: Although the 90-day suspension seems to have given recyclers some
+      reprieve for the time being, the deadline realistically stands a mere quarter
+      away. In the interim, oil has volleyed like a beach ball in the wind, declining
+      all the way to USD 56/barrel mid-wee
+    unit: usd
+    values:
+    - 90.0
+    - 56.0
+    - 2020.0
+    - 61.5
+  - section: Main
+    section_type: null
+    source_line: Finally, for those facilities (especially ones with incoming deliveries
+      over the next tides) who are to initiate yard upgrades to HKC standards in Bangladesh
+      and have failed to do so just yet, the possible extension from the March 31st
+      decline is expected to c
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 2024.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-04-14_gms-week-15-tariff-tainted_img1_64758568_0a3514c5fc33.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -4.0
+    - -14.0
+    - 15.0
+    - 64758568.0
+    - 514.0
+    - 3.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 11th, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Week 15
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Volume 271, Issue 1180
+    unit: null
+    values:
+    - 271.0
+    - 1180.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: declined nearly 20% and lost over USD 11.2 Trillion, only to appreciate
+      by about 10% in the days
+    unit: pct
+    values:
+    - 20.0
+    - 11.2
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: following the announcement of a 90-day suspension on all tariffs
+      to nearly all countries worldwide.
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: signs of abating as about 125% in duties have been placed by China
+      so far while counter-tariffs to
+    unit: pct
+    values:
+    - 125.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: the tune of 145% have been levied by the United States. Reportedly,
+      Trump's tariff backtracks
+    unit: tonnage
+    values:
+    - 145.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Although the 90-day suspension seems to have given recyclers some
+      reprieve for the time being, the
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: • 90 day pause. in the wind, declining all the way to USD 56/barrel
+      mid-week (lowest levels seen since 2020), before
+    unit: usd
+    values:
+    - 90.0
+    - 56.0
+    - 2020.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: climbing back up to USD 61.50/barrel where it ended the week, and
+      future declines are still expected
+    unit: usd
+    values:
+    - 61.5
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: extension from the March 31st decline is expected to come through
+      next week once the nation returns
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: HKC deadline expected on 26 June this year along with the Trump regime
+      re-visiting the tariffs
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: shortly thereafter, 2024 seems as though it may have just been a
+      ripple in a pool that's slow drained
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: itself into the rapids of 2025, especially if long-term tariffs come
+      into effect and / or worse yet, a
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 15 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 15.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 31st deadline within which, Chattogram yard owners must have initiated
+      the necessary upgrades
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: within June 26th of this year, this does not seem to have been the
+      case as this Department has no
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: nation's domestic reserves to well over USD 21 Billion, further facilitating
+      Bangladesh's foreign
+    unit: usd
+    values:
+    - 21.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: from this week's arrivals where 2 really small units greeted Chattogram's
+      anchorage.
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: part, especially as the Trump administration announced 30% tariffs
+      on Bangladesh and reversed
+    unit: pct
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: and ending the week 13 basis points stronger at BDT 121.76. On account
+      of the local holidays, local
+    unit: null
+    values:
+    - 13.0
+    - 121.76
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: trade) and remained where they have been for a while now (USD 529/Ton).
+      This has delivered a
+    unit: usd
+    values:
+    - 529.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: levels once the 90-day suspension was announced.
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: in order to keep operating when the Hong Kong Convention comes into
+      force on June 26th this year,
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: along with the 90 day pause on tariffs that could rear its head up
+      against the local economy from
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: he took office on January 20th, when PM Modi made several visits
+      to the U.S. in order to address
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: future trade between the nations. And although tariffs were initially
+      imposed on India, the 90-day
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: greater results for the Indian economy post July, especially given
+      how tenaciously volatile 2025 has
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: volatile dance against the U.S. Dollar as it lost 80 basis points
+      and ended the week at Rs. 86.05, having
+    unit: null
+    values:
+    - 80.0
+    - 86.05
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: nearly approached Rs. 87 by mid-week. Even local steel plate prices
+      fell by about USD 6/Ton overall,
+    unit: usd
+    values:
+    - 87.0
+    - 6.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: especially now that Chinese steel plate levels themselves plummeted
+      over USD 15/Ton this week and
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: ended the week at USD 293/Ton, well below their usual playing field
+      of USD 300/Ton.
+    unit: usd
+    values:
+    - 293.0
+    - 300.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: ne of the busiest times for the Alang market, especially considering
+      how 2025 is
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: finally settled (after falling over USD 40/Ton over March) at USD
+      624/Ton over the last couple of
+    unit: usd
+    values:
+    - 40.0
+    - 624.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Dollar after it briefly gained a lot of ground mid-week, yet lost
+      10 basis points overall and declined
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: to PKR 280.06 as the week ended.
+    unit: null
+    values:
+    - 280.06
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: plummeted about USD 15/Ton this week and the fear is that cheaper
+      competitive steel products
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: recyclers might have to rapidly make amends in order to continue
+      operating in a post June 26th
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 8,00 0 points. world, or simply shut shop.
+    unit: null
+    values:
+    - 800.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Overall, despite the Pakistani stock exchange plunging over 8,000
+      points on the back of economic
+    unit: null
+    values:
+    - 8000.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: week as on the one hand, both local and import steel plate prices
+      declined by USD 10/ton and USD
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 20/Ton respectively, but the Turkish Lira amazingly ended the week
+      on a positive note, having
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: firmed 10 basis points against the U.S. Dollar and closing the week
+      out at a still whopping / record
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: breaking TRY 37.94.
+    unit: null
+    values:
+    - 37.94
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: number of available recyclers who are still operating with one eye
+      open. Mercifully, the 90 day pause
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: For Week 15 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 15.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Improving 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Improving 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Stable 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line:  The weight of giant pumpkins increased 20-fold in half a century.
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Dr. Ambedkar Jayanti April 12 - April 17
+    unit: null
+    values:
+    - 14.0
+    - 12.0
+    - 17.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 18 - Good Friday April 26 - May 03
+    unit: null
+    values:
+    - 18.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 20 - Easter Sunday
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year April 12 - April 15
+    unit: null
+    values:
+    - 14.0
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: April 27 - April 30
+    unit: null
+    values:
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - 05 - Labor Day May 01 - Labor Day April 23 - National Sovereignty
+      &
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 1.0
+    - 23.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: May 31 - June 02 - Dragon Boat Holiday Children's Day
+    unit: null
+    values:
+    - 31.0
+    - 2.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 11, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Athena 1,178 Supply Vessel Arrived April 03
+    unit: null
+    values:
+    - 1.0
+    - 1178.0
+    - 3.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 1,178
+    unit: null
+    values:
+    - 1178.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 11, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 1 Jarucha 6 975 General Cargo Arrived April 10
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 975.0
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 2 King Hung No. 2 948 Tanker Delivered April 10
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 948.0
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rich Anna 1,011 General Cargo Delivered April 10
+    unit: null
+    values:
+    - 3.0
+    - 1011.0
+    - 10.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 11, 2025
+    unit: null
+    values:
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 1 DSM Star 8,000 Bulk Carrier Arrived April 02
+    unit: null
+    values:
+    - 1.0
+    - 8000.0
+    - 2.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sea Wise 5,533 Bulk Carrier Arrived April 09
+    unit: null
+    values:
+    - 2.0
+    - 5533.0
+    - 9.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 13,533
+    unit: null
+    values:
+    - 13533.0
+  - section: 'Linked asset: 2025-04-14_gms-week-15-tariff-tainted_ship-recycling-market-insight-week-1_68f0fc58ac84.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-04-14_gms-week-15-tariff-tainted.html
 source_stem: 2025-04-14_gms-week-15-tariff-tainted

@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 91
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As May greets a tumultuous end in the global ship recycling markets,
     increasing vessel prices on the back of a firming demandfrom fiery Alang Recyclers,
@@ -42,8 +41,7 @@ numeric_observations:
   values:
   - 24.0
   - 45.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As a result, the industry has seen several Pakistani and Bangladeshi
     yards fall increasingly into wait-and-watch mode before decidedly tabling a firm
@@ -52,8 +50,7 @@ numeric_observations:
   unit: null
   values:
   - 2.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Other than the occasional HKC unit that has popped into the market
     or a variety of poorer condition vessels from Far Eastern Sellers that stand at
@@ -62,8 +59,7 @@ numeric_observations:
   unit: null
   values:
   - 20.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Just like May, June looks set to remain in a state of justifiable jeopardy,
     other than an aggressive India that's now on the verge of jousting Bangladesh
@@ -71,8 +67,7 @@ numeric_observations:
   unit: null
   values:
   - 1.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 22 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -80,8 +75,7 @@ numeric_observations:
   values:
   - 22.0
   - 2024.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-06-03_gms-week-22-mays-out-rains-out_img1_6356_0ec737463952.jpg'
   unit: null
@@ -92,71 +86,62 @@ numeric_observations:
   - 22.0
   - 6356.0
   - 37463952.0
-- &id007
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: May 31st, 2024
   unit: null
   values:
   - 31.0
   - 2024.0
-- &id008
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Week 22 what I need to do now in order to get there then."
   unit: null
   values:
   - 22.0
-- &id009
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Volume 261, Issue 1136 - Diana Ross
   unit: null
   values:
   - 261.0
   - 1136.0
-- &id010
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: fuse off on the beaches of Alang since the start of the voting on April
     24, has now seen local steel
   unit: null
   values:
   - 24.0
-- &id011
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: plate prices climb nearly USD 45/Ton despite suffering through (minimal)
     volatility during this
   unit: usd
   values:
   - 45.0
-- &id012
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: (ongoing losses) as the restricted supply that is well into its 2nd
     year, may inadvertently deliver a
   unit: null
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: trading lives, sizeable tonnage from the +20K LDT camp has been and
     continues to pull quiet the
   unit: null
   values:
   - 20.0
-- &id014
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: and view the GMS India that's now on the verge of jousting Bangladesh
     out of 1st place.
   unit: null
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: For week 22 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -164,8 +149,7 @@ numeric_observations:
   values:
   - 22.0
   - 2024.0
-- &id016
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -174,8 +158,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id017
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 2 India Firming 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -184,8 +167,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id018
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -194,8 +176,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id019
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey* Dull 360 / LDT 370 / LDT 380 / LDT
   unit: null
@@ -204,39 +185,34 @@ numeric_observations:
   - 360.0
   - 370.0
   - 380.0
-- &id020
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: '* +10K LDT Units'
   unit: null
   values:
   - 10.0
-- &id021
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: local steel plate prices that remain horizontal at region USD 600/Ton
     (when compared to
   unit: usd
   values:
   - 600.0
-- &id023
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: dancing in the low BDT 117s against the U.S. Dollar. The BB's most
     recent depreciation
   unit: null
   values:
   - 117.0
-- &id024
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: important monetary policy measures on May 8, 2024, in an attempt to
     rein in inflation
@@ -244,24 +220,21 @@ numeric_observations:
   values:
   - 8.0
   - 2024.0
-- &id025
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: International Monetary Fund (IMF) under its ongoing support of $4.7
     billion to
   unit: usd
   values:
   - 4.7
-- &id026
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: eventually aggravated. As a last resort, the BB hiked the policy rate
     by 50 basis points to
   unit: null
   values:
   - 50.0
-- &id027
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: bring it to 8.5%. In January 2024, the policy rate was increased from
     7.75% to 8%. This
@@ -271,24 +244,21 @@ numeric_observations:
   - 2024.0
   - 7.75
   - 8.0
-- &id028
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Despite the results of the ongoing elections set be to be announced
     on June 5th, on th e
   unit: null
   values:
   - 5.0
-- &id030
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: party (the BJP) seem set for an inevitable 3rd election victory in
     India's 2024 General
@@ -296,24 +266,21 @@ numeric_observations:
   values:
   - 3.0
   - 2024.0
-- &id031
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: another USD 3/Ton improvement, ending the week a total of (and an impressive)
     USD
   unit: usd
   values:
   - 3.0
-- &id032
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 45/Ton higher since April 24th.
   unit: null
   values:
   - 45.0
   - 24.0
-- &id033
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Surprisingly, the Indian Rupee did weaken from Rs. 83.03 to Rs. 83.44
     as the week
@@ -321,87 +288,76 @@ numeric_observations:
   values:
   - 83.03
   - 83.44
-- &id034
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Overall, post June 5th, the confirmation of Minister Modi will only
     see India lead the
   unit: null
   values:
   - 5.0
-- &id035
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Flatline d again. PKR 278.50 against the U.S. Dollar, in addit ion
     to local steel plate prices that once again
   unit: null
   values:
   - 278.5
-- &id037
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: assume a flatlined position at a freshly weakened USD 706/Ton, Gadani
     Buyers have
   unit: usd
   values:
   - 706.0
-- &id038
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: expectedly been off the pace through May, and even slipped into 3rd
     place in the market
   unit: null
   values:
   - 3.0
-- &id039
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Lira that's jiggling around the early TRY 32.X levels against the U.S.
     Dollar, and
   unit: null
   values:
   - 32.0
-- &id041
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id043
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line:  Just burned 2,000 calories. That's the last time I leave brownies
     in the oven while I nap.
   unit: null
   values:
   - 2000.0
-- &id044
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: June 01 - Public Holiday June 03 - June 11
   unit: null
@@ -409,8 +365,7 @@ numeric_observations:
   - 1.0
   - 3.0
   - 11.0
-- &id045
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
   unit: null
@@ -419,8 +374,7 @@ numeric_observations:
   - 18.0
   - 19.0
   - 28.0
-- &id046
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: June 16 - June 18 - Eid-Ul-Azha June 05 - June 08
   unit: null
@@ -429,16 +383,14 @@ numeric_observations:
   - 18.0
   - 5.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: June 22 - June 25
   unit: null
   values:
   - 22.0
   - 25.0
-- &id048
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: June 01 - Dragon Boat Festival June 17 - June 19 - Eid-Ul-Azha June
     15 - June 19 - Kurban Bayrami
@@ -449,24 +401,21 @@ numeric_observations:
   - 19.0
   - 15.0
   - 19.0
-- &id049
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of May 31, 2024
   unit: null
   values:
   - 31.0
   - 2024.0
-- &id051
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 1 Bord 5,723 Container Arrived June 02
   unit: null
@@ -474,8 +423,7 @@ numeric_observations:
   - 1.0
   - 5723.0
   - 2.0
-- &id052
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 2 Frost Olympus 2,410 Reefer Vessel Delivered May 30
   unit: null
@@ -483,8 +431,7 @@ numeric_observations:
   - 2.0
   - 2410.0
   - 30.0
-- &id053
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 3 Nezha 1,571 Gen Cargo Arrived June 05
   unit: null
@@ -492,8 +439,7 @@ numeric_observations:
   - 3.0
   - 1571.0
   - 5.0
-- &id054
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 4 Ocmis Gar 2,477 General Cargo Delivered May 24
   unit: null
@@ -501,8 +447,7 @@ numeric_observations:
   - 4.0
   - 2477.0
   - 24.0
-- &id055
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5 Tiao Zhan (Dead Vessel) 16,327 MODU Delivered May 29
   unit: null
@@ -510,8 +455,7 @@ numeric_observations:
   - 5.0
   - 16327.0
   - 29.0
-- &id056
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 6 United ID 7,173 Bulk Carrier Arrived June 05
   unit: null
@@ -519,23 +463,20 @@ numeric_observations:
   - 6.0
   - 7173.0
   - 5.0
-- &id057
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 35,682
   unit: null
   values:
   - 35682.0
-- &id058
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of May 31, 2024
   unit: null
   values:
   - 31.0
   - 2024.0
-- &id059
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 1 Bei Fng Ming Zhu 5,776 Container Arrived May 23
   unit: null
@@ -543,8 +484,7 @@ numeric_observations:
   - 1.0
   - 5776.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 2 Comanche (Dead Vessel) 9,091 Pipe Layer Arrived May 26
   unit: null
@@ -552,8 +492,7 @@ numeric_observations:
   - 2.0
   - 9091.0
   - 26.0
-- &id061
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 3 GNS Hope 9,812 Bulk Carrier Arrived May 28
   unit: null
@@ -561,8 +500,7 @@ numeric_observations:
   - 3.0
   - 9812.0
   - 28.0
-- &id062
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 4 Han Ji 2 2,212 Offshore Supply Tug Delivered May 25
   unit: null
@@ -571,8 +509,7 @@ numeric_observations:
   - 2.0
   - 2212.0
   - 25.0
-- &id063
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5 Heung-A-Tokyo 2,447 Container Delivered May 25
   unit: null
@@ -580,8 +517,7 @@ numeric_observations:
   - 5.0
   - 2447.0
   - 25.0
-- &id064
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 6 Hong Ying 1,568 General Cargo Arrived May 25
   unit: null
@@ -589,8 +525,7 @@ numeric_observations:
   - 6.0
   - 1568.0
   - 25.0
-- &id065
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 7 Ji Hai Zhong Shan 2,175 Container Arrived May 24
   unit: null
@@ -598,8 +533,7 @@ numeric_observations:
   - 7.0
   - 2175.0
   - 24.0
-- &id066
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 8 Ment 1 2,234 Cement Carrier Arrived May 25
   unit: null
@@ -608,8 +542,7 @@ numeric_observations:
   - 1.0
   - 2234.0
   - 25.0
-- &id067
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 9 Naga 2 2,453 Container Delivered May 25
   unit: null
@@ -618,8 +551,7 @@ numeric_observations:
   - 2.0
   - 2453.0
   - 25.0
-- &id068
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 10 Span 30 1,826 General Cargo Arrived May 31
   unit: null
@@ -628,23 +560,20 @@ numeric_observations:
   - 30.0
   - 1826.0
   - 31.0
-- &id069
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 39,596
   unit: null
   values:
   - 39596.0
-- &id070
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of May 31, 2024
   unit: null
   values:
   - 31.0
   - 2024.0
-- &id071
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 1 Poseidon M 7,000 Bulk Carrier Delivered May 26
   unit: null
@@ -652,8 +581,7 @@ numeric_observations:
   - 1.0
   - 7000.0
   - 26.0
-- &id072
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 2 Uranus J 5,778 Bulk Carrier Arrived May 20
   unit: null
@@ -661,23 +589,20 @@ numeric_observations:
   - 2.0
   - 5778.0
   - 20.0
-- &id073
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 12,778
   unit: null
   values:
   - 12778.0
-- &id074
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/25/2024 530.69 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -692,8 +617,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.66
-- &id076
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/26/2024 530.69 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -708,8 +632,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.66
-- &id077
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/27/2024 530.49 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -724,8 +647,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.66
-- &id078
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/28/2024 527.77 43,900.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -740,8 +662,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.66
-- &id079
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/29/2024 529.16 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -756,8 +677,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.66
-- &id080
-  section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+- section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
   section_type: linked_pdf
   source_line: 5/30/2024 529.28 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
   unit: null
@@ -879,86 +799,667 @@ section_count: 3
 signals:
   numeric_observation_count: 91
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As May greets a tumultuous end in the global ship recycling markets,
+      increasing vessel prices on the back of a firming demandfrom fiery Alang Recyclers,
+      who seem to have set a nitroglycerine fuse off on the beaches of Alang since
+      the start of the voting on Apr
+    unit: usd
+    values:
+    - 24.0
+    - 45.0
+  - section: Main
+    section_type: null
+    source_line: As a result, the industry has seen several Pakistani and Bangladeshi
+      yards fall increasingly into wait-and-watch mode before decidedly tabling a
+      firm offer, while in Alang, the expected return of a partial shutdown state
+      on the back of yard workers returning t
+    unit: null
+    values:
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: Other than the occasional HKC unit that has popped into the market
+      or a variety of poorer condition vessels from Far Eastern Sellers that stand
+      at the end of their illogically extended trading lives, sizeable tonnage from
+      the +20K LDT camp has been and continu
+    unit: null
+    values:
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Just like May, June looks set to remain in a state of justifiable
+      jeopardy, other than an aggressive India that's now on the verge of jousting
+      Bangladesh out of 1st place.
+    unit: null
+    values:
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: For week 22 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-06-03_gms-week-22-mays-out-rains-out_img1_6356_0ec737463952.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -6.0
+    - -3.0
+    - 22.0
+    - 6356.0
+    - 37463952.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: May 31st, 2024
+    unit: null
+    values:
+    - 31.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Week 22 what I need to do now in order to get there then."
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Volume 261, Issue 1136 - Diana Ross
+    unit: null
+    values:
+    - 261.0
+    - 1136.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: fuse off on the beaches of Alang since the start of the voting on
+      April 24, has now seen local steel
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: plate prices climb nearly USD 45/Ton despite suffering through (minimal)
+      volatility during this
+    unit: usd
+    values:
+    - 45.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: (ongoing losses) as the restricted supply that is well into its 2nd
+      year, may inadvertently deliver a
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: trading lives, sizeable tonnage from the +20K LDT camp has been and
+      continues to pull quiet the
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: and view the GMS India that's now on the verge of jousting Bangladesh
+      out of 1st place.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: For week 22 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Shaky 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Firming 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Dull 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey* Dull 360 / LDT 370 / LDT 380 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 360.0
+    - 370.0
+    - 380.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: '* +10K LDT Units'
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: local steel plate prices that remain horizontal at region USD 600/Ton
+      (when compared to
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: dancing in the low BDT 117s against the U.S. Dollar. The BB's most
+      recent depreciation
+    unit: null
+    values:
+    - 117.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: important monetary policy measures on May 8, 2024, in an attempt
+      to rein in inflation
+    unit: null
+    values:
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: International Monetary Fund (IMF) under its ongoing support of $4.7
+      billion to
+    unit: usd
+    values:
+    - 4.7
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: eventually aggravated. As a last resort, the BB hiked the policy
+      rate by 50 basis points to
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: bring it to 8.5%. In January 2024, the policy rate was increased
+      from 7.75% to 8%. This
+    unit: pct
+    values:
+    - 8.5
+    - 2024.0
+    - 7.75
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Despite the results of the ongoing elections set be to be announced
+      on June 5th, on th e
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: party (the BJP) seem set for an inevitable 3rd election victory in
+      India's 2024 General
+    unit: null
+    values:
+    - 3.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: another USD 3/Ton improvement, ending the week a total of (and an
+      impressive) USD
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 45/Ton higher since April 24th.
+    unit: null
+    values:
+    - 45.0
+    - 24.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Surprisingly, the Indian Rupee did weaken from Rs. 83.03 to Rs. 83.44
+      as the week
+    unit: null
+    values:
+    - 83.03
+    - 83.44
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Overall, post June 5th, the confirmation of Minister Modi will only
+      see India lead the
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Flatline d again. PKR 278.50 against the U.S. Dollar, in addit ion
+      to local steel plate prices that once again
+    unit: null
+    values:
+    - 278.5
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: assume a flatlined position at a freshly weakened USD 706/Ton, Gadani
+      Buyers have
+    unit: usd
+    values:
+    - 706.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: expectedly been off the pace through May, and even slipped into 3rd
+      place in the market
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Lira that's jiggling around the early TRY 32.X levels against the
+      U.S. Dollar, and
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line:  Just burned 2,000 calories. That's the last time I leave brownies
+      in the oven while I nap.
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: June 01 - Public Holiday June 03 - June 11
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 11.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Bakri-Eid / Eid-Ul-Azha June 19 - June 28
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 19.0
+    - 28.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: June 16 - June 18 - Eid-Ul-Azha June 05 - June 08
+    unit: null
+    values:
+    - 16.0
+    - 18.0
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: June 22 - June 25
+    unit: null
+    values:
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: June 01 - Dragon Boat Festival June 17 - June 19 - Eid-Ul-Azha June
+      15 - June 19 - Kurban Bayrami
+    unit: null
+    values:
+    - 1.0
+    - 17.0
+    - 19.0
+    - 15.0
+    - 19.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of May 31, 2024
+    unit: null
+    values:
+    - 31.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bord 5,723 Container Arrived June 02
+    unit: null
+    values:
+    - 1.0
+    - 5723.0
+    - 2.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 2 Frost Olympus 2,410 Reefer Vessel Delivered May 30
+    unit: null
+    values:
+    - 2.0
+    - 2410.0
+    - 30.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 3 Nezha 1,571 Gen Cargo Arrived June 05
+    unit: null
+    values:
+    - 3.0
+    - 1571.0
+    - 5.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 4 Ocmis Gar 2,477 General Cargo Delivered May 24
+    unit: null
+    values:
+    - 4.0
+    - 2477.0
+    - 24.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5 Tiao Zhan (Dead Vessel) 16,327 MODU Delivered May 29
+    unit: null
+    values:
+    - 5.0
+    - 16327.0
+    - 29.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 6 United ID 7,173 Bulk Carrier Arrived June 05
+    unit: null
+    values:
+    - 6.0
+    - 7173.0
+    - 5.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 35,682
+    unit: null
+    values:
+    - 35682.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of May 31, 2024
+    unit: null
+    values:
+    - 31.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bei Fng Ming Zhu 5,776 Container Arrived May 23
+    unit: null
+    values:
+    - 1.0
+    - 5776.0
+    - 23.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 2 Comanche (Dead Vessel) 9,091 Pipe Layer Arrived May 26
+    unit: null
+    values:
+    - 2.0
+    - 9091.0
+    - 26.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 3 GNS Hope 9,812 Bulk Carrier Arrived May 28
+    unit: null
+    values:
+    - 3.0
+    - 9812.0
+    - 28.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 4 Han Ji 2 2,212 Offshore Supply Tug Delivered May 25
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 2212.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5 Heung-A-Tokyo 2,447 Container Delivered May 25
+    unit: null
+    values:
+    - 5.0
+    - 2447.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 6 Hong Ying 1,568 General Cargo Arrived May 25
+    unit: null
+    values:
+    - 6.0
+    - 1568.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 7 Ji Hai Zhong Shan 2,175 Container Arrived May 24
+    unit: null
+    values:
+    - 7.0
+    - 2175.0
+    - 24.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 8 Ment 1 2,234 Cement Carrier Arrived May 25
+    unit: null
+    values:
+    - 8.0
+    - 1.0
+    - 2234.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 9 Naga 2 2,453 Container Delivered May 25
+    unit: null
+    values:
+    - 9.0
+    - 2.0
+    - 2453.0
+    - 25.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 10 Span 30 1,826 General Cargo Arrived May 31
+    unit: null
+    values:
+    - 10.0
+    - 30.0
+    - 1826.0
+    - 31.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 39,596
+    unit: null
+    values:
+    - 39596.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of May 31, 2024
+    unit: null
+    values:
+    - 31.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 1 Poseidon M 7,000 Bulk Carrier Delivered May 26
+    unit: null
+    values:
+    - 1.0
+    - 7000.0
+    - 26.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 2 Uranus J 5,778 Bulk Carrier Arrived May 20
+    unit: null
+    values:
+    - 2.0
+    - 5778.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 12,778
+    unit: null
+    values:
+    - 12778.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/25/2024 530.69 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 25.0
+    - 2024.0
+    - 530.69
+    - 44100.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/26/2024 530.69 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 26.0
+    - 2024.0
+    - 530.69
+    - 44100.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/27/2024 530.49 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 27.0
+    - 2024.0
+    - 530.49
+    - 44100.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/28/2024 527.77 43,900.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 28.0
+    - 2024.0
+    - 527.77
+    - 43900.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/29/2024 529.16 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 29.0
+    - 2024.0
+    - 529.16
+    - 44100.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
+  - section: 'Linked asset: 2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf'
+    section_type: linked_pdf
+    source_line: 5/30/2024 529.28 44,100.00 706.60 197,000.00 600.00 72,000.00 349.66
+    unit: null
+    values:
+    - 5.0
+    - 30.0
+    - 2024.0
+    - 529.28
+    - 44100.0
+    - 706.6
+    - 197000.0
+    - 600.0
+    - 72000.0
+    - 349.66
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-06-03_gms-week-22-mays-out-rains-out.html
 source_stem: 2024-06-03_gms-week-22-mays-out-rains-out

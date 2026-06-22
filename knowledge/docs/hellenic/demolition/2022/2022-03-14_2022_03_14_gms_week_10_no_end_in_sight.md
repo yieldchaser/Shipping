@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 119
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Markets have endured another boost off the back of surging commodity
     prices and there is every expectation that the USD 700/LDT mark will be imminently
@@ -37,8 +36,7 @@ numeric_observations:
   unit: usd
   values:
   - 700.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'These are comfortably (and certainly) the highest numbers we have
     seen since the historical highs of 2008, when over USD 800/LDT was surpassed and
@@ -48,8 +46,7 @@ numeric_observations:
   values:
   - 2008.0
   - 800.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: It remains to be seen just where the first transactions on market tonnage
     will be concluded at or above USD 700/LDT, as End Buyers do seem somewhat nervous
@@ -57,8 +54,7 @@ numeric_observations:
   unit: usd
   values:
   - 700.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 10 of 2022, GMS demo rankings / pricing for the week are as
     below. Download PDF
@@ -66,8 +62,7 @@ numeric_observations:
   values:
   - 10.0
   - 2022.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-03-14_gms-week-10-no-end-in-sight_img1_1403_fef83ecd3fdd.jpg'
   unit: null
@@ -78,8 +73,7 @@ numeric_observations:
   - 10.0
   - 1403.0
   - 3.0
-- &id006
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 11th, 2022 "Take the attitude of a student, never be too big
     to ask questions, never
@@ -87,31 +81,27 @@ numeric_observations:
   values:
   - 11.0
   - 2022.0
-- &id007
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Volume 236, Issue 1022 know too much to learn something new."
   unit: null
   values:
   - 236.0
   - 1022.0
-- &id008
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Week 10 - Augustine Og Mandino
   unit: null
   values:
   - 10.0
-- &id009
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: every expectation that the USD 700/LDT mark will be imminently breached
     in the sub-continent
   unit: usd
   values:
   - 700.0
-- &id010
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: • Reaching records. highs of 2008, when over USD 800/LDT was surpassed
     and the recent universal skyrocketing
@@ -119,16 +109,14 @@ numeric_observations:
   values:
   - 2008.0
   - 800.0
-- &id011
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: or above USD 700/LDT, as End Buyers do seem somewhat nervous to transact
     at these new
   unit: usd
   values:
   - 700.0
-- &id012
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: For week 10 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -136,8 +124,7 @@ numeric_observations:
   values:
   - 10.0
   - 2022.0
-- &id013
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Firm 650 / LDT 660 / LDT 670 / LDT
   unit: null
@@ -146,8 +133,7 @@ numeric_observations:
   - 650.0
   - 660.0
   - 670.0
-- &id014
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 2 India Weakening 625 / LDT 635 / LDT 645 / LDT
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 625.0
   - 635.0
   - 645.0
-- &id015
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Firming 620 / LDT 630 / LDT 640 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 620.0
   - 630.0
   - 640.0
-- &id016
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Hot 450 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -176,16 +160,14 @@ numeric_observations:
   - 450.0
   - 460.0
   - 470.0
-- &id017
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id018
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Surging on. 65/Ton this week and vessel prices (as a res ult) pushed
     on towards the USD 700/LDT
@@ -193,185 +175,161 @@ numeric_observations:
   values:
   - 65.0
   - 700.0
-- &id019
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: surged even further this week, jumping nearly USD 35/Ton - clearly
     a by-product of the
   unit: usd
   values:
   - 35.0
-- &id021
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Coupled with an Indian Rupee that has incr easingly depreciated (briefly
     past Rs. 77) this
   unit: null
   values:
   - 77.0
-- &id022
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: week, ending at nearly 76.5X against the U.S. Dollar, a lot of the
     recent Indian lustre has
   unit: null
   values:
   - 76.5
-- &id023
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: USD 46/Ton this week - certainly impressive unto itself.
   unit: usd
   values:
   - 46.0
-- &id025
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 700/LDT threshold being (nearly) breached in Bangladesh, but at least
     there are some
   unit: null
   values:
   - 700.0
-- &id026
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: unchartered territory, as local offerings on tonnage make a noteworthy
     jump to get ever USD 500/Ton?
   unit: usd
   values:
   - 500.0
-- &id028
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: closer to the USD 500/Ton mark - certainly a first for this market.
   unit: usd
   values:
   - 500.0
-- &id029
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Not only did local steel plate prices jump a remarkable USD 60/Ton
     this week, even import
   unit: usd
   values:
   - 60.0
-- &id030
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: steel improved an additional USD 15/ton. Moreover, in keeping with
     the global
   unit: usd
   values:
   - 15.0
-- &id031
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: to weaken, virtually sniffing the TRY 15.X mark against the U.S. Dollar.
   unit: null
   values:
   - 15.0
-- &id032
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 2008 repeat?
   unit: null
   values:
   - 2008.0
-- &id033
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: invariably pushing scrap vessel prices back to the highs of 2008 (and
     the markets certainly
   unit: null
   values:
   - 2008.0
-- &id034
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: dir ector of Guinness Brewery in the 1950s.
   unit: null
   values:
   - 1950.0
-- &id036
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line:  Yo u can still stay at the world's oldest hotel, Nisiyama Onsen Keiunkan
     in Japan, which was founded in 705
   unit: null
   values:
   - 705.0
-- &id037
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line:  Th e longest place name in the word, at 85 letters, is
   unit: null
   values:
   - 85.0
-- &id038
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line:  Th e coldest temperature ever recorded occurred in Antarctica, -144
     Fahrenheit, as reported by researchers in a
   unit: null
   values:
   - -144.0
-- &id039
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: scientific journal in 2018.
   unit: null
   values:
   - 2018.0
-- &id040
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line:  The hottest temperature ever recorded occurred in Furnace Creek,
     Death Valley, California, at 134 degrees
   unit: null
   values:
   - 134.0
-- &id041
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Fahrenheit on July 10, 1913.
   unit: null
   values:
   - 10.0
   - 1913.0
-- &id042
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 01 - Maha Shivratri February 28 - March 06
   unit: null
@@ -379,8 +337,7 @@ numeric_observations:
   - 1.0
   - 28.0
   - 6.0
-- &id043
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 19 - Holi March 17 - March 24
   unit: null
@@ -388,8 +345,7 @@ numeric_observations:
   - 19.0
   - 17.0
   - 24.0
-- &id044
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 17 - Birthday of Sheikh Mujibur Rehman March 03 - March 06
   unit: null
@@ -397,8 +353,7 @@ numeric_observations:
   - 17.0
   - 3.0
   - 6.0
-- &id045
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 19 - Shab-e-Barat March 19 - March 22
   unit: null
@@ -406,38 +361,33 @@ numeric_observations:
   - 19.0
   - 19.0
   - 22.0
-- &id046
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id047
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: No holidays in March March 23 - Pakistan Day No holidays in March.
   unit: null
   values:
   - 23.0
-- &id048
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 11, 2022
   unit: null
   values:
   - 11.0
   - 2022.0
-- &id050
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 1 AL Baraka III 1,963 Livestock Carrier Arrived March 08
   unit: null
@@ -445,8 +395,7 @@ numeric_observations:
   - 1.0
   - 1963.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 2 Cape Enterprise 22,043 Bulk Carrier Arrived March 07
   unit: null
@@ -454,8 +403,7 @@ numeric_observations:
   - 2.0
   - 22043.0
   - 7.0
-- &id052
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 3 Harriet 2,292 Tanker Arrived December 09
   unit: null
@@ -463,8 +411,7 @@ numeric_observations:
   - 3.0
   - 2292.0
   - 9.0
-- &id053
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 4 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
     12
@@ -473,8 +420,7 @@ numeric_observations:
   - 4.0
   - 2778.0
   - 12.0
-- &id054
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 5 Moskovskaya Olimpiad 3,916 Fishing Vessel Arrived March 08
   unit: null
@@ -482,8 +428,7 @@ numeric_observations:
   - 5.0
   - 3916.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 6 Myth 4,540 RoRo Arrived March 08
   unit: null
@@ -491,8 +436,7 @@ numeric_observations:
   - 6.0
   - 4540.0
   - 8.0
-- &id056
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 7 Pavel Panin 3,153 Fishing Vessel Beached March 08
   unit: null
@@ -500,8 +444,7 @@ numeric_observations:
   - 7.0
   - 3153.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 8 Sapper 5,503 Chemical Tanker Arrived March 07
   unit: null
@@ -509,8 +452,7 @@ numeric_observations:
   - 8.0
   - 5503.0
   - 7.0
-- &id058
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 9 Tag 5 1,764 Supply Vessel Beached March 09
   unit: null
@@ -519,23 +461,20 @@ numeric_observations:
   - 5.0
   - 1764.0
   - 9.0
-- &id059
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 47,952
   unit: null
   values:
   - 47952.0
-- &id060
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 11, 2022
   unit: null
   values:
   - 11.0
   - 2022.0
-- &id061
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 1 Aristos 10,529 Tanker Arrived March 11
   unit: null
@@ -543,16 +482,14 @@ numeric_observations:
   - 1.0
   - 10529.0
   - 11.0
-- &id062
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 2 EX BNS Shahjalal TBA Supply Vessel Arrived March 10
   unit: null
   values:
   - 2.0
   - 10.0
-- &id063
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 3 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -560,8 +497,7 @@ numeric_observations:
   - 3.0
   - 16885.0
   - 28.0
-- &id064
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 4 Hang 6,904 Reefer Beached March 07
   unit: null
@@ -569,8 +505,7 @@ numeric_observations:
   - 4.0
   - 6904.0
   - 7.0
-- &id065
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 5 Kane 12,389 Tanker Beached March 05
   unit: null
@@ -578,8 +513,7 @@ numeric_observations:
   - 5.0
   - 12389.0
   - 5.0
-- &id066
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 6 Kapten Caroq 20,015 Tanker Arrived March 11
   unit: null
@@ -587,8 +521,7 @@ numeric_observations:
   - 6.0
   - 20015.0
   - 11.0
-- &id067
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 7 Petrogaruda 19,015 Tanker Arrived March 10
   unit: null
@@ -596,23 +529,20 @@ numeric_observations:
   - 7.0
   - 19015.0
   - 10.0
-- &id068
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 85,737
   unit: null
   values:
   - 85737.0
-- &id069
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 11, 2022
   unit: null
   values:
   - 11.0
   - 2022.0
-- &id070
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 1 Atlantic Enterprise 4,083.00 Accommodation Ship Beached March 06
   unit: null
@@ -620,8 +550,7 @@ numeric_observations:
   - 1.0
   - 4083.0
   - 6.0
-- &id071
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 2 DB Global 1 1,563.00 Barge Beached March 07
   unit: null
@@ -630,8 +559,7 @@ numeric_observations:
   - 1.0
   - 1563.0
   - 7.0
-- &id072
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 3 Jicore 9 468.00 Tug Beached March 07
   unit: null
@@ -640,8 +568,7 @@ numeric_observations:
   - 9.0
   - 468.0
   - 7.0
-- &id073
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 4 Star I 18,000.00 Tanker Beached March 10
   unit: null
@@ -649,8 +576,7 @@ numeric_observations:
   - 4.0
   - 18000.0
   - 10.0
-- &id074
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 5 Trident Bird 2,000.00 Tanker Arrived March 05
   unit: null
@@ -658,15 +584,13 @@ numeric_observations:
   - 5.0
   - 2000.0
   - 5.0
-- &id075
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 26,114
   unit: null
   values:
   - 26114.0
-- &id076
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -675,8 +599,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id077
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -685,8 +608,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id078
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -695,8 +617,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id079
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -705,8 +626,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id080
-  section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+- section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -1059,86 +979,614 @@ section_count: 3
 signals:
   numeric_observation_count: 119
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Markets have endured another boost off the back of surging commodity
+      prices and there is every expectation that the USD 700/LDT mark will be imminently
+      breached in the sub-continent markets once again.
+    unit: usd
+    values:
+    - 700.0
+  - section: Main
+    section_type: null
+    source_line: 'These are comfortably (and certainly) the highest numbers we have
+      seen since the historical highs of 2008, when over USD 800/LDT was surpassed
+      and the recent universal skyrocketing steel plate prices across the recycling
+      board (even in China) are carrying the '
+    unit: usd
+    values:
+    - 2008.0
+    - 800.0
+  - section: Main
+    section_type: null
+    source_line: It remains to be seen just where the first transactions on market
+      tonnage will be concluded at or above USD 700/LDT, as End Buyers do seem somewhat
+      nervous to transact at these new decade long highs.
+    unit: usd
+    values:
+    - 700.0
+  - section: Main
+    section_type: null
+    source_line: For week 10 of 2022, GMS demo rankings / pricing for the week are
+      as below. Download PDF
+    unit: null
+    values:
+    - 10.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-03-14_gms-week-10-no-end-in-sight_img1_1403_fef83ecd3fdd.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -3.0
+    - -14.0
+    - 10.0
+    - 1403.0
+    - 3.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 11th, 2022 "Take the attitude of a student, never be too big
+      to ask questions, never
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Volume 236, Issue 1022 know too much to learn something new."
+    unit: null
+    values:
+    - 236.0
+    - 1022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Week 10 - Augustine Og Mandino
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: every expectation that the USD 700/LDT mark will be imminently breached
+      in the sub-continent
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: • Reaching records. highs of 2008, when over USD 800/LDT was surpassed
+      and the recent universal skyrocketing
+    unit: usd
+    values:
+    - 2008.0
+    - 800.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: or above USD 700/LDT, as End Buyers do seem somewhat nervous to transact
+      at these new
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: For week 10 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 10.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Firm 650 / LDT 660 / LDT 670 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 650.0
+    - 660.0
+    - 670.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weakening 625 / LDT 635 / LDT 645 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 625.0
+    - 635.0
+    - 645.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Firming 620 / LDT 630 / LDT 640 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 620.0
+    - 630.0
+    - 640.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Hot 450 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 450.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Surging on. 65/Ton this week and vessel prices (as a res ult) pushed
+      on towards the USD 700/LDT
+    unit: usd
+    values:
+    - 65.0
+    - 700.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: surged even further this week, jumping nearly USD 35/Ton - clearly
+      a by-product of the
+    unit: usd
+    values:
+    - 35.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Coupled with an Indian Rupee that has incr easingly depreciated (briefly
+      past Rs. 77) this
+    unit: null
+    values:
+    - 77.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: week, ending at nearly 76.5X against the U.S. Dollar, a lot of the
+      recent Indian lustre has
+    unit: null
+    values:
+    - 76.5
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: USD 46/Ton this week - certainly impressive unto itself.
+    unit: usd
+    values:
+    - 46.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 700/LDT threshold being (nearly) breached in Bangladesh, but at least
+      there are some
+    unit: null
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: unchartered territory, as local offerings on tonnage make a noteworthy
+      jump to get ever USD 500/Ton?
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: closer to the USD 500/Ton mark - certainly a first for this market.
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Not only did local steel plate prices jump a remarkable USD 60/Ton
+      this week, even import
+    unit: usd
+    values:
+    - 60.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: steel improved an additional USD 15/ton. Moreover, in keeping with
+      the global
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: to weaken, virtually sniffing the TRY 15.X mark against the U.S.
+      Dollar.
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 2008 repeat?
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: invariably pushing scrap vessel prices back to the highs of 2008
+      (and the markets certainly
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: dir ector of Guinness Brewery in the 1950s.
+    unit: null
+    values:
+    - 1950.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line:  Yo u can still stay at the world's oldest hotel, Nisiyama Onsen
+      Keiunkan in Japan, which was founded in 705
+    unit: null
+    values:
+    - 705.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line:  Th e longest place name in the word, at 85 letters, is
+    unit: null
+    values:
+    - 85.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line:  Th e coldest temperature ever recorded occurred in Antarctica,
+      -144 Fahrenheit, as reported by researchers in a
+    unit: null
+    values:
+    - -144.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: scientific journal in 2018.
+    unit: null
+    values:
+    - 2018.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line:  The hottest temperature ever recorded occurred in Furnace Creek,
+      Death Valley, California, at 134 degrees
+    unit: null
+    values:
+    - 134.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Fahrenheit on July 10, 1913.
+    unit: null
+    values:
+    - 10.0
+    - 1913.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 01 - Maha Shivratri February 28 - March 06
+    unit: null
+    values:
+    - 1.0
+    - 28.0
+    - 6.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Holi March 17 - March 24
+    unit: null
+    values:
+    - 19.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 17 - Birthday of Sheikh Mujibur Rehman March 03 - March 06
+    unit: null
+    values:
+    - 17.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Shab-e-Barat March 19 - March 22
+    unit: null
+    values:
+    - 19.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in March March 23 - Pakistan Day No holidays in March.
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 11, 2022
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 1 AL Baraka III 1,963 Livestock Carrier Arrived March 08
+    unit: null
+    values:
+    - 1.0
+    - 1963.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 2 Cape Enterprise 22,043 Bulk Carrier Arrived March 07
+    unit: null
+    values:
+    - 2.0
+    - 22043.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Harriet 2,292 Tanker Arrived December 09
+    unit: null
+    values:
+    - 3.0
+    - 2292.0
+    - 9.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 4 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
+      12
+    unit: null
+    values:
+    - 4.0
+    - 2778.0
+    - 12.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 5 Moskovskaya Olimpiad 3,916 Fishing Vessel Arrived March 08
+    unit: null
+    values:
+    - 5.0
+    - 3916.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 6 Myth 4,540 RoRo Arrived March 08
+    unit: null
+    values:
+    - 6.0
+    - 4540.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 7 Pavel Panin 3,153 Fishing Vessel Beached March 08
+    unit: null
+    values:
+    - 7.0
+    - 3153.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 8 Sapper 5,503 Chemical Tanker Arrived March 07
+    unit: null
+    values:
+    - 8.0
+    - 5503.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 9 Tag 5 1,764 Supply Vessel Beached March 09
+    unit: null
+    values:
+    - 9.0
+    - 5.0
+    - 1764.0
+    - 9.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 47,952
+    unit: null
+    values:
+    - 47952.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 11, 2022
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Aristos 10,529 Tanker Arrived March 11
+    unit: null
+    values:
+    - 1.0
+    - 10529.0
+    - 11.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 2 EX BNS Shahjalal TBA Supply Vessel Arrived March 10
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 3.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Hang 6,904 Reefer Beached March 07
+    unit: null
+    values:
+    - 4.0
+    - 6904.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 5 Kane 12,389 Tanker Beached March 05
+    unit: null
+    values:
+    - 5.0
+    - 12389.0
+    - 5.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 6 Kapten Caroq 20,015 Tanker Arrived March 11
+    unit: null
+    values:
+    - 6.0
+    - 20015.0
+    - 11.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 7 Petrogaruda 19,015 Tanker Arrived March 10
+    unit: null
+    values:
+    - 7.0
+    - 19015.0
+    - 10.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 85,737
+    unit: null
+    values:
+    - 85737.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 11, 2022
+    unit: null
+    values:
+    - 11.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atlantic Enterprise 4,083.00 Accommodation Ship Beached March 06
+    unit: null
+    values:
+    - 1.0
+    - 4083.0
+    - 6.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 2 DB Global 1 1,563.00 Barge Beached March 07
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 1563.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 3 Jicore 9 468.00 Tug Beached March 07
+    unit: null
+    values:
+    - 3.0
+    - 9.0
+    - 468.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 4 Star I 18,000.00 Tanker Beached March 10
+    unit: null
+    values:
+    - 4.0
+    - 18000.0
+    - 10.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 5 Trident Bird 2,000.00 Tanker Arrived March 05
+    unit: null
+    values:
+    - 5.0
+    - 2000.0
+    - 5.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 26,114
+    unit: null
+    values:
+    - 26114.0
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-03-14_gms-week-10-no-end-in-sight_2022-03-13ikj-org_e16209ff9fb3.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-03-14_gms-week-10-no-end-in-sight.html
 source_stem: 2022-03-14_gms-week-10-no-end-in-sight

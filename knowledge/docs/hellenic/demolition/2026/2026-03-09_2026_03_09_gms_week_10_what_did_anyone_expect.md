@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 87
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Oil futures were the most impressive in their ascend as they rocketed
     past the moon with a 22% climb that saw them shoot from USD 73/barrel at the start
@@ -46,8 +45,7 @@ numeric_observations:
   - 110.0
   - 70.0
   - 6.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 10 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -55,8 +53,7 @@ numeric_observations:
   values:
   - 10.0
   - 2026.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-03-09_gms-week-10-what-did-anyone-expect_img1_090320226chinert_092067f1b441.jpg'
   unit: null
@@ -68,30 +65,26 @@ numeric_observations:
   - 90320226.0
   - 92067.0
   - 41.0
-- &id004
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id005
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 6t h, 2026
   unit: null
   values:
   - 6.0
   - 2026.0
-- &id006
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Week 10
   unit: null
   values:
   - 10.0
-- &id007
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Volume 2 82, Issue 1225 - Colin R. Davis
   unit: null
@@ -99,16 +92,14 @@ numeric_observations:
   - 2.0
   - 82.0
   - 1225.0
-- &id008
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Oil futures were the most impressive in their ascend as they rocketed
     past the moon with a 22%
   unit: pct
   values:
   - 22.0
-- &id009
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: climb that saw them shoot from USD 73/barrel at the start of the week
     to above USD 110/barrel (at
@@ -116,8 +107,7 @@ numeric_observations:
   values:
   - 73.0
   - 110.0
-- &id010
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: about 70%. The Indirectly affected Baltic Exchange Dry Index declined
     a sober 6% from the day
@@ -125,8 +115,7 @@ numeric_observations:
   values:
   - 70.0
   - 6.0
-- &id011
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 10 of 2026 are on Page 6.
   unit: null
@@ -134,39 +123,34 @@ numeric_observations:
   - 10.0
   - 2026.0
   - 6.0
-- &id012
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id013
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: victory for its party on February 2 (weeks ago), with the outbreak
     of war across the Middle East
   unit: null
   values:
   - 2.0
-- &id014
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1100 Iranian citizens (and counting).
   unit: null
   values:
   - 1100.0
-- &id015
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: that ousted the unpopular Sheikh Hasina and her ruling party back in
     June 2024, only left the fate
   unit: null
   values:
   - 2024.0
-- &id016
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: subsequent 20 months (until February 14, 2026), which also saw some
     catastrophic economic
@@ -174,24 +158,21 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
-- &id017
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: In fact, even this week, the Bangladeshi Taka lost 10 basis points
     against the U.S. Dollar and clocked
   unit: null
   values:
   - 10.0
-- &id018
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: out at BDT 122.18, with extreme volatility coming through toward the
     end of the week as the war
   unit: null
   values:
   - 122.18
-- &id019
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: moderate USD 1/Ton and down to nearly USD 507/ton. The war has also
     delivered a cessation of
@@ -199,24 +180,21 @@ numeric_observations:
   values:
   - 1.0
   - 507.0
-- &id020
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: for a return on the back of firming local steel prices, coupled with
     demand from most of the 22+
   unit: null
   values:
   - 22.0
-- &id021
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: nearly 1% (0.95% to be precise) and wrap up the week at Rs. 91.94 against
     the U.S. Dollar. It was local
@@ -225,16 +203,14 @@ numeric_observations:
   - 1.0
   - 0.95
   - 91.94
-- &id023
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: steel plate prices, however, that turned the week into a Formula 1
     racetrack as they whizzed by industry
   unit: null
   values:
   - 1.0
-- &id024
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: players from USD 396.83/ton at the start of the week to USD 414.53/ton
     by the time the week ended - E rring on positive.
@@ -242,16 +218,14 @@ numeric_observations:
   values:
   - 396.83
   - 414.53
-- &id025
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: a near USD 28/ton meteoric rise, likely resulting from fears of import
     shortages of steel scrap from the
   unit: usd
   values:
   - 28.0
-- &id026
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: conflict), taking the total number of units at anchorage to 6 and in
     excess of 44K LDT. A strong number,
@@ -259,24 +233,21 @@ numeric_observations:
   values:
   - 6.0
   - 44.0
-- &id027
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: steel plate prices froze in their tracks at USD 590.54/ton for the
     entirety of the week, all while the
   unit: usd
   values:
   - 590.54
-- &id029
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee surprisingly firmed 35 basis points and ended the week
     at a healthier PKT 278.08
@@ -284,40 +255,35 @@ numeric_observations:
   values:
   - 35.0
   - 278.08
-- &id030
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: EU certification, vanishing from the approved list if facilities that
     was published on February 27th.
   unit: null
   values:
   - 27.0
-- &id032
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Romanian-detained vessel Lily-Ha was reportedly sold to Aliağa on March
     7th as the Lira's
   unit: null
   values:
   - 7.0
-- &id033
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: unplugged drain continued to tank the value of its currency, riddling
     it down another 27 basis points,
   unit: null
   values:
   - 27.0
-- &id034
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: blowing past TRY 44 against the U.S. Dollar this week, and wiping out
     at TRY 40.10.
@@ -325,8 +291,7 @@ numeric_observations:
   values:
   - 44.0
   - 40.1
-- &id035
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: For Week 9 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -334,8 +299,7 @@ numeric_observations:
   values:
   - 9.0
   - 2026.0
-- &id036
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -344,8 +308,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id037
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -354,8 +317,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id038
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -364,8 +326,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id039
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -374,32 +335,28 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id040
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line:  The largest piece of fossilized dinosaur poo discovered is over 30cm
     long and over two litres in volume. Believed to be a
   unit: null
   values:
   - 30.0
-- &id042
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line:  The Universe's average colour is called 'Cosmic latte'. In a 2002
     study, astronomers found that the light coming from galaxies
   unit: null
   values:
   - 2002.0
-- &id043
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 04 - Holi March 01 - March 07
   unit: null
@@ -407,8 +364,7 @@ numeric_observations:
   - 4.0
   - 1.0
   - 7.0
-- &id044
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 18 - March 24
   unit: null
@@ -416,22 +372,19 @@ numeric_observations:
   - 21.0
   - 18.0
   - 24.0
-- &id045
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 26 - Ram Navami
   unit: null
   values:
   - 26.0
-- &id046
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 31 - Mahavir Jayanthi
   unit: null
   values:
   - 31.0
-- &id047
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 19 - Eid-ul-Fitr March 04 - March 07
   unit: null
@@ -439,8 +392,7 @@ numeric_observations:
   - 19.0
   - 4.0
   - 7.0
-- &id048
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
     22
@@ -452,15 +404,13 @@ numeric_observations:
   - 3.0
   - 19.0
   - 22.0
-- &id049
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id050
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March 23
     - Eid-ul-Fitr & Ramzan Bayrami
@@ -473,24 +423,21 @@ numeric_observations:
   - 3.0
   - 19.0
   - 23.0
-- &id051
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 06, 2026
   unit: null
   values:
   - 6.0
   - 2026.0
-- &id053
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1 Antar 3,676 General Cargo Arrived February 28
   unit: null
@@ -498,8 +445,7 @@ numeric_observations:
   - 1.0
   - 3676.0
   - 28.0
-- &id054
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 2 Bianca 8,987 Oil Tanker Delivered February 28
   unit: null
@@ -507,8 +453,7 @@ numeric_observations:
   - 2.0
   - 8987.0
   - 28.0
-- &id055
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3 BuzanSkiy 1,760 Reefer Cargo Arrived March 04
   unit: null
@@ -516,8 +461,7 @@ numeric_observations:
   - 3.0
   - 1760.0
   - 4.0
-- &id056
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 4 Falo 2,067 Oil Tanker Delivered February 28
   unit: null
@@ -525,8 +469,7 @@ numeric_observations:
   - 4.0
   - 2067.0
   - 28.0
-- &id057
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 5 Ghada A 2,240 General Cargo Arrived February 28
   unit: null
@@ -534,8 +477,7 @@ numeric_observations:
   - 5.0
   - 2240.0
   - 28.0
-- &id058
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 6 Mokhia 25,536 Container Delivered March 02
   unit: null
@@ -543,23 +485,20 @@ numeric_observations:
   - 6.0
   - 25536.0
   - 2.0
-- &id059
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Morality 44,265
   unit: null
   values:
   - 44265.0
-- &id060
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 06, 2026
   unit: null
   values:
   - 6.0
   - 2026.0
-- &id061
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1 Quar 9,453 Tanker Delivered March 06
   unit: null
@@ -567,8 +506,7 @@ numeric_observations:
   - 1.0
   - 9453.0
   - 6.0
-- &id062
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 2 Sage Sagittarius 19,943 Bulk Carrier Delivered March 05
   unit: null
@@ -576,8 +514,7 @@ numeric_observations:
   - 2.0
   - 19943.0
   - 5.0
-- &id063
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3 Sirrah 7,072 Bulk Carrier Arrived February 13
   unit: null
@@ -585,23 +522,20 @@ numeric_observations:
   - 3.0
   - 7072.0
   - 13.0
-- &id064
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 36,468
   unit: null
   values:
   - 36468.0
-- &id065
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 06, 2026
   unit: null
   values:
   - 6.0
   - 2026.0
-- &id066
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1 Atlas 2,573 General Cargo Arrived February 26
   unit: null
@@ -609,8 +543,7 @@ numeric_observations:
   - 1.0
   - 2573.0
   - 26.0
-- &id067
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 2 Xing Fa 2,300 Tanker Arrived February 16
   unit: null
@@ -618,23 +551,20 @@ numeric_observations:
   - 2.0
   - 2300.0
   - 16.0
-- &id068
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 4,873
   unit: null
   values:
   - 4873.0
-- &id069
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id070
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 2/28/2026 396.83 36,100.00 590.54 166,000.00 507.81 61,800.00 309.85
   unit: null
@@ -649,8 +579,7 @@ numeric_observations:
   - 507.81
   - 61800.0
   - 309.85
-- &id071
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/1/2026 396.83 36,100.00 590.54 166,000.00 507.81 61,800.00 309.85
   unit: null
@@ -665,8 +594,7 @@ numeric_observations:
   - 507.81
   - 61800.0
   - 309.85
-- &id072
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/2/2026 403.28 36,900.00 590.54 166,000.00 507.81 61,800.00 309.85
   unit: null
@@ -681,8 +609,7 @@ numeric_observations:
   - 507.81
   - 61800.0
   - 309.85
-- &id073
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/3/2026 408.74 37,400.00 590.54 166,000.00 507.81 61,800.00 310.47
   unit: null
@@ -697,8 +624,7 @@ numeric_observations:
   - 507.81
   - 61800.0
   - 310.47
-- &id074
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/4/2026 408.30 37,400.00 590.54 166,000.00 506.98 61,700.00 310.47
   unit: null
@@ -713,8 +639,7 @@ numeric_observations:
   - 506.98
   - 61700.0
   - 310.47
-- &id075
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/5/2026 408.30 37,400.00 590.54 166,000.00 506.98 61,700.00 310.47
   unit: null
@@ -729,8 +654,7 @@ numeric_observations:
   - 506.98
   - 61700.0
   - 310.47
-- &id076
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 3/6/2026 414.53 38,000.00 590.54 166,000.00 506.98 61,700.00 310.47
   unit: null
@@ -745,8 +669,7 @@ numeric_observations:
   - 506.98
   - 61700.0
   - 310.47
-- &id077
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -755,8 +678,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id078
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -765,8 +687,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id079
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -775,8 +696,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id080
-  section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+- section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -856,86 +776,680 @@ section_count: 3
 signals:
   numeric_observation_count: 87
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Oil futures were the most impressive in their ascend as they rocketed
+      past the moon with a 22% climb that saw them shoot from USD 73/barrel at the
+      start of the week to above USD 110/barrel (at the time of writing) as Kuwait
+      announced precautionary cuts to prod
+    unit: pct
+    values:
+    - 22.0
+    - 73.0
+    - 110.0
+    - 70.0
+    - 6.0
+  - section: Main
+    section_type: null
+    source_line: For Week 10 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 10.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-03-09_gms-week-10-what-did-anyone-expect_img1_090320226chinert_092067f1b441.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -3.0
+    - -9.0
+    - 10.0
+    - 90320226.0
+    - 92067.0
+    - 41.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 6t h, 2026
+    unit: null
+    values:
+    - 6.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Week 10
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 82, Issue 1225 - Colin R. Davis
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 1225.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Oil futures were the most impressive in their ascend as they rocketed
+      past the moon with a 22%
+    unit: pct
+    values:
+    - 22.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: climb that saw them shoot from USD 73/barrel at the start of the
+      week to above USD 110/barrel (at
+    unit: usd
+    values:
+    - 73.0
+    - 110.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: about 70%. The Indirectly affected Baltic Exchange Dry Index declined
+      a sober 6% from the day
+    unit: pct
+    values:
+    - 70.0
+    - 6.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 10 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 10.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: victory for its party on February 2 (weeks ago), with the outbreak
+      of war across the Middle East
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1100 Iranian citizens (and counting).
+    unit: null
+    values:
+    - 1100.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: that ousted the unpopular Sheikh Hasina and her ruling party back
+      in June 2024, only left the fate
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: subsequent 20 months (until February 14, 2026), which also saw some
+      catastrophic economic
+    unit: null
+    values:
+    - 14.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: In fact, even this week, the Bangladeshi Taka lost 10 basis points
+      against the U.S. Dollar and clocked
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: out at BDT 122.18, with extreme volatility coming through toward
+      the end of the week as the war
+    unit: null
+    values:
+    - 122.18
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: moderate USD 1/Ton and down to nearly USD 507/ton. The war has also
+      delivered a cessation of
+    unit: usd
+    values:
+    - 1.0
+    - 507.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: for a return on the back of firming local steel prices, coupled with
+      demand from most of the 22+
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: nearly 1% (0.95% to be precise) and wrap up the week at Rs. 91.94
+      against the U.S. Dollar. It was local
+    unit: pct
+    values:
+    - 1.0
+    - 0.95
+    - 91.94
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices, however, that turned the week into a Formula
+      1 racetrack as they whizzed by industry
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: players from USD 396.83/ton at the start of the week to USD 414.53/ton
+      by the time the week ended - E rring on positive.
+    unit: usd
+    values:
+    - 396.83
+    - 414.53
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: a near USD 28/ton meteoric rise, likely resulting from fears of import
+      shortages of steel scrap from the
+    unit: usd
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: conflict), taking the total number of units at anchorage to 6 and
+      in excess of 44K LDT. A strong number,
+    unit: null
+    values:
+    - 6.0
+    - 44.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices froze in their tracks at USD 590.54/ton for the
+      entirety of the week, all while the
+    unit: usd
+    values:
+    - 590.54
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee surprisingly firmed 35 basis points and ended the
+      week at a healthier PKT 278.08
+    unit: tonnage
+    values:
+    - 35.0
+    - 278.08
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: EU certification, vanishing from the approved list if facilities
+      that was published on February 27th.
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Romanian-detained vessel Lily-Ha was reportedly sold to Aliağa on
+      March 7th as the Lira's
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: unplugged drain continued to tank the value of its currency, riddling
+      it down another 27 basis points,
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: blowing past TRY 44 against the U.S. Dollar this week, and wiping
+      out at TRY 40.10.
+    unit: null
+    values:
+    - 44.0
+    - 40.1
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: For Week 9 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line:  The largest piece of fossilized dinosaur poo discovered is over
+      30cm long and over two litres in volume. Believed to be a
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line:  The Universe's average colour is called 'Cosmic latte'. In a 2002
+      study, astronomers found that the light coming from galaxies
+    unit: null
+    values:
+    - 2002.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 04 - Holi March 01 - March 07
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 18 - March
+      24
+    unit: null
+    values:
+    - 21.0
+    - 18.0
+    - 24.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Ram Navami
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Mahavir Jayanthi
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Eid-ul-Fitr March 04 - March 07
+    unit: null
+    values:
+    - 19.0
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
+      22
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March
+      23 - Eid-ul-Fitr & Ramzan Bayrami
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+    - 1.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 23.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 06, 2026
+    unit: null
+    values:
+    - 6.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1 Antar 3,676 General Cargo Arrived February 28
+    unit: null
+    values:
+    - 1.0
+    - 3676.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bianca 8,987 Oil Tanker Delivered February 28
+    unit: null
+    values:
+    - 2.0
+    - 8987.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3 BuzanSkiy 1,760 Reefer Cargo Arrived March 04
+    unit: null
+    values:
+    - 3.0
+    - 1760.0
+    - 4.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 4 Falo 2,067 Oil Tanker Delivered February 28
+    unit: null
+    values:
+    - 4.0
+    - 2067.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 5 Ghada A 2,240 General Cargo Arrived February 28
+    unit: null
+    values:
+    - 5.0
+    - 2240.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 6 Mokhia 25,536 Container Delivered March 02
+    unit: null
+    values:
+    - 6.0
+    - 25536.0
+    - 2.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Morality 44,265
+    unit: null
+    values:
+    - 44265.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 06, 2026
+    unit: null
+    values:
+    - 6.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1 Quar 9,453 Tanker Delivered March 06
+    unit: null
+    values:
+    - 1.0
+    - 9453.0
+    - 6.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sage Sagittarius 19,943 Bulk Carrier Delivered March 05
+    unit: null
+    values:
+    - 2.0
+    - 19943.0
+    - 5.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sirrah 7,072 Bulk Carrier Arrived February 13
+    unit: null
+    values:
+    - 3.0
+    - 7072.0
+    - 13.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 36,468
+    unit: null
+    values:
+    - 36468.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 06, 2026
+    unit: null
+    values:
+    - 6.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atlas 2,573 General Cargo Arrived February 26
+    unit: null
+    values:
+    - 1.0
+    - 2573.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 2 Xing Fa 2,300 Tanker Arrived February 16
+    unit: null
+    values:
+    - 2.0
+    - 2300.0
+    - 16.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 4,873
+    unit: null
+    values:
+    - 4873.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 2/28/2026 396.83 36,100.00 590.54 166,000.00 507.81 61,800.00 309.85
+    unit: null
+    values:
+    - 2.0
+    - 28.0
+    - 2026.0
+    - 396.83
+    - 36100.0
+    - 590.54
+    - 166000.0
+    - 507.81
+    - 61800.0
+    - 309.85
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/1/2026 396.83 36,100.00 590.54 166,000.00 507.81 61,800.00 309.85
+    unit: null
+    values:
+    - 3.0
+    - 1.0
+    - 2026.0
+    - 396.83
+    - 36100.0
+    - 590.54
+    - 166000.0
+    - 507.81
+    - 61800.0
+    - 309.85
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/2/2026 403.28 36,900.00 590.54 166,000.00 507.81 61,800.00 309.85
+    unit: null
+    values:
+    - 3.0
+    - 2.0
+    - 2026.0
+    - 403.28
+    - 36900.0
+    - 590.54
+    - 166000.0
+    - 507.81
+    - 61800.0
+    - 309.85
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/3/2026 408.74 37,400.00 590.54 166,000.00 507.81 61,800.00 310.47
+    unit: null
+    values:
+    - 3.0
+    - 3.0
+    - 2026.0
+    - 408.74
+    - 37400.0
+    - 590.54
+    - 166000.0
+    - 507.81
+    - 61800.0
+    - 310.47
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/4/2026 408.30 37,400.00 590.54 166,000.00 506.98 61,700.00 310.47
+    unit: null
+    values:
+    - 3.0
+    - 4.0
+    - 2026.0
+    - 408.3
+    - 37400.0
+    - 590.54
+    - 166000.0
+    - 506.98
+    - 61700.0
+    - 310.47
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/5/2026 408.30 37,400.00 590.54 166,000.00 506.98 61,700.00 310.47
+    unit: null
+    values:
+    - 3.0
+    - 5.0
+    - 2026.0
+    - 408.3
+    - 37400.0
+    - 590.54
+    - 166000.0
+    - 506.98
+    - 61700.0
+    - 310.47
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 3/6/2026 414.53 38,000.00 590.54 166,000.00 506.98 61,700.00 310.47
+    unit: null
+    values:
+    - 3.0
+    - 6.0
+    - 2026.0
+    - 414.53
+    - 38000.0
+    - 590.54
+    - 166000.0
+    - 506.98
+    - 61700.0
+    - 310.47
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-03-09_gms-week-10-what-did-anyone-expect.html
 source_stem: 2026-03-09_gms-week-10-what-did-anyone-expect

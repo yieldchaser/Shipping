@@ -26,8 +26,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 22
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 08/11/2025
   unit: null
@@ -35,8 +34,7 @@ numeric_observations:
   - 8.0
   - 11.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: (01 NOVEMBER - 07 NOVEMBER) 2025
   unit: null
@@ -44,8 +42,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2025.0
-- &id003
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -53,8 +50,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -62,16 +58,14 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: The Central Bank of Türkiye has projected year-end inflation at around
     31%, indicating
   unit: pct
   values:
   - 31.0
-- &id006
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (64.52 64.06) -0.46'
   unit: null
@@ -79,8 +73,7 @@ numeric_observations:
   - 64.52
   - 64.06
   - -0.46
-- &id007
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (60.06 60.04) -0.02'
   unit: null
@@ -88,8 +81,7 @@ numeric_observations:
   - 60.06
   - 60.04
   - -0.02
-- &id008
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 88.69 This Week : 121.92 This Week : 282.41 This Week
     : 42.16'
@@ -99,8 +91,7 @@ numeric_observations:
   - 121.92
   - 282.41
   - 42.16
-- &id009
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 88.74 Previous Week : 122.36 Previous Week : 283.06
     Previous Week : 42.00'
@@ -110,8 +101,7 @@ numeric_observations:
   - 122.36
   - 283.06
   - 42.0
-- &id010
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: 'Gain : 0.05 Gain : 0.44 Gain : 0.65 Loss : 0.16'
   unit: null
@@ -120,8 +110,7 @@ numeric_observations:
   - 0.44
   - 0.65
   - 0.16
-- &id011
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
   unit: null
@@ -130,48 +119,42 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id012
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id013
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: INDIA 350 360 (0)
   unit: null
   values:
   - 350.0
   - 360.0
-- &id014
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 355 365 (0)
   unit: null
   values:
   - 355.0
   - 365.0
-- &id015
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 355 360 (0)
   unit: null
   values:
   - 355.0
   - 360.0
-- &id016
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: TURKEY 348 368 (0)
   unit: null
   values:
   - 348.0
   - 368.0
-- &id017
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: INDIA FIRM 415 402 386 (+ 0.84)
   unit: null
@@ -180,8 +163,7 @@ numeric_observations:
   - 402.0
   - 386.0
   - 0.84
-- &id018
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH FIRM 440 430 395 ( - 1.17)
   unit: null
@@ -190,8 +172,7 @@ numeric_observations:
   - 430.0
   - 395.0
   - 1.17
-- &id019
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN SOFT 415 400 390 (0)
   unit: null
@@ -199,8 +180,7 @@ numeric_observations:
   - 415.0
   - 400.0
   - 390.0
-- &id020
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: TURKEY FIRM 280 270 260 (0)
   unit: null
@@ -208,16 +188,14 @@ numeric_observations:
   - 280.0
   - 270.0
   - 260.0
-- &id021
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: RAISSA MOTORTANKER 1998 DELIVERED CHITTAGONG,BANGLADESH 473
   unit: null
   values:
   - 1998.0
   - 473.0
-- &id022
-  section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+- section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
   section_type: linked_pdf
   source_line: ARK MPP 1985 DELIVERED ALANG, INDIA UNDISCLOSED
   unit: null
@@ -231,28 +209,181 @@ section_count: 2
 signals:
   numeric_observation_count: 22
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 08/11/2025
+    unit: null
+    values:
+    - 8.0
+    - 11.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: (01 NOVEMBER - 07 NOVEMBER) 2025
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2025.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: The Central Bank of Türkiye has projected year-end inflation at around
+      31%, indicating
+    unit: pct
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (64.52 64.06) -0.46'
+    unit: null
+    values:
+    - 64.52
+    - 64.06
+    - -0.46
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (60.06 60.04) -0.02'
+    unit: null
+    values:
+    - 60.06
+    - 60.04
+    - -0.02
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 88.69 This Week : 121.92 This Week : 282.41 This Week
+      : 42.16'
+    unit: null
+    values:
+    - 88.69
+    - 121.92
+    - 282.41
+    - 42.16
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 88.74 Previous Week : 122.36 Previous Week : 283.06
+      Previous Week : 42.00'
+    unit: null
+    values:
+    - 88.74
+    - 122.36
+    - 283.06
+    - 42.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Gain : 0.05 Gain : 0.44 Gain : 0.65 Loss : 0.16'
+    unit: null
+    values:
+    - 0.05
+    - 0.44
+    - 0.65
+    - 0.16
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 350 360 (0)
+    unit: null
+    values:
+    - 350.0
+    - 360.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 355 365 (0)
+    unit: null
+    values:
+    - 355.0
+    - 365.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 355 360 (0)
+    unit: null
+    values:
+    - 355.0
+    - 360.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 348 368 (0)
+    unit: null
+    values:
+    - 348.0
+    - 368.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: INDIA FIRM 415 402 386 (+ 0.84)
+    unit: null
+    values:
+    - 415.0
+    - 402.0
+    - 386.0
+    - 0.84
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH FIRM 440 430 395 ( - 1.17)
+    unit: null
+    values:
+    - 440.0
+    - 430.0
+    - 395.0
+    - 1.17
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN SOFT 415 400 390 (0)
+    unit: null
+    values:
+    - 415.0
+    - 400.0
+    - 390.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY FIRM 280 270 260 (0)
+    unit: null
+    values:
+    - 280.0
+    - 270.0
+    - 260.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: RAISSA MOTORTANKER 1998 DELIVERED CHITTAGONG,BANGLADESH 473
+    unit: null
+    values:
+    - 1998.0
+    - 473.0
+  - section: 'Linked asset: 2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf'
+    section_type: linked_pdf
+    source_line: ARK MPP 1985 DELIVERED ALANG, INDIA UNDISCLOSED
+    unit: null
+    values:
+    - 1985.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-11-08_best-oasis-weekly-recycling-market-report-07-november-2025.html
 source_stem: 2025-11-08_best-oasis-weekly-recycling-market-report-07-november-2025

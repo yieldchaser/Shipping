@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 155
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The Week 20 "stalemate holds" thesis has been materially challenged
     by the most concrete reopening signal of the war. President Trumpstated on May
@@ -49,8 +48,7 @@ numeric_observations:
   - 20.0
   - 105.29
   - 99.85
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The structural counterweights remain. ADNOC''s CEO said this week
     that full recovery in Middle Eastern oil flows is unlikely before late 2027, joining
@@ -63,8 +61,7 @@ numeric_observations:
   - 1.17
   - 1.38
   - 1.74
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight has consolidated, not collapsed. The Baltic Dry Index closed
     at 3,005 on May 20 after peaking above 3,092 on May 18. The Baltic Capesize Index
@@ -82,8 +79,7 @@ numeric_observations:
   - 20548.0
   - 22691.0
   - 19800.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Currency divergence has widened to its sharpest configuration of the
     year. The Indian Rupee has decisively broken 96, with USD/INR touching a fresh
@@ -101,8 +97,7 @@ numeric_observations:
   - 45.24
   - 278.63
   - 122.74
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Bangladesh and India April CPI prints both landed this week. Bangladesh
     rose to 9.04% from 8.71% in March, with transport at 9.31% and housing-utilities
@@ -120,8 +115,7 @@ numeric_observations:
   - 3.4
   - 2.0
   - 6.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 21 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -129,15 +123,13 @@ numeric_observations:
   values:
   - 21.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 120874.png'
   unit: null
   values:
   - 120874.0
-- &id008
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   unit: null
@@ -150,24 +142,21 @@ numeric_observations:
   - 6.0
   - 6.0
   - 40.0
-- &id009
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 685x155 mode=RGBA'
   unit: null
   values:
   - 685.0
   - 55.0
-- &id010
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: 'dpi: (119.9896, 119.9896)'
   unit: null
   values:
   - 119.9896
   - 119.9896
-- &id011
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: '| 2 | Pakistan | Firming | 445-450/ LDT | 465-470/ LDT | 475-480/
     LDT |'
@@ -180,8 +169,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id012
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: '| 4 [Turkey | Softening | 268.270/ LDT | 278-280 / LDT | 288-290/
     LDT |'
@@ -193,54 +181,47 @@ numeric_observations:
   - -280.0
   - 288.0
   - -290.0
-- &id013
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id014
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: May 22nd , 2026
   unit: null
   values:
   - 22.0
   - 2026.0
-- &id015
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Week 21
   unit: null
   values:
   - 21.0
-- &id016
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1236
   unit: null
   values:
   - 282.0
   - 1236.0
-- &id017
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: The Week 20 "stalemate holds" thesis has been materially challenged
     by the most concrete reopening signal of
   unit: null
   values:
   - 20.0
-- &id018
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: the war. President Trump stated on May 20 that the United States is
     "in the final stages of talks with Iran,"
   unit: null
   values:
   - 20.0
-- &id019
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: since March. The Trump-Xi summit in Beijing on May 14 and 15 added
     a further diplomatic layer, with Xi
@@ -248,8 +229,7 @@ numeric_observations:
   values:
   - 14.0
   - 15.0
-- &id020
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 5% on May 20 to USD 105.29, with WTI at USD 99.85.
   unit: pct
@@ -258,16 +238,14 @@ numeric_observations:
   - 20.0
   - 105.29
   - 99.85
-- &id021
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: flows is unlikely before late 2027, joining Aramco's Nasser in setting
     a longer rebalancing horizon. OPEC's May
   unit: null
   values:
   - 2027.0
-- &id022
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: • Brent eases. m onthly report cut its 2026 global demand growth forecast
     to 1.17 million barrels per day from 1.38 million,
@@ -276,16 +254,14 @@ numeric_observations:
   - 2026.0
   - 1.17
   - 1.38
-- &id023
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: citing the conflict's impact on trade flows, while OPEC+ output fell
     approximately 1.74 million barrels per day
   unit: null
   values:
   - 1.74
-- &id024
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Freight has consolidated, not collapsed. The Baltic Dry Index closed
     at 3,005 on May 20 after peaking above
@@ -293,8 +269,7 @@ numeric_observations:
   values:
   - 3005.0
   - 20.0
-- &id025
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 3,092 on May 18. The Baltic Capesize Index cooled to 4,880, with daily
     Capesize earnings at USD 40,760, off
@@ -304,16 +279,14 @@ numeric_observations:
   - 18.0
   - 4880.0
   - 40760.0
-- &id026
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: prior-week highs near USD 43,000. The Baltic Panamax Index P5TC has
     been the standout, rallying from USD
   unit: usd
   values:
   - 43000.0
-- &id027
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 20,548 on Monday to USD 22,691 by Friday, while Supramax held broadly
     stable near USD 19,800 per day and
@@ -322,16 +295,14 @@ numeric_observations:
   - 20548.0
   - 22691.0
   - 19800.0
-- &id028
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Handysize near USD 15,300. The dry bulk earnings premium has eased
     from its peak, but remains high enough
   unit: usd
   values:
   - 15300.0
-- &id029
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: broken 96, with USD/INR touching a fresh all-time high of approximately
     96.97 on May 21 and the week trading
@@ -340,8 +311,7 @@ numeric_observations:
   - 96.0
   - 96.97
   - 21.0
-- &id030
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: in a 95.71 to 96.97 range. The Turkish Lira has broken to a fresh record
     of approximately 45.58, surpassing the
@@ -350,8 +320,7 @@ numeric_observations:
   - 95.71
   - 96.97
   - 45.58
-- &id031
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Week 19 reference of 45.24. The Pakistani Rupee has sustained its counterintuitive
     firming at approximately
@@ -359,8 +328,7 @@ numeric_observations:
   values:
   - 19.0
   - 45.24
-- &id032
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 278.63, while the Bangladeshi Taka continues to trade within its established
     122.74 to 123.18 band at 122.87. The
@@ -370,8 +338,7 @@ numeric_observations:
   - 122.74
   - 123.18
   - 122.87
-- &id033
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Dollar Index remains near 100. Detailed country reads follow on pages
     2 through 5.
@@ -380,8 +347,7 @@ numeric_observations:
   - 100.0
   - 2.0
   - 5.0
-- &id034
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Bangladesh and India April CPI prints both landed this week. Bangladesh
     rose to 9.04% from 8.71% in March,
@@ -389,8 +355,7 @@ numeric_observations:
   values:
   - 9.04
   - 8.71
-- &id035
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: with transport at 9.31% and housing-utilities at 8.92%. Taka stability
     appears to have contained the pass-
@@ -398,8 +363,7 @@ numeric_observations:
   values:
   - 9.31
   - 8.92
-- &id036
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: through compared with Pakistan at 10.9% and Turkey at 32.37%. India
     printed at 3.48% from 3.40%, still
@@ -409,8 +373,7 @@ numeric_observations:
   - 32.37
   - 3.48
   - 3.4
-- &id037
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: comfortably within the RBI's 2% to 6% tolerance band. Approximately
     one week now separates the sub-
@@ -418,24 +381,21 @@ numeric_observations:
   values:
   - 2.0
   - 6.0
-- &id038
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: continent from the practical closure of the monsoon window. The seven-week
     arc from Week 15 through Week
   unit: null
   values:
   - 15.0
-- &id039
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 21 has produced a configuration in which oil, freight, currencies,
     inflation, and now diplomacy all point to the
   unit: null
   values:
   - 21.0
-- &id040
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 21 of 2026 are on Page 5.
   unit: null
@@ -443,16 +403,14 @@ numeric_observations:
   - 21.0
   - 2026.0
   - 5.0
-- &id041
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 21 with USD/BDT at approximately 122.87, fully
     within the 122.74 to
@@ -461,24 +419,21 @@ numeric_observations:
   - 21.0
   - 122.87
   - 122.74
-- &id043
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 123.18 band that has now defined Q2 in its entirety. The Taka has not
     breached that range in either
   unit: null
   values:
   - 123.18
-- &id044
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: direction through the diplomatic whipsaw, Brent's recovery, the May
     20 "final stages" headlines,
   unit: null
   values:
   - 20.0
-- &id045
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: the Indian Rupee's decisive break of 96, or the Turkish Lira's break
     to 45.58. The Dollar Index
@@ -486,24 +441,21 @@ numeric_observations:
   values:
   - 96.0
   - 45.58
-- &id046
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: remains near 100, and the central bank has continued to absorb proportional
     Taka pressure without
   unit: null
   values:
   - 100.0
-- &id047
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: forced devaluation. Foreign exchange reserves of approximately USD
     34.12 billion remain the
   unit: usd
   values:
   - 34.12
-- &id048
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: operative buffer. Local steel plate prices have softened to a BDT 66,700
     to BDT 67,500 range, with
@@ -511,8 +463,7 @@ numeric_observations:
   values:
   - 66700.0
   - 67500.0
-- &id049
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: the USD equivalent at approximately USD 543 to USD 549 per ton, reflecting
     some mill-level easing
@@ -520,8 +471,7 @@ numeric_observations:
   values:
   - 543.0
   - 549.0
-- &id050
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: The Bangladesh Bureau of Statistics released the April 2026 CPI at
     9.04% year-on-year, up from
@@ -529,8 +479,7 @@ numeric_observations:
   values:
   - 2026.0
   - 9.04
-- &id051
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 8.71% in March, with non-food inflation rising to 9.57% from 9.09%.
     The composition reflects the
@@ -539,8 +488,7 @@ numeric_observations:
   - 8.71
   - 9.57
   - 9.09
-- &id052
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 'war shock pass-through landing in measurable form: transport prices
     up 9.31% versus 7.47% in'
@@ -548,8 +496,7 @@ numeric_observations:
   values:
   - 9.31
   - 7.47
-- &id053
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: March, housing and utilities up 8.92% versus 8.43%, and food and non-alcoholic
     beverages up
@@ -557,8 +504,7 @@ numeric_observations:
   values:
   - 8.92
   - 8.43
-- &id054
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 8.39% versus 8.24%. On a monthly basis, prices eased to 0.7% from the
     five-month high of 0.89% in
@@ -568,8 +514,7 @@ numeric_observations:
   - 8.24
   - 0.7
   - 0.89
-- &id055
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: March. The print is materially below Pakistan's 10.9% and Turkey's
     32.37%, validating the Week
@@ -577,32 +522,28 @@ numeric_observations:
   values:
   - 10.9
   - 32.37
-- &id056
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 20 thesis that Taka stability through the Q2 band would substantially
     insulate the basket from the
   unit: null
   values:
   - 20.0
-- &id057
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: ceiling for converting demand into executed beachings before yards
     must slow cycles. The May 20
   unit: null
   values:
   - 20.0
-- &id058
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Brent collapse to USD 105 on the supertanker crossings and the "final
     stages" framing has lowered
   unit: usd
   values:
   - 105.0
-- &id059
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: the bunker cost floor that had reinforced the trading earnings premium
     through Weeks 18 to 20.
@@ -610,23 +551,20 @@ numeric_observations:
   values:
   - 18.0
   - 20.0
-- &id060
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Glas Dowr FPSO 27,824 Undisclosed Price (‘as is' Karimun Island)
   unit: null
   values:
   - 27824.0
-- &id061
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: USD/INR has broken decisively above 96 to print a fresh all-time high
     of approximately 96.97 on May
@@ -634,8 +572,7 @@ numeric_observations:
   values:
   - 96.0
   - 96.97
-- &id063
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 21, surpassing the Week 20 record of 95.71 and the prior intermediate
     records of 95.27 on May 4 and
@@ -646,8 +583,7 @@ numeric_observations:
   - 95.71
   - 95.27
   - 4.0
-- &id064
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 94.42 in Week 14. The week traded in a 95.71 to 96.97 range, with closing
     prints accelerating from
@@ -657,8 +593,7 @@ numeric_observations:
   - 14.0
   - 95.71
   - 96.97
-- &id065
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 96.5685 on May 19 to 96.71 on May 20, and finally to the 96.97 high
     on May 21. The Reserve Bank of
@@ -670,8 +605,7 @@ numeric_observations:
   - 20.0
   - 96.97
   - 21.0
-- &id066
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: India's intervention posture remains restrained. The May 20 Brent collapse
     to USD 105 on the "final
@@ -679,15 +613,13 @@ numeric_observations:
   values:
   - 20.0
   - 105.0
-- &id067
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: have both flagged for late 2027.
   unit: null
   values:
   - 2027.0
-- &id068
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: India's April 2026 CPI printed at 3.48% year-on-year on May 12, up
     only 8 basis points from the March
@@ -697,8 +629,7 @@ numeric_observations:
   - 3.48
   - 12.0
   - 8.0
-- &id069
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 3.40% reading and comfortably within the RBI's 2% to 6% tolerance band
     for the 2026 to 2031 period.
@@ -709,8 +640,7 @@ numeric_observations:
   - 6.0
   - 2026.0
   - 2031.0
-- &id070
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Food inflation printed at 4.20%, while housing came in at 2.15%. The
     print is the cleanest possible
@@ -718,8 +648,7 @@ numeric_observations:
   values:
   - 4.2
   - 2.15
-- &id071
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 'sub-continent economy: Pakistan''s April CPI was 10.9%, Turkey''s
     32.37%, and Bangladesh''s 9.04%.'
@@ -728,16 +657,14 @@ numeric_observations:
   - 10.9
   - 32.37
   - 9.04
-- &id072
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: The new CPI base year of 2024 and the supply-side resilience in food
     and core services have offset what
   unit: null
   values:
   - 2024.0
-- &id073
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang traded in an INR 38,800 to INR 39,500
     range through the week, with
@@ -745,8 +672,7 @@ numeric_observations:
   values:
   - 38800.0
   - 39500.0
-- &id074
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: the USD equivalent at approximately USD 400 to USD 408 per ton at the
     prevailing 96.97 exchange rate,
@@ -755,24 +681,21 @@ numeric_observations:
   - 400.0
   - 408.0
   - 96.97
-- &id075
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id076
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id077
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Pakistan's Week 21 has extended the unusual configuration that defined
     Week 20. While the Indian
@@ -780,8 +703,7 @@ numeric_observations:
   values:
   - 21.0
   - 20.0
-- &id078
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: Ru pee anchored. Rupee broke decisively above 96 to a fresh record
     of 96.97 and the Turkish Lira broke to a fresh
@@ -789,8 +711,7 @@ numeric_observations:
   values:
   - 96.0
   - 96.97
-- &id079
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: record of 45.58, USD/PKR has held at approximately 278.63 at the interbank
     level on May 21,
@@ -799,8 +720,7 @@ numeric_observations:
   - 45.58
   - 278.63
   - 21.0
-- &id080
-  section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: essentially unchanged from the Week 20 close of 278.58 and the prior
     Week 19 close of 279.61.
@@ -1149,86 +1069,704 @@ section_count: 3
 signals:
   numeric_observation_count: 155
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The Week 20 "stalemate holds" thesis has been materially challenged
+      by the most concrete reopening signal of the war. President Trumpstated on May
+      20 that the United States is "in the final stages of talks with Iran," while
+      satellite tracking data showed three
+    unit: pct
+    values:
+    - 20.0
+    - 20.0
+    - 14.0
+    - 15.0
+    - 5.0
+    - 20.0
+    - 105.29
+    - 99.85
+  - section: Main
+    section_type: null
+    source_line: 'The structural counterweights remain. ADNOC''s CEO said this week
+      that full recovery in Middle Eastern oil flows is unlikely before late 2027,
+      joining Aramco''s Nasser in setting a longer rebalancing horizon. OPEC''s May
+      monthly report cut its 2026 global demand '
+    unit: null
+    values:
+    - 2027.0
+    - 2026.0
+    - 1.17
+    - 1.38
+    - 1.74
+  - section: Main
+    section_type: null
+    source_line: Freight has consolidated, not collapsed. The Baltic Dry Index closed
+      at 3,005 on May 20 after peaking above 3,092 on May 18. The Baltic Capesize
+      Index cooled to 4,880, with daily Capesize earnings at USD 40,760, off prior-week
+      highs near USD 43,000. The Baltic
+    unit: usd
+    values:
+    - 3005.0
+    - 20.0
+    - 3092.0
+    - 18.0
+    - 4880.0
+    - 40760.0
+    - 43000.0
+    - 20548.0
+    - 22691.0
+    - 19800.0
+  - section: Main
+    section_type: null
+    source_line: 'Currency divergence has widened to its sharpest configuration of
+      the year. The Indian Rupee has decisively broken 96, with USD/INR touching a
+      fresh all-time high of approximately 96.97 on May 21 and the week trading in
+      a 95.71 to 96.97 range. The Turkish Lira '
+    unit: usd_per_unit
+    values:
+    - 96.0
+    - 96.97
+    - 21.0
+    - 95.71
+    - 96.97
+    - 45.58
+    - 19.0
+    - 45.24
+    - 278.63
+    - 122.74
+  - section: Main
+    section_type: null
+    source_line: Bangladesh and India April CPI prints both landed this week. Bangladesh
+      rose to 9.04% from 8.71% in March, with transport at 9.31% and housing-utilities
+      at 8.92%. Taka stability appears to have contained the pass-through compared
+      with Pakistan at 10.9% and Tur
+    unit: pct
+    values:
+    - 9.04
+    - 8.71
+    - 9.31
+    - 8.92
+    - 10.9
+    - 32.37
+    - 3.48
+    - 3.4
+    - 2.0
+    - 6.0
+  - section: Main
+    section_type: null
+    source_line: For Week 21 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 21.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 120874.png'
+    unit: null
+    values:
+    - 120874.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    unit: null
+    values:
+    - 2026.0
+    - -5.0
+    - -25.0
+    - 21.0
+    - 120874.0
+    - 6.0
+    - 6.0
+    - 40.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: PNG 685x155 mode=RGBA'
+    unit: null
+    values:
+    - 685.0
+    - 55.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    section_type: linked_image_asset
+    source_line: 'dpi: (119.9896, 119.9896)'
+    unit: null
+    values:
+    - 119.9896
+    - 119.9896
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    section_type: linked_image_asset
+    source_line: '| 2 | Pakistan | Firming | 445-450/ LDT | 465-470/ LDT | 475-480/
+      LDT |'
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
+    section_type: linked_image_asset
+    source_line: '| 4 [Turkey | Softening | 268.270/ LDT | 278-280 / LDT | 288-290/
+      LDT |'
+    unit: null
+    values:
+    - 4.0
+    - 268.27
+    - 278.0
+    - -280.0
+    - 288.0
+    - -290.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: May 22nd , 2026
+    unit: null
+    values:
+    - 22.0
+    - 2026.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Week 21
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1236
+    unit: null
+    values:
+    - 282.0
+    - 1236.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: The Week 20 "stalemate holds" thesis has been materially challenged
+      by the most concrete reopening signal of
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: the war. President Trump stated on May 20 that the United States
+      is "in the final stages of talks with Iran,"
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: since March. The Trump-Xi summit in Beijing on May 14 and 15 added
+      a further diplomatic layer, with Xi
+    unit: null
+    values:
+    - 14.0
+    - 15.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 5% on May 20 to USD 105.29, with WTI at USD 99.85.
+    unit: pct
+    values:
+    - 5.0
+    - 20.0
+    - 105.29
+    - 99.85
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: flows is unlikely before late 2027, joining Aramco's Nasser in setting
+      a longer rebalancing horizon. OPEC's May
+    unit: null
+    values:
+    - 2027.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: • Brent eases. m onthly report cut its 2026 global demand growth
+      forecast to 1.17 million barrels per day from 1.38 million,
+    unit: null
+    values:
+    - 2026.0
+    - 1.17
+    - 1.38
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: citing the conflict's impact on trade flows, while OPEC+ output fell
+      approximately 1.74 million barrels per day
+    unit: null
+    values:
+    - 1.74
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Freight has consolidated, not collapsed. The Baltic Dry Index closed
+      at 3,005 on May 20 after peaking above
+    unit: null
+    values:
+    - 3005.0
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 3,092 on May 18. The Baltic Capesize Index cooled to 4,880, with
+      daily Capesize earnings at USD 40,760, off
+    unit: usd
+    values:
+    - 3092.0
+    - 18.0
+    - 4880.0
+    - 40760.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: prior-week highs near USD 43,000. The Baltic Panamax Index P5TC has
+      been the standout, rallying from USD
+    unit: usd
+    values:
+    - 43000.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 20,548 on Monday to USD 22,691 by Friday, while Supramax held broadly
+      stable near USD 19,800 per day and
+    unit: usd
+    values:
+    - 20548.0
+    - 22691.0
+    - 19800.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Handysize near USD 15,300. The dry bulk earnings premium has eased
+      from its peak, but remains high enough
+    unit: usd
+    values:
+    - 15300.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: broken 96, with USD/INR touching a fresh all-time high of approximately
+      96.97 on May 21 and the week trading
+    unit: usd_per_unit
+    values:
+    - 96.0
+    - 96.97
+    - 21.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: in a 95.71 to 96.97 range. The Turkish Lira has broken to a fresh
+      record of approximately 45.58, surpassing the
+    unit: null
+    values:
+    - 95.71
+    - 96.97
+    - 45.58
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Week 19 reference of 45.24. The Pakistani Rupee has sustained its
+      counterintuitive firming at approximately
+    unit: null
+    values:
+    - 19.0
+    - 45.24
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 278.63, while the Bangladeshi Taka continues to trade within its
+      established 122.74 to 123.18 band at 122.87. The
+    unit: null
+    values:
+    - 278.63
+    - 122.74
+    - 123.18
+    - 122.87
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Dollar Index remains near 100. Detailed country reads follow on pages
+      2 through 5.
+    unit: null
+    values:
+    - 100.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh and India April CPI prints both landed this week. Bangladesh
+      rose to 9.04% from 8.71% in March,
+    unit: pct
+    values:
+    - 9.04
+    - 8.71
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: with transport at 9.31% and housing-utilities at 8.92%. Taka stability
+      appears to have contained the pass-
+    unit: pct
+    values:
+    - 9.31
+    - 8.92
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: through compared with Pakistan at 10.9% and Turkey at 32.37%. India
+      printed at 3.48% from 3.40%, still
+    unit: pct
+    values:
+    - 10.9
+    - 32.37
+    - 3.48
+    - 3.4
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: comfortably within the RBI's 2% to 6% tolerance band. Approximately
+      one week now separates the sub-
+    unit: pct
+    values:
+    - 2.0
+    - 6.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: continent from the practical closure of the monsoon window. The seven-week
+      arc from Week 15 through Week
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 21 has produced a configuration in which oil, freight, currencies,
+      inflation, and now diplomacy all point to the
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 21 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 21.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 21 with USD/BDT at approximately 122.87, fully
+      within the 122.74 to
+    unit: usd_per_unit
+    values:
+    - 21.0
+    - 122.87
+    - 122.74
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 123.18 band that has now defined Q2 in its entirety. The Taka has
+      not breached that range in either
+    unit: null
+    values:
+    - 123.18
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: direction through the diplomatic whipsaw, Brent's recovery, the May
+      20 "final stages" headlines,
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: the Indian Rupee's decisive break of 96, or the Turkish Lira's break
+      to 45.58. The Dollar Index
+    unit: null
+    values:
+    - 96.0
+    - 45.58
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: remains near 100, and the central bank has continued to absorb proportional
+      Taka pressure without
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: forced devaluation. Foreign exchange reserves of approximately USD
+      34.12 billion remain the
+    unit: usd
+    values:
+    - 34.12
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: operative buffer. Local steel plate prices have softened to a BDT
+      66,700 to BDT 67,500 range, with
+    unit: null
+    values:
+    - 66700.0
+    - 67500.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: the USD equivalent at approximately USD 543 to USD 549 per ton, reflecting
+      some mill-level easing
+    unit: usd
+    values:
+    - 543.0
+    - 549.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: The Bangladesh Bureau of Statistics released the April 2026 CPI at
+      9.04% year-on-year, up from
+    unit: pct
+    values:
+    - 2026.0
+    - 9.04
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 8.71% in March, with non-food inflation rising to 9.57% from 9.09%.
+      The composition reflects the
+    unit: pct
+    values:
+    - 8.71
+    - 9.57
+    - 9.09
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 'war shock pass-through landing in measurable form: transport prices
+      up 9.31% versus 7.47% in'
+    unit: pct
+    values:
+    - 9.31
+    - 7.47
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: March, housing and utilities up 8.92% versus 8.43%, and food and
+      non-alcoholic beverages up
+    unit: pct
+    values:
+    - 8.92
+    - 8.43
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 8.39% versus 8.24%. On a monthly basis, prices eased to 0.7% from
+      the five-month high of 0.89% in
+    unit: pct
+    values:
+    - 8.39
+    - 8.24
+    - 0.7
+    - 0.89
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: March. The print is materially below Pakistan's 10.9% and Turkey's
+      32.37%, validating the Week
+    unit: pct
+    values:
+    - 10.9
+    - 32.37
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 20 thesis that Taka stability through the Q2 band would substantially
+      insulate the basket from the
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: ceiling for converting demand into executed beachings before yards
+      must slow cycles. The May 20
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Brent collapse to USD 105 on the supertanker crossings and the "final
+      stages" framing has lowered
+    unit: usd
+    values:
+    - 105.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: the bunker cost floor that had reinforced the trading earnings premium
+      through Weeks 18 to 20.
+    unit: null
+    values:
+    - 18.0
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Glas Dowr FPSO 27,824 Undisclosed Price (‘as is' Karimun Island)
+    unit: null
+    values:
+    - 27824.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR has broken decisively above 96 to print a fresh all-time
+      high of approximately 96.97 on May
+    unit: usd_per_unit
+    values:
+    - 96.0
+    - 96.97
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 21, surpassing the Week 20 record of 95.71 and the prior intermediate
+      records of 95.27 on May 4 and
+    unit: null
+    values:
+    - 21.0
+    - 20.0
+    - 95.71
+    - 95.27
+    - 4.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 94.42 in Week 14. The week traded in a 95.71 to 96.97 range, with
+      closing prints accelerating from
+    unit: null
+    values:
+    - 94.42
+    - 14.0
+    - 95.71
+    - 96.97
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 96.5685 on May 19 to 96.71 on May 20, and finally to the 96.97 high
+      on May 21. The Reserve Bank of
+    unit: null
+    values:
+    - 96.5685
+    - 19.0
+    - 96.71
+    - 20.0
+    - 96.97
+    - 21.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: India's intervention posture remains restrained. The May 20 Brent
+      collapse to USD 105 on the "final
+    unit: usd
+    values:
+    - 20.0
+    - 105.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: have both flagged for late 2027.
+    unit: null
+    values:
+    - 2027.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: India's April 2026 CPI printed at 3.48% year-on-year on May 12, up
+      only 8 basis points from the March
+    unit: pct
+    values:
+    - 2026.0
+    - 3.48
+    - 12.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 3.40% reading and comfortably within the RBI's 2% to 6% tolerance
+      band for the 2026 to 2031 period.
+    unit: pct
+    values:
+    - 3.4
+    - 2.0
+    - 6.0
+    - 2026.0
+    - 2031.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Food inflation printed at 4.20%, while housing came in at 2.15%.
+      The print is the cleanest possible
+    unit: pct
+    values:
+    - 4.2
+    - 2.15
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: 'sub-continent economy: Pakistan''s April CPI was 10.9%, Turkey''s
+      32.37%, and Bangladesh''s 9.04%.'
+    unit: pct
+    values:
+    - 10.9
+    - 32.37
+    - 9.04
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: The new CPI base year of 2024 and the supply-side resilience in food
+      and core services have offset what
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang traded in an INR 38,800 to INR
+      39,500 range through the week, with
+    unit: null
+    values:
+    - 38800.0
+    - 39500.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: the USD equivalent at approximately USD 400 to USD 408 per ton at
+      the prevailing 96.97 exchange rate,
+    unit: usd
+    values:
+    - 400.0
+    - 408.0
+    - 96.97
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's Week 21 has extended the unusual configuration that defined
+      Week 20. While the Indian
+    unit: null
+    values:
+    - 21.0
+    - 20.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: Ru pee anchored. Rupee broke decisively above 96 to a fresh record
+      of 96.97 and the Turkish Lira broke to a fresh
+    unit: null
+    values:
+    - 96.0
+    - 96.97
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: record of 45.58, USD/PKR has held at approximately 278.63 at the
+      interbank level on May 21,
+    unit: usd_per_unit
+    values:
+    - 45.58
+    - 278.63
+    - 21.0
+  - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+    section_type: linked_pdf
+    source_line: essentially unchanged from the Week 20 close of 278.58 and the prior
+      Week 19 close of 279.61.
+    unit: null
+    values:
+    - 20.0
+    - 278.58
+    - 19.0
+    - 279.61
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-05-25_gms-week-21-passage-opens-window-closes.html
 source_stem: 2026-05-25_gms-week-21-passage-opens-window-closes

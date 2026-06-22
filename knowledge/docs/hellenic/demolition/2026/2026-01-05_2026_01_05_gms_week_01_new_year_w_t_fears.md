@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 81
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: After what only seemed like a calm period while Donald Trump was flailing
     in the polls amid ongoing scandals andinvestigations, he ramped it up and brought
@@ -40,8 +39,7 @@ numeric_observations:
   unit: null
   values:
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: While Trump's true intentions remain unclear (just yet), it's only
     a matter of time before we see how global / oil / shipping markets react in the
@@ -51,8 +49,7 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: In the meantime, global economies delivered mixed signals as U.S. stocks
     maintained a steady decline over the tail-end of December, China's industrial
@@ -63,8 +60,7 @@ numeric_observations:
   - 60.0
   - 57.17
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: In the ship recycling markets overall, increasingly decisive times
     lie ahead for Bangladesh as a nation given that impending elections are nearing
@@ -75,8 +71,7 @@ numeric_observations:
   - 2025.0
   - 2026.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 01 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -84,8 +79,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   unit: null
@@ -97,23 +91,20 @@ numeric_observations:
   - 5012234.0
   - 3905.0
   - 351.0
-- &id007
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: January 2 nd, 2026
   unit: null
   values:
   - 2.0
   - 2026.0
-- &id008
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Week 1
   unit: null
   values:
   - 1.0
-- &id009
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Volume 2 80, Issue 1217 - Cormac McCarthy
   unit: null
@@ -121,31 +112,27 @@ numeric_observations:
   - 2.0
   - 80.0
   - 1217.0
-- &id010
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: ongoing scandals and investigations, he ramped it up and brought 2026
     in with a literal BANG via
   unit: null
   values:
   - 2026.0
-- &id011
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: and after all the geopolitical craziness that gripped - and impacted
     - us through 2025, I don't
   unit: null
   values:
   - 2025.0
-- &id012
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: madness this soon in 2026.
   unit: null
   values:
   - 2026.0
-- &id013
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: slip on its way to USD 60/barrel even though it climbed to USD 57.17/barrel
     this week, local steel
@@ -153,24 +140,21 @@ numeric_observations:
   values:
   - 60.0
   - 57.17
-- &id014
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: improvement over the first week of 2026, as busier and less challenging
     times hopefully lie ahead.
   unit: null
   values:
   - 2026.0
-- &id015
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: that Pakistan and India both made improvements as December 2025 ended,
     and they moved up the
   unit: null
   values:
   - 2025.0
-- &id016
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: tonnage for a while longer - it seems as though 2026 is taking on the
     mantle from 2025!
@@ -178,38 +162,33 @@ numeric_observations:
   values:
   - 2026.0
   - 2025.0
-- &id017
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: AND ALL THE BEST FOR 2026!
   unit: null
   values:
   - 2026.0
-- &id018
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Ever since the tonnage engorgement back in November 2025, the Bangladeshi
     ship recycling
   unit: null
   values:
   - 2025.0
-- &id020
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: US D 50/LDT decline.
   unit: null
   values:
   - 50.0
-- &id021
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Levels have shockingly come off by about USD 50/LDT since the highs
     of Q4 2025 - an
@@ -217,62 +196,54 @@ numeric_observations:
   values:
   - 50.0
   - 2025.0
-- &id022
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Zia, last week at the age of 80 also sent much of the country into
     mourning, as these uncertain and
   unit: null
   values:
   - 80.0
-- &id023
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: BDT 122.30.
   unit: null
   values:
   - 122.3
-- &id024
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: The Indian market surged by nearly USD 30/LDT over the last week, sending
     Alang soaring to the top
   unit: usd
   values:
   - 30.0
-- &id026
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: of the price rankings board for the first time in over a quarter, as
     2026 began on a far cheerier note than
   unit: null
   values:
   - 2026.0
-- &id027
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: the end of 2025 would otherwise seem to suggest.
   unit: null
   values:
   - 2025.0
-- &id028
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Surprisingly, despite the U.S. Dollar gaining 20 basis points against
     the Indian Rupee and closing the
   unit: null
   values:
   - 20.0
-- &id029
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: week at Rs. 90.28 - breaching into the dread Rs. 90s once again, demand
     still managed to improve and,
@@ -280,24 +251,21 @@ numeric_observations:
   values:
   - 90.28
   - 90.0
-- &id030
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: after a fairly woeful 2025, Alang recyclers can be a touch more optimistic
     heading into what many are
   unit: null
   values:
   - 2025.0
-- &id031
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: awaiting entry onto the port report so it's only a matter of time before
     their scoreboard for 2026 starts
   unit: null
   values:
   - 2026.0
-- &id032
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: June 26, 2025, when it formally kicked into gear. With Bangladesh overstuffed
     and facing a clear
@@ -305,24 +273,21 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id033
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Local offerings are still positioned below USD 400/LDT on a majority
     of the tonnage being
   unit: usd
   values:
   - 400.0
-- &id035
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: presented locally, and it has been a fairly inert December 2025/first
     week of January 2026, after a
@@ -330,23 +295,20 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id036
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: promising few months in 2025 that briefly saw Gadani top the price
     board and have a flush
   unit: null
   values:
   - 2025.0
-- &id037
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Below 400.
   unit: null
   values:
   - 400.0
-- &id038
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: the status quo and the PKR losing 20 basis points, though it still
     managed to stay within PKR 280
@@ -354,54 +316,47 @@ numeric_observations:
   values:
   - 20.0
   - 280.0
-- &id039
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: territory as it wound the week down at PKR 280.62. Domestically, there
     was good news for the
   unit: null
   values:
   - 280.62
-- &id040
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Ind ignity. nation's economy as well with inflation reporting a sharp
     drop down to 5.6%, its lowest level since
   unit: pct
   values:
   - 5.6
-- &id041
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: August 2025.
   unit: null
   values:
   - 2025.0
-- &id042
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: anchorages aren't how Gadani recyclers anticipated the start of 2026.
   unit: null
   values:
   - 2026.0
-- &id043
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Aliaga recyclers seems to be chilling on an extended 2025 holiday on
     the sidelines, with nothing more
   unit: null
   values:
   - 2025.0
-- &id045
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: than the Lira sinking further by another 26 basis points and locking
     itself in firmly into TRY 43
@@ -409,15 +364,13 @@ numeric_observations:
   values:
   - 26.0
   - 43.0
-- &id046
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: territory, as it closes the week out at TRY 43.03.
   unit: null
   values:
   - 43.03
-- &id047
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: For Week 1 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -425,8 +378,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id048
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 1 India Firming 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -435,8 +387,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id049
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
   unit: null
@@ -445,8 +396,7 @@ numeric_observations:
   - 390.0
   - 410.0
   - 420.0
-- &id050
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -455,8 +405,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id051
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -465,16 +414,14 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id052
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line:  By one calculation, spending on AI accounted for 92 percent of America's
     GDP growth in the first half of 2025.
@@ -482,32 +429,28 @@ numeric_observations:
   values:
   - 92.0
   - 2025.0
-- &id054
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line:  During the late 1800s, baseball players experimented with four-sided
     bats.
   unit: null
   values:
   - 1800.0
-- &id055
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line:  And in the early 1970s, Little League tried to prevent girls from
     playing baseball by saying that being hit with a ball
   unit: null
   values:
   - 1970.0
-- &id056
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line:  On a single day in 1900, a former schoolteacher destroyed three saloons
     using bricks, rocks, and a billiard ball-all to
   unit: null
   values:
   - 1900.0
-- &id057
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve January 01 - January 08
   unit: null
@@ -515,8 +458,7 @@ numeric_observations:
   - 31.0
   - 1.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Years Day January 17 - January 24
   unit: null
@@ -524,8 +466,7 @@ numeric_observations:
   - 1.0
   - 17.0
   - 24.0
-- &id059
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: January 14 - Pongal January 30 - February 06
   unit: null
@@ -533,15 +474,13 @@ numeric_observations:
   - 14.0
   - 30.0
   - 6.0
-- &id060
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day
   unit: null
   values:
   - 26.0
-- &id061
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday January 03 - January 06
   unit: null
@@ -549,40 +488,35 @@ numeric_observations:
   - 31.0
   - 3.0
   - 6.0
-- &id062
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: No Holidays in January January 21 - January 24
   unit: null
   values:
   - 21.0
   - 24.0
-- &id063
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 02, 2026
   unit: null
   values:
   - 2.0
   - 2026.0
-- &id065
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 02, 2026
   unit: null
   values:
   - 2.0
   - 2026.0
-- &id066
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 1 Gold Origin 2,486 General Cargo Arrived January 02
   unit: null
@@ -590,8 +524,7 @@ numeric_observations:
   - 1.0
   - 2486.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 2 K Asia 29,686 LNG / Gas Carrier Arrived December 31
   unit: null
@@ -599,8 +532,7 @@ numeric_observations:
   - 2.0
   - 29686.0
   - 31.0
-- &id068
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 3 Maple (Under Tow) 1,302 Tanker Delivered January 01
   unit: null
@@ -608,8 +540,7 @@ numeric_observations:
   - 3.0
   - 1302.0
   - 1.0
-- &id069
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 4 Victor 6,086 Bulk Carrier Arrived January 02
   unit: null
@@ -617,31 +548,27 @@ numeric_observations:
   - 4.0
   - 6086.0
   - 2.0
-- &id070
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 39,560
   unit: null
   values:
   - 39560.0
-- &id071
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 02, 2026
   unit: null
   values:
   - 2.0
   - 2026.0
-- &id072
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -650,8 +577,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id074
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -660,8 +586,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id075
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -670,8 +595,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id076
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -680,8 +604,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id077
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -690,8 +613,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id078
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   unit: null
@@ -703,16 +625,14 @@ numeric_observations:
   - 5012234.0
   - 3905.0
   - 351.0
-- &id079
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 975x212 mode=RGB'
   unit: null
   values:
   - 975.0
   - 12.0
-- &id080
-  section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+- section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
@@ -738,86 +658,615 @@ section_count: 3
 signals:
   numeric_observation_count: 81
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: After what only seemed like a calm period while Donald Trump was
+      flailing in the polls amid ongoing scandals andinvestigations, he ramped it
+      up and brought 2026 in with a literal BANG via his latest incursion into - and
+      seizure of - President Nicolas Maduro an
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: While Trump's true intentions remain unclear (just yet), it's only
+      a matter of time before we see how global / oil / shipping markets react in
+      the coming week(s) to this globally dictatorial move that has most certainly
+      violated a long list of international la
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: In the meantime, global economies delivered mixed signals as U.S.
+      stocks maintained a steady decline over the tail-end of December, China's industrial
+      growth slowed, and EU stocks reportedly surged. The U.S. Dollar started the
+      year off-balance against ship rec
+    unit: usd
+    values:
+    - 60.0
+    - 57.17
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: In the ship recycling markets overall, increasingly decisive times
+      lie ahead for Bangladesh as a nation given that impending elections are nearing
+      by the week and the country is being increasingly submerged by political protests,
+      rioting, and instances of viol
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 01 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -5.0
+    - 1.0
+    - 5012234.0
+    - 3905.0
+    - 351.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: January 2 nd, 2026
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Week 1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 80, Issue 1217 - Cormac McCarthy
+    unit: null
+    values:
+    - 2.0
+    - 80.0
+    - 1217.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: ongoing scandals and investigations, he ramped it up and brought
+      2026 in with a literal BANG via
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: and after all the geopolitical craziness that gripped - and impacted
+      - us through 2025, I don't
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: madness this soon in 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: slip on its way to USD 60/barrel even though it climbed to USD 57.17/barrel
+      this week, local steel
+    unit: usd
+    values:
+    - 60.0
+    - 57.17
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: improvement over the first week of 2026, as busier and less challenging
+      times hopefully lie ahead.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: that Pakistan and India both made improvements as December 2025 ended,
+      and they moved up the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: tonnage for a while longer - it seems as though 2026 is taking on
+      the mantle from 2025!
+    unit: null
+    values:
+    - 2026.0
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: AND ALL THE BEST FOR 2026!
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Ever since the tonnage engorgement back in November 2025, the Bangladeshi
+      ship recycling
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: US D 50/LDT decline.
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Levels have shockingly come off by about USD 50/LDT since the highs
+      of Q4 2025 - an
+    unit: usd
+    values:
+    - 50.0
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Zia, last week at the age of 80 also sent much of the country into
+      mourning, as these uncertain and
+    unit: null
+    values:
+    - 80.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: BDT 122.30.
+    unit: null
+    values:
+    - 122.3
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: The Indian market surged by nearly USD 30/LDT over the last week,
+      sending Alang soaring to the top
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: of the price rankings board for the first time in over a quarter,
+      as 2026 began on a far cheerier note than
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: the end of 2025 would otherwise seem to suggest.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Surprisingly, despite the U.S. Dollar gaining 20 basis points against
+      the Indian Rupee and closing the
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: week at Rs. 90.28 - breaching into the dread Rs. 90s once again,
+      demand still managed to improve and,
+    unit: null
+    values:
+    - 90.28
+    - 90.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: after a fairly woeful 2025, Alang recyclers can be a touch more optimistic
+      heading into what many are
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: awaiting entry onto the port report so it's only a matter of time
+      before their scoreboard for 2026 starts
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: June 26, 2025, when it formally kicked into gear. With Bangladesh
+      overstuffed and facing a clear
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Local offerings are still positioned below USD 400/LDT on a majority
+      of the tonnage being
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: presented locally, and it has been a fairly inert December 2025/first
+      week of January 2026, after a
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: promising few months in 2025 that briefly saw Gadani top the price
+      board and have a flush
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Below 400.
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: the status quo and the PKR losing 20 basis points, though it still
+      managed to stay within PKR 280
+    unit: null
+    values:
+    - 20.0
+    - 280.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: territory as it wound the week down at PKR 280.62. Domestically,
+      there was good news for the
+    unit: null
+    values:
+    - 280.62
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Ind ignity. nation's economy as well with inflation reporting a sharp
+      drop down to 5.6%, its lowest level since
+    unit: pct
+    values:
+    - 5.6
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: August 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: anchorages aren't how Gadani recyclers anticipated the start of 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Aliaga recyclers seems to be chilling on an extended 2025 holiday
+      on the sidelines, with nothing more
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: than the Lira sinking further by another 26 basis points and locking
+      itself in firmly into TRY 43
+    unit: null
+    values:
+    - 26.0
+    - 43.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: territory, as it closes the week out at TRY 43.03.
+    unit: null
+    values:
+    - 43.03
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: For Week 1 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 1.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Firming 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 390.0
+    - 410.0
+    - 420.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line:  By one calculation, spending on AI accounted for 92 percent of
+      America's GDP growth in the first half of 2025.
+    unit: null
+    values:
+    - 92.0
+    - 2025.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line:  During the late 1800s, baseball players experimented with four-sided
+      bats.
+    unit: null
+    values:
+    - 1800.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line:  And in the early 1970s, Little League tried to prevent girls from
+      playing baseball by saying that being hit with a ball
+    unit: null
+    values:
+    - 1970.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line:  On a single day in 1900, a former schoolteacher destroyed three
+      saloons using bricks, rocks, and a billiard ball-all to
+    unit: null
+    values:
+    - 1900.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve January 01 - January 08
+    unit: null
+    values:
+    - 31.0
+    - 1.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Years Day January 17 - January 24
+    unit: null
+    values:
+    - 1.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: January 14 - Pongal January 30 - February 06
+    unit: null
+    values:
+    - 14.0
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday January 03 - January 06
+    unit: null
+    values:
+    - 31.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in January January 21 - January 24
+    unit: null
+    values:
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 02, 2026
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 02, 2026
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 1 Gold Origin 2,486 General Cargo Arrived January 02
+    unit: null
+    values:
+    - 1.0
+    - 2486.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 2 K Asia 29,686 LNG / Gas Carrier Arrived December 31
+    unit: null
+    values:
+    - 2.0
+    - 29686.0
+    - 31.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 3 Maple (Under Tow) 1,302 Tanker Delivered January 01
+    unit: null
+    values:
+    - 3.0
+    - 1302.0
+    - 1.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 4 Victor 6,086 Bulk Carrier Arrived January 02
+    unit: null
+    values:
+    - 4.0
+    - 6086.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 39,560
+    unit: null
+    values:
+    - 39560.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 02, 2026
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -5.0
+    - 1.0
+    - 5012234.0
+    - 3905.0
+    - 351.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 975x212 mode=RGB'
+    unit: null
+    values:
+    - 975.0
+    - 12.0
+  - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-01-05_gms-week-01-new-year-w-t-fears.html
 source_stem: 2026-01-05_gms-week-01-new-year-w-t-fears

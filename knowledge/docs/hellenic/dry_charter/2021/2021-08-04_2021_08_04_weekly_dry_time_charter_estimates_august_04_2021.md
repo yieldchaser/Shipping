@@ -163,7 +163,8 @@ regions:
 - australia
 section_count: 2
 signals:
-  metric_units: []
+  metric_units:
+  - usd_per_day
   numeric_observation_count: 12
   numeric_observations:
   - *id001
@@ -179,6 +180,15 @@ signals:
   - *id011
   - *id012
   rate_observations:
+  - segment: supramax
+    source_line: Sentiment remains strong for the smaller sizes in both basins, particularly
+      in the Black Sea. Ultramax rates for four to six months continue to surpass
+      record highs with and are up this week by $3,500 to an estimated $40,000/pdpr.
+    timeframe: null
+    unit: usd_per_day
+    values:
+    - 3500.0
+    - 40000.0
   - segment: handysize
     source_line: HANDY & 29,500) 34,000); & 24,500)/= 24,000)@ 19,500| 20,000
     timeframe: null
@@ -201,6 +211,28 @@ signals:
     - 25500.0
     - 21000.0
     - 20000.0
+  - segment: supramax
+    source_line: ULTRAMAX | 40,000) 2 37,500); & 31,500)/4 30,000/= 25,000|= 24,000
+    timeframe: null
+    unit: null
+    values:
+    - 40000.0
+    - 37500.0
+    - 31500.0
+    - 30000.0
+    - 25000.0
+    - 24000.0
+  - segment: panamax
+    source_line: PANA/KMAX | 30,000| 28,500); ~ 29,000)" 25,000);= 32,000; 29,000
+    timeframe: null
+    unit: null
+    values:
+    - 30000.0
+    - 28500.0
+    - 29000.0
+    - 25000.0
+    - 32000.0
+    - 29000.0
   - segment: capesize
     source_line: CAPESIZE |= 32,250|)= 35,000| = 27,500\= 29,000)= 25,000 |= 26,000
     timeframe: null
@@ -215,7 +247,8 @@ signals:
   rate_summary:
     capesize: 26000.0
     handysize: 20000.0
-    supramax: 20000.0
+    panamax: 29000.0
+    supramax: 40000.0
   signal_family: hellenic_charter_rates
   timeframes: []
 source: hellenic

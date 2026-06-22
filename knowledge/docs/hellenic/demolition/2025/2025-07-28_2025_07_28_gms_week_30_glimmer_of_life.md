@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 108
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we stand on the eve of Week 31 this 2025, global market turmoil
     continues unimpeded as wars rage, freight markets firm,economies flutter, and
@@ -50,8 +49,7 @@ numeric_observations:
   - 1.0
   - 24.0
   - 2.3
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Notwithstanding, glimmers of life seem to be emerging from the Indian
     sub-continent ship recycling markets as offers on the large(r) LDT LNGs making
@@ -64,8 +62,7 @@ numeric_observations:
   - 600.0
   - 400.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 30 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -73,8 +70,7 @@ numeric_observations:
   values:
   - 30.0
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-07-28_gms-week-30-glimmer-of-life_img1_078967_7c87b9bdd9db.jpg'
   unit: null
@@ -86,31 +82,27 @@ numeric_observations:
   - 78967.0
   - 7.0
   - 7.0
-- &id005
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: July 25th, 2025
   unit: null
   values:
   - 25.0
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: Week 30
   unit: null
   values:
   - 30.0
-- &id007
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: Volume 274, Issue 1195
   unit: null
   values:
   - 274.0
   - 1195.0
-- &id008
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: • LNGs again. As we stand on the eve of Week 31 this 2025, glo bal
     market turmoil continues unimpeded as wars
@@ -118,24 +110,21 @@ numeric_observations:
   values:
   - 31.0
   - 2025.0
-- &id009
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: • Bottom out? strengthening against virtually all recycling destinations.
     U.S. inflation meanwhile climbs from 2.4%
   unit: pct
   values:
   - 2.4
-- &id010
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: to 2.7% in June as Turkey, India, Bangladesh, and even Pakistan all
     report declines in their respective
   unit: pct
   values:
   - 2.7
-- &id011
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: inflations. Oil futures also declined 1.3% to settle at USD 65.2 /
     barrel on the back of said U.S. trade
@@ -143,16 +132,14 @@ numeric_observations:
   values:
   - 1.3
   - 65.2
-- &id012
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: s anctions against Venezuela that could add a reported 200,0 0 barrels
     of oil to global supply-chain.
   unit: null
   values:
   - 2000.0
-- &id013
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: • Glimmers? with the Cape index surging 1% of its total annual value
     via a 24% gain just this week, all while the
@@ -160,24 +147,21 @@ numeric_observations:
   values:
   - 1.0
   - 24.0
-- &id014
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: Panamax and Supramax indices confoundingly fell 2.3% & 0.3% respectively.
   unit: pct
   values:
   - 2.3
   - 0.3
-- &id015
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: after the recent and significant decline of about USD 60/LDT in residual
     values from the highs of
   unit: usd
   values:
   - 60.0
-- &id016
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: USD 400s/LDT seen at the start of the year, including the massive USD
     600/LDT seen just 12 months
@@ -185,24 +169,21 @@ numeric_observations:
   values:
   - 400.0
   - 600.0
-- &id017
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: • Busier times await. prior. Moreover, we have also seen prices decline
     below USD 400/LDT during the historically slower
   unit: usd
   values:
   - 400.0
-- &id018
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: monsoon / summer months as several deals are still being fixed at those
     levels in 2025 as well.
   unit: null
   values:
   - 2025.0
-- &id019
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 30 of 2025 are on Page 5.
   unit: null
@@ -210,32 +191,28 @@ numeric_observations:
   - 30.0
   - 2025.0
   - 5.0
-- &id020
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: its fall against the U.S. Dollar once again, as it declined 65-basis
     points this week down to BDT
   unit: null
   values:
   - 65.0
-- &id022
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 122.18. Even local steel plate prices were not spared from the brunt
     of recent steel fixtures by
   unit: null
   values:
   - 122.18
-- &id023
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: domestic steel mills at region USD 330/Ton, resulting in plate prices
     retreating nearly USD 2/Ton
@@ -243,8 +220,7 @@ numeric_observations:
   values:
   - 330.0
   - 2.0
-- &id024
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: falling to 8.48% in June (down from nearly 11% at the start of the
     year), but could likely start to rise
@@ -252,16 +228,14 @@ numeric_observations:
   values:
   - 8.48
   - 11.0
-- &id025
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 2nd and 3rd place on the market rankings a lot more than as historically
     has been the case.
@@ -269,16 +243,14 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id027
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: successfully committed to Alang buyers as ADNOC controlled GHASHA (33,406
     LDT) and AL
   unit: null
   values:
   - 33406.0
-- &id028
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: KHAZNAH (33,456 LDT) were both fixed on an en bloc basis, for an extremely
     firm USD 42.9 million
@@ -286,16 +258,14 @@ numeric_observations:
   values:
   - 33456.0
   - 42.9
-- &id029
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: (about USD 641.50/LDT) basis an ‘as is' Malaysia delivery - the strong
     price being attributed to the
   unit: usd
   values:
   - 641.5
-- &id030
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: this week, with 11 vessels (including a large LDT tanker) and over
     107,000 tons of recycling tonnage
@@ -303,8 +273,7 @@ numeric_observations:
   values:
   - 11.0
   - 107000.0
-- &id031
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: brethren against U.S. Dollar that saw it falling 40 basis points to
     Rs. 86.48, it was local steel plate prices
@@ -312,40 +281,35 @@ numeric_observations:
   values:
   - 40.0
   - 86.48
-- &id032
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: that offered some Aspirin to local sentiments as levels reported firmed
     nearly USD 4/Ton this week
   unit: usd
   values:
   - 4.0
-- &id033
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GHASHA LNG 33,406 USD 42.9 Mill Enbloc ‘as is' Malaysia
   unit: usd
   values:
   - 33406.0
   - 42.9
-- &id034
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: AL KHAZNAH LNG 33,456 USD 42.9 Mill Enbloc ‘as is' Malaysia
   unit: usd
   values:
   - 33456.0
   - 42.9
-- &id035
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: markets witnessed both the RISING FALCON (5,694 LDT) and the RISING
     EAGLE (5,440 LDT)
@@ -353,16 +317,14 @@ numeric_observations:
   values:
   - 5694.0
   - 5440.0
-- &id037
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: fixed en bloc to cash buyers` basis a likely Pakistan redelivery, at
     a decent USD 446/LT LDT
   unit: usd
   values:
   - 446.0
-- &id038
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: including about 250 - 300 Tons of bunkers onboard at the time of delivery,
     contributing to almost
@@ -370,55 +332,48 @@ numeric_observations:
   values:
   - 250.0
   - 300.0
-- &id039
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: USD 20/LDT to the purchase price of the vessel.
   unit: usd
   values:
   - 20.0
-- &id040
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: year (sounds like 2024 wishes all over again) and as government bodies
     and end buyers finally
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: local steel plate prices stay marooned at region USD 615/Ton (still
     the highest in the industry), with
   unit: usd
   values:
   - 615.0
-- &id042
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: hand, the Pakistani Rupee made a surprise bounce, firming about 55
     basis points and end the week
   unit: null
   values:
   - 55.0
-- &id043
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: at PKR 283.20 against the U.S. Dollar. While certainly not a return
     to the saner days under PKR
   unit: null
   values:
   - 283.2
-- &id044
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 280, it is hopefully firm motivation enough for the rest of the recycling
     community to join in their
   unit: null
   values:
   - 280.0
-- &id045
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: USD 446/LT LDT (with about 250-300
   unit: usd
@@ -426,54 +381,47 @@ numeric_observations:
   - 446.0
   - 250.0
   - -300.0
-- &id046
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: RISING FALCON Bulker 5,694
   unit: null
   values:
   - 5694.0
-- &id047
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: RISING EAGLE Bulker 5,440
   unit: null
   values:
   - 5440.0
-- &id048
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 2025 leaving the country's domestic ship recycling sector in "Airplane
     mode", on the other hand, the
   unit: null
   values:
   - 2025.0
-- &id050
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: ongoing decline in Turkey's inflation rate has seen a drop from 42.12%
     back in January down to
   unit: pct
   values:
   - 42.12
-- &id051
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 35.15% back in June, which has reportedly resulted in the Turkish central
     bank favorably re-adjusting
   unit: pct
   values:
   - 35.15
-- &id052
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: subjected to another 50-basis point decline this week as well, ending
     it at TRY 40.56 against the U.S.
@@ -481,8 +429,7 @@ numeric_observations:
   values:
   - 50.0
   - 40.56
-- &id053
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: Mercifully, the benchmark interest rate saw a 300-basis point reduction
     to 43% and might hopefully
@@ -490,8 +437,7 @@ numeric_observations:
   values:
   - 300.0
   - 43.0
-- &id054
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: For Week 30 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -499,8 +445,7 @@ numeric_observations:
   values:
   - 30.0
   - 2025.0
-- &id055
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Weak 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -509,8 +454,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id056
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 415 / LDT 435 / LDT 445 / LDT
   unit: null
@@ -519,8 +463,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id057
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
   unit: null
@@ -529,8 +472,7 @@ numeric_observations:
   - 405.0
   - 425.0
   - 435.0
-- &id058
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -539,16 +481,14 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id059
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 09 - Raksha Bandhan July 21 - July 29
   unit: null
@@ -556,8 +496,7 @@ numeric_observations:
   - 9.0
   - 21.0
   - 29.0
-- &id061
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day August 08 - August 16
   unit: null
@@ -565,8 +504,7 @@ numeric_observations:
   - 15.0
   - 8.0
   - 16.0
-- &id062
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami August 20 - August 27
   unit: null
@@ -574,8 +512,7 @@ numeric_observations:
   - 16.0
   - 20.0
   - 27.0
-- &id063
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 05 - July Mass Uprising Day July 24 - July 27
   unit: null
@@ -583,8 +520,7 @@ numeric_observations:
   - 5.0
   - 24.0
   - 27.0
-- &id064
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 15 - National Mourning Day August 09 - August 12
   unit: null
@@ -592,8 +528,7 @@ numeric_observations:
   - 15.0
   - 9.0
   - 12.0
-- &id065
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami August 22 - August 25
   unit: null
@@ -601,8 +536,7 @@ numeric_observations:
   - 16.0
   - 22.0
   - 25.0
-- &id066
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: No holidays until September August 14 - Independence Day August 30
     - Victory Day
@@ -610,24 +544,21 @@ numeric_observations:
   values:
   - 14.0
   - 30.0
-- &id067
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 25, 2025
   unit: null
   values:
   - 25.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 1 Apia 34,066 LNG Carrier Delivered July 22
   unit: null
@@ -635,8 +566,7 @@ numeric_observations:
   - 1.0
   - 34066.0
   - 22.0
-- &id070
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 2 Bontrup Pearl 11,377 General Cargo Delivered July 26
   unit: null
@@ -644,8 +574,7 @@ numeric_observations:
   - 2.0
   - 11377.0
   - 26.0
-- &id071
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -653,8 +582,7 @@ numeric_observations:
   - 3.0
   - 20001.0
   - 13.0
-- &id072
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 4 Corso Marine 3,169 General Cargo Delivered July 24
   unit: null
@@ -662,8 +590,7 @@ numeric_observations:
   - 4.0
   - 3169.0
   - 24.0
-- &id073
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 5 Gama II 12,857 Oil Tanker Delivered July 24
   unit: null
@@ -671,8 +598,7 @@ numeric_observations:
   - 5.0
   - 12857.0
   - 24.0
-- &id074
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 6 Green Egersund 2,975 Reefer Arrived July 24
   unit: null
@@ -680,8 +606,7 @@ numeric_observations:
   - 6.0
   - 2975.0
   - 24.0
-- &id075
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 7 Lusay 2,979 Reefer Arrived July 23
   unit: null
@@ -689,8 +614,7 @@ numeric_observations:
   - 7.0
   - 2979.0
   - 23.0
-- &id076
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 8 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -698,8 +622,7 @@ numeric_observations:
   - 8.0
   - 9623.0
   - 7.0
-- &id077
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 9 Orient Brother 1,067 General Cargo Delivered July 25
   unit: null
@@ -707,8 +630,7 @@ numeric_observations:
   - 9.0
   - 1067.0
   - 25.0
-- &id078
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 10 Run Fu 2 6,183 Bulk Carrier Delivered July 17
   unit: null
@@ -717,8 +639,7 @@ numeric_observations:
   - 2.0
   - 6183.0
   - 17.0
-- &id079
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: 11 Senaz 2,921 Chemical Tanker Delivered July 25
   unit: null
@@ -726,8 +647,7 @@ numeric_observations:
   - 11.0
   - 2921.0
   - 25.0
-- &id080
-  section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+- section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 107,218
   unit: null
@@ -1018,86 +938,628 @@ section_count: 3
 signals:
   numeric_observation_count: 108
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we stand on the eve of Week 31 this 2025, global market turmoil
+      continues unimpeded as wars rage, freight markets firm,economies flutter, and
+      oil, currencies, and steel prices all fluctuate in a wavering tandem, delivering
+      headaches along the way for all on
+    unit: pct
+    values:
+    - 31.0
+    - 2025.0
+    - 2.4
+    - 2.7
+    - 1.3
+    - 65.2
+    - 20000.0
+    - 1.0
+    - 24.0
+    - 2.3
+  - section: Main
+    section_type: null
+    source_line: 'Notwithstanding, glimmers of life seem to be emerging from the Indian
+      sub-continent ship recycling markets as offers on the large(r) LDT LNGs making
+      the rounds (including various other types of tonnage) surpassed most expectations
+      this week. But what remained '
+    unit: usd
+    values:
+    - 60.0
+    - 400.0
+    - 600.0
+    - 400.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 30 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-07-28_gms-week-30-glimmer-of-life_img1_078967_7c87b9bdd9db.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -7.0
+    - -28.0
+    - 30.0
+    - 78967.0
+    - 7.0
+    - 7.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: July 25th, 2025
+    unit: null
+    values:
+    - 25.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: Week 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: Volume 274, Issue 1195
+    unit: null
+    values:
+    - 274.0
+    - 1195.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: • LNGs again. As we stand on the eve of Week 31 this 2025, glo bal
+      market turmoil continues unimpeded as wars
+    unit: null
+    values:
+    - 31.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: • Bottom out? strengthening against virtually all recycling destinations.
+      U.S. inflation meanwhile climbs from 2.4%
+    unit: pct
+    values:
+    - 2.4
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: to 2.7% in June as Turkey, India, Bangladesh, and even Pakistan all
+      report declines in their respective
+    unit: pct
+    values:
+    - 2.7
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: inflations. Oil futures also declined 1.3% to settle at USD 65.2
+      / barrel on the back of said U.S. trade
+    unit: pct
+    values:
+    - 1.3
+    - 65.2
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: s anctions against Venezuela that could add a reported 200,0 0 barrels
+      of oil to global supply-chain.
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: • Glimmers? with the Cape index surging 1% of its total annual value
+      via a 24% gain just this week, all while the
+    unit: pct
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: Panamax and Supramax indices confoundingly fell 2.3% & 0.3% respectively.
+    unit: pct
+    values:
+    - 2.3
+    - 0.3
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: after the recent and significant decline of about USD 60/LDT in residual
+      values from the highs of
+    unit: usd
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: USD 400s/LDT seen at the start of the year, including the massive
+      USD 600/LDT seen just 12 months
+    unit: usd
+    values:
+    - 400.0
+    - 600.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: • Busier times await. prior. Moreover, we have also seen prices decline
+      below USD 400/LDT during the historically slower
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: monsoon / summer months as several deals are still being fixed at
+      those levels in 2025 as well.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 30 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 30.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: its fall against the U.S. Dollar once again, as it declined 65-basis
+      points this week down to BDT
+    unit: null
+    values:
+    - 65.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 122.18. Even local steel plate prices were not spared from the brunt
+      of recent steel fixtures by
+    unit: null
+    values:
+    - 122.18
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: domestic steel mills at region USD 330/Ton, resulting in plate prices
+      retreating nearly USD 2/Ton
+    unit: usd
+    values:
+    - 330.0
+    - 2.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: falling to 8.48% in June (down from nearly 11% at the start of the
+      year), but could likely start to rise
+    unit: pct
+    values:
+    - 8.48
+    - 11.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 2nd and 3rd place on the market rankings a lot more than as historically
+      has been the case.
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: successfully committed to Alang buyers as ADNOC controlled GHASHA
+      (33,406 LDT) and AL
+    unit: null
+    values:
+    - 33406.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: KHAZNAH (33,456 LDT) were both fixed on an en bloc basis, for an
+      extremely firm USD 42.9 million
+    unit: usd
+    values:
+    - 33456.0
+    - 42.9
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: (about USD 641.50/LDT) basis an ‘as is' Malaysia delivery - the strong
+      price being attributed to the
+    unit: usd
+    values:
+    - 641.5
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: this week, with 11 vessels (including a large LDT tanker) and over
+      107,000 tons of recycling tonnage
+    unit: null
+    values:
+    - 11.0
+    - 107000.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: brethren against U.S. Dollar that saw it falling 40 basis points
+      to Rs. 86.48, it was local steel plate prices
+    unit: null
+    values:
+    - 40.0
+    - 86.48
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: that offered some Aspirin to local sentiments as levels reported
+      firmed nearly USD 4/Ton this week
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GHASHA LNG 33,406 USD 42.9 Mill Enbloc ‘as is' Malaysia
+    unit: usd
+    values:
+    - 33406.0
+    - 42.9
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: AL KHAZNAH LNG 33,456 USD 42.9 Mill Enbloc ‘as is' Malaysia
+    unit: usd
+    values:
+    - 33456.0
+    - 42.9
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: markets witnessed both the RISING FALCON (5,694 LDT) and the RISING
+      EAGLE (5,440 LDT)
+    unit: null
+    values:
+    - 5694.0
+    - 5440.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: fixed en bloc to cash buyers` basis a likely Pakistan redelivery,
+      at a decent USD 446/LT LDT
+    unit: usd
+    values:
+    - 446.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: including about 250 - 300 Tons of bunkers onboard at the time of
+      delivery, contributing to almost
+    unit: null
+    values:
+    - 250.0
+    - 300.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: USD 20/LDT to the purchase price of the vessel.
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: year (sounds like 2024 wishes all over again) and as government bodies
+      and end buyers finally
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: local steel plate prices stay marooned at region USD 615/Ton (still
+      the highest in the industry), with
+    unit: usd
+    values:
+    - 615.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: hand, the Pakistani Rupee made a surprise bounce, firming about 55
+      basis points and end the week
+    unit: null
+    values:
+    - 55.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: at PKR 283.20 against the U.S. Dollar. While certainly not a return
+      to the saner days under PKR
+    unit: null
+    values:
+    - 283.2
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 280, it is hopefully firm motivation enough for the rest of the recycling
+      community to join in their
+    unit: null
+    values:
+    - 280.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: USD 446/LT LDT (with about 250-300
+    unit: usd
+    values:
+    - 446.0
+    - 250.0
+    - -300.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: RISING FALCON Bulker 5,694
+    unit: null
+    values:
+    - 5694.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: RISING EAGLE Bulker 5,440
+    unit: null
+    values:
+    - 5440.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 2025 leaving the country's domestic ship recycling sector in "Airplane
+      mode", on the other hand, the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: ongoing decline in Turkey's inflation rate has seen a drop from 42.12%
+      back in January down to
+    unit: pct
+    values:
+    - 42.12
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 35.15% back in June, which has reportedly resulted in the Turkish
+      central bank favorably re-adjusting
+    unit: pct
+    values:
+    - 35.15
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: subjected to another 50-basis point decline this week as well, ending
+      it at TRY 40.56 against the U.S.
+    unit: null
+    values:
+    - 50.0
+    - 40.56
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: Mercifully, the benchmark interest rate saw a 300-basis point reduction
+      to 43% and might hopefully
+    unit: pct
+    values:
+    - 300.0
+    - 43.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: For Week 30 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Weak 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 415 / LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 405.0
+    - 425.0
+    - 435.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 09 - Raksha Bandhan July 21 - July 29
+    unit: null
+    values:
+    - 9.0
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day August 08 - August 16
+    unit: null
+    values:
+    - 15.0
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami August 20 - August 27
+    unit: null
+    values:
+    - 16.0
+    - 20.0
+    - 27.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 05 - July Mass Uprising Day July 24 - July 27
+    unit: null
+    values:
+    - 5.0
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - National Mourning Day August 09 - August 12
+    unit: null
+    values:
+    - 15.0
+    - 9.0
+    - 12.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami August 22 - August 25
+    unit: null
+    values:
+    - 16.0
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until September August 14 - Independence Day August 30
+      - Victory Day
+    unit: null
+    values:
+    - 14.0
+    - 30.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 25, 2025
+    unit: null
+    values:
+    - 25.0
+    - 2025.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 1 Apia 34,066 LNG Carrier Delivered July 22
+    unit: null
+    values:
+    - 1.0
+    - 34066.0
+    - 22.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bontrup Pearl 11,377 General Cargo Delivered July 26
+    unit: null
+    values:
+    - 2.0
+    - 11377.0
+    - 26.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 3.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 4 Corso Marine 3,169 General Cargo Delivered July 24
+    unit: null
+    values:
+    - 4.0
+    - 3169.0
+    - 24.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 5 Gama II 12,857 Oil Tanker Delivered July 24
+    unit: null
+    values:
+    - 5.0
+    - 12857.0
+    - 24.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 6 Green Egersund 2,975 Reefer Arrived July 24
+    unit: null
+    values:
+    - 6.0
+    - 2975.0
+    - 24.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 7 Lusay 2,979 Reefer Arrived July 23
+    unit: null
+    values:
+    - 7.0
+    - 2979.0
+    - 23.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 8 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 8.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 9 Orient Brother 1,067 General Cargo Delivered July 25
+    unit: null
+    values:
+    - 9.0
+    - 1067.0
+    - 25.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 10 Run Fu 2 6,183 Bulk Carrier Delivered July 17
+    unit: null
+    values:
+    - 10.0
+    - 2.0
+    - 6183.0
+    - 17.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: 11 Senaz 2,921 Chemical Tanker Delivered July 25
+    unit: null
+    values:
+    - 11.0
+    - 2921.0
+    - 25.0
+  - section: 'Linked asset: 2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 107,218
+    unit: null
+    values:
+    - 107218.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-07-28_gms-week-30-glimmer-of-life.html
 source_stem: 2025-07-28_gms-week-30-glimmer-of-life

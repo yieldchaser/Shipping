@@ -384,6 +384,11 @@ Comprehensive analytical suite for technical and fundamental signals:
 | **BDI Contribution** | Decomposition of BDI daily change by vessel class (Cape/Pana/Supra). |
 | **ETF Fund Flow Signals** | Multi-indicator glassmorphism suite: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), and Pressure (rel intensity). |
 | **Lead–Lag Correlation** | Cross-correlation of log returns (-30 to +30 days) to detect leads (Financial vs Ripple Effects vs Basis). |
+| **Time Charter Rates** | Spot earnings vs 1-Year/2-Year Time Charter rates overlay, tracking the Spot-to-TC ratio on a secondary axis (customized dynamically for Dry Bulk & Tankers). |
+| **Basin/Sector Spreads** | Atlantic vs Pacific 1Y Time Charter rate spread/ratio for dry bulk; VLCC vs MR 1Y TC rate spread/ratio for crude vs clean tankers. |
+| **Restocking Pressure** | Freight spot rates overlaid against CFR 62% Iron Ore price and Qingdao Port Inventory. (Dry bulk only). |
+| **Vessel Capital Cycle** | India, Bangladesh, and Pakistan demolition scrap prices ($/LDT) and calculated ship-displacement scrap floor valuations ($M) for the selected class. |
+| **Market Cycle Quadrant** | Chronological 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score. Identifies Recovery, Boom, Over-ordering, and Restructuring phases. |
 
 ---
 

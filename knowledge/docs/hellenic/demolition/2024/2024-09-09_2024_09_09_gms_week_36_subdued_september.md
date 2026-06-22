@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 83
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we venture past the 2/3rd mark for Q3 and welcome a September that
     clearly intends to deliver an expectedly subdued scenario across Macroand Micro
@@ -43,8 +42,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 7.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Zooming into the Micro and the start of September saw the industry
     still witness the inescapable decline that is India's ship recycling sector today,
@@ -55,8 +53,7 @@ numeric_observations:
   - 2024.0
   - 65.0
   - 500.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight markets meanwhile remain a double-edged sword in that, they
     remain firm across the board keeping vessels employed longer on the one hand,
@@ -68,8 +65,7 @@ numeric_observations:
   - 2024.0
   - 300.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 36 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -77,8 +73,7 @@ numeric_observations:
   values:
   - 36.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
   unit: null
@@ -91,8 +86,7 @@ numeric_observations:
   - 8337.0
   - 149.0
   - 1.0
-- &id006
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 6th, 2024 "If you do every job like you're going to do it
     for the rest of your life,
@@ -100,23 +94,20 @@ numeric_observations:
   values:
   - 6.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Week 36 that's when you get noticed."
   unit: null
   values:
   - 36.0
-- &id008
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Volume 264, Issue 1150
   unit: null
   values:
   - 264.0
   - 1150.0
-- &id009
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: • Micro & Macro. As we venture paosut tt.h Te h2e/3rerd' sm naor ks
     ufcohr Qth3i nagn da sw lie flec oimn-eb eat wSeepetnem." ber that clearly intends
@@ -124,24 +115,21 @@ numeric_observations:
   unit: null
   values:
   - 3.0
-- &id010
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: hunt for the perpetrators of the October 7 genocide after vowing to
     eliminate Hamas, along with
   unit: null
   values:
   - 7.0
-- &id011
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: fully laid to rest as this does not seem to be an exit on India's 2024
     highway. On the one hand, sub-
   unit: null
   values:
   - 2024.0
-- &id012
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: USD 65/LDT since the peaks seen earlier this year. As such, offers
     below USD 500/LDT are being
@@ -149,8 +137,7 @@ numeric_observations:
   values:
   - 65.0
   - 500.0
-- &id013
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: continue for the rest of 2023, into 2024. Owners who are destined to
     sell within this year have
@@ -158,8 +145,7 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: • Scan to download approaching USD 300/MT. With all markets now at
     a virtual standstill, Q4 2024 seems destined to
@@ -167,8 +153,7 @@ numeric_observations:
   values:
   - 300.0
   - 2024.0
-- &id015
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: F or week 36 of 2024, GMS demo rankings / pricing for the week are
     as below.
@@ -176,8 +161,7 @@ numeric_observations:
   values:
   - 36.0
   - 2024.0
-- &id016
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Declining 490 / LDT 510 / LDT 520 / LDT
   unit: null
@@ -186,8 +170,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 520.0
-- &id017
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 2 India Declining 480 / LDT 500 / LDT 510 / LDT
   unit: null
@@ -196,8 +179,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 510.0
-- &id018
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Declining 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -206,8 +188,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id019
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Dead 310 / LDT 320 / LDT 330 / LDT
   unit: null
@@ -216,38 +197,33 @@ numeric_observations:
   - 310.0
   - 320.0
   - 330.0
-- &id020
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: whereby the Taka invariably fell to a record BDT 120.05 against the
     U.S. Dollar this week, where it
   unit: null
   values:
   - 120.05
-- &id022
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: this week, closing out at about USD 542/Ton from last Friday.
   unit: usd
   values:
   - 542.0
-- &id023
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Over 1,000 dead.
   unit: null
   values:
   - 1000.0
-- &id024
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: financial damage is currently estimated to be about BDT 4,000 Crores
     (about USD 335 Million
@@ -255,24 +231,21 @@ numeric_observations:
   values:
   - 4000.0
   - 335.0
-- &id025
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: under the current conversion rate). Sadly, with over 1,000 deaths being
     reported since the rise of
   unit: null
   values:
   - 1000.0
-- &id026
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: also helped local steel lose about 16% of its overall value. This has
     largely been due to a slowdown
   unit: pct
   values:
   - 16.0
-- &id027
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: position continues to impress week after week as another 7 vessels
     / nearly 34K LDT has been, or
@@ -280,24 +253,21 @@ numeric_observations:
   values:
   - 7.0
   - 34.0
-- &id028
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: party fai l e d t o m a intain its majority in India's 2024 shock election
     that concluded early June as even
   unit: null
   values:
   - 2024.0
-- &id030
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: this government has announced meaningful infrastructure projects during
     the recent FY24 - FY25
@@ -305,24 +275,21 @@ numeric_observations:
   values:
   - 4.0
   - 5.0
-- &id031
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: fundamentals as not only has the Indian Rupee suffered another 10 basis
     point loss against the U.S.
   unit: null
   values:
   - 10.0
-- &id032
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Dollar, thereby ending the week at another record-breaking INR 84,
     but local steel plate prices have
   unit: null
   values:
   - 84.0
-- &id033
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: also declined further (albeit by a marginal USD 2/Ton down to USD 484.81/Ton),
     which further
@@ -330,95 +297,83 @@ numeric_observations:
   values:
   - 2.0
   - 484.81
-- &id034
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: we have seen Pakistani steel plate prices decline a whopping USD 2/Ton
     this week, similar to the
   unit: usd
   values:
   - 2.0
-- &id036
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: steel plate prices remain at least over USD 160/Ton (and higher) than
     those from its competing
   unit: usd
   values:
   - 160.0
-- &id037
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: recycling neighbors. The Pakistani Rupee also depreciated to PKR 278.60
     against the U.S. Dollar, a
   unit: null
   values:
   - 278.6
-- &id038
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: mere 4 basis points this week. The only other headache that Gadani
     recyclers would have at this
   unit: null
   values:
   - 4.0
-- &id039
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: The Turkish market finally displayed some movement this week and in
     typical 2024 fashion,
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: not only have local offerings gradually diminished down to USD 310/MT
     on dry bulk tonnage
   unit: tonnage
   values:
   - 310.0
-- &id042
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: at a record TRY 34 against the U.S. Dollar.
   unit: null
   values:
   - 34.0
-- &id043
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line:  A horse can have more than one horsepower. The highest amount of
     power a horse can produce amounts to 24
   unit: null
   values:
   - 24.0
-- &id045
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line:  The heartbeat of a blue whale can be detected from 2 miles away.
     The blue whale's heart also weighs 400 pounds.
@@ -426,8 +381,7 @@ numeric_observations:
   values:
   - 2.0
   - 400.0
-- &id046
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 08 - Ganesh Chaturthi August 31 - September 06
   unit: null
@@ -435,16 +389,14 @@ numeric_observations:
   - 8.0
   - 31.0
   - 6.0
-- &id047
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 15 - September 24
   unit: null
   values:
   - 15.0
   - 24.0
-- &id048
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 16 - Eid Milad-Ul-Nabi September 02 - September 05
   unit: null
@@ -452,16 +404,14 @@ numeric_observations:
   - 16.0
   - 2.0
   - 5.0
-- &id049
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 17 - September 20
   unit: null
   values:
   - 17.0
   - 20.0
-- &id050
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: September 16 - Mid-Autumn Festival September 16 - Eid Milad-Ul-Nabi
     No Holidays in September
@@ -469,24 +419,21 @@ numeric_observations:
   values:
   - 16.0
   - 16.0
-- &id051
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 06, 2024
   unit: null
   values:
   - 6.0
   - 2024.0
-- &id053
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 1 Bereg Mechty (Under Tow) 7,263 Reefer Arrived August 26 - Arrested
   unit: null
@@ -494,8 +441,7 @@ numeric_observations:
   - 1.0
   - 7263.0
   - 26.0
-- &id054
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 2 Ela 8,990 Bulk Carrier Arrived September 03
   unit: null
@@ -503,23 +449,20 @@ numeric_observations:
   - 2.0
   - 8990.0
   - 3.0
-- &id055
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,253
   unit: null
   values:
   - 16253.0
-- &id056
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 06, 2024
   unit: null
   values:
   - 6.0
   - 2024.0
-- &id057
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 1 Ferry Hayatomo 2 4,160 RoRo Delivered September 04
   unit: null
@@ -528,8 +471,7 @@ numeric_observations:
   - 2.0
   - 4160.0
   - 4.0
-- &id058
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 2 Sia 21 (Under Tow) 3,958 General Cargo Arrived August 22
   unit: null
@@ -538,8 +480,7 @@ numeric_observations:
   - 21.0
   - 3958.0
   - 22.0
-- &id059
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 3 SP 19 1,662 General Cargo Delivered September 04
   unit: null
@@ -548,8 +489,7 @@ numeric_observations:
   - 19.0
   - 1662.0
   - 4.0
-- &id060
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 4 St. Surya A 8,168 LNG Tanker Delivered September 03
   unit: null
@@ -557,8 +497,7 @@ numeric_observations:
   - 4.0
   - 8168.0
   - 3.0
-- &id061
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 5 Su Zhou Hao 5,903 RoRo Delivered September 04
   unit: null
@@ -566,8 +505,7 @@ numeric_observations:
   - 5.0
   - 5903.0
   - 4.0
-- &id062
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 6 Tao (Under Tow) 4,160 RoRo Arrived August 31
   unit: null
@@ -575,8 +513,7 @@ numeric_observations:
   - 6.0
   - 4160.0
   - 31.0
-- &id063
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 7 Uni Profit 5,903 RoRo Arrived September 01
   unit: null
@@ -584,31 +521,27 @@ numeric_observations:
   - 7.0
   - 5903.0
   - 1.0
-- &id064
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 33,913
   unit: null
   values:
   - 33913.0
-- &id065
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 06, 2024
   unit: null
   values:
   - 6.0
   - 2024.0
-- &id066
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id067
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 8/31/2024 486.53 40,800.00 703.01 196,000.00 542.02 64,500.00 300.85
   unit: null
@@ -623,8 +556,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 300.85
-- &id068
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/1/2024 486.53 40,800.00 703.01 196,000.00 542.02 64,500.00 300.85
   unit: null
@@ -639,8 +571,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 300.85
-- &id069
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/2/2024 484.99 40,700.00 703.01 196,000.00 542.02 64,500.00 301.99
   unit: null
@@ -655,8 +586,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 301.99
-- &id070
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/3/2024 484.70 40,700.00 703.01 196,000.00 542.02 64,500.00 301.99
   unit: null
@@ -671,8 +601,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 301.99
-- &id071
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/4/2024 484.70 40,700.00 703.01 196,000.00 542.02 64,500.00 298.67
   unit: null
@@ -687,8 +616,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 298.67
-- &id072
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/5/2024 484.70 40,700.00 701.75 196,000.00 542.02 64,500.00 297.93
   unit: null
@@ -703,8 +631,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 297.93
-- &id073
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 9/6/2024 484.81 40,700.00 701.75 196,000.00 542.02 64,500.00 297.93
   unit: null
@@ -719,8 +646,7 @@ numeric_observations:
   - 542.02
   - 64500.0
   - 297.93
-- &id074
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -729,8 +655,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id075
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720
     Hamburg,'
@@ -740,8 +665,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id076
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 'Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -750,8 +674,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id077
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -760,8 +683,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id078
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -770,8 +692,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id079
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
   unit: null
@@ -784,8 +705,7 @@ numeric_observations:
   - 8337.0
   - 149.0
   - 1.0
-- &id080
-  section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+- section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 681x163 mode=RGB'
   unit: null
@@ -825,86 +745,687 @@ section_count: 3
 signals:
   numeric_observation_count: 83
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we venture past the 2/3rd mark for Q3 and welcome a September
+      that clearly intends to deliver an expectedly subdued scenario across Macroand
+      Micro ends, the unfolding present exhibits no indications of optimism for the
+      near future. On the Macro side of thin
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 7.0
+  - section: Main
+    section_type: null
+    source_line: Zooming into the Micro and the start of September saw the industry
+      still witness the inescapable decline that is India's ship recycling sector
+      today, one that continues to show no signs of it slowing since early June and
+      any expectations that a historical Q4 r
+    unit: usd
+    values:
+    - 2024.0
+    - 65.0
+    - 500.0
+  - section: Main
+    section_type: null
+    source_line: Freight markets meanwhile remain a double-edged sword in that, they
+      remain firm across the board keeping vessels employed longer on the one hand,
+      while on the other, this has contributed to the starvation of recycling tonnage
+      resulting in very few sales taking
+    unit: tonnage
+    values:
+    - 2023.0
+    - 2024.0
+    - 300.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 36 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 36.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -9.0
+    - -9.0
+    - 36.0
+    - 2342452.0
+    - 8337.0
+    - 149.0
+    - 1.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 6th, 2024 "If you do every job like you're going to do
+      it for the rest of your life,
+    unit: null
+    values:
+    - 6.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Week 36 that's when you get noticed."
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Volume 264, Issue 1150
+    unit: null
+    values:
+    - 264.0
+    - 1150.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: • Micro & Macro. As we venture paosut tt.h Te h2e/3rerd' sm naor
+      ks ufcohr Qth3i nagn da sw lie flec oimn-eb eat wSeepetnem." ber that clearly
+      intends to deliver
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: hunt for the perpetrators of the October 7 genocide after vowing
+      to eliminate Hamas, along with
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: fully laid to rest as this does not seem to be an exit on India's
+      2024 highway. On the one hand, sub-
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: USD 65/LDT since the peaks seen earlier this year. As such, offers
+      below USD 500/LDT are being
+    unit: usd
+    values:
+    - 65.0
+    - 500.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: continue for the rest of 2023, into 2024. Owners who are destined
+      to sell within this year have
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download approaching USD 300/MT. With all markets now at
+      a virtual standstill, Q4 2024 seems destined to
+    unit: tonnage
+    values:
+    - 300.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: F or week 36 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 36.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Declining 490 / LDT 510 / LDT 520 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 490.0
+    - 510.0
+    - 520.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Declining 480 / LDT 500 / LDT 510 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 480.0
+    - 500.0
+    - 510.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Declining 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Dead 310 / LDT 320 / LDT 330 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 310.0
+    - 320.0
+    - 330.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: whereby the Taka invariably fell to a record BDT 120.05 against the
+      U.S. Dollar this week, where it
+    unit: null
+    values:
+    - 120.05
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: this week, closing out at about USD 542/Ton from last Friday.
+    unit: usd
+    values:
+    - 542.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Over 1,000 dead.
+    unit: null
+    values:
+    - 1000.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: financial damage is currently estimated to be about BDT 4,000 Crores
+      (about USD 335 Million
+    unit: usd
+    values:
+    - 4000.0
+    - 335.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: under the current conversion rate). Sadly, with over 1,000 deaths
+      being reported since the rise of
+    unit: null
+    values:
+    - 1000.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: also helped local steel lose about 16% of its overall value. This
+      has largely been due to a slowdown
+    unit: pct
+    values:
+    - 16.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: position continues to impress week after week as another 7 vessels
+      / nearly 34K LDT has been, or
+    unit: null
+    values:
+    - 7.0
+    - 34.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: party fai l e d t o m a intain its majority in India's 2024 shock
+      election that concluded early June as even
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: this government has announced meaningful infrastructure projects
+      during the recent FY24 - FY25
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: fundamentals as not only has the Indian Rupee suffered another 10
+      basis point loss against the U.S.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Dollar, thereby ending the week at another record-breaking INR 84,
+      but local steel plate prices have
+    unit: null
+    values:
+    - 84.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: also declined further (albeit by a marginal USD 2/Ton down to USD
+      484.81/Ton), which further
+    unit: usd
+    values:
+    - 2.0
+    - 484.81
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: we have seen Pakistani steel plate prices decline a whopping USD
+      2/Ton this week, similar to the
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices remain at least over USD 160/Ton (and higher)
+      than those from its competing
+    unit: usd
+    values:
+    - 160.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: recycling neighbors. The Pakistani Rupee also depreciated to PKR
+      278.60 against the U.S. Dollar, a
+    unit: null
+    values:
+    - 278.6
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: mere 4 basis points this week. The only other headache that Gadani
+      recyclers would have at this
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: The Turkish market finally displayed some movement this week and
+      in typical 2024 fashion,
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: not only have local offerings gradually diminished down to USD 310/MT
+      on dry bulk tonnage
+    unit: tonnage
+    values:
+    - 310.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: at a record TRY 34 against the U.S. Dollar.
+    unit: null
+    values:
+    - 34.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line:  A horse can have more than one horsepower. The highest amount of
+      power a horse can produce amounts to 24
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line:  The heartbeat of a blue whale can be detected from 2 miles away.
+      The blue whale's heart also weighs 400 pounds.
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 08 - Ganesh Chaturthi August 31 - September 06
+    unit: null
+    values:
+    - 8.0
+    - 31.0
+    - 6.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 15 - September 24
+    unit: null
+    values:
+    - 15.0
+    - 24.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 16 - Eid Milad-Ul-Nabi September 02 - September 05
+    unit: null
+    values:
+    - 16.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 17 - September 20
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: September 16 - Mid-Autumn Festival September 16 - Eid Milad-Ul-Nabi
+      No Holidays in September
+    unit: null
+    values:
+    - 16.0
+    - 16.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 06, 2024
+    unit: null
+    values:
+    - 6.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bereg Mechty (Under Tow) 7,263 Reefer Arrived August 26 - Arrested
+    unit: null
+    values:
+    - 1.0
+    - 7263.0
+    - 26.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ela 8,990 Bulk Carrier Arrived September 03
+    unit: null
+    values:
+    - 2.0
+    - 8990.0
+    - 3.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,253
+    unit: null
+    values:
+    - 16253.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 06, 2024
+    unit: null
+    values:
+    - 6.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ferry Hayatomo 2 4,160 RoRo Delivered September 04
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 4160.0
+    - 4.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 2 Sia 21 (Under Tow) 3,958 General Cargo Arrived August 22
+    unit: null
+    values:
+    - 2.0
+    - 21.0
+    - 3958.0
+    - 22.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 3 SP 19 1,662 General Cargo Delivered September 04
+    unit: null
+    values:
+    - 3.0
+    - 19.0
+    - 1662.0
+    - 4.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 4 St. Surya A 8,168 LNG Tanker Delivered September 03
+    unit: null
+    values:
+    - 4.0
+    - 8168.0
+    - 3.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 5 Su Zhou Hao 5,903 RoRo Delivered September 04
+    unit: null
+    values:
+    - 5.0
+    - 5903.0
+    - 4.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 6 Tao (Under Tow) 4,160 RoRo Arrived August 31
+    unit: null
+    values:
+    - 6.0
+    - 4160.0
+    - 31.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 7 Uni Profit 5,903 RoRo Arrived September 01
+    unit: null
+    values:
+    - 7.0
+    - 5903.0
+    - 1.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 33,913
+    unit: null
+    values:
+    - 33913.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 06, 2024
+    unit: null
+    values:
+    - 6.0
+    - 2024.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 8/31/2024 486.53 40,800.00 703.01 196,000.00 542.02 64,500.00 300.85
+    unit: null
+    values:
+    - 8.0
+    - 31.0
+    - 2024.0
+    - 486.53
+    - 40800.0
+    - 703.01
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 300.85
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/1/2024 486.53 40,800.00 703.01 196,000.00 542.02 64,500.00 300.85
+    unit: null
+    values:
+    - 9.0
+    - 1.0
+    - 2024.0
+    - 486.53
+    - 40800.0
+    - 703.01
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 300.85
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/2/2024 484.99 40,700.00 703.01 196,000.00 542.02 64,500.00 301.99
+    unit: null
+    values:
+    - 9.0
+    - 2.0
+    - 2024.0
+    - 484.99
+    - 40700.0
+    - 703.01
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 301.99
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/3/2024 484.70 40,700.00 703.01 196,000.00 542.02 64,500.00 301.99
+    unit: null
+    values:
+    - 9.0
+    - 3.0
+    - 2024.0
+    - 484.7
+    - 40700.0
+    - 703.01
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 301.99
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/4/2024 484.70 40,700.00 703.01 196,000.00 542.02 64,500.00 298.67
+    unit: null
+    values:
+    - 9.0
+    - 4.0
+    - 2024.0
+    - 484.7
+    - 40700.0
+    - 703.01
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 298.67
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/5/2024 484.70 40,700.00 701.75 196,000.00 542.02 64,500.00 297.93
+    unit: null
+    values:
+    - 9.0
+    - 5.0
+    - 2024.0
+    - 484.7
+    - 40700.0
+    - 701.75
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 297.93
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 9/6/2024 484.81 40,700.00 701.75 196,000.00 542.02 64,500.00 297.93
+    unit: null
+    values:
+    - 9.0
+    - 6.0
+    - 2024.0
+    - 484.81
+    - 40700.0
+    - 701.75
+    - 196000.0
+    - 542.02
+    - 64500.0
+    - 297.93
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720
+      Hamburg,'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 'Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_ship-recycling-market-insight-week-6_3be281f7215b.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -9.0
+    - -9.0
+    - 36.0
+    - 2342452.0
+    - 8337.0
+    - 149.0
+    - 1.0
+  - section: 'Linked asset: 2024-09-09_gms-week-36-subdued-september_img1_2342452_8337d4149d81.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 681x163 mode=RGB'
+    unit: null
+    values:
+    - 681.0
+    - 63.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-09-09_gms-week-36-subdued-september.html
 source_stem: 2024-09-09_gms-week-36-subdued-september

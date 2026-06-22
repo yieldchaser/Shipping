@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 9
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Depreciating currencies and maddeningly plummeting steel plate prices
     (especially in Pakistan this week alone) have left nearly all of the major recycling
@@ -39,8 +38,7 @@ numeric_observations:
   - 100.0
   - 700.0
   - 500.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 20 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -48,15 +46,13 @@ numeric_observations:
   values:
   - 20.0
   - 2022.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: Καταγραφή-3.jpg'
   unit: null
   values:
   - -3.0
-- &id004
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   unit: null
@@ -66,24 +62,21 @@ numeric_observations:
   - -23.0
   - 20.0
   - -3.0
-- &id005
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 613x183 mode=RGB'
   unit: null
   values:
   - 613.0
   - 83.0
-- &id006
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id007
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: Weakening | 630/LDT | 640/LDT | 650/LDT
   unit: null
@@ -91,8 +84,7 @@ numeric_observations:
   - 630.0
   - 640.0
   - 650.0
-- &id008
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh | Weakening | 620/LDT | 630/LDT | 640/LDT
   unit: null
@@ -100,8 +92,7 @@ numeric_observations:
   - 620.0
   - 630.0
   - 640.0
-- &id009
-  section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+- section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
   section_type: linked_image_asset
   source_line: Weakening | 610/LDT | 620/LDT | 630/LDT
   unit: null
@@ -117,15 +108,79 @@ section_count: 2
 signals:
   numeric_observation_count: 9
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
+  - section: Main
+    section_type: null
+    source_line: Depreciating currencies and maddeningly plummeting steel plate prices
+      (especially in Pakistan this week alone) have left nearly all of the major recycling
+      markets looking at a near USD 100/LDT decline in prices since the peaks of over
+      USD 700/LDT (and nearly U
+    unit: tonnage
+    values:
+    - 100.0
+    - 700.0
+    - 500.0
+  - section: Main
+    section_type: null
+    source_line: For week 20 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 20.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: Καταγραφή-3.jpg'
+    unit: null
+    values:
+    - -3.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -5.0
+    - -23.0
+    - 20.0
+    - -3.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 613x183 mode=RGB'
+    unit: null
+    values:
+    - 613.0
+    - 83.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: Weakening | 630/LDT | 640/LDT | 650/LDT
+    unit: null
+    values:
+    - 630.0
+    - 640.0
+    - 650.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh | Weakening | 620/LDT | 630/LDT | 640/LDT
+    unit: null
+    values:
+    - 620.0
+    - 630.0
+    - 640.0
+  - section: 'Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg'
+    section_type: linked_image_asset
+    source_line: Weakening | 610/LDT | 620/LDT | 630/LDT
+    unit: null
+    values:
+    - 610.0
+    - 620.0
+    - 630.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down.html
 source_stem: 2022-05-23_gms-week-20-what-goes-up-must-come-down

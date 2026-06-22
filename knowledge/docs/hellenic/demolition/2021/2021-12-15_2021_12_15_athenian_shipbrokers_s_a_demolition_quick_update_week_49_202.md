@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 21
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 15/12/2021
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 15.0
   - 12.0
   - 2021.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   unit: null
@@ -47,8 +45,7 @@ numeric_observations:
   - -15.0
   - 49.0
   - -202.0
-- &id003
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
   unit: null
@@ -57,8 +54,7 @@ numeric_observations:
   - 109.0
   - 166.0
   - 73.0
-- &id004
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
   unit: null
@@ -69,8 +65,7 @@ numeric_observations:
   - 30.0
   - 210.0
   - 8996040.0
-- &id005
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: Week 49(6th December to 12th December 2021)
   unit: null
@@ -79,8 +74,7 @@ numeric_observations:
   - 6.0
   - 12.0
   - 2021.0
-- &id006
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: $570 $605 $595 $320
   unit: usd
@@ -89,8 +83,7 @@ numeric_observations:
   - 605.0
   - 595.0
   - 320.0
-- &id007
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: $575 $615 $605 $330
   unit: usd
@@ -99,8 +92,7 @@ numeric_observations:
   - 615.0
   - 605.0
   - 330.0
-- &id008
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: $590 $625 $340
   unit: usd
@@ -108,32 +100,28 @@ numeric_observations:
   - 590.0
   - 625.0
   - 340.0
-- &id009
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: Yearly Demolition 2007-2021
   unit: null
   values:
   - 2007.0
   - -2021.0
-- &id010
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 60 55.8
   unit: null
   values:
   - 60.0
   - 55.8
-- &id011
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 40 38.8
   unit: null
   values:
   - 40.0
   - 38.8
-- &id012
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 40 34.3 35.3
   unit: null
@@ -141,16 +129,14 @@ numeric_observations:
   - 40.0
   - 34.3
   - 35.3
-- &id013
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 32 30.4
   unit: null
   values:
   - 32.0
   - 30.4
-- &id014
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 26 23.2 22.3
   unit: null
@@ -158,16 +144,14 @@ numeric_observations:
   - 26.0
   - 23.2
   - 22.3
-- &id015
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 20 16.9
   unit: null
   values:
   - 20.0
   - 16.9
-- &id016
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
     2021
@@ -183,16 +167,14 @@ numeric_observations:
   - 2014.0
   - 2015.0
   - 2016.0
-- &id017
-  section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+- section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
   section_type: linked_pdf
   source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
     S.A.
   unit: null
   values:
   - 2021.0
-- &id018
-  section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+- section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   unit: null
@@ -202,23 +184,20 @@ numeric_observations:
   - -15.0
   - 49.0
   - -202.0
-- &id019
-  section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+- section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 120x100 mode=RGB'
   unit: null
   values:
   - 120.0
-- &id020
-  section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+- section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72, 72)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id021
-  section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+- section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
@@ -232,27 +211,182 @@ section_count: 3
 signals:
   numeric_observation_count: 21
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 15/12/2021
+    unit: null
+    values:
+    - 15.0
+    - 12.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -12.0
+    - -15.0
+    - 49.0
+    - -202.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+    unit: null
+    values:
+    - 107.0
+    - 109.0
+    - 166.0
+    - 73.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 'Tel:+30 210 9659700 -Fax: +30 210 8996040'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 9659700.0
+    - 30.0
+    - 210.0
+    - 8996040.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: Week 49(6th December to 12th December 2021)
+    unit: null
+    values:
+    - 49.0
+    - 6.0
+    - 12.0
+    - 2021.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: $570 $605 $595 $320
+    unit: usd
+    values:
+    - 570.0
+    - 605.0
+    - 595.0
+    - 320.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: $575 $615 $605 $330
+    unit: usd
+    values:
+    - 575.0
+    - 615.0
+    - 605.0
+    - 330.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: $590 $625 $340
+    unit: usd
+    values:
+    - 590.0
+    - 625.0
+    - 340.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: Yearly Demolition 2007-2021
+    unit: null
+    values:
+    - 2007.0
+    - -2021.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 60 55.8
+    unit: null
+    values:
+    - 60.0
+    - 55.8
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 40 38.8
+    unit: null
+    values:
+    - 40.0
+    - 38.8
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 40 34.3 35.3
+    unit: null
+    values:
+    - 40.0
+    - 34.3
+    - 35.3
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 32 30.4
+    unit: null
+    values:
+    - 32.0
+    - 30.4
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 26 23.2 22.3
+    unit: null
+    values:
+    - 26.0
+    - 23.2
+    - 22.3
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 20 16.9
+    unit: null
+    values:
+    - 20.0
+    - 16.9
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+      2020 2021
+    unit: null
+    values:
+    - 2007.0
+    - 2008.0
+    - 2009.0
+    - 2010.0
+    - 2011.0
+    - 2012.0
+    - 2013.0
+    - 2014.0
+    - 2015.0
+    - 2016.0
+  - section: 'Linked asset: 2021-12-15_Demo_IG_weekly_49_2021.pdf'
+    section_type: linked_pdf
+    source_line: Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers
+      S.A.
+    unit: null
+    values:
+    - 2021.0
+  - section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    unit: null
+    values:
+    - 2021.0
+    - -12.0
+    - -15.0
+    - 49.0
+    - -202.0
+  - section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 120x100 mode=RGB'
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72, 72)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202_img1.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202.html
 source_stem: 2021-12-15_athenian-shipbrokers-s-a-demolition-quick-update-week-49-202

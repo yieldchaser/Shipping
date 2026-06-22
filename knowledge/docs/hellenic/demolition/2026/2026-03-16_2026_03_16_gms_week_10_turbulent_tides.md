@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 102
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Escalating tensions in the Middle East ran through global markets again
     this week, as military activity near Iran's Kharg Island,the country's primary
@@ -42,8 +41,7 @@ numeric_observations:
   values:
   - 10.0
   - 100.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'International markets overall are expected to remain unsettled while
     tensions continue across the Middle East. Surging fuel prices across most regions
@@ -57,8 +55,7 @@ numeric_observations:
   - 5.8
   - 0.2
   - 0.5
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Incredibly, some sales were still confirmed during the week as MISC
     continued their clear-out of older units via 3x LNG tankers, alongside a few Capesize
@@ -67,8 +64,7 @@ numeric_observations:
   unit: null
   values:
   - 3.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 11 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -76,15 +72,13 @@ numeric_observations:
   values:
   - 11.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 16320255.jpg'
   unit: null
   values:
   - 16320255.0
-- &id006
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   unit: null
@@ -96,31 +90,27 @@ numeric_observations:
   - 16320255.0
   - 945.0
   - 64598.0
-- &id007
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 696x154 mode=RGB'
   unit: null
   values:
   - 696.0
   - 54.0
-- &id008
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id009
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: F 5 Bulk Tankers Containers
   unit: null
   values:
   - 5.0
-- &id010
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 1 | Bangladesh | Steady | 435/LDT 455/LDT | 465/LDT |
   unit: null
@@ -129,8 +119,7 @@ numeric_observations:
   - 435.0
   - 455.0
   - 465.0
-- &id011
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 2 | Pakistan | Steady | _425/LDT 445/LDT | _455/LDT_|
   unit: null
@@ -139,8 +128,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id012
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 3 | India Stead 415 /LDT 435 / LDT 445 / LDT
   unit: null
@@ -149,8 +137,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id013
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 4 | Turke Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -159,30 +146,26 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id014
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 13 th, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id016
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: Week 11
   unit: null
   values:
   - 11.0
-- &id017
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: Volume 2 82, Issue 1226 -Robert Collier
   unit: null
@@ -190,24 +173,21 @@ numeric_observations:
   - 2.0
   - 82.0
   - 1226.0
-- &id018
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: • Tensions lift oil. activity near Iran's Kharg Island, the country's
     primary oil export terminal that can host up to 10
   unit: null
   values:
   - 10.0
-- &id019
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: currently linger around USD 100/ton even higher. Developments around
     the terminal quickly
   unit: usd
   values:
   - 100.0
-- &id020
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 3% higher than last week at USD 98/barrel and is expected to remain
     volatile should tensions
@@ -215,16 +195,14 @@ numeric_observations:
   values:
   - 3.0
   - 98.0
-- &id021
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: escalate further, while the Baltic Exchange Dry Index rose nearly 3%
     as well, fueled by the Cape
   unit: pct
   values:
   - 3.0
-- &id022
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: (up 5.8%), Panas (up 0.2%), while smaller indices moved lower (down
     0.5%).
@@ -233,24 +211,21 @@ numeric_observations:
   - 5.8
   - 0.2
   - 0.5
-- &id023
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: older units via 3x LNG tankers, alongside a few Capesize bulkers reported
     on private terms, as
   unit: null
   values:
   - 3.0
-- &id024
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: (28,804 LDT), the PUTERI ZAMRUD SATU (28,858 LDT), and the PUTERI FIRU
     SATU (28,805
@@ -259,32 +234,28 @@ numeric_observations:
   - 28804.0
   - 28858.0
   - 28805.0
-- &id026
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: LDT) all were committed at over USD 11 million each, basis an ‘as is'
     Malaysia delivery. In other
   unit: usd
   values:
   - 11.0
-- &id027
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: sales, two handymax bulkers were committed to local buyers as the OCEAN
     AMAZING (7,075
   unit: null
   values:
   - 7075.0
-- &id028
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: LDT) was fixed for USD 300/LT LDT, also on an ‘as is' Jakarta basis,
     but under tow. Finally, the
   unit: usd
   values:
   - 300.0
-- &id029
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: WANTONG SUMMER (8,196 LDT) was finalized for an appreciably firm USD
     443/LT LDT.
@@ -292,56 +263,49 @@ numeric_observations:
   values:
   - 8196.0
   - 443.0
-- &id030
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: industry since 2022, Donnie delivered madness and surprising movements
     in the sub-continent
   unit: null
   values:
   - 2022.0
-- &id031
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: that even helped local recyclers take delivery of a new 27K LDT LNG,
     despite an Ozempic
   unit: null
   values:
   - 27.0
-- &id032
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: through the course of the week as Taka plummeted a massive 0.56% against
     the U.S. Dollar and
   unit: pct
   values:
   - 0.56
-- &id033
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: ended the week at BDT 122.73. Local steel plate prices further tightened
     local margins by declining
   unit: null
   values:
   - 122.73
-- &id034
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: USD 4/Ton on their end and registered a still decent USD 502/ton.
   unit: usd
   values:
   - 4.0
   - 502.0
-- &id035
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: delays in shifting recycled ship's steels out of yards has resulted
     in a 50% decline of output as
   unit: pct
   values:
   - 50.0
-- &id036
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: is back up on the rise as it wrapped February up at 9.13% (up from
     8.58 in Jan). Seem only thing
@@ -349,62 +313,54 @@ numeric_observations:
   values:
   - 9.13
   - 8.58
-- &id037
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: PUTERI MUTIARA SATU LNG 28,804 XS USD 11 MILLION ‘as is' Malaysia
   unit: usd
   values:
   - 28804.0
   - 11.0
-- &id038
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: PUTERI ZAMRUD SATU LNG 28,858 XS USD 11 MILLION ‘as is' Malaysia
   unit: usd
   values:
   - 28858.0
   - 11.0
-- &id039
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: PUTERI FIRUS SATU LNG 28,805 XS USD 11 MILLION ‘as is' Malaysia
   unit: usd
   values:
   - 28805.0
   - 11.0
-- &id040
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: WANTONG SUMMER Bulker 8,196 USD 443/LT LDT
   unit: usd
   values:
   - 8196.0
   - 443.0
-- &id041
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: USD 300/LT LDT (‘as is' Jakarta under
   unit: usd
   values:
   - 300.0
-- &id042
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: OCEAN AMAZING Bulker 7,075
   unit: null
   values:
   - 7075.0
-- &id043
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: Speaking of which, inflation has now climbed from 0.25% in October
     to over 3.2% in March,
@@ -412,8 +368,7 @@ numeric_observations:
   values:
   - 0.25
   - 3.2
-- &id045
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: the performance of the Indian Rupee (which fell another 0.70%, down
     to Rs. 92.56 against the U.S.
@@ -421,32 +376,28 @@ numeric_observations:
   values:
   - 0.7
   - 92.56
-- &id046
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: Dollar), along with local steel plate prices (which also fell a comparatively
     massive USD 10/Ton, down
   unit: usd
   values:
   - 10.0
-- &id047
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: to USD 410/Ton), have likely been contributors to the degrading state
     of inflation and have also done
   unit: usd
   values:
   - 410.0
-- &id048
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: hand, the Pakistani Rupee slid 0.48% and called it a week at a still-strong
     PKR 279.20 against the
@@ -454,8 +405,7 @@ numeric_observations:
   values:
   - 0.48
   - 279.2
-- &id050
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: USD 6.50/ton and wrapped things up at nearly USD 599/Ton - the highest
     margins of the industry.
@@ -463,8 +413,7 @@ numeric_observations:
   values:
   - 6.5
   - 599.0
-- &id051
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: with the way 2025, and even 2024, has been for this market, it seems
     2026 will likely be no different,
@@ -473,8 +422,7 @@ numeric_observations:
   - 2025.0
   - 2024.0
   - 2026.0
-- &id052
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: especially as domestic inflation itself surged to 7% last month (up
     from 5.8% in January).
@@ -482,31 +430,27 @@ numeric_observations:
   values:
   - 7.0
   - 5.8
-- &id053
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: continue to get as they hold on to their vessel prices in the face
     of a Lira that fell another 0.25% this
   unit: pct
   values:
   - 0.25
-- &id055
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: week and wrapped things up at TRY 44.20.
   unit: null
   values:
   - 44.2
-- &id056
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: For Week 11 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -514,8 +458,7 @@ numeric_observations:
   values:
   - 11.0
   - 2026.0
-- &id057
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 435 / LDT 455 / LDT 465 / LDT
   unit: null
@@ -524,8 +467,7 @@ numeric_observations:
   - 435.0
   - 455.0
   - 465.0
-- &id058
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -534,8 +476,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id059
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 415 / LDT 435 / LDT 445 / LDT
   unit: null
@@ -544,8 +485,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id060
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -554,54 +494,47 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id061
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line:  A chicken once lived for 18 months without a head. Mike the chicken's
     incredible feat was recorded back in the 1940s in the
   unit: null
   values:
   - 1940.0
-- &id063
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line:  The raw ingredients of a human body would cost over £116,000. But
     if you're prepared to do the refining yourself, a body could
   unit: null
   values:
   - 116000.0
-- &id064
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: cost a lot less - under £100 in fact.
   unit: null
   values:
   - 100.0
-- &id065
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line:  All the world's bacteria stacked on top of each other would stretch
     for 10 billion light-years. Together, Earth's 0.001mm-long
   unit: null
   values:
   - 10.0
-- &id066
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: microbes could wrap around the Milky Way over 20,000 times.
   unit: null
   values:
   - 20000.0
-- &id067
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 18 - March 24
   unit: null
@@ -609,22 +542,19 @@ numeric_observations:
   - 21.0
   - 18.0
   - 24.0
-- &id068
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 26 - Ram Navami
   unit: null
   values:
   - 26.0
-- &id069
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 31 - Mahavir Jayanthi
   unit: null
   values:
   - 31.0
-- &id070
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 19 - Eid-ul-Fitr March 19 - March 22
   unit: null
@@ -632,8 +562,7 @@ numeric_observations:
   - 19.0
   - 19.0
   - 22.0
-- &id071
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3
   unit: null
@@ -642,15 +571,13 @@ numeric_observations:
   - 23.0
   - 2.0
   - 3.0
-- &id072
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id073
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March 23
     - Eid-ul-Fitr & Ramzan Bayrami
@@ -663,24 +590,21 @@ numeric_observations:
   - 3.0
   - 19.0
   - 23.0
-- &id074
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id076
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 1 Antar 3,676 General Cargo Arrived February 28
   unit: null
@@ -688,8 +612,7 @@ numeric_observations:
   - 1.0
   - 3676.0
   - 28.0
-- &id077
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 2 BuzanSkiy 1,760 Reefer Cargo Arrived March 04
   unit: null
@@ -697,8 +620,7 @@ numeric_observations:
   - 2.0
   - 1760.0
   - 4.0
-- &id078
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: 3 Ghada A 2,240 General Cargo Delivered March 06
   unit: null
@@ -706,15 +628,13 @@ numeric_observations:
   - 3.0
   - 2240.0
   - 6.0
-- &id079
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: Morality 7,675
   unit: null
   values:
   - 7675.0
-- &id080
-  section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+- section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 13, 2026
   unit: null
@@ -955,86 +875,617 @@ section_count: 3
 signals:
   numeric_observation_count: 102
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Escalating tensions in the Middle East ran through global markets
+      again this week, as military activity near Iran's Kharg Island,the country's
+      primary oil export terminal that can host up to 10 supertankers at a time, unsettled
+      already fragile energy markets a
+    unit: usd
+    values:
+    - 10.0
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: 'International markets overall are expected to remain unsettled while
+      tensions continue across the Middle East. Surging fuel prices across most regions
+      are already beginning to lower freight incomes on a wide range of vessels, while
+      security concerns have also '
+    unit: pct
+    values:
+    - 3.0
+    - 98.0
+    - 3.0
+    - 5.8
+    - 0.2
+    - 0.5
+  - section: Main
+    section_type: null
+    source_line: Incredibly, some sales were still confirmed during the week as MISC
+      continued their clear-out of older units via 3x LNG tankers, alongside a few
+      Capesize bulkers reported on private terms, as well as several Handymax bulkers
+      from various owners. Bangladesh has
+    unit: null
+    values:
+    - 3.0
+  - section: Main
+    section_type: null
+    source_line: For Week 11 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 16320255.jpg'
+    unit: null
+    values:
+    - 16320255.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -3.0
+    - -16.0
+    - 10.0
+    - 16320255.0
+    - 945.0
+    - 64598.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 696x154 mode=RGB'
+    unit: null
+    values:
+    - 696.0
+    - 54.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: F 5 Bulk Tankers Containers
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 1 | Bangladesh | Steady | 435/LDT 455/LDT | 465/LDT |
+    unit: null
+    values:
+    - 1.0
+    - 435.0
+    - 455.0
+    - 465.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 2 | Pakistan | Steady | _425/LDT 445/LDT | _455/LDT_|
+    unit: null
+    values:
+    - 2.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 3 | India Stead 415 /LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
+    section_type: linked_image_asset
+    source_line: 4 | Turke Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 13 th, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: Week 11
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 82, Issue 1226 -Robert Collier
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 1226.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: • Tensions lift oil. activity near Iran's Kharg Island, the country's
+      primary oil export terminal that can host up to 10
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: currently linger around USD 100/ton even higher. Developments around
+      the terminal quickly
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 3% higher than last week at USD 98/barrel and is expected to remain
+      volatile should tensions
+    unit: pct
+    values:
+    - 3.0
+    - 98.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: escalate further, while the Baltic Exchange Dry Index rose nearly
+      3% as well, fueled by the Cape
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: (up 5.8%), Panas (up 0.2%), while smaller indices moved lower (down
+      0.5%).
+    unit: pct
+    values:
+    - 5.8
+    - 0.2
+    - 0.5
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: older units via 3x LNG tankers, alongside a few Capesize bulkers
+      reported on private terms, as
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: (28,804 LDT), the PUTERI ZAMRUD SATU (28,858 LDT), and the PUTERI
+      FIRU SATU (28,805
+    unit: null
+    values:
+    - 28804.0
+    - 28858.0
+    - 28805.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: LDT) all were committed at over USD 11 million each, basis an ‘as
+      is' Malaysia delivery. In other
+    unit: usd
+    values:
+    - 11.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: sales, two handymax bulkers were committed to local buyers as the
+      OCEAN AMAZING (7,075
+    unit: null
+    values:
+    - 7075.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: LDT) was fixed for USD 300/LT LDT, also on an ‘as is' Jakarta basis,
+      but under tow. Finally, the
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: WANTONG SUMMER (8,196 LDT) was finalized for an appreciably firm
+      USD 443/LT LDT.
+    unit: usd
+    values:
+    - 8196.0
+    - 443.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: industry since 2022, Donnie delivered madness and surprising movements
+      in the sub-continent
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: that even helped local recyclers take delivery of a new 27K LDT LNG,
+      despite an Ozempic
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: through the course of the week as Taka plummeted a massive 0.56%
+      against the U.S. Dollar and
+    unit: pct
+    values:
+    - 0.56
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: ended the week at BDT 122.73. Local steel plate prices further tightened
+      local margins by declining
+    unit: null
+    values:
+    - 122.73
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: USD 4/Ton on their end and registered a still decent USD 502/ton.
+    unit: usd
+    values:
+    - 4.0
+    - 502.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: delays in shifting recycled ship's steels out of yards has resulted
+      in a 50% decline of output as
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: is back up on the rise as it wrapped February up at 9.13% (up from
+      8.58 in Jan). Seem only thing
+    unit: pct
+    values:
+    - 9.13
+    - 8.58
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: PUTERI MUTIARA SATU LNG 28,804 XS USD 11 MILLION ‘as is' Malaysia
+    unit: usd
+    values:
+    - 28804.0
+    - 11.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: PUTERI ZAMRUD SATU LNG 28,858 XS USD 11 MILLION ‘as is' Malaysia
+    unit: usd
+    values:
+    - 28858.0
+    - 11.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: PUTERI FIRUS SATU LNG 28,805 XS USD 11 MILLION ‘as is' Malaysia
+    unit: usd
+    values:
+    - 28805.0
+    - 11.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: WANTONG SUMMER Bulker 8,196 USD 443/LT LDT
+    unit: usd
+    values:
+    - 8196.0
+    - 443.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: USD 300/LT LDT (‘as is' Jakarta under
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: OCEAN AMAZING Bulker 7,075
+    unit: null
+    values:
+    - 7075.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: Speaking of which, inflation has now climbed from 0.25% in October
+      to over 3.2% in March,
+    unit: pct
+    values:
+    - 0.25
+    - 3.2
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: the performance of the Indian Rupee (which fell another 0.70%, down
+      to Rs. 92.56 against the U.S.
+    unit: pct
+    values:
+    - 0.7
+    - 92.56
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: Dollar), along with local steel plate prices (which also fell a comparatively
+      massive USD 10/Ton, down
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: to USD 410/Ton), have likely been contributors to the degrading state
+      of inflation and have also done
+    unit: usd
+    values:
+    - 410.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: hand, the Pakistani Rupee slid 0.48% and called it a week at a still-strong
+      PKR 279.20 against the
+    unit: pct
+    values:
+    - 0.48
+    - 279.2
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: USD 6.50/ton and wrapped things up at nearly USD 599/Ton - the highest
+      margins of the industry.
+    unit: usd
+    values:
+    - 6.5
+    - 599.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: with the way 2025, and even 2024, has been for this market, it seems
+      2026 will likely be no different,
+    unit: null
+    values:
+    - 2025.0
+    - 2024.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: especially as domestic inflation itself surged to 7% last month (up
+      from 5.8% in January).
+    unit: pct
+    values:
+    - 7.0
+    - 5.8
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: continue to get as they hold on to their vessel prices in the face
+      of a Lira that fell another 0.25% this
+    unit: pct
+    values:
+    - 0.25
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: week and wrapped things up at TRY 44.20.
+    unit: null
+    values:
+    - 44.2
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: For Week 11 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 11.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 435 / LDT 455 / LDT 465 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 435.0
+    - 455.0
+    - 465.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 415 / LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line:  A chicken once lived for 18 months without a head. Mike the chicken's
+      incredible feat was recorded back in the 1940s in the
+    unit: null
+    values:
+    - 1940.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line:  The raw ingredients of a human body would cost over £116,000. But
+      if you're prepared to do the refining yourself, a body could
+    unit: null
+    values:
+    - 116000.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: cost a lot less - under £100 in fact.
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line:  All the world's bacteria stacked on top of each other would stretch
+      for 10 billion light-years. Together, Earth's 0.001mm-long
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: microbes could wrap around the Milky Way over 20,000 times.
+    unit: null
+    values:
+    - 20000.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 18 - March
+      24
+    unit: null
+    values:
+    - 21.0
+    - 18.0
+    - 24.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Ram Navami
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Mahavir Jayanthi
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Eid-ul-Fitr March 19 - March 22
+    unit: null
+    values:
+    - 19.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March
+      23 - Eid-ul-Fitr & Ramzan Bayrami
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+    - 1.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 23.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 1 Antar 3,676 General Cargo Arrived February 28
+    unit: null
+    values:
+    - 1.0
+    - 3676.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 2 BuzanSkiy 1,760 Reefer Cargo Arrived March 04
+    unit: null
+    values:
+    - 2.0
+    - 1760.0
+    - 4.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ghada A 2,240 General Cargo Delivered March 06
+    unit: null
+    values:
+    - 3.0
+    - 2240.0
+    - 6.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: Morality 7,675
+    unit: null
+    values:
+    - 7675.0
+  - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-03-16_gms-week-10-turbulent-tides.html
 source_stem: 2026-03-16_gms-week-10-turbulent-tides

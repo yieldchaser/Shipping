@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 86
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: This week, various holidays concluded across the globe just as Indian
     sub-continent ship recyclingmarkets started to perk up amidst fundamentals that
@@ -38,8 +37,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Notwithstanding, a recent re-introduction of containers was the brick
     to break the price-dam once again as a solo container managed to clear the coveted
@@ -49,8 +47,7 @@ numeric_observations:
   values:
   - 600.0
   - 20.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 16 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 16.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-04-22_gms-week-16-versions-of-volatility_img1_654363464356_175eb2293bd0.jpg'
   unit: null
@@ -71,23 +67,20 @@ numeric_observations:
   - 654363464356.0
   - 175.0
   - 293.0
-- &id005
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: April 19th, 2024 "Life is one fool thing after another,
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Week 16 whereas love is two fool things after each other."
   unit: null
   values:
   - 16.0
-- &id007
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Volume 2 60, Issue 1130
   unit: null
@@ -95,8 +88,7 @@ numeric_observations:
   - 2.0
   - 60.0
   - 1130.0
-- &id008
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: overall 202 3 dearth of tonnage, which has been further exacer bated
     by geopolitical violence of late,
@@ -104,24 +96,21 @@ numeric_observations:
   values:
   - 202.0
   - 3.0
-- &id009
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: again as a solo container managed to clear the coveted USD 600/LDT
     mark (albeit with about USD
   unit: usd
   values:
   - 600.0
-- &id010
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 20/LDT of fuel included) and this sale in turn has been the pricing
     aphrodisiac to tempt several
   unit: null
   values:
   - 20.0
-- &id011
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: For week 16 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -129,8 +118,7 @@ numeric_observations:
   values:
   - 16.0
   - 2024.0
-- &id012
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Improving 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -139,8 +127,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id013
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Improving 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -149,8 +136,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id014
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 3 India Improving 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -159,8 +145,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id015
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -169,24 +154,21 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id016
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: above USD 600/LT LDT contaBineAr fNixtuGre fLroAm oDnlyE aS coHupl
     e of weeks ago), resulting in
   unit: usd
   values:
   - 600.0
-- &id018
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: a local port position that has immediately followed suit with 10 vessels
     & nearly 103K
@@ -194,23 +176,20 @@ numeric_observations:
   values:
   - 10.0
   - 103.0
-- &id019
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Magical USD 6XX/LT. freight market, has resulted in a notably larger
     collection of fixtures to Chattogram
   unit: usd
   values:
   - 6.0
-- &id020
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: short of the magical USD 6XX/LT LDT price point.
   unit: usd
   values:
   - 6.0
-- &id021
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: (albeit marginally) towards BDT 110, ending the week at BDT 109.98
     against the U.S.
@@ -218,61 +197,53 @@ numeric_observations:
   values:
   - 110.0
   - 109.98
-- &id022
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Best of 2024.
   unit: null
   values:
   - 2024.0
-- &id023
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: it's be st thr ough 2024 thus far.
   unit: null
   values:
   - 2024.0
-- &id024
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: a process that is reportedly expected to last about 6 weeks and the
     results of which are
   unit: null
   values:
   - 6.0
-- &id026
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: due to be announced on June 2nd. As such, over-eager Cash Buyers with
     a penchant for
   unit: null
   values:
   - 2.0
-- &id027
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: India's economy into overdrive for 2024 (and beyond).
   unit: null
   values:
   - 2024.0
-- &id028
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: extent that local steel plate prices climbed about USD 20/Ton only
     to collapse by about
   unit: usd
   values:
   - 20.0
-- &id029
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: USD 10/Ton last week and subsequenItlNy suDrgeI aAno ther USD 20/Ton
     as this week ended,
@@ -280,102 +251,89 @@ numeric_observations:
   values:
   - 10.0
   - 20.0
-- &id030
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: while the Indian Rupee briefly surged past another record-breaking
     Rs. 83.70 this week,
   unit: null
   values:
   - 83.7
-- &id031
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: subsequently ending at levels approaching Rs 83.30 against the U.S.
     Dollar.
   unit: null
   values:
   - 83.3
-- &id032
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: once again, as it depreciated and ended the week at PKR 278.25 against
     the U.S. Dollar.
   unit: null
   values:
   - 278.25
-- &id034
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: pricing gap that has kept Gadani's anchorage well-blessed through much
     of Q1 2024, it
   unit: null
   values:
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: seems as though Pakistan's fallback to 3rd place in the market rankings
     is nearly imminent,
   unit: null
   values:
   - 3.0
-- &id036
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: After what seems to have been an exceptionally brutal 4 quarters ailing
     Aliaga, the recent
   unit: null
   values:
   - 4.0
-- &id038
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Brutal 4.
   unit: null
   values:
   - 4.0
-- &id039
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Turkish Lira has resumed its unstoppable decline as it passes TRY 32.50
     against the U.S.
   unit: null
   values:
   - 32.5
-- &id040
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id042
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line:  At 2,500 miles (4,000 km) long, the immense system of Martian canyons
     known as Valles Marineris is more than 10 times
@@ -384,8 +342,7 @@ numeric_observations:
   - 2500.0
   - 4000.0
   - 10.0
-- &id043
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: spotted by the global mapping mission Mariner 9 in 1971. And what a
     sight it was to miss, or how could it have even been
@@ -393,16 +350,14 @@ numeric_observations:
   values:
   - 9.0
   - 1971.0
-- &id044
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line:  When heavily shielded Venera spacecraft from the Soviet Union landed
     there in the 1970s, according to NASA, each lasted a
   unit: null
   values:
   - 1970.0
-- &id045
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day April 23 - April 29
   unit: null
@@ -410,8 +365,7 @@ numeric_observations:
   - 1.0
   - 23.0
   - 29.0
-- &id046
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 05 - May 13
   unit: null
@@ -419,16 +373,14 @@ numeric_observations:
   - 23.0
   - 5.0
   - 13.0
-- &id047
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 21 - May 29
   unit: null
   values:
   - 21.0
   - 29.0
-- &id048
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day April 23 - April 26
   unit: null
@@ -436,8 +388,7 @@ numeric_observations:
   - 1.0
   - 23.0
   - 26.0
-- &id049
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 07 - May 10
   unit: null
@@ -445,16 +396,14 @@ numeric_observations:
   - 23.0
   - 7.0
   - 10.0
-- &id050
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 23 - May 25
   unit: null
   values:
   - 23.0
   - 25.0
-- &id051
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 1 - May 5 - Labor Day Holidays May 5 - Labor Day Holiday April
     23 - National Sovereignty &
@@ -464,39 +413,34 @@ numeric_observations:
   - 5.0
   - 5.0
   - 23.0
-- &id052
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor & Solidarity Day
   unit: null
   values:
   - 1.0
-- &id053
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id055
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id056
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 1 Denak Voyager 9,519 Bulk Carrier Arrived April 18
   unit: null
@@ -504,8 +448,7 @@ numeric_observations:
   - 1.0
   - 9519.0
   - 18.0
-- &id057
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 2 Hong Yuan 01 11,481 Container Beached April 13
   unit: null
@@ -514,8 +457,7 @@ numeric_observations:
   - 1.0
   - 11481.0
   - 13.0
-- &id058
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 3 Hong Yuan You 19 2,580 Tanker Beached April 13
   unit: null
@@ -524,8 +466,7 @@ numeric_observations:
   - 19.0
   - 2580.0
   - 13.0
-- &id059
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4 Island (Dead Vessel) 41,374 FSU Arrived April 16
   unit: null
@@ -533,8 +474,7 @@ numeric_observations:
   - 4.0
   - 41374.0
   - 16.0
-- &id060
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 5 Medan 2 7,284 Container Arrived April 18
   unit: null
@@ -543,8 +483,7 @@ numeric_observations:
   - 2.0
   - 7284.0
   - 18.0
-- &id061
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 6 One Victory 7,685 Bulk Carrier Arrived April 17
   unit: null
@@ -552,8 +491,7 @@ numeric_observations:
   - 6.0
   - 7685.0
   - 17.0
-- &id062
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 7 Sinokor Hong Kong 5,475 Container Arrived April 18
   unit: null
@@ -561,8 +499,7 @@ numeric_observations:
   - 7.0
   - 5475.0
   - 18.0
-- &id063
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 8 Swarajya 8,542 Tanker Arrived April 12
   unit: null
@@ -570,8 +507,7 @@ numeric_observations:
   - 8.0
   - 8542.0
   - 12.0
-- &id064
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 9 Xin Run 66 2,908 Tanker Arrived April 08
   unit: null
@@ -580,8 +516,7 @@ numeric_observations:
   - 66.0
   - 2908.0
   - 8.0
-- &id065
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 10 Yamta 6,003 Bulk Carrier Arrived April 17
   unit: tonnage
@@ -589,23 +524,20 @@ numeric_observations:
   - 10.0
   - 6003.0
   - 17.0
-- &id066
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 102,850
   unit: null
   values:
   - 102850.0
-- &id067
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id068
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 1 Sea Flower 5,282 General Cargo Arrived March 27
   unit: null
@@ -613,23 +545,20 @@ numeric_observations:
   - 1.0
   - 5282.0
   - 27.0
-- &id069
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 5,282
   unit: null
   values:
   - 5282.0
-- &id070
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4/13/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 340.30
   unit: null
@@ -644,8 +573,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 340.3
-- &id072
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4/14/2024 481.96 40,200.00 736.28 208,000.00 622.50 74,700.00 340.30
   unit: null
@@ -660,8 +588,7 @@ numeric_observations:
   - 622.5
   - 74700.0
   - 340.3
-- &id073
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: '4/15/2024 488.92 40,800.00 736.28 208,000.00 #VALUE! NA 340.30'
   unit: null
@@ -674,8 +601,7 @@ numeric_observations:
   - 736.28
   - 208000.0
   - 340.3
-- &id074
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: '4/16/2024 496.77 41,500.00 736.28 208,000.00 #VALUE! NA 343.06'
   unit: null
@@ -688,8 +614,7 @@ numeric_observations:
   - 736.28
   - 208000.0
   - 343.06
-- &id075
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4/17/2024 495.63 41,400.00 736.28 208,000.00 600.00 72,000.00 343.06
   unit: null
@@ -704,8 +629,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 343.06
-- &id076
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4/18/2024 500.36 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
   unit: null
@@ -720,8 +644,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 345.68
-- &id077
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 4/19/2024 500.42 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
   unit: null
@@ -736,8 +659,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 345.68
-- &id078
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -746,8 +668,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id079
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -756,8 +677,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id080
-  section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+- section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -826,86 +746,664 @@ section_count: 3
 signals:
   numeric_observation_count: 86
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: This week, various holidays concluded across the globe just as Indian
+      sub-continent ship recyclingmarkets started to perk up amidst fundamentals that
+      have independently enjoyed varying degrees of volatility and resurgence over
+      recent weeks. In fact, steel plat
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: Notwithstanding, a recent re-introduction of containers was the brick
+      to break the price-dam once again as a solo container managed to clear the coveted
+      USD 600/LDT mark (albeit with about USD 20/LDT of fuel included) and this sale
+      in turn has been the pricing
+    unit: usd
+    values:
+    - 600.0
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: For week 16 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 16.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-04-22_gms-week-16-versions-of-volatility_img1_654363464356_175eb2293bd0.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -4.0
+    - -22.0
+    - 16.0
+    - 654363464356.0
+    - 175.0
+    - 293.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: April 19th, 2024 "Life is one fool thing after another,
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Week 16 whereas love is two fool things after each other."
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 60, Issue 1130
+    unit: null
+    values:
+    - 2.0
+    - 60.0
+    - 1130.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: overall 202 3 dearth of tonnage, which has been further exacer bated
+      by geopolitical violence of late,
+    unit: null
+    values:
+    - 202.0
+    - 3.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: again as a solo container managed to clear the coveted USD 600/LDT
+      mark (albeit with about USD
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 20/LDT of fuel included) and this sale in turn has been the pricing
+      aphrodisiac to tempt several
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: For week 16 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 16.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Improving 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Improving 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Improving 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: above USD 600/LT LDT contaBineAr fNixtuGre fLroAm oDnlyE aS coHupl
+      e of weeks ago), resulting in
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: a local port position that has immediately followed suit with 10
+      vessels & nearly 103K
+    unit: null
+    values:
+    - 10.0
+    - 103.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Magical USD 6XX/LT. freight market, has resulted in a notably larger
+      collection of fixtures to Chattogram
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: short of the magical USD 6XX/LT LDT price point.
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: (albeit marginally) towards BDT 110, ending the week at BDT 109.98
+      against the U.S.
+    unit: null
+    values:
+    - 110.0
+    - 109.98
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Best of 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: it's be st thr ough 2024 thus far.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: a process that is reportedly expected to last about 6 weeks and the
+      results of which are
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: due to be announced on June 2nd. As such, over-eager Cash Buyers
+      with a penchant for
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: India's economy into overdrive for 2024 (and beyond).
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: extent that local steel plate prices climbed about USD 20/Ton only
+      to collapse by about
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: USD 10/Ton last week and subsequenItlNy suDrgeI aAno ther USD 20/Ton
+      as this week ended,
+    unit: usd
+    values:
+    - 10.0
+    - 20.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: while the Indian Rupee briefly surged past another record-breaking
+      Rs. 83.70 this week,
+    unit: null
+    values:
+    - 83.7
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: subsequently ending at levels approaching Rs 83.30 against the U.S.
+      Dollar.
+    unit: null
+    values:
+    - 83.3
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: once again, as it depreciated and ended the week at PKR 278.25 against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 278.25
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: pricing gap that has kept Gadani's anchorage well-blessed through
+      much of Q1 2024, it
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: seems as though Pakistan's fallback to 3rd place in the market rankings
+      is nearly imminent,
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: After what seems to have been an exceptionally brutal 4 quarters
+      ailing Aliaga, the recent
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Brutal 4.
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Turkish Lira has resumed its unstoppable decline as it passes TRY
+      32.50 against the U.S.
+    unit: null
+    values:
+    - 32.5
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line:  At 2,500 miles (4,000 km) long, the immense system of Martian canyons
+      known as Valles Marineris is more than 10 times
+    unit: null
+    values:
+    - 2500.0
+    - 4000.0
+    - 10.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: spotted by the global mapping mission Mariner 9 in 1971. And what
+      a sight it was to miss, or how could it have even been
+    unit: null
+    values:
+    - 9.0
+    - 1971.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line:  When heavily shielded Venera spacecraft from the Soviet Union landed
+      there in the 1970s, according to NASA, each lasted a
+    unit: null
+    values:
+    - 1970.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day April 23 - April 29
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 05 - May 13
+    unit: null
+    values:
+    - 23.0
+    - 5.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 21 - May 29
+    unit: null
+    values:
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day April 23 - April 26
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 26.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 07 - May 10
+    unit: null
+    values:
+    - 23.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - May 25
+    unit: null
+    values:
+    - 23.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 1 - May 5 - Labor Day Holidays May 5 - Labor Day Holiday April
+      23 - National Sovereignty &
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 5.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor & Solidarity Day
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Denak Voyager 9,519 Bulk Carrier Arrived April 18
+    unit: null
+    values:
+    - 1.0
+    - 9519.0
+    - 18.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hong Yuan 01 11,481 Container Beached April 13
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 11481.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hong Yuan You 19 2,580 Tanker Beached April 13
+    unit: null
+    values:
+    - 3.0
+    - 19.0
+    - 2580.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Island (Dead Vessel) 41,374 FSU Arrived April 16
+    unit: null
+    values:
+    - 4.0
+    - 41374.0
+    - 16.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 5 Medan 2 7,284 Container Arrived April 18
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 7284.0
+    - 18.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 6 One Victory 7,685 Bulk Carrier Arrived April 17
+    unit: null
+    values:
+    - 6.0
+    - 7685.0
+    - 17.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 7 Sinokor Hong Kong 5,475 Container Arrived April 18
+    unit: null
+    values:
+    - 7.0
+    - 5475.0
+    - 18.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 8 Swarajya 8,542 Tanker Arrived April 12
+    unit: null
+    values:
+    - 8.0
+    - 8542.0
+    - 12.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 9 Xin Run 66 2,908 Tanker Arrived April 08
+    unit: null
+    values:
+    - 9.0
+    - 66.0
+    - 2908.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 10 Yamta 6,003 Bulk Carrier Arrived April 17
+    unit: tonnage
+    values:
+    - 10.0
+    - 6003.0
+    - 17.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 102,850
+    unit: null
+    values:
+    - 102850.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sea Flower 5,282 General Cargo Arrived March 27
+    unit: null
+    values:
+    - 1.0
+    - 5282.0
+    - 27.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 5,282
+    unit: null
+    values:
+    - 5282.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4/13/2024 481.96 40,200.00 736.28 208,000.00 607.32 74,700.00 340.30
+    unit: null
+    values:
+    - 4.0
+    - 13.0
+    - 2024.0
+    - 481.96
+    - 40200.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 340.3
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4/14/2024 481.96 40,200.00 736.28 208,000.00 622.50 74,700.00 340.30
+    unit: null
+    values:
+    - 4.0
+    - 14.0
+    - 2024.0
+    - 481.96
+    - 40200.0
+    - 736.28
+    - 208000.0
+    - 622.5
+    - 74700.0
+    - 340.3
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: '4/15/2024 488.92 40,800.00 736.28 208,000.00 #VALUE! NA 340.30'
+    unit: null
+    values:
+    - 4.0
+    - 15.0
+    - 2024.0
+    - 488.92
+    - 40800.0
+    - 736.28
+    - 208000.0
+    - 340.3
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: '4/16/2024 496.77 41,500.00 736.28 208,000.00 #VALUE! NA 343.06'
+    unit: null
+    values:
+    - 4.0
+    - 16.0
+    - 2024.0
+    - 496.77
+    - 41500.0
+    - 736.28
+    - 208000.0
+    - 343.06
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4/17/2024 495.63 41,400.00 736.28 208,000.00 600.00 72,000.00 343.06
+    unit: null
+    values:
+    - 4.0
+    - 17.0
+    - 2024.0
+    - 495.63
+    - 41400.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 343.06
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4/18/2024 500.36 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
+    unit: null
+    values:
+    - 4.0
+    - 18.0
+    - 2024.0
+    - 500.36
+    - 41800.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 345.68
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 4/19/2024 500.42 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
+    unit: null
+    values:
+    - 4.0
+    - 19.0
+    - 2024.0
+    - 500.42
+    - 41800.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 345.68
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_ship-recycling-market-insight-week-1_2bcb1ca7014a.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-04-22_gms-week-16-versions-of-volatility.html
 source_stem: 2024-04-22_gms-week-16-versions-of-volatility

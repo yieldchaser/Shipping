@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 86
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 12/06/2023
   unit: null
@@ -40,8 +39,7 @@ numeric_observations:
   - 12.0
   - 6.0
   - 2023.0
-- &id002
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 03 June 2023 - 09 June 2023
   unit: null
@@ -50,8 +48,7 @@ numeric_observations:
   - 2023.0
   - 9.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -59,8 +56,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -68,8 +64,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 2023 and 2024. The organization anticipates a 2.7% global growth for
     the current year. The report stated that, excluding the year of the Covid pandemic
@@ -80,8 +75,7 @@ numeric_observations:
   - 2024.0
   - 2.7
   - 2020.0
-- &id006
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: as a result of reduced demand from China, thereby impacting countries
     such as India. Meanwhile in 2022, steel production decreased by 4.2% compared
@@ -90,8 +84,7 @@ numeric_observations:
   values:
   - 2022.0
   - 4.2
-- &id007
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: post-pandemic rebound of 1,960 million tonnes in 2021, which was the
     largest drop since 2009 and 1991.
@@ -101,16 +94,14 @@ numeric_observations:
   - 2021.0
   - 2009.0
   - 1991.0
-- &id008
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: an interest rate hike during its upcoming meeting on June 13-14.
   unit: null
   values:
   - 13.0
   - -14.0
-- &id009
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 82.44 This Week : 107.95 This Week : 283.98 This Week
     : 23.50'
@@ -120,8 +111,7 @@ numeric_observations:
   - 107.95
   - 283.98
   - 23.5
-- &id010
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 82.34 Previous Week : 107.09 Previous Week : 285.42
     Previous Week : 20.88'
@@ -131,8 +121,7 @@ numeric_observations:
   - 107.09
   - 285.42
   - 20.88
-- &id011
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.10 Lost : 0.86 Gained : 1.44 Lost : 2.62'
   unit: null
@@ -141,39 +130,34 @@ numeric_observations:
   - 0.86
   - 1.44
   - 2.62
-- &id012
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Towards the conclusion of the week, the local market in India experienced
     a brief surge, 600
   unit: null
   values:
   - 600.0
-- &id014
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 530 530
   unit: null
   values:
   - 530.0
   - 530.0
-- &id015
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 500 500
   unit: null
   values:
   - 500.0
   - 500.0
-- &id016
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: though having initially declined. As the week progressed, the market
     demonstrated a 490 490
@@ -181,16 +165,14 @@ numeric_observations:
   values:
   - 490.0
   - 490.0
-- &id017
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 520 to 530 USD.
   unit: usd
   values:
   - 520.0
   - 530.0
-- &id018
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: of an influx of vessels, a substantial correction in the prevailing
     circumstances could Price of HMS 1&2 (80:20) and Shredded
@@ -200,8 +182,7 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id019
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Finance Ministry in order to defend the local industry against Chinese
     dumping. Several 430 443
@@ -209,31 +190,27 @@ numeric_observations:
   values:
   - 430.0
   - 443.0
-- &id020
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 420 423
   unit: null
   values:
   - 420.0
   - 423.0
-- &id021
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: steel firms have recommended raising import duties on specific steel
     products. 400
   unit: null
   values:
   - 400.0
-- &id022
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Beaching Dates 200
   unit: null
   values:
   - 200.0
-- &id023
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 09 June to 10 June 2023
   unit: null
@@ -241,8 +218,7 @@ numeric_observations:
   - 9.0
   - 10.0
   - 2023.0
-- &id024
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 14 June to 21 June 2023
   unit: null
@@ -250,8 +226,7 @@ numeric_observations:
   - 14.0
   - 21.0
   - 2023.0
-- &id025
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 01 July to 09 July 2023
   unit: null
@@ -259,8 +234,7 @@ numeric_observations:
   - 1.0
   - 9.0
   - 2023.0
-- &id026
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -269,15 +243,13 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id027
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id028
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 600 560 570
   unit: null
@@ -285,8 +257,7 @@ numeric_observations:
   - 600.0
   - 560.0
   - 570.0
-- &id029
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 545 555 535 545
   unit: null
@@ -295,8 +266,7 @@ numeric_observations:
   - 555.0
   - 535.0
   - 545.0
-- &id030
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: the past two to three weeks, with only minor fluctuations of approximately
     100 to 200
@@ -304,8 +274,7 @@ numeric_observations:
   values:
   - 100.0
   - 200.0
-- &id031
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -314,24 +283,21 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id032
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: In May, Bangladesh's inflation reached a record-high level of 9.94
     percent, providing
   unit: null
   values:
   - 9.94
-- &id033
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 463 465
   unit: null
   values:
   - 463.0
   - 465.0
-- &id034
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Bangladesh Bureau of Statistics, the monthly inflation rate in May
     was greater than 9.52 433 435
@@ -340,15 +306,13 @@ numeric_observations:
   - 9.52
   - 433.0
   - 435.0
-- &id035
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: percent for the first time since August 2022.
   unit: null
   values:
   - 2022.0
-- &id036
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 17 June to 20 June 2023
   unit: null
@@ -356,8 +320,7 @@ numeric_observations:
   - 17.0
   - 20.0
   - 2023.0
-- &id037
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 03 July to 06 July 2023
   unit: null
@@ -365,8 +328,7 @@ numeric_observations:
   - 3.0
   - 6.0
   - 2023.0
-- &id038
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 18 July to 21 July 2023
   unit: null
@@ -374,23 +336,20 @@ numeric_observations:
   - 18.0
   - 21.0
   - 2023.0
-- &id039
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id040
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: fiscal year.The Pakistani government aims to reduce the fiscal deficit
     to 6.54% of GDP in
   unit: pct
   values:
   - 6.54
-- &id041
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: the 2023-24 fiscal year, which is slightly lower than the revised estimate
     of 7% for the
@@ -399,16 +358,14 @@ numeric_observations:
   - 2023.0
   - -24.0
   - 7.0
-- &id042
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: current year. The GDP growth rate target is set at 3.5%. The proposed
     expenditure plan
   unit: pct
   values:
   - 3.5
-- &id043
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: allocates 14.46 trillion rupees ($50.45 billion) in total, including
     1.8 trillion rupees for
@@ -417,39 +374,34 @@ numeric_observations:
   - 14.46
   - 50.45
   - 1.8
-- &id044
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 438 440
   unit: null
   values:
   - 438.0
   - 440.0
-- &id045
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '*HMS 1& 2 no booking as no LC facilities'
   unit: null
   values:
   - 1.0
   - 2.0
-- &id046
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id047
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 350 350
   unit: null
   values:
   - 350.0
   - 350.0
-- &id048
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 340 340 330 330
   unit: null
@@ -458,23 +410,20 @@ numeric_observations:
   - 340.0
   - 330.0
   - 330.0
-- &id049
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: The Turkish lira's value in dollars fell by more than 7% to a record
     low, indicating a
   unit: pct
   values:
   - 7.0
-- &id050
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: has fallen by 60% in the last two years.
   unit: pct
   values:
   - 60.0
-- &id051
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: steel production decreased by 20.6% compared to the same month last
     year, to about 2.7
@@ -482,8 +431,7 @@ numeric_observations:
   values:
   - 20.6
   - 2.7
-- &id052
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 400 385 390 397 395
   unit: null
@@ -493,68 +441,59 @@ numeric_observations:
   - 390.0
   - 397.0
   - 395.0
-- &id053
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id054
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 75.75 This Week : 71.11'
   unit: null
   values:
   - 75.75
   - 71.11
-- &id055
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 75.86 Previous Week : 71.77'
   unit: null
   values:
   - 75.86
   - 71.77
-- &id056
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Movement : - 0.11 Movement : - 0.66'
   unit: null
   values:
   - 0.11
   - 0.66
-- &id057
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '838.75'
   unit: null
   values:
   - 838.75
-- &id058
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '834.50'
   unit: null
   values:
   - 834.5
-- &id059
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '784.50'
   unit: null
   values:
   - 784.5
-- &id060
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 743.75 746
   unit: null
   values:
   - 743.75
   - 746.0
-- &id061
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 718 728.50 720
   unit: null
@@ -562,37 +501,32 @@ numeric_observations:
   - 718.0
   - 728.5
   - 720.0
-- &id062
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '707.50'
   unit: null
   values:
   - 707.5
-- &id063
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: '700.25'
   unit: null
   values:
   - 700.25
-- &id064
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 670 671.25
   unit: null
   values:
   - 670.0
   - 671.25
-- &id065
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id066
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: DAEBOKGASHO TANKER 9152349 1996 JAPAN 1,112 DELIVERED CHITTAGONG,BANGLADESH
     UNDISCLOSED
@@ -601,16 +535,14 @@ numeric_observations:
   - 9152349.0
   - 1996.0
   - 1112.0
-- &id067
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 535 (250 MT BUNKERS
   unit: tonnage
   values:
   - 535.0
   - 250.0
-- &id068
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: CHANG MING 2 BULK CARRIER 9156838 1997 JAPAN 9,483 AS - IS HONG KONG
   unit: null
@@ -619,8 +551,7 @@ numeric_observations:
   - 9156838.0
   - 1997.0
   - 9483.0
-- &id069
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: WELLWIN BULK CARRIER 9074793 1995 JAPAN 8,932 DELIVERED CHITTAGONG,BANGLADESH
     575
@@ -630,15 +561,13 @@ numeric_observations:
   - 1995.0
   - 8932.0
   - 575.0
-- &id070
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 620 (LARGE UNDISCLOSED QTY
   unit: null
   values:
   - 620.0
-- &id071
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: HONG HAO GENERAL CARGO 9131242 1998 POLAND 11,821 DELIVERED CHITTAGONG,BANGLADESH
   unit: null
@@ -646,8 +575,7 @@ numeric_observations:
   - 9131242.0
   - 1998.0
   - 11821.0
-- &id072
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: JASMINE II BULKER 9137430 1997 CHINA 9,563 DELIVERED CHITTAGONG,BANGLADESH
     UNDISCLOSED
@@ -656,8 +584,7 @@ numeric_observations:
   - 9137430.0
   - 1997.0
   - 9563.0
-- &id073
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: MSC NICOLE CONTAINER 8509387 1989 FRANCE 14,305 DELIVERED ALANG, INDIA
     (HKC RECYCLING) UNDISCLOSED
@@ -666,16 +593,14 @@ numeric_observations:
   - 8509387.0
   - 1989.0
   - 14305.0
-- &id074
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: BBeesstt OOaassiiss LLiimmiitteedd WWeeeekkllyy SShhiipp RReeccyycclliinngg
     RReeppoorrtt 0088
   unit: null
   values:
   - 88.0
-- &id075
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -683,8 +608,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id076
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204'
   unit: null
@@ -693,8 +617,7 @@ numeric_observations:
   - 417.0
   - 188.0
   - 204.0
-- &id077
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 55 836 9147'
   unit: null
@@ -703,8 +626,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id078
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021'
   unit: null
@@ -713,8 +635,7 @@ numeric_observations:
   - 172.0
   - 370.0
   - 1021.0
-- &id079
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Greece Phone: +971 4575 4667'
   unit: null
@@ -722,8 +643,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id080
-  section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+- section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -796,86 +716,627 @@ section_count: 2
 signals:
   numeric_observation_count: 86
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 12/06/2023
+    unit: null
+    values:
+    - 12.0
+    - 6.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 03 June 2023 - 09 June 2023
+    unit: null
+    values:
+    - 3.0
+    - 2023.0
+    - 9.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 2023 and 2024. The organization anticipates a 2.7% global growth
+      for the current year. The report stated that, excluding the year of the Covid
+      pandemic in 2020,
+    unit: pct
+    values:
+    - 2023.0
+    - 2024.0
+    - 2.7
+    - 2020.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: as a result of reduced demand from China, thereby impacting countries
+      such as India. Meanwhile in 2022, steel production decreased by 4.2% compared
+      to the
+    unit: pct
+    values:
+    - 2022.0
+    - 4.2
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: post-pandemic rebound of 1,960 million tonnes in 2021, which was
+      the largest drop since 2009 and 1991.
+    unit: null
+    values:
+    - 1960.0
+    - 2021.0
+    - 2009.0
+    - 1991.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: an interest rate hike during its upcoming meeting on June 13-14.
+    unit: null
+    values:
+    - 13.0
+    - -14.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 82.44 This Week : 107.95 This Week : 283.98 This Week
+      : 23.50'
+    unit: null
+    values:
+    - 82.44
+    - 107.95
+    - 283.98
+    - 23.5
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 82.34 Previous Week : 107.09 Previous Week : 285.42
+      Previous Week : 20.88'
+    unit: null
+    values:
+    - 82.34
+    - 107.09
+    - 285.42
+    - 20.88
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.10 Lost : 0.86 Gained : 1.44 Lost : 2.62'
+    unit: null
+    values:
+    - 0.1
+    - 0.86
+    - 1.44
+    - 2.62
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Towards the conclusion of the week, the local market in India experienced
+      a brief surge, 600
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 530 530
+    unit: null
+    values:
+    - 530.0
+    - 530.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 500 500
+    unit: null
+    values:
+    - 500.0
+    - 500.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: though having initially declined. As the week progressed, the market
+      demonstrated a 490 490
+    unit: null
+    values:
+    - 490.0
+    - 490.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 520 to 530 USD.
+    unit: usd
+    values:
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: of an influx of vessels, a substantial correction in the prevailing
+      circumstances could Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Finance Ministry in order to defend the local industry against Chinese
+      dumping. Several 430 443
+    unit: null
+    values:
+    - 430.0
+    - 443.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 420 423
+    unit: null
+    values:
+    - 420.0
+    - 423.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: steel firms have recommended raising import duties on specific steel
+      products. 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Beaching Dates 200
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 09 June to 10 June 2023
+    unit: null
+    values:
+    - 9.0
+    - 10.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 14 June to 21 June 2023
+    unit: null
+    values:
+    - 14.0
+    - 21.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 01 July to 09 July 2023
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 600 560 570
+    unit: null
+    values:
+    - 600.0
+    - 560.0
+    - 570.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 545 555 535 545
+    unit: null
+    values:
+    - 545.0
+    - 555.0
+    - 535.0
+    - 545.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: the past two to three weeks, with only minor fluctuations of approximately
+      100 to 200
+    unit: null
+    values:
+    - 100.0
+    - 200.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: In May, Bangladesh's inflation reached a record-high level of 9.94
+      percent, providing
+    unit: null
+    values:
+    - 9.94
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 463 465
+    unit: null
+    values:
+    - 463.0
+    - 465.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh Bureau of Statistics, the monthly inflation rate in May
+      was greater than 9.52 433 435
+    unit: null
+    values:
+    - 9.52
+    - 433.0
+    - 435.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: percent for the first time since August 2022.
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 17 June to 20 June 2023
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 03 July to 06 July 2023
+    unit: null
+    values:
+    - 3.0
+    - 6.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 18 July to 21 July 2023
+    unit: null
+    values:
+    - 18.0
+    - 21.0
+    - 2023.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: fiscal year.The Pakistani government aims to reduce the fiscal deficit
+      to 6.54% of GDP in
+    unit: pct
+    values:
+    - 6.54
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: the 2023-24 fiscal year, which is slightly lower than the revised
+      estimate of 7% for the
+    unit: pct
+    values:
+    - 2023.0
+    - -24.0
+    - 7.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: current year. The GDP growth rate target is set at 3.5%. The proposed
+      expenditure plan
+    unit: pct
+    values:
+    - 3.5
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: allocates 14.46 trillion rupees ($50.45 billion) in total, including
+      1.8 trillion rupees for
+    unit: usd
+    values:
+    - 14.46
+    - 50.45
+    - 1.8
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 438 440
+    unit: null
+    values:
+    - 438.0
+    - 440.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '*HMS 1& 2 no booking as no LC facilities'
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 350 350
+    unit: null
+    values:
+    - 350.0
+    - 350.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 340 340 330 330
+    unit: null
+    values:
+    - 340.0
+    - 340.0
+    - 330.0
+    - 330.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: The Turkish lira's value in dollars fell by more than 7% to a record
+      low, indicating a
+    unit: pct
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: has fallen by 60% in the last two years.
+    unit: pct
+    values:
+    - 60.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: steel production decreased by 20.6% compared to the same month last
+      year, to about 2.7
+    unit: pct
+    values:
+    - 20.6
+    - 2.7
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 400 385 390 397 395
+    unit: null
+    values:
+    - 400.0
+    - 385.0
+    - 390.0
+    - 397.0
+    - 395.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 75.75 This Week : 71.11'
+    unit: null
+    values:
+    - 75.75
+    - 71.11
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 75.86 Previous Week : 71.77'
+    unit: null
+    values:
+    - 75.86
+    - 71.77
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : - 0.11 Movement : - 0.66'
+    unit: null
+    values:
+    - 0.11
+    - 0.66
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '838.75'
+    unit: null
+    values:
+    - 838.75
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '834.50'
+    unit: null
+    values:
+    - 834.5
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '784.50'
+    unit: null
+    values:
+    - 784.5
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 743.75 746
+    unit: null
+    values:
+    - 743.75
+    - 746.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 718 728.50 720
+    unit: null
+    values:
+    - 718.0
+    - 728.5
+    - 720.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '707.50'
+    unit: null
+    values:
+    - 707.5
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: '700.25'
+    unit: null
+    values:
+    - 700.25
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 670 671.25
+    unit: null
+    values:
+    - 670.0
+    - 671.25
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: DAEBOKGASHO TANKER 9152349 1996 JAPAN 1,112 DELIVERED CHITTAGONG,BANGLADESH
+      UNDISCLOSED
+    unit: null
+    values:
+    - 9152349.0
+    - 1996.0
+    - 1112.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 535 (250 MT BUNKERS
+    unit: tonnage
+    values:
+    - 535.0
+    - 250.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: CHANG MING 2 BULK CARRIER 9156838 1997 JAPAN 9,483 AS - IS HONG KONG
+    unit: null
+    values:
+    - 2.0
+    - 9156838.0
+    - 1997.0
+    - 9483.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: WELLWIN BULK CARRIER 9074793 1995 JAPAN 8,932 DELIVERED CHITTAGONG,BANGLADESH
+      575
+    unit: null
+    values:
+    - 9074793.0
+    - 1995.0
+    - 8932.0
+    - 575.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 620 (LARGE UNDISCLOSED QTY
+    unit: null
+    values:
+    - 620.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: HONG HAO GENERAL CARGO 9131242 1998 POLAND 11,821 DELIVERED CHITTAGONG,BANGLADESH
+    unit: null
+    values:
+    - 9131242.0
+    - 1998.0
+    - 11821.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: JASMINE II BULKER 9137430 1997 CHINA 9,563 DELIVERED CHITTAGONG,BANGLADESH
+      UNDISCLOSED
+    unit: null
+    values:
+    - 9137430.0
+    - 1997.0
+    - 9563.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: MSC NICOLE CONTAINER 8509387 1989 FRANCE 14,305 DELIVERED ALANG,
+      INDIA (HKC RECYCLING) UNDISCLOSED
+    unit: null
+    values:
+    - 8509387.0
+    - 1989.0
+    - 14305.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: BBeesstt OOaassiiss LLiimmiitteedd WWeeeekkllyy SShhiipp RReeccyycclliinngg
+      RReeppoorrtt 0088
+    unit: null
+    values:
+    - 88.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Greece Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2023-06-12_Weekly-Ship-Recycling-Report-03-June-09-June-2023-1.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-06-12_best-oasis-weekly-recycling-market-report-09-june-2023.html
 source_stem: 2023-06-12_best-oasis-weekly-recycling-market-report-09-june-2023

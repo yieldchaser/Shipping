@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 102
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we progressively approach Diwali holidays - inflation, fundamentals,
     currencies (except in India),vessel pricing, and overall weakening sentiments
@@ -40,8 +39,7 @@ numeric_observations:
   unit: usd
   values:
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Seemingly on the back of global steel plate prices, which have reportedly
     improved by about 3% over the course of the week, there is a growing optimism
@@ -54,8 +52,7 @@ numeric_observations:
   - 11.0
   - 10.0
   - 300.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Notwithstanding, there remains the ongoing global shortage of tonnage
     as mostly older, 90s built Bulkers are being introduced for recycling (along with
@@ -65,8 +62,7 @@ numeric_observations:
   values:
   - 90.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, after a barren last quarter (in terms of supply) and a recycling
     market that has declined from the peaks seen earlier in the year above USD 600/LDT,
@@ -77,8 +73,7 @@ numeric_observations:
   - 600.0
   - 100.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 44 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -86,8 +81,7 @@ numeric_observations:
   values:
   - 44.0
   - 2023.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-11-06_gms-week-44-diwali-dismay_img1_05112023bh_002413249b5f.jpg'
   unit: null
@@ -98,8 +92,7 @@ numeric_observations:
   - 44.0
   - 5112023.0
   - 2413249.0
-- &id007
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Novemb er 3rd, 2023 "I never look back, darling. It distracts from
     the now."
@@ -107,109 +100,95 @@ numeric_observations:
   values:
   - 3.0
   - 2023.0
-- &id008
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Volume 255, Issue 1107
   unit: null
   values:
   - 255.0
   - 1107.0
-- &id009
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Week 44
   unit: null
   values:
   - 44.0
-- &id010
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: certainly cooled by about USD 20/LDT (and then some) over recent weeks,
     all while
   unit: usd
   values:
   - 20.0
-- &id011
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 3% over the course of the week, there is a growing optimism that the
     ship recycling industry
   unit: pct
   values:
   - 3.0
-- &id012
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: could potentially be set for a firmer conclusion to 2023, especially
     if current steel plate trends
   unit: null
   values:
   - 2023.0
-- &id013
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: appreciated by about USD 11/T in this week, and vessel prices have
     (directly or indirectly)
   unit: usd
   values:
   - 11.0
-- &id014
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: • Supply incoming. reflected this firming by improving about USD 10/MT
     on their own, placing all offer levels
   unit: tonnage
   values:
   - 10.0
-- &id015
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: from Aliaga back in the USD 300/MT space once again.
   unit: tonnage
   values:
   - 300.0
-- &id016
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Notwithstanding, there remains the ongoing global shortage of tonnage
     as mostly older, 90s
   unit: null
   values:
   - 90.0
-- &id017
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 2024 and when all markets are hopefully firing and continually improving
     / upgrading their
   unit: null
   values:
   - 2024.0
-- &id018
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: GMS Recycling App declined from the peaks seen earlier in the year
     above USD 600/LDT, only to lose over USD
   unit: usd
   values:
   - 600.0
-- &id019
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 100/LDT in value in a few short months over the summer, industry players
     all are hoping for
   unit: null
   values:
   - 100.0
-- &id020
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: an optimistic welcoming of Q1 2024.
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: For week 44 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -217,8 +196,7 @@ numeric_observations:
   values:
   - 44.0
   - 2023.0
-- &id022
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 India Declining 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -227,8 +205,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id023
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh* Weak 505 / LDT 525 / LDT 545 / LDT
   unit: null
@@ -237,8 +214,7 @@ numeric_observations:
   - 505.0
   - 525.0
   - 545.0
-- &id024
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -247,8 +223,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id025
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 300 / LDT 310 / LDT 320 / LDT
   unit: null
@@ -257,64 +232,56 @@ numeric_observations:
   - 300.0
   - 310.0
   - 320.0
-- &id026
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: local steel plate prices decline by about USD 5/Ton in one day (ending
     the week on a
   unit: usd
   values:
   - 5.0
-- &id028
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: lower note), but the Taka also continues to cancer deeper into BDT
     110 territory against
   unit: null
   values:
   - 110.0
-- &id029
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar, as the currency closes the week at levels closer to
     BDT 110.50.
   unit: null
   values:
   - 110.5
-- &id030
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, even though global steel plate prices have reportedly improved
     by about 3%
   unit: pct
   values:
   - 3.0
-- &id032
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: regular share of volatility as plate prices climbed by about USD 5/Ton
     (from USD
   unit: usd
   values:
   - 5.0
-- &id033
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 516/Ton to USD 521/Ton), only to subsequen tly collapse by USD 13/Ton
     in just two days
@@ -323,24 +290,21 @@ numeric_observations:
   - 516.0
   - 521.0
   - 13.0
-- &id034
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: marginal ly towards the very low Rs. 8I3N.1XD maIrkA th is week.
   unit: null
   values:
   - 8.0
   - 1.0
-- &id035
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Gadani Gang. PKR 300 against the U.S. Dollar - ending the week at PKR
     284.40.
@@ -348,31 +312,27 @@ numeric_observations:
   values:
   - 300.0
   - 284.4
-- &id037
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: USD 10/MT jump.
   unit: tonnage
   values:
   - 10.0
-- &id039
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: prices jumped by about USD 11/Ton this week, directly / indirectly
     attributing to a USD
   unit: usd
   values:
   - 11.0
-- &id040
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 10/MT jump in vessel offers, resulting in Turkish levels being above
     USD 300/Ton levels
@@ -380,39 +340,34 @@ numeric_observations:
   values:
   - 10.0
   - 300.0
-- &id041
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: prices registered no movement, all while the Lira slips deeper into
     TRY 28 territory, as it
   unit: null
   values:
   - 28.0
-- &id042
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: ends the week nearly scratching TRY 28.50 levels.
   unit: null
   values:
   - 28.5
-- &id043
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: are s olid (ice), liquid (water) and gas (vapour). The temperature
     is 0.01 degree Celsius.
   unit: null
   values:
   - 0.01
-- &id045
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line:  Heli um can work against Gravity. When cooled to nearly zero temperature
     (-460 degrees F or -273 degrees C), Helium
@@ -420,8 +375,7 @@ numeric_observations:
   values:
   - -460.0
   - -273.0
-- &id046
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: November 12 - November 15 - Diwali October 26 - November 03
   unit: null
@@ -430,63 +384,55 @@ numeric_observations:
   - 15.0
   - 26.0
   - 3.0
-- &id047
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: November 12 - November 19
   unit: null
   values:
   - 12.0
   - 19.0
-- &id048
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: November 25 - December 02
   unit: null
   values:
   - 25.0
   - 2.0
-- &id049
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 12 - November 15
   unit: null
   values:
   - 12.0
   - 15.0
-- &id050
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: November 25 - November 28
   unit: null
   values:
   - 25.0
   - 28.0
-- &id051
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 09 - Iqbal Day No holidays in November
   unit: null
   values:
   - 9.0
-- &id052
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 03, 2023
   unit: null
   values:
   - 3.0
   - 2023.0
-- &id054
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 Dan 6,776 Container Beached October 28
   unit: null
@@ -494,8 +440,7 @@ numeric_observations:
   - 1.0
   - 6776.0
   - 28.0
-- &id055
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 2 Dev 21,731 Container Beached October 31
   unit: null
@@ -503,23 +448,20 @@ numeric_observations:
   - 2.0
   - 21731.0
   - 31.0
-- &id056
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 28,507
   unit: null
   values:
   - 28507.0
-- &id057
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of November 03, 2023
   unit: null
   values:
   - 3.0
   - 2023.0
-- &id058
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 Alana 22,471 Tanker Beached October 31
   unit: null
@@ -527,8 +469,7 @@ numeric_observations:
   - 1.0
   - 22471.0
   - 31.0
-- &id059
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 2 Jitra 7 7,036 Container Beached October 27
   unit: null
@@ -537,8 +478,7 @@ numeric_observations:
   - 7.0
   - 7036.0
   - 27.0
-- &id060
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 3 OS Tiga (Under Tow) 2,934 Offshore Supply Vessel Beached November
     01
@@ -547,8 +487,7 @@ numeric_observations:
   - 3.0
   - 2934.0
   - 1.0
-- &id061
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 4 Yi Ding 9 1,552 Tanker Beached October 29
   unit: null
@@ -557,23 +496,20 @@ numeric_observations:
   - 9.0
   - 1552.0
   - 29.0
-- &id062
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 33,994
   unit: null
   values:
   - 33994.0
-- &id063
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of November 02, 2023
   unit: null
   values:
   - 2.0
   - 2023.0
-- &id064
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 Ventura 16,810 Tanker Arrived October 27
   unit: null
@@ -581,15 +517,13 @@ numeric_observations:
   - 1.0
   - 16810.0
   - 27.0
-- &id065
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,810
   unit: null
   values:
   - 16810.0
-- &id066
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -598,8 +532,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id067
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -608,8 +541,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id068
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -618,8 +550,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id069
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -628,8 +559,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id070
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -638,8 +568,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id071
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 0 /2 8 /2 0 2 3
   unit: null
@@ -650,8 +579,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id072
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 0 /2 9 /2 0 2 3
   unit: null
@@ -662,8 +590,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id073
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 0 /3 0 /2 0 2 3
   unit: null
@@ -673,8 +600,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id074
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 0 /3 1 /2 0 2 3
   unit: null
@@ -685,8 +611,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id075
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 1 /1 /2 0 2 3
   unit: null
@@ -697,8 +622,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id076
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 1 /2 /2 0 2 3
   unit: null
@@ -709,8 +633,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id077
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 1 /3 /2 0 2 3
   unit: null
@@ -721,8 +644,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 6 .5 2
   unit: null
@@ -731,8 +653,7 @@ numeric_observations:
   - 6.0
   - 5.0
   - 2.0
-- &id079
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 2 1 .2 6
   unit: null
@@ -741,8 +662,7 @@ numeric_observations:
   - 1.0
   - 2.0
   - 6.0
-- &id080
-  section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+- section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
   section_type: linked_pdf
   source_line: 1 7 .7 2
   unit: null
@@ -936,86 +856,647 @@ section_count: 3
 signals:
   numeric_observation_count: 102
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we progressively approach Diwali holidays - inflation, fundamentals,
+      currencies (except in India),vessel pricing, and overall weakening sentiments
+      certainly seem to have beset across all of the sub-continent ship-recycling
+      destinations (even Turkey to an ex
+    unit: usd
+    values:
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Seemingly on the back of global steel plate prices, which have reportedly
+      improved by about 3% over the course of the week, there is a growing optimism
+      that the ship recycling industry could potentially be set for a firmer conclusion
+      to 2023, especially if cur
+    unit: tonnage
+    values:
+    - 3.0
+    - 2023.0
+    - 11.0
+    - 10.0
+    - 300.0
+  - section: Main
+    section_type: null
+    source_line: Notwithstanding, there remains the ongoing global shortage of tonnage
+      as mostly older, 90s built Bulkers are being introduced for recycling (along
+      with the odd container unit), whilst supply is yet to hit acceptable levels
+      for the year. This may certainly chan
+    unit: null
+    values:
+    - 90.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Overall, after a barren last quarter (in terms of supply) and a recycling
+      market that has declined from the peaks seen earlier in the year above USD 600/LDT,
+      only to lose over USD 100/LDT in value in a few short months over the summer,
+      industry players all are
+    unit: usd
+    values:
+    - 600.0
+    - 100.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 44 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 44.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-11-06_gms-week-44-diwali-dismay_img1_05112023bh_002413249b5f.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -11.0
+    - -6.0
+    - 44.0
+    - 5112023.0
+    - 2413249.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Novemb er 3rd, 2023 "I never look back, darling. It distracts from
+      the now."
+    unit: null
+    values:
+    - 3.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Volume 255, Issue 1107
+    unit: null
+    values:
+    - 255.0
+    - 1107.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Week 44
+    unit: null
+    values:
+    - 44.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: certainly cooled by about USD 20/LDT (and then some) over recent
+      weeks, all while
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 3% over the course of the week, there is a growing optimism that
+      the ship recycling industry
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: could potentially be set for a firmer conclusion to 2023, especially
+      if current steel plate trends
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: appreciated by about USD 11/T in this week, and vessel prices have
+      (directly or indirectly)
+    unit: usd
+    values:
+    - 11.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: • Supply incoming. reflected this firming by improving about USD
+      10/MT on their own, placing all offer levels
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: from Aliaga back in the USD 300/MT space once again.
+    unit: tonnage
+    values:
+    - 300.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Notwithstanding, there remains the ongoing global shortage of tonnage
+      as mostly older, 90s
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 2024 and when all markets are hopefully firing and continually improving
+      / upgrading their
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: GMS Recycling App declined from the peaks seen earlier in the year
+      above USD 600/LDT, only to lose over USD
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 100/LDT in value in a few short months over the summer, industry
+      players all are hoping for
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: an optimistic welcoming of Q1 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: For week 44 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 44.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Declining 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh* Weak 505 / LDT 525 / LDT 545 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 505.0
+    - 525.0
+    - 545.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 300 / LDT 310 / LDT 320 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 300.0
+    - 310.0
+    - 320.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: local steel plate prices decline by about USD 5/Ton in one day (ending
+      the week on a
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: lower note), but the Taka also continues to cancer deeper into BDT
+      110 territory against
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar, as the currency closes the week at levels closer
+      to BDT 110.50.
+    unit: null
+    values:
+    - 110.5
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, even though global steel plate prices have reportedly
+      improved by about 3%
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: regular share of volatility as plate prices climbed by about USD
+      5/Ton (from USD
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 516/Ton to USD 521/Ton), only to subsequen tly collapse by USD 13/Ton
+      in just two days
+    unit: usd
+    values:
+    - 516.0
+    - 521.0
+    - 13.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: marginal ly towards the very low Rs. 8I3N.1XD maIrkA th is week.
+    unit: null
+    values:
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Gadani Gang. PKR 300 against the U.S. Dollar - ending the week at
+      PKR 284.40.
+    unit: null
+    values:
+    - 300.0
+    - 284.4
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: USD 10/MT jump.
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: prices jumped by about USD 11/Ton this week, directly / indirectly
+      attributing to a USD
+    unit: usd
+    values:
+    - 11.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 10/MT jump in vessel offers, resulting in Turkish levels being above
+      USD 300/Ton levels
+    unit: tonnage
+    values:
+    - 10.0
+    - 300.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: prices registered no movement, all while the Lira slips deeper into
+      TRY 28 territory, as it
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: ends the week nearly scratching TRY 28.50 levels.
+    unit: null
+    values:
+    - 28.5
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: are s olid (ice), liquid (water) and gas (vapour). The temperature
+      is 0.01 degree Celsius.
+    unit: null
+    values:
+    - 0.01
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line:  Heli um can work against Gravity. When cooled to nearly zero temperature
+      (-460 degrees F or -273 degrees C), Helium
+    unit: null
+    values:
+    - -460.0
+    - -273.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: November 12 - November 15 - Diwali October 26 - November 03
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: November 12 - November 19
+    unit: null
+    values:
+    - 12.0
+    - 19.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - December 02
+    unit: null
+    values:
+    - 25.0
+    - 2.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 12 - November 15
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: November 25 - November 28
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 09 - Iqbal Day No holidays in November
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 03, 2023
+    unit: null
+    values:
+    - 3.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 Dan 6,776 Container Beached October 28
+    unit: null
+    values:
+    - 1.0
+    - 6776.0
+    - 28.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dev 21,731 Container Beached October 31
+    unit: null
+    values:
+    - 2.0
+    - 21731.0
+    - 31.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 28,507
+    unit: null
+    values:
+    - 28507.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of November 03, 2023
+    unit: null
+    values:
+    - 3.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 Alana 22,471 Tanker Beached October 31
+    unit: null
+    values:
+    - 1.0
+    - 22471.0
+    - 31.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 2 Jitra 7 7,036 Container Beached October 27
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+    - 7036.0
+    - 27.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 3 OS Tiga (Under Tow) 2,934 Offshore Supply Vessel Beached November
+      01
+    unit: null
+    values:
+    - 3.0
+    - 2934.0
+    - 1.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 4 Yi Ding 9 1,552 Tanker Beached October 29
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 1552.0
+    - 29.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 33,994
+    unit: null
+    values:
+    - 33994.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of November 02, 2023
+    unit: null
+    values:
+    - 2.0
+    - 2023.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ventura 16,810 Tanker Arrived October 27
+    unit: null
+    values:
+    - 1.0
+    - 16810.0
+    - 27.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,810
+    unit: null
+    values:
+    - 16810.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 0 /2 8 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 8.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 0 /2 9 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 9.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 0 /3 0 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 0 /3 1 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /1 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /2 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 2.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 1 /3 /2 0 2 3
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 3.0
+    - 2.0
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 6 .5 2
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 2 1 .2 6
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2.0
+    - 6.0
+  - section: 'Linked asset: 2023-11-06_gms-week-44-diwali-dismay_ship-recycling-market-insight-week-4_dc13e7488ccf.pdf'
+    section_type: linked_pdf
+    source_line: 1 7 .7 2
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 7.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-11-06_gms-week-44-diwali-dismay.html
 source_stem: 2023-11-06_gms-week-44-diwali-dismay

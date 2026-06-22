@@ -31,16 +31,14 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 126
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The Week 18 thesis that the blockade had hardened into a structural
     reality has been challenged,
   unit: null
   values:
   - 18.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: though not overturned, by the most consequential diplomatic move since
     February 28. Brent collapsed from the April 30 high of USD 126.41 to USD 96.73
@@ -58,8 +56,7 @@ numeric_observations:
   - 23000.0
   - 87.0
   - 2000.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight has moved decisively the other way. The BDI closed at 2,991
     on May 6, up 321 points (12%) from 2,670, as Capesize earnings surged, the BCI
@@ -76,8 +73,7 @@ numeric_observations:
   - 4283.0
   - 42514.0
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Inflation is now reflecting the full impact of the war shock. Pakistan's
     April CPI rose to 10.9% (from 7.3%), the first double-digit print in 21 months,
@@ -94,8 +90,7 @@ numeric_observations:
   - 32.37
   - 30.87
   - 4.18
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Currencies are diverging. USD/INR hit 95.27 on May 4 before recovering
     to ~94.18 by May 7. USD/TRY has weakened to a record 45.24, down 1.64% over the
@@ -113,8 +108,7 @@ numeric_observations:
   - 278.82
   - 122.74
   - -123.18
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: With roughly three weeks before the monsoon window closes, timing is
     critical. The Brent correction and MoU arrive too late, on current evidence, to
@@ -124,8 +118,7 @@ numeric_observations:
   values:
   - 18.0
   - 21.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: The Week 19 question has shifted from whether supply will release to
     whether diplomacy can release it in time. Freight and inflation suggest it will
@@ -133,8 +126,7 @@ numeric_observations:
   unit: null
   values:
   - 19.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 19 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -142,15 +134,13 @@ numeric_observations:
   values:
   - 19.0
   - 2026.0
-- &id009
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 95202550.jpg'
   unit: null
   values:
   - 95202550.0
-- &id010
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   unit: null
@@ -163,31 +153,27 @@ numeric_observations:
   - 66.0
   - 4.0
   - 5.0
-- &id011
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x152 mode=RGB'
   unit: null
   values:
   - 688.0
   - 52.0
-- &id012
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
   - 72.0
   - 72.0
-- &id013
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 5 ‘ Dry Bulk Tankers Containers
   unit: null
   values:
   - 5.0
-- &id014
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: a Bangladesh Improving 460-465 / LDT | 480-485 / LDT | 490-495 / LDT
   unit: null
@@ -198,8 +184,7 @@ numeric_observations:
   - -485.0
   - 490.0
   - -495.0
-- &id015
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: z= Pakistan Holding 445-450 / LDT | 465-470 / LDT | 475-480 / LDT
   unit: null
@@ -210,8 +195,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id016
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: '[a Prurkey [Softening | 268-270/bT | 278-280,/Lot | 286-290 /LDT |'
   unit: null
@@ -222,54 +206,47 @@ numeric_observations:
   - -280.0
   - 286.0
   - -290.0
-- &id017
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id018
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: May 8th, 2026
   unit: null
   values:
   - 8.0
   - 2026.0
-- &id019
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Week 19
   unit: null
   values:
   - 19.0
-- &id020
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1234
   unit: null
   values:
   - 282.0
   - 1234.0
-- &id021
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: The Week 18 thesis that the blockade had hardened into a structural
     reality has been challenged, though
   unit: null
   values:
   - 18.0
-- &id022
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: not overturned, by the most consequential diplomatic move since February
     28. Brent collapsed from the
   unit: null
   values:
   - 28.0
-- &id023
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: April 30 high of U SD 126.41 to USD 96.73 on May 6, settling near USD
     100 by May 7, after Axios reported
@@ -281,8 +258,7 @@ numeric_observations:
   - 6.0
   - 100.0
   - 7.0
-- &id024
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 23,000 seafarers from 87 countries remain stranded across roughly 2,000
     vessels in the Persian Gulf, with
@@ -291,8 +267,7 @@ numeric_observations:
   - 23000.0
   - 87.0
   - 2000.0
-- &id025
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: F reight has moved decisively the other way. The BDI closed at 2,991
     on May 6, up 321 points (12%) from
@@ -302,8 +277,7 @@ numeric_observations:
   - 6.0
   - 321.0
   - 12.0
-- &id026
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 2,670, as Capesize earnings surged, the BCI reaching 5,074 (from 4,283)
     with daily returns at USD 42,514.
@@ -313,16 +287,14 @@ numeric_observations:
   - 5074.0
   - 4283.0
   - 42514.0
-- &id027
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: strongest levels of 2026, extending the trading premium that keeps
     older vessels active. Even with a
   unit: null
   values:
   - 2026.0
-- &id028
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Inflation is now reflecting the full impact of the war shock. Pakis
     tan's April CPI rose to 10.9% (from 7.3%),
@@ -330,16 +302,14 @@ numeric_observations:
   values:
   - 10.9
   - 7.3
-- &id029
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: the first double-digit print in 21 months, as the weekly oil import
     bill jumped from USD 300 million to
   unit: usd
   values:
   - 300.0
-- &id030
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: USD 800 million. The State Bank of Pakistan responded with a 100bps
     rate hike to 11.5%, its first in three
@@ -348,8 +318,7 @@ numeric_observations:
   - 800.0
   - 100.0
   - 11.5
-- &id031
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: years. Turkey's CPI reached 32.37% (from 30.87%), with monthly inflation
     at 4.18%, ending a three-month
@@ -358,8 +327,7 @@ numeric_observations:
   - 32.37
   - 30.87
   - 4.18
-- &id032
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: DC urrencies are diverging. USD/INR hit 95.27 on May 4 before recovering
     to ~94.18 by May 7. USD/TRY
@@ -369,8 +337,7 @@ numeric_observations:
   - 4.0
   - 94.18
   - 7.0
-- &id033
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: has weakened to a record 45.24, down 1.64% over the month. USD/PKR
     edged to 279.61 from 278.82 amid
@@ -380,8 +347,7 @@ numeric_observations:
   - 1.64
   - 279.61
   - 278.82
-- &id034
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: the rate hike and inflation shock, while USD/BDT holds within 122.74-123.18
     at 122.90. The DXY remains
@@ -390,40 +356,35 @@ numeric_observations:
   - 122.74
   - -123.18
   - 122.9
-- &id035
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: near 100. The prior bifurcation has narrowed, though Pakistan's currency
     advantage has been materially
   unit: null
   values:
   - 100.0
-- &id036
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: MoU arrive too late, on current evidence, to alter the Week 18 conclusion
     that the Q1 overhang has
   unit: null
   values:
   - 18.0
-- &id037
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: become a Q2 backlog. Owners' decisions over the next 21 days remain
     driven by firm freight, unresolved
   unit: null
   values:
   - 21.0
-- &id038
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: The Week 19 question has shifted from whether supply will release to
     whether diplomacy can release it
   unit: null
   values:
   - 19.0
-- &id039
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 19 of 2026 are on Page 5.
   unit: null
@@ -431,16 +392,14 @@ numeric_observations:
   - 19.0
   - 2026.0
   - 5.0
-- &id040
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 19 with USD/BDT at approximately 122.90, fully
     within the 122.74 to
@@ -449,8 +408,7 @@ numeric_observations:
   - 19.0
   - 122.9
   - 122.74
-- &id042
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 123.18 band that has now defined the entire Q2 to date. The Dollar
     Index has held near 100 through
@@ -458,8 +416,7 @@ numeric_observations:
   values:
   - 123.18
   - 100.0
-- &id043
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: the diplomatic whipsaw of Brent crashing from USD 126 on April 30 to
     under USD 100 on May 6,
@@ -469,16 +426,14 @@ numeric_observations:
   - 30.0
   - 100.0
   - 6.0
-- &id044
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: exchange reserves at USD 34.12 billion as of March remain the operative
     buffer, and central bank
   unit: usd
   values:
   - 34.12
-- &id045
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: border settlement. Local steel plate prices continue to hold in the
     BDT 69,100 to 71,000 range, with
@@ -486,32 +441,28 @@ numeric_observations:
   values:
   - 69100.0
   - 71000.0
-- &id046
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: the USD equivalent at approximately USD 562 to USD 578 per ton.
   unit: usd
   values:
   - 562.0
   - 578.0
-- &id047
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: The Letter of Credit pipeline has now sustained the cleared status
     that emerged through Week 17
   unit: null
   values:
   - 17.0
-- &id048
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: and consolidated through Week 18. Chattogram cash buyers continue to
     report file-to-fund cycles
   unit: null
   values:
   - 18.0
-- &id049
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's March 2026 CPI at 8.71% and non-food inflation at 9.09%
     remain the operative reads,
@@ -520,8 +471,7 @@ numeric_observations:
   - 2026.0
   - 8.71
   - 9.09
-- &id050
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: from 7.3% to 10.9% and Turkey's from 30.87% to 32.37%, both driven
     by transport and energy
@@ -531,8 +481,7 @@ numeric_observations:
   - 10.9
   - 30.87
   - 32.37
-- &id051
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: collapse from USD 126 to USD 100 over seven days has, on the operational
     level, changed nothing
@@ -540,16 +489,14 @@ numeric_observations:
   values:
   - 126.0
   - 100.0
-- &id052
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: India's Week 19 has been defined by USD/INR's round trip from the Week
     18 close of 94.71 to a fresh
@@ -558,8 +505,7 @@ numeric_observations:
   - 19.0
   - 18.0
   - 94.71
-- &id054
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: all-time low of 95.27 on May 4 (surpassing the prior 94.86 record from
     March 27), and back to
@@ -569,8 +515,7 @@ numeric_observations:
   - 4.0
   - 94.86
   - 27.0
-- &id055
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: approximately 94.18 by the May 7 close on the breakthrough headlines.
     The Reserve Bank of India's
@@ -578,8 +523,7 @@ numeric_observations:
   values:
   - 94.18
   - 7.0
-- &id056
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: market-cleared currency level rather than a defended one. Today's 93.68
     to 94.72 intraday range
@@ -587,8 +531,7 @@ numeric_observations:
   values:
   - 93.68
   - 94.72
-- &id057
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: underscores how much positioning remains in flux. The May 4 stress
     level was a 12-month range
@@ -596,8 +539,7 @@ numeric_observations:
   values:
   - 4.0
   - 12.0
-- &id058
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: extreme; the May 7 recovery has not retraced even half of the move
     from the Week 14 record of 94.42
@@ -606,8 +548,7 @@ numeric_observations:
   - 7.0
   - 14.0
   - 94.42
-- &id059
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: The Brent collapse from USD 126.41 on April 30 to USD 96.73 intraday
     on May 6, on Trump's
@@ -617,8 +558,7 @@ numeric_observations:
   - 30.0
   - 96.73
   - 6.0
-- &id060
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: approximately 70% of crude and 90% of LPG that route through or near
     Hormuz now faces the
@@ -626,16 +566,14 @@ numeric_observations:
   values:
   - 70.0
   - 90.0
-- &id061
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: from May 6 to May 7 should be read as relief, not yet resolution.
   unit: null
   values:
   - 6.0
   - 7.0
-- &id062
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang held in the INR 40,100 to 41,000
     range through the week, with the USD
@@ -643,8 +581,7 @@ numeric_observations:
   values:
   - 40100.0
   - 41000.0
-- &id063
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: equivalent at approximately USD 422 to USD 436 per ton at the prevailing
     exchange rates. India
@@ -652,24 +589,21 @@ numeric_observations:
   values:
   - 422.0
   - 436.0
-- &id064
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: remains the lowest-priced sub-continent destination, with the gap to
     Pakistan now near USD 240 per
   unit: usd
   values:
   - 240.0
-- &id065
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id066
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Pakistan's April 2026 CPI printed at 10.9% year-on-year, an increase
     of 360 basis points from the
@@ -678,16 +612,14 @@ numeric_observations:
   - 2026.0
   - 10.9
   - 360.0
-- &id067
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Sho ck Lands. March 7.3% reading and the first double-digit print in
     21 months, materially exceeding
   unit: pct
   values:
   - 7.3
-- &id068
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Pakistan's weekly oil import bill has risen from USD 300 million before
     the war to USD 800 million
@@ -695,8 +627,7 @@ numeric_observations:
   values:
   - 300.0
   - 800.0
-- &id069
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: The State Bank of Pakistan responded by lifting its key policy rate
     by 100 basis points to 11.5% at
@@ -704,8 +635,7 @@ numeric_observations:
   values:
   - 100.0
   - 11.5
-- &id070
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: had defined late 2025. USD/PKR has eased to approximately 279.61 from
     the Week 18 close of
@@ -714,24 +644,21 @@ numeric_observations:
   - 2025.0
   - 279.61
   - 18.0
-- &id071
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 278.82, a marginal weakening that sits comfortably within the ranges
     that have characterised the
   unit: null
   values:
   - 278.82
-- &id072
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: texture of Pakistan's Week 18 "stability advantage" thesis. The PKR
     remains the most stable major
   unit: null
   values:
   - 18.0
-- &id073
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at PKR 190,000 per ton are unchanged from
     the Week 18 close, translating
@@ -739,16 +666,14 @@ numeric_observations:
   values:
   - 190000.0
   - 18.0
-- &id074
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Advantage Narrows. to a USD equivalent of approximately USD 679 per
     ton on the marginal PKR weakening. Gadani's
   unit: usd
   values:
   - 679.0
-- &id075
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 240 per LDT. The Gulf proximity premium that compounded structurally
     through Weeks 16 to 18
@@ -757,32 +682,28 @@ numeric_observations:
   - 240.0
   - 16.0
   - 18.0
-- &id076
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: 'is, on the diplomatic motion of Week 19, beginning to face theoretical
     erosion: a durable Hormuz'
   unit: null
   values:
   - 19.0
-- &id077
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: suspended. The risk that Pakistan flagged in Week 16 ("the most to
     lose if a deal arrives quickly,
   unit: null
   values:
   - 16.0
-- &id078
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id079
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Turkey enters Week 19 with USD/TRY at approximately 45.24, a fresh
     record low surpassing the
@@ -790,8 +711,7 @@ numeric_observations:
   values:
   - 19.0
   - 45.24
-- &id080
-  section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: Week 18 reference of 44.92, with the lira weakening 1.64% over the
     past month and 18.02% over the
@@ -1138,86 +1058,698 @@ section_count: 3
 signals:
   numeric_observation_count: 126
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The Week 18 thesis that the blockade had hardened into a structural
+      reality has been challenged,
+    unit: null
+    values:
+    - 18.0
+  - section: Main
+    section_type: null
+    source_line: though not overturned, by the most consequential diplomatic move
+      since February 28. Brent collapsed from the April 30 high of USD 126.41 to USD
+      96.73 on May 6, settling near USD 100 by May 7, after Axios reported a one-page
+      MoU transmitted from Washington to T
+    unit: usd
+    values:
+    - 28.0
+    - 30.0
+    - 126.41
+    - 96.73
+    - 6.0
+    - 100.0
+    - 7.0
+    - 23000.0
+    - 87.0
+    - 2000.0
+  - section: Main
+    section_type: null
+    source_line: Freight has moved decisively the other way. The BDI closed at 2,991
+      on May 6, up 321 points (12%) from 2,670, as Capesize earnings surged, the BCI
+      reaching 5,074 (from 4,283) with daily returns at USD 42,514. Panamax and Supramax
+      firmed alongside. Dry bulk seg
+    unit: pct
+    values:
+    - 2991.0
+    - 6.0
+    - 321.0
+    - 12.0
+    - 2670.0
+    - 5074.0
+    - 4283.0
+    - 42514.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Inflation is now reflecting the full impact of the war shock. Pakistan's
+      April CPI rose to 10.9% (from 7.3%), the first double-digit print in 21 months,
+      as the weekly oil import bill jumped from USD 300 million to USD 800 million.
+      The State Bank of Pakistan re
+    unit: pct
+    values:
+    - 10.9
+    - 7.3
+    - 300.0
+    - 800.0
+    - 100.0
+    - 11.5
+    - 32.37
+    - 30.87
+    - 4.18
+  - section: Main
+    section_type: null
+    source_line: Currencies are diverging. USD/INR hit 95.27 on May 4 before recovering
+      to ~94.18 by May 7. USD/TRY has weakened to a record 45.24, down 1.64% over
+      the month. USD/PKR edged to 279.61 from 278.82 amid the rate hike and inflation
+      shock, while USD/BDT holds within
+    unit: usd_per_unit
+    values:
+    - 95.27
+    - 4.0
+    - 94.18
+    - 7.0
+    - 45.24
+    - 1.64
+    - 279.61
+    - 278.82
+    - 122.74
+    - -123.18
+  - section: Main
+    section_type: null
+    source_line: With roughly three weeks before the monsoon window closes, timing
+      is critical. The Brent correction and MoU arrive too late, on current evidence,
+      to alter the Week 18 conclusion that the Q1 overhang has become a Q2 backlog.
+      Owners' decisions over the next 21 d
+    unit: null
+    values:
+    - 18.0
+    - 21.0
+  - section: Main
+    section_type: null
+    source_line: The Week 19 question has shifted from whether supply will release
+      to whether diplomacy can release it in time. Freight and inflation suggest it
+      will not. The backlog holds.
+    unit: null
+    values:
+    - 19.0
+  - section: Main
+    section_type: null
+    source_line: For Week 19 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 19.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 95202550.jpg'
+    unit: null
+    values:
+    - 95202550.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -5.0
+    - -9.0
+    - 19.0
+    - 95202550.0
+    - 66.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 688x152 mode=RGB'
+    unit: null
+    values:
+    - 688.0
+    - 52.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: 5 ‘ Dry Bulk Tankers Containers
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: a Bangladesh Improving 460-465 / LDT | 480-485 / LDT | 490-495 /
+      LDT
+    unit: null
+    values:
+    - 460.0
+    - -465.0
+    - 480.0
+    - -485.0
+    - 490.0
+    - -495.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: z= Pakistan Holding 445-450 / LDT | 465-470 / LDT | 475-480 / LDT
+    unit: null
+    values:
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
+    section_type: linked_image_asset
+    source_line: '[a Prurkey [Softening | 268-270/bT | 278-280,/Lot | 286-290 /LDT
+      |'
+    unit: null
+    values:
+    - 268.0
+    - -270.0
+    - 278.0
+    - -280.0
+    - 286.0
+    - -290.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: May 8th, 2026
+    unit: null
+    values:
+    - 8.0
+    - 2026.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Week 19
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1234
+    unit: null
+    values:
+    - 282.0
+    - 1234.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: The Week 18 thesis that the blockade had hardened into a structural
+      reality has been challenged, though
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: not overturned, by the most consequential diplomatic move since February
+      28. Brent collapsed from the
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: April 30 high of U SD 126.41 to USD 96.73 on May 6, settling near
+      USD 100 by May 7, after Axios reported
+    unit: usd
+    values:
+    - 30.0
+    - 126.41
+    - 96.73
+    - 6.0
+    - 100.0
+    - 7.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 23,000 seafarers from 87 countries remain stranded across roughly
+      2,000 vessels in the Persian Gulf, with
+    unit: null
+    values:
+    - 23000.0
+    - 87.0
+    - 2000.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: F reight has moved decisively the other way. The BDI closed at 2,991
+      on May 6, up 321 points (12%) from
+    unit: pct
+    values:
+    - 2991.0
+    - 6.0
+    - 321.0
+    - 12.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 2,670, as Capesize earnings surged, the BCI reaching 5,074 (from
+      4,283) with daily returns at USD 42,514.
+    unit: usd
+    values:
+    - 2670.0
+    - 5074.0
+    - 4283.0
+    - 42514.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: strongest levels of 2026, extending the trading premium that keeps
+      older vessels active. Even with a
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Inflation is now reflecting the full impact of the war shock. Pakis
+      tan's April CPI rose to 10.9% (from 7.3%),
+    unit: pct
+    values:
+    - 10.9
+    - 7.3
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: the first double-digit print in 21 months, as the weekly oil import
+      bill jumped from USD 300 million to
+    unit: usd
+    values:
+    - 300.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: USD 800 million. The State Bank of Pakistan responded with a 100bps
+      rate hike to 11.5%, its first in three
+    unit: pct
+    values:
+    - 800.0
+    - 100.0
+    - 11.5
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: years. Turkey's CPI reached 32.37% (from 30.87%), with monthly inflation
+      at 4.18%, ending a three-month
+    unit: pct
+    values:
+    - 32.37
+    - 30.87
+    - 4.18
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: DC urrencies are diverging. USD/INR hit 95.27 on May 4 before recovering
+      to ~94.18 by May 7. USD/TRY
+    unit: usd_per_unit
+    values:
+    - 95.27
+    - 4.0
+    - 94.18
+    - 7.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: has weakened to a record 45.24, down 1.64% over the month. USD/PKR
+      edged to 279.61 from 278.82 amid
+    unit: usd_per_unit
+    values:
+    - 45.24
+    - 1.64
+    - 279.61
+    - 278.82
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: the rate hike and inflation shock, while USD/BDT holds within 122.74-123.18
+      at 122.90. The DXY remains
+    unit: usd_per_unit
+    values:
+    - 122.74
+    - -123.18
+    - 122.9
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: near 100. The prior bifurcation has narrowed, though Pakistan's currency
+      advantage has been materially
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: MoU arrive too late, on current evidence, to alter the Week 18 conclusion
+      that the Q1 overhang has
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: become a Q2 backlog. Owners' decisions over the next 21 days remain
+      driven by firm freight, unresolved
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: The Week 19 question has shifted from whether supply will release
+      to whether diplomacy can release it
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 19 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 19.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 19 with USD/BDT at approximately 122.90, fully
+      within the 122.74 to
+    unit: usd_per_unit
+    values:
+    - 19.0
+    - 122.9
+    - 122.74
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 123.18 band that has now defined the entire Q2 to date. The Dollar
+      Index has held near 100 through
+    unit: null
+    values:
+    - 123.18
+    - 100.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: the diplomatic whipsaw of Brent crashing from USD 126 on April 30
+      to under USD 100 on May 6,
+    unit: usd
+    values:
+    - 126.0
+    - 30.0
+    - 100.0
+    - 6.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: exchange reserves at USD 34.12 billion as of March remain the operative
+      buffer, and central bank
+    unit: usd
+    values:
+    - 34.12
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: border settlement. Local steel plate prices continue to hold in the
+      BDT 69,100 to 71,000 range, with
+    unit: null
+    values:
+    - 69100.0
+    - 71000.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: the USD equivalent at approximately USD 562 to USD 578 per ton.
+    unit: usd
+    values:
+    - 562.0
+    - 578.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: The Letter of Credit pipeline has now sustained the cleared status
+      that emerged through Week 17
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: and consolidated through Week 18. Chattogram cash buyers continue
+      to report file-to-fund cycles
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh's March 2026 CPI at 8.71% and non-food inflation at 9.09%
+      remain the operative reads,
+    unit: pct
+    values:
+    - 2026.0
+    - 8.71
+    - 9.09
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: from 7.3% to 10.9% and Turkey's from 30.87% to 32.37%, both driven
+      by transport and energy
+    unit: pct
+    values:
+    - 7.3
+    - 10.9
+    - 30.87
+    - 32.37
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: collapse from USD 126 to USD 100 over seven days has, on the operational
+      level, changed nothing
+    unit: usd
+    values:
+    - 126.0
+    - 100.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: India's Week 19 has been defined by USD/INR's round trip from the
+      Week 18 close of 94.71 to a fresh
+    unit: usd_per_unit
+    values:
+    - 19.0
+    - 18.0
+    - 94.71
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: all-time low of 95.27 on May 4 (surpassing the prior 94.86 record
+      from March 27), and back to
+    unit: null
+    values:
+    - 95.27
+    - 4.0
+    - 94.86
+    - 27.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: approximately 94.18 by the May 7 close on the breakthrough headlines.
+      The Reserve Bank of India's
+    unit: tonnage
+    values:
+    - 94.18
+    - 7.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: market-cleared currency level rather than a defended one. Today's
+      93.68 to 94.72 intraday range
+    unit: null
+    values:
+    - 93.68
+    - 94.72
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: underscores how much positioning remains in flux. The May 4 stress
+      level was a 12-month range
+    unit: null
+    values:
+    - 4.0
+    - 12.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: extreme; the May 7 recovery has not retraced even half of the move
+      from the Week 14 record of 94.42
+    unit: null
+    values:
+    - 7.0
+    - 14.0
+    - 94.42
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: The Brent collapse from USD 126.41 on April 30 to USD 96.73 intraday
+      on May 6, on Trump's
+    unit: usd
+    values:
+    - 126.41
+    - 30.0
+    - 96.73
+    - 6.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: approximately 70% of crude and 90% of LPG that route through or near
+      Hormuz now faces the
+    unit: pct
+    values:
+    - 70.0
+    - 90.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: from May 6 to May 7 should be read as relief, not yet resolution.
+    unit: null
+    values:
+    - 6.0
+    - 7.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang held in the INR 40,100 to 41,000
+      range through the week, with the USD
+    unit: usd
+    values:
+    - 40100.0
+    - 41000.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: equivalent at approximately USD 422 to USD 436 per ton at the prevailing
+      exchange rates. India
+    unit: usd
+    values:
+    - 422.0
+    - 436.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: remains the lowest-priced sub-continent destination, with the gap
+      to Pakistan now near USD 240 per
+    unit: usd
+    values:
+    - 240.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's April 2026 CPI printed at 10.9% year-on-year, an increase
+      of 360 basis points from the
+    unit: pct
+    values:
+    - 2026.0
+    - 10.9
+    - 360.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Sho ck Lands. March 7.3% reading and the first double-digit print
+      in 21 months, materially exceeding
+    unit: pct
+    values:
+    - 7.3
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's weekly oil import bill has risen from USD 300 million
+      before the war to USD 800 million
+    unit: usd
+    values:
+    - 300.0
+    - 800.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: The State Bank of Pakistan responded by lifting its key policy rate
+      by 100 basis points to 11.5% at
+    unit: pct
+    values:
+    - 100.0
+    - 11.5
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: had defined late 2025. USD/PKR has eased to approximately 279.61
+      from the Week 18 close of
+    unit: usd_per_unit
+    values:
+    - 2025.0
+    - 279.61
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 278.82, a marginal weakening that sits comfortably within the ranges
+      that have characterised the
+    unit: null
+    values:
+    - 278.82
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: texture of Pakistan's Week 18 "stability advantage" thesis. The PKR
+      remains the most stable major
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at PKR 190,000 per ton are unchanged from
+      the Week 18 close, translating
+    unit: null
+    values:
+    - 190000.0
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Advantage Narrows. to a USD equivalent of approximately USD 679 per
+      ton on the marginal PKR weakening. Gadani's
+    unit: usd
+    values:
+    - 679.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 240 per LDT. The Gulf proximity premium that compounded structurally
+      through Weeks 16 to 18
+    unit: null
+    values:
+    - 240.0
+    - 16.0
+    - 18.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: 'is, on the diplomatic motion of Week 19, beginning to face theoretical
+      erosion: a durable Hormuz'
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: suspended. The risk that Pakistan flagged in Week 16 ("the most to
+      lose if a deal arrives quickly,
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Turkey enters Week 19 with USD/TRY at approximately 45.24, a fresh
+      record low surpassing the
+    unit: usd_per_unit
+    values:
+    - 19.0
+    - 45.24
+  - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+    section_type: linked_pdf
+    source_line: Week 18 reference of 44.92, with the lira weakening 1.64% over the
+      past month and 18.02% over the
+    unit: pct
+    values:
+    - 18.0
+    - 44.92
+    - 1.64
+    - 18.02
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-05-09_gms-week-19-brent-breaks-backlog-holds.html
 source_stem: 2026-05-09_gms-week-19-brent-breaks-backlog-holds

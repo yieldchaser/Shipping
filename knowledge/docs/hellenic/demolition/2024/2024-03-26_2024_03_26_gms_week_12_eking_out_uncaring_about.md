@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 89
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Despite the occasional small(er) LDT candidate popping up for sale
     over recent weeks, there regrettably remains the ongoing scarcityof tonnage that
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Like Turkey, India has endured an exceptionally rough year, with volatile
     steel plate prices of its own, a currency that's weakening sharply again, an upcoming
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 2015.0
   - 2008.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: In an alternate light, the mere trickle of ships has also helped global
     ship recycling markets remain relatively well-positioned through these tumultuous
@@ -61,8 +58,7 @@ numeric_observations:
   values:
   - 30.0
   - 1.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 12 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -70,8 +66,7 @@ numeric_observations:
   values:
   - 12.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-03-26_gms-week-12-eking-out-uncaring-about_img1_25320230_3e544dc27612.jpg'
   unit: null
@@ -84,71 +79,62 @@ numeric_observations:
   - 3.0
   - 44.0
   - 7612.0
-- &id006
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: March 22 nd, 2024
   unit: null
   values:
   - 22.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Week 12
   unit: null
   values:
   - 12.0
-- &id008
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Volume 259, Issue 1126
   unit: null
   values:
   - 259.0
   - 1126.0
-- &id009
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 2024, both Bangladeshi and Pakistani markets remain well-positioned
     despite the onset of the
   unit: null
   values:
   - 2024.0
-- &id010
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: similar to what the industry witnessed back in 2015 & was labeled as
     the second ship recycling
   unit: null
   values:
   - 2015.0
-- &id011
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: recession (after the global crash of 2008) when vessel prices essentially
     halved for this very reason.
   unit: null
   values:
   - 2008.0
-- &id012
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: • Sustainable? still forecasting where the market will be 30 days later
     / closer to the time of physical delivery,
   unit: null
   values:
   - 30.0
-- &id013
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: hoping to make do with even just USD 1/Ton on the books - gotta love
     this industry's tenacity.
   unit: usd
   values:
   - 1.0
-- &id014
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Recycling App! For week 12 of 2024, GMS demo rankings / pricing for
     the week are as below.
@@ -156,8 +142,7 @@ numeric_observations:
   values:
   - 12.0
   - 2024.0
-- &id015
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Steady 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id016
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Steady 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -176,8 +160,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id017
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
   unit: null
@@ -186,8 +169,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 520.0
-- &id018
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Declining 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -196,71 +178,62 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id019
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: recycling activity, a theme that has persisted since the start of 2024
     and will likely
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Sea crisis also remains the biggest reason behind 2024s global ship
     recycling lethargy.
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Page 7).
   unit: null
   values:
   - 7.0
-- &id023
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: towards BDT 110 against the U.S. Dollar, whilst local steel plates
     remain flatlined yet
   unit: null
   values:
   - 110.0
-- &id024
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: basis, and Alang's port position havingI NnothDingI mAor e than a 2K
     LDT general cargo vessel
   unit: null
   values:
   - 2.0
-- &id026
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: week just about USD 1/Ton higher than last, all while the Indian Rupee
     assumes the
   unit: usd
   values:
   - 1.0
-- &id027
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: down by nearly Re. 1 (to Rs. 83.70) against the U.S. Dollar, only to
     end the week at levels
@@ -268,31 +241,27 @@ numeric_observations:
   values:
   - 1.0
   - 83.7
-- &id028
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: region Rs. 83.55.
   unit: null
   values:
   - 83.55
-- &id029
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: ship recycling sector for nearly 3 quarters of 2023.
   unit: null
   values:
   - 3.0
   - 2023.0
-- &id031
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Moreover, the volume of deliveries thuIsN farD in IQA1 2 024 are gradually
     approaching the total
@@ -300,8 +269,7 @@ numeric_observations:
   values:
   - 2.0
   - 24.0
-- &id032
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: of 17 vessels that were beached by Pakistani Recyclers through all
     of 2023, as at the very
@@ -309,8 +277,7 @@ numeric_observations:
   values:
   - 17.0
   - 2023.0
-- &id033
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: least, 10 vessels will be beached in Gadani (including the 2 at local
     anchorage) before the
@@ -318,70 +285,61 @@ numeric_observations:
   values:
   - 10.0
   - 2.0
-- &id034
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: start of Q2 2024.
   unit: null
   values:
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: the Pakistani Rupee was also the only currency among the top 5 global
     ship-recycling
   unit: null
   values:
   - 5.0
-- &id036
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: destinations to record an improvement as it broke into PKR 277.9X territory,
     only to end
   unit: null
   values:
   - 277.9
-- &id037
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: the week at PKR 278 against the U.S. Dollar.
   unit: null
   values:
   - 278.0
-- &id038
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Thankfully, Ramadan has added a greater degree of peace, through what
     has turned 2024
   unit: null
   values:
   - 2024.0
-- &id040
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: small improvement of about USD 5/Ton this week, on account of domestic
     Buyers focusing
   unit: usd
   values:
   - 5.0
-- &id041
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line:  India becomes the first nation to aSchPievAe a CsofEt la nFdiAng
     Cat tThe Slun aOr soFut h2 p0ole2 -3 ju.s t days after Russia's failed attempt.
@@ -389,32 +347,28 @@ numeric_observations:
   unit: null
   values:
   - -3.0
-- &id043
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line:  Psyche mission launches and is scheduled to arrive at the asteroid
     that shares its name in 2029.
   unit: null
   values:
   - 2029.0
-- &id044
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: the open ocean, one where coastal animals can prosper. In a new study,
     ecologists analyzed 105 pieces of debris from the
   unit: null
   values:
   - 105.0
-- &id045
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Great Pacific Garbage Patch. They found hundreds of marine invertebrates,
     belonging to 37 groups which they once
   unit: null
   values:
   - 37.0
-- &id046
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: March 25 - March 26 - Holi March 26 - March 30
   unit: null
@@ -423,8 +377,7 @@ numeric_observations:
   - 26.0
   - 26.0
   - 30.0
-- &id047
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: March 29 - Good Friday April 06 - April 13
   unit: null
@@ -432,8 +385,7 @@ numeric_observations:
   - 29.0
   - 6.0
   - 13.0
-- &id048
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 01 - Bank Holiday April 23 - April 29
   unit: null
@@ -441,36 +393,31 @@ numeric_observations:
   - 1.0
   - 23.0
   - 29.0
-- &id049
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 06 - Jumat-Ul-Wida
   unit: null
   values:
   - 6.0
-- &id050
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 09 - Gudi Padwa
   unit: null
   values:
   - 9.0
-- &id051
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 10 - Eid-ul-Fitr
   unit: null
   values:
   - 10.0
-- &id052
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 14 - Dr. Ambedkar Jayanti
   unit: null
   values:
   - 14.0
-- &id053
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day March 25 - March 28
   unit: null
@@ -478,8 +425,7 @@ numeric_observations:
   - 26.0
   - 25.0
   - 28.0
-- &id054
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 05 - Jumatul Bidah April 08 - April 11
   unit: null
@@ -487,8 +433,7 @@ numeric_observations:
   - 5.0
   - 8.0
   - 11.0
-- &id055
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 07 - Shab-e-Qadr April 23 - April 26
   unit: null
@@ -496,31 +441,27 @@ numeric_observations:
   - 7.0
   - 23.0
   - 26.0
-- &id056
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 10 - April 12 - Eid
   unit: null
   values:
   - 10.0
   - 12.0
-- &id057
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year.
   unit: null
   values:
   - 14.0
-- &id058
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 09 - April 12 - Ramazan.
   unit: null
   values:
   - 9.0
   - 12.0
-- &id059
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: April 04 - April 06 - Ching Ming April 10 - April 12 - Eid-ul-Fitr
     April 23 - National Sovereignty &
@@ -531,24 +472,21 @@ numeric_observations:
   - 10.0
   - 12.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id061
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 22, 2024
   unit: null
   values:
   - 22.0
   - 2024.0
-- &id062
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 1 Al Jamil 2,127 General Cargo Arrived March 16
   unit: null
@@ -556,23 +494,20 @@ numeric_observations:
   - 1.0
   - 2127.0
   - 16.0
-- &id063
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 2,127
   unit: null
   values:
   - 2127.0
-- &id064
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 22, 2024
   unit: null
   values:
   - 22.0
   - 2024.0
-- &id065
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 1 ISL Star 10,177 Bulk Carrier Arrived March 24
   unit: null
@@ -580,8 +515,7 @@ numeric_observations:
   - 1.0
   - 10177.0
   - 24.0
-- &id066
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 2 Xin Xiang Rui 4,933 Bulk Carrier Arrived March 13
   unit: null
@@ -589,23 +523,20 @@ numeric_observations:
   - 2.0
   - 4933.0
   - 13.0
-- &id067
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 15,110
   unit: null
   values:
   - 15110.0
-- &id068
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 22, 2024
   unit: null
   values:
   - 22.0
   - 2024.0
-- &id069
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 1 Brad 16,368 Tanker Arrived March 15
   unit: null
@@ -613,8 +544,7 @@ numeric_observations:
   - 1.0
   - 16368.0
   - 15.0
-- &id070
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 2 Rong Da Chang Sha 9,654 General Cargo Beached March 18
   unit: null
@@ -622,23 +552,20 @@ numeric_observations:
   - 2.0
   - 9654.0
   - 18.0
-- &id071
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 26,022
   unit: null
   values:
   - 26022.0
-- &id072
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/16/2024 465.73 38,600.00 736.28 208,000.00 607.32 74,700.00 340.26
   unit: null
@@ -653,8 +580,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 340.26
-- &id074
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/17/2024 465.73 38,600.00 736.28 208,000.00 607.32 74,700.00 340.26
   unit: null
@@ -669,8 +595,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 340.26
-- &id075
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/18/2024 465.62 38,600.00 736.28 208,000.00 607.32 74,700.00 336.19
   unit: null
@@ -685,8 +610,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.19
-- &id076
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/19/2024 464.84 38,600.00 736.28 208,000.00 607.32 74,700.00 336.19
   unit: null
@@ -701,8 +625,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.19
-- &id077
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/20/2024 466.63 38,800.00 736.28 208,000.00 607.32 74,700.00 336.19
   unit: null
@@ -717,8 +640,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.19
-- &id078
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/21/2024 469.03 39,000.00 736.28 208,000.00 607.32 74,700.00 336.19
   unit: null
@@ -733,8 +655,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 336.19
-- &id079
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 3/22/2024 466.65 38,900.00 736.28 208,000.00 607.32 74,700.00 340.12
   unit: null
@@ -749,8 +670,7 @@ numeric_observations:
   - 607.32
   - 74700.0
   - 340.12
-- &id080
-  section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+- section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -851,86 +771,656 @@ section_count: 3
 signals:
   numeric_observation_count: 89
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Despite the occasional small(er) LDT candidate popping up for sale
+      over recent weeks, there regrettably remains the ongoing scarcityof tonnage
+      that is simply unable to fill the most basic of demands at the major ship-recycling
+      destinations. As plots across Ind
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Like Turkey, India has endured an exceptionally rough year, with
+      volatile steel plate prices of its own, a currency that's weakening sharply
+      again, an upcoming election that is looming large over the nation's horizon,
+      and the lingering hope that if the Modi go
+    unit: null
+    values:
+    - 2015.0
+    - 2008.0
+  - section: Main
+    section_type: null
+    source_line: In an alternate light, the mere trickle of ships has also helped
+      global ship recycling markets remain relatively well-positioned through these
+      tumultuous times, as the rare unit that does get proposed into the markets,
+      is often subject to serious Cash Buyer co
+    unit: usd
+    values:
+    - 30.0
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: For week 12 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-03-26_gms-week-12-eking-out-uncaring-about_img1_25320230_3e544dc27612.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -3.0
+    - -26.0
+    - 12.0
+    - 25320230.0
+    - 3.0
+    - 44.0
+    - 7612.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: March 22 nd, 2024
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Week 12
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 259, Issue 1126
+    unit: null
+    values:
+    - 259.0
+    - 1126.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 2024, both Bangladeshi and Pakistani markets remain well-positioned
+      despite the onset of the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: similar to what the industry witnessed back in 2015 & was labeled
+      as the second ship recycling
+    unit: null
+    values:
+    - 2015.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: recession (after the global crash of 2008) when vessel prices essentially
+      halved for this very reason.
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: • Sustainable? still forecasting where the market will be 30 days
+      later / closer to the time of physical delivery,
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: hoping to make do with even just USD 1/Ton on the books - gotta love
+      this industry's tenacity.
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Recycling App! For week 12 of 2024, GMS demo rankings / pricing for
+      the week are as below.
+    unit: null
+    values:
+    - 12.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Steady 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Steady 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 480 / LDT 500 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 480.0
+    - 500.0
+    - 520.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Declining 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: recycling activity, a theme that has persisted since the start of
+      2024 and will likely
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Sea crisis also remains the biggest reason behind 2024s global ship
+      recycling lethargy.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7).
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: towards BDT 110 against the U.S. Dollar, whilst local steel plates
+      remain flatlined yet
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: basis, and Alang's port position havingI NnothDingI mAor e than a
+      2K LDT general cargo vessel
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: week just about USD 1/Ton higher than last, all while the Indian
+      Rupee assumes the
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: down by nearly Re. 1 (to Rs. 83.70) against the U.S. Dollar, only
+      to end the week at levels
+    unit: null
+    values:
+    - 1.0
+    - 83.7
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: region Rs. 83.55.
+    unit: null
+    values:
+    - 83.55
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: ship recycling sector for nearly 3 quarters of 2023.
+    unit: null
+    values:
+    - 3.0
+    - 2023.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Moreover, the volume of deliveries thuIsN farD in IQA1 2 024 are
+      gradually approaching the total
+    unit: null
+    values:
+    - 2.0
+    - 24.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: of 17 vessels that were beached by Pakistani Recyclers through all
+      of 2023, as at the very
+    unit: null
+    values:
+    - 17.0
+    - 2023.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: least, 10 vessels will be beached in Gadani (including the 2 at local
+      anchorage) before the
+    unit: null
+    values:
+    - 10.0
+    - 2.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: start of Q2 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: the Pakistani Rupee was also the only currency among the top 5 global
+      ship-recycling
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: destinations to record an improvement as it broke into PKR 277.9X
+      territory, only to end
+    unit: null
+    values:
+    - 277.9
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: the week at PKR 278 against the U.S. Dollar.
+    unit: null
+    values:
+    - 278.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Thankfully, Ramadan has added a greater degree of peace, through
+      what has turned 2024
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: small improvement of about USD 5/Ton this week, on account of domestic
+      Buyers focusing
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line:  India becomes the first nation to aSchPievAe a CsofEt la nFdiAng
+      Cat tThe Slun aOr soFut h2 p0ole2 -3 ju.s t days after Russia's failed attempt.
+      But
+    unit: null
+    values:
+    - -3.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line:  Psyche mission launches and is scheduled to arrive at the asteroid
+      that shares its name in 2029.
+    unit: null
+    values:
+    - 2029.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: the open ocean, one where coastal animals can prosper. In a new study,
+      ecologists analyzed 105 pieces of debris from the
+    unit: null
+    values:
+    - 105.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Great Pacific Garbage Patch. They found hundreds of marine invertebrates,
+      belonging to 37 groups which they once
+    unit: null
+    values:
+    - 37.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: March 25 - March 26 - Holi March 26 - March 30
+    unit: null
+    values:
+    - 25.0
+    - 26.0
+    - 26.0
+    - 30.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: March 29 - Good Friday April 06 - April 13
+    unit: null
+    values:
+    - 29.0
+    - 6.0
+    - 13.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 01 - Bank Holiday April 23 - April 29
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 29.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 06 - Jumat-Ul-Wida
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 09 - Gudi Padwa
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 10 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Dr. Ambedkar Jayanti
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day March 25 - March 28
+    unit: null
+    values:
+    - 26.0
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 05 - Jumatul Bidah April 08 - April 11
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 11.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 07 - Shab-e-Qadr April 23 - April 26
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+    - 26.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 10 - April 12 - Eid
+    unit: null
+    values:
+    - 10.0
+    - 12.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year.
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 09 - April 12 - Ramazan.
+    unit: null
+    values:
+    - 9.0
+    - 12.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: April 04 - April 06 - Ching Ming April 10 - April 12 - Eid-ul-Fitr
+      April 23 - National Sovereignty &
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 10.0
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 22, 2024
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Al Jamil 2,127 General Cargo Arrived March 16
+    unit: null
+    values:
+    - 1.0
+    - 2127.0
+    - 16.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 2,127
+    unit: null
+    values:
+    - 2127.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 22, 2024
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 1 ISL Star 10,177 Bulk Carrier Arrived March 24
+    unit: null
+    values:
+    - 1.0
+    - 10177.0
+    - 24.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Xin Xiang Rui 4,933 Bulk Carrier Arrived March 13
+    unit: null
+    values:
+    - 2.0
+    - 4933.0
+    - 13.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 15,110
+    unit: null
+    values:
+    - 15110.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 22, 2024
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Brad 16,368 Tanker Arrived March 15
+    unit: null
+    values:
+    - 1.0
+    - 16368.0
+    - 15.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Rong Da Chang Sha 9,654 General Cargo Beached March 18
+    unit: null
+    values:
+    - 2.0
+    - 9654.0
+    - 18.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 26,022
+    unit: null
+    values:
+    - 26022.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/16/2024 465.73 38,600.00 736.28 208,000.00 607.32 74,700.00 340.26
+    unit: null
+    values:
+    - 3.0
+    - 16.0
+    - 2024.0
+    - 465.73
+    - 38600.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 340.26
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/17/2024 465.73 38,600.00 736.28 208,000.00 607.32 74,700.00 340.26
+    unit: null
+    values:
+    - 3.0
+    - 17.0
+    - 2024.0
+    - 465.73
+    - 38600.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 340.26
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/18/2024 465.62 38,600.00 736.28 208,000.00 607.32 74,700.00 336.19
+    unit: null
+    values:
+    - 3.0
+    - 18.0
+    - 2024.0
+    - 465.62
+    - 38600.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.19
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/19/2024 464.84 38,600.00 736.28 208,000.00 607.32 74,700.00 336.19
+    unit: null
+    values:
+    - 3.0
+    - 19.0
+    - 2024.0
+    - 464.84
+    - 38600.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.19
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/20/2024 466.63 38,800.00 736.28 208,000.00 607.32 74,700.00 336.19
+    unit: null
+    values:
+    - 3.0
+    - 20.0
+    - 2024.0
+    - 466.63
+    - 38800.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.19
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/21/2024 469.03 39,000.00 736.28 208,000.00 607.32 74,700.00 336.19
+    unit: null
+    values:
+    - 3.0
+    - 21.0
+    - 2024.0
+    - 469.03
+    - 39000.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 336.19
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 3/22/2024 466.65 38,900.00 736.28 208,000.00 607.32 74,700.00 340.12
+    unit: null
+    values:
+    - 3.0
+    - 22.0
+    - 2024.0
+    - 466.65
+    - 38900.0
+    - 736.28
+    - 208000.0
+    - 607.32
+    - 74700.0
+    - 340.12
+  - section: 'Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_ship-recycling-market-insight-week-1_4143b9f5fcc6.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-03-26_gms-week-12-eking-out-uncaring-about.html
 source_stem: 2024-03-26_gms-week-12-eking-out-uncaring-about

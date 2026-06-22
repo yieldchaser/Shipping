@@ -165,6 +165,28 @@ signals:
     - 12000.0
     - 12000.0
     - 12000.0
+  - segment: supramax
+    source_line: SMAX/ULTRA 13,750 14,500 13,500 14,250 13,250 13,500
+    timeframe: null
+    unit: null
+    values:
+    - 13750.0
+    - 14500.0
+    - 13500.0
+    - 14250.0
+    - 13250.0
+    - 13500.0
+  - segment: panamax
+    source_line: PANAJKMAX | Vv 14,000 | 12,250 | 13,500 12,150 12,750 12,500
+    timeframe: null
+    unit: null
+    values:
+    - 14000.0
+    - 12250.0
+    - 13500.0
+    - 12150.0
+    - 12750.0
+    - 12500.0
   - segment: capesize
     source_line: CAPESIZE 19,500 19,500 20,000 20,000 20,500 20,500
     timeframe: null
@@ -179,6 +201,8 @@ signals:
   rate_summary:
     capesize: 20500.0
     handysize: 12000.0
+    panamax: 12500.0
+    supramax: 13500.0
   signal_family: hellenic_charter_rates
   timeframes: []
 source: hellenic

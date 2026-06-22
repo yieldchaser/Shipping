@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 82
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The end of Week 30 marks a noteworthy moment in the Middle East conflict
     that is nowhere near end in sight and despitereports of meetings between Israeli
@@ -44,8 +43,7 @@ numeric_observations:
   - 7.0
   - 11.0
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Accordingly, and expectedly, amidst a prolonged absence of workable
     candidates, there has been no bounce to any of the markets this week, despite
@@ -54,8 +52,7 @@ numeric_observations:
   unit: null
   values:
   - 200.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 30 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -63,8 +60,7 @@ numeric_observations:
   values:
   - 30.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
   unit: null
@@ -77,39 +73,34 @@ numeric_observations:
   - 938.0
   - 6.0
   - 1.0
-- &id005
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: July 26th, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Week 30
   unit: null
   values:
   - 30.0
-- &id007
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Volume 263, Issue 1144
   unit: null
   values:
   - 263.0
   - 1144.0
-- &id008
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: • All-out war? 7 attack are believed to be, including midday Saturday
     local time when IDF jets struck a school in
   unit: null
   values:
   - 7.0
-- &id009
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Gaza reportedly killing at least 30 displaced Palestinians in the process,
     and sadly, 7 children. In
@@ -117,32 +108,28 @@ numeric_observations:
   values:
   - 30.0
   - 7.0
-- &id010
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: the Druze town of Majdal Shams in Israeli annexed Golan Heights killed
     at least 11 children &
   unit: null
   values:
   - 11.0
-- &id011
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: teens, and over 20 wounded, in what is now feared to be an imminent
     war with Hezbollah.
   unit: null
   values:
   - 20.0
-- &id012
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: India, Bangladesh remaining deathly silent with news of upwards of
     200 people now reportedly
   unit: null
   values:
   - 200.0
-- &id013
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: For week 30 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -150,8 +137,7 @@ numeric_observations:
   values:
   - 30.0
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Improving 510 / LDT 530 / LDT 540 / LDT
   unit: null
@@ -160,8 +146,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 540.0
-- &id015
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 2 India Uncertain 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -170,8 +155,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id016
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Declining 490 / LDT 510 / LDT 520 / LDT
   unit: null
@@ -180,8 +164,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 520.0
-- &id017
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Dead 360 / LDT 370 / LDT 380 / LDT
   unit: null
@@ -190,48 +173,42 @@ numeric_observations:
   - 360.0
   - 370.0
   - 380.0
-- &id018
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: the country, one that has reportedly resulted in the untimely passing
     of about 200 students
   unit: null
   values:
   - 200.0
-- &id020
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: back o f loca l offerings that have suffocated down to USD 500/LT LDT
     (and even below on
   unit: usd
   values:
   - 500.0
-- &id021
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Violent Q2. Dollar, has ended the week even lower at BDT 117.90, all
     while local steel plate prices
   unit: null
   values:
   - 117.9
-- &id022
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: India's desperately awaited FY24 - FY25 Budget was finally announced
     this week, the first
@@ -239,39 +216,34 @@ numeric_observations:
   values:
   - 4.0
   - 5.0
-- &id024
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: related spending fell to the bottom of the current administration's
     priority list of 9 publicly
   unit: null
   values:
   - 9.0
-- &id025
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: further this week (by about USD 4/Ton). Considering that local steel
     plate prices made an eye
   unit: usd
   values:
   - 4.0
-- &id026
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: watering jump to the tune of nearly USD 50/Ton jump over several weeks
     early Q2, this
   unit: usd
   values:
   - 50.0
-- &id027
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: USD 65 Billion on
   unit: usd
   values:
   - 65.0
-- &id028
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: RUNNER (6,939 LDT) fetched a fantastic USD 615/LT LDT for HKC recycling,
     thanks in all to
@@ -279,116 +251,101 @@ numeric_observations:
   values:
   - 6939.0
   - 615.0
-- &id029
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: the 289 Tons of Aluminium onboard. Phew, India!
   unit: null
   values:
   - 289.0
-- &id030
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: USD 615/LT LDT (with 289 Tons of AL
   unit: usd
   values:
   - 615.0
   - 289.0
-- &id031
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: ICE RUNNER Reefer 6,939
   unit: null
   values:
   - 6939.0
-- &id032
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: across Q1 & even (sparingly) through Q2, thereby besting their 2023
     volumes by a wide
   unit: null
   values:
   - 2023.0
-- &id034
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: USD 706/Ton for what seems like an eternity now, Pakistani plate prices
     largely remain
   unit: usd
   values:
   - 706.0
-- &id035
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee firmed 10 basis points against the U.S. Dollar, ending
     the week at levels
   unit: null
   values:
   - 10.0
-- &id036
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: approaching PKR 278.35 and is one of the only sub-continent ship recycling
     destinations
   unit: null
   values:
   - 278.35
-- &id037
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: only recycling unit to greet Pakistan's waterways for nearly 3 weeks
     now.
   unit: null
   values:
   - 3.0
-- &id038
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: dipped marginally below a record-breaking TRY 33 against the U.S. Dollar
     this week, an
   unit: null
   values:
   - 33.0
-- &id040
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id042
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line:  What's the No. 1 cause of divorce? Marriage!
   unit: null
   values:
   - 1.0
-- &id043
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day July 19 - July 27
   unit: null
@@ -396,8 +353,7 @@ numeric_observations:
   - 15.0
   - 19.0
   - 27.0
-- &id044
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 26 - Janmashtami July 31 - August 08
   unit: null
@@ -405,16 +361,14 @@ numeric_observations:
   - 26.0
   - 31.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 17 - August 26
   unit: null
   values:
   - 17.0
   - 26.0
-- &id046
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 26 - Janmashtami July 21 - July 24
   unit: null
@@ -422,24 +376,21 @@ numeric_observations:
   - 26.0
   - 21.0
   - 24.0
-- &id047
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 04 - August 07
   unit: null
   values:
   - 4.0
   - 7.0
-- &id048
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: August 19 - August 22
   unit: null
   values:
   - 19.0
   - 22.0
-- &id049
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: No holidays in July & August August 14 - Independence Day August 30
     - Victory Day
@@ -447,24 +398,21 @@ numeric_observations:
   values:
   - 14.0
   - 30.0
-- &id050
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 26, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id052
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 1 Gordon 2,757 Fishing Vessel Delivered July 24
   unit: null
@@ -472,8 +420,7 @@ numeric_observations:
   - 1.0
   - 2757.0
   - 24.0
-- &id053
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 2 Mersin 15 5,280 RoRo Arrived July 23
   unit: null
@@ -482,23 +429,20 @@ numeric_observations:
   - 15.0
   - 5280.0
   - 23.0
-- &id054
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 8,037
   unit: null
   values:
   - 8037.0
-- &id055
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of July 26, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id056
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 1 Nareswar 10,308 Bulk Carrier Delivered July 21
   unit: null
@@ -506,8 +450,7 @@ numeric_observations:
   - 1.0
   - 10308.0
   - 21.0
-- &id057
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 2 Pioneer 1,348 Offshore Tug Delivered July 20
   unit: null
@@ -515,8 +458,7 @@ numeric_observations:
   - 2.0
   - 1348.0
   - 20.0
-- &id058
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 3 Sia 20 1,747 General Cargo / Container Arrived July 20
   unit: null
@@ -525,8 +467,7 @@ numeric_observations:
   - 20.0
   - 1747.0
   - 20.0
-- &id059
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 4 Sia 30 2,587 General Cargo / Container Delivered July 21
   unit: null
@@ -535,8 +476,7 @@ numeric_observations:
   - 30.0
   - 2587.0
   - 21.0
-- &id060
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 5 Tai 97 3,232 Bulk Carrier Arrived July 24
   unit: null
@@ -545,23 +485,20 @@ numeric_observations:
   - 97.0
   - 3232.0
   - 24.0
-- &id061
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,222
   unit: null
   values:
   - 19222.0
-- &id062
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of July 26, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id063
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 1 Far East Grace 3,585 Container Delivered July 24
   unit: null
@@ -569,23 +506,20 @@ numeric_observations:
   - 1.0
   - 3585.0
   - 24.0
-- &id064
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 3,585
   unit: null
   values:
   - 3585.0
-- &id065
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id066
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/20/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
   unit: null
@@ -598,8 +532,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 345.65
-- &id067
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/21/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
   unit: null
@@ -612,8 +545,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 345.65
-- &id068
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/22/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
   unit: null
@@ -626,8 +558,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 345.65
-- &id069
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/23/2024 499.52 41,800.00 706.60 197,000.00 - NA 345.65
   unit: null
@@ -640,8 +571,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 345.65
-- &id070
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/24/2024 499.28 41,800.00 706.60 197,000.00 - NA 342.64
   unit: null
@@ -654,8 +584,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 342.64
-- &id071
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/25/2024 499.40 41,800.00 706.60 197,000.00 - NA 340.01
   unit: null
@@ -668,8 +597,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 340.01
-- &id072
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 7/26/2024 496.84 41,600.00 706.60 197,000.00 - NA 340.01
   unit: null
@@ -682,8 +610,7 @@ numeric_observations:
   - 706.6
   - 197000.0
   - 340.01
-- &id073
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -692,8 +619,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id074
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -702,8 +628,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id075
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -712,8 +637,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id076
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -722,8 +646,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id077
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -732,8 +655,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id078
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
   unit: null
@@ -746,16 +668,14 @@ numeric_observations:
   - 938.0
   - 6.0
   - 1.0
-- &id079
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x167 mode=RGB'
   unit: null
   values:
   - 687.0
   - 67.0
-- &id080
-  section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+- section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
@@ -786,86 +706,659 @@ section_count: 3
 signals:
   numeric_observation_count: 82
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'The end of Week 30 marks a noteworthy moment in the Middle East
+      conflict that is nowhere near end in sight and despitereports of meetings between
+      Israeli PM Benjamin Netanyahu & several world leaders including a now cut-short
+      visit to the United States, where '
+    unit: null
+    values:
+    - 30.0
+    - 7.0
+    - 30.0
+    - 7.0
+    - 11.0
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Accordingly, and expectedly, amidst a prolonged absence of workable
+      candidates, there has been no bounce to any of the markets this week, despite
+      an overall positive budget being announced in India, Bangladesh remaining deathly
+      silent with news of upwards of 2
+    unit: null
+    values:
+    - 200.0
+  - section: Main
+    section_type: null
+    source_line: For week 30 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -7.0
+    - -29.0
+    - 30.0
+    - 8553.0
+    - 938.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: July 26th, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Week 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Volume 263, Issue 1144
+    unit: null
+    values:
+    - 263.0
+    - 1144.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: • All-out war? 7 attack are believed to be, including midday Saturday
+      local time when IDF jets struck a school in
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Gaza reportedly killing at least 30 displaced Palestinians in the
+      process, and sadly, 7 children. In
+    unit: null
+    values:
+    - 30.0
+    - 7.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: the Druze town of Majdal Shams in Israeli annexed Golan Heights killed
+      at least 11 children &
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: teens, and over 20 wounded, in what is now feared to be an imminent
+      war with Hezbollah.
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: India, Bangladesh remaining deathly silent with news of upwards of
+      200 people now reportedly
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: For week 30 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2024.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Improving 510 / LDT 530 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 540.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Uncertain 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Declining 490 / LDT 510 / LDT 520 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 490.0
+    - 510.0
+    - 520.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Dead 360 / LDT 370 / LDT 380 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 360.0
+    - 370.0
+    - 380.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: the country, one that has reportedly resulted in the untimely passing
+      of about 200 students
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: back o f loca l offerings that have suffocated down to USD 500/LT
+      LDT (and even below on
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Violent Q2. Dollar, has ended the week even lower at BDT 117.90,
+      all while local steel plate prices
+    unit: null
+    values:
+    - 117.9
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: India's desperately awaited FY24 - FY25 Budget was finally announced
+      this week, the first
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: related spending fell to the bottom of the current administration's
+      priority list of 9 publicly
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: further this week (by about USD 4/Ton). Considering that local steel
+      plate prices made an eye
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: watering jump to the tune of nearly USD 50/Ton jump over several
+      weeks early Q2, this
+    unit: usd
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: USD 65 Billion on
+    unit: usd
+    values:
+    - 65.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: RUNNER (6,939 LDT) fetched a fantastic USD 615/LT LDT for HKC recycling,
+      thanks in all to
+    unit: usd
+    values:
+    - 6939.0
+    - 615.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: the 289 Tons of Aluminium onboard. Phew, India!
+    unit: null
+    values:
+    - 289.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: USD 615/LT LDT (with 289 Tons of AL
+    unit: usd
+    values:
+    - 615.0
+    - 289.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: ICE RUNNER Reefer 6,939
+    unit: null
+    values:
+    - 6939.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: across Q1 & even (sparingly) through Q2, thereby besting their 2023
+      volumes by a wide
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: USD 706/Ton for what seems like an eternity now, Pakistani plate
+      prices largely remain
+    unit: usd
+    values:
+    - 706.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee firmed 10 basis points against the U.S. Dollar, ending
+      the week at levels
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: approaching PKR 278.35 and is one of the only sub-continent ship
+      recycling destinations
+    unit: null
+    values:
+    - 278.35
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: only recycling unit to greet Pakistan's waterways for nearly 3 weeks
+      now.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: dipped marginally below a record-breaking TRY 33 against the U.S.
+      Dollar this week, an
+    unit: null
+    values:
+    - 33.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line:  What's the No. 1 cause of divorce? Marriage!
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day July 19 - July 27
+    unit: null
+    values:
+    - 15.0
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 26 - Janmashtami July 31 - August 08
+    unit: null
+    values:
+    - 26.0
+    - 31.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 17 - August 26
+    unit: null
+    values:
+    - 17.0
+    - 26.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 26 - Janmashtami July 21 - July 24
+    unit: null
+    values:
+    - 26.0
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 04 - August 07
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: August 19 - August 22
+    unit: null
+    values:
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in July & August August 14 - Independence Day August
+      30 - Victory Day
+    unit: null
+    values:
+    - 14.0
+    - 30.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 26, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 1 Gordon 2,757 Fishing Vessel Delivered July 24
+    unit: null
+    values:
+    - 1.0
+    - 2757.0
+    - 24.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 2 Mersin 15 5,280 RoRo Arrived July 23
+    unit: null
+    values:
+    - 2.0
+    - 15.0
+    - 5280.0
+    - 23.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 8,037
+    unit: null
+    values:
+    - 8037.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of July 26, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 1 Nareswar 10,308 Bulk Carrier Delivered July 21
+    unit: null
+    values:
+    - 1.0
+    - 10308.0
+    - 21.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pioneer 1,348 Offshore Tug Delivered July 20
+    unit: null
+    values:
+    - 2.0
+    - 1348.0
+    - 20.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sia 20 1,747 General Cargo / Container Arrived July 20
+    unit: null
+    values:
+    - 3.0
+    - 20.0
+    - 1747.0
+    - 20.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sia 30 2,587 General Cargo / Container Delivered July 21
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+    - 2587.0
+    - 21.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 5 Tai 97 3,232 Bulk Carrier Arrived July 24
+    unit: null
+    values:
+    - 5.0
+    - 97.0
+    - 3232.0
+    - 24.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,222
+    unit: null
+    values:
+    - 19222.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of July 26, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 1 Far East Grace 3,585 Container Delivered July 24
+    unit: null
+    values:
+    - 1.0
+    - 3585.0
+    - 24.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 3,585
+    unit: null
+    values:
+    - 3585.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/20/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
+    unit: null
+    values:
+    - 7.0
+    - 20.0
+    - 2024.0
+    - 500.84
+    - 41900.0
+    - 706.6
+    - 197000.0
+    - 345.65
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/21/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
+    unit: null
+    values:
+    - 7.0
+    - 21.0
+    - 2024.0
+    - 500.84
+    - 41900.0
+    - 706.6
+    - 197000.0
+    - 345.65
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/22/2024 500.84 41,900.00 706.60 197,000.00 - NA 345.65
+    unit: null
+    values:
+    - 7.0
+    - 22.0
+    - 2024.0
+    - 500.84
+    - 41900.0
+    - 706.6
+    - 197000.0
+    - 345.65
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/23/2024 499.52 41,800.00 706.60 197,000.00 - NA 345.65
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+    - 2024.0
+    - 499.52
+    - 41800.0
+    - 706.6
+    - 197000.0
+    - 345.65
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/24/2024 499.28 41,800.00 706.60 197,000.00 - NA 342.64
+    unit: null
+    values:
+    - 7.0
+    - 24.0
+    - 2024.0
+    - 499.28
+    - 41800.0
+    - 706.6
+    - 197000.0
+    - 342.64
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/25/2024 499.40 41,800.00 706.60 197,000.00 - NA 340.01
+    unit: null
+    values:
+    - 7.0
+    - 25.0
+    - 2024.0
+    - 499.4
+    - 41800.0
+    - 706.6
+    - 197000.0
+    - 340.01
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 7/26/2024 496.84 41,600.00 706.60 197,000.00 - NA 340.01
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+    - 2024.0
+    - 496.84
+    - 41600.0
+    - 706.6
+    - 197000.0
+    - 340.01
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -7.0
+    - -29.0
+    - 30.0
+    - 8553.0
+    - 938.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x167 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 67.0
+  - section: 'Linked asset: 2024-07-29_gms-week-30-middle-east-mayhem_img1_8553_938d46d0a91f.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-07-29_gms-week-30-middle-east-mayhem.html
 source_stem: 2024-07-29_gms-week-30-middle-east-mayhem

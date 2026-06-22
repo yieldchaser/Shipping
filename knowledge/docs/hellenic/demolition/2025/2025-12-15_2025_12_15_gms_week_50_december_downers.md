@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 88
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Markets across the board seem to be getting hit by the tragedies of
     2025 as December firmly stamps its footprints acrossthe 2025 ship-recycling timeline,
@@ -43,8 +42,7 @@ numeric_observations:
   - 2025.0
   - 2025.0
   - 50.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: To start, the Baltic Exchange Dry Index reportedly fell nearly 4%,
     down to its lowest level in nearly a month, dragged by capes that fell 5.6%. Panamax
@@ -59,8 +57,7 @@ numeric_observations:
   - 60.0
   - 3.0
   - 57.61
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'As the occasional introduction of a market vessel remains the carrot
     dangling at the end of a drying supply stick, Indian sub-continent ship-recycling
@@ -72,8 +69,7 @@ numeric_observations:
   - 2024.0
   - 2026.0
   - 400.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, HKC developments are ongoing in both Bangladesh and Pakistan,
     with another three yards expected to receive their HKC accreditations in Chattogram
@@ -82,8 +78,7 @@ numeric_observations:
   unit: null
   values:
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 50 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -91,8 +86,7 @@ numeric_observations:
   values:
   - 50.0
   - 2025.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-12-15_gms-week-50-december-downers_img1_63453_e28b1211ab49.jpg'
   unit: null
@@ -105,23 +99,20 @@ numeric_observations:
   - 8.0
   - 211.0
   - 9.0
-- &id007
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Decembe r 12th, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id008
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Week 50
   unit: null
   values:
   - 50.0
-- &id009
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Volume 2 79, Issue 1215 - Sonia Sotomayor
   unit: null
@@ -129,47 +120,41 @@ numeric_observations:
   - 2.0
   - 79.0
   - 1215.0
-- &id010
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: • Festive decline. Markets across the board seem to be getting hit
     b y the tragedies of 2025 as December firmly stamps
   unit: null
   values:
   - 2025.0
-- &id011
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: its footprints across the 2025 ship-recycling timeline, ensuring the
     situation doesn't get a chance to
   unit: null
   values:
   - 2025.0
-- &id012
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: while the U.S. Do llar continues to rummage through the wreckage of
     2025 for whatever it can suck
   unit: null
   values:
   - 2025.0
-- &id013
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: the span of week 50.
   unit: null
   values:
   - 50.0
-- &id014
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: To start, the Baltic Exchange Dry Index reportedly fell nearly 4%,
     down to its lowest level in nearly
   unit: pct
   values:
   - 4.0
-- &id015
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: a month, dragged by capes that fell 5.6%. Panamax followed suit with
     a 2.1% drop, and smaller
@@ -177,24 +162,21 @@ numeric_observations:
   values:
   - 5.6
   - 2.1
-- &id016
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: vessels wrapped up the cold blanket with a 16-basis-point drop as the
     cherry on top. And, surprising
   unit: null
   values:
   - 16.0
-- &id017
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: m any industry traders, oil futures failed to hit the much-an ticipated
     USD 60/barrel mark, instead
   unit: usd
   values:
   - 60.0
-- &id018
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: retreating over 3% to USD 57.61/barrel as the week clocked out - amidst
     global fears primarily
@@ -202,16 +184,14 @@ numeric_observations:
   values:
   - 3.0
   - 57.61
-- &id019
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: inadequate and underwhelming few years of horrid supply and ever-declining
     levels. USD 600/ton
   unit: usd
   values:
   - 600.0
-- &id020
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: was breached back in January 2024, and for a great majority-standing
     at the doorstep of 2026, and
@@ -219,24 +199,21 @@ numeric_observations:
   values:
   - 2024.0
   - 2026.0
-- &id021
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: • HKC continues. across all sub-continent locations-prices have dipped
     below the USD 400/ton mark.
   unit: usd
   values:
   - 400.0
-- &id022
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: yards in Pakistan are expected to follow within Q1 2026 - what a year
     in recycling it's truly been.
   unit: null
   values:
   - 2026.0
-- &id023
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 50 of 2025 are on Page 6.
   unit: null
@@ -244,32 +221,28 @@ numeric_observations:
   - 50.0
   - 2025.0
   - 6.0
-- &id024
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id025
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: vessels across the board are increasingly seeing offers at or below
     USD 400/ton.
   unit: usd
   values:
   - 400.0
-- &id026
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: With freight rates still high overall, and vintage '90s bulkers - and
     even some tankers - still
   unit: null
   values:
   - 90.0
-- &id027
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: prices will go, but where the nation overall will head in a post-election
     era. February 12, 2026, has
@@ -277,23 +250,20 @@ numeric_observations:
   values:
   - 12.0
   - 2026.0
-- &id028
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Bangladesh since June 2024.
   unit: null
   values:
   - 2024.0
-- &id029
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: the waterfront this week. And while the currency - which only lost
     1 basis point against the U.S.
   unit: null
   values:
   - 1.0
-- &id030
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 9/ton dropping below USD 502/ton from last week's close to the high
     USD 493s/ton this week.
@@ -302,16 +272,14 @@ numeric_observations:
   - 9.0
   - 502.0
   - 493.0
-- &id031
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: USD 7/ton and pulling overall steel trading levels to USD 377/ton.
     But it has been the Indian Rupee
@@ -319,24 +287,21 @@ numeric_observations:
   values:
   - 7.0
   - 377.0
-- &id033
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: that has been the apostle of misery for the local mindset, as it lost
     a massive (by recent standards) 65
   unit: null
   values:
   - 65.0
-- &id034
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: basis points against the U.S. Dollar once again, closing the week out
     at a record-breaking INR 90.50.
   unit: null
   values:
   - 90.5
-- &id035
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: St agflation territory, however, seems to be on a diet as inflation
     levels rose from 0.25% to 0.71% as Currency woes.
@@ -344,24 +309,21 @@ numeric_observations:
   values:
   - 0.25
   - 0.71
-- &id036
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Ba nk of India's tolerance threshold of 2%. With the Rupee getting
     ever weaker and local steel plate
   unit: pct
   values:
   - 2.0
-- &id037
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: recycling landscape. Even though an already high inflation improved
     slightly to 6.1% from 6.2%
@@ -369,40 +331,35 @@ numeric_observations:
   values:
   - 6.1
   - 6.2
-- &id039
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Iranian imports, levels flatlined at a still-low USD 575/ton. The Pakistani
     Rupee too found stable
   unit: usd
   values:
   - 575.0
-- &id040
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: footing as ended the week where it started, at PKR 280.35 against the
     U.S. Dollar.
   unit: null
   values:
   - 280.35
-- &id041
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: cognizant of their final recycling destinations-even an increase in
     tonnage supply in 2026 might
   unit: null
   values:
   - 2026.0
-- &id042
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Lira slipped another 26 basis against the U.S. Dollar and end the week
     at TRY 42.70 against the U.S.
@@ -410,22 +367,19 @@ numeric_observations:
   values:
   - 26.0
   - 42.7
-- &id044
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Viva 2026!.
   unit: null
   values:
   - 2026.0
-- &id045
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: reportedly bought in no market tonnage this week. Viva 2026!
   unit: null
   values:
   - 2026.0
-- &id046
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: For Week 50 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -433,8 +387,7 @@ numeric_observations:
   values:
   - 50.0
   - 2025.0
-- &id047
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -443,8 +396,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id048
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -453,8 +405,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id049
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -463,8 +414,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id050
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -473,24 +423,21 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id051
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: to Gregory Maguire's 1995 novel with the intention of turning it into
     a film. However, producer Marc Platt struggled to
   unit: null
   values:
   - 1995.0
-- &id053
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 24 - Christmas Eve December 02 - December 10
   unit: null
@@ -498,8 +445,7 @@ numeric_observations:
   - 24.0
   - 2.0
   - 10.0
-- &id054
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 18 - December 25
   unit: null
@@ -507,15 +453,13 @@ numeric_observations:
   - 25.0
   - 18.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve
   unit: null
   values:
   - 31.0
-- &id056
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 01 - 02 - Durga Puja December 03 - December 06
   unit: null
@@ -524,8 +468,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 6.0
-- &id057
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day December 21 - December 24
   unit: null
@@ -533,45 +476,39 @@ numeric_observations:
   - 16.0
   - 21.0
   - 24.0
-- &id058
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day
   unit: null
   values:
   - 25.0
-- &id059
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday
   unit: null
   values:
   - 31.0
-- &id060
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: December 25 - Quaid-e-Azam No holidays in December
   unit: null
   values:
   - 25.0
-- &id061
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 12, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id063
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -579,8 +516,7 @@ numeric_observations:
   - 1.0
   - 20001.0
   - 13.0
-- &id064
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 2 Nica 9,852 Oil Tanker Arrived December 05
   unit: null
@@ -588,23 +524,20 @@ numeric_observations:
   - 2.0
   - 9852.0
   - 5.0
-- &id065
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Morality 29,853
   unit: null
   values:
   - 29853.0
-- &id066
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 05, 2025
   unit: null
   values:
   - 5.0
   - 2025.0
-- &id067
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 1 Fan Shun 7,690 Bulk Carrier Arrived December 12
   unit: null
@@ -612,16 +545,14 @@ numeric_observations:
   - 1.0
   - 7690.0
   - 12.0
-- &id068
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 12, 2025
   unit: null
   values:
   - 12.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 1 Ardhianto 2,922 General Cargo Arrived December 04
   unit: null
@@ -629,23 +560,20 @@ numeric_observations:
   - 1.0
   - 2922.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 2,922
   unit: null
   values:
   - 2922.0
-- &id071
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/6/2025 384.53 34,600.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -660,8 +588,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id073
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/7/2025 384.53 34,600.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -676,8 +603,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id074
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/8/2025 380.77 34,300.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -692,8 +618,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id075
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/9/2025 381.62 34,300.00 575.69 162,000.00 502.06 61,000.00 303.16
   unit: null
@@ -708,8 +633,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 303.16
-- &id076
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/10/2025 381.24 34,300.00 575.69 162,000.00 493.83 60,000.00 303.16
   unit: null
@@ -724,8 +648,7 @@ numeric_observations:
   - 493.83
   - 60000.0
   - 303.16
-- &id077
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/11/2025 379.55 34,300.00 575.69 162,000.00 493.83 60,000.00 303.16
   unit: null
@@ -740,8 +663,7 @@ numeric_observations:
   - 493.83
   - 60000.0
   - 303.16
-- &id078
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 12/12/2025 377.42 34,100.00 575.69 162,000.00 493.83 60,000.00 302.25
   unit: null
@@ -756,8 +678,7 @@ numeric_observations:
   - 493.83
   - 60000.0
   - 302.25
-- &id079
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -766,8 +687,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id080
-  section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+- section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -858,86 +778,672 @@ section_count: 3
 signals:
   numeric_observation_count: 88
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Markets across the board seem to be getting hit by the tragedies
+      of 2025 as December firmly stamps its footprints acrossthe 2025 ship-recycling
+      timeline, ensuring the situation doesn't get a chance to improve just yet! Inflation
+      is on the rise again, plate pri
+    unit: null
+    values:
+    - 2025.0
+    - 2025.0
+    - 2025.0
+    - 50.0
+  - section: Main
+    section_type: null
+    source_line: To start, the Baltic Exchange Dry Index reportedly fell nearly 4%,
+      down to its lowest level in nearly a month, dragged by capes that fell 5.6%.
+      Panamax followed suit with a 2.1% drop, and smaller vessels wrapped up the cold
+      blanket with a 16-basis-point drop a
+    unit: pct
+    values:
+    - 4.0
+    - 5.6
+    - 2.1
+    - 16.0
+    - 60.0
+    - 3.0
+    - 57.61
+  - section: Main
+    section_type: null
+    source_line: 'As the occasional introduction of a market vessel remains the carrot
+      dangling at the end of a drying supply stick, Indian sub-continent ship-recycling
+      markets were already declining, ensuring that the upcoming festive time may
+      perhaps be the perfect moment to '
+    unit: usd
+    values:
+    - 600.0
+    - 2024.0
+    - 2026.0
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: Finally, HKC developments are ongoing in both Bangladesh and Pakistan,
+      with another three yards expected to receive their HKC accreditations in Chattogram
+      in the new year, while the next batch of yards in Pakistan are expected to follow
+      within Q1 2026 - what a
+    unit: null
+    values:
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: For Week 50 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 50.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-12-15_gms-week-50-december-downers_img1_63453_e28b1211ab49.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -12.0
+    - -15.0
+    - 50.0
+    - 63453.0
+    - 8.0
+    - 211.0
+    - 9.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 12th, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Week 50
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 79, Issue 1215 - Sonia Sotomayor
+    unit: null
+    values:
+    - 2.0
+    - 79.0
+    - 1215.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: • Festive decline. Markets across the board seem to be getting hit
+      b y the tragedies of 2025 as December firmly stamps
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: its footprints across the 2025 ship-recycling timeline, ensuring
+      the situation doesn't get a chance to
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: while the U.S. Do llar continues to rummage through the wreckage
+      of 2025 for whatever it can suck
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: the span of week 50.
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: To start, the Baltic Exchange Dry Index reportedly fell nearly 4%,
+      down to its lowest level in nearly
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: a month, dragged by capes that fell 5.6%. Panamax followed suit with
+      a 2.1% drop, and smaller
+    unit: pct
+    values:
+    - 5.6
+    - 2.1
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: vessels wrapped up the cold blanket with a 16-basis-point drop as
+      the cherry on top. And, surprising
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: m any industry traders, oil futures failed to hit the much-an ticipated
+      USD 60/barrel mark, instead
+    unit: usd
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: retreating over 3% to USD 57.61/barrel as the week clocked out -
+      amidst global fears primarily
+    unit: pct
+    values:
+    - 3.0
+    - 57.61
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: inadequate and underwhelming few years of horrid supply and ever-declining
+      levels. USD 600/ton
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: was breached back in January 2024, and for a great majority-standing
+      at the doorstep of 2026, and
+    unit: null
+    values:
+    - 2024.0
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: • HKC continues. across all sub-continent locations-prices have dipped
+      below the USD 400/ton mark.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: yards in Pakistan are expected to follow within Q1 2026 - what a
+      year in recycling it's truly been.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 50 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 50.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: vessels across the board are increasingly seeing offers at or below
+      USD 400/ton.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: With freight rates still high overall, and vintage '90s bulkers -
+      and even some tankers - still
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: prices will go, but where the nation overall will head in a post-election
+      era. February 12, 2026, has
+    unit: null
+    values:
+    - 12.0
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh since June 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: the waterfront this week. And while the currency - which only lost
+      1 basis point against the U.S.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 9/ton dropping below USD 502/ton from last week's close to the high
+      USD 493s/ton this week.
+    unit: usd
+    values:
+    - 9.0
+    - 502.0
+    - 493.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: USD 7/ton and pulling overall steel trading levels to USD 377/ton.
+      But it has been the Indian Rupee
+    unit: usd
+    values:
+    - 7.0
+    - 377.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: that has been the apostle of misery for the local mindset, as it
+      lost a massive (by recent standards) 65
+    unit: null
+    values:
+    - 65.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: basis points against the U.S. Dollar once again, closing the week
+      out at a record-breaking INR 90.50.
+    unit: null
+    values:
+    - 90.5
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: St agflation territory, however, seems to be on a diet as inflation
+      levels rose from 0.25% to 0.71% as Currency woes.
+    unit: pct
+    values:
+    - 0.25
+    - 0.71
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Ba nk of India's tolerance threshold of 2%. With the Rupee getting
+      ever weaker and local steel plate
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: recycling landscape. Even though an already high inflation improved
+      slightly to 6.1% from 6.2%
+    unit: pct
+    values:
+    - 6.1
+    - 6.2
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Iranian imports, levels flatlined at a still-low USD 575/ton. The
+      Pakistani Rupee too found stable
+    unit: usd
+    values:
+    - 575.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: footing as ended the week where it started, at PKR 280.35 against
+      the U.S. Dollar.
+    unit: null
+    values:
+    - 280.35
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: cognizant of their final recycling destinations-even an increase
+      in tonnage supply in 2026 might
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Lira slipped another 26 basis against the U.S. Dollar and end the
+      week at TRY 42.70 against the U.S.
+    unit: null
+    values:
+    - 26.0
+    - 42.7
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Viva 2026!.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: reportedly bought in no market tonnage this week. Viva 2026!
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: For Week 50 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 50.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: to Gregory Maguire's 1995 novel with the intention of turning it
+      into a film. However, producer Marc Platt struggled to
+    unit: null
+    values:
+    - 1995.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - Christmas Eve December 02 - December 10
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 18 - December 25
+    unit: null
+    values:
+    - 25.0
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 01 - 02 - Durga Puja December 03 - December 06
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day December 21 - December 24
+    unit: null
+    values:
+    - 16.0
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Quaid-e-Azam No holidays in December
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 12, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 1.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Nica 9,852 Oil Tanker Arrived December 05
+    unit: null
+    values:
+    - 2.0
+    - 9852.0
+    - 5.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Morality 29,853
+    unit: null
+    values:
+    - 29853.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 05, 2025
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Fan Shun 7,690 Bulk Carrier Arrived December 12
+    unit: null
+    values:
+    - 1.0
+    - 7690.0
+    - 12.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 12, 2025
+    unit: null
+    values:
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ardhianto 2,922 General Cargo Arrived December 04
+    unit: null
+    values:
+    - 1.0
+    - 2922.0
+    - 4.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 2,922
+    unit: null
+    values:
+    - 2922.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/6/2025 384.53 34,600.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 6.0
+    - 2025.0
+    - 384.53
+    - 34600.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/7/2025 384.53 34,600.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 7.0
+    - 2025.0
+    - 384.53
+    - 34600.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/8/2025 380.77 34,300.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 8.0
+    - 2025.0
+    - 380.77
+    - 34300.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/9/2025 381.62 34,300.00 575.69 162,000.00 502.06 61,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 9.0
+    - 2025.0
+    - 381.62
+    - 34300.0
+    - 575.69
+    - 162000.0
+    - 502.06
+    - 61000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/10/2025 381.24 34,300.00 575.69 162,000.00 493.83 60,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 10.0
+    - 2025.0
+    - 381.24
+    - 34300.0
+    - 575.69
+    - 162000.0
+    - 493.83
+    - 60000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/11/2025 379.55 34,300.00 575.69 162,000.00 493.83 60,000.00 303.16
+    unit: null
+    values:
+    - 12.0
+    - 11.0
+    - 2025.0
+    - 379.55
+    - 34300.0
+    - 575.69
+    - 162000.0
+    - 493.83
+    - 60000.0
+    - 303.16
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 12/12/2025 377.42 34,100.00 575.69 162,000.00 493.83 60,000.00 302.25
+    unit: null
+    values:
+    - 12.0
+    - 12.0
+    - 2025.0
+    - 377.42
+    - 34100.0
+    - 575.69
+    - 162000.0
+    - 493.83
+    - 60000.0
+    - 302.25
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-12-15_gms-week-50-december-downers.html
 source_stem: 2025-12-15_gms-week-50-december-downers

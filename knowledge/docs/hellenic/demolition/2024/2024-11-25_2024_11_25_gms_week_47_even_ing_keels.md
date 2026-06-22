@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 126
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As tensions escalate across the warring landscapes, economies continue
     to react in kind as volatility seems to have largely resumed acrossthe global
@@ -48,8 +47,7 @@ numeric_observations:
   - 4.0
   - 2.5
   - 2.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As global ship recycling markets head into the final month of the year
     on a comparatively firmer footing and a 2024 full of minimal sales & activity
@@ -61,8 +59,7 @@ numeric_observations:
   - 150.0
   - 2025.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, as Pakistan and India continue struggling with cheaper Chinese
     steel competing with recycled steel from their respective recycling yards, Bangladesh
@@ -71,8 +68,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 47 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -80,8 +76,7 @@ numeric_observations:
   values:
   - 47.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-11-25_gms-week-47-even-ing-keels_img1_895784_d17ca53fa197.jpg'
   unit: null
@@ -94,39 +89,34 @@ numeric_observations:
   - 7.0
   - 3.0
   - 97.0
-- &id006
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: November 22nd, 2024
   unit: null
   values:
   - 22.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: '" Whatever you do, always give 100 percent. Unless you''re donating
     blood."'
   unit: null
   values:
   - 100.0
-- &id008
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Week 47
   unit: null
   values:
   - 47.0
-- &id009
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Volume 266, Issue 1161 - Bill Murray
   unit: null
   values:
   - 266.0
   - 1161.0
-- &id010
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Baltic Exchange maintaining new directions from last week. As barrel
     futures climbed 1.6% to $71.2
@@ -134,32 +124,28 @@ numeric_observations:
   values:
   - 1.6
   - 71.2
-- &id011
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: by close of Friday (marking an over 5% increase overall), it further
     added a layer of geopolitical ‘risk
   unit: pct
   values:
   - 5.0
-- &id012
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: U.S. imposes further sanctions on Gazprombank as well as banning imports
     / trade with over 30
   unit: null
   values:
   - 30.0
-- &id013
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: • 150 dollars lost. measures intended to boost global trade in the
     face of incoming President-Trump's looming tariffs
   unit: null
   values:
   - 150.0
-- &id014
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Chinese Yuan that itself recorded a 20 basis point shift down to a
     record-breaking CNY 7.24.
@@ -167,8 +153,7 @@ numeric_observations:
   values:
   - 20.0
   - 7.24
-- &id015
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: to ease for the 4th running week on Friday, slipping about 2.5% to
     a 2-week low, thanks to unfolding
@@ -177,48 +162,42 @@ numeric_observations:
   - 4.0
   - 2.5
   - 2.0
-- &id016
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: footing and a 2024 full of minimal sales & activity wraps up, noteworthy
     declines in prices have
   unit: null
   values:
   - 2024.0
-- &id017
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: • Grinding to a halt? seen nearly USD 150/LDT wiped from sub-continent
     levels caked on by varying factors affecting all
   unit: usd
   values:
   - 150.0
-- &id018
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: nations and until some stability is seen, Q1 2025 doesn't seem as though
     it is ready to greet the ship
   unit: null
   values:
   - 2025.0
-- &id019
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: with the Nuclear Clock ticking ever closer to midnight, 2025 may be
     another difficult year for the
   unit: null
   values:
   - 2025.0
-- &id020
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: such, it has been and likely will remain an uncertain & volatile end
     to 2024 global sub-continent
   unit: null
   values:
   - 2024.0
-- &id021
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 47 of 2024 are on Page 5.
   unit: null
@@ -226,56 +205,49 @@ numeric_observations:
   - 47.0
   - 2024.0
   - 5.0
-- &id022
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: little hope for an improvement from Chattogram's ship recycling sector
     despite the jaunt to 2025
   unit: null
   values:
   - 2025.0
-- &id024
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Notwithstanding, all of the deliveries this week were arrivals from
     last and only one nearly 10K
   unit: null
   values:
   - 10.0
-- &id025
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Speaking of the U.S. Dollar, the Taka continues to slip as it fell
     another 29 basis points before closing
   unit: null
   values:
   - 29.0
-- &id026
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: the week past the psychological barrier of BDT 120 against the USD.
     Moreover, amidst the already
   unit: usd
   values:
   - 120.0
-- &id027
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: halted trading of steel plate prices at USD 521/Ton, this has invariably
     maintained the price floor
   unit: usd
   values:
   - 521.0
-- &id028
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: nation stands face afresh, and into 2025 - or until the next FY25 budget
     at the latest.
@@ -283,24 +255,21 @@ numeric_observations:
   values:
   - 2025.0
   - 5.0
-- &id029
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: dormant plots, there is still work cut out for Chattogram choppers
     to rise out of a record 2024 of
   unit: null
   values:
   - 2024.0
-- &id030
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: s tandards by 2025, remain on the table. As this activity and the overall
     sub USD 500/Ton culture on
@@ -308,40 +277,35 @@ numeric_observations:
   values:
   - 2025.0
   - 500.0
-- &id032
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: t onnage becomes increasingly accepted, sales have accompanied the
     trend and despite holding 2nd
   unit: null
   values:
   - 2.0
-- &id033
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: are now projected to end the year at 6.5%. Moreover, unfolding economic
     impacts resulting from
   unit: pct
   values:
   - 6.5
-- &id034
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: mercifully strengthened 11 basis points against the U.S. Dollar to
     still end the week at a depreciated
   unit: null
   values:
   - 11.0
-- &id035
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Rs. 84.44, and local steel plate prices that struggled through the
     week, only to end it marginally
   unit: null
   values:
   - 84.44
-- &id036
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Africa, and this victory has led the BJP-led alliance to gain control
     of more than 230 of the 288 seats
@@ -349,23 +313,20 @@ numeric_observations:
   values:
   - 230.0
   - 288.0
-- &id037
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Collapse below 500.
   unit: null
   values:
   - 500.0
-- &id038
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: in the state's legislative assembly, further delivering the Modi Pary
     with over 32 seats in Congress
   unit: null
   values:
   - 32.0
-- &id039
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: downgraded midst a seemingly political reprioritization of FY24 - FY25
     budget, remains to be seen.
@@ -373,63 +334,55 @@ numeric_observations:
   values:
   - 4.0
   - 5.0
-- &id040
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Buyers ready to acquire prices dropped a healthy USD 4/Ton across the
     week in order to stay just below the price of
   unit: usd
   values:
   - 4.0
-- &id042
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: ending it at PKR 277.70 against the U.S. Dollar.
   unit: null
   values:
   - 277.7
-- &id043
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 440/Ton on certain units) being tabled of late, is no wonder that this
     market has lagged the financial
   unit: null
   values:
   - 440.0
-- &id044
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: The overall shortage of U.S. Dollars is no surprise as IMF loans worth
     over USD 7 Billion are still
   unit: usd
   values:
   - 7.0
-- &id045
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: pending and investigations into the reported loss of about USD 440
     Million of funds is pending.
   unit: usd
   values:
   - 440.0
-- &id046
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: As the growing expectation is that the year will close with a deficit
     of 6.1% of GDP, a fall that is
   unit: pct
   values:
   - 6.1
-- &id047
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: further projected to drop to (or worse, below) 6.0% of GDP for 2024-2025,
     especially as debt
@@ -438,8 +391,7 @@ numeric_observations:
   - 6.0
   - 2024.0
   - -2025.0
-- &id048
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: servicing is expected to fall from an already low 7.7% of GDP in 2023
     - 2024 to 5.6% of GDP in 2025
@@ -450,8 +402,7 @@ numeric_observations:
   - 2024.0
   - 5.6
   - 2025.0
-- &id049
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: '- 2026. Certainly not good for Gadani''s ship recycling sector that
     has seen the 2nd lowest levels in'
@@ -459,39 +410,34 @@ numeric_observations:
   values:
   - 2026.0
   - 2.0
-- &id050
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 2025 rescue.
   unit: null
   values:
   - 2025.0
-- &id051
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: Overall, it sure seems as though 2024 will not see any return from
     the Pakistani market and any
   unit: null
   values:
   - 2024.0
-- &id052
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: marginal / pending deliveries may be fewer than few, before a 2025
     resumes with its own set of
   unit: null
   values:
   - 2025.0
-- &id053
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: falling nearly 30 basis points to another record-breaking TRY 34.55
     against the U.S. Dollar, import
@@ -499,31 +445,27 @@ numeric_observations:
   values:
   - 30.0
   - 34.55
-- &id055
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: steel plate prices fell another USD 10/Ton this week, leaving local
     steel plate prices precariously
   unit: usd
   values:
   - 10.0
-- &id056
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: As we entire the final stretch of laps before 2024 ends far worse than
     the competition, Turkey's ship
   unit: null
   values:
   - 2024.0
-- &id057
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: in the region, stabilizes the Turkish economy into 2025.
   unit: null
   values:
   - 2025.0
-- &id058
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: For Week 47 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -531,8 +473,7 @@ numeric_observations:
   values:
   - 47.0
   - 2024.0
-- &id059
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -541,8 +482,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id060
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -551,8 +491,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id061
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -561,8 +500,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id062
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -571,23 +509,20 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id063
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: 2024 NEWS…IN SEQUENCE.
   unit: null
   values:
   - 2024.0
-- &id065
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  May 30 - Donald Trump was found guilty of 34 felony counts of falsified
     business records. The former US president became
@@ -595,16 +530,14 @@ numeric_observations:
   values:
   - 30.0
   - 34.0
-- &id066
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: up hush money payments to former adult film star Stormy Daniels during
     the run-up to the 2016 presidential election.
   unit: null
   values:
   - 2016.0
-- &id067
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  Jun 1 - 642 million people voted in India's general election, setti
     ng the record for the world's largest election.
@@ -612,16 +545,14 @@ numeric_observations:
   values:
   - 1.0
   - 642.0
-- &id068
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  Jun 2 - Mexico elected its first female president, Claudia Sheinbaum.
     Sheinbaum, a climate scientist, was formerly the Mayor
   unit: null
   values:
   - 2.0
-- &id069
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  Jun 8 - While rescuing four captives in central Gaza, Israeli soldiers
     killed 247 Palestinians and injured 698. The deadly
@@ -630,24 +561,21 @@ numeric_observations:
   - 8.0
   - 247.0
   - 698.0
-- &id070
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: daytime operation by the Israeli Defense Force was conducted to rescue
     Israeli hostages captured during Hamas' October 7
   unit: null
   values:
   - 7.0
-- &id071
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: attacks. The Israeli government states the death toll to be much lower,
     under 100. Hamas disagrees, calling the operation a
   unit: null
   values:
   - 100.0
-- &id072
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  Jun 24 - WikiLeaks founder Julian Assange walked free after a 14-year
     legal battle. After creating WikiLeaks in 2010 and
@@ -656,16 +584,14 @@ numeric_observations:
   - 24.0
   - 14.0
   - 2010.0
-- &id073
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line:  Jul 13 - Former US President Donald Trump survived an assassination
     attempt while at a rally in Pennsylvania.
   unit: null
   values:
   - 13.0
-- &id074
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 24 - December 26 - Christmas Holidays November 29 - December
     07
@@ -675,8 +601,7 @@ numeric_observations:
   - 26.0
   - 29.0
   - 7.0
-- &id075
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve December 12 - December 20
   unit: null
@@ -684,16 +609,14 @@ numeric_observations:
   - 31.0
   - 12.0
   - 20.0
-- &id076
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 29 - January 2025
   unit: null
   values:
   - 29.0
   - 2025.0
-- &id077
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day November 30 - December 03
   unit: null
@@ -701,8 +624,7 @@ numeric_observations:
   - 16.0
   - 30.0
   - 3.0
-- &id078
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 14 - December 17
   unit: null
@@ -710,15 +632,13 @@ numeric_observations:
   - 25.0
   - 14.0
   - 17.0
-- &id079
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday
   unit: null
   values:
   - 31.0
-- &id080
-  section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+- section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
   section_type: linked_pdf
   source_line: No holidays until 2025 December 25 - Quaid-e-Azam Day No holidays until
     2025
@@ -1057,86 +977,623 @@ section_count: 3
 signals:
   numeric_observation_count: 126
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As tensions escalate across the warring landscapes, economies continue
+      to react in kind as volatility seems to have largely resumed acrossthe global
+      maritime landscape, with both crude oil and the Baltic Exchange maintaining
+      new directions from last week. As b
+    unit: pct
+    values:
+    - 1.6
+    - 71.2
+    - 5.0
+    - 30.0
+    - 20.0
+    - 7.24
+    - 4.0
+    - 2.5
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: As global ship recycling markets head into the final month of the
+      year on a comparatively firmer footing and a 2024 full of minimal sales & activity
+      wraps up, noteworthy declines in prices have seen nearly USD 150/LDT wiped from
+      sub-continent levels caked on b
+    unit: usd
+    values:
+    - 2024.0
+    - 150.0
+    - 2025.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: Finally, as Pakistan and India continue struggling with cheaper Chinese
+      steel competing with recycled steel from their respective recycling yards, Bangladesh
+      continues to suffer through its political and increasing instability that is
+      mushrooming its doom econ
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For Week 47 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 47.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-11-25_gms-week-47-even-ing-keels_img1_895784_d17ca53fa197.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -11.0
+    - -25.0
+    - 47.0
+    - 895784.0
+    - 7.0
+    - 3.0
+    - 97.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: November 22nd, 2024
+    unit: null
+    values:
+    - 22.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: '" Whatever you do, always give 100 percent. Unless you''re donating
+      blood."'
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Week 47
+    unit: null
+    values:
+    - 47.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Volume 266, Issue 1161 - Bill Murray
+    unit: null
+    values:
+    - 266.0
+    - 1161.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Baltic Exchange maintaining new directions from last week. As barrel
+      futures climbed 1.6% to $71.2
+    unit: pct
+    values:
+    - 1.6
+    - 71.2
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: by close of Friday (marking an over 5% increase overall), it further
+      added a layer of geopolitical ‘risk
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: U.S. imposes further sanctions on Gazprombank as well as banning
+      imports / trade with over 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: • 150 dollars lost. measures intended to boost global trade in the
+      face of incoming President-Trump's looming tariffs
+    unit: null
+    values:
+    - 150.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Chinese Yuan that itself recorded a 20 basis point shift down to
+      a record-breaking CNY 7.24.
+    unit: null
+    values:
+    - 20.0
+    - 7.24
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: to ease for the 4th running week on Friday, slipping about 2.5% to
+      a 2-week low, thanks to unfolding
+    unit: pct
+    values:
+    - 4.0
+    - 2.5
+    - 2.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: footing and a 2024 full of minimal sales & activity wraps up, noteworthy
+      declines in prices have
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: • Grinding to a halt? seen nearly USD 150/LDT wiped from sub-continent
+      levels caked on by varying factors affecting all
+    unit: usd
+    values:
+    - 150.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: nations and until some stability is seen, Q1 2025 doesn't seem as
+      though it is ready to greet the ship
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: with the Nuclear Clock ticking ever closer to midnight, 2025 may
+      be another difficult year for the
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: such, it has been and likely will remain an uncertain & volatile
+      end to 2024 global sub-continent
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 47 of 2024 are on Page 5.
+    unit: null
+    values:
+    - 47.0
+    - 2024.0
+    - 5.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: little hope for an improvement from Chattogram's ship recycling sector
+      despite the jaunt to 2025
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Notwithstanding, all of the deliveries this week were arrivals from
+      last and only one nearly 10K
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Speaking of the U.S. Dollar, the Taka continues to slip as it fell
+      another 29 basis points before closing
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: the week past the psychological barrier of BDT 120 against the USD.
+      Moreover, amidst the already
+    unit: usd
+    values:
+    - 120.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: halted trading of steel plate prices at USD 521/Ton, this has invariably
+      maintained the price floor
+    unit: usd
+    values:
+    - 521.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: nation stands face afresh, and into 2025 - or until the next FY25
+      budget at the latest.
+    unit: null
+    values:
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: dormant plots, there is still work cut out for Chattogram choppers
+      to rise out of a record 2024 of
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: s tandards by 2025, remain on the table. As this activity and the
+      overall sub USD 500/Ton culture on
+    unit: usd
+    values:
+    - 2025.0
+    - 500.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: t onnage becomes increasingly accepted, sales have accompanied the
+      trend and despite holding 2nd
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: are now projected to end the year at 6.5%. Moreover, unfolding economic
+      impacts resulting from
+    unit: pct
+    values:
+    - 6.5
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: mercifully strengthened 11 basis points against the U.S. Dollar to
+      still end the week at a depreciated
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Rs. 84.44, and local steel plate prices that struggled through the
+      week, only to end it marginally
+    unit: null
+    values:
+    - 84.44
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Africa, and this victory has led the BJP-led alliance to gain control
+      of more than 230 of the 288 seats
+    unit: null
+    values:
+    - 230.0
+    - 288.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Collapse below 500.
+    unit: null
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: in the state's legislative assembly, further delivering the Modi
+      Pary with over 32 seats in Congress
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: downgraded midst a seemingly political reprioritization of FY24 -
+      FY25 budget, remains to be seen.
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Buyers ready to acquire prices dropped a healthy USD 4/Ton across
+      the week in order to stay just below the price of
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: ending it at PKR 277.70 against the U.S. Dollar.
+    unit: null
+    values:
+    - 277.7
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 440/Ton on certain units) being tabled of late, is no wonder that
+      this market has lagged the financial
+    unit: null
+    values:
+    - 440.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: The overall shortage of U.S. Dollars is no surprise as IMF loans
+      worth over USD 7 Billion are still
+    unit: usd
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: pending and investigations into the reported loss of about USD 440
+      Million of funds is pending.
+    unit: usd
+    values:
+    - 440.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: As the growing expectation is that the year will close with a deficit
+      of 6.1% of GDP, a fall that is
+    unit: pct
+    values:
+    - 6.1
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: further projected to drop to (or worse, below) 6.0% of GDP for 2024-2025,
+      especially as debt
+    unit: pct
+    values:
+    - 6.0
+    - 2024.0
+    - -2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: servicing is expected to fall from an already low 7.7% of GDP in
+      2023 - 2024 to 5.6% of GDP in 2025
+    unit: pct
+    values:
+    - 7.7
+    - 2023.0
+    - 2024.0
+    - 5.6
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: '- 2026. Certainly not good for Gadani''s ship recycling sector that
+      has seen the 2nd lowest levels in'
+    unit: null
+    values:
+    - 2026.0
+    - 2.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 2025 rescue.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: Overall, it sure seems as though 2024 will not see any return from
+      the Pakistani market and any
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: marginal / pending deliveries may be fewer than few, before a 2025
+      resumes with its own set of
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: falling nearly 30 basis points to another record-breaking TRY 34.55
+      against the U.S. Dollar, import
+    unit: null
+    values:
+    - 30.0
+    - 34.55
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices fell another USD 10/Ton this week, leaving local
+      steel plate prices precariously
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: As we entire the final stretch of laps before 2024 ends far worse
+      than the competition, Turkey's ship
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: in the region, stabilizes the Turkish economy into 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: For Week 47 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 47.0
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: 2024 NEWS…IN SEQUENCE.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  May 30 - Donald Trump was found guilty of 34 felony counts of falsified
+      business records. The former US president became
+    unit: null
+    values:
+    - 30.0
+    - 34.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: up hush money payments to former adult film star Stormy Daniels during
+      the run-up to the 2016 presidential election.
+    unit: null
+    values:
+    - 2016.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  Jun 1 - 642 million people voted in India's general election, setti
+      ng the record for the world's largest election.
+    unit: null
+    values:
+    - 1.0
+    - 642.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  Jun 2 - Mexico elected its first female president, Claudia Sheinbaum.
+      Sheinbaum, a climate scientist, was formerly the Mayor
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  Jun 8 - While rescuing four captives in central Gaza, Israeli soldiers
+      killed 247 Palestinians and injured 698. The deadly
+    unit: null
+    values:
+    - 8.0
+    - 247.0
+    - 698.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: daytime operation by the Israeli Defense Force was conducted to rescue
+      Israeli hostages captured during Hamas' October 7
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: attacks. The Israeli government states the death toll to be much
+      lower, under 100. Hamas disagrees, calling the operation a
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  Jun 24 - WikiLeaks founder Julian Assange walked free after a 14-year
+      legal battle. After creating WikiLeaks in 2010 and
+    unit: null
+    values:
+    - 24.0
+    - 14.0
+    - 2010.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line:  Jul 13 - Former US President Donald Trump survived an assassination
+      attempt while at a rally in Pennsylvania.
+    unit: null
+    values:
+    - 13.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - December 26 - Christmas Holidays November 29 - December
+      07
+    unit: null
+    values:
+    - 24.0
+    - 26.0
+    - 29.0
+    - 7.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve December 12 - December 20
+    unit: null
+    values:
+    - 31.0
+    - 12.0
+    - 20.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 29 - January 2025
+    unit: null
+    values:
+    - 29.0
+    - 2025.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day November 30 - December 03
+    unit: null
+    values:
+    - 16.0
+    - 30.0
+    - 3.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 14 - December 17
+    unit: null
+    values:
+    - 25.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2024-11-25_gms-week-47-even-ing-keels_ship-recycling-market-insight-week-4_7fa30aced85d.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until 2025 December 25 - Quaid-e-Azam Day No holidays
+      until 2025
+    unit: null
+    values:
+    - 2025.0
+    - 25.0
+    - 2025.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-11-25_gms-week-47-even-ing-keels.html
 source_stem: 2024-11-25_gms-week-47-even-ing-keels

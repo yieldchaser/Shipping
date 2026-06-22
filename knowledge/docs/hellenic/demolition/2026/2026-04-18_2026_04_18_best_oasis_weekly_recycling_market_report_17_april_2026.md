@@ -27,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 27
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: (11 APRIL - 17 APRIL) 2026
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 11.0
   - 17.0
   - 2026.0
-- &id002
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -45,8 +43,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id003
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -54,15 +51,13 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id004
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 200 (in USD terms).
   unit: usd
   values:
   - 200.0
-- &id005
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (95.59 96.12 ) +0.53'
   unit: null
@@ -70,8 +65,7 @@ numeric_observations:
   - 95.59
   - 96.12
   - 0.53
-- &id006
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (97.54 91.04) - 6.5'
   unit: null
@@ -79,8 +73,7 @@ numeric_observations:
   - 97.54
   - 91.04
   - 6.5
-- &id007
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 92.84 This Week : 122.92 This Week : 278.91 This Week
     : 44.84'
@@ -90,8 +83,7 @@ numeric_observations:
   - 122.92
   - 278.91
   - 44.84
-- &id008
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 92.83 Previous Week : 122.78 Previous Week : 278.95
     Previous Week : 44.67'
@@ -101,8 +93,7 @@ numeric_observations:
   - 122.78
   - 278.95
   - 44.67
-- &id009
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: 'Loss : 0.01 Loss : 0.14 Gain : 0.04 Loss : 0.17'
   unit: null
@@ -111,8 +102,7 @@ numeric_observations:
   - 0.14
   - 0.04
   - 0.17
-- &id010
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
   unit: null
@@ -121,16 +111,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id011
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id012
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: INDIA 400 410 (+ 3.85)
   unit: null
@@ -138,8 +126,7 @@ numeric_observations:
   - 400.0
   - 410.0
   - 3.85
-- &id013
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 405 420 (+ 5.77)
   unit: null
@@ -147,8 +134,7 @@ numeric_observations:
   - 405.0
   - 420.0
   - 5.77
-- &id014
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 405 420 (+ 5.77)
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 405.0
   - 420.0
   - 5.77
-- &id015
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: TURKEY 405 425 (+ 1.47)
   unit: null
@@ -165,8 +150,7 @@ numeric_observations:
   - 405.0
   - 425.0
   - 1.47
-- &id016
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: INDIA FIRM 430 415 400 (0)
   unit: null
@@ -174,8 +158,7 @@ numeric_observations:
   - 430.0
   - 415.0
   - 400.0
-- &id017
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH FIRM 470 460 435 (−1.09)
   unit: null
@@ -184,8 +167,7 @@ numeric_observations:
   - 460.0
   - 435.0
   - 1.09
-- &id018
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN FIRM 465 460 445 (+1.86)
   unit: null
@@ -194,8 +176,7 @@ numeric_observations:
   - 460.0
   - 445.0
   - 1.86
-- &id019
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: TURKEY SOFT 290 280 270 (0)
   unit: null
@@ -203,38 +184,33 @@ numeric_observations:
   - 290.0
   - 280.0
   - 270.0
-- &id020
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: STOLT CEDAR CHEMICAL TANKER 11,436.00 DELIVERED ALANG, INDIA 910
   unit: null
   values:
   - 11436.0
   - 910.0
-- &id021
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: STOLT SEA CHEMICAL TANKER 8,074.00 DELIVERED ALANG, INDIA 850
   unit: null
   values:
   - 8074.0
   - 850.0
-- &id022
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: NORTH MOON MPP 2,656.00 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: null
   values:
   - 2656.0
-- &id023
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: BARGUZIN MPP 1,278.00 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
   unit: null
   values:
   - 1278.0
-- &id024
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: YU-YING NO. 2 CADET TRAINING VESSEL 1,581.00 DELIVERED CHITTAGONG,BANGLADESH
     470
@@ -243,8 +219,7 @@ numeric_observations:
   - 2.0
   - 1581.0
   - 470.0
-- &id025
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: HAO HUNG 66 WOODCHIP CARRIER 7,807.00 AS-IS HON GAI, VIETNAM 439
   unit: null
@@ -252,8 +227,7 @@ numeric_observations:
   - 66.0
   - 7807.0
   - 439.0
-- &id026
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: HAO HUNG 01 WOODCHIP CARRIER 4,997.00 AS-IS HON GAI, VIETNAM 439
   unit: null
@@ -261,8 +235,7 @@ numeric_observations:
   - 1.0
   - 4997.0
   - 439.0
-- &id027
-  section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+- section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
   section_type: linked_pdf
   source_line: GODSPEED 6666 WOODCHIP CARRIER 10,348.00 AS-IS HON GAI, VIETNAM 439
   unit: null
@@ -278,33 +251,222 @@ section_count: 2
 signals:
   numeric_observation_count: 27
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: (11 APRIL - 17 APRIL) 2026
+    unit: null
+    values:
+    - 11.0
+    - 17.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 200 (in USD terms).
+    unit: usd
+    values:
+    - 200.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (95.59 96.12 ) +0.53'
+    unit: null
+    values:
+    - 95.59
+    - 96.12
+    - 0.53
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (97.54 91.04) - 6.5'
+    unit: null
+    values:
+    - 97.54
+    - 91.04
+    - 6.5
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 92.84 This Week : 122.92 This Week : 278.91 This Week
+      : 44.84'
+    unit: null
+    values:
+    - 92.84
+    - 122.92
+    - 278.91
+    - 44.84
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 92.83 Previous Week : 122.78 Previous Week : 278.95
+      Previous Week : 44.67'
+    unit: null
+    values:
+    - 92.83
+    - 122.78
+    - 278.95
+    - 44.67
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: 'Loss : 0.01 Loss : 0.14 Gain : 0.04 Loss : 0.17'
+    unit: null
+    values:
+    - 0.01
+    - 0.14
+    - 0.04
+    - 0.17
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: PRICE OF HMS 1&2 (80:20) AND SHREDDED
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 400 410 (+ 3.85)
+    unit: null
+    values:
+    - 400.0
+    - 410.0
+    - 3.85
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 405 420 (+ 5.77)
+    unit: null
+    values:
+    - 405.0
+    - 420.0
+    - 5.77
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 405 420 (+ 5.77)
+    unit: null
+    values:
+    - 405.0
+    - 420.0
+    - 5.77
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 405 425 (+ 1.47)
+    unit: null
+    values:
+    - 405.0
+    - 425.0
+    - 1.47
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: INDIA FIRM 430 415 400 (0)
+    unit: null
+    values:
+    - 430.0
+    - 415.0
+    - 400.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH FIRM 470 460 435 (−1.09)
+    unit: null
+    values:
+    - 470.0
+    - 460.0
+    - 435.0
+    - 1.09
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN FIRM 465 460 445 (+1.86)
+    unit: null
+    values:
+    - 465.0
+    - 460.0
+    - 445.0
+    - 1.86
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY SOFT 290 280 270 (0)
+    unit: null
+    values:
+    - 290.0
+    - 280.0
+    - 270.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: STOLT CEDAR CHEMICAL TANKER 11,436.00 DELIVERED ALANG, INDIA 910
+    unit: null
+    values:
+    - 11436.0
+    - 910.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: STOLT SEA CHEMICAL TANKER 8,074.00 DELIVERED ALANG, INDIA 850
+    unit: null
+    values:
+    - 8074.0
+    - 850.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: NORTH MOON MPP 2,656.00 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: null
+    values:
+    - 2656.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: BARGUZIN MPP 1,278.00 DELIVERED ALIAGA, TURKIYE UNDISCLOSED
+    unit: null
+    values:
+    - 1278.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: YU-YING NO. 2 CADET TRAINING VESSEL 1,581.00 DELIVERED CHITTAGONG,BANGLADESH
+      470
+    unit: null
+    values:
+    - 2.0
+    - 1581.0
+    - 470.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: HAO HUNG 66 WOODCHIP CARRIER 7,807.00 AS-IS HON GAI, VIETNAM 439
+    unit: null
+    values:
+    - 66.0
+    - 7807.0
+    - 439.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: HAO HUNG 01 WOODCHIP CARRIER 4,997.00 AS-IS HON GAI, VIETNAM 439
+    unit: null
+    values:
+    - 1.0
+    - 4997.0
+    - 439.0
+  - section: 'Linked asset: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf'
+    section_type: linked_pdf
+    source_line: GODSPEED 6666 WOODCHIP CARRIER 10,348.00 AS-IS HON GAI, VIETNAM 439
+    unit: null
+    values:
+    - 6666.0
+    - 10348.0
+    - 439.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026.html
 source_stem: 2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026

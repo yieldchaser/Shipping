@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 97
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: While activity seemed as though it had been steadily increasing going
     into the final quarter of the year, the last couple of weeks have sent mixed signals
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 4.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Prices remain stationed at or just below the USD 600/LDT threshold,
     although there are still difficulties in getting vessels sold / delivered into
@@ -49,8 +47,7 @@ numeric_observations:
   unit: usd
   values:
   - 600.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 38 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -58,16 +55,14 @@ numeric_observations:
   values:
   - 38.0
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 111-11.jpg'
   unit: null
   values:
   - 111.0
   - -11.0
-- &id005
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
   unit: null
@@ -78,70 +73,61 @@ numeric_observations:
   - 38.0
   - 111.0
   - -11.0
-- &id006
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 514x147 mode=RGB'
   unit: null
   values:
   - 514.0
   - 47.0
-- &id007
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id008
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id009
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Septemb er 23rd, 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id010
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Volume 242, Issue 1049
   unit: null
   values:
   - 242.0
   - 1049.0
-- &id011
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Week 38 - Robert Frost
   unit: null
   values:
   - 38.0
-- &id012
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: the year, the last couple of weeks have sent mixed signals as to whether
     the 4-t hK qauthayr tCeor llwinisl l
   unit: null
   values:
   - 4.0
-- &id013
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Prices remain stationed at or just below the USD 600/LDT threshold,
     although there are still
   unit: usd
   values:
   - 600.0
-- &id014
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: For week 38 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -149,8 +135,7 @@ numeric_observations:
   values:
   - 38.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
   unit: null
@@ -159,8 +144,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 590.0
-- &id016
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 560 / LDT 570 / LDT 580 / LDT
   unit: null
@@ -169,8 +153,7 @@ numeric_observations:
   - 560.0
   - 570.0
   - 580.0
-- &id017
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 550 / LDT 560 / LDT 570 / LDT
   unit: null
@@ -179,8 +162,7 @@ numeric_observations:
   - 550.0
   - 560.0
   - 570.0
-- &id018
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
   unit: null
@@ -189,16 +171,14 @@ numeric_observations:
   - 240.0
   - 250.0
   - 260.0
-- &id019
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: restrictions that are still in place (any L/C o ver USD 2 - USD 3 million
     still needs an
@@ -206,8 +186,7 @@ numeric_observations:
   values:
   - 2.0
   - 3.0
-- &id021
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: the Ba nglad eshi Taka did firm up from BDT 106.6X to BDT 101.90 against
     the U.S. Dollar
@@ -215,24 +194,21 @@ numeric_observations:
   values:
   - 106.6
   - 101.9
-- &id022
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Needing to fill plots. - still, a record-low for the Taka - local ste
     el plate prices declined by USD 5/Ton this
   unit: usd
   values:
   - 5.0
-- &id023
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: On the sales front, a Handymax bulker was fixed from Indonesian owners
     as the 1990
   unit: null
   values:
   - 1990.0
-- &id024
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: built LUMOSO KARUNIA (7,987 LDT) fetched an impressive USD 592/LT LDT
     basis an
@@ -240,174 +216,152 @@ numeric_observations:
   values:
   - 7987.0
   - 592.0
-- &id025
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: LUMOSO KARUNIA Bulker 7,987 USD 592/LT LDT (‘as is' Singapore)
   unit: usd
   values:
   - 7987.0
   - 592.0
-- &id026
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: The INR has finally breached the psycIhNoloDgicaIllAy d amaging level
     of Rs. 80 against the U.S.
   unit: null
   values:
   - 80.0
-- &id028
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Dollar, ending the week at a terrifying Rs. 81.2X, subsequently joining
     the declining ranks
   unit: null
   values:
   - 81.2
-- &id029
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Even local steel plate prices declinedI aN furDtheIr AUS D 18/Ton,
     leaving end Buyers nervous
   unit: null
   values:
   - 18.0
-- &id030
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: week, the Pakistani Rupee plummeted to PKR 239.5X - an all-time record-low
     for the PKR.
   unit: null
   values:
   - 239.5
-- &id032
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: plummeted USD 27/Ton during the week - a rather noteworthy drop at
     a time the country
   unit: usd
   values:
   - 27.0
-- &id033
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: TRY 18.2X mark against the U.S. Dollar.
   unit: null
   values:
   - 18.2
-- &id035
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: into a mindset that is ruining any potentially positive outcomes for
     this market, unless Quiet Q4 till 2023?
   unit: null
   values:
   - 2023.0
-- &id036
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line:  Medical errors are a top cause of death. According to a Johns Hopkins
     research team, 250,000 deaths in the
   unit: null
   values:
   - 250000.0
-- &id038
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: are 1 0 in a sloth's.
   unit: null
   values:
   - 1.0
-- &id039
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line:  Bees can fly higher than Mount Everest. Bees can fly higher than
     29,525 feet above sea level, according to
   unit: null
   values:
   - 29525.0
-- &id040
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: No holidays in September September 24 - October 02
   unit: null
   values:
   - 24.0
   - 2.0
-- &id041
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 07 - October 25
   unit: null
   values:
   - 7.0
   - 25.0
-- &id042
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 25 - October 31
   unit: null
   values:
   - 25.0
   - 31.0
-- &id043
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: No holidays in September September 25 - September 28
   unit: null
   values:
   - 25.0
   - 28.0
-- &id044
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 08 - October 11
   unit: null
   values:
   - 8.0
   - 11.0
-- &id045
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 24 - October 27
   unit: null
   values:
   - 24.0
   - 27.0
-- &id046
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 1 - October 7 - National Day October 9 - Eid October 28 - October
     29 - Republic
@@ -418,31 +372,27 @@ numeric_observations:
   - 9.0
   - 28.0
   - 29.0
-- &id047
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day Day
   unit: null
   values:
   - 24.0
-- &id048
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 23, 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id050
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 1 Shubh (Under Tow) 12,154 Chemical Tanker Beached September 22
   unit: null
@@ -450,23 +400,20 @@ numeric_observations:
   - 1.0
   - 12154.0
   - 22.0
-- &id051
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 12,154
   unit: null
   values:
   - 12154.0
-- &id052
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 23, 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id053
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 1 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -474,8 +421,7 @@ numeric_observations:
   - 1.0
   - 15672.0
   - 22.0
-- &id054
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 2 Bonvoy 8 3,348 Tanker Beached September 21
   unit: null
@@ -484,8 +430,7 @@ numeric_observations:
   - 8.0
   - 3348.0
   - 21.0
-- &id055
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 3 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -493,8 +438,7 @@ numeric_observations:
   - 3.0
   - 16885.0
   - 28.0
-- &id056
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 4 New Smile 2,206 Tanker Arrived September 15
   unit: null
@@ -502,8 +446,7 @@ numeric_observations:
   - 4.0
   - 2206.0
   - 15.0
-- &id057
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 5 Roknoor 3 600 Bulk Carrier Arrived September 15
   unit: null
@@ -512,8 +455,7 @@ numeric_observations:
   - 3.0
   - 600.0
   - 15.0
-- &id058
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 6 Shankhachil 483 Tanker Arrived September 15
   unit: null
@@ -521,8 +463,7 @@ numeric_observations:
   - 6.0
   - 483.0
   - 15.0
-- &id059
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 7 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -531,23 +472,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 40,170
   unit: null
   values:
   - 40170.0
-- &id061
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 23, 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id062
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -556,8 +494,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id063
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -566,8 +503,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id064
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -576,8 +512,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id065
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -586,8 +521,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id066
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -596,8 +530,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id067
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /1 7 /2
   unit: null
@@ -605,8 +538,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /1 8 /2
   unit: null
@@ -614,8 +546,7 @@ numeric_observations:
   - 1.0
   - 8.0
   - 2.0
-- &id069
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /1 9 /2
   unit: null
@@ -623,16 +554,14 @@ numeric_observations:
   - 1.0
   - 9.0
   - 2.0
-- &id070
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /2 0 /2
   unit: null
   values:
   - 2.0
   - 2.0
-- &id071
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /2 1 /2
   unit: null
@@ -640,8 +569,7 @@ numeric_observations:
   - 2.0
   - 1.0
   - 2.0
-- &id072
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /2 2 /2
   unit: null
@@ -649,8 +577,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: /2 3 /2
   unit: null
@@ -658,8 +585,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 2.0
-- &id074
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 8 0 .3 5
   unit: null
@@ -667,8 +593,7 @@ numeric_observations:
   - 8.0
   - 3.0
   - 5.0
-- &id075
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 7 2 .9 0
   unit: null
@@ -676,8 +601,7 @@ numeric_observations:
   - 7.0
   - 2.0
   - 9.0
-- &id076
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 7 3 .0 4
   unit: null
@@ -685,8 +609,7 @@ numeric_observations:
   - 7.0
   - 3.0
   - 4.0
-- &id077
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 7 1 .6 1
   unit: null
@@ -695,8 +618,7 @@ numeric_observations:
   - 1.0
   - 6.0
   - 1.0
-- &id078
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 6 3 .4 0
   unit: null
@@ -704,8 +626,7 @@ numeric_observations:
   - 6.0
   - 3.0
   - 4.0
-- &id079
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 6 2 .2 1
   unit: null
@@ -714,8 +635,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 1.0
-- &id080
-  section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+- section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
   section_type: linked_pdf
   source_line: 6 ,3 0 0 .0
   unit: null
@@ -875,86 +795,619 @@ section_count: 3
 signals:
   numeric_observation_count: 97
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: While activity seemed as though it had been steadily increasing going
+      into the final quarter of the year, the last couple of weeks have sent mixed
+      signals as to whether the 4th quarter will actually be better for the ship recycling
+      sector (as many have been an
+    unit: null
+    values:
+    - 4.0
+  - section: Main
+    section_type: null
+    source_line: Prices remain stationed at or just below the USD 600/LDT threshold,
+      although there are still difficulties in getting vessels sold / delivered into
+      Pakistan (due to a constantly depreciating currency) and in Bangladesh, due
+      to tough government imposed L/C restr
+    unit: usd
+    values:
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: For week 38 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 111-11.jpg'
+    unit: null
+    values:
+    - 111.0
+    - -11.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -9.0
+    - -27.0
+    - 38.0
+    - 111.0
+    - -11.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 514x147 mode=RGB'
+    unit: null
+    values:
+    - 514.0
+    - 47.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_111-11_bb8c8e6eada6.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Septemb er 23rd, 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Volume 242, Issue 1049
+    unit: null
+    values:
+    - 242.0
+    - 1049.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Week 38 - Robert Frost
+    unit: null
+    values:
+    - 38.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: the year, the last couple of weeks have sent mixed signals as to
+      whether the 4-t hK qauthayr tCeor llwinisl l
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Prices remain stationed at or just below the USD 600/LDT threshold,
+      although there are still
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: For week 38 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 38.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
+    unit: null
+    values:
+    - 1.0
+    - 570.0
+    - 580.0
+    - 590.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 560 / LDT 570 / LDT 580 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 560.0
+    - 570.0
+    - 580.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 550 / LDT 560 / LDT 570 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 550.0
+    - 560.0
+    - 570.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 240.0
+    - 250.0
+    - 260.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: restrictions that are still in place (any L/C o ver USD 2 - USD 3
+      million still needs an
+    unit: usd
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: the Ba nglad eshi Taka did firm up from BDT 106.6X to BDT 101.90
+      against the U.S. Dollar
+    unit: null
+    values:
+    - 106.6
+    - 101.9
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Needing to fill plots. - still, a record-low for the Taka - local
+      ste el plate prices declined by USD 5/Ton this
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: On the sales front, a Handymax bulker was fixed from Indonesian owners
+      as the 1990
+    unit: null
+    values:
+    - 1990.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: built LUMOSO KARUNIA (7,987 LDT) fetched an impressive USD 592/LT
+      LDT basis an
+    unit: usd
+    values:
+    - 7987.0
+    - 592.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: LUMOSO KARUNIA Bulker 7,987 USD 592/LT LDT (‘as is' Singapore)
+    unit: usd
+    values:
+    - 7987.0
+    - 592.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: The INR has finally breached the psycIhNoloDgicaIllAy d amaging level
+      of Rs. 80 against the U.S.
+    unit: null
+    values:
+    - 80.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Dollar, ending the week at a terrifying Rs. 81.2X, subsequently joining
+      the declining ranks
+    unit: null
+    values:
+    - 81.2
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Even local steel plate prices declinedI aN furDtheIr AUS D 18/Ton,
+      leaving end Buyers nervous
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: week, the Pakistani Rupee plummeted to PKR 239.5X - an all-time record-low
+      for the PKR.
+    unit: null
+    values:
+    - 239.5
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: plummeted USD 27/Ton during the week - a rather noteworthy drop at
+      a time the country
+    unit: usd
+    values:
+    - 27.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: TRY 18.2X mark against the U.S. Dollar.
+    unit: null
+    values:
+    - 18.2
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: into a mindset that is ruining any potentially positive outcomes
+      for this market, unless Quiet Q4 till 2023?
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line:  Medical errors are a top cause of death. According to a Johns Hopkins
+      research team, 250,000 deaths in the
+    unit: null
+    values:
+    - 250000.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: are 1 0 in a sloth's.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line:  Bees can fly higher than Mount Everest. Bees can fly higher than
+      29,525 feet above sea level, according to
+    unit: null
+    values:
+    - 29525.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in September September 24 - October 02
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 07 - October 25
+    unit: null
+    values:
+    - 7.0
+    - 25.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 25 - October 31
+    unit: null
+    values:
+    - 25.0
+    - 31.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in September September 25 - September 28
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 08 - October 11
+    unit: null
+    values:
+    - 8.0
+    - 11.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - October 27
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 1 - October 7 - National Day October 9 - Eid October 28 -
+      October 29 - Republic
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 9.0
+    - 28.0
+    - 29.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day Day
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 23, 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 1 Shubh (Under Tow) 12,154 Chemical Tanker Beached September 22
+    unit: null
+    values:
+    - 1.0
+    - 12154.0
+    - 22.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 12,154
+    unit: null
+    values:
+    - 12154.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 23, 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 1.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bonvoy 8 3,348 Tanker Beached September 21
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 3348.0
+    - 21.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 3 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 3.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 4 New Smile 2,206 Tanker Arrived September 15
+    unit: null
+    values:
+    - 4.0
+    - 2206.0
+    - 15.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 5 Roknoor 3 600 Bulk Carrier Arrived September 15
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+    - 600.0
+    - 15.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 6 Shankhachil 483 Tanker Arrived September 15
+    unit: null
+    values:
+    - 6.0
+    - 483.0
+    - 15.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 7 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 7.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 40,170
+    unit: null
+    values:
+    - 40170.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 23, 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /1 7 /2
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /1 8 /2
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /1 9 /2
+    unit: null
+    values:
+    - 1.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /2 0 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /2 1 /2
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /2 2 /2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: /2 3 /2
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 8 0 .3 5
+    unit: null
+    values:
+    - 8.0
+    - 3.0
+    - 5.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 7 2 .9 0
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 9.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 7 3 .0 4
+    unit: null
+    values:
+    - 7.0
+    - 3.0
+    - 4.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 7 1 .6 1
+    unit: null
+    values:
+    - 7.0
+    - 1.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 6 3 .4 0
+    unit: null
+    values:
+    - 6.0
+    - 3.0
+    - 4.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 6 2 .2 1
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 2.0
+    - 1.0
+  - section: 'Linked asset: 2022-09-27_gms-week-38-plates-plunge_ship-recycling-market-insight-week-3_557d8e5686ab.pdf'
+    section_type: linked_pdf
+    source_line: 6 ,3 0 0 .0
+    unit: null
+    values:
+    - 6.0
+    - 3.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-09-27_gms-week-38-plates-plunge.html
 source_stem: 2022-09-27_gms-week-38-plates-plunge

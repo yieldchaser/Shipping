@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 66
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 27/08/2022
   unit: null
@@ -40,8 +39,7 @@ numeric_observations:
   - 27.0
   - 8.0
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 19 August - 26 August 2022
   unit: null
@@ -49,8 +47,7 @@ numeric_observations:
   - 19.0
   - 26.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -67,8 +63,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 79.89 This Week : 95.07 This Week : 219.50 This Week :
     18.18'
@@ -78,8 +73,7 @@ numeric_observations:
   - 95.07
   - 219.5
   - 18.18
-- &id006
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 79.86 Previous Week : 95.01 Previous Week : 214.98
     Previous Week : 18.12'
@@ -89,8 +83,7 @@ numeric_observations:
   - 95.01
   - 214.98
   - 18.12
-- &id007
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.03 % Lost : 0.06 % Lost : 2.06 % Lost : 0.33 %'
   unit: pct
@@ -99,22 +92,19 @@ numeric_observations:
   - 0.06
   - 2.06
   - 0.33
-- &id008
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id009
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Uptick in demand for steel 750
   unit: null
   values:
   - 750.0
-- &id010
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 570 580 560 570
   unit: null
@@ -123,8 +113,7 @@ numeric_observations:
   - 580.0
   - 560.0
   - 570.0
-- &id011
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -133,16 +122,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id012
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: New Delhi has abstained at the UN Security Council on Ukraine, much
     to the 600
   unit: null
   values:
   - 600.0
-- &id013
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: annoyance of the Western powers led by the United States. 490 505 490
   unit: null
@@ -150,8 +137,7 @@ numeric_observations:
   - 490.0
   - 505.0
   - 490.0
-- &id014
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 25 August to 2 September 2022
   unit: null
@@ -159,8 +145,7 @@ numeric_observations:
   - 25.0
   - 2.0
   - 2022.0
-- &id015
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 7 September to 15 September 2022
   unit: null
@@ -168,8 +153,7 @@ numeric_observations:
   - 7.0
   - 15.0
   - 2022.0
-- &id016
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 24 September to 2 October 2022
   unit: null
@@ -177,8 +161,7 @@ numeric_observations:
   - 24.0
   - 2.0
   - 2022.0
-- &id017
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -187,46 +170,40 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id018
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id019
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Improvement in market sentiments 750
   unit: null
   values:
   - 750.0
-- &id020
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 580 575
   unit: null
   values:
   - 580.0
   - 575.0
-- &id021
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 105-106/USD whereas banks are encashing export payments dollars of
   unit: usd
   values:
   - 105.0
   - -106.0
-- &id022
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: exporters at BDT 102-103/USD.
   unit: usd
   values:
   - 102.0
   - -103.0
-- &id023
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: schools will close an additional day each week to reduce electricity
     usage amid 480 475
@@ -234,8 +211,7 @@ numeric_observations:
   values:
   - 480.0
   - 475.0
-- &id024
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 27 August to 30 August 2022
   unit: null
@@ -243,8 +219,7 @@ numeric_observations:
   - 27.0
   - 30.0
   - 2022.0
-- &id025
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 9 September to 12 September 2022
   unit: null
@@ -252,8 +227,7 @@ numeric_observations:
   - 9.0
   - 12.0
   - 2022.0
-- &id026
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 25 September to 28 September 2022
   unit: null
@@ -261,15 +235,13 @@ numeric_observations:
   - 25.0
   - 28.0
   - 2022.0
-- &id027
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id028
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 600 580 590 580
   unit: null
@@ -278,39 +250,34 @@ numeric_observations:
   - 580.0
   - 590.0
   - 580.0
-- &id029
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: series of rain-induced floods that have affected over 33 million people
     and
   unit: null
   values:
   - 33.0
-- &id030
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: killed more than 937 people. In Gadani, conditions are extremely quiet
     due to
   unit: null
   values:
   - 937.0
-- &id031
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: heavy rainfall. Currently, transportation is at a standstill as roads
     are 250
   unit: null
   values:
   - 250.0
-- &id032
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: The imported scrap market slightly softened by USD 5/MT and remained
   unit: tonnage
   values:
   - 5.0
-- &id033
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: exchange rates and subdued demand kept buyers cautious. Price of HMS
     1&2 (80:20) and Shredded
@@ -320,24 +287,21 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id034
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Saudi Arabia has announced that it will invest USD 1 Billion in Pakistan
     to help
   unit: usd
   values:
   - 1.0
-- &id035
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 500 490
   unit: null
   values:
   - 500.0
   - 490.0
-- &id036
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: the country with its current economic difficulties as it faces a balance
     of 455 450
@@ -345,8 +309,7 @@ numeric_observations:
   values:
   - 455.0
   - 450.0
-- &id037
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: payments crisis with foreign reserves having dropped as low as USD
     7.8 400
@@ -354,63 +317,55 @@ numeric_observations:
   values:
   - 7.8
   - 400.0
-- &id038
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: has announced an investment of USD 3 Billion in Pakistan by leasing
     airports,
   unit: usd
   values:
   - 3.0
-- &id039
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id040
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 270 270
   unit: null
   values:
   - 270.0
   - 270.0
-- &id041
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 260 260
   unit: null
   values:
   - 260.0
   - 260.0
-- &id042
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 250 250
   unit: null
   values:
   - 250.0
   - 250.0
-- &id043
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Imported scrap offers strengthened by about USD 5/MT in recently- 200
   unit: tonnage
   values:
   - 5.0
   - 200.0
-- &id044
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 405 405
   unit: null
   values:
   - 405.0
   - 405.0
-- &id045
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: move is not welcomed by economists as they feel it will interfere in
     safe 400 380 380
@@ -419,15 +374,13 @@ numeric_observations:
   - 400.0
   - 380.0
   - 380.0
-- &id046
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id047
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: '1380 1374 This Week : 99.83 This Week : 92.88'
   unit: null
@@ -436,32 +389,28 @@ numeric_observations:
   - 1374.0
   - 99.83
   - 92.88
-- &id048
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 95.85 Previous Week : 89.79'
   unit: null
   values:
   - 95.85
   - 89.79
-- &id049
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 1250 1244
   unit: null
   values:
   - 1250.0
   - 1244.0
-- &id050
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Movement : +3.98 % Movement : +3.33%'
   unit: pct
   values:
   - 3.98
   - 3.33
-- &id051
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 1156 1153 1161
   unit: null
@@ -469,45 +418,39 @@ numeric_observations:
   - 1156.0
   - 1153.0
   - 1161.0
-- &id052
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 1060 1066
   unit: null
   values:
   - 1060.0
   - 1066.0
-- &id053
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 500 return of sanctioned Iranian oil exports to the market
   unit: null
   values:
   - 500.0
-- &id054
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id055
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: QUEEN MARY ROPAX 1998 JAPAN 10,714.00 AS-IS KOREA UNDISCLOSED
   unit: null
   values:
   - 1998.0
   - 10714.0
-- &id056
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id057
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
   unit: null
@@ -519,8 +462,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id058
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
   unit: null
@@ -533,8 +475,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id059
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -542,8 +483,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id060
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -552,8 +492,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id061
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -562,8 +501,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id062
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -572,8 +510,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id063
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -582,8 +519,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id064
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -592,8 +528,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id065
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Work: +81 354 522 405'
   unit: null
@@ -602,8 +537,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id066
-  section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+- section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -622,72 +556,523 @@ section_count: 2
 signals:
   numeric_observation_count: 66
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 27/08/2022
+    unit: null
+    values:
+    - 27.0
+    - 8.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 19 August - 26 August 2022
+    unit: null
+    values:
+    - 19.0
+    - 26.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 79.89 This Week : 95.07 This Week : 219.50 This Week
+      : 18.18'
+    unit: null
+    values:
+    - 79.89
+    - 95.07
+    - 219.5
+    - 18.18
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 79.86 Previous Week : 95.01 Previous Week : 214.98
+      Previous Week : 18.12'
+    unit: null
+    values:
+    - 79.86
+    - 95.01
+    - 214.98
+    - 18.12
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.03 % Lost : 0.06 % Lost : 2.06 % Lost : 0.33 %'
+    unit: pct
+    values:
+    - 0.03
+    - 0.06
+    - 2.06
+    - 0.33
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Uptick in demand for steel 750
+    unit: null
+    values:
+    - 750.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 570 580 560 570
+    unit: null
+    values:
+    - 570.0
+    - 580.0
+    - 560.0
+    - 570.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: New Delhi has abstained at the UN Security Council on Ukraine, much
+      to the 600
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: annoyance of the Western powers led by the United States. 490 505
+      490
+    unit: null
+    values:
+    - 490.0
+    - 505.0
+    - 490.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 25 August to 2 September 2022
+    unit: null
+    values:
+    - 25.0
+    - 2.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 7 September to 15 September 2022
+    unit: null
+    values:
+    - 7.0
+    - 15.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 24 September to 2 October 2022
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Improvement in market sentiments 750
+    unit: null
+    values:
+    - 750.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 580 575
+    unit: null
+    values:
+    - 580.0
+    - 575.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 105-106/USD whereas banks are encashing export payments dollars of
+    unit: usd
+    values:
+    - 105.0
+    - -106.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: exporters at BDT 102-103/USD.
+    unit: usd
+    values:
+    - 102.0
+    - -103.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: schools will close an additional day each week to reduce electricity
+      usage amid 480 475
+    unit: null
+    values:
+    - 480.0
+    - 475.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 27 August to 30 August 2022
+    unit: null
+    values:
+    - 27.0
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 9 September to 12 September 2022
+    unit: null
+    values:
+    - 9.0
+    - 12.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 25 September to 28 September 2022
+    unit: null
+    values:
+    - 25.0
+    - 28.0
+    - 2022.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 600 580 590 580
+    unit: null
+    values:
+    - 600.0
+    - 580.0
+    - 590.0
+    - 580.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: series of rain-induced floods that have affected over 33 million
+      people and
+    unit: null
+    values:
+    - 33.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: killed more than 937 people. In Gadani, conditions are extremely
+      quiet due to
+    unit: null
+    values:
+    - 937.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: heavy rainfall. Currently, transportation is at a standstill as roads
+      are 250
+    unit: null
+    values:
+    - 250.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: The imported scrap market slightly softened by USD 5/MT and remained
+    unit: tonnage
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: exchange rates and subdued demand kept buyers cautious. Price of
+      HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Saudi Arabia has announced that it will invest USD 1 Billion in Pakistan
+      to help
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 500 490
+    unit: null
+    values:
+    - 500.0
+    - 490.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: the country with its current economic difficulties as it faces a
+      balance of 455 450
+    unit: null
+    values:
+    - 455.0
+    - 450.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: payments crisis with foreign reserves having dropped as low as USD
+      7.8 400
+    unit: usd
+    values:
+    - 7.8
+    - 400.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: has announced an investment of USD 3 Billion in Pakistan by leasing
+      airports,
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 270 270
+    unit: null
+    values:
+    - 270.0
+    - 270.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 260 260
+    unit: null
+    values:
+    - 260.0
+    - 260.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 250 250
+    unit: null
+    values:
+    - 250.0
+    - 250.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Imported scrap offers strengthened by about USD 5/MT in recently-
+      200
+    unit: tonnage
+    values:
+    - 5.0
+    - 200.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 405 405
+    unit: null
+    values:
+    - 405.0
+    - 405.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: move is not welcomed by economists as they feel it will interfere
+      in safe 400 380 380
+    unit: null
+    values:
+    - 400.0
+    - 380.0
+    - 380.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: '1380 1374 This Week : 99.83 This Week : 92.88'
+    unit: null
+    values:
+    - 1380.0
+    - 1374.0
+    - 99.83
+    - 92.88
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 95.85 Previous Week : 89.79'
+    unit: null
+    values:
+    - 95.85
+    - 89.79
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1250 1244
+    unit: null
+    values:
+    - 1250.0
+    - 1244.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : +3.98 % Movement : +3.33%'
+    unit: pct
+    values:
+    - 3.98
+    - 3.33
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1156 1153 1161
+    unit: null
+    values:
+    - 1156.0
+    - 1153.0
+    - 1161.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 1060 1066
+    unit: null
+    values:
+    - 1060.0
+    - 1066.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 500 return of sanctioned Iranian oil exports to the market
+    unit: null
+    values:
+    - 500.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: QUEEN MARY ROPAX 1998 JAPAN 10,714.00 AS-IS KOREA UNDISCLOSED
+    unit: null
+    values:
+    - 1998.0
+    - 10714.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021 Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Work: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2022-08-27_Weekly-Ship-Recycling-Report_26_August_2022.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-08-27_best-oasis-weekly-recycling-market-report-26-august-2022.html
 source_stem: 2022-08-27_best-oasis-weekly-recycling-market-report-26-august-2022

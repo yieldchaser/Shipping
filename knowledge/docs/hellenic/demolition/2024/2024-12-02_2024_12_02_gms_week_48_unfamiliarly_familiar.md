@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 114
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As the recently sensitive ceasefire between Israel & Hezbollah gradually
     takes hold and the Russia-Ukraine fighting sees the use of increasingly deadlierweapons,
@@ -44,8 +43,7 @@ numeric_observations:
   - 24.0
   - 25.0
   - 34.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, as both India and Bangladesh will likely have concluded key
     elections within Q1 2025, ship recyclers in these markets can hopefully move forward
@@ -55,8 +53,7 @@ numeric_observations:
   values:
   - 2025.0
   - 2025.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 48 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -64,8 +61,7 @@ numeric_observations:
   values:
   - 48.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-12-02_gms-week-48-unfamiliarly-familiar_img1_96321_d1c98c3086b2.jpg'
   unit: null
@@ -77,87 +73,76 @@ numeric_observations:
   - 96321.0
   - 8.0
   - 86.0
-- &id005
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: November 29th, 2024
   unit: null
   values:
   - 29.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Week 48
   unit: null
   values:
   - 48.0
-- &id007
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Volume 266, Issue 1162 - Richard Branson
   unit: null
   values:
   - 266.0
   - 1162.0
-- &id008
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: in the week and steady around USD 69 / barrel as the week ended. The
     news of the ceasefire also
   unit: usd
   values:
   - 69.0
-- &id009
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: • Elections over. saw the already declining Baltic Exchange Dry Index
     fall over 4.5% this week, and to its lowest level
   unit: pct
   values:
   - 4.5
-- &id010
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: s ince January ‘24. Meanwhile, despite incoming president Trump's announcement
     of applying
   unit: null
   values:
   - 24.0
-- &id011
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: sweeping tariffs to the tune of 25% on China, Mexico, and even Canada,
     the U.S. economy continues
   unit: pct
   values:
   - 25.0
-- &id012
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: performance that is well on its way to breach TRY 34 against the U.S.
     Dollar.
   unit: null
   values:
   - 34.0
-- &id013
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Overall, as both India and Bangladesh will likely have concluded key
     elections within Q1 2025, ship
   unit: null
   values:
   - 2025.0
-- &id014
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: and vessel pricing should be able to pick up soon after i.e. well into
     Q1 2025.
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 48 of 2024 are on Page 5.
   unit: null
@@ -165,32 +150,28 @@ numeric_observations:
   - 48.0
   - 2024.0
   - 5.0
-- &id016
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: to December 2024, as Chattogram's port position dreadfully starts to
     reflect the true state of local
   unit: null
   values:
   - 2024.0
-- &id018
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: affairs, with only one 7K LDT vessel reported to have arrived the nation's
     waterfront and no
   unit: null
   values:
   - 7.0
-- &id019
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: take charge and lead the populous through the unfolding final stretch
     of 2024, and into 2025.
@@ -198,103 +179,90 @@ numeric_observations:
   values:
   - 2024.0
   - 2025.0
-- &id020
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 8.5% drop.
   unit: pct
   values:
   - 8.5
-- &id021
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: The unfolding result of 2024s insanity has also left domestic fundamentals
     spiralling down, as local
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: steel plate prices have so far seen about USD 100/Ton wiped clean through
     the year, unlike this
   unit: usd
   values:
   - 100.0
-- &id023
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: week, where they decided to take the time to play dead on the floor
     at USD 521/Ton. Even the
   unit: usd
   values:
   - 521.0
-- &id024
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi Taka tangoed in sync, staying stranded at a disastrous
     level of BDT 119.70. Of note,
   unit: null
   values:
   - 119.7
-- &id025
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: the BDT has lost over 8.5% of its value against the Dollar YTD. All
     of the untold economic statistical
   unit: pct
   values:
   - 8.5
-- &id026
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: back to previous levels of USD 500/LDT (or in excess of) any time soon,
     and it is proving to be a far
   unit: usd
   values:
   - 500.0
-- &id027
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: it in 2nd p l a c e a n d squarely behind a largely uncompetitive Bangladesh,
     has been nothing short of
   unit: null
   values:
   - 2.0
-- &id029
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: a bove 50K LDT for just one week - certainly impressive given the current
     atmosphere in the supply
   unit: null
   values:
   - 50.0
-- &id030
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: shockingly low rate of USD 467.73/Ton, but it is the Indian Rupee that
     has been the magnet of misery
   unit: usd
   values:
   - 467.73
-- &id031
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: for Alang's competitive pricing as it closed at another record breaking
     INR 84.57 against the U.S.
   unit: null
   values:
   - 84.57
-- &id032
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Dollar, 14 basis points lower this week, and nearly 1.5% lower overall
     this year.
@@ -302,8 +270,7 @@ numeric_observations:
   values:
   - 14.0
   - 1.5
-- &id033
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: This has healthily seen local offers fall from nearly USD 600/Ton to
     lows approaching USD 450/Ton
@@ -311,133 +278,116 @@ numeric_observations:
   values:
   - 600.0
   - 450.0
-- &id034
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: or even below the dreaded USD 450/Ton mark, as the quality and even
     (comparative) quantity of
   unit: usd
   values:
   - 450.0
-- &id035
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: tonnage improves; and by all accounts, indications moving north of
     USD 450/LDT seem to be
   unit: usd
   values:
   - 450.0
-- &id036
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id037
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: local port position that has not seen a vessel for nearly 6 weeks now.
     And there seems to be little
   unit: null
   values:
   - 6.0
-- &id038
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: And although local steel plate prices were the ones to register a noteworthy
     USD 10/Ton decline
   unit: usd
   values:
   - 10.0
-- &id039
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: this week, the Pakistani Rupee registered a comparatively marginal
     drop of 7 basis points against
   unit: null
   values:
   - 7.0
-- &id040
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar, down to nearly PKR 278. Of note, Pakistani Rupee has
     been the only major ship
   unit: null
   values:
   - 278.0
-- &id041
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: recycling destination where its currency actually firmed 2.71% against
     the US$ during the course
   unit: pct
   values:
   - 2.71
-- &id042
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: floor for the sub-continent will rise in January 2025.
   unit: null
   values:
   - 2025.0
-- &id043
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: available reserves for local businesses. And the sooner that IMFs pending
     USD 7 Billion loan comes
   unit: usd
   values:
   - 7.0
-- &id044
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: standards, in their runup to making yards HKC compliant by 2025.
   unit: null
   values:
   - 2025.0
-- &id045
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 2024 of missed opportunities amidst abysmal supply for a Pakistan ship
     recycling market will
   unit: null
   values:
   - 2024.0
-- &id046
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: TRY 35.
   unit: null
   values:
   - 35.0
-- &id048
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: another USD 10/MT decline this week, leaving local offerings on units
     somehow hanging on to their
   unit: tonnage
   values:
   - 10.0
-- &id049
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: ship recycling businesses have finally made the rounds this year. Even
     the Lira fell 52 basis points
   unit: null
   values:
   - 52.0
-- &id050
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: this week, down to TRY 34.70 against the U.S. Dollar and merrily on
     its way to TRY 35.
@@ -445,8 +395,7 @@ numeric_observations:
   values:
   - 34.7
   - 35.0
-- &id051
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: For Week 48 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -454,8 +403,7 @@ numeric_observations:
   values:
   - 48.0
   - 2024.0
-- &id052
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -464,8 +412,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id053
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -474,8 +421,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id054
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -484,8 +430,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id055
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -494,31 +439,27 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id056
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 2024 NEWS…IN SEQUENCE.
   unit: null
   values:
   - 2024.0
-- &id058
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Jul 21 - US President Joe Biden withdrew from his re-election campaign
     and endorsed Kamala Harris as his preferred
   unit: null
   values:
   - 21.0
-- &id059
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Jul 24 - "Inside Out 2" became the highest-grossing animated film
     ever, earning $1.462 billion worldwide and surpassing
@@ -527,15 +468,13 @@ numeric_observations:
   - 24.0
   - 2.0
   - 1.462
-- &id060
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: '"Frozen II," which previously held the record with $1.453 billio n.'
   unit: usd
   values:
   - 1.453
-- &id061
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Jul 26 - The Summer Olympic Games opening ceremony was held outdoors
     for the first time ever. In a spectacular event, 6,800
@@ -543,40 +482,35 @@ numeric_observations:
   values:
   - 26.0
   - 6800.0
-- &id062
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: athletes paraded in 85 boats along the Seine River in Paris, heading
     towards the Eiffel Tower. There, the Olympic flame was
   unit: null
   values:
   - 85.0
-- &id063
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Aug 5 - British graffiti artist Banksy created the first in a series
     of animal artworks in London. Banksy's first piece was the
   unit: null
   values:
   - 5.0
-- &id064
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Aug 11 - Regions around Athens, Greece, were evacuated due to wildfires
     after the hottest June and July on record.
   unit: null
   values:
   - 11.0
-- &id065
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line:  Aug 24 - Pavel Durov, founder of the encrypted messaging app Telegram,
     was arrested in France for alleged involvement in
   unit: null
   values:
   - 24.0
-- &id066
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 24 - December 26 - Christmas Holidays November 29 - December
     07
@@ -586,8 +520,7 @@ numeric_observations:
   - 26.0
   - 29.0
   - 7.0
-- &id067
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve December 12 - December 20
   unit: null
@@ -595,16 +528,14 @@ numeric_observations:
   - 31.0
   - 12.0
   - 20.0
-- &id068
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 29 - January 2025
   unit: null
   values:
   - 29.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day November 30 - December 03
   unit: null
@@ -612,8 +543,7 @@ numeric_observations:
   - 16.0
   - 30.0
   - 3.0
-- &id070
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 14 - December 17
   unit: null
@@ -621,15 +551,13 @@ numeric_observations:
   - 25.0
   - 14.0
   - 17.0
-- &id071
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday
   unit: null
   values:
   - 31.0
-- &id072
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: No holidays until 2025 December 25 - Quaid-e-Azam Day No holidays until
     2025
@@ -638,31 +566,27 @@ numeric_observations:
   - 2025.0
   - 25.0
   - 2025.0
-- &id073
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: December 26 - Day after Christmas
   unit: null
   values:
   - 26.0
-- &id074
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 29, 2024
   unit: null
   values:
   - 29.0
   - 2024.0
-- &id076
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 1 A Star 14,856 Drilling Rig Arrived November 30
   unit: null
@@ -670,8 +594,7 @@ numeric_observations:
   - 1.0
   - 14856.0
   - 30.0
-- &id077
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
   unit: null
@@ -679,8 +602,7 @@ numeric_observations:
   - 2.0
   - 7263.0
   - 26.0
-- &id078
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 3 Cean (Under Tow) 21,962 Drilling Rig Delivered November 26
   unit: null
@@ -688,8 +610,7 @@ numeric_observations:
   - 3.0
   - 21962.0
   - 26.0
-- &id079
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 4 Maher 3,519 Gen Cargo Delivered November 28
   unit: null
@@ -697,8 +618,7 @@ numeric_observations:
   - 4.0
   - 3519.0
   - 28.0
-- &id080
-  section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+- section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
   section_type: linked_pdf
   source_line: 5 Sea Nass 697 Gen Cargo Delivered November 27
   unit: null
@@ -997,86 +917,603 @@ section_count: 3
 signals:
   numeric_observation_count: 114
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As the recently sensitive ceasefire between Israel & Hezbollah gradually
+      takes hold and the Russia-Ukraine fighting sees the use of increasingly deadlierweapons,
+      this week, likely emboldened by the Gaza conflict, the world saw Syrian rebels
+      recapture Aleppo fr
+    unit: worldscale_pct
+    values:
+    - 69.0
+    - 4.5
+    - 24.0
+    - 25.0
+    - 34.0
+  - section: Main
+    section_type: null
+    source_line: Overall, as both India and Bangladesh will likely have concluded
+      key elections within Q1 2025, ship recyclers in these markets can hopefully
+      move forward on the back of some sensible modifications to upcoming domestic
+      / infrastructure projects and steel from l
+    unit: null
+    values:
+    - 2025.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 48 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 48.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-12-02_gms-week-48-unfamiliarly-familiar_img1_96321_d1c98c3086b2.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -12.0
+    - -2.0
+    - 48.0
+    - 96321.0
+    - 8.0
+    - 86.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: November 29th, 2024
+    unit: null
+    values:
+    - 29.0
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Week 48
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Volume 266, Issue 1162 - Richard Branson
+    unit: null
+    values:
+    - 266.0
+    - 1162.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: in the week and steady around USD 69 / barrel as the week ended.
+      The news of the ceasefire also
+    unit: usd
+    values:
+    - 69.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: • Elections over. saw the already declining Baltic Exchange Dry Index
+      fall over 4.5% this week, and to its lowest level
+    unit: pct
+    values:
+    - 4.5
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: s ince January ‘24. Meanwhile, despite incoming president Trump's
+      announcement of applying
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: sweeping tariffs to the tune of 25% on China, Mexico, and even Canada,
+      the U.S. economy continues
+    unit: pct
+    values:
+    - 25.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: performance that is well on its way to breach TRY 34 against the
+      U.S. Dollar.
+    unit: null
+    values:
+    - 34.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Overall, as both India and Bangladesh will likely have concluded
+      key elections within Q1 2025, ship
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: and vessel pricing should be able to pick up soon after i.e. well
+      into Q1 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 48 of 2024 are on Page 5.
+    unit: null
+    values:
+    - 48.0
+    - 2024.0
+    - 5.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: to December 2024, as Chattogram's port position dreadfully starts
+      to reflect the true state of local
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: affairs, with only one 7K LDT vessel reported to have arrived the
+      nation's waterfront and no
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: take charge and lead the populous through the unfolding final stretch
+      of 2024, and into 2025.
+    unit: null
+    values:
+    - 2024.0
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 8.5% drop.
+    unit: pct
+    values:
+    - 8.5
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: The unfolding result of 2024s insanity has also left domestic fundamentals
+      spiralling down, as local
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices have so far seen about USD 100/Ton wiped clean
+      through the year, unlike this
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: week, where they decided to take the time to play dead on the floor
+      at USD 521/Ton. Even the
+    unit: usd
+    values:
+    - 521.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi Taka tangoed in sync, staying stranded at a disastrous
+      level of BDT 119.70. Of note,
+    unit: null
+    values:
+    - 119.7
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: the BDT has lost over 8.5% of its value against the Dollar YTD. All
+      of the untold economic statistical
+    unit: pct
+    values:
+    - 8.5
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: back to previous levels of USD 500/LDT (or in excess of) any time
+      soon, and it is proving to be a far
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: it in 2nd p l a c e a n d squarely behind a largely uncompetitive
+      Bangladesh, has been nothing short of
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: a bove 50K LDT for just one week - certainly impressive given the
+      current atmosphere in the supply
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: shockingly low rate of USD 467.73/Ton, but it is the Indian Rupee
+      that has been the magnet of misery
+    unit: usd
+    values:
+    - 467.73
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: for Alang's competitive pricing as it closed at another record breaking
+      INR 84.57 against the U.S.
+    unit: null
+    values:
+    - 84.57
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Dollar, 14 basis points lower this week, and nearly 1.5% lower overall
+      this year.
+    unit: pct
+    values:
+    - 14.0
+    - 1.5
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: This has healthily seen local offers fall from nearly USD 600/Ton
+      to lows approaching USD 450/Ton
+    unit: usd
+    values:
+    - 600.0
+    - 450.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: or even below the dreaded USD 450/Ton mark, as the quality and even
+      (comparative) quantity of
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: tonnage improves; and by all accounts, indications moving north of
+      USD 450/LDT seem to be
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: local port position that has not seen a vessel for nearly 6 weeks
+      now. And there seems to be little
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: And although local steel plate prices were the ones to register a
+      noteworthy USD 10/Ton decline
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: this week, the Pakistani Rupee registered a comparatively marginal
+      drop of 7 basis points against
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar, down to nearly PKR 278. Of note, Pakistani Rupee
+      has been the only major ship
+    unit: null
+    values:
+    - 278.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: recycling destination where its currency actually firmed 2.71% against
+      the US$ during the course
+    unit: pct
+    values:
+    - 2.71
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: floor for the sub-continent will rise in January 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: available reserves for local businesses. And the sooner that IMFs
+      pending USD 7 Billion loan comes
+    unit: usd
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: standards, in their runup to making yards HKC compliant by 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 2024 of missed opportunities amidst abysmal supply for a Pakistan
+      ship recycling market will
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: TRY 35.
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: another USD 10/MT decline this week, leaving local offerings on units
+      somehow hanging on to their
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: ship recycling businesses have finally made the rounds this year.
+      Even the Lira fell 52 basis points
+    unit: null
+    values:
+    - 52.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: this week, down to TRY 34.70 against the U.S. Dollar and merrily
+      on its way to TRY 35.
+    unit: null
+    values:
+    - 34.7
+    - 35.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: For Week 48 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 48.0
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 2024 NEWS…IN SEQUENCE.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Jul 21 - US President Joe Biden withdrew from his re-election campaign
+      and endorsed Kamala Harris as his preferred
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Jul 24 - "Inside Out 2" became the highest-grossing animated film
+      ever, earning $1.462 billion worldwide and surpassing
+    unit: usd
+    values:
+    - 24.0
+    - 2.0
+    - 1.462
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: '"Frozen II," which previously held the record with $1.453 billio
+      n.'
+    unit: usd
+    values:
+    - 1.453
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Jul 26 - The Summer Olympic Games opening ceremony was held outdoors
+      for the first time ever. In a spectacular event, 6,800
+    unit: null
+    values:
+    - 26.0
+    - 6800.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: athletes paraded in 85 boats along the Seine River in Paris, heading
+      towards the Eiffel Tower. There, the Olympic flame was
+    unit: null
+    values:
+    - 85.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Aug 5 - British graffiti artist Banksy created the first in a series
+      of animal artworks in London. Banksy's first piece was the
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Aug 11 - Regions around Athens, Greece, were evacuated due to wildfires
+      after the hottest June and July on record.
+    unit: null
+    values:
+    - 11.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line:  Aug 24 - Pavel Durov, founder of the encrypted messaging app Telegram,
+      was arrested in France for alleged involvement in
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - December 26 - Christmas Holidays November 29 - December
+      07
+    unit: null
+    values:
+    - 24.0
+    - 26.0
+    - 29.0
+    - 7.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve December 12 - December 20
+    unit: null
+    values:
+    - 31.0
+    - 12.0
+    - 20.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 29 - January 2025
+    unit: null
+    values:
+    - 29.0
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day November 30 - December 03
+    unit: null
+    values:
+    - 16.0
+    - 30.0
+    - 3.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 14 - December 17
+    unit: null
+    values:
+    - 25.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until 2025 December 25 - Quaid-e-Azam Day No holidays
+      until 2025
+    unit: null
+    values:
+    - 2025.0
+    - 25.0
+    - 2025.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: December 26 - Day after Christmas
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 29, 2024
+    unit: null
+    values:
+    - 29.0
+    - 2024.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 1 A Star 14,856 Drilling Rig Arrived November 30
+    unit: null
+    values:
+    - 1.0
+    - 14856.0
+    - 30.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
+    unit: null
+    values:
+    - 2.0
+    - 7263.0
+    - 26.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 3 Cean (Under Tow) 21,962 Drilling Rig Delivered November 26
+    unit: null
+    values:
+    - 3.0
+    - 21962.0
+    - 26.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 4 Maher 3,519 Gen Cargo Delivered November 28
+    unit: null
+    values:
+    - 4.0
+    - 3519.0
+    - 28.0
+  - section: 'Linked asset: 2024-12-02_gms-week-48-unfamiliarly-familiar_ship-recycling-market-insight-week-4_f09af3a049d4.pdf'
+    section_type: linked_pdf
+    source_line: 5 Sea Nass 697 Gen Cargo Delivered November 27
+    unit: null
+    values:
+    - 5.0
+    - 697.0
+    - 27.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-12-02_gms-week-48-unfamiliarly-familiar.html
 source_stem: 2024-12-02_gms-week-48-unfamiliarly-familiar

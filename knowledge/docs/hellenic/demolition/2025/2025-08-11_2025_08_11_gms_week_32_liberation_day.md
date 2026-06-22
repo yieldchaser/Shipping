@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 96
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: A week of confusing fundamentals saw nearly all markets reacting bizarrely
     as upon "Liberation Day" tariffs from back in Aprilfinally being levied on key
@@ -46,8 +45,7 @@ numeric_observations:
   - 2.0
   - 4.3
   - 0.2
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Trickling down to the recycling markets, the crazy monsoons of 2025
     continue to hammer key locations (especially Bangladesh) as ship recyclers, cash
@@ -57,8 +55,7 @@ numeric_observations:
   values:
   - 2025.0
   - 60.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Along with a shortage of candidates and apart from some large LDT LNG
     and bulk carriers that have greeted the various anchorages across recent weeks
@@ -67,8 +64,7 @@ numeric_observations:
   unit: null
   values:
   - 1000.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 32 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -76,8 +72,7 @@ numeric_observations:
   values:
   - 32.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-08-11_gms-week-32-liberation-day_img1_110820205cut7_c82afc7894de.jpg'
   unit: null
@@ -89,63 +84,55 @@ numeric_observations:
   - 110820205.0
   - 2.0
   - 894.0
-- &id006
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 8th, 2025 "When we strive to become better than we are,
   unit: null
   values:
   - 8.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Week 32 everything around us becomes better too."
   unit: null
   values:
   - 32.0
-- &id008
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Volume 275, Issue 1197 - Paulo Coelho
   unit: null
   values:
   - 275.0
   - 1197.0
-- &id009
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: saw turmoil across the board as the week ended. At the onset, oil futures
     declined 5% and closed
   unit: pct
   values:
   - 5.0
-- &id010
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: the week out at USD 63.90/barrel as Trump goes after Russian oil purchasing
     nations, leaving
   unit: usd
   values:
   - 63.9
-- &id011
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: • Trump-Putin meet? Russia (rather surprisingly) and China. While the
     oil futures drop to the tune of 5% was certainly
   unit: pct
   values:
   - 5.0
-- &id012
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: noteworthy, the Baltic Exchange's dry index advance for a third Friday
     with an over 2% increase
   unit: pct
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: c ape index that contributed 4.3% to the overall increase, whi le supras
     added a marginal 0.2% to the
@@ -153,32 +140,28 @@ numeric_observations:
   values:
   - 4.3
   - 0.2
-- &id014
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Tricklin g down to the recycling markets, the crazy monso ons of 2025
     continue to hammer key
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: • Occasional buyer. recycling countries, and this has seen levels decline
     by at least USD 60/LDT since the peaks seen
   unit: usd
   values:
   - 60.0
-- &id016
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Putin - Trump meet-up is concluded, the recycling destiny of over a
     1,000 ships, including that of
   unit: null
   values:
   - 1000.0
-- &id017
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 32 of 2025 are on Page 5.
   unit: null
@@ -186,32 +169,28 @@ numeric_observations:
   - 32.0
   - 2025.0
   - 5.0
-- &id018
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: this markets decline since June 2024, which has further subjugated
     Chattogram Choppers into a
   unit: null
   values:
   - 2024.0
-- &id020
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 30th were cancelled due to domestic instability / communal riots, and
     this continues to see no
   unit: null
   values:
   - 30.0
-- &id021
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: breached USD 600/Ton since January 2024, except Bangladesh (of course),
     who now languish at the
@@ -219,8 +198,7 @@ numeric_observations:
   values:
   - 600.0
   - 2024.0
-- &id022
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: dropped about USD 2/Ton, it was the Taka that surprisingly found itself
     firming by 0.16% against
@@ -228,80 +206,70 @@ numeric_observations:
   values:
   - 2.0
   - 0.16
-- &id023
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar, ending the week at decent (given its recent performance)
     BDT 121.37, thanks to the
   unit: null
   values:
   - 121.37
-- &id024
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: recent intervention of the central bank where BDT levels had breached
     a record-breaking BDT 123
   unit: null
   values:
   - 123.0
-- &id025
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: ranging from small to small-ish LDTs helping Bangladesh end the week
     with 4 vessels and over
   unit: null
   values:
   - 4.0
-- &id026
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 30K LDT, all awaiting the next tide. This was certainly a local confidence
     booster given that the
   unit: null
   values:
   - 30.0
-- &id027
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: been announced for February 2026 when hopefully, some meaningful change
     can take place and
   unit: null
   values:
   - 2026.0
-- &id028
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: the economy is sparked back to construction life. Moreover, despite
     30% tariffs being levied on
   unit: pct
   values:
   - 30.0
-- &id029
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: share of Bangladesh's overall international trade, clocking in a near
     25% increase thus far, when
   unit: pct
   values:
   - 25.0
-- &id030
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: compared to all of 2024. As such, domestic reserves and potential hurdles
     surround the issuance of
   unit: null
   values:
   - 2024.0
-- &id031
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 1st that saw President "two weeks' finally drop the hammer along with
     50% tariffs against all Indian
@@ -309,8 +277,7 @@ numeric_observations:
   values:
   - 1.0
   - 50.0
-- &id033
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: but the Indian Rupee also lost 26 basis points against the U.S. Dollar
     to end the week at Rs. 87.50. This confusion.
@@ -318,32 +285,28 @@ numeric_observations:
   values:
   - 26.0
   - 87.5
-- &id034
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: is reminiscent of the time Rs. 88 had been breached and local offerings
     started immediately retreating
   unit: null
   values:
   - 88.0
-- &id035
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: thereafter, resulting in a few sub-USD 400/LDT sales taking place into
     Alang. Should this decline in the
   unit: usd
   values:
   - 400.0
-- &id036
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Rupee continue, India might just slip past Bangladesh into 3rd place,
     which would create a destination
   unit: null
   values:
   - 3.0
-- &id037
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: greeted by the arrival of another large LDT bulker, leaving Alang with
     6 vessels and nearly 57K LDT,
@@ -351,56 +314,49 @@ numeric_observations:
   values:
   - 6.0
   - 57.0
-- &id038
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: built even in the 90s) are still trading the open seas and it's not
     when, but just how soon these will
   unit: null
   values:
   - 90.0
-- &id040
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: including this one, where another nearly 9K LDT woodchip carrier arrived
     the nation's waterfront.
   unit: null
   values:
   - 9.0
-- &id041
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: have essentially nailed themselves to the floor at USD 615/Ton for
     months now. Disappointingly
   unit: usd
   values:
   - 615.0
-- &id042
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: theirs, invariably leaving Pakistan in 1st place on the marking rankings.
     The Pakistani Rupee
   unit: null
   values:
   - 1.0
-- &id043
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Na iled. meanwhile raised the specter of uncertainty for local recyclers
     as the PKR fell nearly 45 basis points
   unit: null
   values:
   - 45.0
-- &id044
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: and eased back towards PKR 284 against the U.S. Dollar, closing the
     week out at PKR 283.60.
@@ -408,16 +364,14 @@ numeric_observations:
   values:
   - 284.0
   - 283.6
-- &id045
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: …that's all she wrote. Having lost 18 basis points and closing the
     week out at TRY 40.76 against the
@@ -425,8 +379,7 @@ numeric_observations:
   values:
   - 18.0
   - 40.76
-- &id047
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: For Week 32 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -434,8 +387,7 @@ numeric_observations:
   values:
   - 32.0
   - 2025.0
-- &id048
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -444,8 +396,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id049
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
   unit: null
@@ -454,8 +405,7 @@ numeric_observations:
   - 415.0
   - 435.0
   - 445.0
-- &id050
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
   unit: null
@@ -464,8 +414,7 @@ numeric_observations:
   - 405.0
   - 425.0
   - 435.0
-- &id051
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -474,24 +423,21 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id052
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: plant-dense forests, but that's not true. According to National Geographic,
     only about 28% of oxygen on Earth comes from
   unit: pct
   values:
   - 28.0
-- &id054
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day August 08 - August 16
   unit: null
@@ -499,8 +445,7 @@ numeric_observations:
   - 15.0
   - 8.0
   - 16.0
-- &id055
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami August 20 - August 27
   unit: null
@@ -508,8 +453,7 @@ numeric_observations:
   - 16.0
   - 20.0
   - 27.0
-- &id056
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 05 - July Mass Uprising Day August 09 - August 12
   unit: null
@@ -517,8 +461,7 @@ numeric_observations:
   - 5.0
   - 9.0
   - 12.0
-- &id057
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 15 - National Mourning Day August 22 - August 25
   unit: null
@@ -526,15 +469,13 @@ numeric_observations:
   - 15.0
   - 22.0
   - 25.0
-- &id058
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: August 16 - Janmashtami
   unit: null
   values:
   - 16.0
-- &id059
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: No holidays until September August 14 - Independence Day August 30
     - Victory Day
@@ -542,24 +483,21 @@ numeric_observations:
   values:
   - 14.0
   - 30.0
-- &id060
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id061
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of August 08, 2025
   unit: null
   values:
   - 8.0
   - 2025.0
-- &id062
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 1 Aewo 5,245 Chemical Tanker Delivered August 06
   unit: null
@@ -567,8 +505,7 @@ numeric_observations:
   - 1.0
   - 5245.0
   - 6.0
-- &id063
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 2 Ange 1,974 Oil Tanker Arrived July 29
   unit: null
@@ -576,8 +513,7 @@ numeric_observations:
   - 2.0
   - 1974.0
   - 29.0
-- &id064
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -585,8 +521,7 @@ numeric_observations:
   - 3.0
   - 20001.0
   - 13.0
-- &id065
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -594,8 +529,7 @@ numeric_observations:
   - 4.0
   - 9623.0
   - 7.0
-- &id066
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 6 R Pisces 19,935 Bulk Carrier Arrived August 05
   unit: null
@@ -603,23 +537,20 @@ numeric_observations:
   - 6.0
   - 19935.0
   - 5.0
-- &id067
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 56,778
   unit: null
   values:
   - 56778.0
-- &id068
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of August 08, 2025
   unit: null
   values:
   - 8.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -628,8 +559,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id070
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 2 Great Royal 6,580 Bulk Carrier Arrived July 28
   unit: null
@@ -637,8 +567,7 @@ numeric_observations:
   - 2.0
   - 6580.0
   - 28.0
-- &id071
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 3 Leonid 13,606 Oil Tanker Arrived July 28
   unit: null
@@ -646,8 +575,7 @@ numeric_observations:
   - 3.0
   - 13606.0
   - 28.0
-- &id072
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 4 Wond 2,230 Tanker Arrived August 03
   unit: null
@@ -655,23 +583,20 @@ numeric_observations:
   - 4.0
   - 2230.0
   - 3.0
-- &id073
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 30,225
   unit: null
   values:
   - 30225.0
-- &id074
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of August 08, 2025
   unit: null
   values:
   - 8.0
   - 2025.0
-- &id075
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 1 Best 8 2,571 General Cargo Arrived July 30
   unit: null
@@ -680,8 +605,7 @@ numeric_observations:
   - 8.0
   - 2571.0
   - 30.0
-- &id076
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 2 Hyun 8,915 Woodchip Carrier Arrived August 06
   unit: null
@@ -689,23 +613,20 @@ numeric_observations:
   - 2.0
   - 8915.0
   - 6.0
-- &id077
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 11,486
   unit: null
   values:
   - 11486.0
-- &id078
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id079
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 8/2/2025 434.58 37,600.00 615.44 175,000.00 552.58 67,000.00 310.16
   unit: null
@@ -720,8 +641,7 @@ numeric_observations:
   - 552.58
   - 67000.0
   - 310.16
-- &id080
-  section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+- section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
   section_type: linked_pdf
   source_line: 8/3/2025 434.58 37,600.00 615.44 175,000.00 552.58 67,000.00 310.16
   unit: null
@@ -919,86 +839,631 @@ section_count: 3
 signals:
   numeric_observation_count: 96
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: A week of confusing fundamentals saw nearly all markets reacting
+      bizarrely as upon "Liberation Day" tariffs from back in Aprilfinally being levied
+      on key destinations (including India) this week, saw turmoil across the board
+      as the week ended. At the onset, oi
+    unit: pct
+    values:
+    - 5.0
+    - 63.9
+    - 5.0
+    - 2.0
+    - 4.3
+    - 0.2
+  - section: Main
+    section_type: null
+    source_line: Trickling down to the recycling markets, the crazy monsoons of 2025
+      continue to hammer key locations (especially Bangladesh) as ship recyclers,
+      cash buyers, and ship owners collectively come to grips with the new governing
+      realities of the HKC that is now a co
+    unit: usd
+    values:
+    - 2025.0
+    - 60.0
+  - section: Main
+    section_type: null
+    source_line: Along with a shortage of candidates and apart from some large LDT
+      LNG and bulk carriers that have greeted the various anchorages across recent
+      weeks / months, it has been a comparatively busier time than expected in the
+      Indian sub-continent, especially in Indi
+    unit: null
+    values:
+    - 1000.0
+  - section: Main
+    section_type: null
+    source_line: For Week 32 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 32.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-08-11_gms-week-32-liberation-day_img1_110820205cut7_c82afc7894de.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -8.0
+    - -11.0
+    - 32.0
+    - 110820205.0
+    - 2.0
+    - 894.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 8th, 2025 "When we strive to become better than we are,
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Week 32 everything around us becomes better too."
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Volume 275, Issue 1197 - Paulo Coelho
+    unit: null
+    values:
+    - 275.0
+    - 1197.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: saw turmoil across the board as the week ended. At the onset, oil
+      futures declined 5% and closed
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: the week out at USD 63.90/barrel as Trump goes after Russian oil
+      purchasing nations, leaving
+    unit: usd
+    values:
+    - 63.9
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: • Trump-Putin meet? Russia (rather surprisingly) and China. While
+      the oil futures drop to the tune of 5% was certainly
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: noteworthy, the Baltic Exchange's dry index advance for a third Friday
+      with an over 2% increase
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: c ape index that contributed 4.3% to the overall increase, whi le
+      supras added a marginal 0.2% to the
+    unit: pct
+    values:
+    - 4.3
+    - 0.2
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Tricklin g down to the recycling markets, the crazy monso ons of
+      2025 continue to hammer key
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: • Occasional buyer. recycling countries, and this has seen levels
+      decline by at least USD 60/LDT since the peaks seen
+    unit: usd
+    values:
+    - 60.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Putin - Trump meet-up is concluded, the recycling destiny of over
+      a 1,000 ships, including that of
+    unit: null
+    values:
+    - 1000.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 32 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 32.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: this markets decline since June 2024, which has further subjugated
+      Chattogram Choppers into a
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 30th were cancelled due to domestic instability / communal riots,
+      and this continues to see no
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: breached USD 600/Ton since January 2024, except Bangladesh (of course),
+      who now languish at the
+    unit: usd
+    values:
+    - 600.0
+    - 2024.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: dropped about USD 2/Ton, it was the Taka that surprisingly found
+      itself firming by 0.16% against
+    unit: pct
+    values:
+    - 2.0
+    - 0.16
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar, ending the week at decent (given its recent performance)
+      BDT 121.37, thanks to the
+    unit: null
+    values:
+    - 121.37
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: recent intervention of the central bank where BDT levels had breached
+      a record-breaking BDT 123
+    unit: null
+    values:
+    - 123.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: ranging from small to small-ish LDTs helping Bangladesh end the week
+      with 4 vessels and over
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 30K LDT, all awaiting the next tide. This was certainly a local confidence
+      booster given that the
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: been announced for February 2026 when hopefully, some meaningful
+      change can take place and
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: the economy is sparked back to construction life. Moreover, despite
+      30% tariffs being levied on
+    unit: pct
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: share of Bangladesh's overall international trade, clocking in a
+      near 25% increase thus far, when
+    unit: pct
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: compared to all of 2024. As such, domestic reserves and potential
+      hurdles surround the issuance of
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 1st that saw President "two weeks' finally drop the hammer along
+      with 50% tariffs against all Indian
+    unit: pct
+    values:
+    - 1.0
+    - 50.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: but the Indian Rupee also lost 26 basis points against the U.S. Dollar
+      to end the week at Rs. 87.50. This confusion.
+    unit: null
+    values:
+    - 26.0
+    - 87.5
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: is reminiscent of the time Rs. 88 had been breached and local offerings
+      started immediately retreating
+    unit: null
+    values:
+    - 88.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: thereafter, resulting in a few sub-USD 400/LDT sales taking place
+      into Alang. Should this decline in the
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Rupee continue, India might just slip past Bangladesh into 3rd place,
+      which would create a destination
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: greeted by the arrival of another large LDT bulker, leaving Alang
+      with 6 vessels and nearly 57K LDT,
+    unit: null
+    values:
+    - 6.0
+    - 57.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: built even in the 90s) are still trading the open seas and it's not
+      when, but just how soon these will
+    unit: null
+    values:
+    - 90.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: including this one, where another nearly 9K LDT woodchip carrier
+      arrived the nation's waterfront.
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: have essentially nailed themselves to the floor at USD 615/Ton for
+      months now. Disappointingly
+    unit: usd
+    values:
+    - 615.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: theirs, invariably leaving Pakistan in 1st place on the marking rankings.
+      The Pakistani Rupee
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Na iled. meanwhile raised the specter of uncertainty for local recyclers
+      as the PKR fell nearly 45 basis points
+    unit: null
+    values:
+    - 45.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: and eased back towards PKR 284 against the U.S. Dollar, closing the
+      week out at PKR 283.60.
+    unit: null
+    values:
+    - 284.0
+    - 283.6
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: …that's all she wrote. Having lost 18 basis points and closing the
+      week out at TRY 40.76 against the
+    unit: null
+    values:
+    - 18.0
+    - 40.76
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: For Week 32 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 32.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Steady 415 / LDT 435 / LDT 445 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 415.0
+    - 435.0
+    - 445.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 405 / LDT 425 / LDT 435 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 405.0
+    - 425.0
+    - 435.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: plant-dense forests, but that's not true. According to National Geographic,
+      only about 28% of oxygen on Earth comes from
+    unit: pct
+    values:
+    - 28.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day August 08 - August 16
+    unit: null
+    values:
+    - 15.0
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami August 20 - August 27
+    unit: null
+    values:
+    - 16.0
+    - 20.0
+    - 27.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 05 - July Mass Uprising Day August 09 - August 12
+    unit: null
+    values:
+    - 5.0
+    - 9.0
+    - 12.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - National Mourning Day August 22 - August 25
+    unit: null
+    values:
+    - 15.0
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: August 16 - Janmashtami
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: No holidays until September August 14 - Independence Day August 30
+      - Victory Day
+    unit: null
+    values:
+    - 14.0
+    - 30.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of August 08, 2025
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 1 Aewo 5,245 Chemical Tanker Delivered August 06
+    unit: null
+    values:
+    - 1.0
+    - 5245.0
+    - 6.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ange 1,974 Oil Tanker Arrived July 29
+    unit: null
+    values:
+    - 2.0
+    - 1974.0
+    - 29.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 3 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 3.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 4.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 6 R Pisces 19,935 Bulk Carrier Arrived August 05
+    unit: null
+    values:
+    - 6.0
+    - 19935.0
+    - 5.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 56,778
+    unit: null
+    values:
+    - 56778.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of August 08, 2025
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 2 Great Royal 6,580 Bulk Carrier Arrived July 28
+    unit: null
+    values:
+    - 2.0
+    - 6580.0
+    - 28.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 3 Leonid 13,606 Oil Tanker Arrived July 28
+    unit: null
+    values:
+    - 3.0
+    - 13606.0
+    - 28.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 4 Wond 2,230 Tanker Arrived August 03
+    unit: null
+    values:
+    - 4.0
+    - 2230.0
+    - 3.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 30,225
+    unit: null
+    values:
+    - 30225.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of August 08, 2025
+    unit: null
+    values:
+    - 8.0
+    - 2025.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 1 Best 8 2,571 General Cargo Arrived July 30
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 2571.0
+    - 30.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hyun 8,915 Woodchip Carrier Arrived August 06
+    unit: null
+    values:
+    - 2.0
+    - 8915.0
+    - 6.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 11,486
+    unit: null
+    values:
+    - 11486.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 8/2/2025 434.58 37,600.00 615.44 175,000.00 552.58 67,000.00 310.16
+    unit: null
+    values:
+    - 8.0
+    - 2.0
+    - 2025.0
+    - 434.58
+    - 37600.0
+    - 615.44
+    - 175000.0
+    - 552.58
+    - 67000.0
+    - 310.16
+  - section: 'Linked asset: 2025-08-11_gms-week-32-liberation-day_ship-recycling-market-insight-week-3_4a77a007b3dc.pdf'
+    section_type: linked_pdf
+    source_line: 8/3/2025 434.58 37,600.00 615.44 175,000.00 552.58 67,000.00 310.16
+    unit: null
+    values:
+    - 8.0
+    - 3.0
+    - 2025.0
+    - 434.58
+    - 37600.0
+    - 615.44
+    - 175000.0
+    - 552.58
+    - 67000.0
+    - 310.16
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-08-11_gms-week-32-liberation-day.html
 source_stem: 2025-08-11_gms-week-32-liberation-day

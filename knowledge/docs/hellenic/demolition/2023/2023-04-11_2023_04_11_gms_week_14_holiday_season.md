@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 87
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 14 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -38,8 +37,7 @@ numeric_observations:
   values:
   - 14.0
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-04-11_gms-week-14-holiday-season_img1_11042023frd_7ac4565a7cd0.jpg'
   unit: null
@@ -51,8 +49,7 @@ numeric_observations:
   - 11042023.0
   - 7.0
   - 565.0
-- &id003
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 7th, 2023 "I've noticed when I fear something, if I just end
     up doing it,
@@ -60,8 +57,7 @@ numeric_observations:
   values:
   - 7.0
   - 2023.0
-- &id004
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Volume 2 48, Issue 1077 I'm grateful in the end."
   unit: null
@@ -69,15 +65,13 @@ numeric_observations:
   - 2.0
   - 48.0
   - 1077.0
-- &id005
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Week 14 - Colleen Hoover
   unit: null
   values:
   - 14.0
-- &id006
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: For week 14 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -85,8 +79,7 @@ numeric_observations:
   values:
   - 14.0
   - 2023.0
-- &id007
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Positive 610 / LDT* 630 / LDT* 650 / LDT*
   unit: null
@@ -95,8 +88,7 @@ numeric_observations:
   - 610.0
   - 630.0
   - 650.0
-- &id008
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 2 India Positive 570 / LDT 580 / LDT 600 / LDT
   unit: null
@@ -105,8 +97,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 600.0
-- &id009
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 540 / LDT* 550 / LDT* 560 / LDT*
   unit: null
@@ -115,8 +106,7 @@ numeric_observations:
   - 540.0
   - 550.0
   - 560.0
-- &id010
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -125,40 +115,35 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id011
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id012
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Fund amen tals remain weak, yet steady, as the Bangladeshi Taka firms
     towards BDT 106
   unit: null
   values:
   - 106.0
-- &id013
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id014
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Not only did local steel plate prices diminish by less than USD 1/Ton
     this week, but the
   unit: usd
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Rupee also continued to gradually firm pas t Rs. 82, down to Rs. 81.8X
     against the U.S.
@@ -166,32 +151,28 @@ numeric_observations:
   values:
   - 82.0
   - 81.8
-- &id016
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Pakistani Rupee ended the week at a massive PKR 286 against the U.S.
     Dollar.
   unit: null
   values:
   - 286.0
-- &id018
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 19.25 as the week ended. Even local steel plate prices dropped by about
     USD 10/Ton while
@@ -199,55 +180,48 @@ numeric_observations:
   values:
   - 19.25
   - 10.0
-- &id020
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: import steel fell by about USD 5/Ton, which seem more along the lines
     of weekly
   unit: usd
   values:
   - 5.0
-- &id021
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id022
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line:  Ven us is the hottest planet in the solar system and has an average
     surface temperature of around 450° C. Did
   unit: null
   values:
   - 450.0
-- &id023
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line:  Whi le the entire suit costs a cool $12m, 70% of that cost is for
     the backpack and control module. However, the
   unit: pct
   values:
   - 70.0
-- &id024
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: spac e suits that NASA uses were built in 1974. If these were priced
     by today's pricing, they would cost an
   unit: null
   values:
   - 1974.0
-- &id025
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: estimated 150 million dollars!
   unit: null
   values:
   - 150.0
-- &id026
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line:  The Sun accounts for 99.86% of the mass in our solar system with
     a mass of around 330,000 times that of
@@ -255,24 +229,21 @@ numeric_observations:
   values:
   - 99.86
   - 330000.0
-- &id027
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line:  The Sun is large enough that approximately 1.3 million Earths could
     fit inside (if squashed in) or if the Earths
   unit: null
   values:
   - 1.3
-- &id028
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: retained their spherical shape, then 960,000 would fit. But can you
     visualize that number of Earths?
   unit: null
   values:
   - 960000.0
-- &id029
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line:  There are about three trillion trees on Planet Earth, and between
     100-400 billion stars, approximately, in the
@@ -280,8 +251,7 @@ numeric_observations:
   values:
   - 100.0
   - -400.0
-- &id030
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 04 - Mahavir Jayanthi April 06 - April 12
   unit: null
@@ -289,8 +259,7 @@ numeric_observations:
   - 4.0
   - 6.0
   - 12.0
-- &id031
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 07 - Good Friday April 18 - April 25
   unit: null
@@ -298,15 +267,13 @@ numeric_observations:
   - 7.0
   - 18.0
   - 25.0
-- &id032
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 22 - Eid-ul-Fitr
   unit: null
   values:
   - 22.0
-- &id033
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year April 06 - April 09
   unit: null
@@ -314,8 +281,7 @@ numeric_observations:
   - 14.0
   - 6.0
   - 9.0
-- &id034
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 19 - Shab-E-Qadr April 19 - April 22
   unit: null
@@ -323,16 +289,14 @@ numeric_observations:
   - 19.0
   - 19.0
   - 22.0
-- &id035
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 21 - April 23 - Eid-ul-Azha
   unit: null
   values:
   - 21.0
   - 23.0
-- &id036
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: April 05 - Ching Ming Festival April 22 - April 24 - Eid-ul-Fitr April
     20 - April 24 - Ramazan
@@ -343,24 +307,21 @@ numeric_observations:
   - 24.0
   - 20.0
   - 24.0
-- &id037
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id038
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id039
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 1 Halul 20 1,395 Supply Vessel Beached April 07
   unit: null
@@ -369,8 +330,7 @@ numeric_observations:
   - 20.0
   - 1395.0
   - 7.0
-- &id040
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 2 Halul 21 1,406 Supply Vessel Beached April 07
   unit: null
@@ -379,8 +339,7 @@ numeric_observations:
   - 21.0
   - 1406.0
   - 7.0
-- &id041
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 3 Ice 9,646 Drill Ship Arrived March 31
   unit: null
@@ -388,8 +347,7 @@ numeric_observations:
   - 3.0
   - 9646.0
   - 31.0
-- &id042
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 4 Leonard 7,852 Container Arrived April 07
   unit: null
@@ -397,23 +355,20 @@ numeric_observations:
   - 4.0
   - 7852.0
   - 7.0
-- &id043
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 20,299
   unit: null
   values:
   - 20299.0
-- &id044
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id045
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 1 Adriatic Energy 32,303 LPG Arrived March 27
   unit: null
@@ -421,8 +376,7 @@ numeric_observations:
   - 1.0
   - 32303.0
   - 27.0
-- &id046
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 2 Hutch 8,303 Container Beached April 06
   unit: null
@@ -430,8 +384,7 @@ numeric_observations:
   - 2.0
   - 8303.0
   - 6.0
-- &id047
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 3 Ida 9,828 Tanker Arrived April 07
   unit: null
@@ -439,8 +392,7 @@ numeric_observations:
   - 3.0
   - 9828.0
   - 7.0
-- &id048
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 4 Lily Breeze 9,898 Bulk Carrier Arrived April 07
   unit: null
@@ -448,8 +400,7 @@ numeric_observations:
   - 4.0
   - 9898.0
   - 7.0
-- &id049
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 Salamis 9,238 Tanker Arrived April 04
   unit: null
@@ -457,8 +408,7 @@ numeric_observations:
   - 5.0
   - 9238.0
   - 4.0
-- &id050
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 6 Sento 2,726 Container Beached April 07
   unit: null
@@ -466,8 +416,7 @@ numeric_observations:
   - 6.0
   - 2726.0
   - 7.0
-- &id051
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 7 Shravan 7,399 Container Arrived March 22
   unit: null
@@ -475,8 +424,7 @@ numeric_observations:
   - 7.0
   - 7399.0
   - 22.0
-- &id052
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 8 Sun Bulk 7,553 Bulk Carrier Arrived April 07
   unit: null
@@ -484,8 +432,7 @@ numeric_observations:
   - 8.0
   - 7553.0
   - 7.0
-- &id053
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 9 Sunny Voyager 22,706 Bulk Carrier Arrived April 06
   unit: null
@@ -493,8 +440,7 @@ numeric_observations:
   - 9.0
   - 22706.0
   - 6.0
-- &id054
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 10 Vir 10,540 Bulk Carrier Arrived April 02
   unit: null
@@ -502,8 +448,7 @@ numeric_observations:
   - 10.0
   - 10540.0
   - 2.0
-- &id055
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 11 Yu Hai 5,017 Bulk Carrier Arrived April 02
   unit: null
@@ -511,8 +456,7 @@ numeric_observations:
   - 11.0
   - 5017.0
   - 2.0
-- &id056
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 12 Yuang Da Fa 102 1,736 Reefer Arrived April 04
   unit: null
@@ -521,8 +465,7 @@ numeric_observations:
   - 102.0
   - 1736.0
   - 4.0
-- &id057
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 13 Z Star 6,537 General Cargo Beached April 07
   unit: null
@@ -530,23 +473,20 @@ numeric_observations:
   - 13.0
   - 6537.0
   - 7.0
-- &id058
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 133,784
   unit: null
   values:
   - 133784.0
-- &id059
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 07, 2023
   unit: null
   values:
   - 7.0
   - 2023.0
-- &id060
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 1 Madina 1 1,657 Tanker Arrived March 03
   unit: null
@@ -555,15 +495,13 @@ numeric_observations:
   - 1.0
   - 1657.0
   - 3.0
-- &id061
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 1,657
   unit: null
   values:
   - 1657.0
-- &id062
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -572,8 +510,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id063
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -582,8 +519,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id064
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -592,8 +528,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id065
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -602,8 +537,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id066
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -612,16 +546,14 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id067
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: /2 0 2
   unit: null
   values:
   - 2.0
   - 2.0
-- &id068
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 7 .4 5
   unit: null
@@ -630,8 +562,7 @@ numeric_observations:
   - 7.0
   - 4.0
   - 5.0
-- &id069
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 8 .7 3
   unit: null
@@ -640,8 +571,7 @@ numeric_observations:
   - 8.0
   - 7.0
   - 3.0
-- &id070
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 8 .5 4
   unit: null
@@ -650,8 +580,7 @@ numeric_observations:
   - 8.0
   - 5.0
   - 4.0
-- &id071
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 6 .7 8
   unit: null
@@ -660,31 +589,27 @@ numeric_observations:
   - 6.0
   - 7.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 ,8 0 0 .0
   unit: null
   values:
   - 5.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 6 ,0 0 0 .0
   unit: null
   values:
   - 6.0
-- &id074
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 5 ,6 0 0 .0
   unit: null
   values:
   - 5.0
   - 6.0
-- &id075
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 7 7 .3 9
   unit: null
@@ -693,16 +618,14 @@ numeric_observations:
   - 7.0
   - 3.0
   - 9.0
-- &id076
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 2 2 0 ,0 0 0 .0 0
   unit: null
   values:
   - 2.0
   - 2.0
-- &id077
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 6 9 7 .1 2
   unit: null
@@ -712,8 +635,7 @@ numeric_observations:
   - 7.0
   - 1.0
   - 2.0
-- &id078
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 7 2 ,5 0 0 .0 0
   unit: null
@@ -721,8 +643,7 @@ numeric_observations:
   - 7.0
   - 2.0
   - 5.0
-- &id079
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 4 0 9 .6 5
   unit: null
@@ -731,8 +652,7 @@ numeric_observations:
   - 9.0
   - 6.0
   - 5.0
-- &id080
-  section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+- section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
   section_type: linked_pdf
   source_line: 4 0 7 .6 7
   unit: null
@@ -808,86 +728,638 @@ section_count: 3
 signals:
   numeric_observation_count: 87
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: For week 14 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-04-11_gms-week-14-holiday-season_img1_11042023frd_7ac4565a7cd0.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -4.0
+    - -11.0
+    - 14.0
+    - 11042023.0
+    - 7.0
+    - 565.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 7th, 2023 "I've noticed when I fear something, if I just end
+      up doing it,
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 48, Issue 1077 I'm grateful in the end."
+    unit: null
+    values:
+    - 2.0
+    - 48.0
+    - 1077.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Week 14 - Colleen Hoover
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: For week 14 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 14.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Positive 610 / LDT* 630 / LDT* 650 / LDT*
+    unit: null
+    values:
+    - 1.0
+    - 610.0
+    - 630.0
+    - 650.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Positive 570 / LDT 580 / LDT 600 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 570.0
+    - 580.0
+    - 600.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 540 / LDT* 550 / LDT* 560 / LDT*
+    unit: null
+    values:
+    - 3.0
+    - 540.0
+    - 550.0
+    - 560.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Fund amen tals remain weak, yet steady, as the Bangladeshi Taka firms
+      towards BDT 106
+    unit: null
+    values:
+    - 106.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Not only did local steel plate prices diminish by less than USD 1/Ton
+      this week, but the
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Rupee also continued to gradually firm pas t Rs. 82, down to Rs.
+      81.8X against the U.S.
+    unit: null
+    values:
+    - 82.0
+    - 81.8
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Pakistani Rupee ended the week at a massive PKR 286 against the U.S.
+      Dollar.
+    unit: null
+    values:
+    - 286.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 19.25 as the week ended. Even local steel plate prices dropped by
+      about USD 10/Ton while
+    unit: usd
+    values:
+    - 19.25
+    - 10.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: import steel fell by about USD 5/Ton, which seem more along the lines
+      of weekly
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line:  Ven us is the hottest planet in the solar system and has an average
+      surface temperature of around 450° C. Did
+    unit: null
+    values:
+    - 450.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line:  Whi le the entire suit costs a cool $12m, 70% of that cost is for
+      the backpack and control module. However, the
+    unit: pct
+    values:
+    - 70.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: spac e suits that NASA uses were built in 1974. If these were priced
+      by today's pricing, they would cost an
+    unit: null
+    values:
+    - 1974.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: estimated 150 million dollars!
+    unit: null
+    values:
+    - 150.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line:  The Sun accounts for 99.86% of the mass in our solar system with
+      a mass of around 330,000 times that of
+    unit: pct
+    values:
+    - 99.86
+    - 330000.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line:  The Sun is large enough that approximately 1.3 million Earths could
+      fit inside (if squashed in) or if the Earths
+    unit: null
+    values:
+    - 1.3
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: retained their spherical shape, then 960,000 would fit. But can you
+      visualize that number of Earths?
+    unit: null
+    values:
+    - 960000.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line:  There are about three trillion trees on Planet Earth, and between
+      100-400 billion stars, approximately, in the
+    unit: null
+    values:
+    - 100.0
+    - -400.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 04 - Mahavir Jayanthi April 06 - April 12
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 12.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 07 - Good Friday April 18 - April 25
+    unit: null
+    values:
+    - 7.0
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 22 - Eid-ul-Fitr
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year April 06 - April 09
+    unit: null
+    values:
+    - 14.0
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 19 - Shab-E-Qadr April 19 - April 22
+    unit: null
+    values:
+    - 19.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 21 - April 23 - Eid-ul-Azha
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: April 05 - Ching Ming Festival April 22 - April 24 - Eid-ul-Fitr
+      April 20 - April 24 - Ramazan
+    unit: null
+    values:
+    - 5.0
+    - 22.0
+    - 24.0
+    - 20.0
+    - 24.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 1 Halul 20 1,395 Supply Vessel Beached April 07
+    unit: null
+    values:
+    - 1.0
+    - 20.0
+    - 1395.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 2 Halul 21 1,406 Supply Vessel Beached April 07
+    unit: null
+    values:
+    - 2.0
+    - 21.0
+    - 1406.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ice 9,646 Drill Ship Arrived March 31
+    unit: null
+    values:
+    - 3.0
+    - 9646.0
+    - 31.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 4 Leonard 7,852 Container Arrived April 07
+    unit: null
+    values:
+    - 4.0
+    - 7852.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 20,299
+    unit: null
+    values:
+    - 20299.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 1 Adriatic Energy 32,303 LPG Arrived March 27
+    unit: null
+    values:
+    - 1.0
+    - 32303.0
+    - 27.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 2 Hutch 8,303 Container Beached April 06
+    unit: null
+    values:
+    - 2.0
+    - 8303.0
+    - 6.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 3 Ida 9,828 Tanker Arrived April 07
+    unit: null
+    values:
+    - 3.0
+    - 9828.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 4 Lily Breeze 9,898 Bulk Carrier Arrived April 07
+    unit: null
+    values:
+    - 4.0
+    - 9898.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 Salamis 9,238 Tanker Arrived April 04
+    unit: null
+    values:
+    - 5.0
+    - 9238.0
+    - 4.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 6 Sento 2,726 Container Beached April 07
+    unit: null
+    values:
+    - 6.0
+    - 2726.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 7 Shravan 7,399 Container Arrived March 22
+    unit: null
+    values:
+    - 7.0
+    - 7399.0
+    - 22.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 8 Sun Bulk 7,553 Bulk Carrier Arrived April 07
+    unit: null
+    values:
+    - 8.0
+    - 7553.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sunny Voyager 22,706 Bulk Carrier Arrived April 06
+    unit: null
+    values:
+    - 9.0
+    - 22706.0
+    - 6.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 10 Vir 10,540 Bulk Carrier Arrived April 02
+    unit: null
+    values:
+    - 10.0
+    - 10540.0
+    - 2.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 11 Yu Hai 5,017 Bulk Carrier Arrived April 02
+    unit: null
+    values:
+    - 11.0
+    - 5017.0
+    - 2.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 12 Yuang Da Fa 102 1,736 Reefer Arrived April 04
+    unit: null
+    values:
+    - 12.0
+    - 102.0
+    - 1736.0
+    - 4.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 13 Z Star 6,537 General Cargo Beached April 07
+    unit: null
+    values:
+    - 13.0
+    - 6537.0
+    - 7.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 133,784
+    unit: null
+    values:
+    - 133784.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 07, 2023
+    unit: null
+    values:
+    - 7.0
+    - 2023.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 1 Madina 1 1,657 Tanker Arrived March 03
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 1657.0
+    - 3.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 1,657
+    unit: null
+    values:
+    - 1657.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: /2 0 2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 7 .4 5
+    unit: null
+    values:
+    - 5.0
+    - 7.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 8 .7 3
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 7.0
+    - 3.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 8 .5 4
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 5.0
+    - 4.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 6 .7 8
+    unit: null
+    values:
+    - 5.0
+    - 6.0
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,8 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 6 ,0 0 0 .0
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,6 0 0 .0
+    unit: null
+    values:
+    - 5.0
+    - 6.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 7 7 .3 9
+    unit: null
+    values:
+    - 7.0
+    - 7.0
+    - 3.0
+    - 9.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 2 2 0 ,0 0 0 .0 0
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 6 9 7 .1 2
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+    - 7.0
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 7 2 ,5 0 0 .0 0
+    unit: null
+    values:
+    - 7.0
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 4 0 9 .6 5
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2023-04-11_gms-week-14-holiday-season_ship-recycling-market-insight-week-1_5363b7096087.pdf'
+    section_type: linked_pdf
+    source_line: 4 0 7 .6 7
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 6.0
+    - 7.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-04-11_gms-week-14-holiday-season.html
 source_stem: 2023-04-11_gms-week-14-holiday-season

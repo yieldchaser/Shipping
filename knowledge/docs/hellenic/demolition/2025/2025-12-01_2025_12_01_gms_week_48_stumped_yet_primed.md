@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 93
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Global market chaos continues post-Thanksgiving like a bad stomach
     after too much turkey. Steel plate prices were thehighlight of the entire sub-continent-and
@@ -44,8 +43,7 @@ numeric_observations:
   - 21.0
   - 59.16
   - 14.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As supply continues to be restricted by the widening net of sanctions
     and blacklists in addition to rising freight rates, it was still a kind gesture
@@ -54,8 +52,7 @@ numeric_observations:
   unit: usd
   values:
   - 400.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Yet in the midst of uncertainty, a momentous development unraveled
     this week with the first Pakistani ship-recycling yard to be awarded HKC compliance,
@@ -67,8 +64,7 @@ numeric_observations:
   - 21.0
   - 22.0
   - 100.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, as market fundamentals remain confidently uncertain, prices
     have endured a turbulent ride across the board over the last few months. USD 400/LDT+
@@ -78,8 +74,7 @@ numeric_observations:
   values:
   - 400.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-12-01_gms-week-48-stumped-yet-primed_img1_689_1470b28bdf08.jpg'
   unit: null
@@ -92,23 +87,20 @@ numeric_observations:
   - 1470.0
   - 8.0
   - 8.0
-- &id006
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Novemb er 28th, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Week 48
   unit: null
   values:
   - 48.0
-- &id008
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Volume 2 78, Issue 1213 - Unknown
   unit: null
@@ -116,16 +108,14 @@ numeric_observations:
   - 2.0
   - 78.0
   - 1213.0
-- &id009
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Dry Index climbed another 3.2% through the course of the week, hitting
     a new high since December
   unit: pct
   values:
   - 3.2
-- &id010
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: • 21 up in Bangla. 2023 as practically every segment assisted in with
     the rising rates. Oil, meanwhile, remains at 21st-
@@ -134,31 +124,27 @@ numeric_observations:
   - 21.0
   - 2023.0
   - 21.0
-- &id011
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: century lows, idling with marginal fluctuations, yet it closed the
     week out at USD 59.16/Ton-a near
   unit: usd
   values:
   - 59.16
-- &id012
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 14% drop over the last 12 months.
   unit: pct
   values:
   - 14.0
-- &id013
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: that are regularly seeing sub-USD 400/Ton from key locations, creating
     a dual-priced reality for the
   unit: usd
   values:
   - 400.0
-- &id014
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: • Focus firm. Hong Kong Convention came into force on June 26th. This
     follows on the heels of 21 Bangladeshi
@@ -166,40 +152,35 @@ numeric_observations:
   values:
   - 26.0
   - 21.0
-- &id015
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: yards receiving their HKC accreditations and a 22nd yard set to reportedly
     follow imminently, as
   unit: null
   values:
   - 22.0
-- &id016
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: and catch up to Alang, where over 100 yards have been HKC compliant-some
     practically for over
   unit: null
   values:
   - 100.0
-- &id017
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! across the board over the last few months. USD 400/LDT+
     remains a struggle to achieve in some
   unit: usd
   values:
   - 400.0
-- &id018
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: means the industry continues hoping for a market resurgence in 2026.
     Tough year!
   unit: null
   values:
   - 2026.0
-- &id019
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 48 of 2025 are on Page 6.
   unit: null
@@ -207,24 +188,21 @@ numeric_observations:
   - 48.0
   - 2025.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: another yard has reportedly reached completion, taking the total to
     22 set to follow shortly. While
   unit: null
   values:
   - 22.0
-- &id022
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: collapsing from the highs of USD 600/Ton to USD 400/Ton since January
     2024-political instability,
@@ -233,8 +211,7 @@ numeric_observations:
   - 600.0
   - 400.0
   - 2024.0
-- &id023
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: now), dropping USD 11/Ton and closing the week at USD 506/Ton-a massive
     fall from above USD
@@ -242,8 +219,7 @@ numeric_observations:
   values:
   - 11.0
   - 506.0
-- &id024
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 600/Ton and now potentially approaching sub-USD 500/Ton through December.
     The Taka, on the
@@ -251,78 +227,68 @@ numeric_observations:
   values:
   - 600.0
   - 500.0
-- &id025
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: contrary, managed to escape last week's fate, firming nearly 30 basis
     points and ending the week
   unit: null
   values:
   - 30.0
-- &id026
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: at BDT 122.08 against the U.S. Dollar.
   unit: null
   values:
   - 122.08
-- &id027
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: nation as the upcoming elections of February 2026 linger on the collective
     minds of the populace.
   unit: null
   values:
   - 2026.0
-- &id028
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: certainly reflected that sentiment as a collection of various sub-10K
     units earmarked the waterfront.
   unit: null
   values:
   - 10.0
-- &id029
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: USD 400/LDT are regularly available for larger LDT, good-condition
     units, with smaller vessels
   unit: usd
   values:
   - 400.0
-- &id030
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: generally taking the pricing brunt well below USD 400/LDT-if any interest
     were to arise at all. As
   unit: usd
   values:
   - 400.0
-- &id031
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: A lowly Alang market remains positioned below USD 400/LDT on most tonnage
     and is thus out of the
   unit: usd
   values:
   - 400.0
-- &id033
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Below 400.
   unit: null
   values:
   - 400.0
-- &id034
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Indian Rupee plummet into the high INR 89s-despite firming 28 basis
     points against the U.S. Dollar
@@ -330,8 +296,7 @@ numeric_observations:
   values:
   - 89.0
   - 28.0
-- &id035
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: this week and closing out at INR 89.35-but local steel plate prices
     fell USD 5/Ton this week, clocking
@@ -339,38 +304,33 @@ numeric_observations:
   values:
   - 89.35
   - 5.0
-- &id036
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: out at USD 390/Ton.
   unit: usd
   values:
   - 390.0
-- &id037
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Yet the Indian economy has been generating positive results, as the
     nation's GDP climbed 8.2% on the
   unit: pct
   values:
   - 8.2
-- &id038
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: reportedly within the next 3-4 months.
   unit: null
   values:
   - 3.0
-- &id040
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: prices fall USD 7/Ton and wrap the week up at USD 579/Ton, but the
     Pakistani Rupee firmed a
@@ -378,8 +338,7 @@ numeric_observations:
   values:
   - 7.0
   - 579.0
-- &id041
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: relatively minor 9 basis points and ended the week at PKR 282. While
     these numbers are certainly
@@ -387,16 +346,14 @@ numeric_observations:
   values:
   - 9.0
   - 282.0
-- &id042
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: The Lira's decline continues unabated as it fell 15 basis points and
     breached TRY 42.50 against the
@@ -404,24 +361,21 @@ numeric_observations:
   values:
   - 15.0
   - 42.5
-- &id044
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: to curtail this seemingly unstoppable decline. Surprisingly, amidst
     inflation nearing 33%, GDP
   unit: pct
   values:
   - 33.0
-- &id045
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: posted nearly 5% growth in the second quarter, easing some financial
     stresses for its citizens.
   unit: pct
   values:
   - 5.0
-- &id046
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: For Week 48 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -429,8 +383,7 @@ numeric_observations:
   values:
   - 48.0
   - 2025.0
-- &id047
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -439,8 +392,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id048
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -449,8 +401,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id049
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -459,8 +410,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id050
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 260 / LDT 270 / LDT 280 / LDT
   unit: null
@@ -469,24 +419,21 @@ numeric_observations:
   - 260.0
   - 270.0
   - 280.0
-- &id051
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line:  Gamma-ray bursts release more energy in 10 seconds tha n our Sun
     in its entire life. Nothing in the Universe rivals the
   unit: null
   values:
   - 10.0
-- &id053
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 24 - Christmas Eve December 02 - December 10
   unit: null
@@ -494,8 +441,7 @@ numeric_observations:
   - 24.0
   - 2.0
   - 10.0
-- &id054
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 18 - December 25
   unit: null
@@ -503,15 +449,13 @@ numeric_observations:
   - 25.0
   - 18.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve
   unit: null
   values:
   - 31.0
-- &id056
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 01 - 02 - Durga Puja December 03 - December 06
   unit: null
@@ -520,8 +464,7 @@ numeric_observations:
   - 2.0
   - 3.0
   - 6.0
-- &id057
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day December 21 - December 24
   unit: null
@@ -529,45 +472,39 @@ numeric_observations:
   - 16.0
   - 21.0
   - 24.0
-- &id058
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day
   unit: null
   values:
   - 25.0
-- &id059
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday
   unit: null
   values:
   - 31.0
-- &id060
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: December 25 - Quaid-e-Azam No holidays in December
   unit: null
   values:
   - 25.0
-- &id061
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of November 28, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id063
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -575,8 +512,7 @@ numeric_observations:
   - 1.0
   - 20001.0
   - 13.0
-- &id064
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 2 Kai De Star 2,665 Reefer Delivered November 28
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 2.0
   - 2665.0
   - 28.0
-- &id065
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 3 Sunflower 41,554 Oil Tanker Delivered November 25
   unit: null
@@ -593,8 +528,7 @@ numeric_observations:
   - 3.0
   - 41554.0
   - 25.0
-- &id066
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 4 Zenith 17,013 Oil Tanker Delivered November 28
   unit: null
@@ -602,23 +536,20 @@ numeric_observations:
   - 4.0
   - 17013.0
   - 28.0
-- &id067
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 81,234
   unit: null
   values:
   - 81234.0
-- &id068
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of November 28, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 1 Nica 7,779 Bulk Carrier Arrived November 25
   unit: null
@@ -626,8 +557,7 @@ numeric_observations:
   - 1.0
   - 7779.0
   - 25.0
-- &id070
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 2 Patcharawadee 10 1,295 LPG Arrived November 24
   unit: null
@@ -636,8 +566,7 @@ numeric_observations:
   - 10.0
   - 1295.0
   - 24.0
-- &id071
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 3 Patcharawadee 12 1,244 LPG Arrived November 24
   unit: null
@@ -646,8 +575,7 @@ numeric_observations:
   - 12.0
   - 1244.0
   - 24.0
-- &id072
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 4 Patcharawadee 14 2,450 LPG Arrived November 24
   unit: null
@@ -656,8 +584,7 @@ numeric_observations:
   - 14.0
   - 2450.0
   - 24.0
-- &id073
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 5 Star Advance 9,691 Chemical Tanker Arrived November 28
   unit: null
@@ -665,31 +592,27 @@ numeric_observations:
   - 5.0
   - 9691.0
   - 28.0
-- &id074
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 22,459
   unit: null
   values:
   - 22459.0
-- &id075
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of November 28, 2025
   unit: null
   values:
   - 28.0
   - 2025.0
-- &id076
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id077
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 11/22/2025 394.41 35,300.00 586.15 165,000.00 517.70 62,900.00 302.86
   unit: null
@@ -704,8 +627,7 @@ numeric_observations:
   - 517.7
   - 62900.0
   - 302.86
-- &id078
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 11/23/2025 394.41 35,300.00 586.15 165,000.00 517.70 62,900.00 302.86
   unit: null
@@ -720,8 +642,7 @@ numeric_observations:
   - 517.7
   - 62900.0
   - 302.86
-- &id079
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 11/24/2025 392.24 35,000.00 586.15 165,000.00 517.70 62,900.00 301.35
   unit: null
@@ -736,8 +657,7 @@ numeric_observations:
   - 517.7
   - 62900.0
   - 301.35
-- &id080
-  section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+- section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
   section_type: linked_pdf
   source_line: 11/25/2025 390.05 34,800.00 586.15 165,000.00 517.70 62,900.00 301.35
   unit: null
@@ -897,86 +817,648 @@ section_count: 3
 signals:
   numeric_observation_count: 93
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Global market chaos continues post-Thanksgiving like a bad stomach
+      after too much turkey. Steel plate prices were thehighlight of the entire sub-continent-and
+      even China-where they unanimously retreated in unison this week, while the U.S.
+      Dollar also decided t
+    unit: worldscale_pct
+    values:
+    - 3.2
+    - 2023.0
+    - 21.0
+    - 59.16
+    - 14.0
+  - section: Main
+    section_type: null
+    source_line: As supply continues to be restricted by the widening net of sanctions
+      and blacklists in addition to rising freight rates, it was still a kind gesture
+      by the gods of tonnage that both Bangladesh and India mercifully reported fresh
+      arrivals and deliveries at the
+    unit: usd
+    values:
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: Yet in the midst of uncertainty, a momentous development unraveled
+      this week with the first Pakistani ship-recycling yard to be awarded HKC compliance,
+      as Prime Green Recyclers became the first in the nation to join the array of
+      international yards-bringing Pa
+    unit: null
+    values:
+    - 26.0
+    - 21.0
+    - 22.0
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: Overall, as market fundamentals remain confidently uncertain, prices
+      have endured a turbulent ride across the board over the last few months. USD
+      400/LDT+ remains a struggle to achieve in some markets as steel and currencies
+      continue to underperform, alongside
+    unit: usd
+    values:
+    - 400.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-12-01_gms-week-48-stumped-yet-primed_img1_689_1470b28bdf08.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -12.0
+    - -1.0
+    - 48.0
+    - 689.0
+    - 1470.0
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Novemb er 28th, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Week 48
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 78, Issue 1213 - Unknown
+    unit: null
+    values:
+    - 2.0
+    - 78.0
+    - 1213.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Dry Index climbed another 3.2% through the course of the week, hitting
+      a new high since December
+    unit: pct
+    values:
+    - 3.2
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: • 21 up in Bangla. 2023 as practically every segment assisted in
+      with the rising rates. Oil, meanwhile, remains at 21st-
+    unit: null
+    values:
+    - 21.0
+    - 2023.0
+    - 21.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: century lows, idling with marginal fluctuations, yet it closed the
+      week out at USD 59.16/Ton-a near
+    unit: usd
+    values:
+    - 59.16
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 14% drop over the last 12 months.
+    unit: pct
+    values:
+    - 14.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: that are regularly seeing sub-USD 400/Ton from key locations, creating
+      a dual-priced reality for the
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: • Focus firm. Hong Kong Convention came into force on June 26th.
+      This follows on the heels of 21 Bangladeshi
+    unit: null
+    values:
+    - 26.0
+    - 21.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: yards receiving their HKC accreditations and a 22nd yard set to reportedly
+      follow imminently, as
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: and catch up to Alang, where over 100 yards have been HKC compliant-some
+      practically for over
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: on the GMS App! across the board over the last few months. USD 400/LDT+
+      remains a struggle to achieve in some
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: means the industry continues hoping for a market resurgence in 2026.
+      Tough year!
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 48 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 48.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: another yard has reportedly reached completion, taking the total
+      to 22 set to follow shortly. While
+    unit: null
+    values:
+    - 22.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: collapsing from the highs of USD 600/Ton to USD 400/Ton since January
+      2024-political instability,
+    unit: usd
+    values:
+    - 600.0
+    - 400.0
+    - 2024.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: now), dropping USD 11/Ton and closing the week at USD 506/Ton-a massive
+      fall from above USD
+    unit: usd
+    values:
+    - 11.0
+    - 506.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 600/Ton and now potentially approaching sub-USD 500/Ton through December.
+      The Taka, on the
+    unit: usd
+    values:
+    - 600.0
+    - 500.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: contrary, managed to escape last week's fate, firming nearly 30 basis
+      points and ending the week
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: at BDT 122.08 against the U.S. Dollar.
+    unit: null
+    values:
+    - 122.08
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: nation as the upcoming elections of February 2026 linger on the collective
+      minds of the populace.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: certainly reflected that sentiment as a collection of various sub-10K
+      units earmarked the waterfront.
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: USD 400/LDT are regularly available for larger LDT, good-condition
+      units, with smaller vessels
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: generally taking the pricing brunt well below USD 400/LDT-if any
+      interest were to arise at all. As
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: A lowly Alang market remains positioned below USD 400/LDT on most
+      tonnage and is thus out of the
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Below 400.
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Indian Rupee plummet into the high INR 89s-despite firming 28 basis
+      points against the U.S. Dollar
+    unit: null
+    values:
+    - 89.0
+    - 28.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: this week and closing out at INR 89.35-but local steel plate prices
+      fell USD 5/Ton this week, clocking
+    unit: usd
+    values:
+    - 89.35
+    - 5.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: out at USD 390/Ton.
+    unit: usd
+    values:
+    - 390.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Yet the Indian economy has been generating positive results, as the
+      nation's GDP climbed 8.2% on the
+    unit: pct
+    values:
+    - 8.2
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: reportedly within the next 3-4 months.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: prices fall USD 7/Ton and wrap the week up at USD 579/Ton, but the
+      Pakistani Rupee firmed a
+    unit: usd
+    values:
+    - 7.0
+    - 579.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: relatively minor 9 basis points and ended the week at PKR 282. While
+      these numbers are certainly
+    unit: null
+    values:
+    - 9.0
+    - 282.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: The Lira's decline continues unabated as it fell 15 basis points
+      and breached TRY 42.50 against the
+    unit: null
+    values:
+    - 15.0
+    - 42.5
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: to curtail this seemingly unstoppable decline. Surprisingly, amidst
+      inflation nearing 33%, GDP
+    unit: pct
+    values:
+    - 33.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: posted nearly 5% growth in the second quarter, easing some financial
+      stresses for its citizens.
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: For Week 48 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 48.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 260 / LDT 270 / LDT 280 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 260.0
+    - 270.0
+    - 280.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line:  Gamma-ray bursts release more energy in 10 seconds tha n our Sun
+      in its entire life. Nothing in the Universe rivals the
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - Christmas Eve December 02 - December 10
+    unit: null
+    values:
+    - 24.0
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 18 - December 25
+    unit: null
+    values:
+    - 25.0
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 01 - 02 - Durga Puja December 03 - December 06
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day December 21 - December 24
+    unit: null
+    values:
+    - 16.0
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Quaid-e-Azam No holidays in December
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of November 28, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 1.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 2 Kai De Star 2,665 Reefer Delivered November 28
+    unit: null
+    values:
+    - 2.0
+    - 2665.0
+    - 28.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sunflower 41,554 Oil Tanker Delivered November 25
+    unit: null
+    values:
+    - 3.0
+    - 41554.0
+    - 25.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 4 Zenith 17,013 Oil Tanker Delivered November 28
+    unit: null
+    values:
+    - 4.0
+    - 17013.0
+    - 28.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 81,234
+    unit: null
+    values:
+    - 81234.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of November 28, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 1 Nica 7,779 Bulk Carrier Arrived November 25
+    unit: null
+    values:
+    - 1.0
+    - 7779.0
+    - 25.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 2 Patcharawadee 10 1,295 LPG Arrived November 24
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+    - 1295.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 3 Patcharawadee 12 1,244 LPG Arrived November 24
+    unit: null
+    values:
+    - 3.0
+    - 12.0
+    - 1244.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 4 Patcharawadee 14 2,450 LPG Arrived November 24
+    unit: null
+    values:
+    - 4.0
+    - 14.0
+    - 2450.0
+    - 24.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 5 Star Advance 9,691 Chemical Tanker Arrived November 28
+    unit: null
+    values:
+    - 5.0
+    - 9691.0
+    - 28.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 22,459
+    unit: null
+    values:
+    - 22459.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of November 28, 2025
+    unit: null
+    values:
+    - 28.0
+    - 2025.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 11/22/2025 394.41 35,300.00 586.15 165,000.00 517.70 62,900.00 302.86
+    unit: null
+    values:
+    - 11.0
+    - 22.0
+    - 2025.0
+    - 394.41
+    - 35300.0
+    - 586.15
+    - 165000.0
+    - 517.7
+    - 62900.0
+    - 302.86
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 11/23/2025 394.41 35,300.00 586.15 165,000.00 517.70 62,900.00 302.86
+    unit: null
+    values:
+    - 11.0
+    - 23.0
+    - 2025.0
+    - 394.41
+    - 35300.0
+    - 586.15
+    - 165000.0
+    - 517.7
+    - 62900.0
+    - 302.86
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 11/24/2025 392.24 35,000.00 586.15 165,000.00 517.70 62,900.00 301.35
+    unit: null
+    values:
+    - 11.0
+    - 24.0
+    - 2025.0
+    - 392.24
+    - 35000.0
+    - 586.15
+    - 165000.0
+    - 517.7
+    - 62900.0
+    - 301.35
+  - section: 'Linked asset: 2025-12-01_gms-week-48-stumped-yet-primed_ship-recycling-market-insight-week-4_752ab9aedd93.pdf'
+    section_type: linked_pdf
+    source_line: 11/25/2025 390.05 34,800.00 586.15 165,000.00 517.70 62,900.00 301.35
+    unit: null
+    values:
+    - 11.0
+    - 25.0
+    - 2025.0
+    - 390.05
+    - 34800.0
+    - 586.15
+    - 165000.0
+    - 517.7
+    - 62900.0
+    - 301.35
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-12-01_gms-week-48-stumped-yet-primed.html
 source_stem: 2025-12-01_gms-week-48-stumped-yet-primed

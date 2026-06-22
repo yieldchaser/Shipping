@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 92
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The only uncertainty that prevails at this moment in time is just how
     soon the Middle East plunges deeper into war, dragging the rest of us andour lives
@@ -41,8 +40,7 @@ numeric_observations:
   unit: pct
   values:
   - 8.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the ship recycling front, weak pricing, damp demand, and dithered
     sentiments characterized another lackluster week in the Indian sub-continent,
@@ -54,8 +52,7 @@ numeric_observations:
   - 2024.0
   - 500.0
   - 500.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Speaking of, despite Indian and Pakistani currencies remaining relatively
     unchanged this week, both Bangladesh & Turkey recorded noteworthy declines this
@@ -64,8 +61,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 42 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -73,8 +69,7 @@ numeric_observations:
   values:
   - 42.0
   - 2024.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-10-21_gms-week-42-what-time-is-it_img1_20102024chinese234_436c953a8d71.jpg'
   unit: null
@@ -88,47 +83,41 @@ numeric_observations:
   - 436.0
   - 53.0
   - 1.0
-- &id006
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: October 18th, 2024
   unit: null
   values:
   - 18.0
   - 2024.0
-- &id007
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Week 42
   unit: null
   values:
   - 42.0
-- &id008
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Volume 265, Issue 1156
   unit: null
   values:
   - 265.0
   - 1156.0
-- &id009
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: • USD 100/LDT th e IDF that was followed by an Iranian counter-attack
     whe reby a single missile drone was fired
   unit: usd
   values:
   - 100.0
-- &id010
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: for its strike against Iran, surprisingly this week, crude oil dropped
     more than 8% in value since
   unit: pct
   values:
   - 8.0
-- &id011
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: over USD 100/LDT since the peaks of 2024, a majority of the marginal
     sales are reliably taking place
@@ -136,32 +125,28 @@ numeric_observations:
   values:
   - 100.0
   - 2024.0
-- &id012
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: below USD 500/LDT on nearly all vessels and into all markets. Bangladesh
     & Pakistan remain at the
   unit: usd
   values:
   - 500.0
-- &id013
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: even though highly sought after containers are below the USD 500/LDT
     mark on a delivered basis.
   unit: usd
   values:
   - 500.0
-- &id014
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: the remainder of the year - if not beyond well into Q1 2025. This may
     give sub-continent markets
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 42 of 2024 are on Page 5.
   unit: null
@@ -169,16 +154,14 @@ numeric_observations:
   - 42.0
   - 2024.0
   - 5.0
-- &id016
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id017
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: As a result, FY25 growth for the country has been downgraded to under
     5%, which is notably being
@@ -186,24 +169,21 @@ numeric_observations:
   values:
   - 5.0
   - 5.0
-- &id018
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: crushed by the burgeoning inflation rate that is in excess of 9% today.
     Moreover, despite the nation
   unit: pct
   values:
   - 9.0
-- &id019
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: dead at USD 533/Ton, but even the U.S. Dollar continues to see its
     rolling demise as it ends the
   unit: usd
   values:
   - 533.0
-- &id020
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: week just USD 0.1 shy off BDT 120/Ton. As such, the writing's now on
     the wall as to just how this
@@ -211,24 +191,21 @@ numeric_observations:
   values:
   - 0.1
   - 120.0
-- &id021
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: market will end Q4 2024 given that the unfolding evidence of flailing
     Chattogram Choppers is the
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: state of local port position that displayed a small LDT arrival and
     a surprisingly decent 10K LDT
   unit: null
   values:
   - 10.0
-- &id023
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: PRINCESS LOTUS (9,214 LDT), for a ‘decent' USD 430/LT LDT basis an
     ‘as is' China delivery and
@@ -236,125 +213,109 @@ numeric_observations:
   values:
   - 9214.0
   - 430.0
-- &id024
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: with 200 Tons of fuel included in the sale. But what if this vessel
     slips past Bangladesh and onto
   unit: null
   values:
   - 200.0
-- &id025
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Whilst political unrest from the collapse of PM Hasina's fallout continues,
     2025 can only hope to
   unit: null
   values:
   - 2025.0
-- &id026
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: be a silver-lining for an otherwise dark end to 2024.
   unit: null
   values:
   - 2024.0
-- &id027
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: USD 430/LT LDT (‘as is' China with 200
   unit: usd
   values:
   - 430.0
   - 200.0
-- &id028
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: PRINCESS LOTUS Bulker 9,214
   unit: null
   values:
   - 9214.0
-- &id029
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: India's comparatively firmer economy (the 5th largest in the world
     today) offers little in the way of
   unit: null
   values:
   - 5.0
-- &id031
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: e xcess of USD 700 Billion even though inflation, local steel plate
     prices, and the Indian Rupee
   unit: usd
   values:
   - 700.0
-- &id032
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: continue to suffer. The INR breached a record Rs. 84.15 against the
     U.S. Dollar, only to end the week
   unit: null
   values:
   - 84.15
-- &id033
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: at levels slightly in excess of Rs. 84. Local steel plate prices might
     as well have flatlined for the week
   unit: null
   values:
   - 84.0
-- &id034
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: over 36% through September, with October levels not far from being
     kosher either.
   unit: pct
   values:
   - 36.0
-- &id035
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: it loses 2 basis points against the U.S. Dollar this week, all whilst
     local steel plate prices haven't
   unit: null
   values:
   - 2.0
-- &id037
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: respectable USD 665/Ton .
   unit: usd
   values:
   - 665.0
-- &id038
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: For Week 42 of 2024, GMS Market Rankings / vessel indications are as
     below.
@@ -362,8 +323,7 @@ numeric_observations:
   values:
   - 42.0
   - 2024.0
-- &id040
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 1 India Steady 480 / LDT 500 / LDT 510 / LDT
   unit: null
@@ -372,8 +332,7 @@ numeric_observations:
   - 480.0
   - 500.0
   - 510.0
-- &id041
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Improving 470 / LDT 490 / LDT 500 / LDT
   unit: null
@@ -382,8 +341,7 @@ numeric_observations:
   - 470.0
   - 490.0
   - 500.0
-- &id042
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Declining 460 / LDT 480 / LDT 490 / LDT
   unit: null
@@ -392,8 +350,7 @@ numeric_observations:
   - 460.0
   - 480.0
   - 490.0
-- &id043
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
   unit: null
@@ -402,32 +359,28 @@ numeric_observations:
   - 330.0
   - 340.0
   - 350.0
-- &id044
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line:  People with a mutation of the DEC2 gene can fall short on sleep yet
     feel fine. For the 1 percent of the population with this
   unit: null
   values:
   - 1.0
-- &id046
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: among us and have four cones in their eyes. They can see ultraviolet
     shades, allowing them to appreciate 100 million distinct
   unit: null
   values:
   - 100.0
-- &id047
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: notes. In other words, they can hear a D minor and name it on the spot.
     The condition is incredibly rare-less than 1 in 10,000
@@ -435,8 +388,7 @@ numeric_observations:
   values:
   - 1.0
   - 10000.0
-- &id048
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: October 31 - Diwali & Sardar Patel's Birthday October 15 - October
     23
@@ -445,8 +397,7 @@ numeric_observations:
   - 31.0
   - 15.0
   - 23.0
-- &id049
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: November 01 - Laxmi Puja October 31 - November 07
   unit: null
@@ -454,32 +405,28 @@ numeric_observations:
   - 1.0
   - 31.0
   - 7.0
-- &id050
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: November 14 - November 21
   unit: null
   values:
   - 14.0
   - 21.0
-- &id051
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: No holidays in November October 30 - November 02
   unit: null
   values:
   - 30.0
   - 2.0
-- &id052
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: November 14 - November 17
   unit: null
   values:
   - 14.0
   - 17.0
-- &id053
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: No holidays in November October 24 - Founding Day October 29 - Republic
     Day
@@ -487,32 +434,28 @@ numeric_observations:
   values:
   - 24.0
   - 29.0
-- &id054
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: November 09 - Iqbal day No more holidays until Dec 24
   unit: null
   values:
   - 9.0
   - 24.0
-- &id055
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id056
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of October 18, 2024
   unit: null
   values:
   - 18.0
   - 2024.0
-- &id057
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 1 Andulus 1 6,064 Bulk Carrier Delivered October 16
   unit: null
@@ -521,8 +464,7 @@ numeric_observations:
   - 1.0
   - 6064.0
   - 16.0
-- &id058
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
   unit: null
@@ -530,8 +472,7 @@ numeric_observations:
   - 2.0
   - 7263.0
   - 26.0
-- &id059
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 3 Hai Bo (under Tow) 8,678 Barge Arrived October 13
   unit: null
@@ -539,8 +480,7 @@ numeric_observations:
   - 3.0
   - 8678.0
   - 13.0
-- &id060
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 4 Green Maloy 2,975 Reefer Delivered October 17
   unit: null
@@ -548,8 +488,7 @@ numeric_observations:
   - 4.0
   - 2975.0
   - 17.0
-- &id061
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 5 Hai Tuo 1,721 ITB Tug Arrived October 13
   unit: null
@@ -557,8 +496,7 @@ numeric_observations:
   - 5.0
   - 1721.0
   - 13.0
-- &id062
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 6 My Meray 6,925 Bulk Carrier Delivered October 16
   unit: null
@@ -566,23 +504,20 @@ numeric_observations:
   - 6.0
   - 6925.0
   - 16.0
-- &id063
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 33,626
   unit: null
   values:
   - 33626.0
-- &id064
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of October 18, 2024
   unit: null
   values:
   - 18.0
   - 2024.0
-- &id065
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 1 Harmony 1 10,317 Bulk Carrier Arrived October 17
   unit: null
@@ -591,8 +526,7 @@ numeric_observations:
   - 1.0
   - 10317.0
   - 17.0
-- &id066
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 2 Ion (Under Tow) 23,236 Tanker Delivered October 16
   unit: null
@@ -600,8 +534,7 @@ numeric_observations:
   - 2.0
   - 23236.0
   - 16.0
-- &id067
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 3 PK 10 725 Tanker Arrived October 13
   unit: null
@@ -610,31 +543,27 @@ numeric_observations:
   - 10.0
   - 725.0
   - 13.0
-- &id068
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 34,278
   unit: null
   values:
   - 34278.0
-- &id069
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of October 18, 2024
   unit: null
   values:
   - 18.0
   - 2024.0
-- &id070
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/12/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
   unit: null
@@ -649,8 +578,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 330.07
-- &id072
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/13/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
   unit: null
@@ -665,8 +593,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 330.07
-- &id073
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/14/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
   unit: null
@@ -681,8 +608,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 330.07
-- &id074
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/15/2024 485.37 40,800.00 665.71 185,000.00 533.61 63,500.00 332.49
   unit: null
@@ -697,8 +623,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 332.49
-- &id075
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/16/2024 485.71 40,800.00 665.71 185,000.00 533.61 63,500.00 330.80
   unit: null
@@ -713,8 +638,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 330.8
-- &id076
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/17/2024 485.37 40,800.00 665.71 185,000.00 533.61 63,500.00 330.80
   unit: null
@@ -729,8 +653,7 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 330.8
-- &id077
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: 10/18/2024 481.74 40,500.00 665.71 185,000.00 533.61 63,500.00 323.40
   unit: null
@@ -745,22 +668,19 @@ numeric_observations:
   - 533.61
   - 63500.0
   - 323.4
-- &id078
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: '335.00'
   unit: null
   values:
   - 335.0
-- &id079
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: '330.00'
   unit: null
   values:
   - 330.0
-- &id080
-  section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+- section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
   section_type: linked_pdf
   source_line: '325.00'
   unit: null
@@ -879,86 +799,661 @@ section_count: 3
 signals:
   numeric_observation_count: 92
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The only uncertainty that prevails at this moment in time is just
+      how soon the Middle East plunges deeper into war, dragging the rest of us andour
+      lives with it? Covid logistical drawbacks created untold financial doom for
+      the world economies, exacerbated by a
+    unit: pct
+    values:
+    - 8.0
+  - section: Main
+    section_type: null
+    source_line: On the ship recycling front, weak pricing, damp demand, and dithered
+      sentiments characterized another lackluster week in the Indian sub-continent,
+      as sales grind to a virtual halt this week with activity registering at some
+      of the lowest levels witnessed for n
+    unit: usd
+    values:
+    - 100.0
+    - 2024.0
+    - 500.0
+    - 500.0
+  - section: Main
+    section_type: null
+    source_line: Speaking of, despite Indian and Pakistani currencies remaining relatively
+      unchanged this week, both Bangladesh & Turkey recorded noteworthy declines this
+      week. Even local steel plate prices flatlined in Bangladesh & Pakistan, with
+      India partially mimicking the
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 42 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 42.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-10-21_gms-week-42-what-time-is-it_img1_20102024chinese234_436c953a8d71.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -10.0
+    - -21.0
+    - 42.0
+    - 20102024.0
+    - 34.0
+    - 436.0
+    - 53.0
+    - 1.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: October 18th, 2024
+    unit: null
+    values:
+    - 18.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Week 42
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Volume 265, Issue 1156
+    unit: null
+    values:
+    - 265.0
+    - 1156.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: • USD 100/LDT th e IDF that was followed by an Iranian counter-attack
+      whe reby a single missile drone was fired
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: for its strike against Iran, surprisingly this week, crude oil dropped
+      more than 8% in value since
+    unit: pct
+    values:
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: over USD 100/LDT since the peaks of 2024, a majority of the marginal
+      sales are reliably taking place
+    unit: usd
+    values:
+    - 100.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: below USD 500/LDT on nearly all vessels and into all markets. Bangladesh
+      & Pakistan remain at the
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: even though highly sought after containers are below the USD 500/LDT
+      mark on a delivered basis.
+    unit: usd
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: the remainder of the year - if not beyond well into Q1 2025. This
+      may give sub-continent markets
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 42 of 2024 are on Page 5.
+    unit: null
+    values:
+    - 42.0
+    - 2024.0
+    - 5.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: As a result, FY25 growth for the country has been downgraded to under
+      5%, which is notably being
+    unit: pct
+    values:
+    - 5.0
+    - 5.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: crushed by the burgeoning inflation rate that is in excess of 9%
+      today. Moreover, despite the nation
+    unit: pct
+    values:
+    - 9.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: dead at USD 533/Ton, but even the U.S. Dollar continues to see its
+      rolling demise as it ends the
+    unit: usd
+    values:
+    - 533.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: week just USD 0.1 shy off BDT 120/Ton. As such, the writing's now
+      on the wall as to just how this
+    unit: usd
+    values:
+    - 0.1
+    - 120.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: market will end Q4 2024 given that the unfolding evidence of flailing
+      Chattogram Choppers is the
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: state of local port position that displayed a small LDT arrival and
+      a surprisingly decent 10K LDT
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: PRINCESS LOTUS (9,214 LDT), for a ‘decent' USD 430/LT LDT basis an
+      ‘as is' China delivery and
+    unit: usd
+    values:
+    - 9214.0
+    - 430.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: with 200 Tons of fuel included in the sale. But what if this vessel
+      slips past Bangladesh and onto
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Whilst political unrest from the collapse of PM Hasina's fallout
+      continues, 2025 can only hope to
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: be a silver-lining for an otherwise dark end to 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: USD 430/LT LDT (‘as is' China with 200
+    unit: usd
+    values:
+    - 430.0
+    - 200.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: PRINCESS LOTUS Bulker 9,214
+    unit: null
+    values:
+    - 9214.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: India's comparatively firmer economy (the 5th largest in the world
+      today) offers little in the way of
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: e xcess of USD 700 Billion even though inflation, local steel plate
+      prices, and the Indian Rupee
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: continue to suffer. The INR breached a record Rs. 84.15 against the
+      U.S. Dollar, only to end the week
+    unit: null
+    values:
+    - 84.15
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: at levels slightly in excess of Rs. 84. Local steel plate prices
+      might as well have flatlined for the week
+    unit: null
+    values:
+    - 84.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: over 36% through September, with October levels not far from being
+      kosher either.
+    unit: pct
+    values:
+    - 36.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: it loses 2 basis points against the U.S. Dollar this week, all whilst
+      local steel plate prices haven't
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: respectable USD 665/Ton .
+    unit: usd
+    values:
+    - 665.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: For Week 42 of 2024, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 42.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Steady 480 / LDT 500 / LDT 510 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 480.0
+    - 500.0
+    - 510.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Improving 470 / LDT 490 / LDT 500 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 470.0
+    - 490.0
+    - 500.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Declining 460 / LDT 480 / LDT 490 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 460.0
+    - 480.0
+    - 490.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 330 / LDT 340 / LDT 350 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 330.0
+    - 340.0
+    - 350.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line:  People with a mutation of the DEC2 gene can fall short on sleep
+      yet feel fine. For the 1 percent of the population with this
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: among us and have four cones in their eyes. They can see ultraviolet
+      shades, allowing them to appreciate 100 million distinct
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: notes. In other words, they can hear a D minor and name it on the
+      spot. The condition is incredibly rare-less than 1 in 10,000
+    unit: null
+    values:
+    - 1.0
+    - 10000.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: October 31 - Diwali & Sardar Patel's Birthday October 15 - October
+      23
+    unit: null
+    values:
+    - 31.0
+    - 15.0
+    - 23.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: November 01 - Laxmi Puja October 31 - November 07
+    unit: null
+    values:
+    - 1.0
+    - 31.0
+    - 7.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: November 14 - November 21
+    unit: null
+    values:
+    - 14.0
+    - 21.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November October 30 - November 02
+    unit: null
+    values:
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: November 14 - November 17
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November October 24 - Founding Day October 29 - Republic
+      Day
+    unit: null
+    values:
+    - 24.0
+    - 29.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: November 09 - Iqbal day No more holidays until Dec 24
+    unit: null
+    values:
+    - 9.0
+    - 24.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of October 18, 2024
+    unit: null
+    values:
+    - 18.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 1 Andulus 1 6,064 Bulk Carrier Delivered October 16
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 6064.0
+    - 16.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bereg Mechty (Under Tow/Arrested) 7,263 Reefer Arrived August 26
+    unit: null
+    values:
+    - 2.0
+    - 7263.0
+    - 26.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 3 Hai Bo (under Tow) 8,678 Barge Arrived October 13
+    unit: null
+    values:
+    - 3.0
+    - 8678.0
+    - 13.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 4 Green Maloy 2,975 Reefer Delivered October 17
+    unit: null
+    values:
+    - 4.0
+    - 2975.0
+    - 17.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 5 Hai Tuo 1,721 ITB Tug Arrived October 13
+    unit: null
+    values:
+    - 5.0
+    - 1721.0
+    - 13.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 6 My Meray 6,925 Bulk Carrier Delivered October 16
+    unit: null
+    values:
+    - 6.0
+    - 6925.0
+    - 16.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 33,626
+    unit: null
+    values:
+    - 33626.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of October 18, 2024
+    unit: null
+    values:
+    - 18.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 1 Harmony 1 10,317 Bulk Carrier Arrived October 17
+    unit: null
+    values:
+    - 1.0
+    - 1.0
+    - 10317.0
+    - 17.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ion (Under Tow) 23,236 Tanker Delivered October 16
+    unit: null
+    values:
+    - 2.0
+    - 23236.0
+    - 16.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 3 PK 10 725 Tanker Arrived October 13
+    unit: null
+    values:
+    - 3.0
+    - 10.0
+    - 725.0
+    - 13.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 34,278
+    unit: null
+    values:
+    - 34278.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of October 18, 2024
+    unit: null
+    values:
+    - 18.0
+    - 2024.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/12/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
+    unit: null
+    values:
+    - 10.0
+    - 12.0
+    - 2024.0
+    - 481.8
+    - 40500.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 330.07
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/13/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
+    unit: null
+    values:
+    - 10.0
+    - 13.0
+    - 2024.0
+    - 481.8
+    - 40500.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 330.07
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/14/2024 481.80 40,500.00 665.71 185,000.00 533.61 63,500.00 330.07
+    unit: null
+    values:
+    - 10.0
+    - 14.0
+    - 2024.0
+    - 481.8
+    - 40500.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 330.07
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/15/2024 485.37 40,800.00 665.71 185,000.00 533.61 63,500.00 332.49
+    unit: null
+    values:
+    - 10.0
+    - 15.0
+    - 2024.0
+    - 485.37
+    - 40800.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 332.49
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/16/2024 485.71 40,800.00 665.71 185,000.00 533.61 63,500.00 330.80
+    unit: null
+    values:
+    - 10.0
+    - 16.0
+    - 2024.0
+    - 485.71
+    - 40800.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 330.8
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/17/2024 485.37 40,800.00 665.71 185,000.00 533.61 63,500.00 330.80
+    unit: null
+    values:
+    - 10.0
+    - 17.0
+    - 2024.0
+    - 485.37
+    - 40800.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 330.8
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: 10/18/2024 481.74 40,500.00 665.71 185,000.00 533.61 63,500.00 323.40
+    unit: null
+    values:
+    - 10.0
+    - 18.0
+    - 2024.0
+    - 481.74
+    - 40500.0
+    - 665.71
+    - 185000.0
+    - 533.61
+    - 63500.0
+    - 323.4
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: '335.00'
+    unit: null
+    values:
+    - 335.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: '330.00'
+    unit: null
+    values:
+    - 330.0
+  - section: 'Linked asset: 2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf'
+    section_type: linked_pdf
+    source_line: '325.00'
+    unit: null
+    values:
+    - 325.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-10-21_gms-week-42-what-time-is-it.html
 source_stem: 2024-10-21_gms-week-42-what-time-is-it

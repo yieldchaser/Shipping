@@ -33,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 106
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Global markets seemed to take a breather this week as things turned
     slow across the board once again, not only on the shipping side but even the ship
@@ -46,8 +45,7 @@ numeric_observations:
   - 6.0
   - 9.0
   - 4.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As inflation rose marginally in the U.S. (climbing to 3% by the end
     of the September), oil managed to gain some traction this week, firming to USD
@@ -58,8 +56,7 @@ numeric_observations:
   - 3.0
   - 62.14
   - 1.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: And as the global dark / shadow fleets start to grow, the woeful performance
     of the Indian sub-continent ship recycling markets continues on and there are
@@ -68,8 +65,7 @@ numeric_observations:
   unit: usd
   values:
   - 400.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'India has endured the roughest times over the last several weeks with
     levels plummeting on the back of rapidly deteriorating local steel prices and
@@ -78,8 +74,7 @@ numeric_observations:
   unit: worldscale_pct
   values:
   - 50.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Overall, mounting global trade wars and tariff implementations are
     leaving global corporations confused and fearing the worst, should these reciprocal
@@ -88,8 +83,7 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 43 of 2025, GMS Market Rankings / vessel indications are as
     below
@@ -97,8 +91,7 @@ numeric_observations:
   values:
   - 43.0
   - 2025.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-10-27_gms-week-42-woefully-slow_img1_27102025_048dd30cf87c.jpg'
   unit: null
@@ -110,39 +103,34 @@ numeric_observations:
   - 27102025.0
   - 48.0
   - 7.0
-- &id008
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: October 24th, 2025
   unit: null
   values:
   - 24.0
   - 2025.0
-- &id009
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: Week 43 but now I realize I should have been more specific."
   unit: null
   values:
   - 43.0
-- &id010
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: Volume 277, Issue 1208
   unit: null
   values:
   - 277.0
   - 1208.0
-- &id011
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: off about 3.2% by CoB Friday, dropping to its lowest levels since early
     October as the Cape index
   unit: pct
   values:
   - 3.2
-- &id012
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: took the lead shaving off over 6% of its value, while Supramaxes dipped
     a comparatively milder 9
@@ -150,23 +138,20 @@ numeric_observations:
   values:
   - 6.0
   - 9.0
-- &id013
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 4% down.
   unit: pct
   values:
   - 4.0
-- &id014
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: A s inflation rose marginally in the U.S. (climbing to 3% by t he end
     of the September), oil managed
   unit: pct
   values:
   - 3.0
-- &id015
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: to gain some traction this week, firming to USD 62.14/barrel - a 1%
     climb on the back of anticipations
@@ -174,32 +159,28 @@ numeric_observations:
   values:
   - 62.14
   - 1.0
-- &id016
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: • Confusion reigns. so low over recent weeks that constant discussions
     of prices below USD 400/LDT are comfortably
   unit: usd
   values:
   - 400.0
-- &id017
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: • Little to show. to suffer on the back of 50% tariffs amidst the U.S.
     - India - Russia love triangle. Pakistan has not
   unit: pct
   values:
   - 50.0
-- &id018
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: inflow of recycling tonnage has remained painfully thin, as we ease
     into the November 2025 and
   unit: null
   values:
   - 2025.0
-- &id019
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 43 of 2025 are on Page 6.
   unit: null
@@ -207,71 +188,62 @@ numeric_observations:
   - 43.0
   - 2025.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: As the economic situation remains confounded with inflation rising
     marginally last month, 30%
   unit: pct
   values:
   - 30.0
-- &id022
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: tariffs on the nation's most vital exports (Readymade Garments), the
     Taka losing nearly 30 basis
   unit: null
   values:
   - 30.0
-- &id023
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: points against the Dollar this week (closing it out at BDT 122.35),
     and a local steel plate price that
   unit: null
   values:
   - 122.35
-- &id024
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 3/Ton is certainly a sign of impending times for this market.
   unit: null
   values:
   - 3.0
-- &id025
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: February 2026 and loom like a beacon of hope (or an axe swinging on
     a rope) as locally, the drive
   unit: null
   values:
   - 2026.0
-- &id026
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: infrastructure / development projects since June 2024, is being attributed
     as the key reason behind
   unit: null
   values:
   - 2024.0
-- &id027
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: progress with almost 20 yards now fully HKC ready, having made the
     relevant infrastructure
   unit: null
   values:
   - 20.0
-- &id028
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: has been confirmed that two 1995 built Membrane units PUTERI NILAM
     (26,915 LDT) and PUTERI
@@ -279,118 +251,103 @@ numeric_observations:
   values:
   - 1995.0
   - 26915.0
-- &id029
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: DELIMA (26,915) have been committed on an enbloc basis to a buyer on
     private terms. One other
   unit: null
   values:
   - 26915.0
-- &id030
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: sale was confirmed this week as the handymax bulk carrier from Waruna
     MONICA P (7,779 LDT)
   unit: null
   values:
   - 7779.0
-- &id031
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: was fixed for a decent USD 380/LT LDT basis an ‘as is' Belawan delivery,
     earmarking in the only
   unit: usd
   values:
   - 380.0
-- &id032
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: MONICA P Bulker 7,779 USD 380/LT LDT (‘as is' Belawan)
   unit: usd
   values:
   - 7779.0
   - 380.0
-- &id033
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: PUTERI NILAM LNG 26,915 Sold Enbloc on private terms
   unit: null
   values:
   - 26915.0
-- &id034
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: PUTERI DELIMA LNG 26,915 Sold Enbloc on private terms
   unit: null
   values:
   - 26915.0
-- &id035
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: the 100+ ship recycling yards that remain empty, for yet another week.
     It must certainly be frustrating
   unit: null
   values:
   - 100.0
-- &id037
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: been in force since June 26th, 2025.
   unit: null
   values:
   - 26.0
   - 2025.0
-- &id038
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: And despite all 100+ yards in India being HKC certified even before
     the HKC came into force, market
   unit: null
   values:
   - 100.0
-- &id039
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: left the Alang buyers with no real tonnage to work on as prices fade
     from the highs of USD 600/Ton
   unit: usd
   values:
   - 600.0
-- &id040
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: down to below USD 400/Ton once again, leaving them at a greater disadvantage
     (as compared to the
   unit: usd
   values:
   - 400.0
-- &id041
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: fundamentals that have been taking a brutal beating of late even though
     the Rupee gained a minor 20
   unit: null
   values:
   - 20.0
-- &id042
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: basis points against the U.S. Dollar and end the week at INR 87.54
     while local steel plate prices waddled
   unit: null
   values:
   - 87.54
-- &id043
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: out of the bar at sunrise with a USD 1/Ton improvement, yet leaning
     against the pillars of USD 389/Ton
@@ -398,24 +355,21 @@ numeric_observations:
   values:
   - 1.0
   - 389.0
-- &id044
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: As it stands, Gadani is still positioned just above USD 400/LDT and
     as is the case with their
   unit: usd
   values:
   - 400.0
-- &id046
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: Ab ove 400, just. doubled back 20 basis points this week just like
     their Indian counterparts and closed the week out
@@ -423,8 +377,7 @@ numeric_observations:
   values:
   - 400.0
   - 20.0
-- &id047
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: at PKR 283.50. Local steel plate prices also resumed flatlining at
     USD 614/Ton, after falling over
@@ -432,31 +385,27 @@ numeric_observations:
   values:
   - 283.5
   - 614.0
-- &id048
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: USD 15/Ton over recent weeks.
   unit: usd
   values:
   - 15.0
-- &id049
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: No change other than marginal steel movements and Lira down another
     17 basis points against the
   unit: null
   values:
   - 17.0
-- &id051
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: U.S.$, wrapping up the week breaching past TRY 42, at TRY 42.08. Slow
     times ahead.
@@ -464,8 +413,7 @@ numeric_observations:
   values:
   - 42.0
   - 42.08
-- &id052
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: For Week 43 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -473,8 +421,7 @@ numeric_observations:
   values:
   - 43.0
   - 2025.0
-- &id053
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -483,8 +430,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id054
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -493,8 +439,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id055
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 390 / LDT 410 / LDT 420 / LDT
   unit: null
@@ -503,8 +448,7 @@ numeric_observations:
   - 390.0
   - 410.0
   - 420.0
-- &id056
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -513,31 +457,27 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id057
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line:  Unfortunately, George Washington died not knowing dinosaurs existed.
     The first and former president died in 1799,
   unit: null
   values:
   - 1799.0
-- &id059
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: while the first official description of dinosaurs happened in 1842.
   unit: null
   values:
   - 1842.0
-- &id060
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line:  Australia is wider than the moon. The moon's diameter is around 2,112
     miles, while Australia's is 2,485 miles.
@@ -545,40 +485,35 @@ numeric_observations:
   values:
   - 2112.0
   - 2485.0
-- &id061
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 04 - November 11
   unit: null
   values:
   - 4.0
   - 11.0
-- &id062
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: November 18 - November 25
   unit: null
   values:
   - 18.0
   - 25.0
-- &id063
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: No holidays in November November 04 - November 07
   unit: null
   values:
   - 4.0
   - 7.0
-- &id064
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: November 18 - November 21
   unit: null
   values:
   - 18.0
   - 21.0
-- &id065
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day October 28 & 29 - Republic Day
   unit: null
@@ -586,31 +521,27 @@ numeric_observations:
   - 24.0
   - 28.0
   - 29.0
-- &id066
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: November 09 - Iqbal Day No holidays in November
   unit: null
   values:
   - 9.0
-- &id067
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of October 24, 2025
   unit: null
   values:
   - 24.0
   - 2025.0
-- &id069
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
   unit: null
@@ -618,8 +549,7 @@ numeric_observations:
   - 1.0
   - 20001.0
   - 13.0
-- &id070
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 2 Impala 4,177 Bulk Carrier Arrived October 18
   unit: null
@@ -627,8 +557,7 @@ numeric_observations:
   - 2.0
   - 4177.0
   - 18.0
-- &id071
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 3 Neer 1 22,977 Oil Tanker Arrived October 17
   unit: null
@@ -637,8 +566,7 @@ numeric_observations:
   - 1.0
   - 22977.0
   - 17.0
-- &id072
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
   unit: null
@@ -646,8 +574,7 @@ numeric_observations:
   - 4.0
   - 9623.0
   - 7.0
-- &id073
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 5 Tasco Bravo 1,216 Oil Tanker Delivered October 23
   unit: null
@@ -655,8 +582,7 @@ numeric_observations:
   - 5.0
   - 1216.0
   - 23.0
-- &id074
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 6 Vertex 1,087 Oil tanker Delivered October 15
   unit: null
@@ -664,8 +590,7 @@ numeric_observations:
   - 6.0
   - 1087.0
   - 15.0
-- &id075
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 7 Yi Chang 6 (Under Tow) 1,541 Oil Tanker Arrived October 18
   unit: null
@@ -674,23 +599,20 @@ numeric_observations:
   - 6.0
   - 1541.0
   - 18.0
-- &id076
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 60,623
   unit: null
   values:
   - 60623.0
-- &id077
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of October 24, 2025
   unit: null
   values:
   - 24.0
   - 2025.0
-- &id078
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
   unit: null
@@ -699,8 +621,7 @@ numeric_observations:
   - 3.0
   - 7809.0
   - 4.0
-- &id079
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 2 Nigata Trader 4,809 Container Delivered October 20
   unit: null
@@ -708,8 +629,7 @@ numeric_observations:
   - 2.0
   - 4809.0
   - 20.0
-- &id080
-  section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+- section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
   section_type: linked_pdf
   source_line: 3 S Oak 2,262 Container Delivered October 24
   unit: null
@@ -992,86 +912,610 @@ section_count: 3
 signals:
   numeric_observation_count: 106
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Global markets seemed to take a breather this week as things turned
+      slow across the board once again, not only on the shipping side but even the
+      ship recycling side of things. Currencies fluctuated in moderate tandem, local
+      steel plate prices made surprisingly
+    unit: pct
+    values:
+    - 3.2
+    - 6.0
+    - 9.0
+    - 4.0
+  - section: Main
+    section_type: null
+    source_line: As inflation rose marginally in the U.S. (climbing to 3% by the end
+      of the September), oil managed to gain some traction this week, firming to USD
+      62.14/barrel - a 1% climb on the back of anticipations on a possible China -
+      U.S. trade deal, all while Trump thr
+    unit: pct
+    values:
+    - 3.0
+    - 62.14
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: And as the global dark / shadow fleets start to grow, the woeful
+      performance of the Indian sub-continent ship recycling markets continues on
+      and there are few emerging signs of light at the end of the tunnel (more like
+      an oncoming freight train) for the remain
+    unit: usd
+    values:
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: 'India has endured the roughest times over the last several weeks
+      with levels plummeting on the back of rapidly deteriorating local steel prices
+      and a drastically depreciating currency that continues to suffer on the back
+      of 50% tariffs amidst the U.S. - India '
+    unit: worldscale_pct
+    values:
+    - 50.0
+  - section: Main
+    section_type: null
+    source_line: Overall, mounting global trade wars and tariff implementations are
+      leaving global corporations confused and fearing the worst, should these reciprocal
+      and seemingly ever escalatory measures continue to unfold thereby stifling shipping
+      sectors, global trade, FX
+    unit: null
+    values:
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: For Week 43 of 2025, GMS Market Rankings / vessel indications are
+      as below
+    unit: null
+    values:
+    - 43.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-10-27_gms-week-42-woefully-slow_img1_27102025_048dd30cf87c.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -10.0
+    - -27.0
+    - 42.0
+    - 27102025.0
+    - 48.0
+    - 7.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: October 24th, 2025
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: Week 43 but now I realize I should have been more specific."
+    unit: null
+    values:
+    - 43.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: Volume 277, Issue 1208
+    unit: null
+    values:
+    - 277.0
+    - 1208.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: off about 3.2% by CoB Friday, dropping to its lowest levels since
+      early October as the Cape index
+    unit: pct
+    values:
+    - 3.2
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: took the lead shaving off over 6% of its value, while Supramaxes
+      dipped a comparatively milder 9
+    unit: pct
+    values:
+    - 6.0
+    - 9.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 4% down.
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: A s inflation rose marginally in the U.S. (climbing to 3% by t he
+      end of the September), oil managed
+    unit: pct
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: to gain some traction this week, firming to USD 62.14/barrel - a
+      1% climb on the back of anticipations
+    unit: pct
+    values:
+    - 62.14
+    - 1.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: • Confusion reigns. so low over recent weeks that constant discussions
+      of prices below USD 400/LDT are comfortably
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: • Little to show. to suffer on the back of 50% tariffs amidst the
+      U.S. - India - Russia love triangle. Pakistan has not
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: inflow of recycling tonnage has remained painfully thin, as we ease
+      into the November 2025 and
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 43 of 2025 are on Page 6.
+    unit: null
+    values:
+    - 43.0
+    - 2025.0
+    - 6.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: As the economic situation remains confounded with inflation rising
+      marginally last month, 30%
+    unit: pct
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: tariffs on the nation's most vital exports (Readymade Garments),
+      the Taka losing nearly 30 basis
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: points against the Dollar this week (closing it out at BDT 122.35),
+      and a local steel plate price that
+    unit: null
+    values:
+    - 122.35
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 3/Ton is certainly a sign of impending times for this market.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: February 2026 and loom like a beacon of hope (or an axe swinging
+      on a rope) as locally, the drive
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: infrastructure / development projects since June 2024, is being attributed
+      as the key reason behind
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: progress with almost 20 yards now fully HKC ready, having made the
+      relevant infrastructure
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: has been confirmed that two 1995 built Membrane units PUTERI NILAM
+      (26,915 LDT) and PUTERI
+    unit: null
+    values:
+    - 1995.0
+    - 26915.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: DELIMA (26,915) have been committed on an enbloc basis to a buyer
+      on private terms. One other
+    unit: null
+    values:
+    - 26915.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: sale was confirmed this week as the handymax bulk carrier from Waruna
+      MONICA P (7,779 LDT)
+    unit: null
+    values:
+    - 7779.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: was fixed for a decent USD 380/LT LDT basis an ‘as is' Belawan delivery,
+      earmarking in the only
+    unit: usd
+    values:
+    - 380.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: MONICA P Bulker 7,779 USD 380/LT LDT (‘as is' Belawan)
+    unit: usd
+    values:
+    - 7779.0
+    - 380.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: PUTERI NILAM LNG 26,915 Sold Enbloc on private terms
+    unit: null
+    values:
+    - 26915.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: PUTERI DELIMA LNG 26,915 Sold Enbloc on private terms
+    unit: null
+    values:
+    - 26915.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: the 100+ ship recycling yards that remain empty, for yet another
+      week. It must certainly be frustrating
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: been in force since June 26th, 2025.
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: And despite all 100+ yards in India being HKC certified even before
+      the HKC came into force, market
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: left the Alang buyers with no real tonnage to work on as prices fade
+      from the highs of USD 600/Ton
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: down to below USD 400/Ton once again, leaving them at a greater disadvantage
+      (as compared to the
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: fundamentals that have been taking a brutal beating of late even
+      though the Rupee gained a minor 20
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: basis points against the U.S. Dollar and end the week at INR 87.54
+      while local steel plate prices waddled
+    unit: null
+    values:
+    - 87.54
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: out of the bar at sunrise with a USD 1/Ton improvement, yet leaning
+      against the pillars of USD 389/Ton
+    unit: usd
+    values:
+    - 1.0
+    - 389.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: As it stands, Gadani is still positioned just above USD 400/LDT and
+      as is the case with their
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: Ab ove 400, just. doubled back 20 basis points this week just like
+      their Indian counterparts and closed the week out
+    unit: null
+    values:
+    - 400.0
+    - 20.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: at PKR 283.50. Local steel plate prices also resumed flatlining at
+      USD 614/Ton, after falling over
+    unit: usd
+    values:
+    - 283.5
+    - 614.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: USD 15/Ton over recent weeks.
+    unit: usd
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: No change other than marginal steel movements and Lira down another
+      17 basis points against the
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: U.S.$, wrapping up the week breaching past TRY 42, at TRY 42.08.
+      Slow times ahead.
+    unit: usd
+    values:
+    - 42.0
+    - 42.08
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: For Week 43 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 43.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 390 / LDT 410 / LDT 420 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 390.0
+    - 410.0
+    - 420.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line:  Unfortunately, George Washington died not knowing dinosaurs existed.
+      The first and former president died in 1799,
+    unit: null
+    values:
+    - 1799.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: while the first official description of dinosaurs happened in 1842.
+    unit: null
+    values:
+    - 1842.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line:  Australia is wider than the moon. The moon's diameter is around
+      2,112 miles, while Australia's is 2,485 miles.
+    unit: null
+    values:
+    - 2112.0
+    - 2485.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 04 - November 11
+    unit: null
+    values:
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: November 18 - November 25
+    unit: null
+    values:
+    - 18.0
+    - 25.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in November November 04 - November 07
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: November 18 - November 21
+    unit: null
+    values:
+    - 18.0
+    - 21.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day October 28 & 29 - Republic Day
+    unit: null
+    values:
+    - 24.0
+    - 28.0
+    - 29.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: November 09 - Iqbal Day No holidays in November
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of October 24, 2025
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Conica Atlas 20,001 Oil Tanker Arrived June 13
+    unit: null
+    values:
+    - 1.0
+    - 20001.0
+    - 13.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Impala 4,177 Bulk Carrier Arrived October 18
+    unit: null
+    values:
+    - 2.0
+    - 4177.0
+    - 18.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Neer 1 22,977 Oil Tanker Arrived October 17
+    unit: null
+    values:
+    - 3.0
+    - 1.0
+    - 22977.0
+    - 17.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Nirvana 9,623 Oil Tanker Arrived May 07
+    unit: null
+    values:
+    - 4.0
+    - 9623.0
+    - 7.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 5 Tasco Bravo 1,216 Oil Tanker Delivered October 23
+    unit: null
+    values:
+    - 5.0
+    - 1216.0
+    - 23.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 6 Vertex 1,087 Oil tanker Delivered October 15
+    unit: null
+    values:
+    - 6.0
+    - 1087.0
+    - 15.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 7 Yi Chang 6 (Under Tow) 1,541 Oil Tanker Arrived October 18
+    unit: null
+    values:
+    - 7.0
+    - 6.0
+    - 1541.0
+    - 18.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 60,623
+    unit: null
+    values:
+    - 60623.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of October 24, 2025
+    unit: null
+    values:
+    - 24.0
+    - 2025.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 1 DK 03 7,809 Bulk Carrier Arrived August 04
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+    - 7809.0
+    - 4.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Nigata Trader 4,809 Container Delivered October 20
+    unit: null
+    values:
+    - 2.0
+    - 4809.0
+    - 20.0
+  - section: 'Linked asset: 2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf'
+    section_type: linked_pdf
+    source_line: 3 S Oak 2,262 Container Delivered October 24
+    unit: null
+    values:
+    - 3.0
+    - 2262.0
+    - 24.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-10-27_gms-week-42-woefully-slow.html
 source_stem: 2025-10-27_gms-week-42-woefully-slow

@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 96
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we close out another year, sub-continent markets remain suspended
     at their weakest point for some time now. Pricing remains firm (given the historical
@@ -38,8 +37,7 @@ numeric_observations:
   unit: usd
   values:
   - 350.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: While Bangladesh has been the main proponent of such concern - given
     the ongoing financial crisis that has resulted in the Bangladeshi government restricting
@@ -48,8 +46,7 @@ numeric_observations:
   unit: usd
   values:
   - 1.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: The picture in India remains slightly rosier, even though levels have
     cooled off some USD 200/LDT since the peaks of over USD 700/LDT seen earlier this
@@ -59,8 +56,7 @@ numeric_observations:
   values:
   - 200.0
   - 700.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 52 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -68,8 +64,7 @@ numeric_observations:
   values:
   - 52.0
   - 2022.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-01-03_gms-week-52-happy-new-cheer_img1_2120221_4a726e4249ca.jpg'
   unit: null
@@ -82,47 +77,41 @@ numeric_observations:
   - 4.0
   - 26.0
   - 249.0
-- &id006
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Decembe r 30th, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id007
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Volume 245, Issue 1063
   unit: null
   values:
   - 245.0
   - 1063.0
-- &id008
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Week 52
   unit: null
   values:
   - 52.0
-- &id009
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: USD 350/LDT or so), but sentiments and conditions on the ground across
     all locations remain
   unit: usd
   values:
   - 350.0
-- &id010
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: of Credit (L/Cs) for even the smallest purchases of USD 1 million and
     below - this week, the
   unit: usd
   values:
   - 1.0
-- &id011
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 200/LDT since the peaks of over USD 700/LDT seen earlier this year.
     On the far end, Turkey
@@ -130,8 +119,7 @@ numeric_observations:
   values:
   - 200.0
   - 700.0
-- &id012
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: For week 52 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -139,8 +127,7 @@ numeric_observations:
   values:
   - 52.0
   - 2022.0
-- &id013
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Weak 520 / LDT 530 / LDT 540 / LDT
   unit: null
@@ -149,8 +136,7 @@ numeric_observations:
   - 520.0
   - 530.0
   - 540.0
-- &id014
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 510 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -159,8 +145,7 @@ numeric_observations:
   - 510.0
   - 520.0
   - 530.0
-- &id015
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
   unit: null
@@ -169,8 +154,7 @@ numeric_observations:
   - 500.0
   - 510.0
   - 520.0
-- &id016
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
   unit: null
@@ -179,64 +163,56 @@ numeric_observations:
   - 240.0
   - 250.0
   - 260.0
-- &id017
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: All at GMS would like to wish readers a Happy New Year and a Prosperous
     2023 ahead!
   unit: null
   values:
   - 2023.0
-- &id018
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: last few months of 2022, and the outlook ind eed remains somewhat bleak
     unless a swift
   unit: null
   values:
   - 2022.0
-- &id020
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: The B angla deshi Taka briefly skipped past 105 against the U.S. Dollar,
     only to end the
   unit: null
   values:
   - 105.0
-- &id021
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: No life. week at BDT 102.30. Even local steel plate p rices, which
     remained flat for most of the
   unit: null
   values:
   - 102.3
-- &id022
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: week, did find the opportunity to fall back about USD 8/Ton before
     the end of the week.
   unit: usd
   values:
   - 8.0
-- &id023
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: by about USD 10/Ton, only to have climbed USD 15/Ton by the weekend.
     Even the
@@ -244,24 +220,21 @@ numeric_observations:
   values:
   - 10.0
   - 15.0
-- &id025
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: currency continues to trade in the higIh NRs.D 82sI aAgai nst the U.S.
     Dollar, leaving End Buyers
   unit: null
   values:
   - 82.0
-- &id026
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: low 500s/LDT (down about USD 200/LDT from the highs earlier in the
     year).
@@ -269,76 +242,66 @@ numeric_observations:
   values:
   - 500.0
   - 200.0
-- &id028
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Dollar as it passes PKR 225.50
   unit: null
   values:
   - 225.5
-- &id029
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: As such, while we had hoped PakistaInN woDuldI lAook on with renewed
     hope towards 2023,
   unit: null
   values:
   - 2023.0
-- &id030
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: perhaps the worst woes of 2022 are not entirely behind them.
   unit: null
   values:
   - 2022.0
-- &id031
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 023 HOPES?
   unit: null
   values:
   - 23.0
-- &id033
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: sales and optimism to back, but have sadly taken 3 steps back, the
     Turkish market seems
   unit: null
   values:
   - 3.0
-- &id034
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: its lowest against the U.S. Dollar (around TRY 18.6).
   unit: null
   values:
   - 18.6
-- &id035
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line:  Roller coasters were invented to distract Americans from sin. In
     the 1880s, hosiery businessman LaMarcus
   unit: null
   values:
   - 1880.0
-- &id037
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line:  Ice pops were invented by an 11-year-old by accident. In 1905, an
     11-year-old boy named Frank Epperson left
@@ -347,16 +310,14 @@ numeric_observations:
   - 11.0
   - 1905.0
   - 11.0
-- &id038
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: for u p to 40 minutes. Dolphins need to come up for air after about
     ten minutes.
   unit: null
   values:
   - 40.0
-- &id039
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 192 0, but Jeanette Rankin became the first woman in the U.S. federal
     office in 1916.
@@ -364,8 +325,7 @@ numeric_observations:
   values:
   - 192.0
   - 1916.0
-- &id040
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 01 - New Year's Day January 04 - January 11
   unit: null
@@ -373,8 +333,7 @@ numeric_observations:
   - 1.0
   - 4.0
   - 11.0
-- &id041
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 19 - January 27
   unit: null
@@ -382,8 +341,7 @@ numeric_observations:
   - 26.0
   - 19.0
   - 27.0
-- &id042
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 01 - Bank Holiday January 07 - January 10
   unit: null
@@ -391,16 +349,14 @@ numeric_observations:
   - 1.0
   - 7.0
   - 10.0
-- &id043
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 22 - January 25
   unit: null
   values:
   - 22.0
   - 25.0
-- &id044
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 01 - 02 - New Year's Day January 01 - Bank Holiday January
     01 - New Year's Day
@@ -410,32 +366,28 @@ numeric_observations:
   - 2.0
   - 1.0
   - 1.0
-- &id045
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: January 21 - 27 - Spring Festival
   unit: null
   values:
   - 21.0
   - 27.0
-- &id046
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id048
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 1 Berge Apo 20,668 Bulk Carrier Beached December 24
   unit: null
@@ -443,8 +395,7 @@ numeric_observations:
   - 1.0
   - 20668.0
   - 24.0
-- &id049
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 2 Ethan 7,700 Bulk Carrier Beached December 23
   unit: null
@@ -452,23 +403,20 @@ numeric_observations:
   - 2.0
   - 7700.0
   - 23.0
-- &id050
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 28,368
   unit: null
   values:
   - 28368.0
-- &id051
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id052
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 1 An Ping 8 9,804 Bulk Carrier Beached December 24
   unit: null
@@ -477,8 +425,7 @@ numeric_observations:
   - 8.0
   - 9804.0
   - 24.0
-- &id053
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 2 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -486,8 +433,7 @@ numeric_observations:
   - 2.0
   - 15672.0
   - 22.0
-- &id054
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 3 Bell 7,995 Bulk Carrier Beached December 24
   unit: null
@@ -495,8 +441,7 @@ numeric_observations:
   - 3.0
   - 7995.0
   - 24.0
-- &id055
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 Funning 2 5,002 Bulk Carrier Beached December 24
   unit: null
@@ -505,8 +450,7 @@ numeric_observations:
   - 2.0
   - 5002.0
   - 24.0
-- &id056
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 5 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -514,8 +458,7 @@ numeric_observations:
   - 5.0
   - 16885.0
   - 28.0
-- &id057
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 6 Hai Feng 698 7,240 Reefer Arrived December 21
   unit: null
@@ -524,8 +467,7 @@ numeric_observations:
   - 698.0
   - 7240.0
   - 21.0
-- &id058
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 7 Joint Luck 2,063 Tanker Arrived December 24
   unit: null
@@ -533,8 +475,7 @@ numeric_observations:
   - 7.0
   - 2063.0
   - 24.0
-- &id059
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 8 Mei Zhou I 9,453 Bulk Carrier Beached December 24
   unit: null
@@ -542,8 +483,7 @@ numeric_observations:
   - 8.0
   - 9453.0
   - 24.0
-- &id060
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 9 Shun Rong 880 Tanker Arrived December 23
   unit: null
@@ -551,8 +491,7 @@ numeric_observations:
   - 9.0
   - 880.0
   - 23.0
-- &id061
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 10 Sylt 2,002 Tanker Arrived December 24
   unit: null
@@ -560,8 +499,7 @@ numeric_observations:
   - 10.0
   - 2002.0
   - 24.0
-- &id062
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 11 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -570,23 +508,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id063
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 77,970
   unit: null
   values:
   - 77970.0
-- &id064
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id065
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 1 Jamila 7,700 Bulk Carrier Arrived December 28
   unit: null
@@ -594,8 +529,7 @@ numeric_observations:
   - 1.0
   - 7700.0
   - 28.0
-- &id066
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 2 Lila Kyoto 21,221 Bulk Carrier Arrived December 27
   unit: null
@@ -603,15 +537,13 @@ numeric_observations:
   - 2.0
   - 21221.0
   - 27.0
-- &id067
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 28,921
   unit: null
   values:
   - 28921.0
-- &id068
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -620,8 +552,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id069
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -630,8 +561,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id070
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -640,8 +570,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id071
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -650,8 +579,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id072
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -660,8 +588,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id073
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 9 .6 8
   unit: null
@@ -670,8 +597,7 @@ numeric_observations:
   - 9.0
   - 6.0
   - 8.0
-- &id074
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 6 .5 2
   unit: null
@@ -680,8 +606,7 @@ numeric_observations:
   - 6.0
   - 5.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 1 .0 3
   unit: null
@@ -689,8 +614,7 @@ numeric_observations:
   - 4.0
   - 1.0
   - 3.0
-- &id076
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 5 .6 5
   unit: null
@@ -699,8 +623,7 @@ numeric_observations:
   - 5.0
   - 6.0
   - 5.0
-- &id077
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 5 5 .2 9
   unit: null
@@ -709,8 +632,7 @@ numeric_observations:
   - 5.0
   - 2.0
   - 9.0
-- &id078
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 5 5 .4 9
   unit: null
@@ -719,16 +641,14 @@ numeric_observations:
   - 5.0
   - 4.0
   - 9.0
-- &id079
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 4 ,7 0 0 .0
   unit: null
   values:
   - 4.0
   - 7.0
-- &id080
-  section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+- section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
   section_type: linked_pdf
   source_line: 5 ,0 0 0 .0
   unit: null
@@ -881,86 +801,632 @@ section_count: 3
 signals:
   numeric_observation_count: 96
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As we close out another year, sub-continent markets remain suspended
+      at their weakest point for some time now. Pricing remains firm (given the historical
+      price average has been around USD 350/LDT or so), but sentiments and conditions
+      on the ground across all l
+    unit: usd
+    values:
+    - 350.0
+  - section: Main
+    section_type: null
+    source_line: While Bangladesh has been the main proponent of such concern - given
+      the ongoing financial crisis that has resulted in the Bangladeshi government
+      restricting the sanctioning of new Letters of Credit (L/Cs) for even the smallest
+      purchases of USD 1 million and b
+    unit: usd
+    values:
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: The picture in India remains slightly rosier, even though levels
+      have cooled off some USD 200/LDT since the peaks of over USD 700/LDT seen earlier
+      this year. On the far end, Turkey spent another slow week devoid of tonnage,
+      but reported marginal improvements i
+    unit: usd
+    values:
+    - 200.0
+    - 700.0
+  - section: Main
+    section_type: null
+    source_line: For week 52 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 52.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-01-03_gms-week-52-happy-new-cheer_img1_2120221_4a726e4249ca.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -1.0
+    - -3.0
+    - 52.0
+    - 2120221.0
+    - 4.0
+    - 26.0
+    - 249.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 30th, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Volume 245, Issue 1063
+    unit: null
+    values:
+    - 245.0
+    - 1063.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Week 52
+    unit: null
+    values:
+    - 52.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: USD 350/LDT or so), but sentiments and conditions on the ground across
+      all locations remain
+    unit: usd
+    values:
+    - 350.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: of Credit (L/Cs) for even the smallest purchases of USD 1 million
+      and below - this week, the
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 200/LDT since the peaks of over USD 700/LDT seen earlier this year.
+      On the far end, Turkey
+    unit: usd
+    values:
+    - 200.0
+    - 700.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: For week 52 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 52.0
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Weak 520 / LDT 530 / LDT 540 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 530.0
+    - 540.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 510 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh Weak 500 / LDT* 510 / LDT* 520 / LDT*
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 510.0
+    - 520.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 240.0
+    - 250.0
+    - 260.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: All at GMS would like to wish readers a Happy New Year and a Prosperous
+      2023 ahead!
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: last few months of 2022, and the outlook ind eed remains somewhat
+      bleak unless a swift
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: The B angla deshi Taka briefly skipped past 105 against the U.S.
+      Dollar, only to end the
+    unit: null
+    values:
+    - 105.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: No life. week at BDT 102.30. Even local steel plate p rices, which
+      remained flat for most of the
+    unit: null
+    values:
+    - 102.3
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: week, did find the opportunity to fall back about USD 8/Ton before
+      the end of the week.
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: by about USD 10/Ton, only to have climbed USD 15/Ton by the weekend.
+      Even the
+    unit: usd
+    values:
+    - 10.0
+    - 15.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: currency continues to trade in the higIh NRs.D 82sI aAgai nst the
+      U.S. Dollar, leaving End Buyers
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: low 500s/LDT (down about USD 200/LDT from the highs earlier in the
+      year).
+    unit: usd
+    values:
+    - 500.0
+    - 200.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Dollar as it passes PKR 225.50
+    unit: null
+    values:
+    - 225.5
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: As such, while we had hoped PakistaInN woDuldI lAook on with renewed
+      hope towards 2023,
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: perhaps the worst woes of 2022 are not entirely behind them.
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 023 HOPES?
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: sales and optimism to back, but have sadly taken 3 steps back, the
+      Turkish market seems
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: its lowest against the U.S. Dollar (around TRY 18.6).
+    unit: null
+    values:
+    - 18.6
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line:  Roller coasters were invented to distract Americans from sin. In
+      the 1880s, hosiery businessman LaMarcus
+    unit: null
+    values:
+    - 1880.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line:  Ice pops were invented by an 11-year-old by accident. In 1905,
+      an 11-year-old boy named Frank Epperson left
+    unit: null
+    values:
+    - 11.0
+    - 1905.0
+    - 11.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: for u p to 40 minutes. Dolphins need to come up for air after about
+      ten minutes.
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 192 0, but Jeanette Rankin became the first woman in the U.S. federal
+      office in 1916.
+    unit: null
+    values:
+    - 192.0
+    - 1916.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - New Year's Day January 04 - January 11
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 11.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 19 - January 27
+    unit: null
+    values:
+    - 26.0
+    - 19.0
+    - 27.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - Bank Holiday January 07 - January 10
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 22 - January 25
+    unit: null
+    values:
+    - 22.0
+    - 25.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 01 - 02 - New Year's Day January 01 - Bank Holiday January
+      01 - New Year's Day
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 1.0
+    - 1.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: January 21 - 27 - Spring Festival
+    unit: null
+    values:
+    - 21.0
+    - 27.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 1 Berge Apo 20,668 Bulk Carrier Beached December 24
+    unit: null
+    values:
+    - 1.0
+    - 20668.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ethan 7,700 Bulk Carrier Beached December 23
+    unit: null
+    values:
+    - 2.0
+    - 7700.0
+    - 23.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 28,368
+    unit: null
+    values:
+    - 28368.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 1 An Ping 8 9,804 Bulk Carrier Beached December 24
+    unit: null
+    values:
+    - 1.0
+    - 8.0
+    - 9804.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 2.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bell 7,995 Bulk Carrier Beached December 24
+    unit: null
+    values:
+    - 3.0
+    - 7995.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 Funning 2 5,002 Bulk Carrier Beached December 24
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 5002.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 5 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 5.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 6 Hai Feng 698 7,240 Reefer Arrived December 21
+    unit: null
+    values:
+    - 6.0
+    - 698.0
+    - 7240.0
+    - 21.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 7 Joint Luck 2,063 Tanker Arrived December 24
+    unit: null
+    values:
+    - 7.0
+    - 2063.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 8 Mei Zhou I 9,453 Bulk Carrier Beached December 24
+    unit: null
+    values:
+    - 8.0
+    - 9453.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 9 Shun Rong 880 Tanker Arrived December 23
+    unit: null
+    values:
+    - 9.0
+    - 880.0
+    - 23.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 10 Sylt 2,002 Tanker Arrived December 24
+    unit: null
+    values:
+    - 10.0
+    - 2002.0
+    - 24.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 11 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 11.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 77,970
+    unit: null
+    values:
+    - 77970.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 1 Jamila 7,700 Bulk Carrier Arrived December 28
+    unit: null
+    values:
+    - 1.0
+    - 7700.0
+    - 28.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 2 Lila Kyoto 21,221 Bulk Carrier Arrived December 27
+    unit: null
+    values:
+    - 2.0
+    - 21221.0
+    - 27.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 28,921
+    unit: null
+    values:
+    - 28921.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 9 .6 8
+    unit: null
+    values:
+    - 4.0
+    - 9.0
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 6 .5 2
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 1 .0 3
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 3.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 5 .6 5
+    unit: null
+    values:
+    - 4.0
+    - 5.0
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 5 5 .2 9
+    unit: null
+    values:
+    - 5.0
+    - 5.0
+    - 2.0
+    - 9.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 5 5 .4 9
+    unit: null
+    values:
+    - 5.0
+    - 5.0
+    - 4.0
+    - 9.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 4 ,7 0 0 .0
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2023-01-03_gms-week-52-happy-new-cheer_ship-recycling-market-insight-week-5_d78d1c4e4ca9.pdf'
+    section_type: linked_pdf
+    source_line: 5 ,0 0 0 .0
+    unit: null
+    values:
+    - 5.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-01-03_gms-week-52-happy-new-cheer.html
 source_stem: 2023-01-03_gms-week-52-happy-new-cheer

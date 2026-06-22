@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 90
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In the meantime, S&P markets saw at least one buyer in particular,
     who has been making some major plays on VLCC assets as secondhand values show
@@ -47,8 +46,7 @@ numeric_observations:
   - 60.0
   - 0.4
   - 59.44
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'As such, ship recycling markets may be continue to deprived of tonnage
     as hopes for a brighter start to 2026 - indicated by the tapering indices back
@@ -61,8 +59,7 @@ numeric_observations:
   - 400.0
   - 370.0
   - 380.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Across destinations, India briefly surged by about USD 30/LDT before
     losing the full move the very next week as fundamentals softened. Pakistan's demand
@@ -71,8 +68,7 @@ numeric_observations:
   unit: usd
   values:
   - 30.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 03 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -80,8 +76,7 @@ numeric_observations:
   values:
   - 3.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-01-19_gms-week-03-reverberations_img1_6345_50a03f142b65.jpg'
   unit: null
@@ -95,23 +90,20 @@ numeric_observations:
   - 3.0
   - 42.0
   - 5.0
-- &id006
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: January 16th, 2026 "True humility is not thinking less of yourself;
   unit: null
   values:
   - 16.0
   - 2026.0
-- &id007
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Week 3 it is thinking of yourself less."
   unit: null
   values:
   - 3.0
-- &id008
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Volume 2 80, Issue 1219
   unit: null
@@ -119,16 +111,14 @@ numeric_observations:
   - 2.0
   - 80.0
   - 1219.0
-- &id009
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: E xchange Dry Index echoed just that this week as it halted a nine-session
     slide to mark a 2.3% U-
   unit: pct
   values:
   - 2.3
-- &id010
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 'turn, climbing to 1,567 points. This was driven by gains across segments:
     Capes (up 2.3%), Panamax'
@@ -136,24 +126,21 @@ numeric_observations:
   values:
   - 1567.0
   - 2.3
-- &id011
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: (up 4.3%), and the smaller segments adding four points by week's end.
     Notably, the overall
   unit: pct
   values:
   - 4.3
-- &id012
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: • VL market firing. benchmark index still finished the week down 7.2%.
     Oil too continued to trip on itself and stayed
   unit: pct
   values:
   - 7.2
-- &id013
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: below the coveted USD 60/barrel mark despite a 0.4% increase, closing
     the week out at USD
@@ -161,15 +148,13 @@ numeric_observations:
   values:
   - 60.0
   - 0.4
-- &id014
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 59.44/barrel.
   unit: null
   values:
   - 59.44
-- &id015
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: to 2026 - indicated by the tapering indices back in November - December
     2025 - begin to fade
@@ -177,8 +162,7 @@ numeric_observations:
   values:
   - 2026.0
   - 2025.0
-- &id016
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: • Demand rising. regularly below USD 400/LDT and several sales reportedly
     even being concluded in the USD 370s-
@@ -186,23 +170,20 @@ numeric_observations:
   values:
   - 400.0
   - 370.0
-- &id017
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: USD 380s/LDT range.
   unit: usd
   values:
   - 380.0
-- &id018
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Across destinations, India briefly surged by about USD 30/LDT before
     losing the full move the very
   unit: usd
   values:
   - 30.0
-- &id019
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 3 of 2026 are on Page 6.
   unit: null
@@ -210,24 +191,21 @@ numeric_observations:
   - 3.0
   - 2026.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: With prices to match and as determined as tier-1 local buyers tend
     to be, indications surfacing this
   unit: null
   values:
   - 1.0
-- &id022
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: arrived at a peculiar time when inflation has risen from 8.29% in November
     to 8.49% in December
@@ -235,16 +213,14 @@ numeric_observations:
   values:
   - 8.29
   - 8.49
-- &id023
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: followed on by a local steel plate price that tanked USD 12/Ton this
     week and end at about USD
   unit: usd
   values:
   - 12.0
-- &id024
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 487/ton, which was accompanied by a declining Bangladeshi Taka that
     lost also 12 basis points to
@@ -252,56 +228,49 @@ numeric_observations:
   values:
   - 487.0
   - 12.0
-- &id025
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: the U.S. Dollar and conclude the week at BDT 122.40 - one of the higher
     levels we have seen of late.
   unit: null
   values:
   - 122.4
-- &id026
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: the entire sub-continent, as a few recent fixtures well below USD 400/LDT
     come to light.
   unit: usd
   values:
   - 400.0
-- &id027
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: With the critical election looming on the horizon on February 12th,
     Bangladeshi buyers need to
   unit: null
   values:
   - 12.0
-- &id028
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: It has been a curious 2026 in India thus far, with steel plate prices
     and local offerings surging by nearly
   unit: null
   values:
   - 2026.0
-- &id030
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: USD 30/LDT at the start of the year, only to find themselves tumbling
     down the very next week by
   unit: usd
   values:
   - 30.0
-- &id031
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: late, given that local steel plate prices reclaimed USD 11/ton this
     week (having lost USD 24/ton just the
@@ -309,8 +278,7 @@ numeric_observations:
   values:
   - 11.0
   - 24.0
-- &id032
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: week prior) and clock out at USD 410/Ton. The Indian Rupee meanwhile
     lost over 0.55% and welcomed
@@ -318,8 +286,7 @@ numeric_observations:
   values:
   - 410.0
   - 0.55
-- &id033
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: the weekend at Rs. 90.72 - approaching the psychological boundary of
     Rs. 91 once again. Should that
@@ -327,48 +294,42 @@ numeric_observations:
   values:
   - 90.72
   - 91.0
-- &id034
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: The only rainbow on the otherwise grey horizon was the arrival of 3
     new vessels at Alang's waterfront
   unit: null
   values:
   - 3.0
-- &id035
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: this week, including an over 16K LDT tanker. Hopefully, all were concluded
     at levels safe enough to
   unit: null
   values:
   - 16.0
-- &id036
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Domestic inflation has meanwhile managed to climb out of stagflation
     territory from 0.71% back in
   unit: pct
   values:
   - 0.71
-- &id037
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: November and ring the New Year in at 1.33%, clearly inching into healthier
     zones once again. And if
   unit: pct
   values:
   - 1.33
-- &id038
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Stable offerings. finding themselves shifting from 3rd place on the
     market rankings to the 2nd without really having
@@ -376,63 +337,55 @@ numeric_observations:
   values:
   - 3.0
   - 2.0
-- &id040
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: an unintendedly slap happy phase this January 2026.
   unit: null
   values:
   - 2026.0
-- &id041
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: at USD 600/Ton, indicating a lack of local trading on account of virtually
     no local deliveries or
   unit: usd
   values:
   - 600.0
-- &id042
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: generated recycled ship steel. The PKR also added to current stresses,
     as it too lost nearly 0.5%
   unit: pct
   values:
   - 0.5
-- &id043
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar (like their Indian brethren) entering the weekend
     at PKR 280.
   unit: null
   values:
   - 280.0
-- &id044
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Even though import steel plate prices climbed and the Turkish Lira
     dropped another 31 basis points
   unit: null
   values:
   - 31.0
-- &id046
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: against the U.S. Dollar to close the week at TRY 43.27, local offerings
     are holding steady - a smart
   unit: null
   values:
   - 43.27
-- &id047
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: For Week 3 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -440,8 +393,7 @@ numeric_observations:
   values:
   - 3.0
   - 2026.0
-- &id048
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 400 / LDT 420 / LDT 430 / LDT
   unit: null
@@ -450,8 +402,7 @@ numeric_observations:
   - 400.0
   - 420.0
   - 430.0
-- &id049
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
   unit: null
@@ -460,8 +411,7 @@ numeric_observations:
   - 390.0
   - 410.0
   - 420.0
-- &id050
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 3 India Declining 380 / LDT 400 / LDT 410 / LDT
   unit: null
@@ -470,8 +420,7 @@ numeric_observations:
   - 380.0
   - 400.0
   - 410.0
-- &id051
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -480,31 +429,27 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id052
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line:  A single weed vape can hold a whopping 5,000 milligrams of THC.
   unit: null
   values:
   - 5000.0
-- &id054
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line:  In 1999, a vegetative patient suddenly started talking after being
     put on Ambien.
   unit: null
   values:
   - 1999.0
-- &id055
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: January 26 - Republic Day January 17 - January 24
   unit: null
@@ -512,32 +457,28 @@ numeric_observations:
   - 26.0
   - 17.0
   - 24.0
-- &id056
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: No holidays in February January 30 - February 06
   unit: null
   values:
   - 30.0
   - 6.0
-- &id057
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: February 16 - February 23
   unit: null
   values:
   - 16.0
   - 23.0
-- &id058
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: No Holidays in January January 21 - January 24
   unit: null
   values:
   - 21.0
   - 24.0
-- &id059
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: February 21 - Martyr's Day February 03 - February 06
   unit: null
@@ -545,46 +486,40 @@ numeric_observations:
   - 21.0
   - 3.0
   - 6.0
-- &id060
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: February 19 - February 22
   unit: null
   values:
   - 19.0
   - 22.0
-- &id061
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: February 05 - Kashmir Solidarity Day No holidays in February
   unit: null
   values:
   - 5.0
-- &id062
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: February 18 - Bank Holiday
   unit: null
   values:
   - 18.0
-- &id063
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 16, 2026
   unit: null
   values:
   - 16.0
   - 2026.0
-- &id065
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1 Bodhi 16,294 Oil Tanker Delivered January 15
   unit: null
@@ -592,8 +527,7 @@ numeric_observations:
   - 1.0
   - 16294.0
   - 15.0
-- &id066
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 2 Emano 11 2,556 General Cargo Delivered January 10
   unit: null
@@ -602,8 +536,7 @@ numeric_observations:
   - 11.0
   - 2556.0
   - 10.0
-- &id067
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 3 Sheng Lu 6,311 Bulker Arrived January 12
   unit: null
@@ -611,23 +544,20 @@ numeric_observations:
   - 3.0
   - 6311.0
   - 12.0
-- &id068
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Morality 25,161
   unit: null
   values:
   - 25161.0
-- &id069
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 16, 2026
   unit: null
   values:
   - 16.0
   - 2026.0
-- &id070
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1 Kohzan Maru 9,962 General Cargo Delivered January 07
   unit: null
@@ -635,24 +565,21 @@ numeric_observations:
   - 1.0
   - 9962.0
   - 7.0
-- &id071
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of January 16, 2026
   unit: null
   values:
   - 16.0
   - 2026.0
-- &id072
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id073
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/10/2026 399.25 36,000.00 586.56 165,000.00 499.59 60,700.00 303.75
   unit: null
@@ -667,8 +594,7 @@ numeric_observations:
   - 499.59
   - 60700.0
   - 303.75
-- &id074
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/11/2026 399.25 36,000.00 586.56 165,000.00 497.94 60,500.00 303.75
   unit: null
@@ -683,8 +609,7 @@ numeric_observations:
   - 497.94
   - 60500.0
   - 303.75
-- &id075
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/12/2026 399.33 36,000.00 586.56 165,000.00 497.94 60,500.00 303.75
   unit: null
@@ -699,8 +624,7 @@ numeric_observations:
   - 497.94
   - 60500.0
   - 303.75
-- &id076
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/13/2026 398.72 36,000.00 586.56 165,000.00 494.65 60,100.00 303.75
   unit: null
@@ -715,8 +639,7 @@ numeric_observations:
   - 494.65
   - 60100.0
   - 303.75
-- &id077
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/14/2026 398.72 36,000.00 586.56 165,000.00 494.65 60,100.00 303.75
   unit: null
@@ -731,8 +654,7 @@ numeric_observations:
   - 494.65
   - 60100.0
   - 303.75
-- &id078
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/15/2026 406.42 36,700.00 586.56 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -747,8 +669,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id079
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 1/16/2026 410.32 37,200.00 586.56 165,000.00 487.24 59,200.00 304.66
   unit: null
@@ -763,8 +684,7 @@ numeric_observations:
   - 487.24
   - 59200.0
   - 304.66
-- &id080
-  section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -873,86 +793,669 @@ section_count: 3
 signals:
   numeric_observation_count: 90
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: In the meantime, S&P markets saw at least one buyer in particular,
+      who has been making some major plays on VLCC assets as secondhand values show
+      few signs of deterioration - and the Baltic Exchange Dry Index echoed just that
+      this week as it halted a nine-sessi
+    unit: pct
+    values:
+    - 2.3
+    - 1567.0
+    - 2.3
+    - 4.3
+    - 7.2
+    - 60.0
+    - 0.4
+    - 59.44
+  - section: Main
+    section_type: null
+    source_line: 'As such, ship recycling markets may be continue to deprived of tonnage
+      as hopes for a brighter start to 2026 - indicated by the tapering indices back
+      in November - December 2025 - begin to fade once again. Prices across the Indian
+      sub-continent have meanwhile '
+    unit: usd
+    values:
+    - 2026.0
+    - 2025.0
+    - 400.0
+    - 370.0
+    - 380.0
+  - section: Main
+    section_type: null
+    source_line: Across destinations, India briefly surged by about USD 30/LDT before
+      losing the full move the very next week as fundamentals softened. Pakistan's
+      demand has begun to show, with end buyers now increasingly hungry to fill plots
+      as empty anchorages become more of
+    unit: usd
+    values:
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: For Week 03 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-01-19_gms-week-03-reverberations_img1_6345_50a03f142b65.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -19.0
+    - 3.0
+    - 6345.0
+    - 50.0
+    - 3.0
+    - 42.0
+    - 5.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: January 16th, 2026 "True humility is not thinking less of yourself;
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Week 3 it is thinking of yourself less."
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 80, Issue 1219
+    unit: null
+    values:
+    - 2.0
+    - 80.0
+    - 1219.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: E xchange Dry Index echoed just that this week as it halted a nine-session
+      slide to mark a 2.3% U-
+    unit: pct
+    values:
+    - 2.3
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 'turn, climbing to 1,567 points. This was driven by gains across
+      segments: Capes (up 2.3%), Panamax'
+    unit: pct
+    values:
+    - 1567.0
+    - 2.3
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: (up 4.3%), and the smaller segments adding four points by week's
+      end. Notably, the overall
+    unit: pct
+    values:
+    - 4.3
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: • VL market firing. benchmark index still finished the week down
+      7.2%. Oil too continued to trip on itself and stayed
+    unit: pct
+    values:
+    - 7.2
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: below the coveted USD 60/barrel mark despite a 0.4% increase, closing
+      the week out at USD
+    unit: pct
+    values:
+    - 60.0
+    - 0.4
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 59.44/barrel.
+    unit: null
+    values:
+    - 59.44
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: to 2026 - indicated by the tapering indices back in November - December
+      2025 - begin to fade
+    unit: null
+    values:
+    - 2026.0
+    - 2025.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: • Demand rising. regularly below USD 400/LDT and several sales reportedly
+      even being concluded in the USD 370s-
+    unit: usd
+    values:
+    - 400.0
+    - 370.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: USD 380s/LDT range.
+    unit: usd
+    values:
+    - 380.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Across destinations, India briefly surged by about USD 30/LDT before
+      losing the full move the very
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 3 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: With prices to match and as determined as tier-1 local buyers tend
+      to be, indications surfacing this
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: arrived at a peculiar time when inflation has risen from 8.29% in
+      November to 8.49% in December
+    unit: pct
+    values:
+    - 8.29
+    - 8.49
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: followed on by a local steel plate price that tanked USD 12/Ton this
+      week and end at about USD
+    unit: usd
+    values:
+    - 12.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 487/ton, which was accompanied by a declining Bangladeshi Taka that
+      lost also 12 basis points to
+    unit: null
+    values:
+    - 487.0
+    - 12.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: the U.S. Dollar and conclude the week at BDT 122.40 - one of the
+      higher levels we have seen of late.
+    unit: null
+    values:
+    - 122.4
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: the entire sub-continent, as a few recent fixtures well below USD
+      400/LDT come to light.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: With the critical election looming on the horizon on February 12th,
+      Bangladeshi buyers need to
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: It has been a curious 2026 in India thus far, with steel plate prices
+      and local offerings surging by nearly
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: USD 30/LDT at the start of the year, only to find themselves tumbling
+      down the very next week by
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: late, given that local steel plate prices reclaimed USD 11/ton this
+      week (having lost USD 24/ton just the
+    unit: usd
+    values:
+    - 11.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: week prior) and clock out at USD 410/Ton. The Indian Rupee meanwhile
+      lost over 0.55% and welcomed
+    unit: pct
+    values:
+    - 410.0
+    - 0.55
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: the weekend at Rs. 90.72 - approaching the psychological boundary
+      of Rs. 91 once again. Should that
+    unit: null
+    values:
+    - 90.72
+    - 91.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: The only rainbow on the otherwise grey horizon was the arrival of
+      3 new vessels at Alang's waterfront
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: this week, including an over 16K LDT tanker. Hopefully, all were
+      concluded at levels safe enough to
+    unit: null
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Domestic inflation has meanwhile managed to climb out of stagflation
+      territory from 0.71% back in
+    unit: pct
+    values:
+    - 0.71
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: November and ring the New Year in at 1.33%, clearly inching into
+      healthier zones once again. And if
+    unit: pct
+    values:
+    - 1.33
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Stable offerings. finding themselves shifting from 3rd place on the
+      market rankings to the 2nd without really having
+    unit: null
+    values:
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: an unintendedly slap happy phase this January 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: at USD 600/Ton, indicating a lack of local trading on account of
+      virtually no local deliveries or
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: generated recycled ship steel. The PKR also added to current stresses,
+      as it too lost nearly 0.5%
+    unit: pct
+    values:
+    - 0.5
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar (like their Indian brethren) entering the
+      weekend at PKR 280.
+    unit: null
+    values:
+    - 280.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Even though import steel plate prices climbed and the Turkish Lira
+      dropped another 31 basis points
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: against the U.S. Dollar to close the week at TRY 43.27, local offerings
+      are holding steady - a smart
+    unit: null
+    values:
+    - 43.27
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: For Week 3 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 400 / LDT 420 / LDT 430 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 400.0
+    - 420.0
+    - 430.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 390.0
+    - 410.0
+    - 420.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Declining 380 / LDT 400 / LDT 410 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 380.0
+    - 400.0
+    - 410.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line:  A single weed vape can hold a whopping 5,000 milligrams of THC.
+    unit: null
+    values:
+    - 5000.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line:  In 1999, a vegetative patient suddenly started talking after being
+      put on Ambien.
+    unit: null
+    values:
+    - 1999.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: January 26 - Republic Day January 17 - January 24
+    unit: null
+    values:
+    - 26.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in February January 30 - February 06
+    unit: null
+    values:
+    - 30.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: February 16 - February 23
+    unit: null
+    values:
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: No Holidays in January January 21 - January 24
+    unit: null
+    values:
+    - 21.0
+    - 24.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Martyr's Day February 03 - February 06
+    unit: null
+    values:
+    - 21.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: February 19 - February 22
+    unit: null
+    values:
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: February 05 - Kashmir Solidarity Day No holidays in February
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: February 18 - Bank Holiday
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 16, 2026
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bodhi 16,294 Oil Tanker Delivered January 15
+    unit: null
+    values:
+    - 1.0
+    - 16294.0
+    - 15.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 2 Emano 11 2,556 General Cargo Delivered January 10
+    unit: null
+    values:
+    - 2.0
+    - 11.0
+    - 2556.0
+    - 10.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 3 Sheng Lu 6,311 Bulker Arrived January 12
+    unit: null
+    values:
+    - 3.0
+    - 6311.0
+    - 12.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Morality 25,161
+    unit: null
+    values:
+    - 25161.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 16, 2026
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1 Kohzan Maru 9,962 General Cargo Delivered January 07
+    unit: null
+    values:
+    - 1.0
+    - 9962.0
+    - 7.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of January 16, 2026
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/10/2026 399.25 36,000.00 586.56 165,000.00 499.59 60,700.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 10.0
+    - 2026.0
+    - 399.25
+    - 36000.0
+    - 586.56
+    - 165000.0
+    - 499.59
+    - 60700.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/11/2026 399.25 36,000.00 586.56 165,000.00 497.94 60,500.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 11.0
+    - 2026.0
+    - 399.25
+    - 36000.0
+    - 586.56
+    - 165000.0
+    - 497.94
+    - 60500.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/12/2026 399.33 36,000.00 586.56 165,000.00 497.94 60,500.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 12.0
+    - 2026.0
+    - 399.33
+    - 36000.0
+    - 586.56
+    - 165000.0
+    - 497.94
+    - 60500.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/13/2026 398.72 36,000.00 586.56 165,000.00 494.65 60,100.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 13.0
+    - 2026.0
+    - 398.72
+    - 36000.0
+    - 586.56
+    - 165000.0
+    - 494.65
+    - 60100.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/14/2026 398.72 36,000.00 586.56 165,000.00 494.65 60,100.00 303.75
+    unit: null
+    values:
+    - 1.0
+    - 14.0
+    - 2026.0
+    - 398.72
+    - 36000.0
+    - 586.56
+    - 165000.0
+    - 494.65
+    - 60100.0
+    - 303.75
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/15/2026 406.42 36,700.00 586.56 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 15.0
+    - 2026.0
+    - 406.42
+    - 36700.0
+    - 586.56
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 1/16/2026 410.32 37,200.00 586.56 165,000.00 487.24 59,200.00 304.66
+    unit: null
+    values:
+    - 1.0
+    - 16.0
+    - 2026.0
+    - 410.32
+    - 37200.0
+    - 586.56
+    - 165000.0
+    - 487.24
+    - 59200.0
+    - 304.66
+  - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-01-19_gms-week-03-reverberations.html
 source_stem: 2026-01-19_gms-week-03-reverberations

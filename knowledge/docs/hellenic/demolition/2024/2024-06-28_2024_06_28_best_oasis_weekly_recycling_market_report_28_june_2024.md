@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 85
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 28/06/2024
   unit: null
@@ -37,8 +36,7 @@ numeric_observations:
   - 28.0
   - 6.0
   - 2024.0
-- &id002
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 22 June - 28 June 2024
   unit: null
@@ -46,8 +44,7 @@ numeric_observations:
   - 22.0
   - 28.0
   - 2024.0
-- &id003
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -55,8 +52,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -64,8 +60,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: causing local prices to drop by 500 to 1,000 Taka ($5.85 to $11.70
     USD) with potential for further declines in the coming week, creating uncertainty
@@ -76,8 +71,7 @@ numeric_observations:
   - 1000.0
   - 5.85
   - 11.7
-- &id006
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Global steel production increased by 5.7% from April to May, reaching
     165.1 million metric tons, as reported by the World Steel Association. This growth
@@ -85,16 +79,14 @@ numeric_observations:
   values:
   - 5.7
   - 165.1
-- &id007
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: also pushed the industry 1.5% higher compared to the same period last
     year.
   unit: pct
   values:
   - 1.5
-- &id008
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 83.34 This Week : 117.50 This Week : 278.30 This Week
     : 32.82'
@@ -104,8 +96,7 @@ numeric_observations:
   - 117.5
   - 278.3
   - 32.82
-- &id009
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 83.58 Previous Week : 117.61 Previous Week : 278.50
     Previous Week : 32.87'
@@ -115,8 +106,7 @@ numeric_observations:
   - 117.61
   - 278.5
   - 32.87
-- &id010
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Gained : 0.04 Gained : 0.11 Gained : 0.02 Gained : 0.22'
   unit: null
@@ -125,23 +115,20 @@ numeric_observations:
   - 0.11
   - 0.02
   - 0.22
-- &id011
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id012
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 550 550
   unit: null
   values:
   - 550.0
   - 550.0
-- &id013
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 515 510 500
   unit: null
@@ -149,8 +136,7 @@ numeric_observations:
   - 515.0
   - 510.0
   - 500.0
-- &id014
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: to rely on past patterns for forecasting demand. Price of HMS 1&2 (80:20)
     and Shredded
@@ -160,8 +146,7 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id015
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: domestic demand, leading to a global market flooded with cheap steel.
     In May 2024, 500
@@ -169,8 +154,7 @@ numeric_observations:
   values:
   - 2024.0
   - 500.0
-- &id016
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: India's steel exports dropped nearly 25% month-on-month. 417 413
   unit: pct
@@ -178,16 +162,14 @@ numeric_observations:
   - 25.0
   - 417.0
   - 413.0
-- &id017
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 391 389
   unit: null
   values:
   - 391.0
   - 389.0
-- &id018
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 02 July to 11 July 2024
   unit: null
@@ -195,8 +177,7 @@ numeric_observations:
   - 2.0
   - 11.0
   - 2024.0
-- &id019
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 19 July to 27 July 2024
   unit: null
@@ -204,8 +185,7 @@ numeric_observations:
   - 19.0
   - 27.0
   - 2024.0
-- &id020
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 31 July to 08 August 2024 HMS 1&2 (80:20) Shredded
   unit: null
@@ -217,31 +197,27 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id021
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id022
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 530 530
   unit: null
   values:
   - 530.0
   - 530.0
-- &id023
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 510 510
   unit: null
   values:
   - 510.0
   - 510.0
-- &id024
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: The market has opened with no demand, and local prices have dropped
     by 500 to 1,000
@@ -249,23 +225,20 @@ numeric_observations:
   values:
   - 500.0
   - 1000.0
-- &id025
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Taka ($5.85 to $11.70 USD).
   unit: usd
   values:
   - 5.85
   - 11.7
-- &id026
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: uncertain. 200
   unit: null
   values:
   - 200.0
-- &id027
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: The International Monetary Fund announced that its Executive Board
     has concluded a Price of HMS 1&2 (80:20) and Shredded
@@ -275,8 +248,7 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id028
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: to approximately $928 million in loans for economic support and about
     $220 million to
@@ -284,31 +256,27 @@ numeric_observations:
   values:
   - 928.0
   - 220.0
-- &id029
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: combat climate change. 500
   unit: null
   values:
   - 500.0
-- &id030
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 423 423
   unit: null
   values:
   - 423.0
   - 423.0
-- &id031
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 400 403
   unit: null
   values:
   - 400.0
   - 403.0
-- &id032
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 05 July to 08 July 2024
   unit: null
@@ -316,8 +284,7 @@ numeric_observations:
   - 5.0
   - 8.0
   - 2024.0
-- &id033
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 21 July to 24 July 2024
   unit: null
@@ -325,8 +292,7 @@ numeric_observations:
   - 21.0
   - 24.0
   - 2024.0
-- &id034
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 04 August to 07 August 2024
   unit: null
@@ -334,8 +300,7 @@ numeric_observations:
   - 4.0
   - 7.0
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -344,46 +309,40 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id036
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id037
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 525 525
   unit: null
   values:
   - 525.0
   - 525.0
-- &id038
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 515 515
   unit: null
   values:
   - 515.0
   - 515.0
-- &id039
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 495 495
   unit: null
   values:
   - 495.0
   - 495.0
-- &id040
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: growing demand, with a clearer picture expected next week. 400
   unit: null
   values:
   - 400.0
-- &id041
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: stood at $8.9 billion, down from $9.13 billion in the preceding week.
     The $239 million Container Tanker Bulker
@@ -392,8 +351,7 @@ numeric_observations:
   - 8.9
   - 9.13
   - 239.0
-- &id042
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -402,55 +360,48 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id043
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 422 422
   unit: null
   values:
   - 422.0
   - 422.0
-- &id044
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id045
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 360 360
   unit: null
   values:
   - 360.0
   - 360.0
-- &id046
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 350 350
   unit: null
   values:
   - 350.0
   - 350.0
-- &id047
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 340 340
   unit: null
   values:
   - 340.0
   - 340.0
-- &id048
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Türkiye's Central Bank decided to maintain its benchmark one-week repo
     rate at 50.00%
   unit: pct
   values:
   - 50.0
-- &id049
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: The Turkish central bank's total reserves hit a new all-time high of
     $147.6 billion (TL 4.85 Container Tanker Bulker
@@ -458,8 +409,7 @@ numeric_observations:
   values:
   - 147.6
   - 4.85
-- &id050
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: trillion) as of June 21, after rising by $1.3 billion from the previous
     week.
@@ -467,8 +417,7 @@ numeric_observations:
   values:
   - 21.0
   - 1.3
-- &id051
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 400 386 390 392 398
   unit: null
@@ -478,120 +427,104 @@ numeric_observations:
   - 390.0
   - 392.0
   - 398.0
-- &id052
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id053
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 86.73 This Week : 82.14'
   unit: null
   values:
   - 86.73
   - 82.14
-- &id054
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 85.76 Previous Week : 81.33'
   unit: null
   values:
   - 85.76
   - 81.33
-- &id055
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Movement : + 0.97 Movement : + 0.81'
   unit: null
   values:
   - 0.97
   - 0.81
-- &id056
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '1000.00'
   unit: null
   values:
   - 1000.0
-- &id057
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 860.00 852.50
   unit: null
   values:
   - 860.0
   - 852.5
-- &id058
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '837.75'
   unit: null
   values:
   - 837.75
-- &id059
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 831.50 833.00
   unit: null
   values:
   - 831.5
   - 833.0
-- &id060
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '800.00'
   unit: null
   values:
   - 800.0
-- &id061
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 761.75 762.25
   unit: null
   values:
   - 761.75
   - 762.25
-- &id062
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 752.00 751.25
   unit: null
   values:
   - 752.0
   - 751.25
-- &id063
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '600.00'
   unit: null
   values:
   - 600.0
-- &id064
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '400.00'
   unit: null
   values:
   - 400.0
-- &id065
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: '200.00'
   unit: null
   values:
   - 200.0
-- &id066
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id067
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: DOOWOO CONTAINER 9014121 1992 JAPAN 3,744 DELIVERED CHITTAGONG,BANGLADESH
     532
@@ -601,8 +534,7 @@ numeric_observations:
   - 1992.0
   - 3744.0
   - 532.0
-- &id068
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: TROPICAL SKY REEFER 8408882 1986 SOUTH KOREA 5,353 DELIVERED ALANG,
     INDIA 545
@@ -612,8 +544,7 @@ numeric_observations:
   - 1986.0
   - 5353.0
   - 545.0
-- &id069
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: LA SUPERBA PASSENGER 9214276 2002 ITALY 19,358 DELIVERED ALIAGA, TURKIYE
     (GREEN RECYCLING) UNDISCLOSED
@@ -622,8 +553,7 @@ numeric_observations:
   - 9214276.0
   - 2002.0
   - 19358.0
-- &id070
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: APJ MAHAKALI BULKER 9128817 1996 JAPAN 9,126 AS-IS COLOMBO 525
   unit: null
@@ -632,8 +562,7 @@ numeric_observations:
   - 1996.0
   - 9126.0
   - 525.0
-- &id071
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: TOKACHI FROST REEFER 8503242 1985 JAPAN 2,592 DELIVERED ALANG, INDIA
     530
@@ -643,8 +572,7 @@ numeric_observations:
   - 1985.0
   - 2592.0
   - 530.0
-- &id072
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: KMAX PRO BULKER 9149378 1997 JAPAN 7,226 AS-IS PENANG PORT, MALAYSIA
     UNDISCLOSED
@@ -653,15 +581,13 @@ numeric_observations:
   - 9149378.0
   - 1997.0
   - 7226.0
-- &id073
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id074
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -669,8 +595,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id075
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204'
   unit: null
@@ -679,8 +604,7 @@ numeric_observations:
   - 417.0
   - 188.0
   - 204.0
-- &id076
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 55 836 9147'
   unit: null
@@ -689,8 +613,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id077
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021'
   unit: null
@@ -699,8 +622,7 @@ numeric_observations:
   - 172.0
   - 370.0
   - 1021.0
-- &id078
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Greece Phone: +971 4575 4667'
   unit: null
@@ -708,8 +630,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id079
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162'
   unit: null
@@ -718,8 +639,7 @@ numeric_observations:
   - 58.0
   - 645.0
   - 162.0
-- &id080
-  section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+- section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -783,86 +703,627 @@ section_count: 2
 signals:
   numeric_observation_count: 85
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 28/06/2024
+    unit: null
+    values:
+    - 28.0
+    - 6.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 22 June - 28 June 2024
+    unit: null
+    values:
+    - 22.0
+    - 28.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: causing local prices to drop by 500 to 1,000 Taka ($5.85 to $11.70
+      USD) with potential for further declines in the coming week, creating uncertainty
+      about
+    unit: usd
+    values:
+    - 500.0
+    - 1000.0
+    - 5.85
+    - 11.7
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Global steel production increased by 5.7% from April to May, reaching
+      165.1 million metric tons, as reported by the World Steel Association. This
+      growth
+    unit: pct
+    values:
+    - 5.7
+    - 165.1
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: also pushed the industry 1.5% higher compared to the same period
+      last year.
+    unit: pct
+    values:
+    - 1.5
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 83.34 This Week : 117.50 This Week : 278.30 This Week
+      : 32.82'
+    unit: null
+    values:
+    - 83.34
+    - 117.5
+    - 278.3
+    - 32.82
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 83.58 Previous Week : 117.61 Previous Week : 278.50
+      Previous Week : 32.87'
+    unit: null
+    values:
+    - 83.58
+    - 117.61
+    - 278.5
+    - 32.87
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Gained : 0.04 Gained : 0.11 Gained : 0.02 Gained : 0.22'
+    unit: null
+    values:
+    - 0.04
+    - 0.11
+    - 0.02
+    - 0.22
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 550 550
+    unit: null
+    values:
+    - 550.0
+    - 550.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 515 510 500
+    unit: null
+    values:
+    - 515.0
+    - 510.0
+    - 500.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: to rely on past patterns for forecasting demand. Price of HMS 1&2
+      (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: domestic demand, leading to a global market flooded with cheap steel.
+      In May 2024, 500
+    unit: null
+    values:
+    - 2024.0
+    - 500.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: India's steel exports dropped nearly 25% month-on-month. 417 413
+    unit: pct
+    values:
+    - 25.0
+    - 417.0
+    - 413.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 391 389
+    unit: null
+    values:
+    - 391.0
+    - 389.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 02 July to 11 July 2024
+    unit: null
+    values:
+    - 2.0
+    - 11.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 19 July to 27 July 2024
+    unit: null
+    values:
+    - 19.0
+    - 27.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 31 July to 08 August 2024 HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 31.0
+    - 8.0
+    - 2024.0
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 530 530
+    unit: null
+    values:
+    - 530.0
+    - 530.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 510 510
+    unit: null
+    values:
+    - 510.0
+    - 510.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The market has opened with no demand, and local prices have dropped
+      by 500 to 1,000
+    unit: null
+    values:
+    - 500.0
+    - 1000.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Taka ($5.85 to $11.70 USD).
+    unit: usd
+    values:
+    - 5.85
+    - 11.7
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: uncertain. 200
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The International Monetary Fund announced that its Executive Board
+      has concluded a Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: to approximately $928 million in loans for economic support and about
+      $220 million to
+    unit: usd
+    values:
+    - 928.0
+    - 220.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: combat climate change. 500
+    unit: null
+    values:
+    - 500.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 423 423
+    unit: null
+    values:
+    - 423.0
+    - 423.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 400 403
+    unit: null
+    values:
+    - 400.0
+    - 403.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 05 July to 08 July 2024
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 21 July to 24 July 2024
+    unit: null
+    values:
+    - 21.0
+    - 24.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 04 August to 07 August 2024
+    unit: null
+    values:
+    - 4.0
+    - 7.0
+    - 2024.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 525 525
+    unit: null
+    values:
+    - 525.0
+    - 525.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 515 515
+    unit: null
+    values:
+    - 515.0
+    - 515.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 495 495
+    unit: null
+    values:
+    - 495.0
+    - 495.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: growing demand, with a clearer picture expected next week. 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: stood at $8.9 billion, down from $9.13 billion in the preceding week.
+      The $239 million Container Tanker Bulker
+    unit: usd
+    values:
+    - 8.9
+    - 9.13
+    - 239.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 422 422
+    unit: null
+    values:
+    - 422.0
+    - 422.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 360 360
+    unit: null
+    values:
+    - 360.0
+    - 360.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 350 350
+    unit: null
+    values:
+    - 350.0
+    - 350.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 340 340
+    unit: null
+    values:
+    - 340.0
+    - 340.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Türkiye's Central Bank decided to maintain its benchmark one-week
+      repo rate at 50.00%
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The Turkish central bank's total reserves hit a new all-time high
+      of $147.6 billion (TL 4.85 Container Tanker Bulker
+    unit: usd
+    values:
+    - 147.6
+    - 4.85
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: trillion) as of June 21, after rising by $1.3 billion from the previous
+      week.
+    unit: usd
+    values:
+    - 21.0
+    - 1.3
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 400 386 390 392 398
+    unit: null
+    values:
+    - 400.0
+    - 386.0
+    - 390.0
+    - 392.0
+    - 398.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 86.73 This Week : 82.14'
+    unit: null
+    values:
+    - 86.73
+    - 82.14
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 85.76 Previous Week : 81.33'
+    unit: null
+    values:
+    - 85.76
+    - 81.33
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : + 0.97 Movement : + 0.81'
+    unit: null
+    values:
+    - 0.97
+    - 0.81
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '1000.00'
+    unit: null
+    values:
+    - 1000.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 860.00 852.50
+    unit: null
+    values:
+    - 860.0
+    - 852.5
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '837.75'
+    unit: null
+    values:
+    - 837.75
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 831.50 833.00
+    unit: null
+    values:
+    - 831.5
+    - 833.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '800.00'
+    unit: null
+    values:
+    - 800.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 761.75 762.25
+    unit: null
+    values:
+    - 761.75
+    - 762.25
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 752.00 751.25
+    unit: null
+    values:
+    - 752.0
+    - 751.25
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '600.00'
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '400.00'
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '200.00'
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: DOOWOO CONTAINER 9014121 1992 JAPAN 3,744 DELIVERED CHITTAGONG,BANGLADESH
+      532
+    unit: null
+    values:
+    - 9014121.0
+    - 1992.0
+    - 3744.0
+    - 532.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: TROPICAL SKY REEFER 8408882 1986 SOUTH KOREA 5,353 DELIVERED ALANG,
+      INDIA 545
+    unit: null
+    values:
+    - 8408882.0
+    - 1986.0
+    - 5353.0
+    - 545.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: LA SUPERBA PASSENGER 9214276 2002 ITALY 19,358 DELIVERED ALIAGA,
+      TURKIYE (GREEN RECYCLING) UNDISCLOSED
+    unit: null
+    values:
+    - 9214276.0
+    - 2002.0
+    - 19358.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: APJ MAHAKALI BULKER 9128817 1996 JAPAN 9,126 AS-IS COLOMBO 525
+    unit: null
+    values:
+    - 9128817.0
+    - 1996.0
+    - 9126.0
+    - 525.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: TOKACHI FROST REEFER 8503242 1985 JAPAN 2,592 DELIVERED ALANG, INDIA
+      530
+    unit: null
+    values:
+    - 8503242.0
+    - 1985.0
+    - 2592.0
+    - 530.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: KMAX PRO BULKER 9149378 1997 JAPAN 7,226 AS-IS PENANG PORT, MALAYSIA
+      UNDISCLOSED
+    unit: null
+    values:
+    - 9149378.0
+    - 1997.0
+    - 7226.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Greece Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+  - section: 'Linked asset: 2024-06-28_Weekly-Ship-Recycling-Report-22-June-28-June-2024_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-06-28_best-oasis-weekly-recycling-market-report-28-june-2024.html
 source_stem: 2024-06-28_best-oasis-weekly-recycling-market-report-28-june-2024

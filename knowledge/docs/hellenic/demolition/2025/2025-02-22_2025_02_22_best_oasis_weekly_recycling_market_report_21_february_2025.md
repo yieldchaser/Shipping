@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 81
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 22/02/2025
   unit: null
@@ -39,8 +38,7 @@ numeric_observations:
   - 22.0
   - 2.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 15 February - 21 February 2025
   unit: null
@@ -48,8 +46,7 @@ numeric_observations:
   - 15.0
   - 21.0
   - 2025.0
-- &id003
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
     E, Jumeirah Lake Towers, Dubai, U.A.E'
@@ -57,8 +54,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
   unit: null
@@ -66,16 +62,14 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: force in June 2025. The report points to re-flagging loopholes, weak
     enforcement of hazardous material inventories, and concerns over limited EU-approved
   unit: null
   values:
   - 2025.0
-- &id006
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: with only a few vessels concluding deals as non-HKC yards leveraged
     the June 2025 extension. While most buyers adhered to local market levels, some
@@ -83,16 +77,14 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: As we mentioned earlier, U.S. government's expanded 25% tariffs on
     steel and aluminum have intensified market uncertainty by removing country
   unit: pct
   values:
   - 25.0
-- &id008
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: exemptions, phasing out product exclusions, and raising aluminum tariffs
     from 10% to 25%. The broader scope now covers more products, with a new
@@ -100,8 +92,7 @@ numeric_observations:
   values:
   - 10.0
   - 25.0
-- &id009
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 86.65 This Week : 121.35 This Week : 279.05 This Week
     : 36.39'
@@ -111,8 +102,7 @@ numeric_observations:
   - 121.35
   - 279.05
   - 36.39
-- &id010
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 86.66 Previous Week : 121.64 Previous Week : 278.99
     Previous Week : 36.20'
@@ -122,8 +112,7 @@ numeric_observations:
   - 121.64
   - 278.99
   - 36.2
-- &id011
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Gained : 0.01 Gained : 0.29 Lost : 0.06 Lost : 0.19'
   unit: null
@@ -132,47 +121,41 @@ numeric_observations:
   - 0.29
   - 0.06
   - 0.19
-- &id012
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 02
   unit: null
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 460 460
   unit: null
   values:
   - 460.0
   - 460.0
-- &id014
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 440 440
   unit: null
   values:
   - 440.0
   - 440.0
-- &id015
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 420 420
   unit: null
   values:
   - 420.0
   - 420.0
-- &id016
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: The market remained largely unchanged from the previous week, with
     a subdued 400
   unit: null
   values:
   - 400.0
-- &id017
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: that countries facing US tariffs may divert steel exports to India,
     increasing competition Price of HMS 1&2 (80:20) and Shredded
@@ -182,40 +165,35 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id018
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 352 351
   unit: null
   values:
   - 352.0
   - 351.0
-- &id019
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 26 February to 05 March
   unit: null
   values:
   - 26.0
   - 5.0
-- &id020
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 13 March to 18 March
   unit: null
   values:
   - 13.0
   - 18.0
-- &id021
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 27 March to 31 March
   unit: null
   values:
   - 27.0
   - 31.0
-- &id022
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: HMS 1&2 (80:20) Shredded
   unit: null
@@ -224,23 +202,20 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id023
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 03
   unit: null
   values:
   - 3.0
-- &id024
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 455 460
   unit: null
   values:
   - 455.0
   - 460.0
-- &id025
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 440 445 430
   unit: null
@@ -248,32 +223,28 @@ numeric_observations:
   - 440.0
   - 445.0
   - 430.0
-- &id026
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: The market remains lackluster, with no strong demand. Only a few vessels
     are 400
   unit: null
   values:
   - 400.0
-- &id027
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: leveraging the June 2025 extension before stricter regulations take
     effect.
   unit: null
   values:
   - 2025.0
-- &id028
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: players are looking at vessels as per local market levels, maintaining
     a cautious 100
   unit: null
   values:
   - 100.0
-- &id029
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Price of HMS 1&2 (80:20) and Shredded
   unit: null
@@ -282,8 +253,7 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id030
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 400 387 384
   unit: null
@@ -291,16 +261,14 @@ numeric_observations:
   - 400.0
   - 387.0
   - 384.0
-- &id031
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 360 363
   unit: null
   values:
   - 360.0
   - 363.0
-- &id032
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 28 February to 03 March 100
   unit: null
@@ -308,16 +276,14 @@ numeric_observations:
   - 28.0
   - 3.0
   - 100.0
-- &id033
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 14 March to 17 March
   unit: null
   values:
   - 14.0
   - 17.0
-- &id034
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 29 March to 31 March HMS 1&2 (80:20) Shredded
   unit: null
@@ -328,47 +294,41 @@ numeric_observations:
   - 2.0
   - 80.0
   - 20.0
-- &id035
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 04
   unit: null
   values:
   - 4.0
-- &id036
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 435 435
   unit: null
   values:
   - 435.0
   - 435.0
-- &id037
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 410 410
   unit: null
   values:
   - 410.0
   - 410.0
-- &id038
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 405 405
   unit: null
   values:
   - 405.0
   - 405.0
-- &id039
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: The market remains stuck in its familiar pattern which is silent, inactive,
     and 400
   unit: null
   values:
   - 400.0
-- &id040
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 400 385 380
   unit: null
@@ -376,31 +336,27 @@ numeric_observations:
   - 400.0
   - 385.0
   - 380.0
-- &id041
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 374 370
   unit: null
   values:
   - 374.0
   - 370.0
-- &id042
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 05
   unit: null
   values:
   - 5.0
-- &id043
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: and sentiment. 300 300
   unit: null
   values:
   - 300.0
   - 300.0
-- &id044
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 300 290 290
   unit: null
@@ -408,16 +364,14 @@ numeric_observations:
   - 300.0
   - 290.0
   - 290.0
-- &id045
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 280 280
   unit: null
   values:
   - 280.0
   - 280.0
-- &id046
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 360 359 368 366
   unit: null
@@ -426,90 +380,78 @@ numeric_observations:
   - 359.0
   - 368.0
   - 366.0
-- &id047
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 06
   unit: null
   values:
   - 6.0
-- &id048
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 75.97 This Week : 71.97'
   unit: null
   values:
   - 75.97
   - 71.97
-- &id049
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 75.67 Previous Week : 71.87'
   unit: null
   values:
   - 75.67
   - 71.87
-- &id050
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Movement : + 0.30 Movement : + 0.10'
   unit: null
   values:
   - 0.3
   - 0.1
-- &id051
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '800.00'
   unit: null
   values:
   - 800.0
-- &id052
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '773.50'
   unit: null
   values:
   - 773.5
-- &id053
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 767.00 767.00
   unit: null
   values:
   - 767.0
   - 767.0
-- &id054
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '755.00'
   unit: null
   values:
   - 755.0
-- &id055
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '738.50'
   unit: null
   values:
   - 738.5
-- &id056
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 727.50 736.00
   unit: null
   values:
   - 727.5
   - 736.0
-- &id057
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '710.00'
   unit: null
   values:
   - 710.0
-- &id058
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 659.00 693.00 695.00
   unit: null
@@ -517,43 +459,37 @@ numeric_observations:
   - 659.0
   - 693.0
   - 695.0
-- &id059
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '686.50'
   unit: null
   values:
   - 686.5
-- &id060
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '600.00'
   unit: null
   values:
   - 600.0
-- &id061
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '400.00'
   unit: null
   values:
   - 400.0
-- &id062
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: '200.00'
   unit: null
   values:
   - 200.0
-- &id063
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 07
   unit: null
   values:
   - 7.0
-- &id064
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: EVER FENG PRODUCTS TANKER 9102813 1995 SOUTH KOREA 1,890.00 DELIVERED
     CHITTAGONG,BANGLADESH 484
@@ -563,8 +499,7 @@ numeric_observations:
   - 1995.0
   - 1890.0
   - 484.0
-- &id065
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: GENERALIS GENERAL CARGO 8721026 1986 USSR 3,120.00 DELIVERED CHITTAGONG,BANGLADESH
     UNDISCLOSED
@@ -573,8 +508,7 @@ numeric_observations:
   - 8721026.0
   - 1986.0
   - 3120.0
-- &id066
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: JABAL ALI 7 RORO 7725154 1979 JAPAN 7,129.00 DELIVERED ALANG, INDIA
     UNDISCLOSED
@@ -584,8 +518,7 @@ numeric_observations:
   - 7725154.0
   - 1979.0
   - 7129.0
-- &id067
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: EPONYMA GENERAL CARGO 9072460 1993 JAPAN 2,689.00 AS-IS SINGAPORE UNDISCLOSED
   unit: null
@@ -593,15 +526,13 @@ numeric_observations:
   - 9072460.0
   - 1993.0
   - 2689.0
-- &id068
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: Best Oasis Limited Weekly Ship Recycling Report 08
   unit: null
   values:
   - 8.0
-- &id069
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667'
   unit: null
@@ -609,8 +540,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id070
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +49 417 188 0204'
   unit: null
@@ -619,8 +549,7 @@ numeric_observations:
   - 417.0
   - 188.0
   - 204.0
-- &id071
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 55 836 9147'
   unit: null
@@ -629,8 +558,7 @@ numeric_observations:
   - 55.0
   - 836.0
   - 9147.0
-- &id072
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +49 172 370 1021'
   unit: null
@@ -639,8 +567,7 @@ numeric_observations:
   - 172.0
   - 370.0
   - 1021.0
-- &id073
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +971 4575 4667 Phone: +971 4575 4667'
   unit: null
@@ -651,8 +578,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id074
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +971 58 645 0162 Mobile: +971 52 463 4716'
   unit: null
@@ -665,8 +591,7 @@ numeric_observations:
   - 52.0
   - 463.0
   - 4716.0
-- &id075
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Phone: +30 210 0101 450'
   unit: null
@@ -675,8 +600,7 @@ numeric_observations:
   - 210.0
   - 101.0
   - 450.0
-- &id076
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 258 3977'
   unit: null
@@ -685,8 +609,7 @@ numeric_observations:
   - 694.0
   - 258.0
   - 3977.0
-- &id077
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +86 136 6600 0719'
   unit: null
@@ -695,8 +618,7 @@ numeric_observations:
   - 136.0
   - 6600.0
   - 719.0
-- &id078
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +30 694 484 3136'
   unit: null
@@ -705,8 +627,7 @@ numeric_observations:
   - 694.0
   - 484.0
   - 3136.0
-- &id079
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Work: +81 354 522 405'
   unit: null
@@ -715,8 +636,7 @@ numeric_observations:
   - 354.0
   - 522.0
   - 405.0
-- &id080
-  section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+- section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
   section_type: linked_pdf
   source_line: 'Mobile: +81 901 536 1497'
   unit: null
@@ -744,86 +664,623 @@ section_count: 2
 signals:
   numeric_observation_count: 81
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 22/02/2025
+    unit: null
+    values:
+    - 22.0
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 15 February - 21 February 2025
+    unit: null
+    values:
+    - 15.0
+    - 21.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Visit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster
+      E, Jumeirah Lake Towers, Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Email: bol@bol.ae Contact: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: force in June 2025. The report points to re-flagging loopholes, weak
+      enforcement of hazardous material inventories, and concerns over limited EU-approved
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: with only a few vessels concluding deals as non-HKC yards leveraged
+      the June 2025 extension. While most buyers adhered to local market levels, some
+      paid
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: As we mentioned earlier, U.S. government's expanded 25% tariffs on
+      steel and aluminum have intensified market uncertainty by removing country
+    unit: pct
+    values:
+    - 25.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: exemptions, phasing out product exclusions, and raising aluminum
+      tariffs from 10% to 25%. The broader scope now covers more products, with a
+      new
+    unit: pct
+    values:
+    - 10.0
+    - 25.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 86.65 This Week : 121.35 This Week : 279.05 This Week
+      : 36.39'
+    unit: null
+    values:
+    - 86.65
+    - 121.35
+    - 279.05
+    - 36.39
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 86.66 Previous Week : 121.64 Previous Week : 278.99
+      Previous Week : 36.20'
+    unit: null
+    values:
+    - 86.66
+    - 121.64
+    - 278.99
+    - 36.2
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Gained : 0.01 Gained : 0.29 Lost : 0.06 Lost : 0.19'
+    unit: null
+    values:
+    - 0.01
+    - 0.29
+    - 0.06
+    - 0.19
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 02
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 460 460
+    unit: null
+    values:
+    - 460.0
+    - 460.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 440 440
+    unit: null
+    values:
+    - 440.0
+    - 440.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 420 420
+    unit: null
+    values:
+    - 420.0
+    - 420.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The market remained largely unchanged from the previous week, with
+      a subdued 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: that countries facing US tariffs may divert steel exports to India,
+      increasing competition Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 352 351
+    unit: null
+    values:
+    - 352.0
+    - 351.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 26 February to 05 March
+    unit: null
+    values:
+    - 26.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 13 March to 18 March
+    unit: null
+    values:
+    - 13.0
+    - 18.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 27 March to 31 March
+    unit: null
+    values:
+    - 27.0
+    - 31.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 03
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 455 460
+    unit: null
+    values:
+    - 455.0
+    - 460.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 440 445 430
+    unit: null
+    values:
+    - 440.0
+    - 445.0
+    - 430.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The market remains lackluster, with no strong demand. Only a few
+      vessels are 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: leveraging the June 2025 extension before stricter regulations take
+      effect.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: players are looking at vessels as per local market levels, maintaining
+      a cautious 100
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Price of HMS 1&2 (80:20) and Shredded
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 400 387 384
+    unit: null
+    values:
+    - 400.0
+    - 387.0
+    - 384.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 360 363
+    unit: null
+    values:
+    - 360.0
+    - 363.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 28 February to 03 March 100
+    unit: null
+    values:
+    - 28.0
+    - 3.0
+    - 100.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 14 March to 17 March
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 29 March to 31 March HMS 1&2 (80:20) Shredded
+    unit: null
+    values:
+    - 29.0
+    - 31.0
+    - 1.0
+    - 2.0
+    - 80.0
+    - 20.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 04
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 435 435
+    unit: null
+    values:
+    - 435.0
+    - 435.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 410 410
+    unit: null
+    values:
+    - 410.0
+    - 410.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 405 405
+    unit: null
+    values:
+    - 405.0
+    - 405.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: The market remains stuck in its familiar pattern which is silent,
+      inactive, and 400
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 400 385 380
+    unit: null
+    values:
+    - 400.0
+    - 385.0
+    - 380.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 374 370
+    unit: null
+    values:
+    - 374.0
+    - 370.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 05
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: and sentiment. 300 300
+    unit: null
+    values:
+    - 300.0
+    - 300.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 300 290 290
+    unit: null
+    values:
+    - 300.0
+    - 290.0
+    - 290.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 280 280
+    unit: null
+    values:
+    - 280.0
+    - 280.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 360 359 368 366
+    unit: null
+    values:
+    - 360.0
+    - 359.0
+    - 368.0
+    - 366.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 06
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 75.97 This Week : 71.97'
+    unit: null
+    values:
+    - 75.97
+    - 71.97
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 75.67 Previous Week : 71.87'
+    unit: null
+    values:
+    - 75.67
+    - 71.87
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Movement : + 0.30 Movement : + 0.10'
+    unit: null
+    values:
+    - 0.3
+    - 0.1
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '800.00'
+    unit: null
+    values:
+    - 800.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '773.50'
+    unit: null
+    values:
+    - 773.5
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 767.00 767.00
+    unit: null
+    values:
+    - 767.0
+    - 767.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '755.00'
+    unit: null
+    values:
+    - 755.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '738.50'
+    unit: null
+    values:
+    - 738.5
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 727.50 736.00
+    unit: null
+    values:
+    - 727.5
+    - 736.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '710.00'
+    unit: null
+    values:
+    - 710.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 659.00 693.00 695.00
+    unit: null
+    values:
+    - 659.0
+    - 693.0
+    - 695.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '686.50'
+    unit: null
+    values:
+    - 686.5
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '600.00'
+    unit: null
+    values:
+    - 600.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '400.00'
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: '200.00'
+    unit: null
+    values:
+    - 200.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 07
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: EVER FENG PRODUCTS TANKER 9102813 1995 SOUTH KOREA 1,890.00 DELIVERED
+      CHITTAGONG,BANGLADESH 484
+    unit: null
+    values:
+    - 9102813.0
+    - 1995.0
+    - 1890.0
+    - 484.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: GENERALIS GENERAL CARGO 8721026 1986 USSR 3,120.00 DELIVERED CHITTAGONG,BANGLADESH
+      UNDISCLOSED
+    unit: null
+    values:
+    - 8721026.0
+    - 1986.0
+    - 3120.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: JABAL ALI 7 RORO 7725154 1979 JAPAN 7,129.00 DELIVERED ALANG, INDIA
+      UNDISCLOSED
+    unit: null
+    values:
+    - 7.0
+    - 7725154.0
+    - 1979.0
+    - 7129.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: EPONYMA GENERAL CARGO 9072460 1993 JAPAN 2,689.00 AS-IS SINGAPORE
+      UNDISCLOSED
+    unit: null
+    values:
+    - 9072460.0
+    - 1993.0
+    - 2689.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: Best Oasis Limited Weekly Ship Recycling Report 08
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +49 417 188 0204'
+    unit: null
+    values:
+    - 49.0
+    - 417.0
+    - 188.0
+    - 204.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 55 836 9147'
+    unit: null
+    values:
+    - 971.0
+    - 55.0
+    - 836.0
+    - 9147.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +49 172 370 1021'
+    unit: null
+    values:
+    - 49.0
+    - 172.0
+    - 370.0
+    - 1021.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +971 4575 4667 Phone: +971 4575 4667'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +971 58 645 0162 Mobile: +971 52 463 4716'
+    unit: null
+    values:
+    - 971.0
+    - 58.0
+    - 645.0
+    - 162.0
+    - 971.0
+    - 52.0
+    - 463.0
+    - 4716.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Phone: +30 210 0101 450'
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 101.0
+    - 450.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 258 3977'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 258.0
+    - 3977.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +86 136 6600 0719'
+    unit: null
+    values:
+    - 86.0
+    - 136.0
+    - 6600.0
+    - 719.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +30 694 484 3136'
+    unit: null
+    values:
+    - 30.0
+    - 694.0
+    - 484.0
+    - 3136.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Work: +81 354 522 405'
+    unit: null
+    values:
+    - 81.0
+    - 354.0
+    - 522.0
+    - 405.0
+  - section: 'Linked asset: 2025-02-22_Weekly-Ship-Recycling-Report-15-February-21-February-2025_compressed.pdf'
+    section_type: linked_pdf
+    source_line: 'Mobile: +81 901 536 1497'
+    unit: null
+    values:
+    - 81.0
+    - 901.0
+    - 536.0
+    - 1497.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-02-22_best-oasis-weekly-recycling-market-report-21-february-2025.html
 source_stem: 2025-02-22_best-oasis-weekly-recycling-market-report-21-february-2025

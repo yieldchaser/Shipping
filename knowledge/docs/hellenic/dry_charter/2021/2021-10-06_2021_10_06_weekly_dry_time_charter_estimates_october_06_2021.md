@@ -185,6 +185,28 @@ signals:
     - 27250.0
     - 21500.0
     - 20500.0
+  - segment: supramax
+    source_line: ULTRAMAX |= 41,750)-= 42,500); = 32,000}- 29,750) 25,000|}= 24,000
+    timeframe: null
+    unit: null
+    values:
+    - 41750.0
+    - 42500.0
+    - 32000.0
+    - 29750.0
+    - 25000.0
+    - 24000.0
+  - segment: panamax
+    source_line: PANA/KMAX | & 38,250| 33,000) & 31,000)" 28,000)= 24,000|= 23,500
+    timeframe: null
+    unit: null
+    values:
+    - 38250.0
+    - 33000.0
+    - 31000.0
+    - 28000.0
+    - 24000.0
+    - 23500.0
   - segment: capesize
     source_line: CAPESIZE | 54,000|/2 52,500} & 37,000) 36,000)2% 26500|= 26,000
     timeframe: null
@@ -199,6 +221,7 @@ signals:
   rate_summary:
     capesize: 26000.0
     handysize: 20000.0
+    panamax: 23500.0
     supramax: 20500.0
   signal_family: hellenic_charter_rates
   timeframes: []

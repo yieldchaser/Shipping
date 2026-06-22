@@ -31,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 93
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As Trump's massive gamble on tariff wars kicked into high gear over
     ‘Liberation Day' this week,global stock markets took unkindly to the tariffs as
@@ -45,8 +44,7 @@ numeric_observations:
   - 62.0
   - 2021.0
   - 3.3
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: With minimum activity taking place in Bangladesh, Pakistan, and Turkey
     thanks to Eid celebrations and holidays that have kept most markets closed through
@@ -55,8 +53,7 @@ numeric_observations:
   unit: null
   values:
   - 31.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-04-07_gms-week-14-tariff-truffle_img1_7420250_a400b1c2c6cb.jpg'
   unit: null
@@ -66,79 +63,69 @@ numeric_observations:
   - -7.0
   - 14.0
   - 7420250.0
-- &id004
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 4th, 2025
   unit: null
   values:
   - 4.0
   - 2025.0
-- &id005
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Week 14
   unit: null
   values:
   - 14.0
-- &id006
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Volume 271, Issue 1179
   unit: null
   values:
   - 271.0
   - 1179.0
-- &id007
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: global stock mar-k eKtast htoyo Cko ullinnksi ndly to the tariffs as
     they were decimated and fell over 10%, with
   unit: tonnage
   values:
   - 10.0
-- &id008
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: over USD 3 Trillion being wiped out from investor pockets, as consumers
     globally have yet to see a
   unit: usd
   values:
   - 3.0
-- &id009
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: • Hard liner. week, o il suffered the most egregious of collapses falling
     to U SD 62 / barrel, a number not since seen
   unit: null
   values:
   - 62.0
-- &id010
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: since August 2021. And with OPEC+ countries vowing to increase supply
     as global demand eases
   unit: null
   values:
   - 2021.0
-- &id011
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: with the Baltic's dry sea freight index slumped another 3.3% down to
     a one month low.
   unit: pct
   values:
   - 3.3
-- &id012
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: restriction on imports remains unresolved on the back of the March
     31st deadline for local recyclers
   unit: null
   values:
   - 31.0
-- &id013
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 14 of 2025 are on Page 5.
   unit: null
@@ -146,32 +133,28 @@ numeric_observations:
   - 14.0
   - 2025.0
   - 5.0
-- &id014
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id015
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: plate prices that have started Q2 2025, flatlined at the bottom of
     the pool where they have been for
   unit: null
   values:
   - 2025.0
-- &id016
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: about 7 months now. Moreover, even the 2024 experiment by the Bangladeshi
     government to
   unit: null
   values:
   - 2024.0
-- &id017
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: permit the Taka to be controlled by market forces, saw it decline over
     21 basis points / BDT 11
@@ -179,8 +162,7 @@ numeric_observations:
   values:
   - 21.0
   - 11.0
-- &id018
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: during this time, ended the week at BDT 121.82, likely to pass BDT
     122 in the next week(s) as the
@@ -188,32 +170,28 @@ numeric_observations:
   values:
   - 121.82
   - 122.0
-- &id019
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: pending 37% tariff truffle against Bangladesh awaits delivery to its
     economy.
   unit: pct
   values:
   - 37.0
-- &id020
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: The key ‘beneficiary' of these tariffs, which are currently at 20%,
     will be the Readymade Garments
   unit: pct
   values:
   - 20.0
-- &id021
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: government in June 2024 that resulted in local violence, rioting, and
     ongoing unemployment.
   unit: null
   values:
   - 2024.0
-- &id022
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: might be, as the markets saw local offers being scaled back by about
     USD 5 - USD 10/LDT whilst
@@ -221,16 +199,14 @@ numeric_observations:
   values:
   - 5.0
   - 10.0
-- &id023
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: deadline to begin yard upgrades from March 31st to a later date remains
     up in the air as authorities
   unit: null
   values:
   - 31.0
-- &id024
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Dea dline to extend? comes into force on June 26th, 2025 and certainly
     as the immediate future of incoming deliveries
@@ -238,40 +214,35 @@ numeric_observations:
   values:
   - 26.0
   - 2025.0
-- &id025
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: back into the country to the tune of aver USD 3 Billion, which saw
     domestic reserves being actively
   unit: usd
   values:
   - 3.0
-- &id026
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: importance to report from Bangladesh, as Week 14 winds to a halt with
     nothing of significance to
   unit: null
   values:
   - 14.0
-- &id027
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: And despite Trump announcing 26% tariffs on India across the board,
     the reaction from India has
   unit: pct
   values:
   - 26.0
-- &id029
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: only did local steel plate prices climb another USD 9/Ton to over USD
     473.56/Ton (pushing local
@@ -279,56 +250,49 @@ numeric_observations:
   values:
   - 9.0
   - 473.56
-- &id030
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: purchases on dry vessels further in the green), but even the Indian
     Rupee firmed down to Rs. 85.50
   unit: null
   values:
   - 85.5
-- &id031
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: (from the highs approaching Rs. 88), providing further confidence to
     Alang buyers, especially as their
   unit: null
   values:
   - 88.0
-- &id032
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi counterparts are pulling back on their offers by up to
     USD 10/Ton this week and Limited supply.
   unit: usd
   values:
   - 10.0
-- &id033
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Smaller LDT deals. that inadvertently thrust the Gadani Gang into 2nd
     place on the market rankings, has brought the
   unit: null
   values:
   - 2.0
-- &id035
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: this week, given that 20K LDT is currently delivered or lying in wait
     at anchorage awaiting
   unit: null
   values:
   - 20.0
-- &id036
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: last week at USD 624/Ton (almost USD 40/Ton lower than previous highs),
     all while the Pakistani
@@ -336,8 +300,7 @@ numeric_observations:
   values:
   - 624.0
   - 40.0
-- &id037
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Rupee loses another 26 basis points, to end the week at PKR 280.34
     against the U.S. Dollar.
@@ -345,40 +308,35 @@ numeric_observations:
   values:
   - 26.0
   - 280.34
-- &id038
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: announced an additional 29% blanket tariffs on all imports from Pakistan,
     which could seriously
   unit: pct
   values:
   - 29.0
-- &id039
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Similar to the performances of its sub-continent ship recycling associates,
     Aliaga recyclers spent the 10%
   unit: pct
   values:
   - 10.0
-- &id041
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: week. Moreover, being the one ship recycling destination to have faced
     only 10% of Trump's tariffs
   unit: pct
   values:
   - 10.0
-- &id042
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: For Week 14 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -386,8 +344,7 @@ numeric_observations:
   values:
   - 14.0
   - 2025.0
-- &id043
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -396,8 +353,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id044
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Stable 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -406,8 +362,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id045
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -416,8 +371,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id046
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Stable 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -426,37 +380,32 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id047
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line:  Around the world, more than 10,000 barcodes are scanned every second.
   unit: null
   values:
   - 10000.0
-- &id049
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line:  McDonald's cooked its French fries in beef tallow until 1990.
   unit: null
   values:
   - 1990.0
-- &id050
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line:  The fast-food giant also grills its beef patties for exactly 42 seconds.
   unit: null
   values:
   - 42.0
-- &id051
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 10 - Mahavir Jayanti March 27 - April 05
   unit: null
@@ -464,8 +413,7 @@ numeric_observations:
   - 10.0
   - 27.0
   - 5.0
-- &id052
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 14 - Dr. Ambedkar Jayanti April 12 - April 17
   unit: null
@@ -473,8 +421,7 @@ numeric_observations:
   - 14.0
   - 12.0
   - 17.0
-- &id053
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 18 - Good Friday April 26 - May 03
   unit: null
@@ -482,15 +429,13 @@ numeric_observations:
   - 18.0
   - 26.0
   - 3.0
-- &id054
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 20 - Easter Sunday
   unit: null
   values:
   - 20.0
-- &id055
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year April 12 - April 15
   unit: null
@@ -498,16 +443,14 @@ numeric_observations:
   - 14.0
   - 12.0
   - 15.0
-- &id056
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: April 27 - April 30
   unit: null
   values:
   - 27.0
   - 30.0
-- &id057
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: May 01 - 05 - Labor Day May 01 - Labor Day April 23 - National Sovereignty
     &
@@ -517,32 +460,28 @@ numeric_observations:
   - 5.0
   - 1.0
   - 23.0
-- &id058
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: May 31 - June 02 - Dragon Boat Holiday Children's Day
   unit: null
   values:
   - 31.0
   - 2.0
-- &id059
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id060
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 04, 2025
   unit: null
   values:
   - 4.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 1 Athena 1,178 Supply Vessel Arrived April 03
   unit: null
@@ -550,8 +489,7 @@ numeric_observations:
   - 1.0
   - 1178.0
   - 3.0
-- &id062
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 2 Ion 3,868 Chemical Tanker Delivered March 29
   unit: null
@@ -559,23 +497,20 @@ numeric_observations:
   - 2.0
   - 3868.0
   - 29.0
-- &id063
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 5,046
   unit: null
   values:
   - 5046.0
-- &id064
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 04, 2025
   unit: null
   values:
   - 4.0
   - 2025.0
-- &id065
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 1 Elli 9,242 Bulk Carrier Delivered April 01
   unit: null
@@ -583,8 +518,7 @@ numeric_observations:
   - 1.0
   - 9242.0
   - 1.0
-- &id066
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 2 Equator 42,649 Tanker Delivered March 30
   unit: null
@@ -592,8 +526,7 @@ numeric_observations:
   - 2.0
   - 42649.0
   - 30.0
-- &id067
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3 Rich Anna 1,011 General Cargo Arrived March 26
   unit: null
@@ -601,8 +534,7 @@ numeric_observations:
   - 3.0
   - 1011.0
   - 26.0
-- &id068
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 4 Three Star 7,627 Bulk Carrier Delivered March 29
   unit: null
@@ -610,23 +542,20 @@ numeric_observations:
   - 4.0
   - 7627.0
   - 29.0
-- &id069
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 60,529
   unit: null
   values:
   - 60529.0
-- &id070
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 04, 2025
   unit: null
   values:
   - 4.0
   - 2025.0
-- &id071
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 1 Atlantic 22 5,219 Bulk Carrier Delivered March 26
   unit: null
@@ -635,8 +564,7 @@ numeric_observations:
   - 22.0
   - 5219.0
   - 26.0
-- &id072
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 2 DSM Star 8,000 Bulk Carrier Arrived April 02
   unit: null
@@ -644,8 +572,7 @@ numeric_observations:
   - 2.0
   - 8000.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3 Marco 975 Standby-Safety Vessel Delivered March 27
   unit: null
@@ -653,8 +580,7 @@ numeric_observations:
   - 3.0
   - 975.0
   - 27.0
-- &id074
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 4 Neptune Star 25 5,471 Bulk Carrier Delivered March 25
   unit: null
@@ -663,23 +589,20 @@ numeric_observations:
   - 25.0
   - 5471.0
   - 25.0
-- &id075
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 19,665
   unit: null
   values:
   - 19665.0
-- &id076
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id077
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3/29/2025 464.49 39,700.00 627.79 175,000.00 529.41 63,000.00 311.57
   unit: null
@@ -694,8 +617,7 @@ numeric_observations:
   - 529.41
   - 63000.0
   - 311.57
-- &id078
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3/30/2025 464.49 39,700.00 624.22 175,000.00 529.41 63,000.00 311.57
   unit: null
@@ -710,8 +632,7 @@ numeric_observations:
   - 529.41
   - 63000.0
   - 311.57
-- &id079
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 3/31/2025 466.83 39,900.00 624.22 175,000.00 529.41 63,000.00 308.57
   unit: null
@@ -726,8 +647,7 @@ numeric_observations:
   - 529.41
   - 63000.0
   - 308.57
-- &id080
-  section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+- section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
   section_type: linked_pdf
   source_line: 4/1/2025 469.17 40,100.00 624.22 175,000.00 529.41 63,000.00 308.57
   unit: null
@@ -882,86 +802,638 @@ section_count: 3
 signals:
   numeric_observation_count: 93
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: As Trump's massive gamble on tariff wars kicked into high gear over
+      ‘Liberation Day' this week,global stock markets took unkindly to the tariffs
+      as they were decimated and fell over 10%, with over USD 3 Trillion being wiped
+      out from investor pockets, as consum
+    unit: pct
+    values:
+    - 10.0
+    - 3.0
+    - 62.0
+    - 2021.0
+    - 3.3
+  - section: Main
+    section_type: null
+    source_line: With minimum activity taking place in Bangladesh, Pakistan, and Turkey
+      thanks to Eid celebrations and holidays that have kept most markets closed through
+      this week, the outcome of Bangladeshi restriction on imports remains unresolved
+      on the back of the March 3
+    unit: null
+    values:
+    - 31.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-04-07_gms-week-14-tariff-truffle_img1_7420250_a400b1c2c6cb.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -4.0
+    - -7.0
+    - 14.0
+    - 7420250.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 4th, 2025
+    unit: null
+    values:
+    - 4.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Week 14
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Volume 271, Issue 1179
+    unit: null
+    values:
+    - 271.0
+    - 1179.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: global stock mar-k eKtast htoyo Cko ullinnksi ndly to the tariffs
+      as they were decimated and fell over 10%, with
+    unit: tonnage
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: over USD 3 Trillion being wiped out from investor pockets, as consumers
+      globally have yet to see a
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: • Hard liner. week, o il suffered the most egregious of collapses
+      falling to U SD 62 / barrel, a number not since seen
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: since August 2021. And with OPEC+ countries vowing to increase supply
+      as global demand eases
+    unit: null
+    values:
+    - 2021.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: with the Baltic's dry sea freight index slumped another 3.3% down
+      to a one month low.
+    unit: pct
+    values:
+    - 3.3
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: restriction on imports remains unresolved on the back of the March
+      31st deadline for local recyclers
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 14 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: plate prices that have started Q2 2025, flatlined at the bottom of
+      the pool where they have been for
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: about 7 months now. Moreover, even the 2024 experiment by the Bangladeshi
+      government to
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: permit the Taka to be controlled by market forces, saw it decline
+      over 21 basis points / BDT 11
+    unit: null
+    values:
+    - 21.0
+    - 11.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: during this time, ended the week at BDT 121.82, likely to pass BDT
+      122 in the next week(s) as the
+    unit: null
+    values:
+    - 121.82
+    - 122.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: pending 37% tariff truffle against Bangladesh awaits delivery to
+      its economy.
+    unit: pct
+    values:
+    - 37.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: The key ‘beneficiary' of these tariffs, which are currently at 20%,
+      will be the Readymade Garments
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: government in June 2024 that resulted in local violence, rioting,
+      and ongoing unemployment.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: might be, as the markets saw local offers being scaled back by about
+      USD 5 - USD 10/LDT whilst
+    unit: usd
+    values:
+    - 5.0
+    - 10.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: deadline to begin yard upgrades from March 31st to a later date remains
+      up in the air as authorities
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Dea dline to extend? comes into force on June 26th, 2025 and certainly
+      as the immediate future of incoming deliveries
+    unit: null
+    values:
+    - 26.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: back into the country to the tune of aver USD 3 Billion, which saw
+      domestic reserves being actively
+    unit: usd
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: importance to report from Bangladesh, as Week 14 winds to a halt
+      with nothing of significance to
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: And despite Trump announcing 26% tariffs on India across the board,
+      the reaction from India has
+    unit: pct
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: only did local steel plate prices climb another USD 9/Ton to over
+      USD 473.56/Ton (pushing local
+    unit: usd
+    values:
+    - 9.0
+    - 473.56
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: purchases on dry vessels further in the green), but even the Indian
+      Rupee firmed down to Rs. 85.50
+    unit: null
+    values:
+    - 85.5
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: (from the highs approaching Rs. 88), providing further confidence
+      to Alang buyers, especially as their
+    unit: null
+    values:
+    - 88.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi counterparts are pulling back on their offers by up to
+      USD 10/Ton this week and Limited supply.
+    unit: usd
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Smaller LDT deals. that inadvertently thrust the Gadani Gang into
+      2nd place on the market rankings, has brought the
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: this week, given that 20K LDT is currently delivered or lying in
+      wait at anchorage awaiting
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: last week at USD 624/Ton (almost USD 40/Ton lower than previous highs),
+      all while the Pakistani
+    unit: usd
+    values:
+    - 624.0
+    - 40.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Rupee loses another 26 basis points, to end the week at PKR 280.34
+      against the U.S. Dollar.
+    unit: null
+    values:
+    - 26.0
+    - 280.34
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: announced an additional 29% blanket tariffs on all imports from Pakistan,
+      which could seriously
+    unit: pct
+    values:
+    - 29.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Similar to the performances of its sub-continent ship recycling associates,
+      Aliaga recyclers spent the 10%
+    unit: pct
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: week. Moreover, being the one ship recycling destination to have
+      faced only 10% of Trump's tariffs
+    unit: pct
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: For Week 14 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 14.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Stable 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Stable 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Stable 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line:  Around the world, more than 10,000 barcodes are scanned every second.
+    unit: null
+    values:
+    - 10000.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line:  McDonald's cooked its French fries in beef tallow until 1990.
+    unit: null
+    values:
+    - 1990.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line:  The fast-food giant also grills its beef patties for exactly 42
+      seconds.
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 10 - Mahavir Jayanti March 27 - April 05
+    unit: null
+    values:
+    - 10.0
+    - 27.0
+    - 5.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Dr. Ambedkar Jayanti April 12 - April 17
+    unit: null
+    values:
+    - 14.0
+    - 12.0
+    - 17.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 18 - Good Friday April 26 - May 03
+    unit: null
+    values:
+    - 18.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 20 - Easter Sunday
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year April 12 - April 15
+    unit: null
+    values:
+    - 14.0
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: April 27 - April 30
+    unit: null
+    values:
+    - 27.0
+    - 30.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - 05 - Labor Day May 01 - Labor Day April 23 - National Sovereignty
+      &
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 1.0
+    - 23.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: May 31 - June 02 - Dragon Boat Holiday Children's Day
+    unit: null
+    values:
+    - 31.0
+    - 2.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 04, 2025
+    unit: null
+    values:
+    - 4.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 1 Athena 1,178 Supply Vessel Arrived April 03
+    unit: null
+    values:
+    - 1.0
+    - 1178.0
+    - 3.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ion 3,868 Chemical Tanker Delivered March 29
+    unit: null
+    values:
+    - 2.0
+    - 3868.0
+    - 29.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 5,046
+    unit: null
+    values:
+    - 5046.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 04, 2025
+    unit: null
+    values:
+    - 4.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 1 Elli 9,242 Bulk Carrier Delivered April 01
+    unit: null
+    values:
+    - 1.0
+    - 9242.0
+    - 1.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 2 Equator 42,649 Tanker Delivered March 30
+    unit: null
+    values:
+    - 2.0
+    - 42649.0
+    - 30.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3 Rich Anna 1,011 General Cargo Arrived March 26
+    unit: null
+    values:
+    - 3.0
+    - 1011.0
+    - 26.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 4 Three Star 7,627 Bulk Carrier Delivered March 29
+    unit: null
+    values:
+    - 4.0
+    - 7627.0
+    - 29.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 60,529
+    unit: null
+    values:
+    - 60529.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 04, 2025
+    unit: null
+    values:
+    - 4.0
+    - 2025.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atlantic 22 5,219 Bulk Carrier Delivered March 26
+    unit: null
+    values:
+    - 1.0
+    - 22.0
+    - 5219.0
+    - 26.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 2 DSM Star 8,000 Bulk Carrier Arrived April 02
+    unit: null
+    values:
+    - 2.0
+    - 8000.0
+    - 2.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3 Marco 975 Standby-Safety Vessel Delivered March 27
+    unit: null
+    values:
+    - 3.0
+    - 975.0
+    - 27.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 4 Neptune Star 25 5,471 Bulk Carrier Delivered March 25
+    unit: null
+    values:
+    - 4.0
+    - 25.0
+    - 5471.0
+    - 25.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 19,665
+    unit: null
+    values:
+    - 19665.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3/29/2025 464.49 39,700.00 627.79 175,000.00 529.41 63,000.00 311.57
+    unit: null
+    values:
+    - 3.0
+    - 29.0
+    - 2025.0
+    - 464.49
+    - 39700.0
+    - 627.79
+    - 175000.0
+    - 529.41
+    - 63000.0
+    - 311.57
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3/30/2025 464.49 39,700.00 624.22 175,000.00 529.41 63,000.00 311.57
+    unit: null
+    values:
+    - 3.0
+    - 30.0
+    - 2025.0
+    - 464.49
+    - 39700.0
+    - 624.22
+    - 175000.0
+    - 529.41
+    - 63000.0
+    - 311.57
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 3/31/2025 466.83 39,900.00 624.22 175,000.00 529.41 63,000.00 308.57
+    unit: null
+    values:
+    - 3.0
+    - 31.0
+    - 2025.0
+    - 466.83
+    - 39900.0
+    - 624.22
+    - 175000.0
+    - 529.41
+    - 63000.0
+    - 308.57
+  - section: 'Linked asset: 2025-04-07_gms-week-14-tariff-truffle_ship-recycling-market-insight-week-1_369afb2f0780.pdf'
+    section_type: linked_pdf
+    source_line: 4/1/2025 469.17 40,100.00 624.22 175,000.00 529.41 63,000.00 308.57
+    unit: null
+    values:
+    - 4.0
+    - 1.0
+    - 2025.0
+    - 469.17
+    - 40100.0
+    - 624.22
+    - 175000.0
+    - 529.41
+    - 63000.0
+    - 308.57
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-04-07_gms-week-14-tariff-truffle.html
 source_stem: 2025-04-07_gms-week-14-tariff-truffle

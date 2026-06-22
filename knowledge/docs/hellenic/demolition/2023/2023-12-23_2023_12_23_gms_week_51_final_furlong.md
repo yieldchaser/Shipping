@@ -28,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 74
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: As we enter the last week of 2023, sub continent markets struggle on,
     going the final furlong to round out what has been an overall disappointing year
@@ -37,8 +36,7 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Prices have once again collapsed from over USD 600/LDT to below USD
     500/LDT over certain stages this year, seeing around USD 150/LDT wiped from residual
@@ -48,8 +46,7 @@ numeric_observations:
   - 600.0
   - 500.0
   - 150.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Now that currencies and steel prices seem to have stabilized across
     the board for the time being, many will be hoping for a more bullish 2024, particularly
@@ -58,8 +55,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: International prices have actually gained good ground over the last
     quarter of the year - but markets in India have yet to keep pace - instead actually
@@ -69,8 +65,7 @@ numeric_observations:
   values:
   - 7.0
   - -8.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Regulatory aspects are certain to cause disruption in 2024 also - with
     the new UAE ship recycling directive coming into effect and the EU finally willing
@@ -78,8 +73,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 51 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -87,8 +81,7 @@ numeric_observations:
   values:
   - 51.0
   - 2023.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   unit: null
@@ -100,16 +93,14 @@ numeric_observations:
   - 221220234.0
   - 9.0
   - 86043.0
-- &id008
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Decembe r 22nd, 2023 "At Christmas, all roads lead home."
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id009
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Volume 2 56, Issue 1114
   unit: null
@@ -117,23 +108,20 @@ numeric_observations:
   - 2.0
   - 56.0
   - 1114.0
-- &id010
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Week 51
   unit: null
   values:
   - 51.0
-- &id011
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: • Disappointing. As we enter the last week of 2023, sub continent markets
     struggle on, going the fina l furlong to
   unit: null
   values:
   - 2023.0
-- &id012
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Prices have once again collapsed from over USD 600/LDT to below USD
     500/LDT over certain
@@ -141,24 +129,21 @@ numeric_observations:
   values:
   - 600.0
   - 500.0
-- &id013
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: stages this year, seeing around USD 150/LDT wiped from residual values
     in a shock for owners
   unit: usd
   values:
   - 150.0
-- &id014
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: many will be hoping for a more bullish 2024, particularly as the supply
     of tonnage is set to
   unit: null
   values:
   - 2024.0
-- &id015
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: mD arkets in India have yet to keep pace - instead actually losing
     around 7-8 percent of value in
@@ -166,16 +151,14 @@ numeric_observations:
   values:
   - 7.0
   - -8.0
-- &id016
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: • Regulation time. Regulatory aspects are certain to cause disruption
     in 2024 also - with the new UAE ship
   unit: null
   values:
   - 2024.0
-- &id017
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: For week 51 of 2023, GMS demo rankings / pricing for the week are as
     below.
@@ -183,8 +166,7 @@ numeric_observations:
   values:
   - 51.0
   - 2023.0
-- &id018
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 1 India Weak 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -193,8 +175,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id019
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
   unit: null
@@ -203,8 +184,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 540.0
-- &id020
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 3 Bangladesh* Weak 490 / LDT 510 / LDT 530 / LDT
   unit: null
@@ -213,8 +193,7 @@ numeric_observations:
   - 490.0
   - 510.0
   - 530.0
-- &id021
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Improving 305 / LDT 315 / LDT 325 / LDT
   unit: null
@@ -223,40 +202,35 @@ numeric_observations:
   - 305.0
   - 315.0
   - 325.0
-- &id022
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: The constant decline of local steel prices has not been tempered either,
     with almost 1,000
   unit: null
   values:
   - 1000.0
-- &id025
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Favoured tonnage through the year has been around the 9-10kldt mark
     for bulkers
@@ -264,69 +238,60 @@ numeric_observations:
   values:
   - 9.0
   - -10.0
-- &id027
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: USD 8/MT jump.
   unit: tonnage
   values:
   - 8.0
-- &id029
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: As import steel plate prices improved by another USD 8/Ton, which may
     have (directly or
   unit: usd
   values:
   - 8.0
-- &id030
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: indirectly) affected local offerings by another USD 5/MT this week,
     the Lira continues to
   unit: tonnage
   values:
   - 5.0
-- &id031
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: eventual TRY 29 leap.
   unit: null
   values:
   - 29.0
-- &id032
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Overall, this market, while firming, continues to suffer from the deathly
     starvation of Closer to TRY 29?
   unit: null
   values:
   - 29.0
-- &id033
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 4,921,200 miles per hour!
   unit: null
   values:
   - 4921200.0
-- &id035
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line:  In 20 15, the world's first Christmas card commissioned by Sir Henry
     Cole in 1843 sold for £8,469 ($10,513.84). The
@@ -337,29 +302,25 @@ numeric_observations:
   - 1843.0
   - 8469.0
   - 10513.84
-- &id036
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line:  Edw ard Johnson invented the first electric tree lights in 1882.
   unit: null
   values:
   - 1882.0
-- &id037
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line:  The first Christmas was supposedly held in York, the UK, in 521AD.
   unit: null
   values:
   - 521.0
-- &id038
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Cola had an advertisement campaign in the '30s.
   unit: null
   values:
   - 30.0
-- &id039
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 24 - Christmas Eve November 12 - November 19
   unit: null
@@ -367,8 +328,7 @@ numeric_observations:
   - 24.0
   - 12.0
   - 19.0
-- &id040
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day November 25 - December 02
   unit: null
@@ -376,8 +336,7 @@ numeric_observations:
   - 25.0
   - 25.0
   - 2.0
-- &id041
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 26 - Christmas Holiday December 11 - December 19
   unit: null
@@ -385,8 +344,7 @@ numeric_observations:
   - 26.0
   - 11.0
   - 19.0
-- &id042
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 31 - New Year's Eve December 24 - December 31
   unit: null
@@ -394,8 +352,7 @@ numeric_observations:
   - 31.0
   - 24.0
   - 31.0
-- &id043
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 16 - Victory Day November 25 - November 28
   unit: null
@@ -403,8 +360,7 @@ numeric_observations:
   - 16.0
   - 25.0
   - 28.0
-- &id044
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 25 - Christmas Day December 12 - December 15
   unit: null
@@ -412,8 +368,7 @@ numeric_observations:
   - 25.0
   - 12.0
   - 15.0
-- &id045
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 31 - Bank Holiday December 26 - December 29
   unit: null
@@ -421,39 +376,34 @@ numeric_observations:
   - 31.0
   - 26.0
   - 29.0
-- &id046
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: No holidays in December December 25 - Quaid-e-Azam Day No holidays
     in December
   unit: null
   values:
   - 25.0
-- &id047
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: December 26 - Day After Christmas
   unit: null
   values:
   - 26.0
-- &id048
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of December 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id050
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 1 One Story 7,775 Bulker Beached December 14
   unit: null
@@ -461,8 +411,7 @@ numeric_observations:
   - 1.0
   - 7775.0
   - 14.0
-- &id051
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 2 Yang 7,481 Bulker Beached December 15
   unit: null
@@ -470,8 +419,7 @@ numeric_observations:
   - 2.0
   - 7481.0
   - 15.0
-- &id052
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 3 Aleksandr Shalin 839 Fish Carrier Beached December 16
   unit: null
@@ -479,23 +427,20 @@ numeric_observations:
   - 3.0
   - 839.0
   - 16.0
-- &id053
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 16,095
   unit: null
   values:
   - 16095.0
-- &id054
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of December 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id055
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 1 Shun Shin 527 General Cargo Beached December 11
   unit: null
@@ -503,31 +448,27 @@ numeric_observations:
   - 1.0
   - 527.0
   - 11.0
-- &id056
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 527
   unit: null
   values:
   - 527.0
-- &id057
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of December 15, 2023
   unit: null
   values:
   - 15.0
   - 2023.0
-- &id058
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/11/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
   unit: null
@@ -542,8 +483,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 360.17
-- &id060
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/12/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
   unit: null
@@ -558,8 +498,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 360.17
-- &id061
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/13/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
   unit: null
@@ -574,8 +513,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 360.17
-- &id062
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/14/2023 507.80 42,300.00 706.71 200,000.00 581.30 71,500.00 362.98
   unit: null
@@ -590,8 +528,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 362.98
-- &id063
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/15/2023 506.37 42,100.00 706.71 200,000.00 581.30 71,500.00 362.98
   unit: null
@@ -606,8 +543,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 362.98
-- &id064
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/16/2023 510.63 42,500.00 706.71 200,000.00 581.30 71,500.00 362.98
   unit: null
@@ -622,8 +558,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 362.98
-- &id065
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 11/17/2023 504.32 42,000.00 706.71 200,000.00 581.30 71,500.00 362.98
   unit: null
@@ -638,8 +573,7 @@ numeric_observations:
   - 581.3
   - 71500.0
   - 362.98
-- &id066
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -648,8 +582,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id067
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -658,8 +591,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id068
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -668,8 +600,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id069
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -678,8 +609,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id070
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -688,8 +618,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id071
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   unit: null
@@ -701,24 +630,21 @@ numeric_observations:
   - 221220234.0
   - 9.0
   - 86043.0
-- &id072
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x170 mode=RGB'
   unit: null
   values:
   - 687.0
   - 70.0
-- &id073
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (144.0, 144.0)'
   unit: null
   values:
   - 144.0
   - 144.0
-- &id074
-  section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+- section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
   section_type: linked_image_asset
   source_line: '| 3 _| Bangladesh* 490 / LDT 510/LDT 530/LDT'
   unit: null
@@ -737,80 +663,631 @@ section_count: 3
 signals:
   numeric_observation_count: 74
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
+  - section: Main
+    section_type: null
+    source_line: As we enter the last week of 2023, sub continent markets struggle
+      on, going the final furlong to round out what has been an overall disappointing
+      year in terms of pricing and volumes.
+    unit: null
+    values:
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: Prices have once again collapsed from over USD 600/LDT to below USD
+      500/LDT over certain stages this year, seeing around USD 150/LDT wiped from
+      residual values in a shock for owners and cash buyers alike.
+    unit: usd
+    values:
+    - 600.0
+    - 500.0
+    - 150.0
+  - section: Main
+    section_type: null
+    source_line: Now that currencies and steel prices seem to have stabilized across
+      the board for the time being, many will be hoping for a more bullish 2024, particularly
+      as the supply of tonnage is set to increase - from both the dry bulk and container
+      sectors.
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: International prices have actually gained good ground over the last
+      quarter of the year - but markets in India have yet to keep pace - instead actually
+      losing around 7-8 percent of value in the last month alone, with further losses
+      biting also this week.
+    unit: null
+    values:
+    - 7.0
+    - -8.0
+  - section: Main
+    section_type: null
+    source_line: Regulatory aspects are certain to cause disruption in 2024 also -
+      with the new UAE ship recycling directive coming into effect and the EU finally
+      willing to consider adding Indian yards to their approved recycling list.
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: For week 51 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 51.0
+    - 2023.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -12.0
+    - -23.0
+    - 51.0
+    - 221220234.0
+    - 9.0
+    - 86043.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Decembe r 22nd, 2023 "At Christmas, all roads lead home."
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 56, Issue 1114
+    unit: null
+    values:
+    - 2.0
+    - 56.0
+    - 1114.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Week 51
+    unit: null
+    values:
+    - 51.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: • Disappointing. As we enter the last week of 2023, sub continent
+      markets struggle on, going the fina l furlong to
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Prices have once again collapsed from over USD 600/LDT to below USD
+      500/LDT over certain
+    unit: usd
+    values:
+    - 600.0
+    - 500.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: stages this year, seeing around USD 150/LDT wiped from residual values
+      in a shock for owners
+    unit: usd
+    values:
+    - 150.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: many will be hoping for a more bullish 2024, particularly as the
+      supply of tonnage is set to
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: mD arkets in India have yet to keep pace - instead actually losing
+      around 7-8 percent of value in
+    unit: null
+    values:
+    - 7.0
+    - -8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: • Regulation time. Regulatory aspects are certain to cause disruption
+      in 2024 also - with the new UAE ship
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: For week 51 of 2023, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 51.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 1 India Weak 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Weak 500 / LDT 520 / LDT 540 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 540.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bangladesh* Weak 490 / LDT 510 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 490.0
+    - 510.0
+    - 530.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Improving 305 / LDT 315 / LDT 325 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 305.0
+    - 315.0
+    - 325.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: The constant decline of local steel prices has not been tempered
+      either, with almost 1,000
+    unit: null
+    values:
+    - 1000.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Favoured tonnage through the year has been around the 9-10kldt mark
+      for bulkers
+    unit: null
+    values:
+    - 9.0
+    - -10.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: USD 8/MT jump.
+    unit: tonnage
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: As import steel plate prices improved by another USD 8/Ton, which
+      may have (directly or
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: indirectly) affected local offerings by another USD 5/MT this week,
+      the Lira continues to
+    unit: tonnage
+    values:
+    - 5.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: eventual TRY 29 leap.
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Overall, this market, while firming, continues to suffer from the
+      deathly starvation of Closer to TRY 29?
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 4,921,200 miles per hour!
+    unit: null
+    values:
+    - 4921200.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line:  In 20 15, the world's first Christmas card commissioned by Sir
+      Henry Cole in 1843 sold for £8,469 ($10,513.84). The
+    unit: usd
+    values:
+    - 20.0
+    - 15.0
+    - 1843.0
+    - 8469.0
+    - 10513.84
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line:  Edw ard Johnson invented the first electric tree lights in 1882.
+    unit: null
+    values:
+    - 1882.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line:  The first Christmas was supposedly held in York, the UK, in 521AD.
+    unit: null
+    values:
+    - 521.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Cola had an advertisement campaign in the '30s.
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 24 - Christmas Eve November 12 - November 19
+    unit: null
+    values:
+    - 24.0
+    - 12.0
+    - 19.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day November 25 - December 02
+    unit: null
+    values:
+    - 25.0
+    - 25.0
+    - 2.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 26 - Christmas Holiday December 11 - December 19
+    unit: null
+    values:
+    - 26.0
+    - 11.0
+    - 19.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - New Year's Eve December 24 - December 31
+    unit: null
+    values:
+    - 31.0
+    - 24.0
+    - 31.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 16 - Victory Day November 25 - November 28
+    unit: null
+    values:
+    - 16.0
+    - 25.0
+    - 28.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 25 - Christmas Day December 12 - December 15
+    unit: null
+    values:
+    - 25.0
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 31 - Bank Holiday December 26 - December 29
+    unit: null
+    values:
+    - 31.0
+    - 26.0
+    - 29.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in December December 25 - Quaid-e-Azam Day No holidays
+      in December
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: December 26 - Day After Christmas
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of December 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 1 One Story 7,775 Bulker Beached December 14
+    unit: null
+    values:
+    - 1.0
+    - 7775.0
+    - 14.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 2 Yang 7,481 Bulker Beached December 15
+    unit: null
+    values:
+    - 2.0
+    - 7481.0
+    - 15.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 3 Aleksandr Shalin 839 Fish Carrier Beached December 16
+    unit: null
+    values:
+    - 3.0
+    - 839.0
+    - 16.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 16,095
+    unit: null
+    values:
+    - 16095.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of December 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 1 Shun Shin 527 General Cargo Beached December 11
+    unit: null
+    values:
+    - 1.0
+    - 527.0
+    - 11.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 527
+    unit: null
+    values:
+    - 527.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of December 15, 2023
+    unit: null
+    values:
+    - 15.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/11/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
+    unit: null
+    values:
+    - 11.0
+    - 11.0
+    - 2023.0
+    - 507.56
+    - 42300.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 360.17
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/12/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
+    unit: null
+    values:
+    - 11.0
+    - 12.0
+    - 2023.0
+    - 507.56
+    - 42300.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 360.17
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/13/2023 507.56 42,300.00 706.71 200,000.00 581.30 71,500.00 360.17
+    unit: null
+    values:
+    - 11.0
+    - 13.0
+    - 2023.0
+    - 507.56
+    - 42300.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 360.17
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/14/2023 507.80 42,300.00 706.71 200,000.00 581.30 71,500.00 362.98
+    unit: null
+    values:
+    - 11.0
+    - 14.0
+    - 2023.0
+    - 507.8
+    - 42300.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 362.98
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/15/2023 506.37 42,100.00 706.71 200,000.00 581.30 71,500.00 362.98
+    unit: null
+    values:
+    - 11.0
+    - 15.0
+    - 2023.0
+    - 506.37
+    - 42100.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 362.98
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/16/2023 510.63 42,500.00 706.71 200,000.00 581.30 71,500.00 362.98
+    unit: null
+    values:
+    - 11.0
+    - 16.0
+    - 2023.0
+    - 510.63
+    - 42500.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 362.98
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 11/17/2023 504.32 42,000.00 706.71 200,000.00 581.30 71,500.00 362.98
+    unit: null
+    values:
+    - 11.0
+    - 17.0
+    - 2023.0
+    - 504.32
+    - 42000.0
+    - 706.71
+    - 200000.0
+    - 581.3
+    - 71500.0
+    - 362.98
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_2220december202023_8d20a5107e72.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    unit: null
+    values:
+    - 2023.0
+    - -12.0
+    - -23.0
+    - 51.0
+    - 221220234.0
+    - 9.0
+    - 86043.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x170 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 70.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (144.0, 144.0)'
+    unit: null
+    values:
+    - 144.0
+    - 144.0
+  - section: 'Linked asset: 2023-12-23_gms-week-51-final-furlong_img1_221220234_ba89a9086043.jpg'
+    section_type: linked_image_asset
+    source_line: '| 3 _| Bangladesh* 490 / LDT 510/LDT 530/LDT'
+    unit: null
+    values:
+    - 3.0
+    - 490.0
+    - 510.0
+    - 530.0
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-12-23_gms-week-51-final-furlong.html
 source_stem: 2023-12-23_gms-week-51-final-furlong

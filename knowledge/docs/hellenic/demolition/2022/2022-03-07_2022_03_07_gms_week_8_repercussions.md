@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 117
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Even in Turkey, both import and local steel plate prices have made
     improvements this week, with levels for all types of tonnage now firmly poised
@@ -39,8 +38,7 @@ numeric_observations:
   unit: usd
   values:
   - 400.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, Chattogram continues to lead the way with some of the best
     rates witnessed in the sub-continent since the shipping boom of 2008, during which,
@@ -50,8 +48,7 @@ numeric_observations:
   values:
   - 2008.0
   - 800.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Commodity prices have also surged during this bleak time of conflict
     and the cost to operate / deliver a vessel for recycling has also risen exponentially,
@@ -60,8 +57,7 @@ numeric_observations:
   unit: usd
   values:
   - 100.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 9 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -69,8 +65,7 @@ numeric_observations:
   values:
   - 9.0
   - 2022.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-03-07_gms-week-8-repercussions_img1_0703fggtgms_d3e787e3d170.jpg'
   unit: null
@@ -82,63 +77,55 @@ numeric_observations:
   - 703.0
   - 87.0
   - 70.0
-- &id006
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 4th, 2022 "The most difficult thing is the decision to act,
   unit: null
   values:
   - 4.0
   - 2022.0
-- &id007
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Volume 235, Issue 1021 the rest is merely tenacity."
   unit: null
   values:
   - 235.0
   - 1021.0
-- &id008
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Week 9 - Amelia Earhart
   unit: null
   values:
   - 9.0
-- &id009
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: with levels for all types of tonnage now firmly poised past the USD
     400/Ton barrier - a first in
   unit: usd
   values:
   - 400.0
-- &id010
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: sub-continent since the shipping boom of 2008, during which, the world
     saw recycling prices
   unit: null
   values:
   - 2008.0
-- &id011
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: exceed USD 800/LDT. However, there seems little danger of that feat
     being repeated once again
   unit: usd
   values:
   - 800.0
-- &id012
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: that are now positioned well above USD 100 / barrel (at the time of
     writing).
   unit: usd
   values:
   - 100.0
-- &id013
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: For week 9 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -146,8 +133,7 @@ numeric_observations:
   values:
   - 9.0
   - 2022.0
-- &id014
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Firm 630 / LDT 640 / LDT 650 / LDT
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 630.0
   - 640.0
   - 650.0
-- &id015
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 India Firmer 620 / LDT 630 / LDT 640 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 620.0
   - 630.0
   - 640.0
-- &id016
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Firm 610 / LDT 620 / LDT 630 / LDT
   unit: null
@@ -176,8 +160,7 @@ numeric_observations:
   - 610.0
   - 620.0
   - 630.0
-- &id017
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Hot 400 / LDT 410 / LDT 420 / LDT
   unit: null
@@ -186,39 +169,34 @@ numeric_observations:
   - 400.0
   - 410.0
   - 420.0
-- &id018
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: levels jumped nearly USD 42/Ton, leading t o some of the best recycling
     offers we have
   unit: usd
   values:
   - 42.0
-- &id020
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: seen since the highs of 2008.
   unit: null
   values:
   - 2008.0
-- &id021
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: We h ave n ot reached USD 700/LDT on standard vessels just quite yet,
     with mid USD
   unit: usd
   values:
   - 700.0
-- &id022
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: No 700s. 600s/LDT being seen for the time being, on th e slimmer array
     of vessels that are working
@@ -226,138 +204,120 @@ numeric_observations:
   values:
   - 700.0
   - 600.0
-- &id023
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id024
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: remarkable gains - firming by about USD 46/Ton within this week alone
     - whist the Indian
   unit: usd
   values:
   - 46.0
-- &id025
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Rupee (that is now reflecting the global currency volatility) is trading
     in the high Rs. 76s
   unit: null
   values:
   - 76.0
-- &id026
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: heavier ice classed and large LDT BERGE ARCTIC (27,461 LDT) was finalised
     for a
   unit: null
   values:
   - 27461.0
-- &id027
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: whopping USD 660/LDT, on a delivered bas is.
   unit: usd
   values:
   - 660.0
-- &id028
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: USD 660/LT LDT (for full range HKC
   unit: usd
   values:
   - 660.0
-- &id029
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: BERGE ARCTIC Bulker 27,461
   unit: null
   values:
   - 27461.0
-- &id030
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: improvement certainly remains of concern given that levels for all
     types of vessels have 400/Ton.
   unit: null
   values:
   - 400.0
-- &id033
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: now firmly jumped across USD 400/Ton.
   unit: usd
   values:
   - 400.0
-- &id034
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: TRY 14.1X against the U.S. Dollar in light of the unfolding crisis.
   unit: null
   values:
   - 14.1
-- &id035
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line:  The White House in Washington, DC, has 132 rooms, including 35 bathrooms.
   unit: null
   values:
   - 132.0
   - 35.0
-- &id037
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line:  It ta kes 570 gallons to paint the exterior of the White House.
   unit: null
   values:
   - 570.0
-- &id038
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line:  Lincoln Logs were created by John Lloyd Wright, son of famous architect
     Frank Lloyd Wright, in the 1920s.
   unit: null
   values:
   - 1920.0
-- &id039
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line:  In th e 1940s, a retired schoolteacher came up with Candyland to
     entertain children who were hospitalized from
   unit: null
   values:
   - 1940.0
-- &id040
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 01 - Maha Shivratri February 28 - March 06
   unit: null
@@ -365,8 +325,7 @@ numeric_observations:
   - 1.0
   - 28.0
   - 6.0
-- &id041
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 19 - Holi March 17 - March 24
   unit: null
@@ -374,8 +333,7 @@ numeric_observations:
   - 19.0
   - 17.0
   - 24.0
-- &id042
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 17 - Birthday of Sheikh Mujibur Rehman March 03 - March 06
   unit: null
@@ -383,8 +341,7 @@ numeric_observations:
   - 17.0
   - 3.0
   - 6.0
-- &id043
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 19 - Shab-e-Barat March 19 - March 22
   unit: null
@@ -392,38 +349,33 @@ numeric_observations:
   - 19.0
   - 19.0
   - 22.0
-- &id044
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id045
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: No holidays in March March 23 - Pakistan Day No holidays in March.
   unit: null
   values:
   - 23.0
-- &id046
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id047
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of March 04, 2022
   unit: null
   values:
   - 4.0
   - 2022.0
-- &id048
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 1 Harriet 2,292 Tanker Arrived December 09
   unit: null
@@ -431,8 +383,7 @@ numeric_observations:
   - 1.0
   - 2292.0
   - 9.0
-- &id049
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
     12
@@ -441,8 +392,7 @@ numeric_observations:
   - 2.0
   - 2778.0
   - 12.0
-- &id050
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 3 Odin 9,835 LPG Beached March 04
   unit: null
@@ -450,8 +400,7 @@ numeric_observations:
   - 3.0
   - 9835.0
   - 4.0
-- &id051
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 4 Pavel Panin 3,153 Fishing vessel Arrived March 01
   unit: null
@@ -459,8 +408,7 @@ numeric_observations:
   - 4.0
   - 3153.0
   - 1.0
-- &id052
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 5 Sayyaf 771 Supply Vessel Beached March 01
   unit: null
@@ -468,8 +416,7 @@ numeric_observations:
   - 5.0
   - 771.0
   - 1.0
-- &id053
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 6 Vice 27,130 FPSO Beached March 01
   unit: null
@@ -477,23 +424,20 @@ numeric_observations:
   - 6.0
   - 27130.0
   - 1.0
-- &id054
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 45,959
   unit: null
   values:
   - 45959.0
-- &id055
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of March 04, 2022
   unit: null
   values:
   - 4.0
   - 2022.0
-- &id056
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 1 Bell 17,649 Bulk Carrier Beached March 04
   unit: null
@@ -501,8 +445,7 @@ numeric_observations:
   - 1.0
   - 17649.0
   - 4.0
-- &id057
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 Berge Aoraki 21,285 Bulk Carrier Beached March 04
   unit: null
@@ -510,8 +453,7 @@ numeric_observations:
   - 2.0
   - 21285.0
   - 4.0
-- &id058
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 3 Distya Pushti 10,222 Tanker Beached March 04
   unit: null
@@ -519,8 +461,7 @@ numeric_observations:
   - 3.0
   - 10222.0
   - 4.0
-- &id059
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 4 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -528,8 +469,7 @@ numeric_observations:
   - 4.0
   - 16885.0
   - 28.0
-- &id060
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 5 Hang 6,904 Reefer Arrived March 02
   unit: null
@@ -537,8 +477,7 @@ numeric_observations:
   - 5.0
   - 6904.0
   - 2.0
-- &id061
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 6 Kane 12,389 Tanker Arrived February 25
   unit: null
@@ -546,8 +485,7 @@ numeric_observations:
   - 6.0
   - 12389.0
   - 25.0
-- &id062
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 7 Qinghai Lake 16,365 Tanker Beached March 04
   unit: null
@@ -555,8 +493,7 @@ numeric_observations:
   - 7.0
   - 16365.0
   - 4.0
-- &id063
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 8 Star 9,612 Tanker Beached March 03
   unit: null
@@ -564,23 +501,20 @@ numeric_observations:
   - 8.0
   - 9612.0
   - 3.0
-- &id064
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 111,311
   unit: null
   values:
   - 111311.0
-- &id065
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of March 04, 2022
   unit: null
   values:
   - 4.0
   - 2022.0
-- &id066
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 1 Atlantic Enterprise 4,083.00 Accommodation Ship Arrived February
     07
@@ -589,8 +523,7 @@ numeric_observations:
   - 1.0
   - 4083.0
   - 7.0
-- &id067
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 DB Global 1 1,563.00 Barge Arrived February 01
   unit: null
@@ -599,8 +532,7 @@ numeric_observations:
   - 1.0
   - 1563.0
   - 1.0
-- &id068
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 3 Jicore 9 468.00 Tug Arrived February 01
   unit: null
@@ -609,8 +541,7 @@ numeric_observations:
   - 9.0
   - 468.0
   - 1.0
-- &id069
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 4 Medrock 949.00 Barge Beached February 28
   unit: null
@@ -618,8 +549,7 @@ numeric_observations:
   - 4.0
   - 949.0
   - 28.0
-- &id070
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 5 New Inspiration 40,737.00 VLCC Beached March 02
   unit: null
@@ -627,8 +557,7 @@ numeric_observations:
   - 5.0
   - 40737.0
   - 2.0
-- &id071
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 6 Star 1 17,586.00 Tanker Arrived March 02
   unit: null
@@ -637,15 +566,13 @@ numeric_observations:
   - 1.0
   - 17586.0
   - 2.0
-- &id072
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 65,386
   unit: null
   values:
   - 65386.0
-- &id073
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -654,8 +581,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id074
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -664,8 +590,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id075
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -674,8 +599,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id076
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -684,8 +608,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id077
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -694,8 +617,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id078
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 /2 6 /2 0 2 2
   unit: null
@@ -706,8 +628,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id079
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 /2 7 /2 0 2 2
   unit: null
@@ -718,8 +639,7 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id080
-  section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+- section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
   section_type: linked_pdf
   source_line: 2 /2 8 /2 0 2 2
   unit: null
@@ -1054,86 +974,627 @@ section_count: 3
 signals:
   numeric_observation_count: 117
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Even in Turkey, both import and local steel plate prices have made
+      improvements this week, with levels for all types of tonnage now firmly poised
+      past the USD 400/Ton barrier - a first in memorable history.
+    unit: usd
+    values:
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, Chattogram continues to lead the way with some of the
+      best rates witnessed in the sub-continent since the shipping boom of 2008, during
+      which, the world saw recycling prices exceed USD 800/LDT. However, there seems
+      little danger of that feat being r
+    unit: usd
+    values:
+    - 2008.0
+    - 800.0
+  - section: Main
+    section_type: null
+    source_line: 'Commodity prices have also surged during this bleak time of conflict
+      and the cost to operate / deliver a vessel for recycling has also risen exponentially,
+      primarily due to soaring oil prices that are now positioned well above USD 100
+      / barrel (at the time of '
+    unit: usd
+    values:
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: For week 9 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-03-07_gms-week-8-repercussions_img1_0703fggtgms_d3e787e3d170.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -3.0
+    - -7.0
+    - 8.0
+    - 703.0
+    - 87.0
+    - 70.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 4th, 2022 "The most difficult thing is the decision to act,
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Volume 235, Issue 1021 the rest is merely tenacity."
+    unit: null
+    values:
+    - 235.0
+    - 1021.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Week 9 - Amelia Earhart
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: with levels for all types of tonnage now firmly poised past the USD
+      400/Ton barrier - a first in
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: sub-continent since the shipping boom of 2008, during which, the
+      world saw recycling prices
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: exceed USD 800/LDT. However, there seems little danger of that feat
+      being repeated once again
+    unit: usd
+    values:
+    - 800.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: that are now positioned well above USD 100 / barrel (at the time
+      of writing).
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: For week 9 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 9.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Firm 630 / LDT 640 / LDT 650 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 630.0
+    - 640.0
+    - 650.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Firmer 620 / LDT 630 / LDT 640 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 620.0
+    - 630.0
+    - 640.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Firm 610 / LDT 620 / LDT 630 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 610.0
+    - 620.0
+    - 630.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Hot 400 / LDT 410 / LDT 420 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 400.0
+    - 410.0
+    - 420.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: levels jumped nearly USD 42/Ton, leading t o some of the best recycling
+      offers we have
+    unit: usd
+    values:
+    - 42.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: seen since the highs of 2008.
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: We h ave n ot reached USD 700/LDT on standard vessels just quite
+      yet, with mid USD
+    unit: usd
+    values:
+    - 700.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: No 700s. 600s/LDT being seen for the time being, on th e slimmer
+      array of vessels that are working
+    unit: null
+    values:
+    - 700.0
+    - 600.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: remarkable gains - firming by about USD 46/Ton within this week alone
+      - whist the Indian
+    unit: usd
+    values:
+    - 46.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Rupee (that is now reflecting the global currency volatility) is
+      trading in the high Rs. 76s
+    unit: null
+    values:
+    - 76.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: heavier ice classed and large LDT BERGE ARCTIC (27,461 LDT) was finalised
+      for a
+    unit: null
+    values:
+    - 27461.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: whopping USD 660/LDT, on a delivered bas is.
+    unit: usd
+    values:
+    - 660.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: USD 660/LT LDT (for full range HKC
+    unit: usd
+    values:
+    - 660.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: BERGE ARCTIC Bulker 27,461
+    unit: null
+    values:
+    - 27461.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: improvement certainly remains of concern given that levels for all
+      types of vessels have 400/Ton.
+    unit: null
+    values:
+    - 400.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: now firmly jumped across USD 400/Ton.
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: TRY 14.1X against the U.S. Dollar in light of the unfolding crisis.
+    unit: null
+    values:
+    - 14.1
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line:  The White House in Washington, DC, has 132 rooms, including 35
+      bathrooms.
+    unit: null
+    values:
+    - 132.0
+    - 35.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line:  It ta kes 570 gallons to paint the exterior of the White House.
+    unit: null
+    values:
+    - 570.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line:  Lincoln Logs were created by John Lloyd Wright, son of famous architect
+      Frank Lloyd Wright, in the 1920s.
+    unit: null
+    values:
+    - 1920.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line:  In th e 1940s, a retired schoolteacher came up with Candyland to
+      entertain children who were hospitalized from
+    unit: null
+    values:
+    - 1940.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 01 - Maha Shivratri February 28 - March 06
+    unit: null
+    values:
+    - 1.0
+    - 28.0
+    - 6.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Holi March 17 - March 24
+    unit: null
+    values:
+    - 19.0
+    - 17.0
+    - 24.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 17 - Birthday of Sheikh Mujibur Rehman March 03 - March 06
+    unit: null
+    values:
+    - 17.0
+    - 3.0
+    - 6.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Shab-e-Barat March 19 - March 22
+    unit: null
+    values:
+    - 19.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: No holidays in March March 23 - Pakistan Day No holidays in March.
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of March 04, 2022
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Harriet 2,292 Tanker Arrived December 09
+    unit: null
+    values:
+    - 1.0
+    - 2292.0
+    - 9.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 MNG Capt James Cook (Under Tow) 2,778 Supply Vessel Arrived February
+      12
+    unit: null
+    values:
+    - 2.0
+    - 2778.0
+    - 12.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Odin 9,835 LPG Beached March 04
+    unit: null
+    values:
+    - 3.0
+    - 9835.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Pavel Panin 3,153 Fishing vessel Arrived March 01
+    unit: null
+    values:
+    - 4.0
+    - 3153.0
+    - 1.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 5 Sayyaf 771 Supply Vessel Beached March 01
+    unit: null
+    values:
+    - 5.0
+    - 771.0
+    - 1.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 6 Vice 27,130 FPSO Beached March 01
+    unit: null
+    values:
+    - 6.0
+    - 27130.0
+    - 1.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 45,959
+    unit: null
+    values:
+    - 45959.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of March 04, 2022
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bell 17,649 Bulk Carrier Beached March 04
+    unit: null
+    values:
+    - 1.0
+    - 17649.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Berge Aoraki 21,285 Bulk Carrier Beached March 04
+    unit: null
+    values:
+    - 2.0
+    - 21285.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Distya Pushti 10,222 Tanker Beached March 04
+    unit: null
+    values:
+    - 3.0
+    - 10222.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 4.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 5 Hang 6,904 Reefer Arrived March 02
+    unit: null
+    values:
+    - 5.0
+    - 6904.0
+    - 2.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 6 Kane 12,389 Tanker Arrived February 25
+    unit: null
+    values:
+    - 6.0
+    - 12389.0
+    - 25.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 7 Qinghai Lake 16,365 Tanker Beached March 04
+    unit: null
+    values:
+    - 7.0
+    - 16365.0
+    - 4.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 8 Star 9,612 Tanker Beached March 03
+    unit: null
+    values:
+    - 8.0
+    - 9612.0
+    - 3.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 111,311
+    unit: null
+    values:
+    - 111311.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of March 04, 2022
+    unit: null
+    values:
+    - 4.0
+    - 2022.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Atlantic Enterprise 4,083.00 Accommodation Ship Arrived February
+      07
+    unit: null
+    values:
+    - 1.0
+    - 4083.0
+    - 7.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 DB Global 1 1,563.00 Barge Arrived February 01
+    unit: null
+    values:
+    - 2.0
+    - 1.0
+    - 1563.0
+    - 1.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Jicore 9 468.00 Tug Arrived February 01
+    unit: null
+    values:
+    - 3.0
+    - 9.0
+    - 468.0
+    - 1.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Medrock 949.00 Barge Beached February 28
+    unit: null
+    values:
+    - 4.0
+    - 949.0
+    - 28.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 5 New Inspiration 40,737.00 VLCC Beached March 02
+    unit: null
+    values:
+    - 5.0
+    - 40737.0
+    - 2.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 6 Star 1 17,586.00 Tanker Arrived March 02
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+    - 17586.0
+    - 2.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 65,386
+    unit: null
+    values:
+    - 65386.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 /2 6 /2 0 2 2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 6.0
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 /2 7 /2 0 2 2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 7.0
+    - 2.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2022-03-07_gms-week-8-repercussions_2022-03-06tfj-org_56992a130c2a.pdf'
+    section_type: linked_pdf
+    source_line: 2 /2 8 /2 0 2 2
+    unit: null
+    values:
+    - 2.0
+    - 2.0
+    - 8.0
+    - 2.0
+    - 2.0
+    - 2.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-03-07_gms-week-8-repercussions.html
 source_stem: 2022-03-07_gms-week-8-repercussions

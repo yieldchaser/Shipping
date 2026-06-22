@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 90
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'On the back of freight markets that are finally facing their first
     set of 2024 jitters, the industryis gradually witnessing an increasing number
@@ -39,8 +38,7 @@ numeric_observations:
   unit: null
   values:
   - 2024.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, after weakening in unison only last week, recycling nation
     currencies started to oddly firm up this week and Indian local steel plate prices
@@ -49,8 +47,7 @@ numeric_observations:
   unit: usd
   values:
   - 600.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 17 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -58,8 +55,7 @@ numeric_observations:
   values:
   - 17.0
   - 2024.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-04-29_gms-week-17-crop-of-corrosion_img1_6737654747_5777b773956f.jpg'
   unit: null
@@ -71,31 +67,27 @@ numeric_observations:
   - 6737654747.0
   - 5777.0
   - 73956.0
-- &id005
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: April 26th, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id006
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Week 17
   unit: null
   values:
   - 17.0
-- &id007
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Volume 260, Issue 1131 - James Joyce
   unit: null
   values:
   - 260.0
   - 1131.0
-- &id008
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: •Mismatch. On the back of freight marketys otuha'rte aorue tfi. Tnahlelyre
     f'sa cninog s uthcehi rt hfiirnsgt saest l ioffe 2 i0n2-4b ejitttweerse,n t.h"e
@@ -104,16 +96,14 @@ numeric_observations:
   values:
   - 2.0
   - -4.0
-- &id009
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: fundamentals dictate, thereby increasingly cementing the idea that
     any sale at or above USD 600 /
   unit: usd
   values:
   - 600.0
-- &id010
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: For week 17 of 2024, GMS demo rankings / pricing for the week are as
     below.
@@ -121,8 +111,7 @@ numeric_observations:
   values:
   - 17.0
   - 2024.0
-- &id011
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh* Stable 520 / LDT 540 / LDT 560 / LDT
   unit: null
@@ -131,8 +120,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 560.0
-- &id012
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan* Stable 510 / LDT 530 / LDT 550 / LDT
   unit: null
@@ -141,8 +129,7 @@ numeric_observations:
   - 510.0
   - 530.0
   - 550.0
-- &id013
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 3 India Stable 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -151,8 +138,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id014
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
   unit: null
@@ -161,31 +147,27 @@ numeric_observations:
   - 320.0
   - 330.0
   - 340.0
-- &id015
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id016
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Recycling community, as after 4 cruel quarters of banking & L/C restrictions,
     tonnage
   unit: null
   values:
   - 4.0
-- &id017
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Bangladesh since the end of Q1 2023.
   unit: null
   values:
   - 2023.0
-- &id018
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: negotiating for any tonnage through much of 2023, and with the turn
     of 2024 alleviating
@@ -193,16 +175,14 @@ numeric_observations:
   values:
   - 2023.0
   - 2024.0
-- &id019
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 110K LDT. availability of vessels decidedly trotted down to a trickle
     at the most inopportune of times
   unit: null
   values:
   - 110.0
-- &id020
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: anchorage fill up just as impressively this week, as nearly 110K LDT
     / 13 vessels (that are
@@ -210,8 +190,7 @@ numeric_observations:
   values:
   - 110.0
   - 13.0
-- &id021
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: shaky between BDT 108.90 to BDT 109.98 against the U.S. Dollar, it
     ended the week there
@@ -219,39 +198,34 @@ numeric_observations:
   values:
   - 108.9
   - 109.98
-- &id022
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: sub-continent counterparts for the next 6 weeks at least.
   unit: null
   values:
   - 6.0
-- &id024
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: post-June 2nd when the nation's economy could go either ways - depending
     on the
   unit: null
   values:
   - 2.0
-- &id025
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: the next 6 weeks at least, stuck betweeInN its DbettIerA-pr iced neighbours
     acting as a decision-
   unit: null
   values:
   - 6.0
-- &id026
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: than a roller coaster as the Indian Rupee violently thrashed between
     Rs. 83.39 - Rs. 83.29,
@@ -259,16 +233,14 @@ numeric_observations:
   values:
   - 83.39
   - 83.29
-- &id027
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: as it ended the week at Rs. 83.37 against th e U.S. Dollar, and local
     steel plate prices
   unit: null
   values:
   - 83.37
-- &id028
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: contradictorily and gently slid down USD 5/Ton, concluding the week
     about USD 3/Ton
@@ -276,16 +248,14 @@ numeric_observations:
   values:
   - 5.0
   - 3.0
-- &id029
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: nearly all of 2023's recycled volume in under a 1/4th of the time.
     As such, it would certainly
@@ -294,93 +264,81 @@ numeric_observations:
   - 2023.0
   - 1.0
   - 4.0
-- &id031
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: take off post June-2nd / Q3 once the elections r esults are announced
     there and both Pakistan
   unit: null
   values:
   - 2.0
-- &id032
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: remain flatlined and the Pakistani Rupee weakens to PKR 278.50 once
     again, only to end
   unit: null
   values:
   - 278.5
-- &id033
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: the week at levels region PKR 278.30 against the U.S. Dollar.
   unit: null
   values:
   - 278.3
-- &id034
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: paving an easier way for Alang Recyclers to pick up the baton as we
     approach Q3 2024.
   unit: null
   values:
   - 2024.0
-- &id035
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: inflation has led to domestic interest rates that are reportedly around
     region 65%, steel
   unit: pct
   values:
   - 65.0
-- &id037
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: finally firmed this week after spiking past TRY 32.65, ending the week
     at levels just shy of
   unit: null
   values:
   - 32.65
-- &id038
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: TRY 32.40 against the U.S. Dollar.
   unit: null
   values:
   - 32.4
-- &id039
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: SPACE FACTS OF 2023.
   unit: null
   values:
   - 2023.0
-- &id041
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line:  Even above its surface, the planet Venus has a bizarre environment.
     Scientists have found that its upper winds flow 50
   unit: null
   values:
   - 50.0
-- &id042
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line:  The European Venus Express spacecraft (which orbited the planet between
     2006 and 2014) tracked the winds over long
@@ -388,16 +346,14 @@ numeric_observations:
   values:
   - 2006.0
   - 2014.0
-- &id043
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line:  Another 2020 study that thrilled some astrobiologists detected phosphine,
     a possible sign of decaying biological matter, high
   unit: null
   values:
   - 2020.0
-- &id044
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day April 23 - April 29
   unit: null
@@ -405,8 +361,7 @@ numeric_observations:
   - 1.0
   - 23.0
   - 29.0
-- &id045
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 05 - May 13
   unit: null
@@ -414,16 +369,14 @@ numeric_observations:
   - 23.0
   - 5.0
   - 13.0
-- &id046
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 21 - May 29
   unit: null
   values:
   - 21.0
   - 29.0
-- &id047
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labor Day May 07 - May 10
   unit: null
@@ -431,8 +384,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 10.0
-- &id048
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 23 - Buddha Purnima May 23 - May 25
   unit: null
@@ -440,8 +392,7 @@ numeric_observations:
   - 23.0
   - 23.0
   - 25.0
-- &id049
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: May 1 - May 5 - Labor Day Holidays May 5 - Labor Day Holiday May 01
     - Labor & Solidarity Day
@@ -451,24 +402,21 @@ numeric_observations:
   - 5.0
   - 5.0
   - 1.0
-- &id050
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id051
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 26, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id052
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 1 Ambur (Dead Vessel) 27,101 Drill Ship Beached April 24
   unit: null
@@ -476,8 +424,7 @@ numeric_observations:
   - 1.0
   - 27101.0
   - 24.0
-- &id053
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 2 Asphalt Princess (Dead Vessel) 3,271 Oil Tanker Arrived April 25
   unit: null
@@ -485,8 +432,7 @@ numeric_observations:
   - 2.0
   - 3271.0
   - 25.0
-- &id054
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 3 MSC Nilgun 12,553 Container Arrived April 25
   unit: null
@@ -494,23 +440,20 @@ numeric_observations:
   - 3.0
   - 12553.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 42,925
   unit: null
   values:
   - 42925.0
-- &id056
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 26, 2024
   unit: null
   values:
   - 26.0
   - 2024.0
-- &id057
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 1 Denak Voyager 9,519 Bulk Carrier Beached April 25
   unit: null
@@ -518,8 +461,7 @@ numeric_observations:
   - 1.0
   - 9519.0
   - 25.0
-- &id058
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 2 Island (Dead Vessel) 41,374 FSU Beached April 23
   unit: null
@@ -527,8 +469,7 @@ numeric_observations:
   - 2.0
   - 41374.0
   - 23.0
-- &id059
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 3 Lian Feng 6 6,537 General Cargo Arrived April 19
   unit: null
@@ -537,8 +478,7 @@ numeric_observations:
   - 6.0
   - 6537.0
   - 19.0
-- &id060
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4 Medan 2 7,284 Container Arrived April 18
   unit: null
@@ -547,8 +487,7 @@ numeric_observations:
   - 2.0
   - 7284.0
   - 18.0
-- &id061
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 5 One Victory 7,685 Bulk Carrier Beached April 23
   unit: null
@@ -556,8 +495,7 @@ numeric_observations:
   - 5.0
   - 7685.0
   - 23.0
-- &id062
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 6 S Maru 5 1,700 Research Vessel Arrived April 25
   unit: null
@@ -566,8 +504,7 @@ numeric_observations:
   - 5.0
   - 1700.0
   - 25.0
-- &id063
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 7 Sawasdee Singapore 7,138 Container Arrived April 23
   unit: null
@@ -575,8 +512,7 @@ numeric_observations:
   - 7.0
   - 7138.0
   - 23.0
-- &id064
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 8 Sinokor Hong Kong 5,475 Container Arrived April 18
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 8.0
   - 5475.0
   - 18.0
-- &id065
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 9 Sinokor Qingdao 4,735 Container Arrived April 23
   unit: null
@@ -593,8 +528,7 @@ numeric_observations:
   - 9.0
   - 4735.0
   - 23.0
-- &id066
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 10 Swarajya 8,542 Tanker Beached April 25
   unit: null
@@ -602,8 +536,7 @@ numeric_observations:
   - 10.0
   - 8542.0
   - 25.0
-- &id067
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 11 Thareratana 1 739 Tanker Arrived April 23
   unit: null
@@ -612,8 +545,7 @@ numeric_observations:
   - 1.0
   - 739.0
   - 23.0
-- &id068
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 12 Xin Run 66 2,908 Tanker Beached April 22
   unit: null
@@ -622,8 +554,7 @@ numeric_observations:
   - 66.0
   - 2908.0
   - 22.0
-- &id069
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 13 Yamta 6,003 Bulk Carrier Beached April 24
   unit: tonnage
@@ -631,23 +562,20 @@ numeric_observations:
   - 13.0
   - 6003.0
   - 24.0
-- &id070
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 109,638
   unit: null
   values:
   - 109638.0
-- &id071
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 19, 2024
   unit: null
   values:
   - 19.0
   - 2024.0
-- &id072
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 1 Sea Flower 5,282 General Cargo Beached April 25
   unit: null
@@ -655,23 +583,20 @@ numeric_observations:
   - 1.0
   - 5282.0
   - 25.0
-- &id073
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 5,282
   unit: null
   values:
   - 5282.0
-- &id074
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/20/2024 500.78 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
   unit: null
@@ -686,8 +611,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 345.68
-- &id076
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/21/2024 500.78 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
   unit: null
@@ -702,8 +626,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 345.68
-- &id077
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/22/2024 499.04 41,600.00 736.28 208,000.00 600.00 72,000.00 349.79
   unit: null
@@ -718,8 +641,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 349.79
-- &id078
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/23/2024 497.90 41,500.00 736.28 208,000.00 600.00 72,000.00 352.52
   unit: null
@@ -734,8 +656,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 352.52
-- &id079
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/24/2024 495.68 41,300.00 736.28 208,000.00 600.00 72,000.00 352.52
   unit: null
@@ -750,8 +671,7 @@ numeric_observations:
   - 600.0
   - 72000.0
   - 352.52
-- &id080
-  section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+- section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
   section_type: linked_pdf
   source_line: 4/25/2024 496.88 41,400.00 736.28 208,000.00 600.00 72,000.00 352.52
   unit: null
@@ -870,86 +790,663 @@ section_count: 3
 signals:
   numeric_observation_count: 90
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'On the back of freight markets that are finally facing their first
+      set of 2024 jitters, the industryis gradually witnessing an increasing number
+      of units being proposed for a recycling sale, all of which are being confirmed
+      via the sudden influx of tonnage at '
+    unit: null
+    values:
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, after weakening in unison only last week, recycling nation
+      currencies started to oddly firm up this week and Indian local steel plate prices
+      continue their evergreen firmy-floppy dance as juicier tonnage starts to trickle
+      back into the fray, we have
+    unit: usd
+    values:
+    - 600.0
+  - section: Main
+    section_type: null
+    source_line: For week 17 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 17.0
+    - 2024.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-04-29_gms-week-17-crop-of-corrosion_img1_6737654747_5777b773956f.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -4.0
+    - -29.0
+    - 17.0
+    - 6737654747.0
+    - 5777.0
+    - 73956.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: April 26th, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Week 17
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 260, Issue 1131 - James Joyce
+    unit: null
+    values:
+    - 260.0
+    - 1131.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: •Mismatch. On the back of freight marketys otuha'rte aorue tfi. Tnahlelyre
+      f'sa cninog s uthcehi rt hfiirnsgt saest l ioffe 2 i0n2-4b ejitttweerse,n t.h"e
+      industry is
+    unit: null
+    values:
+    - 2.0
+    - -4.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: fundamentals dictate, thereby increasingly cementing the idea that
+      any sale at or above USD 600 /
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: For week 17 of 2024, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 17.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh* Stable 520 / LDT 540 / LDT 560 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 560.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan* Stable 510 / LDT 530 / LDT 550 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 510.0
+    - 530.0
+    - 550.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Stable 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 320 / LDT 330 / LDT 340 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 320.0
+    - 330.0
+    - 340.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Recycling community, as after 4 cruel quarters of banking & L/C restrictions,
+      tonnage
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh since the end of Q1 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: negotiating for any tonnage through much of 2023, and with the turn
+      of 2024 alleviating
+    unit: null
+    values:
+    - 2023.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 110K LDT. availability of vessels decidedly trotted down to a trickle
+      at the most inopportune of times
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: anchorage fill up just as impressively this week, as nearly 110K
+      LDT / 13 vessels (that are
+    unit: null
+    values:
+    - 110.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: shaky between BDT 108.90 to BDT 109.98 against the U.S. Dollar, it
+      ended the week there
+    unit: null
+    values:
+    - 108.9
+    - 109.98
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: sub-continent counterparts for the next 6 weeks at least.
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: post-June 2nd when the nation's economy could go either ways - depending
+      on the
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: the next 6 weeks at least, stuck betweeInN its DbettIerA-pr iced
+      neighbours acting as a decision-
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: than a roller coaster as the Indian Rupee violently thrashed between
+      Rs. 83.39 - Rs. 83.29,
+    unit: null
+    values:
+    - 83.39
+    - 83.29
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: as it ended the week at Rs. 83.37 against th e U.S. Dollar, and local
+      steel plate prices
+    unit: null
+    values:
+    - 83.37
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: contradictorily and gently slid down USD 5/Ton, concluding the week
+      about USD 3/Ton
+    unit: usd
+    values:
+    - 5.0
+    - 3.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: nearly all of 2023's recycled volume in under a 1/4th of the time.
+      As such, it would certainly
+    unit: null
+    values:
+    - 2023.0
+    - 1.0
+    - 4.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: take off post June-2nd / Q3 once the elections r esults are announced
+      there and both Pakistan
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: remain flatlined and the Pakistani Rupee weakens to PKR 278.50 once
+      again, only to end
+    unit: null
+    values:
+    - 278.5
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: the week at levels region PKR 278.30 against the U.S. Dollar.
+    unit: null
+    values:
+    - 278.3
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: paving an easier way for Alang Recyclers to pick up the baton as
+      we approach Q3 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: inflation has led to domestic interest rates that are reportedly
+      around region 65%, steel
+    unit: pct
+    values:
+    - 65.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: finally firmed this week after spiking past TRY 32.65, ending the
+      week at levels just shy of
+    unit: null
+    values:
+    - 32.65
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: TRY 32.40 against the U.S. Dollar.
+    unit: null
+    values:
+    - 32.4
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: SPACE FACTS OF 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line:  Even above its surface, the planet Venus has a bizarre environment.
+      Scientists have found that its upper winds flow 50
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line:  The European Venus Express spacecraft (which orbited the planet
+      between 2006 and 2014) tracked the winds over long
+    unit: null
+    values:
+    - 2006.0
+    - 2014.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line:  Another 2020 study that thrilled some astrobiologists detected
+      phosphine, a possible sign of decaying biological matter, high
+    unit: null
+    values:
+    - 2020.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day April 23 - April 29
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 05 - May 13
+    unit: null
+    values:
+    - 23.0
+    - 5.0
+    - 13.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 21 - May 29
+    unit: null
+    values:
+    - 21.0
+    - 29.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labor Day May 07 - May 10
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 10.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 23 - Buddha Purnima May 23 - May 25
+    unit: null
+    values:
+    - 23.0
+    - 23.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: May 1 - May 5 - Labor Day Holidays May 5 - Labor Day Holiday May
+      01 - Labor & Solidarity Day
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 5.0
+    - 1.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 26, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ambur (Dead Vessel) 27,101 Drill Ship Beached April 24
+    unit: null
+    values:
+    - 1.0
+    - 27101.0
+    - 24.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Asphalt Princess (Dead Vessel) 3,271 Oil Tanker Arrived April 25
+    unit: null
+    values:
+    - 2.0
+    - 3271.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 3 MSC Nilgun 12,553 Container Arrived April 25
+    unit: null
+    values:
+    - 3.0
+    - 12553.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 42,925
+    unit: null
+    values:
+    - 42925.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 26, 2024
+    unit: null
+    values:
+    - 26.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Denak Voyager 9,519 Bulk Carrier Beached April 25
+    unit: null
+    values:
+    - 1.0
+    - 9519.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Island (Dead Vessel) 41,374 FSU Beached April 23
+    unit: null
+    values:
+    - 2.0
+    - 41374.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lian Feng 6 6,537 General Cargo Arrived April 19
+    unit: null
+    values:
+    - 3.0
+    - 6.0
+    - 6537.0
+    - 19.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Medan 2 7,284 Container Arrived April 18
+    unit: null
+    values:
+    - 4.0
+    - 2.0
+    - 7284.0
+    - 18.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 5 One Victory 7,685 Bulk Carrier Beached April 23
+    unit: null
+    values:
+    - 5.0
+    - 7685.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 6 S Maru 5 1,700 Research Vessel Arrived April 25
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+    - 1700.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 7 Sawasdee Singapore 7,138 Container Arrived April 23
+    unit: null
+    values:
+    - 7.0
+    - 7138.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 8 Sinokor Hong Kong 5,475 Container Arrived April 18
+    unit: null
+    values:
+    - 8.0
+    - 5475.0
+    - 18.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 9 Sinokor Qingdao 4,735 Container Arrived April 23
+    unit: null
+    values:
+    - 9.0
+    - 4735.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 10 Swarajya 8,542 Tanker Beached April 25
+    unit: null
+    values:
+    - 10.0
+    - 8542.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 11 Thareratana 1 739 Tanker Arrived April 23
+    unit: null
+    values:
+    - 11.0
+    - 1.0
+    - 739.0
+    - 23.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 12 Xin Run 66 2,908 Tanker Beached April 22
+    unit: null
+    values:
+    - 12.0
+    - 66.0
+    - 2908.0
+    - 22.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 13 Yamta 6,003 Bulk Carrier Beached April 24
+    unit: tonnage
+    values:
+    - 13.0
+    - 6003.0
+    - 24.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 109,638
+    unit: null
+    values:
+    - 109638.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 19, 2024
+    unit: null
+    values:
+    - 19.0
+    - 2024.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Sea Flower 5,282 General Cargo Beached April 25
+    unit: null
+    values:
+    - 1.0
+    - 5282.0
+    - 25.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 5,282
+    unit: null
+    values:
+    - 5282.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/20/2024 500.78 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
+    unit: null
+    values:
+    - 4.0
+    - 20.0
+    - 2024.0
+    - 500.78
+    - 41800.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 345.68
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/21/2024 500.78 41,800.00 736.28 208,000.00 600.00 72,000.00 345.68
+    unit: null
+    values:
+    - 4.0
+    - 21.0
+    - 2024.0
+    - 500.78
+    - 41800.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 345.68
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/22/2024 499.04 41,600.00 736.28 208,000.00 600.00 72,000.00 349.79
+    unit: null
+    values:
+    - 4.0
+    - 22.0
+    - 2024.0
+    - 499.04
+    - 41600.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 349.79
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/23/2024 497.90 41,500.00 736.28 208,000.00 600.00 72,000.00 352.52
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+    - 2024.0
+    - 497.9
+    - 41500.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 352.52
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/24/2024 495.68 41,300.00 736.28 208,000.00 600.00 72,000.00 352.52
+    unit: null
+    values:
+    - 4.0
+    - 24.0
+    - 2024.0
+    - 495.68
+    - 41300.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 352.52
+  - section: 'Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_ship-recycling-market-insight-week-1_c3d4c041dac6.pdf'
+    section_type: linked_pdf
+    source_line: 4/25/2024 496.88 41,400.00 736.28 208,000.00 600.00 72,000.00 352.52
+    unit: null
+    values:
+    - 4.0
+    - 25.0
+    - 2024.0
+    - 496.88
+    - 41400.0
+    - 736.28
+    - 208000.0
+    - 600.0
+    - 72000.0
+    - 352.52
 source: hellenic
 source_path: reports/hellenic/demolition/2024/2024-04-29_gms-week-17-crop-of-corrosion.html
 source_stem: 2024-04-29_gms-week-17-crop-of-corrosion

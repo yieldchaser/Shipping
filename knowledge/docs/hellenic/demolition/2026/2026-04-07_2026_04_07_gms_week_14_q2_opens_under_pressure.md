@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 90
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Week 14 opens the second quarter of 2026 under the same structural
     pressures that defined Q1, and then some.The Iran war continues to dominate the
@@ -44,8 +43,7 @@ numeric_observations:
   - 14.0
   - 2026.0
   - 109.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: India delivered the week's most notable currency development, as the
     rupee rebounded sharply from its record low of 94.42 to 92.73 following intervention
@@ -56,8 +54,7 @@ numeric_observations:
   - 94.42
   - 92.73
   - 44.59
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Bangladesh remains the standout positive in the region. The post-Eid
     momentum seen last week has carried into Week 14, with Chattogram recyclers actively
@@ -66,8 +63,7 @@ numeric_observations:
   unit: null
   values:
   - 14.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The broader macro backdrop remains largely unchanged. The Middle East
     conflict continues to support elevated freight earnings, discouraging owners from
@@ -77,8 +73,7 @@ numeric_observations:
   values:
   - 2031.0
   - 100.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'As Week 14 settles into Q2, the industry is left asking a familiar
     question: when will tonnage begin to arrive in sufficient volume to meet the growing
@@ -86,8 +81,7 @@ numeric_observations:
   unit: null
   values:
   - 14.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 14 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -95,15 +89,13 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 0604221.jpg'
   unit: null
   values:
   - 604221.0
-- &id008
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   unit: null
@@ -116,24 +108,21 @@ numeric_observations:
   - 340.0
   - 50.0
   - 97.0
-- &id009
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x152 mode=RGB'
   unit: null
   values:
   - 688.0
   - 52.0
-- &id010
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id011
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Pakistan [Steady | 445/LbT | 405/upr | 475/LDT_ |'
   unit: null
@@ -142,8 +131,7 @@ numeric_observations:
   - 445.0
   - 405.0
   - 475.0
-- &id012
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey [Steady | 205/upr | 275/LpT | 285/LDT |'
   unit: null
@@ -152,30 +140,26 @@ numeric_observations:
   - 205.0
   - 275.0
   - 285.0
-- &id013
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id014
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 03r d, 2026
   unit: null
   values:
   - 3.0
   - 2026.0
-- &id015
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Week 14
   unit: null
   values:
   - 14.0
-- &id016
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Volume 2 82, Issue 1229 -Joyce Meyer
   unit: null
@@ -183,16 +167,14 @@ numeric_observations:
   - 2.0
   - 82.0
   - 1229.0
-- &id017
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: out. Ther Q e's 2 n O o s P uc E h N th S in g U a N s li D f e E in
     R -b e P tw R e E en S ." S URE!
   unit: null
   values:
   - 2.0
-- &id018
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Week 14 opens the second quarter of 2026 under the same structural
     pressures that defined Q1, and
@@ -200,16 +182,14 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
-- &id019
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: USD 109/barrel f or a seventh consecutive week and the Strait of Hormuz
     remaining effectively
   unit: usd
   values:
   - 109.0
-- &id020
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: • Rupee rebound. from its record low of 94.42 to 92.73 following intervention
     measures by the Reserve Bank of India,
@@ -217,48 +197,42 @@ numeric_observations:
   values:
   - 94.42
   - 92.73
-- &id021
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: while the Turkish lira weakened further to a fresh record low of 44.59,
     continuing a prolonged
   unit: null
   values:
   - 44.59
-- &id022
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: has carried into Week 14, with Chattogram recyclers actively seeking
     tonnage and maintaining the
   unit: null
   values:
   - 14.0
-- &id023
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Index has shown only marginal softening, easing to 2,031, while oil
     remains firmly above USD
   unit: usd
   values:
   - 2031.0
-- &id024
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 100/barrel for a seventh consecutive week. The result is a market where
     higher energy prices
   unit: null
   values:
   - 100.0
-- &id025
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 'As Week 14 settles into Q2, the industry is left asking a familiar
     question: when will tonnage begin'
   unit: null
   values:
   - 14.0
-- &id026
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 14 of 2026 are on Page 5.
   unit: null
@@ -266,72 +240,63 @@ numeric_observations:
   - 14.0
   - 2026.0
   - 5.0
-- &id027
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id028
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: as Week 14 opens. Bangladesh's recyclers remain among the most actively
     engaged in the region,
   unit: null
   values:
   - 14.0
-- &id029
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Bangladeshi steel levels edged fractionally higher to BDT 61,500 this
     week, a modest but
   unit: null
   values:
   - 61500.0
-- &id030
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: throughout Q1. The USD/BDT rate closed the week at 122.91, barely changed
     from last week's
   unit: usd_per_unit
   values:
   - 122.91
-- &id031
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 122.81, providing minimal FX headwind. The pre-monsoon window is narrowing,
     the June rains
   unit: null
   values:
   - 122.81
-- &id032
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: India's most consequential development in Week 14 emerged not from
     steel prices, but from the foreign
   unit: null
   values:
   - 14.0
-- &id034
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: exchange market. The Indian Rupee staged a sharp recovery from last
     week's record low of 94.42, R upee rebound.
   unit: null
   values:
   - 94.42
-- &id035
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: firming to 92.73 against the U.S. Dollar by April 3 following a series
     of intervention measures by the
@@ -339,8 +304,7 @@ numeric_observations:
   values:
   - 92.73
   - 3.0
-- &id036
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: prices also edged higher to INR 38,500 per ton, lifting the USD equivalent
     towards USD 415 per ton
@@ -348,32 +312,28 @@ numeric_observations:
   values:
   - 38500.0
   - 415.0
-- &id037
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Structurally, India retains its strongest edge in HKC compliance. With
     more than 110 yards holding
   unit: null
   values:
   - 110.0
-- &id038
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Pakistan enters Week 14 on firmer commercial footing than at any point
     during Q1. The steel plate
   unit: null
   values:
   - 14.0
-- &id040
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Fir m footing. jump recorded at the end of March, rising from PKR 168,000
     to PKR 175,000 per ton, has held into
@@ -381,16 +341,14 @@ numeric_observations:
   values:
   - 168000.0
   - 175000.0
-- &id041
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: the new quarter, with pricing consolidating near PKR 175,000 and the
     USD equivalent settling
   unit: usd
   values:
   - 175000.0
-- &id042
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: around USD 627 per ton. The Pakistani Rupee has remained broadly stable
     at 279.07, reinforcing
@@ -398,40 +356,35 @@ numeric_observations:
   values:
   - 627.0
   - 279.07
-- &id043
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Turkey enters Q2 with the Turkish Lira weakening further to a record
     low of 44.59 against the U.S.
   unit: null
   values:
   - 44.59
-- &id045
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: decline of over 17% during that period. The Central Bank of Turkey
     has intervened heavily,
   unit: pct
   values:
   - 17.0
-- &id046
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: reportedly selling more than USD 8 billion in reserves during March,
     while also halting its rate-
   unit: usd
   values:
   - 8.0
-- &id047
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: At current indications of USD 265-285 per LDT depending on vessel type,
     down from last week's
@@ -439,8 +392,7 @@ numeric_observations:
   values:
   - 265.0
   - -285.0
-- &id048
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: USD 270-290 range, Aliaga remains uncompetitive for mainstream recycling
     tonnage. The domestic
@@ -448,23 +400,20 @@ numeric_observations:
   values:
   - 270.0
   - -290.0
-- &id049
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: running at 31.53% as of February, keeps operating conditions challenging.
     Broader geopolitical
   unit: pct
   values:
   - 31.53
-- &id050
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: nothing in Week 14 suggests that shift is imminent.
   unit: null
   values:
   - 14.0
-- &id051
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: For Week 14 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -472,8 +421,7 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
-- &id052
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 455 / LDT 475 / LDT 485 / LDT
   unit: null
@@ -482,8 +430,7 @@ numeric_observations:
   - 455.0
   - 475.0
   - 485.0
-- &id053
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -492,8 +439,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id054
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 430 / LDT 450 / LDT 460 / LDT
   unit: null
@@ -502,8 +448,7 @@ numeric_observations:
   - 430.0
   - 450.0
   - 460.0
-- &id055
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 265 / LDT 275 / LDT 285 / LDT
   unit: null
@@ -512,32 +457,28 @@ numeric_observations:
   - 265.0
   - 275.0
   - 285.0
-- &id056
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
     activities at Alang is
   unit: tonnage
   values:
   - 72.55
-- &id058
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: equivalent to the annual emissions of approximately 13.2 million Indian
     households.
   unit: null
   values:
   - 13.2
-- &id059
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line:  Steel recovered from ships recycled at Alang uses 60-70% less energy
     compared to conventional iron
@@ -545,53 +486,46 @@ numeric_observations:
   values:
   - 60.0
   - -70.0
-- &id060
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 01 - April 06
   unit: null
   values:
   - 1.0
   - 6.0
-- &id061
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: May 01 - Buddha Purnima
   unit: null
   values:
   - 1.0
-- &id062
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 16 - April 23
   unit: null
   values:
   - 16.0
   - 23.0
-- &id063
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 17 - April 20
   unit: null
   values:
   - 17.0
   - 20.0
-- &id064
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 14 - Bengali New Year
   unit: null
   values:
   - 14.0
-- &id065
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: April 30
   unit: null
   values:
   - 30.0
-- &id066
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: May 01 - Labour Day April 23 - National Sovereignty and Children's
     Day
@@ -599,24 +533,21 @@ numeric_observations:
   values:
   - 1.0
   - 23.0
-- &id067
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of April 03, 2026
   unit: null
   values:
   - 3.0
   - 2026.0
-- &id069
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 1 Celerix 9,343 Oil Tanker Delivered April 01
   unit: null
@@ -624,8 +555,7 @@ numeric_observations:
   - 1.0
   - 9343.0
   - 1.0
-- &id070
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 2 Kuljak Arrow 10,241 Bulk Carrier Delivered April 01
   unit: null
@@ -633,8 +563,7 @@ numeric_observations:
   - 2.0
   - 10241.0
   - 1.0
-- &id071
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 3 Bikra 4,333 Oil Tanker Arrived April 01
   unit: null
@@ -642,8 +571,7 @@ numeric_observations:
   - 3.0
   - 4333.0
   - 1.0
-- &id072
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 4 D/V Diu Towed by Tug Pacific Dove 27,538 MODU Arrived April 02
   unit: null
@@ -651,23 +579,20 @@ numeric_observations:
   - 4.0
   - 27538.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Morality 51,455
   unit: null
   values:
   - 51455.0
-- &id074
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of April 03, 2026
   unit: null
   values:
   - 3.0
   - 2026.0
-- &id075
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 1 Tai Ji 3,241 Refrigerate Cargo Ship Arrived March 31
   unit: null
@@ -675,8 +600,7 @@ numeric_observations:
   - 1.0
   - 3241.0
   - 31.0
-- &id076
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 2 Shuen 1,589 Container Arrived March 31
   unit: null
@@ -684,24 +608,21 @@ numeric_observations:
   - 2.0
   - 1589.0
   - 31.0
-- &id077
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of April 03, 2026
   unit: null
   values:
   - 3.0
   - 2026.0
-- &id078
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id079
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 3/28/2026 408.18 38,700.00 625.00 175,000.00 502.06 61,000.00 313.51
   unit: null
@@ -716,8 +637,7 @@ numeric_observations:
   - 502.06
   - 61000.0
   - 313.51
-- &id080
-  section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: 3/29/2026 408.18 38,700.00 625.00 175,000.00 502.06 61,000.00 313.51
   unit: null
@@ -864,86 +784,626 @@ section_count: 3
 signals:
   numeric_observation_count: 90
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Week 14 opens the second quarter of 2026 under the same structural
+      pressures that defined Q1, and then some.The Iran war continues to dominate
+      the macro agenda, with Brent crude holding above USD 109/barrel for a seventh
+      consecutive week and the Strait of Horm
+    unit: usd
+    values:
+    - 14.0
+    - 2026.0
+    - 109.0
+  - section: Main
+    section_type: null
+    source_line: India delivered the week's most notable currency development, as
+      the rupee rebounded sharply from its record low of 94.42 to 92.73 following
+      intervention measures by the Reserve Bank of India, including curbs on forward
+      transactions, limits on banks' FX positi
+    unit: null
+    values:
+    - 94.42
+    - 92.73
+    - 44.59
+  - section: Main
+    section_type: null
+    source_line: Bangladesh remains the standout positive in the region. The post-Eid
+      momentum seen last week has carried into Week 14, with Chattogram recyclers
+      actively seeking tonnage and maintaining the most engaged sentiment across the
+      sub-continent. India and Pakistan, b
+    unit: null
+    values:
+    - 14.0
+  - section: Main
+    section_type: null
+    source_line: 'The broader macro backdrop remains largely unchanged. The Middle
+      East conflict continues to support elevated freight earnings, discouraging owners
+      from recycling older vessels. The Baltic Dry Index has shown only marginal softening,
+      easing to 2,031, while oil '
+    unit: usd
+    values:
+    - 2031.0
+    - 100.0
+  - section: Main
+    section_type: null
+    source_line: 'As Week 14 settles into Q2, the industry is left asking a familiar
+      question: when will tonnage begin to arrive in sufficient volume to meet the
+      growing appetite from recyclers, particularly in Bangladesh?'
+    unit: null
+    values:
+    - 14.0
+  - section: Main
+    section_type: null
+    source_line: For Week 14 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 14.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 0604221.jpg'
+    unit: null
+    values:
+    - 604221.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -4.0
+    - -7.0
+    - 14.0
+    - 604221.0
+    - 340.0
+    - 50.0
+    - 97.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 688x152 mode=RGB'
+    unit: null
+    values:
+    - 688.0
+    - 52.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Pakistan [Steady | 445/LbT | 405/upr | 475/LDT_ |'
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 405.0
+    - 475.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey [Steady | 205/upr | 275/LpT | 285/LDT |'
+    unit: null
+    values:
+    - 4.0
+    - 205.0
+    - 275.0
+    - 285.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 03r d, 2026
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Week 14
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 82, Issue 1229 -Joyce Meyer
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 1229.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: out. Ther Q e's 2 n O o s P uc E h N th S in g U a N s li D f e E
+      in R -b e P tw R e E en S ." S URE!
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Week 14 opens the second quarter of 2026 under the same structural
+      pressures that defined Q1, and
+    unit: null
+    values:
+    - 14.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: USD 109/barrel f or a seventh consecutive week and the Strait of
+      Hormuz remaining effectively
+    unit: usd
+    values:
+    - 109.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: • Rupee rebound. from its record low of 94.42 to 92.73 following
+      intervention measures by the Reserve Bank of India,
+    unit: null
+    values:
+    - 94.42
+    - 92.73
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: while the Turkish lira weakened further to a fresh record low of
+      44.59, continuing a prolonged
+    unit: null
+    values:
+    - 44.59
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: has carried into Week 14, with Chattogram recyclers actively seeking
+      tonnage and maintaining the
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Index has shown only marginal softening, easing to 2,031, while oil
+      remains firmly above USD
+    unit: usd
+    values:
+    - 2031.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 100/barrel for a seventh consecutive week. The result is a market
+      where higher energy prices
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 'As Week 14 settles into Q2, the industry is left asking a familiar
+      question: when will tonnage begin'
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 14 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 14.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: as Week 14 opens. Bangladesh's recyclers remain among the most actively
+      engaged in the region,
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Bangladeshi steel levels edged fractionally higher to BDT 61,500
+      this week, a modest but
+    unit: null
+    values:
+    - 61500.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: throughout Q1. The USD/BDT rate closed the week at 122.91, barely
+      changed from last week's
+    unit: usd_per_unit
+    values:
+    - 122.91
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 122.81, providing minimal FX headwind. The pre-monsoon window is
+      narrowing, the June rains
+    unit: null
+    values:
+    - 122.81
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: India's most consequential development in Week 14 emerged not from
+      steel prices, but from the foreign
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: exchange market. The Indian Rupee staged a sharp recovery from last
+      week's record low of 94.42, R upee rebound.
+    unit: null
+    values:
+    - 94.42
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: firming to 92.73 against the U.S. Dollar by April 3 following a series
+      of intervention measures by the
+    unit: null
+    values:
+    - 92.73
+    - 3.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: prices also edged higher to INR 38,500 per ton, lifting the USD equivalent
+      towards USD 415 per ton
+    unit: usd
+    values:
+    - 38500.0
+    - 415.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Structurally, India retains its strongest edge in HKC compliance.
+      With more than 110 yards holding
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan enters Week 14 on firmer commercial footing than at any
+      point during Q1. The steel plate
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Fir m footing. jump recorded at the end of March, rising from PKR
+      168,000 to PKR 175,000 per ton, has held into
+    unit: null
+    values:
+    - 168000.0
+    - 175000.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: the new quarter, with pricing consolidating near PKR 175,000 and
+      the USD equivalent settling
+    unit: usd
+    values:
+    - 175000.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: around USD 627 per ton. The Pakistani Rupee has remained broadly
+      stable at 279.07, reinforcing
+    unit: usd
+    values:
+    - 627.0
+    - 279.07
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Turkey enters Q2 with the Turkish Lira weakening further to a record
+      low of 44.59 against the U.S.
+    unit: null
+    values:
+    - 44.59
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: decline of over 17% during that period. The Central Bank of Turkey
+      has intervened heavily,
+    unit: pct
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: reportedly selling more than USD 8 billion in reserves during March,
+      while also halting its rate-
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: At current indications of USD 265-285 per LDT depending on vessel
+      type, down from last week's
+    unit: usd
+    values:
+    - 265.0
+    - -285.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: USD 270-290 range, Aliaga remains uncompetitive for mainstream recycling
+      tonnage. The domestic
+    unit: usd
+    values:
+    - 270.0
+    - -290.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: running at 31.53% as of February, keeps operating conditions challenging.
+      Broader geopolitical
+    unit: pct
+    values:
+    - 31.53
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: nothing in Week 14 suggests that shift is imminent.
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: For Week 14 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 14.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 455 / LDT 475 / LDT 485 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 455.0
+    - 475.0
+    - 485.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 430 / LDT 450 / LDT 460 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 430.0
+    - 450.0
+    - 460.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 265 / LDT 275 / LDT 285 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 265.0
+    - 275.0
+    - 285.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
+      activities at Alang is
+    unit: tonnage
+    values:
+    - 72.55
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: equivalent to the annual emissions of approximately 13.2 million
+      Indian households.
+    unit: null
+    values:
+    - 13.2
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line:  Steel recovered from ships recycled at Alang uses 60-70% less energy
+      compared to conventional iron
+    unit: pct
+    values:
+    - 60.0
+    - -70.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 01 - April 06
+    unit: null
+    values:
+    - 1.0
+    - 6.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Buddha Purnima
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 16 - April 23
+    unit: null
+    values:
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 17 - April 20
+    unit: null
+    values:
+    - 17.0
+    - 20.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 14 - Bengali New Year
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: April 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - Labour Day April 23 - National Sovereignty and Children's
+      Day
+    unit: null
+    values:
+    - 1.0
+    - 23.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of April 03, 2026
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 Celerix 9,343 Oil Tanker Delivered April 01
+    unit: null
+    values:
+    - 1.0
+    - 9343.0
+    - 1.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 Kuljak Arrow 10,241 Bulk Carrier Delivered April 01
+    unit: null
+    values:
+    - 2.0
+    - 10241.0
+    - 1.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 3 Bikra 4,333 Oil Tanker Arrived April 01
+    unit: null
+    values:
+    - 3.0
+    - 4333.0
+    - 1.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 4 D/V Diu Towed by Tug Pacific Dove 27,538 MODU Arrived April 02
+    unit: null
+    values:
+    - 4.0
+    - 27538.0
+    - 2.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Morality 51,455
+    unit: null
+    values:
+    - 51455.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of April 03, 2026
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 1 Tai Ji 3,241 Refrigerate Cargo Ship Arrived March 31
+    unit: null
+    values:
+    - 1.0
+    - 3241.0
+    - 31.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 2 Shuen 1,589 Container Arrived March 31
+    unit: null
+    values:
+    - 2.0
+    - 1589.0
+    - 31.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of April 03, 2026
+    unit: null
+    values:
+    - 3.0
+    - 2026.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 3/28/2026 408.18 38,700.00 625.00 175,000.00 502.06 61,000.00 313.51
+    unit: null
+    values:
+    - 3.0
+    - 28.0
+    - 2026.0
+    - 408.18
+    - 38700.0
+    - 625.0
+    - 175000.0
+    - 502.06
+    - 61000.0
+    - 313.51
+  - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+    section_type: linked_pdf
+    source_line: 3/29/2026 408.18 38,700.00 625.00 175,000.00 502.06 61,000.00 313.51
+    unit: null
+    values:
+    - 3.0
+    - 29.0
+    - 2026.0
+    - 408.18
+    - 38700.0
+    - 625.0
+    - 175000.0
+    - 502.06
+    - 61000.0
+    - 313.51
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-04-07_gms-week-14-q2-opens-under-pressure.html
 source_stem: 2026-04-07_gms-week-14-q2-opens-under-pressure

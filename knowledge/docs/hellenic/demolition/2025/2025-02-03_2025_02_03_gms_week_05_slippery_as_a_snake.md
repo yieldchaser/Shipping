@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 116
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Despite a frantic start to 2025 that saw a marked return of recycling
     tonnage at the bidding tables, SNP activity across theglobal ship recycling spectrum
@@ -48,8 +47,7 @@ numeric_observations:
   - 10.0
   - 10.0
   - 4.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The Baltic Dry Bulk Index also gained ground as rates across the dry
     bulk categories displayed signs of positivity / improvement this week, which might
@@ -61,8 +59,7 @@ numeric_observations:
   - 6.0
   - 2025.0
   - 30.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Tariffs on Chinese steel stand to be of key concern to the sub-continent
     ship recycling markets and when China starts dumping their surplus post-tariff
@@ -72,8 +69,7 @@ numeric_observations:
   values:
   - 30.0
   - 2008.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 5 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -81,8 +77,7 @@ numeric_observations:
   values:
   - 5.0
   - 2025.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-02-03_gms-week-05-slippery-as-a-snake_img1_765648_f1ac4bf1ec47.jpg'
   unit: null
@@ -93,47 +88,41 @@ numeric_observations:
   - 5.0
   - 765648.0
   - 7.0
-- &id006
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: January 31st, 2025
   unit: null
   values:
   - 31.0
   - 2025.0
-- &id007
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: Week 5
   unit: null
   values:
   - 5.0
-- &id008
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: Volume 268, Issue 1171
   unit: null
   values:
   - 268.0
   - 1171.0
-- &id009
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 2024. Notwithstanding, should supply become unsustainable, this may
     apply even further pressure
   unit: null
   values:
   - 2024.0
-- &id010
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: the increasing number of vessels since October of 2024, when Pakistani
     recyclers all but disappeared
   unit: null
   values:
   - 2024.0
-- &id011
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: to the tune of 25% on Mexico and Canada + an additional 10% on Canadian
     energy exports and a
@@ -141,8 +130,7 @@ numeric_observations:
   values:
   - 25.0
   - 10.0
-- &id012
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: blanket 10% tariff on China that is due to set into effect on February
     4th, has already seen global
@@ -150,8 +138,7 @@ numeric_observations:
   values:
   - 10.0
   - 4.0
-- &id013
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: this week as levels approached USD 74/barrel once again, and Week 6
     is likely setting itself up to be
@@ -159,40 +146,35 @@ numeric_observations:
   values:
   - 74.0
   - 6.0
-- &id014
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: • Tastes like... the pivotal point of global Tariff Wars of 2025. This
     also seems to be affecting the performance of
   unit: null
   values:
   - 2025.0
-- &id015
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: / view the Weekly USD 30/LDT over the course of January, but also from
     the few recyclers (in Bangladesh & Pakistan)
   unit: usd
   values:
   - 30.0
-- &id016
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: improvement in supply this week, offers of about USD 30/Ton lower shocked
     the industry as
   unit: usd
   values:
   - 30.0
-- &id017
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: markets across the board seem to be falling in unison. Tastes like
     2008 all over again.
   unit: null
   values:
   - 2008.0
-- &id018
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 5 of 2025 are on Page 5.
   unit: null
@@ -200,56 +182,49 @@ numeric_observations:
   - 5.0
   - 2025.0
   - 5.0
-- &id019
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id020
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: declines of up to USD 30/Ton on dry units from the few open and capable
     buyers. As such, it has
   unit: usd
   values:
   - 30.0
-- &id021
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: seen arrive any waterfront in a while with nearly 105K LDT either idling
     or already delivered to
   unit: null
   values:
   - 105.0
-- &id022
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: As local steel plate prices remain dead on the floor at USD 529.41/Ton,
     the Taka made a marked
   unit: usd
   values:
   - 529.41
-- &id023
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: and rather surprising improvement against the U.S. Dollar, to the tune
     of 21 basis points as the
   unit: null
   values:
   - 21.0
-- &id024
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: week ended, closing it at BDT 120.59. This consistent volatility and
     weakening of the Taka across
   unit: null
   values:
   - 120.59
-- &id025
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 2024 (and even of late), has seen prices gradually decline from the
     highs of USD 600/Ton, down to
@@ -257,8 +232,7 @@ numeric_observations:
   values:
   - 2024.0
   - 600.0
-- &id026
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: the mid USD 400s/Ton, with unfolding indications of up to USD 30/LDT
     lower on tabled tonnage.
@@ -266,55 +240,48 @@ numeric_observations:
   values:
   - 400.0
   - 30.0
-- &id027
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: As such, any dry units currently for sale are only seeing USD 450/LDT
     depending on condition of
   unit: usd
   values:
   - 450.0
-- &id028
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: are now booked with tonnage for the near future. Moreover, with the
     January 31st deadline to
   unit: null
   values:
   - 31.0
-- &id029
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: upgrades on their yards, to receive time beyond the January 31 cut
     off and get up to HKC standards
   unit: null
   values:
   - 31.0
-- &id030
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: USD 529.41/Ton
   unit: usd
   values:
   - 529.41
-- &id031
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id032
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: recycling sector was the announcement of a 3-year plan to distribute
     intended infrastructure projects,
   unit: null
   values:
   - 3.0
-- &id033
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: USD 3/Ton, ending the week at USD 455.75/Ton and just barely above
     prevailing offers on any dry
@@ -322,40 +289,35 @@ numeric_observations:
   values:
   - 3.0
   - 455.75
-- &id034
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: to make a minor improvement towards the end of the week and still record
     an overall decline of 20
   unit: null
   values:
   - 20.0
-- &id035
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: basis points to close at Rs. 86.33 against the U.S. Dollar. T ariff
     aims.
   unit: null
   values:
   - 86.33
-- &id036
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: Indian recyclers from even bidding on these units, has eventually resulted
     in the first week of 2025
   unit: null
   values:
   - 2025.0
-- &id037
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: prior arrivals that saw local anchorage LDT balloon to well over 70K
     LDT this week - a number not
   unit: null
   values:
   - 70.0
-- &id038
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: for consumers through FY 2025 - 2026 along with the expectation that
     private sector infrastructure
@@ -363,119 +325,104 @@ numeric_observations:
   values:
   - 2025.0
   - 2026.0
-- &id039
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: investments will likely go up, kickstarting demand for steel as well,
     which would then help 2025 hold
   unit: null
   values:
   - 2025.0
-- &id040
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: a candle to 2024s performance. Yet, the return and unfolding of this
     performance remains up for grabs
   unit: null
   values:
   - 2024.0
-- &id041
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: business post July 1st, 2025.
   unit: null
   values:
   - 1.0
   - 2025.0
-- &id043
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: yards open for business post January 31, reportedly, neither the Pakistani
     government nor
   unit: null
   values:
   - 31.0
-- &id044
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: recyclers as not only did Pakistani Rupee drop 12 basis points against
     the U.S. Dollar and close the
   unit: null
   values:
   - 12.0
-- &id045
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: week at PKR 278.44, but local steel plate prices, the highest in the
     Indian sub-continent, have also
   unit: null
   values:
   - 278.44
-- &id046
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: remained flat on the floor for months on end and closed the week at
     USD 643.78/Ton.
   unit: usd
   values:
   - 643.78
-- &id047
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: with any sense of normality for 2025. And while the demand for finished
     products remains slow
   unit: null
   values:
   - 2025.0
-- &id048
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: starting from the 4th (once Trump's Tariff's kick in), local plate
     prices will likely decline and lower
   unit: null
   values:
   - 4.0
-- &id049
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: in sync with sub-continent ship recycling markets and to the tune of
     USD 30/Ton across the board.
   unit: usd
   values:
   - 30.0
-- &id051
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: TRY 35.71 against the U.S. Dollar.
   unit: null
   values:
   - 35.71
-- &id052
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: disappointed ship owners to consider another USD 30/Ton officially
     wiped off Turkish prices as well,
   unit: usd
   values:
   - 30.0
-- &id053
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: For Week 5 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -483,8 +430,7 @@ numeric_observations:
   values:
   - 5.0
   - 2025.0
-- &id054
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -493,8 +439,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id055
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 2 India Weak 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -503,8 +448,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id056
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Weak 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -513,8 +457,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id057
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
   unit: null
@@ -523,32 +466,28 @@ numeric_observations:
   - 280.0
   - 290.0
   - 300.0
-- &id058
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id059
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line:  A recent Bankrate survey found that 42 percent of U.S. adults who
     were married or living with a partner admitted to
   unit: null
   values:
   - 42.0
-- &id060
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line:  According to a 2023 Ipsos survey, cornhole is the most-played sport
     in America, ahead of bowling, swimming and golf.
   unit: null
   values:
   - 2023.0
-- &id061
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line:  According to one 2020 United Nations study, an estimated 90 percent
     of female migrants traveling along the
@@ -556,8 +495,7 @@ numeric_observations:
   values:
   - 2020.0
   - 90.0
-- &id062
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line:  Los Angeles experienced an 81 percent increase in shoplifting in
     2023, according to an analysis by Crosstown LA, a
@@ -565,8 +503,7 @@ numeric_observations:
   values:
   - 81.0
   - 2023.0
-- &id063
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line:  The sprinter Usain Bolt estimated that he ate 100 McDonald's chicken
     nuggets each day at the 2008 Beijing Olympics,
@@ -574,8 +511,7 @@ numeric_observations:
   values:
   - 100.0
   - 2008.0
-- &id064
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: February 02 & 03 - Vasant Panchami January 28 - February 04
   unit: null
@@ -584,8 +520,7 @@ numeric_observations:
   - 3.0
   - 28.0
   - 4.0
-- &id065
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: February 26 - Maha Shivratri February 10 - February 16
   unit: null
@@ -593,8 +528,7 @@ numeric_observations:
   - 26.0
   - 10.0
   - 16.0
-- &id066
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: February 15 - Shab-e-Barat January 30 - February 02
   unit: null
@@ -602,8 +536,7 @@ numeric_observations:
   - 15.0
   - 30.0
   - 2.0
-- &id067
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: February 21 - Shahid Day February 14 - February 17
   unit: null
@@ -611,15 +544,13 @@ numeric_observations:
   - 21.0
   - 14.0
   - 17.0
-- &id068
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: February 26 - Independence & National Day
   unit: null
   values:
   - 26.0
-- &id069
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: January 28 - February 04 - Chinese February 05 - Kashmir Solidarity
     No holidays until March
@@ -628,24 +559,21 @@ numeric_observations:
   - 28.0
   - 4.0
   - 5.0
-- &id070
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id071
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of January 31, 2025
   unit: null
   values:
   - 31.0
   - 2025.0
-- &id072
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 1 Medelin Master 3,852 Chemical Tanker Delivered January 23
   unit: null
@@ -653,8 +581,7 @@ numeric_observations:
   - 1.0
   - 3852.0
   - 23.0
-- &id073
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 2 Nolan 21,861 Oil Tanker Arrived January 25
   unit: null
@@ -662,8 +589,7 @@ numeric_observations:
   - 2.0
   - 21861.0
   - 25.0
-- &id074
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 3 Takun (Under Tow) 47,335 Tanker Delivered January 26
   unit: null
@@ -671,23 +597,20 @@ numeric_observations:
   - 3.0
   - 47335.0
   - 26.0
-- &id075
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 73,048
   unit: null
   values:
   - 73048.0
-- &id076
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of January 31, 2025
   unit: null
   values:
   - 31.0
   - 2025.0
-- &id077
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 1 Alek 3,120 General Cargo Arrived January 28
   unit: null
@@ -695,8 +618,7 @@ numeric_observations:
   - 1.0
   - 3120.0
   - 28.0
-- &id078
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 2 Guo Yuan 9 9,265 Bulk Carrier Arrived January 22
   unit: null
@@ -705,8 +627,7 @@ numeric_observations:
   - 9.0
   - 9265.0
   - 22.0
-- &id079
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 3 Jin Hau Fu 10,607 Bulk Carrier Delivered January 29
   unit: null
@@ -714,8 +635,7 @@ numeric_observations:
   - 3.0
   - 10607.0
   - 29.0
-- &id080
-  section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+- section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
   section_type: linked_pdf
   source_line: 4 Lean 29,182 LNG Tanker Arrived January 27
   unit: null
@@ -1029,86 +949,617 @@ section_count: 3
 signals:
   numeric_observation_count: 116
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Despite a frantic start to 2025 that saw a marked return of recycling
+      tonnage at the bidding tables, SNP activity across theglobal ship recycling
+      spectrum eased further this week as Chinese New Year holidays descended upon
+      the world. It is the "Year of the Sna
+    unit: pct
+    values:
+    - 2025.0
+    - 2024.0
+    - 2024.0
+    - 25.0
+    - 10.0
+    - 10.0
+    - 4.0
+  - section: Main
+    section_type: null
+    source_line: The Baltic Dry Bulk Index also gained ground as rates across the
+      dry bulk categories displayed signs of positivity / improvement this week, which
+      might still be late for a bulk of the already-aged still-trading units that
+      are being compelled to reconsider thei
+    unit: usd
+    values:
+    - 74.0
+    - 6.0
+    - 2025.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: Tariffs on Chinese steel stand to be of key concern to the sub-continent
+      ship recycling markets and when China starts dumping their surplus post-tariff
+      steel, it will be a critical factor in demand and vessel pricing for much of
+      this year. Finally, Turkey at t
+    unit: usd
+    values:
+    - 30.0
+    - 2008.0
+  - section: Main
+    section_type: null
+    source_line: For Week 5 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-02-03_gms-week-05-slippery-as-a-snake_img1_765648_f1ac4bf1ec47.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -2.0
+    - -3.0
+    - 5.0
+    - 765648.0
+    - 7.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: January 31st, 2025
+    unit: null
+    values:
+    - 31.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: Week 5
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: Volume 268, Issue 1171
+    unit: null
+    values:
+    - 268.0
+    - 1171.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 2024. Notwithstanding, should supply become unsustainable, this may
+      apply even further pressure
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: the increasing number of vessels since October of 2024, when Pakistani
+      recyclers all but disappeared
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: to the tune of 25% on Mexico and Canada + an additional 10% on Canadian
+      energy exports and a
+    unit: pct
+    values:
+    - 25.0
+    - 10.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: blanket 10% tariff on China that is due to set into effect on February
+      4th, has already seen global
+    unit: pct
+    values:
+    - 10.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: this week as levels approached USD 74/barrel once again, and Week
+      6 is likely setting itself up to be
+    unit: usd
+    values:
+    - 74.0
+    - 6.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: • Tastes like... the pivotal point of global Tariff Wars of 2025.
+      This also seems to be affecting the performance of
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: / view the Weekly USD 30/LDT over the course of January, but also
+      from the few recyclers (in Bangladesh & Pakistan)
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: improvement in supply this week, offers of about USD 30/Ton lower
+      shocked the industry as
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: markets across the board seem to be falling in unison. Tastes like
+      2008 all over again.
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 5 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: declines of up to USD 30/Ton on dry units from the few open and capable
+      buyers. As such, it has
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: seen arrive any waterfront in a while with nearly 105K LDT either
+      idling or already delivered to
+    unit: null
+    values:
+    - 105.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: As local steel plate prices remain dead on the floor at USD 529.41/Ton,
+      the Taka made a marked
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: and rather surprising improvement against the U.S. Dollar, to the
+      tune of 21 basis points as the
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: week ended, closing it at BDT 120.59. This consistent volatility
+      and weakening of the Taka across
+    unit: null
+    values:
+    - 120.59
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 2024 (and even of late), has seen prices gradually decline from the
+      highs of USD 600/Ton, down to
+    unit: usd
+    values:
+    - 2024.0
+    - 600.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: the mid USD 400s/Ton, with unfolding indications of up to USD 30/LDT
+      lower on tabled tonnage.
+    unit: usd
+    values:
+    - 400.0
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: As such, any dry units currently for sale are only seeing USD 450/LDT
+      depending on condition of
+    unit: usd
+    values:
+    - 450.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: are now booked with tonnage for the near future. Moreover, with the
+      January 31st deadline to
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: upgrades on their yards, to receive time beyond the January 31 cut
+      off and get up to HKC standards
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: USD 529.41/Ton
+    unit: usd
+    values:
+    - 529.41
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: recycling sector was the announcement of a 3-year plan to distribute
+      intended infrastructure projects,
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: USD 3/Ton, ending the week at USD 455.75/Ton and just barely above
+      prevailing offers on any dry
+    unit: usd
+    values:
+    - 3.0
+    - 455.75
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: to make a minor improvement towards the end of the week and still
+      record an overall decline of 20
+    unit: null
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: basis points to close at Rs. 86.33 against the U.S. Dollar. T ariff
+      aims.
+    unit: null
+    values:
+    - 86.33
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: Indian recyclers from even bidding on these units, has eventually
+      resulted in the first week of 2025
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: prior arrivals that saw local anchorage LDT balloon to well over
+      70K LDT this week - a number not
+    unit: null
+    values:
+    - 70.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: for consumers through FY 2025 - 2026 along with the expectation that
+      private sector infrastructure
+    unit: null
+    values:
+    - 2025.0
+    - 2026.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: investments will likely go up, kickstarting demand for steel as well,
+      which would then help 2025 hold
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: a candle to 2024s performance. Yet, the return and unfolding of this
+      performance remains up for grabs
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: business post July 1st, 2025.
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: yards open for business post January 31, reportedly, neither the
+      Pakistani government nor
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: recyclers as not only did Pakistani Rupee drop 12 basis points against
+      the U.S. Dollar and close the
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: week at PKR 278.44, but local steel plate prices, the highest in
+      the Indian sub-continent, have also
+    unit: null
+    values:
+    - 278.44
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: remained flat on the floor for months on end and closed the week
+      at USD 643.78/Ton.
+    unit: usd
+    values:
+    - 643.78
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: with any sense of normality for 2025. And while the demand for finished
+      products remains slow
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: starting from the 4th (once Trump's Tariff's kick in), local plate
+      prices will likely decline and lower
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: in sync with sub-continent ship recycling markets and to the tune
+      of USD 30/Ton across the board.
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: TRY 35.71 against the U.S. Dollar.
+    unit: null
+    values:
+    - 35.71
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: disappointed ship owners to consider another USD 30/Ton officially
+      wiped off Turkish prices as well,
+    unit: usd
+    values:
+    - 30.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: For Week 5 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 5.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Weak 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Weak 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 280 / LDT 290 / LDT 300 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 280.0
+    - 290.0
+    - 300.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line:  A recent Bankrate survey found that 42 percent of U.S. adults who
+      were married or living with a partner admitted to
+    unit: null
+    values:
+    - 42.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line:  According to a 2023 Ipsos survey, cornhole is the most-played sport
+      in America, ahead of bowling, swimming and golf.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line:  According to one 2020 United Nations study, an estimated 90 percent
+      of female migrants traveling along the
+    unit: null
+    values:
+    - 2020.0
+    - 90.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line:  Los Angeles experienced an 81 percent increase in shoplifting in
+      2023, according to an analysis by Crosstown LA, a
+    unit: null
+    values:
+    - 81.0
+    - 2023.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line:  The sprinter Usain Bolt estimated that he ate 100 McDonald's chicken
+      nuggets each day at the 2008 Beijing Olympics,
+    unit: null
+    values:
+    - 100.0
+    - 2008.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: February 02 & 03 - Vasant Panchami January 28 - February 04
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+    - 28.0
+    - 4.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Maha Shivratri February 10 - February 16
+    unit: null
+    values:
+    - 26.0
+    - 10.0
+    - 16.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: February 15 - Shab-e-Barat January 30 - February 02
+    unit: null
+    values:
+    - 15.0
+    - 30.0
+    - 2.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: February 21 - Shahid Day February 14 - February 17
+    unit: null
+    values:
+    - 21.0
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: February 26 - Independence & National Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: January 28 - February 04 - Chinese February 05 - Kashmir Solidarity
+      No holidays until March
+    unit: null
+    values:
+    - 28.0
+    - 4.0
+    - 5.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of January 31, 2025
+    unit: null
+    values:
+    - 31.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 1 Medelin Master 3,852 Chemical Tanker Delivered January 23
+    unit: null
+    values:
+    - 1.0
+    - 3852.0
+    - 23.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 2 Nolan 21,861 Oil Tanker Arrived January 25
+    unit: null
+    values:
+    - 2.0
+    - 21861.0
+    - 25.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 3 Takun (Under Tow) 47,335 Tanker Delivered January 26
+    unit: null
+    values:
+    - 3.0
+    - 47335.0
+    - 26.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 73,048
+    unit: null
+    values:
+    - 73048.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of January 31, 2025
+    unit: null
+    values:
+    - 31.0
+    - 2025.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 1 Alek 3,120 General Cargo Arrived January 28
+    unit: null
+    values:
+    - 1.0
+    - 3120.0
+    - 28.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 2 Guo Yuan 9 9,265 Bulk Carrier Arrived January 22
+    unit: null
+    values:
+    - 2.0
+    - 9.0
+    - 9265.0
+    - 22.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 3 Jin Hau Fu 10,607 Bulk Carrier Delivered January 29
+    unit: null
+    values:
+    - 3.0
+    - 10607.0
+    - 29.0
+  - section: 'Linked asset: 2025-02-03_gms-week-05-slippery-as-a-snake_ship-recycling-market-insight-week-0_1c42ff5b2c03.pdf'
+    section_type: linked_pdf
+    source_line: 4 Lean 29,182 LNG Tanker Arrived January 27
+    unit: null
+    values:
+    - 4.0
+    - 29182.0
+    - 27.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-02-03_gms-week-05-slippery-as-a-snake.html
 source_stem: 2025-02-03_gms-week-05-slippery-as-a-snake

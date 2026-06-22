@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 26
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 16/09/2025
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 16.0
   - 9.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: (05 SEPTEMBER - 12 SEPTEMBER) 2025
   unit: null
@@ -45,8 +43,7 @@ numeric_observations:
   - 5.0
   - 12.0
   - 2025.0
-- &id003
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -54,8 +51,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -63,16 +59,14 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: Import prices dropped by USD 2 this week; however, this decline has
     not led to any
   unit: usd
   values:
   - 2.0
-- &id006
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (66.93 65.74) -1.19'
   unit: null
@@ -80,8 +74,7 @@ numeric_observations:
   - 66.93
   - 65.74
   - -1.19
-- &id007
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (64.34 61.72) -2.62'
   unit: null
@@ -89,8 +82,7 @@ numeric_observations:
   - 64.34
   - 61.72
   - -2.62
-- &id008
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 88.27 This Week : 121.44 This Week : 283.23 This Week
     : 41.36'
@@ -100,8 +92,7 @@ numeric_observations:
   - 121.44
   - 283.23
   - 41.36
-- &id009
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 88.11 Previous Week : 121.70 Previous Week : 282.30
     Previous Week : 41.16'
@@ -111,8 +102,7 @@ numeric_observations:
   - 121.7
   - 282.3
   - 41.16
-- &id010
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Lost : 0.16 Gained : 0.26 Gained : 0.07 Lost : 0.2'
   unit: null
@@ -121,8 +111,7 @@ numeric_observations:
   - 0.26
   - 0.07
   - 0.2
-- &id011
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: INDIA SOFT 445 430 415 (- 1.15%)
   unit: pct
@@ -131,8 +120,7 @@ numeric_observations:
   - 430.0
   - 415.0
   - 1.15
-- &id012
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH SOFT 420 405 385 (0)
   unit: null
@@ -140,8 +128,7 @@ numeric_observations:
   - 420.0
   - 405.0
   - 385.0
-- &id013
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN SOFT 425 410 405 (0)
   unit: null
@@ -149,8 +136,7 @@ numeric_observations:
   - 425.0
   - 410.0
   - 405.0
-- &id014
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: TURKEY FIRM 270 260 250 (0)
   unit: null
@@ -158,89 +144,77 @@ numeric_observations:
   - 270.0
   - 260.0
   - 250.0
-- &id015
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: BONITA BULKER 10,201 DELIVERED GADANI, PAKISTAN 468
   unit: null
   values:
   - 10201.0
   - 468.0
-- &id016
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: (280 MT BUNKERS)
   unit: tonnage
   values:
   - 280.0
-- &id017
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: HAI HUANG XING BULKER 12,500 DELIVERED CHINA (INTERNAL RECYCLING) 281
   unit: null
   values:
   - 12500.0
   - 281.0
-- &id018
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: YIN PU BULKER 7,770 DELIVERED CHINA (INTERNAL RECYCLING) 267
   unit: null
   values:
   - 7770.0
   - 267.0
-- &id019
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: MANASSA MOON M MPP 2,725 DELIVERED ALIAGA, TURKIYE 240
   unit: null
   values:
   - 2725.0
   - 240.0
-- &id020
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: NARVA MPP 1,400 AS-IS SOUTH KOREA UNDISCLOSED
   unit: null
   values:
   - 1400.0
-- &id021
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: RIMBA EMPAT CEMENT CARRIER 3,192 AS-IS BATAM, INDONESIA UNDISCLOSED
   unit: null
   values:
   - 3192.0
-- &id022
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: DEEPWATER CHAMPION DRILLSHIP 36,105 AS-IS GREECE UNDISCLOSED
   unit: null
   values:
   - 36105.0
-- &id023
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: DISCOVERER AMERICAS DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
   unit: null
   values:
   - 37755.0
-- &id024
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: DISCOVERER CLEAR LEADER DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
   unit: null
   values:
   - 37755.0
-- &id025
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: DISCOVERER INDIA DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
   unit: null
   values:
   - 37755.0
-- &id026
-  section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+- section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
   section_type: linked_pdf
   source_line: JOIDES RESOLUTION RIG 9,992 AS-IS NORWAY UNDISCLOSED
   unit: null
@@ -254,32 +228,200 @@ section_count: 2
 signals:
   numeric_observation_count: 26
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 16/09/2025
+    unit: null
+    values:
+    - 16.0
+    - 9.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: (05 SEPTEMBER - 12 SEPTEMBER) 2025
+    unit: null
+    values:
+    - 5.0
+    - 12.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: Import prices dropped by USD 2 this week; however, this decline has
+      not led to any
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (66.93 65.74) -1.19'
+    unit: null
+    values:
+    - 66.93
+    - 65.74
+    - -1.19
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (64.34 61.72) -2.62'
+    unit: null
+    values:
+    - 64.34
+    - 61.72
+    - -2.62
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 88.27 This Week : 121.44 This Week : 283.23 This Week
+      : 41.36'
+    unit: null
+    values:
+    - 88.27
+    - 121.44
+    - 283.23
+    - 41.36
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 88.11 Previous Week : 121.70 Previous Week : 282.30
+      Previous Week : 41.16'
+    unit: null
+    values:
+    - 88.11
+    - 121.7
+    - 282.3
+    - 41.16
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Lost : 0.16 Gained : 0.26 Gained : 0.07 Lost : 0.2'
+    unit: null
+    values:
+    - 0.16
+    - 0.26
+    - 0.07
+    - 0.2
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: INDIA SOFT 445 430 415 (- 1.15%)
+    unit: pct
+    values:
+    - 445.0
+    - 430.0
+    - 415.0
+    - 1.15
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH SOFT 420 405 385 (0)
+    unit: null
+    values:
+    - 420.0
+    - 405.0
+    - 385.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN SOFT 425 410 405 (0)
+    unit: null
+    values:
+    - 425.0
+    - 410.0
+    - 405.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY FIRM 270 260 250 (0)
+    unit: null
+    values:
+    - 270.0
+    - 260.0
+    - 250.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: BONITA BULKER 10,201 DELIVERED GADANI, PAKISTAN 468
+    unit: null
+    values:
+    - 10201.0
+    - 468.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: (280 MT BUNKERS)
+    unit: tonnage
+    values:
+    - 280.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: HAI HUANG XING BULKER 12,500 DELIVERED CHINA (INTERNAL RECYCLING)
+      281
+    unit: null
+    values:
+    - 12500.0
+    - 281.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: YIN PU BULKER 7,770 DELIVERED CHINA (INTERNAL RECYCLING) 267
+    unit: null
+    values:
+    - 7770.0
+    - 267.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: MANASSA MOON M MPP 2,725 DELIVERED ALIAGA, TURKIYE 240
+    unit: null
+    values:
+    - 2725.0
+    - 240.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: NARVA MPP 1,400 AS-IS SOUTH KOREA UNDISCLOSED
+    unit: null
+    values:
+    - 1400.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: RIMBA EMPAT CEMENT CARRIER 3,192 AS-IS BATAM, INDONESIA UNDISCLOSED
+    unit: null
+    values:
+    - 3192.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: DEEPWATER CHAMPION DRILLSHIP 36,105 AS-IS GREECE UNDISCLOSED
+    unit: null
+    values:
+    - 36105.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: DISCOVERER AMERICAS DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
+    unit: null
+    values:
+    - 37755.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: DISCOVERER CLEAR LEADER DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
+    unit: null
+    values:
+    - 37755.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: DISCOVERER INDIA DRILLSHIP 37,755 AS-IS GREECE UNDISCLOSED
+    unit: null
+    values:
+    - 37755.0
+  - section: 'Linked asset: 2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: JOIDES RESOLUTION RIG 9,992 AS-IS NORWAY UNDISCLOSED
+    unit: null
+    values:
+    - 9992.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-16_best-oasis-weekly-recycling-market-report-12-september-2025.html
 source_stem: 2025-09-16_best-oasis-weekly-recycling-market-report-12-september-2025

@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 139
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The Week 17 view that an indefinite ceasefire without a concrete proposal
     would keep owners from releasingtonnage has been overtaken by a supply shock previously
@@ -49,8 +48,7 @@ numeric_observations:
   - 114.0
   - 60.0
   - 28.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The IEA has called this "the largest supply disruption in history."
     Goldman Sachs estimates Hormuz exports at about 4% of normal, with tanker transits
@@ -66,8 +64,7 @@ numeric_observations:
   - 290.0
   - 15.0
   - 5.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Freight is more stable than oil. The Baltic Dry Index closed at 2,670
     on April 29, unchanged from 2,673 in Week 17, with the prior rally ending April
@@ -82,8 +79,7 @@ numeric_observations:
   - 23.0
   - 4283.0
   - 1522.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Currencies are diverging along Hormuz exposure. USD/INR weakened to
     about 94.71, a new low. USD/PKR firmed to 278.82, USD/TRY to 44.45 from 44.92,
@@ -98,8 +94,7 @@ numeric_observations:
   - 122.74
   - 123.18
   - 100.3
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: US March CPI printed at 3.5% on April 11, the highest since the war
     began, driven by energy and transport. The Federal Reserve held rates steady.
@@ -113,8 +108,7 @@ numeric_observations:
   - 3.4
   - 7.3
   - 30.87
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: With about four weeks to the monsoon window, the Week 17 view that
     Q1 overhang would extend into Q2 is now confirmed. With Brent at multi year highs,
@@ -124,8 +118,7 @@ numeric_observations:
   values:
   - 17.0
   - 4.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 18 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -133,15 +126,13 @@ numeric_observations:
   values:
   - 18.0
   - 2026.0
-- &id008
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 9786.jpg'
   unit: null
   values:
   - 9786.0
-- &id009
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   unit: null
@@ -154,24 +145,21 @@ numeric_observations:
   - 6.0
   - 52842.0
   - 41.0
-- &id010
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x152 mode=RGB'
   unit: null
   values:
   - 688.0
   - 52.0
-- &id011
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id012
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: '| 2 | Pakistan | Firming | 445-450/ LDT | 465-470/ LDT | 475-480/
     LDT |'
@@ -184,8 +172,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id013
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: '[| 4 [Turkey | Steady | 270-272/ LDT | 280-282/ LDT | 290-292/ LDT
     |'
@@ -198,15 +185,13 @@ numeric_observations:
   - -282.0
   - 290.0
   - -292.0
-- &id014
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id015
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: May 1st, 2 026
   unit: null
@@ -214,31 +199,27 @@ numeric_observations:
   - 1.0
   - 2.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Week 18
   unit: null
   values:
   - 18.0
-- &id017
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1233
   unit: null
   values:
   - 282.0
   - 1233.0
-- &id018
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: The Week 17 view that an indefinite ceasefire without a concrete proposal
     would keep owners from
   unit: null
   values:
   - 17.0
-- &id019
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: as high as USD 126.41 per barrel on April 30, the highest since 2022,
     before settling into a USD 108
@@ -248,46 +229,40 @@ numeric_observations:
   - 30.0
   - 2022.0
   - 108.0
-- &id020
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: to USD 114 range. The June contract led the rally into expiry after
     reports that US Central Command
   unit: usd
   values:
   - 114.0
-- &id021
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: US naval blockade will remain until a broader agreement is reached.
     Brent is up about 60% since
   unit: pct
   values:
   - 60.0
-- &id022
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: February 28.
   unit: null
   values:
   - 28.0
-- &id023
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: exports at about 4% of normal, with tanker transits down from dozens
     daily to single digits. What
   unit: pct
   values:
   - 4.0
-- &id024
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: • Hormuz at 4%.
   unit: pct
   values:
   - 4.0
-- &id025
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: was restricted passage in Weeks 14 to 17 has now hardened into a structural
     blockade with no visible
@@ -295,8 +270,7 @@ numeric_observations:
   values:
   - 14.0
   - 17.0
-- &id026
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: backed negotiations on April 27 with 261 of 290 votes, but the gap
     between the US 15 point plan and
@@ -306,15 +280,13 @@ numeric_observations:
   - 261.0
   - 290.0
   - 15.0
-- &id027
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Iran's 5 point proposal remains unresolved.
   unit: null
   values:
   - 5.0
-- &id028
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Freight is more stable than oil. The Baltic Dry Index closed at 2,670
     on April 29, unchanged from
@@ -322,8 +294,7 @@ numeric_observations:
   values:
   - 2670.0
   - 29.0
-- &id029
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 2,673 in Week 17, with the prior rally ending April 23. Capesize reached
     4,283 and Supramax 1,522,
@@ -334,16 +305,14 @@ numeric_observations:
   - 23.0
   - 4283.0
   - 1522.0
-- &id030
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Currencies are diverging along Hormuz exposure. USD/INR weakened to
     about 94.71, a new low.
   unit: usd_per_unit
   values:
   - 94.71
-- &id031
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: USD/PKR firmed to 278.82, USD/TRY to 44.45 from 44.92, and USD/BDT
     held between 122.74 and
@@ -353,8 +322,7 @@ numeric_observations:
   - 44.45
   - 44.92
   - 122.74
-- &id032
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 123.18. The Dollar Index strengthened to 100.3. Exposure to Hormuz
     flows continues to define
@@ -362,8 +330,7 @@ numeric_observations:
   values:
   - 123.18
   - 100.3
-- &id033
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: US March CPI printed at 3.5% on April 11, the highest since the war
     began, driven by energy and
@@ -371,8 +338,7 @@ numeric_observations:
   values:
   - 3.5
   - 11.0
-- &id034
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Scan to download now, Bangladesh 8.71%, India 3.40%, Pakistan 7.3%,
     Turkey 30.87%, with April data expected to
@@ -382,24 +348,21 @@ numeric_observations:
   - 3.4
   - 7.3
   - 30.87
-- &id035
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: With about four weeks to the monsoon window, the Week 17 view that
     Q1 overhang would extend
   unit: null
   values:
   - 17.0
-- &id036
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: into Q2 is now confirmed. With Brent at multi year highs, Hormuz flows
     at 4% of normal, no
   unit: worldscale_pct
   values:
   - 4.0
-- &id037
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 18 of 2026 are on Page 5.
   unit: null
@@ -407,16 +370,14 @@ numeric_observations:
   - 18.0
   - 2026.0
   - 5.0
-- &id038
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 18 with USD/BDT trading in a 122.74 to 123.18
     range, marginally firmer
@@ -425,8 +386,7 @@ numeric_observations:
   - 18.0
   - 122.74
   - 123.18
-- &id040
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: than the Week 17 close near 122.85 but still well within the band that
     has defined Q2. The Dollar
@@ -434,24 +394,21 @@ numeric_observations:
   values:
   - 17.0
   - 122.85
-- &id041
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Index move to approximately 100.3 has not translated into proportional
     Taka weakness, reflecting
   unit: null
   values:
   - 100.3
-- &id042
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 34.12 billion that continues to absorb the global risk-off rotation
     without a forced devaluation. Local
   unit: null
   values:
   - 34.12
-- &id043
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: steel plate prices are holding in a BDT 69,400 to 71,000 range, with
     the USD equivalent at
@@ -459,8 +416,7 @@ numeric_observations:
   values:
   - 69400.0
   - 71000.0
-- &id044
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: approximately USD 564 to USD 578 per ton. The Week 17 firming has not
     extended, but the
@@ -469,24 +425,21 @@ numeric_observations:
   - 564.0
   - 578.0
   - 17.0
-- &id045
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: bank approvals reached an operational rhythm during Week 17 and have
     sustained that pace into
   unit: null
   values:
   - 17.0
-- &id046
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Week 18, with Chattogram cash buyers reporting file-to-fund cycles
     materially shorter than the
   unit: null
   values:
   - 18.0
-- &id047
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's March 2026 CPI at 8.71% and non-food inflation at 9.09%
     remain the operative reads,
@@ -495,24 +448,21 @@ numeric_observations:
   - 2026.0
   - 8.71
   - 9.09
-- &id048
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: before yards must slow cycles. The Brent move to USD 126 overnight
     has not changed Bangladesh's
   unit: usd
   values:
   - 126.0
-- &id049
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: USD/INR has broken to approximately 94.71 in Week 18, surpassing the
     Week 14 record of 94.42 and
@@ -522,8 +472,7 @@ numeric_observations:
   - 18.0
   - 14.0
   - 94.42
-- &id051
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: the March 27 reference of 94.86 to print a fresh all-time low. The
     Reserve Bank of India's Week 17 partial R ecord low.
@@ -532,16 +481,14 @@ numeric_observations:
   - 27.0
   - 94.86
   - 17.0
-- &id052
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 'early-April defence. The structural driver is unambiguous: with Hormuz
     transit at approximately 4%'
   unit: pct
   values:
   - 4.0
-- &id053
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: of normal per Goldman estimates, India's import bill on approximately
     70% of crude and 90% of LPG
@@ -549,8 +496,7 @@ numeric_observations:
   values:
   - 70.0
   - 90.0
-- &id054
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang have held in an INR 40,700 to 41,500
     range through Week 18, with the
@@ -559,8 +505,7 @@ numeric_observations:
   - 40700.0
   - 41500.0
   - 18.0
-- &id055
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: USD equivalent at approximately USD 430 to 438 per ton at current exchange
     rates. The notable Steel resilient.
@@ -568,16 +513,14 @@ numeric_observations:
   values:
   - 430.0
   - 438.0
-- &id056
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: observation is that the rupee's break to 94.71 has not yet translated
     into proportional USD downside
   unit: usd
   values:
   - 94.71
-- &id057
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: widening to approximately USD 240 to 250 per LDT, given the relative
     currency moves. The
@@ -585,16 +528,14 @@ numeric_observations:
   values:
   - 240.0
   - 250.0
-- &id058
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: compliance differentiator is unchanged. More than 110 yards at Alang
     hold valid Statements of
   unit: null
   values:
   - 110.0
-- &id059
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Compliance, and the RBI's 2% to 6% inflation tolerance band for 2026-2031
     continues to anchor the
@@ -604,8 +545,7 @@ numeric_observations:
   - 6.0
   - 2026.0
   - -2031.0
-- &id060
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: India's March 2026 CPI at 3.40%, released April 13, remains the operative
     inflation print, comfortably
@@ -614,8 +554,7 @@ numeric_observations:
   - 2026.0
   - 3.4
   - 13.0
-- &id061
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Week 17 to Week 18 oil rally, and the transmission to domestic transport
     and food costs will be the
@@ -623,24 +562,21 @@ numeric_observations:
   values:
   - 17.0
   - 18.0
-- &id062
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: 'Pakistan''s Week 18 marks an unusual configuration: while the world''s
     currency markets have'
   unit: null
   values:
   - 18.0
-- &id064
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: has actually firmed marginally to approximately 278.82 from the Week
     17 close near 279.70. Open-
@@ -649,8 +585,7 @@ numeric_observations:
   - 278.82
   - 17.0
   - 279.7
-- &id065
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: market quotes published April 30 from Karachi show USD buying at 279.10
     and selling at 280,
@@ -659,23 +594,20 @@ numeric_observations:
   - 30.0
   - 279.1
   - 280.0
-- &id066
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at PKR 188,000 per ton are unchanged, with
     the USD equivalent firming
   unit: usd
   values:
   - 188000.0
-- &id067
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: slightly to approximately USD 674 per ton on the marginal PKR strength.
   unit: usd
   values:
   - 674.0
-- &id068
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Pakistan's March 2026 CPI at 7.3%, above the State Bank's 5% to 7%
     target band, remains driven
@@ -685,8 +617,7 @@ numeric_observations:
   - 7.3
   - 5.0
   - 7.0
-- &id069
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: fully reflect the Week 17 to Week 18 oil shock and is the watch item.
     The structural position is the
@@ -694,24 +625,21 @@ numeric_observations:
   values:
   - 17.0
   - 18.0
-- &id070
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: than it was at the start of Week 17. Pakistan has the most to consolidate
     if the configuration holds.
   unit: null
   values:
   - 17.0
-- &id071
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Turkey enters Week 18 with USD/TRY at approximately 44.45, a notable
     strengthening from the
@@ -719,8 +647,7 @@ numeric_observations:
   values:
   - 18.0
   - 44.45
-- &id073
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Week 17 record low near 44.92 and reflecting the Central Bank of Turkey's
     sustained intervention
@@ -728,8 +655,7 @@ numeric_observations:
   values:
   - 17.0
   - 44.92
-- &id074
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: overnight reference rates near 40% are both still in force. The lira's
     recovery from 44.92 is best read
@@ -737,8 +663,7 @@ numeric_observations:
   values:
   - 40.0
   - 44.92
-- &id075
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: March 2026 CPI at 30.87% remains the operative print, with the April
     release expected in early May
@@ -746,16 +671,14 @@ numeric_observations:
   values:
   - 2026.0
   - 30.87
-- &id076
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: and the watch item being whether the Brent move to USD 126 has materially
     passed through to
   unit: usd
   values:
   - 126.0
-- &id077
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: consecutive months, with monthly prints decelerating from 4.84% in
     January to 1.94% in March.
@@ -763,16 +686,14 @@ numeric_observations:
   values:
   - 4.84
   - 1.94
-- &id078
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Independent estimates remain materially above the official series,
     with ENAG at 54.62% and Istanbul
   unit: pct
   values:
   - 54.62
-- &id079
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Chamber data at 37.68 percent. The TCMB's 16% year-end target is increasingly
     difficult to reconcile
@@ -780,8 +701,7 @@ numeric_observations:
   values:
   - 37.68
   - 16.0
-- &id080
-  section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: under any reasonable trajectory that captures the Week 17 to Week 18
     shock.
@@ -1119,86 +1039,683 @@ section_count: 3
 signals:
   numeric_observation_count: 139
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'The Week 17 view that an indefinite ceasefire without a concrete
+      proposal would keep owners from releasingtonnage has been overtaken by a supply
+      shock previously seen as a tail risk. Brent traded as high as USD 126.41 per
+      barrel on April 30, the highest since '
+    unit: pct
+    values:
+    - 17.0
+    - 126.41
+    - 30.0
+    - 2022.0
+    - 108.0
+    - 114.0
+    - 60.0
+    - 28.0
+  - section: Main
+    section_type: null
+    source_line: 'The IEA has called this "the largest supply disruption in history."
+      Goldman Sachs estimates Hormuz exports at about 4% of normal, with tanker transits
+      down from dozens daily to single digits. What was restricted passage in Weeks
+      14 to 17 has now hardened into '
+    unit: pct
+    values:
+    - 4.0
+    - 14.0
+    - 17.0
+    - 27.0
+    - 261.0
+    - 290.0
+    - 15.0
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: 'Freight is more stable than oil. The Baltic Dry Index closed at
+      2,670 on April 29, unchanged from 2,673 in Week 17, with the prior rally ending
+      April 23. Capesize reached 4,283 and Supramax 1,522, both recent highs. Segments
+      relevant to recycling remain firm, '
+    unit: null
+    values:
+    - 2670.0
+    - 29.0
+    - 2673.0
+    - 17.0
+    - 23.0
+    - 4283.0
+    - 1522.0
+  - section: Main
+    section_type: null
+    source_line: Currencies are diverging along Hormuz exposure. USD/INR weakened
+      to about 94.71, a new low. USD/PKR firmed to 278.82, USD/TRY to 44.45 from 44.92,
+      and USD/BDT held between 122.74 and 123.18. The Dollar Index strengthened to
+      100.3. Exposure to Hormuz flows cont
+    unit: usd_per_unit
+    values:
+    - 94.71
+    - 278.82
+    - 44.45
+    - 44.92
+    - 122.74
+    - 123.18
+    - 100.3
+  - section: Main
+    section_type: null
+    source_line: US March CPI printed at 3.5% on April 11, the highest since the war
+      began, driven by energy and transport. The Federal Reserve held rates steady.
+      Sub-continent inflation remains broadly stable for now, Bangladesh 8.71%, India
+      3.40%, Pakistan 7.3%, Turkey 30.87
+    unit: pct
+    values:
+    - 3.5
+    - 11.0
+    - 8.71
+    - 3.4
+    - 7.3
+    - 30.87
+  - section: Main
+    section_type: null
+    source_line: With about four weeks to the monsoon window, the Week 17 view that
+      Q1 overhang would extend into Q2 is now confirmed. With Brent at multi year
+      highs, Hormuz flows at 4% of normal, no diplomatic progress, and firm freight,
+      the incentive to keep older vessels tr
+    unit: worldscale_pct
+    values:
+    - 17.0
+    - 4.0
+  - section: Main
+    section_type: null
+    source_line: For Week 18 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 18.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 9786.jpg'
+    unit: null
+    values:
+    - 9786.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -5.0
+    - -4.0
+    - 18.0
+    - 9786.0
+    - 6.0
+    - 52842.0
+    - 41.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 688x152 mode=RGB'
+    unit: null
+    values:
+    - 688.0
+    - 52.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    section_type: linked_image_asset
+    source_line: '| 2 | Pakistan | Firming | 445-450/ LDT | 465-470/ LDT | 475-480/
+      LDT |'
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
+    section_type: linked_image_asset
+    source_line: '[| 4 [Turkey | Steady | 270-272/ LDT | 280-282/ LDT | 290-292/ LDT
+      |'
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - -272.0
+    - 280.0
+    - -282.0
+    - 290.0
+    - -292.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: May 1st, 2 026
+    unit: null
+    values:
+    - 1.0
+    - 2.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Week 18
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1233
+    unit: null
+    values:
+    - 282.0
+    - 1233.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: The Week 17 view that an indefinite ceasefire without a concrete
+      proposal would keep owners from
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: as high as USD 126.41 per barrel on April 30, the highest since 2022,
+      before settling into a USD 108
+    unit: usd
+    values:
+    - 126.41
+    - 30.0
+    - 2022.0
+    - 108.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: to USD 114 range. The June contract led the rally into expiry after
+      reports that US Central Command
+    unit: usd
+    values:
+    - 114.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: US naval blockade will remain until a broader agreement is reached.
+      Brent is up about 60% since
+    unit: pct
+    values:
+    - 60.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: February 28.
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: exports at about 4% of normal, with tanker transits down from dozens
+      daily to single digits. What
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: • Hormuz at 4%.
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: was restricted passage in Weeks 14 to 17 has now hardened into a
+      structural blockade with no visible
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: backed negotiations on April 27 with 261 of 290 votes, but the gap
+      between the US 15 point plan and
+    unit: null
+    values:
+    - 27.0
+    - 261.0
+    - 290.0
+    - 15.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Iran's 5 point proposal remains unresolved.
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Freight is more stable than oil. The Baltic Dry Index closed at 2,670
+      on April 29, unchanged from
+    unit: null
+    values:
+    - 2670.0
+    - 29.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 2,673 in Week 17, with the prior rally ending April 23. Capesize
+      reached 4,283 and Supramax 1,522,
+    unit: null
+    values:
+    - 2673.0
+    - 17.0
+    - 23.0
+    - 4283.0
+    - 1522.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Currencies are diverging along Hormuz exposure. USD/INR weakened
+      to about 94.71, a new low.
+    unit: usd_per_unit
+    values:
+    - 94.71
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR firmed to 278.82, USD/TRY to 44.45 from 44.92, and USD/BDT
+      held between 122.74 and
+    unit: usd_per_unit
+    values:
+    - 278.82
+    - 44.45
+    - 44.92
+    - 122.74
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 123.18. The Dollar Index strengthened to 100.3. Exposure to Hormuz
+      flows continues to define
+    unit: null
+    values:
+    - 123.18
+    - 100.3
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: US March CPI printed at 3.5% on April 11, the highest since the war
+      began, driven by energy and
+    unit: pct
+    values:
+    - 3.5
+    - 11.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Scan to download now, Bangladesh 8.71%, India 3.40%, Pakistan 7.3%,
+      Turkey 30.87%, with April data expected to
+    unit: pct
+    values:
+    - 8.71
+    - 3.4
+    - 7.3
+    - 30.87
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: With about four weeks to the monsoon window, the Week 17 view that
+      Q1 overhang would extend
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: into Q2 is now confirmed. With Brent at multi year highs, Hormuz
+      flows at 4% of normal, no
+    unit: worldscale_pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 18 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 18.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 18 with USD/BDT trading in a 122.74 to 123.18
+      range, marginally firmer
+    unit: usd_per_unit
+    values:
+    - 18.0
+    - 122.74
+    - 123.18
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: than the Week 17 close near 122.85 but still well within the band
+      that has defined Q2. The Dollar
+    unit: null
+    values:
+    - 17.0
+    - 122.85
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Index move to approximately 100.3 has not translated into proportional
+      Taka weakness, reflecting
+    unit: null
+    values:
+    - 100.3
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 34.12 billion that continues to absorb the global risk-off rotation
+      without a forced devaluation. Local
+    unit: null
+    values:
+    - 34.12
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: steel plate prices are holding in a BDT 69,400 to 71,000 range, with
+      the USD equivalent at
+    unit: usd
+    values:
+    - 69400.0
+    - 71000.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: approximately USD 564 to USD 578 per ton. The Week 17 firming has
+      not extended, but the
+    unit: usd
+    values:
+    - 564.0
+    - 578.0
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: bank approvals reached an operational rhythm during Week 17 and have
+      sustained that pace into
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Week 18, with Chattogram cash buyers reporting file-to-fund cycles
+      materially shorter than the
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh's March 2026 CPI at 8.71% and non-food inflation at 9.09%
+      remain the operative reads,
+    unit: pct
+    values:
+    - 2026.0
+    - 8.71
+    - 9.09
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: before yards must slow cycles. The Brent move to USD 126 overnight
+      has not changed Bangladesh's
+    unit: usd
+    values:
+    - 126.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR has broken to approximately 94.71 in Week 18, surpassing
+      the Week 14 record of 94.42 and
+    unit: usd_per_unit
+    values:
+    - 94.71
+    - 18.0
+    - 14.0
+    - 94.42
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: the March 27 reference of 94.86 to print a fresh all-time low. The
+      Reserve Bank of India's Week 17 partial R ecord low.
+    unit: null
+    values:
+    - 27.0
+    - 94.86
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 'early-April defence. The structural driver is unambiguous: with
+      Hormuz transit at approximately 4%'
+    unit: pct
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: of normal per Goldman estimates, India's import bill on approximately
+      70% of crude and 90% of LPG
+    unit: pct
+    values:
+    - 70.0
+    - 90.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang have held in an INR 40,700 to 41,500
+      range through Week 18, with the
+    unit: null
+    values:
+    - 40700.0
+    - 41500.0
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: USD equivalent at approximately USD 430 to 438 per ton at current
+      exchange rates. The notable Steel resilient.
+    unit: usd
+    values:
+    - 430.0
+    - 438.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: observation is that the rupee's break to 94.71 has not yet translated
+      into proportional USD downside
+    unit: usd
+    values:
+    - 94.71
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: widening to approximately USD 240 to 250 per LDT, given the relative
+      currency moves. The
+    unit: usd
+    values:
+    - 240.0
+    - 250.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: compliance differentiator is unchanged. More than 110 yards at Alang
+      hold valid Statements of
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Compliance, and the RBI's 2% to 6% inflation tolerance band for 2026-2031
+      continues to anchor the
+    unit: pct
+    values:
+    - 2.0
+    - 6.0
+    - 2026.0
+    - -2031.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: India's March 2026 CPI at 3.40%, released April 13, remains the operative
+      inflation print, comfortably
+    unit: pct
+    values:
+    - 2026.0
+    - 3.4
+    - 13.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Week 17 to Week 18 oil rally, and the transmission to domestic transport
+      and food costs will be the
+    unit: null
+    values:
+    - 17.0
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: 'Pakistan''s Week 18 marks an unusual configuration: while the world''s
+      currency markets have'
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: has actually firmed marginally to approximately 278.82 from the Week
+      17 close near 279.70. Open-
+    unit: null
+    values:
+    - 278.82
+    - 17.0
+    - 279.7
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: market quotes published April 30 from Karachi show USD buying at
+      279.10 and selling at 280,
+    unit: usd
+    values:
+    - 30.0
+    - 279.1
+    - 280.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at PKR 188,000 per ton are unchanged, with
+      the USD equivalent firming
+    unit: usd
+    values:
+    - 188000.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: slightly to approximately USD 674 per ton on the marginal PKR strength.
+    unit: usd
+    values:
+    - 674.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's March 2026 CPI at 7.3%, above the State Bank's 5% to 7%
+      target band, remains driven
+    unit: pct
+    values:
+    - 2026.0
+    - 7.3
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: fully reflect the Week 17 to Week 18 oil shock and is the watch item.
+      The structural position is the
+    unit: null
+    values:
+    - 17.0
+    - 18.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: than it was at the start of Week 17. Pakistan has the most to consolidate
+      if the configuration holds.
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Turkey enters Week 18 with USD/TRY at approximately 44.45, a notable
+      strengthening from the
+    unit: usd_per_unit
+    values:
+    - 18.0
+    - 44.45
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Week 17 record low near 44.92 and reflecting the Central Bank of
+      Turkey's sustained intervention
+    unit: null
+    values:
+    - 17.0
+    - 44.92
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: overnight reference rates near 40% are both still in force. The lira's
+      recovery from 44.92 is best read
+    unit: pct
+    values:
+    - 40.0
+    - 44.92
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: March 2026 CPI at 30.87% remains the operative print, with the April
+      release expected in early May
+    unit: pct
+    values:
+    - 2026.0
+    - 30.87
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: and the watch item being whether the Brent move to USD 126 has materially
+      passed through to
+    unit: usd
+    values:
+    - 126.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: consecutive months, with monthly prints decelerating from 4.84% in
+      January to 1.94% in March.
+    unit: pct
+    values:
+    - 4.84
+    - 1.94
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Independent estimates remain materially above the official series,
+      with ENAG at 54.62% and Istanbul
+    unit: pct
+    values:
+    - 54.62
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: Chamber data at 37.68 percent. The TCMB's 16% year-end target is
+      increasingly difficult to reconcile
+    unit: pct
+    values:
+    - 37.68
+    - 16.0
+  - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+    section_type: linked_pdf
+    source_line: under any reasonable trajectory that captures the Week 17 to Week
+      18 shock.
+    unit: null
+    values:
+    - 17.0
+    - 18.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-05-04_gms-week-18-blockade-becomes-structure.html
 source_stem: 2026-05-04_gms-week-18-blockade-becomes-structure

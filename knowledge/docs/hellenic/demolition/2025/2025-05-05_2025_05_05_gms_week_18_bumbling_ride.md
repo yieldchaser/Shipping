@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 83
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The Baltic Exchange Dry Index too reported increases this week as trade
     starts to shift around the world and global economies hash out fresh trade agreements
@@ -40,8 +39,7 @@ numeric_observations:
   values:
   - 1.6
   - 58.29
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the various ship recycling fronts, a shaky last few weeks finally
     settled this week with news that NOCs (No Objection Certificates) on incoming
@@ -52,8 +50,7 @@ numeric_observations:
   - 7.0
   - 20.0
   - 26.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
   unit: null
@@ -67,47 +64,41 @@ numeric_observations:
   - 1.0
   - 4207.0
   - 6.0
-- &id004
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 2nd, 2025
   unit: null
   values:
   - 2.0
   - 2025.0
-- &id005
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Week 18
   unit: null
   values:
   - 18.0
-- &id006
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Volume 272, Issue 1183
   unit: null
   values:
   - 272.0
   - 1183.0
-- &id007
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: sanctions amidst Russian aggression against Ukraine saw futures plummet
     by 1.6% down to USD
   unit: pct
   values:
   - 1.6
-- &id008
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 58.29/barrel. Local steel plate prices also seem to be taking quite
     a hit as flatlining seems to be theme
   unit: null
   values:
   - 58.29
-- &id009
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Aside from the 7 HKC yards now approved in Chattogram, there is a list
     of about 20 yards waiting
@@ -115,16 +106,14 @@ numeric_observations:
   values:
   - 7.0
   - 20.0
-- &id010
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: • Scan to download of 26 souls and has resulted in an increased military
     buildup along the border between each country,
   unit: null
   values:
   - 26.0
-- &id011
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS demo rankings / pricing for week 18 of 2025 are on Page 5.
   unit: null
@@ -132,152 +121,133 @@ numeric_observations:
   - 18.0
   - 2025.0
   - 5.0
-- &id012
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id013
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: After over 5 weeks of delayed visits and inspections by governmental
     authorities that resulted in
   unit: null
   values:
   - 5.0
-- &id014
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: entry into force on June 26th, a plethora of vessels have been stuck
     outside Chattogram awaiting
   unit: null
   values:
   - 26.0
-- &id015
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: to take a beating (as they have been since the highs of October 2024)
     where local steel plate prices
   unit: null
   values:
   - 2024.0
-- &id016
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: remain dead on arrival at a lowly USD 478.55/Ton, not too far ahead
     of the current pricing strategy
   unit: usd
   values:
   - 478.55
-- &id017
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: week as it gained a mere 4 basis points against the U.S. Dollar to
     end the week at a still high BDT
   unit: null
   values:
   - 4.0
-- &id018
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 121.91. Making matters worse has been the lack of incoming tonnage
     that has seen local steel trade
   unit: null
   values:
   - 121.91
-- &id019
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: collapse far b eyond last year's forecasted decline to region BDT 116
     and the introduction of a
   unit: null
   values:
   - 116.0
-- &id020
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: increased for the month of April, recording a healthy 34% increase
     for the nation's treasury, further
   unit: pct
   values:
   - 34.0
-- &id021
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: As yards gear up for the HKC that is now less than 2 months away, a
     monsoon that is just 4 weeks
   unit: null
   values:
   - 4.0
-- &id022
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id023
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: subjected onto international markets as on the one hand, local steel
     plate prices fell USD 4/Ton early
   unit: usd
   values:
   - 4.0
-- &id024
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: in the week, only to jump USD 8/Ton and the week on an overall positive
     note. The Rupee however
   unit: usd
   values:
   - 8.0
-- &id025
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: and closed out at a healthy Rs. 84.53 - a much needed boost to recycling
     sentiments as a firming
   unit: null
   values:
   - 84.53
-- &id026
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: weeks, Pakistan spent a second week devoid of any sales and ended the
     2nd week with no fresh
   unit: null
   values:
   - 2.0
-- &id028
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: arrivals to report at local anchorage. Even the Pakistan Rupee lost
     4 basis points and closed the
   unit: null
   values:
   - 4.0
-- &id029
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: week at a diminished PKR 281.11 against the U.S. Dollar, as local steel
     plate prices that are now
   unit: null
   values:
   - 281.11
-- &id030
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: flatlining USD 10/Ton lower at USD 614/Ton, leaving the advantage of
     much wider margins for
@@ -285,8 +255,7 @@ numeric_observations:
   values:
   - 10.0
   - 614.0
-- &id031
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: USD 50/Ton in the last 6 weeks, Pakistan plate prices still hold a
     decent USD 150/Ton margin over
@@ -295,48 +264,42 @@ numeric_observations:
   - 50.0
   - 6.0
   - 150.0
-- &id032
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: the rift between the nations as it considers presenting an opposition
     to IMF's planned USD 1.3
   unit: usd
   values:
   - 1.3
-- &id033
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Billion aid package intended for review on May 9th, thereby compelling
     these governmental
   unit: null
   values:
   - 9.0
-- &id034
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: that refuses to slow its maddening descent against the U.S. Dollar,
     which saw it collapse another 40
   unit: null
   values:
   - 40.0
-- &id036
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: basis points down to TRY 38.57 this week, on its merry way to TRY 40.
   unit: null
   values:
   - 38.57
   - 40.0
-- &id037
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: For Week 18 of 2025, GMS Market Rankings / vessel indications are as
     below.
@@ -344,8 +307,7 @@ numeric_observations:
   values:
   - 18.0
   - 2025.0
-- &id038
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Static 450 / LDT 470 / LDT 480 / LDT
   unit: null
@@ -354,8 +316,7 @@ numeric_observations:
   - 450.0
   - 470.0
   - 480.0
-- &id039
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 2 India Stable 445 / LDT 465 / LDT 475 / LDT
   unit: null
@@ -364,8 +325,7 @@ numeric_observations:
   - 445.0
   - 465.0
   - 475.0
-- &id040
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
   unit: null
@@ -374,8 +334,7 @@ numeric_observations:
   - 440.0
   - 460.0
   - 470.0
-- &id041
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
   unit: null
@@ -384,16 +343,14 @@ numeric_observations:
   - 250.0
   - 260.0
   - 270.0
-- &id042
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id043
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  In the 20th century, each day on Earth got longer by between 0.3
     and 1.0 millisecond. That rate has been increasing since
@@ -402,24 +359,21 @@ numeric_observations:
   - 20.0
   - 0.3
   - 1.0
-- &id044
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 2000 and could nearly double by 2100.
   unit: null
   values:
   - 2000.0
   - 2100.0
-- &id045
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  The winds of a Category 5 hurricane are faster than the world's fastest
     roller coaster.
   unit: null
   values:
   - 5.0
-- &id046
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  In 1993, scientists dumped nearly 1,000 pounds of iron crystals into
     the Pacific Ocean to draw carbon dioxide out of the air.
@@ -427,24 +381,21 @@ numeric_observations:
   values:
   - 1993.0
   - 1000.0
-- &id047
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  And in 2008, China used cloud seeding to clear the skies over Beijing
     ahead of the Olympics.
   unit: null
   values:
   - 2008.0
-- &id048
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  In Goodyear, Arizona, a data center used for generative AI may guzzle
     as many as 56 million gallons of drinking water each
   unit: null
   values:
   - 56.0
-- &id049
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line:  By 2040, as few as 10 countries will have enough snow to host the
     Winter Olympics.
@@ -452,32 +403,28 @@ numeric_observations:
   values:
   - 2040.0
   - 10.0
-- &id050
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: No holidays till June April 26 - May 03
   unit: null
   values:
   - 26.0
   - 3.0
-- &id051
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 11 - May 17
   unit: null
   values:
   - 11.0
   - 17.0
-- &id052
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 24 - June 01
   unit: null
   values:
   - 24.0
   - 1.0
-- &id053
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 11 - Buddha Purnima May 11 - May 14
   unit: null
@@ -485,16 +432,14 @@ numeric_observations:
   - 11.0
   - 11.0
   - 14.0
-- &id054
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 26 - May 29
   unit: null
   values:
   - 26.0
   - 29.0
-- &id055
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 01 - 05 - Labor Day No holidays till June May 19 Youth & Sports
     Day
@@ -503,32 +448,28 @@ numeric_observations:
   - 1.0
   - 5.0
   - 19.0
-- &id056
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: May 31 - June 02 - Dragon Boat Holiday
   unit: null
   values:
   - 31.0
   - 2.0
-- &id057
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id058
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of May 02, 2025
   unit: null
   values:
   - 2.0
   - 2025.0
-- &id059
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 1 Starlet (Under Tow) 3,609 Chemical Tanker Delivered April 30
   unit: null
@@ -536,8 +477,7 @@ numeric_observations:
   - 1.0
   - 3609.0
   - 30.0
-- &id060
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 2 Ledent (Under Tow) 7,858 Drilling Rig Delivered April 30
   unit: null
@@ -545,8 +485,7 @@ numeric_observations:
   - 2.0
   - 7858.0
   - 30.0
-- &id061
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 3 Lord 17 2,583 General Cargo Delivered May 01
   unit: null
@@ -555,8 +494,7 @@ numeric_observations:
   - 17.0
   - 2583.0
   - 1.0
-- &id062
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4 Sea Sove 7,918 Bulk Carrier Arrived April 24
   unit: null
@@ -564,23 +502,20 @@ numeric_observations:
   - 4.0
   - 7918.0
   - 24.0
-- &id063
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 21,968
   unit: null
   values:
   - 21968.0
-- &id064
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of May 02, 2025
   unit: null
   values:
   - 2.0
   - 2025.0
-- &id065
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 1 Ohryu 2,468 RoRo Delivered May 01
   unit: null
@@ -588,24 +523,21 @@ numeric_observations:
   - 1.0
   - 2468.0
   - 1.0
-- &id066
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of May 02, 2025
   unit: null
   values:
   - 2.0
   - 2025.0
-- &id067
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id068
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4/26/2025 461.14 39,400.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -620,8 +552,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id069
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4/27/2025 461.14 39,400.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -636,8 +567,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id070
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4/28/2025 461.01 39,200.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -652,8 +582,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id071
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4/29/2025 457.48 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -668,8 +597,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id072
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 4/30/2025 458.02 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -684,8 +612,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id073
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 5/1/2025 461.54 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -700,8 +627,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id074
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 5/2/2025 464.29 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
   unit: null
@@ -716,8 +642,7 @@ numeric_observations:
   - 478.55
   - 58000.0
   - 300.39
-- &id075
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -726,8 +651,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id076
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -736,8 +660,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id077
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -746,8 +669,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id078
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -756,8 +678,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id079
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -766,8 +687,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id080
-  section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
+- section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
   unit: null
@@ -815,86 +735,679 @@ section_count: 3
 signals:
   numeric_observation_count: 83
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The Baltic Exchange Dry Index too reported increases this week as
+      trade starts to shift around the world and global economies hash out fresh trade
+      agreements without the United States, causing freight rates to report minor
+      improvements this week even though ov
+    unit: pct
+    values:
+    - 1.6
+    - 58.29
+  - section: Main
+    section_type: null
+    source_line: On the various ship recycling fronts, a shaky last few weeks finally
+      settled this week with news that NOCs (No Objection Certificates) on incoming
+      vessels in Bangladesh were finally being granted after a month-long hiatus whilst
+      inspections from various govern
+    unit: null
+    values:
+    - 7.0
+    - 20.0
+    - 26.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -5.0
+    - -5.0
+    - 18.0
+    - 5052025.0
+    - 421.0
+    - 1.0
+    - 4207.0
+    - 6.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 2nd, 2025
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Week 18
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Volume 272, Issue 1183
+    unit: null
+    values:
+    - 272.0
+    - 1183.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: sanctions amidst Russian aggression against Ukraine saw futures plummet
+      by 1.6% down to USD
+    unit: pct
+    values:
+    - 1.6
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 58.29/barrel. Local steel plate prices also seem to be taking quite
+      a hit as flatlining seems to be theme
+    unit: null
+    values:
+    - 58.29
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Aside from the 7 HKC yards now approved in Chattogram, there is a
+      list of about 20 yards waiting
+    unit: null
+    values:
+    - 7.0
+    - 20.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: • Scan to download of 26 souls and has resulted in an increased military
+      buildup along the border between each country,
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS demo rankings / pricing for week 18 of 2025 are on Page 5.
+    unit: null
+    values:
+    - 18.0
+    - 2025.0
+    - 5.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: After over 5 weeks of delayed visits and inspections by governmental
+      authorities that resulted in
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: entry into force on June 26th, a plethora of vessels have been stuck
+      outside Chattogram awaiting
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: to take a beating (as they have been since the highs of October 2024)
+      where local steel plate prices
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: remain dead on arrival at a lowly USD 478.55/Ton, not too far ahead
+      of the current pricing strategy
+    unit: usd
+    values:
+    - 478.55
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: week as it gained a mere 4 basis points against the U.S. Dollar to
+      end the week at a still high BDT
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 121.91. Making matters worse has been the lack of incoming tonnage
+      that has seen local steel trade
+    unit: null
+    values:
+    - 121.91
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: collapse far b eyond last year's forecasted decline to region BDT
+      116 and the introduction of a
+    unit: null
+    values:
+    - 116.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: increased for the month of April, recording a healthy 34% increase
+      for the nation's treasury, further
+    unit: pct
+    values:
+    - 34.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: As yards gear up for the HKC that is now less than 2 months away,
+      a monsoon that is just 4 weeks
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: subjected onto international markets as on the one hand, local steel
+      plate prices fell USD 4/Ton early
+    unit: usd
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: in the week, only to jump USD 8/Ton and the week on an overall positive
+      note. The Rupee however
+    unit: usd
+    values:
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: and closed out at a healthy Rs. 84.53 - a much needed boost to recycling
+      sentiments as a firming
+    unit: null
+    values:
+    - 84.53
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: weeks, Pakistan spent a second week devoid of any sales and ended
+      the 2nd week with no fresh
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: arrivals to report at local anchorage. Even the Pakistan Rupee lost
+      4 basis points and closed the
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: week at a diminished PKR 281.11 against the U.S. Dollar, as local
+      steel plate prices that are now
+    unit: null
+    values:
+    - 281.11
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: flatlining USD 10/Ton lower at USD 614/Ton, leaving the advantage
+      of much wider margins for
+    unit: usd
+    values:
+    - 10.0
+    - 614.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: USD 50/Ton in the last 6 weeks, Pakistan plate prices still hold
+      a decent USD 150/Ton margin over
+    unit: usd
+    values:
+    - 50.0
+    - 6.0
+    - 150.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: the rift between the nations as it considers presenting an opposition
+      to IMF's planned USD 1.3
+    unit: usd
+    values:
+    - 1.3
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Billion aid package intended for review on May 9th, thereby compelling
+      these governmental
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: that refuses to slow its maddening descent against the U.S. Dollar,
+      which saw it collapse another 40
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: basis points down to TRY 38.57 this week, on its merry way to TRY
+      40.
+    unit: null
+    values:
+    - 38.57
+    - 40.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: For Week 18 of 2025, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 18.0
+    - 2025.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Static 450 / LDT 470 / LDT 480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 450.0
+    - 470.0
+    - 480.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 2 India Stable 445 / LDT 465 / LDT 475 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 445.0
+    - 465.0
+    - 475.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Pakistan Stable 440 / LDT 460 / LDT 470 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 440.0
+    - 460.0
+    - 470.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 250 / LDT 260 / LDT 270 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 250.0
+    - 260.0
+    - 270.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  In the 20th century, each day on Earth got longer by between 0.3
+      and 1.0 millisecond. That rate has been increasing since
+    unit: null
+    values:
+    - 20.0
+    - 0.3
+    - 1.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 2000 and could nearly double by 2100.
+    unit: null
+    values:
+    - 2000.0
+    - 2100.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  The winds of a Category 5 hurricane are faster than the world's
+      fastest roller coaster.
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  In 1993, scientists dumped nearly 1,000 pounds of iron crystals
+      into the Pacific Ocean to draw carbon dioxide out of the air.
+    unit: null
+    values:
+    - 1993.0
+    - 1000.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  And in 2008, China used cloud seeding to clear the skies over Beijing
+      ahead of the Olympics.
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  In Goodyear, Arizona, a data center used for generative AI may
+      guzzle as many as 56 million gallons of drinking water each
+    unit: null
+    values:
+    - 56.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line:  By 2040, as few as 10 countries will have enough snow to host the
+      Winter Olympics.
+    unit: null
+    values:
+    - 2040.0
+    - 10.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: No holidays till June April 26 - May 03
+    unit: null
+    values:
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 11 - May 17
+    unit: null
+    values:
+    - 11.0
+    - 17.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 24 - June 01
+    unit: null
+    values:
+    - 24.0
+    - 1.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 11 - Buddha Purnima May 11 - May 14
+    unit: null
+    values:
+    - 11.0
+    - 11.0
+    - 14.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 26 - May 29
+    unit: null
+    values:
+    - 26.0
+    - 29.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 01 - 05 - Labor Day No holidays till June May 19 Youth & Sports
+      Day
+    unit: null
+    values:
+    - 1.0
+    - 5.0
+    - 19.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: May 31 - June 02 - Dragon Boat Holiday
+    unit: null
+    values:
+    - 31.0
+    - 2.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of May 02, 2025
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Starlet (Under Tow) 3,609 Chemical Tanker Delivered April 30
+    unit: null
+    values:
+    - 1.0
+    - 3609.0
+    - 30.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 2 Ledent (Under Tow) 7,858 Drilling Rig Delivered April 30
+    unit: null
+    values:
+    - 2.0
+    - 7858.0
+    - 30.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 3 Lord 17 2,583 General Cargo Delivered May 01
+    unit: null
+    values:
+    - 3.0
+    - 17.0
+    - 2583.0
+    - 1.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4 Sea Sove 7,918 Bulk Carrier Arrived April 24
+    unit: null
+    values:
+    - 4.0
+    - 7918.0
+    - 24.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 21,968
+    unit: null
+    values:
+    - 21968.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of May 02, 2025
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ohryu 2,468 RoRo Delivered May 01
+    unit: null
+    values:
+    - 1.0
+    - 2468.0
+    - 1.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of May 02, 2025
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4/26/2025 461.14 39,400.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+    - 2025.0
+    - 461.14
+    - 39400.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4/27/2025 461.14 39,400.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 4.0
+    - 27.0
+    - 2025.0
+    - 461.14
+    - 39400.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4/28/2025 461.01 39,200.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 4.0
+    - 28.0
+    - 2025.0
+    - 461.01
+    - 39200.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4/29/2025 457.48 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 4.0
+    - 29.0
+    - 2025.0
+    - 457.48
+    - 39000.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 4/30/2025 458.02 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+    - 2025.0
+    - 458.02
+    - 39000.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 5/1/2025 461.54 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 5.0
+    - 1.0
+    - 2025.0
+    - 461.54
+    - 39000.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 5/2/2025 464.29 39,000.00 614.78 173,000.00 478.55 58,000.00 300.39
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+    - 2025.0
+    - 464.29
+    - 39000.0
+    - 614.78
+    - 173000.0
+    - 478.55
+    - 58000.0
+    - 300.39
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_ship-recycling-market-insight-week-1_11bf132d506a.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2025-05-05_gms-week-18-bumbling-ride_img1_05052025chinese3421_1d84207ae46c.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -5.0
+    - -5.0
+    - 18.0
+    - 5052025.0
+    - 421.0
+    - 1.0
+    - 4207.0
+    - 6.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-05-05_gms-week-18-bumbling-ride.html
 source_stem: 2025-05-05_gms-week-18-bumbling-ride

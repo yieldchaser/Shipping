@@ -30,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 107
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: International market turmoil from the direct / indirect imposition
     of global tariffs and related actions by Donnie Dementiasaw a crazy Week 8 wind
@@ -44,8 +43,7 @@ numeric_observations:
   - 2026.0
   - 2.4
   - 2.7
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: As oil rose above USD 63/barrel from last week to well over USD 66/barrel
     this week, it retreated back down to USD 65.93/barrel by week's end, amid investors
@@ -62,8 +60,7 @@ numeric_observations:
   - 1.0
   - 151.0
   - 16.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Chinese New Year holidays also came this week and, while an anticipated
     drop in the supply of potential tonnage remains omnipresent and was expected to
@@ -72,8 +69,7 @@ numeric_observations:
   unit: usd
   values:
   - 400.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 8 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -81,8 +77,7 @@ numeric_observations:
   values:
   - 8.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2026-02-24_gms-week-08-raging-hangover_img1_0823455_5a217435a4aa.jpg'
   unit: null
@@ -94,23 +89,20 @@ numeric_observations:
   - 823455.0
   - 5.0
   - 17435.0
-- &id006
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: February 20th, 2026
   unit: null
   values:
   - 20.0
   - 2026.0
-- &id007
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Week 8
   unit: null
   values:
   - 8.0
-- &id008
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Volume 2 81, Issue 1224 - Abraham Lincoln
   unit: null
@@ -118,8 +110,7 @@ numeric_observations:
   - 2.0
   - 81.0
   - 1224.0
-- &id009
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: by Donnie Dementia saw a crazy Week 8 wind up in 2026, as freight rates
     and oil prices both moved
@@ -127,16 +118,14 @@ numeric_observations:
   values:
   - 8.0
   - 2026.0
-- &id010
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: • Price push. international state of affairs as of January 2026, with
     key inflation figures from Trump's wrap-up of
   unit: null
   values:
   - 2026.0
-- &id011
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: his year one "presidency." U.S. inflationary figures (un?)surprisingly
     fell to 2.4% (from 2.7% in both
@@ -144,8 +133,7 @@ numeric_observations:
   values:
   - 2.4
   - 2.7
-- &id012
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: As oil rose above USD 63/barrel from last week to well over USD 66/barrel
     this week, it retreated
@@ -153,24 +141,21 @@ numeric_observations:
   values:
   - 63.0
   - 66.0
-- &id013
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: back do wn to USD 65.93/barrel by week's end, amid investor s and forecasters
     increasingly weighing
   unit: usd
   values:
   - 65.93
-- &id014
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: • Ramadan ensues. meanwhile, snapped a three-day losing streak by the
     end of the week and climbed a healthy 1.2%
   unit: pct
   values:
   - 1.2
-- &id015
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: on the back of Capes (which rebounded a healthy 1.7%) and Panamaxes
     (which rose 1.2%), despite
@@ -178,16 +163,14 @@ numeric_observations:
   values:
   - 1.7
   - 1.2
-- &id016
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: DS upras easing by 1 point. All of the above showed a different face
     in the ship recycling markets, as
   unit: null
   values:
   - 1.0
-- &id017
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: local anchorages were relatively stacked this week, with a collective
     151K LDT via 16 vessels that
@@ -195,16 +178,14 @@ numeric_observations:
   values:
   - 151.0
   - 16.0
-- &id018
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: up again toward the mid-USD 400s/LDT for select, good-condition vessels,
     spurred on by a positive
   unit: usd
   values:
   - 400.0
-- &id019
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 8 of 2026 are on Page 6.
   unit: null
@@ -212,32 +193,28 @@ numeric_observations:
   - 8.0
   - 2026.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: '- not only was a collection of larger LDT bulkers delivered, but they
     were topped by a near 27K'
   unit: null
   values:
   - 27.0
-- &id022
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: ahead. Well timed, considering reports highlight Bangladeshi inflation
     climbing from 8.49% in
   unit: pct
   values:
   - 8.49
-- &id023
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: December 2025 to 8.58% in January 2026 - not an entirely alarming rise
     by any stretch of the
@@ -246,32 +223,28 @@ numeric_observations:
   - 2025.0
   - 8.58
   - 2026.0
-- &id024
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: elected and popular government, a Taka that firmed a healthy 0.31%
     against the U.S. Dollar, and
   unit: pct
   values:
   - 0.31
-- &id025
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: local steel plate price s that posted a massive USD 16/ton jump this
     week suggest that March might
   unit: usd
   values:
   - 16.0
-- &id026
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 2025. Highlighting the turbulence, the Indian Rupee lost 0.15% against
     the U.S. Dollar and ended the
@@ -279,8 +252,7 @@ numeric_observations:
   values:
   - 2025.0
   - 0.15
-- &id028
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: week at Rs. 90.76. Meanwhile, local steel plate prices also took a
     carnival ride, losing nearly USD 4/ton
@@ -288,24 +260,21 @@ numeric_observations:
   values:
   - 90.76
   - 4.0
-- &id029
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: and ending the week below the dreaded USD 400/ton mark (at USD 399).
   unit: usd
   values:
   - 400.0
   - 399.0
-- &id030
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: On the economic front, India's inflation jumped to 2.75% in January,
     well above domestic market
   unit: pct
   values:
   - 2.75
-- &id031
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: expectations of landing near 2.4%. What is particularly noteworthy
     is that, from a low of 0.25% (firm
@@ -313,8 +282,7 @@ numeric_observations:
   values:
   - 2.4
   - 0.25
-- &id032
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: stagflation territory) back in October 2025, India's inflation has
     risen steadily each month - 0.71% in
@@ -322,16 +290,14 @@ numeric_observations:
   values:
   - 2025.0
   - 0.71
-- &id033
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: November, 1.33% in December, and now 2.75% in January.
   unit: pct
   values:
   - 1.33
   - 2.75
-- &id034
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: policy declaring that the U.S. would levy an additional 15% tariff
     on the world under a 1970s law that
@@ -339,16 +305,14 @@ numeric_observations:
   values:
   - 15.0
   - 1970.0
-- &id035
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id036
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: the industry at USD 594/ton, and the Pakistan Rupee snaring a healthy
     0.40% against the U.S.
@@ -356,24 +320,21 @@ numeric_observations:
   values:
   - 594.0
   - 0.4
-- &id037
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Dollar to close the week at PKR 278.49 - what remains confounding is
     the incredible volatility
   unit: null
   values:
   - 278.49
-- &id038
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: confidence to fill dormant plots again, what about the prior months
     - and much of 2025 - when
   unit: null
   values:
   - 2025.0
-- &id039
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 'trends are responsible for this performance: inflation fell as low
     as 0.3% back in April 2025, rose to'
@@ -381,8 +342,7 @@ numeric_observations:
   values:
   - 0.3
   - 2025.0
-- &id040
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 4.1% by August, crossed over 6.2% by October, wrapped up 2025 at 5.6%,
     and rose again in January
@@ -392,62 +352,54 @@ numeric_observations:
   - 6.2
   - 2025.0
   - 5.6
-- &id041
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: to 5.8%.
   unit: pct
   values:
   - 5.8
-- &id042
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: This kind of volatility, backed by Trump's 30% tariffs on various nations,
     could well be
   unit: pct
   values:
   - 30.0
-- &id043
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: becoming HKC-certified and a decent supply of incoming tonnage, let's
     hope 2026 is the year
   unit: null
   values:
   - 2026.0
-- &id044
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Pakistan finally breaks past 25 ships in a year.
   unit: null
   values:
   - 25.0
-- &id045
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id046
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Other than the monotony of the ailing Lira (which lost another 0.26%
     against the U.S. Dollar and
   unit: pct
   values:
   - 0.26
-- &id047
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: wrapped the week up at TRY 43.84) and the occasional sprinkle of cheer
     via a sudden surge of
   unit: null
   values:
   - 43.84
-- &id048
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Released figures indicate Turkey's annual inflation eased marginally
     from 30.89% in December 2025
@@ -455,8 +407,7 @@ numeric_observations:
   values:
   - 30.89
   - 2025.0
-- &id049
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: to 30.65% in January. However, it remained notably above market expectations
     of 20%. Moreover,
@@ -464,15 +415,13 @@ numeric_observations:
   values:
   - 30.65
   - 20.0
-- &id050
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 4.84%.
   unit: pct
   values:
   - 4.84
-- &id051
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: For Week 8 of 2026, GMS Market Rankings / vessel indications are as
     below.
@@ -480,8 +429,7 @@ numeric_observations:
   values:
   - 8.0
   - 2026.0
-- &id052
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Improving 425 / LDT 445 / LDT 455 / LDT
   unit: null
@@ -490,8 +438,7 @@ numeric_observations:
   - 425.0
   - 445.0
   - 455.0
-- &id053
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
   unit: null
@@ -500,8 +447,7 @@ numeric_observations:
   - 420.0
   - 440.0
   - 450.0
-- &id054
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 410 / LDT 430 / LDT 440 / LDT
   unit: null
@@ -510,8 +456,7 @@ numeric_observations:
   - 410.0
   - 430.0
   - 440.0
-- &id055
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
   unit: null
@@ -520,31 +465,27 @@ numeric_observations:
   - 270.0
   - 280.0
   - 290.0
-- &id056
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: ANOTHER…2025 IN REVIEW!!
   unit: null
   values:
   - 2025.0
-- &id058
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line:  Oct 12 - Madagascar President Andry Rajoelina fled the country after
     the military sided with Gen Z-led protestors.
   unit: null
   values:
   - 12.0
-- &id059
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line:  Oct 19 - Thieves disguised as construction workers stole over $100
     million in Napoleonic jewels from the Louvre
@@ -552,8 +493,7 @@ numeric_observations:
   values:
   - 19.0
   - 100.0
-- &id060
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line:  Nov 03 - People magazine named Jonathan Bailey its "Sexiest Man Alive"
     for 2025, making him the first openly gay
@@ -561,8 +501,7 @@ numeric_observations:
   values:
   - 3.0
   - 2025.0
-- &id061
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line:  Nov 04 - Zohran Mamdani was elected as the 111th mayor of New York
     City.
@@ -570,16 +509,14 @@ numeric_observations:
   values:
   - 4.0
   - 111.0
-- &id062
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line:  Nov 12 - The United States Mint in Philadelphia made the last-ever
     penny for general use, ending over two centuries
   unit: null
   values:
   - 12.0
-- &id063
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 04 - Holi February 16 - February 23
   unit: null
@@ -587,8 +524,7 @@ numeric_observations:
   - 4.0
   - 16.0
   - 23.0
-- &id064
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 01 - March 07
   unit: null
@@ -596,8 +532,7 @@ numeric_observations:
   - 21.0
   - 1.0
   - 7.0
-- &id065
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 26 - Ram Navami March 18 - March 24
   unit: null
@@ -605,15 +540,13 @@ numeric_observations:
   - 26.0
   - 18.0
   - 24.0
-- &id066
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 31 - Mahavir Jayanthi
   unit: null
   values:
   - 31.0
-- &id067
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 19 - Eid-ul-Fitr March 04 - March 07
   unit: null
@@ -621,8 +554,7 @@ numeric_observations:
   - 19.0
   - 4.0
   - 7.0
-- &id068
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
     22
@@ -634,15 +566,13 @@ numeric_observations:
   - 3.0
   - 19.0
   - 22.0
-- &id069
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 26 - Independence Day
   unit: null
   values:
   - 26.0
-- &id070
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March 23
     - Eid-ul-Fitr & Ramzan Bayrami
@@ -655,24 +585,21 @@ numeric_observations:
   - 3.0
   - 19.0
   - 23.0
-- &id071
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of February 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id073
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 1 Diana 15,065 Oil Tanker Arrived February 13
   unit: null
@@ -680,8 +607,7 @@ numeric_observations:
   - 1.0
   - 15065.0
   - 13.0
-- &id074
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 2 Dimple 4,869 Bulk Carrier Arrived February 13
   unit: null
@@ -689,8 +615,7 @@ numeric_observations:
   - 2.0
   - 4869.0
   - 13.0
-- &id075
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 3 J M A 2,505 Oil Tanker Delivered February 10
   unit: null
@@ -698,8 +623,7 @@ numeric_observations:
   - 3.0
   - 2505.0
   - 10.0
-- &id076
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 4 Saltlake 2,127 Reefer Delivered February 10
   unit: null
@@ -707,8 +631,7 @@ numeric_observations:
   - 4.0
   - 2127.0
   - 10.0
-- &id077
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 5 Woodchip 22,800 Oil Tanker Delivered February 06
   unit: null
@@ -716,23 +639,20 @@ numeric_observations:
   - 5.0
   - 22800.0
   - 6.0
-- &id078
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: Morality 47,366
   unit: null
   values:
   - 47366.0
-- &id079
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of February 13, 2026
   unit: null
   values:
   - 13.0
   - 2026.0
-- &id080
-  section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+- section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
   section_type: linked_pdf
   source_line: 1 Beihai 24,181 Bulk Carrier Arrived February 10
   unit: null
@@ -1017,86 +937,637 @@ section_count: 3
 signals:
   numeric_observation_count: 107
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: International market turmoil from the direct / indirect imposition
+      of global tariffs and related actions by Donnie Dementiasaw a crazy Week 8 wind
+      up in 2026, as freight rates and oil prices both moved up and subsequently reconsidered
+      their moves, retracing th
+    unit: pct
+    values:
+    - 8.0
+    - 2026.0
+    - 2026.0
+    - 2.4
+    - 2.7
+  - section: Main
+    section_type: null
+    source_line: As oil rose above USD 63/barrel from last week to well over USD 66/barrel
+      this week, it retreated back down to USD 65.93/barrel by week's end, amid investors
+      and forecasters increasingly weighing the deranged possibility of Donnie Silver
+      Spoon launching anothe
+    unit: pct
+    values:
+    - 63.0
+    - 66.0
+    - 65.93
+    - 1.2
+    - 1.7
+    - 1.2
+    - 1.0
+    - 151.0
+    - 16.0
+  - section: Main
+    section_type: null
+    source_line: Chinese New Year holidays also came this week and, while an anticipated
+      drop in the supply of potential tonnage remains omnipresent and was expected
+      to spell further doom for sub-continent ship recycling markets after an altogether
+      dull start to the year, this
+    unit: usd
+    values:
+    - 400.0
+  - section: Main
+    section_type: null
+    source_line: For Week 8 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 8.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-02-24_gms-week-08-raging-hangover_img1_0823455_5a217435a4aa.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -2.0
+    - -24.0
+    - 8.0
+    - 823455.0
+    - 5.0
+    - 17435.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: February 20th, 2026
+    unit: null
+    values:
+    - 20.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Week 8
+    unit: null
+    values:
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 81, Issue 1224 - Abraham Lincoln
+    unit: null
+    values:
+    - 2.0
+    - 81.0
+    - 1224.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: by Donnie Dementia saw a crazy Week 8 wind up in 2026, as freight
+      rates and oil prices both moved
+    unit: null
+    values:
+    - 8.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: • Price push. international state of affairs as of January 2026,
+      with key inflation figures from Trump's wrap-up of
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: his year one "presidency." U.S. inflationary figures (un?)surprisingly
+      fell to 2.4% (from 2.7% in both
+    unit: pct
+    values:
+    - 2.4
+    - 2.7
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: As oil rose above USD 63/barrel from last week to well over USD 66/barrel
+      this week, it retreated
+    unit: usd
+    values:
+    - 63.0
+    - 66.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: back do wn to USD 65.93/barrel by week's end, amid investor s and
+      forecasters increasingly weighing
+    unit: usd
+    values:
+    - 65.93
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: • Ramadan ensues. meanwhile, snapped a three-day losing streak by
+      the end of the week and climbed a healthy 1.2%
+    unit: pct
+    values:
+    - 1.2
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: on the back of Capes (which rebounded a healthy 1.7%) and Panamaxes
+      (which rose 1.2%), despite
+    unit: pct
+    values:
+    - 1.7
+    - 1.2
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: DS upras easing by 1 point. All of the above showed a different face
+      in the ship recycling markets, as
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: local anchorages were relatively stacked this week, with a collective
+      151K LDT via 16 vessels that
+    unit: null
+    values:
+    - 151.0
+    - 16.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: up again toward the mid-USD 400s/LDT for select, good-condition vessels,
+      spurred on by a positive
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 8 of 2026 are on Page 6.
+    unit: null
+    values:
+    - 8.0
+    - 2026.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: '- not only was a collection of larger LDT bulkers delivered, but
+      they were topped by a near 27K'
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: ahead. Well timed, considering reports highlight Bangladeshi inflation
+      climbing from 8.49% in
+    unit: pct
+    values:
+    - 8.49
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: December 2025 to 8.58% in January 2026 - not an entirely alarming
+      rise by any stretch of the
+    unit: pct
+    values:
+    - 2025.0
+    - 8.58
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: elected and popular government, a Taka that firmed a healthy 0.31%
+      against the U.S. Dollar, and
+    unit: pct
+    values:
+    - 0.31
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: local steel plate price s that posted a massive USD 16/ton jump this
+      week suggest that March might
+    unit: usd
+    values:
+    - 16.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 2025. Highlighting the turbulence, the Indian Rupee lost 0.15% against
+      the U.S. Dollar and ended the
+    unit: pct
+    values:
+    - 2025.0
+    - 0.15
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: week at Rs. 90.76. Meanwhile, local steel plate prices also took
+      a carnival ride, losing nearly USD 4/ton
+    unit: usd
+    values:
+    - 90.76
+    - 4.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: and ending the week below the dreaded USD 400/ton mark (at USD 399).
+    unit: usd
+    values:
+    - 400.0
+    - 399.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: On the economic front, India's inflation jumped to 2.75% in January,
+      well above domestic market
+    unit: pct
+    values:
+    - 2.75
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: expectations of landing near 2.4%. What is particularly noteworthy
+      is that, from a low of 0.25% (firm
+    unit: pct
+    values:
+    - 2.4
+    - 0.25
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: stagflation territory) back in October 2025, India's inflation has
+      risen steadily each month - 0.71% in
+    unit: pct
+    values:
+    - 2025.0
+    - 0.71
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: November, 1.33% in December, and now 2.75% in January.
+    unit: pct
+    values:
+    - 1.33
+    - 2.75
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: policy declaring that the U.S. would levy an additional 15% tariff
+      on the world under a 1970s law that
+    unit: pct
+    values:
+    - 15.0
+    - 1970.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: the industry at USD 594/ton, and the Pakistan Rupee snaring a healthy
+      0.40% against the U.S.
+    unit: pct
+    values:
+    - 594.0
+    - 0.4
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Dollar to close the week at PKR 278.49 - what remains confounding
+      is the incredible volatility
+    unit: null
+    values:
+    - 278.49
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: confidence to fill dormant plots again, what about the prior months
+      - and much of 2025 - when
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 'trends are responsible for this performance: inflation fell as low
+      as 0.3% back in April 2025, rose to'
+    unit: pct
+    values:
+    - 0.3
+    - 2025.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 4.1% by August, crossed over 6.2% by October, wrapped up 2025 at
+      5.6%, and rose again in January
+    unit: pct
+    values:
+    - 4.1
+    - 6.2
+    - 2025.0
+    - 5.6
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: to 5.8%.
+    unit: pct
+    values:
+    - 5.8
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: This kind of volatility, backed by Trump's 30% tariffs on various
+      nations, could well be
+    unit: pct
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: becoming HKC-certified and a decent supply of incoming tonnage, let's
+      hope 2026 is the year
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan finally breaks past 25 ships in a year.
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Other than the monotony of the ailing Lira (which lost another 0.26%
+      against the U.S. Dollar and
+    unit: pct
+    values:
+    - 0.26
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: wrapped the week up at TRY 43.84) and the occasional sprinkle of
+      cheer via a sudden surge of
+    unit: null
+    values:
+    - 43.84
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Released figures indicate Turkey's annual inflation eased marginally
+      from 30.89% in December 2025
+    unit: pct
+    values:
+    - 30.89
+    - 2025.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: to 30.65% in January. However, it remained notably above market expectations
+      of 20%. Moreover,
+    unit: pct
+    values:
+    - 30.65
+    - 20.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 4.84%.
+    unit: pct
+    values:
+    - 4.84
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: For Week 8 of 2026, GMS Market Rankings / vessel indications are
+      as below.
+    unit: null
+    values:
+    - 8.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Improving 425 / LDT 445 / LDT 455 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 425.0
+    - 445.0
+    - 455.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 420 / LDT 440 / LDT 450 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 420.0
+    - 440.0
+    - 450.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 410 / LDT 430 / LDT 440 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 410.0
+    - 430.0
+    - 440.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 270.0
+    - 280.0
+    - 290.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: ANOTHER…2025 IN REVIEW!!
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line:  Oct 12 - Madagascar President Andry Rajoelina fled the country
+      after the military sided with Gen Z-led protestors.
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line:  Oct 19 - Thieves disguised as construction workers stole over $100
+      million in Napoleonic jewels from the Louvre
+    unit: usd
+    values:
+    - 19.0
+    - 100.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line:  Nov 03 - People magazine named Jonathan Bailey its "Sexiest Man
+      Alive" for 2025, making him the first openly gay
+    unit: null
+    values:
+    - 3.0
+    - 2025.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line:  Nov 04 - Zohran Mamdani was elected as the 111th mayor of New York
+      City.
+    unit: null
+    values:
+    - 4.0
+    - 111.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line:  Nov 12 - The United States Mint in Philadelphia made the last-ever
+      penny for general use, ending over two centuries
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 04 - Holi February 16 - February 23
+    unit: null
+    values:
+    - 4.0
+    - 16.0
+    - 23.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - Eid-ul-Fitr (subj. to Moon sighting) March 01 - March
+      07
+    unit: null
+    values:
+    - 21.0
+    - 1.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Ram Navami March 18 - March 24
+    unit: null
+    values:
+    - 26.0
+    - 18.0
+    - 24.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 31 - Mahavir Jayanthi
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 19 - Eid-ul-Fitr March 04 - March 07
+    unit: null
+    values:
+    - 19.0
+    - 4.0
+    - 7.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 20 - March 23 - Jumatul Bidah + Eid Day 2 & 3 March 19 - March
+      22
+    unit: null
+    values:
+    - 20.0
+    - 23.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 22.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 26 - Independence Day
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: March 21 - March 23 - Eid-ul-Fitr Days 1, 2, & 3 March 19 - March
+      23 - Eid-ul-Fitr & Ramzan Bayrami
+    unit: null
+    values:
+    - 21.0
+    - 23.0
+    - 1.0
+    - 2.0
+    - 3.0
+    - 19.0
+    - 23.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of February 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Diana 15,065 Oil Tanker Arrived February 13
+    unit: null
+    values:
+    - 1.0
+    - 15065.0
+    - 13.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 2 Dimple 4,869 Bulk Carrier Arrived February 13
+    unit: null
+    values:
+    - 2.0
+    - 4869.0
+    - 13.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 3 J M A 2,505 Oil Tanker Delivered February 10
+    unit: null
+    values:
+    - 3.0
+    - 2505.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 4 Saltlake 2,127 Reefer Delivered February 10
+    unit: null
+    values:
+    - 4.0
+    - 2127.0
+    - 10.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 5 Woodchip 22,800 Oil Tanker Delivered February 06
+    unit: null
+    values:
+    - 5.0
+    - 22800.0
+    - 6.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: Morality 47,366
+    unit: null
+    values:
+    - 47366.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of February 13, 2026
+    unit: null
+    values:
+    - 13.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-24_gms-week-08-raging-hangover_ship-recycling-market-insight-week-0_2d02761a72fb.pdf'
+    section_type: linked_pdf
+    source_line: 1 Beihai 24,181 Bulk Carrier Arrived February 10
+    unit: null
+    values:
+    - 1.0
+    - 24181.0
+    - 10.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-02-24_gms-week-08-raging-hangover.html
 source_stem: 2026-02-24_gms-week-08-raging-hangover

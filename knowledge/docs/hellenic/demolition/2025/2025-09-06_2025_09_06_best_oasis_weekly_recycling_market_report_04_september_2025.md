@@ -27,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 16
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Demolition Reports 06/09/2025
   unit: null
@@ -36,8 +35,7 @@ numeric_observations:
   - 6.0
   - 9.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: (30 AUGUST - 04 SEPTEMBER) 2025
   unit: null
@@ -45,8 +43,7 @@ numeric_observations:
   - 30.0
   - 4.0
   - 2025.0
-- &id003
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -54,8 +51,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id004
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -63,8 +59,7 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id005
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: prices being quoted at USD 330-340 levels. This highlights prevailing
     market
@@ -72,8 +67,7 @@ numeric_observations:
   values:
   - 330.0
   - -340.0
-- &id006
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (68.23 66.93) -1.3'
   unit: null
@@ -81,8 +75,7 @@ numeric_observations:
   - 68.23
   - 66.93
   - -1.3
-- &id007
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE: (64.30 63.34 ) -0.96'
   unit: null
@@ -90,8 +83,7 @@ numeric_observations:
   - 64.3
   - 63.34
   - -0.96
-- &id008
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 88.11 This Week : 121.70 This Week : 283.23 This Week
     : 41.16'
@@ -101,8 +93,7 @@ numeric_observations:
   - 121.7
   - 283.23
   - 41.16
-- &id009
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 88.26 Previous Week : 121.61 Previous Week : 282.93
     Previous Week : 41.09'
@@ -112,8 +103,7 @@ numeric_observations:
   - 121.61
   - 282.93
   - 41.09
-- &id010
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: 'Gained : 0.15 Lost : 0.09 Lost : 0.3 Lost : 0.07'
   unit: null
@@ -122,8 +112,7 @@ numeric_observations:
   - 0.09
   - 0.3
   - 0.07
-- &id011
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: INDIA SOFT 450 435 420 (- 1.14%)
   unit: pct
@@ -132,8 +121,7 @@ numeric_observations:
   - 435.0
   - 420.0
   - 1.14
-- &id012
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH SOFT 420 405 385 (- 2.42%)
   unit: pct
@@ -142,8 +130,7 @@ numeric_observations:
   - 405.0
   - 385.0
   - 2.42
-- &id013
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN SOFT 425 410 405 (-1.20%)
   unit: pct
@@ -152,8 +139,7 @@ numeric_observations:
   - 410.0
   - 405.0
   - -1.2
-- &id014
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: TURKEY FIRM 270 260 250 (0)
   unit: null
@@ -161,16 +147,14 @@ numeric_observations:
   - 270.0
   - 260.0
   - 250.0
-- &id015
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: YEOMAN BANK BULKER 9,179.00 DELIVERED ALIAGA, TURKIYE 250
   unit: null
   values:
   - 9179.0
   - 250.0
-- &id016
-  section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+- section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
   section_type: linked_pdf
   source_line: KAPITAN MIRONOV GENERAL CARGO SHIP 2,393.00 DELIVERED ALIAGA, TURKIYE
     UNDISCLOSED
@@ -185,22 +169,140 @@ section_count: 2
 signals:
   numeric_observation_count: 16
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
+  - section: Main
+    section_type: null
+    source_line: in Weekly Demolition Reports 06/09/2025
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: (30 AUGUST - 04 SEPTEMBER) 2025
+    unit: null
+    values:
+    - 30.0
+    - 4.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: prices being quoted at USD 330-340 levels. This highlights prevailing
+      market
+    unit: usd
+    values:
+    - 330.0
+    - -340.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (68.23 66.93) -1.3'
+    unit: null
+    values:
+    - 68.23
+    - 66.93
+    - -1.3
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE: (64.30 63.34 ) -0.96'
+    unit: null
+    values:
+    - 64.3
+    - 63.34
+    - -0.96
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 88.11 This Week : 121.70 This Week : 283.23 This Week
+      : 41.16'
+    unit: null
+    values:
+    - 88.11
+    - 121.7
+    - 283.23
+    - 41.16
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 88.26 Previous Week : 121.61 Previous Week : 282.93
+      Previous Week : 41.09'
+    unit: null
+    values:
+    - 88.26
+    - 121.61
+    - 282.93
+    - 41.09
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: 'Gained : 0.15 Lost : 0.09 Lost : 0.3 Lost : 0.07'
+    unit: null
+    values:
+    - 0.15
+    - 0.09
+    - 0.3
+    - 0.07
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: INDIA SOFT 450 435 420 (- 1.14%)
+    unit: pct
+    values:
+    - 450.0
+    - 435.0
+    - 420.0
+    - 1.14
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH SOFT 420 405 385 (- 2.42%)
+    unit: pct
+    values:
+    - 420.0
+    - 405.0
+    - 385.0
+    - 2.42
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN SOFT 425 410 405 (-1.20%)
+    unit: pct
+    values:
+    - 425.0
+    - 410.0
+    - 405.0
+    - -1.2
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY FIRM 270 260 250 (0)
+    unit: null
+    values:
+    - 270.0
+    - 260.0
+    - 250.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: YEOMAN BANK BULKER 9,179.00 DELIVERED ALIAGA, TURKIYE 250
+    unit: null
+    values:
+    - 9179.0
+    - 250.0
+  - section: 'Linked asset: 2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf'
+    section_type: linked_pdf
+    source_line: KAPITAN MIRONOV GENERAL CARGO SHIP 2,393.00 DELIVERED ALIAGA, TURKIYE
+      UNDISCLOSED
+    unit: null
+    values:
+    - 2393.0
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-06_best-oasis-weekly-recycling-market-report-04-september-2025.html
 source_stem: 2025-09-06_best-oasis-weekly-recycling-market-report-04-september-2025

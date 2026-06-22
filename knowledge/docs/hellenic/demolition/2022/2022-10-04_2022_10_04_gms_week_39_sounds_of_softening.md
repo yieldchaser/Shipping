@@ -29,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 102
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: India has lost about USD 80/LDT on steel prices over the last several
     weeks and despite gaining a marginal USD 5/Ton this week, remains under pressure
@@ -41,8 +40,7 @@ numeric_observations:
   - 80.0
   - 5.0
   - 80.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The supply of tonnage in the sub-continent had started to marginally
     improve but remains relatively strained as all freight sectors continue to perform,
@@ -52,8 +50,7 @@ numeric_observations:
   values:
   - 600.0
   - 550.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For week 39 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -61,8 +58,7 @@ numeric_observations:
   values:
   - 39.0
   - 2022.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-10-04_gms-week-39-sounds-of-softening_img1_gfe43_255a3114768f.jpg'
   unit: null
@@ -74,16 +70,14 @@ numeric_observations:
   - 3.0
   - 255.0
   - 114768.0
-- &id005
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Septemb er 30th, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id006
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Volume 2 42, Issue 1050
   unit: null
@@ -91,54 +85,47 @@ numeric_observations:
   - 2.0
   - 42.0
   - 1050.0
-- &id007
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Week 39 - Ruth Gordo
   unit: null
   values:
   - 39.0
-- &id008
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: • Supply improves. India has lost about USD 80/LDT on steel prices
     over the last several weeks and despite gaining
   unit: usd
   values:
   - 80.0
-- &id009
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: a marginal USD 5/Ton this week, remains under pressure as the lowest
     placed of all sub-
   unit: usd
   values:
   - 5.0
-- &id010
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Rs. 80 mark, leaving Alang Buyers as worriedly cautious as their competitors.
   unit: null
   values:
   - 80.0
-- &id011
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: GMS Recycling App vessels once again. Prices therefore remain stranded
     below USD 600/LDT for another week with
   unit: usd
   values:
   - 600.0
-- &id012
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: to suggest that levels will cool off again (perhaps down to the low
     USD 550s/LDT) in worrying
   unit: usd
   values:
   - 550.0
-- &id013
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: For week 39 of 2022, GMS demo rankings / pricing for the week are as
     below.
@@ -146,8 +133,7 @@ numeric_observations:
   values:
   - 39.0
   - 2022.0
-- &id014
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
   unit: null
@@ -156,8 +142,7 @@ numeric_observations:
   - 570.0
   - 580.0
   - 590.0
-- &id015
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
   unit: null
@@ -166,8 +151,7 @@ numeric_observations:
   - 560.0
   - 570.0
   - 580.0
-- &id016
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 3 India Weak 550 / LDT 560 / LDT 570 / LDT
   unit: null
@@ -176,8 +160,7 @@ numeric_observations:
   - 550.0
   - 560.0
   - 570.0
-- &id017
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
   unit: null
@@ -186,56 +169,49 @@ numeric_observations:
   - 240.0
   - 250.0
   - 260.0
-- &id018
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id019
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: USD 600/LDT as Chattogram Buyers sense a bargain or two. Unfortunately,
     the number
   unit: usd
   values:
   - 600.0
-- &id020
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 8 GMS Weekly
   unit: null
   values:
   - 3.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Despite firming a marginal USD 5/Ton this week, the Indian ship recycling
     sector overall
   unit: usd
   values:
   - 5.0
-- &id022
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: USD 80/Ton over recent weeks, and this has left Alang Buyers spooked
     & reluctant to offer
   unit: usd
   values:
   - 80.0
-- &id023
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: The currency too has suffered as the Indian Rupee nearly breached Rs.
     81.90 (rapidly
   unit: null
   values:
   - 81.9
-- &id024
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: coming up on Rs. 82) against the U.S.I DNollDar, rIeAtrea ting back
     to the mid Rs. 81s, in further
@@ -243,24 +219,21 @@ numeric_observations:
   values:
   - 82.0
   - 81.0
-- &id025
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id026
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Markets suffer . rattled domestic fundamentals and resulted i n ship
     prices collapsing by over USD 100/Ton,
   unit: usd
   values:
   - 100.0
-- &id027
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: The Pakistani Rupee has firmed marginally from PKR 236 to about PKR
     228, while local
@@ -268,48 +241,42 @@ numeric_observations:
   values:
   - 236.0
   - 228.0
-- &id028
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Page 5 of 8 GMS Weekly
   unit: null
   values:
   - 5.0
   - 8.0
-- &id029
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: the mid TRY 18s against the U.S. Dollar, an utter lack of tonnage,
     and a local sentiment that
   unit: null
   values:
   - 18.0
-- &id030
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Miscellaneous Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id031
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: the innovator who, in the 19th century, made paint tubes from tin and
     screw caps.
   unit: null
   values:
   - 19.0
-- &id032
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: long jump is greater than the world record for longest horse long jump.
     Mike Powell set the record in 1991 by
   unit: null
   values:
   - 1991.0
-- &id033
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: jum ping 8.95 meters, and the horse Extra Dry set the record in 1900
     by jumping 6.10 meters.
@@ -318,32 +285,28 @@ numeric_observations:
   - 8.95
   - 1900.0
   - 6.1
-- &id034
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line:  The Terminator script was sold for $1. James Cameron is the award-winning
     director of movies like Titanic
   unit: usd
   values:
   - 1.0
-- &id035
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: and Avatar. In order to get his big break with The Terminator, he sold
     the script for $1 and a promise that he'd
   unit: usd
   values:
   - 1.0
-- &id036
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line:  Pige on poop is the property of the British Crown. In the 18th century,
     pigeon poop was used to make
   unit: null
   values:
   - 18.0
-- &id037
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 05 - Vijaya Dashami October 07 - October 25
   unit: null
@@ -351,8 +314,7 @@ numeric_observations:
   - 5.0
   - 7.0
   - 25.0
-- &id038
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 09 - Eid-E-Milad October 25 - October 31
   unit: null
@@ -360,16 +322,14 @@ numeric_observations:
   - 9.0
   - 25.0
   - 31.0
-- &id039
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 24 - October 27 - Diwali
   unit: null
   values:
   - 24.0
   - 27.0
-- &id040
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 05 - Durga Puja October 08 - October 11
   unit: null
@@ -377,8 +337,7 @@ numeric_observations:
   - 5.0
   - 8.0
   - 11.0
-- &id041
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 09 - Eid-E-Miladun-Nabi (S) October 24 - October 27
   unit: null
@@ -386,8 +345,7 @@ numeric_observations:
   - 9.0
   - 24.0
   - 27.0
-- &id042
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 1 - October 7 - National Day October 9 - Eid October 28 - October
     29 - Republic
@@ -398,31 +356,27 @@ numeric_observations:
   - 9.0
   - 28.0
   - 29.0
-- &id043
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: October 24 - Founding Day Day
   unit: null
   values:
   - 24.0
-- &id044
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Page 7 of 8 GMS Port Report
   unit: null
   values:
   - 7.0
   - 8.0
-- &id045
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of September 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id046
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 1 Aba (Under Tow) 6,236 Jack-up Rig Beached September 27
   unit: null
@@ -430,8 +384,7 @@ numeric_observations:
   - 1.0
   - 6236.0
   - 27.0
-- &id047
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 2 Aristotle 2,065 Fishing Vessel Beached September 24
   unit: null
@@ -439,8 +392,7 @@ numeric_observations:
   - 2.0
   - 2065.0
   - 24.0
-- &id048
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 3 Deed 1 1,986 General Cargo Arrived September 29
   unit: null
@@ -449,8 +401,7 @@ numeric_observations:
   - 1.0
   - 1986.0
   - 29.0
-- &id049
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 4 Prometey 1,615 Oil Tanker Beached September 24
   unit: null
@@ -458,8 +409,7 @@ numeric_observations:
   - 4.0
   - 1615.0
   - 24.0
-- &id050
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 5 Singa 22,158 Passenger Vessel Beached September 29
   unit: null
@@ -467,23 +417,20 @@ numeric_observations:
   - 5.0
   - 22158.0
   - 29.0
-- &id051
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 34,060
   unit: null
   values:
   - 34060.0
-- &id052
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of September 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id053
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 1 Ariana 15,672 Tanker Arrived June 22
   unit: null
@@ -491,8 +438,7 @@ numeric_observations:
   - 1.0
   - 15672.0
   - 22.0
-- &id054
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 2 Gala 16,885 Tanker Arrived February 28
   unit: null
@@ -500,8 +446,7 @@ numeric_observations:
   - 2.0
   - 16885.0
   - 28.0
-- &id055
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 3 New Smile 2,206 Tanker Beached September 29
   unit: null
@@ -509,8 +454,7 @@ numeric_observations:
   - 3.0
   - 2206.0
   - 29.0
-- &id056
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 4 Oras 1,879 Container Arrived September 27
   unit: null
@@ -518,8 +462,7 @@ numeric_observations:
   - 4.0
   - 1879.0
   - 27.0
-- &id057
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 5 Roknoor 3 600 Bulk Carrier Beached September 27
   unit: null
@@ -528,8 +471,7 @@ numeric_observations:
   - 3.0
   - 600.0
   - 27.0
-- &id058
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 6 Shankhachil 483 Tanker Beached September 27
   unit: null
@@ -537,8 +479,7 @@ numeric_observations:
   - 6.0
   - 483.0
   - 27.0
-- &id059
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 7 Winton T128 975 Bulk Carrier Arrived June 23
   unit: null
@@ -547,23 +488,20 @@ numeric_observations:
   - 28.0
   - 975.0
   - 23.0
-- &id060
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 38,700
   unit: null
   values:
   - 38700.0
-- &id061
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of September 30, 2022
   unit: null
   values:
   - 30.0
   - 2022.0
-- &id062
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 1 Azab 870 Tug Beached September 24
   unit: null
@@ -571,15 +509,13 @@ numeric_observations:
   - 1.0
   - 870.0
   - 24.0
-- &id063
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: Total Tonnage 870
   unit: null
   values:
   - 870.0
-- &id064
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
@@ -588,8 +524,7 @@ numeric_observations:
   - 899.0669
   - 91.278
   - 300.5253
-- &id065
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
   unit: null
@@ -598,8 +533,7 @@ numeric_observations:
   - 759.924
   - 971.4
   - 423.072
-- &id066
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
@@ -608,8 +542,7 @@ numeric_observations:
   - 3197.9963
   - 1.24
   - 505.9716
-- &id067
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
@@ -618,8 +551,7 @@ numeric_observations:
   - 75.19
   - 82.1
   - 4650.072
-- &id068
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
@@ -628,8 +560,7 @@ numeric_observations:
   - 8037.0
   - 81.3
   - 5453.6311
-- &id069
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 4 /2
   unit: null
@@ -637,8 +568,7 @@ numeric_observations:
   - 2.0
   - 4.0
   - 2.0
-- &id070
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 5 /2
   unit: null
@@ -646,8 +576,7 @@ numeric_observations:
   - 2.0
   - 5.0
   - 2.0
-- &id071
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 6 /2
   unit: null
@@ -655,8 +584,7 @@ numeric_observations:
   - 2.0
   - 6.0
   - 2.0
-- &id072
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 7 /2
   unit: null
@@ -664,8 +592,7 @@ numeric_observations:
   - 2.0
   - 7.0
   - 2.0
-- &id073
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 8 /2
   unit: null
@@ -673,8 +600,7 @@ numeric_observations:
   - 2.0
   - 8.0
   - 2.0
-- &id074
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /2 9 /2
   unit: null
@@ -682,16 +608,14 @@ numeric_observations:
   - 2.0
   - 9.0
   - 2.0
-- &id075
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: /3 0 /2
   unit: null
   values:
   - 3.0
   - 2.0
-- &id076
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 6 7 .9 0
   unit: null
@@ -699,8 +623,7 @@ numeric_observations:
   - 6.0
   - 7.0
   - 9.0
-- &id077
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 6 6 .0 4
   unit: null
@@ -708,8 +631,7 @@ numeric_observations:
   - 6.0
   - 6.0
   - 4.0
-- &id078
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 6 8 .7 7
   unit: null
@@ -718,8 +640,7 @@ numeric_observations:
   - 8.0
   - 7.0
   - 7.0
-- &id079
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 6 9 .9 3
   unit: null
@@ -728,8 +649,7 @@ numeric_observations:
   - 9.0
   - 9.0
   - 3.0
-- &id080
-  section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+- section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
   section_type: linked_pdf
   source_line: 7 0 .4 9
   unit: null
@@ -931,86 +851,635 @@ section_count: 3
 signals:
   numeric_observation_count: 102
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: India has lost about USD 80/LDT on steel prices over the last several
+      weeks and despite gaining a marginal USD 5/Ton this week, remains under pressure
+      as the lowest placed of all sub-continent markets once again. The Indian Rupee
+      has also crossed the psycholog
+    unit: usd
+    values:
+    - 80.0
+    - 5.0
+    - 80.0
+  - section: Main
+    section_type: null
+    source_line: 'The supply of tonnage in the sub-continent had started to marginally
+      improve but remains relatively strained as all freight sectors continue to perform,
+      leaving demo markets starved of vessels once again. Prices therefore remain
+      stranded below USD 600/LDT for '
+    unit: usd
+    values:
+    - 600.0
+    - 550.0
+  - section: Main
+    section_type: null
+    source_line: For week 39 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 39.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2022-10-04_gms-week-39-sounds-of-softening_img1_gfe43_255a3114768f.jpg'
+    unit: null
+    values:
+    - 2022.0
+    - -10.0
+    - -4.0
+    - 39.0
+    - 3.0
+    - 255.0
+    - 114768.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Septemb er 30th, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Volume 2 42, Issue 1050
+    unit: null
+    values:
+    - 2.0
+    - 42.0
+    - 1050.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Week 39 - Ruth Gordo
+    unit: null
+    values:
+    - 39.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: • Supply improves. India has lost about USD 80/LDT on steel prices
+      over the last several weeks and despite gaining
+    unit: usd
+    values:
+    - 80.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: a marginal USD 5/Ton this week, remains under pressure as the lowest
+      placed of all sub-
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Rs. 80 mark, leaving Alang Buyers as worriedly cautious as their
+      competitors.
+    unit: null
+    values:
+    - 80.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: GMS Recycling App vessels once again. Prices therefore remain stranded
+      below USD 600/LDT for another week with
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: to suggest that levels will cool off again (perhaps down to the low
+      USD 550s/LDT) in worrying
+    unit: usd
+    values:
+    - 550.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: For week 39 of 2022, GMS demo rankings / pricing for the week are
+      as below.
+    unit: null
+    values:
+    - 39.0
+    - 2022.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Weak 570 / LDT* 580 / LDT* 590 / LDT*
+    unit: null
+    values:
+    - 1.0
+    - 570.0
+    - 580.0
+    - 590.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Weak 560 / LDT 570 / LDT 580 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 560.0
+    - 570.0
+    - 580.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Weak 550 / LDT 560 / LDT 570 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 550.0
+    - 560.0
+    - 570.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Weak 240 / LDT 250 / LDT 260 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 240.0
+    - 250.0
+    - 260.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: USD 600/LDT as Chattogram Buyers sense a bargain or two. Unfortunately,
+      the number
+    unit: usd
+    values:
+    - 600.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 8 GMS Weekly
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Despite firming a marginal USD 5/Ton this week, the Indian ship recycling
+      sector overall
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: USD 80/Ton over recent weeks, and this has left Alang Buyers spooked
+      & reluctant to offer
+    unit: usd
+    values:
+    - 80.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: The currency too has suffered as the Indian Rupee nearly breached
+      Rs. 81.90 (rapidly
+    unit: null
+    values:
+    - 81.9
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: coming up on Rs. 82) against the U.S.I DNollDar, rIeAtrea ting back
+      to the mid Rs. 81s, in further
+    unit: null
+    values:
+    - 82.0
+    - 81.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Markets suffer . rattled domestic fundamentals and resulted i n ship
+      prices collapsing by over USD 100/Ton,
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: The Pakistani Rupee has firmed marginally from PKR 236 to about PKR
+      228, while local
+    unit: null
+    values:
+    - 236.0
+    - 228.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Page 5 of 8 GMS Weekly
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: the mid TRY 18s against the U.S. Dollar, an utter lack of tonnage,
+      and a local sentiment that
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Miscellaneous Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: the innovator who, in the 19th century, made paint tubes from tin
+      and screw caps.
+    unit: null
+    values:
+    - 19.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: long jump is greater than the world record for longest horse long
+      jump. Mike Powell set the record in 1991 by
+    unit: null
+    values:
+    - 1991.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: jum ping 8.95 meters, and the horse Extra Dry set the record in 1900
+      by jumping 6.10 meters.
+    unit: null
+    values:
+    - 8.95
+    - 1900.0
+    - 6.1
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line:  The Terminator script was sold for $1. James Cameron is the award-winning
+      director of movies like Titanic
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: and Avatar. In order to get his big break with The Terminator, he
+      sold the script for $1 and a promise that he'd
+    unit: usd
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line:  Pige on poop is the property of the British Crown. In the 18th
+      century, pigeon poop was used to make
+    unit: null
+    values:
+    - 18.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 05 - Vijaya Dashami October 07 - October 25
+    unit: null
+    values:
+    - 5.0
+    - 7.0
+    - 25.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 09 - Eid-E-Milad October 25 - October 31
+    unit: null
+    values:
+    - 9.0
+    - 25.0
+    - 31.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - October 27 - Diwali
+    unit: null
+    values:
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 05 - Durga Puja October 08 - October 11
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 11.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 09 - Eid-E-Miladun-Nabi (S) October 24 - October 27
+    unit: null
+    values:
+    - 9.0
+    - 24.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 1 - October 7 - National Day October 9 - Eid October 28 -
+      October 29 - Republic
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 9.0
+    - 28.0
+    - 29.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: October 24 - Founding Day Day
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Page 7 of 8 GMS Port Report
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of September 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 1 Aba (Under Tow) 6,236 Jack-up Rig Beached September 27
+    unit: null
+    values:
+    - 1.0
+    - 6236.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 2 Aristotle 2,065 Fishing Vessel Beached September 24
+    unit: null
+    values:
+    - 2.0
+    - 2065.0
+    - 24.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 3 Deed 1 1,986 General Cargo Arrived September 29
+    unit: null
+    values:
+    - 3.0
+    - 1.0
+    - 1986.0
+    - 29.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 4 Prometey 1,615 Oil Tanker Beached September 24
+    unit: null
+    values:
+    - 4.0
+    - 1615.0
+    - 24.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 5 Singa 22,158 Passenger Vessel Beached September 29
+    unit: null
+    values:
+    - 5.0
+    - 22158.0
+    - 29.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 34,060
+    unit: null
+    values:
+    - 34060.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of September 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ariana 15,672 Tanker Arrived June 22
+    unit: null
+    values:
+    - 1.0
+    - 15672.0
+    - 22.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 2 Gala 16,885 Tanker Arrived February 28
+    unit: null
+    values:
+    - 2.0
+    - 16885.0
+    - 28.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 3 New Smile 2,206 Tanker Beached September 29
+    unit: null
+    values:
+    - 3.0
+    - 2206.0
+    - 29.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 4 Oras 1,879 Container Arrived September 27
+    unit: null
+    values:
+    - 4.0
+    - 1879.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 5 Roknoor 3 600 Bulk Carrier Beached September 27
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+    - 600.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 6 Shankhachil 483 Tanker Beached September 27
+    unit: null
+    values:
+    - 6.0
+    - 483.0
+    - 27.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 7 Winton T128 975 Bulk Carrier Arrived June 23
+    unit: null
+    values:
+    - 7.0
+    - 28.0
+    - 975.0
+    - 23.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 38,700
+    unit: null
+    values:
+    - 38700.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of September 30, 2022
+    unit: null
+    values:
+    - 30.0
+    - 2022.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 1 Azab 870 Tug Beached September 24
+    unit: null
+    values:
+    - 1.0
+    - 870.0
+    - 24.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: Total Tonnage 870
+    unit: null
+    values:
+    - 870.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
+    unit: null
+    values:
+    - 30.21
+    - 899.0669
+    - 91.278
+    - 300.5253
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
+    unit: null
+    values:
+    - 1.301
+    - 759.924
+    - 971.4
+    - 423.072
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
+    unit: null
+    values:
+    - 49.4
+    - 3197.9963
+    - 1.24
+    - 505.9716
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
+    unit: null
+    values:
+    - 86.216
+    - 75.19
+    - 82.1
+    - 4650.072
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
+    unit: null
+    values:
+    - 65.6823
+    - 8037.0
+    - 81.3
+    - 5453.6311
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 4 /2
+    unit: null
+    values:
+    - 2.0
+    - 4.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 5 /2
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 6 /2
+    unit: null
+    values:
+    - 2.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 7 /2
+    unit: null
+    values:
+    - 2.0
+    - 7.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 8 /2
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /2 9 /2
+    unit: null
+    values:
+    - 2.0
+    - 9.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: /3 0 /2
+    unit: null
+    values:
+    - 3.0
+    - 2.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 6 7 .9 0
+    unit: null
+    values:
+    - 6.0
+    - 7.0
+    - 9.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 6 6 .0 4
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 4.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 6 8 .7 7
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+    - 7.0
+    - 7.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 6 9 .9 3
+    unit: null
+    values:
+    - 6.0
+    - 9.0
+    - 9.0
+    - 3.0
+  - section: 'Linked asset: 2022-10-04_gms-week-39-sounds-of-softening_ship-recycling-market-insight-week-3_15c000b3aa10.pdf'
+    section_type: linked_pdf
+    source_line: 7 0 .4 9
+    unit: null
+    values:
+    - 7.0
+    - 4.0
+    - 9.0
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-10-04_gms-week-39-sounds-of-softening.html
 source_stem: 2022-10-04_gms-week-39-sounds-of-softening
