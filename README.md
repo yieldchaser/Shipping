@@ -370,6 +370,12 @@ Position-sizing model applied to BDRY's full daily history (~1,994 days), fetche
 
 Comprehensive analytical suite for technical and fundamental signals:
 
+#### Core Design & View Modes
+* **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points ×10, BDTI ×35, BCTI ×30) to allow direct comparison with 1-Year and 2-Year Time Charter rates. This makes the Spot-to-TC ratio metrics physically meaningful (e.g., yielding ratios like `0.85x` or `1.15x`).
+* **Detailed Tooltips**: Hovering over spot rate curves displays both the converted $/day rate and the raw Baltic Index points (e.g., `Capesize Spot: $10,580/day (1,058 index points)`).
+* **View All Sectors Toggle**: A toggle at the top of the tab switches between **Single Sector** (filtered to the globally active sector) and **View All Sectors** (rendering all 6 sectors overlaid as separate lines on a single wide chart, matching the design of the Yearly dashboard).
+* **Aligned Historical Horizon**: Default date cutoffs are set to **July 1, 2021** to utilize 100% of the available historical rates database and compare cycle trends over a 5-year horizon.
+
 | Chart | Description |
 |---|---|
 | **Bollinger Bands (20D, 2σ)** | Price + upper/SMA/lower bands. |

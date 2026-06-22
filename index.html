@@ -3432,7 +3432,7 @@
         </div>
         <div class="flex-row" style="gap:8px;">
           <button class="toggle-btn active" id="signalsViewSingle" onclick="setSignalsViewMode('single')">Single Sector (Global Filter)</button>
-          <button class="toggle-btn" id="signalsViewAll" onclick="setSignalsViewMode('all')">View All Sectors (Side-by-Side)</button>
+          <button class="toggle-btn" id="signalsViewAll" onclick="setSignalsViewMode('all')">View All Sectors (Overlaid)</button>
         </div>
       </div>
 
@@ -9550,25 +9550,140 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (isMainCall) {
         const wrapper = canvas.parentNode;
         if (window.signalsViewMode === 'all') {
-          if (!wrapper.querySelector('.signals-grid')) {
-            wrapper.innerHTML = `
-              <div class="signals-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px; width:100%;">
-                ${sectors.map(s => `
-                  <div class="mini-chart-card" style="background:var(--hover); border:1px solid var(--border); border-radius:6px; padding:12px;">
-                    <div style="font-weight:600; font-size:12px; margin-bottom:8px; color:var(--text);">${PRODUCTS[s].label}</div>
-                    <div style="height:220px;"><canvas id="timeCharterChart_${s}"></canvas></div>
-                  </div>
-                `).join('')}
-              </div>
-            `;
+          if (wrapper.querySelector('.signals-grid')) {
+            wrapper.innerHTML = `<canvas id="timeCharterChart"></canvas>`;
+            canvas = document.getElementById('timeCharterChart');
+            if (!canvas) return;
           }
-          sectors.forEach(s => renderTimeCharterChart(s, `timeCharterChart_${s}`));
+
+          // OVERLAID VIEW MODE: Plot spot and 1Y TC rates of all 6 sectors on a single chart!
+          const tcRows = DATA.timeCharterRates || [];
+          if (!tcRows.length) return;
+
+          const spotMaps = {};
+          sectors.forEach(s => {
+            const spotRows = getRows(s);
+            const mult = SPOT_MULTIPLIERS[s] || 1;
+            spotMaps[s] = {};
+            spotRows.forEach(r => {
+              spotMaps[s][fmtDate(r.date)] = r[s] * mult;
+            });
+          });
+
+          const aligned = [];
+          tcRows.forEach(r => {
+            const rowData = { date: r.date, dateStr: r.dateStr };
+            sectors.forEach(s => {
+              let spotVal = spotMaps[s][r.dateStr];
+              if (spotVal == null) {
+                let closest = null;
+                let minDiff = Infinity;
+                const spotRows = getRows(s);
+                const mult = SPOT_MULTIPLIERS[s] || 1;
+                spotRows.forEach(sr => {
+                  const diff = Math.abs(sr.date - r.date);
+                  if (diff < minDiff && diff <= 4 * 86400000) {
+                    minDiff = diff;
+                    closest = sr[s] * mult;
+                  }
+                });
+                spotVal = closest;
+              }
+              rowData[s + '_spot'] = spotVal;
+
+              let tcCol = 'capesize_1y_avg';
+              if (s === 'panama') tcCol = 'panamax_1y_avg';
+              else if (s === 'suprama') tcCol = 'supramax_1y_avg';
+              else if (s === 'handysize') tcCol = 'handysize_1y_avg';
+              else if (s === 'dirtytanker') tcCol = 'vlcc_1y';
+              else if (s === 'cleantanker') tcCol = 'mr_1y';
+              rowData[s + '_tc1y'] = r[tcCol];
+            });
+            aligned.push(rowData);
+          });
+
+          const cutoff = new Date('2021-07-01');
+          const rows = aligned.filter(r => r.date >= cutoff);
+          if (!rows.length) return;
+
+          const labels = rows.map(r => fmtDate(r.date));
+          const datasets = [];
+          sectors.forEach(s => {
+            const labelText = s === 'dirtytanker' ? 'VLCC' : s === 'cleantanker' ? 'MR' : PRODUCTS[s].label;
+            const color = PRODUCTS[s].color;
+
+            datasets.push({
+              label: `${labelText} Spot`,
+              data: rows.map(r => r[s + '_spot']),
+              yAxisID: 'yLeft',
+              borderColor: color,
+              backgroundColor: 'transparent',
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1
+            });
+
+            datasets.push({
+              label: `${labelText} 1Y TC`,
+              data: rows.map(r => r[s + '_tc1y']),
+              yAxisID: 'yLeft',
+              borderColor: color,
+              backgroundColor: 'transparent',
+              borderWidth: 1.2,
+              borderDash: [3, 3],
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1
+            });
+          });
+
+          destroyChart(actualCanvasId);
+          
+          const ratioBadge = document.getElementById('spotTcRatioBadge');
+          if (ratioBadge) {
+            ratioBadge.textContent = 'View All Mode';
+            ratioBadge.style.background = 'var(--border)';
+            ratioBadge.style.color = 'var(--text-muted)';
+          }
+
+          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+            type: 'line',
+            data: { labels: labels, datasets: datasets },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              interaction: { mode: 'index', intersect: false },
+              plugins: {
+                legend: {
+                  position: 'top',
+                  labels: {
+                    usePointStyle: true,
+                    font: { size: 10 }
+                  }
+                },
+                tooltip: {
+                  callbacks: {
+                    label: function (c) {
+                      const val = c.parsed.y;
+                      if (val == null) return ' ' + c.dataset.label + ': -';
+                      return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } }
+              }
+            }
+          });
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
             wrapper.innerHTML = `<canvas id="timeCharterChart"></canvas>`;
-            const newCanvas = document.getElementById('timeCharterChart');
-            if (!newCanvas) return;
+            canvas = document.getElementById('timeCharterChart');
+            if (!canvas) return;
           }
         }
       }
@@ -9730,25 +9845,84 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (isMainCall) {
         const wrapper = canvas.parentNode;
         if (window.signalsViewMode === 'all') {
-          if (!wrapper.querySelector('.signals-grid')) {
-            wrapper.innerHTML = `
-              <div class="signals-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px; width:100%;">
-                ${sectors.map(s => `
-                  <div class="mini-chart-card" style="background:var(--hover); border:1px solid var(--border); border-radius:6px; padding:12px;">
-                    <div style="font-weight:600; font-size:12px; margin-bottom:8px; color:var(--text);">${s === 'dirtytanker' ? 'Tankers (VLCC vs MR)' : PRODUCTS[s].label}</div>
-                    <div style="height:220px;"><canvas id="basinSpreadChart_${s}"></canvas></div>
-                  </div>
-                `).join('')}
-              </div>
-            `;
+          if (wrapper.querySelector('.signals-grid')) {
+            wrapper.innerHTML = `<canvas id="basinSpreadChart"></canvas>`;
+            canvas = document.getElementById('basinSpreadChart');
+            if (!canvas) return;
           }
-          sectors.forEach(s => renderBasinSpreadChart(s, `basinSpreadChart_${s}`));
+
+          // OVERLAID VIEW MODE: Plot Basin Arbitrage Ratios of all sectors on a single chart!
+          const tcRows = DATA.timeCharterRates || [];
+          if (!tcRows.length) return;
+
+          const colMap = {
+            cape: { c1: 'capesize_1y_atl', c2: 'capesize_1y_pac', label: 'Capesize Atl/Pac', color: PRODUCTS.cape.color },
+            panama: { c1: 'panamax_1y_atl', c2: 'panamax_1y_pac', label: 'Panamax Atl/Pac', color: PRODUCTS.panama.color },
+            suprama: { c1: 'supramax_1y_atl', c2: 'supramax_1y_pac', label: 'Supramax Atl/Pac', color: PRODUCTS.suprama.color },
+            handysize: { c1: 'handysize_1y_atl', c2: 'handysize_1y_pac', label: 'Handysize Atl/Pac', color: PRODUCTS.handysize.color },
+            dirtytanker: { c1: 'vlcc_1y', c2: 'mr_1y', label: 'Tanker VLCC/MR', color: PRODUCTS.dirtytanker.color }
+          };
+
+          const aligned = [];
+          tcRows.forEach(r => {
+            const rowData = { date: r.date, dateStr: r.dateStr };
+            sectors.forEach(s => {
+              const cfg = colMap[s];
+              const v1 = r[cfg.c1];
+              const v2 = r[cfg.c2];
+              rowData[s + '_ratio'] = (v1 != null && v2 != null && v2 > 0) ? (v1 / v2) : null;
+            });
+            aligned.push(rowData);
+          });
+
+          const cutoff = new Date('2021-07-01');
+          const rows = aligned.filter(r => r.date >= cutoff);
+          if (!rows.length) return;
+
+          const labels = rows.map(r => fmtDate(r.date));
+          const datasets = sectors.map(s => {
+            const cfg = colMap[s];
+            return {
+              label: cfg.label,
+              data: rows.map(r => r[s + '_ratio']),
+              borderColor: cfg.color,
+              backgroundColor: 'transparent',
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1
+            };
+          });
+
+          destroyChart(actualCanvasId);
+          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+            type: 'line',
+            data: { labels: labels, datasets: datasets },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              interaction: { mode: 'index', intersect: false },
+              plugins: {
+                legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+                tooltip: {
+                  callbacks: {
+                    label: function (c) {
+                      return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '-');
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+                y: { min: 0.4, max: 2.2, grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'x' }, title: { display: true, text: 'Spread Ratio', color: '#8b949e', font: { size: 11 } } }
+              }
+            }
+          });
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
             wrapper.innerHTML = `<canvas id="basinSpreadChart"></canvas>`;
-            const newCanvas = document.getElementById('basinSpreadChart');
-            if (!newCanvas) return;
+            canvas = document.getElementById('basinSpreadChart');
+            if (!canvas) return;
           }
         }
       }
@@ -9858,19 +10032,131 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (isMainCall) {
         const wrapper = canvas.parentNode;
         if (window.signalsViewMode === 'all') {
-          if (!wrapper.querySelector('.signals-grid')) {
-            wrapper.innerHTML = `
-              <div class="signals-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px; width:100%;">
-                ${sectors.map(s => `
-                  <div class="mini-chart-card" style="background:var(--hover); border:1px solid var(--border); border-radius:6px; padding:12px;">
-                    <div style="font-weight:600; font-size:12px; margin-bottom:8px; color:var(--text);">${PRODUCTS[s].label}</div>
-                    <div style="height:220px;"><canvas id="ironOreRestockingChart_${s}"></canvas></div>
-                  </div>
-                `).join('')}
-              </div>
-            `;
+          if (wrapper.querySelector('.signals-grid')) {
+            wrapper.innerHTML = `<canvas id="ironOreRestockingChart"></canvas>`;
+            canvas = document.getElementById('ironOreRestockingChart');
+            if (!canvas) return;
           }
-          sectors.forEach(s => renderIronOreRestockingChart(s, `ironOreRestockingChart_${s}`));
+
+          container.style.display = '';
+
+          // OVERLAID VIEW MODE: Plot Spot Rates of all 4 dry bulk sectors + Iron Ore + Qingdao Inventory
+          const ioRows = DATA.ironOreRestocking || [];
+          if (!ioRows.length) return;
+
+          const spotMaps = {};
+          sectors.forEach(s => {
+            const spotRows = getRows(s);
+            const mult = SPOT_MULTIPLIERS[s] || 1;
+            spotMaps[s] = {};
+            spotRows.forEach(r => {
+              spotMaps[s][fmtDate(r.date)] = r[s] * mult;
+            });
+          });
+
+          const aligned = [];
+          ioRows.forEach(r => {
+            const rowData = {
+              date: r.date,
+              dateStr: r.dateStr,
+              iron_ore: r.iron_ore,
+              inventory: r.inventory
+            };
+            sectors.forEach(s => {
+              let spotVal = spotMaps[s][r.dateStr];
+              if (spotVal == null) {
+                let closest = null;
+                let minDiff = Infinity;
+                const spotRows = getRows(s);
+                const mult = SPOT_MULTIPLIERS[s] || 1;
+                spotRows.forEach(sr => {
+                  const diff = Math.abs(sr.date - r.date);
+                  if (diff < minDiff && diff <= 4 * 86400000) {
+                    minDiff = diff;
+                    closest = sr[s] * mult;
+                  }
+                });
+                spotVal = closest;
+              }
+              rowData[s + '_spot'] = spotVal;
+            });
+            aligned.push(rowData);
+          });
+
+          const cutoff = new Date('2021-07-01');
+          const rows = aligned.filter(r => r.date >= cutoff);
+          if (!rows.length) return;
+
+          const labels = rows.map(r => fmtDate(r.date));
+          const datasets = [];
+
+          sectors.forEach(s => {
+            datasets.push({
+              label: `${PRODUCTS[s].label} Spot`,
+              data: rows.map(r => r[s + '_spot']),
+              yAxisID: 'yLeft',
+              borderColor: PRODUCTS[s].color,
+              backgroundColor: 'transparent',
+              borderWidth: 1.5,
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1
+            });
+          });
+
+          datasets.push({
+            label: 'CFR 62% Iron Ore Price',
+            data: rows.map(r => r.iron_ore),
+            yAxisID: 'yLeft',
+            borderColor: '#ff6b6b',
+            backgroundColor: 'transparent',
+            borderWidth: 2.5,
+            pointRadius: 0,
+            fill: false,
+            tension: 0.1
+          });
+
+          datasets.push({
+            label: 'Qingdao Port Inventory',
+            data: rows.map(r => r.inventory),
+            yAxisID: 'yRight',
+            borderColor: '#8b949e',
+            backgroundColor: 'transparent',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            pointRadius: 0,
+            fill: false,
+            tension: 0.1
+          });
+
+          destroyChart(actualCanvasId);
+          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+            type: 'line',
+            data: { labels: labels, datasets: datasets },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              interaction: { mode: 'index', intersect: false },
+              plugins: {
+                legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+                tooltip: {
+                  callbacks: {
+                    label: function (c) {
+                      const val = c.parsed.y;
+                      if (val == null) return ' ' + c.dataset.label + ': -';
+                      if (c.dataset.label === 'Qingdao Port Inventory') return ' ' + c.dataset.label + ': ' + Math.round(val).toLocaleString() + 'k tons';
+                      if (c.dataset.label.includes('Iron Ore')) return ' ' + c.dataset.label + ': $' + val.toFixed(1) + '/dmt';
+                      return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Spot Rates / Ore Price ($/day or $/dmt)', color: '#8b949e', font: { size: 11 } } },
+                yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 }, callback: v => Math.round(v).toLocaleString() + 'k t' }, title: { display: true, text: 'Inventory (k tons)', color: '#8b949e', font: { size: 11 } } }
+              }
+            }
+          });
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -9997,19 +10283,76 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (isMainCall) {
         const wrapper = canvas.parentNode;
         if (window.signalsViewMode === 'all') {
-          if (!wrapper.querySelector('.signals-grid')) {
-            wrapper.innerHTML = `
-              <div class="signals-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px; width:100%;">
-                ${sectors.map(s => `
-                  <div class="mini-chart-card" style="background:var(--hover); border:1px solid var(--border); border-radius:6px; padding:12px;">
-                    <div style="font-weight:600; font-size:12px; margin-bottom:8px; color:var(--text);">${PRODUCTS[s].label}</div>
-                    <div style="height:220px;"><canvas id="vesselValuationsChart_${s}"></canvas></div>
-                  </div>
-                `).join('')}
-              </div>
-            `;
+          if (wrapper.querySelector('.signals-grid')) {
+            wrapper.innerHTML = `<canvas id="vesselValuationsChart"></canvas>`;
+            canvas = document.getElementById('vesselValuationsChart');
+            if (!canvas) return;
           }
-          sectors.forEach(s => renderVesselValuationsChart(s, `vesselValuationsChart_${s}`));
+
+          const demoRows = DATA.demolitionScrap || [];
+          if (!demoRows.length) return;
+
+          const sectorCfg = {
+            cape: { ldt: 24000, label: 'Capesize Floor', color: PRODUCTS.cape.color, col: 'dry_india' },
+            panama: { ldt: 12000, label: 'Panamax Floor', color: PRODUCTS.panama.color, col: 'dry_india' },
+            suprama: { ldt: 9500, label: 'Supramax Floor', color: PRODUCTS.suprama.color, col: 'dry_india' },
+            handysize: { ldt: 7500, label: 'Handysize Floor', color: PRODUCTS.handysize.color, col: 'dry_india' },
+            dirtytanker: { ldt: 40000, label: 'VLCC Tanker Floor', color: PRODUCTS.dirtytanker.color, col: 'tanker_india' },
+            cleantanker: { ldt: 9500, label: 'MR Tanker Floor', color: PRODUCTS.cleantanker.color, col: 'tanker_india' }
+          };
+
+          const aligned = demoRows.map(r => {
+            const rowData = { date: r.date, dateStr: r.dateStr };
+            sectors.forEach(s => {
+              const cfg = sectorCfg[s];
+              const scrapVal = r[cfg.col];
+              rowData[s + '_floor'] = scrapVal ? (scrapVal * cfg.ldt) / 1000000 : null;
+            });
+            return rowData;
+          }).filter(r => sectors.some(s => r[s + '_floor'] != null));
+
+          const cutoff = new Date('2021-07-01');
+          const rows = aligned.filter(r => r.date >= cutoff);
+          if (!rows.length) return;
+
+          const labels = rows.map(r => fmtDate(r.date));
+          const datasets = sectors.map(s => {
+            const cfg = sectorCfg[s];
+            return {
+              label: cfg.label,
+              data: rows.map(r => r[s + '_floor']),
+              borderColor: cfg.color,
+              backgroundColor: 'transparent',
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1
+            };
+          });
+
+          destroyChart(actualCanvasId);
+          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+            type: 'line',
+            data: { labels: labels, datasets: datasets },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              interaction: { mode: 'index', intersect: false },
+              plugins: {
+                legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+                tooltip: {
+                  callbacks: {
+                    label: function (c) {
+                      return ' ' + c.dataset.label + ': $' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'M' : '-');
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+                y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + v.toFixed(1) + 'M' }, title: { display: true, text: 'Calculated Scrap Floor Value ($ Millions)', color: '#8b949e', font: { size: 11 } } }
+              }
+            }
+          });
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10122,19 +10465,144 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const phaseTextEl = document.getElementById('quadrantPhaseText');
           if (phaseTextEl) phaseTextEl.parentNode.style.display = 'none';
 
-          if (!wrapper.querySelector('.signals-grid')) {
-            wrapper.innerHTML = `
-              <div class="signals-grid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px; width:100%;">
-                ${sectors.map(s => `
-                  <div class="mini-chart-card" style="background:var(--hover); border:1px solid var(--border); border-radius:6px; padding:12px;">
-                    <div style="font-weight:600; font-size:12px; margin-bottom:8px; color:var(--text);">${PRODUCTS[s].label}</div>
-                    <div style="height:280px;"><canvas id="marketCycleQuadrantChart_${s}"></canvas></div>
-                  </div>
-                `).join('')}
-              </div>
-            `;
+          if (wrapper.querySelector('.signals-grid')) {
+            wrapper.innerHTML = `<canvas id="marketCycleQuadrantChart"></canvas>`;
+            canvas = document.getElementById('marketCycleQuadrantChart');
+            if (!canvas) return;
           }
-          sectors.forEach(s => renderMarketCycleQuadrantChart(s, `marketCycleQuadrantChart_${s}`));
+
+          const tcRows = DATA.timeCharterRates || [];
+          if (!tcRows.length) return;
+
+          const datasets = [];
+
+          sectors.forEach(s => {
+            let spotKey = s;
+            let tc1yCol = 'capesize_1y_avg';
+            if (s === 'panama') tc1yCol = 'panamax_1y_avg';
+            else if (s === 'suprama') tc1yCol = 'supramax_1y_avg';
+            else if (s === 'handysize') tc1yCol = 'handysize_1y_avg';
+            else if (s === 'dirtytanker') tc1yCol = 'vlcc_1y';
+            else if (s === 'cleantanker') tc1yCol = 'mr_1y';
+
+            const spotMultiplier = SPOT_MULTIPLIERS[spotKey] || 1;
+            const spotRows = getRows(spotKey);
+            if (spotRows.length < 90) return;
+
+            const spotMap = {};
+            spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey] * spotMultiplier; });
+
+            const points = [];
+            tcRows.forEach(r => {
+              let spotVal = spotMap[r.dateStr];
+              if (spotVal == null) {
+                let closest = null;
+                let minDiff = Infinity;
+                spotRows.forEach(sr => {
+                  const diff = Math.abs(sr.date - r.date);
+                  if (diff < minDiff && diff <= 4 * 86400000) {
+                    minDiff = diff;
+                    closest = sr[spotKey] * spotMultiplier;
+                  }
+                });
+                spotVal = closest;
+              }
+
+              const pastDate = new Date(r.date.getTime() - 60 * 86400000);
+              let pastVal = null;
+              let minDiffPast = Infinity;
+              spotRows.forEach(sr => {
+                const diff = Math.abs(sr.date - pastDate);
+                if (diff < minDiffPast && diff <= 7 * 86400000) {
+                  minDiffPast = diff;
+                  pastVal = sr[spotKey] * spotMultiplier;
+                }
+              });
+
+              const tc1y = r[tc1yCol];
+              if (spotVal != null && pastVal != null && tc1y != null && tc1y > 0) {
+                points.push({
+                  date: r.date,
+                  dateStr: r.dateStr,
+                  x: ((spotVal - pastVal) / pastVal) * 100,
+                  y: spotVal / tc1y
+                });
+              }
+            });
+
+            if (points.length < 15) return;
+
+            for (let i = 0; i < points.length; i++) {
+              const startIdx = Math.max(0, i - 51);
+              const baseline = points.slice(startIdx, i + 1).map(p => p.y);
+              const mean = baseline.reduce((a, b) => a + b, 0) / baseline.length;
+              const std = Math.sqrt(baseline.reduce((a, b) => a + (b - mean) * (b - mean), 0) / baseline.length) || 0.1;
+              points[i].z = (points[i].y - mean) / std;
+            }
+
+            const cutoff = new Date('2021-07-01');
+            const filteredPoints = points.filter(p => p.date >= cutoff);
+            if (!filteredPoints.length) return;
+
+            const lastWeeks = filteredPoints.slice(-20);
+            if (!lastWeeks.length) return;
+
+            const scatterData = lastWeeks.map((p, idx) => {
+              return {
+                x: p.x,
+                y: p.z,
+                label: fmtDate(p.date),
+                opacity: 0.1 + 0.9 * (idx / (lastWeeks.length - 1))
+              };
+            });
+
+            const color = PRODUCTS[s].color;
+            datasets.push({
+              label: PRODUCTS[s].label,
+              data: scatterData,
+              borderColor: color,
+              backgroundColor: scatterData.map(p => color + Math.round(p.opacity * 255).toString(16).padStart(2, '0')),
+              borderWidth: 1.5,
+              showLine: true,
+              tension: 0.3,
+              pointRadius: scatterData.map((p, idx) => idx === scatterData.length - 1 ? 6 : 2),
+              pointHoverRadius: 7
+            });
+          });
+
+          destroyChart(actualCanvasId);
+          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+            type: 'scatter',
+            data: { datasets: datasets },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              plugins: {
+                legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+                tooltip: {
+                  callbacks: {
+                    label: function (c) {
+                      const pt = c.raw;
+                      return ` [${c.dataset.label}] ${pt.label}: Momentum=${pt.x.toFixed(1)}%, Z-Score=${pt.y.toFixed(2)}σ`;
+                    }
+                  }
+                }
+              },
+              scales: {
+                x: {
+                  min: -50, max: 50,
+                  grid: { color: '#151a22' },
+                  ticks: { font: { size: 11 } },
+                  title: { display: true, text: '◄ Contraction | Momentum (60D Change %) | Expansion ►', color: '#8b949e', font: { size: 11 } }
+                },
+                y: {
+                  min: -2.5, max: 2.5,
+                  grid: { color: '#151a22' },
+                  ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'σ' },
+                  title: { display: true, text: '◄ Restructuring | Z-Score (Spot / 1Y TC) | Boom ►', color: '#8b949e', font: { size: 11 } }
+                }
+              }
+            }
+          });
           return;
         } else {
           const phaseTextEl = document.getElementById('quadrantPhaseText');
