@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-06-22T15:39:38Z'
+generated_at: '2026-06-22T13:51:09Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 8
@@ -8,9 +8,9 @@ warning_count: 8
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8357
-- Chunks: 97765
-- Sections: 29942
+- Documents: 8358
+- Chunks: 97766
+- Sections: 29943
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -24,7 +24,7 @@ warning_count: 8
 | baltic/tanker | 2026-06-19 | 3 | 7 | healthy | 7 | 12 |
 | baltic/gas | 2026-06-19 | 3 | 7 | healthy | 7 | 0 |
 | baltic/container | 2026-06-19 | 3 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-06-12 | 10 | 7 | healthy | 7 | 22 |
+| baltic/ningbo | 2026-06-19 | 3 | 7 | healthy | 7 | 22 |
 | breakwave_insights/insights | 2026-06-19 | 3 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-06-17 | 5 | 14 | healthy | 7 | 1 |
 | hellenic/tanker_charter | 2026-06-17 | 5 | 14 | healthy | 7 | 0 |

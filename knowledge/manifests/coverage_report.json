@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-22T15:39:38Z",
+  "generated_at": "2026-06-22T13:51:09Z",
   "current_date": "2026-06-22",
   "corpus": {
-    "document_count": 8357,
-    "chunk_count": 97765,
-    "section_count": 29942,
+    "document_count": 8358,
+    "chunk_count": 97766,
+    "section_count": 29943,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -94,11 +94,11 @@
       "category": "ningbo",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-06-12",
-      "age_days": 10,
+      "latest_date": "2026-06-19",
+      "age_days": 3,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 498,
+      "dated_doc_count": 499,
       "undated_doc_count": 22
     },
     {
@@ -579,7 +579,7 @@
       "tone_distribution": {
         "cautiously_bearish": 6,
         "constructive": 17,
-        "neutral": 53
+        "neutral": 54
       }
     }
   ],
