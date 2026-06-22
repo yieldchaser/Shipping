@@ -1,63 +1,64 @@
 {
-  "generated_at": "2026-06-22T13:55:19.090863+00:00",
+  "generated_at": "2026-06-22T17:08:24.103407+00:00",
   "brief_date": "2026-06-22",
   "generation": {
     "mode": "llm",
-    "provider_used": "ollama",
-    "model": "gemma3:4b-cloud",
+    "provider_used": "nim",
+    "model": "meta/llama-3.3-70b-instruct",
     "provider_order": [
       "ollama",
       "nim"
     ],
     "attempted_providers": [
-      "ollama"
+      "ollama",
+      "nim"
     ]
   },
   "market_snapshot": {
     "bdi": {
-      "value": 2722.0,
-      "z_score_252d": 1.338,
-      "pctl_5y": 0.975,
+      "value": 2684.0,
+      "z_score_252d": 1.235,
+      "pctl_5y": 0.971,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2256.8,
-      "roc60": 33.63
+      "ma200": 2260.1,
+      "roc60": 34.94
     },
     "capesize": {
-      "value": 4149.0,
-      "z_score_252d": 0.92,
-      "pctl_5y": 0.956,
+      "value": 4074.0,
+      "z_score_252d": 0.825,
+      "pctl_5y": 0.953,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 3536.3,
-      "roc60": 41.27
+      "ma200": 3541.9,
+      "roc60": 43.25
     },
     "panamax": {
-      "value": 2096.0,
-      "z_score_252d": 1.068,
+      "value": 2059.0,
+      "z_score_252d": 0.916,
       "pctl_5y": 0.975,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1865.2,
-      "roc60": 11.02
+      "ma200": 1866.4,
+      "roc60": 11.96
     },
     "supramax": {
-      "value": 1718.0,
-      "z_score_252d": 2.128,
-      "pctl_5y": 1.0,
+      "value": 1715.0,
+      "z_score_252d": 2.095,
+      "pctl_5y": 0.999,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1355.8,
-      "roc60": 41.05
+      "ma200": 1357.1,
+      "roc60": 41.15
     },
     "handysize": {
-      "value": 934.0,
-      "z_score_252d": 1.942,
-      "pctl_5y": 0.733,
+      "value": 936.0,
+      "z_score_252d": 1.944,
+      "pctl_5y": 0.734,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 780.8,
-      "roc60": 26.73
+      "ma200": 781.6,
+      "roc60": 28.04
     },
     "clean_tanker": {
       "value": 1307.0,
@@ -81,15 +82,17 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.34sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 3 pos/5 neg/4 neu; Fundamentals 0 pos/10 neg/2 neu.",
-      "summary": "The dry bulk market is currently experiencing a robust expansion, driven by a confluence of factors including renewed strength in the Pacific basin and improving fundamentals in the Atlantic. The BDI has surged +33.6% in the last 60 days, exceeding historical norms, indicating a significant shift in market dynamics. Sentiment remains overwhelmingly positive, with a strong consensus among analysts pointing towards continued growth, while quantitative signals confirm the accelerating pace of recovery. However, the potential for a slowdown in Chinese iron ore imports remains a key risk factor.",
+      "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.24sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 3 pos/5 neg/4 neu; Fundamentals 0 pos/10 neg/2 neu.",
+      "summary": "The dry bulk market is currently in an expansionary regime, with the BDI at 2684.0, +1.24σ above its historical mean, indicating a top-quartile performance historically. The momentum, characterized by a +34.9% ROC60, signals one of the fastest six-month recoveries since 2020. However, analyst consensus is cautious, with a divergence between positive sentiment and negative fundamentals, driven by concerns over Chinese steel production and iron ore demand. Geopolitical factors, such as the ongoing Middle East crisis, are also affecting supply routes and freight rates. Over the next 2-4 weeks, positioning will depend on the balance between these factors and the potential for further rate increases.",
       "key_signals": [
-        "The BDI ROC60 of +33.6% represents a historically rapid recovery, placing the current cycle firmly in acceleration territory.",
-        "The +1.34σ Z-score on the BDI indicates a significant deviation from the historical mean, suggesting a strong bullish trend.",
-        "The spread between Capesize and Panamax rates is widening, reflecting increased demand for larger vessels to transport iron ore from Brazil and Australia."
+        "The Capesize-Panamax spread of +2015 points indicates that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels, historically a bullish sign for Capesize rates.",
+        "The BDI's Z-score of +1.24σ implies an expansionary regime, associated with sustained freight rate increases.",
+        "The Baltic Dry Index Average is at a 97th percentile historically, suggesting that current rates are unusually high.",
+        "The fundamentals of the dry bulk market are negative, with 10 out of 12 reports indicating negative fundamentals, driven by concerns over Chinese steel production and iron ore demand.",
+        "The recent surge in dry bulk rates has been driven by a combination of factors, including renewed strength in the Pacific and improving sentiment in the Atlantic basin."
       ],
-      "outlook": "The dry bulk market is poised for continued expansion over the next 2-4 weeks, driven by robust demand for iron ore and coal. However, monitoring Chinese iron ore import volumes will be crucial, as a significant slowdown could trigger a correction.",
-      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "The 2-4 week directional thesis for dry bulk is cautiously bullish, with the key variable being the balance between expanding market conditions and negative fundamentals, which could be influenced by geopolitical developments.",
+      "watch": "The next 2-4 weeks will be influenced by the outcome of the China May steel PMI (~June 1), the OPEC+ meeting (June 1), and the ongoing monitoring of the Middle East crisis.",
       "report_dates": [
         "2026-06-09",
         "2026-05-26",
@@ -104,25 +107,27 @@
         "2026-01-20",
         "2026-01-06"
       ],
-      "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG",
-      "trade_idea": "1.  Long Capesize futures on a break above $41,000, targeting $43,500 within 3 weeks.  This is predicated on continued strength in the Pacific and a further widening of the Capesize-Panamax spread.",
-      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "momentum_grade": "UP",
+      "positioning_bias": "NEUTRAL",
+      "trade_idea": "No high-conviction setup: a clearer alignment between quant and qual signals, or a significant change in geopolitical risk, is needed to validate a trade thesis.",
+      "catalyst_watch": "The next 2-4 weeks will be influenced by the outcome of the China May steel PMI (~June 1), the OPEC+ meeting (June 1), and the ongoing monitoring of the Middle East crisis.",
       "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
-      "confidence_score": 0.95
+      "confidence_score": 0.5
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.55sigma). Of 12 Breakwave reports: Sentiment 8 pos/0 neg/4 neu; Momentum 6 pos/2 neg/4 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "The tanker market is currently exhibiting strong bullish momentum, driven by persistent supply constraints and elevated freight rates. The VLCC market, in particular, is benefiting from the ongoing geopolitical uncertainty in the Middle East, leading to rerouting of vessels and increased demand for alternative routes. The LR2 and Suezmax segments are also experiencing upward pressure, reflecting a broader imbalance in supply and demand across the tanker fleet.  However, volatility remains a key consideration.",
+      "summary": "The tanker market is currently experiencing a strong uptrend, with the VLCC rate at a historically high level, driven by positive sentiment, momentum, and fundamentals. The Z-score of +0.55σ implies a strong uptrend, and the momentum, characterized by a +71.1% YOY increase in the VLCC Middle East-Asia rate, signals a rapid rate of change. Analyst consensus is also positive, with 10 out of 12 reports indicating positive fundamentals, driven by strong oil demand and limited supply. Geopolitical factors, such as the ongoing Middle East crisis, are also affecting supply routes and freight rates. Over the next 2-4 weeks, positioning will depend on the balance between these factors and the potential for further rate increases.",
       "key_signals": [
-        "The VLCC TD3C rate of $458.75 reflects a significant premium compared to historical averages, indicating strong demand and limited supply.",
-        "The widening spread between the Middle East Gulf and Asia routes is a key indicator of increased freight rates.",
-        "The Suezmax market is also benefiting from rerouting due to the Strait of Hormuz situation, further supporting freight rates.",
+        "The VLCC rate is at a historically high level, driven by positive sentiment, momentum, and fundamentals.",
+        "The Z-score of +0.55σ implies a strong uptrend, historically associated with high freight rates.",
+        "The Baltic Clean Tanker Index is at a 94th percentile historically, suggesting that current rates are unusually high.",
+        "The fundamentals of the tanker market are positive, with 10 out of 12 reports indicating positive fundamentals, driven by strong oil demand and limited supply.",
+        "The recent surge in tanker rates has been driven by a combination of factors, including strong oil demand, limited supply, and geopolitical tensions.",
         "Dirty tanker check: level=2092.0, ROC60=-33.0%."
       ],
-      "outlook": "The tanker market is expected to remain bullish over the next 2-4 weeks, driven by ongoing supply constraints and geopolitical risks. Monitoring the Strait of Hormuz situation and OPEC+ production decisions will be crucial.",
-      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "The 2-4 week directional thesis for tankers is bullish, with the key variable being the balance between strong oil demand, limited supply, and geopolitical developments.",
+      "watch": "The next 2-4 weeks will be influenced by the outcome of the OPEC+ meeting (June 1), the China May oil imports data (~June 8), and the ongoing monitoring of the Middle East crisis.",
       "report_dates": [
         "2026-06-16",
         "2026-06-02",
@@ -138,18 +143,18 @@
         "2026-01-13"
       ],
       "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG_SPREAD_VS_DRY",
-      "trade_idea": "1.  Long VLCC futures on a test of $470, targeting $490 within 3 weeks. This is predicated on continued disruption in the Middle East and a lack of significant new tanker capacity entering the market.",
-      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "A significant escalation of the Iran-Israel conflict, leading to a prolonged disruption of shipping through the Strait of Hormuz, would trigger a sharp increase in freight rates and potentially lead to a supply chain crisis.",
-      "confidence_score": 0.9
+      "positioning_bias": "LONG",
+      "trade_idea": "Buy the VLCC ETF with a stop-loss at $20, entry trigger at $25, and exit thesis at $30, based on the strong uptrend and positive fundamentals.",
+      "catalyst_watch": "The next 2-4 weeks will be influenced by the outcome of the OPEC+ meeting (June 1), the China May oil imports data (~June 8), and the ongoing monitoring of the Middle East crisis.",
+      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline, invalidating the bullish thesis.",
+      "confidence_score": 0.8
     }
   },
-  "macro_note": "The Iran-Israel conflict is creating significant uncertainty in global oil markets, disrupting shipping routes through the Strait of Hormuz and driving up freight rates. This is directly impacting both the dry bulk and tanker sectors, as increased demand for alternative routes and rerouting of vessels increases freight costs. The upcoming China May steel PMI release (due ~June 1) will provide further insight into the strength of Chinese demand and its potential impact on iron ore imports.",
+  "macro_note": "The ongoing Middle East crisis is the primary macro driver affecting both sectors, with the crisis rerouting VLCC traffic away from the Strait of Hormuz and benefiting the VLCC segment. The next key event will be the OPEC+ meeting (June 1), which will provide further guidance on oil supply and demand.",
   "cross_sector_analysis": {
-    "relative_value": "The tanker market currently offers a more compelling risk-reward profile than the dry bulk market, given the stronger freight rates and the potential for further upside driven by geopolitical uncertainty. The spread between the two sectors is widening, indicating a relative strength in tankers.",
-    "dominant_driver": "Geopolitical risk, specifically the ongoing instability in the Middle East, is the dominant driver for both the dry bulk and tanker markets, creating supply chain disruptions and impacting freight rates.",
-    "positioning_recommendation": "Long a spread trade between VLCC futures and Capesize futures, targeting a 10-15% spread differential within 3 weeks, predicated on continued Middle East instability."
+    "relative_value": "The dry bulk sector has a better risk-reward profile than tankers, with a Z-differential of +0.69σ, driven by the stronger fundamentals and lower geopolitical risk.",
+    "dominant_driver": "The dominant macro force driving both sectors is the ongoing Middle East crisis, which is affecting supply routes, freight rates, and oil demand.",
+    "positioning_recommendation": "A long dry bulk, short tanker spread trade is recommended, based on the better risk-reward profile of dry bulk and the potential for further rate increases in the sector."
   },
   "sources": [
     "breakwave_drybulk_2026-06-09",
