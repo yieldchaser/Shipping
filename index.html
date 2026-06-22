@@ -9748,16 +9748,45 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const tc1y = r[tc1yCol];
         const tc2y = r[tc2yCol];
 
-        if (spotVal != null && (tc1y != null || tc2y != null)) {
+        if (spotVal != null) {
           aligned.push({
             date: r.date,
             dateStr: r.dateStr,
             spot: spotVal,
             tc1y: tc1y,
             tc2y: tc2y,
-            ratio: tc1y ? spotVal / tc1y : null
+            ratio: null // filled in after interpolation
           });
         }
+      });
+
+      // Linear interpolation for sparse TC columns (e.g. vlcc_1y has only ~24 points)
+      // This fills gaps so the chart shows a continuous line rather than truncating early
+      ['tc1y', 'tc2y'].forEach(function(field) {
+        var validIdx = [];
+        aligned.forEach(function(r, i) { if (r[field] != null) validIdx.push(i); });
+        if (validIdx.length >= 2) {
+          for (var vi = 0; vi < validIdx.length - 1; vi++) {
+            var ia = validIdx[vi], ib = validIdx[vi + 1];
+            var va = aligned[ia][field], vb = aligned[ib][field];
+            for (var j = ia + 1; j < ib; j++) {
+              aligned[j][field] = va + (vb - va) * (j - ia) / (ib - ia);
+            }
+          }
+        }
+        // Extrapolate flat from last known value
+        if (validIdx.length > 0) {
+          var lastIdx = validIdx[validIdx.length - 1];
+          var lastVal = aligned[lastIdx][field];
+          for (var k = lastIdx + 1; k < aligned.length; k++) {
+            aligned[k][field] = lastVal;
+          }
+        }
+      });
+
+      // Compute ratio post-interpolation
+      aligned.forEach(function(r) {
+        r.ratio = (r.tc1y && r.tc1y > 0) ? Math.min(2.5, r.spot / r.tc1y) : null;
       });
 
       if (!aligned.length) return;
@@ -9790,9 +9819,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tc2ySeries = rows.map(r => r.tc2y);
       const ratioSeries = rows.map(r => r.ratio);
 
-      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC' :
+      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC (sparse)' :
                         (productKey === 'cleantanker') ? 'LR2 1Y TC' : '2-Year TC';
-      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
+      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC (interpolated)' :
                         (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
 
       chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
@@ -9863,14 +9892,37 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             dirtytanker: { c1: 'vlcc_1y', c2: 'mr_1y', label: 'Tanker VLCC/MR', color: PRODUCTS.dirtytanker.color }
           };
 
+          // Linear-interpolate sparse tanker TC columns before computing ratios
+          const interpCols = ['vlcc_1y', 'mr_1y'];
+          const tcRowsCopy = tcRows.map(r => Object.assign({}, r));
+          interpCols.forEach(function(col) {
+            var validIdx = [];
+            tcRowsCopy.forEach(function(r, i) { if (r[col] != null) validIdx.push(i); });
+            if (validIdx.length >= 2) {
+              for (var vi = 0; vi < validIdx.length - 1; vi++) {
+                var ia = validIdx[vi], ib = validIdx[vi + 1];
+                var va = tcRowsCopy[ia][col], vb = tcRowsCopy[ib][col];
+                for (var j = ia + 1; j < ib; j++) {
+                  tcRowsCopy[j][col] = va + (vb - va) * (j - ia) / (ib - ia);
+                }
+              }
+            }
+            if (validIdx.length > 0) {
+              var lastI = validIdx[validIdx.length - 1];
+              for (var k = lastI + 1; k < tcRowsCopy.length; k++) tcRowsCopy[k][col] = tcRowsCopy[lastI][col];
+            }
+          });
+
           const aligned = [];
-          tcRows.forEach(r => {
+          tcRowsCopy.forEach(r => {
             const rowData = { date: r.date, dateStr: r.dateStr };
             sectors.forEach(s => {
               const cfg = colMap[s];
               const v1 = r[cfg.c1];
               const v2 = r[cfg.c2];
-              rowData[s + '_ratio'] = (v1 != null && v2 != null && v2 > 0) ? (v1 / v2) : null;
+              // Clamp to [0.4, 2.2] to suppress data-entry outlier spikes
+              const raw = (v1 != null && v2 != null && v2 > 0) ? (v1 / v2) : null;
+              rowData[s + '_ratio'] = raw != null ? Math.max(0.4, Math.min(2.2, raw)) : null;
             });
             aligned.push(rowData);
           });
@@ -9959,13 +10011,34 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tcRows = DATA.timeCharterRates || [];
       if (!tcRows.length) return;
 
-      const filtered = tcRows.map(r => {
+      // Interpolate sparse TC columns (vlcc_1y etc) to avoid truncated charts
+      const tcRowsInterp = tcRows.map(r => Object.assign({}, r));
+      [col1, col2].forEach(function(col) {
+        var validIdx = [];
+        tcRowsInterp.forEach(function(r, i) { if (r[col] != null) validIdx.push(i); });
+        if (validIdx.length >= 2) {
+          for (var vi = 0; vi < validIdx.length - 1; vi++) {
+            var ia = validIdx[vi], ib = validIdx[vi + 1];
+            var va = tcRowsInterp[ia][col], vb = tcRowsInterp[ib][col];
+            for (var j = ia + 1; j < ib; j++) {
+              tcRowsInterp[j][col] = va + (vb - va) * (j - ia) / (ib - ia);
+            }
+          }
+        }
+        if (validIdx.length > 0) {
+          var lastI = validIdx[validIdx.length - 1];
+          for (var k = lastI + 1; k < tcRowsInterp.length; k++) tcRowsInterp[k][col] = tcRowsInterp[lastI][col];
+        }
+      });
+
+      const filtered = tcRowsInterp.map(r => {
+        const raw = (r[col1] != null && r[col2] != null && r[col2] > 0) ? (r[col1] / r[col2]) : null;
         return {
           date: r.date,
           dateStr: r.dateStr,
           v1: r[col1],
           v2: r[col2],
-          ratio: (r[col1] != null && r[col2] != null && r[col2] > 0) ? (r[col1] / r[col2]) : null
+          ratio: raw != null ? Math.max(0.4, Math.min(2.5, raw)) : null
         };
       }).filter(r => r.v1 != null && r.v2 != null);
 
