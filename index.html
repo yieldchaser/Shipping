@@ -4516,7 +4516,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (PRODUCTS[key].computed) continue; // skip - derived below
           const r = maps[key][ts];
           row[key] = r ? r.value : null;
-          row[`${key}_change`] = r ? r.change : null;
+          if (r && r.change != null && r.change !== '') {
+            const _c = parseFloat(String(r.change).replace('%', ''));
+            row[`${key}_change`] = isNaN(_c) ? null : _c;
+          } else {
+            row[`${key}_change`] = null;
+          }
         }
         // Compute BDRY Spot: 50% Cape + 40% Panamax + 10% Supramax
         if (row.cape != null && row.panama != null && row.suprama != null) {
