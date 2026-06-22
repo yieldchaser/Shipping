@@ -9548,7 +9548,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!spotRows.length || !tcRows.length) return;
 
       const spotMap = {};
-      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey]; });
 
       const aligned = [];
       tcRows.forEach(r => {
@@ -9560,7 +9560,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const diff = Math.abs(sr.date - r.date);
             if (diff < minDiff && diff <= 4 * 86400000) {
               minDiff = diff;
-              closest = sr.value;
+              closest = sr[spotKey];
             }
           });
           spotVal = closest;
@@ -9773,7 +9773,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!spotRows.length || !ioRows.length) return;
 
       const spotMap = {};
-      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey]; });
 
       const aligned = [];
       ioRows.forEach(r => {
@@ -9785,7 +9785,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const diff = Math.abs(sr.date - r.date);
             if (diff < minDiff && diff <= 4 * 86400000) {
               minDiff = diff;
-              closest = sr.value;
+              closest = sr[spotKey];
             }
           });
           spotVal = closest;
@@ -9965,7 +9965,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (spotRows.length < 90 || !tcRows.length) return;
 
       const spotMap = {};
-      spotRows.forEach(r => { spotMap[r.dateStr] = r.value; });
+      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey]; });
 
       const points = [];
       tcRows.forEach(r => {
@@ -9977,7 +9977,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const diff = Math.abs(sr.date - r.date);
             if (diff < minDiff && diff <= 4 * 86400000) {
               minDiff = diff;
-              closest = sr.value;
+              closest = sr[spotKey];
             }
           });
           spotVal = closest;
@@ -9990,7 +9990,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const diff = Math.abs(sr.date - pastDate);
           if (diff < minDiffPast && diff <= 7 * 86400000) {
             minDiffPast = diff;
-            pastVal = sr.value;
+            pastVal = sr[spotKey];
           }
         });
 
