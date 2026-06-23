@@ -217,7 +217,7 @@ CHARTER_SEGMENT_ALIASES = {
         "handysize": ["handysize", "handy", "hsize"],
     },
     "tanker_charter": {
-        "vlcc": ["vlcc", "vicc", "v1cc", "vlce"],  # OCR variants of VLCC
+        "vlcc": ["vlcc", "vicc", "v1cc", "vlce", "vice"],  # OCR variants of VLCC
         "suezmax": ["suezmax", "suez"],
         "aframax": ["aframax", "afra"],
         "lr2": ["lr2", "lr 2"],

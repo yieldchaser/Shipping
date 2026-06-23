@@ -3425,22 +3425,11 @@
     <!-- ===== TAB: SIGNALS ===== -->
     <div class="tab-panel" id="tab-signals">
 
-      <!-- Signals View Mode Toggle -->
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding:10px; background:var(--card); border:1px solid var(--border); border-radius:6px;">
-        <div style="font-size:13px; font-weight:600; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
-          <span>👁️</span> Signals View Mode:
-        </div>
-        <div class="flex-row" style="gap:8px;">
-          <button class="toggle-btn active" id="signalsViewSingle" onclick="setSignalsViewMode('single')">Single Sector (Global Filter)</button>
-          <button class="toggle-btn" id="signalsViewAll" onclick="setSignalsViewMode('all')">View All Sectors (Overlaid)</button>
-        </div>
-      </div>
-
       <!-- SECTION 1: DERIVATIVES & TECHNICALS (COLLAPSIBLE) -->
       <div class="signals-section" id="signals-sec-tech">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-tech')">
           <div class="section-title-wrap">
-            <span>📈 Derivatives & Technicals</span>
+            <span data-tooltip="Derivatives & Technicals - Tracks spec positioning (FFA), volatility regimes (Bollinger Bands), and calendar spreads. Useful for analyzing speculative flows, hedging dynamics, and short-term momentum reversals.">📈 Derivatives & Technicals</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
@@ -3758,11 +3747,22 @@
       <div class="signals-section" id="signals-sec-physical">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-physical')">
           <div class="section-title-wrap">
-            <span>🚢 Physical Freight & Cargo</span>
+            <span data-tooltip="Physical Freight & Cargo - Monitors supply/demand fundamentals, including Spot vs. 1-Year Time Charter rates, geographic arbitrage (Atlantic vs. Pacific), and commodity restocking dynamics (Port Stocks vs. Rates).">🚢 Physical Freight & Cargo</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
         <div class="signals-section-body">
+
+          <!-- Signals View Mode Toggle -->
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding:10px; background:var(--card); border:1px solid var(--border); border-radius:6px;">
+            <div style="font-size:13px; font-weight:600; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
+              <span>👁️</span> Signals View Mode:
+            </div>
+            <div class="flex-row" style="gap:8px;">
+              <button class="toggle-btn active" id="signalsViewSingle" onclick="setSignalsViewMode('single')">Single Sector (Global Filter)</button>
+              <button class="toggle-btn" id="signalsViewAll" onclick="setSignalsViewMode('all')">View All Sectors (Overlaid)</button>
+            </div>
+          </div>
           <!-- Time Charter spot vs term curve -->
           <div class="chart-container mb-20">
             <div class="chart-header">
@@ -3794,7 +3794,7 @@
       <div class="signals-section" id="signals-sec-capital">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-capital')">
           <div class="section-title-wrap">
-            <span>⚓ Vessel Capital Cycle</span>
+            <span data-tooltip="Vessel Capital Cycle - Traces the long-term shipping cycle by mapping asset valuations (scrap prices, resale value floors) and quadrant phase modeling (Recovery, Boom, Over-ordering, Restructuring) to time capital deployment.">⚓ Vessel Capital Cycle</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
@@ -9649,6 +9649,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             ratioBadge.textContent = 'View All Mode';
             ratioBadge.style.background = 'var(--border)';
             ratioBadge.style.color = 'var(--text-muted)';
+            ratioBadge.removeAttribute('data-tt-type');
+            ratioBadge.setAttribute('data-tooltip', 'Spot-to-Term ratios are only calculated when a single sector is selected (Global Filter mode).');
           }
 
           chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
@@ -9808,6 +9810,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const ratioBadge = document.getElementById('spotTcRatioBadge');
       if (isMainCall && ratioBadge && latest.ratio != null) {
         ratioBadge.textContent = `Spot/1Y TC: ${latest.ratio.toFixed(2)}x`;
+        ratioBadge.removeAttribute('data-tooltip');
+        ratioBadge.setAttribute('data-tt-type', 'ratio-badge');
+        ratioBadge.setAttribute('data-tt-spot', latest.spot || 0);
+        ratioBadge.setAttribute('data-tt-tc', latest.tc1y || 0);
+        ratioBadge.setAttribute('data-tt-ratio', latest.ratio);
+        ratioBadge.setAttribute('data-tt-product', productKey);
         if (latest.ratio > 1.3) {
           ratioBadge.style.background = '#f85149';
           ratioBadge.style.color = '#fff';
@@ -10450,6 +10458,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               }
             }
           });
+          const scrapBadge = document.getElementById('scrapFloorBadge');
+          if (scrapBadge) {
+            scrapBadge.textContent = 'View All Mode';
+            scrapBadge.style.background = 'var(--border)';
+            scrapBadge.style.color = 'var(--text-muted)';
+            scrapBadge.removeAttribute('data-tt-type');
+            scrapBadge.setAttribute('data-tooltip', 'Est Scrap Floor is calculated dynamically for each sector under Single Sector mode.');
+          }
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10508,6 +10524,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         scrapBadge.textContent = `${labelPrefix} Scrap Floor: $${floorM.toFixed(2)}M`;
         scrapBadge.style.background = 'var(--accent)';
         scrapBadge.style.color = '#fff';
+        scrapBadge.removeAttribute('data-tooltip');
+        scrapBadge.setAttribute('data-tt-type', 'scrap-badge');
+        scrapBadge.setAttribute('data-tt-ldt', ldt);
+        scrapBadge.setAttribute('data-tt-scrap', scrapVal);
+        scrapBadge.setAttribute('data-tt-floor', floorM);
+        scrapBadge.setAttribute('data-tt-prefix', labelPrefix);
       }
 
       destroyChart(actualCanvasId);
@@ -10817,6 +10839,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
         phaseTextEl.textContent = `${phase} (Spot Momentum: ${current.x.toFixed(1)}%, Spot/TC Z-Score: ${current.z.toFixed(2)}σ)`;
         phaseTextEl.style.color = color;
+        phaseTextEl.removeAttribute('data-tooltip');
+        phaseTextEl.setAttribute('data-tt-type', 'quadrant-phase');
+        phaseTextEl.setAttribute('data-tt-x', current.x);
+        phaseTextEl.setAttribute('data-tt-z', current.z);
+        phaseTextEl.setAttribute('data-tt-phase', phase);
+        phaseTextEl.setAttribute('data-tt-product', productKey);
         const descEl = document.getElementById('quadrantLegendCard');
         if (descEl) {
           descEl.querySelector('div:last-child') || (descEl.innerHTML += '<div style="margin-top:10px;line-height:1.4;"></div>');
@@ -15213,6 +15241,81 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-row"><span class="rt-label">Dimension</span><span class="rt-val">${fieldLabel}</span></div>`;
           if (date) html += `<div class="rt-row"><span class="rt-label">Report Date</span><span class="rt-val">${date}</span></div>`;
           html += `<div class="rt-note">${sentDesc[sentVal] || 'See full Breakwave report for details.'}</div>`;
+        }
+        else if (type === 'ratio-badge') {
+          const spotVal = parseFloat(target.getAttribute('data-tt-spot'));
+          const tcVal = parseFloat(target.getAttribute('data-tt-tc'));
+          const ratioVal = parseFloat(target.getAttribute('data-tt-ratio'));
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          const spotValStr = !isNaN(spotVal) ? '$' + Math.round(spotVal).toLocaleString() + '/day' : 'N/A';
+          const tcValStr = !isNaN(tcVal) ? '$' + Math.round(tcVal).toLocaleString() + '/day' : 'N/A';
+          const ratioValStr = !isNaN(ratioVal) ? ratioVal.toFixed(2) + 'x' : 'N/A';
+
+          let interpretation = 'Neutral (Fair Value)';
+          let statusCls = '';
+          if (!isNaN(ratioVal)) {
+            if (ratioVal > 1.3) {
+              interpretation = 'Overextended (Spot yields significantly exceed term rates, suggesting near-term peak or supply squeeze)';
+              statusCls = 'neg';
+            } else if (ratioVal < 0.8) {
+              interpretation = 'Undervalued (Spot is below term rates, representing strong cyclical floor and buying opportunity)';
+              statusCls = 'pos';
+            }
+          }
+
+          html = `<div class="rt-title">${pName} Spot-to-Term Ratio</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Current Spot Rate</span><span class="rt-val">${spotValStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">1-Year Time Charter</span><span class="rt-val">${tcValStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ratio (Spot / 1Y TC)</span><span class="rt-val ${statusCls}">${ratioValStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val ${statusCls}">${interpretation}</span></div>`;
+          html += `<div class="rt-note">Formula: <strong>Spot Rate / 1Y Time Charter Rate</strong>. A high ratio (>1.3x) indicates tight short-term capacity; a low ratio (<0.8x) indicates long-term support.</div>`;
+        }
+        else if (type === 'scrap-badge') {
+          const ldt = parseFloat(target.getAttribute('data-tt-ldt'));
+          const scrap = parseFloat(target.getAttribute('data-tt-scrap'));
+          const floor = parseFloat(target.getAttribute('data-tt-floor'));
+          const prefix = target.getAttribute('data-tt-prefix') || '';
+
+          const ldtStr = !isNaN(ldt) ? ldt.toLocaleString() : 'N/A';
+          const scrapStr = !isNaN(scrap) ? '$' + scrap.toLocaleString() : 'N/A';
+          const floorStr = !isNaN(floor) ? '$' + floor.toFixed(2) + 'M' : 'N/A';
+
+          html = `<div class="rt-title">${prefix} Vessel Scrap Floor</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Typical Displacement (LDT)</span><span class="rt-val">${ldtStr} tons</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Regional Scrap Price</span><span class="rt-val">${scrapStr}/LDT</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Calculated Floor Value</span><span class="rt-val">${floorStr}</span></div>`;
+          html += `<div class="rt-note">Formula: <strong>(LDT * Scrap Price) / 1,000,000</strong>. This represents the steel liquidation value of the vessel, which acts as a hard floor for asset valuations.</div>`;
+        }
+        else if (type === 'quadrant-phase') {
+          const x = parseFloat(target.getAttribute('data-tt-x'));
+          const z = parseFloat(target.getAttribute('data-tt-z'));
+          const phase = target.getAttribute('data-tt-phase') || '';
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          let desc = '';
+          let phaseCls = '';
+          if (phase === 'BOOM') {
+            desc = 'High Spot Momentum & High Spot/TC Ratio. The market is in peak supply constraint. Asset values are high, and spot rates are rising faster than term rates.';
+            phaseCls = 'neg';
+          } else if (phase === 'OVER-ORDERING') {
+            desc = 'Negative Spot Momentum & High Spot/TC Ratio. Rates are starting to cool off from peaks, but term commitments remain high. Vessel supply is catching up, signaling correction risk.';
+            phaseCls = 'neg';
+          } else if (phase === 'RECOVERY') {
+            desc = 'Positive Spot Momentum & Low Spot/TC Ratio. Rates are rising from a trough, but term commitments are still cheap. Ideal entry window as market sentiment turns constructive.';
+            phaseCls = 'pos';
+          } else if (phase === 'RESTRUCTURING') {
+            desc = 'Negative Spot Momentum & Low Spot/TC Ratio. Rates are depressed and term commitments are cheap. High-conviction buying/chartering floor for long-term investors.';
+            phaseCls = 'pos';
+          }
+
+          html = `<div class="rt-title">${pName} - Cycle Phase: ${phase}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Spot Momentum (60D Change)</span><span class="rt-val ${x >= 0 ? 'pos' : 'neg'}">${x >= 0 ? '+' : ''}${x.toFixed(1)}%</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Spot/TC Z-Score</span><span class="rt-val ${z >= 0 ? 'pos' : 'neg'}">${z >= 0 ? '+' : ''}${z.toFixed(2)}σ</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Interpretation</span><span class="rt-val">${desc}</span></div>`;
+          html += `<div class="rt-note">Calculated weekly. X-axis shows the 60-day momentum of the Spot rate. Y-axis shows the normalized Z-score of the Spot-to-1Y-TC ratio.</div>`;
         }
 
         return html;
