@@ -2397,7 +2397,7 @@
     border-radius: 7px;
     font-size: 12px;
     line-height: 1.55;
-    max-width: 260px;
+    max-width: 340px;
     border: 1px solid rgba(0, 212, 255, 0.22);
     box-shadow: 0 8px 28px rgba(0,0,0,0.6);
     pointer-events: none;
@@ -9539,8 +9539,52 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function toggleSignalsSection(sectionId) {
       const sec = document.getElementById(sectionId);
       if (sec) {
-        sec.classList.toggle('collapsed');
+        const isCollapsed = sec.classList.toggle('collapsed');
+        if (!isCollapsed && DATA.loaded) {
+          renderSectionCharts(sectionId, window.currentProduct || 'bdiy');
+        }
       }
+    }
+
+    function renderSectionCharts(sectionId, productKey) {
+      const sec = document.getElementById(sectionId);
+      if (!sec || sec.classList.contains('collapsed')) return;
+
+      let fns = [];
+      if (sectionId === 'signals-sec-tech') {
+        fns = [
+          function () { renderHVChart(productKey); },
+          function () { renderBollingerBands(productKey); },
+          function () { renderCapeSpread(); },
+          function () { renderROCHeatmap(); },
+          function () { renderSeasonalChart(productKey); },
+          function () { renderTermStructure(); },
+          function () { renderPDZscoreChart(); },
+          function () { renderFlowSigChart(); },
+          function () { renderFFAForwardCurve(); },
+          function () { renderBasisChart(); },
+          function () { renderBDIContributionChart(); },
+          function () { renderLeadLagChart(); },
+        ];
+      } else if (sectionId === 'signals-sec-physical') {
+        fns = [
+          function () { renderTimeCharterChart(productKey); },
+          function () { renderBasinSpreadChart(productKey); },
+          function () { renderIronOreRestockingChart(productKey); },
+        ];
+      } else if (sectionId === 'signals-sec-capital') {
+        fns = [
+          function () { renderVesselValuationsChart(productKey); },
+          function () { renderMarketCycleQuadrantChart(productKey); },
+        ];
+      }
+
+      fns.forEach(function (fn, i) {
+        setTimeout(function () {
+          if (sec.classList.contains('collapsed')) return;
+          try { fn(); } catch (e) { console.error('[SignalsTab]', e); }
+        }, i * 16);
+      });
     }
 
     function renderTimeCharterChart(productKey, canvasId) {
@@ -11033,29 +11077,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // HV range - 3Y default is handled inside initHVRange on first load
       if (document.getElementById('hvRangeStart')) initHVRange(productKey);
 
-      var fns = [
-        function () { renderHVChart(productKey); },
-        function () { renderBollingerBands(productKey); },
-        function () { renderCapeSpread(); },
-        function () { renderROCHeatmap(); },
-        function () { renderSeasonalChart(productKey); },
-        function () { renderTermStructure(); },
-        function () { renderPDZscoreChart(); },
-        function () { renderFlowSigChart(); },
-        function () { renderFFAForwardCurve(); },
-        function () { renderBasisChart(); },
-        function () { renderBDIContributionChart(); },
-        function () { renderLeadLagChart(); },
-        // New Physical & Capital Signals
-        function () { renderTimeCharterChart(productKey); },
-        function () { renderBasinSpreadChart(productKey); },
-        function () { renderIronOreRestockingChart(productKey); },
-        function () { renderVesselValuationsChart(productKey); },
-        function () { renderMarketCycleQuadrantChart(productKey); },
-      ];
-      fns.forEach(function (fn, i) {
-        setTimeout(function () { try { fn(); } catch (e) { console.error('[SignalsTab]', e); } }, i * 16);
-      });
+      renderSectionCharts('signals-sec-tech', productKey);
+      renderSectionCharts('signals-sec-physical', productKey);
+      renderSectionCharts('signals-sec-capital', productKey);
     }
 
     // -------------------------------------------------------
@@ -15575,6 +15599,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (!staticText && !richContent) return;
         if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
 
+        // Reset positioning constraints temporarily to get true natural size
+        tt.style.left = '0px';
+        tt.style.top = '0px';
+
         if (richContent) {
           tt.innerHTML = richContent;
         } else {
@@ -15585,13 +15613,31 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         const rect = target.getBoundingClientRect();
         const GAP = 12;
-        let left = rect.left + rect.width / 2 - tt.offsetWidth / 2;
-        let top  = rect.top - tt.offsetHeight - GAP;
+        
+        // Measure unconstrained layout dimensions
+        const ttWidth = tt.offsetWidth;
+        const ttHeight = tt.offsetHeight;
 
-        if (top < 8) top = rect.bottom + GAP;             // flip below
-        if (left < 8) left = 8;                            // left clamp
-        if (left + tt.offsetWidth > window.innerWidth - 8) // right clamp
-          left = window.innerWidth - tt.offsetWidth - 8;
+        let left = rect.left + rect.width / 2 - ttWidth / 2;
+        let top  = rect.top - ttHeight - GAP;
+
+        // If it goes off the top of the viewport, flip it below
+        if (top < 8) {
+          top = rect.bottom + GAP;
+        }
+        
+        // If it still goes off the bottom of the viewport, clamp it
+        if (top + ttHeight > window.innerHeight - 8) {
+          top = window.innerHeight - ttHeight - 8;
+        }
+        
+        // Horizontal clamping
+        if (left < 8) {
+          left = 8;
+        }
+        if (left + ttWidth > window.innerWidth - 8) {
+          left = window.innerWidth - ttWidth - 8;
+        }
 
         tt.style.top  = top  + 'px';
         tt.style.left = left + 'px';
