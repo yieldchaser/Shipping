@@ -3766,7 +3766,7 @@
           <!-- Time Charter spot vs term curve -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="tcChartTitle" data-tooltip="Yield Curve of Shipping - compares daily Spot Index against weekly 1-Year & 2-Year Time Charter rates. High Spot-to-TC ratio indicates tight short-term supply; low ratio suggests cyclical support floor.">Time Charter Curve (Spot vs Term Rates)</div>
+              <div class="chart-title" id="tcChartTitle" data-tooltip=" " data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
               <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
@@ -3775,7 +3775,7 @@
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Basin Arbitrage - Atlantic vs Pacific 1-Year Time Charter rates. High spread/ratio attracts ballasters to the Atlantic, tightening Pacific tonnage.">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
@@ -3783,7 +3783,7 @@
           <!-- Leading Restocking Pressures -->
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
-              <div class="chart-title" id="restockingTitle" data-tooltip="Restocking Pressures - correlates spot rates (Left Axis) with port inventories (Right Axis). Depleting port stocks during a spot breakout represents a high-conviction demand signal.">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+              <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
           </div>
@@ -3802,7 +3802,7 @@
           <!-- Vessel valuations and scrap floor -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="valuationTitle" data-tooltip="Steel Scrap Value Floor - tracks weekly regional demolition scrap prices ($/LDT). Live gauge displays estimated scrap value floor based on typical ship displacement tonnage.">Vessel Scrap Floor & Demolition Prices</div>
+              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Scrap Floor & Demolition Prices</div>
               <div id="scrapFloorBadge" class="kpi-badge">Floor: --</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="vesselValuationsChart"></canvas></div>
@@ -3811,7 +3811,7 @@
           <!-- Shipping Market Cycle Quadrant -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" data-tooltip="Market Cycle Quadrant - maps Spot Momentum (60D Change) against Asset Play Sentiment (Spot/TC Ratio Z-score). Traces the trajectory of the market through 4 distinct cyclical phases: Recovery, Boom, Over-ordering, Restructuring.">Shipping Market Cycle Quadrant</div>
+              <div class="chart-title" id="quadrantChartTitle" data-tooltip=" " data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
             </div>
             <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;">
               <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
@@ -9653,6 +9653,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             ratioBadge.setAttribute('data-tooltip', 'Spot-to-Term ratios are only calculated when a single sector is selected (Global Filter mode).');
           }
 
+          const tcTitle = document.getElementById('tcChartTitle');
+          if (tcTitle) {
+            tcTitle.setAttribute('data-tooltip', ' ');
+            tcTitle.setAttribute('data-tt-type', 'concept-timecharter');
+            tcTitle.removeAttribute('data-tt-spot');
+            tcTitle.removeAttribute('data-tt-tc1y');
+            tcTitle.removeAttribute('data-tt-tc2y');
+            tcTitle.removeAttribute('data-tt-ratio');
+            tcTitle.removeAttribute('data-tt-product');
+          }
+
           chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
             type: 'line',
             data: { labels: labels, datasets: datasets },
@@ -9828,6 +9839,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
       }
 
+      const tcTitle = document.getElementById('tcChartTitle');
+      if (isMainCall && tcTitle && latest) {
+        tcTitle.setAttribute('data-tooltip', ' ');
+        tcTitle.setAttribute('data-tt-type', 'concept-timecharter');
+        tcTitle.setAttribute('data-tt-spot', latest.spot || 0);
+        tcTitle.setAttribute('data-tt-tc1y', latest.tc1y || 0);
+        tcTitle.setAttribute('data-tt-tc2y', latest.tc2y || 0);
+        tcTitle.setAttribute('data-tt-ratio', latest.ratio || 0);
+        tcTitle.setAttribute('data-tt-product', productKey);
+      }
+
       destroyChart(actualCanvasId);
 
       const labels = rows.map(r => fmtDate(r.date));
@@ -9988,6 +10010,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               }
             }
           });
+          const spreadTitle = document.getElementById('basinSpreadTitle');
+          if (spreadTitle) {
+            spreadTitle.setAttribute('data-tooltip', ' ');
+            spreadTitle.setAttribute('data-tt-type', 'concept-basinspread');
+            spreadTitle.removeAttribute('data-tt-v1');
+            spreadTitle.removeAttribute('data-tt-v2');
+            spreadTitle.removeAttribute('data-tt-ratio');
+            spreadTitle.removeAttribute('data-tt-label1');
+            spreadTitle.removeAttribute('data-tt-label2');
+            spreadTitle.removeAttribute('data-tt-product');
+          }
+
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10081,6 +10115,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const cutoff = new Date('2021-07-01');
       const rows = filtered.filter(r => r.date >= cutoff);
       if (!rows.length) return;
+
+      const latest = rows[rows.length - 1];
+      const spreadTitle = document.getElementById('basinSpreadTitle');
+      if (isMainCall && spreadTitle && latest) {
+        spreadTitle.setAttribute('data-tooltip', ' ');
+        spreadTitle.setAttribute('data-tt-type', 'concept-basinspread');
+        spreadTitle.setAttribute('data-tt-v1', latest.v1 || 0);
+        spreadTitle.setAttribute('data-tt-v2', latest.v2 || 0);
+        spreadTitle.setAttribute('data-tt-ratio', latest.ratio || 0);
+        spreadTitle.setAttribute('data-tt-label1', label1);
+        spreadTitle.setAttribute('data-tt-label2', label2);
+        spreadTitle.setAttribute('data-tt-product', productKey);
+      }
 
       destroyChart(actualCanvasId);
 
@@ -10260,6 +10307,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               }
             }
           });
+          const restockingTitle = document.getElementById('restockingTitle');
+          if (restockingTitle) {
+            restockingTitle.setAttribute('data-tooltip', ' ');
+            restockingTitle.setAttribute('data-tt-type', 'concept-restocking');
+            restockingTitle.removeAttribute('data-tt-spot');
+            restockingTitle.removeAttribute('data-tt-cfr');
+            restockingTitle.removeAttribute('data-tt-stock');
+            restockingTitle.removeAttribute('data-tt-product');
+          }
+
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10329,6 +10386,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const cutoff = new Date('2018-07-01');
       const rows = aligned.filter(r => r.date >= cutoff);
       if (!rows.length) return;
+
+      const latest = rows[rows.length - 1];
+      const restockingTitle = document.getElementById('restockingTitle');
+      if (isMainCall && restockingTitle && latest) {
+        restockingTitle.setAttribute('data-tooltip', ' ');
+        restockingTitle.setAttribute('data-tt-type', 'concept-restocking');
+        restockingTitle.setAttribute('data-tt-spot', latest.spot || 0);
+        restockingTitle.setAttribute('data-tt-cfr', latest.cfr62 || 0);
+        restockingTitle.setAttribute('data-tt-stock', latest.portStock || 0);
+        restockingTitle.setAttribute('data-tt-product', productKey);
+      }
 
       destroyChart(actualCanvasId);
 
@@ -10466,6 +10534,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             scrapBadge.removeAttribute('data-tt-type');
             scrapBadge.setAttribute('data-tooltip', 'Est Scrap Floor is calculated dynamically for each sector under Single Sector mode.');
           }
+          const valuationTitle = document.getElementById('valuationTitle');
+          if (valuationTitle) {
+            valuationTitle.setAttribute('data-tooltip', ' ');
+            valuationTitle.setAttribute('data-tt-type', 'concept-scrapfloor');
+            valuationTitle.removeAttribute('data-tt-ldt');
+            valuationTitle.removeAttribute('data-tt-scrap');
+            valuationTitle.removeAttribute('data-tt-floor');
+            valuationTitle.removeAttribute('data-tt-prefix');
+            valuationTitle.removeAttribute('data-tt-product');
+          }
+
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10530,6 +10609,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         scrapBadge.setAttribute('data-tt-scrap', scrapVal);
         scrapBadge.setAttribute('data-tt-floor', floorM);
         scrapBadge.setAttribute('data-tt-prefix', labelPrefix);
+      }
+
+      const valuationTitle = document.getElementById('valuationTitle');
+      if (isMainCall && valuationTitle && latest) {
+        valuationTitle.setAttribute('data-tooltip', ' ');
+        valuationTitle.setAttribute('data-tt-type', 'concept-scrapfloor');
+        valuationTitle.setAttribute('data-tt-ldt', ldt);
+        valuationTitle.setAttribute('data-tt-scrap', scrapVal);
+        valuationTitle.setAttribute('data-tt-floor', floorM);
+        valuationTitle.setAttribute('data-tt-prefix', labelPrefix);
+        valuationTitle.setAttribute('data-tt-product', productKey);
       }
 
       destroyChart(actualCanvasId);
@@ -10726,6 +10816,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               }
             }
           });
+          const quadTitle = document.getElementById('quadrantChartTitle');
+          if (quadTitle) {
+            quadTitle.setAttribute('data-tooltip', ' ');
+            quadTitle.setAttribute('data-tt-type', 'concept-quadrant');
+            quadTitle.removeAttribute('data-tt-x');
+            quadTitle.removeAttribute('data-tt-z');
+            quadTitle.removeAttribute('data-tt-phase');
+            quadTitle.removeAttribute('data-tt-product');
+          }
+
           return;
         } else {
           const phaseTextEl = document.getElementById('quadrantPhaseText');
@@ -10855,6 +10955,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             divs[2].style.paddingTop = '8px';
             divs[2].style.marginTop = '8px';
           }
+        }
+
+        const quadTitle = document.getElementById('quadrantChartTitle');
+        if (isMainCall && quadTitle) {
+          quadTitle.setAttribute('data-tooltip', ' ');
+          quadTitle.setAttribute('data-tt-type', 'concept-quadrant');
+          quadTitle.setAttribute('data-tt-x', current.x);
+          quadTitle.setAttribute('data-tt-z', current.z);
+          quadTitle.setAttribute('data-tt-phase', phase);
+          quadTitle.setAttribute('data-tt-product', productKey);
         }
       }
 
@@ -15317,6 +15427,134 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-row"><span class="rt-label">Interpretation</span><span class="rt-val">${desc}</span></div>`;
           html += `<div class="rt-note">Calculated weekly. X-axis shows the 60-day momentum of the Spot rate. Y-axis shows the normalized Z-score of the Spot-to-1Y-TC ratio.</div>`;
         }
+        else if (type === 'concept-timecharter') {
+          const spotVal = parseFloat(target.getAttribute('data-tt-spot'));
+          const tc1yVal = parseFloat(target.getAttribute('data-tt-tc1y'));
+          const tc2yVal = parseFloat(target.getAttribute('data-tt-tc2y'));
+          const ratioVal = parseFloat(target.getAttribute('data-tt-ratio'));
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          html = `<div class="rt-title">Time Charter Curve</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Spot vs Term Leases</strong>: Spot is the volatile, immediate rate for a single voyage. Time Charter (TC) is a fixed daily lease rate for 1 or 2 years, representing institutional expectations.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: A high Spot/TC ratio (>1.3x) indicates extreme near-term vessel shortage. A low ratio (<0.8x) shows spot rates below term lease costs, indicating a strong cyclical support floor.</div>`;
+          
+          if (!isNaN(spotVal) && spotVal > 0) {
+            const spotValStr = '$' + Math.round(spotVal).toLocaleString() + '/day';
+            const tc1yValStr = !isNaN(tc1yVal) && tc1yVal > 0 ? '$' + Math.round(tc1yVal).toLocaleString() + '/day' : 'N/A';
+            const tc2yValStr = !isNaN(tc2yVal) && tc2yVal > 0 ? '$' + Math.round(tc2yVal).toLocaleString() + '/day' : 'N/A';
+            const ratioValStr = !isNaN(ratioVal) && ratioVal > 0 ? ratioVal.toFixed(2) + 'x' : 'N/A';
+            let statusCls = '';
+            if (ratioVal > 1.3) statusCls = 'neg';
+            else if (ratioVal < 0.8) statusCls = 'pos';
+            
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">${pName} Spot Rate</span><span class="rt-val">${spotValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">1-Year Term Rate</span><span class="rt-val">${tc1yValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">2-Year Term Rate</span><span class="rt-val">${tc2yValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Ratio (Spot / 1Y TC)</span><span class="rt-val ${statusCls}">${ratioValStr}</span></div>`;
+          } else {
+            html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display live rates.</div>`;
+          }
+        }
+        else if (type === 'concept-basinspread') {
+          const v1Val = parseFloat(target.getAttribute('data-tt-v1'));
+          const v2Val = parseFloat(target.getAttribute('data-tt-v2'));
+          const ratioVal = parseFloat(target.getAttribute('data-tt-ratio'));
+          const label1 = target.getAttribute('data-tt-label1') || 'Atlantic';
+          const label2 = target.getAttribute('data-tt-label2') || 'Pacific';
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          html = `<div class="rt-title">Tonnage Basin Arbitrage</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Geographical Spread</strong>: Compares chartering rates in the Atlantic and Pacific basins. Ships sail empty (ballast) towards the higher-rate basin to capture arbitrage.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: Wide spreads prompt fleet repositioning. The migration of empty vessels out of the lower-rate basin subsequently restricts supply there, causing rates to rise later.</div>`;
+          
+          if (!isNaN(v1Val) && v1Val > 0) {
+            const v1ValStr = '$' + Math.round(v1Val).toLocaleString() + '/day';
+            const v2ValStr = '$' + Math.round(v2Val).toLocaleString() + '/day';
+            const ratioValStr = !isNaN(ratioVal) ? ratioVal.toFixed(2) + 'x' : 'N/A';
+            let statusCls = '';
+            if (ratioVal > 1.3 || ratioVal < 0.7) statusCls = 'pos';
+            
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">${label1}</span><span class="rt-val">${v1ValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">${label2}</span><span class="rt-val">${v2ValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Atlantic/Pacific Ratio</span><span class="rt-val ${statusCls}">${ratioValStr}</span></div>`;
+          } else {
+            html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display live spreads.</div>`;
+          }
+        }
+        else if (type === 'concept-restocking') {
+          const spotVal = parseFloat(target.getAttribute('data-tt-spot'));
+          const cfrVal = parseFloat(target.getAttribute('data-tt-cfr'));
+          const stockVal = parseFloat(target.getAttribute('data-tt-stock'));
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          html = `<div class="rt-title">Leading Restocking Pressures</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Port Inventory Dynamics</strong>: Correlates raw material inventories (e.g., iron ore at major Chinese ports) with shipping spot rates.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: When port inventories drop to low levels while raw material prices remain firm, buyers (like steel mills) must start a restocking cycle, driving a surge in dry bulk shipping demand.</div>`;
+          
+          if (!isNaN(spotVal) && spotVal > 0) {
+            const spotValStr = '$' + Math.round(spotVal).toLocaleString() + '/day';
+            const cfrValStr = !isNaN(cfrVal) ? '$' + cfrVal.toFixed(1) + '/dmt' : 'N/A';
+            const stockValStr = !isNaN(stockVal) ? Math.round(stockVal).toLocaleString() + 'k tons' : 'N/A';
+            
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">${pName} Spot Rate</span><span class="rt-val">${spotValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">CFR 62% Iron Ore Price</span><span class="rt-val" style="color:#ff6b6b;">${cfrValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Qingdao Port Inventory</span><span class="rt-val" style="color:#3fb950;">${stockValStr}</span></div>`;
+          } else {
+            html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a dry bulk sector to display restocking data.</div>`;
+          }
+        }
+        else if (type === 'concept-scrapfloor') {
+          const ldtVal = parseFloat(target.getAttribute('data-tt-ldt'));
+          const scrapVal = parseFloat(target.getAttribute('data-tt-scrap'));
+          const floorVal = parseFloat(target.getAttribute('data-tt-floor'));
+          const prefix = target.getAttribute('data-tt-prefix') || 'Vessel';
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          html = `<div class="rt-title">${prefix} Scrap Floor</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Steel Liquidation Value</strong>: A vessel's weight in steel is measured in Light Displacement Tonnage (LDT). Multiplying LDT by regional scrap steel price determines its demolition value.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: Scrap value represents the absolute floor for vessel asset values. If rates collapse, older ships are sold for scrap, contracting fleet supply and lifting rates.</div>`;
+          
+          if (!isNaN(floorVal) && floorVal > 0) {
+            const ldtValStr = ldtVal.toLocaleString() + ' tons';
+            const scrapValStr = '$' + Math.round(scrapVal).toLocaleString() + '/LDT';
+            const floorValStr = '$' + floorVal.toFixed(2) + 'M';
+            
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Weight (LDT)</span><span class="rt-val">${ldtValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Scrap Price (India/LDT)</span><span class="rt-val">${scrapValStr}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Scrap Floor Value</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${floorValStr}</span></div>`;
+          } else {
+            html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display scrap valuations.</div>`;
+          }
+        }
+        else if (type === 'concept-quadrant') {
+          const xVal = parseFloat(target.getAttribute('data-tt-x'));
+          const zVal = parseFloat(target.getAttribute('data-tt-z'));
+          const phase = target.getAttribute('data-tt-phase') || '';
+          const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+          const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
+
+          html = `<div class="rt-title">Cycle Quadrant Framework</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>How it works</strong>: Maps Spot Momentum (60D change, X-axis) against Normalized Spot/1Y TC Ratio (Z-score, Y-axis) to capture shipping cycle dynamics.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Interpretation</strong>: <b>Recovery</b> (momentum turns positive, chartering is cheap), <b>Boom</b> (momentum is high, spot spikes), <b>Over-ordering</b> (momentum slows, yards full), <b>Restructuring</b> (rates bottom, high scrapping).</div>`;
+          
+          if (phase) {
+            let phaseCls = '';
+            if (phase === 'BOOM') phaseCls = 'neg';
+            else if (phase === 'OVER-ORDERING') phaseCls = 'neg';
+            else if (phase === 'RECOVERY') phaseCls = 'pos';
+            else if (phase === 'RESTRUCTURING') phaseCls = 'pos';
+            
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Current Cycle Phase</span><span class="rt-val ${phaseCls}" style="font-weight:700;">${phase}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">60D Spot Momentum</span><span class="rt-val ${xVal >= 0 ? 'pos' : 'neg'}">${xVal >= 0 ? '+' : ''}${xVal.toFixed(1)}%</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Spot/TC Ratio Z-Score</span><span class="rt-val ${zVal >= 0 ? 'pos' : 'neg'}">${zVal >= 0 ? '+' : ''}${zVal.toFixed(2)}σ</span></div>`;
+          } else {
+            html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display cycle analysis.</div>`;
+          }
+        }
 
         return html;
       }
@@ -15324,6 +15562,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       document.addEventListener('mouseover', function(e) {
         const target = e.target.closest('[data-tooltip], [data-tt-type]');
         if (!target) return;
+
+        // If we are already hovering within this target, don't recalculate and re-render (prevents flicker)
+        if (e.relatedTarget && target.contains(e.relatedTarget)) {
+          if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+          return;
+        }
 
         const staticText = target.getAttribute('data-tooltip');
         const richContent = getCalculatedTooltip(target);
@@ -15354,8 +15598,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
 
       document.addEventListener('mouseout', function(e) {
-        if (e.target.closest('[data-tooltip], [data-tt-type]'))
-          hideTimer = setTimeout(() => tt.classList.remove('visible'), 80);
+        const target = e.target.closest('[data-tooltip], [data-tt-type]');
+        if (!target) return;
+
+        // If the mouse is moving to an element that is still inside the target container, do nothing!
+        if (e.relatedTarget && target.contains(e.relatedTarget)) {
+          return;
+        }
+
+        hideTimer = setTimeout(() => tt.classList.remove('visible'), 80);
       });
     })();
 
