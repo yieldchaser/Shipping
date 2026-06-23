@@ -221,7 +221,7 @@ CHARTER_SEGMENT_ALIASES = {
         "suezmax": ["suezmax", "suez"],
         "aframax": ["aframax", "afra"],
         "lr2": ["lr2", "lr 2"],
-        "lr1": ["lr1", "lr 1"],
+        "lr1": ["lr1", "lr 1", "lri", "trl", "uri", "tr1"],  # OCR variants of LR1
         "mr": ["mr", "m.r.", "mr imo", "mri", "handy", "handymax"],
     },
 }
