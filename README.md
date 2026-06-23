@@ -391,9 +391,13 @@ Comprehensive analytical suite for technical and fundamental signals:
 
 #### Core Design & View Modes
 * **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points ×10, BDTI ×35, BCTI ×30) to allow direct comparison with 1-Year and 2-Year Time Charter rates. This makes the Spot-to-TC ratio metrics physically meaningful (e.g., yielding ratios like `0.85x` or `1.15x`).
-* **Detailed Tooltips**: Hovering over spot rate curves displays both the converted $/day rate and the raw Baltic Index points (e.g., `Capesize Spot: $10,580/day (1,058 index points)`).
-* **View All Sectors Toggle**: A toggle at the top of the tab switches between **Single Sector** (filtered to the globally active sector) and **View All Sectors** (rendering all 6 sectors overlaid as separate lines on a single wide chart, matching the design of the Yearly dashboard).
-* **Aligned Historical Horizon**: Default date cutoffs are set to **July 1, 2021** to utilize 100% of the available historical rates database and compare cycle trends over a 5-year horizon.
+* **Detailed & Dynamic Concept Tooltips**: Main chart titles (Time Charter, Basin spread, Restocking, Demolition floor, and Cycle Quadrant) use the dynamic HTML tooltip system. When hovered, they display educational explanations ("what they are", "why they matter", "how to read them") injected with live data from the active datasets (e.g. current spot/term rates, basin spreads, port stocks, scrap values, and momentum percentages). They include advanced boundary clamping and auto-resetting layout positions to prevent hover clipping/squeezing.
+* **View All Sectors Toggle**: A toggle inside the body of Section 2 switches between **Single Sector** (filtered to the globally active sector) and **View All Sectors** (rendering all 6 sectors overlaid as separate lines on a single wide chart).
+* **Aligned Historical Horizon**: Default date cutoffs are set to **July 1, 2021** (or 2018 for restocking) to utilize 100% of the available historical rates database and compare cycle trends over a 5-year horizon.
+* **OCR Data Backfills**: Backfilled missing historical data points using enhanced OCR alias mappings in `process_knowledge.py` to fix weekly Hellenic Shipping News table parsing:
+  * **VLCC**: Mapped `"vice"` to backfill 34 weekly data points (2021–2026).
+  * **LR1**: Mapped `"lri"`, `"trl"`, `"uri"`, and `"tr1"` to backfill 28 weekly data points (2021–2025), reducing the LR1 missing rate from 16.7% to 5.6%.
+* **Signals Tab Performance (Lazy-Rendering)**: Implemented lazy-rendering (`renderSectionCharts`) so that charts inside collapsed sections (e.g., the 12 charts in *Derivatives & Technicals*) are skipped during sector filtering or tab switching to eliminate CPU spikes. Toggling a section open immediately renders its charts on the fly.
 
 | Chart | Description |
 |---|---|
