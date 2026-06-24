@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal__root",
+  "doc_id": "breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal",
+  "parent_id": null,
+  "title": "India's coal",
+  "section_path": [
+    "India's coal"
+  ],
+  "section_path_text": "India's coal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nIndia's coal trade is moving in two different directions. Thermal coal imports are lower, while Russian coal arrivals are increasing. For dry bulk, the impact depends on which cargo is being lost and which cargo is replacing it.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "india",
+    "singapore",
+    "coal",
+    "steel",
+    "thermal",
+    "demand",
+    "not",
+    "russian",
+    "but",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 944,
+  "source_path": "reports/breakwave/2026/2026-06-24_indias-coal.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/24/indias-coal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal",
+      "parent_id": "breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nIndia's coal trade is moving in two different directions. Thermal coal imports are lower, while Russian coal arrivals are increasing.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "india",
+        "singapore",
+        "coal",
+        "steel",
+        "thermal",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 942,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

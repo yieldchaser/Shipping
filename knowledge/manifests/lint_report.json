@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T05:53:23Z",
-  "current_date": "2026-06-23",
+  "generated_at": "2026-06-24T15:15:34Z",
+  "current_date": "2026-06-24",
   "warning_count": 10,
   "high_severity_count": 0,
   "status_counts": {
@@ -20,36 +20,29 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "capesize",
-      "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads cautiously_bearish.",
+      "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.",
       "details": {
         "topic_id": "capesize",
         "title": "Capesize",
         "severity": "watch",
-        "score_diff": 0.79,
+        "score_diff": 1.08,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.25,
+            "avg_tone_score": -0.33,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 5,
-            "latest_date": "2026-06-09"
+            "latest_date": "2026-06-24"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
+            "latest_date": "2026-06-23"
           }
         ],
-        "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads cautiously_bearish."
+        "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish."
       }
     },
     {
@@ -68,14 +61,14 @@
             "avg_tone_score": -0.33,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
+            "latest_date": "2026-06-24"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
+            "latest_date": "2026-06-24"
           }
         ],
         "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish."
@@ -84,73 +77,73 @@
     {
       "severity": "watch",
       "kind": "topic_divergence",
-      "key": "dry_bulk_market",
-      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "key": "coal_and_grain_flows",
+      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.",
       "details": {
-        "topic_id": "dry_bulk_market",
-        "title": "Dry Bulk Market",
+        "topic_id": "coal_and_grain_flows",
+        "title": "Coal and Grain Flows",
         "severity": "watch",
         "score_diff": 0.75,
         "source_scores": [
           {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "cautiously_bearish",
-            "doc_count": 6,
-            "latest_date": "2026-06-22"
-          },
-          {
-            "source": "baltic",
+            "source": "breakwave",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
-            "doc_count": 5,
-            "latest_date": "2026-06-19"
+            "doc_count": 6,
+            "latest_date": "2026-06-23"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-06-17"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
+            "latest_date": "2026-06-24"
           }
         ],
-        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral."
       }
     },
     {
       "severity": "watch",
       "kind": "topic_divergence",
-      "key": "tanker_market",
-      "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.",
+      "key": "panamax_and_supramax",
+      "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
       "details": {
-        "topic_id": "tanker_market",
-        "title": "Tanker Market",
+        "topic_id": "panamax_and_supramax",
+        "title": "Panamax and Supramax",
         "severity": "watch",
         "score_diff": 0.75,
         "source_scores": [
           {
-            "source": "baltic",
+            "source": "hellenic",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-06-19"
+            "latest_date": "2026-06-23"
           },
           {
-            "source": "hellenic",
-            "avg_tone_score": 0.17,
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-06-20"
+            "latest_date": "2026-06-23"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-06-22"
+            "latest_date": "2026-06-24"
           }
         ],
-        "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral."
+        "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
       }
     },
     {

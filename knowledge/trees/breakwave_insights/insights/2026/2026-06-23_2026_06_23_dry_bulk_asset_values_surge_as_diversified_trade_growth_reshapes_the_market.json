@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market__root",
+  "doc_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market",
+  "parent_id": null,
+  "title": "Dry Bulk Asset Values Surge as Diversified Trade Growth Reshapes the Market",
+  "section_path": [
+    "Dry Bulk Asset Values Surge as Diversified Trade Growth Reshapes the Market"
+  ],
+  "section_path_text": "Dry Bulk Asset Values Surge as Diversified Trade Growth Reshapes the Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Knightship.jpg | assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk S&P market strengthened during the first half of 2026, supported by healthier freight rates, improved vessel utilisation and rising seaborne commodity demand. Compared to 2025, stronger market fundamentals boosted buyer sentiment and pushed secondhand asset values higher across nearly all dry bulk vessel segments. The strengthening fundamentals become evident when examining trade flows.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "million",
+    "usd",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1068,
+  "source_path": "reports/breakwave/2026/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/23/dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market",
+      "parent_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Knightship.jpg | assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk S&P market strengthened during the first half of 2026, supported by healthier freight rates, improved vessel utilisation and rising seaborne commodity demand. Compared to 2025, stronger market fundamentals boosted buyer sentiment and pushed secondhand asset values higher across nearly all dry bulk vessel segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market__s02_linked_asset_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market_img_knightship_0d420fade627_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market",
+      "parent_id": "breakwave_insights_insights_2026-06-23_2026_06_23_dry_bulk_asset_values_surge_as_diversified_trade_growth_reshapes_the_market__root",
+      "title": "Linked asset: 2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg\n\nLinked image asset: 2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg\n\nImage metadata: JPEG 500x251 mode=RGB\n\nOCR text:\n= = : apes\na) ==\nee a SS -_\ne, qe = -= =-\n‘/ >=\nSS\n. a \"\nee\nee\naf\nPry\n<\na",
+      "keywords": [
+        "asset",
+        "image",
+        "apes",
+        "dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
