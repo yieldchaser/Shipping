@@ -132,7 +132,7 @@ jobs:
         run: |
           git config user.name "knowledge-bot"
           git config user.email "bot@shipping"
-          git add knowledge/
+          git add knowledge/ data/derived/
           if git diff --staged --quiet; then
             echo "No daily knowledge changes to commit."
             exit 0
