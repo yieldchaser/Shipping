@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T15:15:34Z",
-  "current_date": "2026-06-24",
+  "generated_at": "2026-06-25T12:52:50Z",
+  "current_date": "2026-06-25",
   "warning_count": 10,
   "high_severity_count": 0,
   "status_counts": {
@@ -32,7 +32,7 @@
             "avg_tone_score": -0.33,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-06-24"
+            "latest_date": "2026-06-25"
           },
           {
             "source": "breakwave_insights",
@@ -54,14 +54,14 @@
         "topic_id": "china_steel_and_iron_ore",
         "title": "China Steel and Iron Ore",
         "severity": "watch",
-        "score_diff": 1.08,
+        "score_diff": 1.17,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.33,
+            "avg_tone_score": -0.42,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-06-24"
+            "latest_date": "2026-06-25"
           },
           {
             "source": "breakwave_insights",
@@ -78,7 +78,7 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "coal_and_grain_flows",
-      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.",
+      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
       "details": {
         "topic_id": "coal_and_grain_flows",
         "title": "Coal and Grain Flows",
@@ -86,18 +86,18 @@
         "score_diff": 0.75,
         "source_scores": [
           {
+            "source": "hellenic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-06-24"
+          },
+          {
             "source": "breakwave",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
             "latest_date": "2026-06-23"
-          },
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-06-17"
           },
           {
             "source": "breakwave_insights",
@@ -107,7 +107,7 @@
             "latest_date": "2026-06-24"
           }
         ],
-        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral."
+        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
       }
     },
     {
@@ -126,7 +126,7 @@
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-06-23"
+            "latest_date": "2026-06-24"
           },
           {
             "source": "breakwave",

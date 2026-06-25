@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:12:04Z",
+  "generated_at": "2026-06-25T12:50:07Z",
   "counts": {
     "breakwave": {
       "drybulk": 204,
@@ -16,9 +16,9 @@
       "insights": 3077
     },
     "hellenic": {
-      "dry_charter": 263,
-      "tanker_charter": 262,
-      "iron_ore": 1135,
+      "dry_charter": 264,
+      "tanker_charter": 263,
+      "iron_ore": 1136,
       "vessel_valuations": 259,
       "demolition": 765,
       "shipbuilding": 360
