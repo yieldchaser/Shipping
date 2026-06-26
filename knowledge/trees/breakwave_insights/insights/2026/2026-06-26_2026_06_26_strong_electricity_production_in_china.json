@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__root",
+  "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china",
+  "parent_id": null,
+  "title": "Strong Electricity Production in China",
+  "section_path": [
+    "Strong Electricity Production in China"
+  ],
+  "section_path_text": "Strong Electricity Production in China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, China's coal production totaled 397.2 million tons in May. This is up month-on-month by 11.6 million tons (3%) but is down year-on-year by 6.1 million tons (-2%). Remaining very significant is that the last time there was any year-on-year growth was in June.",
+  "keywords": [
+    "china",
+    "coal",
+    "asset",
+    "image",
+    "billion",
+    "kilowatt",
+    "production",
+    "electricity",
+    "hours",
+    "kwh",
+    "linked",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 925,
+  "source_path": "reports/breakwave/2026/2026-06-26_strong-electricity-production-in-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/26/strong-electricity-production-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, China's coal production totaled 397.2 million tons in May. This is up month-on-month by 11.6 million tons (3%) but is down year-on-year by 6.1 million tons (-2%).",
+      "keywords": [
+        "china",
+        "coal",
+        "billion",
+        "kilowatt",
+        "year-on-year",
+        "production",
+        "electricity",
+        "hours"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 395,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s02_linked_asset_2026_06_26_strong_electricity_production_in_china_img_chart1_05421dae6581_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__root",
+      "title": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart1_05421dae6581.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart1_05421dae6581.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart1_05421dae6581.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-26_strong-electricity-production-in-china_img_chart1_05421dae6581.jpg\n\nLinked image asset: 2026-06-26_strong-electricity-production-in-china_img_chart1_05421dae6581.jpg\n\nImage metadata: JPEG 1353x446 mode=RGB\n\nOCR text:\nChinese Coal Production\n460mt :\n380mt Pall Pil\n220mt\n2018 2019 2020 2021 2022 2023 2024 #=+2025 2026",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "chinese",
+        "jpeg",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s03_linked_asset_2026_06_26_strong_electricity_production_in_china_img_chart2_5158f8aa6d81_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__root",
+      "title": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart2_5158f8aa6d81.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart2_5158f8aa6d81.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart2_5158f8aa6d81.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-26_strong-electricity-production-in-china_img_chart2_5158f8aa6d81.jpg\n\nLinked image asset: 2026-06-26_strong-electricity-production-in-china_img_chart2_5158f8aa6d81.jpg\n\nImage metadata: JPEG 1353x495 mode=RGB\n\nOCR text:\nChinese Coal-Derived Electricity Production\n650kwh_ . 550kwh_ : - : 4 :\n350kwh\n2018 2019 2020 2021 2022 2023 2024 2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinese",
+        "coal-derived"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s04_linked_asset_2026_06_26_strong_electricity_production_in_china_img_chart3_3c05a035ef9f_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__root",
+      "title": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart3_3c05a035ef9f.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart3_3c05a035ef9f.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-26_strong-electricity-production-in-china_img_chart3_3c05a035ef9f.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-26_strong-electricity-production-in-china_img_chart3_3c05a035ef9f.jpg\n\nLinked image asset: 2026-06-26_strong-electricity-production-in-china_img_chart3_3c05a035ef9f.jpg\n\nImage metadata: JPEG 1348x473 mode=RGB\n\nOCR text:\nChinese Total Electricity Production\n1000kwh | :\n800kwh Wt ta Aided\n400kwh\n2018 2019 2020 2021 2022 2023 2024 2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "kwh",
+        "asset",
+        "image",
+        "aided",
+        "billion",
+        "chinese",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

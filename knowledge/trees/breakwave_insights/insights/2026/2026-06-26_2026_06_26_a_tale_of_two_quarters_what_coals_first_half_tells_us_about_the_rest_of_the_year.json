@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__root",
+  "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year",
+  "parent_id": null,
+  "title": "A Tale of Two Quarters: What Coal's First Half Tells Us About the Rest of the Year",
+  "section_path": [
+    "A Tale of Two Quarters: What Coal's First Half Tells Us About the Rest of the Year"
+  ],
+  "section_path_text": "A Tale of Two Quarters: What Coal's First Half Tells Us About the Rest of the Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nCoal prices rose 40 per cent in the year's first quarter before giving back a significant share as the year's first half was shaped almost entirely by geopolitical disruption. The year began with concerns over robust supplies, which put pressure on prices. However, disruption to the flow of crude oil amid the near-closure of the Strait of Hormuz, and later a deadly accident in a Chinese coal mine, supported prices but also fuelled heightened volatility.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "china",
+    "australia",
+    "india",
+    "japan",
+    "coal",
+    "crude_oil",
+    "gas",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1157,
+  "source_path": "reports/breakwave/2026/2026-06-26_a-tale-of-two-quarters-what-coals-first-half-tells-us-about-the-rest-of-the-year.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/26/a-tale-of-two-quarters-what-coals-first-half-tells-us-about-the-rest-of-the-year",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nCoal prices rose 40 per cent in the year's first quarter before giving back a significant share as the year's first half was shaped almost entirely by geopolitical disruption. The year began with concerns over robust supplies, which put pressure on prices.",
+      "keywords": [
+        "china",
+        "coal",
+        "crude_oil",
+        "year",
+        "first",
+        "prices",
+        "accident",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s02_an_eventful_first_half_of_the_year_for_coal_prices",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__root",
+      "title": "An Eventful First Half of the Year for Coal Prices",
+      "section_path": [
+        "An Eventful First Half of the Year for Coal Prices"
+      ],
+      "section_path_text": "An Eventful First Half of the Year for Coal Prices",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The July futures for delivery at the Australian port of Newcastle began the year marginally above 102 dollars per tonne, following a rather uneventful 2025 in which prices trended lower at a relatively leisurely pace. However, when the US and Israel launched their attacks on Iran, the Strait of Hormuz was effectively closed, disrupting around a fifth of the world's seaborne exports of crude oil and LNG, which increased demand for coal.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "coal",
+        "crude_oil",
+        "gas",
+        "lower",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s03_uneven_growth_for_seaborne_coal_exports",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__root",
+      "title": "Uneven Growth for Seaborne Coal Exports",
+      "section_path": [
+        "Uneven Growth for Seaborne Coal Exports"
+      ],
+      "section_path_text": "Uneven Growth for Seaborne Coal Exports",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With only a few days left of the first half of the year, data from Signal Ocean indicate that global seaborne coal exports grew by two per cent compared with the first six months of last year. A total of 675.5 million tonnes have been shipped since January, nearly fourteen million tonnes more than in the same period last year.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "india",
+        "japan",
+        "coal",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 387,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s04_prospects_for_the_second_half",
+      "doc_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year",
+      "parent_id": "breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__root",
+      "title": "Prospects for the Second Half",
+      "section_path": [
+        "Prospects for the Second Half"
+      ],
+      "section_path_text": "Prospects for the Second Half",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Looking ahead to the second half of the year, beyond the seasonal weakness in July, the final six months usually see volume growth compared to the first half. In recent years, the growth between the first and the second half has been between three and twelve per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "coal",
+        "crude_oil",
+        "gas",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

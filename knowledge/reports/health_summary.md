@@ -1,16 +1,16 @@
 ---
-generated_at: '2026-06-26T11:07:48Z'
+generated_at: '2026-06-26T12:51:14Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
-warning_count: 10
+warning_count: 11
 ---
 
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8380
-- Chunks: 97969
-- Sections: 30006
+- Documents: 8382
+- Chunks: 97977
+- Sections: 30014
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -25,7 +25,7 @@ warning_count: 10
 | baltic/gas | 2026-06-19 | 7 | 7 | healthy | 7 | 0 |
 | baltic/container | 2026-06-19 | 7 | 7 | healthy | 7 | 0 |
 | baltic/ningbo | 2026-06-26 | 0 | 7 | healthy | 7 | 22 |
-| breakwave_insights/insights | 2026-06-24 | 2 | 14 | healthy | 0 | 0 |
+| breakwave_insights/insights | 2026-06-26 | 0 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-06-24 | 2 | 14 | healthy | 7 | 1 |
 | hellenic/tanker_charter | 2026-06-25 | 1 | 14 | healthy | 8 | 0 |
 | hellenic/iron_ore | 2026-06-25 | 1 | 14 | healthy | 1 | 0 |
@@ -38,14 +38,14 @@ warning_count: 10
 
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
-| Dry Bulk Market | 2026-06-25 | 87 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Tanker Market | 2026-06-25 | 86 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Capesize | 2026-06-25 | 121 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Panamax and Supramax | 2026-06-24 | 126 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| VLCC and Suezmax | 2026-06-23 | 119 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| China Steel and Iron Ore | 2026-06-25 | 101 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Coal and Grain Flows | 2026-06-24 | 122 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Oil and OPEC | 2026-06-24 | 100 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Dry Bulk Market | 2026-06-26 | 87 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Tanker Market | 2026-06-26 | 84 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Capesize | 2026-06-26 | 122 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Panamax and Supramax | 2026-06-26 | 125 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| VLCC and Suezmax | 2026-06-26 | 118 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| China Steel and Iron Ore | 2026-06-26 | 101 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Coal and Grain Flows | 2026-06-26 | 122 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Oil and OPEC | 2026-06-26 | 100 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | LNG and LPG Shipping | 2026-06-19 | 164 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-06-26 | 186 | 250 | baltic, hellenic | - | healthy |
 
@@ -54,6 +54,7 @@ warning_count: 10
 - `watch` China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.
 - `watch` Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
 - `watch` Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
+- `watch` VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.
 - `watch` capesize is missing recent evidence from expected sources: baltic.
 - `watch` china_steel_and_iron_ore is missing recent evidence from expected sources: baltic.
 - `watch` coal_and_grain_flows is missing recent evidence from expected sources: baltic.
@@ -64,5 +65,6 @@ warning_count: 10
 ## Cross-Source Divergence
 - `watch` Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.
 - `watch` Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
+- `watch` VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.
 - `watch` China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.
 - `watch` Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
