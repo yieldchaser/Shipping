@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 87
+document_count: 88
 evidence_count: 250
-generated_at: '2026-06-26T12:50:08Z'
+generated_at: '2026-06-26T14:19:22Z'
 latest_evidence_date: '2026-06-26'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 87 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-26, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 88 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-26, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, dry bulk, capesize, coal
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 150, hellenic: 93, breakwave: 4, baltic: 3
-- Category coverage: insights: 150, iron_ore: 49, demolition: 20, vessel_valuations: 8, dry_charter: 8, shipbuilding: 8, drybulk: 4, dry: 3
+- Source coverage: breakwave_insights: 149, hellenic: 93, baltic: 4, breakwave: 4
+- Category coverage: insights: 149, iron_ore: 49, demolition: 20, vessel_valuations: 8, dry_charter: 8, shipbuilding: 8, dry: 4, drybulk: 4
 - Tone distribution: constructive: 134, neutral: 58, cautiously_bearish: 54, cautiously optimistic: 2, bullish: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-06-26 | A Tale of Two Quarters: What Coal's First Half Tells Us About the Rest of the Year [doc_id: breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year | section_id: breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s04_prospects_for_the_second_half | pages n/a]
 - 2026-06-26 | Strong Electricity Production in China [doc_id: breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china | section_id: breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s03_linked_asset_2026_06_26_strong_electricity_production_in_china_img_chart2_5158f8aa6d81_jpg | pages n/a]
+- 2026-06-26 | Bulk report - Week 26 [doc_id: baltic_dry_2026-06-26_2026_06_26_bulk_report_week_26_dry | section_id: baltic_dry_2026-06-26_2026_06_26_bulk_report_week_26_dry__s01_main | pages n/a]
 - 2026-06-25 | MMI Daily Iron Ore Index Report June 25 2026 [doc_id: hellenic_iron_ore_2026-06-25_2026_06_25_mmi_daily_iron_ore_index_report_june_25_2026 | section_id: hellenic_iron_ore_2026-06-25_2026_06_25_mmi_daily_iron_ore_index_report_june_25_2026__s03_linked_asset_2026_06_25_mmi_daily_iron_ore_index_report_june_25_2026_mmi_daily_iron_ore_report_for_25th_j_6d2db88ca7a3_pdf | pages n/a]
 - 2026-06-24 | India's coal [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal__s01_main | pages n/a]
 - 2026-06-24 | Weekly Dry Time Charter Estimates, June 24 2026 [doc_id: hellenic_dry_charter_2026-06-24_2026_06_24_weekly_dry_time_charter_estimates_june_24_2026 | section_id: hellenic_dry_charter_2026-06-24_2026_06_24_weekly_dry_time_charter_estimates_june_24_2026__s02_linked_asset_2026_06_24_weekly_dry_time_charter_estimates_june_24_2026_246202518_deb59da38f1e_jpg | pages n/a]
 - 2026-06-24 | Reopening, Not Resolution: Three Scenarios for Tankers After Hormuz [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_reopening_not_resolution_three_scenarios_for_tankers_after_hormuz | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_reopening_not_resolution_three_scenarios_for_tankers_after_hormuz__s01_main | pages n/a]
 - 2026-06-24 | MMI Daily Iron Ore Index Report June 24 2026 [doc_id: hellenic_iron_ore_2026-06-24_2026_06_24_mmi_daily_iron_ore_index_report_june_24_2026 | section_id: hellenic_iron_ore_2026-06-24_2026_06_24_mmi_daily_iron_ore_index_report_june_24_2026__s03_linked_asset_2026_06_24_mmi_daily_iron_ore_index_report_june_24_2026_mmi_daily_iron_ore_report_for_24th_j_a000cb3fdbbf_pdf | pages n/a]
-- 2026-06-24 | Did the Fed drive the tech selloff? [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_did_the_fed_drive_the_tech_selloff | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_did_the_fed_drive_the_tech_selloff__s04_linked_asset_2026_06_24_did_the_fed_drive_the_tech_selloff_img_image008_1fc415233af2_png | pages n/a]
 
 ## Related Topics
 - capesize

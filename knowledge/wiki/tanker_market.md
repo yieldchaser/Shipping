@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 84
+document_count: 85
 evidence_count: 250
-generated_at: '2026-06-26T12:50:08Z'
+generated_at: '2026-06-26T14:19:22Z'
 latest_evidence_date: '2026-06-26'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-26, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 85 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-26, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,20 +46,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 188, hellenic: 53, baltic: 5, breakwave: 4
-- Category coverage: insights: 188, demolition: 23, tanker_charter: 10, vessel_valuations: 10, shipbuilding: 10, tanker: 5, tankers: 4
-- Tone distribution: constructive: 144, neutral: 74, cautiously_bearish: 30, cautious: 2
+- Source coverage: breakwave_insights: 187, hellenic: 53, baltic: 6, breakwave: 4
+- Category coverage: insights: 187, demolition: 23, tanker_charter: 10, vessel_valuations: 10, shipbuilding: 10, tanker: 6, tankers: 4
+- Tone distribution: constructive: 144, neutral: 75, cautiously_bearish: 29, cautious: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-06-26 | A Tale of Two Quarters: What Coal's First Half Tells Us About the Rest of the Year [doc_id: breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year | section_id: breakwave_insights_insights_2026-06-26_2026_06_26_a_tale_of_two_quarters_what_coals_first_half_tells_us_about_the_rest_of_the_year__s03_uneven_growth_for_seaborne_coal_exports | pages n/a]
 - 2026-06-26 | Strong Electricity Production in China [doc_id: breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china | section_id: breakwave_insights_insights_2026-06-26_2026_06_26_strong_electricity_production_in_china__s04_linked_asset_2026_06_26_strong_electricity_production_in_china_img_chart3_3c05a035ef9f_jpg | pages n/a]
+- 2026-06-26 | Tanker report - Week 26 [doc_id: baltic_tanker_2026-06-26_2026_06_26_tanker_report_week_26_tanker | section_id: baltic_tanker_2026-06-26_2026_06_26_tanker_report_week_26_tanker__s01_main | pages n/a]
 - 2026-06-25 | Weekly Tanker Time Charter Estimates, June 24 2026 [doc_id: hellenic_tanker_charter_2026-06-25_2026_06_25_weekly_tanker_time_charter_estimates_june_24_2026 | section_id: hellenic_tanker_charter_2026-06-25_2026_06_25_weekly_tanker_time_charter_estimates_june_24_2026__s02_linked_asset_2026_06_25_weekly_tanker_time_charter_estimates_june_24_2026_246202519_6a1999d8eb69_jpg | pages n/a]
 - 2026-06-24 | Reopening, Not Resolution: Three Scenarios for Tankers After Hormuz [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_reopening_not_resolution_three_scenarios_for_tankers_after_hormuz | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_reopening_not_resolution_three_scenarios_for_tankers_after_hormuz__s01_main | pages n/a]
 - 2026-06-24 | India's coal [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_indias_coal__s01_main | pages n/a]
 - 2026-06-24 | Did the Fed drive the tech selloff? [doc_id: breakwave_insights_insights_2026-06-24_2026_06_24_did_the_fed_drive_the_tech_selloff | section_id: breakwave_insights_insights_2026-06-24_2026_06_24_did_the_fed_drive_the_tech_selloff__s04_linked_asset_2026_06_24_did_the_fed_drive_the_tech_selloff_img_image008_1fc415233af2_png | pages n/a]
 - 2026-06-23 | Iraq's export crisis: Hormuz and pipeline uncertainty [doc_id: breakwave_insights_insights_2026-06-23_2026_06_23_iraqs_export_crisis_hormuz_and_pipeline_uncertainty | section_id: breakwave_insights_insights_2026-06-23_2026_06_23_iraqs_export_crisis_hormuz_and_pipeline_uncertainty__s04_alternate_export_routes | pages n/a]
-- 2026-06-23 | Weekly Vessel Valuations Report, June 23 2026 [doc_id: hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026 | section_id: hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax
