@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__root",
+  "doc_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait",
+  "parent_id": null,
+  "title": "GMS Week 26 - TRAFFIC DOUBLES, YARDS WAIT",
+  "section_path": [
+    "GMS Week 26 - TRAFFIC DOUBLES, YARDS WAIT"
+  ],
+  "section_path_text": "GMS Week 26 - TRAFFIC DOUBLES, YARDS WAIT",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe war is over; the paperwork is taking longer than the peace. The formal signing of the US-Iranagreement at Bürgenstock in Switzerland was abruptly postponed last Friday, with Vice President Vance turning his plane around over what the White House called unresolved logistical issues, even as the interim memorandum remained in effect and implementation accelerated on the water. Vessel traffic through the Strait of Hormuz doubled in 24 hours to its highest level since late February, with at least 34 ships exiting into the Gulf of Oman against a pre-war daily average of 110.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "japan"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 7666,
+  "source_path": "reports/hellenic/demolition/2026/2026-06-27_gms-week-26-traffic-doubles-yards-wait.html",
+  "source_url": "https://www.hellenicshippingnews.com/gms-week-26-traffic-doubles-yards-wait",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__s01_main",
+      "doc_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait",
+      "parent_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The war is over; the paperwork is taking longer than the peace. The formal signing of the US-Iranagreement at Bürgenstock in Switzerland was abruptly postponed last Friday, with Vice President Vance turning his plane around over what the White House called unresolved logistical issues, even as the interim memorandum remained in effect and implementation accelerated on the water.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "europe",
+        "india",
+        "crude_oil",
+        "its",
+        "near"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 853,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__s02_linked_asset_2026_06_27_gms_week_26_traffic_doubles_yards_wait_2662025_8dbadf779e8d_jpg",
+      "doc_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait",
+      "parent_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__root",
+      "title": "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2026/assets/2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg\n\nLinked image asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg\n\nImage metadata: JPEG 600x125 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__s03_linked_asset_2026_06_27_gms_week_26_traffic_doubles_yards_wait_ship_recycling_market_insight_week_2_09729fff783c_pdf",
+      "doc_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait",
+      "parent_id": "hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait__root",
+      "title": "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf",
+      "section_path": [
+        "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\nJune 26th , 2026\n1\n\\\n\"The pessimist complains about the wind; the optimist expects it to change;\nWeek 26\nthe realist adjusts the sails.\"\nVolume 282, Issue 1241\n- William Arthur\nWard\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg a rding commitment.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6606,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

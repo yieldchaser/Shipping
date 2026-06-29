@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__root",
+  "doc_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker",
+  "parent_id": null,
+  "title": "China's Consumer Sector Has Become Even Weaker",
+  "section_path": [
+    "China's Consumer Sector Has Become Even Weaker"
+  ],
+  "section_path_text": "China's Consumer Sector Has Become Even Weaker",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's retail sales in May contracted year-on-year by 0.6%. This has marked the first contraction since December 2022. Taking May's 1.2% inflation into account, retail sales adjusted for inflation contracted year-on-year by 1.8%.",
+  "keywords": [
+    "china",
+    "sales",
+    "asset",
+    "image",
+    "food",
+    "year-on-year",
+    "contracted",
+    "inflation",
+    "linked",
+    "retail",
+    "adjusted",
+    "chart"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 625,
+  "source_path": "reports/breakwave/2026/2026-06-29_chinas-consumer-sector-has-become-even-weaker.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/29/chinas-consumer-sector-has-become-even-weaker",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker",
+      "parent_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's retail sales in May contracted year-on-year by 0.6%. This has marked the first contraction since December 2022.",
+      "keywords": [
+        "china",
+        "sales",
+        "year-on-year",
+        "contracted",
+        "food",
+        "inflation",
+        "retail",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__s02_linked_asset_2026_06_29_chinas_consumer_sector_has_become_even_weaker_img_chart1_6d7c03d7cba8_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker",
+      "parent_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__root",
+      "title": "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg\n\nLinked image asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg\n\nImage metadata: JPEG 1188x635 mode=RGB\n\nOCR text:\nChinese Retail Sales Growth Adjusted For Inflation\n20%\n10%\n0%\n-10%\n-20% =-----\n2022 2023 2024 2025 2026",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "adjusted",
+        "chinas-consumer-sector-has-become-even-weaker_img_chart1_6d7c03d7cba8.jpg",
+        "chinese",
+        "growth",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__s03_linked_asset_2026_06_29_chinas_consumer_sector_has_become_even_weaker_img_chart2_63d534b5cb14_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker",
+      "parent_id": "breakwave_insights_insights_2026-06-29_2026_06_29_chinas_consumer_sector_has_become_even_weaker__root",
+      "title": "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg\n\nLinked image asset: 2026-06-29_chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg\n\nImage metadata: JPEG 1185x661 mode=RGB\n\nOCR text:\nDomestic Food Sales\n2500\n2000 7 Wil\n1500 - ee ea SEER ERE EE\n1000\n2022 2023 2024 2025 2026\nUnit: 100 million yuan",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "chinas-consumer-sector-has-become-even-weaker_img_chart2_63d534b5cb14.jpg",
+        "domestic",
+        "ere",
+        "food",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
