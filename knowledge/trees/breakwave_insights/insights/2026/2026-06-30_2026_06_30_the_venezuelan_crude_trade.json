@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade__root",
+  "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade",
+  "parent_id": null,
+  "title": "The Venezuelan crude trade",
+  "section_path": [
+    "The Venezuelan crude trade"
+  ],
+  "section_path_text": "The Venezuelan crude trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe Venezuelan crude trade has moved from being a relatively narrow and politically constrained flow into one of the most important incremental demand drivers for the crude tanker market in the first half of 2026. Based on Signal Ocean data, during H1 2025, Venezuelan crude exports stood at 13.25 million mt across 106 cargoes, with China the leading destination at 4.96 million mt and the United States following at 4.15 million mt. In H1 2026, volumes more than doubled to 28.25 million mt, while cargo count increased to 273.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "atlantic",
+    "meg",
+    "india",
+    "crude_oil",
+    "gas",
+    "eee",
+    "aes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3574,
+  "source_path": "reports/breakwave/2026/2026-06-30_the-venezuelan-crude-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/30/the-venezuelan-crude-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe Venezuelan crude trade has moved from being a relatively narrow and politically constrained flow into one of the most important incremental demand drivers for the crude tanker market in the first half of 2026. Based on Signal Ocean data, during H1 2025, Venezuelan crude exports stood at 13.25 million mt across 106 cargoes, with China the leading destination at 4.96 million mt and the United States following at 4.15 million mt.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "india",
+        "crude_oil",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 912,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade__s02_linked_asset_2026_06_30_the_venezuelan_crude_trade_img_unsplash_image_tlhkqqsnzrs_26b811e266d0_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_the_venezuelan_crude_trade__root",
+      "title": "Linked asset: 2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg\n\nLinked image asset: 2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\nWE ea Bat ed eGR wr Ma na\nGa i Be > jae Be coat EO Bees: Pi)\nSe > a, oe Wey Oe eas: > Sh oD Sea\n-, Sa \"se «| eet die ae BA Sn etre LB ck Narere ta\nit Er acca Bs es ee =a 2 at Ssine Shee ht. Posten ae\n<; , 3 BSP acs PRY Ses Pura hot te 8,\na ates Ramen Ses re co SRO aaa\nveel 5.",
+      "keywords": [
+        "container",
+        "meg",
+        "gas",
+        "eee",
+        "aes",
+        "see",
+        "eae",
+        "pee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2620,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

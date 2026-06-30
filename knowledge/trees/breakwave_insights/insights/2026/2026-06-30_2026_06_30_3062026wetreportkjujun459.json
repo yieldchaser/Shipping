@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__root",
+  "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Tanker Report - June 30, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Tanker Report - June 30, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Tanker Report - June 30, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility during the past week, with spot rates fluctuating sharply due to dynamic geopolitical risks in the Strait of Hormuz. While shipowners continually evaluate risk-versusreward profiles for regional transits, sentiment is supported by a tangible recovery in Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura alongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran. Conversely, weakening Chinese demand presents a significant headwind; preliminary data indicates June imports have fallen to approximately 6.4 million barrels per day (bpd), an 8% decline from May's average of 7.82 million bpd and the lowest volume since October 2016.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "asset",
+    "image",
+    "funds",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2259,
+  "source_path": "reports/breakwave/2026/2026-06-30_3062026wetreportkjujun459.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/3062026wetreportkjujun459",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility during the past week, with spot rates fluctuating sharply due to dynamic geopolitical risks in the Strait of Hormuz. While shipowners continually evaluate risk-versusreward profiles for regional transits, sentiment is supported by a tangible recovery in Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura alongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "chinese",
+        "oil",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 734,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__s02_linked_asset_2026_06_30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9_png",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__root",
+      "title": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9.png",
+      "section_path": [
+        "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9.png\n\nLinked image asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c554c9d1b4f9.png\n\nImage metadata: PNG 271x641 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Negative\nSentiment: Negative\nFundamentals: Positive\nBreakwave Tanker 3711\nFutures Index:\n30D: -25.4% v\nYTD: 152.6% 4p\nYOY: 249.4% 4p\nee Middle East- 59.62\nAsia Spot Rates:\n30D: -26.6% v\nYTD: 318.8% 4p\nYOY: 412.1% +\nReuters: BWET.K\nBloomberg: BWET US\nExchange: NYSE\nBreakwave Advisors Research\nresearch@breakwaveadvisors.com",
+      "keywords": [
+        "asset",
+        "image",
+        "negative",
+        "research",
+        "yoy",
+        "ytd",
+        "asia",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__s03_linked_asset_2026_06_30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5_png",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__root",
+      "title": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5.png",
+      "section_path": [
+        "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5.png\n\nLinked image asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7626209e5f5.png\n\nImage metadata: PNG 932x590 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n/J© BREAKWAVE\nADVISORS\nVLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF)\n8,000 140\n7,000 120\n6,000\n100\n5,000\n80\n4,000\n60\n3,000\n40\n2,000\n1,000 \"~\n--= BWETFF (futures) << TD3C (spot), $/t\nJul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26\nThe Baltic TD3C Index measures the spot rate in USD per ton for Very Large Crude Carriers (VLLCC) operating in the Middle East to Asia route. The Breakwave\nTanker Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 90% VLCC TD3C and 10% Suezmax TD20 and a\nweighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "td3c",
+        "asset",
+        "bwetff",
+        "image",
+        "approximately",
+        "apr-26"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 370,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__s04_linked_asset_2026_06_30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67_png",
+      "doc_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459",
+      "parent_id": "breakwave_insights_insights_2026-06-30_2026_06_30_3062026wetreportkjujun459__root",
+      "title": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67.png",
+      "section_path": [
+        "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67.png\n\nLinked image asset: 2026-06-30_3062026wetreportkjujun459_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9be0fbf70b67.png\n\nImage metadata: PNG 925x717 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nWorld Oil Demand 105,745 kbpd\nOil Supply, OPEC 16,330 kbpd -40.9%\nOil Supply, non-OPEC 73,671 kbpd\nOECD Total Crude Oil Stocks 1053.1 MMbIs\nUS Crude Oil Exports 60.2 MMbls\nChina Oil Imports 797.5 MMbIs\nGlobal Crude Oil On Water 1307.4 MMbls 11.7%\nSupply\nTanker Fleet 726.7 mdwt\nFreight Rate\nVLCC Middle East-Asia, USD/ton 65.98 405.5%\nSuezmax West Africa-Europe, USD/ton 36.59 123.9%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's intemal use only. This report does not constitute and will not form part of and should not be construed as a solic",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "funds",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 703,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
