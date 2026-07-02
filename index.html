@@ -3864,15 +3864,17 @@
           <div class="qa-key-row">
             <span class="qa-key-label">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
-              <option value="groq">Groq</option>
-              <option value="openrouter">OpenRouter (free)</option>
+              <option value="groq" selected>Groq</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
             <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
             <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
-            <input type="text" id="qaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="qaModelSuggestions" />
-            <datalist id="qaModelSuggestions"></datalist>
+            <input type="text" id="qaModel" class="qa-key-input" placeholder="qwen/qwen3.6-27b" list="qaModelSuggestions" />
+            <datalist id="qaModelSuggestions">
+              <option value="qwen/qwen3.6-27b"></option>
+              <option value="openai/gpt-oss-120b"></option>
+            </datalist>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -14217,8 +14219,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      groq:       { label: 'Groq',             keyStorage: 'qa_key_groq',       modelStorage: 'qa_model_groq',       defaultModel: 'llama-3.3-70b-versatile', keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',  hasBaseUrl: false, maxContextTokens: 7000 },
-      openrouter: { label: 'OpenRouter (free)', keyStorage: 'qa_key_openrouter', modelStorage: 'qa_model_openrouter', defaultModel: 'openrouter/free',         keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',      hasBaseUrl: false, maxContextTokens: 50000 },
+      groq:       { label: 'Groq',             keyStorage: 'qa_key_groq',       modelStorage: 'qa_model_groq',       defaultModel: 'qwen/qwen3.6-27b',        keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',  hasBaseUrl: false, maxContextTokens: 7000 },
     };
 
 
@@ -14226,12 +14227,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const baseCfg = QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
       const cfg = { ...baseCfg };
       
-      // Dynamic caps based on provider free-tier constraints
-      if (provider === 'openrouter') {
-        // Free models on OpenRouter range from 64k (llama-3.3-70b:free) to 128k+.
-        // Hard cap at 50k to guarantee safety regardless of which model is chosen.
-        cfg.maxContextTokens = 50000;
-      } else if (provider === 'groq') {
+      if (provider === 'groq') {
         // Groq free tier has a strict 12,000 TPM limit.
         // Hard-cap to 7000 to leave headroom for output and avoid instant 429s.
         cfg.maxContextTokens = 7000;
@@ -14240,8 +14236,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _currentQAProvider() {
-      const selected = (document.getElementById('qaProvider')?.value || localStorage.getItem('qa_provider') || 'groq').trim().toLowerCase();
-      return QA_PROVIDER_CONFIG[selected] ? selected : 'groq';
+      return 'groq';
     }
 
     function _loadProviderKey(provider) {
@@ -14312,8 +14307,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function _initQAPanel() {
       const providerEl = document.getElementById('qaProvider');
       if (!providerEl) return;
-      // Migrate any stale ':free' model stored in localStorage -> openrouter/free auto-router
-      _migrateOpenRouterModel();
+      _migrateQALocalStorage();
       providerEl.value = _currentQAProvider();
       _syncQAProviderUI();
     }
@@ -14569,12 +14563,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       ).join('\n');
       const prompt = 'Output ONLY a JSON array ranking passage numbers most→least relevant. No text.\nExample: [3,1,7,2]\n\nQuestion: ' + query + '\n\nPassages:\n' + snippets;
       try {
-        const endpoint = provider === 'groq'
-          ? 'https://api.groq.com/openai/v1/chat/completions'
-          : 'https://openrouter.ai/api/v1/chat/completions';
         const hdrs = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` };
-        if (provider === 'openrouter') hdrs['HTTP-Referer'] = 'https://yieldchaser.github.io/Shipping';
-        const res = await fetch(endpoint, {
+        const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
           method: 'POST', headers: hdrs,
           body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0, max_tokens: 150, stream: false }),
         });
@@ -14614,7 +14604,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     async function _runProviderLLM(provider, apiKey, model, prompt, onToken) {
-      // ── Shared SSE reader for OpenAI-compatible streams ───────────────────
+      // ── Shared SSE reader for Groq-compatible streams ────────────────────
       async function _readSSE(res, onTok, providerLabel) {
         const reader = res.body.getReader();
         const decoder = new TextDecoder();
@@ -14628,8 +14618,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (payload === '[DONE]') continue;
             try {
               const obj = JSON.parse(payload);
-              // OpenRouter (and others) embed errors mid-stream as a top-level 'error' key
-              // OR as finish_reason: 'error' in choices — must check both
+              // Groq can surface stream errors as a top-level 'error' key or via finish_reason.
               if (obj.error) {
                 const errMsg = obj.error.message || obj.error.code || JSON.stringify(obj.error);
                 throw new Error((providerLabel || 'Provider') + ' stream error: ' + errMsg);
@@ -14649,66 +14638,32 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return full || '(no response)';
       }
 
-      // ── Groq ──────────────────────────────────────────────────────────────
-      if (provider === 'groq') {
-        const doStream = !!onToken;
-        const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
-        });
-        if (!res.ok) { 
-          const err = await res.json().catch(() => ({})); 
-          let msg = err?.error?.message || `Groq HTTP ${res.status}`;
-          if (res.status === 429) {
-            const retryAfter = res.headers.get('retry-after');
-            const resetIn = res.headers.get('x-ratelimit-reset-tokens');
-            msg += ` (Wait ${retryAfter ? retryAfter + 's' : (resetIn || '60s')})`;
-          }
-          throw new Error(msg); 
-        }
-        if (doStream && res.body) return _readSSE(res, onToken);
-        const data = await res.json();
-        return data?.choices?.[0]?.message?.content || '(no response)';
-      }
+      if (provider !== 'groq') throw new Error('Unknown provider: ' + provider);
 
-      // ── OpenRouter ────────────────────────────────────────────────────────
-      if (provider === 'openrouter') {
-        const doStream = !!onToken;
-        const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${apiKey}`,
-            'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
-            'X-OpenRouter-Title': 'Shipping Intelligence Dashboard',
-          },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
-        });
-        // Log which model OpenRouter actually routed to (useful when using openrouter/free auto-router)
-        const selectedModel = res.headers.get('X-OpenRouter-Selected-Model');
-        if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          const msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
-          // 503 means all free models at capacity; 429 means rate-limited
-          if (res.status === 503) throw new Error('OpenRouter: all free models at capacity. ' + msg);
-          if (res.status === 429) throw new Error('OpenRouter: rate limited. ' + msg);
-          throw new Error(msg);
+      const doStream = !!onToken;
+      const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+        body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+      });
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        let msg = err?.error?.message || `Groq HTTP ${res.status}`;
+        if (res.status === 429) {
+          const retryAfter = res.headers.get('retry-after');
+          const resetIn = res.headers.get('x-ratelimit-reset-tokens');
+          msg += ` (Wait ${retryAfter ? retryAfter + 's' : (resetIn || '60s')})`;
         }
-        if (doStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
-        const data = await res.json();
-        // Non-streaming: check for embedded error in response body
-        if (data?.error) throw new Error('OpenRouter error: ' + (data.error.message || JSON.stringify(data.error)));
-        return data?.choices?.[0]?.message?.content || '(no response)';
+        throw new Error(msg);
       }
-
-      throw new Error('Unknown provider: ' + provider);
+      if (doStream && res.body) return _readSSE(res, onToken);
+      const data = await res.json();
+      return data?.choices?.[0]?.message?.content || '(no response)';
     }
 
     function _buildFallbackOrder(primary) {
-      // Only Groq and OpenRouter support browser-native CORS — these are the only active providers.
-      const all = ['groq', 'openrouter'];
+      // Groq is the only active browser Q&A provider.
+      const all = ['groq'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
@@ -14717,17 +14672,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
     }
     // Migrate stale localStorage values from previous provider configurations.
-    function _migrateOpenRouterModel() {
-      // OpenRouter: any pinned ':free' model -> openrouter/free auto-router
-      const orStored = localStorage.getItem('qa_model_openrouter') || '';
-      if (orStored && orStored !== 'openrouter/free' && orStored.endsWith(':free')) {
-        console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
-        localStorage.setItem('qa_model_openrouter', 'openrouter/free');
+    function _migrateQALocalStorage() {
+      const groqStored = localStorage.getItem('qa_model_groq') || '';
+      if (groqStored === 'llama-3.3-70b-versatile') {
+        console.log('[QA] Migrating stale Groq model', groqStored, '→ qwen/qwen3.6-27b');
+        localStorage.setItem('qa_model_groq', 'qwen/qwen3.6-27b');
       }
-      // Reset any stale provider pointing at removed providers (ollama/nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
-      if (storedProvider === 'ollama' || storedProvider === 'nim') {
-        console.log('[QA] Resetting stale provider', storedProvider, '→ groq');
+      if (storedProvider !== 'groq') {
+        console.log('[QA] Resetting stale provider', storedProvider || '(empty)', '→ groq');
         localStorage.setItem('qa_provider', 'groq');
       }
     }
@@ -14970,7 +14923,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         let lastError = null;
 
         if (!fallbackOrder.length) {
-          ansEl.textContent = 'No providers configured. Enter an API key above and click Save.';
+          ansEl.textContent = 'No Groq configuration found. Enter a Groq API key above and click Save.';
           btn.disabled = false; return;
         }
 
@@ -15024,7 +14977,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const msg = err.message || 'Unknown error';
         let hint = '';
         if (/401|403|unauthorized/i.test(msg)) hint = 'Check your API key in the provider settings above.';
-        else if (/429|rate.limit/i.test(msg)) hint = 'All providers rate limited. Wait a moment and try again.';
+        else if (/429|rate.limit/i.test(msg)) hint = 'Groq rate limited. Wait a moment and try again.';
         else if (/too.large|token/i.test(msg)) hint = 'Context too large. Try Wiki-only mode or check a smaller scope.';
         else if (/fetch|network|CORS|Failed to fetch/i.test(msg)) hint = 'Network error. Check your internet connection.';
         else if (/timeout/i.test(msg)) hint = 'Request timed out. Try a shorter question or use Wiki-only mode.';

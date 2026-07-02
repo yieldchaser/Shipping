@@ -25,7 +25,7 @@ The dashboard features a **world-class browser-based RAG assistant** tuned speci
 - **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative (not JSON)
 - **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section
 - **Low-Confidence Warnings**: System surfaces "⚠ Limited context found" when retrieval quality is thin
-- **Provider Fallback**: Auto-retries Groq → OpenRouter (free) for 24/7 uptime
+- **Groq-only Browser Q&A**: Zero-cost, free-tier-safe default model is `qwen/qwen3.6-27b`, with `openai/gpt-oss-120b` as the only alternate Groq suggestion
 - **Zero-Cost, Zero-Server**: Entirely client-side; no backend or vector database required
 
 ---
@@ -45,7 +45,7 @@ The repository now maintains itself through six GitHub Actions workflows:
 
 All six workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, `report_ingest.yml` keeps the source archive fresh, and the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
 
-The dashboard still fetches everything client-side at page load with no backend. The Q&A panel uses a user-provided browser key (Gemini or Groq) stored in localStorage. Server workflows use repo secrets (`GEMINI_API_KEY`, optional `OLLAMA_BASE_URL` / `OLLAMA_API_KEY` / `OLLAMA_MODEL`, and optional `NIM_API_KEY` / `NIM_MODEL` / `NIM_BASE_URL`) for automated enrichment and brief generation.
+The dashboard still fetches everything client-side at page load with no backend. The browser Q&A panel uses a user-provided Groq key stored in localStorage, defaults to `qwen/qwen3.6-27b`, and is zero-cost, free-tier-safe on Groq. Server workflows use repo secrets (`GEMINI_API_KEY`, optional `OLLAMA_BASE_URL` / `OLLAMA_API_KEY` / `OLLAMA_MODEL`, and optional `NIM_API_KEY` / `NIM_MODEL` / `NIM_BASE_URL`) for automated enrichment and brief generation.
 
 ---
 
@@ -669,7 +669,7 @@ The system uses a **four-stage ranked retrieval** to maximize precision without 
    - Recency multiplier: chunks from last 90 days score 1.5× higher
    - Source deduplication: max 2–3 chunks per document prevents any single report from crowding the context
 
-5. **Optional LLM reranker** (OpenRouter only) — For large-context providers, a tiny non-streaming call (temp=0) re-ranks the top 25 BM25 candidates before context assembly
+5. **Optional LLM reranker** (Groq only) — For the selected Groq model, a tiny non-streaming call (temp=0) re-ranks the top 25 BM25 candidates before context assembly
 
 ### Live Data Injection
 
@@ -691,27 +691,23 @@ Formatted as readable plain text, not JSON — the LLM comprehends it fluently.
 
 ## LLM Providers & Rate Limits
 
-The Intelligence Dashboard supports **two active providers** — both work natively in any browser with no proxy or backend required.
+The Intelligence Dashboard uses **Groq only** in the browser Q&A. The default model is `qwen/qwen3.6-27b`, which keeps browser usage zero-cost and free-tier-safe on Groq. `openai/gpt-oss-120b` remains available as the only alternate Groq model choice.
 
-### Active Providers (May 2026)
+### Browser Q&A Defaults (May 2026)
 
 | Provider | Endpoint | Default Model | Context Cap | Notes |
 |---|---|---|---|---|
-| **Groq** | `api.groq.com/openai/v1` | `llama-3.3-70b-versatile` | **7,000 tokens** | Fast. Free tier has a 12,000 TPM rate limit — cap is set to 7k to stay safe. Get key at [console.groq.com](https://console.groq.com). |
-| **OpenRouter (free)** | `openrouter.ai/api/v1` | `openrouter/free` | **50,000 tokens** | **Recommended Default.** Auto-routes to any available free model at query time. No single model pinned — always fresh. Get key at [openrouter.ai](https://openrouter.ai). |
+| **Groq** | `api.groq.com/openai/v1` | `qwen/qwen3.6-27b` | **7,000 tokens** | Groq-only browser Q&A. Use `qwen/qwen3.6-27b` for zero-cost, free-tier-safe usage, or switch manually to `openai/gpt-oss-120b` if needed. Get key at [console.groq.com](https://console.groq.com). |
 
-### OpenRouter Auto-Router
+### Groq Model Choices
 
-`openrouter/free` is OpenRouter's official free-tier auto-router (released Feb 2026, 200K+ context window). Instead of hardcoding a single free model that may be rate-limited or deprecated, it dynamically selects the best available free model for each query. This means zero-cost queries with 50k-token RAG context, with automatic failover if any single model is at capacity.
-
-The engine's fallback chain is `primary → the other`. If your selected provider returns a 429 or 503, it automatically retries with the remaining provider.
+`qwen/qwen3.6-27b` is the browser default. `openai/gpt-oss-120b` is the only other model suggestion kept in the UI, and both are Groq-only choices. The browser Q&A exposes no other provider and no provider fallback chain.
 
 ### Troubleshooting API Errors
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| `429 Too Many Requests` | Groq TPM limit hit (12k tokens/min free tier) | Engine auto-parses `retry-after` header and falls back to OpenRouter. Wait ~60s. |
-| `OpenRouter: all free models at capacity` | All OpenRouter free models at concurrent load limit | Wait 30–60s and retry, or switch to Groq temporarily. |
+| `429 Too Many Requests` | Groq TPM limit hit (12k tokens/min free tier) | Wait ~60s and retry, or switch to `openai/gpt-oss-120b` if you want to try the alternate Groq model. |
 | `This information is not available in my current context` | RAG didn't retrieve a relevant chunk | Check scope checkboxes match your question topic. |
 
 ---
