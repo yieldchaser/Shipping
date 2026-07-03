@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-03T10:51:07Z",
+  "generated_at": "2026-07-03T12:36:48Z",
   "current_date": "2026-07-03",
   "corpus": {
-    "document_count": 8408,
-    "chunk_count": 98193,
-    "section_count": 30075,
+    "document_count": 8409,
+    "chunk_count": 98220,
+    "section_count": 30078,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -146,11 +146,11 @@
       "category": "iron_ore",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-07-01",
-      "age_days": 2,
+      "latest_date": "2026-07-02",
+      "age_days": 1,
       "latest_gap_days": 1,
       "max_recent_gap_days": 4,
-      "dated_doc_count": 1140,
+      "dated_doc_count": 1141,
       "undated_doc_count": 0
     },
     {
@@ -217,20 +217,20 @@
       "relevant_corpus_latest_date": "2026-07-02",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 88,
+      "document_count": 87,
       "source_counts": {
         "baltic": 3,
         "breakwave": 4,
-        "breakwave_insights": 145,
-        "hellenic": 98
+        "breakwave_insights": 143,
+        "hellenic": 100
       },
       "category_counts": {
         "demolition": 23,
         "dry": 3,
         "dry_charter": 8,
         "drybulk": 4,
-        "insights": 145,
-        "iron_ore": 49,
+        "insights": 143,
+        "iron_ore": 51,
         "shipbuilding": 10,
         "vessel_valuations": 8
       },
@@ -244,7 +244,7 @@
       "tone_distribution": {
         "bullish": 1,
         "cautiously optimistic": 1,
-        "cautiously_bearish": 21,
+        "cautiously_bearish": 20,
         "constructive": 42,
         "neutral": 23
       }
@@ -295,22 +295,22 @@
       "title": "Capesize",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-07-01",
-      "latest_evidence_age_days": 2,
+      "latest_evidence_date": "2026-07-02",
+      "latest_evidence_age_days": 1,
       "relevant_corpus_latest_date": "2026-07-02",
-      "lag_days": 1,
+      "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 120,
+      "document_count": 119,
       "source_counts": {
         "breakwave": 9,
-        "breakwave_insights": 86,
-        "hellenic": 155
+        "breakwave_insights": 84,
+        "hellenic": 157
       },
       "category_counts": {
         "dry_charter": 9,
         "drybulk": 9,
-        "insights": 86,
-        "iron_ore": 136,
+        "insights": 84,
+        "iron_ore": 138,
         "vessel_valuations": 10
       },
       "recent_sources_present": [
@@ -326,7 +326,7 @@
         "cautious_pessimistic": 1,
         "cautiously optimistic": 1,
         "cautiously_bearish": 27,
-        "constructive": 62,
+        "constructive": 61,
         "neutral": 27,
         "neutral_concerned": 1
       }
@@ -420,17 +420,17 @@
       "relevant_corpus_latest_date": "2026-07-02",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 101,
+      "document_count": 102,
       "source_counts": {
         "breakwave": 6,
-        "breakwave_insights": 142,
-        "hellenic": 102
+        "breakwave_insights": 139,
+        "hellenic": 105
       },
       "category_counts": {
         "dry_charter": 6,
         "drybulk": 6,
-        "insights": 142,
-        "iron_ore": 96
+        "insights": 139,
+        "iron_ore": 99
       },
       "recent_sources_present": [
         "breakwave",
@@ -443,7 +443,7 @@
       "tone_distribution": {
         "bullish": 1,
         "cautiously optimistic": 1,
-        "cautiously_bearish": 29,
+        "cautiously_bearish": 30,
         "constructive": 54,
         "neutral": 15,
         "neutral_concerned": 1
@@ -602,7 +602,7 @@
           "avg_tone_score": -0.12,
           "dominant_tone": "cautiously_bearish",
           "doc_count": 6,
-          "latest_date": "2026-07-01"
+          "latest_date": "2026-07-02"
         },
         {
           "source": "breakwave_insights",

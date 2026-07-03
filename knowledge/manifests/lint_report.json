@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T10:51:07Z",
+  "generated_at": "2026-07-03T12:36:48Z",
   "current_date": "2026-07-03",
   "warning_count": 7,
   "high_severity_count": 0,
@@ -32,7 +32,7 @@
             "avg_tone_score": -0.12,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-07-01"
+            "latest_date": "2026-07-02"
           },
           {
             "source": "breakwave_insights",
