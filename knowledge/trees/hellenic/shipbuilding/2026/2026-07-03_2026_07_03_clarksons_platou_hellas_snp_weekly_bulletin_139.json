@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139__root",
+  "doc_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nS&P activity remained steady despite the relatively more cautious approach emerging amid the ongoing geopoliticaldevelopments in the Middle East. Market participants continue to monitor the evolving situation around the Strait of Hormuz and the US-Iran peace talks. Although vessel transits through the strait have gradually increased, uncertainty over the security of safe passage continues to weigh on investment decisions, prompting many buyers to remain on the sidelines until greater clarity emerges\nDry freight rates continue to remain healthy with this week's BDI closing at significantly higher levels than last week's, which is also justified by high volumes of enquiries that we continue to receive especially on the Handysize and Supramax space.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "atlantic",
+    "japan",
+    "usd",
+    "dwt",
+    "continue",
+    "levels",
+    "sold",
+    "region",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 553,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-139",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139",
+      "parent_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "S&P activity remained steady despite the relatively more cautious approach emerging amid the ongoing geopoliticaldevelopments in the Middle East. Market participants continue to monitor the evolving situation around the Strait of Hormuz and the US-Iran peace talks.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "atlantic",
+        "japan",
+        "usd",
+        "dwt",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 551,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__root",
+  "doc_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports",
+  "parent_id": null,
+  "title": "Barely Above Water: China's PMIs and the Outlook for Dry Bulk Imports",
+  "section_path": [
+    "Barely Above Water: China's PMIs and the Outlook for Dry Bulk Imports"
+  ],
+  "section_path_text": "Barely Above Water: China's PMIs and the Outlook for Dry Bulk Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nDepending on perspective, news can be good or bad, and in some circumstances both may be applicable. The latter was very much true when the Chinese statistics authority released the latest batch of the country's official Purchasing Managers' Indices (PMI) on Tuesday. The good news was that both the manufacturing and services PMIs were in expansionary territory.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "meg",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "per",
+    "cent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1213,
+  "source_path": "reports/breakwave/2026/2026-07-06_barely-above-water-chinas-pmis-and-the-outlook-for-dry-bulk-imports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/6/barely-above-water-chinas-pmis-and-the-outlook-for-dry-bulk-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports",
+      "parent_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nDepending on perspective, news can be good or bad, and in some circumstances both may be applicable. The latter was very much true when the Chinese statistics authority released the latest batch of the country's official Purchasing Managers' Indices (PMI) on Tuesday.",
+      "keywords": [
+        "china",
+        "pmi",
+        "both",
+        "chinese",
+        "manufacturing",
+        "much",
+        "news",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__s02_chinese_dry_bulk_imports_rose_in_the_first_half",
+      "doc_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports",
+      "parent_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__root",
+      "title": "Chinese Dry Bulk Imports Rose in the First Half",
+      "section_path": [
+        "Chinese Dry Bulk Imports Rose in the First Half"
+      ],
+      "section_path_text": "Chinese Dry Bulk Imports Rose in the First Half",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "That Chinese growth has been lopsided in recent years, with exports providing much of the heavy lifting, is hardly anything new. Despite this, and despite GDP growth that is modest by Chinese standards, the country's annual dry bulk imports have remained on an upward trajectory in recent years.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "meg",
+        "iron_ore",
+        "coal",
+        "grain",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 518,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__s03_the_outlook_for_the_second_half",
+      "doc_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports",
+      "parent_id": "breakwave_insights_insights_2026-07-06_2026_07_06_barely_above_water_chinas_pmis_and_the_outlook_for_dry_bulk_imports__root",
+      "title": "The Outlook for the Second Half",
+      "section_path": [
+        "The Outlook for the Second Half"
+      ],
+      "section_path_text": "The Outlook for the Second Half",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Chinese demand for seaborne dry bulk freight typically increases in the second half of the year. Although the PMI data released earlier in the week suggest that the Chinese economy will continue to expand, readings barely above 50 highlight the challenges facing the world's second-largest economy.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "west_africa",
+        "iron_ore",
+        "coal",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 407,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

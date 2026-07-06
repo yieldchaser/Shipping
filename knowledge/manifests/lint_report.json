@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T17:36:08Z",
-  "current_date": "2026-07-03",
-  "warning_count": 7,
+  "generated_at": "2026-07-06T13:58:16Z",
+  "current_date": "2026-07-06",
+  "warning_count": 9,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,7 +12,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 1
+      "watch": 3
     }
   },
   "warnings": [
@@ -32,17 +32,89 @@
             "avg_tone_score": -0.12,
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-07-02"
+            "latest_date": "2026-07-06"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-06-30"
+            "latest_date": "2026-07-06"
           }
         ],
         "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "dry_bulk_market",
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.",
+      "details": {
+        "topic_id": "dry_bulk_market",
+        "title": "Dry Bulk Market",
+        "severity": "watch",
+        "score_diff": 0.75,
+        "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 4,
+            "latest_date": "2026-07-03"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.12,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-06"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-06"
+          }
+        ],
+        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "tanker_market",
+      "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.",
+      "details": {
+        "topic_id": "tanker_market",
+        "title": "Tanker Market",
+        "severity": "watch",
+        "score_diff": 0.75,
+        "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 5,
+            "latest_date": "2026-07-03"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.21,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-04"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-06"
+          }
+        ],
+        "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral."
       }
     },
     {
