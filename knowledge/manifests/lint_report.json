@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T13:58:16Z",
-  "current_date": "2026-07-06",
+  "generated_at": "2026-07-07T11:10:38Z",
+  "current_date": "2026-07-07",
   "warning_count": 9,
   "high_severity_count": 0,
   "status_counts": {
@@ -33,6 +33,13 @@
             "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
             "latest_date": "2026-07-06"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-07"
           },
           {
             "source": "breakwave_insights",

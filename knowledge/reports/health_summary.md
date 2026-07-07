@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-07-06T13:58:16Z'
+generated_at: '2026-07-07T11:10:38Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 9
@@ -8,9 +8,9 @@ warning_count: 9
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8421
-- Chunks: 98344
-- Sections: 30115
+- Documents: 8422
+- Chunks: 98346
+- Sections: 30117
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -18,33 +18,33 @@ warning_count: 9
 
 | Source | Latest | Age (days) | Cadence | Status | Latest Gap | Undated |
 |---|---|---:|---:|---|---:|---:|
-| breakwave/drybulk | 2026-06-23 | 13 | 14 | healthy | 14 | 0 |
-| breakwave/tankers | 2026-06-30 | 6 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-07-03 | 3 | 7 | healthy | 7 | 8 |
-| baltic/tanker | 2026-07-03 | 3 | 7 | healthy | 7 | 12 |
-| baltic/gas | 2026-07-03 | 3 | 7 | healthy | 7 | 0 |
-| baltic/container | 2026-07-03 | 3 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-07-03 | 3 | 7 | healthy | 7 | 22 |
-| breakwave_insights/insights | 2026-07-06 | 0 | 14 | healthy | 0 | 0 |
-| hellenic/dry_charter | 2026-07-01 | 5 | 14 | healthy | 7 | 1 |
-| hellenic/tanker_charter | 2026-07-01 | 5 | 14 | healthy | 6 | 0 |
-| hellenic/iron_ore | 2026-07-06 | 0 | 14 | healthy | 3 | 0 |
-| hellenic/vessel_valuations | 2026-07-01 | 5 | 14 | healthy | 8 | 0 |
-| hellenic/demolition | 2026-07-04 | 2 | 21 | healthy | 0 | 2 |
-| hellenic/shipbuilding | 2026-07-03 | 3 | 21 | healthy | 3 | 0 |
+| breakwave/drybulk | 2026-07-07 | 0 | 14 | healthy | 14 | 0 |
+| breakwave/tankers | 2026-06-30 | 7 | 14 | healthy | 14 | 0 |
+| baltic/dry | 2026-07-03 | 4 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-07-03 | 4 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-07-03 | 4 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-07-03 | 4 | 7 | healthy | 7 | 0 |
+| baltic/ningbo | 2026-07-03 | 4 | 7 | healthy | 7 | 22 |
+| breakwave_insights/insights | 2026-07-06 | 1 | 14 | healthy | 0 | 0 |
+| hellenic/dry_charter | 2026-07-01 | 6 | 14 | healthy | 7 | 1 |
+| hellenic/tanker_charter | 2026-07-01 | 6 | 14 | healthy | 6 | 0 |
+| hellenic/iron_ore | 2026-07-06 | 1 | 14 | healthy | 3 | 0 |
+| hellenic/vessel_valuations | 2026-07-01 | 6 | 14 | healthy | 8 | 0 |
+| hellenic/demolition | 2026-07-04 | 3 | 21 | healthy | 0 | 2 |
+| hellenic/shipbuilding | 2026-07-03 | 4 | 21 | healthy | 3 | 0 |
 | books | undated | - | - | reference | - | 12 |
 
 ## Topic Coverage
 
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
-| Dry Bulk Market | 2026-07-06 | 86 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Dry Bulk Market | 2026-07-07 | 87 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Tanker Market | 2026-07-06 | 83 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Capesize | 2026-07-06 | 119 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Panamax and Supramax | 2026-07-06 | 127 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Capesize | 2026-07-07 | 120 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Panamax and Supramax | 2026-07-07 | 128 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | VLCC and Suezmax | 2026-07-06 | 116 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| China Steel and Iron Ore | 2026-07-06 | 99 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Coal and Grain Flows | 2026-07-06 | 124 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| China Steel and Iron Ore | 2026-07-07 | 99 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Coal and Grain Flows | 2026-07-07 | 124 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-07-06 | 105 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | LNG and LPG Shipping | 2026-07-03 | 164 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-07-03 | 187 | 250 | baltic, hellenic | - | healthy |
