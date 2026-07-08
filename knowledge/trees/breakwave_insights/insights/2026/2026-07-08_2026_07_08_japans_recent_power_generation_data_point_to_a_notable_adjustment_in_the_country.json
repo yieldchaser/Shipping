@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country__root",
+  "doc_id": "breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country",
+  "parent_id": null,
+  "title": "Japan's recent power-generation data point to a notable adjustment in the country's energy mix",
+  "section_path": [
+    "Japan's recent power-generation data point to a notable adjustment in the country's energy mix"
+  ],
+  "section_path_text": "Japan's recent power-generation data point to a notable adjustment in the country's energy mix",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nJapan's recent power-generation data point to a notable adjustment in the country's energy mix, with utilities reducing LNGbased generation and increasing coal burn. In June, gas-fired output fell by 16% y-o-y, while coal-fired generation by the largest Japanese utilities rose by almost 5%. The shift was also reflected in trade flows.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "japan",
+    "coal",
+    "gas",
+    "prices",
+    "demand",
+    "energy",
+    "asian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 768,
+  "source_path": "reports/breakwave/2026/2026-07-08_japans-recent-power-generation-data-point-to-a-notable-adjustment-in-the-country.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/8/japans-recent-power-generation-data-point-to-a-notable-adjustment-in-the-countrys-energy-mix",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country",
+      "parent_id": "breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nJapan's recent power-generation data point to a notable adjustment in the country's energy mix, with utilities reducing LNGbased generation and increasing coal burn. In June, gas-fired output fell by 16% y-o-y, while coal-fired generation by the largest Japanese utilities rose by almost 5%.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "pacific",
+        "europe",
+        "japan",
+        "coal",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 766,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
