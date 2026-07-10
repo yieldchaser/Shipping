@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 07 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 07 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 07 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Midage Supramax values dipped in response to soft pricing for the Livita,while older tonnage firmed in response to the sale of the VW Trust to Chinese buyers. Kamsarmax AC Youth (82,600 DWT, 2007, Tadotsu Tsuneishi) sold by Glorious Youth Shipping for USD 15 mil, VV Value USD 14.3 mil. Ultramax Livita (63,500 DWT, 2017, Shin Kasado Dock) sold to Greek buyers for USD 30.5 mil, VV Value USD 30.6 mil.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "mil.",
+    "sold",
+    "value",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1081,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-09_weekly-vessel-valuations-report-july-07-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-07-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Midage Supramax values dipped in response to soft pricing for the Livita,while older tonnage firmed in response to the sale of the VW Trust to Chinese buyers. Kamsarmax AC Youth (82,600 DWT, 2007, Tadotsu Tsuneishi) sold by Glorious Youth Shipping for USD 15 mil, VV Value USD 14.3 mil.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "china",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 644,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__s02_linked_asset_2026_07_09_weekly_vessel_valuations_report_july_07_2026_9720252_9c1210e8855d_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__root",
+      "title": "Linked asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nLinked image asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsVal Ue\n(7 July 2026 VV Mini Matrix « Weekly Change\nToakers Batkers Containers\nYor vce see Ate un oe ome ro Saree Handy Pet Peas Pes Haney men\n\"ee an \"as on\" \" as oni as a \"I as om ort\n. a see us ™ cy re o ou me os ne 100\n\"a on an ns \" an am a \"aN \"aN as om crag\n‘ ae 10 1 oy ss oe \" \" oa owe os mm 10\n\"a a a on ws a oni a - \"I 0s, - \"me\n.",
+      "keywords": [
+        "handysize",
+        "container",
+        "asset",
+        "image",
+        "oni",
+        "owe",
+        "see",
+        "ate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 395,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
