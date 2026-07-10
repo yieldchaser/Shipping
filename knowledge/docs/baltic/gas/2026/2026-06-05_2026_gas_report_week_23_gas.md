@@ -1,0 +1,45 @@
+---
+category: gas
+commodities:
+- gas
+date: '2026-06-05'
+doc_id: baltic_gas_2026-06-05_2026_gas_report_week_23_gas
+document_type: weekly_roundup
+key_entities: []
+keywords:
+- gas
+- jun
+- main
+market_tone: neutral
+regions:
+- atlantic
+- pacific
+section_count: 1
+signals: {}
+source: baltic
+source_path: reports/baltic/gas/2026/2026_gas-report-week-23_gas.html
+source_stem: 2026_gas-report-week-23_gas
+source_url: null
+summary: 'Main
+
+  05 Jun 2026
+
+  Gas report - Week 23'
+themes:
+- gas
+- jun
+- main
+title: Gas report - Week 23
+vessel_classes:
+- lng
+- lpg
+---
+
+## Summary
+Main
+05 Jun 2026
+Gas report - Week 23
+
+## Main
+05 Jun 2026
+Gas report - Week 23

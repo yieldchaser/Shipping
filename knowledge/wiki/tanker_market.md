@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 84
+document_count: 86
 evidence_count: 250
-generated_at: '2026-07-09T13:21:15Z'
+generated_at: '2026-07-10T11:11:10Z'
 latest_evidence_date: '2026-07-09'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-09, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 86 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-09, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -41,14 +41,14 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-07-08 | hellenic tanker_charter | Linked asset: 2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026_87202627_e5ef58cb8fe6.jpg: Source asset: reports/hellenic/tanker_charter/2026/assets/2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026_87202627_e5ef58cb8fe6.jpg Linked image asset: 2026-07-08_weekly-tanker-time-charter-estimates-july-08-2026_87202627_e5ef58cb8fe6.jpg Image metadata: JPEG 600x320 mode=RGB Embedded info: dpi: (72.0, 72.0) OCR text: y 3 | A LI BRA Updated Weds 8 July 2026 Shipping Umited * Eco tonnage with Scrubber fitted TANKER TIME CHARTER ESTIMATE ($/pdpr) SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR* HANDY 25,000 21,000 22,500 19,000 MR IMO3 27,000 24,000 25,000 21,500 LR1 38,500 32,500 30,500 28,500 LR2 48,500 36,000 39,500 37,500 AFRA (115k dwt) 52,500 35,000 38,500 36,000 SUEZ 70,000 47,500 47,500 40,000 vicc 107,500 75,000 65,000 55,000 [doc_id: hellenic_tanker_charter_2026-07-08_2026_07_08_weekly_tanker_time_charter_estimates_july_08_2026 | section_id: hellenic_tanker_charter_2026-07-08_2026_07_08_weekly_tanker_time_charter_estimates_july_08_2026__s02_linked_asset_2026_07_08_weekly_tanker_time_charter_estimates_july_08_2026_87202627_e5ef58cb8fe6_jpg | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-06-06 to 2026-07-09 across 1 calendar years.
+- Coverage span: 2026-06-08 to 2026-07-09 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 177, hellenic: 65, baltic: 4, breakwave: 4
-- Category coverage: insights: 177, demolition: 36, shipbuilding: 11, tanker_charter: 10, vessel_valuations: 8, tanker: 4, tankers: 4
-- Tone distribution: constructive: 162, neutral: 53, cautiously_bearish: 33, concerned: 2
+- Source coverage: breakwave_insights: 175, hellenic: 63, baltic: 8, breakwave: 4
+- Category coverage: insights: 175, demolition: 34, shipbuilding: 11, tanker_charter: 10, vessel_valuations: 8, tanker: 8, tankers: 4
+- Tone distribution: constructive: 160, neutral: 55, cautiously_bearish: 33, concerned: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
