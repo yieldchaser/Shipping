@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 84
+document_count: 85
 evidence_count: 250
-generated_at: '2026-07-10T13:04:13Z'
+generated_at: '2026-07-10T14:16:19Z'
 latest_evidence_date: '2026-07-10'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-10, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 85 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-10, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, dry bulk, capesize, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 145, hellenic: 95, baltic: 6, breakwave: 4
-- Category coverage: insights: 145, iron_ore: 51, demolition: 21, dry_charter: 8, shipbuilding: 8, vessel_valuations: 7, dry: 6, drybulk: 4
-- Tone distribution: constructive: 125, cautiously_bearish: 77, neutral: 46, bullish: 2
+- Source coverage: breakwave_insights: 144, hellenic: 95, baltic: 7, breakwave: 4
+- Category coverage: insights: 144, iron_ore: 51, demolition: 21, dry_charter: 8, shipbuilding: 8, vessel_valuations: 7, dry: 7, drybulk: 4
+- Tone distribution: constructive: 124, cautiously_bearish: 77, neutral: 47, bullish: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-07-10 | Technology: a speedbump, or a paradigm shift? [doc_id: breakwave_insights_insights_2026-07-10_2026_07_10_technology_a_speedbump_or_a_paradigm_shift | section_id: breakwave_insights_insights_2026-07-10_2026_07_10_technology_a_speedbump_or_a_paradigm_shift__s05_linked_asset_2026_07_10_technology_a_speedbump_or_a_paradigm_shift_img_image004_f57d85de1f55_png | pages n/a]
 - 2026-07-10 | MMI Daily Iron Ore Index Report July 10 2026 [doc_id: hellenic_iron_ore_2026-07-10_2026_07_10_mmi_daily_iron_ore_index_report_july_10_2026 | section_id: hellenic_iron_ore_2026-07-10_2026_07_10_mmi_daily_iron_ore_index_report_july_10_2026__s03_linked_asset_2026_07_10_mmi_daily_iron_ore_index_report_july_10_2026_mmi_daily_iron_ore_report_for_10th_j_6866ff14ed67_pdf | pages n/a]
 - 2026-07-10 | India's Drastic Improvement Continues [doc_id: breakwave_insights_insights_2026-07-10_2026_07_10_indias_drastic_improvement_continues | section_id: breakwave_insights_insights_2026-07-10_2026_07_10_indias_drastic_improvement_continues__s03_linked_asset_2026_07_10_indias_drastic_improvement_continues_img_chart2_411e031d290c_jpg | pages n/a]
+- 2026-07-10 | Bulk report - Week 28 [doc_id: baltic_dry_2026-07-10_2026_bulk_report_week_28_dry | section_id: baltic_dry_2026-07-10_2026_bulk_report_week_28_dry__s01_main | pages n/a]
 - 2026-07-09 | Weekly Vessel Valuations Report, July 07 2026 [doc_id: hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026 | section_id: hellenic_vessel_valuations_2026-07-09_2026_07_09_weekly_vessel_valuations_report_july_07_2026__s01_main | pages n/a]
 - 2026-07-09 | Oil extends gains on renewed US and Iran attacks [doc_id: breakwave_insights_insights_2026-07-09_2026_07_09_oil_extends_gains_on_renewed_us_and_iran_attacks | section_id: breakwave_insights_insights_2026-07-09_2026_07_09_oil_extends_gains_on_renewed_us_and_iran_attacks__s04_linked_asset_2026_07_09_oil_extends_gains_on_renewed_us_and_iran_attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7589b75dccde_png | pages n/a]
 - 2026-07-09 | MMI Daily Iron Ore Index Report July 9 2026 [doc_id: hellenic_iron_ore_2026-07-09_2026_07_09_mmi_daily_iron_ore_index_report_july_9_2026 | section_id: hellenic_iron_ore_2026-07-09_2026_07_09_mmi_daily_iron_ore_index_report_july_9_2026__s03_linked_asset_2026_07_09_mmi_daily_iron_ore_index_report_july_9_2026_mmi_daily_iron_ore_report_for_9th_ju_fd923a127475_pdf | pages n/a]
 - 2026-07-08 | Weekly Dry Time Charter Estimates, July 08 2026 [doc_id: hellenic_dry_charter_2026-07-08_2026_07_08_weekly_dry_time_charter_estimates_july_08_2026 | section_id: hellenic_dry_charter_2026-07-08_2026_07_08_weekly_dry_time_charter_estimates_july_08_2026__s02_linked_asset_2026_07_08_weekly_dry_time_charter_estimates_july_08_2026_87202626_f061011cacc0_jpg | pages n/a]
-- 2026-07-08 | Japan's recent power-generation data point to a notable adjustment in the country's energy mix [doc_id: breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country | section_id: breakwave_insights_insights_2026-07-08_2026_07_08_japans_recent_power_generation_data_point_to_a_notable_adjustment_in_the_country__s01_main | pages n/a]
 
 ## Related Topics
 - capesize

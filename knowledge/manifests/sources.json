@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-10T13:02:31Z",
+  "generated_at": "2026-07-10T14:14:44Z",
   "counts": {
     "breakwave": {
       "drybulk": 205,
       "tankers": 74
     },
     "baltic": {
-      "dry": 592,
-      "tanker": 594,
-      "gas": 203,
-      "container": 84,
+      "dry": 593,
+      "tanker": 595,
+      "gas": 204,
+      "container": 85,
       "ningbo": 529
     },
     "breakwave_insights": {
