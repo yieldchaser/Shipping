@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140__root",
+  "doc_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs many had anticipated, the U.S.-Iran ceasefire has failed to hold, with renewed hostilities threatening to underminethe fragile optimism that the traffic in the Straits of Hormuz will be fully restored sooner than later. The latest developments have reinforced concerns that geopolitical risks remain elevated and continue to influence the decisions of Buyers and Sellers in all segments. On the commodity side, coal demand in the Far East is expected to strengthen, with Vietnam projected to reach record coal imports in 2026.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "coal",
+    "crude_oil",
+    "any",
+    "information",
+    "clarksons",
+    "its",
+    "usd",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2258,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-140",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140",
+      "parent_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As many had anticipated, the U.S.-Iran ceasefire has failed to hold, with renewed hostilities threatening to underminethe fragile optimism that the traffic in the Straits of Hormuz will be fully restored sooner than later. The latest developments have reinforced concerns that geopolitical risks remain elevated and continue to influence the decisions of Buyers and Sellers in all segments.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "coal",
+        "crude_oil",
+        "abt",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 583,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140__s02_linked_asset_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140_weekly_sales_10th_july_2026_789eccc1e473_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140",
+      "parent_id": "hellenic_shipbuilding_2026-07-10_2026_07_10_clarksons_platou_hellas_snp_weekly_bulletin_140__root",
+      "title": "Linked asset: 2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-10_clarksons-platou-hellas-snp-weekly-bulletin-140_weekly-sales-10th-july-2026_789eccc1e473.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAs many had anticipated, the U.S.-Iran ceasefire has failed to hold, with renewed hostilities threatening\nto undermine the fragile optimism that the traffic in the Straits of Hormuz will be fully restored sooner\nthan later.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "coal",
+        "crude_oil",
+        "any",
+        "information"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1625,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

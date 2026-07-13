@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T14:17:33Z",
-  "current_date": "2026-07-10",
-  "warning_count": 7,
+  "generated_at": "2026-07-13T13:13:51Z",
+  "current_date": "2026-07-13",
+  "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,7 +12,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 1
+      "watch": 2
     }
   },
   "warnings": [
@@ -46,10 +46,39 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-07-10"
+            "latest_date": "2026-07-13"
           }
         ],
         "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "china_steel_and_iron_ore",
+      "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral.",
+      "details": {
+        "topic_id": "china_steel_and_iron_ore",
+        "title": "China Steel and Iron Ore",
+        "severity": "watch",
+        "score_diff": 0.75,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.21,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-07-10"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-13"
+          }
+        ],
+        "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
       }
     },
     {
