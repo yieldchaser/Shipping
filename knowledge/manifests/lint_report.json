@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-13T13:13:51Z",
-  "current_date": "2026-07-13",
-  "warning_count": 8,
+  "generated_at": "2026-07-14T10:10:24Z",
+  "current_date": "2026-07-14",
+  "warning_count": 9,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 14,
-      "reference": 1
+      "healthy": 13,
+      "reference": 1,
+      "watch": 1
     },
     "topics": {
       "healthy": 10
@@ -16,6 +17,25 @@
     }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "source_freshness",
+      "key": "baltic/ningbo",
+      "message": "baltic/ningbo is watch at 11 days since the latest dated document.",
+      "details": {
+        "label": "baltic/ningbo",
+        "source": "baltic",
+        "category": "ningbo",
+        "status": "watch",
+        "cadence_days": 7,
+        "latest_date": "2026-07-03",
+        "age_days": 11,
+        "latest_gap_days": 7,
+        "max_recent_gap_days": 7,
+        "dated_doc_count": 501,
+        "undated_doc_count": 28
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
