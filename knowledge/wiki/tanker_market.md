@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 87
+document_count: 88
 evidence_count: 250
-generated_at: '2026-07-14T11:53:46Z'
+generated_at: '2026-07-14T17:27:35Z'
 latest_evidence_date: '2026-07-14'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 87 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-14, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 88 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-07-14, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,9 +46,9 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 172, hellenic: 63, baltic: 9, breakwave: 6
-- Category coverage: insights: 172, demolition: 37, shipbuilding: 10, tanker: 9, vessel_valuations: 8, tanker_charter: 8, tankers: 6
-- Tone distribution: constructive: 150, neutral: 50, cautiously_bearish: 46, concerned: 2, cautious: 2
+- Source coverage: breakwave_insights: 171, hellenic: 63, baltic: 10, breakwave: 6
+- Category coverage: insights: 171, demolition: 37, tanker: 10, shipbuilding: 10, vessel_valuations: 8, tanker_charter: 8, tankers: 6
+- Tone distribution: constructive: 149, neutral: 51, cautiously_bearish: 46, concerned: 2, cautious: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
