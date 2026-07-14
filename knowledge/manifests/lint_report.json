@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T10:10:24Z",
+  "generated_at": "2026-07-14T11:54:59Z",
   "current_date": "2026-07-14",
-  "warning_count": 9,
+  "warning_count": 10,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -13,7 +13,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 2
+      "watch": 3
     }
   },
   "warnings": [
@@ -66,7 +66,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-07-13"
+            "latest_date": "2026-07-14"
           }
         ],
         "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
@@ -95,10 +95,46 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-07-13"
+            "latest_date": "2026-07-14"
           }
         ],
         "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "dry_bulk_market",
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral.",
+      "details": {
+        "topic_id": "dry_bulk_market",
+        "title": "Dry Bulk Market",
+        "severity": "watch",
+        "score_diff": 0.75,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.21,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-07-11"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-10"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.54,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-14"
+          }
+        ],
+        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
       }
     },
     {

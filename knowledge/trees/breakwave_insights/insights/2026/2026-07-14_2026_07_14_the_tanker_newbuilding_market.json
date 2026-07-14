@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market__root",
+  "doc_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market",
+  "parent_id": null,
+  "title": "The tanker newbuilding market",
+  "section_path": [
+    "The tanker newbuilding market"
+  ],
+  "section_path_text": "The tanker newbuilding market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe tanker newbuilding market has entered 2026 with considerably stronger momentum, reflecting growing confidence in long-term market fundamentals despite continued uncertainty surrounding environmental regulations and future propulsion technologies. As of mid-2026, the tanker fleet (>10,000 dwt) consists of 8,090 vessels, while the global orderbook has expanded to 1,535 ships, resulting in an orderbook-to-fleet ratio of 19.0%. This compares with an active fleet of 7,746 vessels and an orderbook of 1,220 vessels during the same period of 2025, when the ratio stood at 15.8%.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "during",
+    "tankers",
+    "vessels",
+    "ratio",
+    "activity",
+    "owners",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2580,
+  "source_path": "reports/breakwave/2026/2026-07-14_the-tanker-newbuilding-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/14/the-tanker-newbuilding-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market",
+      "parent_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe tanker newbuilding market has entered 2026 with considerably stronger momentum, reflecting growing confidence in long-term market fundamentals despite continued uncertainty surrounding environmental regulations and future propulsion technologies. As of mid-2026, the tanker fleet (>10,000 dwt) consists of 8,090 vessels, while the global orderbook has expanded to 1,535 ships, resulting in an orderbook-to-fleet ratio of 19.0%.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "during",
+        "tankers",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 857,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market__s02_linked_asset_2026_07_14_the_tanker_newbuilding_market_img_unsplash_image_ngxd3zwmifa_89b9419e105b_jpg",
+      "doc_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market",
+      "parent_id": "breakwave_insights_insights_2026-07-14_2026_07_14_the_tanker_newbuilding_market__root",
+      "title": "Linked asset: 2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg\n\nLinked image asset: 2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\nve |\nan sail re\nee {5 Phd 2 Sige\neae ae RoE ae\nCF abl : i\nf ~ t } <*\n, po\n% i * -\n4% \" a\na ill ia\nal otal <ateatd ' t ei es a Lae , i \" \"- ha\nip REE Cet) > a oe . at\n° vt \"i rh Be te os * ‘ om basa G tee yi e Sot .",
+      "keywords": [
+        "eae",
+        "asset",
+        "bis",
+        "cet",
+        "eee",
+        "ees",
+        "ies",
+        "iia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1685,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
