@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-15T10:19:03.457650+00:00",
+  "generated_at": "2026-07-15T11:38:44.519041+00:00",
   "brief_date": "2026-07-15",
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "meta/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "ollama",
       "nim"
@@ -83,14 +83,15 @@
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.84sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/8 neg/4 neu.",
-      "summary": "The dry bulk market is currently in an expansion regime, with the BDI at 2980.0, +1.84σ above its 252-day mean, indicating a strong upward trend. Momentum, as measured by the ROC60, is +16.1%, signaling a rapid rate of change. However, analyst sentiment is neutral, reflecting concerns over fundamentals such as Chinese steel production and iron ore inventories. The Capesize segment is leading the market, with rates at $4751.0, +1.58σ above their mean, driven by healthy cargo volumes and miner activity in the Pacific. In contrast, the Panamax market is experiencing consolidation, with rates at $2251.0, +1.52σ above their mean, as the Atlantic market awaits the next move.",
+      "summary": "Dry Bulk is in expansion regime at 2980.0, with z-score +1.84sigma and ROC60 +16.1%. Recent analyst sentiment skews neutral (neutral:11, positive:1). Quant and analyst signals disagree for dry bulk (Z=+1.84sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/8 neg/4 neu.",
       "key_signals": [
-        "The Capesize-Panamax spread of +2500 points indicates that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels, which could lead to further rate increases in the Capesize segment.",
-        "The BDI's top-quartile historical context suggests that the market is due for a correction, but the current momentum may carry it further.",
-        "The recent surge in dry bulk spot rates, particularly in the Capesize segment, may be unsustainable in the long term, given the weakening fundamentals."
+        "Quant: BDI value=2980.0, z=+1.84sigma, 5Y percentile=98.4%.",
+        "Qual: last 12 reports sentiment mix -> neutral:11, positive:1.",
+        "Cross-check: CAPESIZE value=4751.0, z=+1.58sigma.",
+        "Latest report 2026-07-07: momentum=neutral, fundamentals=neutral."
       ],
-      "outlook": "The market may experience a correction in the next 2-4 weeks, driven by weakening fundamentals and a potential mean-reversion in the BDI.",
-      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
+      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
       "report_dates": [
         "2026-07-07",
         "2026-06-23",
@@ -104,24 +105,20 @@
         "2026-03-03",
         "2026-02-17",
         "2026-02-03"
-      ],
-      "momentum_grade": "UP",
-      "positioning_bias": "NEUTRAL",
-      "trade_idea": "No high-conviction setup: A clearer picture on Chinese steel production and iron ore import volumes is needed to validate a trade thesis.",
-      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
-      "confidence_score": 0.5
+      ]
     },
     "tanker": {
       "confluence_type": "NEUTRAL",
       "confluence_note": "Signal alignment is mixed for tanker (Z=+0.38sigma); conviction remains limited. Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "The tanker market is currently in a neutral regime, with the clean and dirty tanker indexes at +0.26σ and +0.51σ above their means, respectively. Momentum, as measured by the ROC60, is -44.6% and -24.2% for clean and dirty tankers, signaling a rapid rate of change. Analyst sentiment is positive, reflecting improving fundamentals such as world oil demand and OPEC supply. The VLCC segment is experiencing a resurgence, driven by the restart of hostilities in the Middle East and improving demand from China.",
+      "summary": "Tanker is in distribution regime at 1176.0, with z-score +0.38sigma and ROC60 -44.6%. Recent analyst sentiment skews positive (neutral:5, negative:1, positive:6). Signal alignment is mixed for tanker (Z=+0.38sigma); conviction remains limited. Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "key_signals": [
-        "The VLCC Middle East-Asia route is assessed at WS345, +48 points higher than last Friday, driven by the restart of hostilities in the Middle East.",
-        "The clean-dirty tanker spread of -969 points indicates that dirty tankers are outperforming clean tankers, driven by improving oil demand and supply dynamics."
+        "Quant: CLEAN_TANKER value=1176.0, z=+0.38sigma, 5Y percentile=93.6%.",
+        "Qual: last 12 reports sentiment mix -> neutral:5, negative:1, positive:6.",
+        "Cross-check: DIRTY_TANKER value=2145.0, z=+0.51sigma.",
+        "Latest report 2026-07-14: momentum=positive, fundamentals=positive."
       ],
-      "outlook": "The tanker market may experience a rally in the next 2-4 weeks, driven by improving fundamentals and a potential increase in oil demand.",
-      "watch": "OPEC+ June 1 meeting, China May oil import data (~June 8), and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "tanker outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-07-14",
         "2026-06-30",
@@ -135,21 +132,11 @@
         "2026-03-10",
         "2026-02-24",
         "2026-02-10"
-      ],
-      "momentum_grade": "UP",
-      "positioning_bias": "NEUTRAL",
-      "trade_idea": "No high-conviction setup: A clearer picture on the impact of the Middle East conflict on oil supply and demand is needed to validate a trade thesis.",
-      "catalyst_watch": "OPEC+ June 1 meeting, China May oil import data (~June 8), and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline.",
-      "confidence_score": 0.7
+      ]
     }
   },
-  "macro_note": "The Iran-Israel conflict is currently rerouting VLCC traffic away from the Strait of Hormuz, which may impact oil supply and demand dynamics. The OPEC+ June 1 meeting and China May oil import data (~June 8) will be closely watched for their impact on the tanker market.",
-  "cross_sector_analysis": {
-    "relative_value": "The dry bulk sector has a better risk-reward profile than the tanker sector, driven by the current expansion regime and improving fundamentals in the Capesize segment.",
-    "dominant_driver": "The dominant macro force driving both sectors is the improving oil demand and supply dynamics, particularly in the Middle East and China.",
-    "positioning_recommendation": "A long dry bulk and short tanker spread trade may be considered, given the current divergence in fundamentals and market trends."
-  },
+  "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
+  "cross_sector_analysis": {},
   "sources": [
     "breakwave_drybulk_2026-07-07",
     "breakwave_drybulk_2026-06-23",
