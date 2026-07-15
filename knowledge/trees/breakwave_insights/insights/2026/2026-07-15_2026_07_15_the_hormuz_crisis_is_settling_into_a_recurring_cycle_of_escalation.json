@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation__root",
+  "doc_id": "breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation",
+  "parent_id": null,
+  "title": "The Hormuz crisis is settling into a recurring cycle of escalation",
+  "section_path": [
+    "The Hormuz crisis is settling into a recurring cycle of escalation"
+  ],
+  "section_path_text": "The Hormuz crisis is settling into a recurring cycle of escalation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nThe MoU between Washington and Tehran in mid-June, which set out a 60-day framework for reaching a final settlement, briefly raised hopes that the Hormuz crisis was moving toward a stable resolution. Over the past week, renewed Iranian attacks on commercial vessels transiting the strait, prompted Washington to reinstate the oil export sanctions suspended under the agreement. The ceasefire effectively collapsed as the US and Iran exchanged airstrikes, commercial shipping came under renewed attack, Tehran again declared Hormuz closed and vessel traffic fell sharply, reversing the recovery in transits recorded in late June and early July.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "its",
+    "hormuz"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 766,
+  "source_path": "reports/breakwave/2026/2026-07-15_the-hormuz-crisis-is-settling-into-a-recurring-cycle-of-escalation.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/15/the-hormuz-crisis-is-settling-into-a-recurring-cycle-of-escalation",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation",
+      "parent_id": "breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nThe MoU between Washington and Tehran in mid-June, which set out a 60-day framework for reaching a final settlement, briefly raised hopes that the Hormuz crisis was moving toward a stable resolution. Over the past week, renewed Iranian attacks on commercial vessels transiting the strait, prompted Washington to reinstate the oil export sanctions suspended under the agreement.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 764,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

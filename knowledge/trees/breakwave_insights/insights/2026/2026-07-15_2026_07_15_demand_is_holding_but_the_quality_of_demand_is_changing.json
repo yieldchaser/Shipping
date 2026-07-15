@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing__root",
+  "doc_id": "breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing",
+  "parent_id": null,
+  "title": "Demand Is Holding, but the Quality of Demand Is Changing",
+  "section_path": [
+    "Demand Is Holding, but the Quality of Demand Is Changing"
+  ],
+  "section_path_text": "Demand Is Holding, but the Quality of Demand Is Changing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Panagiota Kinti\nChina remains the central variable for dry bulk shipping. The country still dominates seaborne demand for iron ore, coal, bauxite and several minor bulks, meaning that even small shifts in Chinese industrial activity, commodity policy or trade routes can quickly affect Capesize and Panamax freight markets. The latest data point to a mixed but still supportive picture: China's manufacturing PMI returned to expansion in June at 50.3, while private manufacturing data also showed continued expansion, supported by high-tech exports and stockpiling linked to geopolitical uncertainty.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 959,
+  "source_path": "reports/breakwave/2026/2026-07-15_demand-is-holding-but-the-quality-of-demand-is-changing.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/15/demand-is-holding-but-the-quality-of-demand-is-changing",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing",
+      "parent_id": "breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Panagiota Kinti\nChina remains the central variable for dry bulk shipping. The country still dominates seaborne demand for iron ore, coal, bauxite and several minor bulks, meaning that even small shifts in Chinese industrial activity, commodity policy or trade routes can quickly affect Capesize and Panamax freight markets.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 957,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
