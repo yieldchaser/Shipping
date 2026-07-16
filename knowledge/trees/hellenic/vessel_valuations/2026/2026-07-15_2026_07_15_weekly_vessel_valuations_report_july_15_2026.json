@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 15 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 15 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 15 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Value movements were subdued this week, as achieved prices held broadly steady,with the exception of a slight correction in mid-age Supramax vessels. Kamsarmax Polynesia Queen (82,200 DWT, 2012, Tsuneishi Zhoushan) sold by Laus Ocean Shipping for USD 21 mil, VV Value USD 21.1 mil. Ultramax Livita (63,500 DWT, 2017, Shin Kasado Dock) sold by Ugland Bulk Shipping AS for USD 30.5 mil, VV Value USD 30.9 mil.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "usd",
+    "value",
+    "mil",
+    "mil.",
+    "sold",
+    "asset",
+    "buyers",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 731,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-15_weekly-vessel-valuations-report-july-15-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-15-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Value movements were subdued this week, as achieved prices held broadly steady,with the exception of a slight correction in mid-age Supramax vessels. Kamsarmax Polynesia Queen (82,200 DWT, 2012, Tsuneishi Zhoushan) sold by Laus Ocean Shipping for USD 21 mil, VV Value USD 21.1 mil.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "usd",
+        "value",
+        "mil",
+        "mil."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 379,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__s02_linked_asset_2026_07_15_weekly_vessel_valuations_report_july_15_2026_15720250_c88c24b07201_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__root",
+      "title": "Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nLinked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© vesselsValue -\n15 July 2026 VV Mini Matrix - Weekly Change\nnan man conta\nwe ee ee ee ee\nsean anna are)] [luni erll/anwlllllan nl) | dow: nelle an\na - Th ™ cd] ~- om a = - an us ie\nmace am | fom a) mee | wee een\n‘ a cal ue ™ = ~ _ - = - an me 1\nSeo ee oe ee\n. a - i ™ c -_ ~ ~ \" aad ase os ie\neee\n= ae - ry ™ - -~ \"~ sme -- ane us ie\nSo Se by = | Se = Ss =\nie ae - ue = \" - as ct ct - an us ie\nSS Ses eho = 2 ahs Se =\n= cal nea me _ \" va ™ os = \"0 Cad ms see",
+      "keywords": [
+        "asset",
+        "cal",
+        "image",
+        "aad",
+        "ahs",
+        "ane",
+        "anna",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 312,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

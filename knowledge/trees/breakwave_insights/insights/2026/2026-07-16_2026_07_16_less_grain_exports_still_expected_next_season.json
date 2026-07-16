@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__root",
+  "doc_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season",
+  "parent_id": null,
+  "title": "Less Grain Exports Still Expected Next Season",
+  "section_path": [
+    "Less Grain Exports Still Expected Next Season"
+  ],
+  "section_path_text": "Less Grain Exports Still Expected Next Season",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) has released its latest forecast for the upcoming 2026/27 season and is predicting that global coarse grain, wheat, soybean, and soymeal exports will total 744.3 million tons. This is 5 million tons (1%) more than the USDA predicted a month ago - but it is 23.6 million tons (-3%) less than is expected for the current 2025/26 season. Overall, a year-on-year decline in exports would be a headwind for the dry bulk market.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "million",
+    "tons",
+    "exports",
+    "coarse",
+    "expected",
+    "global",
+    "year-on-year",
+    "asset",
+    "image",
+    "season."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 564,
+  "source_path": "reports/breakwave/2026/2026-07-16_less-grain-exports-still-expected-next-season.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/16/less-grain-exports-still-expected-next-season",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season",
+      "parent_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) has released its latest forecast for the upcoming 2026/27 season and is predicting that global coarse grain, wheat, soybean, and soymeal exports will total 744.3 million tons. This is 5 million tons (1%) more than the USDA predicted a month ago - but it is 23.6 million tons (-3%) less than is expected for the current 2025/26 season.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "tons",
+        "exports",
+        "coarse",
+        "expected",
+        "year-on-year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__s02_linked_asset_2026_07_16_less_grain_exports_still_expected_next_season_img_chart_f5f70f1f5607_jpg",
+      "doc_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season",
+      "parent_id": "breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__root",
+      "title": "Linked asset: 2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg\n\nLinked image asset: 2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg\n\nImage metadata: JPEG 1360x490 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA Argentina Brazil Ukraine\n2025/26 (est) 269.1mt 90.3mt 50.1mt 43.1mt 24.6mt\n2026/27 (proj) 252.4mt 86.7mt 43.4mt 44.1mt 25.5mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "corn",
+        "est"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
