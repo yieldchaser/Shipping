@@ -9,7 +9,7 @@ categories:
 - vessel_valuations
 document_count: 89
 evidence_count: 250
-generated_at: '2026-07-17T11:57:16Z'
+generated_at: '2026-07-17T17:25:11Z'
 latest_evidence_date: '2026-07-17'
 page_type: topic_wiki
 related_topics:
@@ -41,25 +41,25 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-07-17 | breakwave_insights insights | Mid-term catalyst: China's strategic and commercial crude stock expansion: One of the key lessons from the Strait of Hormuz disruption is the strategic value of maintaining adequate crude inventories. India and several Southeast Asian countries had largely replenished their inventory losses by June, reflecting their relatively limited storage capacity and smaller absolute stock draws. [doc_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return | section_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return__s03_mid_term_catalyst_china_s_strategic_and_commercial_crude_stock_expansion | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-06-15 to 2026-07-17 across 1 calendar years.
+- Coverage span: 2026-06-16 to 2026-07-17 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, china, crude_oil, tanker, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 174, hellenic: 62, baltic: 8, breakwave: 6
-- Category coverage: insights: 174, demolition: 30, shipbuilding: 12, vessel_valuations: 10, tanker_charter: 10, tanker: 8, tankers: 6
-- Tone distribution: constructive: 150, neutral: 53, cautiously_bearish: 43, concerned: 2, cautious: 2
+- Source coverage: breakwave_insights: 173, hellenic: 62, baltic: 9, breakwave: 6
+- Category coverage: insights: 173, demolition: 30, shipbuilding: 12, vessel_valuations: 10, tanker_charter: 10, tanker: 9, tankers: 6
+- Tone distribution: constructive: 149, neutral: 54, cautiously_bearish: 43, concerned: 2, cautious: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-07-17 | How much of China's crude demand will return? [doc_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return | section_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return__s06_linked_asset_2026_07_17_how_much_of_chinas_crude_demand_will_return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4a9f80b2c7b_png | pages n/a]
+- 2026-07-17 | Tanker report - Week 29 [doc_id: baltic_tanker_2026-07-17_2026_07_17_tanker_report_week_29_tanker | section_id: baltic_tanker_2026-07-17_2026_07_17_tanker_report_week_29_tanker__s01_main | pages n/a]
 - 2026-07-16 | Hormuz: The Pandemic lessons and Warsh's first big test [doc_id: breakwave_insights_insights_2026-07-16_2026_07_16_hormuz_the_pandemic_lessons_and_warshs_first_big_test | section_id: breakwave_insights_insights_2026-07-16_2026_07_16_hormuz_the_pandemic_lessons_and_warshs_first_big_test__s01_main | pages n/a]
 - 2026-07-16 | Less Grain Exports Still Expected Next Season [doc_id: breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season | section_id: breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__s02_linked_asset_2026_07_16_less_grain_exports_still_expected_next_season_img_chart_f5f70f1f5607_jpg | pages n/a]
 - 2026-07-15 | Demand Is Holding, but the Quality of Demand Is Changing [doc_id: breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing | section_id: breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing__s01_main | pages n/a]
 - 2026-07-15 | Weekly Tanker Time Charter Estimates, July 15 2026 [doc_id: hellenic_tanker_charter_2026-07-15_2026_07_15_weekly_tanker_time_charter_estimates_july_15_2026 | section_id: hellenic_tanker_charter_2026-07-15_2026_07_15_weekly_tanker_time_charter_estimates_july_15_2026__s02_linked_asset_2026_07_15_weekly_tanker_time_charter_estimates_july_15_2026_15720252_294ac08a257c_jpg | pages n/a]
 - 2026-07-15 | The Hormuz crisis is settling into a recurring cycle of escalation [doc_id: breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation | section_id: breakwave_insights_insights_2026-07-15_2026_07_15_the_hormuz_crisis_is_settling_into_a_recurring_cycle_of_escalation__s01_main | pages n/a]
 - 2026-07-15 | Weekly Vessel Valuations Report, July 15 2026 [doc_id: hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026 | section_id: hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__s01_main | pages n/a]
-- 2026-07-14 | Tanker Shipping - July 14, 2026 [doc_id: breakwave_tankers_2026-07-14 | section_id: breakwave_tankers_2026-07-14__s02_fundamentals | pages 2-2]
 
 ## Related Topics
 - vlcc_and_suezmax

@@ -10,7 +10,7 @@ categories:
 - vessel_valuations
 document_count: 86
 evidence_count: 250
-generated_at: '2026-07-17T11:57:16Z'
+generated_at: '2026-07-17T17:25:11Z'
 latest_evidence_date: '2026-07-17'
 page_type: topic_wiki
 related_topics:
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, dry bulk, capesize, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 138, hellenic: 102, baltic: 6, breakwave: 4
-- Category coverage: insights: 138, iron_ore: 56, demolition: 21, shipbuilding: 10, dry_charter: 8, vessel_valuations: 7, dry: 6, drybulk: 4
-- Tone distribution: constructive: 130, cautiously_bearish: 82, neutral: 36, bullish: 2
+- Source coverage: breakwave_insights: 138, hellenic: 101, baltic: 7, breakwave: 4
+- Category coverage: insights: 138, iron_ore: 56, demolition: 21, shipbuilding: 9, dry_charter: 8, vessel_valuations: 7, dry: 7, drybulk: 4
+- Tone distribution: constructive: 129, cautiously_bearish: 82, neutral: 37, bullish: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-07-17 | MMI Daily Iron Ore Index Report July 17 2026 [doc_id: hellenic_iron_ore_2026-07-17_2026_07_17_mmi_daily_iron_ore_index_report_july_17_2026 | section_id: hellenic_iron_ore_2026-07-17_2026_07_17_mmi_daily_iron_ore_index_report_july_17_2026__s03_linked_asset_2026_07_17_mmi_daily_iron_ore_index_report_july_17_2026_mmi_daily_iron_ore_report_for_17th_j_a5f1c11f40b1_pdf | pages n/a]
 - 2026-07-17 | How much of China's crude demand will return? [doc_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return | section_id: breakwave_insights_insights_2026-07-17_2026_07_17_how_much_of_chinas_crude_demand_will_return__s08_linked_asset_2026_07_17_how_much_of_chinas_crude_demand_will_return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a44de72a9e9_png | pages n/a]
+- 2026-07-17 | Bulk report - Week 29 [doc_id: baltic_dry_2026-07-17_2026_07_17_bulk_report_week_29_dry | section_id: baltic_dry_2026-07-17_2026_07_17_bulk_report_week_29_dry__s01_main | pages n/a]
 - 2026-07-16 | Less Grain Exports Still Expected Next Season [doc_id: breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season | section_id: breakwave_insights_insights_2026-07-16_2026_07_16_less_grain_exports_still_expected_next_season__s02_linked_asset_2026_07_16_less_grain_exports_still_expected_next_season_img_chart_f5f70f1f5607_jpg | pages n/a]
 - 2026-07-16 | MMI Daily Iron Ore Index Report July 16 2026 [doc_id: hellenic_iron_ore_2026-07-16_2026_07_16_mmi_daily_iron_ore_index_report_july_16_2026 | section_id: hellenic_iron_ore_2026-07-16_2026_07_16_mmi_daily_iron_ore_index_report_july_16_2026__s03_linked_asset_2026_07_16_mmi_daily_iron_ore_index_report_july_16_2026_mmi_daily_iron_ore_report_for_16th_j_0cc0aca9e76a_pdf | pages n/a]
 - 2026-07-16 | Hormuz: The Pandemic lessons and Warsh's first big test [doc_id: breakwave_insights_insights_2026-07-16_2026_07_16_hormuz_the_pandemic_lessons_and_warshs_first_big_test | section_id: breakwave_insights_insights_2026-07-16_2026_07_16_hormuz_the_pandemic_lessons_and_warshs_first_big_test__s01_main | pages n/a]
 - 2026-07-15 | Demand Is Holding, but the Quality of Demand Is Changing [doc_id: breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing | section_id: breakwave_insights_insights_2026-07-15_2026_07_15_demand_is_holding_but_the_quality_of_demand_is_changing__s01_main | pages n/a]
 - 2026-07-15 | Weekly Dry Time Charter Estimates, July 15 2026 [doc_id: hellenic_dry_charter_2026-07-15_2026_07_15_weekly_dry_time_charter_estimates_july_15_2026 | section_id: hellenic_dry_charter_2026-07-15_2026_07_15_weekly_dry_time_charter_estimates_july_15_2026__s02_linked_asset_2026_07_15_weekly_dry_time_charter_estimates_july_15_2026_15720251_61f5654c0686_jpg | pages n/a]
-- 2026-07-15 | Weekly Vessel Valuations Report, July 15 2026 [doc_id: hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026 | section_id: hellenic_vessel_valuations_2026-07-15_2026_07_15_weekly_vessel_valuations_report_july_15_2026__s01_main | pages n/a]
 
 ## Related Topics
 - capesize
