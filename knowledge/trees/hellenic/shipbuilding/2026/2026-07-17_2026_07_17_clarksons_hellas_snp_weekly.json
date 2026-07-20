@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly__root",
+  "doc_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNearing the end of the second week after the interim peace deal between Iran and United States began to break down, and amid renewed attackson vessels in the MEG, we've now reached the lowest daily total tonnage transit number through the SoH at 0.2m GT on Monday, amounting to >95% below typical daily volumes. Following the temporary easing of sanctions, Iran increased crude exports during the brief truce, leading to a rise in floating oil supplies. However, crude sales have remained subdued as China's independent refiners have opted for cheaper cargo from Iraq, the UAE, and Qatar.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "lng",
+    "china",
+    "meg",
+    "europe",
+    "crude_oil",
+    "gas",
+    "abt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 655,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-17_clarksons-hellas-snp-weekly.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly",
+      "parent_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Nearing the end of the second week after the interim peace deal between Iran and United States began to break down, and amid renewed attackson vessels in the MEG, we've now reached the lowest daily total tonnage transit number through the SoH at 0.2m GT on Monday, amounting to >95% below typical daily volumes. Following the temporary easing of sanctions, Iran increased crude exports during the brief truce, leading to a rise in floating oil supplies.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "lng",
+        "china",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 653,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T17:26:19Z",
-  "current_date": "2026-07-17",
-  "warning_count": 7,
+  "generated_at": "2026-07-20T13:00:17Z",
+  "current_date": "2026-07-20",
+  "warning_count": 6,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,40 +11,9 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {
-      "watch": 1
-    }
+    "divergences": {}
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "china_steel_and_iron_ore",
-      "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "china_steel_and_iron_ore",
-        "title": "China Steel and Iron Ore",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "cautiously_bearish",
-            "doc_count": 6,
-            "latest_date": "2026-07-17"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-07-17"
-          }
-        ],
-        "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
