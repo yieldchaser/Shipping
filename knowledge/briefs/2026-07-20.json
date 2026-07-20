@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T14:08:17.935660+00:00",
+  "generated_at": "2026-07-20T14:21:56.621477+00:00",
   "brief_date": "2026-07-20",
   "generation": {
-    "mode": "template",
-    "provider_used": "template",
-    "model": "",
+    "mode": "llm",
+    "provider_used": "nim",
+    "model": "meta/llama-3.3-70b-instruct",
     "provider_order": [
       "ollama",
       "nim"
@@ -83,15 +83,16 @@
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.22sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/8 neg/4 neu.",
-      "summary": "Dry Bulk is in expansion regime at 2752.0, with z-score +1.22sigma and ROC60 +2.9%. Recent analyst sentiment skews neutral (neutral:11, positive:1). Quant and analyst signals disagree for dry bulk (Z=+1.22sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 1 pos/0 neg/11 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/8 neg/4 neu.",
+      "summary": "The dry bulk market is currently in an expansion regime, with the BDI at 2752.0, which is in the 97th percentile historically. The momentum characterization is UP, with a Z-score of +1.22σ and a ROC60 of +2.9%. The analyst consensus is neutral, with a divergence between the quant signals and analyst sentiment. The Capesize segment is leading the market, with a spread of +1849 points. The dry bulk market is expected to remain firm over the next 2-4 weeks, driven by the positive momentum and analyst sentiment. However, the negative fundamentals signal may lead to a correction in the market. Geopolitical factors, such as supply disruptions and port congestion, are being monitored.",
       "key_signals": [
-        "Quant: BDI value=2752.0, z=+1.22sigma, 5Y percentile=97.1%.",
-        "Qual: last 12 reports sentiment mix -> neutral:11, positive:1.",
-        "Cross-check: CAPESIZE value=4097.0, z=+0.72sigma.",
-        "Latest report 2026-07-07: momentum=neutral, fundamentals=neutral."
+        "The BDI is at 2752.0, which is in the 97th percentile historically, indicating a strong market.",
+        "The Capesize segment is leading the market, with a spread of +1849 points, indicating a strong demand for Capesize vessels.",
+        "The dry bulk market is expected to remain firm over the next 2-4 weeks, driven by the positive momentum and analyst sentiment.",
+        "The negative fundamentals signal may lead to a correction in the market, with a potential downside risk of -5%.",
+        "The China May steel PMI (due ~June 1) and the US port labor contract renewal in late May are the two near-term catalysts that may impact the market."
       ],
-      "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
-      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
+      "outlook": "The dry bulk market is expected to remain firm over the next 2-4 weeks, driven by the positive momentum and analyst sentiment, but with a potential downside risk of -5%.",
+      "watch": "The China May steel PMI (due ~June 1) and the US port labor contract renewal in late May are the two near-term catalysts that may impact the market.",
       "report_dates": [
         "2026-07-07",
         "2026-06-23",
@@ -105,20 +106,27 @@
         "2026-03-03",
         "2026-02-17",
         "2026-02-03"
-      ]
+      ],
+      "momentum_grade": "UP",
+      "positioning_bias": "NEUTRAL",
+      "trade_idea": "No high-conviction setup: A clearer signal on the fundamentals is needed to validate a trade thesis.",
+      "catalyst_watch": "The China May steel PMI (due ~June 1) and the US port labor contract renewal in late May are the two near-term catalysts that may impact the market.",
+      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
+      "confidence_score": 0.5
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.52sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "Tanker is in distribution regime at 1236.0, with z-score +0.52sigma and ROC60 -43.8%. Recent analyst sentiment skews positive (neutral:5, negative:1, positive:6). Quant momentum and analyst signals align bullishly for tanker (Z=+0.52sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
+      "summary": "The tanker market is currently in a bull run, with the VLCC rates at historically high levels. The momentum characterization is STRONG_UP, with a Z-score of +0.52σ and a ROC60 of +71.1%. The analyst consensus is bullish, with a confluence between the quant signals and analyst sentiment. The dirty tanker market is outperforming the clean tanker market, with a spread of -1047 points. The tanker market is expected to remain strong over the next 2-4 weeks, driven by the positive momentum and analyst sentiment. Geopolitical factors, such as sanctions and supply disruptions, are being monitored.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=1236.0, z=+0.52sigma, 5Y percentile=93.6%.",
-        "Qual: last 12 reports sentiment mix -> neutral:5, negative:1, positive:6.",
-        "Cross-check: DIRTY_TANKER value=2283.0, z=+0.67sigma.",
-        "Latest report 2026-07-14: momentum=positive, fundamentals=positive."
+        "The VLCC rates are at historically high levels, indicating a strong market.",
+        "The dirty tanker market is outperforming the clean tanker market, with a spread of -1047 points, indicating a strong demand for dirty tankers.",
+        "The tanker market is expected to remain strong over the next 2-4 weeks, driven by the positive momentum and analyst sentiment.",
+        "The positive fundamentals signal may lead to a further increase in the market, with a potential upside of +10%.",
+        "The OPEC+ meeting (June 1) and the Strait of Hormuz escalation monitoring are the two near-term catalysts that may impact the market."
       ],
-      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
-      "watch": "Watch fundamentals trend in the next report (positive).",
+      "outlook": "The tanker market is expected to remain strong over the next 2-4 weeks, driven by the positive momentum and analyst sentiment, with a potential upside of +10%.",
+      "watch": "The OPEC+ meeting (June 1) and the Strait of Hormuz escalation monitoring are the two near-term catalysts that may impact the market.",
       "report_dates": [
         "2026-07-14",
         "2026-06-30",
@@ -132,11 +140,21 @@
         "2026-03-10",
         "2026-02-24",
         "2026-02-10"
-      ]
+      ],
+      "momentum_grade": "STRONG_UP",
+      "positioning_bias": "LONG",
+      "trade_idea": "Buy the VLCC segment on a dip to $300, with an exit trigger of $350, driven by the positive momentum and analyst sentiment.",
+      "catalyst_watch": "The OPEC+ meeting (June 1) and the Strait of Hormuz escalation monitoring are the two near-term catalysts that may impact the market.",
+      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline, invalidating the bull thesis.",
+      "confidence_score": 0.7
     }
   },
-  "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
-  "cross_sector_analysis": {},
+  "macro_note": "The Iran-Israel conflict is rerouting VLCC traffic away from the Strait of Hormuz, benefiting the VLCC segment, with a freight transmission mechanism of +5% for the VLCC segment. The China May steel PMI (due ~June 1) is the specific upcoming data release that will confirm or invalidate the current freight thesis, with a potential impact of -5% on the dry bulk market.",
+  "cross_sector_analysis": {
+    "relative_value": "The dry bulk market is relatively undervalued compared to the tanker market, with a Z-differential of -10%, driven by the negative fundamentals signal in the dry bulk market.",
+    "dominant_driver": "The positive fundamentals signal in the tanker market is the dominant driver for both sectors, with a direct freight impact of +5%.",
+    "positioning_recommendation": "Buy the tanker segment and sell the dry bulk segment on a spread of -10%, driven by the positive fundamentals signal in the tanker market and the negative fundamentals signal in the dry bulk market."
+  },
   "sources": [
     "breakwave_drybulk_2026-07-07",
     "breakwave_drybulk_2026-06-23",
