@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_drybulk_2026-07-21__root",
+  "doc_id": "breakwave_drybulk_2026-07-21",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - July 21, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - July 21, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - July 21, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent Oil Price Volatility is a Factor for Dry Bulk Shipping - While the ongoing US-Iran Our Long-term View - The last few years have been characterized by increased",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "yoy",
+    "ytd"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 345,
+  "source_path": "reports/drybulk/2026/2026-07-21_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-07-21__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-07-21",
+      "parent_id": "breakwave_drybulk_2026-07-21__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent\n- Oil Price Volatility is a Factor for Dry Bulk Shipping - While the ongoing US-Iran\n- Our Long-term View - The last few years have been characterized by increased",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "characterized",
+        "cools",
+        "despite",
+        "down",
+        "drop",
+        "factor"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 53,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-07-21__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-07-21",
+      "parent_id": "breakwave_drybulk_2026-07-21__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 500mt, YOY: -2.9%)\n- China Steel Inventories (YTD: 4.9mt, YOY: 32.6%)\n- China Iron Ore Inventories (YTD: 157mt, YOY: 19.6%)\n- China Iron Ore Imports (YTD: 1889mt, YOY: 3.2%)\n- China Coal Imports (YTD: 716mt, YOY: -6.4%)\n- China Soybean Imports (YTD: 162mt, YOY: 5.1%)\n- Brazil Iron Ore Exports (YTD: 563mt, YOY: 4.8%)\n- Australia Iron Ore Exports (YTD: 1313mt, YOY: 3.0%)\n- Dry Bulk Fleet (YTD: 1085 mdwt, YOY: 3.4%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 2,395)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 30,130)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 17,569)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 291,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
