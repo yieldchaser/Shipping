@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T10:45:57Z",
+  "generated_at": "2026-07-21T12:18:41Z",
   "current_date": "2026-07-21",
-  "warning_count": 7,
+  "warning_count": 10,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,10 +12,46 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 1
+      "watch": 4
     }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "capesize",
+      "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.",
+      "details": {
+        "topic_id": "capesize",
+        "title": "Capesize",
+        "severity": "watch",
+        "score_diff": 0.75,
+        "source_scores": [
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          }
+        ],
+        "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral."
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -36,20 +72,99 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.21,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-07-20"
+            "latest_date": "2026-07-21"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-07-20"
+            "latest_date": "2026-07-21"
           }
         ],
         "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "dry_bulk_market",
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "dry_bulk_market",
+        "title": "Dry Bulk Market",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.04,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 2,
+            "latest_date": "2026-07-21"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-17"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          }
+        ],
+        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "tanker_market",
+      "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "tanker_market",
+        "title": "Tanker Market",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-18"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-17"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          }
+        ],
+        "message": "Tanker Market shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
       }
     },
     {

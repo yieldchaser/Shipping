@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__root",
+  "doc_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - July 21, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - July 21, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - July 21, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent pullback that saw spot Capesize rates drop approximately 10,000 points within days, the fundamental outlook for the dry bulk shipping sector remains resilient, supported by historically high absolute spot market levels and robust cargo volumes. While Capesize performance has flattened year-over-year, Panamax rates remain firmly above prior-year levels, cushioning the broader cooling of market sentiment. Current headwinds , including rising bunker prices that squeeze owners' net earnings and the seasonal summer chartering lull, represent short-term volatility rather than a structural downturn, as evidenced by freight futures (FFAs) projecting a strong second half of the year across all asset classes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2177,
+  "source_path": "reports/breakwave/2026/2026-07-21_7212026db-report2026dryreportkk47bg.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/7212026db-report2026dryreportkk47bg",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg",
+      "parent_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent pullback that saw spot Capesize rates drop approximately 10,000 points within days, the fundamental outlook for the dry bulk shipping sector remains resilient, supported by historically high absolute spot market levels and robust cargo volumes. While Capesize performance has flattened year-over-year, Panamax rates remain firmly above prior-year levels, cushioning the broader cooling of market sentiment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "china",
+        "coal",
+        "crude_oil",
+        "gas",
+        "volatility"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 664,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__s02_linked_asset_2026_07_21_7212026db_report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6_png",
+      "doc_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg",
+      "parent_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__root",
+      "title": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6.png",
+      "section_path": [
+        "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6.png"
+      ],
+      "section_path_text": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6.png\n\nLinked image asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d58e843e3c6.png\n\nImage metadata: PNG 282x582 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Neutral\nSentiment: Neutral\nFundamentals: Neutral\nBreakwave Dry 2602\nFutures Index:\n30D: 2.2% 4p\nYTD: 69.3% t\nYOY: 40.2% 4p\nBaltic Dry Index 2671\n(spot):\n30D: -1.9% v\nYTD: 42.3% t\nYOY: 30.2% t\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch @ breakwaveadvisors.",
+      "keywords": [
+        "neutral",
+        "asset",
+        "image",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__s03_linked_asset_2026_07_21_7212026db_report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc_png",
+      "doc_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg",
+      "parent_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__root",
+      "title": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc.png",
+      "section_path": [
+        "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc.png"
+      ],
+      "section_path_text": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc.png\n\nLinked image asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cde6eb999dc.png\n\nImage metadata: PNG 745x445 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n/S© BREAKWAVE\nADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n3500\n3000\n2500\n2000\n1500\n1000\n500\n0 --BDIY (spot) === BDRYFF (futures)\nSep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26\nThe Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%\nSupramax and a weighted average maturity of approximately SO-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "asset",
+        "average",
+        "bdiy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 349,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__s04_linked_asset_2026_07_21_7212026db_report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d_png",
+      "doc_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg",
+      "parent_id": "breakwave_insights_insights_2026-07-21_2026_07_21_7212026db_report2026dryreportkk47bg__root",
+      "title": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d.png",
+      "section_path": [
+        "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d.png"
+      ],
+      "section_path_text": "Linked asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d.png\n\nLinked image asset: 2026-07-21_7212026db-report2026dryreportkk47bg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_259a7d507d9d.png\n\nImage metadata: PNG 737x602 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production [| S0omt_ fH\nChina Steel Inventories 4.9mt 32.6%\nChina Iron Ore Inventories 157mt 19.6%\nChina iron Ore Import 1889mt\nChina Coal Imports 716mt\nChina Soybean Imports 162mt\nBrazil Iron Ore Exports | Seamt_ |\nAustralia ron Ore Exports 131amt\nSupply\nDry Bulk Fleet 1085 mdwt\nFreight Rates\nBaltic Dry Index, Average 2,395 80.8%\nCapesize Spot Rates, Average 30,130 88.1%\nPanamax Spot rates, Average 17,569 57.1%\nNote: All numbers as of latest available; imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 702,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
