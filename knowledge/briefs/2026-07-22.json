@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T14:12:43.153730+00:00",
+  "generated_at": "2026-07-22T17:37:34.221228+00:00",
   "brief_date": "2026-07-22",
   "generation": {
-    "mode": "template",
-    "provider_used": "template",
-    "model": "",
+    "mode": "llm",
+    "provider_used": "nim",
+    "model": "meta/llama-3.3-70b-instruct",
     "provider_order": [
       "ollama",
       "nim"
@@ -16,49 +16,49 @@
   },
   "market_snapshot": {
     "bdi": {
-      "value": 2670.0,
-      "z_score_252d": 1.001,
-      "pctl_5y": 0.959,
+      "value": 2715.0,
+      "z_score_252d": 1.106,
+      "pctl_5y": 0.964,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2324.2,
-      "roc60": 0.19
+      "ma200": 2327.9,
+      "roc60": 1.84
     },
     "capesize": {
-      "value": 3930.0,
-      "z_score_252d": 0.494,
-      "pctl_5y": 0.936,
+      "value": 4114.0,
+      "z_score_252d": 0.726,
+      "pctl_5y": 0.946,
       "regime": "DISTRIBUTION",
       "regime_emoji": "FLAT",
-      "ma200": 3640.4,
-      "roc60": -8.22
+      "ma200": 3646.5,
+      "roc60": -3.92
     },
     "panamax": {
-      "value": 2181.0,
-      "z_score_252d": 1.197,
-      "pctl_5y": 0.967,
+      "value": 2120.0,
+      "z_score_252d": 0.951,
+      "pctl_5y": 0.962,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1901.1,
-      "roc60": 11.28
+      "ma200": 1903.0,
+      "roc60": 8.33
     },
     "supramax": {
-      "value": 1730.0,
-      "z_score_252d": 1.831,
-      "pctl_5y": 0.998,
+      "value": 1715.0,
+      "z_score_252d": 1.733,
+      "pctl_5y": 0.995,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1379.8,
-      "roc60": 12.7
+      "ma200": 1381.1,
+      "roc60": 11.36
     },
     "handysize": {
-      "value": 903.0,
-      "z_score_252d": 1.275,
-      "pctl_5y": 0.725,
+      "value": 905.0,
+      "z_score_252d": 1.286,
+      "pctl_5y": 0.728,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 793.8,
-      "roc60": 13.3
+      "ma200": 794.0,
+      "roc60": 12.84
     },
     "clean_tanker": {
       "value": 1305.0,
@@ -82,16 +82,15 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.00sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 1 pos/5 neg/6 neu; Fundamentals 0 pos/7 neg/5 neu.",
-      "summary": "Dry Bulk is in expansion regime at 2670.0, with z-score +1.00sigma and ROC60 +0.2%. Recent analyst sentiment skews neutral (neutral:12). Quant and analyst signals disagree for dry bulk (Z=+1.00sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 1 pos/5 neg/6 neu; Fundamentals 0 pos/7 neg/5 neu.",
+      "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.11sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 1 pos/5 neg/6 neu; Fundamentals 0 pos/7 neg/5 neu.",
+      "summary": "The dry bulk market is currently in an expansion regime, with the BDI at 2715.0. The momentum is characterized by a +1.8% ROC60, indicating a moderate growth rate. The analyst consensus is neutral, with a divergence between quant signals and analyst sentiment. The Capesize segment is driving the market, with a +0.73σ Z-score and a -3.9% ROC60. The Panamax segment is also in expansion, with a +0.95σ Z-score and a +8.3% ROC60. Geopolitical factors, such as the US-Iran conflict, are being closely monitored. The market is expected to remain volatile over the next 2-4 weeks, with a potential for further growth driven by the Capesize segment.",
       "key_signals": [
-        "Quant: BDI value=2670.0, z=+1.00sigma, 5Y percentile=95.9%.",
-        "Qual: last 12 reports sentiment mix -> neutral:12.",
-        "Cross-check: CAPESIZE value=3930.0, z=+0.49sigma.",
-        "Latest report 2026-07-21: momentum=neutral, fundamentals=neutral."
+        "The Capesize Z-score of +0.73σ implies a moderate growth rate, driven by healthy cargo volumes and improving miner participation.",
+        "The Panamax Z-score of +0.95σ suggests a strong growth rate, driven by tight prompt tonnage in the North Continent and West Mediterranean.",
+        "The BDI ROC60 of +1.8% indicates a moderate growth rate, driven by the recent surge in Capesize rates."
       ],
-      "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
-      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
+      "outlook": "The market is expected to remain volatile over the next 2-4 weeks, with a potential for further growth driven by the Capesize segment.",
+      "watch": "The US-Iran conflict, Chinese steel production, and Brazilian iron ore exports are being closely monitored as potential catalysts for the dry bulk market.",
       "report_dates": [
         "2026-07-21",
         "2026-07-07",
@@ -105,20 +104,25 @@
         "2026-03-17",
         "2026-03-03",
         "2026-02-17"
-      ]
+      ],
+      "momentum_grade": "UP",
+      "positioning_bias": "NEUTRAL",
+      "trade_idea": "No high-conviction setup: A clearer picture on the US-Iran conflict and its impact on the dry bulk market is needed to validate a trade thesis.",
+      "catalyst_watch": "The US-Iran conflict, Chinese steel production, and Brazilian iron ore exports are being closely monitored as potential catalysts for the dry bulk market.",
+      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
+      "confidence_score": 0.5
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.63sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "Tanker is in distribution regime at 1305.0, with z-score +0.63sigma and ROC60 -40.6%. Recent analyst sentiment skews positive (neutral:5, negative:1, positive:6). Quant momentum and analyst signals align bullishly for tanker (Z=+0.63sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
+      "summary": "The tanker market is currently in a strong growth regime, with the VLCC rate at WS372. The momentum is characterized by a strong growth rate, driven by the recent surge in oil prices and the relaxation of hostilities in the Middle East. The analyst consensus is bullish, with a strong alignment between quant signals and analyst sentiment. The market is expected to remain strong over the next 2-4 weeks, driven by the continued growth in oil demand and the limited supply of tankers. Geopolitical factors, such as the Middle East conflict, are being closely monitored.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=1305.0, z=+0.63sigma, 5Y percentile=93.7%.",
-        "Qual: last 12 reports sentiment mix -> neutral:5, negative:1, positive:6.",
-        "Cross-check: DIRTY_TANKER value=2356.0, z=+0.76sigma.",
-        "Latest report 2026-07-14: momentum=positive, fundamentals=positive."
+        "The VLCC rate of WS372 implies a strong growth rate, driven by the recent surge in oil prices and the relaxation of hostilities in the Middle East.",
+        "The Suezmax rate of WS232.5 suggests a moderate growth rate, driven by the continued growth in oil demand and the limited supply of tankers.",
+        "Dirty tanker check: level=2356.0, ROC60=-16.2%."
       ],
-      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
-      "watch": "Watch fundamentals trend in the next report (positive).",
+      "outlook": "The market is expected to remain strong over the next 2-4 weeks, driven by the continued growth in oil demand and the limited supply of tankers.",
+      "watch": "The OPEC+ meeting on June 1, the China May customs data, and the Strait of Hormuz escalation monitoring are the three near-term catalysts for the tanker market.",
       "report_dates": [
         "2026-07-14",
         "2026-06-30",
@@ -132,11 +136,21 @@
         "2026-03-10",
         "2026-02-24",
         "2026-02-10"
-      ]
+      ],
+      "momentum_grade": "STRONG_UP",
+      "positioning_bias": "LONG",
+      "trade_idea": "Buy a VLCC at WS370 with an entry trigger of a further relaxation of hostilities in the Middle East and an exit thesis of a 5% drop in oil prices.",
+      "catalyst_watch": "The OPEC+ meeting on June 1, the China May customs data, and the Strait of Hormuz escalation monitoring are the three near-term catalysts for the tanker market.",
+      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline.",
+      "confidence_score": 0.7
     }
   },
-  "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
-  "cross_sector_analysis": {},
+  "macro_note": "The Middle East conflict is having a significant impact on both sectors, with the relaxation of hostilities driving a surge in oil prices and a strong growth rate in the VLCC segment. The China May customs data, due on June 8, will be closely monitored as a potential catalyst for both sectors.",
+  "cross_sector_analysis": {
+    "relative_value": "The tanker sector has a better risk-reward profile than the dry bulk sector, driven by the strong growth rate in the VLCC segment and the limited supply of tankers.",
+    "dominant_driver": "The recent surge in oil prices is the dominant macro force driving both sectors, with the tanker sector benefiting more from the growth in oil demand.",
+    "positioning_recommendation": "Buy a spread between a VLCC and a Capesize, with an entry trigger of a further relaxation of hostilities in the Middle East and an exit thesis of a 5% drop in oil prices."
+  },
   "sources": [
     "breakwave_drybulk_2026-07-21",
     "breakwave_drybulk_2026-07-07",
