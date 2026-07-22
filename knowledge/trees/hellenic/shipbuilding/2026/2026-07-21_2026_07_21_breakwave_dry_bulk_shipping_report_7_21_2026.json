@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 7.21.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 7.21.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 7.21.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent pullback that saw spot Capesize rates drop approximately\nSource: Breakwave Advisors\n\nLinked asset: 2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 21, 2026\n• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent\nShort-term Indicators\npullback that saw spot Capesize rates drop approximately 10,000 points within\nMomentum: Neutral\ndays, the fundamental outlook for the dry bulk shipping sector remains resilient,\nsupported by historically high absolute spot market levels and robust cargo Sentiment: Neutral\nvolumes. While Capesize performance has flattened year-over-year, Panamax Fundamentals: Neutral\nrates remain firmly above prior-year levels, cushioning the broader cooling of market\nsentiment. Current headwinds, including rising bunker prices that squeeze owners'\nBreakwave Dry\nnet earnings and the seasonal summer chartering lull, repr",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1564,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-21-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026",
+      "parent_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent pullback that saw spot Capesize rates drop approximately\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "drop",
+        "approximately",
+        "cools",
+        "despite",
+        "down",
+        "fast",
+        "inquiry"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026__s02_linked_asset_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026_breakwavedryjuly212026report_16446bd1ca46_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026",
+      "parent_id": "hellenic_shipbuilding_2026-07-21_2026_07_21_breakwave_dry_bulk_shipping_report_7_21_2026__root",
+      "title": "Linked asset: 2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 21, 2026\n• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent\nShort-term Indicators\npullback that saw spot Capesize rates drop approximately 10,000 points within\nMomentum: Neutral\ndays, the fundamental outlook for the dry bulk shipping sector remains resilient,\nsupported by historically high absolute spot market levels and robust cargo Sentiment: Neutral\nvolumes. While Capesize performance has flattened year-over-year, Panamax Fundamentals: Neutral\nrates remain firmly above prior-year levels, cushioning the broader cooling of market\nsentiment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1484,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

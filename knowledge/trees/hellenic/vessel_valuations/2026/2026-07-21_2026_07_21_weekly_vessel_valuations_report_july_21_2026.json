@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 21 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 21 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 21 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping this week on the back of soft pricing for the Aashna to Chinese buyers. Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese buyers for USD 37.5 mil, VV Value USD 39.2 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "container",
+    "china",
+    "gas",
+    "usd",
+    "mil",
+    "sold",
+    "value",
+    "mil.",
+    "values",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 830,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-21_weekly-vessel-valuations-report-july-21-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-21-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping this week on the back of soft pricing for the Aashna to Chinese buyers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "container",
+        "china",
+        "gas",
+        "usd",
+        "mil",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 459,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026__s02_linked_asset_2026_07_21_weekly_vessel_valuations_report_july_21_2026_21072026vessel_a282069b5081_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-21_2026_07_21_weekly_vessel_valuations_report_july_21_2026__root",
+      "title": "Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nLinked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n() VesselsValue. 21 towMou 2026 VV Mini Matrix - Weekly Change\nTeekers ‘Bethers ‘Comtainers\n- wc em e m = Ce __ pe eg __ tp rat ye\nee 4 meta mts\n® ne \"a 3 a \" a a ms 8 an ed ee\nore, eC ee tg ret, ae rT eee et\n3 a Cd \".",
+      "keywords": [
+        "asset",
+        "image",
+        "ae.",
+        "aman",
+        "ams",
+        "bethers",
+        "change",
+        "comtainers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
