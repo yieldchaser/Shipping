@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T10:42:39.495198+00:00",
+  "generated_at": "2026-07-23T12:40:46.378763+00:00",
   "brief_date": "2026-07-23",
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "meta/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "ollama",
       "nim"
@@ -83,17 +83,15 @@
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.11sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 1 pos/5 neg/6 neu; Fundamentals 0 pos/7 neg/5 neu.",
-      "summary": "The dry bulk market is currently in an expansion regime, with the BDI at 2715.0, which is in the 96th percentile historically. The momentum is characterized by a +1.8% ROC60, indicating a moderate increase in rates. The analyst consensus is neutral, with a divergence between sentiment and fundamentals. The market is driven by a mix of positive and negative factors, including healthy cargo volumes and improving confidence in the Pacific, but also limited demand and a growing tonnage list in the Atlantic. Geopolitical factors, such as the US-Iran conflict, are also influencing the market. Over the next 2-4 weeks, the market is expected to remain volatile, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
+      "summary": "Dry Bulk is in expansion regime at 2715.0, with z-score +1.11sigma and ROC60 +1.8%. Recent analyst sentiment skews neutral (neutral:12). Quant and analyst signals disagree for dry bulk (Z=+1.11sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 1 pos/5 neg/6 neu; Fundamentals 0 pos/7 neg/5 neu.",
       "key_signals": [
-        "The Capesize-Panamax spread of +1994 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
-        "The BDI is in the 96th percentile historically, indicating a top-quartile performance.",
-        "The momentum is characterized by a +1.8% ROC60, indicating a moderate increase in rates.",
-        "The analyst consensus is neutral, with a divergence between sentiment and fundamentals.",
-        "The market is driven by a mix of positive and negative factors, including healthy cargo volumes and improving confidence in the Pacific, but also limited demand and a growing tonnage list in the Atlantic.",
-        "The US-Iran conflict is influencing the market, with a potential for further increases in rates driven by positive sentiment and improving fundamentals."
+        "Quant: BDI value=2715.0, z=+1.11sigma, 5Y percentile=96.4%.",
+        "Qual: last 12 reports sentiment mix -> neutral:12.",
+        "Cross-check: CAPESIZE value=4114.0, z=+0.73sigma.",
+        "Latest report 2026-07-21: momentum=neutral, fundamentals=neutral."
       ],
-      "outlook": "The market is expected to remain volatile over the next 2-4 weeks, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
-      "watch": "The US-Iran conflict, Chinese customs data (~June 8), and OPEC+ meeting (June 1) are the three near-term catalysts that could impact the dry bulk market.",
+      "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
+      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
       "report_dates": [
         "2026-07-21",
         "2026-07-07",
@@ -107,28 +105,20 @@
         "2026-03-17",
         "2026-03-03",
         "2026-02-17"
-      ],
-      "momentum_grade": "UP",
-      "positioning_bias": "NEUTRAL",
-      "trade_idea": "No high-conviction setup: A clearer picture on the US-Iran conflict and its impact on the dry bulk market is needed to validate a trade thesis.",
-      "catalyst_watch": "The US-Iran conflict, Chinese customs data (~June 8), and OPEC+ meeting (June 1) are the three near-term catalysts that could impact the dry bulk market.",
-      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
-      "confidence_score": 0.5
+      ]
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.67sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "The tanker market is currently in a bull confluence, with the VLCC rates climbing due to the Middle East situation. The momentum is characterized by a strong increase in rates, with a +71.1% YOY change in the VLCC Middle East-Asia route. The analyst consensus is positive, with a strong alignment between sentiment and fundamentals. The market is driven by a mix of positive factors, including the restart of hostilities in the Middle East and the resulting increase in tanker demand. Over the next 2-4 weeks, the market is expected to remain strong, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
+      "summary": "Tanker is in distribution regime at 1326.0, with z-score +0.67sigma and ROC60 -39.1%. Recent analyst sentiment skews positive (neutral:5, negative:1, positive:6). Quant momentum and analyst signals align bullishly for tanker (Z=+0.67sigma). Of 12 Breakwave reports: Sentiment 6 pos/1 neg/5 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "key_signals": [
-        "The VLCC rates are climbing due to the Middle East situation, with a +71.1% YOY change in the VLCC Middle East-Asia route.",
-        "The momentum is characterized by a strong increase in rates, with a +71.1% YOY change in the VLCC Middle East-Asia route.",
-        "The analyst consensus is positive, with a strong alignment between sentiment and fundamentals.",
-        "The market is driven by a mix of positive factors, including the restart of hostilities in the Middle East and the resulting increase in tanker demand.",
-        "The US-Iran conflict is influencing the market, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
-        "Dirty tanker check: level=2400.0, ROC60=-14.6%."
+        "Quant: CLEAN_TANKER value=1326.0, z=+0.67sigma, 5Y percentile=94.2%.",
+        "Qual: last 12 reports sentiment mix -> neutral:5, negative:1, positive:6.",
+        "Cross-check: DIRTY_TANKER value=2400.0, z=+0.81sigma.",
+        "Latest report 2026-07-14: momentum=positive, fundamentals=positive."
       ],
-      "outlook": "The market is expected to remain strong over the next 2-4 weeks, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
-      "watch": "The OPEC+ meeting (June 1), Chinese customs data (~June 8), and Strait of Hormuz escalation monitoring are the three near-term catalysts that could impact the tanker market.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-07-14",
         "2026-06-30",
@@ -142,21 +132,11 @@
         "2026-03-10",
         "2026-02-24",
         "2026-02-10"
-      ],
-      "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG",
-      "trade_idea": "Buy the VLCC market on a dip, with a target of $400,000, and an exit thesis of a 10% increase in rates over the next 2-4 weeks.",
-      "catalyst_watch": "The OPEC+ meeting (June 1), Chinese customs data (~June 8), and Strait of Hormuz escalation monitoring are the three near-term catalysts that could impact the tanker market.",
-      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline, invalidating the bull thesis.",
-      "confidence_score": 0.7
+      ]
     }
   },
-  "macro_note": "The US-Iran conflict is the specific macro driver active today, with a freight transmission mechanism of rerouting VLCC traffic away from the Strait of Hormuz, benefiting the VLCC segment. The conflict is expected to continue, with a potential for further increases in rates driven by positive sentiment and improving fundamentals. The next customs release (~June 8) will be a key event to watch, as it could confirm demand destruction and invalidate the BDI expansion thesis.",
-  "cross_sector_analysis": {
-    "relative_value": "The dry bulk market is currently undervalued compared to the tanker market, with a Z-differential of -0.44σ, indicating a potential for a rebound in dry bulk rates.",
-    "dominant_driver": "The US-Iran conflict is the dominant macro force driving both sectors, with a potential for further increases in rates driven by positive sentiment and improving fundamentals.",
-    "positioning_recommendation": "Buy the dry bulk market and sell the tanker market, with a target of a 5% increase in the dry bulk-tanker spread over the next 2-4 weeks."
-  },
+  "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
+  "cross_sector_analysis": {},
   "sources": [
     "breakwave_drybulk_2026-07-21",
     "breakwave_drybulk_2026-07-07",
