@@ -10,15 +10,22 @@ scripts/__pycache__/
 tmp/
 scratch/
 
-# AI tool metadata
+# AI tool metadata & agent instructions (Local-Only)
+.agents/
 .claude/
-.gemini/
 .code-review-graph/
+.codex/
+.cursor/
+.gemini/
+.kiro/
+.opencode.json
+.qoder/
+.vscode/
 .mcp.json
 .cursorrules
 .windsurfrules
-.opencode.json
-.qoder/
-.kiro/
-.vscode/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
 QODER.md
+
