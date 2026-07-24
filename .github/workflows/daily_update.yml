@@ -25,7 +25,9 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: pip install requests beautifulsoup4 pandas lxml holidays
+      run: |
+        pip install requests beautifulsoup4 pandas lxml holidays numpy playwright
+        playwright install --with-deps chromium
 
     - name: Pull latest before run
       run: git pull --rebase origin main
@@ -33,17 +35,14 @@ jobs:
     - name: Run scraper
       run: python scripts/update_indices.py
 
-    - name: Run fund flow scraper (BDRY)
-      run: python scripts/get_snapshots_scraper.py --ticker BDRY --start 2018-01-01 --update
-
-    - name: Run fund flow scraper (BWET)
-      run: python scripts/get_snapshots_scraper.py --ticker BWET --start 2023-01-01 --update
+    - name: Run fund flow scraper
+      run: python scripts/fetch_flows_shipping.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/indices/bdiy_historical.csv data/indices/cape_historical.csv data/indices/panama_historical.csv data/indices/suprama_historical.csv data/indices/handysize_historical.csv data/indices/cleantanker_historical.csv data/indices/dirtytanker_historical.csv data/futures/bdryff_history.csv data/futures/bwetff_history.csv data/etf/BDRY_Daily.csv data/etf/BWET_Daily.csv data/futures/sgx_cape_futures.csv data/futures/sgx_panamax_futures.csv data/futures/sgx_supramax_futures.csv data/futures/sgx_handysize_futures.csv data/etf/BDRY_flows.csv data/etf/BWET_flows.csv
+        git add data/indices/bdiy_historical.csv data/indices/cape_historical.csv data/indices/panama_historical.csv data/indices/suprama_historical.csv data/indices/handysize_historical.csv data/indices/cleantanker_historical.csv data/indices/dirtytanker_historical.csv data/futures/bdryff_history.csv data/futures/bwetff_history.csv data/etf/BDRY_Daily.csv data/etf/BWET_Daily.csv data/futures/sgx_cape_futures.csv data/futures/sgx_panamax_futures.csv data/futures/sgx_supramax_futures.csv data/futures/sgx_handysize_futures.csv data/etf/BDRY_flows.csv data/etf/BWET_flows.csv data/flows/BDRY_flows.json data/flows/BWET_flows.json data/flows/all_flows_summary.json docs/data/flows/all_flows_summary.json
         if git diff --staged --quiet; then
           echo "No index/flow changes to commit."
           exit 0
