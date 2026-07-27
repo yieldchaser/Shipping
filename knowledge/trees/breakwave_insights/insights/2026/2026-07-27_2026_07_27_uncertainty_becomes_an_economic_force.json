@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-27_2026_07_27_uncertainty_becomes_an_economic_force__root",
+  "doc_id": "breakwave_insights_insights_2026-07-27_2026_07_27_uncertainty_becomes_an_economic_force",
+  "parent_id": null,
+  "title": "Uncertainty becomes an economic force",
+  "section_path": [
+    "Uncertainty becomes an economic force"
+  ],
+  "section_path_text": "Uncertainty becomes an economic force",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThroughout history, wars have rarely transformed the global economy solely through the destruction they immediately inflict. Their more profound impact has stemmed both from the direct disruption of trade, production and supply chains, and from the expectations they create regarding the second- and third-round consequences that follow. Markets do not wait for supply to disappear before repricing risk, nor do businesses postpone investment only after disruption has become visible.",
+  "keywords": [
+    "capesize",
+    "crude_oil",
+    "global",
+    "geopolitical",
+    "markets",
+    "economic",
+    "energy",
+    "trade",
+    "uncertainty",
+    "investment",
+    "prices",
+    "conflict"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1422,
+  "source_path": "reports/breakwave/2026/2026-07-27_uncertainty-becomes-an-economic-force.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/27/uncertainty-becomes-an-economic-force",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-27_2026_07_27_uncertainty_becomes_an_economic_force__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-27_2026_07_27_uncertainty_becomes_an_economic_force",
+      "parent_id": "breakwave_insights_insights_2026-07-27_2026_07_27_uncertainty_becomes_an_economic_force__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThroughout history, wars have rarely transformed the global economy solely through the destruction they immediately inflict. Their more profound impact has stemmed both from the direct disruption of trade, production and supply chains, and from the expectations they create regarding the second- and third-round consequences that follow.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "global",
+        "geopolitical",
+        "markets",
+        "economic",
+        "energy",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1420,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

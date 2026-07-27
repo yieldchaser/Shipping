@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2__root",
+  "doc_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWith the conflict in the Middle East Gulf escalating further, this week's incidents mark the first Houthi attacks on vessels within the Red Seain over 6 months, and more specifically on two Saudi-linked tankers, a 2003 built LR2 and a 2007 built VLCC. Moreover, a review of the crude tankers and VLGCs that have departed Yanbu recently shows that only about half of the vessels are taking the risk of exiting the Red Sea through the Gulf of Aden or the Suez Canal, a sign which is consistent with the overall uncertainty in the region. Amid the escalated tensions at the Strait of Hormuz, two scenarios can be pointed out to have bolstered the oil market: If all current Yanbu crude exports destined for Asia were rerouted via the Suez Canal and then through Cape of Good Hope, global crude tonne-mile demand could theoretically increase.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "japan",
+    "crude_oil",
+    "are",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 642,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-24_clarksons-hellas-snp-weekly-2.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-2",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2",
+      "parent_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the conflict in the Middle East Gulf escalating further, this week's incidents mark the first Houthi attacks on vessels within the Red Seain over 6 months, and more specifically on two Saudi-linked tankers, a 2003 built LR2 and a 2007 built VLCC. Moreover, a review of the crude tankers and VLGCs that have departed Yanbu recently shows that only about half of the vessels are taking the risk of exiting the Red Sea through the Gulf of Aden or the Suez Canal, a sign which is consistent with the overall uncertainty in the region.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 640,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

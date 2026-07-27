@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T13:40:45Z",
-  "current_date": "2026-07-24",
-  "warning_count": 6,
+  "generated_at": "2026-07-27T13:42:50Z",
+  "current_date": "2026-07-27",
+  "warning_count": 7,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,9 +11,47 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {}
+    "divergences": {
+      "watch": 1
+    }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "panamax_and_supramax",
+      "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "panamax_and_supramax",
+        "title": "Panamax and Supramax",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-22"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-07-21"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-07-24"
+          }
+        ],
+        "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
