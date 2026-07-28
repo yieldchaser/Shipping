@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat__root",
+  "doc_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat",
+  "parent_id": null,
+  "title": "Saudi Arabia's Energy Pivot Faces a New Threat",
+  "section_path": [
+    "Saudi Arabia's Energy Pivot Faces a New Threat"
+  ],
+  "section_path_text": "Saudi Arabia's Energy Pivot Faces a New Threat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe latest escalation in the Red Sea highlights how quickly geopolitical risk can reshape global energy trade and shipping patterns. Over the past two years, much of the market's attention has focused on the Strait of Hormuz as the world's most critical oil chokepoint. However, Saudi Arabia's strategic response has gradually reduced its dependence on that corridor by dramatically increasing crude exports through its Red Sea terminal at Yanbu.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "brazil",
+    "india",
+    "grain",
+    "crude_oil",
+    "exports",
+    "red",
+    "saudi",
+    "oil",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1781,
+  "source_path": "reports/breakwave/2026/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/28/saudi-arabias-energy-pivot-faces-a-new-threat",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat",
+      "parent_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe latest escalation in the Red Sea highlights how quickly geopolitical risk can reshape global energy trade and shipping patterns. Over the past two years, much of the market's attention has focused on the Strait of Hormuz as the world's most critical oil chokepoint.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "india",
+        "grain",
+        "crude_oil",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 763,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat__s02_linked_asset_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat_img_unsplash_image_ilhclr4ckc_3c3eb293c5fe_jpg",
+      "doc_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat",
+      "parent_id": "breakwave_insights_insights_2026-07-28_2026_07_28_saudi_arabias_energy_pivot_faces_a_new_threat__root",
+      "title": "Linked asset: 2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg\n\nLinked image asset: 2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg\n\nImage metadata: JPEG 2500x1971 mode=RGB\n\nOCR text:\n= Spee ~~ owe <= Ss: - = - -\na es anal\nAEG naF et ~ Z \" ay E , { oi e . we 3 foe\nee Se Se = Pie a a = -- ms * - Jeni = .",
+      "keywords": [
+        "asset",
+        "eee",
+        "image",
+        "oom",
+        "owe",
+        "spee",
+        "aaa",
+        "aaaama"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 972,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
