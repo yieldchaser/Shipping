@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "tickers": {
     "BDRY": {
       "last_30d_net": -8005000.0,
       "zscore": 0.48,
       "regime": "BALANCED",
       "pressure": 2.0,
-      "latest_nav": 12.52,
+      "latest_nav": 12.76,
       "flow_5d": -1284000.0,
       "flow_20d": -4716000.0,
-      "latest_date": "2026-07-27"
+      "latest_date": "2026-07-28"
     },
     "BWET": {
       "last_30d_net": 1320000.0,
       "zscore": -0.02,
       "regime": "BALANCED",
       "pressure": -10.0,
-      "latest_nav": 239.82,
+      "latest_nav": 240.7,
       "flow_5d": -45000.0,
       "flow_20d": 5154000.0,
-      "latest_date": "2026-07-27"
+      "latest_date": "2026-07-28"
     }
   },
   "cross_etf": {
@@ -19723,7 +19723,11 @@
     },
     {
       "date": "2026-07-28",
-      "close": 2.691
+      "close": 2.662
+    },
+    {
+      "date": "2026-07-29",
+      "close": 2.683
     }
   ]
 }
