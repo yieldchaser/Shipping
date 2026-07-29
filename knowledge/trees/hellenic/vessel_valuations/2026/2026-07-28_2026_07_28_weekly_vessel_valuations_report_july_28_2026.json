@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 28 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 28 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 28 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nThe S&P market stayed firm through the week with broad-based demand across sizes,with Ultramax resales rising in response to firm pricing for the Seacon Tokyo. Capesize Hull 18129, Hull 18132 and Hull 18139 (181,300 DWT each, 2027/2028, Hengli Shipbuilding) sold enbloc to Cape Shipping SA for USD 228 mil, VV Value USD 227.3 mil. Post Panamax Indus Prosperity (92,900 DWT, 2011, Taizhou Sanfu) sold SS/DD Overdue by MSPL Diamond to Greek buyers for USD 13.25 mil, VV Value USD 14.8 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "suezmax",
+    "container",
+    "pacific",
+    "usd",
+    "mil",
+    "mil.",
+    "sold",
+    "value",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 892,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-28_weekly-vessel-valuations-report-july-28-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-28-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nThe S&P market stayed firm through the week with broad-based demand across sizes,with Ultramax resales rising in response to firm pricing for the Seacon Tokyo. Capesize Hull 18129, Hull 18132 and Hull 18139 (181,300 DWT each, 2027/2028, Hengli Shipbuilding) sold enbloc to Cape Shipping SA for USD 228 mil, VV Value USD 227.3 mil.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "suezmax",
+        "container",
+        "pacific",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 526,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026__s02_linked_asset_2026_07_28_weekly_vessel_valuations_report_july_28_2026_28072026_66f1d0f5bb53_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-07-28_2026_07_28_weekly_vessel_valuations_report_july_28_2026__root",
+      "title": "Linked asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg",
+      "section_path": [
+        "Linked asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nLinked image asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nCD) We 01S\n28 loudlow 2026 VV Mini Matrix - Weekly Change\nTookers Rethers Comtaioers\nwor wee Sore Cal uw = on Ll ton Lene fn Pees fos Lad fom\nSe ec ec CC a re\ny ad - us ™ bal \"ee a cd Ld Baal an ms ne\nSe ec ec! a a wn aN\n, na - cd \" \" \" a \"- \" al an Ld ue\nCa i a a a Ce ne ec\n.",
+      "keywords": [
+        "asset",
+        "image",
+        "baal",
+        "bal",
+        "cal",
+        "change",
+        "comtaioers",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

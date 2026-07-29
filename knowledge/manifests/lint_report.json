@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:54:22Z",
+  "generated_at": "2026-07-29T12:37:35Z",
   "current_date": "2026-07-29",
   "warning_count": 7,
   "high_severity_count": 0,
@@ -32,7 +32,7 @@
             "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-07-22"
+            "latest_date": "2026-07-28"
           },
           {
             "source": "breakwave",
@@ -46,7 +46,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-07-28"
+            "latest_date": "2026-07-29"
           }
         ],
         "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
