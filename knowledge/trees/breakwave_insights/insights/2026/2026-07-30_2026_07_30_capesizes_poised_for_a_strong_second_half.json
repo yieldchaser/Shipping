@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__root",
+  "doc_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half",
+  "parent_id": null,
+  "title": "Capesizes Poised for a Strong Second Half",
+  "section_path": [
+    "Capesizes Poised for a Strong Second Half"
+  ],
+  "section_path_text": "Capesizes Poised for a Strong Second Half",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe end of July is nearly upon us, and with it comes the end of the summer lull for parts of the seaborne trade. While many in the shipping world can still look forward to their summer holidays in August, demand for dry bulk seaborne transport should start to recover. Although the seasonal recovery affects the dry bulk market as a whole, over the past two years the capesizes have experienced a more pronounced bounce.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "japan",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "crude_oil",
+    "volumes",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1089,
+  "source_path": "reports/breakwave/2026/2026-07-30_capesizes-poised-for-a-strong-second-half.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/7/30/capesizes-poised-for-a-strong-second-half",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half",
+      "parent_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe end of July is nearly upon us, and with it comes the end of the summer lull for parts of the seaborne trade. While many in the shipping world can still look forward to their summer holidays in August, demand for dry bulk seaborne transport should start to recover.",
+      "keywords": [
+        "capesize",
+        "capesizes",
+        "end",
+        "seaborne",
+        "summer",
+        "affects",
+        "already",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__s02_higher_capesize_volumes_year_to_date",
+      "doc_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half",
+      "parent_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__root",
+      "title": "Higher Capesize Volumes Year-to-Date",
+      "section_path": [
+        "Higher Capesize Volumes Year-to-Date"
+      ],
+      "section_path_text": "Higher Capesize Volumes Year-to-Date",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With only a few days of July remaining, capesize volumes for the year's first seven months have risen by more than four per cent year on year. Much of the year-on-year growth came in the first few months, with global volumes in recent months broadly in line with readings in the past few years.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 588,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__s03_outlook_for_second_half_looks_promising",
+      "doc_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half",
+      "parent_id": "breakwave_insights_insights_2026-07-30_2026_07_30_capesizes_poised_for_a_strong_second_half__root",
+      "title": "Outlook for Second-Half Looks Promising",
+      "section_path": [
+        "Outlook for Second-Half Looks Promising"
+      ],
+      "section_path_text": "Outlook for Second-Half Looks Promising",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Capesize export volumes typically rise in the second half of the year compared with the first, and growth over the past few years has ranged from two to nine per cent. There is little to suggest this year will break the pattern.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "crude_oil",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 347,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
