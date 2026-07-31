@@ -1,16 +1,16 @@
 ---
-generated_at: '2026-07-31T11:00:00Z'
+generated_at: '2026-07-31T12:39:22Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
-warning_count: 10
+warning_count: 11
 ---
 
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8567
-- Chunks: 99345
-- Sections: 30424
+- Documents: 8569
+- Chunks: 99376
+- Sections: 30431
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -25,10 +25,10 @@ warning_count: 10
 | baltic/gas | 2026-07-24 | 7 | 7 | healthy | 0 | 0 |
 | baltic/container | 2026-07-24 | 7 | 7 | healthy | 0 | 0 |
 | baltic/ningbo | 2026-07-24 | 7 | 7 | healthy | 7 | 31 |
-| breakwave_insights/insights | 2026-07-30 | 1 | 14 | healthy | 0 | 0 |
+| breakwave_insights/insights | 2026-07-31 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/dry_charter | 2026-07-29 | 2 | 14 | healthy | 7 | 1 |
 | hellenic/tanker_charter | 2026-07-29 | 2 | 14 | healthy | 7 | 0 |
-| hellenic/iron_ore | 2026-07-30 | 1 | 14 | healthy | 1 | 0 |
+| hellenic/iron_ore | 2026-07-31 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/vessel_valuations | 2026-07-28 | 3 | 14 | healthy | 7 | 0 |
 | hellenic/demolition | 2026-07-28 | 3 | 21 | healthy | 3 | 2 |
 | hellenic/shipbuilding | 2026-07-24 | 7 | 21 | healthy | 3 | 0 |
@@ -38,18 +38,19 @@ warning_count: 10
 
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
-| Dry Bulk Market | 2026-07-30 | 87 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Tanker Market | 2026-07-30 | 90 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Capesize | 2026-07-30 | 121 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Panamax and Supramax | 2026-07-30 | 140 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Dry Bulk Market | 2026-07-31 | 89 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Tanker Market | 2026-07-31 | 90 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Capesize | 2026-07-31 | 121 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Panamax and Supramax | 2026-07-31 | 137 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | VLCC and Suezmax | 2026-07-30 | 106 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| China Steel and Iron Ore | 2026-07-30 | 103 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| Coal and Grain Flows | 2026-07-30 | 129 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| China Steel and Iron Ore | 2026-07-31 | 101 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
+| Coal and Grain Flows | 2026-07-31 | 127 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-07-30 | 104 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | LNG and LPG Shipping | 2026-07-24 | 170 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-07-28 | 193 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
+- `watch` China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.
 - `watch` Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
 - `watch` Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.
 - `watch` Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
@@ -65,4 +66,5 @@ warning_count: 10
 - `watch` Dry Bulk Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.
 - `watch` Tanker Market shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.
 - `watch` Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
+- `watch` China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.
 - `watch` Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.

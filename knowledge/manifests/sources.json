@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:57:33Z",
+  "generated_at": "2026-07-31T12:36:26Z",
   "counts": {
     "breakwave": {
       "drybulk": 206,
@@ -13,12 +13,12 @@
       "ningbo": 535
     },
     "breakwave_insights": {
-      "insights": 3124
+      "insights": 3125
     },
     "hellenic": {
       "dry_charter": 269,
       "tanker_charter": 268,
-      "iron_ore": 1163,
+      "iron_ore": 1164,
       "vessel_valuations": 264,
       "demolition": 783,
       "shipbuilding": 370
