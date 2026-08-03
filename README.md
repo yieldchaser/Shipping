@@ -23,52 +23,22 @@ The production analytical dashboard is served directly from this repository via 
 ## 1. System Architecture & Flow
 
 ```mermaid
-flowchart TD
-    subgraph DataSources["External Data Sources & Web Ingestion"]
-        S1["Baltic Exchange (StockQ / API)"]
-        S2["Breakwave Advisors (PDFs & Insights)"]
-        S3["Hellenic Shipping News (Weekly TC & Scrap)"]
-        S4["Amplify ETFs (BDRY & BWET Holdings)"]
-        S5["SGX Futures & Yahoo Finance Liquidity"]
-    end
-
-    subgraph ActionsPipeline["GitHub Actions Automation (6 Cron Workflows)"]
-        W1["daily_update.yml"]
-        W2["baltic_new_indices_update.yml"]
-        W3["etf_holdings_update.yml"]
-        W4["report_ingest.yml"]
-        W5["process_knowledge.yml"]
-        W6["daily_knowledge_update.yml"]
-    end
-
-    subgraph StorageLayer["Repo-Native Data & Knowledge Base"]
-        D1["data/indices/ (12 CSV Series)"]
-        D2["data/futures/ & data/etf/ (Holdings & Flows)"]
-        D3["data/derived/ (Time Charter Rates & Valuations)"]
-        D4["knowledge/ (Chunks, Trees, Wiki, Manifests)"]
-    end
-
-    subgraph ClientApp["Browser Analytical Web Terminal (index.html)"]
-        UI1["Multi-Product Dashboard & Interactive Charts"]
-        UI2["Quantitative Signal & Regime Engine"]
-        UI3["Browser-Native RAG Q&A Assistant"]
-    end
-
-    DataSources --> ActionsPipeline
-    ActionsPipeline --> StorageLayer
-    StorageLayer --> ClientApp
+flowchart LR
+    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify ETFs, SGX Futures"] --> B["⚙️ <b>GitHub Actions</b><br/>6 Automated Cron Workflows<br/>(Scrapers & Ingestion)"]
+    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (12 CSV Series)<br/>knowledge/ (RAG Corpus)"]
+    C --> D["🌐 <b>Web Terminal</b><br/>index.html Dashboard &<br/>Browser RAG Assistant"]
 ```
 
 ### Supported Maritime Segments & Vessel Classes
 
 | Segment | Vessel Class | Capacity / Spec | Key Freight Cargoes | Primary Routes / Indicators |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dry Bulk** | **Capesize** | 180,000 DWT | Iron Ore, Coal | BCI, C5 (WAus$\rightarrow$China), C3 (Tubarao$\rightarrow$Qingdao) |
+| **Dry Bulk** | **Capesize** | 180,000 DWT | Iron Ore, Coal | BCI, C5 (WAus → China), C3 (Tubarao → Qingdao) |
 | **Dry Bulk** | **Panamax** | 82,000 DWT | Grain, Coal, Bauxite | BPI, P1A, P2A, P3A Atlantic/Pacific |
 | **Dry Bulk** | **Supramax** | 58,000 DWT | Minor Bulks, Steel, Fertilizer | BSI, S1C, S2, S4A, S10 |
 | **Dry Bulk** | **Handysize** | 38,000 DWT | Agricultural, Logs, Minor Bulks | BHSI, HS1, HS2, HS3 |
-| **Crude Tankers** | **VLCC** | 270,000–300,000 DWT | Crude Oil | BDTI, TD3C (MEG$\rightarrow$China 270kt) |
-| **Crude Tankers** | **Suezmax** | 130,000–150,000 DWT | Crude Oil | BDTI, TD20 (WAF$\rightarrow$UKC 130kt) |
+| **Crude Tankers** | **VLCC** | 270,000–300,000 DWT | Crude Oil | BDTI, TD3C (MEG → China 270kt) |
+| **Crude Tankers** | **Suezmax** | 130,000–150,000 DWT | Crude Oil | BDTI, TD20 (WAF → UKC 130kt) |
 | **Crude Tankers** | **Aframax** | 80,000–115,000 DWT | Crude Oil | BDTI, Regional Aframax routes |
 | **Clean Tankers** | **LR2 / LR1 / MR**| 45,000–75,000 DWT | Refined Products (Naphtha, Diesel) | BCTI, TC2, TC14 |
 | **Specialized** | **LNG & LPG** | 160k m³ / 84k m³ | Liquefied Gas | BLNG, BLPG Indices |
@@ -161,7 +131,7 @@ Main quantitative overview for the selected index.
 - **Current Year vs Historical Overlay Chart**: Overlays current year against prior trading years.
 - **Drawdown from 52-Week High Chart**: Last 5 years.
 - **Recent Daily Changes Table**: Last 10 sessions (day $\Delta$, day $\Delta\%$, 5D change %).
-- **Yearly Performance Table** *(collapsible, sortable)*: Annual avg, YoY %, min, max, Volatility % (dispersion: $(\text{max}-\text{min})/\text{avg}$), Trough$\rightarrow$Peak % (theoretical max gain).
+- **Yearly Performance Table** *(collapsible, sortable)*: Annual avg, YoY %, min, max, Volatility % (dispersion: $(\text{max}-\text{min})/\text{avg}$), Trough → Peak % (theoretical max gain).
 - **Macro Cycle History (Multi-Year)** *(collapsible, sortable)*: Identifies historical peak and trough cycles using a 30% threshold with duration and move magnitude tooltips.
 - **Index Correlation Matrix**: Pearson correlation for all 7 products, switchable (All Time / 5Y / 1Y).
 
@@ -215,7 +185,7 @@ All 6 base indices as individual chart cards:
 2. **Metrics row 1**: Total Futures · Collateral Cash · Futures/AUM %.
 3. **Metrics row 2**: NAV · Expense Ratio (3.50%) · Exposure Ratio.
 4. **Metrics row 3**: 52W High—Low · 52W Position (%) · From Last Trough (%).
-5. **Holdings table**: FFA contracts sorted by vessel class $\rightarrow$ expiry month (nearest first).
+5. **Holdings table**: FFA contracts sorted by vessel class → expiry month (nearest first).
 6. **Futures Allocation donut**: Normalized to 100% of futures notional.
 7. **Trade route map**: Interactive trade route graphics with legends.
 8. **Yearly Performance & Macro Cycle Tables**.
@@ -280,7 +250,7 @@ Comprehensive analytical suite for technical and fundamental signals:
 | **Bollinger Bands** | $\text{SMA}(20) \pm 2 \times \sigma_{20}$ |
 | **BDRY Spot** | $0.50 \cdot \text{BCI} + 0.40 \cdot \text{BPI} + 0.10 \cdot \text{BSI}$ |
 | **Volatility %** | $(\max(y) - \min(y)) / |\text{mean}(y)| \times 100\%$ |
-| **Trough$\rightarrow$Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
+| **Trough → Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
 | **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor \times \text{Close}$ |
 
 ---
@@ -324,19 +294,15 @@ flowchart LR
 The dashboard features a **client-side RAG search engine** tuned specifically for shipping market analysis:
 
 ```mermaid
-flowchart TD
-    UserQ["User Query in Web UI"] --> Stage1["1. Domain Alias Expansion (40+ Aliases)"]
-    Stage1 --> Stage2["2. Inverted Index Candidate Discovery O(terms)"]
-    Stage2 --> Stage3["3. Date-Range Pre-Filtering"]
-    Stage3 --> Stage4["4. Multi-Factor BM25 Re-Scoring"]
-    Stage4 --> Context["5. Live Market Narrative Context Injection"]
-    Context --> LLM["6. Client LLM Call (Groq / OpenRouter)"]
-    LLM --> Answer["7. Answer with [DOC-N] Citations"]
+flowchart LR
+    A["1. Query Expansion<br/>(40+ Aliases)"] --> B["2. Inverted Index<br/>Candidate Discovery"]
+    B --> C["3. Date & Multi-Factor<br/>BM25 Re-Scoring"]
+    C --> D["4. Live Narrative Context<br/>& Client LLM Answer"]
 ```
 
 #### Key RAG Features:
 - **Suggested Questions UI**: Tabbed interface (Daily Briefing, Market Signals, Supply & Orderbooks, Macro & Cargo, Trade Ideas).
-- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) $\rightarrow$ inverted index candidate discovery $\rightarrow$ date-range pre-filtering $\rightarrow$ multi-factor BM25 (keywords $2\times$, section-title boost, recency $1.5\times$, source dedup) $\rightarrow$ optional LLM reranker.
+- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) → inverted index candidate discovery → date-range pre-filtering → multi-factor BM25 (keywords $2\times$, section-title boost, recency $1.5\times$, source dedup) → optional LLM reranker.
 - **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative text.
 - **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section.
 - **Low-Confidence Warnings**: Surfaces "⚠ Limited context found" when BM25 score $< 0.5$ or $<3$ chunks match.
