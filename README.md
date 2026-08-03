@@ -10,13 +10,13 @@
 
 ---
 
-## 🌐 Live Web Terminal
+## 🌐 Live Web Terminal & Production Dashboard
 
-The production analytical dashboard is hosted live via GitHub Pages:  
+The production analytical dashboard is served directly from this repository via GitHub Pages:  
 👉 **[https://yieldchaser.github.io/Shipping/](https://yieldchaser.github.io/Shipping/)**  
 *(Can also be launched locally by opening [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) in any modern web browser).*
 
-**No backend server. No database costs. No build steps.** The entire system operates as a self-sustaining quantitative shipping intelligence platform with client-side execution, browser-native RAG AI search, and automated multi-daily scraping pipelines.
+**No server. No build step. No database cost.** The entire platform operates as a self-sustaining quantitative shipping intelligence terminal with client-side execution, browser-native RAG AI research search, and automated multi-daily scraping pipelines.
 
 ---
 
@@ -49,7 +49,7 @@ flowchart TD
     end
 
     subgraph ClientApp["Browser Analytical Web Terminal (index.html)"]
-        UI1["Multi-Product Dashboard & Charts"]
+        UI1["Multi-Product Dashboard & Interactive Charts"]
         UI2["Quantitative Signal & Regime Engine"]
         UI3["Browser-Native RAG Q&A Assistant"]
     end
@@ -132,101 +132,162 @@ Calculated weekly via OCR extraction out of Alibra Shipping & Howe Robinson mark
 
 ---
 
-## 3. Quantitative & Statistical Engine Methodologies
+## 3. Web Dashboard Features & Tab-by-Tab Breakdown
 
-The browser web application (`index.html`) processes all raw data series client-side using the following exact mathematical definitions:
+Built using **Chart.js 4.4.0** and **PapaParse 5.4.1**. All data is fetched client-side — no backend required. The global **Index:** dropdown in the header switches the active product across all tabs instantly.
 
-### 3.1 Spot Rate $/day TCE Equivalent Conversions
-
-Spot index points are converted into Time Charter Equivalent (TCE) $/day estimates:
-
-$$\text{Dry Bulk TCE}_{\text{approx}} (\$/\text{day}) = \text{Index Points} \times 10$$
-
-$$\text{Dirty Tanker TCE}_{\text{approx}} (\$/\text{day}) = \text{BDTI Points} \times 35$$
-
-$$\text{Clean Tanker TCE}_{\text{approx}} (\$/\text{day}) = \text{BCTI Points} \times 30$$
-
-### 3.2 Z-Score Formulations
-
-1. **Calendar Day Z-Score** (comparing current value against the same trading session across historical years):
-
-$$Z_{\text{calendar}}(t) = \frac{x(t) - \mu_{\text{cal}}}{\sigma_{\text{cal}}}$$
-
-2. **Rolling 252-Day Z-Score** (trailing 1-year statistical normalization):
-
-$$Z_{252}(t) = \frac{x(t) - \mu_{252}(t)}{\sigma_{252}(t)}$$
-
-where $\mu_{252}(t) = \frac{1}{252}\sum_{i=0}^{251} x(t-i)$ and $\sigma_{252}(t) = \sqrt{\frac{1}{252}\sum_{i=0}^{251} (x(t-i) - \mu_{252}(t))^2}$.
-
-### 3.3 Percentile Rank, Drawdown & Volatility
-
-- **Percentile Rank ($P$)**:
-  $$P(x) = \frac{|\{y \in W : y \le x\}|}{|W|} \times 100\%$$
-  where $W$ is the historical window (5-Year, 10-Year, or All-Time).
-
-- **52-Week Drawdown ($D_{52}$)**:
-  $$D_{52}(t) = \frac{x(t) - \max_{\tau \in [t-365, t]} x(\tau)}{\max_{\tau \in [t-365, t]} x(\tau)}$$
-
-- **20-Day Rate of Change ($\text{RoC}_{20}$)**:
-  $$\text{RoC}_{20}(t) = \frac{x(t) - x(t-20)}{x(t-20)} \times 100\%$$
-
-- **Yearly Volatility Dispersion ($V$)**:
-  $$V = \frac{\max_{y}(x) - \min_{y}(x)}{|\text{mean}_{y}(x)|} \times 100\%$$
-
-- **Trough-to-Peak Opportunity Gain ($T \rightarrow P$)**:
-  $$T \rightarrow P = \frac{\max_{y}(x) - \min_{y}(x)}{\min_{y}(x)} \times 100\% \quad (\text{for } \min_{y}(x) > 0)$$
-
-### 3.4 Momentum Regime Matrix
-
-Regimes are evaluated by combining long-term trend ($\text{MA}_{200}$) with mid-term momentum ($\text{RoC}_{60}$):
-
-| Price vs $\text{MA}_{200}$ | $\text{RoC}_{60}$ | Regime Classification | Visual Indicator |
-| :--- | :--- | :--- | :--- |
-| $\text{Price} > \text{MA}_{200}$ | $> 0$ | **EXPANSION** | 🟢 Green |
-| $\text{Price} > \text{MA}_{200}$ | $\le 0$ | **DISTRIBUTION** | 🟡 Yellow |
-| $\text{Price} \le \text{MA}_{200}$ | $> 0$ | **ACCUMULATION** | 🔵 Blue |
-| $\text{Price} \le \text{MA}_{200}$ | $\le 0$ | **CONTRACTION** | 🔴 Red |
-
-### 3.5 Algorithmic Signal Decision Engine
-
-```mermaid
-decisionTree
-    P5Y > 80%? --> YES: ⛔ SELL
-    P5Y > 80%? --> NO: P5Y < 20% & Z252 < -0.5 & PAll > 40%?
-    P5Y < 20% & Z252 < -0.5 & PAll > 40%? --> YES: 💎 GOLDEN DIP
-    P5Y < 20% & Z252 < -0.5 & PAll > 40%? --> NO: P5Y < 10% & Z252 < -0.6?
-    P5Y < 10% & Z252 < -0.6? --> YES: 🔥 CATCHING KNIFE
-    P5Y < 10% & Z252 < -0.6? --> NO: P5Y < 30% & PAll < 30%?
-    P5Y < 30% & PAll < 30%? --> YES: ⚠️ VALUE TRAP
-    P5Y < 30% & PAll < 30%? --> NO: P5Y < 40%?
-    P5Y < 40%? --> YES: 🔹 ACCUMULATE
-    P5Y < 40%? --> NO: ⏳ WAIT
-```
-
-### 3.6 Synthetic BDRY Spot Composite
-
-Replicates the Solactive Breakwave Dry Freight Futures Index allocation using spot rates:
-
-$$\text{BDRY}_{\text{spot}}(t) = 0.50 \cdot \text{BCI}(t) + 0.40 \cdot \text{BPI}(t) + 0.10 \cdot \text{BSI}(t)$$
-
-### 3.7 ETF Liquidity Tiering & Capacity Model
-
-Calculates maximum non-disruptive trading capacity per session based on daily volume:
-
-| Volume Window | Tier Allocation % | Formula |
-| :--- | :--- | :--- |
-| $\text{Volume} < 50,000$ | $2.0\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.020 \rfloor$ |
-| $50,000 \le \text{Volume} < 100,000$ | $3.5\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.035 \rfloor$ |
-| $100,000 \le \text{Volume} < 500,000$ | $5.0\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.050 \rfloor$ |
-| $\text{Volume} \ge 500,000$ | $6.5\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.065 \rfloor$ |
-
-$$\text{Safe Liquidity Capacity } (\$) = \text{Safe Shares} \times \text{Closing Price}$$
+**12 products available:** BDI · Capesize · Panamax · Supramax · Handysize · Clean Tanker · Dirty Tanker · BDRY Spot Composite · BDRYFF · BWETFF · BDRY Stock Price · BWET Stock Price
 
 ---
 
-## 4. Intelligence Knowledge Base Engine & RAG Architecture
+### 📊 Dashboard Tab
 
-The platform embeds a complete document processing compiler ([`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py)) and browser-native retrieval augmented generation (RAG) assistant.
+Main quantitative overview for the selected index.
+
+- **Hero KPI + Signal Badge**: Algorithmic signal based on percentile and Z-score:
+  - ⛔ **SELL**: 5Y percentile > 80%
+  - 💎 **GOLDEN DIP**: 5Y percentile < 20%, $Z_{252} < -0.5$, all-time percentile > 40%
+  - 🔥 **CATCHING KNIFE**: 5Y percentile < 10%, $Z_{252} < -0.6$
+  - ⚠️ **VALUE TRAP**: 5Y percentile < 30%, all-time percentile < 30%
+  - 🔹 **ACCUMULATE**: 5Y percentile < 40%
+  - ⏳ **WAIT**: All other conditions
+- **Momentum Regime Classification**:
+  - 🟢 **EXPANSION**: Price > $\text{MA}_{200}$, $\text{RoC}_{60} > 0$
+  - 🟡 **DISTRIBUTION**: Price > $\text{MA}_{200}$, $\text{RoC}_{60} \le 0$
+  - 🔵 **ACCUMULATION**: Price $\le \text{MA}_{200}$, $\text{RoC}_{60} > 0$
+  - 🔴 **CONTRACTION**: Price $\le \text{MA}_{200}$, $\text{RoC}_{60} \le 0$
+- **6 Stat Cards**: All-Time Pctl · 10Y Pctl · 5Y Pctl · Z-Score · 52-Week Drawdown · 20D RoC.
+- **Historical Context Strip**: 5Y avg, current vs 5Y avg %, current vs 10Y avg %.
+- **Current Year vs Historical Overlay Chart**: Overlays current year against prior trading years.
+- **Drawdown from 52-Week High Chart**: Last 5 years.
+- **Recent Daily Changes Table**: Last 10 sessions (day $\Delta$, day $\Delta\%$, 5D change %).
+- **Yearly Performance Table** *(collapsible, sortable)*: Annual avg, YoY %, min, max, Volatility % (dispersion: $(\text{max}-\text{min})/\text{avg}$), Trough$\rightarrow$Peak % (theoretical max gain).
+- **Macro Cycle History (Multi-Year)** *(collapsible, sortable)*: Identifies historical peak and trough cycles using a 30% threshold with duration and move magnitude tooltips.
+- **Index Correlation Matrix**: Pearson correlation for all 7 products, switchable (All Time / 5Y / 1Y).
+
+---
+
+### 📅 Yearly Tab
+
+- **Historical Price Chart**: Full history with rolling average toggle (5Y / 10Y / All-Time) and dual-handle range slider.
+- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted. Range slider defaults to last 3 years.
+- **Historical Z-Score (All Time from 2008)**: Full-history view.
+- **Multi-Year Rates**: Annual averages by product across all years.
+- **Current Year Monthly Bar**: MoM color coding.
+- **Rates — All Products Multi-Year Overlay**: Last 4 years by trading day.
+- **Drawdown % (52-Week Rolling, Last 5 Years)**.
+- **Monthly Win Rate KPI Cards**: Historical probability of each month being positive.
+- **Monthly Performance by Year (Spaghetti)**: Index trajectory by trading day across all years.
+- **Monthly Data Grid**: Last 8 years $\times$ 12 months heatmap with relative color scaling.
+
+---
+
+### 📊 Quarterly Tab
+
+- **Win Rate KPI Cards**: Historical probability each quarter beats the prior quarter.
+- **Quarterly Heatmap**: All years $\times$ Q1–Q4, absolute or QoQ % switchable.
+- **Spaghetti Chart**: Q1/Q2/Q3/Q4 across all years as 4 colored lines.
+- **Quarterly Data Grid**: Last 8 years with full-year avg and YoY %.
+
+---
+
+### 🌡️ Heatmaps Tab
+
+- **Monthly Heatmap**: Year $\times$ Month, absolute value or MoM % toggle.
+- **Quarterly Heatmap**: Year $\times$ Quarter, absolute value or QoQ % toggle.
+- **8-Year Relative Scaling**: Color scaling tailored to recent 8-year windows for visual contrast.
+
+---
+
+### 📈 Indices Tab
+
+All 6 base indices as individual chart cards:
+- Current value, day change %.
+- Dual-handle date range slider (defaults to last 5 years).
+- Stats strip: 52W High—Low · 52W Position · YTD % · From Last Trough.
+
+---
+
+### 🏦 ETFs Tab (BDRY & BWET)
+
+#### BDRY & BWET Card Structure
+1. **Live price + day change**: Yahoo Finance v8 API via CORS proxy; NAV populated from response.
+2. **Metrics row 1**: Total Futures · Collateral Cash · Futures/AUM %.
+3. **Metrics row 2**: NAV · Expense Ratio (3.50%) · Exposure Ratio.
+4. **Metrics row 3**: 52W High—Low · 52W Position (%) · From Last Trough (%).
+5. **Holdings table**: FFA contracts sorted by vessel class $\rightarrow$ expiry month (nearest first).
+6. **Futures Allocation donut**: Normalized to 100% of futures notional.
+7. **Trade route map**: Interactive trade route graphics with legends.
+8. **Yearly Performance & Macro Cycle Tables**.
+9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
+
+| Liquidity Metric | Formula |
+| :--- | :--- |
+| **Dollar Value Traded** | $\text{Close} \times \text{Volume}$ |
+| **Tier Allocation %** | $\text{Vol} < 50\text{k} \rightarrow 2.0\% \cdot < 100\text{k} \rightarrow 3.5\% \cdot < 500\text{k} \rightarrow 5.0\% \cdot \ge 500\text{k} \rightarrow 6.5\%$ |
+| **Possible Shares** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor$ |
+| **Safe Liquidity Capacity ($)** | $\text{Possible Shares} \times \text{Close}$ |
+
+---
+
+### 🎯 Signals Tab
+
+Comprehensive analytical suite for technical and fundamental signals:
+
+- **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points $\times 10$, BDTI $\times 35$, BCTI $\times 30$) to allow direct comparison with 1-Year and 2-Year Time Charter rates.
+- **Detailed & Dynamic Concept Tooltips**: Interactive HTML tooltips explaining "what they are", "why they matter", and "how to read them" with live dataset metrics injected.
+- **View All Sectors Toggle**: Option to view all 6 sectors overlaid on a single wide chart.
+- **Signals Breakdown**:
+  - **Bollinger Bands (20D, 2σ)**: Price + upper/SMA/lower bands.
+  - **Historical Volatility**: Annualized volatility + regime classification based on all-time percentiles.
+  - **Cape / Panamax Ratio**: Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile.
+  - **Rate-of-Change Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
+  - **Seasonal Decomposition**: Historical avg intra-year pattern $\pm 1\sigma$ with current year.
+  - **ETF P/D Z-Score**: Premium/Discount to NAV Z-score (+2 = Top, -2 = Bottom).
+  - **FFA Term Structure**: Forward curves from live BDRY/BWET holdings.
+  - **SGX FFA Forward Curve**: Official SGX settlement curve for Cape/Pana/Supra/Handy.
+  - **Futures vs Spot Premium**: Basis tracking between BDRYFF index and spot baskets.
+  - **BDI Contribution**: Decomposition of BDI daily change by vessel class.
+  - **ETF Fund Flow Signals**: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), Pressure.
+  - **Lead–Lag Correlation**: Cross-correlation of log returns (-30 to +30 days) to detect lead times.
+  - **Time Charter Rates**: Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio.
+  - **Basin/Sector Spreads**: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class.
+  - **Restocking Pressure**: Freight spot rates vs CFR 62% Iron Ore price and Qingdao Port Inventory.
+  - **Vessel Capital Cycle**: Demolition scrap prices ($/LDT) and calculated ship-displacement scrap floor valuations ($M).
+  - **Market Cycle Quadrant**: 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score (Recovery, Boom, Over-ordering, Restructuring).
+
+---
+
+## 4. Quantitative & Statistical Engine Methodologies
+
+### 4.1 Z-Score & Percentile Equations
+
+- **Calendar Day Z-Score**: $Z_{\text{cal}}(t) = \frac{x(t) - \mu_{\text{cal}}}{\sigma_{\text{cal}}}$
+- **Rolling 252-Day Z-Score**: $Z_{252}(t) = \frac{x(t) - \mu_{252}(t)}{\sigma_{252}(t)}$
+- **Percentile Rank**: $P(x) = \frac{|\{y \in W : y \le x\}|}{|W|} \times 100\%$
+- **52-Week Drawdown**: $D_{52}(t) = \frac{x(t) - \max_{\tau \in [t-365, t]} x(\tau)}{\max_{\tau \in [t-365, t]} x(\tau)}$
+- **20-Day Rate of Change**: $\text{RoC}_{20}(t) = \frac{x(t) - x(t-20)}{x(t-20)} \times 100\%$
+
+### 4.2 Mathematical Statistics Reference Table
+
+| Metric | Calculation / Formula |
+| :--- | :--- |
+| **Percentile Rank** | Fraction of historical values $\le$ current within lookback window ($W$) |
+| **Z-Score (Calendar)** | $(x(t) - \mu_{\text{calendar\_session}}) / \sigma_{\text{calendar\_session}}$ |
+| **Z-Score (252D)** | $(x(t) - \text{SMA}_{252}(t)) / \sigma_{252}(t)$ |
+| **52-Week Drawdown** | $(x(t) - \max_{365\text{D}}(x)) / \max_{365\text{D}}(x)$ |
+| **Rate of Change (20D)** | $(x(t) - x(t-20)) / x(t-20) \times 100\%$ |
+| **Bollinger Bands** | $\text{SMA}(20) \pm 2 \times \sigma_{20}$ |
+| **BDRY Spot** | $0.50 \cdot \text{BCI} + 0.40 \cdot \text{BPI} + 0.10 \cdot \text{BSI}$ |
+| **Volatility %** | $(\max(y) - \min(y)) / |\text{mean}(y)| \times 100\%$ |
+| **Trough$\rightarrow$Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
+| **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor \times \text{Close}$ |
+
+---
+
+## 5. Intelligence Knowledge Base Engine & RAG Architecture
+
+The repo embeds an incremental document processing compiler ([`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py)) and browser-native retrieval augmented generation (RAG) assistant.
 
 ```
 knowledge/
@@ -240,9 +301,9 @@ knowledge/
 └── derived/            # Extracted signals.jsonl, themes.jsonl, timelines.json
 ```
 
-### 4.1 Knowledge Ingestion & Multi-LLM Provider Failover
+### 5.1 Multi-LLM Ingestion Chain
 
-The knowledge compiler processes raw PDFs and HTML files in `reports/` with automatic provider fallback:
+Raw PDFs and HTML roundups in `reports/` are compiled into structured markdown with automated provider failover:
 
 ```mermaid
 flowchart LR
@@ -258,32 +319,14 @@ flowchart LR
     P4 --> Write
 ```
 
-### 4.2 Retrieval Chunk Schema Specification
+### 5.2 Browser-Native 4-Stage Ranked RAG Engine
 
-Chunks in `knowledge/chunks/*.jsonl` contain enriched structural metadata:
-
-```json
-{
-  "chunk_id": "baltic_dry_2026_07_24_sec2_c1",
-  "doc_id": "baltic_dry_2026_07_24",
-  "source_path": "reports/baltic/baltic_dry_2026_07_24.html",
-  "section_id": "capesize-market-commentary",
-  "token_count": 312,
-  "vessel_classes_matched": ["capesize"],
-  "regions_matched": ["atlantic", "pacific"],
-  "has_rates": true,
-  "has_forecast": true,
-  "keywords": ["capesize", "tubarao", "qingdao", "c3", "bci"],
-  "content": "Capesize rates surged on strong Pacific iron ore demand..."
-}
-```
-
-### 4.3 Browser-Native 4-Stage Ranked RAG Engine
+The dashboard features a **client-side RAG search engine** tuned specifically for shipping market analysis:
 
 ```mermaid
 flowchart TD
     UserQ["User Query in Web UI"] --> Stage1["1. Domain Alias Expansion (40+ Aliases)"]
-    Stage1 --> Stage2["2. Inverted Index Candidate Filter O(terms)"]
+    Stage1 --> Stage2["2. Inverted Index Candidate Discovery O(terms)"]
     Stage2 --> Stage3["3. Date-Range Pre-Filtering"]
     Stage3 --> Stage4["4. Multi-Factor BM25 Re-Scoring"]
     Stage4 --> Context["5. Live Market Narrative Context Injection"]
@@ -291,15 +334,17 @@ flowchart TD
     LLM --> Answer["7. Answer with [DOC-N] Citations"]
 ```
 
-#### BM25 Scoring Formula Multipliers:
-- **Keyword Match Boost**: $2.0\times$ multiplier for hits inside the curated `keywords` array.
-- **Title Hit Boost**: Multiplies score by $1 + (\text{hits} \times 0.4)$ if query terms appear in chunk section headers.
-- **Recency Multiplier**: $1.5\times$ boost for chunks published within the last 90 days.
-- **Source Deduplication Cap**: Limits max 2–3 chunks per underlying document to prevent single-report crowding.
+#### Key RAG Features:
+- **Suggested Questions UI**: Tabbed interface (Daily Briefing, Market Signals, Supply & Orderbooks, Macro & Cargo, Trade Ideas).
+- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) $\rightarrow$ inverted index candidate discovery $\rightarrow$ date-range pre-filtering $\rightarrow$ multi-factor BM25 (keywords $2\times$, section-title boost, recency $1.5\times$, source dedup) $\rightarrow$ optional LLM reranker.
+- **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative text.
+- **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section.
+- **Low-Confidence Warnings**: Surfaces "⚠ Limited context found" when BM25 score $< 0.5$ or $<3$ chunks match.
+- **Browser Q&A Fallback**: Groq (defaults to `openai/gpt-oss-120b`) and OpenRouter both supported natively.
 
 ---
 
-## 5. Automated GitHub Actions Workflows
+## 6. Automated GitHub Actions Workflows
 
 The repository maintains itself via 6 idempotent GitHub Actions workflows:
 
@@ -314,7 +359,7 @@ The repository maintains itself via 6 idempotent GitHub Actions workflows:
 
 ---
 
-## 6. Codebase Inventory & Knowledge Graph Telemetry
+## 7. Codebase Inventory & Knowledge Graph Telemetry
 
 Graph statistics extracted via `code-review-graph` MCP tools:
 
@@ -349,9 +394,9 @@ Total Graph Edges:   5,774 (5,194 Calls, 404 Contains, 173 Imports, 3 References
 
 ---
 
-## 7. Developer Guide & Database Expansion Instructions
+## 8. Developer Guide & Database Expansion Instructions
 
-### 7.1 Local Environment Setup
+### 8.1 Local Environment Setup
 
 ```bash
 # Clone the repository
@@ -366,7 +411,7 @@ pip install -r requirements_knowledge.txt
 playwright install chromium
 ```
 
-### 7.2 Executing Core Pipelines
+### 8.2 Executing Core Pipelines
 
 ```bash
 # Update freight indices & SGX futures
@@ -388,7 +433,7 @@ python scripts/build_health_report.py
 python scripts/validate_knowledge.py
 ```
 
-### 7.3 Instructions for LLMs / Data Engineers Expanding Historical Series
+### 8.3 Instructions for LLMs / Data Engineers Expanding Historical Series
 
 > [!IMPORTANT]
 > If you are an AI assistant or data engineer tasked with **extending historical data series** (e.g. extending Time Charter rates back prior to July 2021, or adding historical spot data prior to 2007), follow these strict requirements:
@@ -405,6 +450,14 @@ python scripts/validate_knowledge.py
    - Always sort rows chronologically by date before committing updates.
 5. **Run Validation Post-Update**:
    - Execute `python scripts/validate_knowledge.py` to confirm schema integrity.
+
+---
+
+## 🏴‍☠️ Henry Avery Ticker
+
+The dashboard features an animated global ticker at the top, named after the legendary "King of Pirates":
+- **22 Curated Quotes**: A blended mix of Henry Avery lore, maritime strategy (Sir Francis Drake, Themistocles), and ancient Nordic wisdom from the *Hávamál*.
+- **Interactive Controls**: Pauses on hover, fully copy-paste enabled.
 
 ---
 
