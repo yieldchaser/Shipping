@@ -4,7 +4,7 @@ categories:
 - shipbuilding
 document_count: 170
 evidence_count: 250
-generated_at: '2026-07-31T13:52:28Z'
+generated_at: '2026-08-03T13:47:08Z'
 latest_evidence_date: '2026-07-31'
 page_type: topic_wiki
 related_topics:
