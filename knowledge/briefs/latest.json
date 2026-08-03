@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:56:06.369946+00:00",
+  "generated_at": "2026-08-03T18:10:23.510338+00:00",
   "brief_date": "2026-08-03",
   "generation": {
     "mode": "template",
@@ -61,22 +61,22 @@
       "roc60": 6.12
     },
     "clean_tanker": {
-      "value": 1427.0,
-      "z_score_252d": 0.696,
-      "pctl_5y": 0.95,
+      "value": 1436.0,
+      "z_score_252d": 0.709,
+      "pctl_5y": 0.952,
       "regime": "DISTRIBUTION",
       "regime_emoji": "FLAT",
-      "ma200": 1201.8,
-      "roc60": -23.2
+      "ma200": 1206.2,
+      "roc60": -22.42
     },
     "dirty_tanker": {
-      "value": 2582.0,
-      "z_score_252d": 1.004,
-      "pctl_5y": 0.962,
+      "value": 2554.0,
+      "z_score_252d": 0.958,
+      "pctl_5y": 0.96,
       "regime": "DISTRIBUTION",
       "regime_emoji": "FLAT",
-      "ma200": 2052.5,
-      "roc60": -1.79
+      "ma200": 2059.6,
+      "roc60": -0.78
     }
   },
   "vessel_classes": {
@@ -109,12 +109,12 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.85sigma). Of 12 Breakwave reports: Sentiment 5 pos/1 neg/6 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "Tanker is in distribution regime at 1427.0, with z-score +0.85sigma and ROC60 -23.2%. Recent analyst sentiment skews neutral (neutral:6, negative:1, positive:5). Quant momentum and analyst signals align bullishly for tanker (Z=+0.85sigma). Of 12 Breakwave reports: Sentiment 5 pos/1 neg/6 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.83sigma). Of 12 Breakwave reports: Sentiment 5 pos/1 neg/6 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
+      "summary": "Tanker is in distribution regime at 1436.0, with z-score +0.83sigma and ROC60 -22.4%. Recent analyst sentiment skews neutral (neutral:6, negative:1, positive:5). Quant momentum and analyst signals align bullishly for tanker (Z=+0.83sigma). Of 12 Breakwave reports: Sentiment 5 pos/1 neg/6 neu; Momentum 6 pos/3 neg/3 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=1427.0, z=+0.85sigma, 5Y percentile=95.0%.",
+        "Quant: CLEAN_TANKER value=1436.0, z=+0.83sigma, 5Y percentile=95.2%.",
         "Qual: last 12 reports sentiment mix -> neutral:6, negative:1, positive:5.",
-        "Cross-check: DIRTY_TANKER value=2582.0, z=+1.00sigma.",
+        "Cross-check: DIRTY_TANKER value=2554.0, z=+0.96sigma.",
         "Latest report 2026-07-28: momentum=positive, fundamentals=positive."
       ],
       "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
