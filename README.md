@@ -1,759 +1,414 @@
-# Shipping
+# Shipping: Zero-Infrastructure Intelligence Platform & Quantitative Terminal
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://yieldchaser.github.io/Shipping/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=for-the-badge&logo=python)](file:///c:/Users/Dell/Github/Shipping/scripts)
+[![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-GitHub%20Actions-orange?style=for-the-badge&logo=githubactions)](file:///c:/Users/Dell/Github/Shipping/.github/workflows)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-RAG%20Compiler-purple?style=for-the-badge)](file:///c:/Users/Dell/Github/Shipping/knowledge)
 
 > *"I am a Man of Fortune, and I must seek my Fortune."*  
-> — Henry Avery, 1694
-
-A fully automated, zero-infrastructure shipping intelligence platform. It now combines a browser-based freight dashboard, automated market-data scrapers, and a repo-native knowledge base compiler for shipping reports and reference books.
-
-**No server. No build step. No cost.**
+> — **Henry Avery, 1694**
 
 ---
 
-## Live Dashboard
+## 🌐 Live Web Terminal
 
-Served directly from this repository via GitHub Pages.  
-Open `index.html` in any browser, or visit the GitHub Pages URL.
+The production analytical dashboard is hosted live via GitHub Pages:  
+👉 **[https://yieldchaser.github.io/Shipping/](https://yieldchaser.github.io/Shipping/)**  
+*(Can also be launched locally by opening [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) in any modern web browser).*
 
----
-
-## 🧠 Research Q&A (Advanced RAG)
-
-The dashboard features a **world-class browser-based RAG assistant** tuned specifically for shipping market analysis. Unlike typical RAG systems, this engine combines lexical precision with semantic intent:
-
-- **Suggested Questions UI**: Tabbed interface (Daily Briefing, Market Signals, Supply & Orderbooks, Macro & Cargo, Trade Ideas) with smart question routing
-- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) → inverted index candidate discovery → date-range pre-filtering → multi-factor BM25 (keywords 2×, section-title boost, recency 1.5×, source dedup) → optional LLM reranker
-- **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative (not JSON)
-- **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section
-- **Low-Confidence Warnings**: System surfaces "⚠ Limited context found" when retrieval quality is thin
-- **Browser Q&A Fallback**: Groq and OpenRouter both stay available; Groq defaults to `openai/gpt-oss-120b` and OpenRouter uses `openrouter/free`
-- **Zero-Cost, Zero-Server**: Entirely client-side; no backend or vector database required
+**No backend server. No database costs. No build steps.** The entire system operates as a self-sustaining quantitative shipping intelligence platform with client-side execution, browser-native RAG AI search, and automated multi-daily scraping pipelines.
 
 ---
 
-## How It Works (Self-Sustaining)
+## 1. System Architecture & Flow
 
-The repository now maintains itself through six GitHub Actions workflows:
+```mermaid
+flowchart TD
+    subgraph DataSources["External Data Sources & Web Ingestion"]
+        S1["Baltic Exchange (StockQ / API)"]
+        S2["Breakwave Advisors (PDFs & Insights)"]
+        S3["Hellenic Shipping News (Weekly TC & Scrap)"]
+        S4["Amplify ETFs (BDRY & BWET Holdings)"]
+        S5["SGX Futures & Yahoo Finance Liquidity"]
+    end
 
-| Workflow | Schedule | What it does |
-|---|---|---|
-| `daily_update.yml` | **10:30 AM + 2 PM + 7 PM + 10 PM UTC daily** | Scrapes Baltic indices, SGX freight futures, and ETF fund-flow snapshots; deduplicates and commits updated CSVs |
-| `baltic_new_indices_update.yml` | **10:30 AM + 2 PM + 7 PM + 10 PM UTC Mon-Fri** | Updates BLNG, BLPG, FBX, and BAI from the Baltic ticker API and validates the local CSV tails before committing |
-| `etf_holdings_update.yml` | **2 PM UTC Mon-Fri** | Downloads the master Amplify ETF holdings CSV, extracts BDRY and BWET, sorts by vessel class to contract month, commits `*_holdings.csv` |
-| `report_ingest.yml` | **8 AM + 9:30 AM + 12 PM + 4 PM UTC Mon-Fri** | Runs core ingest windows for Breakwave PDF + Baltic reports, plus an extended daily window for Breakwave Insights HTML and Hellenic report categories |
-| `process_knowledge.yml` | **On `reports/**` push + manual dispatch** | Compiles source PDFs/HTML into normalized markdown docs, retrieval chunks, manifests, and derived artifacts under `knowledge/` |
-| `daily_knowledge_update.yml` | **3:30 PM UTC daily + manual dispatch** | Checks whether `reports/` contains anything newer than the knowledge manifest and runs an incremental rebuild when needed |
+    subgraph ActionsPipeline["GitHub Actions Automation (6 Cron Workflows)"]
+        W1["daily_update.yml"]
+        W2["baltic_new_indices_update.yml"]
+        W3["etf_holdings_update.yml"]
+        W4["report_ingest.yml"]
+        W5["process_knowledge.yml"]
+        W6["daily_knowledge_update.yml"]
+    end
 
-All six workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, `report_ingest.yml` keeps the source archive fresh, and the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
+    subgraph StorageLayer["Repo-Native Data & Knowledge Base"]
+        D1["data/indices/ (12 CSV Series)"]
+        D2["data/futures/ & data/etf/ (Holdings & Flows)"]
+        D3["data/derived/ (Time Charter Rates & Valuations)"]
+        D4["knowledge/ (Chunks, Trees, Wiki, Manifests)"]
+    end
 
-The dashboard still fetches everything client-side at page load with no backend. The browser Q&A panel uses a user-provided Groq or OpenRouter key stored in localStorage, defaults Groq to `openai/gpt-oss-120b`, and keeps OpenRouter fully available as the alternate browser provider. Server workflows use repo secrets (`GEMINI_API_KEY`, optional `OLLAMA_BASE_URL` / `OLLAMA_API_KEY` / `OLLAMA_MODEL`, and optional `NIM_API_KEY` / `NIM_MODEL` / `NIM_BASE_URL`) for automated enrichment and brief generation.
+    subgraph ClientApp["Browser Analytical Web Terminal (index.html)"]
+        UI1["Multi-Product Dashboard & Charts"]
+        UI2["Quantitative Signal & Regime Engine"]
+        UI3["Browser-Native RAG Q&A Assistant"]
+    end
 
----
-
-## What Can Be Built Next
-
-The current corpus + manifests + derived layers make the following additions straightforward:
-
-### High-leverage, Near-term
-
-- **Signal + Alert Engine**: Wire the extracted indicators in `signals.jsonl` to rule-based thresholds (e.g., "BDI Z-score > +2σ and last 3 Breakwave reports flag bullish Capesize").
-- **Research Workflow UI**: Add a dedicated "Lab" tab for filtering, comparing, and exporting evidence packs across different analyst sources.
-- **Multimodal Enhancement**: Implementation of stronger table extraction for image-heavy Hellenic reports.
-
-### Medium-term
-
-- **Analog-year Automation**: Compute cosine similarity between the current year’s daily Z-score path and all historical years to automatically surface and annotate the "Top 3 Analogs."
-- **FFA Divergence Detector**: Automatically flag cases where the futures term structure contradicts spot momentum and qualitative analyst sentiment.
-- **ETF Arbitrage Monitor**: Elevate NAV/Price divergences to actionable signals when knowledge-corpus sentiment is directionally consistent with the arbitrage.
-
-### Longer-term
-
-- **Cross-source Sentiment Index**: Aggregate extracted signals across all sources daily to compute a single sentiment score per vessel class.
-- **Analyst Accuracy Tracker**: Build a persistent record of analyst sentiment versus realized index moves to score source reliability over time.
-
----
-
-## Knowledge Base (Corpus)
-
-The repo now includes an incremental shipping intelligence knowledge layer built from:
-
-- Breakwave Advisors bi-weekly dry bulk and tanker PDFs
-- Breakwave Insights HTML commentary archive
-- Baltic Exchange weekly HTML roundups across dry, tanker, gas, container, and Ningbo
-- Hellenic Shipping News HTML archive (charter, valuations, demolition, shipbuilding)
-- A local library of shipping reference books stored in `reports/`
-
-Knowledge outputs live under `knowledge/`:
-
-- `knowledge/config/` - topic definitions that drive the generated wiki layer
-- `knowledge/docs/` - normalized markdown documents with YAML frontmatter
-- `knowledge/chunks/` - JSONL retrieval chunks with stable section IDs, page spans, token counts, and keywords
-- `knowledge/trees/` - per-document section trees for explainable, section-first retrieval
-- `knowledge/wiki/` - topic pages compiled from cited evidence across the corpus
-- `knowledge/reports/` - generated knowledge-health summaries and operational diagnostics
-- `knowledge/manifests/` - document inventory, source registry, and error logs
-- `knowledge/derived/` - extracted signals, themes, section index, topic evidence, and timeline artifacts
-
-The compiler is `scripts/process_knowledge.py`, and corpus validation is handled by `scripts/validate_knowledge.py`.
-
----
-
-## What This Tracks
-
-### Freight Indices — 7 series, daily since Dec 2007
-
-| File | Index | Code | Vessel / Cargo |
-|---|---|---|---|
-| `data/indices/bdiy_historical.csv` | Baltic Dry Index | BDI | Headline dry bulk composite |
-| `data/indices/cape_historical.csv` | Baltic Capesize Index | BCI | 180,000 DWT — iron ore, coal |
-| `data/indices/panama_historical.csv` | Baltic Panamax Index | BPI | 82,000 DWT — grain, coal |
-| `data/indices/suprama_historical.csv` | Baltic Supramax Index | BSI | 58,000 DWT — minor bulk |
-| `data/indices/handysize_historical.csv` | Baltic Handysize Index | BHSI | 28,000 DWT — minor bulk |
-| `data/indices/cleantanker_historical.csv` | Baltic Clean Tanker Index | BCTI | Refined products |
-| `data/indices/dirtytanker_historical.csv` | Baltic Dirty Tanker Index | BDTI | Crude oil |
-
-CSV schema: `Date (DD-MM-YYYY), Index, % Change`
-
-### Time Charter Rates — compiled weekly from OCR
-
-`data/derived/time_charter_rates.csv` — 250+ weekly rows (2021–present), auto-compiled by `process_knowledge.py` from OCR text extracted out of the weekly Alibra Shipping TC estimate tables published on Hellenic Shipping News.
-
-| Vessel class | Columns available |
-|---|---|
-| VLCC | `vlcc_1y`, `vlcc_2y`, `vlcc_3y`, `vlcc_5y` |
-| Suezmax | `suezmax_1y`, `suezmax_2y`, `suezmax_3y`, `suezmax_5y` |
-| Aframax | `aframax_1y`, `aframax_2y`, `aframax_3y`, `aframax_5y` |
-| MR (product) | `mr_1y`, `mr_2y`, `mr_3y`, `mr_5y` |
-| LR1 | `lr1_1y`, `lr1_2y`, `lr1_3y`, `lr1_5y` |
-| LR2 | `lr2_1y`, `lr2_2y`, `lr2_3y`, `lr2_5y` |
-| Capesize | `capesize_1y_atl`, `capesize_1y_pac`, `capesize_1y_avg`, `capesize_2y_*` |
-| Panamax | `panamax_1y_atl`, `panamax_1y_pac`, `panamax_1y_avg`, `panamax_2y_*` |
-| Supramax | `supramax_1y_atl`, `supramax_1y_pac`, `supramax_1y_avg`, `supramax_2y_*` |
-| Handysize | `handysize_1y_atl`, `handysize_1y_pac`, `handysize_1y_avg`, `handysize_2y_*` |
-
-All rates in **$/day**. Tanker rates sourced from Alibra Shipping weekly estimates (published via Hellenic Shipping News). Dry bulk rates sourced from Howe Robinson weekly Dry Time Charter Estimates (same publication).
-
-### BDRY Spot Composite — Computed client-side
-
-Replicates the **Solactive Breakwave Dry Freight Futures Index** methodology using daily spot values:
-
-```
-BDRY_Spot(t) = 0.50 × BCI(t) + 0.40 × BPI(t) + 0.10 × BSI(t)
+    DataSources --> ActionsPipeline
+    ActionsPipeline --> StorageLayer
+    StorageLayer --> ClientApp
 ```
 
-Available from October 2008 (~4,200 data points). Computed in the browser on every page load from the three existing CSVs — no extra file. Selectable across all tabs. Useful for comparing against the BDRY ETF market price to monitor premium/discount to spot.
+### Supported Maritime Segments & Vessel Classes
 
-### ETF Holdings — updated each market day
-
-| File | ETF | What it holds |
-|---|---|---|
-| `data/etf/bdry_holdings.csv` | Breakwave Dry Bulk Shipping ETF (BDRY) | Capesize 5TC, Panamax 5TC, Supramax 58 FFA futures — front 5 months |
-| `data/etf/bwet_holdings.csv` | Breakwave Tanker Shipping ETF (BWET) | TD3C (MEG→China 270kt VLCC) and TD20 (WAF→Continent 130kt Suezmax) FFA futures |
-
-CSV schema: `Name, Ticker, CUSIP, Lots, Price, Market_Value, Weightings`
-
-BDRY index weights: **50% Capesize, 40% Panamax, 10% Supramax** (Solactive ISIN DE000SLA4BY3).  
-BWET index weights: **90% TD3C, 10% TD20** (Solactive ISIN DE000SL0HLG3, Excess Return).
+| Segment | Vessel Class | Capacity / Spec | Key Freight Cargoes | Primary Routes / Indicators |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dry Bulk** | **Capesize** | 180,000 DWT | Iron Ore, Coal | BCI, C5 (WAus$\rightarrow$China), C3 (Tubarao$\rightarrow$Qingdao) |
+| **Dry Bulk** | **Panamax** | 82,000 DWT | Grain, Coal, Bauxite | BPI, P1A, P2A, P3A Atlantic/Pacific |
+| **Dry Bulk** | **Supramax** | 58,000 DWT | Minor Bulks, Steel, Fertilizer | BSI, S1C, S2, S4A, S10 |
+| **Dry Bulk** | **Handysize** | 38,000 DWT | Agricultural, Logs, Minor Bulks | BHSI, HS1, HS2, HS3 |
+| **Crude Tankers** | **VLCC** | 270,000–300,000 DWT | Crude Oil | BDTI, TD3C (MEG$\rightarrow$China 270kt) |
+| **Crude Tankers** | **Suezmax** | 130,000–150,000 DWT | Crude Oil | BDTI, TD20 (WAF$\rightarrow$UKC 130kt) |
+| **Crude Tankers** | **Aframax** | 80,000–115,000 DWT | Crude Oil | BDTI, Regional Aframax routes |
+| **Clean Tankers** | **LR2 / LR1 / MR**| 45,000–75,000 DWT | Refined Products (Naphtha, Diesel) | BCTI, TC2, TC14 |
+| **Specialized** | **LNG & LPG** | 160k m³ / 84k m³ | Liquefied Gas | BLNG, BLPG Indices |
+| **Container** | **Boxships** | Multi-TEU | Manufactured Goods | FBX (Freightos Baltic), NCFI (Ningbo) |
+| **Freight ETFs** | **BDRY & BWET** | Freight Futures | FFA Derivatives Baskets | Solactive BDRYFF & BWETFF Indices |
 
 ---
 
-## Repository Structure
+## 2. Exhaustive Data Catalog & Time Series Inventory
+
+This section provides a complete reference for every data file tracked within the repository. **External LLMs or automated parsers can use this inventory to locate datasets, verify schemas, and extend historical data.**
+
+### 2.1 Primary Freight Spot Indices (`data/indices/`)
+
+All files use standard CSV formatting with date headers in `DD-MM-YYYY` format.
+
+| File Path | Target Index | Code | Start Date | Rows | Schema / Columns | Primary / Derived |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 05-12-2007 | ~4,503 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/cape_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/panama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/suprama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,300 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/handysize_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/handysize_historical.csv) | Baltic Handysize Index | BHSI | 06-10-2008 | ~4,279 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/cleantanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cleantanker_historical.csv) | Baltic Clean Tanker | BCTI | 02-01-2008 | ~4,473 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/dirtytanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/dirtytanker_historical.csv) | Baltic Dirty Tanker | BDTI | 05-12-2007 | ~4,488 | `Date, Index, % Change` | Primary (Scraped) |
+
+### 2.2 Baltic Ticker API Series (`data/indices/`)
+
+Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`).
+
+| File Path | Index Description | Code | Start Date | Schema |
+| :--- | :--- | :--- | :--- | :--- |
+| `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 13-03-2026 | `Date, Index, % Change` |
+| `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 13-03-2026 | `Date, Index, % Change` |
+| `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | `Date, Index, % Change` |
+| `data/indices/bai_historical.csv` | Baltic Air Freight Index | BAI | 13-03-2026 | `Date, Index, % Change` |
+
+### 2.3 Time Charter (TC) Rates & Valuations (`data/derived/`)
+
+Calculated weekly via OCR extraction out of Alibra Shipping & Howe Robinson market tables published in Hellenic Shipping News (`scripts/process_knowledge.py`).
+
+| File Path | Description | Start Date | Rows | Columns / Schema Overview |
+| :--- | :--- | :--- | :--- | :--- |
+| [`data/derived/time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv) | Weekly 1Y, 2Y, 3Y, 5Y TC Rates ($/day) | 07-07-2021 | ~257 | `Date` + 48 rate columns (`vlcc_1y`, `vlcc_2y`, `suezmax_1y`, `aframax_1y`, `mr_1y`, `lr1_1y`, `lr2_1y`, `capesize_1y_atl`, `capesize_1y_pac`, `capesize_1y_avg`, `panamax_1y_avg`, etc.) |
+| [`data/derived/vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | Scrappage Prices ($/LDT) & Floor Valuations | 03-09-2022 | ~136 | `Date, india_scrap, bangladesh_scrap, pakistan_scrap, cape_floor_m, pana_floor_m, supra_floor_m, handy_floor_m` |
+| [`data/derived/iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 03-07-2018 | ~1,234 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
+
+### 2.4 Futures, Holdings & Fund Flows (`data/futures/`, `data/etf/`, `data/flows/`)
+
+| File Path | Type | Start Date | Rows | Content Summary |
+| :--- | :--- | :--- | :--- | :--- |
+| `data/futures/bdryff_history.csv` | Futures Index | 28-02-2010 | ~4,118 | Solactive BDRY Freight Futures Index history (`Date, Close`) |
+| `data/futures/bwetff_history.csv` | Futures Index | 22-12-2016 | ~2,419 | Solactive BWET Freight Futures Index history (`Date, Close`) |
+| `data/futures/sgx_*_futures.csv` | Curve Data | 05-03-2026 | 3,000+ | SGX Capesize, Panamax, Supramax, Handysize FFA forward curves |
+| `data/etf/bdry_holdings.csv` | Daily Holdings | Live | ~21 | BDRY FFA contract holdings (Capesize, Panamax, Supramax 5TC) |
+| `data/etf/bwet_holdings.csv` | Daily Holdings | Live | ~15 | BWET FFA contract holdings (TD3C VLCC & TD20 Suezmax) |
+| [`data/etf/BDRY_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BDRY_flows.csv) | Fund Flows | 23-03-2018 | ~2,088 | Daily flow $, Net Shares, NAV, AUM history for BDRY ETF |
+| [`data/etf/BWET_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BWET_flows.csv) | Fund Flows | 04-05-2023 | ~808 | Daily flow $, Net Shares, NAV, AUM history for BWET ETF |
+| `data/flows/all_flows_summary.json` | JSON Summary | Live | — | Unified JSON payload containing synced ETF flow metrics |
+| `data/etf/bdry_liquidity.csv` | Liquidity | 22-03-2018 | ~2,096 | Daily Close, Volume, Dollar Value Traded, Tier, Safe Liquidity $ |
+
+---
+
+## 3. Quantitative & Statistical Engine Methodologies
+
+The browser web application (`index.html`) processes all raw data series client-side using the following exact mathematical definitions:
+
+### 3.1 Spot Rate $/day TCE Equivalent Conversions
+
+Spot index points are converted into Time Charter Equivalent (TCE) $/day estimates:
+
+$$\text{Dry Bulk TCE}_{\text{approx}} (\$/\text{day}) = \text{Index Points} \times 10$$
+
+$$\text{Dirty Tanker TCE}_{\text{approx}} (\$/\text{day}) = \text{BDTI Points} \times 35$$
+
+$$\text{Clean Tanker TCE}_{\text{approx}} (\$/\text{day}) = \text{BCTI Points} \times 30$$
+
+### 3.2 Z-Score Formulations
+
+1. **Calendar Day Z-Score** (comparing current value against the same trading session across historical years):
+
+$$Z_{\text{calendar}}(t) = \frac{x(t) - \mu_{\text{cal}}}{\sigma_{\text{cal}}}$$
+
+2. **Rolling 252-Day Z-Score** (trailing 1-year statistical normalization):
+
+$$Z_{252}(t) = \frac{x(t) - \mu_{252}(t)}{\sigma_{252}(t)}$$
+
+where $\mu_{252}(t) = \frac{1}{252}\sum_{i=0}^{251} x(t-i)$ and $\sigma_{252}(t) = \sqrt{\frac{1}{252}\sum_{i=0}^{251} (x(t-i) - \mu_{252}(t))^2}$.
+
+### 3.3 Percentile Rank, Drawdown & Volatility
+
+- **Percentile Rank ($P$)**:
+  $$P(x) = \frac{|\{y \in W : y \le x\}|}{|W|} \times 100\%$$
+  where $W$ is the historical window (5-Year, 10-Year, or All-Time).
+
+- **52-Week Drawdown ($D_{52}$)**:
+  $$D_{52}(t) = \frac{x(t) - \max_{\tau \in [t-365, t]} x(\tau)}{\max_{\tau \in [t-365, t]} x(\tau)}$$
+
+- **20-Day Rate of Change ($\text{RoC}_{20}$)**:
+  $$\text{RoC}_{20}(t) = \frac{x(t) - x(t-20)}{x(t-20)} \times 100\%$$
+
+- **Yearly Volatility Dispersion ($V$)**:
+  $$V = \frac{\max_{y}(x) - \min_{y}(x)}{|\text{mean}_{y}(x)|} \times 100\%$$
+
+- **Trough-to-Peak Opportunity Gain ($T \rightarrow P$)**:
+  $$T \rightarrow P = \frac{\max_{y}(x) - \min_{y}(x)}{\min_{y}(x)} \times 100\% \quad (\text{for } \min_{y}(x) > 0)$$
+
+### 3.4 Momentum Regime Matrix
+
+Regimes are evaluated by combining long-term trend ($\text{MA}_{200}$) with mid-term momentum ($\text{RoC}_{60}$):
+
+| Price vs $\text{MA}_{200}$ | $\text{RoC}_{60}$ | Regime Classification | Visual Indicator |
+| :--- | :--- | :--- | :--- |
+| $\text{Price} > \text{MA}_{200}$ | $> 0$ | **EXPANSION** | 🟢 Green |
+| $\text{Price} > \text{MA}_{200}$ | $\le 0$ | **DISTRIBUTION** | 🟡 Yellow |
+| $\text{Price} \le \text{MA}_{200}$ | $> 0$ | **ACCUMULATION** | 🔵 Blue |
+| $\text{Price} \le \text{MA}_{200}$ | $\le 0$ | **CONTRACTION** | 🔴 Red |
+
+### 3.5 Algorithmic Signal Decision Engine
+
+```mermaid
+decisionTree
+    P5Y > 80%? --> YES: ⛔ SELL
+    P5Y > 80%? --> NO: P5Y < 20% & Z252 < -0.5 & PAll > 40%?
+    P5Y < 20% & Z252 < -0.5 & PAll > 40%? --> YES: 💎 GOLDEN DIP
+    P5Y < 20% & Z252 < -0.5 & PAll > 40%? --> NO: P5Y < 10% & Z252 < -0.6?
+    P5Y < 10% & Z252 < -0.6? --> YES: 🔥 CATCHING KNIFE
+    P5Y < 10% & Z252 < -0.6? --> NO: P5Y < 30% & PAll < 30%?
+    P5Y < 30% & PAll < 30%? --> YES: ⚠️ VALUE TRAP
+    P5Y < 30% & PAll < 30%? --> NO: P5Y < 40%?
+    P5Y < 40%? --> YES: 🔹 ACCUMULATE
+    P5Y < 40%? --> NO: ⏳ WAIT
+```
+
+### 3.6 Synthetic BDRY Spot Composite
+
+Replicates the Solactive Breakwave Dry Freight Futures Index allocation using spot rates:
+
+$$\text{BDRY}_{\text{spot}}(t) = 0.50 \cdot \text{BCI}(t) + 0.40 \cdot \text{BPI}(t) + 0.10 \cdot \text{BSI}(t)$$
+
+### 3.7 ETF Liquidity Tiering & Capacity Model
+
+Calculates maximum non-disruptive trading capacity per session based on daily volume:
+
+| Volume Window | Tier Allocation % | Formula |
+| :--- | :--- | :--- |
+| $\text{Volume} < 50,000$ | $2.0\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.020 \rfloor$ |
+| $50,000 \le \text{Volume} < 100,000$ | $3.5\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.035 \rfloor$ |
+| $100,000 \le \text{Volume} < 500,000$ | $5.0\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.050 \rfloor$ |
+| $\text{Volume} \ge 500,000$ | $6.5\%$ | $\text{Safe Shares} = \lfloor \text{Volume} \times 0.065 \rfloor$ |
+
+$$\text{Safe Liquidity Capacity } (\$) = \text{Safe Shares} \times \text{Closing Price}$$
+
+---
+
+## 4. Intelligence Knowledge Base Engine & RAG Architecture
+
+The platform embeds a complete document processing compiler ([`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py)) and browser-native retrieval augmented generation (RAG) assistant.
 
 ```
-Shipping/
-│
-├── index.html                          # Full dashboard — self-contained, 22-quote Avery Ticker, CDN-only deps
-│
-├── data/
-│   ├── indices/                        # Freight index time series
-│   │   ├── bdiy_historical.csv         # Baltic Dry Index (from Dec 2007)
-│   │   ├── cape_historical.csv         # Capesize (from Oct 2008)
-│   │   ├── panama_historical.csv       # Panamax (from Oct 2008)
-│   │   ├── suprama_historical.csv      # Supramax (from Oct 2008)
-│   │   ├── handysize_historical.csv    # Handysize (from Oct 2008)
-│   │   ├── cleantanker_historical.csv  # Clean Tanker (from Jan 2008)
-│   │   ├── dirtytanker_historical.csv  # Dirty Tanker (from Dec 2007)
-│   │   ├── blng_history.csv            # Baltic LNG Index
-│   │   ├── blpg_history.csv            # Baltic LPG Index
-│   │   ├── fbx_history.csv             # Freightos Baltic Index (container)
-│   │   └── bai_history.csv             # Baltic Air Freight Index
-│   │
-│   ├── futures/                        # FFA futures data
-│   │   ├── bdryff_history.csv          # Solactive BDRY freight futures index
-│   │   ├── bwetff_history.csv          # Solactive BWET freight futures index
-│   │   ├── sgx_cape_futures.csv        # SGX Capesize FFA curve
-│   │   ├── sgx_panamax_futures.csv     # SGX Panamax FFA curve
-│   │   ├── sgx_supramax_futures.csv    # SGX Supramax FFA curve
-│   │   └── sgx_handysize_futures.csv   # SGX Handysize FFA curve
-│   │
-│   └── etf/                            # ETF holdings, flows, and liquidity
-│       ├── bdry_holdings.csv           # BDRY FFA curve holdings (updated daily)
-│       ├── bwet_holdings.csv           # BWET FFA curve holdings (updated daily)
-│       ├── BDRY_Daily.csv              # BDRY daily premium/discount
-│       ├── BWET_Daily.csv              # BWET daily premium/discount
-│       ├── BDRY_flows.csv              # BDRY fund flow history
-│       ├── BWET_flows.csv              # BWET fund flow history
-│       ├── bdry_liquidity.csv          # BDRY liquidity tracker
-│       └── bwet_liquidity.csv          # BWET liquidity tracker
-│
-├── requirements_knowledge.txt          # Python deps for the knowledge compiler
-│
-├── scripts/
-│   ├── update_indices.py               # Baltic index + SGX futures + flow scraper
-│   ├── update_etf_holdings.py          # ETF holdings scraper (BDRY & BWET)
-│   ├── get_snapshots_scraper.py        # ETF fund flow scraper (TrackInsight)
-│   ├── baltic_new_indices.py           # Baltic ticker API scraper (BLNG, BLPG, FBX, BAI)
-│   ├── generate_brief.py              # Daily market brief generator (LLM-powered)
-│   ├── baltic_scraper.py               # Baltic Exchange Weekly report scraper
-│   ├── breakwave_scraper.py            # Breakwave Advisors biweekly report scraper
-│   ├── breakwave_insights_scraper.py   # Breakwave Insights HTML scraper
-│   ├── hellenic_scraper.py             # Hellenic Shipping News report scraper
-│   ├── source_archive_utils_v2.py      # Shared archive utilities (used by 9+ scrapers)
-│   ├── normalize_source_archives.py    # Source archive format normalization
-│   ├── validate_source_archives.py     # Source archive structural validator
-│   ├── check_breakwave_freshness.py    # Breakwave report freshness monitor
-│   ├── process_knowledge.py            # Incremental knowledge compiler
-│   ├── build_wiki.py                   # Topic-evidence + wiki page generator
-│   ├── build_health_report.py          # Knowledge health / freshness / coverage reports
-│   └── validate_knowledge.py           # Knowledge corpus validator
-│
-├── assets/
-│   ├── BDRY_Export-Map-1024x548.webp   # Dry bulk trade route map (ETF tab)
-│   ├── BWET_Tanker-Map-1-1024x585.webp # Crude tanker route map (ETF tab)
-│   ├── Picture1.png                    # Reference charts
-│   ├── Picture2.png
-│   ├── Picture3.png
-│   └── Picture4.png
-│
-├── docs/
-│   └── Shipping_Main.xlsm              # Offline Excel workbook (same CSV data)
-│
-├── reports/                            # Source PDFs, HTML roundups, and reference books
-│
-├── knowledge/
-│   ├── CLAUDE.md                       # Knowledge schema + query contract
-│   ├── config/                         # Topic definitions for the wiki layer
-│   ├── docs/                           # Normalized markdown documents
-│   ├── chunks/                         # JSONL retrieval chunks
-│   ├── trees/                          # Section trees for explainable retrieval
-│   ├── wiki/                           # Generated topic pages with citations
-│   ├── reports/                        # Knowledge health summaries
-│   ├── manifests/                      # Document/source/error manifests
-│   └── derived/                        # Signals, themes, section index, topic evidence, timelines
-│
-├── .github/workflows/
-│   ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
-│   ├── baltic_new_indices_update.yml   # Cron: 10:30 AM + 2/7/10 PM UTC Mon–Fri
-│   ├── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
-│   ├── report_ingest.yml               # Cron: 8 AM / 9:30 AM / 12 PM / 4 PM UTC Mon-Fri
-│   ├── process_knowledge.yml           # On reports push + manual full/incremental build
-│   └── daily_knowledge_update.yml      # Cron: 3:30 PM UTC daily incremental knowledge check
+knowledge/
+├── config/             # Topic taxonomy definitions for wiki generation
+├── docs/               # Normalized markdown source files with YAML frontmatter
+├── chunks/             # JSONL retrieval chunks with token counts & tags
+├── trees/              # Per-document hierarchical section trees
+├── wiki/               # Auto-compiled topic pages with citations
+├── reports/            # Operational health summaries (health_summary.md)
+├── manifests/          # Document inventory, coverage reports, and error logs
+└── derived/            # Extracted signals.jsonl, themes.jsonl, timelines.json
 ```
 
----
+### 4.1 Knowledge Ingestion & Multi-LLM Provider Failover
 
-## Dashboard Tabs
+The knowledge compiler processes raw PDFs and HTML files in `reports/` with automatic provider fallback:
 
-Built on **Chart.js 4.4.0** and **PapaParse 5.4.1**. All data fetched client-side — no backend. The global **Index:** dropdown in the header switches the active product across all tabs instantly.
+```mermaid
+flowchart LR
+    PDF["Raw PDF/HTML in reports/"] --> Extract["Text & Table Extraction"]
+    Extract --> Chain{"Enrichment Provider Chain"}
+    Chain -->|Primary| P1["Gemini API"]
+    P1 -->|Rate Limit / 429| P2["Local Ollama"]
+    P2 -->|Fallback| P3["NVIDIA NIM"]
+    P3 -->|Offline| P4["Regex Heuristics"]
+    P1 --> Write["Write Markdown, Chunks & Trees"]
+    P2 --> Write
+    P3 --> Write
+    P4 --> Write
+```
 
-**12 products available:** BDI · Capesize · Panamax · Supramax · Handysize · Clean Tanker · Dirty Tanker · BDRY Spot Composite · BDRYFF · BWETFF · BDRY Stock Price · BWET Stock Price
+### 4.2 Retrieval Chunk Schema Specification
 
----
+Chunks in `knowledge/chunks/*.jsonl` contain enriched structural metadata:
 
-### 📊 Dashboard
+```json
+{
+  "chunk_id": "baltic_dry_2026_07_24_sec2_c1",
+  "doc_id": "baltic_dry_2026_07_24",
+  "source_path": "reports/baltic/baltic_dry_2026_07_24.html",
+  "section_id": "capesize-market-commentary",
+  "token_count": 312,
+  "vessel_classes_matched": ["capesize"],
+  "regions_matched": ["atlantic", "pacific"],
+  "has_rates": true,
+  "has_forecast": true,
+  "keywords": ["capesize", "tubarao", "qingdao", "c3", "bci"],
+  "content": "Capesize rates surged on strong Pacific iron ore demand..."
+}
+```
 
-Main overview for the selected index.
+### 4.3 Browser-Native 4-Stage Ranked RAG Engine
 
-- **Hero KPI + signal badge** — algorithmic signal based on percentile and Z-score:
+```mermaid
+flowchart TD
+    UserQ["User Query in Web UI"] --> Stage1["1. Domain Alias Expansion (40+ Aliases)"]
+    Stage1 --> Stage2["2. Inverted Index Candidate Filter O(terms)"]
+    Stage2 --> Stage3["3. Date-Range Pre-Filtering"]
+    Stage3 --> Stage4["4. Multi-Factor BM25 Re-Scoring"]
+    Stage4 --> Context["5. Live Market Narrative Context Injection"]
+    Context --> LLM["6. Client LLM Call (Groq / OpenRouter)"]
+    LLM --> Answer["7. Answer with [DOC-N] Citations"]
+```
 
-  | Signal | Condition |
-  |---|---|
-  | ⛔ SELL | 5Y pctl > 80% |
-  | 💎 GOLDEN DIP | 5Y pctl < 20%, Z < −0.5, all-time pctl > 40% |
-  | 🔥 CATCHING KNIFE | 5Y pctl < 10%, Z < −0.6 |
-  | ⚠️ VALUE TRAP | 5Y pctl < 30%, all-time pctl < 30% |
-  | 🔹 ACCUMULATE | 5Y pctl < 40% |
-  | ⏳ WAIT | all other |
-| **MOMENTUM REGIME** | Computed via `MA(200)` and `ROC(60)`: |
-| 🟢 EXPANSION | Price > MA200, ROC60 > 0 |
-| 🟡 DISTRIBUTION | Price > MA200, ROC60 ≤ 0 |
-| 🔵 ACCUMULATION | Price ≤ MA200, ROC60 > 0 |
-| 🔴 CONTRACTION | Price ≤ MA200, ROC60 ≤ 0 |
-
-- **6 stat cards:** All-Time Pctl · 10Y Pctl · 5Y Pctl · Z-Score · 52-Week Drawdown · 20D RoC
-- **Historical Context Strip:** 5Y avg, current vs 5Y avg %, current vs 10Y avg %
-- **Current Year vs Historical Overlay chart** — current year vs user-selected prior years
-- **Drawdown from 52-Week High** — last 5 years
-- **Recent Daily Changes table** — last 10 sessions: day Δ, day Δ%, 5D change %
-- **Yearly Performance table** *(collapsible, sortable)* — annual avg, YoY %, min, max, Volatility % (dispersion: (max−min)/avg), Trough→Peak % (theoretical maximum gain). Features dynamic rank and percentile tooltips on cell hover. Click any header to sort.
-- **Macro Cycle History (Multi-Year)** *(collapsible, sortable)* — identifies historical turning points (peaks and troughs) using a 30% threshold. Features dynamic duration and move magnitude rank/percentile tooltips on cell hover. Click any header to sort.
-- **Index Correlation Matrix** — Pearson correlation for all 7 products, switchable All Time / 5Y / 1Y
-
----
-
-### 📅 Yearly
-
-- **Historical Price chart** — full history with rolling average toggle (5Y / 10Y / All-Time). Dual-handle range slider.
-- **Z-Score (Rolling 252-Day)** — all 7 products, selected product thicker. Range slider defaults to last 3 years.
-- **Historical Z-Score (All Time from 2008)** — full-history view.
-- **Multi-Year Rates** — annual averages by product, all years.
-- **Current Year Monthly Bar** — MoM colour coding.
-- **Rates — All Products Multi-Year Overlay** — last 4 years by trading day.
-- **Drawdown % (52-Week Rolling, Last 5 Years)**
-
----
-
-- **Monthly Win Rate KPI cards** — historical probability of each month being positive.
-- **Monthly Performance by Year (Spaghetti)** — Overlay of index value by trading day for all years.
-- **Monthly Bar Chart** (last 12 months, MoM colour).
-- **Monthly Area Comparison** — current vs prior year vs 5Y seasonal average.
-- **Monthly Data Grid** — last 8 years × 12 months heatmap. Absolute values use an **8-year relative color scale**.
+#### BM25 Scoring Formula Multipliers:
+- **Keyword Match Boost**: $2.0\times$ multiplier for hits inside the curated `keywords` array.
+- **Title Hit Boost**: Multiplies score by $1 + (\text{hits} \times 0.4)$ if query terms appear in chunk section headers.
+- **Recency Multiplier**: $1.5\times$ boost for chunks published within the last 90 days.
+- **Source Deduplication Cap**: Limits max 2–3 chunks per underlying document to prevent single-report crowding.
 
 ---
 
-### 📊 Quarterly
+## 5. Automated GitHub Actions Workflows
 
-- **Win Rate KPI cards** — historical probability each quarter beats the prior quarter.
-- **Quarterly Heatmap** — all years × Q1–Q4, absolute or QoQ % switchable. Absolute values use an **8-year relative color scale**.
-- **Spaghetti Chart** — Q1/Q2/Q3/Q4 across all years as 4 coloured lines.
-- **Area comparisons** — current vs prior year vs 5Y seasonal average.
-- **Quarterly Data Grid** — last 8 years with full-year avg and YoY %. Heatmap cells use 8-year relative scaling for visual clarity.
+The repository maintains itself via 6 idempotent GitHub Actions workflows:
 
----
-
-### 🌡️ Heatmaps
-
-- **Monthly Heatmap** — Year × Month, absolute value or MoM % toggle.
-- **Quarterly Heatmap** — Year × Quarter, absolute value or QoQ % toggle.
-- **8-Year Relative Scaling** — Both heatmaps use an 8-year relative color scale for absolute values to ensure recent data remains visually distinct from deep historical extremes.
+| Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
+| :--- | :--- | :--- | :--- | :--- |
+| [`daily_update.yml`](file:///.github/workflows/daily_update.yml) | `30 10 * * *`<br>`0 14,19,22 * * *` | Scheduled / Dispatch | `python scripts/update_indices.py`<br>`python scripts/fetch_flows_shipping.py` | Scrapes Baltic indices, SGX futures, BDRY/BWET Playwright ETF fund flows. |
+| [`baltic_new_indices_update.yml`](file:///.github/workflows/baltic_new_indices_update.yml) | `30 10 * * 1-5`<br>`0 14,19,22 * * 1-5` | Mon–Fri Scheduled | `python scripts/baltic_new_indices.py` | Updates BLNG, BLPG, FBX, BAI from Baltic ticker API & validates CSV tails. |
+| [`etf_holdings_update.yml`](file:///.github/workflows/etf_holdings_update.yml) | `0 14 * * 1-5` | Mon–Fri 2 PM UTC | `python scripts/update_etf_holdings.py` | Downloads Amplify master CSV, sorts BDRY/BWET holdings by contract month. |
+| [`report_ingest.yml`](file:///.github/workflows/report_ingest.yml) | `0 8,12,16 * * 1-5`<br>`30 9 * * 1-5` | Mon–Fri Scheduled | `scripts/breakwave_scraper.py`<br>`scripts/baltic_scraper.py`<br>`scripts/hellenic_scraper.py` | Ingests new Breakwave PDFs, Baltic roundups, and Hellenic HTML report categories. |
+| [`process_knowledge.yml`](file:///.github/workflows/process_knowledge.yml) | On push to `reports/**` | Push / Dispatch | `scripts/process_knowledge.py`<br>`scripts/build_wiki.py`<br>`scripts/validate_knowledge.py` | Compiles raw reports into markdown, chunks, trees, derived signals, and wiki pages. |
+| [`daily_knowledge_update.yml`](file:///.github/workflows/daily_knowledge_update.yml) | `30 15 * * *` | Daily 3:30 PM UTC | `python scripts/check_breakwave_freshness.py` | Incremental health check; triggers rebuild if source files outpace knowledge base. |
 
 ---
 
-### 📈 Indices
+## 6. Codebase Inventory & Knowledge Graph Telemetry
 
-All 6 base indices as individual chart cards:
-- Current value, day change %
-- Dual-handle date range slider — zoom to any window, defaults to last 5 years
-- Stats strip: 52W High — Low · 52W Position · YTD % · From Last Trough
+Graph statistics extracted via `code-review-graph` MCP tools:
 
----
+```
+Total Files Tracked: 18 Python Scripts
+Total Graph Nodes:   422 (18 Files, 404 Functions)
+Total Graph Edges:   5,774 (5,194 Calls, 404 Contains, 173 Imports, 3 References)
+```
 
-### 🏦 ETFs
+### Python Scripts Inventory (`scripts/`)
 
-#### BDRY & BWET Card Layout (identical structure for both)
-
-Each card contains:
-1. **Live price + day change** — Yahoo Finance v8 API via CORS proxy; NAV populated from the same response (`meta.navPrice`)
-2. **Metrics row 1:** Total Futures · Collateral Cash · Futures/AUM %
-3. **Metrics row 2:** NAV · Expense Ratio (3.50%) · Exposure Ratio
-4. **Metrics row 3:** 52W High — Low · 52W Position (%) · From Last Trough (%)
-5. **Holdings table** — FFA contracts sorted by vessel class → expiry month (nearest first). Scrollable, fixed-height.
-6. **Futures Allocation donut** — normalised to 100% of futures notional (cash excluded)
-7. **Trade route map** — with inline legend (exporting nations / importing nations / routes / BWET focused routes)
-8. **Yearly Performance Table** *(collapsible, sortable)* — annual average, YoY %, min, max, Volatility %, and Trough→Peak % with cell tooltips (rank/percentile) and click-to-sort headers.
-9. **Macro Cycle History Table** *(collapsible, sortable)* — 30% threshold macro price cycle phases with duration and move magnitude cell tooltips (rank/percentile) and click-to-sort headers.
-10. **ETF Drawdown Chart** *(collapsible)* — rolling 365-day drawdown over the last 5 years computed directly from the ETF stock close price.
-11. **Fundamentals / Data Sources** — sector-specific data links:
-    - BDRY: China Steel & Bulk Demand + Export Flow Indicators (macromicro.me)
-    - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
-#### BDRY & BWET Analytics
-
-- **ETF Historical Volatility** — Annualized HV (Log-return StdDev × √252) computed from BDRY/BWET daily close prices, with regime indicators (Low/Normal/Elevated/Spike).
-- **Cross-Asset Correlation (ETF vs Indices)** — Pearson correlation matrix comparing BDRY/BWET stock prices against all freight indices. Switchable Timeframe (All Time / 5Y / 1Y).
-
-11. **Market Outlook & Research Sources** — categorized market intelligence:
-   - **Research & Insights**: Breakwave Advisors (Research & Insights), BIMCO
-   - **Weekly Market Reports**: Fearnleys Weekly Pulse, Baltic Exchange Weekly Roundup
-   - **Charter Rate Estimates**: Hellenic Shipping News (Weekly dry/tanker charter estimates)
-   - **ETF Data**: Official Amplify and Solactive pages
-
-#### BDRY & BWET Liquidity Tracker *(below the ETF cards)*
-
-Position-sizing model applied to BDRY's full daily history (~1,994 days), fetched live from Yahoo Finance:
-
-| Column | Formula |
-|---|---|
-| Dollar Value Traded | `Close × Volume` |
-| Tier % | Vol < 50K → 2% · < 100K → 3.5% · < 500K → 5% · ≥ 500K → 6.5% |
-| Possible Shares | `floor(Volume × Tier%)` |
-| Safe Liquidity | `Possible Shares × Close` |
-
-- **KPI strip** — current session values for all fields + **Total Safe Liquidity (1M)** (rolling 21-day sum)
-- **Safe Liquidity chart** — historical $ tradeable per day
-- **Volume chart** — daily bars coloured by tier, with 50K / 100K / 500K threshold lines
-- **Rolling Averages chart** — 7 windows (10D / 20D / 1M / 3M / 6M / 12M / 24M)
-- **Full data table** — all rows newest-first, scrollable, CSV export, window toggle (1Y / 3Y / All)
+| Script Name | Size | Functions | Primary Community / Role |
+| :--- | :--- | :--- | :--- |
+| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 150 KB | 127 | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. |
+| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 67.5 KB | 50 | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer. |
+| [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 49.3 KB | 28 | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
+| [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 32.7 KB | 23 | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
+| [`hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py) | 24.3 KB | 19 | Hellenic Shipping News report & weekly TC rate table scraper. |
+| [`update_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_indices.py) | 23.4 KB | 14 | StockQ freight indices & SGX FFA futures curve scraper. |
+| [`build_health_report.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_health_report.py) | 23.3 KB | 16 | Knowledge health, source cadence, and diagnostic report generator. |
+| [`build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) | 20.3 KB | 18 | Topic evidence scoring and automated markdown wiki page builder. |
+| [`breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py) | 18.4 KB | 17 | Breakwave Insights HTML commentary archive scraper. |
+| [`fetch_flows_shipping.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_flows_shipping.py) | 16.8 KB | 8 | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
+| [`breakwave_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_scraper.py) | 16.0 KB | 12 | Breakwave Advisors PDF biweekly report scraper. |
+| [`normalize_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/normalize_source_archives.py) | 14.8 KB | 15 | HTML archive standardizer and cleaner. |
+| [`update_etf_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_etf_holdings.py) | 12.7 KB | 9 | Amplify ETF holdings downloader and sorter. |
+| [`source_archive_utils_v2.py`](file:///c:/Users/Dell/Github/Shipping/scripts/source_archive_utils_v2.py) | 11.3 KB | 20 | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
+| [`baltic_new_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_new_indices.py) | 8.8 KB | 11 | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
+| [`check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) | 4.9 KB | 7 | Freshness monitoring utility. |
+| [`validate_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_source_archives.py) | 4.3 KB | 5 | Source archive format validator. |
+| [`knowledge_hash.py`](file:///c:/Users/Dell/Github/Shipping/scripts/knowledge_hash.py) | 1.2 KB | 2 | Incremental hashing helper for knowledge builds. |
 
 ---
 
-### 🎯 Signals
+## 7. Developer Guide & Database Expansion Instructions
 
-Comprehensive analytical suite for technical and fundamental signals:
-
-#### Core Design & View Modes
-* **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points ×10, BDTI ×35, BCTI ×30) to allow direct comparison with 1-Year and 2-Year Time Charter rates. This makes the Spot-to-TC ratio metrics physically meaningful (e.g., yielding ratios like `0.85x` or `1.15x`).
-* **Detailed & Dynamic Concept Tooltips**: Main chart titles (Time Charter, Basin spread, Restocking, Demolition floor, and Cycle Quadrant) use the dynamic HTML tooltip system. When hovered, they display educational explanations ("what they are", "why they matter", "how to read them") injected with live data from the active datasets (e.g. current spot/term rates, basin spreads, port stocks, scrap values, and momentum percentages). They include advanced boundary clamping and auto-resetting layout positions to prevent hover clipping/squeezing.
-* **View All Sectors Toggle**: A toggle inside the body of Section 2 switches between **Single Sector** (filtered to the globally active sector) and **View All Sectors** (rendering all 6 sectors overlaid as separate lines on a single wide chart).
-* **Aligned Historical Horizon**: Default date cutoffs are set to **July 1, 2021** (or 2018 for restocking) to utilize 100% of the available historical rates database and compare cycle trends over a 5-year horizon.
-* **OCR Data Backfills**: Backfilled missing historical data points using enhanced OCR alias mappings in `process_knowledge.py` to fix weekly Hellenic Shipping News table parsing:
-  * **VLCC**: Mapped `"vice"` to backfill 34 weekly data points (2021–2026).
-  * **LR1**: Mapped `"lri"`, `"trl"`, `"uri"`, and `"tr1"` to backfill 28 weekly data points (2021–2025), reducing the LR1 missing rate from 16.7% to 5.6%.
-* **Signals Tab Performance (Lazy-Rendering)**: Implemented lazy-rendering (`renderSectionCharts`) so that charts inside collapsed sections (e.g., the 12 charts in *Derivatives & Technicals*) are skipped during sector filtering or tab switching to eliminate CPU spikes. Toggling a section open immediately renders its charts on the fly.
-
-| Chart | Description |
-|---|---|
-| **Bollinger Bands (20D, 2σ)** | Price + upper/SMA/lower bands. |
-| **Historical Volatility** | Annualized volatility + regime classification based on all-time percentiles. |
-| **Cape / Panamax Ratio** | Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile. |
-| **Rate-of-Change Heatmap** | 7 products × 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y) heatmap. |
-| **Seasonal Decomposition** | Historical avg intra-year pattern ± 1σ with current year overlaid. |
-| **ETF P/D Z-Score** | Market sentiment signal based on Premium/Discount to NAV Z-score. (+2 = Top, -2 = Bottom). |
-| **FFA Term Structure** | Forward curves from live BDRY/BWET holdings. |
-| **SGX FFA Forward Curve** | Official SGX settlement curve for Cape/Pana/Supra/Handy vs 1W/2W/1M/3M ago. |
-| **Futures vs Spot Premium** | Basis tracking between BDRYFF index and synthetic spot baskets. |
-| **BDI Contribution** | Decomposition of BDI daily change by vessel class (Cape/Pana/Supra). |
-| **ETF Fund Flow Signals** | Multi-indicator glassmorphism suite: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), and Pressure (rel intensity). |
-| **Lead–Lag Correlation** | Cross-correlation of log returns (-30 to +30 days) to detect leads (Financial vs Ripple Effects vs Basis). |
-| **Time Charter Rates** | Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio on secondary axis. Dry bulk uses Atl/Pac TC averages; tankers use VLCC 1Y (crude) and Suezmax 1Y (size proxy). TC data sourced from weekly Alibra Shipping estimates via OCR extraction from Hellenic Shipping News (250+ weeks, 2021–present). |
-| **Basin/Sector Spreads** | Dry bulk: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class. Tankers: VLCC vs MR 1Y TC spread/ratio (crude vs product proxy). |
-| **Restocking Pressure** | Freight spot rates overlaid against CFR 62% Iron Ore price and Qingdao Port Inventory. (Dry bulk only). |
-| **Vessel Capital Cycle** | India, Bangladesh, and Pakistan demolition scrap prices ($/LDT) and calculated ship-displacement scrap floor valuations ($M) for the selected class. |
-| **Market Cycle Quadrant** | Chronological 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score. Identifies Recovery, Boom, Over-ordering, and Restructuring phases. |
-
----
-
-## Statistics Reference
-
-| Metric | Calculation |
-|---|---|
-| **Percentile Rank** | Fraction of historical values ≤ current within lookback window |
-| **Z-Score (Dashboard)** | `(current − mean of same calendar trading day across all prior years) / stddev` |
-| **Z-Score (Rolling 252D)** | `(current − trailing 252D mean) / trailing 252D stddev` |
-| **52-Week Drawdown** | `(current − max over trailing 365 calendar days) / max` |
-| **Rate of Change (20D)** | `(current − value 20 trading days ago) / value 20 trading days ago × 100` |
-| **Bollinger Bands** | `SMA(20) ± 2 × population stddev(20)` |
-| **Cape/Panamax Percentile** | Percentile rank of ratio vs trailing 252D of ratio values |
-| **Seasonal Avg** | Mean of `value[trading_day_N]` across all historical years except current |
-| **FFA Slope** | `(back_month − front_month) / front_month × 100` |
-| **BDRY Spot** | `0.50 × BCI + 0.40 × BPI + 0.10 × BSI` |
-| **Lead–Lag Corr** | `corr(log_returns_A_t, log_returns_B_t+lag)` for lag ‐30 to +30 days |
-| **Volatility %** | `(yearly_max − yearly_min) / abs(yearly_avg) × 100` *(measures price dispersion normalized to mean rather than directional return)* |
-| **Trough→Peak %** | `(yearly_max − yearly_min) / yearly_min × 100` *(measures theoretical maximum opportunity gain; excluded if min ≤ 0)* |
-| **Momentum Regime** | Classification based on long-term trend (`MA200`) and mid-term momentum (`ROC60`) |
-| **Leverage / Exposure** | `(Total Exposure / Collateral Cash) − 1` expressed as % |
-| **52W High — Low** | Highest and lowest price reached in the trailing 52 weeks |
-| **52W Position** | Relative position within the trailing 252-day price range (0% = low, 100% = high) |
-| **From Last Trough** | Percentage increase from the lowest price reached in the last 365 calendar days |
-| **Safe Liquidity** | `floor(Volume × tier%) × Close` |
-| **Total Safe Liquidity (1M)** | Sum of `Safe Liquidity` over the trailing 21 trading days (approx. one month) |
-
----
-
-## 🏴‍☠️ Henry Avery Ticker
-
-The dashboard features an animated global ticker at the top, named after the legendary "King of Pirates."
-
-- **22 Curated Quotes**: A blended mix of Henry Avery lore, maritime strategy (Sir Francis Drake, Themistocles), and ancient Nordic wisdom from the *Hávamál*.
-- **Interactive Controls**: The ticker automatically pauses on hover for readability.
-- **Copy-Paste Enabled**: Text selection is enabled, allowing users to copy or search for quotes directly from the interface.
-
----
-
-## 🗃️ UI/UX Implementation
-
-Built for performance and visual fidelity across all devices:
-
-- **Mobile First**: Uses responsive media queries to stack complex data grids vertically.
-- **Sticky Navigation**: Tab navigation and table headers dock to the top of the viewport for seamless mobile scrolling.
-- **Visual Glow Branding**: The Pirate Logo and Favicon feature a custom dark aura drop-shadow (`0 0 12px rgba(0,0,0,0.9)`) for a premium "dark mode" aesthetic.
-- **Zero-Latency State**: Tab switching and data product filtering (BDI, BCI, etc.) happen instantly via client-side state management.
-- **Human-Friendly Date Formatting**: Key user-facing date displays (Recent Changes, Macro Cycles, and dual range sliders) are standardized to a premium **Month Day, Year** format (e.g. `June 15, 2026`).
-
----
-
-## Engineering & Performance
-
-As a zero-infrastructure platform processing thousands of data points client-side, the dashboard implements several custom engineering optimizations to ensure sub-100ms render times:
-
-### ⚡ Client-Side Optimizations
-
-| Optimization | Implementation | Purpose |
-|---|---|---|
-| **O(n) Rolling Max** | Monotonic Deque (Sliding Window) | Calculates 365-day rolling drawdown in constant time per point, replacing nested loops. |
-| **Chart Decimation** | LTTB (Largest Triangle Three Buckets) | Reduces point count to 120 samples for high-density charts without losing visual significance. |
-| **Render Throttling** | Async `setTimeout` chains | staggers chart initialization at 50ms intervals to prevent UI thread blocking. |
-| **Animation Zeroing** | Config-level disable | Eliminates per-frame repaints and transition overhead for all 20+ charts. |
-| **Calculation Caching** | Memoized Correlation Pairs | Caches expensive cross-correlation results (O(n * maxLag)) to avoid re-computation on tab switch. |
-| **Timeline Zoom Macros** | Virtualised Slider Windows | "TradingView-style" 1Y/3Y/All buttons adjust slider handles instantly to zoom into full-history background data without re-fetching. |
-
----
-
-## Automation Details
-
-### `scripts/update_indices.py`
-
-- Scrapes `en.stockq.org` for all 6 Baltic indices
-- `raise_for_status()` on every HTTP response — fails loudly on 4xx/5xx
-- Sanity-checks scraped values (skips zero or negative index readings)
-- Deduplicates by parsed date (chronological sort, not lexicographic)
-- Idempotent — re-running never corrupts existing data
-
-### `scripts/update_etf_holdings.py`
-
-- Downloads the master Amplify ETF holdings CSV from `amplifyetfs.com`
-- Filters to BDRY and BWET
-- Sorts by vessel class → contract month (nearest expiry first)
-- Index-reset before sort to prevent merge misalignment on filtered DataFrames
-- Validates `Market_Value` as numeric before any arithmetic
-- Idempotent — overwrites the output file each run
-
-### `scripts/process_knowledge.py`
-
-- Incrementally compiles `reports/` into `knowledge/docs/`, `knowledge/chunks/`, `knowledge/trees/`, `knowledge/manifests/`, `knowledge/derived/`, `knowledge/wiki/`, and `knowledge/reports/`
-- Supports `--source`, `--rebuild`, `--no-llm`, and `--derived-only`
-- `--source` supports `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, `books`, or `all`
-- Skips already-processed documents unless a rebuild or schema upgrade is required
-- Reuses existing enriched frontmatter during structural upgrades so tree/index migrations do not re-spend LLM calls unnecessarily
-- Uses provider chaining for server-side Breakwave enrichment (`Gemini -> Ollama -> heuristic extraction`)
-- Preserves source attribution via stable `doc_id`, `source_path`, section IDs, page-aware chunk metadata, topic-evidence citations, and knowledge-health reports
-
-### `scripts/validate_knowledge.py`
-
-- Verifies source-file counts against processed documents
-- Checks chunk-file readability, tree integrity, section-index coverage, topic-evidence integrity, and derived signal coverage
-- Loads frontmatter from generated markdown docs to catch schema gaps and section-count mismatches
-- Confirms every configured wiki topic has evidence-backed markdown output with citations
-- Verifies the generated lint/coverage reports and health summary page
-- Provides a fast corpus health summary after rebuilds or workflow runs
-
-### `scripts/build_health_report.py`
-
-- Produces repo-native semantic linting and coverage diagnostics for the knowledge system
-- Tracks source freshness, expected-report cadence, topic freshness, recent source gaps, and cross-source divergence
-- Writes machine-readable JSON reports to `knowledge/manifests/` and a readable summary to `knowledge/reports/health_summary.md`
-- Keeps watch/stale conditions visible without turning normal operational warnings into hard validation failures
-
-### Source Archive Scrapers
-
-- `scripts/breakwave_scraper.py` + `scripts/baltic_scraper.py` cover the core report families and support safe `--dry-run` checks.
-- `scripts/breakwave_insights_scraper.py` ingests Breakwave Insights HTML snapshots (idempotent, year-filtered, dry-run capable).
-- `scripts/hellenic_scraper.py` ingests Hellenic report categories (dry charter, tanker charter, iron ore, vessel valuations, demolition, shipbuilding).
-- `scripts/normalize_source_archives.py` + `scripts/validate_source_archives.py` keep archive formatting and structural integrity consistent over time.
-
-### `scripts/baltic_new_indices.py`
-
-- Fetches BLNG, BLPG, FBX, and BAI directly from the Baltic public ticker API
-- Uses each series' own published `indexDate` rather than forcing a shared market date
-- Upserts same-date rows safely if the source revises a value
-- Validates local CSV tails against the live API after every run so stale series fail loudly instead of silently
-
-### GitHub Actions Schedules
-
-| Workflow | Cron | Rationale |
-|---|---|---|
-| `daily_update.yml` | `30 10 * * *` + `0 14,19,22 * * *` | Updates core freight indices, SGX futures, and ETF flow snapshots multiple times per day |
-| `baltic_new_indices_update.yml` | `30 10 * * 1-5` + `0 14,19,22 * * 1-5` | Keeps BLNG, BLPG, FBX, and BAI synchronized to the live Baltic ticker API with explicit validation |
-| `etf_holdings_update.yml` | `0 14 * * 1-5` | Runs at 2 PM UTC Mon–Fri after Amplify publishes updated holdings |
-| `report_ingest.yml` | `0 8,12,16 * * 1-5` + `30 9 * * 1-5` | Runs core report polling windows (Breakwave PDF + Baltic) and a dedicated extended-source window (Breakwave Insights + Hellenic categories) so new files land in `reports/` automatically |
-| `process_knowledge.yml` | Event-driven / manual | Rebuilds all or selected knowledge sources when `reports/` changes |
-| `daily_knowledge_update.yml` | `30 15 * * *` | Runs a lightweight daily check and incrementally refreshes knowledge when newer source files exist |
-
-All workflows pull latest before writing, use `GITHUB_TOKEN` checkout for write access, and are safe to re-run.
-
----
-
-## Running Pipelines Locally
+### 7.1 Local Environment Setup
 
 ```bash
-pip install requests beautifulsoup4 pandas lxml selenium weasyprint
+# Clone the repository
+git clone https://github.com/yieldchaser/Shipping.git
+cd Shipping
+
+# Install Python requirements
+pip install requests beautifulsoup4 pandas lxml selenium playwright
 pip install -r requirements_knowledge.txt
 
-# Core Data
-python scripts/update_indices.py        # update all 6 Baltic indices + SGX FFA futures
-python scripts/update_etf_holdings.py   # update BDRY and BWET holdings
+# Install Playwright browser engine
+playwright install chromium
+```
 
-# Source Archive Scrapers
-python scripts/breakwave_scraper.py     # Pulls Breakwave Advisors PDFs
-python scripts/baltic_scraper.py        # Pulls Baltic weekly roundup files
-python scripts/baltic_scraper.py --year 2024 --overwrite
-python scripts/breakwave_insights_scraper.py --year 2026 --dry-run
-python scripts/hellenic_scraper.py --category all --year 2026 --dry-run
-python scripts/normalize_source_archives.py --source all
-python scripts/validate_source_archives.py --source all
+### 7.2 Executing Core Pipelines
 
-# Knowledge Build
-python scripts/process_knowledge.py --source books --no-llm
-python scripts/process_knowledge.py --source breakwave
-python scripts/process_knowledge.py --source baltic --no-llm
-python scripts/process_knowledge.py --source breakwave_insights --no-llm
-python scripts/process_knowledge.py --source hellenic --no-llm
-python scripts/process_knowledge.py --derived-only
+```bash
+# Update freight indices & SGX futures
+python scripts/update_indices.py
+
+# Update Baltic Ticker API series (BLNG, BLPG, FBX, BAI)
+python scripts/baltic_new_indices.py
+
+# Update BDRY / BWET ETF holdings
+python scripts/update_etf_holdings.py
+
+# Fetch BDRY / BWET Playwright fund flows
+python scripts/fetch_flows_shipping.py
+
+# Run incremental knowledge compiler & build wiki pages
+python scripts/process_knowledge.py --source all
+python scripts/build_wiki.py
 python scripts/build_health_report.py
 python scripts/validate_knowledge.py
 ```
 
-The data scripts are safe to re-run at any time. The knowledge compiler is incremental by default; use `--rebuild` only when you want to regenerate `knowledge/` from scratch.
+### 7.3 Instructions for LLMs / Data Engineers Expanding Historical Series
+
+> [!IMPORTANT]
+> If you are an AI assistant or data engineer tasked with **extending historical data series** (e.g. extending Time Charter rates back prior to July 2021, or adding historical spot data prior to 2007), follow these strict requirements:
+
+1. **Date Format Standard**:
+   - Primary spot CSVs (`bdiy_historical.csv`, etc.) use `DD-MM-YYYY` (e.g. `05-12-2007`).
+   - Derived time series (`time_charter_rates.csv`, `iron_ore_restocking.csv`) use ISO format `YYYY-MM-DD` (e.g. `2021-07-07`).
+   - Ensure new rows match the existing date format of the target file.
+2. **Preserve Exact Header Order**:
+   - When appending to [`data/derived/time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv), preserve the exact 49-column order starting with `Date`, followed by tanker rates (`vlcc_1y`, `vlcc_2y`, etc.), and dry bulk rates (`capesize_1y_atl`, etc.).
+3. **Missing Value Convention**:
+   - Use empty strings `""` or `NaN` representation for missing historical rates. Do not inject `0.0` or fake negative values, as this skews Z-score and percentile calculations.
+4. **Idempotent Sorting**:
+   - Always sort rows chronologically by date before committing updates.
+5. **Run Validation Post-Update**:
+   - Execute `python scripts/validate_knowledge.py` to confirm schema integrity.
 
 ---
 
-## Dependencies
+## 📄 License & Attribution
 
-### Dashboard (browser, CDN-loaded)
-
-| Library | Version | Purpose |
-|---|---|---|
-| [Chart.js](https://www.chartjs.org/) | 4.4.0 | All charts |
-| [PapaParse](https://www.papaparse.com/) | 5.4.1 | CSV parsing |
-| [allorigins.win](https://allorigins.win/) | — | CORS proxy for Yahoo Finance (live prices + BDRY liquidity) |
-
-### Scrapers (GitHub Actions only)
-
-```
-requests · beautifulsoup4 · pandas · lxml
-```
-
-Selenium is additionally required for browser-driven source scrapers (`breakwave_insights_scraper.py` and `hellenic_scraper.py`).
-
-### Knowledge Compiler
-
-```
-pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · python-frontmatter · python-dotenv
-```
-
----
-
-## Data Sources
-
-| Data | Source | Update Frequency |
-|---|---|---|
-| Baltic freight indices (BDI, BCI, BPI, BSI, BCTI, BDTI) | [stockq.org](https://en.stockq.org) | 2× daily via GitHub Actions |
-| BDRY / BWET FFA holdings | [amplifyetfs.com](https://amplifyetfs.com) | Daily Mon–Fri via GitHub Actions |
-| BDRY / BWET live price + NAV | Yahoo Finance v8 API (via CORS proxy) | On ETF tab open |
-| BDRY liquidity history | Yahoo Finance v8 API (via CORS proxy) | On ETF tab open (`range=10y`) |
-| Breakwave dry bulk and tanker reports | Breakwave Advisors PDF archive in `reports/` | Ingested on scheduled core windows via `report_ingest.yml` |
-| Breakwave Insights articles | Breakwave Insights HTML archive in `reports/breakwave/` | Ingested on scheduled extended windows via `report_ingest.yml` |
-| Baltic dry/tanker/gas/container/Ningbo roundups | Baltic Exchange HTML archive in `reports/baltic/` | Ingested on scheduled core windows via `report_ingest.yml` |
-| Hellenic dry/tanker/iron ore/vessel valuations/demolition/shipbuilding | Hellenic Shipping News HTML archive in `reports/hellenic/` | Ingested on scheduled extended windows via `report_ingest.yml` |
-| Shipping reference books | Local PDF library in `reports/` root | Static corpus; processed on demand or rebuild |
-
----
-
-## Notes
-
-- CSV dates are in `DD-MM-YYYY` format
-- BDI history starts **December 2007** — tail end of the commodity supercycle peak (~10,000+)
-- BDRY Spot Composite starts **October 2008** (earliest date all three dry bulk components overlap)
-- Tanker index histories: BCTI from Jan 2008, BDTI from Dec 2007
-- The FFA term structure chart is only as fresh as the last `bdry_holdings.csv` / `bwet_holdings.csv` commit — check the commit timestamp to confirm
-- `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
-- Capesize went briefly negative in 2020; the yearly **Volatility %** correctly uses `abs(avg)` as the denominator to handle negative bases, while the **Trough→Peak %** omits years where `min ≤ 0` to preserve the mathematical integrity of percentage gains.
-- Server-side provider chain defaults to `ollama,gemini,nim`. Configure `GEMINI_API_KEY`, `OLLAMA_BASE_URL`, `OLLAMA_MODEL`, optional `OLLAMA_API_KEY`, `NIM_API_KEY`, `NIM_MODEL`, and optional `NIM_BASE_URL` for automated workflows.
-- Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
-- Chunk JSONL schema (May 2026 onward) includes four new fields: `has_rates` (bool), `has_forecast` (bool), `vessel_classes_matched` (list), `regions_matched` (list). These enable future filter-before-rank retrieval (e.g., "only score chunks with price data for rate questions"). Newly compiled documents get these fields automatically; run `python scripts/process_knowledge.py --rebuild` to backfill the existing corpus.
-
----
-
-## Research Q&A — Advanced RAG Engine
-
-The Intelligence Dashboard includes a **production-grade browser-based RAG Q&A engine** optimized for shipping market intelligence. All retrieval, ranking, and context assembly happens client-side — no server needed.
-
-### Retrieval Pipeline (May 2026)
-
-The system uses a **four-stage ranked retrieval** to maximize precision without embeddings:
-
-1. **Query expansion** — Shipping-domain aliases (cape → capesize, bci; vlcc → td3c, meg; q2 → april, may, june; 40+ mappings total) broaden BM25 recall
-2. **Inverted index lookup** — O(terms) candidate discovery; only chunks matching ≥1 query term are scored
-3. **Date-range pre-filtering** — Queries mentioning "Q1 2026", "this month", "last week", "currently" pre-filter candidates to that time window before ranking
-4. **Multi-factor BM25 re-scoring**:
-   - Keywords field weighted 2× (curated taxonomy outranks incidental text)
-   - Section-title boost: query terms in chunk titles multiply score by 1 + hits×0.4
-   - Recency multiplier: chunks from last 90 days score 1.5× higher
-   - Source deduplication: max 2–3 chunks per document prevents any single report from crowding the context
-
-5. **Optional LLM reranker** (Groq/OpenRouter) — For the selected provider model, a tiny non-streaming call (temp=0) re-ranks the top 25 BM25 candidates before context assembly
-
-### Live Data Injection
-
-Each Q&A query automatically injects **today's market snapshot** into the context:
-- All 7 freight index Z-scores, percentiles, regime, rate-of-change
-- Vessel-class analyst consensus (signal, sentiment, key signals, outlook, trade idea, risk)
-- Macro context (geopolitical, supply chain, catalysts)
-- Cross-sector analysis and positioning recommendations
-
-Formatted as readable plain text, not JSON — the LLM comprehends it fluently.
-
-### Result Confidence Signaling
-
-- Low-confidence warning appears in status bar if BM25 top score < 0.5 or fewer than 3 chunks matched
-- Allows graceful degradation: "Limited context found — answer may be partial"
-- All answers include traceable citations: `[DOC-N]` superscripts link back to source reports with dates and section titles
-
----
-
-## LLM Providers & Rate Limits
-
-The Intelligence Dashboard supports **Groq and OpenRouter** in the browser Q&A. Groq defaults to `openai/gpt-oss-120b`, and OpenRouter remains available as the browser alternate via `openrouter/free`.
-
-### Browser Q&A Defaults (May 2026)
-
-| Provider | Endpoint | Default Model | Context Cap | Notes |
-|---|---|---|---|---|
-| **Groq** | `api.groq.com/openai/v1` | `openai/gpt-oss-120b` | **7,000 tokens** | Groq browser default. Get key at [console.groq.com](https://console.groq.com). |
-| **OpenRouter (free)** | `openrouter.ai/api/v1` | `openrouter/free` | **50,000 tokens** | Browser-available free auto-router. Get key at [openrouter.ai](https://openrouter.ai). |
-
-### Browser Model Choices
-
-`openai/gpt-oss-120b` is the Groq browser default. `openrouter/free` is the OpenRouter browser default. The browser Q&A exposes both providers and falls back from the selected provider to the other one when needed.
-
-### Troubleshooting API Errors
-
-| Symptom | Cause | Fix |
-|---|---|---|
-| `429 Too Many Requests` | Groq TPM limit hit (12k tokens/min free tier) | Wait ~60s and retry, or switch to OpenRouter if you want the larger-context browser path. |
-| `OpenRouter: all free models at capacity` | OpenRouter free-tier concurrency cap hit | Wait 30–60s and retry, or switch to Groq temporarily. |
-| `This information is not available in my current context` | RAG didn't retrieve a relevant chunk | Check scope checkboxes match your question topic. |
-
----
-
-### Re-enabling Ollama & NIM (Future Reference)
-
-Both Ollama and NIM were removed from the browser Q&A because they are **CORS-blocked** — browsers reject direct `fetch()` calls to `ollama.com/api` and `integrate.api.nvidia.com/v1` with a `No 'Access-Control-Allow-Origin'` header error. They work fine from Python/server-side contexts.
-
-To re-enable either provider in the browser Q&A, you need a **CORS proxy**. The simplest free option is a Cloudflare Worker (100k req/day free):
-
-```javascript
-// Deploy at: https://dash.cloudflare.com → Workers & Pages → Create Worker
-// Replace TARGET_HOST with 'https://ollama.com' or 'https://integrate.api.nvidia.com'
-export default {
-  async fetch(request) {
-    if (request.method === 'OPTIONS') {
-      return new Response(null, {
-        headers: {
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-          'Access-Control-Allow-Headers': 'Authorization, Content-Type',
-        }
-      });
-    }
-    const url = new URL(request.url);
-    const target = 'TARGET_HOST' + url.pathname + url.search;
-    const resp = await fetch(target, { method: request.method, headers: request.headers, body: request.body });
-    const newHeaders = new Headers(resp.headers);
-    newHeaders.set('Access-Control-Allow-Origin', '*');
-    return new Response(resp.body, { headers: newHeaders, status: resp.status });
-  }
-};
-```
-
-**To re-add a provider to the code:**
-
-1. Add it back to `QA_PROVIDER_CONFIG` in `index.html` (config block near line 11458)
-2. Add `'ollama'` or `'nim'` back to the `all` array in `_buildFallbackOrder`
-3. Add the provider `<option>` back to the `#qaProvider` `<select>` dropdown (~line 3677)
-4. Restore the fetch handler in `_runProviderLLM` (use git history: `git log --oneline --all`)
-5. Set the Base URL field to your Cloudflare Worker proxy URL (e.g., `https://your-worker.workers.dev/v1`)
-
-**NIM specifics**: API key format `nvapi-...`, base URL always `https://integrate.api.nvidia.com/v1`, model `meta/llama-3.3-70b-instruct`. 50k context cap safe for free tier.
-
-**Ollama specifics**: For local use, no proxy needed — set base URL to `http://localhost:11434/api` and leave the key blank. For Ollama Cloud (`ollama.com/api`), you need a Bearer token from [ollama.com/settings/keys](https://ollama.com/settings/keys) and a CORS proxy. Model `llama3.2:3b` is free on the cloud tier.
-
-> **Note:** The `generate_brief.py` GitHub Actions pipeline is unaffected — it runs server-side Python and calls all APIs (Gemini, Ollama, NIM) natively without CORS restrictions.
+Developed for open maritime shipping market research.  
+Data compiled from public exchange feeds, regulatory disclosures, and market reports.
