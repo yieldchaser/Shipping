@@ -1,6 +1,6 @@
 {
   "ticker": "BDRY",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "data": [
     {
       "date": "2018-03-23",
@@ -29289,6 +29289,20 @@
       "flow_20d": -3504000.0,
       "regime": "BALANCED",
       "pressure": 12.0199
+    },
+    {
+      "date": "2026-08-03",
+      "usd_flow": 0.0,
+      "nav": 13.89,
+      "perf_pct": 0.0385,
+      "cumulative_flow": -40955000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.429,
+      "flow_5d": 0.0,
+      "flow_20d": -2260000.0,
+      "regime": "BALANCED",
+      "pressure": 10.7256
     }
   ]
 }
