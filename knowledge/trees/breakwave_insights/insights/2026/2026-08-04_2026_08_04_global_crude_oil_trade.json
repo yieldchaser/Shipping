@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade__root",
+  "doc_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade",
+  "parent_id": null,
+  "title": "Global crude oil trade",
+  "section_path": [
+    "Global crude oil trade"
+  ],
+  "section_path_text": "Global crude oil trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nGlobal crude oil trade during the first half of 2026 presents a market shaped less by uniform growth and more by a significant redistribution of supply. Based on Signal Ocean data, between February and July, global crude loadings reached approximately 1.05 billion mt, down 7.4% from 1.13 billion mt during the same period of 2025. Although this decline is substantial in absolute terms, the more important development is the changing composition of exports, as reduced Middle Eastern volumes were partly offset by stronger shipments from Russia, the United States, Brazil, Venezuela and the United Arab Emirates.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "million",
+    "eee",
+    "exports",
+    "may",
+    "volumes",
+    "crude",
+    "during",
+    "een"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2120,
+  "source_path": "reports/breakwave/2026/2026-08-04_global-crude-oil-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/4/global-crude-oil-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade",
+      "parent_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nGlobal crude oil trade during the first half of 2026 presents a market shaped less by uniform growth and more by a significant redistribution of supply. Based on Signal Ocean data, between February and July, global crude loadings reached approximately 1.05 billion mt, down 7.4% from 1.13 billion mt during the same period of 2025.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "million",
+        "exports",
+        "may",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 826,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade__s02_linked_asset_2026_08_04_global_crude_oil_trade_img_unsplash_image_983knf8azec_9e288b5bc314_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade",
+      "parent_id": "breakwave_insights_insights_2026-08-04_2026_08_04_global_crude_oil_trade__root",
+      "title": "Linked asset: 2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg\n\nLinked image asset: 2026-08-04_global-crude-oil-trade_img_unsplash-image-983knf8azec_9e288b5bc314.jpg\n\nImage metadata: JPEG 1875x2500 mode=RGB\n\nOCR text:\na _--- * - es ee ee --s -_ - aca so gi aN lata _ _----- - = -\n- 3 ee et : x een a mite 2 ee Se ares\n. ~ an - --- - - i:\n= een = pe ee eee er = A =\n-\n2 ‘i\nKa\n: ve ats -- es\n= eanee met SS i a a\nS .",
+      "keywords": [
+        "crude_oil",
+        "eee",
+        "een",
+        "aie",
+        "asset",
+        "ats",
+        "bee",
+        "ene"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1255,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
