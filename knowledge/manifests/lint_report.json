@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-03T13:47:56Z",
-  "current_date": "2026-08-03",
-  "warning_count": 9,
+  "generated_at": "2026-08-04T10:59:29Z",
+  "current_date": "2026-08-04",
+  "warning_count": 10,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 14,
-      "reference": 1
+      "healthy": 13,
+      "reference": 1,
+      "watch": 1
     },
     "topics": {
       "healthy": 10
@@ -16,6 +17,25 @@
     }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "source_freshness",
+      "key": "baltic/ningbo",
+      "message": "baltic/ningbo is watch at 11 days since the latest dated document.",
+      "details": {
+        "label": "baltic/ningbo",
+        "source": "baltic",
+        "category": "ningbo",
+        "status": "watch",
+        "cadence_days": 7,
+        "latest_date": "2026-07-24",
+        "age_days": 11,
+        "latest_gap_days": 7,
+        "max_recent_gap_days": 7,
+        "dated_doc_count": 504,
+        "undated_doc_count": 31
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -38,8 +58,8 @@
             "source": "breakwave",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
-            "doc_count": 3,
-            "latest_date": "2026-07-21"
+            "doc_count": 4,
+            "latest_date": "2026-08-04"
           },
           {
             "source": "breakwave_insights",
@@ -56,7 +76,7 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "coal_and_grain_flows",
-      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral.",
       "details": {
         "topic_id": "coal_and_grain_flows",
         "title": "Coal and Grain Flows",
@@ -64,18 +84,18 @@
         "score_diff": 0.75,
         "source_scores": [
           {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-08-04"
+          },
+          {
             "source": "hellenic",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
             "latest_date": "2026-07-29"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-07-21"
           },
           {
             "source": "breakwave_insights",
@@ -85,7 +105,7 @@
             "latest_date": "2026-07-31"
           }
         ],
-        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while breakwave reads neutral."
       }
     },
     {
@@ -111,7 +131,7 @@
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-07-21"
+            "latest_date": "2026-08-04"
           },
           {
             "source": "breakwave_insights",
