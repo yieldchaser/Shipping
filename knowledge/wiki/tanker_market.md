@@ -9,7 +9,7 @@ categories:
 - vessel_valuations
 document_count: 91
 evidence_count: 250
-generated_at: '2026-08-04T12:36:17Z'
+generated_at: '2026-08-05T10:49:39Z'
 latest_evidence_date: '2026-08-04'
 page_type: topic_wiki
 related_topics:
@@ -46,9 +46,9 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 171, hellenic: 64, baltic: 9, breakwave: 6
-- Category coverage: insights: 171, demolition: 32, shipbuilding: 12, vessel_valuations: 10, tanker_charter: 10, tanker: 9, tankers: 6
-- Tone distribution: constructive: 161, neutral: 44, cautiously_bearish: 39, concerned: 2, cautious: 2, neutral_sentiment: 2
+- Source coverage: breakwave_insights: 170, hellenic: 64, baltic: 10, breakwave: 6
+- Category coverage: insights: 170, demolition: 32, shipbuilding: 12, vessel_valuations: 10, tanker_charter: 10, tanker: 10, tankers: 6
+- Tone distribution: constructive: 160, neutral: 45, cautiously_bearish: 39, concerned: 2, cautious: 2, neutral_sentiment: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents

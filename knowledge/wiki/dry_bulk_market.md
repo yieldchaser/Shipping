@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 91
+document_count: 92
 evidence_count: 250
-generated_at: '2026-08-04T12:36:17Z'
+generated_at: '2026-08-05T10:49:39Z'
 latest_evidence_date: '2026-08-04'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 91 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-04, with the strongest recurring markers being china, iron_ore, brazil, capesize, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 92 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-04, with the strongest recurring markers being china, iron_ore, brazil, capesize, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,9 +49,9 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, capesize, australia, bauxite
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 132, hellenic: 107, baltic: 7, breakwave: 4
-- Category coverage: insights: 132, iron_ore: 58, demolition: 25, dry_charter: 8, vessel_valuations: 8, shipbuilding: 8, dry: 7, drybulk: 4
-- Tone distribution: constructive: 138, cautiously_bearish: 58, neutral: 54
+- Source coverage: breakwave_insights: 131, hellenic: 107, baltic: 8, breakwave: 4
+- Category coverage: insights: 131, iron_ore: 58, demolition: 25, dry_charter: 8, vessel_valuations: 8, dry: 8, shipbuilding: 8, drybulk: 4
+- Tone distribution: constructive: 138, cautiously_bearish: 57, neutral: 55
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
