@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-05_2026_08_05_an_economy_that_adapts_to_risk__root",
+  "doc_id": "breakwave_insights_insights_2026-08-05_2026_08_05_an_economy_that_adapts_to_risk",
+  "parent_id": null,
+  "title": "An Economy That Adapts to Risk",
+  "section_path": [
+    "An Economy That Adapts to Risk"
+  ],
+  "section_path_text": "An Economy That Adapts to Risk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nEvery economic forecast is ultimately an attempt to bring order to an increasingly disorderly world. Today's forecasters must simultaneously assess geopolitical conflicts, shifting trade policies, evolving supply chains, monetary policy, energy markets and, increasingly, the economic impact of technological breakthroughs that have few historical precedents. It is therefore hardly surprising that recent years have repeatedly reminded us just how difficult that task has become.",
+  "keywords": [
+    "lng",
+    "crude_oil",
+    "products",
+    "gas",
+    "trade",
+    "global",
+    "percent",
+    "world",
+    "are",
+    "economic",
+    "economy",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1484,
+  "source_path": "reports/breakwave/2026/2026-08-05_an-economy-that-adapts-to-risk.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/4/an-economy-that-adapts-to-risk",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-05_2026_08_05_an_economy_that_adapts_to_risk__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-05_2026_08_05_an_economy_that_adapts_to_risk",
+      "parent_id": "breakwave_insights_insights_2026-08-05_2026_08_05_an_economy_that_adapts_to_risk__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nEvery economic forecast is ultimately an attempt to bring order to an increasingly disorderly world. Today's forecasters must simultaneously assess geopolitical conflicts, shifting trade policies, evolving supply chains, monetary policy, energy markets and, increasingly, the economic impact of technological breakthroughs that have few historical precedents.",
+      "keywords": [
+        "lng",
+        "crude_oil",
+        "products",
+        "gas",
+        "trade",
+        "global",
+        "percent",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1482,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

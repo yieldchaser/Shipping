@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 8.4.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 8.4.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 8.4.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk market continues to trade at historically elevated levels with no\nSource: Breakwave Advisors\n\nLinked asset: 2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 4, 2026\n• Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk\nShort-term Indicators\nmarket continues to trade at historically elevated levels with no immediate signs of\nMomentum: Positive\na correction, while freight rate volatility has collapsed to multi-year lows. Current\nspot rate strength is primarily sustained by structural vessel supply constraints, Sentiment: Neutral\ndriven by ongoing geopolitical disruptions and an intensive global drydocking Fundamentals: Neutral\nschedule. However, downside risks are accumulating as weakening demand for iron\nore in China, the sector's primary trading commodity, threatens to disrupt the market\nBreakwave Dry\nbalance.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1604,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-4-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026",
+      "parent_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk market continues to trade at historically elevated levels with no\nSource: Breakwave Advisors",
+      "keywords": [
+        "collapses",
+        "continues",
+        "elevated",
+        "high",
+        "historically",
+        "levels",
+        "remain",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__s02_linked_asset_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026_breakwavedryaugust42026report_3b5bd28e05c3_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026",
+      "parent_id": "hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__root",
+      "title": "Linked asset: 2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 4, 2026\n• Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk\nShort-term Indicators\nmarket continues to trade at historically elevated levels with no immediate signs of\nMomentum: Positive\na correction, while freight rate volatility has collapsed to multi-year lows. Current\nspot rate strength is primarily sustained by structural vessel supply constraints, Sentiment: Neutral\ndriven by ongoing geopolitical disruptions and an intensive global drydocking Fundamentals: Neutral\nschedule.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1522,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
