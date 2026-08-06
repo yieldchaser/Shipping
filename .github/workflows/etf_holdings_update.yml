@@ -1,5 +1,4 @@
 name: ETF Holdings Update (BDRY/BWET)
-name: ETF Holdings Update (BDRY/BWET)
 
 on:
   schedule:
