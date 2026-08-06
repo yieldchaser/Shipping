@@ -1,0 +1,85 @@
+{
+  "node_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026__root",
+  "doc_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, August 05 2026",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, August 05 2026"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, August 05 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLinked asset: 0505.jpg\n\nLinked asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg\nSource asset: reports/hellenic/tanker_charter/2026/assets/2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg\n\nLinked image asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nA A le | B RA Updated Weds 05/08/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr) |\n| HANDY 25,000 21,000 21,500 19,000\nMR IMO3 27,000 24,000 25,000 22,000\nLR1 36,000 32,500 30,500 28,500\nLR2 54,500 39,500 40,000 37,500\nAFRA (115k dist) A 57,500 A 41,500 39,000 36,500\nSUEZ 75,000 A 51,500 47,500 40,000\nvice 107,500 A 80,000 75,000 55,000",
+  "keywords": [
+    "handysize",
+    "asset",
+    "linked",
+    "image",
+    "weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg",
+    "afra",
+    "charter",
+    "dist",
+    "dpi",
+    "eco",
+    "embedded",
+    "estimate"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 363,
+  "source_path": "reports/hellenic/tanker_charter/2026/2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-august-05-2026",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026__s01_main",
+      "doc_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026",
+      "parent_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "asset",
+        "jpg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026__s02_linked_asset_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026_0505_bf0e0315b2f2_jpg",
+      "doc_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026",
+      "parent_id": "hellenic_tanker_charter_2026-08-05_2026_08_05_weekly_tanker_time_charter_estimates_august_05_2026__root",
+      "title": "Linked asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2026/assets/2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg\n\nLinked image asset: 2026-08-05_weekly-tanker-time-charter-estimates-august-05-2026_0505_bf0e0315b2f2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nA A le | B RA Updated Weds 05/08/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr) |\n| HANDY 25,000 21,000 21,500 19,000\nMR IMO3 27,000 24,000 25,000 22,000\nLR1 36,000 32,500 30,500 28,500\nLR2 54,500 39,500 40,000 37,500\nAFRA (115k dist) A 57,500 A 41,500 39,000 36,500\nSUEZ 75,000 A 51,500 47,500 40,000\nvice 107,500 A 80,000 75,000 55,000",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dist",
+        "dpi",
+        "eco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 310,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

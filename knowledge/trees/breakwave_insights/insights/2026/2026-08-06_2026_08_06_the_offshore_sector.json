@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector__root",
+  "doc_id": "breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector",
+  "parent_id": null,
+  "title": "The Offshore sector",
+  "section_path": [
+    "The Offshore sector"
+  ],
+  "section_path_text": "The Offshore sector",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Vitsos\nThe Offshore sector has been greatly affected by the current geopolitical situation, as challenges that are substantially greater than those faced by merchant vessels are presented, due to the limited flexibility the floating units have under tow. Floating rigs, accommodation units, crane barges, vessels and FPSOs that are being repositioned, typically move at speeds of only 4-7 knots and are unable to take evasive action, as their slow speed, predictable movements and large radar signature make them particularly vulnerable targets in any environment where missiles, drones, unmanned surface vessels or small craft attacks are possible. The International Maritime Organization has repeatedly highlighted that commercial shipping and seafarers are increasingly exposed to geopolitical conflicts, while maritime security experts continue to warn that vessels operating in both Hormuz and the Red Sea face elevated risks regardless of nationality or flag.",
+  "keywords": [
+    "are",
+    "vessels",
+    "commercial",
+    "offshore",
+    "bab",
+    "el-mandeb",
+    "hormuz",
+    "attacks",
+    "gulf",
+    "maritime",
+    "operators",
+    "red"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 803,
+  "source_path": "reports/breakwave/2026/2026-08-06_the-offshore-sector.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/6/the-offshore-sector",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector",
+      "parent_id": "breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Vitsos\nThe Offshore sector has been greatly affected by the current geopolitical situation, as challenges that are substantially greater than those faced by merchant vessels are presented, due to the limited flexibility the floating units have under tow. Floating rigs, accommodation units, crane barges, vessels and FPSOs that are being repositioned, typically move at speeds of only 4-7 knots and are unable to take evasive action, as their slow speed, predictable movements and large radar signature make them particularly vulnerable targets in any environment where missiles, drones, unmanned surface vessels or small craft attacks are possible.",
+      "keywords": [
+        "are",
+        "vessels",
+        "commercial",
+        "offshore",
+        "bab",
+        "el-mandeb",
+        "hormuz",
+        "attacks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 801,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
