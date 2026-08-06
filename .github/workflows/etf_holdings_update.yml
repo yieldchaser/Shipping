@@ -1,4 +1,5 @@
 name: ETF Holdings Update (BDRY/BWET)
+name: ETF Holdings Update (BDRY/BWET)
 
 on:
   schedule:
@@ -7,6 +8,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: data-pipeline
+  cancel-in-progress: false
 
 jobs:
   update-holdings:
@@ -27,7 +32,7 @@ jobs:
       run: pip install pandas requests yfinance
 
     - name: Pull latest before run
-      run: git pull --rebase origin main
+      run: git pull --rebase --autostash origin main
 
     - name: Download and process ETF holdings
       run: python scripts/update_etf_holdings.py
@@ -45,7 +50,7 @@ jobs:
         git commit -m "Update ETF holdings $(date +'%Y-%m-%d %H:%M UTC')"
 
         for attempt in 1 2 3; do
-          if git pull --rebase origin main && git push origin HEAD:main; then
+          if git pull --rebase --autostash origin main && git push origin HEAD:main; then
             echo "Push succeeded on attempt $attempt."
             exit 0
           fi
