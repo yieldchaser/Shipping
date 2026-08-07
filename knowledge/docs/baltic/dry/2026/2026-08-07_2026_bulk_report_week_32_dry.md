@@ -1,0 +1,48 @@
+---
+category: dry
+commodities:
+- iron_ore
+- coal
+- grain
+date: '2026-08-07'
+doc_id: baltic_dry_2026-08-07_2026_bulk_report_week_32_dry
+document_type: weekly_roundup
+key_entities: []
+keywords:
+- aug
+- main
+market_tone: neutral
+regions:
+- atlantic
+- pacific
+- china
+section_count: 1
+signals: {}
+source: baltic
+source_path: reports/baltic/dry/2026/2026_bulk-report-week-32_dry.html
+source_stem: 2026_bulk-report-week-32_dry
+source_url: null
+summary: 'Main
+
+  07 Aug 2026
+
+  Bulk report - Week 32'
+themes:
+- aug
+- main
+title: Bulk report - Week 32
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+---
+
+## Summary
+Main
+07 Aug 2026
+Bulk report - Week 32
+
+## Main
+07 Aug 2026
+Bulk report - Week 32
