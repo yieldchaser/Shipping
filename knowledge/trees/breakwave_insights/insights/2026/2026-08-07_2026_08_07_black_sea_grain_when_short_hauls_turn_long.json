@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__root",
+  "doc_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long",
+  "parent_id": null,
+  "title": "Black Sea Grain: When Short Hauls Turn Long",
+  "section_path": [
+    "Black Sea Grain: When Short Hauls Turn Long"
+  ],
+  "section_path_text": "Black Sea Grain: When Short Hauls Turn Long",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nEver since the beginning of the Russian invasion of Ukraine, the Black Sea has been a dangerous place for commercial shipping. However, recent developments suggest the area is becoming even riskier, with the number of merchant vessels and port installations coming under attack rising. What used to look more like independent or tactical attacks as opportunities arose is now increasingly appearing strategic, as part of economic warfare aiming to disrupt trade and deny the opposite side revenue.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "australia",
+    "europe",
+    "india",
+    "us_gulf",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1086,
+  "source_path": "reports/breakwave/2026/2026-08-07_black-sea-grain-when-short-hauls-turn-long.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/7/black-sea-grain-when-short-hauls-turn-long",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long",
+      "parent_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nEver since the beginning of the Russian invasion of Ukraine, the Black Sea has been a dangerous place for commercial shipping. However, recent developments suggest the area is becoming even riskier, with the number of merchant vessels and port installations coming under attack rising.",
+      "keywords": [
+        "container",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "vessels",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 360,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__s02_black_sea_grains_trade_dominated_by_short_distances",
+      "doc_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long",
+      "parent_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__root",
+      "title": "Black Sea Grains Trade Dominated by Short Distances",
+      "section_path": [
+        "Black Sea Grains Trade Dominated by Short Distances"
+      ],
+      "section_path_text": "Black Sea Grains Trade Dominated by Short Distances",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The harvest season in the Northern Hemisphere is set to start in earnest, and, beyond the weather, analysts and traders will be keeping a close eye on developments in the Black Sea region. In recent years, shipments of agricultural commodities from ports in the Black Sea have accounted for around a quarter of global volumes in the third and fourth quarters, according to data from Signal Ocean.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "europe",
+        "grain",
+        "crude_oil",
+        "around",
+        "sea",
+        "black"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 384,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__s03_disruption_could_provide_support_for_prices_and_freight",
+      "doc_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long",
+      "parent_id": "breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__root",
+      "title": "Disruption Could Provide Support for Prices and Freight",
+      "section_path": [
+        "Disruption Could Provide Support for Prices and Freight"
+      ],
+      "section_path_text": "Disruption Could Provide Support for Prices and Freight",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "If attacks on merchant vessels and port installations continue and lead to further pullbacks by shipowners and charterers, the global grains trade may face changes and challenges. The effects of any disruptions would be multi-dimensional, as both supplies and trade flows would be affected.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "australia",
+        "europe",
+        "india",
+        "us_gulf",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
