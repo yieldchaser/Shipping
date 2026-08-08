@@ -598,19 +598,34 @@
     .year-checkboxes {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
-      gap: 6px 12px;
-      padding: 8px 0 10px 0;
+      justify-content: flex-start;
+      gap: 6px 10px;
+      padding: 8px 12px;
       align-items: center;
+      max-height: 72px;
+      overflow-y: auto;
+      background: var(--bg-darker);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      margin-bottom: 12px;
     }
 
     .year-checkbox-item {
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 4px;
-      font-size: 12px;
+      font-size: 11px;
       cursor: pointer;
       user-select: none;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: var(--card);
+      border: 1px solid rgba(255,255,255,0.06);
+      transition: border-color 0.15s ease;
+    }
+
+    .year-checkbox-item:hover {
+      border-color: var(--accent);
     }
 
     .year-checkbox-item input {
@@ -2881,6 +2896,13 @@
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Cumulative Return Stacking - tracks YTD performance by trading day. Used to identify 'Analog Years' where historical price action mirrors the current cycle path.">Current Year vs Historical Years</div>
+          <div class="flex-row" style="gap:4px;align-items:center;" id="yearPresetButtons">
+            <button class="toggle-btn" onclick="selectYearPreset('none')">Clear</button>
+            <button class="toggle-btn active" onclick="selectYearPreset(3)">3Y</button>
+            <button class="toggle-btn" onclick="selectYearPreset(5)">5Y</button>
+            <button class="toggle-btn" onclick="selectYearPreset(10)">10Y</button>
+            <button class="toggle-btn" onclick="selectYearPreset('all')">All</button>
+          </div>
         </div>
         <div class="year-checkboxes" id="yearCheckboxes"></div>
         <div class="chart-canvas-wrap">
@@ -5082,6 +5104,34 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     // OVERLAY CHART
     // =====================================================================
+    function selectYearPreset(n, targetBtn) {
+      const currentYear = new Date().getFullYear();
+      const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
+
+      const presetBtns = document.querySelectorAll('#yearPresetButtons .toggle-btn');
+      presetBtns.forEach(btn => btn.classList.remove('active'));
+
+      // If triggered by click event, highlight clicked button
+      if (targetBtn) {
+        targetBtn.classList.add('active');
+      } else if (event && event.target && event.target.tagName === 'BUTTON') {
+        event.target.classList.add('active');
+      }
+
+      checkboxes.forEach(cb => {
+        const y = parseInt(cb.value);
+        if (n === 'none') {
+          cb.checked = false;
+        } else if (n === 'all') {
+          cb.checked = true;
+        } else {
+          cb.checked = (y >= currentYear - n && y < currentYear);
+        }
+      });
+
+      buildOverlayChart(currentProduct);
+    }
+
     function renderOverlayChart(productKey) {
       const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
       const currentYear = new Date().getFullYear();
