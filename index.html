@@ -3767,7 +3767,14 @@
           <div class="chart-container mb-20">
             <div class="chart-header">
               <div class="chart-title" id="tcChartTitle" data-tooltip=" " data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
-              <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="tcSrcMerged" onclick="setTcSource('merged')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
+                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
+                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                </div>
+                <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
+              </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
           </div>
@@ -4655,6 +4662,49 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           console.warn('[Valuations] Load failed:', e);
         });
 
+
+      // Scrappage / demolition prices (recovered from original file)
+      const scrapPromise = fetchCSV('data/derived/scrappage_prices.csv')
+        .then(r => {
+          DATA.scrappagePrices = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+          tick('Scrappage Prices');
+        })
+        .catch(e => {
+          DATA.scrappagePrices = [];
+          tick('Scrappage Prices (fail)');
+          console.warn('[Scrappage] Load failed:', e);
+        });
+
+      // Fearnleys TC rates (full single-source dataset for dual-source comparison)
+      const tcFearnPromise = fetchCSV('data/derived/time_charter_rates_fearnleys.csv')
+        .then(r => {
+          DATA.timeCharterFearnleys = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+          tick('Fearnleys TC Rates');
+        })
+        .catch(e => {
+          DATA.timeCharterFearnleys = [];
+          tick('Fearnleys TC Rates (fail)');
+          console.warn('[Fearnleys TC] Load failed:', e);
+        });
+
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
         cape: 'data/futures/sgx_cape_futures.csv',
@@ -4673,7 +4723,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
       });
 
-      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, tcPromise, ioPromise, valPromise, ...sgxPromises]);
+      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, ...sgxPromises]);
 
       await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
@@ -9536,6 +9586,30 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
+    // TC Data Source selector (local toggle for Merged/Fearnleys/Both)
+    window.tcDataSource = 'merged';
+    function setTcSource(mode) {
+      window.tcDataSource = mode;
+      const btnMap = { merged: 'tcSrcMerged', fearnleys: 'tcSrcFearnleys', both: 'tcSrcBoth' };
+      for (const [m, id] of Object.entries(btnMap)) {
+        const btn = document.getElementById(id);
+        if (!btn) continue;
+        if (m === mode) {
+          btn.style.background = 'var(--accent)';
+          btn.style.color = '#fff';
+          btn.classList.add('active');
+        } else {
+          btn.style.background = 'var(--card)';
+          btn.style.color = 'var(--text-muted)';
+          btn.classList.remove('active');
+        }
+      }
+      // Re-render TC chart with the new source
+      const productKey = window.CURRENT_PRODUCT || 'cape';
+      try { renderTimeCharterChart(productKey); } catch(e) { console.error(e); }
+    }
+
+
     function toggleSignalsSection(sectionId) {
       const sec = document.getElementById(sectionId);
       if (sec) {
@@ -9650,7 +9724,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             aligned.push(rowData);
           });
 
-          const cutoff = new Date('2021-07-01');
+          const cutoff = new Date('2000-01-01');
           const rows = aligned.filter(r => r.date >= cutoff);
           if (!rows.length) return;
 
@@ -9857,7 +9931,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       if (!aligned.length) return;
 
-      const cutoff = new Date('2021-07-01');
+      const cutoff = new Date('2000-01-01');
       const rows = aligned.filter(r => r.date >= cutoff);
       if (!rows.length) return;
 
@@ -9907,16 +9981,53 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
                         (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
 
+      // Build Fearnleys overlay data if source mode requires it
+      const fearnRows = DATA.timeCharterFearnleys || [];
+      const fearnMap = {};
+      fearnRows.forEach(r => { fearnMap[r.dateStr] = r; });
+      const fearnTc1y = rows.map(r => {
+        const fr = fearnMap[r.dateStr];
+        return fr ? fr[tc1yCol] : null;
+      });
+      // Interpolate fearnleys sparse data
+      (function() {
+        var validIdx = [];
+        fearnTc1y.forEach(function(v, i) { if (v != null) validIdx.push(i); });
+        if (validIdx.length >= 2) {
+          for (var vi = 0; vi < validIdx.length - 1; vi++) {
+            var ia = validIdx[vi], ib = validIdx[vi + 1];
+            var va = fearnTc1y[ia], vb = fearnTc1y[ib];
+            for (var j = ia + 1; j < ib; j++) {
+              fearnTc1y[j] = va + (vb - va) * (j - ia) / (ib - ia);
+            }
+          }
+        }
+        if (validIdx.length > 0) {
+          var lastI = validIdx[validIdx.length - 1];
+          for (var k = lastI + 1; k < fearnTc1y.length; k++) fearnTc1y[k] = fearnTc1y[lastI];
+        }
+      })();
+
+      const tcSrc = window.tcDataSource || 'merged';
+      const showMerged = (tcSrc === 'merged' || tcSrc === 'both');
+      const showFearn = (tcSrc === 'fearnleys' || tcSrc === 'both');
+
+      const tcDatasets = [];
+      tcDatasets.push({ label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1 });
+      if (showMerged) {
+        tcDatasets.push({ label: tc1yLabel + (tcSrc === 'both' ? ' (Alibra)' : ''), data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 });
+        tcDatasets.push({ label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 });
+      }
+      if (showFearn) {
+        tcDatasets.push({ label: tc1yLabel + ' (Fearnleys)', data: fearnTc1y, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: showMerged ? [5, 3] : [], pointRadius: 0, fill: false, tension: 0.1 });
+      }
+      tcDatasets.push({ label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1 });
+
       chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
         type: 'line',
         data: {
           labels: labels,
-          datasets: [
-            { label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1 },
-            { label: tc1yLabel, data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 },
-            { label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 },
-            { label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1 }
-          ]
+          datasets: tcDatasets
         },
         options: {
           responsive: true, maintainAspectRatio: false,
@@ -10012,7 +10123,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             aligned.push(rowData);
           });
 
-          const cutoff = new Date('2021-07-01');
+          const cutoff = new Date('2000-01-01');
           const rows = aligned.filter(r => r.date >= cutoff);
           if (!rows.length) return;
 
@@ -10156,7 +10267,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (isMainCall) container.style.display = '';
       }
 
-      const cutoff = new Date('2021-07-01');
+      const cutoff = new Date('2000-01-01');
       const rows = filtered.filter(r => r.date >= cutoff);
       if (!rows.length) return;
 
@@ -10506,7 +10617,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (!canvas) return;
           }
 
-          const demoRows = DATA.vesselValuations || [];
+          const demoRows = DATA.scrappagePrices || [];
           if (!demoRows.length) return;
 
           const sectorCfg = {
@@ -10528,7 +10639,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             return rowData;
           }).filter(r => sectors.some(s => r[s + '_floor'] != null));
 
-          const cutoff = new Date('2021-07-01');
+          const cutoff = new Date('2000-01-01');
           const rows = aligned.filter(r => r.date >= cutoff);
           if (!rows.length) return;
 
@@ -10631,10 +10742,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         scrapCol = 'tanker_india';
       }
 
-      const valRows = DATA.vesselValuations || [];
+      const valRows = DATA.scrappagePrices || [];
       if (!valRows.length) return;
 
-      const cutoff = new Date('2021-07-01');
+      const cutoff = new Date('2000-01-01');
       const rows = valRows.filter(r => r.date >= cutoff && r[scrapCol] != null);
       if (!rows.length) return;
 
@@ -10797,7 +10908,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               points[i].z = (points[i].y - mean) / std;
             }
 
-            const cutoff = new Date('2021-07-01');
+            const cutoff = new Date('2000-01-01');
             const filteredPoints = points.filter(p => p.date >= cutoff);
             if (!filteredPoints.length) return;
 
@@ -10954,7 +11065,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         points[i].z = (points[i].y - mean) / std;
       }
 
-      const cutoff = new Date('2021-07-01');
+      const cutoff = new Date('2000-01-01');
       const filteredPoints = points.filter(p => p.date >= cutoff);
       if (!filteredPoints.length) return;
 
