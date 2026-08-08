@@ -3769,9 +3769,9 @@
               <div class="chart-title" id="tcChartTitle" data-tooltip=" " data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="tcSrcMerged" onclick="setTcSource('merged')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
-                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
-                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                  <button class="toggle-btn" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present) into a continuous timeline" style="padding:3px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
+                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present) for dry bulk & tankers" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
+                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip="Dual Overlay: Visualizes both Alibra (solid) and Fearnleys (dashed) to highlight broker rate divergence" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
                 </div>
                 <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
               </div>
@@ -4646,14 +4646,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const valPromise = fetchCSV('data/derived/vessel_valuations.csv')
         .then(r => {
           DATA.vesselValuations = r.map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
+            const d = parseDateISO(row.date);
+            const val = parseFloat(row.valuation_usd_m);
+            return {
+              date: d,
+              dateStr: row.date,
+              category: row.category,
+              tenor_type: row.tenor_type,
+              vessel_class: row.vessel_class,
+              valuation_usd_m: isNaN(val) ? null : val
+            };
           }).filter(row => row.date != null);
           tick('Vessel Valuations');
         })
