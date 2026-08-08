@@ -9928,7 +9928,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const tc1y = r[tc1yCol];
         const tc2y = r[tc2yCol];
 
-        if (spotVal != null) {
+        if (spotVal != null || tc1y != null || tc2y != null) {
           aligned.push({
             date: r.date,
             dateStr: r.dateStr,
