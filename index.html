@@ -4544,7 +4544,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
-      const total = PRODUCT_KEYS.length + 17; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows, +2 holdings history, +3 physical signals
+      let total = 0;
 
       function tick(label) {
         loaded++;
@@ -4557,156 +4557,123 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           tick(PRODUCTS[key].label);
           return key;
         }
-        const rows = await fetchCSV(PRODUCTS[key].file);
-        const parsed = [];
-        if (PRODUCTS[key].solactive) {
-          for (const row of rows) {
-            const d = parseDate((row['date'] || '').trim());
-            const v = parseVal(row['value']);
-            const c = (row['change'] || '').trim();
-            if (d && v != null) {
-              parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
+        try {
+          const rows = await fetchCSV(PRODUCTS[key].file);
+          const parsed = [];
+          if (PRODUCTS[key].solactive) {
+            for (const row of rows) {
+              const d = parseDate((row['date'] || '').trim());
+              const v = parseVal(row['value']);
+              const c = (row['change'] || '').trim();
+              if (d && v != null) {
+                parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
+              }
+            }
+          } else {
+            for (const row of rows) {
+              const d = parseDate((row['Date'] || '').trim());
+              const v = parseVal(row['Index']);
+              const c = (row['% Change'] || '').trim();
+              if (d && v != null) {
+                parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
+              }
             }
           }
-        } else {
-          for (const row of rows) {
-            const d = parseDate((row['Date'] || '').trim());
-            const v = parseVal(row['Index']);
-            const c = (row['% Change'] || '').trim();
-            if (d && v != null) {
-              parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
-            }
-          }
+          parsed.sort((a, b) => a.date - b.date);
+          DATA.raw[key] = parsed;
+        } catch (e) {
+          DATA.raw[key] = [];
+          console.warn('[Index] Could not load ' + key + ':', e.message);
         }
-        parsed.sort((a, b) => a.date - b.date);
-        DATA.raw[key] = parsed;
         tick(PRODUCTS[key].label);
         return key;
       });
 
-      const bdryPromise = fetchCSV('data/etf/bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
-      const bwetPromise = fetchCSV('data/etf/bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
-      const bdryPdPromise = fetchCSV('data/etf/BDRY_Daily.csv').then(r => { DATA.bdryPD = parsePDCsv(r); tick('BDRY P/D'); });
-      const bwetPdPromise = fetchCSV('data/etf/BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
-      const bdryLiqPromise = fetchCSV('data/etf/bdry_liquidity.csv').then(r => { DATA.bdryLiquidity = r; tick('BDRY Liquidity'); });
-      const bwetLiqPromise = fetchCSV('data/etf/bwet_liquidity.csv').then(r => { DATA.bwetLiquidity = r; tick('BWET Liquidity'); });
-      const bdryFlowPromise = fetchCSV('data/etf/BDRY_flows.csv').then(r => { DATA.bdryFlows = parseFlowCsv(r); tick('BDRY Flows'); });
-      const bwetFlowPromise = fetchCSV('data/etf/BWET_flows.csv').then(r => { DATA.bwetFlows = parseFlowCsv(r); tick('BWET Flows'); });
+      const safeFetch = (file, label, defaultVal, parseFn) => {
+        return fetchCSV(file)
+          .then(r => { tick(label); return parseFn ? parseFn(r) : r; })
+          .catch(e => { tick(label + ' (fail)'); console.warn('[' + label + '] Load failed:', e.message); return defaultVal; });
+      };
 
-      // ETF holdings history loading - non-blocking; defaults to empty array on failure
-      const bdryHistPromise = fetchCSV('data/etf/bdry_holdings_history.csv')
-        .then(r => { DATA.bdryHoldingsHistory = r; tick('BDRY History'); })
-        .catch(e => { DATA.bdryHoldingsHistory = []; tick('BDRY History (fail)'); console.warn('[BDRY History] Load failed:', e.message); });
-      const bwetHistPromise = fetchCSV('data/etf/bwet_holdings_history.csv')
-        .then(r => { DATA.bwetHoldingsHistory = r; tick('BWET History'); })
-        .catch(e => { DATA.bwetHoldingsHistory = []; tick('BWET History (fail)'); console.warn('[BWET History] Load failed:', e.message); });
+      const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r; });
+      const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r; });
+      const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r); });
+      const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r); });
+      const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r; });
+      const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r; });
+      const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r); });
+      const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r); });
+      const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r; });
+      const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r; });
 
       // Physical Signals Derived CSVs
-      const tcPromise = fetchCSV('data/derived/time_charter_rates.csv')
-        .then(r => {
-          DATA.timeCharterRates = r.map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                if (k === 'source') { out[k] = row[k]; continue; }
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
+      const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
+        DATA.timeCharterRates = r.map(row => {
+          const out = { date: parseDateISO(row.date), dateStr: row.date };
+          for (const k in row) {
+            if (k !== 'date') {
+              if (k === 'source') { out[k] = row[k]; continue; }
+              const val = parseFloat(row[k]);
+              out[k] = isNaN(val) ? null : val;
             }
-            return out;
-          }).filter(row => row.date != null);
-          tick('Time Charter Rates');
-        })
-        .catch(e => {
-          DATA.timeCharterRates = [];
-          tick('Time Charter Rates (fail)');
-          console.warn('[TC] Load failed:', e);
-        });
+          }
+          return out;
+        }).filter(row => row.date != null);
+      });
 
-      const ioPromise = fetchCSV('data/derived/iron_ore_restocking.csv')
-        .then(r => {
-          DATA.ironOreRestocking = r.map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
+      const ioPromise = safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
+        DATA.ironOreRestocking = r.map(row => {
+          const out = { date: parseDateISO(row.date), dateStr: row.date };
+          for (const k in row) {
+            if (k !== 'date') {
+              const val = parseFloat(row[k]);
+              out[k] = isNaN(val) ? null : val;
             }
-            return out;
-          }).filter(row => row.date != null);
-          tick('Iron Ore Restocking');
-        })
-        .catch(e => {
-          DATA.ironOreRestocking = [];
-          tick('Iron Ore Restocking (fail)');
-          console.warn('[Iron Ore] Load failed:', e);
-        });
+          }
+          return out;
+        }).filter(row => row.date != null);
+      });
 
-      const valPromise = fetchCSV('data/derived/vessel_valuations.csv')
-        .then(r => {
-          DATA.vesselValuations = r.map(row => {
-            const d = parseDateISO(row.date);
-            const val = parseFloat(row.valuation_usd_m);
-            return {
-              date: d,
-              dateStr: row.date,
-              category: row.category,
-              tenor_type: row.tenor_type,
-              vessel_class: row.vessel_class,
-              valuation_usd_m: isNaN(val) ? null : val
-            };
-          }).filter(row => row.date != null);
-          tick('Vessel Valuations');
-        })
-        .catch(e => {
-          DATA.vesselValuations = [];
-          tick('Vessel Valuations (fail)');
-          console.warn('[Valuations] Load failed:', e);
-        });
+      const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
+        DATA.vesselValuations = r.map(row => {
+          const d = parseDateISO(row.date);
+          const val = parseFloat(row.valuation_usd_m);
+          return {
+            date: d,
+            dateStr: row.date,
+            category: row.category,
+            tenor_type: row.tenor_type,
+            vessel_class: row.vessel_class,
+            valuation_usd_m: isNaN(val) ? null : val
+          };
+        }).filter(row => row.date != null);
+      });
 
-
-      // Scrappage / demolition prices (recovered from original file)
-      const scrapPromise = fetchCSV('data/derived/scrappage_prices.csv')
-        .then(r => {
-          DATA.scrappagePrices = r.map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
+      const scrapPromise = safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
+        DATA.scrappagePrices = r.map(row => {
+          const out = { date: parseDateISO(row.date), dateStr: row.date };
+          for (const k in row) {
+            if (k !== 'date') {
+              const val = parseFloat(row[k]);
+              out[k] = isNaN(val) ? null : val;
             }
-            return out;
-          }).filter(row => row.date != null);
-          tick('Scrappage Prices');
-        })
-        .catch(e => {
-          DATA.scrappagePrices = [];
-          tick('Scrappage Prices (fail)');
-          console.warn('[Scrappage] Load failed:', e);
-        });
+          }
+          return out;
+        }).filter(row => row.date != null);
+      });
 
-      // Fearnleys TC rates (full single-source dataset for dual-source comparison)
-      const tcFearnPromise = fetchCSV('data/derived/time_charter_rates_fearnleys.csv')
-        .then(r => {
-          DATA.timeCharterFearnleys = r.map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
+      const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Fearnleys TC Rates', [], r => {
+        DATA.timeCharterFearnleys = r.map(row => {
+          const out = { date: parseDateISO(row.date), dateStr: row.date };
+          for (const k in row) {
+            if (k !== 'date') {
+              const val = parseFloat(row[k]);
+              out[k] = isNaN(val) ? null : val;
             }
-            return out;
-          }).filter(row => row.date != null);
-          tick('Fearnleys TC Rates');
-        })
-        .catch(e => {
-          DATA.timeCharterFearnleys = [];
-          tick('Fearnleys TC Rates (fail)');
-          console.warn('[Fearnleys TC] Load failed:', e);
-        });
+          }
+          return out;
+        }).filter(row => row.date != null);
+      });
 
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
@@ -4716,17 +4683,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         handysize: 'data/futures/sgx_handysize_futures.csv',
       };
       const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
-        try {
-          const rows = await fetchCSV(file);
-          DATA.sgx[key] = rows;
-        } catch (e) {
-          DATA.sgx[key] = [];
-          console.warn('[SGX] Could not load ' + file + ':', e.message);
-        }
-        tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
+        return safeFetch(file, 'SGX ' + key.charAt(0).toUpperCase() + key.slice(1), [], r => {
+          DATA.sgx[key] = r;
+        });
       });
 
-      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, ...sgxPromises]);
+      const allPromisesList = [
+        ...indexPromises,
+        bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
+        bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
+        bdryHistPromise, bwetHistPromise,
+        tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise,
+        ...sgxPromises
+      ];
+
+      total = allPromisesList.length;
+
+      await Promise.all(allPromisesList);
 
       await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
