@@ -4849,7 +4849,24 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         for (const year in DATA.byYearProduct[key]) {
           DATA.byYearProduct[key][year].forEach((row, i) => { row[key + '_td'] = i + 1; });
         }
-      });
+      // Build O(1) trading-day lookup index for instant same-day statistical calculations
+      DATA.byTdProduct = {};
+      for (const key in PRODUCTS) {
+        DATA.byTdProduct[key] = {};
+        const byYr = DATA.byYearProduct[key];
+        if (!byYr) continue;
+        const tdKey = key + '_td';
+        for (const yr in byYr) {
+          for (const row of byYr[yr]) {
+            const td = row[tdKey];
+            const val = row[key];
+            if (td != null && val != null) {
+              if (!DATA.byTdProduct[key][td]) DATA.byTdProduct[key][td] = [];
+              DATA.byTdProduct[key][td].push(val);
+            }
+          }
+        }
+      }
 
       // Populate DATA.raw for computed products to support Indices tab
       for (const key in PRODUCTS) {
@@ -4900,15 +4917,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const pctl10y = percentileRank(vals10y, currentPrice);
       const pctl5y = percentileRank(vals5y, currentPrice);
 
-      // Use per-product trading day for same-day comparison - avoids pollution from other products' calendars
+      // Use per-product trading day for same-day comparison (O(1) pre-indexed lookup)
       const tdKey = productKey + '_td';
       const currentTradingDay = latest[tdKey] ?? latest.tradingDay;
-      const sameDayVals = (DATA.byYearProduct[productKey]
-        ? Object.entries(DATA.byYearProduct[productKey])
-          .filter(([y]) => parseInt(y) < now.getFullYear())
-          .flatMap(([, rows]) => rows.filter(r => r[tdKey] === currentTradingDay && r[productKey] != null).map(r => r[productKey]))
-        : DATA.master.filter(r => r.tradingDay === currentTradingDay && r.year < now.getFullYear() && r[productKey] != null).map(r => r[productKey])
-      );
+      const sameDayVals = (DATA.byTdProduct && DATA.byTdProduct[productKey] && DATA.byTdProduct[productKey][currentTradingDay]) || allVals;
       const allMean = mean(sameDayVals.length >= 3 ? sameDayVals : allVals);
       const allStdDev = stddev(sameDayVals.length >= 3 ? sameDayVals : allVals);
       const zScore = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
