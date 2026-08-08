@@ -4849,6 +4849,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         for (const year in DATA.byYearProduct[key]) {
           DATA.byYearProduct[key][year].forEach((row, i) => { row[key + '_td'] = i + 1; });
         }
+      });
+
       // Build O(1) trading-day lookup index for instant same-day statistical calculations
       DATA.byTdProduct = {};
       for (const key in PRODUCTS) {
