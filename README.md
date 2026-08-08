@@ -57,7 +57,7 @@ All files use standard CSV formatting with date headers in `DD-MM-YYYY` format.
 
 | File Path | Target Index | Code | Start Date | Rows | Schema / Columns | Primary / Derived |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 05-12-2007 | ~4,503 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 04-01-1985 | ~10,491 | `Date, Index, % Change` | Primary (Validated Backfill + Scraped) |
 | [`data/indices/cape_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
 | [`data/indices/panama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
 | [`data/indices/suprama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,300 | `Date, Index, % Change` | Primary (Scraped) |
@@ -67,23 +67,23 @@ All files use standard CSV formatting with date headers in `DD-MM-YYYY` format.
 
 ### 2.2 Baltic Ticker API Series (`data/indices/`)
 
-Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`).
+Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`) and TAC Index API.
 
-| File Path | Index Description | Code | Start Date | Schema |
-| :--- | :--- | :--- | :--- | :--- |
-| `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 13-03-2026 | `Date, Index, % Change` |
-| `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 13-03-2026 | `Date, Index, % Change` |
-| `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | `Date, Index, % Change` |
-| `data/indices/bai_historical.csv` | Baltic Air Freight Index | BAI | 13-03-2026 | `Date, Index, % Change` |
+| File Path | Index Description | Code | Start Date | Rows | Schema |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 13-03-2026 | ~100 | `Date, Index, % Change` |
+| `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 13-03-2026 | ~100 | `Date, Index, % Change` |
+| `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | ~100 | `Date, Index, % Change` |
+| [`data/indices/bai_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 01-01-2018 | ~469 | `Date, Index, % Change` |
 
 ### 2.3 Time Charter (TC) Rates & Valuations (`data/derived/`)
 
-Calculated weekly via OCR extraction out of Alibra Shipping & Howe Robinson market tables published in Hellenic Shipping News (`scripts/process_knowledge.py`).
+Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical_data.py`) and OCR extraction out of Alibra Shipping & Howe Robinson market tables published in Hellenic Shipping News (`scripts/process_knowledge.py`).
 
 | File Path | Description | Start Date | Rows | Columns / Schema Overview |
 | :--- | :--- | :--- | :--- | :--- |
-| [`data/derived/time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv) | Weekly 1Y, 2Y, 3Y, 5Y TC Rates ($/day) | 07-07-2021 | ~257 | `Date` + 48 rate columns (`vlcc_1y`, `vlcc_2y`, `suezmax_1y`, `aframax_1y`, `mr_1y`, `lr1_1y`, `lr2_1y`, `capesize_1y_atl`, `capesize_1y_pac`, `capesize_1y_avg`, `panamax_1y_avg`, etc.) |
-| [`data/derived/vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | Scrappage Prices ($/LDT) & Floor Valuations | 03-09-2022 | ~136 | `Date, india_scrap, bangladesh_scrap, pakistan_scrap, cape_floor_m, pana_floor_m, supra_floor_m, handy_floor_m` |
+| [`data/derived/time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv) | Weekly 1Y, 2Y, 3Y, 5Y TC Rates ($/day) | 05-01-2000 | ~1,504 | `Date` + 48 rate columns (`vlcc_1y`, `vlcc_2y`, `suezmax_1y`, `aframax_1y`, `mr_1y`, `lr1_1y`, `lr2_1y`, `capesize_1y_atl`, `capesize_1y_pac`, `capesize_1y_avg`, `panamax_1y_avg`, etc.) |
+| [`data/derived/vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | S&P Secondhand 5Y/10Y Prices & Newbuilding Prices ($M) | 01-12-1970 | ~20,499 | `date, category, tenor_type, vessel_class, valuation_usd_m` |
 | [`data/derived/iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 03-07-2018 | ~1,234 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
 
 ### 2.4 Futures, Holdings & Fund Flows (`data/futures/`, `data/etf/`, `data/flows/`)
