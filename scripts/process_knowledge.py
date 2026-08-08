@@ -3286,33 +3286,49 @@ def build_derived(llm_enabled: bool = False):
         "lr1_1y", "lr1_2y", "lr1_3y", "lr1_5y",
         "lr2_1y", "lr2_2y", "lr2_3y", "lr2_5y"
     ]
+    # Preserve pre-existing backfilled rows (source=fearnleys) and add source provenance
+    import csv
+    existing_backfill_rows = []
+    if tc_file.exists():
+        with open(tc_file, "r", encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get("source") == "fearnleys":
+                    existing_backfill_rows.append(row)
+    # Build new Alibra OCR rows
+    alibra_rows = []
+    tc_cols_with_source = ["date", "source"] + tc_cols[1:]
+    for date in sorted(tc_records.keys()):
+        row_dict = {"date": date, "source": "alibra_ocr"}
+        data = tc_records[date]
+        for col in tc_cols[1:]:
+            val = None
+            if col in data:
+                val = data[col]
+            else:
+                col_parts = col.split("_", 1)
+                if len(col_parts) == 2:
+                    col_seg, col_suffix = col_parts
+                    for key, key_val in data.items():
+                        key_parts = key.split("_", 1)
+                        if len(key_parts) == 2:
+                            key_seg, key_suffix = key_parts
+                            if key_suffix == col_suffix:
+                                if col_seg == "panamax" and ("panam" in key_seg or "kmax" in key_seg):
+                                    val = key_val
+                                    break
+                                elif col_seg == "supramax" and ("supra" in key_seg or "smax" in key_seg or "ultra" in key_seg):
+                                    val = key_val
+                                    break
+            row_dict[col] = val if val is not None else ""
+        alibra_rows.append(row_dict)
+    # Combine: backfill (fearnleys) first, then new Alibra OCR
+    all_rows = existing_backfill_rows + alibra_rows
+    all_rows.sort(key=lambda r: r.get("date", ""))
     with open(tc_file, "w", encoding="utf-8", newline="") as f:
-        import csv
-        writer = csv.writer(f)
-        writer.writerow(tc_cols)
-        for date in sorted(tc_records.keys()):
-            row = [date]
-            data = tc_records[date]
-            for col in tc_cols[1:]:
-                val = None
-                if col in data:
-                    val = data[col]
-                else:
-                    col_parts = col.split("_", 1)
-                    if len(col_parts) == 2:
-                        col_seg, col_suffix = col_parts
-                        for key, key_val in data.items():
-                            key_parts = key.split("_", 1)
-                            if len(key_parts) == 2:
-                                key_seg, key_suffix = key_parts
-                                if key_suffix == col_suffix:
-                                    if col_seg == "panamax" and ("panam" in key_seg or "kmax" in key_seg):
-                                        val = key_val
-                                        break
-                                    elif col_seg == "supramax" and ("supra" in key_seg or "smax" in key_seg or "ultra" in key_seg):
-                                        val = key_val
-                                        break
-                row.append(val if val is not None else "")
+        writer = csv.DictWriter(f, fieldnames=tc_cols_with_source, extrasaction="ignore")
+        writer.writeheader()
+        for row in all_rows:
             writer.writerow(row)
 
     # 2. Compile Iron Ore Restocking (Daily/Weekly)
@@ -3433,7 +3449,7 @@ def build_derived(llm_enabled: bool = False):
                     "container_india": matches[2][0]
                 }
     
-    val_file = derived_dir / "vessel_valuations.csv"
+    val_file = derived_dir / "scrappage_prices.csv"  # Write scrappage to its own file (vessel_valuations.csv now contains Fearnleys S&P data)
     val_cols = ["date", "dry_india", "dry_bangla", "dry_pak", "dry_turkey", "tanker_india", "tanker_bangla", "tanker_pak", "container_india"]
     with open(val_file, "w", encoding="utf-8", newline="") as f:
         import csv

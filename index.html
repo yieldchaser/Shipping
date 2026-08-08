@@ -4608,6 +4608,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
+                if (k === 'source') { out[k] = row[k]; continue; }
                 const val = parseFloat(row[k]);
                 out[k] = isNaN(val) ? null : val;
               }
