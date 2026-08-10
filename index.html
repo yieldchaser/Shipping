@@ -3824,6 +3824,7 @@
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
               <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
+              <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: --</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
@@ -3832,6 +3833,7 @@
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
               <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: --</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
           </div>
@@ -3850,8 +3852,15 @@
           <!-- Vessel valuations and scrap floor -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Scrap Floor & Demolition Prices</div>
-              <div id="scrapFloorBadge" class="kpi-badge">Floor: --</div>
+              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div id="valuationModeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
+                  <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
+                  <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
+                </div>
+                <div id="scrapFloorBadge" class="kpi-badge">Value: --</div>
+              </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="vesselValuationsChart"></canvas></div>
           </div>
@@ -4052,7 +4061,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
       return _rowCache[productKey];
     }
-    function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; _spotMapCache = {}; _alignedCache = {}; }
+    function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; _spotMapCache = {}; _alignedCache = {}; _valMapCache = {}; }
 
     // Binary search: find nearest date in sorted timestamps array within maxDiffMs
     function binarySearchNearest(sortedTs, targetTs, maxDiffMs) {
@@ -4098,6 +4107,35 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (v != null) return v;
       var idx = binarySearchNearest(spotMap.sortedTs, dateObj.getTime(), maxDiffMs || 345600000);
       return idx >= 0 ? spotMap.sortedVals[idx] : null;
+    }
+
+    // Fast vessel valuation lookup: pre-build date index for (vesselClass, tenorType)
+    var _valMapCache = {};
+    function getValuationMap(vesselClass, tenorType) {
+      const k = vesselClass + '|' + tenorType;
+      if (_valMapCache[k]) return _valMapCache[k];
+      if (!DATA.vesselValuations) return { byDate: {}, sortedTs: [], sortedVals: [] };
+      const filtered = DATA.vesselValuations.filter(r => r.vessel_class === vesselClass && r.tenor_type === tenorType && r.valuation_usd_m != null);
+      filtered.sort((a, b) => a.date - b.date);
+      const byDate = {};
+      const sortedTs = new Array(filtered.length);
+      const sortedVals = new Array(filtered.length);
+      for (let i = 0; i < filtered.length; i++) {
+        const r = filtered[i];
+        byDate[r.dateStr] = r.valuation_usd_m;
+        sortedTs[i] = r.date.getTime();
+        sortedVals[i] = r.valuation_usd_m;
+      }
+      _valMapCache[k] = { byDate: byDate, sortedTs: sortedTs, sortedVals: sortedVals };
+      return _valMapCache[k];
+    }
+
+    function lookupValuation(valMap, dateStr, dateObj) {
+      if (!valMap || !valMap.sortedTs.length) return null;
+      var v = valMap.byDate[dateStr];
+      if (v != null) return v;
+      var idx = binarySearchNearest(valMap.sortedTs, dateObj.getTime(), 2592000000); // 30D window for monthly/weekly reports
+      return idx >= 0 ? valMap.sortedVals[idx] : null;
     }
 
     // computeStats memoized per product (reset on product switch)
@@ -4790,6 +4828,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }).filter(row => row.date != null);
       });
 
+      const intermodalPromise = safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
+        DATA.intermodalTC = r.map(row => {
+          const out = { date: parseDateISO(row.date), dateStr: row.date };
+          for (const k in row) {
+            if (k !== 'date') {
+              if (k === 'source') { out[k] = row[k]; continue; }
+              const val = parseFloat(row[k]);
+              out[k] = (isNaN(val) || val === 0) ? null : val;
+            }
+          }
+          return out;
+        }).filter(row => row.date != null);
+      });
+
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
         cape: 'data/futures/sgx_cape_futures.csv',
@@ -4808,7 +4860,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
         bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
         bdryHistPromise, bwetHistPromise,
-        tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise,
+        tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
         ...sgxPromises
       ];
 
@@ -9742,6 +9794,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       try { renderTimeCharterChart(productKey); } catch(e) { console.error(e); }
     }
 
+    // Vessel Valuations sub-mode selector (10Y Asset Value / Scrap Floor / Implied Yield %)
+    window.valuationViewMode = '10y';
+    function setValuationMode(mode) {
+      window.valuationViewMode = mode;
+      ['10y', 'scrap', 'yield'].forEach(m => {
+        const btn = document.getElementById('valMode' + (m === '10y' ? '10y' : (m === 'scrap' ? 'Scrap' : 'Yield')));
+        if (btn) {
+          btn.classList.toggle('active', m === mode);
+          btn.style.background = (m === mode) ? 'var(--accent)' : 'var(--card)';
+          btn.style.color = (m === mode) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      const productKey = window.CURRENT_PRODUCT || 'cape';
+      try { renderVesselValuationsChart(productKey); } catch(e) { console.error(e); }
+    }
+
 
     function toggleSignalsSection(sectionId) {
       const sec = document.getElementById(sectionId);
@@ -9978,13 +10046,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') {
         spotKey = 'dirtytanker';
         tc1yCol = 'vlcc_1y';
-        tc2yCol = 'suezmax_1y';
-        labelPrefix = 'Tanker';
+        tc2yCol = 'vlcc_2y';
+        labelPrefix = 'VLCC Tanker';
       } else if (productKey === 'cleantanker') {
         spotKey = 'cleantanker';
         tc1yCol = 'mr_1y';
-        tc2yCol = 'lr2_1y';
-        labelPrefix = 'Clean Tanker';
+        tc2yCol = 'mr_2y';
+        labelPrefix = 'MR Clean Tanker';
       }
 
       const spotMultiplier = SPOT_MULTIPLIERS[spotKey] || 1;
@@ -10095,8 +10163,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tc2ySeries = rows.map(r => r.tc2y);
       const ratioSeries = rows.map(r => r.ratio);
 
-      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC' :
-                        (productKey === 'cleantanker') ? 'LR2 1Y TC' : '2-Year TC';
+      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 2Y TC' :
+                        (productKey === 'cleantanker') ? 'MR 2Y TC' : '2-Year TC';
       const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
                         (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
 
@@ -10384,6 +10452,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
+      const basinBadge = document.getElementById('basinRatioBadge');
+      if (isMainCall && basinBadge && latest && latest.ratio != null) {
+        basinBadge.textContent = `Atl/Pac: ${latest.ratio.toFixed(2)}x`;
+        if (latest.ratio > 1.2) {
+          basinBadge.style.background = '#3fb950';
+          basinBadge.style.color = '#fff';
+        } else if (latest.ratio < 0.95) {
+          basinBadge.style.background = '#f85149';
+          basinBadge.style.color = '#fff';
+        } else {
+          basinBadge.style.background = 'var(--border)';
+          basinBadge.style.color = 'var(--text-muted)';
+        }
+      }
+
       const spreadTitle = document.getElementById('basinSpreadTitle');
       if (isMainCall && spreadTitle && latest) {
         spreadTitle.setAttribute('data-tooltip', ' ');
@@ -10621,6 +10704,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
+      const oreBadge = document.getElementById('oreFreightRatioBadge');
+      if (isMainCall && oreBadge && latest && latest.spot && latest.cfr62) {
+        const freightPct = ((latest.spot / 1000) / latest.cfr62) * 100;
+        oreBadge.textContent = `Freight/Ore: ${freightPct.toFixed(1)}%`;
+        if (freightPct > 25.0) {
+          oreBadge.style.background = '#f85149';
+          oreBadge.style.color = '#fff';
+        } else if (freightPct < 15.0) {
+          oreBadge.style.background = '#3fb950';
+          oreBadge.style.color = '#fff';
+        } else {
+          oreBadge.style.background = 'var(--border)';
+          oreBadge.style.color = 'var(--text-muted)';
+        }
+      }
+
       const restockingTitle = document.getElementById('restockingTitle');
       if (isMainCall && restockingTitle && latest) {
         restockingTitle.setAttribute('data-tooltip', ' ');
@@ -10685,6 +10784,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!canvas) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
+      const mode = window.valuationViewMode || '10y';
+
+      const sectorClassMap = {
+        cape: { vc: 'Capesize', tenor: 'DRY-10', ldt: 24000, label: 'Capesize', tcCol: 'capesize_1y_avg', scrapCol: 'dry_india', color: PRODUCTS.cape.color },
+        panama: { vc: 'Kamsarmax', tenor: 'DRY-10', ldt: 12000, label: 'Panamax', tcCol: 'panamax_1y_avg', scrapCol: 'dry_india', color: PRODUCTS.panama.color },
+        suprama: { vc: 'Ultramax', tenor: 'DRY-10', ldt: 9500, label: 'Supramax', tcCol: 'supramax_1y_avg', scrapCol: 'dry_india', color: PRODUCTS.suprama.color },
+        handysize: { vc: 'Handysize', tenor: 'DRY-10', ldt: 7500, label: 'Handysize', tcCol: 'handysize_1y_avg', scrapCol: 'dry_india', color: PRODUCTS.handysize.color },
+        dirtytanker: { vc: 'VLCC', tenor: 'WET-10', ldt: 40000, label: 'VLCC Tanker', tcCol: 'vlcc_1y', scrapCol: 'tanker_india', color: PRODUCTS.dirtytanker.color },
+        cleantanker: { vc: 'MR', tenor: 'WET-10', ldt: 9500, label: 'MR Clean Tanker', tcCol: 'mr_1y', scrapCol: 'tanker_india', color: PRODUCTS.cleantanker.color }
+      };
+
+      let activeKey = productKey;
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') activeKey = 'cape';
+      if (productKey === 'bwet' || productKey === 'bwetff') activeKey = 'dirtytanker';
+      const activeCfg = sectorClassMap[activeKey] || sectorClassMap.cape;
 
       if (isMainCall) {
         const wrapper = canvas.parentNode;
@@ -10695,46 +10809,47 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (!canvas) return;
           }
 
-          const demoRows = DATA.scrappagePrices || [];
-          if (!demoRows.length) return;
-
-          const sectorCfg = {
-            cape: { ldt: 24000, label: 'Capesize Floor', color: PRODUCTS.cape.color, col: 'dry_india' },
-            panama: { ldt: 12000, label: 'Panamax Floor', color: PRODUCTS.panama.color, col: 'dry_india' },
-            suprama: { ldt: 9500, label: 'Supramax Floor', color: PRODUCTS.suprama.color, col: 'dry_india' },
-            handysize: { ldt: 7500, label: 'Handysize Floor', color: PRODUCTS.handysize.color, col: 'dry_india' },
-            dirtytanker: { ldt: 40000, label: 'VLCC Tanker Floor', color: PRODUCTS.dirtytanker.color, col: 'tanker_india' },
-            cleantanker: { ldt: 9500, label: 'MR Tanker Floor', color: PRODUCTS.cleantanker.color, col: 'tanker_india' }
-          };
-
-          const aligned = demoRows.map(r => {
-            const rowData = { date: r.date, dateStr: r.dateStr };
-            sectors.forEach(s => {
-              const cfg = sectorCfg[s];
-              const scrapVal = r[cfg.col];
-              rowData[s + '_floor'] = scrapVal ? (scrapVal * cfg.ldt) / 1000000 : null;
-            });
-            return rowData;
-          }).filter(r => sectors.some(s => r[s + '_floor'] != null));
+          const scrapRows = DATA.scrappagePrices || [];
+          if (!scrapRows.length) return;
 
           const cutoff = new Date('2000-01-01');
-          const rows = aligned.filter(r => r.date >= cutoff);
+          const rows = scrapRows.filter(r => r.date >= cutoff);
           if (!rows.length) return;
 
           const labels = rows.map(r => fmtDate(r.date));
-          const datasets = sectors.map(s => {
-            const cfg = sectorCfg[s];
-            return {
-              label: cfg.label,
-              data: rows.map(r => r[s + '_floor']),
-              borderColor: cfg.color,
-              backgroundColor: 'transparent',
-              borderWidth: 2,
-              pointRadius: 0,
-              fill: false,
-              tension: 0.1
-            };
-          });
+          let datasets = [];
+
+          if (mode === 'scrap') {
+            datasets = sectors.map(s => {
+              const cfg = sectorClassMap[s];
+              return {
+                label: cfg.label + ' Floor ($M)',
+                data: rows.map(r => r[cfg.scrapCol] ? (cfg.ldt * r[cfg.scrapCol]) / 1000000 : null),
+                borderColor: cfg.color, backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1
+              };
+            });
+          } else {
+            // 10y or yield mode overlaid
+            const tcRows = DATA.timeCharterRates || [];
+            const tcMap = {};
+            tcRows.forEach(r => { tcMap[r.dateStr] = r; });
+
+            datasets = sectors.map(s => {
+              const cfg = sectorClassMap[s];
+              const valMap = getValuationMap(cfg.vc, cfg.tenor);
+              const series = rows.map(r => {
+                const valM = lookupValuation(valMap, r.dateStr, r.date);
+                if (mode === '10y') return valM;
+                const tcVal = tcMap[r.dateStr] ? tcMap[r.dateStr][cfg.tcCol] : null;
+                return (valM && tcVal) ? ((tcVal * 365) / (valM * 1000000)) * 100 : null;
+              });
+              return {
+                label: cfg.label + (mode === '10y' ? ' 10Y Value ($M)' : ' Implied Yield (%)'),
+                data: series,
+                borderColor: cfg.color, backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1
+              };
+            });
+          }
 
           destroyChart(actualCanvasId);
           chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
@@ -10748,6 +10863,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 tooltip: {
                   callbacks: {
                     label: function (c) {
+                      if (mode === 'yield') return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(1) + '%' : '-');
                       return ' ' + c.dataset.label + ': $' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'M' : '-');
                     }
                   }
@@ -10755,29 +10871,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               },
               scales: {
                 x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-                y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + v.toFixed(1) + 'M' }, title: { display: true, text: 'Calculated Scrap Floor Value ($ Millions)', color: '#8b949e', font: { size: 11 } } }
+                y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => mode === 'yield' ? v.toFixed(0) + '%' : '$' + v.toFixed(1) + 'M' }, title: { display: true, text: mode === 'yield' ? 'Implied Charter Yield (%)' : 'Vessel Valuation ($ Millions)', color: '#8b949e', font: { size: 11 } } }
               }
             }
           });
+
           const scrapBadge = document.getElementById('scrapFloorBadge');
           if (scrapBadge) {
             scrapBadge.textContent = 'View All Mode';
             scrapBadge.style.background = 'var(--border)';
             scrapBadge.style.color = 'var(--text-muted)';
-            scrapBadge.removeAttribute('data-tt-type');
-            scrapBadge.setAttribute('data-tooltip', 'Est Scrap Floor is calculated dynamically for each sector under Single Sector mode.');
           }
-          const valuationTitle = document.getElementById('valuationTitle');
-          if (valuationTitle) {
-            valuationTitle.setAttribute('data-tooltip', ' ');
-            valuationTitle.setAttribute('data-tt-type', 'concept-scrapfloor');
-            valuationTitle.removeAttribute('data-tt-ldt');
-            valuationTitle.removeAttribute('data-tt-scrap');
-            valuationTitle.removeAttribute('data-tt-floor');
-            valuationTitle.removeAttribute('data-tt-prefix');
-            valuationTitle.removeAttribute('data-tt-product');
-          }
-
           return;
         } else {
           if (wrapper.querySelector('.signals-grid')) {
@@ -10788,92 +10892,96 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
       }
 
-      let isTanker = (productKey === 'dirtytanker' || productKey === 'cleantanker' || productKey === 'bwet' || productKey === 'bwetff');
-
-      let ldt = 24000;
-      let labelPrefix = 'Capesize';
-      let scrapCol = 'dry_india';
-
-      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
-        ldt = 24000;
-        labelPrefix = 'Capesize';
-        scrapCol = 'dry_india';
-      } else if (productKey === 'panama') {
-        ldt = 12000;
-        labelPrefix = 'Panamax';
-        scrapCol = 'dry_india';
-      } else if (productKey === 'suprama') {
-        ldt = 9500;
-        labelPrefix = 'Supramax';
-        scrapCol = 'dry_india';
-      } else if (productKey === 'handysize') {
-        ldt = 7500;
-        labelPrefix = 'Handysize';
-        scrapCol = 'dry_india';
-      } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') {
-        ldt = 40000;
-        labelPrefix = 'VLCC Tanker';
-        scrapCol = 'tanker_india';
-      } else if (productKey === 'cleantanker') {
-        ldt = 9500;
-        labelPrefix = 'MR Clean Tanker';
-        scrapCol = 'tanker_india';
-      }
-
-      const valRows = DATA.scrappagePrices || [];
-      if (!valRows.length) return;
-
+      // Single Sector Mode
+      const scrapRows = DATA.scrappagePrices || [];
+      if (!scrapRows.length) return;
       const cutoff = new Date('2000-01-01');
-      const rows = valRows.filter(r => r.date >= cutoff && r[scrapCol] != null);
+      const rows = scrapRows.filter(r => r.date >= cutoff && r[activeCfg.scrapCol] != null);
       if (!rows.length) return;
 
-      const latest = rows[rows.length - 1];
-      const scrapVal = latest[scrapCol];
-      const floorM = (ldt * scrapVal) / 1000000;
+      const labels = rows.map(r => fmtDate(r.date));
+      const valMap = getValuationMap(activeCfg.vc, activeCfg.tenor);
+      const tcRows = DATA.timeCharterRates || [];
+      const tcMap = {};
+      tcRows.forEach(r => { tcMap[r.dateStr] = r; });
+
+      const scrapFloorSeries = rows.map(r => (activeCfg.ldt * r[activeCfg.scrapCol]) / 1000000);
+      const val10ySeries = rows.map(r => lookupValuation(valMap, r.dateStr, r.date));
+      const yieldSeries = rows.map(r => {
+        const valM = lookupValuation(valMap, r.dateStr, r.date);
+        const tcVal = tcMap[r.dateStr] ? tcMap[r.dateStr][activeCfg.tcCol] : null;
+        return (valM && tcVal) ? ((tcVal * 365) / (valM * 1000000)) * 100 : null;
+      });
+
+      const latestDate = rows[rows.length - 1];
+      const latestScrap = latestDate[activeCfg.scrapCol];
+      const latestFloorM = (activeCfg.ldt * latestScrap) / 1000000;
+      const latest10yM = lookupValuation(valMap, latestDate.dateStr, latestDate.date);
+      const latestTc = tcMap[latestDate.dateStr] ? tcMap[latestDate.dateStr][activeCfg.tcCol] : null;
+      const latestYield = (latest10yM && latestTc) ? ((latestTc * 365) / (latest10yM * 1000000)) * 100 : null;
 
       const scrapBadge = document.getElementById('scrapFloorBadge');
       if (isMainCall && scrapBadge) {
-        scrapBadge.textContent = `${labelPrefix} Scrap Floor: $${floorM.toFixed(2)}M`;
-        scrapBadge.style.background = 'var(--accent)';
-        scrapBadge.style.color = '#fff';
-        scrapBadge.removeAttribute('data-tooltip');
-        scrapBadge.setAttribute('data-tt-type', 'scrap-badge');
-        scrapBadge.setAttribute('data-tt-ldt', ldt);
-        scrapBadge.setAttribute('data-tt-scrap', scrapVal);
-        scrapBadge.setAttribute('data-tt-floor', floorM);
-        scrapBadge.setAttribute('data-tt-prefix', labelPrefix);
-      }
-
-      const valuationTitle = document.getElementById('valuationTitle');
-      if (isMainCall && valuationTitle && latest) {
-        valuationTitle.setAttribute('data-tooltip', ' ');
-        valuationTitle.setAttribute('data-tt-type', 'concept-scrapfloor');
-        valuationTitle.setAttribute('data-tt-ldt', ldt);
-        valuationTitle.setAttribute('data-tt-scrap', scrapVal);
-        valuationTitle.setAttribute('data-tt-floor', floorM);
-        valuationTitle.setAttribute('data-tt-prefix', labelPrefix);
-        valuationTitle.setAttribute('data-tt-product', productKey);
+        if (mode === 'yield' && latestYield != null) {
+          scrapBadge.textContent = `${activeCfg.label} 1Y Yield: ${latestYield.toFixed(1)}%`;
+          scrapBadge.style.background = latestYield > 20.0 ? '#3fb950' : (latestYield < 10.0 ? '#f85149' : 'var(--accent)');
+          scrapBadge.style.color = '#fff';
+        } else if (mode === '10y' && latest10yM != null) {
+          scrapBadge.textContent = `${activeCfg.label} 10Y Value: $${latest10yM.toFixed(1)}M`;
+          scrapBadge.style.background = 'var(--accent)';
+          scrapBadge.style.color = '#fff';
+        } else {
+          scrapBadge.textContent = `${activeCfg.label} Scrap Floor: $${latestFloorM.toFixed(2)}M`;
+          scrapBadge.style.background = 'var(--accent)';
+          scrapBadge.style.color = '#fff';
+        }
       }
 
       destroyChart(actualCanvasId);
 
-      const labels = rows.map(r => fmtDate(r.date));
-      const indiaScrap = rows.map(r => r[scrapCol]);
-      const banglaScrap = rows.map(r => isTanker ? r.tanker_bangla : r.dry_bangla);
-      const pakScrap = rows.map(r => isTanker ? r.tanker_pak : r.dry_pak);
-      const scrapFloorSeries = rows.map(r => (ldt * r[scrapCol]) / 1000000);
+      let chartDatasets = [];
+      let yLeftTitle = '';
+      let yRightTitle = '';
+      let yLeftCallback = v => v;
+      let yRightCallback = v => v;
+
+      if (mode === 'yield') {
+        chartDatasets = [
+          { label: `${activeCfg.label} Implied 1Y Charter Yield (%, Left)`, data: yieldSeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 2, pointRadius: 0, fill: true, tension: 0.1 },
+          { label: `${activeCfg.label} 10Y Asset Value ($M, Right)`, data: val10ySeries, yAxisID: 'yRight', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [3, 3] }
+        ];
+        yLeftTitle = 'Implied Charter Yield (%)';
+        yRightTitle = '10Y Asset Valuation ($M)';
+        yLeftCallback = v => v.toFixed(0) + '%';
+        yRightCallback = v => '$' + v.toFixed(0) + 'M';
+      } else if (mode === '10y') {
+        chartDatasets = [
+          { label: `${activeCfg.label} 10Y Secondhand Valuation ($M, Left)`, data: val10ySeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.05)', borderWidth: 2, pointRadius: 0, fill: true, tension: 0.1 },
+          { label: `${activeCfg.label} Calculated Scrap Floor ($M, Left)`, data: scrapFloorSeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [3, 3] }
+        ];
+        yLeftTitle = 'Vessel Valuation ($ Millions)';
+        yLeftCallback = v => '$' + v.toFixed(0) + 'M';
+      } else {
+        // scrap mode
+        const isTanker = (activeKey === 'dirtytanker' || activeKey === 'cleantanker');
+        const indiaScrap = rows.map(r => r[activeCfg.scrapCol]);
+        const banglaScrap = rows.map(r => isTanker ? r.tanker_bangla : r.dry_bangla);
+        const pakScrap = rows.map(r => isTanker ? r.tanker_pak : r.dry_pak);
+        chartDatasets = [
+          { label: 'India Demolition ($/LDT, Left)', data: indiaScrap, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+          { label: 'Bangladesh Demolition ($/LDT, Left)', data: banglaScrap, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+          { label: 'Pakistan Demolition ($/LDT, Left)', data: pakScrap, yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+          { label: `${activeCfg.label} Est Scrap Floor ($M, Right)`, data: scrapFloorSeries, yAxisID: 'yRight', borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+        ];
+        yLeftTitle = 'Demolition Price ($/LDT)';
+        yRightTitle = 'Scrap Floor ($ Millions)';
+        yLeftCallback = v => '$' + Math.round(v);
+        yRightCallback = v => '$' + v.toFixed(1) + 'M';
+      }
 
       chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
         type: 'line',
-        data: {
-          labels: labels,
-          datasets: [
-            { label: 'India Demolition ($/LDT, Left)', data: indiaScrap, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-            { label: 'Bangladesh Demolition ($/LDT, Left)', data: banglaScrap, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
-            { label: 'Pakistan Demolition ($/LDT, Left)', data: pakScrap, yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
-            { label: `${labelPrefix} Est Scrap Floor ($M, Right)`, data: scrapFloorSeries, yAxisID: 'yRight', borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
-          ]
-        },
+        data: { labels: labels, datasets: chartDatasets },
         options: {
           responsive: true, maintainAspectRatio: false,
           interaction: { mode: 'index', intersect: false },
@@ -10882,7 +10990,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.label.includes('Floor')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + 'M';
+                  if (c.dataset.label.includes('Yield')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(1) + '%' : '-');
+                  if (c.dataset.label.includes('$M')) return ' ' + c.dataset.label + ': $' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'M' : '-');
                   return ' ' + c.dataset.label + ': $' + c.parsed.y + '/LDT';
                 }
               }
