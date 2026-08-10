@@ -9815,7 +9815,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
       }
       // Re-render TC chart with the new source
-      const productKey = window.CURRENT_PRODUCT || 'cape';
+      const productKey = (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'cape';
       try { renderTimeCharterChart(productKey); } catch(e) { console.error(e); }
     }
 
@@ -9831,7 +9831,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           btn.style.color = (m === mode) ? '#fff' : 'var(--text-muted)';
         }
       });
-      const productKey = window.CURRENT_PRODUCT || 'cape';
+      const productKey = (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'cape';
       try { renderVesselValuationsChart(productKey); } catch(e) { console.error(e); }
     }
 
