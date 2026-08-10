@@ -70,8 +70,6 @@
 
     /* HEADER */
     .header {
-      background: var(--card);
-      border-bottom: 1px solid var(--border);
       padding: 12px 20px;
       display: flex;
       align-items: center;
@@ -79,6 +77,13 @@
       position: relative;
       z-index: 100;
       overflow: hidden;
+      max-width: 1400px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .header-outer {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
     }
     #pirateShip,
     #pirateShip2,
@@ -164,15 +169,19 @@
     }
 
     /* INDEX PILL BAR */
-    .index-bar {
+    .index-bar-outer {
       background: var(--bg);
       border-bottom: 1px solid var(--border);
+    }
+    .index-bar {
       padding: 8px 20px;
       display: flex;
       gap: 8px;
       overflow-x: auto;
       scrollbar-width: none;
       align-items: center;
+      max-width: 1400px;
+      margin: 0 auto;
     }
     .index-bar::-webkit-scrollbar { display: none; }
     
@@ -210,13 +219,17 @@
     }
 
     /* TABS */
-    .tabs-bar {
+    .tabs-bar-outer {
       background: var(--card);
       border-bottom: 1px solid var(--border);
-      padding: 0 4px;
+    }
+    .tabs-bar {
+      padding: 0 20px;
       display: flex;
       overflow-x: auto;
       scrollbar-width: none;
+      max-width: 1400px;
+      margin: 0 auto;
     }
     .tabs-bar::-webkit-scrollbar { display: none; }
 
@@ -2584,6 +2597,7 @@
   </div>
 
   <!-- HEADER -->
+  <div class="header-outer">
   <div class="header">
     <div class="header-ships">
       <svg id="pirateShip" filter="url(#pirateGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
@@ -2720,8 +2734,10 @@
     </div> <!-- /header-ships -->
     <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
   </div>
+  </div><!-- /header-outer -->
 
   <!-- INDEX SELECTOR PILLS -->
+  <div class="index-bar-outer">
   <div class="index-bar">
     <span class="index-bar-label">Sector</span>
     <button class="index-pill active" data-val="bdiy">BDI</button>
@@ -2751,6 +2767,7 @@
       <option value="bwetff">BWET Freight Futures (BWETFF)</option>
     </select>
   </div>
+  </div><!-- /index-bar-outer -->
   <script>
     // Pill sync logic
     document.querySelectorAll('.index-pill').forEach(btn => {
@@ -2765,6 +2782,7 @@
   </script>
 
   <!-- TABS BAR -->
+  <div class="tabs-bar-outer">
   <div class="tabs-bar">
     <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
     <button class="tab-btn" data-tab="yearly-dash">Yearly</button>
@@ -2776,6 +2794,7 @@
     <button class="tab-btn" data-tab="signals">Signals</button>
     <button class="tab-btn" data-tab="intelligence">Intelligence</button>
   </div>
+  </div><!-- /tabs-bar-outer -->
 
   <!-- HENRY AVERY TICKER -->
   <div class="ticker-wrap">
