@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 94
+document_count: 95
 evidence_count: 250
-generated_at: '2026-08-10T11:40:19Z'
+generated_at: '2026-08-10T13:08:41Z'
 latest_evidence_date: '2026-08-08'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 94 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-08, with the strongest recurring markers being china, iron_ore, brazil, capesize, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 95 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-08, with the strongest recurring markers being china, iron_ore, brazil, capesize, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,9 +49,9 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, capesize, australia, dry bulk
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 124, hellenic: 115, baltic: 7, breakwave: 4
-- Category coverage: insights: 124, iron_ore: 57, demolition: 32, shipbuilding: 10, vessel_valuations: 8, dry_charter: 8, dry: 7, drybulk: 4
-- Tone distribution: constructive: 152, neutral: 55, cautiously_bearish: 43
+- Source coverage: breakwave_insights: 124, hellenic: 114, baltic: 8, breakwave: 4
+- Category coverage: insights: 124, iron_ore: 57, demolition: 32, shipbuilding: 9, vessel_valuations: 8, dry_charter: 8, dry: 8, drybulk: 4
+- Tone distribution: constructive: 151, neutral: 56, cautiously_bearish: 43
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
@@ -60,9 +60,9 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-08-07 | Black Sea Grain: When Short Hauls Turn Long [doc_id: breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long | section_id: breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__s03_disruption_could_provide_support_for_prices_and_freight | pages n/a]
 - 2026-08-07 | MMI Daily Iron Ore Index Report August 7 2026 [doc_id: hellenic_iron_ore_2026-08-07_2026_08_07_mmi_daily_iron_ore_index_report_august_7_2026 | section_id: hellenic_iron_ore_2026-08-07_2026_08_07_mmi_daily_iron_ore_index_report_august_7_2026__s03_linked_asset_2026_08_07_mmi_daily_iron_ore_index_report_august_7_2026_mmi_daily_iron_ore_report_for_7th_au_d12bf7c0d2a2_pdf | pages n/a]
 - 2026-08-07 | Bulk report - Week 32 [doc_id: baltic_dry_2026-08-07_2026_bulk_report_week_32_dry | section_id: baltic_dry_2026-08-07_2026_bulk_report_week_32_dry__s01_main | pages n/a]
+- 2026-08-07 | Bulk report - Week 32 [doc_id: baltic_dry_2026-08-07_2026_08_07_bulk_report_week_32_dry | section_id: baltic_dry_2026-08-07_2026_08_07_bulk_report_week_32_dry__s01_main | pages n/a]
 - 2026-08-06 | China's Coal Import Prospects Remain Very Bullish [doc_id: breakwave_insights_insights_2026-08-06_2026_08_06_chinas_coal_import_prospects_remain_very_bullish | section_id: breakwave_insights_insights_2026-08-06_2026_08_06_chinas_coal_import_prospects_remain_very_bullish__s01_main | pages n/a]
 - 2026-08-06 | The Offshore sector [doc_id: breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector | section_id: breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector__s01_main | pages n/a]
-- 2026-08-05 | Chokepoints Calculus: Uneven Fees, Risks & Consequences [doc_id: breakwave_insights_insights_2026-08-05_2026_08_05_chokepoints_calculus_uneven_fees_risks_amp_consequences | section_id: breakwave_insights_insights_2026-08-05_2026_08_05_chokepoints_calculus_uneven_fees_risks_amp_consequences__s01_main | pages n/a]
 
 ## Related Topics
 - capesize

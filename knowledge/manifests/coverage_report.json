@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-10T11:41:15Z",
+  "generated_at": "2026-08-10T13:09:38Z",
   "current_date": "2026-08-10",
   "corpus": {
-    "document_count": 8608,
-    "chunk_count": 99630,
-    "section_count": 30513,
+    "document_count": 8613,
+    "chunk_count": 99635,
+    "section_count": 30518,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -44,9 +44,9 @@
       "cadence_days": 7,
       "latest_date": "2026-08-07",
       "age_days": 3,
-      "latest_gap_days": 7,
+      "latest_gap_days": 0,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 593,
+      "dated_doc_count": 594,
       "undated_doc_count": 8
     },
     {
@@ -57,9 +57,9 @@
       "cadence_days": 7,
       "latest_date": "2026-08-07",
       "age_days": 3,
-      "latest_gap_days": 7,
+      "latest_gap_days": 0,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 591,
+      "dated_doc_count": 592,
       "undated_doc_count": 12
     },
     {
@@ -70,9 +70,9 @@
       "cadence_days": 7,
       "latest_date": "2026-08-07",
       "age_days": 3,
-      "latest_gap_days": 7,
+      "latest_gap_days": 0,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 212,
+      "dated_doc_count": 213,
       "undated_doc_count": 0
     },
     {
@@ -83,9 +83,9 @@
       "cadence_days": 7,
       "latest_date": "2026-08-07",
       "age_days": 3,
-      "latest_gap_days": 7,
+      "latest_gap_days": 0,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 93,
+      "dated_doc_count": 94,
       "undated_doc_count": 0
     },
     {
@@ -94,11 +94,11 @@
       "category": "ningbo",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-07-31",
-      "age_days": 10,
+      "latest_date": "2026-08-07",
+      "age_days": 3,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 505,
+      "dated_doc_count": 506,
       "undated_doc_count": 32
     },
     {
@@ -217,21 +217,21 @@
       "relevant_corpus_latest_date": "2026-08-08",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 94,
+      "document_count": 95,
       "source_counts": {
-        "baltic": 7,
+        "baltic": 8,
         "breakwave": 4,
         "breakwave_insights": 124,
-        "hellenic": 115
+        "hellenic": 114
       },
       "category_counts": {
         "demolition": 32,
-        "dry": 7,
+        "dry": 8,
         "dry_charter": 8,
         "drybulk": 4,
         "insights": 124,
         "iron_ore": 57,
-        "shipbuilding": 10,
+        "shipbuilding": 9,
         "vessel_valuations": 8
       },
       "recent_sources_present": [
@@ -244,7 +244,7 @@
       "tone_distribution": {
         "cautiously_bearish": 15,
         "constructive": 50,
-        "neutral": 29
+        "neutral": 30
       }
     },
     {
@@ -257,18 +257,18 @@
       "relevant_corpus_latest_date": "2026-08-08",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 91,
+      "document_count": 92,
       "source_counts": {
-        "baltic": 9,
+        "baltic": 10,
         "breakwave": 4,
-        "breakwave_insights": 171,
+        "breakwave_insights": 170,
         "hellenic": 66
       },
       "category_counts": {
         "demolition": 34,
-        "insights": 171,
+        "insights": 170,
         "shipbuilding": 12,
-        "tanker": 9,
+        "tanker": 10,
         "tanker_charter": 10,
         "tankers": 4,
         "vessel_valuations": 10
@@ -284,7 +284,7 @@
         "cautious": 1,
         "cautiously_bearish": 9,
         "constructive": 51,
-        "neutral": 29,
+        "neutral": 30,
         "neutral_sentiment": 1
       }
     },
@@ -529,7 +529,7 @@
       "relevant_corpus_latest_date": "2026-08-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 171,
+      "document_count": 172,
       "source_counts": {
         "baltic": 145,
         "hellenic": 105
@@ -546,7 +546,7 @@
       "tone_distribution": {
         "cautiously_bearish": 2,
         "constructive": 7,
-        "neutral": 37
+        "neutral": 38
       }
     },
     {
@@ -559,16 +559,16 @@
       "relevant_corpus_latest_date": "2026-08-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 193,
+      "document_count": 194,
       "source_counts": {
-        "baltic": 110,
-        "hellenic": 140
+        "baltic": 112,
+        "hellenic": 138
       },
       "category_counts": {
-        "container": 64,
-        "ningbo": 46,
+        "container": 65,
+        "ningbo": 47,
         "shipbuilding": 51,
-        "vessel_valuations": 89
+        "vessel_valuations": 87
       },
       "recent_sources_present": [
         "baltic",
@@ -578,7 +578,7 @@
       "tone_distribution": {
         "cautiously_bearish": 7,
         "constructive": 11,
-        "neutral": 61
+        "neutral": 63
       }
     }
   ],

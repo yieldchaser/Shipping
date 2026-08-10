@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 91
+document_count: 92
 evidence_count: 250
-generated_at: '2026-08-10T11:40:19Z'
+generated_at: '2026-08-10T13:08:41Z'
 latest_evidence_date: '2026-08-08'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 91 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-08, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 92 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-08-08, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,9 +46,9 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 171, hellenic: 66, baltic: 9, breakwave: 4
-- Category coverage: insights: 171, demolition: 34, shipbuilding: 12, tanker_charter: 10, vessel_valuations: 10, tanker: 9, tankers: 4
-- Tone distribution: constructive: 162, neutral: 51, cautiously_bearish: 33, cautious: 2, neutral_sentiment: 2
+- Source coverage: breakwave_insights: 170, hellenic: 66, baltic: 10, breakwave: 4
+- Category coverage: insights: 170, demolition: 34, shipbuilding: 12, tanker_charter: 10, vessel_valuations: 10, tanker: 10, tankers: 4
+- Tone distribution: constructive: 161, neutral: 52, cautiously_bearish: 33, cautious: 2, neutral_sentiment: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
@@ -56,10 +56,10 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-08-08 | Best Oasis Weekly Recycling Market Report, 07 August 2026 [doc_id: hellenic_demolition_2026-08-08_2026_08_08_best_oasis_weekly_recycling_market_report_07_august_2026 | section_id: hellenic_demolition_2026-08-08_2026_08_08_best_oasis_weekly_recycling_market_report_07_august_2026__s02_linked_asset_2026_08_08_best_oasis_weekly_recycling_market_report_07_august_2026_weekly_ship_recycling_report_01_augu_7c7df445bf7b_pdf | pages n/a]
 - 2026-08-07 | Black Sea Grain: When Short Hauls Turn Long [doc_id: breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long | section_id: breakwave_insights_insights_2026-08-07_2026_08_07_black_sea_grain_when_short_hauls_turn_long__s03_disruption_could_provide_support_for_prices_and_freight | pages n/a]
 - 2026-08-07 | Tanker report - Week 32 [doc_id: baltic_tanker_2026-08-07_2026_tanker_report_week_32_tanker | section_id: baltic_tanker_2026-08-07_2026_tanker_report_week_32_tanker__s01_main | pages n/a]
+- 2026-08-07 | Tanker report - Week 32 [doc_id: baltic_tanker_2026-08-07_2026_08_07_tanker_report_week_32_tanker | section_id: baltic_tanker_2026-08-07_2026_08_07_tanker_report_week_32_tanker__s01_main | pages n/a]
 - 2026-08-06 | China's Coal Import Prospects Remain Very Bullish [doc_id: breakwave_insights_insights_2026-08-06_2026_08_06_chinas_coal_import_prospects_remain_very_bullish | section_id: breakwave_insights_insights_2026-08-06_2026_08_06_chinas_coal_import_prospects_remain_very_bullish__s03_linked_asset_2026_08_06_chinas_coal_import_prospects_remain_very_bullish_img_chart2_d2e4b53a5f56_jpg | pages n/a]
 - 2026-08-06 | The Offshore sector [doc_id: breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector | section_id: breakwave_insights_insights_2026-08-06_2026_08_06_the_offshore_sector__s01_main | pages n/a]
 - 2026-08-05 | Four in five vessels talk their way past Bab el-Mandeb [doc_id: breakwave_insights_insights_2026-08-05_2026_08_05_four_in_five_vessels_talk_their_way_past_bab_el_mandeb | section_id: breakwave_insights_insights_2026-08-05_2026_08_05_four_in_five_vessels_talk_their_way_past_bab_el_mandeb__s02_three_things_a_crew_wants_you_to_know | pages n/a]
-- 2026-08-05 | Chokepoints Calculus: Uneven Fees, Risks & Consequences [doc_id: breakwave_insights_insights_2026-08-05_2026_08_05_chokepoints_calculus_uneven_fees_risks_amp_consequences | section_id: breakwave_insights_insights_2026-08-05_2026_08_05_chokepoints_calculus_uneven_fees_risks_amp_consequences__s05_linked_asset_2026_08_05_chokepoints_calculus_uneven_fees_risks_amp_consequences_img_4_c811eb286ea4_png | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax
