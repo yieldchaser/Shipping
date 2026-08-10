@@ -4052,7 +4052,53 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
       return _rowCache[productKey];
     }
-    function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; }
+    function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; _spotMapCache = {}; }
+
+    // Binary search: find nearest date in sorted timestamps array within maxDiffMs
+    function binarySearchNearest(sortedTs, targetTs, maxDiffMs) {
+      let lo = 0, hi = sortedTs.length - 1;
+      if (hi < 0) return -1;
+      while (lo <= hi) {
+        const mid = (lo + hi) >>> 1;
+        if (sortedTs[mid] < targetTs) lo = mid + 1;
+        else hi = mid - 1;
+      }
+      // lo is the insertion point; check lo and lo-1
+      let bestIdx = -1, bestDiff = Infinity;
+      for (let c = Math.max(0, lo - 1); c <= Math.min(lo, sortedTs.length - 1); c++) {
+        const d = Math.abs(sortedTs[c] - targetTs);
+        if (d < bestDiff) { bestDiff = d; bestIdx = c; }
+      }
+      return bestDiff <= maxDiffMs ? bestIdx : -1;
+    }
+
+    // Pre-built spot lookup: { dateStr -> value } + sorted timestamps + values for binary search
+    var _spotMapCache = {};
+    function getSpotMap(spotKey) {
+      if (_spotMapCache[spotKey]) return _spotMapCache[spotKey];
+      const mult = (typeof SPOT_MULTIPLIERS !== 'undefined' ? SPOT_MULTIPLIERS[spotKey] : null) || 1;
+      const spotRows = getRows(spotKey);
+      const byDate = {};
+      const sortedTs = new Array(spotRows.length);
+      const sortedVals = new Array(spotRows.length);
+      for (let i = 0; i < spotRows.length; i++) {
+        const r = spotRows[i];
+        const v = r[spotKey] * mult;
+        byDate[fmtDate(r.date)] = v;
+        sortedTs[i] = r.date.getTime();
+        sortedVals[i] = v;
+      }
+      _spotMapCache[spotKey] = { byDate: byDate, sortedTs: sortedTs, sortedVals: sortedVals };
+      return _spotMapCache[spotKey];
+    }
+
+    // Fast spot value lookup: O(1) by dateStr, O(log N) fallback by nearest date
+    function lookupSpot(spotMap, dateStr, dateObj, maxDiffMs) {
+      var v = spotMap.byDate[dateStr];
+      if (v != null) return v;
+      var idx = binarySearchNearest(spotMap.sortedTs, dateObj.getTime(), maxDiffMs || 345600000);
+      return idx >= 0 ? spotMap.sortedVals[idx] : null;
+    }
 
     // computeStats memoized per product (reset on product switch)
     const _statsCache = {};
@@ -9742,34 +9788,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!tcRows.length) return;
 
           const spotMaps = {};
-          sectors.forEach(s => {
-            const spotRows = getRows(s);
-            const mult = SPOT_MULTIPLIERS[s] || 1;
-            spotMaps[s] = {};
-            spotRows.forEach(r => {
-              spotMaps[s][fmtDate(r.date)] = r[s] * mult;
-            });
-          });
+          sectors.forEach(s => { spotMaps[s] = getSpotMap(s); });
 
           const aligned = [];
           tcRows.forEach(r => {
             const rowData = { date: r.date, dateStr: r.dateStr };
             sectors.forEach(s => {
-              let spotVal = spotMaps[s][r.dateStr];
-              if (spotVal == null) {
-                let closest = null;
-                let minDiff = Infinity;
-                const spotRows = getRows(s);
-                const mult = SPOT_MULTIPLIERS[s] || 1;
-                spotRows.forEach(sr => {
-                  const diff = Math.abs(sr.date - r.date);
-                  if (diff < minDiff && diff <= 4 * 86400000) {
-                    minDiff = diff;
-                    closest = sr[s] * mult;
-                  }
-                });
-                spotVal = closest;
-              }
+              let spotVal = lookupSpot(spotMaps[s], r.dateStr, r.date);
               rowData[s + '_spot'] = spotVal;
 
               let tcCol = 'capesize_1y_avg';
@@ -9925,24 +9950,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tcRows = DATA.timeCharterRates || [];
       if (!spotRows.length || !tcRows.length) return;
 
-      const spotMap = {};
-      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey] * spotMultiplier; });
+      const spotMapObj = getSpotMap(spotKey);
 
       const aligned = [];
       tcRows.forEach(r => {
-        let spotVal = spotMap[r.dateStr];
-        if (spotVal == null) {
-          let closest = null;
-          let minDiff = Infinity;
-          spotRows.forEach(sr => {
-            const diff = Math.abs(sr.date - r.date);
-            if (diff < minDiff && diff <= 4 * 86400000) {
-              minDiff = diff;
-              closest = sr[spotKey] * spotMultiplier;
-            }
-          });
-          spotVal = closest;
-        }
+        let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
 
         const tc1y = r[tc1yCol];
         const tc2y = r[tc2yCol];
@@ -10409,14 +10421,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!ioRows.length) return;
 
           const spotMaps = {};
-          sectors.forEach(s => {
-            const spotRows = getRows(s);
-            const mult = SPOT_MULTIPLIERS[s] || 1;
-            spotMaps[s] = {};
-            spotRows.forEach(r => {
-              spotMaps[s][fmtDate(r.date)] = r[s] * mult;
-            });
-          });
+          sectors.forEach(s => { spotMaps[s] = getSpotMap(s); });
 
           const aligned = [];
           ioRows.forEach(r => {
@@ -10427,21 +10432,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               port_stock_62: r.port_stock_62
             };
             sectors.forEach(s => {
-              let spotVal = spotMaps[s][r.dateStr];
-              if (spotVal == null) {
-                let closest = null;
-                let minDiff = Infinity;
-                const spotRows = getRows(s);
-                const mult = SPOT_MULTIPLIERS[s] || 1;
-                spotRows.forEach(sr => {
-                  const diff = Math.abs(sr.date - r.date);
-                  if (diff < minDiff && diff <= 4 * 86400000) {
-                    minDiff = diff;
-                    closest = sr[s] * mult;
-                  }
-                });
-                spotVal = closest;
-              }
+              let spotVal = lookupSpot(spotMaps[s], r.dateStr, r.date);
               rowData[s + '_spot'] = spotVal;
             });
             aligned.push(rowData);
@@ -10562,24 +10553,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const ioRows = DATA.ironOreRestocking || [];
       if (!spotRows.length || !ioRows.length) return;
 
-      const spotMap = {};
-      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey] * spotMultiplier; });
+      const spotMapObj = getSpotMap(spotKey);
 
       const aligned = [];
       ioRows.forEach(r => {
-        let spotVal = spotMap[r.dateStr];
-        if (spotVal == null) {
-          let closest = null;
-          let minDiff = Infinity;
-          spotRows.forEach(sr => {
-            const diff = Math.abs(sr.date - r.date);
-            if (diff < minDiff && diff <= 4 * 86400000) {
-              minDiff = diff;
-              closest = sr[spotKey] * spotMultiplier;
-            }
-          });
-          spotVal = closest;
-        }
+        let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
 
         const cfr62 = r.cfr_62;
         const portStock62 = r.port_stock_62;
@@ -10912,39 +10890,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             else if (s === 'dirtytanker') tc1yCol = 'vlcc_1y';
             else if (s === 'cleantanker') tc1yCol = 'mr_1y';
 
-            const spotMultiplier = SPOT_MULTIPLIERS[spotKey] || 1;
-            const spotRows = getRows(spotKey);
-            if (spotRows.length < 90) return;
-
-            const spotMap = {};
-            spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey] * spotMultiplier; });
+            const spotMapObj = getSpotMap(spotKey);
+            if (spotMapObj.sortedTs.length < 90) return;
 
             const points = [];
             tcRows.forEach(r => {
-              let spotVal = spotMap[r.dateStr];
-              if (spotVal == null) {
-                let closest = null;
-                let minDiff = Infinity;
-                spotRows.forEach(sr => {
-                  const diff = Math.abs(sr.date - r.date);
-                  if (diff < minDiff && diff <= 4 * 86400000) {
-                    minDiff = diff;
-                    closest = sr[spotKey] * spotMultiplier;
-                  }
-                });
-                spotVal = closest;
-              }
+              let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
 
               const pastDate = new Date(r.date.getTime() - 60 * 86400000);
-              let pastVal = null;
-              let minDiffPast = Infinity;
-              spotRows.forEach(sr => {
-                const diff = Math.abs(sr.date - pastDate);
-                if (diff < minDiffPast && diff <= 7 * 86400000) {
-                  minDiffPast = diff;
-                  pastVal = sr[spotKey] * spotMultiplier;
-                }
-              });
+              const pastIdx = binarySearchNearest(spotMapObj.sortedTs, pastDate.getTime(), 604800000);
+              let pastVal = pastIdx >= 0 ? spotMapObj.sortedVals[pastIdx] : null;
 
               const tc1y = r[tc1yCol];
               if (spotVal != null && pastVal != null && tc1y != null && tc1y > 0) {
@@ -11064,41 +11019,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') { spotKey = 'dirtytanker'; tc1yCol = 'vlcc_1y'; }
       else if (productKey === 'cleantanker') { spotKey = 'cleantanker'; tc1yCol = 'mr_1y'; }
 
-      const spotMultiplier = SPOT_MULTIPLIERS[spotKey] || 1;
+      const spotMapObj = getSpotMap(spotKey);
 
       const spotRows = getRows(spotKey);
       const tcRows = DATA.timeCharterRates || [];
       if (spotRows.length < 90 || !tcRows.length) return;
 
-      const spotMap = {};
-      spotRows.forEach(r => { spotMap[fmtDate(r.date)] = r[spotKey] * spotMultiplier; });
-
       const points = [];
       tcRows.forEach(r => {
-        let spotVal = spotMap[r.dateStr];
-        if (spotVal == null) {
-          let closest = null;
-          let minDiff = Infinity;
-          spotRows.forEach(sr => {
-            const diff = Math.abs(sr.date - r.date);
-            if (diff < minDiff && diff <= 4 * 86400000) {
-              minDiff = diff;
-              closest = sr[spotKey] * spotMultiplier;
-            }
-          });
-          spotVal = closest;
-        }
+        let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
 
         const pastDate = new Date(r.date.getTime() - 60 * 86400000);
-        let pastVal = null;
-        let minDiffPast = Infinity;
-        spotRows.forEach(sr => {
-          const diff = Math.abs(sr.date - pastDate);
-          if (diff < minDiffPast && diff <= 7 * 86400000) {
-            minDiffPast = diff;
-            pastVal = sr[spotKey] * spotMultiplier;
-          }
-        });
+        const pastIdx = binarySearchNearest(spotMapObj.sortedTs, pastDate.getTime(), 604800000);
+        let pastVal = pastIdx >= 0 ? spotMapObj.sortedVals[pastIdx] : null;
 
         const tc1y = r[tc1yCol];
 
