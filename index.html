@@ -9858,19 +9858,26 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         ];
       }
 
-      // Use requestIdleCallback where available, fall back to setTimeout
-      // Abort if render generation changed (user switched product mid-render)
-      const schedule = window.requestIdleCallback || function(cb) { setTimeout(cb, 4); };
-      function runNext(i) {
-        if (i >= fns.length) return;
-        schedule(function () {
-          if (_signalsRenderGen !== gen) return; // stale — abort
-          if (sec.classList.contains('collapsed')) return;
+      // Batch execution in 2 animation frames to eliminate multi-hop idle delays
+      const raf = window.requestAnimationFrame || function(cb) { setTimeout(cb, 16); };
+      const batchSize = Math.ceil(fns.length / 2);
+      
+      raf(function () {
+        if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
+        // Batch 1 (top visible charts)
+        for (let i = 0; i < batchSize && i < fns.length; i++) {
           try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
-          runNext(i + 1);
-        });
-      }
-      runNext(0);
+        }
+        // Batch 2 (remaining lower charts in next frame)
+        if (batchSize < fns.length) {
+          raf(function () {
+            if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
+            for (let i = batchSize; i < fns.length; i++) {
+              try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
+            }
+          });
+        }
+      });
     }
 
     function renderTimeCharterChart(productKey, canvasId) {
@@ -11327,7 +11334,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Bump generation immediately to abort any in-flight section renders
       _signalsRenderGen++;
 
-      // Debounce: rapid sector switches only trigger the final render
+      // Fast 15ms debounce for instantaneous UI response while preventing click thrashing
       clearTimeout(_signalsDebounceTimer);
       _signalsDebounceTimer = setTimeout(function () {
         if (document.getElementById('bbRangeStart')) initBBRange(productKey);
@@ -11340,7 +11347,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         renderSectionCharts('signals-sec-tech', productKey);
         renderSectionCharts('signals-sec-physical', productKey);
         renderSectionCharts('signals-sec-capital', productKey);
-      }, 80);
+      }, 15);
     }
 
     // -------------------------------------------------------
