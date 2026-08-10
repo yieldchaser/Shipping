@@ -10219,15 +10219,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const showFearn = (tcSrc === 'fearnleys' || tcSrc === 'both');
 
       const tcDatasets = [];
-      tcDatasets.push({ label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1 });
+      tcDatasets.push({ label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
       if (showMerged) {
-        tcDatasets.push({ label: tc1yLabel + (tcSrc === 'both' ? ' (Alibra)' : ''), data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 });
-        tcDatasets.push({ label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1 });
+        tcDatasets.push({ label: tc1yLabel + (tcSrc === 'both' ? ' (Alibra)' : ''), data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        tcDatasets.push({ label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
       }
       if (showFearn) {
-        tcDatasets.push({ label: tc1yLabel + ' (Fearnleys)', data: fearnTc1y, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: showMerged ? [5, 3] : [], pointRadius: 0, fill: false, tension: 0.1 });
+        tcDatasets.push({ label: tc1yLabel + ' (Fearnleys)', data: fearnTc1y, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: showMerged ? [5, 3] : [], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
       }
-      tcDatasets.push({ label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1 });
+      tcDatasets.push({ label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
 
       updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
