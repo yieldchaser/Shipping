@@ -10102,30 +10102,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // Build Fearnleys overlay data if source mode requires it
       const fearnRows = DATA.timeCharterFearnleys || [];
-      const fearnMap = {};
-      fearnRows.forEach(r => { fearnMap[r.dateStr] = r; });
+      // Build a nearest-date lookup for Fearnleys TC data (same pattern as getSpotMap)
+      const fearnByDate = {};
+      const fearnSortedTs = new Array(fearnRows.length);
+      const fearnSortedVals = new Array(fearnRows.length);
+      for (let fi = 0; fi < fearnRows.length; fi++) {
+        const fr = fearnRows[fi];
+        fearnByDate[fr.dateStr] = fr[tc1yCol];
+        fearnSortedTs[fi] = fr.date.getTime();
+        fearnSortedVals[fi] = fr[tc1yCol];
+      }
       const fearnTc1y = rows.map(r => {
-        const fr = fearnMap[r.dateStr];
-        return fr ? fr[tc1yCol] : null;
+        // O(1) exact match, O(log N) fallback within 7 days
+        let v = fearnByDate[r.dateStr];
+        if (v != null) return v;
+        const idx = binarySearchNearest(fearnSortedTs, r.date.getTime(), 604800000);
+        return idx >= 0 ? fearnSortedVals[idx] : null;
       });
-      // Interpolate fearnleys sparse data
-      (function() {
-        var validIdx = [];
-        fearnTc1y.forEach(function(v, i) { if (v != null) validIdx.push(i); });
-        if (validIdx.length >= 2) {
-          for (var vi = 0; vi < validIdx.length - 1; vi++) {
-            var ia = validIdx[vi], ib = validIdx[vi + 1];
-            var va = fearnTc1y[ia], vb = fearnTc1y[ib];
-            for (var j = ia + 1; j < ib; j++) {
-              fearnTc1y[j] = va + (vb - va) * (j - ia) / (ib - ia);
-            }
-          }
-        }
-        if (validIdx.length > 0) {
-          var lastI = validIdx[validIdx.length - 1];
-          for (var k = lastI + 1; k < fearnTc1y.length; k++) fearnTc1y[k] = fearnTc1y[lastI];
-        }
-      })();
 
       const tcSrc = window.tcDataSource || 'merged';
       const showMerged = (tcSrc === 'merged' || tcSrc === 'both');
