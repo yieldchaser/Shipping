@@ -9858,26 +9858,24 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         ];
       }
 
-      // Batch execution in 2 animation frames to eliminate multi-hop idle delays
+      // Execute Batch 1 synchronously for instant 0ms UI update, deferring Batch 2 to next frame
       const raf = window.requestAnimationFrame || function(cb) { setTimeout(cb, 16); };
       const batchSize = Math.ceil(fns.length / 2);
       
-      raf(function () {
-        if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
-        // Batch 1 (top visible charts)
-        for (let i = 0; i < batchSize && i < fns.length; i++) {
-          try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
-        }
-        // Batch 2 (remaining lower charts in next frame)
-        if (batchSize < fns.length) {
-          raf(function () {
-            if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
-            for (let i = batchSize; i < fns.length; i++) {
-              try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
-            }
-          });
-        }
-      });
+      if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
+      // Batch 1 (top visible charts - synchronous 0ms)
+      for (let i = 0; i < batchSize && i < fns.length; i++) {
+        try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
+      }
+      // Batch 2 (remaining lower charts in next frame)
+      if (batchSize < fns.length) {
+        raf(function () {
+          if (_signalsRenderGen !== gen || sec.classList.contains('collapsed')) return;
+          for (let i = batchSize; i < fns.length; i++) {
+            try { fns[i](); } catch (e) { console.error('[SignalsTab]', e); }
+          }
+        });
+      }
     }
 
     function renderTimeCharterChart(productKey, canvasId) {
@@ -9984,7 +9982,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tcTitle.removeAttribute('data-tt-product');
           }
 
-          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+          updateOrCreateChart(actualCanvasId, canvas, {
             type: 'line',
             data: { labels: labels, datasets: datasets },
             options: {
@@ -10162,8 +10160,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         tcTitle.setAttribute('data-tt-product', productKey);
       }
 
-      destroyChart(actualCanvasId);
-
       const labels = rows.map(r => fmtDate(r.date));
       const spotSeries = rows.map(r => r.spot);
       const tc1ySeries = rows.map(r => r.tc1y);
@@ -10177,7 +10173,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // Build Fearnleys overlay data if source mode requires it
       const fearnRows = DATA.timeCharterFearnleys || [];
-      // Build a nearest-date lookup for Fearnleys TC data (same pattern as getSpotMap)
       const fearnByDate = {};
       const fearnSortedTs = new Array(fearnRows.length);
       const fearnSortedVals = new Array(fearnRows.length);
@@ -10188,7 +10183,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         fearnSortedVals[fi] = fr[tc1yCol];
       }
       const fearnTc1y = rows.map(r => {
-        // O(1) exact match, O(log N) fallback within 7 days
         let v = fearnByDate[r.dateStr];
         if (v != null) return v;
         const idx = binarySearchNearest(fearnSortedTs, r.date.getTime(), 604800000);
@@ -10210,7 +10204,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
       tcDatasets.push({ label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1 });
 
-      chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
         data: {
           labels: labels,
@@ -10329,8 +10323,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             };
           });
 
-          destroyChart(actualCanvasId);
-          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+          updateOrCreateChart(actualCanvasId, canvas, {
             type: 'line',
             data: { labels: labels, datasets: datasets },
             options: {
@@ -10486,14 +10479,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         spreadTitle.setAttribute('data-tt-product', productKey);
       }
 
-      destroyChart(actualCanvasId);
-
       const labels = rows.map(r => fmtDate(r.date));
       const v1Series = rows.map(r => r.v1);
       const v2Series = rows.map(r => r.v2);
       const ratioSeries = rows.map(r => r.ratio);
 
-      chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
         data: {
           labels: labels,
@@ -10615,8 +10606,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tension: 0.1
           });
 
-          destroyChart(actualCanvasId);
-          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+          updateOrCreateChart(actualCanvasId, canvas, {
             type: 'line',
             data: { labels: labels, datasets: datasets },
             options: {
@@ -10737,8 +10727,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         restockingTitle.setAttribute('data-tt-product', productKey);
       }
 
-      destroyChart(actualCanvasId);
-
       const labels = rows.map(r => fmtDate(r.date));
       const spotSeries = rows.map(r => r.spot);
       const cfr62Series = rows.map(r => r.cfr62);
@@ -10746,7 +10734,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const spotLabel = PRODUCTS[spotKey] ? PRODUCTS[spotKey].label : spotKey;
 
-      chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
         data: {
           labels: labels,
@@ -10858,8 +10846,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             });
           }
 
-          destroyChart(actualCanvasId);
-          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+          updateOrCreateChart(actualCanvasId, canvas, {
             type: 'line',
             data: { labels: labels, datasets: datasets },
             options: {
@@ -10986,7 +10973,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         yRightCallback = v => '$' + v.toFixed(1) + 'M';
       }
 
-      chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
         data: { labels: labels, datasets: chartDatasets },
         options: {
@@ -11109,8 +11096,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             });
           });
 
-          destroyChart(actualCanvasId);
-          chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+          updateOrCreateChart(actualCanvasId, canvas, {
             type: 'scatter',
             data: { datasets: datasets },
             options: {
@@ -11272,8 +11258,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
       }
 
-      destroyChart(actualCanvasId);
-
       const scatterData = lastWeeks.map((p, idx) => {
         return {
           x: p.x,
@@ -11283,7 +11267,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         };
       });
 
-      chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart(actualCanvasId, canvas, {
         type: 'scatter',
         data: {
           datasets: [{
