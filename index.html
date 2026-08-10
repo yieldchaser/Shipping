@@ -5241,9 +5241,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function () { renderCorrMatrix(currentCorrTimeframe); },
         function () { renderRecentChanges(productKey); },
       ];
-      dashCharts.forEach(function (fn, i) {
-        setTimeout(function () { try { fn(); } catch (e) { console.error('[Dashboard]', e); } }, i * 16);
-      });
+      // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
+      for (let i = 0; i < 2 && i < dashCharts.length; i++) {
+        try { dashCharts[i](); } catch (e) { console.error('[Dashboard]', e); }
+      }
+      if (dashCharts.length > 2) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          for (let i = 2; i < dashCharts.length; i++) {
+            try { dashCharts[i](); } catch (e) { console.error('[Dashboard]', e); }
+          }
+        });
+      }
     }
 
     // =====================================================================
@@ -6471,9 +6479,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function () { renderQDAreaComp2(productKey); },
         function () { renderQDDataGrid(productKey); },
       ];
-      fns.forEach(function (fn, i) {
-        setTimeout(function () { try { fn(); } catch (e) { console.error('[QuarterlyTab]', e); } }, i * 16);
-      });
+      // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
+      for (let i = 0; i < 3 && i < fns.length; i++) {
+        try { fns[i](); } catch (e) { console.error('[QuarterlyTab]', e); }
+      }
+      if (fns.length > 3) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          for (let i = 3; i < fns.length; i++) {
+            try { fns[i](); } catch (e) { console.error('[QuarterlyTab]', e); }
+          }
+        });
+      }
     }
 
     // ---- CHANGE 6: Win-Rate KPI Cards ----
@@ -8855,9 +8871,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function () { renderYDRatesOverlay('yearlyRatesChart'); },
         function () { renderYDDrawdown(productKey, 'yearlyDrawdownChart'); },
       ];
-      fns.forEach(function (fn, i) {
-        setTimeout(function () { try { fn(); } catch (e) { console.error('[YearlyDash]', e); } }, i * 50);
-      });
+      // Synchronous Batch 1 (0ms latency), Batch 2 in RAF (eliminates 400ms delay)
+      for (let i = 0; i < 3 && i < fns.length; i++) {
+        try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
+      }
+      if (fns.length > 3) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          for (let i = 3; i < fns.length; i++) {
+            try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
+          }
+        });
+      }
     }
 
     function setYDHistAvg(w) {
@@ -9372,9 +9396,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function () { renderMDBarChart(productKey); },
         function () { renderMDDataGrid(productKey); },
       ];
-      fns.forEach(function (fn, i) {
-        setTimeout(function () { try { fn(); } catch (e) { console.error('[MonthlyDash]', e); } }, i * 16);
-      });
+      // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
+      for (let i = 0; i < 3 && i < fns.length; i++) {
+        try { fns[i](); } catch (e) { console.error('[MonthlyDash]', e); }
+      }
+      if (fns.length > 3) {
+        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
+          for (let i = 3; i < fns.length; i++) {
+            try { fns[i](); } catch (e) { console.error('[MonthlyDash]', e); }
+          }
+        });
+      }
     }
 
     function renderMonthlyWinRateCards(productKey) {
