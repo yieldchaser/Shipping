@@ -4606,15 +4606,34 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
-    // Perf: reuse existing Chart.js instance when chart type hasn't changed
-    // Avoids expensive canvas teardown → context creation → DOM mutation cycle
+    // Perf: reuse existing Chart.js instance ONLY when dataset structure (count, labels, yAxisIDs) matches
+    // Avoids expensive canvas teardown while preventing stale metasets, scale mismatches & invisible lines
     function updateOrCreateChart(id, canvas, config) {
       const existing = chartRegistry[id];
       if (existing && existing.config.type === config.type) {
-        existing.data = config.data;
-        if (config.options) existing.options = config.options;
-        existing.update('none');  // 'none' = no animation transition
-        return existing;
+        const oldDs = existing.data ? existing.data.datasets : null;
+        const newDs = config.data ? config.data.datasets : null;
+        let canReuse = (oldDs && newDs && oldDs.length === newDs.length);
+        if (canReuse) {
+          for (let i = 0; i < oldDs.length; i++) {
+            if (oldDs[i].label !== newDs[i].label || oldDs[i].yAxisID !== newDs[i].yAxisID) {
+              canReuse = false;
+              break;
+            }
+          }
+        }
+        if (canReuse) {
+          existing.data.labels = config.data.labels;
+          for (let i = 0; i < newDs.length; i++) {
+            existing.data.datasets[i].data = newDs[i].data;
+            if (newDs[i].borderColor) existing.data.datasets[i].borderColor = newDs[i].borderColor;
+            if (newDs[i].borderDash !== undefined) existing.data.datasets[i].borderDash = newDs[i].borderDash;
+            if (newDs[i].backgroundColor) existing.data.datasets[i].backgroundColor = newDs[i].backgroundColor;
+          }
+          if (config.options) existing.options = config.options;
+          existing.update('none');  // 'none' = no animation transition
+          return existing;
+        }
       }
       destroyChart(id);
       chartRegistry[id] = new Chart(canvas.getContext('2d'), config);
