@@ -3318,19 +3318,19 @@
       
       if (etfKey === 'bdry') {
         // Benchmark target Notional ratio per SEC Form 10-Q: Capesize 50% / Panamax 40% / Supramax 10%
-        var capePromptLots = Math.max(0, 45.0);
-        var panaPromptLots = Math.max(0, 52.0);
-        var supraPromptLots = Math.max(0, 15.0);
-        
         var capeNextLots = Math.round((45.0 * rollPct) / 5.0) * 5.0;
         var panaNextLots = Math.round((52.0 * rollPct) / 5.0) * 5.0;
         var supraNextLots = Math.round((15.0 * rollPct) / 5.0) * 5.0;
 
+        var capePromptLots = Math.max(0, 45.0 - capeNextLots);
+        var panaPromptLots = Math.max(0, 52.0 - panaNextLots);
+        var supraPromptLots = Math.max(0, 15.0 - supraNextLots);
+
         // Prompt month contracts
         pMonths.forEach(function(mStr) {
-          var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', isPrompt: true, Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) });
-          var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', isPrompt: true, Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) });
-          var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', isPrompt: true, Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) });
+          if (capePromptLots > 0) { var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', isPrompt: true, Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) }); }
+          if (panaPromptLots > 0) { var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', isPrompt: true, Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) }); }
+          if (supraPromptLots > 0) { var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', isPrompt: true, Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) }); }
         });
 
         // Next Quarter Strip contracts (only if roll progress > 0)
@@ -3343,15 +3343,15 @@
         }
       } else {
         // BWET: VLCC target ~87 lots/mo, Suezmax ~25 lots/mo
-        var vlccPromptLots = 150.0;
-        var suezPromptLots = 30.0;
-        
         var vlccNextLots = Math.round((87.0 * rollPct) / 5.0) * 5.0;
         var suezNextLots = Math.round((25.0 * rollPct) / 5.0) * 5.0;
 
+        var vlccPromptLots = Math.max(0, 150.0 - vlccNextLots);
+        var suezPromptLots = Math.max(0, 30.0 - suezNextLots);
+
         pMonths.forEach(function(mStr) {
-          var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', isPrompt: true, Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) });
-          var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', isPrompt: true, Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) });
+          if (vlccPromptLots > 0) { var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', isPrompt: true, Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) }); }
+          if (suezPromptLots > 0) { var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', isPrompt: true, Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) }); }
         });
 
         if (vlccNextLots > 0 || suezNextLots > 0) {
