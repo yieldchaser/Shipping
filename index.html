@@ -3245,7 +3245,11 @@
         var labels = []; var weights = []; var colors = [];
         var isClassMode = _deconstChartMode === 'class';
 
+        var badgeEl = document.getElementById('deconstContractLegendBadge');
+        var badgeTextEl = document.getElementById('deconstLegendBadgeText');
+
         if (isClassMode) {
+          if (badgeEl) badgeEl.style.display = 'none';
           // Aggregate by vessel class for a clean 2-3 slice breakdown
           var classMap = {};
           pred.holdings.forEach(function(h) {
@@ -3261,21 +3265,38 @@
             colors = ['#f0883e', '#a371f7'];
           }
         } else {
-          // Detailed contract month breakdown grouped by vessel class color families
-          labels = pred.holdings.map(function(h) {
+          if (badgeEl) badgeEl.style.display = 'block';
+          if (badgeTextEl) {
+            if (_deconstETFKey === 'bdry') {
+              badgeTextEl.innerHTML = '🔵 <b style="color:#58a6ff;">Cape</b> (Blue) &nbsp;•&nbsp; 🟢 <b style="color:#3fb950;">Pana</b> (Green) &nbsp;•&nbsp; 🟡 <b style="color:#d29922;">Supra</b> (Gold)';
+            } else {
+              badgeTextEl.innerHTML = '🟧 <b style="color:#f0883e;">VLCC</b> (Orange) &nbsp;•&nbsp; 🟪 <b style="color:#a371f7;">Suezmax</b> (Purple)';
+            }
+          }
+
+          // Sort holdings so all contracts of the same vessel class are contiguous (all blues together, all greens together, all golds together)
+          var sortedHoldings = pred.holdings.slice().sort(function(a, b) {
+            var order = { cape: 1, pana: 2, supra: 3, vlcc: 1, suez: 2 };
+            var oa = order[a.class] || 9;
+            var ob = order[b.class] || 9;
+            if (oa !== ob) return oa - ob;
+            return a.Name.localeCompare(b.Name);
+          });
+
+          labels = sortedHoldings.map(function(h) {
             return h.Name.replace(/Capesize 5TC FFA 180kt|Panamax 5TC FFA 82kt|Supramax 58 TC FFA 58kt|TD3C FFA 270kt MEG-China|TD20 FFA 130kt WAF-Cont/g, '').trim();
           });
-          weights = pred.holdings.map(function(h) { return h.weight; });
+          weights = sortedHoldings.map(function(h) { return h.weight; });
 
           var classColorFamilies = {
-            cape: ['#7dd3fc', '#38bdf8', '#0284c7', '#0369a1', '#1e3a8a'],
-            pana: ['#86efac', '#4ade80', '#22c55e', '#15803d', '#14532d'],
-            supra: ['#fef08a', '#facc15', '#eab308', '#a16207', '#713f12'],
-            vlcc: ['#fed7aa', '#fb923c', '#ea580c', '#c2410c', '#7c2d12'],
-            suez: ['#e9d5ff', '#c084fc', '#9333ea', '#6b21a8', '#4c1d95']
+            cape: ['#38bdf8', '#0284c7', '#0369a1', '#1e3a8a', '#7dd3fc'],
+            pana: ['#4ade80', '#22c55e', '#15803d', '#14532d', '#86efac'],
+            supra: ['#facc15', '#eab308', '#a16207', '#713f12', '#fef08a'],
+            vlcc: ['#fb923c', '#ea580c', '#c2410c', '#7c2d12', '#fed7aa'],
+            suez: ['#c084fc', '#9333ea', '#6b21a8', '#4c1d95', '#e9d5ff']
           };
           var classIndices = {};
-          colors = pred.holdings.map(function(h) {
+          colors = sortedHoldings.map(function(h) {
             var idx = classIndices[h.class] || 0;
             classIndices[h.class] = idx + 1;
             var family = classColorFamilies[h.class] || ['#888888'];
@@ -3833,14 +3854,17 @@
           </div>
 
           <div>
-            <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;">
+            <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:4px;display:flex;justify-content:space-between;align-items:center;">
               <span>Holdings Weight Allocation</span>
               <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:10px;">
                 <button id="deconstChartModeClass" onclick="setDeconstChartMode('class')" data-tooltip="Clean high-level view aggregating futures allocations into 2-3 vessel class slices." style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">By Vessel</button>
                 <button id="deconstChartModeContract" onclick="setDeconstChartMode('contract')" data-tooltip="Detailed breakdown across contract expiry months using vessel color family grouping." style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">By Contract</button>
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:280px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
+            <div id="deconstContractLegendBadge" style="font-size:11px;color:var(--text-muted);margin-bottom:6px;display:none;font-weight:600;">
+              <span id="deconstLegendBadgeText">🔵 <b>Cape</b> (Blue) &nbsp;•&nbsp; 🟢 <b>Pana</b> (Green) &nbsp;•&nbsp; 🟡 <b>Supra</b> (Gold)</span>
+            </div>
+            <div class="chart-canvas-wrap" style="height:270px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
               <canvas id="etfDeconstChart"></canvas>
             </div>
           </div>
