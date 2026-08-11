@@ -11034,13 +11034,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const labels = rows.map(r => fmtDate(r.date));
 
+      // Helper: convert monthly charter hire ($/month) to daily TCE ($/day)
+      const toDaily = v => (v != null && !isNaN(v)) ? v / 30.4375 : null;
+
       // Update KPI badge
       const lpgBadge = document.getElementById('lpgRatesBadge');
       const latest = rows[rows.length - 1];
       if (lpgBadge && latest) {
         const tcVal = latest.vlgc_tc;
         if (tcVal != null) {
-          lpgBadge.textContent = 'VLGC 1Y TC: $' + Math.round(tcVal).toLocaleString() + '/day';
+          const daily = Math.round(toDaily(tcVal));
+          lpgBadge.textContent = 'VLGC 1Y TC: $' + daily.toLocaleString() + '/day';
           lpgBadge.style.background = 'var(--accent)';
           lpgBadge.style.color = '#fff';
         } else {
@@ -11051,11 +11055,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       const datasets = [
-        { label: 'VLGC 84k Spot ($/day)', data: rows.map(r => r.vlgc_spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'MGC Spot ($/day)', data: rows.map(r => r.mgc_spot), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [3, 3] },
-        { label: 'VLGC 84k 1Y TC', data: rows.map(r => r.vlgc_tc), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'MGC 38k 1Y TC', data: rows.map(r => r.mgc_tc), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'Handy 22k 1Y TC', data: rows.map(r => r.hdy_tc), yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [4, 4] },
+        { label: 'VLGC 84k Spot ($/day)', data: rows.map(r => toDaily(r.vlgc_spot)), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'MGC Spot ($/day)', data: rows.map(r => toDaily(r.mgc_spot)), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [3, 3] },
+        { label: 'VLGC 84k 1Y TC', data: rows.map(r => toDaily(r.vlgc_tc)), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'MGC 38k 1Y TC', data: rows.map(r => toDaily(r.mgc_tc)), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'Handy 22k 1Y TC', data: rows.map(r => toDaily(r.hdy_tc)), yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [4, 4] },
         { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
       ];
 
@@ -11080,7 +11084,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Charter Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Charter & Spot Rates ($/day equiv)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Baltic LPG Index', color: '#8b949e', font: { size: 11 } } }
           }
         }
