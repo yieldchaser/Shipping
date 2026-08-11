@@ -2796,7 +2796,7 @@
     var _deconstETFKey = 'bdry';
     var _deconstChartMode = 'class'; // 'class' (default clean view) or 'contract' (detailed view)
 
-    function setDeconstChartMode(mode) {
+    window.setDeconstChartMode = function setDeconstChartMode(mode) {
       _deconstChartMode = mode;
       var classBtn = document.getElementById('deconstChartModeClass');
       var contractBtn = document.getElementById('deconstChartModeContract');
@@ -2806,8 +2806,10 @@
         contractBtn.style.background = mode === 'contract' ? 'var(--accent)' : 'var(--bg)';
         contractBtn.style.color = mode === 'contract' ? '#fff' : 'var(--text-muted)';
       }
-      renderETFDeconstructionEngine();
-    }
+      if (typeof renderETFDeconstructionEngine === 'function') {
+        renderETFDeconstructionEngine();
+      }
+    };
     var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
 
     function switchDeconstETF(key) {
@@ -3213,6 +3215,7 @@
         window.onDeconstSliderInput = onDeconstSliderInput;
         window.applyMacroScenario = applyMacroScenario;
         window.solveReversePriceTarget = solveReversePriceTarget;
+        window.setDeconstChartMode = setDeconstChartMode;
 
         var labels = []; var weights = []; var colors = [];
         var isClassMode = _deconstChartMode === 'class';
