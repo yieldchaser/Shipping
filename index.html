@@ -3414,17 +3414,39 @@
       if (!history.length) {
         var rawHistoryList = _deconstETFKey === 'bdry' ? (DATA.bdryHoldingsHistory || []) : (DATA.bwetHoldingsHistory || []);
         var targetClean = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
+        var targetMonthMatch = targetClean.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+        var targetMonthStr = targetMonthMatch ? (targetMonthMatch[1].toLowerCase() + ' ' + targetMonthMatch[2]) : '';
+
         var matchedRows = [];
 
         rawHistoryList.forEach(function(row) {
           if (row) {
             var rowName = String(row.Name || row.name || row.contract || row.Contract || '').toLowerCase().replace(/\s+/g, ' ').trim();
-            if (rowName && (rowName === targetClean || rowName.includes(targetClean) || targetClean.includes(rowName))) {
-              var px = parseFloat(row.Price || row.price || row.settle || row.Settle || row.unitPrice || row.close || row.Close);
-              var dStr = row.Date || row.date || row.DateStr || row.asOf;
-              var dObj = dStr ? new Date(dStr) : null;
-              if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
-                matchedRows.push({ date: dObj, price: px });
+            if (rowName) {
+              var isMatch = (rowName === targetClean || rowName.includes(targetClean) || targetClean.includes(rowName));
+
+              if (!isMatch && targetMonthStr) {
+                var rowMonthMatch = rowName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+                var rowMonthStr = rowMonthMatch ? (rowMonthMatch[1].toLowerCase() + ' ' + rowMonthMatch[2]) : '';
+
+                if (rowMonthStr === targetMonthStr) {
+                  if ((cls === 'vlcc' && (rowName.includes('td3c') || rowName.includes('vlcc'))) ||
+                      (cls === 'suez' && (rowName.includes('td20') || rowName.includes('suez'))) ||
+                      (cls === 'cape' && (rowName.includes('cape') || rowName.includes('5tc'))) ||
+                      (cls === 'pana' && (rowName.includes('pana') || rowName.includes('4tc') || rowName.includes('82kt'))) ||
+                      (cls === 'supra' && (rowName.includes('supra') || rowName.includes('10tc') || rowName.includes('58kt')))) {
+                    isMatch = true;
+                  }
+                }
+              }
+
+              if (isMatch) {
+                var px = parseFloat(row.Price || row.price || row.settle || row.Settle || row.unitPrice || row.close || row.Close);
+                var dStr = row.Date || row.date || row.DateStr || row.asOf;
+                var dObj = dStr ? new Date(dStr) : null;
+                if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
+                  matchedRows.push({ date: dObj, price: px });
+                }
               }
             }
           }
