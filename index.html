@@ -3031,6 +3031,27 @@
         pMonths.push(mNames[m - 1] + ' ' + String(year).slice(2));
       }
 
+      // Query live daily CSV disclosures if target date is today
+      var liveHoldingsMap = {};
+      var isTodayDate = (year === new Date().getFullYear() && month === (new Date().getMonth() + 1) && day === new Date().getDate());
+      if (isTodayDate) {
+        var rawList = (etfKey === 'bdry' ? DATA.bdryHoldings : DATA.bwetHoldings) || [];
+        rawList.forEach(function(item) {
+          if (item && item.Name && item.Price) {
+            var px = parseFloat(String(item.Price).replace(/[$,]/g, ''));
+            if (!isNaN(px) && px > 0) {
+              var cleanKey = item.Name.toLowerCase().replace(/\s+/g, ' ').trim();
+              liveHoldingsMap[cleanKey] = px;
+            }
+          }
+        });
+      }
+
+      function getLivePx(contractName, fallbackPx) {
+        var cleanKey = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
+        return liveHoldingsMap[cleanKey] || fallbackPx;
+      }
+
       var holdings = [];
       
       if (etfKey === 'bdry') {
@@ -3045,17 +3066,17 @@
 
         // Prompt month contracts
         pMonths.forEach(function(mStr) {
-          holdings.push({ Name: 'Capesize 5TC FFA 180kt ' + mStr, class: 'cape', Lots: capePromptLots, unitPrice: 22500 });
-          holdings.push({ Name: 'Panamax 5TC FFA 82kt ' + mStr, class: 'pana', Lots: panaPromptLots, unitPrice: 15200 });
-          holdings.push({ Name: 'Supramax 58 TC FFA 58kt ' + mStr, class: 'supra', Lots: supraPromptLots, unitPrice: 14100 });
+          var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) });
+          var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) });
+          var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) });
         });
 
         // Next Quarter Strip contracts (only if roll progress > 0)
         if (capeNextLots > 0 || panaNextLots > 0 || supraNextLots > 0) {
           nMonths.forEach(function(mStr) {
-            if (capeNextLots > 0) holdings.push({ Name: 'Capesize 5TC FFA 180kt ' + mStr, class: 'cape', Lots: capeNextLots, unitPrice: 21800 });
-            if (panaNextLots > 0) holdings.push({ Name: 'Panamax 5TC FFA 82kt ' + mStr, class: 'pana', Lots: panaNextLots, unitPrice: 14800 });
-            if (supraNextLots > 0) holdings.push({ Name: 'Supramax 58 TC FFA 58kt ' + mStr, class: 'supra', Lots: supraNextLots, unitPrice: 13900 });
+            if (capeNextLots > 0) { var nameCapeN = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCapeN, class: 'cape', Lots: capeNextLots, unitPrice: getLivePx(nameCapeN, 21800) }); }
+            if (panaNextLots > 0) { var namePanaN = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePanaN, class: 'pana', Lots: panaNextLots, unitPrice: getLivePx(namePanaN, 14800) }); }
+            if (supraNextLots > 0) { var nameSupraN = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupraN, class: 'supra', Lots: supraNextLots, unitPrice: getLivePx(nameSupraN, 13900) }); }
           });
         }
       } else {
@@ -3067,8 +3088,8 @@
         var suezNextLots = Math.round((25.0 * rollPct) / 5.0) * 5.0;
 
         pMonths.forEach(function(mStr) {
-          holdings.push({ Name: 'TD3C FFA 270kt MEG-China ' + mStr, class: 'vlcc', Lots: vlccPromptLots, unitPrice: 48500 });
-          holdings.push({ Name: 'TD20 FFA 130kt WAF-Cont ' + mStr, class: 'suez', Lots: suezPromptLots, unitPrice: 38200 });
+          var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) });
+          var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) });
         });
 
         if (vlccNextLots > 0 || suezNextLots > 0) {
