@@ -10154,7 +10154,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         // Compute ratio post-interpolation
         aligned.forEach(function(r) {
-          r.ratio = (r.tc1y && r.tc1y > 0) ? Math.min(2.5, r.spot / r.tc1y) : null;
+          r.ratio = (r.spot != null && r.tc1y && r.tc1y > 0) ? Math.min(2.5, r.spot / r.tc1y) : null;
         });
 
         setCachedAligned('tc_single', productKey, aligned);
