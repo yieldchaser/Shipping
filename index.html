@@ -3312,17 +3312,17 @@
 
         // Prompt month contracts
         pMonths.forEach(function(mStr) {
-          var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) });
-          var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) });
-          var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) });
+          var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', isPrompt: true, Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) });
+          var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', isPrompt: true, Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) });
+          var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', isPrompt: true, Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) });
         });
 
         // Next Quarter Strip contracts (only if roll progress > 0)
         if (capeNextLots > 0 || panaNextLots > 0 || supraNextLots > 0) {
           nMonths.forEach(function(mStr) {
-            if (capeNextLots > 0) { var nameCapeN = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCapeN, class: 'cape', Lots: capeNextLots, unitPrice: getLivePx(nameCapeN, 21800) }); }
-            if (panaNextLots > 0) { var namePanaN = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePanaN, class: 'pana', Lots: panaNextLots, unitPrice: getLivePx(namePanaN, 14800) }); }
-            if (supraNextLots > 0) { var nameSupraN = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupraN, class: 'supra', Lots: supraNextLots, unitPrice: getLivePx(nameSupraN, 13900) }); }
+            if (capeNextLots > 0) { var nameCapeN = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCapeN, class: 'cape', isPrompt: false, Lots: capeNextLots, unitPrice: getLivePx(nameCapeN, 21800) }); }
+            if (panaNextLots > 0) { var namePanaN = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePanaN, class: 'pana', isPrompt: false, Lots: panaNextLots, unitPrice: getLivePx(namePanaN, 14800) }); }
+            if (supraNextLots > 0) { var nameSupraN = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupraN, class: 'supra', isPrompt: false, Lots: supraNextLots, unitPrice: getLivePx(nameSupraN, 13900) }); }
           });
         }
       } else {
@@ -3334,14 +3334,14 @@
         var suezNextLots = Math.round((25.0 * rollPct) / 5.0) * 5.0;
 
         pMonths.forEach(function(mStr) {
-          var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) });
-          var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) });
+          var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', isPrompt: true, Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) });
+          var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', isPrompt: true, Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) });
         });
 
         if (vlccNextLots > 0 || suezNextLots > 0) {
           nMonths.forEach(function(mStr) {
-            if (vlccNextLots > 0) holdings.push({ Name: 'TD3C FFA 270kt MEG-China ' + mStr, class: 'vlcc', Lots: vlccNextLots, unitPrice: 46800 });
-            if (suezNextLots > 0) holdings.push({ Name: 'TD20 FFA 130kt WAF-Cont ' + mStr, class: 'suez', Lots: suezNextLots, unitPrice: 37100 });
+            if (vlccNextLots > 0) holdings.push({ Name: 'TD3C FFA 270kt MEG-China ' + mStr, class: 'vlcc', isPrompt: false, Lots: vlccNextLots, unitPrice: 46800 });
+            if (suezNextLots > 0) holdings.push({ Name: 'TD20 FFA 130kt WAF-Cont ' + mStr, class: 'suez', isPrompt: false, Lots: suezNextLots, unitPrice: 37100 });
           });
         }
       }
@@ -3470,15 +3470,24 @@
         kpiPnlSub.textContent = 'Base Capital $' + Math.round(baseCapital).toLocaleString();
       }
       if (kpiRoll) {
-        // Calculate dynamic prompt vs next-quarter roll yield spread
-        var promptPrices = []; var nextPrices = [];
-        pred.holdings.forEach(function(h, idx) {
-          if (h.Lots >= 30) promptPrices.push(h.unitPrice);
-          else if (h.Lots < 30 && h.Lots > 0) nextPrices.push(h.unitPrice);
-        });
-        var avgP = promptPrices.length ? (promptPrices.reduce((a,b)=>a+b,0)/promptPrices.length) : 0;
-        var avgN = nextPrices.length ? (nextPrices.reduce((a,b)=>a+b,0)/nextPrices.length) : 0;
+        // Calculate exact lot-weighted prompt vs next-quarter roll yield spread
+        var pNotional = 0, pLots = 0;
+        var nNotional = 0, nLots = 0;
         
+        pred.holdings.forEach(function(h) {
+          var px = h.shockPrice || h.unitPrice;
+          if (h.isPrompt) {
+            pNotional += h.Lots * px;
+            pLots += h.Lots;
+          } else {
+            nNotional += h.Lots * px;
+            nLots += h.Lots;
+          }
+        });
+
+        var avgP = pLots > 0 ? (pNotional / pLots) : 0;
+        var avgN = nLots > 0 ? (nNotional / nLots) : 0;
+
         if (avgP > 0 && avgN > 0) {
           var spreadPct = ((avgP - avgN) / avgP) * 100;
           if (spreadPct >= 0) {
