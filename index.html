@@ -5297,7 +5297,8 @@
 </div>
 
 <script>
-function sq(q) { document.getElementById('qaQuery').value = q; runQAQuery(); }
+function sq(q) {
+      window.sq = sq; document.getElementById('qaQuery').value = q; runQAQuery(); }
 document.getElementById('tabs').addEventListener('click', function(e) {
   const tab = e.target.closest('.sq-tab');
   if (!tab) return;
@@ -6603,6 +6604,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // OVERLAY CHART
     // =====================================================================
     function selectYearPreset(n, targetBtn) {
+      window.selectYearPreset = selectYearPreset;
       const currentYear = new Date().getFullYear();
       const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
 
@@ -6754,6 +6756,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     let _drawdownWindow = '5y';
     function setDrawdownWindow(w) {
+      window.setDrawdownWindow = setDrawdownWindow;
       _drawdownWindow = w;
       if (DATA.loaded) renderDrawdownChart(currentProduct);
     }
@@ -7074,6 +7077,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleYearlyPerf() {
+      window.toggleYearlyPerf = toggleYearlyPerf;
       const btn = document.getElementById('yearlyPerfToggle');
       const content = document.getElementById('yearlyPerfContent');
       btn.classList.toggle('open');
@@ -7081,6 +7085,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleETFYearlyPerf(etfKey) {
+      window.toggleETFYearlyPerf = toggleETFYearlyPerf;
       const btn = document.getElementById(`yearlyPerfToggle_${etfKey}`);
       const content = document.getElementById(`yearlyPerfContent_${etfKey}`);
       if (btn && content) {
@@ -7285,6 +7290,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleMacroCycles() {
+      window.toggleMacroCycles = toggleMacroCycles;
       const btn = document.getElementById('macroCyclesToggle');
       const content = document.getElementById('macroCyclesContent');
       if (btn && content) {
@@ -7294,6 +7300,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleETFMacroCycles(etfKey) {
+      window.toggleETFMacroCycles = toggleETFMacroCycles;
       const btn = document.getElementById(`macroCyclesToggle_${etfKey}`);
       const content = document.getElementById(`macroCyclesContent_${etfKey}`);
       if (btn && content) {
@@ -7303,6 +7310,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleETFDrawdown(etfKey) {
+      window.toggleETFDrawdown = toggleETFDrawdown;
       const btn = document.getElementById(`etfDrawdownToggle_${etfKey}`);
       const content = document.getElementById(`etfDrawdownContent_${etfKey}`);
       if (btn && content) {
@@ -7539,6 +7547,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     const CORR_LABELS = ['BDI', 'BDRY Spot', 'Cape', 'Panama', 'Supra', 'Handy', 'DirtyT', 'CleanT', 'BDRYFF', 'BWETFF'];
 
     function setCorrTimeframe(el, tf) {
+      window.setCorrTimeframe = setCorrTimeframe;
       currentCorrTimeframe = tf;
       document.querySelectorAll('.corr-btn').forEach(b => b.classList.remove('active'));
       el.classList.add('active');
@@ -7592,6 +7601,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function renderETFCorrMatrix(tf) {
+      window.renderETFCorrMatrix = renderETFCorrMatrix;
       ['all', '5y', '1y'].forEach(x => {
         const el = document.getElementById('etfCorrBtn' + x);
         if (el) el.classList.toggle('active', x === tf);
@@ -7624,6 +7634,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     let currentHeatmapView = 'absolute';
 
     function onHeatmapViewChange() {
+      window.onHeatmapViewChange = onHeatmapViewChange;
       currentHeatmapView = document.getElementById('heatmapViewSelect').value;
       renderHeatmaps(currentProduct);
     }
@@ -8277,6 +8288,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     var _pdWindow = '1y';
     function setPDWindow(w) {
+      window.setPDWindow = setPDWindow;
       _pdWindow = w;
       const bdryAll = DATA.bdryPD || [];
       const startEl = document.getElementById('pdRangeStart');
@@ -8433,6 +8445,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     var _pdZWindow = '1y';
     function setPDZWindow(w) {
+      window.setPDZWindow = setPDZWindow;
       _pdZWindow = w;
       ['1y', '3y', 'all'].forEach(function (x) {
         var el = document.getElementById('pdZBtn' + (x === 'all' ? 'All' : x));
@@ -8545,6 +8558,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _forceFlowSigZoom = false;
 
     function setFlowSigWindow(w) {
+      window.setFlowSigWindow = setFlowSigWindow;
       _flowSigWindow = w;
       ['1y', '3y', 'all'].forEach(function (x) {
         var el = document.getElementById('flowSigBtn' + (x === 'all' ? 'All' : x));
@@ -8575,6 +8589,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function switchFlowSigTab(etf) {
+      window.switchFlowSigTab = switchFlowSigTab;
       _flowSigEtf = etf;
       document.getElementById('flowSigTabBdry').style.background = etf === 'bdry' ? 'var(--accent)' : 'transparent';
       document.getElementById('flowSigTabBdry').style.color = etf === 'bdry' ? '#fff' : 'var(--text-muted)';
@@ -8827,6 +8842,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function setETFHVWindow(w) {
+      window.setETFHVWindow = setETFHVWindow;
       _etfHvWindow = w;
       ['3y', '5y', 'all'].forEach(function (x) {
         var el = document.getElementById('etfHvBtn' + x);
@@ -9096,6 +9112,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _flowTicker = 'bdry';
 
     function setFlowWindow(w) {
+      window.setFlowWindow = setFlowWindow;
       const allRows = (_flowTicker === 'bdry') ? DATA.bdryFlows : DATA.bwetFlows;
       if (!allRows || !allRows.length) return;
 
@@ -9125,6 +9142,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function switchFlowTab(ticker) {
+      window.switchFlowTab = switchFlowTab;
       _flowTicker = ticker;
       ['bdry', 'bwet'].forEach(t => {
         const btn = document.getElementById('flowTab' + t.charAt(0).toUpperCase() + t.slice(1));
@@ -9679,6 +9697,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     let _etfDrawdownWindow = { bdry: '5y', bwet: '5y' };
     function setETFDrawdownWindow(etfKey, w) {
+      window.setETFDrawdownWindow = setETFDrawdownWindow;
       _etfDrawdownWindow[etfKey] = w;
       if (DATA.loaded) renderETFDrawdownChart(etfKey);
     }
@@ -10257,6 +10276,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function toggleMethodology() {
+      window.toggleMethodology = toggleMethodology;
       const btn = document.getElementById('methodologyToggle');
       const content = document.getElementById('methodologyContent');
       btn.classList.toggle('open');
@@ -10365,6 +10385,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function setYDHistAvg(w) {
+      window.setYDHistAvg = setYDHistAvg;
       _ydHistAvgWindow = w;
       // Update button active states
       ['5', '10', 'All'].forEach(function (x) {
@@ -10553,6 +10574,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     };
 
     function setYDZscoreWindow(w) {
+      window.setYDZscoreWindow = setYDZscoreWindow;
       _ydZscoreWindow = w;
       [63, 126, 252, 504, 756].forEach(function (x) {
         var el = document.getElementById('ydZscoreBtn' + x);
@@ -11274,6 +11296,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     };
 
     function setSignalsViewMode(mode) {
+      window.setSignalsViewMode = setSignalsViewMode;
       window.signalsViewMode = mode;
       document.getElementById('signalsViewSingle').classList.toggle('active', mode === 'single');
       document.getElementById('signalsViewAll').classList.toggle('active', mode === 'all');
@@ -11285,6 +11308,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // TC Data Source selector (local toggle for Merged/Fearnleys/Both)
     window.tcDataSource = 'merged';
     function setTcSource(mode) {
+      window.setTcSource = setTcSource;
       window.tcDataSource = mode;
       const btnMap = { merged: 'tcSrcMerged', fearnleys: 'tcSrcFearnleys', both: 'tcSrcBoth' };
       for (const [m, id] of Object.entries(btnMap)) {
@@ -11308,6 +11332,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Vessel Valuations sub-mode selector (10Y Asset Value / Scrap Floor / Implied Yield %)
     window.valuationViewMode = '10y';
     function setValuationMode(mode) {
+      window.setValuationMode = setValuationMode;
       window.valuationViewMode = mode;
       ['10y', 'scrap', 'yield'].forEach(m => {
         const btn = document.getElementById('valMode' + (m === '10y' ? '10y' : (m === 'scrap' ? 'Scrap' : 'Yield')));
@@ -11323,6 +11348,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
 
     function toggleSignalsSection(sectionId) {
+      window.toggleSignalsSection = toggleSignalsSection;
       const sec = document.getElementById(sectionId);
       if (sec) {
         const isCollapsed = sec.classList.toggle('collapsed');
@@ -12322,6 +12348,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // -------------------------------------------------------
     var _lpgUnitMode = 'day';
     function setLPGUnit(unit) {
+      window.setLPGUnit = setLPGUnit;
       _lpgUnitMode = unit;
       var dayBtn = document.getElementById('lpgUnitDay');
       var monthBtn = document.getElementById('lpgUnitMonth');
@@ -13106,6 +13133,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _hvAll252Cache = {};  // memoized all-time 252D HV series per product
 
     function setHVWindow(w) {
+      window.setHVWindow = setHVWindow;
       _hvWindow = w;
       ['3y', '5y', 'all'].forEach(function (x) {
         const el = document.getElementById('hvBtn' + x);
@@ -13309,6 +13337,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // 1. BOLLINGER BANDS
     // -------------------------------------------------------
     function setBBWindow(w) {
+      window.setBBWindow = setBBWindow;
       _bbWindow = w;
       ['1y', '3y', '5y'].forEach(function (x) {
         const el = document.getElementById('bbBtn' + x);
@@ -13423,6 +13452,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // 2. CAPE / PANAMAX SPREAD RATIO
     // -------------------------------------------------------
     function setSpreadWindow(w) {
+      window.setSpreadWindow = setSpreadWindow;
       _spreadWindow = w;
       ['3y', '5y', 'all'].forEach(function (x) {
         var el = document.getElementById('spreadBtn' + x);
@@ -13713,6 +13743,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _termComp = 'none';
 
     function setTermComp(w) {
+      window.setTermComp = setTermComp;
       _termComp = w;
       ['1w', '2w', '1m', '3m', 'none'].forEach(function (k) {
         var el = document.getElementById('termComp' + k);
@@ -13992,6 +14023,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     var _bwetLiqLoaded = false; // lazy-load flag
 
     function switchLiqTab(tab) {
+      window.switchLiqTab = switchLiqTab;
       var isBdry = tab === 'bdry';
       document.getElementById('liqPanelBdry').style.display = isBdry ? '' : 'none';
       document.getElementById('liqPanelBwet').style.display = isBdry ? 'none' : '';
@@ -14912,6 +14944,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function setFFAProduct(p) {
+      window.setFFAProduct = setFFAProduct;
       _ffaProduct = p;
       ['cape', 'panamax', 'supramax', 'handysize'].forEach(function (k) {
         var id = 'ffaBtn' + k.charAt(0).toUpperCase() + k.slice(1);
@@ -14925,6 +14958,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function setFFAComp(w) {
+      window.setFFAComp = setFFAComp;
       _ffaComp = w;
       ['1w', '2w', '1m', '3m', 'none'].forEach(function (k) {
         var el = document.getElementById('ffaComp' + k);
@@ -15226,6 +15260,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // -------------------------------------------------------
     var _basisWindow = '1y';
     function setBasisWindow(w) {
+      window.setBasisWindow = setBasisWindow;
       _basisWindow = w;
       ['3m', '1y', 'all'].forEach(x => {
         const el = document.getElementById('basisBtn' + (x === 'all' ? 'All' : x));
@@ -15374,6 +15409,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // -------------------------------------------------------
     var _bdiContribWindow = '3m';
     function setBDIContribWindow(w) {
+      window.setBDIContribWindow = setBDIContribWindow;
       _bdiContribWindow = w;
       ['3m', '6m', '1y'].forEach(x => {
         const el = document.getElementById('bdiContribBtn' + x);
@@ -15470,6 +15506,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // 11. LEAD-LAG CORRELATION
     // -------------------------------------------------------
     function renderLeadLagChart() {
+      window.renderLeadLagChart = renderLeadLagChart;
       const pair = document.getElementById('leadLagPair').value;
       const [keyA, keyB] = pair.split(':');
       
@@ -15988,6 +16025,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     async function _briefNav(dir) {
+      window._briefNav = _briefNav;
       _briefDateOffset += dir;
       const dateStr = _briefDateStr(_briefDateOffset);
       const el   = document.getElementById('intelBriefContent');
@@ -16316,6 +16354,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function onQAProviderChange() {
+      window.onQAProviderChange = onQAProviderChange;
       const provider = _currentQAProvider();
       localStorage.setItem('qa_provider', provider);
       _syncQAProviderUI();
@@ -16335,6 +16374,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function saveQASettings() {
+      window.saveQASettings = saveQASettings;
       const provider = _currentQAProvider();
       const keyVal = (document.getElementById('qaApiKey')?.value || '').trim();
       const modelVal = (document.getElementById('qaModel')?.value || '').trim();
@@ -16372,6 +16412,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function onQAScopeChange(isWikiOnly) {
+      window.onQAScopeChange = onQAScopeChange;
       const sourceIds = ['qaSrcBreakwave','qaSrcBaltic','qaSrcHellenic','qaSrcIronOre','qaSrcShipbuilding','qaSrcBooks'];
       const wikiEl = document.getElementById('qaSrcWikiOnly');
       if (isWikiOnly && wikiEl && wikiEl.checked) {
@@ -16802,6 +16843,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     async function runQAQuery() {
+      window.runQAQuery = runQAQuery;
       const btn    = document.getElementById('qaSubmitBtn');
       const panel  = document.getElementById('qaResultPanel');
       const statEl = document.getElementById('qaStatus');
