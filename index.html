@@ -2928,10 +2928,11 @@
     function resetDeconstShocks() {
       _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
       _deconstMicroShocks = {};
+      var colMap = { Cape: '#58a6ff', Pana: '#3fb950', Supra: '#d29922', Vlcc: '#f0883e', Suez: '#a371f7' };
       ['Cape', 'Pana', 'Supra', 'Vlcc', 'Suez'].forEach(function(s) {
         var el = document.getElementById('deconstSlider' + s);
         var valEl = document.getElementById('deconstVal' + s);
-        if (el) el.value = 0;
+        if (el) { el.value = 0; updateSliderTrackFill(el, colMap[s]); }
         if (valEl) valEl.textContent = '+0%';
       });
       var tpInput = document.getElementById('deconstTargetPriceInput');
@@ -2943,17 +2944,27 @@
 
     function onDeconstSliderInput() {
       if (_deconstETFKey === 'bdry') {
-        _deconstShocks.cape = parseFloat(document.getElementById('deconstSliderCape').value) || 0;
-        _deconstShocks.pana = parseFloat(document.getElementById('deconstSliderPana').value) || 0;
-        _deconstShocks.supra = parseFloat(document.getElementById('deconstSliderSupra').value) || 0;
+        var sCape = document.getElementById('deconstSliderCape');
+        var sPana = document.getElementById('deconstSliderPana');
+        var sSupra = document.getElementById('deconstSliderSupra');
+        _deconstShocks.cape = parseFloat(sCape ? sCape.value : 0) || 0;
+        _deconstShocks.pana = parseFloat(sPana ? sPana.value : 0) || 0;
+        _deconstShocks.supra = parseFloat(sSupra ? sSupra.value : 0) || 0;
         document.getElementById('deconstValCape').textContent = (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape.toFixed(1) + '%';
         document.getElementById('deconstValPana').textContent = (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana.toFixed(1) + '%';
         document.getElementById('deconstValSupra').textContent = (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra.toFixed(1) + '%';
+        updateSliderTrackFill(sCape, '#58a6ff');
+        updateSliderTrackFill(sPana, '#3fb950');
+        updateSliderTrackFill(sSupra, '#d29922');
       } else {
-        _deconstShocks.vlcc = parseFloat(document.getElementById('deconstSliderVlcc').value) || 0;
-        _deconstShocks.suez = parseFloat(document.getElementById('deconstSliderSuez').value) || 0;
+        var sVlcc = document.getElementById('deconstSliderVlcc');
+        var sSuez = document.getElementById('deconstSliderSuez');
+        _deconstShocks.vlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
+        _deconstShocks.suez = parseFloat(sSuez ? sSuez.value : 0) || 0;
         document.getElementById('deconstValVlcc').textContent = (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc.toFixed(1) + '%';
         document.getElementById('deconstValSuez').textContent = (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez.toFixed(1) + '%';
+        updateSliderTrackFill(sVlcc, '#f0883e');
+        updateSliderTrackFill(sSuez, '#a371f7');
       }
       renderETFDeconstructionEngine();
     }
@@ -3142,6 +3153,19 @@
       renderETFDeconstructionEngine();
     }
     window.setDeconstSliderMode = setDeconstSliderMode;
+    function updateSliderTrackFill(el, color) {
+      if (!el) return;
+      var val = parseFloat(el.value);
+      if (isNaN(val)) val = 0;
+      var min = parseFloat(el.min);
+      if (isNaN(min)) min = -50;
+      var max = parseFloat(el.max);
+      if (isNaN(max)) max = 100;
+      var pct = Math.min(100, Math.max(0, ((val - min) / (max - min)) * 100));
+      var fillCol = color || '#58a6ff';
+      el.style.background = 'linear-gradient(to right, ' + fillCol + ' 0%, ' + fillCol + ' ' + pct.toFixed(1) + '%, var(--card) ' + pct.toFixed(1) + '%, var(--card) 100%)';
+    }
+    window.updateSliderTrackFill = updateSliderTrackFill;
     window.switchDeconstETF = switchDeconstETF;
     window.onDeconstDateChange = onDeconstDateChange;
     window.setDeconstDatePreset = setDeconstDatePreset;
@@ -3451,12 +3475,14 @@
               var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
               var curEff = Math.round(h.effShockPct);
               var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
+              var pct = Math.min(100, Math.max(0, ((curEff - (-50)) / 150) * 100));
+              var trackFillStyle = 'background:linear-gradient(to right, ' + nameColor + ' 0%, ' + nameColor + ' ' + pct.toFixed(1) + '%, var(--card) ' + pct.toFixed(1) + '%, var(--card) 100%);';
               sliderHtml += '<div style="margin-bottom:8px;">' +
                 '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
                   '<span style="font-weight:600;color:' + nameColor + ';">' + h.Name + ':</span>' +
                   '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
                 '</div>' +
-                '<input type="range" class="deconst-slider" min="-50" max="100" value="' + curEff + '" step="1" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="onDeconstMicroShockInput(' + idx + ', this)">' +
+                '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
               '</div>';
             });
             sliderContainer.innerHTML = sliderHtml;
