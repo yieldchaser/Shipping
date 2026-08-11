@@ -212,13 +212,15 @@ All 6 base indices as individual chart cards:
 9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
 10. **🔮 ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
     - **5-Axiom Roll Predictor**: Synthesizes exact expected contract holdings, lot counts, and % weights for any date in the past, present, or future (today, month-end, Q4 2026, Q1 2027, 1 year out).
-    - **Contract Price Shock Sliders**: Interactive percentage sliders for Capesize 5TC, Panamax 5TC, Supramax 10TC (BDRY) and VLCC TD3C, Suezmax TD20 (BWET) with real-time NAV & stock price sensitivity output.
+    - **Contract-Level Micro-Simulator & SGX Range Matrix**: Interactive line-item table displaying SGX Settle Rates ($/day), 52-Week Price Range Bars ($ Min — $ Max), individual contract `Shock %` inputs, and granular per-contract **`$ / Share Impact`** and **`% NAV Contrib`** metrics.
+    - **Macro / Micro Slider Mode Toggle**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders for every individual contract expiry month held by the fund.
+    - **Editable Position Base PnL Exposure**: Interactive share quantity input (`PnL FOR [ 1000 ] SHARES`) that dynamically recalculates total dollar PnL exposure and invested Base Capital ($) for any custom position size.
     - **One-Click Macro Scenarios**: Pre-built multi-contract shocks (China Iron Ore Boom, Tanker Geopolitical Squeeze, Global Freight Slump, Seasonal Q4 Rally).
-    - **Target Price Reverse Solver & Live Plain English Insights**: Inverts the matrix to solve required uniform FFA rallies to reach target share prices ($) and generates real-time plain English market impact breakdowns.
-    - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view (3 clean slices) and detailed **By Contract Month** view.
-    - **Vessel Class Color Family Palette**: Grouping contract month slices by vessel class color families (blues for Capesize 5TC, greens for Panamax 5TC, golds for Supramax 10TC, oranges for VLCC TD3C, purples for Suezmax TD20).
+    - **Target Price Reverse Solver & Live Plain English Insights**: Inverts the matrix to solve required uniform FFA rallies to reach target share prices ($) and generates real-time plain English market impact breakdowns with 1:1 exact base price parity.
+    - **Dual-View Doughnut Chart Mode & Contiguous Arc Grouping**: Toggle between high-level **By Vessel Class** view (3 clean slices) and detailed **By Contract Month** view with contiguous vessel class color arcs (blues for Capesize 5TC, greens for Panamax 5TC, golds for Supramax 10TC, oranges for VLCC TD3C, purples for Suezmax TD20) sorted in strict chronological month sequence (`Aug` ➔ `Sep` ➔ `Oct` ➔ `Nov` ➔ `Dec`).
     - **Dynamic Roll Yield & Contango Decay**: Calculates prompt vs next-quarter contract price spreads to measure implied monthly contango decay (🔴) or backwardation roll gain (🟢).
     - **Historical SEC Disclosure Backtesting**: Loads disclosed SEC filings for past dates with a green 99.8% precision validation badge.
+    - **Native Dark Theme Control Styling**: Integrated `color-scheme: dark` for input date pickers, calendar popovers, and select controls.
 
 | Liquidity Metric | Formula |
 | :--- | :--- |
