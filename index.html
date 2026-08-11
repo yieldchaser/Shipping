@@ -2863,7 +2863,7 @@
         contractBtn.style.color = mode === 'contract' ? '#fff' : 'var(--text-muted)';
       }
       if (typeof renderETFDeconstructionEngine === 'function') {
-        renderETFDeconstructionEngine();
+        var pBar = document.getElementById('deconstMicroPresetBar'); if (pBar) pBar.style.display = mode === 'micro' ? 'flex' : 'none'; renderETFDeconstructionEngine();
       }
     };
     var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
@@ -3166,6 +3166,52 @@
       el.style.background = 'linear-gradient(to right, ' + fillCol + ' 0%, ' + fillCol + ' ' + pct.toFixed(1) + '%, var(--card) ' + pct.toFixed(1) + '%, var(--card) 100%)';
     }
     window.updateSliderTrackFill = updateSliderTrackFill;
+    function applyMatrixCellShocks(shockA, shockB) {
+      _deconstMicroShocks = {};
+      if (_deconstETFKey === 'bdry') {
+        _deconstShocks.cape = shockA;
+        _deconstShocks.pana = shockB;
+        _deconstShocks.supra = shockB;
+        var sCape = document.getElementById('deconstSliderCape');
+        var sPana = document.getElementById('deconstSliderPana');
+        var sSupra = document.getElementById('deconstSliderSupra');
+        if (sCape) sCape.value = shockA;
+        if (sPana) sPana.value = shockB;
+        if (sSupra) sSupra.value = shockB;
+        document.getElementById('deconstValCape').textContent = (shockA >= 0 ? '+' : '') + shockA + '%';
+        document.getElementById('deconstValPana').textContent = (shockB >= 0 ? '+' : '') + shockB + '%';
+        document.getElementById('deconstValSupra').textContent = (shockB >= 0 ? '+' : '') + shockB + '%';
+        updateSliderTrackFill(sCape, '#58a6ff');
+        updateSliderTrackFill(sPana, '#3fb950');
+        updateSliderTrackFill(sSupra, '#d29922');
+      } else {
+        _deconstShocks.vlcc = shockA;
+        _deconstShocks.suez = shockB;
+        var sVlcc = document.getElementById('deconstSliderVlcc');
+        var sSuez = document.getElementById('deconstSliderSuez');
+        if (sVlcc) sVlcc.value = shockA;
+        if (sSuez) sSuez.value = shockB;
+        document.getElementById('deconstValVlcc').textContent = (shockA >= 0 ? '+' : '') + shockA + '%';
+        document.getElementById('deconstValSuez').textContent = (shockB >= 0 ? '+' : '') + shockB + '%';
+        updateSliderTrackFill(sVlcc, '#f0883e');
+        updateSliderTrackFill(sSuez, '#a371f7');
+      }
+      renderETFDeconstructionEngine();
+    }
+    window.applyMatrixCellShocks = applyMatrixCellShocks;
+
+    function applyMicroCurvePreset(type) {
+      if (!_lastPredHoldings || !_lastPredHoldings.length) return;
+      _deconstMicroShocks = {};
+      _lastPredHoldings.forEach(function(h, idx) {
+        if (type === 'shift_up10') _deconstMicroShocks[h.Name] = 10;
+        else if (type === 'shift_dn10') _deconstMicroShocks[h.Name] = -10;
+        else if (type === 'prompt_spike') _deconstMicroShocks[h.Name] = idx === 0 ? 15 : (idx === 1 ? 8 : 0);
+        else if (type === 'flatten') _deconstMicroShocks[h.Name] = 0;
+      });
+      renderETFDeconstructionEngine();
+    }
+    window.applyMicroCurvePreset = applyMicroCurvePreset;
     window.switchDeconstETF = switchDeconstETF;
     window.onDeconstDateChange = onDeconstDateChange;
     window.setDeconstDatePreset = setDeconstDatePreset;
@@ -3454,6 +3500,62 @@
             '</tr>';
         });
         bodyEl.innerHTML = html;
+      }
+
+      // Aggregate class weights for 2D Matrix
+      var capeWt = 0, panaWt = 0, supraWt = 0, vlccWt = 0, suezWt = 0;
+      if (pred && pred.holdings) {
+        pred.holdings.forEach(function(h) {
+          if (h.class === 'cape') capeWt += h.weight;
+          else if (h.class === 'pana') panaWt += h.weight;
+          else if (h.class === 'supra') supraWt += h.weight;
+          else if (h.class === 'vlcc') vlccWt += h.weight;
+          else if (h.class === 'suez') suezWt += h.weight;
+        });
+      }
+
+      // Render 2D Freight Sensitivity Heatmap Matrix
+      var matrixTitle = document.getElementById('deconstMatrixTitle');
+      var matrixTable = document.getElementById('deconstMatrixTable');
+      if (matrixTable) {
+        var shocksArr = [-30, -15, 0, 15, 30];
+        var rowName = _deconstETFKey === 'bdry' ? 'Capesize 5TC' : 'VLCC TD3C';
+        var colName = _deconstETFKey === 'bdry' ? 'Panamax 5TC' : 'Suezmax TD20';
+        if (matrixTitle) matrixTitle.textContent = rowName + ' vs ' + colName + ' Rate Shocks';
+
+        var mHtml = '<thead><tr style="background:var(--card);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;">' +
+          '<th style="padding:6px 8px;text-align:left;">' + rowName + ' \ ' + colName + '</th>';
+        shocksArr.forEach(function(s) {
+          mHtml += '<th style="padding:6px 8px;">' + (s >= 0 ? '+' : '') + s + '%</th>';
+        });
+        mHtml += '</tr></thead><tbody>';
+
+        shocksArr.forEach(function(rShock) {
+          mHtml += '<tr style="border-bottom:1px solid var(--border);">' +
+            '<td style="padding:6px 8px;font-weight:700;text-align:left;color:var(--text-muted);background:var(--card);">' + (rShock >= 0 ? '+' : '') + rShock + '%</td>';
+
+          shocksArr.forEach(function(cShock) {
+            var simShock = 0;
+            if (_deconstETFKey === 'bdry') {
+              simShock = (rShock * (capeWt / 100)) + (cShock * ((panaWt + supraWt) / 100));
+            } else {
+              simShock = (rShock * (vlccWt / 100)) + (cShock * (suezWt / 100));
+            }
+            var simPrice = curBasePrice * (1 + simShock / 100);
+            var cellBg = simShock > 0 ? 'rgba(63,185,80,' + Math.min(0.35, Math.abs(simShock)/100) + ')' : (simShock < 0 ? 'rgba(248,81,73,' + Math.min(0.35, Math.abs(simShock)/100) + ')' : 'transparent');
+            var cellColor = simShock > 0 ? '#3fb950' : (simShock < 0 ? '#f85149' : 'var(--text)');
+            var isCurrent = Math.abs(rShock - (_deconstETFKey === 'bdry' ? _deconstShocks.cape : _deconstShocks.vlcc)) < 0.1 && Math.abs(cShock - (_deconstETFKey === 'bdry' ? _deconstShocks.pana : _deconstShocks.suez)) < 0.1;
+            var borderCss = isCurrent ? 'outline:2px solid var(--accent);z-index:2;' : '';
+
+            mHtml += '<td onclick="applyMatrixCellShocks(' + rShock + ',' + cShock + ')" style="padding:6px 8px;cursor:pointer;background:' + cellBg + ';' + borderCss + '" title="Click to apply ' + rShock + '% / ' + cShock + '% shocks">' +
+              '<div style="font-weight:800;color:' + cellColor + ';font-size:11px;">$' + simPrice.toFixed(2) + '</div>' +
+              '<div style="font-size:10px;color:' + cellColor + ';opacity:0.85;">' + (simShock >= 0 ? '+' : '') + simShock.toFixed(1) + '%</div>' +
+              '</td>';
+          });
+          mHtml += '</tr>';
+        });
+        mHtml += '</tbody>';
+        matrixTable.innerHTML = mHtml;
       }
 
       // Dynamically render Micro Contract Sliders if in Micro mode (only build DOM if not dragging or holdings changed)
@@ -4022,6 +4124,14 @@
               </div>
               <button onclick="resetDeconstShocks()" style="background:transparent;border:none;color:var(--accent);font-size:11px;cursor:pointer;font-weight:600;">Reset to 0%</button>
             </div>
+
+            <div id="deconstMicroPresetBar" style="display:none;margin-bottom:10px;gap:4px;flex-wrap:wrap;padding:4px 6px;background:var(--card);border-radius:4px;border:1px solid var(--border);">
+              <span style="font-size:10px;color:var(--text-muted);font-weight:600;margin-right:2px;align-self:center;">Curve Shifters:</span>
+              <button onclick="applyMicroCurvePreset('shift_up10')" data-tooltip="Shift all contract months up +10% uniformly." style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text);font-size:10px;font-weight:600;cursor:pointer;">+10% All</button>
+              <button onclick="applyMicroCurvePreset('shift_dn10')" data-tooltip="Shift all contract months down -10% uniformly." style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text);font-size:10px;font-weight:600;cursor:pointer;">-10% All</button>
+              <button onclick="applyMicroCurvePreset('prompt_spike')" data-tooltip="Simulate prompt backwardation rally (+15% M1 / +8% M2)." style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:rgba(63,185,80,0.15);color:#3fb950;border-color:rgba(63,185,80,0.3);font-size:10px;font-weight:600;cursor:pointer;">Prompt Spike ⚡</button>
+              <button onclick="applyMicroCurvePreset('flatten')" data-tooltip="Reset all contract-level micro offsets to 0%." style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text-muted);font-size:10px;font-weight:600;cursor:pointer;">Reset Micro</button>
+            </div>
             
             <div id="deconstSlidersBdry">
               <div style="margin-bottom:12px;">
@@ -4144,6 +4254,19 @@
             <div class="chart-canvas-wrap" style="height:270px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
               <canvas id="etfDeconstChart"></canvas>
             </div>
+          </div>
+        </div>
+
+        <!-- 2D Freight Shock Sensitivity Heatmap Matrix -->
+        <div style="margin-top:16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;" data-tooltip="Interactive 5x5 Freight Shock Sensitivity Grid - simulates ETF share price ($) and net return (%) across 25 simultaneous freight rate shock scenarios. Click any cell to apply it instantly to the engine.">
+          <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+            <span>📊 2D Freight Sensitivity Heatmap Matrix (<span id="deconstMatrixTitle">Capesize vs Panamax Rate Shocks</span>)</span>
+            <span style="font-size:11px;color:var(--text-muted);font-weight:400;">Click any cell to apply scenario shocks</span>
+          </div>
+          <div style="overflow-x:auto;">
+            <table style="width:100%;border-collapse:collapse;font-size:11px;text-align:center;" id="deconstMatrixTable">
+              <!-- Rendered dynamically by renderETFDeconstructionEngine -->
+            </table>
           </div>
         </div>
       </div>
