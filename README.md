@@ -210,7 +210,7 @@ All 6 base indices as individual chart cards:
 7. **Trade route map**: Interactive trade route graphics with legends.
 8. **Yearly Performance & Macro Cycle Tables**.
 9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
-10. **🔮 ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
+10. **ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
     - **5-Axiom Futures Allocation Engine**: Deconstructs ETF disclosures for Amplify BDRY (Dry Bulk) and Amplify BWET (Tankers) into active futures contract holdings, lot counts, and % weights for any target date horizon (`Today`, `Month End`, `Next Quarter Strip`, `1 Year Out`).
       $$\text{Lot Allocation} = \text{Target Lots} \times \left(1 - \frac{b_{\text{cur}}}{b_{\text{total}}}\right)$$
     - **Per-Vessel Class Weighted Roll Yield Engine**: Computes exact lot-weighted term structure roll spreads within each vessel class to eliminate cross-asset price distortions:
@@ -218,15 +218,15 @@ All 6 base indices as individual chart cards:
     - **Absolute Data Truth & Feed Provenance**:
       - `✓ Official SGX Settlement Feed`: Real-time daily settlement history from Singapore Exchange datasets (`DATA.sgx`).
       - `✓ Official ETF Daily Holdings History Feed`: Stored daily fund disclosures (`data/etf/bwet_holdings_history.csv` & `bdry_holdings_history.csv`).
-      - `⚠️ Historical Feed Not Available`: Clean transparent banner for far-dated forward contracts where exchange feeds are unavailable (zero fake price generation).
+      - `[Warning] Historical Feed Not Available`: Clean transparent banner for far-dated forward contracts where exchange feeds are unavailable (zero fake price generation).
     - **Contract-Level Micro-Simulator & SGX Range Matrix**: Line-item table displaying SGX Settle Rates ($/day), 52-Week Price Range Bars ($ Min — $ Max), single-line input boxes (`white-space: nowrap`), `$ / Share Impact`, and `% NAV Contrib` metrics.
-    - **Macro / Micro Slider Mode & Bi-Directional Drag Sync**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders with real-time bi-directionally calculated weighted average class shocks.
-    - **📊 2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with glowing active scenario borders and neutral baseline cell outlines.
+    - **Macro / Micro Slider Mode & Institutional 0%-Origin Range Sliders**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders. Range slider tracks feature 0%-origin baseline fills (positive shocks fill right in class colors; negative shocks fill left in financial red).
+    - **2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with glowing active scenario borders and neutral baseline cell outlines.
     - **Target Price Reverse NAV Solver**: Inverts the NAV return formula to solve the exact uniform freight rate rally/decline % required to reach any user-entered target ETF share price ($).
     - **Editable Position Share Count & Base PnL**: Interactive input box (`PnL FOR [ 1000 ] SHARES`) dynamically recalculating dollar PnL and invested Base Capital ($).
     - **Institutional System 2 Rich Tooltips**: Rich HTML tooltips across all 8 sub-components formatted with `.rt-title`, `.rt-row`, `.rt-label`, `.rt-val`, and `.rt-note` CSS design tokens.
     - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view and detailed **By Contract Month** view with contiguous color arcs sorted in chronological month sequence.
-- **⚡ Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
+- **Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
 | :--- | :--- |
