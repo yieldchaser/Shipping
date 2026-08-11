@@ -3072,6 +3072,10 @@
     // 5-AXIOM PORTFOLIO PREDICTOR & SENSITIVITY ENGINE
 
     // Immediate global window scope bindings for inline HTML event handlers
+    function onDeconstShareCountInput(inputEl) {
+      renderETFDeconstructionEngine();
+    }
+    window.onDeconstShareCountInput = onDeconstShareCountInput;
     window.switchDeconstETF = switchDeconstETF;
     window.onDeconstDateChange = onDeconstDateChange;
     window.setDeconstDatePreset = setDeconstDatePreset;
@@ -3262,13 +3266,18 @@
       });
       var kpiPriceDiff = document.getElementById('deconstKpiPriceDiff');
       if (kpiPriceDiff) kpiPriceDiff.textContent = 'Current: $' + curBasePrice.toFixed(2);
+      var shareInput = document.getElementById('deconstShareCountInput');
+      var shareCount = shareInput ? Math.max(1, parseFloat(shareInput.value) || 1000) : 1000;
+
       var projPrice = curBasePrice * (1 + totalWeightedShock / 100);
-      var pnlPer1k = 1000 * curBasePrice * (totalWeightedShock / 100);
+      var pnlVal = shareCount * curBasePrice * (totalWeightedShock / 100);
+      var baseCapital = shareCount * curBasePrice;
 
       // Update KPI Badges
       var kpiPrice = document.getElementById('deconstKpiPrice');
       var kpiNav = document.getElementById('deconstKpiNav');
       var kpiPnl = document.getElementById('deconstKpiPnl');
+      var kpiPnlSub = document.getElementById('deconstKpiPnlSub');
       var kpiRoll = document.getElementById('deconstKpiRoll');
 
       if (kpiPrice) kpiPrice.textContent = '$' + projPrice.toFixed(2);
@@ -3277,8 +3286,11 @@
         kpiNav.style.color = totalWeightedShock > 0 ? '#3fb950' : (totalWeightedShock < 0 ? '#f85149' : 'var(--text)');
       }
       if (kpiPnl) {
-        kpiPnl.textContent = (pnlPer1k >= 0 ? '+$' : '-$') + Math.abs(pnlPer1k).toFixed(2);
-        kpiPnl.style.color = pnlPer1k > 0 ? '#3fb950' : (pnlPer1k < 0 ? '#f85149' : 'var(--text)');
+        kpiPnl.textContent = (pnlVal >= 0 ? '+$' : '-$') + Math.abs(pnlVal).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
+        kpiPnl.style.color = pnlVal > 0 ? '#3fb950' : (pnlVal < 0 ? '#f85149' : 'var(--text)');
+      }
+      if (kpiPnlSub) {
+        kpiPnlSub.textContent = 'Base Capital $' + Math.round(baseCapital).toLocaleString();
       }
       if (kpiRoll) {
         // Calculate dynamic prompt vs next-quarter roll yield spread
@@ -3858,10 +3870,14 @@
             <div id="deconstKpiNav" style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">0.00%</div>
             <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Unweighted Net Return</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;">
-            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">PnL per 1,000 Shares</div>
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Simulated Dollar PnL for your custom position size. Edit the share quantity box to calculate custom position exposure.">
+            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:4px;flex-wrap:wrap;">
+              <span>PnL FOR</span>
+              <input type="number" id="deconstShareCountInput" value="1000" min="1" step="100" oninput="onDeconstShareCountInput(this)" style="width:65px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:1px 4px;font-size:11px;font-weight:700;text-align:center;">
+              <span>SHARES</span>
+            </div>
             <div id="deconstKpiPnl" style="font-size:22px;font-weight:800;color:var(--text);margin-top:2px;">$0.00</div>
-            <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $10,090</div>
+            <div id="deconstKpiPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $13,870</div>
           </div>
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Implied Curve Roll Yield</div>
