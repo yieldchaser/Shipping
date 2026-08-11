@@ -2885,6 +2885,7 @@
 
     function resetDeconstShocks() {
       _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+      _deconstMicroShocks = {};
       ['Cape', 'Pana', 'Supra', 'Vlcc', 'Suez'].forEach(function(s) {
         var el = document.getElementById('deconstSlider' + s);
         var valEl = document.getElementById('deconstVal' + s);
@@ -2900,22 +2901,23 @@
 
     function onDeconstSliderInput() {
       if (_deconstETFKey === 'bdry') {
-        _deconstShocks.cape = parseInt(document.getElementById('deconstSliderCape').value) || 0;
-        _deconstShocks.pana = parseInt(document.getElementById('deconstSliderPana').value) || 0;
-        _deconstShocks.supra = parseInt(document.getElementById('deconstSliderSupra').value) || 0;
-        document.getElementById('deconstValCape').textContent = (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape + '%';
-        document.getElementById('deconstValPana').textContent = (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana + '%';
-        document.getElementById('deconstValSupra').textContent = (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra + '%';
+        _deconstShocks.cape = parseFloat(document.getElementById('deconstSliderCape').value) || 0;
+        _deconstShocks.pana = parseFloat(document.getElementById('deconstSliderPana').value) || 0;
+        _deconstShocks.supra = parseFloat(document.getElementById('deconstSliderSupra').value) || 0;
+        document.getElementById('deconstValCape').textContent = (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape.toFixed(1) + '%';
+        document.getElementById('deconstValPana').textContent = (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana.toFixed(1) + '%';
+        document.getElementById('deconstValSupra').textContent = (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra.toFixed(1) + '%';
       } else {
-        _deconstShocks.vlcc = parseInt(document.getElementById('deconstSliderVlcc').value) || 0;
-        _deconstShocks.suez = parseInt(document.getElementById('deconstSliderSuez').value) || 0;
-        document.getElementById('deconstValVlcc').textContent = (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc + '%';
-        document.getElementById('deconstValSuez').textContent = (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez + '%';
+        _deconstShocks.vlcc = parseFloat(document.getElementById('deconstSliderVlcc').value) || 0;
+        _deconstShocks.suez = parseFloat(document.getElementById('deconstSliderSuez').value) || 0;
+        document.getElementById('deconstValVlcc').textContent = (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc.toFixed(1) + '%';
+        document.getElementById('deconstValSuez').textContent = (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez.toFixed(1) + '%';
       }
       renderETFDeconstructionEngine();
     }
 
     function applyMacroScenario(scenario) {
+      _deconstMicroShocks = {};
       resetDeconstShocks();
       if (scenario === 'china_boom') {
         _deconstETFKey = 'bdry'; switchDeconstETF('bdry');
