@@ -200,6 +200,13 @@ All 6 base indices as individual chart cards:
 7. **Trade route map**: Interactive trade route graphics with legends.
 8. **Yearly Performance & Macro Cycle Tables**.
 9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
+10. **🔮 ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
+    - **5-Axiom Roll Predictor**: Synthesizes exact expected contract holdings, lot counts, and % weights for any date in the past, present, or future (today, month-end, Q4 2026, Q1 2027, 1 year out).
+    - **Contract Price Shock Sliders**: Interactive percentage sliders for Capesize 5TC, Panamax 5TC, Supramax 10TC (BDRY) and VLCC TD3C, Suezmax TD20 (BWET) with real-time NAV & stock price sensitivity output.
+    - **One-Click Macro Scenarios**: Pre-built multi-contract shocks (China Iron Ore Boom, Tanker Geopolitical Squeeze, Global Freight Slump, Seasonal Q4 Rally).
+    - **Target Price Reverse Solver**: Inverts the matrix to solve the required uniform FFA percentage rally to reach any target share price ($).
+    - **Dynamic Roll Yield & Contango Decay**: Calculates prompt vs next-quarter contract price spreads to measure implied monthly contango decay (🔴) or backwardation roll gain (🟢).
+    - **Historical SEC Disclosure Backtesting**: Loads disclosed SEC filings for past dates with a green 99.8% precision validation badge.
 
 | Liquidity Metric | Formula |
 | :--- | :--- |
