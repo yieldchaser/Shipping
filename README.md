@@ -222,6 +222,7 @@ All 6 base indices as individual chart cards:
     - **Dynamic Roll Yield & Contango Decay**: Calculates prompt vs next-quarter contract price spreads to measure implied monthly contango decay (🔴) or backwardation roll gain (🟢).
     - **Historical SEC Disclosure Backtesting**: Loads disclosed SEC filings for past dates with a green 99.8% precision validation badge.
     - **Native Dark Theme Control Styling**: Integrated `color-scheme: dark` for input date pickers, calendar popovers, and select controls.
+- **⚡ Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
 | :--- | :--- |
