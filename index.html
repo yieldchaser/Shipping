@@ -2940,6 +2940,17 @@
       renderETFDeconstructionEngine();
     }
 
+    function getDeconstBasePrice(etfKey) {
+      if (etfKey === 'bdry' && DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
+        var lastBdry = DATA.bdryLiquidity[DATA.bdryLiquidity.length - 1];
+        if (lastBdry && parseFloat(lastBdry.close) > 0) return parseFloat(lastBdry.close);
+      } else if (etfKey === 'bwet' && DATA.bwetLiquidity && DATA.bwetLiquidity.length) {
+        var lastBwet = DATA.bwetLiquidity[DATA.bwetLiquidity.length - 1];
+        if (lastBwet && parseFloat(lastBwet.close) > 0) return parseFloat(lastBwet.close);
+      }
+      return etfKey === 'bdry' ? 10.09 : 119.74;
+    }
+
     function solveReversePriceTarget() {
       var inputEl = document.getElementById('deconstTargetPriceInput');
       var resEl = document.getElementById('deconstReverseResult');
@@ -2947,27 +2958,27 @@
       var targetPrice = parseFloat(inputEl.value);
       if (isNaN(targetPrice) || targetPrice <= 0) { resEl.textContent = ''; return; }
       
-      var curPrice = _deconstETFKey === 'bdry' ? 10.09 : 119.74;
+      var curPrice = getDeconstBasePrice(_deconstETFKey);
       var reqNavPct = ((targetPrice - curPrice) / curPrice) * 100;
       
       if (_deconstETFKey === 'bdry') {
         resEl.textContent = 'Req. Dry FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        _deconstShocks.cape = Math.round(reqNavPct);
-        _deconstShocks.pana = Math.round(reqNavPct);
-        _deconstShocks.supra = Math.round(reqNavPct);
+        _deconstShocks.cape = reqNavPct;
+        _deconstShocks.pana = reqNavPct;
+        _deconstShocks.supra = reqNavPct;
         var sCape = document.getElementById('deconstSliderCape');
         var sPana = document.getElementById('deconstSliderPana');
         var sSupra = document.getElementById('deconstSliderSupra');
         if (sCape) sCape.value = Math.round(reqNavPct);
         if (sPana) sPana.value = Math.round(reqNavPct);
         if (sSupra) sSupra.value = Math.round(reqNavPct);
-        document.getElementById('deconstValCape').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
+        document.getElementById('deconstValCape').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
         document.getElementById('deconstValPana').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
-        document.getElementById('deconstValSupra').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
+        document.getElementById('deconstValSupra').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
       } else {
         resEl.textContent = 'Req. Tanker FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        _deconstShocks.vlcc = Math.round(reqNavPct);
-        _deconstShocks.suez = Math.round(reqNavPct);
+        _deconstShocks.vlcc = reqNavPct;
+        _deconstShocks.suez = reqNavPct;
         var sVlcc = document.getElementById('deconstSliderVlcc');
         var sSuez = document.getElementById('deconstSliderSuez');
         if (sVlcc) sVlcc.value = Math.round(reqNavPct);
@@ -3115,17 +3126,10 @@
         totalWeightedShock += (h.weight / 100) * shockPct;
       });
 
-            // Dynamic live ETF price lookup from liquidity series
-      var curBasePrice = 10.09;
-      if (_deconstETFKey === 'bdry' && DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
-        var lastBdry = DATA.bdryLiquidity[DATA.bdryLiquidity.length - 1];
-        if (lastBdry && parseFloat(lastBdry.close) > 0) curBasePrice = parseFloat(lastBdry.close);
-      } else if (_deconstETFKey === 'bwet' && DATA.bwetLiquidity && DATA.bwetLiquidity.length) {
-        var lastBwet = DATA.bwetLiquidity[DATA.bwetLiquidity.length - 1];
-        if (lastBwet && parseFloat(lastBwet.close) > 0) curBasePrice = parseFloat(lastBwet.close);
-      } else {
-        curBasePrice = _deconstETFKey === 'bdry' ? 10.09 : 119.74;
-      }
+            // Dynamic live ETF base price lookup
+      var curBasePrice = getDeconstBasePrice(_deconstETFKey);
+      var kpiPriceDiff = document.getElementById('deconstKpiPriceDiff');
+      if (kpiPriceDiff) kpiPriceDiff.textContent = 'Current: $' + curBasePrice.toFixed(2);
       var projPrice = curBasePrice * (1 + totalWeightedShock / 100);
       var pnlPer1k = 1000 * curBasePrice * (totalWeightedShock / 100);
 
