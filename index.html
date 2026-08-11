@@ -2867,6 +2867,8 @@
       }
     };
     var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+    window._deconstShocks = _deconstShocks;
+    window._deconstMicroShocks = _deconstMicroShocks;
 
     function switchDeconstETF(key) {
       _deconstETFKey = key;
@@ -2926,7 +2928,7 @@
     }
 
     function resetDeconstShocks() {
-      _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+      _deconstShocks.cape = 0; _deconstShocks.pana = 0; _deconstShocks.supra = 0; _deconstShocks.vlcc = 0; _deconstShocks.suez = 0;
       _deconstMicroShocks = {};
       var colMap = { Cape: '#58a6ff', Pana: '#3fb950', Supra: '#d29922', Vlcc: '#f0883e', Suez: '#a371f7' };
       ['Cape', 'Pana', 'Supra', 'Vlcc', 'Suez'].forEach(function(s) {
@@ -2943,41 +2945,39 @@
     }
 
     function onDeconstSliderInput() {
-      if (_lastPredHoldings && _lastPredHoldings.length) {
-        var sCape = document.getElementById('deconstSliderCape');
-        var sPana = document.getElementById('deconstSliderPana');
-        var sSupra = document.getElementById('deconstSliderSupra');
-        var sVlcc = document.getElementById('deconstSliderVlcc');
-        var sSuez = document.getElementById('deconstSliderSuez');
+      var sCape = document.getElementById('deconstSliderCape');
+      var sPana = document.getElementById('deconstSliderPana');
+      var sSupra = document.getElementById('deconstSliderSupra');
+      var sVlcc = document.getElementById('deconstSliderVlcc');
+      var sSuez = document.getElementById('deconstSliderSuez');
 
-        if (_deconstETFKey === 'bdry') {
-          var nCape = parseFloat(sCape ? sCape.value : 0) || 0;
-          var nPana = parseFloat(sPana ? sPana.value : 0) || 0;
-          var nSupra = parseFloat(sSupra ? sSupra.value : 0) || 0;
-          
-          if (nCape !== _deconstShocks.cape) {
-            _deconstShocks.cape = nCape;
-            _lastPredHoldings.forEach(function(h) { if (h.class === 'cape') delete _deconstMicroShocks[h.Name]; });
-          }
-          if (nPana !== _deconstShocks.pana) {
-            _deconstShocks.pana = nPana;
-            _lastPredHoldings.forEach(function(h) { if (h.class === 'pana') delete _deconstMicroShocks[h.Name]; });
-          }
-          if (nSupra !== _deconstShocks.supra) {
-            _deconstShocks.supra = nSupra;
-            _lastPredHoldings.forEach(function(h) { if (h.class === 'supra') delete _deconstMicroShocks[h.Name]; });
-          }
-        } else {
-          var nVlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
-          var nSuez = parseFloat(sSuez ? sSuez.value : 0) || 0;
-          if (nVlcc !== _deconstShocks.vlcc) {
-            _deconstShocks.vlcc = nVlcc;
-            _lastPredHoldings.forEach(function(h) { if (h.class === 'vlcc') delete _deconstMicroShocks[h.Name]; });
-          }
-          if (nSuez !== _deconstShocks.suez) {
-            _deconstShocks.suez = nSuez;
-            _lastPredHoldings.forEach(function(h) { if (h.class === 'suez') delete _deconstMicroShocks[h.Name]; });
-          }
+      if (_deconstETFKey === 'bdry') {
+        var nCape = parseFloat(sCape ? sCape.value : 0) || 0;
+        var nPana = parseFloat(sPana ? sPana.value : 0) || 0;
+        var nSupra = parseFloat(sSupra ? sSupra.value : 0) || 0;
+        
+        if (nCape !== _deconstShocks.cape) {
+          _deconstShocks.cape = nCape;
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'cape') delete _deconstMicroShocks[h.Name]; });
+        }
+        if (nPana !== _deconstShocks.pana) {
+          _deconstShocks.pana = nPana;
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'pana') delete _deconstMicroShocks[h.Name]; });
+        }
+        if (nSupra !== _deconstShocks.supra) {
+          _deconstShocks.supra = nSupra;
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'supra') delete _deconstMicroShocks[h.Name]; });
+        }
+      } else {
+        var nVlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
+        var nSuez = parseFloat(sSuez ? sSuez.value : 0) || 0;
+        if (nVlcc !== _deconstShocks.vlcc) {
+          _deconstShocks.vlcc = nVlcc;
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'vlcc') delete _deconstMicroShocks[h.Name]; });
+        }
+        if (nSuez !== _deconstShocks.suez) {
+          _deconstShocks.suez = nSuez;
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'suez') delete _deconstMicroShocks[h.Name]; });
         }
       }
       renderETFDeconstructionEngine();
