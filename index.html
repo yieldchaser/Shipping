@@ -3457,11 +3457,16 @@
       var kpiPnlSub = document.getElementById('deconstKpiPnlSub');
       var kpiRoll = document.getElementById('deconstKpiRoll');
 
-      if (kpiPrice) kpiPrice.textContent = '$' + projPrice.toFixed(2);
+      if (kpiPrice) {
+        kpiPrice.textContent = '$' + projPrice.toFixed(2);
+        kpiPrice.style.color = projPrice > curBasePrice ? '#3fb950' : (projPrice < curBasePrice ? '#f85149' : '#58a6ff');
+      }
       if (kpiNav) {
         kpiNav.textContent = (totalWeightedShock >= 0 ? '+' : '') + totalWeightedShock.toFixed(2) + '%';
         kpiNav.style.color = totalWeightedShock > 0 ? '#3fb950' : (totalWeightedShock < 0 ? '#f85149' : 'var(--text)');
       }
+      var kpiNavDesc = document.getElementById('deconstKpiNavDesc');
+      if (kpiNavDesc) kpiNavDesc.textContent = 'Lot-Weighted Portfolio Return';
       if (kpiPnl) {
         kpiPnl.textContent = (pnlVal >= 0 ? '+$' : '-$') + Math.abs(pnlVal).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
         kpiPnl.style.color = pnlVal > 0 ? '#3fb950' : (pnlVal < 0 ? '#f85149' : 'var(--text)');
@@ -4144,7 +4149,7 @@
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Projected NAV Return %</div>
             <div id="deconstKpiNav" style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">0.00%</div>
-            <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Unweighted Net Return</div>
+            <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Lot-Weighted Portfolio Return</div>
           </div>
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Simulated Dollar PnL for your custom position size. Edit the share quantity box to calculate custom position exposure.">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:4px;flex-wrap:wrap;">
