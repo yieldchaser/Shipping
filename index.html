@@ -4968,7 +4968,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         DATA.blpg = r.map(row => {
           const d = parseDate(row.Date);
           const val = parseFloat(row.Index);
-          return { date: d, dateStr: row.Date, index: isNaN(val) ? null : val };
+          return { date: d, dateStr: d ? fmtDate(d) : row.Date, index: isNaN(val) ? null : val };
         }).filter(row => row.date != null);
       });
 
@@ -11006,17 +11006,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       charterRows.forEach(r => allDates.add(r.dateStr));
       blpgRows.forEach(r => allDates.add(r.dateStr));
 
-      const allDatesSorted = Array.from(allDates).sort();
-      const allAligned = allDatesSorted.map(ds => ({
-        date: new Date(ds),
-        dateStr: ds,
-        vlgc_spot: spotMap[ds] ? spotMap[ds].vlgc_spot : null,
-        mgc_spot: spotMap[ds] ? spotMap[ds].mgc_spot : null,
-        vlgc_tc: tcMap[ds] ? tcMap[ds].vlgc_84k_tc : null,
-        mgc_tc: tcMap[ds] ? tcMap[ds].mgc_38k_tc : null,
-        hdy_tc: tcMap[ds] ? tcMap[ds].hdy_22k_tc : null,
-        blpg: blpgMap[ds] ? blpgMap[ds].index : null
-      })).filter(r => r.vlgc_spot != null || r.mgc_spot != null || r.vlgc_tc != null || r.blpg != null);
+      const allAligned = Array.from(allDates).map(ds => {
+        const dObj = spotMap[ds] ? spotMap[ds].date : (tcMap[ds] ? tcMap[ds].date : (blpgMap[ds] ? blpgMap[ds].date : parseDate(ds)));
+        return {
+          date: dObj,
+          dateStr: ds,
+          vlgc_spot: spotMap[ds] ? spotMap[ds].vlgc_spot : null,
+          mgc_spot: spotMap[ds] ? spotMap[ds].mgc_spot : null,
+          vlgc_tc: tcMap[ds] ? tcMap[ds].vlgc_84k_tc : null,
+          mgc_tc: tcMap[ds] ? tcMap[ds].mgc_38k_tc : null,
+          hdy_tc: tcMap[ds] ? tcMap[ds].hdy_22k_tc : null,
+          blpg: blpgMap[ds] ? blpgMap[ds].index : null
+        };
+      }).filter(r => r.date != null && !isNaN(r.date.getTime()) && (r.vlgc_spot != null || r.mgc_spot != null || r.vlgc_tc != null || r.blpg != null))
+        .sort((a, b) => a.date - b.date);
 
       if (!allAligned.length) return;
 
