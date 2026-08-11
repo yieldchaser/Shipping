@@ -3375,8 +3375,10 @@
 
       var panel = document.getElementById('deconstContractHistoryPanel');
       var titleEl = document.getElementById('deconstContractHistoryTitle');
+      var subtitleEl = document.getElementById('deconstContractHistorySubtitle');
       var badgesEl = document.getElementById('deconstContractBadgesRow');
       var canvas = document.getElementById('deconstContractChart');
+      var chartWrap = canvas ? canvas.parentElement : null;
       if (!panel || !canvas) return;
 
       panel.style.display = 'block';
@@ -3384,12 +3386,8 @@
       var colMap = { cape: '#58a6ff', pana: '#3fb950', supra: '#d29922', vlcc: '#f0883e', suez: '#a371f7' };
       var color = colMap[cls] || '#58a6ff';
 
-      var subtitleEl = document.getElementById('deconstContractHistorySubtitle');
       if (titleEl) {
         titleEl.innerHTML = '<span style="color:' + color + ';">📈 ' + contractName + '</span>';
-      }
-      if (subtitleEl) {
-        subtitleEl.textContent = isOfficialSGX ? 'SGX / Baltic Exchange Daily Settled Price History' : 'Official SEC Form 10-Q Disclosed Settlement Rate (Exchange daily feed unavailable from SGX)';
       }
 
       // Query contract history from SGX processed data
@@ -3410,28 +3408,59 @@
         }
       }
 
-      var isOfficialSGX = history.length > 0;
+      var holdingItem = _lastPredHoldings ? _lastPredHoldings[idx] : null;
+      var activeLots = holdingItem ? holdingItem.Lots.toFixed(1) : '0.0';
+      var weightPct = holdingItem ? holdingItem.weight.toFixed(1) + '%' : '0.0%';
+      var isOfficialFeedAvailable = history.length > 0;
 
-      // Fallback for Tankers or missing SGX rows: use official SEC Form 10-Q disclosed unit price baseline
-      if (!isOfficialSGX) {
-        var holdingItem = _lastPredHoldings ? _lastPredHoldings[idx] : null;
-        var basePx = holdingItem ? holdingItem.unitPrice : 35000;
-        if (!basePx || basePx <= 0) {
-          if (cls === 'vlcc') basePx = 48500;
-          else if (cls === 'suez') basePx = 38200;
-          else if (cls === 'cape') basePx = 22500;
-          else if (cls === 'pana') basePx = 15200;
-          else if (cls === 'supra') basePx = 14100;
-        }
-
-        var curDate = new Date();
-        for (var i = 30; i >= 0; i--) {
-          var d = new Date(curDate.getTime() - i * 86400000);
-          if (d.getDay() !== 0 && d.getDay() !== 6) {
-            history.push({ date: d, price: Math.round(basePx) });
-          }
-        }
+      if (subtitleEl) {
+        subtitleEl.textContent = isOfficialFeedAvailable ? 'SGX Exchange Daily Settled Price History' : 'Exchange Historical Settlement Feed Not Available';
       }
+
+      // If official exchange history feed is unavailable (e.g. Far-Dated Tanker Contracts), do NOT render a chart or simulate fake prices
+      if (!isOfficialFeedAvailable) {
+        destroyChart('deconstContractChart');
+        canvas.style.display = 'none';
+
+        var noDataMsg = document.getElementById('deconstNoDataBanner');
+        if (!noDataMsg && chartWrap) {
+          noDataMsg = document.createElement('div');
+          noDataMsg.id = 'deconstNoDataBanner';
+          chartWrap.appendChild(noDataMsg);
+        }
+        if (noDataMsg) {
+          noDataMsg.style.display = 'flex';
+          noDataMsg.style.flexDirection = 'column';
+          noDataMsg.style.alignItems = 'center';
+          noDataMsg.style.justifyContent = 'center';
+          noDataMsg.style.height = '200px';
+          noDataMsg.style.background = 'var(--bg)';
+          noDataMsg.style.border = '1px dashed var(--border)';
+          noDataMsg.style.borderRadius = '6px';
+          noDataMsg.style.padding = '20px';
+          noDataMsg.style.textAlign = 'center';
+          noDataMsg.innerHTML = '<div style="font-size:24px;margin-bottom:6px;">📊</div>' +
+            '<div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>' +
+            '<div style="font-size:11px;color:var(--text-muted);max-width:440px;line-height:1.4;">' +
+              'Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Rate shock scenario simulation remains 100% active in the predictor.' +
+            '</div>';
+        }
+
+        if (badgesEl) {
+          badgesEl.innerHTML = '<div style="background:rgba(210,153,34,0.12);border:1px solid rgba(210,153,34,0.3);color:#d29922;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">⚠️ Historical Feed Not Available</div>' +
+            '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
+              '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--text);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
+            '</div>';
+        }
+        renderETFDeconstructionEngine();
+        panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        return;
+      }
+
+      // Hide no-data banner and show canvas if official history exists
+      var noDataMsg = document.getElementById('deconstNoDataBanner');
+      if (noDataMsg) noDataMsg.style.display = 'none';
+      canvas.style.display = 'block';
 
       var prices = history.map(function(h) { return h.price; });
       var formatContractDate = function(d) {
@@ -3447,12 +3476,9 @@
       var maxPx = prices.length ? Math.max.apply(null, prices) : 0;
       var latestPx = prices.length ? prices[prices.length - 1] : 0;
 
-      var holdingItem = _lastPredHoldings ? _lastPredHoldings[idx] : null;
-      var activeLots = holdingItem ? holdingItem.Lots.toFixed(1) : '0.0';
-      var weightPct = holdingItem ? holdingItem.weight.toFixed(1) + '%' : '0.0%';
-
       if (badgesEl) {
-        badgesEl.innerHTML = '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
+        badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">✓ Official SGX Settlement Feed</div>' +
+          '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
             '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">$' + Math.round(latestPx).toLocaleString() + '</strong>' +
           '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
