@@ -11372,6 +11372,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
             yLeft: {
               position: 'left',
+              min: 0,
               grid: { color: '#151a22' },
               ticks: { font: { size: isMainCall ? 11 : 9 }, callback: yLeftCallback },
               title: { display: isMainCall && !!yLeftTitle, text: yLeftTitle, color: '#8b949e', font: { size: 11 } }
