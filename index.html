@@ -8090,6 +8090,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // ETF Deconstruction & Scenario Engine
       try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
+      // Initialize 5-minute dynamic live price auto-refresh engine
+      try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
     }
 
     var _flowTicker = 'bdry';
@@ -8560,6 +8562,120 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const priceEl = card.querySelector('.etf-price-row');
       if (priceEl) priceEl.innerHTML = priceHTML;
+    }
+
+    // =====================================================================
+    // ⚡ 5-MINUTE DYNAMIC LIVE AUTO-REFRESH ENGINE (BDRY & BWET)
+    // =====================================================================
+    var _etfAutoRefreshTimer = null;
+    var _lastEtfFetchTime = 0;
+
+    async function fetchLiveETFQuote(ticker, etfKey) {
+      var yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1m&range=1d`;
+      var proxyFns = [
+        u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+        u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+        u => `https://thingproxy.freeboard.io/fetch/${u}`,
+        u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
+      ];
+
+      var meta = null;
+      for (const makeProxy of proxyFns) {
+        try {
+          var proxyUrl = makeProxy(yahooUrl);
+          var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(6000) });
+          if (!resp.ok) continue;
+          var text = await resp.text();
+          var parsed;
+          try {
+            var wrapper = JSON.parse(text);
+            parsed = (wrapper.contents) ? JSON.parse(wrapper.contents) : wrapper;
+          } catch { continue; }
+          var r = parsed?.chart?.result?.[0]?.meta;
+          if (r && r.regularMarketPrice != null) { meta = r; break; }
+        } catch { continue; }
+      }
+
+      if (meta && meta.regularMarketPrice != null) {
+        var price = meta.regularMarketPrice;
+        var chgPct = meta.regularMarketChangePercent || 0;
+        var sign = chgPct >= 0 ? '+' : '';
+        var chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+        var nowStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+
+        // Update big price card
+        var priceRow = document.getElementById(`etfPriceRow_${etfKey}`);
+        if (priceRow) {
+          priceRow.innerHTML = `
+            <span class="etf-price">$${price.toFixed(2)}</span>
+            <span class="etf-change ${chgCls}">${sign}${chgPct.toFixed(2)}%</span>`;
+        }
+
+        // Update live badge timestamp
+        var badge = document.getElementById(`etfLiveBadge_${etfKey}`);
+        if (badge) {
+          badge.textContent = `🟢 LIVE ${nowStr}`;
+          badge.setAttribute('data-tooltip', `Live price auto-updated at ${nowStr}. Refreshes every 5 minutes.`);
+        }
+
+        // Update 52W metrics with live price
+        var liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+        if (liqRows && liqRows.length) {
+          var prices = liqRows.map(r => parseFloat(r.close)).filter(v => !isNaN(v));
+          var vals52w = prices.slice(-252);
+          var wHigh = Math.max(...vals52w, price);
+          var wLow = Math.min(...vals52w, price);
+          var pos = ((price - wLow) / (wHigh - wLow) * 100);
+          var vals365 = prices.slice(-365);
+          var trough = Math.min(...vals365, price);
+          var troughPct = ((price - trough) / trough * 100);
+
+          var card = document.getElementById(`etfCard_${etfKey}`);
+          if (card) {
+            var rangeEl = card.querySelector(`#etfW52Range_${etfKey}`);
+            var posEl = card.querySelector(`#etfW52Pos_${etfKey}`);
+            var troughEl = card.querySelector(`#etfTrough_${etfKey}`);
+            if (rangeEl) rangeEl.textContent = `${fmt(wHigh, 2)} - ${fmt(wLow, 2)}`;
+            if (posEl) {
+              posEl.textContent = pos.toFixed(1) + '%';
+              posEl.className = 'etf-metric-value etf-w52-pos ' + (pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'));
+            }
+            if (troughEl) {
+              troughEl.textContent = (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%';
+              troughEl.className = 'etf-metric-value etf-trough ' + (troughPct >= 0 ? 'val-green' : 'val-red');
+            }
+          }
+        }
+
+        // Synchronize with Deconstruction Engine if active
+        if (typeof renderETFDeconstructionEngine === 'function') {
+          renderETFDeconstructionEngine();
+        }
+      }
+    }
+
+    function initETFAutoRefreshEngine() {
+      // Trigger immediate update for both ETFs
+      fetchLiveETFQuote('BDRY', 'bdry');
+      fetchLiveETFQuote('BWET', 'bwet');
+      _lastEtfFetchTime = Date.now();
+
+      // Set 5-minute recurring timer (300,000 ms)
+      if (_etfAutoRefreshTimer) clearInterval(_etfAutoRefreshTimer);
+      _etfAutoRefreshTimer = setInterval(function() {
+        fetchLiveETFQuote('BDRY', 'bdry');
+        fetchLiveETFQuote('BWET', 'bwet');
+        _lastEtfFetchTime = Date.now();
+      }, 300000); // 5 minutes
+
+      // Auto-refresh when user switches back to browser tab if > 5m elapsed
+      document.addEventListener('visibilitychange', function() {
+        if (!document.hidden && (Date.now() - _lastEtfFetchTime > 300000)) {
+          fetchLiveETFQuote('BDRY', 'bdry');
+          fetchLiveETFQuote('BWET', 'bwet');
+          _lastEtfFetchTime = Date.now();
+        }
+      });
     }
 
     let _etfDrawdownWindow = { bdry: '5y', bwet: '5y' };

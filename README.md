@@ -191,7 +191,7 @@ All 6 base indices as individual chart cards:
 ### 🏦 ETFs Tab (BDRY & BWET)
 
 #### BDRY & BWET Card Structure
-1. **Live price + day change**: Yahoo Finance v8 API via CORS proxy; NAV populated from response.
+1. **Live price + day change**: 5-minute dynamic auto-refresh engine powered by Yahoo Finance v8 API via a 4-stage CORS proxy failover cascade. Updates big price cards, day change %, 52W metrics, and ETF Deconstruction Engine live without page reloads! Includes a live badge with update timestamp (`🟢 LIVE 17:51:12`).
 2. **Metrics row 1**: Total Futures · Collateral Cash · Futures/AUM %.
 3. **Metrics row 2**: NAV · Expense Ratio (3.50%) · Exposure Ratio.
 4. **Metrics row 3**: 52W High—Low · 52W Position (%) · From Last Trough (%).
