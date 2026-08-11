@@ -3192,7 +3192,12 @@
       if (!inputEl) return;
       var totalTargetVal = parseFloat(inputEl.value);
       if (isNaN(totalTargetVal)) totalTargetVal = 0;
-      var hObj = typeof itemKey === 'number' ? (_lastPredHoldings && _lastPredHoldings[itemKey] ? _lastPredHoldings[itemKey] : null) : null;
+      var hObj = null;
+      if (typeof itemKey === 'number') {
+        hObj = (_lastPredHoldings && _lastPredHoldings[itemKey]) ? _lastPredHoldings[itemKey] : null;
+      } else if (typeof itemKey === 'string' && _lastPredHoldings) {
+        hObj = _lastPredHoldings.find(function(h) { return h.Name === itemKey; }) || null;
+      }
       if (hObj) {
         var macroShock = 0;
         if (hObj.class === 'cape') macroShock = _deconstShocks.cape;
@@ -3241,22 +3246,27 @@
         var sCape = document.getElementById('deconstSliderCape');
         var sPana = document.getElementById('deconstSliderPana');
         var sSupra = document.getElementById('deconstSliderSupra');
-        if (sCape) sCape.value = Math.round(reqNavPct);
-        if (sPana) sPana.value = Math.round(reqNavPct);
-        if (sSupra) sSupra.value = Math.round(reqNavPct);
-        document.getElementById('deconstValCape').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        document.getElementById('deconstValPana').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        document.getElementById('deconstValSupra').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        if (sCape) { sCape.value = Math.round(reqNavPct); updateSliderTrackFill(sCape, '#58a6ff'); }
+        if (sPana) { sPana.value = Math.round(reqNavPct); updateSliderTrackFill(sPana, '#3fb950'); }
+        if (sSupra) { sSupra.value = Math.round(reqNavPct); updateSliderTrackFill(sSupra, '#d29922'); }
+        var vCape = document.getElementById('deconstValCape');
+        var vPana = document.getElementById('deconstValPana');
+        var vSupra = document.getElementById('deconstValSupra');
+        if (vCape) vCape.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        if (vPana) vPana.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        if (vSupra) vSupra.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
       } else {
         resEl.textContent = 'Req. Tanker FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
         _deconstShocks.vlcc = reqNavPct;
         _deconstShocks.suez = reqNavPct;
         var sVlcc = document.getElementById('deconstSliderVlcc');
         var sSuez = document.getElementById('deconstSliderSuez');
-        if (sVlcc) sVlcc.value = Math.round(reqNavPct);
-        if (sSuez) sSuez.value = Math.round(reqNavPct);
-        document.getElementById('deconstValVlcc').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        document.getElementById('deconstValSuez').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        if (sVlcc) { sVlcc.value = Math.round(reqNavPct); updateSliderTrackFill(sVlcc, '#f0883e'); }
+        if (sSuez) { sSuez.value = Math.round(reqNavPct); updateSliderTrackFill(sSuez, '#a371f7'); }
+        var vVlcc = document.getElementById('deconstValVlcc');
+        var vSuez = document.getElementById('deconstValSuez');
+        if (vVlcc) vVlcc.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        if (vSuez) vSuez.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
       }
       renderETFDeconstructionEngine();
     }
