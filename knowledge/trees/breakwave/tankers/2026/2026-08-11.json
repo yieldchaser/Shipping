@@ -1,0 +1,83 @@
+{
+  "node_id": "breakwave_tankers_2026-08-11__root",
+  "doc_id": "breakwave_tankers_2026-08-11",
+  "parent_id": null,
+  "title": "Tanker Shipping - August 11, 2026",
+  "section_path": [
+    "Tanker Shipping - August 11, 2026"
+  ],
+  "section_path_text": "Tanker Shipping - August 11, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The tanker shipping industry is experiencing increased geopolitical risk, particularly in the Middle East, which is affecting freight rates and vessel employment. Despite diplomatic progress, security exposure remains embedded in voyage economics, and the market is expected to face heightened volatility. The tanker market has been recovering from a long period of low rates, but a significant new vessel ordering has led to a potential industry downcycle.",
+  "keywords": [
+    "tanker shipping",
+    "geopolitical risk",
+    "Middle East",
+    "freight rates",
+    "vessel employment"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 333,
+  "source_path": "reports/tankers/2026/2026-08-11_Breakwave_Tankers.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_tankers_2026-08-11__s01_overview",
+      "doc_id": "breakwave_tankers_2026-08-11",
+      "parent_id": "breakwave_tankers_2026-08-11__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- East of Suez Risk Jumps - The geopolitical risk premium identified in late July\n- Oil Prices Remain Sensitive to Hormuz Developments - Crude oil prices have\n- Our Long-term View - The tanker market has been recovering from a long period",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "prices",
+        "risk",
+        "crude",
+        "developments",
+        "east",
+        "geopolitical"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 52,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_tankers_2026-08-11__s02_fundamentals",
+      "doc_id": "breakwave_tankers_2026-08-11",
+      "parent_id": "breakwave_tankers_2026-08-11__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- World Oil Demand (YTD: 106,499 kbpd, YOY: 1.0%)\n- Oil Supply, OPEC (YTD: 19,440 kbpd, YOY: -30.9%)\n- Oil Supply, non-OPEC (YTD: 79,471 kbpd, YOY: 8.4%)\n- OECD Total Crude Oil Stocks (YTD: 1023.6 MMbls, YOY: -3.7%)\n- US Crude Oil Exports (YTD: 71.5 MMbls, YOY: 3.7%)\n- China Oil Imports (YTD: 862.4 MMbls, YOY: -2.1%)\n- Global Crude Oil On Water (YTD: 1214.6 MMbls, YOY: 6.7%)\n- Tanker Fleet (YTD: 726.7 mdwt, YOY: 3.7%)\n- VLCC Middle East-Asia, USD/ton (YTD: 67.93, YOY: 439.3%)\n- Suezmax West Africa-Europe, USD/ton (YTD: 37.21, YOY: 129.4%)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "yoy",
+        "ytd"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 280,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
