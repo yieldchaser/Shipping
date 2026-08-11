@@ -3005,11 +3005,18 @@
 
     function onDeconstMicroShockInput(itemKey, inputEl) {
       if (!inputEl) return;
-      var val = parseFloat(inputEl.value);
-      if (isNaN(val)) val = 0;
-      var targetName = typeof itemKey === 'number' ? (_lastPredHoldings && _lastPredHoldings[itemKey] ? _lastPredHoldings[itemKey].Name : '') : itemKey;
-      if (targetName) {
-        _deconstMicroShocks[targetName] = val;
+      var totalTargetVal = parseFloat(inputEl.value);
+      if (isNaN(totalTargetVal)) totalTargetVal = 0;
+      var hObj = typeof itemKey === 'number' ? (_lastPredHoldings && _lastPredHoldings[itemKey] ? _lastPredHoldings[itemKey] : null) : null;
+      if (hObj) {
+        var macroShock = 0;
+        if (hObj.class === 'cape') macroShock = _deconstShocks.cape;
+        else if (hObj.class === 'pana') macroShock = _deconstShocks.pana;
+        else if (hObj.class === 'supra') macroShock = _deconstShocks.supra;
+        else if (hObj.class === 'vlcc') macroShock = _deconstShocks.vlcc;
+        else if (hObj.class === 'suez') macroShock = _deconstShocks.suez;
+        
+        _deconstMicroShocks[hObj.Name] = totalTargetVal - macroShock;
       }
       renderETFDeconstructionEngine();
     }
@@ -3076,6 +3083,21 @@
       renderETFDeconstructionEngine();
     }
     window.onDeconstShareCountInput = onDeconstShareCountInput;
+    var _deconstSliderMode = 'macro'; // 'macro' or 'micro'
+
+    function setDeconstSliderMode(mode) {
+      _deconstSliderMode = mode;
+      var btnMacro = document.getElementById('deconstSliderModeMacro');
+      var btnMicro = document.getElementById('deconstSliderModeMicro');
+      if (btnMacro && btnMicro) {
+        btnMacro.style.background = mode === 'macro' ? 'var(--accent)' : 'var(--bg)';
+        btnMacro.style.color = mode === 'macro' ? '#fff' : 'var(--text-muted)';
+        btnMicro.style.background = mode === 'micro' ? 'var(--accent)' : 'var(--bg)';
+        btnMicro.style.color = mode === 'micro' ? '#fff' : 'var(--text-muted)';
+      }
+      renderETFDeconstructionEngine();
+    }
+    window.setDeconstSliderMode = setDeconstSliderMode;
     window.switchDeconstETF = switchDeconstETF;
     window.onDeconstDateChange = onDeconstDateChange;
     window.setDeconstDatePreset = setDeconstDatePreset;
@@ -3346,7 +3368,7 @@
             rangeBarHtml = '<span style="font-size:10px;color:var(--text-muted);">Live SGX Strip</span>';
           }
 
-          var microVal = _deconstMicroShocks[h.Name] || 0;
+          var displayEffShock = Math.round(h.effShockPct);
           var impactSign = h.sharePriceImpact >= 0 ? '+' : '';
           var impactColor = h.sharePriceImpact > 0 ? '#3fb950' : (h.sharePriceImpact < 0 ? '#f85149' : 'var(--text-muted)');
 
@@ -3357,13 +3379,35 @@
             '<td style="padding:6px 8px;text-align:right;font-weight:600;">' + sgxSettleStr + '</td>' +
             '<td style="padding:6px 8px;text-align:center;min-width:130px;">' + rangeBarHtml + '</td>' +
             '<td style="padding:6px 8px;text-align:right;">' +
-              '<input type="number" step="1" value="' + microVal + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:50px;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;text-align:right;font-weight:600;"> %' +
+              '<input type="number" step="1" value="' + displayEffShock + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:50px;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;text-align:right;font-weight:600;"> %' +
             '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + '$' + Math.abs(h.sharePriceImpact).toFixed(2) + '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + h.navContribPct.toFixed(2) + '%</td>' +
             '</tr>';
         });
         bodyEl.innerHTML = html;
+      }
+
+      // Dynamically render Micro Contract Sliders if in Micro mode
+      if (_deconstSliderMode === 'micro') {
+        var sliderContainerId = _deconstETFKey === 'bdry' ? 'deconstSlidersBdry' : 'deconstSlidersBwet';
+        var sliderContainer = document.getElementById(sliderContainerId);
+        if (sliderContainer) {
+          var sliderHtml = '';
+          pred.holdings.forEach(function(h, idx) {
+            var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
+            var curEff = Math.round(h.effShockPct);
+            var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
+            sliderHtml += '<div style="margin-bottom:10px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
+                '<span style="font-weight:600;color:' + nameColor + ';">' + h.Name + ':</span>' +
+                '<span style="font-weight:700;">' + valStr + '</span>' +
+              '</div>' +
+              '<input type="range" min="-50" max="100" value="' + curEff + '" step="1" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:100%;">' +
+            '</div>';
+          });
+          sliderContainer.innerHTML = sliderHtml;
+        }
       }
 
       // Update Donut / Stacked Bar Chart (etfDeconstChart)
@@ -3890,8 +3934,12 @@
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;" id="deconstGridSection">
           <!-- Left Column: Percentage Sliders -->
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;">
-            <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:12px;display:flex;justify-content:space-between;">
+            <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:12px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
               <span>⚡ Contract Price Shock Sliders</span>
+              <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:10px;">
+                <button id="deconstSliderModeMacro" onclick="setDeconstSliderMode('macro')" data-tooltip="Bulk class sliders for Capesize, Panamax, Supramax." style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">Macro (Class)</button>
+                <button id="deconstSliderModeMicro" onclick="setDeconstSliderMode('micro')" data-tooltip="Granular sliders for every individual contract expiry month." style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">Micro (Contract)</button>
+              </div>
               <button onclick="resetDeconstShocks()" style="background:transparent;border:none;color:var(--accent);font-size:11px;cursor:pointer;font-weight:600;">Reset to 0%</button>
             </div>
             
