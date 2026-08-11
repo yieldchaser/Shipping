@@ -3203,28 +3203,59 @@
         if (!canvas) return;
         destroyChart('etfDeconstChart');
         
-        var labels = pred.holdings.map(function(h) { return h.Name.replace(/Capesize|Panamax|Supramax|Timecharter Average|Middle East Gulf to China|West Africa to Continent/g, '').trim(); });
-        var weights = pred.holdings.map(function(h) { return h.weight; });
-        var colors = pred.holdings.map(function(h) {
-          if (h.class === 'cape') return '#58a6ff';
-          if (h.class === 'pana') return '#3fb950';
-          if (h.class === 'supra') return '#d29922';
-          if (h.class === 'vlcc') return '#f0883e';
-          return '#a371f7';
-        });
+        // Window global bindings for inline HTML event handler accessibility
+        window.renderETFDeconstructionEngine = renderETFDeconstructionEngine;
+        window.predictETFPortfolioHoldings = predictETFPortfolioHoldings;
+        window.switchDeconstETF = switchDeconstETF;
+        window.onDeconstDateChange = onDeconstDateChange;
+        window.setDeconstDatePreset = setDeconstDatePreset;
+        window.resetDeconstShocks = resetDeconstShocks;
+        window.onDeconstSliderInput = onDeconstSliderInput;
+        window.applyMacroScenario = applyMacroScenario;
+        window.solveReversePriceTarget = solveReversePriceTarget;
 
-      // Explicit window global bindings for inline HTML event handler accessibility
-    window.renderETFDeconstructionEngine = renderETFDeconstructionEngine;
-    window.predictETFPortfolioHoldings = predictETFPortfolioHoldings;
-    window.switchDeconstETF = switchDeconstETF;
-    window.onDeconstDateChange = onDeconstDateChange;
-    window.setDeconstDatePreset = setDeconstDatePreset;
-    window.resetDeconstShocks = resetDeconstShocks;
-    window.onDeconstSliderInput = onDeconstSliderInput;
-    window.applyMacroScenario = applyMacroScenario;
-    window.solveReversePriceTarget = solveReversePriceTarget;
+        var labels = []; var weights = []; var colors = [];
+        var isClassMode = _deconstChartMode === 'class';
 
-      chartRegistry['etfDeconstChart'] = new Chart(canvas.getContext('2d'), {
+        if (isClassMode) {
+          // Aggregate by vessel class for a clean 2-3 slice breakdown
+          var classMap = {};
+          pred.holdings.forEach(function(h) {
+            classMap[h.class] = (classMap[h.class] || 0) + h.weight;
+          });
+          if (_deconstETFKey === 'bdry') {
+            labels = ['Capesize 5TC', 'Panamax 5TC', 'Supramax 10TC'];
+            weights = [classMap.cape || 0, classMap.pana || 0, classMap.supra || 0];
+            colors = ['#58a6ff', '#3fb950', '#d29922'];
+          } else {
+            labels = ['VLCC TD3C (MEG-China)', 'Suezmax TD20 (WAF-Cont)'];
+            weights = [classMap.vlcc || 0, classMap.suez || 0];
+            colors = ['#f0883e', '#a371f7'];
+          }
+        } else {
+          // Detailed contract month breakdown grouped by vessel class color families
+          labels = pred.holdings.map(function(h) {
+            return h.Name.replace(/Capesize 5TC FFA 180kt|Panamax 5TC FFA 82kt|Supramax 58 TC FFA 58kt|TD3C FFA 270kt MEG-China|TD20 FFA 130kt WAF-Cont/g, '').trim();
+          });
+          weights = pred.holdings.map(function(h) { return h.weight; });
+
+          var classColorFamilies = {
+            cape: ['#7dd3fc', '#38bdf8', '#0284c7', '#0369a1', '#1e3a8a'],
+            pana: ['#86efac', '#4ade80', '#22c55e', '#15803d', '#14532d'],
+            supra: ['#fef08a', '#facc15', '#eab308', '#a16207', '#713f12'],
+            vlcc: ['#fed7aa', '#fb923c', '#ea580c', '#c2410c', '#7c2d12'],
+            suez: ['#e9d5ff', '#c084fc', '#9333ea', '#6b21a8', '#4c1d95']
+          };
+          var classIndices = {};
+          colors = pred.holdings.map(function(h) {
+            var idx = classIndices[h.class] || 0;
+            classIndices[h.class] = idx + 1;
+            var family = classColorFamilies[h.class] || ['#888888'];
+            return family[idx % family.length];
+          });
+        }
+
+        chartRegistry['etfDeconstChart'] = new Chart(canvas.getContext('2d'), {
           type: 'doughnut',
           data: {
             labels: labels,
@@ -3233,7 +3264,10 @@
           options: {
             responsive: true, maintainAspectRatio: false,
             plugins: {
-              legend: { position: 'right', labels: { font: { size: 10 }, usePointStyle: true, boxWidth: 8 } },
+              legend: {
+                position: isClassMode ? 'right' : 'bottom',
+                labels: { font: { size: 10 }, usePointStyle: true, boxWidth: 8, padding: 8 }
+              },
               tooltip: { callbacks: { label: function(c) { return ' ' + c.label + ': ' + c.parsed.toFixed(1) + '%'; } } }
             }
           }
