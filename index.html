@@ -3836,40 +3836,65 @@
         kpiPnlSub.textContent = 'Base Capital $' + Math.round(baseCapital).toLocaleString();
       }
       if (kpiRoll) {
-        // Calculate exact lot-weighted prompt vs next-quarter roll yield spread
-        var pNotional = 0, pLots = 0;
-        var nNotional = 0, nLots = 0;
-        
+        // Calculate exact per-vessel-class lot-weighted roll yield spread to prevent cross-class price distortions
+        var classPromptNotional = {};
+        var classPromptLots = {};
+        var classNextNotional = {};
+        var classNextLots = {};
+        var classTotalNotional = {};
+
         pred.holdings.forEach(function(h) {
           var px = h.shockPrice || h.unitPrice;
+          var notional = h.Lots * px;
+          var clsKey = h.class;
+
+          if (!classPromptNotional[clsKey]) {
+            classPromptNotional[clsKey] = 0; classPromptLots[clsKey] = 0;
+            classNextNotional[clsKey] = 0; classNextLots[clsKey] = 0;
+            classTotalNotional[clsKey] = 0;
+          }
+          classTotalNotional[clsKey] += notional;
+
           if (h.isPrompt) {
-            pNotional += h.Lots * px;
-            pLots += h.Lots;
+            classPromptNotional[clsKey] += notional;
+            classPromptLots[clsKey] += h.Lots;
           } else {
-            nNotional += h.Lots * px;
-            nLots += h.Lots;
+            classNextNotional[clsKey] += notional;
+            classNextLots[clsKey] += h.Lots;
           }
         });
 
-        var avgP = pLots > 0 ? (pNotional / pLots) : 0;
-        var avgN = nLots > 0 ? (nNotional / nLots) : 0;
+        var weightedRollYieldSum = 0;
+        var totalPortNotional = 0;
+        Object.keys(classTotalNotional).forEach(function(k) { totalPortNotional += classTotalNotional[k]; });
 
-        if (avgP > 0 && avgN > 0) {
-          var spreadPct = ((avgP - avgN) / avgP) * 100;
-          if (spreadPct >= 0) {
-            kpiRoll.textContent = '+' + spreadPct.toFixed(2) + '% / mo';
-            kpiRoll.style.color = '#3fb950';
-            var descEl = document.getElementById('deconstKpiRollDesc');
-            if (descEl) descEl.textContent = 'Backwardation Roll Gain 🟢';
-          } else {
-            kpiRoll.textContent = spreadPct.toFixed(2) + '% / mo';
-            kpiRoll.style.color = '#d29922';
-            var descEl = document.getElementById('deconstKpiRollDesc');
-            if (descEl) descEl.textContent = 'Contango Decay Rate 🔴';
+        Object.keys(classTotalNotional).forEach(function(clsKey) {
+          var pNot = classPromptNotional[clsKey];
+          var pLt = classPromptLots[clsKey];
+          var nNot = classNextNotional[clsKey];
+          var nLt = classNextLots[clsKey];
+
+          var avgP = pLt > 0 ? (pNot / pLt) : 0;
+          var avgN = nLt > 0 ? (nNot / nLt) : 0;
+
+          if (avgP > 0 && avgN > 0) {
+            var classRollSpreadPct = ((avgP - avgN) / avgP) * 100;
+            var classWeight = totalPortNotional > 0 ? (classTotalNotional[clsKey] / totalPortNotional) : 0;
+            weightedRollYieldSum += classRollSpreadPct * classWeight;
           }
+        });
+
+        var spreadPct = weightedRollYieldSum;
+        if (spreadPct >= 0) {
+          kpiRoll.textContent = '+' + spreadPct.toFixed(2) + '% / mo';
+          kpiRoll.style.color = '#3fb950';
+          var descEl = document.getElementById('deconstKpiRollDesc');
+          if (descEl) descEl.textContent = 'Backwardation Roll Gain 🟢';
         } else {
-          kpiRoll.textContent = _deconstETFKey === 'bdry' ? '-0.08% / mo' : '-0.12% / mo';
+          kpiRoll.textContent = spreadPct.toFixed(2) + '% / mo';
           kpiRoll.style.color = '#d29922';
+          var descEl = document.getElementById('deconstKpiRollDesc');
+          if (descEl) descEl.textContent = 'Contango Decay Rate 🔴';
         }
       }
 
@@ -4092,7 +4117,7 @@
               var trackFillStyle = 'background:linear-gradient(to right, ' + nameColor + ' 0%, ' + nameColor + ' ' + pct.toFixed(1) + '%, var(--card) ' + pct.toFixed(1) + '%, var(--card) 100%);';
               sliderHtml += '<div style="margin-bottom:8px;">' +
                 '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
-                  '<span onclick="toggleDeconstContractHistory(\' ' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" title="Click to view historical price settlement chart for ' + h.Name + '">' +
+                  '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" title="Click to view historical price settlement chart for ' + h.Name + '">' +
                     '<span style="font-size:10px;opacity:0.7;">📈</span>' +
                     '<span style="text-decoration:underline;text-decoration-style:dotted;">' + h.Name + '</span>' +
                   '</span>' +
@@ -4620,7 +4645,7 @@
             <div id="deconstKpiPnl" style="font-size:22px;font-weight:800;color:var(--text);margin-top:2px;">$0.00</div>
             <div id="deconstKpiPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $13,870</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Implied Curve Roll Yield (% / mo) - measures the monthly roll yield spread between prompt month contracts and next-quarter strip contracts. Positive values (+X.XX% / mo) indicate Backwardation Roll Gain 🟢; negative values (-X.XX% / mo) indicate Contango Decay Rate 🔴.">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Implied Curve Roll Yield — lot-weighted spread between prompt and next-quarter futures strips across Capesize, Panamax, Supramax, VLCC, and Suezmax contracts. Positive values (+X.XX%/mo) indicate Backwardation Roll Gain 🟢; negative values (-X.XX%/mo) indicate Contango Decay Rate 🔴.">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Implied Curve Roll Yield</div>
             <div id="deconstKpiRoll" style="font-size:22px;font-weight:800;color:#d29922;margin-top:2px;">-0.08% / mo</div>
             <div id="deconstKpiRollDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Contango Decay Rate</div>
