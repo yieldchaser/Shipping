@@ -4444,17 +4444,36 @@
                 🌐 One-Click Macro Scenarios
               </div>
               <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
-                <button onclick="applyMacroScenario('china_boom')" style="padding:6px 10px;background:var(--hover);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:11px;font-weight:600;cursor:pointer;text-align:left;">
-                  🇨🇳 China Ore Boom<br><span style="font-size:10px;color:var(--text-muted);font-weight:400;">Cape +25%, Pana +15%</span>
+                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%.">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🇨🇳 China Ore Boom</span>
+                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                  </div>
+                  <span style="font-size:10px;color:var(--accent);font-weight:600;margin-top:4px;">Cape +25%, Pana +15%</span>
                 </button>
-                <button onclick="applyMacroScenario('tanker_squeeze')" style="padding:6px 10px;background:var(--hover);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:11px;font-weight:600;cursor:pointer;text-align:left;">
-                  🛢️ Tanker Geopolantics<br><span style="font-size:10px;color:var(--text-muted);font-weight:400;">VLCC +35%, Suez +45%</span>
+
+                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🛢️ Tanker Geopolantics</span>
+                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                  </div>
+                  <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +35%, Suez +45%</span>
                 </button>
-                <button onclick="applyMacroScenario('recession')" style="padding:6px 10px;background:var(--hover);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:11px;font-weight:600;cursor:pointer;text-align:left;">
-                  🔻 Global Freight Slump<br><span style="font-size:10px;color:var(--text-muted);font-weight:400;">Dry -30%, Tanker -25%</span>
+
+                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🔻 Global Freight Slump</span>
+                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                  </div>
+                  <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Dry -30%, Tanker -25%</span>
                 </button>
-                <button onclick="applyMacroScenario('q4_surge')" style="padding:6px 10px;background:var(--hover);border:1px solid var(--border);border-radius:4px;color:var(--text);font-size:11px;font-weight:600;cursor:pointer;text-align:left;">
-                  📈 Seasonal Q4 Rally<br><span style="font-size:10px;color:var(--text-muted);font-weight:400;">Cape +30%, Pana +20%</span>
+
+                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>📈 Seasonal Q4 Rally</span>
+                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                  </div>
+                  <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +30%, Pana +20%</span>
                 </button>
               </div>
             </div>
