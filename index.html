@@ -3884,10 +3884,16 @@
             var isBaselineCell = (rShock === 0 && cShock === 0);
             var isCurrent = Math.abs(rShock - (_deconstETFKey === 'bdry' ? _deconstShocks.cape : _deconstShocks.vlcc)) < 0.1 && Math.abs(cShock - (_deconstETFKey === 'bdry' ? _deconstShocks.pana : _deconstShocks.suez)) < 0.1;
 
-            if (isBaselineCell) {
-              cellBg = 'rgba(88,166,255,0.12)';
-              cellColor = '#58a6ff';
-              borderCss = 'border:2px solid #58a6ff;box-shadow:0 0 10px rgba(88,166,255,0.3);';
+            if (isCurrent) {
+              // The currently active scenario cell gets the bold glowing selection border
+              cellBg = isBaselineCell ? 'rgba(88,166,255,0.15)' : (simShock > 0 ? 'rgba(63,185,80,' + (intensity + 0.08) + ')' : (simShock < 0 ? 'rgba(248,81,73,' + (intensity + 0.08) + ')' : 'rgba(88,166,255,0.1)'));
+              cellColor = isBaselineCell ? '#58a6ff' : (simShock > 0 ? '#3fb950' : (simShock < 0 ? '#f85149' : 'var(--accent)'));
+              borderCss = 'border:2px solid var(--accent);box-shadow:0 0 14px rgba(88,166,255,0.5);z-index:10;';
+            } else if (isBaselineCell) {
+              // Non-selected baseline cell gets a clean neutral dashed indicator
+              cellBg = 'rgba(255,255,255,0.02)';
+              cellColor = 'var(--text-muted)';
+              borderCss = 'border:1px dashed rgba(88,166,255,0.35);';
             } else if (simShock > 0) {
               cellBg = 'rgba(63,185,80,' + intensity + ')';
               cellColor = '#3fb950';
@@ -3900,10 +3906,6 @@
               cellBg = 'transparent';
               cellColor = 'var(--text)';
               borderCss = 'border:1px solid var(--border);';
-            }
-
-            if (isCurrent && !isBaselineCell) {
-              borderCss += 'outline:2px solid var(--accent);z-index:5;';
             }
 
             mHtml += '<td onclick="applyMatrixCellShocks(' + rShock + ',' + cShock + ')" class="deconst-matrix-cell" style="padding:6px 8px;cursor:pointer;background:' + cellBg + ';' + borderCss + '" title="Click to apply ' + rShock + '% ' + rowName + ' / ' + cShock + '% ' + colName + ' shocks">' +
