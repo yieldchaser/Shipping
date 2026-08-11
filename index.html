@@ -2954,6 +2954,63 @@
       renderETFDeconstructionEngine();
     }
 
+    var _deconstMicroShocks = {}; // contract-level custom percentage shocks
+
+    function getSGXContractMetrics(cls, contractName) {
+      if (!DATA.sgx) return { settle: null, min52w: null, max52w: null, rangePct: 50 };
+      
+      var sgxKey = cls === 'cape' ? 'cape' : (cls === 'pana' ? 'panamax' : (cls === 'supra' ? 'supramax' : null));
+      if (!sgxKey || !DATA.sgx[sgxKey]) return { settle: null, min52w: null, max52w: null, rangePct: 50 };
+
+      // Parse contract month/year label from name (e.g. "Aug 26")
+      var m = (contractName || '').match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+      if (!m) return { settle: null, min52w: null, max52w: null, rangePct: 50 };
+      
+      var targetLabel = m[1].toLowerCase() + ' ' + m[2];
+      var rows = DATA.sgx[sgxKey] || [];
+      var matchingPrices = [];
+
+      rows.forEach(function(r) {
+        if (r && r.contract) {
+          var cClean = String(r.contract).toLowerCase().replace(/\s+/g, ' ').trim();
+          if (cClean.includes(targetLabel)) {
+            var px = parseFloat(r.settle || r.close || r.price);
+            if (!isNaN(px) && px > 0) matchingPrices.push(px);
+          }
+        }
+      });
+
+      if (!matchingPrices.length) return { settle: null, min52w: null, max52w: null, rangePct: 50 };
+
+      var settle = matchingPrices[matchingPrices.length - 1];
+      var min52w = Math.min.apply(null, matchingPrices);
+      var max52w = Math.max.apply(null, matchingPrices);
+      var rangePct = max52w > min52w ? ((settle - min52w) / (max52w - min52w)) * 100 : 50;
+
+      return {
+        settle: settle,
+        min52w: min52w,
+        max52w: max52w,
+        rangePct: Math.min(100, Math.max(0, rangePct))
+      };
+    }
+
+    function onDeconstMicroShockInput(itemKey, inputEl) {
+      if (!inputEl) return;
+      var val = parseFloat(inputEl.value);
+      if (isNaN(val)) val = 0;
+      var targetName = typeof itemKey === 'number' ? (_lastPredHoldings && _lastPredHoldings[itemKey] ? _lastPredHoldings[itemKey].Name : '') : itemKey;
+      if (targetName) {
+        _deconstMicroShocks[targetName] = val;
+      }
+      renderETFDeconstructionEngine();
+    }
+
+    function resetDeconstMicroShocks() {
+      _deconstMicroShocks = {};
+      renderETFDeconstructionEngine();
+    }
+
     function getDeconstBasePrice(etfKey) {
       if (etfKey === 'bdry' && DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
         var lastBdry = DATA.bdryLiquidity[DATA.bdryLiquidity.length - 1];
@@ -3156,24 +3213,32 @@
       var targetDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
 
       var pred = predictETFPortfolioHoldings(_deconstETFKey, targetDate);
+      window._lastPredHoldings = pred.holdings;
       
-      // Calculate weighted shock & NAV return
+      // Calculate weighted shock combining Macro Class Shocks & Micro Contract Shocks
       var totalWeightedShock = 0;
-      pred.holdings.forEach(function(h) {
-        var shockPct = 0;
-        if (h.class === 'cape') shockPct = _deconstShocks.cape;
-        else if (h.class === 'pana') shockPct = _deconstShocks.pana;
-        else if (h.class === 'supra') shockPct = _deconstShocks.supra;
-        else if (h.class === 'vlcc') shockPct = _deconstShocks.vlcc;
-        else if (h.class === 'suez') shockPct = _deconstShocks.suez;
+      pred.holdings.forEach(function(h, idx) {
+        var macroShock = 0;
+        if (h.class === 'cape') macroShock = _deconstShocks.cape;
+        else if (h.class === 'pana') macroShock = _deconstShocks.pana;
+        else if (h.class === 'supra') macroShock = _deconstShocks.supra;
+        else if (h.class === 'vlcc') macroShock = _deconstShocks.vlcc;
+        else if (h.class === 'suez') macroShock = _deconstShocks.suez;
         
-        h.shockPrice = h.unitPrice * (1 + shockPct / 100);
+        var customMicro = _deconstMicroShocks[h.Name] || 0;
+        h.effShockPct = macroShock + customMicro;
+        h.shockPrice = h.unitPrice * (1 + h.effShockPct / 100);
         h.shockNotional = h.Lots * h.shockPrice;
-        totalWeightedShock += (h.weight / 100) * shockPct;
+        
+        // Per-contract NAV % contribution
+        h.navContribPct = (h.weight / 100) * h.effShockPct;
+        totalWeightedShock += h.navContribPct;
       });
 
-            // Dynamic live ETF base price lookup
       var curBasePrice = getDeconstBasePrice(_deconstETFKey);
+      pred.holdings.forEach(function(h) {
+        h.sharePriceImpact = curBasePrice * (h.navContribPct / 100);
+      });
       var kpiPriceDiff = document.getElementById('deconstKpiPriceDiff');
       if (kpiPriceDiff) kpiPriceDiff.textContent = 'Current: $' + curBasePrice.toFixed(2);
       var projPrice = curBasePrice * (1 + totalWeightedShock / 100);
@@ -3197,7 +3262,7 @@
       if (kpiRoll) {
         // Calculate dynamic prompt vs next-quarter roll yield spread
         var promptPrices = []; var nextPrices = [];
-        pred.holdings.forEach(function(h) {
+        pred.holdings.forEach(function(h, idx) {
           if (h.Lots >= 30) promptPrices.push(h.unitPrice);
           else if (h.Lots < 30 && h.Lots > 0) nextPrices.push(h.unitPrice);
         });
@@ -3230,20 +3295,39 @@
       var bodyEl = document.getElementById('deconstHoldingsBody');
       if (bodyEl) {
         var html = '';
-        pred.holdings.forEach(function(h) {
-          var cColor = '#58a6ff';
-          if (h.class === 'pana') cColor = '#3fb950';
-          else if (h.class === 'supra') cColor = '#d29922';
-          else if (h.class === 'vlcc') cColor = '#f0883e';
-          else if (h.class === 'suez') cColor = '#a371f7';
+        pred.holdings.forEach(function(h, idx) {
+          var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
+          var sgxMetrics = getSGXContractMetrics(h.class, h.Name);
+          var sgxSettleStr = sgxMetrics.settle ? '$' + Math.round(sgxMetrics.settle).toLocaleString() : '$' + Math.round(h.unitPrice).toLocaleString();
+          
+          var rangeBarHtml = '';
+          if (sgxMetrics.min52w && sgxMetrics.max52w) {
+            rangeBarHtml = '<div style="font-size:10px;color:var(--text-muted);display:flex;justify-content:space-between;gap:4px;">' +
+              '<span>$' + Math.round(sgxMetrics.min52w).toLocaleString() + '</span>' +
+              '<div style="flex:1;height:4px;background:var(--border);border-radius:2px;margin:4px 4px 0;position:relative;">' +
+                '<div style="position:absolute;left:' + sgxMetrics.rangePct.toFixed(0) + '%;top:-2px;width:6px;height:8px;background:var(--accent);border-radius:1px;"></div>' +
+              '</div>' +
+              '<span>$' + Math.round(sgxMetrics.max52w).toLocaleString() + '</span>' +
+            '</div>';
+          } else {
+            rangeBarHtml = '<span style="font-size:10px;color:var(--text-muted);">Live SGX Strip</span>';
+          }
 
-          html += '<tr style="border-bottom:1px solid var(--border);">' +
-            '<td style="padding:6px 10px;font-weight:600;color:' + cColor + ';">' + h.Name + '</td>' +
-            '<td style="padding:6px 10px;text-align:right;font-weight:700;">' + h.Lots.toFixed(1) + '</td>' +
-            '<td style="padding:6px 10px;text-align:right;">$' + Math.round(h.unitPrice).toLocaleString() + '</td>' +
-            '<td style="padding:6px 10px;text-align:right;font-weight:600;">$' + Math.round(h.shockPrice).toLocaleString() + '</td>' +
-            '<td style="padding:6px 10px;text-align:right;">$' + (h.notional / 1e6).toFixed(2) + 'M</td>' +
-            '<td style="padding:6px 10px;text-align:right;font-weight:700;">' + h.weight.toFixed(1) + '%</td>' +
+          var microVal = _deconstMicroShocks[h.Name] || 0;
+          var impactSign = h.sharePriceImpact >= 0 ? '+' : '';
+          var impactColor = h.sharePriceImpact > 0 ? '#3fb950' : (h.sharePriceImpact < 0 ? '#f85149' : 'var(--text-muted)');
+
+          html += '<tr style="border-bottom:1px solid var(--border);font-size:11px;">' +
+            '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';">' + h.Name + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + h.Lots.toFixed(1) + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + h.weight.toFixed(1) + '%</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:600;">' + sgxSettleStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:center;min-width:130px;">' + rangeBarHtml + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;">' +
+              '<input type="number" step="1" value="' + microVal + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:50px;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;text-align:right;font-weight:600;"> %' +
+            '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + '$' + Math.abs(h.sharePriceImpact).toFixed(2) + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + h.navContribPct.toFixed(2) + '%</td>' +
             '</tr>';
         });
         bodyEl.innerHTML = html;
@@ -3277,7 +3361,7 @@
           if (badgeEl) badgeEl.style.display = 'none';
           // Aggregate by vessel class for a clean 2-3 slice breakdown
           var classMap = {};
-          pred.holdings.forEach(function(h) {
+          pred.holdings.forEach(function(h, idx) {
             classMap[h.class] = (classMap[h.class] || 0) + h.weight;
           });
           if (_deconstETFKey === 'bdry') {
@@ -3863,13 +3947,15 @@
             <div style="overflow-x:auto;max-height:280px;overflow-y:auto;border:1px solid var(--border);border-radius:6px;">
               <table style="width:100%;border-collapse:collapse;font-size:12px;text-align:left;">
                 <thead>
-                  <tr style="background:var(--hover);color:var(--text-muted);border-bottom:1px solid var(--border);">
-                    <th style="padding:6px 10px;">Contract Description</th>
-                    <th style="padding:6px 10px;text-align:right;">Lots</th>
-                    <th style="padding:6px 10px;text-align:right;">Est. Price</th>
-                    <th style="padding:6px 10px;text-align:right;">Shock Price</th>
-                    <th style="padding:6px 10px;text-align:right;">Notional $</th>
-                    <th style="padding:6px 10px;text-align:right;">Weight %</th>
+                  <tr style="background:var(--hover);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:11px;">
+                    <th style="padding:6px 8px;">Contract Description</th>
+                    <th style="padding:6px 8px;text-align:right;">Lots</th>
+                    <th style="padding:6px 8px;text-align:right;">Weight %</th>
+                    <th style="padding:6px 8px;text-align:right;">SGX Settle</th>
+                    <th style="padding:6px 8px;text-align:center;">52W Range ($ Min — $ Max)</th>
+                    <th style="padding:6px 8px;text-align:right;">Shock %</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="Dollar impact of this specific contract on BDRY share price.">$ / Share Impact</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="Percentage NAV return contribution of this specific contract.">% NAV Contrib</th>
                   </tr>
                 </thead>
                 <tbody id="deconstHoldingsBody">
