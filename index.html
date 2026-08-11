@@ -2943,28 +2943,42 @@
     }
 
     function onDeconstSliderInput() {
-      if (_deconstETFKey === 'bdry') {
+      if (_lastPredHoldings && _lastPredHoldings.length) {
         var sCape = document.getElementById('deconstSliderCape');
         var sPana = document.getElementById('deconstSliderPana');
         var sSupra = document.getElementById('deconstSliderSupra');
-        _deconstShocks.cape = parseFloat(sCape ? sCape.value : 0) || 0;
-        _deconstShocks.pana = parseFloat(sPana ? sPana.value : 0) || 0;
-        _deconstShocks.supra = parseFloat(sSupra ? sSupra.value : 0) || 0;
-        document.getElementById('deconstValCape').textContent = (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape.toFixed(1) + '%';
-        document.getElementById('deconstValPana').textContent = (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana.toFixed(1) + '%';
-        document.getElementById('deconstValSupra').textContent = (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra.toFixed(1) + '%';
-        updateSliderTrackFill(sCape, '#58a6ff');
-        updateSliderTrackFill(sPana, '#3fb950');
-        updateSliderTrackFill(sSupra, '#d29922');
-      } else {
         var sVlcc = document.getElementById('deconstSliderVlcc');
         var sSuez = document.getElementById('deconstSliderSuez');
-        _deconstShocks.vlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
-        _deconstShocks.suez = parseFloat(sSuez ? sSuez.value : 0) || 0;
-        document.getElementById('deconstValVlcc').textContent = (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc.toFixed(1) + '%';
-        document.getElementById('deconstValSuez').textContent = (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez.toFixed(1) + '%';
-        updateSliderTrackFill(sVlcc, '#f0883e');
-        updateSliderTrackFill(sSuez, '#a371f7');
+
+        if (_deconstETFKey === 'bdry') {
+          var nCape = parseFloat(sCape ? sCape.value : 0) || 0;
+          var nPana = parseFloat(sPana ? sPana.value : 0) || 0;
+          var nSupra = parseFloat(sSupra ? sSupra.value : 0) || 0;
+          
+          if (nCape !== _deconstShocks.cape) {
+            _deconstShocks.cape = nCape;
+            _lastPredHoldings.forEach(function(h) { if (h.class === 'cape') delete _deconstMicroShocks[h.Name]; });
+          }
+          if (nPana !== _deconstShocks.pana) {
+            _deconstShocks.pana = nPana;
+            _lastPredHoldings.forEach(function(h) { if (h.class === 'pana') delete _deconstMicroShocks[h.Name]; });
+          }
+          if (nSupra !== _deconstShocks.supra) {
+            _deconstShocks.supra = nSupra;
+            _lastPredHoldings.forEach(function(h) { if (h.class === 'supra') delete _deconstMicroShocks[h.Name]; });
+          }
+        } else {
+          var nVlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
+          var nSuez = parseFloat(sSuez ? sSuez.value : 0) || 0;
+          if (nVlcc !== _deconstShocks.vlcc) {
+            _deconstShocks.vlcc = nVlcc;
+            _lastPredHoldings.forEach(function(h) { if (h.class === 'vlcc') delete _deconstMicroShocks[h.Name]; });
+          }
+          if (nSuez !== _deconstShocks.suez) {
+            _deconstShocks.suez = nSuez;
+            _lastPredHoldings.forEach(function(h) { if (h.class === 'suez') delete _deconstMicroShocks[h.Name]; });
+          }
+        }
       }
       renderETFDeconstructionEngine();
     }
@@ -3394,6 +3408,33 @@
         // Per-contract NAV % contribution
         h.navContribPct = (h.weight / 100) * h.effShockPct;
         totalWeightedShock += h.navContribPct;
+      });
+
+      // Update Macro Sliders to reflect weighted average effective class shocks (2-Way Sync)
+      var cTot = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+      var cWt = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+      pred.holdings.forEach(function(h) {
+        if (cTot[h.class] !== undefined) {
+          cTot[h.class] += h.weight * h.effShockPct;
+          cWt[h.class] += h.weight;
+        }
+      });
+
+      var colMap = { Cape: '#58a6ff', Pana: '#3fb950', Supra: '#d29922', Vlcc: '#f0883e', Suez: '#a371f7' };
+      var keyMap = { Cape: 'cape', Pana: 'pana', Supra: 'supra', Vlcc: 'vlcc', Suez: 'suez' };
+
+      ['Cape', 'Pana', 'Supra', 'Vlcc', 'Suez'].forEach(function(clsKey) {
+        var cCode = keyMap[clsKey];
+        var avgShock = cWt[cCode] > 0 ? (cTot[cCode] / cWt[cCode]) : _deconstShocks[cCode];
+        var sEl = document.getElementById('deconstSlider' + clsKey);
+        var vEl = document.getElementById('deconstVal' + clsKey);
+        if (sEl) {
+          sEl.value = Math.round(avgShock);
+          updateSliderTrackFill(sEl, colMap[clsKey]);
+        }
+        if (vEl) {
+          vEl.textContent = (avgShock >= 0 ? '+' : '') + avgShock.toFixed(1) + '%';
+        }
       });
 
       var curBasePrice = getDeconstBasePrice(_deconstETFKey);
