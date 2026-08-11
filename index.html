@@ -9742,6 +9742,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (tabId === 'etfs') {
         renderETFTab();
         renderETFCorrMatrix('all');
+        try {
+          if (typeof renderETFDeconstructionEngine === 'function') {
+            renderETFDeconstructionEngine();
+          }
+        } catch (e) { console.error('[ETFTab Engine]', e); }
       }
       if (tabId === 'yearly-dash') renderYearlyDash(currentProduct);
       if (tabId === 'monthly-dash') renderMonthlyDash(currentProduct);
@@ -9774,7 +9779,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     document.addEventListener('DOMContentLoaded', async function init() {
       try {
         await loadAllData();
-        renderDashboard(currentProduct);
+        switchTab(currentTab || 'dashboard');
       } catch (err) {
         document.getElementById('loadingOverlay').classList.add('hidden');
         document.getElementById('tab-dashboard').innerHTML =
