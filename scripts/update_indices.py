@@ -344,7 +344,22 @@ def fetch_latest_amplify(ticker):
         return df
 
     except Exception as e:
-        print(f"Error fetching Amplify {ticker}: {e}")
+        print(f"Amplify URL fetch error for {ticker}: {e}. Falling back to internal flows/liquidity feed...")
+        # Fallback to computing Premium/Discount from ETF flows (NAV) & liquidity (close price)
+        flows_file = f'data/etf/{ticker}_flows.csv'
+        liq_file = f'data/etf/{ticker.lower()}_liquidity.csv'
+        if os.path.exists(flows_file) and os.path.exists(liq_file):
+            try:
+                flows = pd.read_csv(flows_file)
+                liq = pd.read_csv(liq_file)
+                flows['dt'] = pd.to_datetime(flows['date'])
+                liq['dt'] = pd.to_datetime(liq['date'])
+                merged = pd.merge(flows[['dt', 'nav']], liq[['dt', 'close']], on='dt', how='inner')
+                merged['Premium/Discount'] = (((merged['close'] - merged['nav']) / merged['nav']) * 100).round(2)
+                merged['Rate Date'] = merged['dt']
+                return merged[['Rate Date', 'Premium/Discount']].sort_values('Rate Date')
+            except Exception as ex:
+                print(f"Fallback P/D calculation error for {ticker}: {ex}")
         return pd.DataFrame()
 
 def update_amplify_csv(filename, new_data):
@@ -354,15 +369,16 @@ def update_amplify_csv(filename, new_data):
         return
 
     new_data = new_data[['Rate Date', 'Premium/Discount']].copy()
+    new_data['Rate Date'] = pd.to_datetime(new_data['Rate Date'], errors='coerce')
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        existing['Rate Date'] = pd.to_datetime(existing['Rate Date'], format='%d-%m-%Y')
+        existing['Rate Date'] = pd.to_datetime(existing['Rate Date'], format='%d-%m-%Y', errors='coerce')
         combined = pd.concat([existing, new_data], ignore_index=True)
     else:
         combined = new_data
 
-    combined = combined.drop_duplicates(subset=['Rate Date'], keep='last')
+    combined = combined.dropna(subset=['Rate Date']).drop_duplicates(subset=['Rate Date'], keep='last')
     combined = combined.sort_values('Rate Date')
     before = len(existing) if os.path.exists(filename) else 0
     added = len(combined) - before
