@@ -3571,7 +3571,7 @@
       var latestPx = prices.length ? prices[prices.length - 1] : 0;
 
       if (badgesEl) {
-        var badgeText = historySource === 'sgx' ? '✓ Official SGX Settlement Feed' : '✓ Official ETF Daily Holdings History Feed';
+        var badgeText = historySource === 'sgx' ? 'Official SGX Settlement Feed' : 'Official ETF Daily Holdings History Feed';
       badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">' + badgeText + '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
             '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">$' + Math.round(latestPx).toLocaleString() + '</strong>' +
@@ -4669,7 +4669,7 @@
           </div>
           
           <div id="deconstBacktestBadge" style="margin-left:auto;display:none;font-size:11px;font-weight:700;padding:4px 10px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">
-            ✓ Backtest Verified: 99.8% Lot Precision vs SEC Filing
+            Backtest Verified: 99.8% Lot Precision vs SEC Filing
           </div>
         </div>
 
@@ -4912,7 +4912,7 @@
               <div id="deconstContractHistoryTitle" style="font-size:14px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;"></div>
               <div id="deconstContractHistorySubtitle" style="font-size:11px;color:var(--text-muted);margin-top:2px;">SGX / Baltic Exchange Settled Futures Contract Price History</div>
             </div>
-            <button onclick="closeDeconstContractHistory()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);border-radius:4px;padding:3px 10px;font-size:11px;cursor:pointer;font-weight:600;">✕ Close Detail</button>
+            <button onclick="closeDeconstContractHistory()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);border-radius:4px;padding:3px 10px;font-size:11px;cursor:pointer;font-weight:600;">Close Detail</button>
           </div>
           <div id="deconstContractBadgesRow" style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;"></div>
           <div style="height:240px;position:relative;">
@@ -5522,7 +5522,7 @@
                 <span id="ffaHistoryBadge"
                   style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
                 <button class="toggle-btn"
-                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">✕
+                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">Close
                   Close</button>
               </div>
             </div>
@@ -6334,7 +6334,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (labelEl) {
           const sd = allRows[s] ? fmtDateUser(allRows[s].date) : '';
           const ed = allRows[e] ? fmtDateUser(allRows[e].date) : '';
-          labelEl.textContent = `${sd} ➔ ${ed}`;
+          labelEl.textContent = `${sd} -> ${ed}`;
         }
         // If evt is present, it's a manual UI event.
         onUpdate(!!evt, s, e);
@@ -17710,7 +17710,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const usedCfg = _providerConfig(usedProvider);
         const wikiCount = finalDocs.filter(d => d.type === 'wiki').length;
         const chunkCount = finalDocs.filter(d => d.type === 'chunk').length;
-        statEl.textContent = '✓ ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens) [' + wikiCount + ' wiki · ' + chunkCount + ' chunks]';
+        statEl.textContent = '[OK] ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens) [' + wikiCount + ' wiki · ' + chunkCount + ' chunks]';
         ansEl.innerHTML  = _formatQAAnswer(answer);
         citEl.innerHTML    = finalDocs.map((d, i) =>
           '<span class="qa-cit" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
@@ -17725,7 +17725,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         else if (/too.large|token/i.test(msg)) hint = 'Context too large. Try Wiki-only mode or check a smaller scope.';
         else if (/fetch|network|CORS|Failed to fetch/i.test(msg)) hint = 'Network error. Check your internet connection.';
         else if (/timeout/i.test(msg)) hint = 'Request timed out. Try a shorter question or use Wiki-only mode.';
-        statEl.innerHTML = '✗ Error: ' + msg + (hint ? '<br><small style="color:var(--yellow)">' + hint + '</small>' : '');
+        statEl.innerHTML = '[Error] ' + msg + (hint ? '<br><small style="color:var(--yellow)">' + hint + '</small>' : '');
         ansEl.textContent = '';
       } finally { btn.disabled = false; }
     }
