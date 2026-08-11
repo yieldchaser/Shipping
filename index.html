@@ -2983,53 +2983,57 @@
       renderETFDeconstructionEngine();
     }
 
-    function applyMacroScenario(scenario) {
+    function applyMacroScenario(scen) {
       _deconstMicroShocks = {};
-      resetDeconstShocks();
-      if (scenario === 'china_boom') {
-        _deconstETFKey = 'bdry'; switchDeconstETF('bdry');
+      _deconstSliderMode = 'macro';
+      window._deconstSliderMode = 'macro';
+
+      var btnMacro = document.getElementById('deconstSliderModeMacro');
+      var btnMicro = document.getElementById('deconstSliderModeMicro');
+      if (btnMacro && btnMicro) {
+        btnMacro.style.background = 'var(--accent)';
+        btnMacro.style.color = '#fff';
+        btnMicro.style.background = 'var(--bg)';
+        btnMicro.style.color = 'var(--text-muted)';
+      }
+
+      if (scen === 'china_boom') {
+        if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 25; _deconstShocks.pana = 15; _deconstShocks.supra = 10;
-        document.getElementById('deconstSliderCape').value = 25;
-        document.getElementById('deconstSliderPana').value = 15;
-        document.getElementById('deconstSliderSupra').value = 10;
-        document.getElementById('deconstValCape').textContent = '+25%';
-        document.getElementById('deconstValPana').textContent = '+15%';
-        document.getElementById('deconstValSupra').textContent = '+10%';
-      } else if (scenario === 'tanker_squeeze') {
-        _deconstETFKey = 'bwet'; switchDeconstETF('bwet');
+      } else if (scen === 'tanker_squeeze') {
+        if (_deconstETFKey !== 'bwet') switchDeconstETF('bwet');
         _deconstShocks.vlcc = 35; _deconstShocks.suez = 45;
-        document.getElementById('deconstSliderVlcc').value = 35;
-        document.getElementById('deconstSliderSuez').value = 45;
-        document.getElementById('deconstValVlcc').textContent = '+35%';
-        document.getElementById('deconstValSuez').textContent = '+45%';
-      } else if (scenario === 'recession') {
+      } else if (scen === 'recession') {
         if (_deconstETFKey === 'bdry') {
           _deconstShocks.cape = -30; _deconstShocks.pana = -25; _deconstShocks.supra = -20;
-          document.getElementById('deconstSliderCape').value = -30;
-          document.getElementById('deconstSliderPana').value = -25;
-          document.getElementById('deconstSliderSupra').value = -20;
-          document.getElementById('deconstValCape').textContent = '-30%';
-          document.getElementById('deconstValPana').textContent = '-25%';
-          document.getElementById('deconstValSupra').textContent = '-20%';
         } else {
           _deconstShocks.vlcc = -25; _deconstShocks.suez = -25;
-          document.getElementById('deconstSliderVlcc').value = -25;
-          document.getElementById('deconstSliderSuez').value = -25;
-          document.getElementById('deconstValVlcc').textContent = '-25%';
-          document.getElementById('deconstValSuez').textContent = '-25%';
         }
-      } else if (scenario === 'q4_surge') {
-        _deconstETFKey = 'bdry'; switchDeconstETF('bdry');
+      } else if (scen === 'q4_surge') {
+        if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 30; _deconstShocks.pana = 20; _deconstShocks.supra = 15;
-        document.getElementById('deconstSliderCape').value = 30;
-        document.getElementById('deconstSliderPana').value = 20;
-        document.getElementById('deconstSliderSupra').value = 15;
-        document.getElementById('deconstValCape').textContent = '+30%';
-        document.getElementById('deconstValPana').textContent = '+20%';
-        document.getElementById('deconstValSupra').textContent = '+15%';
       }
+
+      ['china_boom', 'tanker_squeeze', 'recession', 'q4_surge'].forEach(function(key) {
+        var btn = document.getElementById('macroBtn_' + key);
+        if (btn) btn.classList.toggle('active', key === scen);
+      });
+
+      var sCape = document.getElementById('deconstSliderCape');
+      var sPana = document.getElementById('deconstSliderPana');
+      var sSupra = document.getElementById('deconstSliderSupra');
+      var sVlcc = document.getElementById('deconstSliderVlcc');
+      var sSuez = document.getElementById('deconstSliderSuez');
+
+      if (sCape) { sCape.value = _deconstShocks.cape; updateSliderTrackFill(sCape, '#58a6ff'); }
+      if (sPana) { sPana.value = _deconstShocks.pana; updateSliderTrackFill(sPana, '#3fb950'); }
+      if (sSupra) { sSupra.value = _deconstShocks.supra; updateSliderTrackFill(sSupra, '#d29922'); }
+      if (sVlcc) { sVlcc.value = _deconstShocks.vlcc; updateSliderTrackFill(sVlcc, '#f0883e'); }
+      if (sSuez) { sSuez.value = _deconstShocks.suez; updateSliderTrackFill(sSuez, '#a371f7'); }
+
       renderETFDeconstructionEngine();
     }
+    window.applyMacroScenario = applyMacroScenario;
 
     var _deconstMicroShocks = {}; // contract-level custom percentage shocks
 
@@ -3749,17 +3753,17 @@
         if (matrixTitle) matrixTitle.textContent = rowName + ' vs ' + colName + ' Rate Shocks';
 
         var mHtml = '<thead><tr style="background:rgba(255,255,255,0.02);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;">' +
-          '<th style="padding:6px 8px;text-align:left;line-height:1.3;border-right:1px solid var(--border);"><span style="color:var(--text-muted);font-size:9px;">Y (ROW):</span> <strong style="color:var(--accent);font-size:10px;">' + rowName + '</strong><br><span style="color:var(--text-muted);font-size:9px;">X (COL):</span> <strong style="color:#3fb950;font-size:10px;">' + colName + '</strong></th>';
+          '<th style="width:130px;padding:6px 8px;text-align:center;line-height:1.3;border-right:1px solid var(--border);"><div style="font-size:9px;color:var(--text-muted);">Y: <strong style="color:var(--accent);font-size:10px;">' + rowName + '</strong></div><div style="font-size:9px;color:var(--text-muted);">X: <strong style="color:#3fb950;font-size:10px;">' + colName + '</strong></div></th>';
         shocksArr.forEach(function(s) {
           var isZero = s === 0;
-          var headerStyle = isZero ? 'padding:6px 8px;color:var(--accent);font-weight:800;border-bottom:2px solid var(--accent);' : 'padding:6px 8px;font-weight:700;';
+          var headerStyle = isZero ? 'width:17.4%;padding:6px 4px;color:var(--accent);font-weight:800;border-bottom:2px solid var(--accent);' : 'width:17.4%;padding:6px 4px;font-weight:700;';
           mHtml += '<th style="' + headerStyle + '">' + (s >= 0 ? '+' : '') + s + '%</th>';
         });
         mHtml += '</tr></thead><tbody>';
 
         shocksArr.forEach(function(rShock) {
           var isRowZero = rShock === 0;
-          var rowHeaderStyle = isRowZero ? 'padding:6px 8px;font-weight:800;text-align:left;color:var(--accent);background:var(--card);border-right:2px solid var(--accent);' : 'padding:6px 8px;font-weight:700;text-align:left;color:var(--text-muted);background:var(--card);border-right:1px solid var(--border);';
+          var rowHeaderStyle = isRowZero ? 'width:130px;padding:6px 8px;font-weight:800;text-align:center;color:var(--accent);background:var(--card);border-right:2px solid var(--accent);' : 'width:130px;padding:6px 8px;font-weight:700;text-align:center;color:var(--text-muted);background:var(--card);border-right:1px solid var(--border);';
           
           mHtml += '<tr style="border-bottom:1px solid var(--border);">' +
             '<td style="' + rowHeaderStyle + '">' + (rShock >= 0 ? '+' : '') + rShock + '%</td>';
@@ -4545,7 +4549,7 @@
             <span style="font-size:11px;color:var(--text-muted);font-weight:400;">Click any cell to apply scenario shocks</span>
           </div>
           <div style="overflow-x:auto;">
-            <table style="width:100%;border-collapse:collapse;font-size:11px;text-align:center;" id="deconstMatrixTable">
+            <table style="width:100%;table-layout:fixed;border-collapse:collapse;font-size:11px;text-align:center;" id="deconstMatrixTable">
               <!-- Rendered dynamically by renderETFDeconstructionEngine -->
             </table>
           </div>
