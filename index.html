@@ -3069,13 +3069,13 @@
       var holdings = [];
       
       if (etfKey === 'bdry') {
-        // Capesize target ~35 lots/mo, Panamax ~65 lots/mo, Supramax ~15 lots/mo
-        var capePromptLots = Math.max(0, 35.0);
-        var panaPromptLots = Math.max(0, 65.0);
+        // Benchmark target Notional ratio per SEC Form 10-Q: Capesize 50% / Panamax 40% / Supramax 10%
+        var capePromptLots = Math.max(0, 45.0);
+        var panaPromptLots = Math.max(0, 52.0);
         var supraPromptLots = Math.max(0, 15.0);
         
-        var capeNextLots = Math.round((35.0 * rollPct) / 5.0) * 5.0;
-        var panaNextLots = Math.round((65.0 * rollPct) / 5.0) * 5.0;
+        var capeNextLots = Math.round((45.0 * rollPct) / 5.0) * 5.0;
+        var panaNextLots = Math.round((52.0 * rollPct) / 5.0) * 5.0;
         var supraNextLots = Math.round((15.0 * rollPct) / 5.0) * 5.0;
 
         // Prompt month contracts
