@@ -374,6 +374,36 @@
       }
     }
 
+    /* MACRO SCENARIO BUTTONS - DARK THEME */
+    .macro-scenario-btn {
+      padding: 8px 12px;
+      background: var(--bg) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 6px;
+      color: var(--text) !important;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      text-align: left;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      overflow: hidden;
+    }
+    .macro-scenario-btn:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent) !important;
+      background: rgba(88, 166, 255, 0.12) !important;
+      box-shadow: 0 4px 14px rgba(88, 166, 255, 0.25) !important;
+    }
+    .macro-scenario-btn.active {
+      border-color: var(--accent) !important;
+      background: rgba(88, 166, 255, 0.18) !important;
+      box-shadow: 0 0 12px rgba(88, 166, 255, 0.35) !important;
+    }
+
     /* GLOBAL TOOLTIP */
     /* GLOBAL TOOLTIP - SYSTEM 2 */
     #global-tooltip {
@@ -4519,7 +4549,7 @@
               </div>
               <div id="deconstHistoricalCycleInfo" style="display:none;font-size:11px;color:var(--accent);background:rgba(88,166,255,0.1);border:1px solid rgba(88,166,255,0.25);border-radius:4px;padding:4px 8px;margin-bottom:8px;"></div>
               <div id="macroPresetsGrid" style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
-                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%.">
+                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🇨🇳 China Ore Boom</span>
                     <span style="font-size:10px;opacity:0.6;">⚡</span>
@@ -4527,7 +4557,7 @@
                   <span style="font-size:10px;color:var(--accent);font-weight:600;margin-top:4px;">Cape +25%, Pana +15%</span>
                 </button>
 
-                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
+                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🛢️ Tanker Geopolantics</span>
                     <span style="font-size:10px;opacity:0.6;">⚡</span>
@@ -4535,7 +4565,7 @@
                   <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +35%, Suez +45%</span>
                 </button>
 
-                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
+                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🔻 Global Freight Slump</span>
                     <span style="font-size:10px;opacity:0.6;">⚡</span>
@@ -4543,7 +4573,7 @@
                   <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Dry -30%, Tanker -25%</span>
                 </button>
 
-                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
+                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>📈 Seasonal Q4 Rally</span>
                     <span style="font-size:10px;opacity:0.6;">⚡</span>
@@ -4554,7 +4584,7 @@
 
               <!-- Multi-Year Historical Cycles Scenario Grid -->
               <div id="macroCyclesGrid" style="display:none;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;max-height:160px;overflow-y:auto;padding-right:4px;">
-                <button onclick="simulateMacroCycle('bdry', 100, 'Jan 2021', 'Oct 2021')" class="macro-scenario-btn" data-tooltip="Simulate 2021 Post-COVID Commodity Super-Cycle Rally (+180% Capesize peak move).">
+                <button onclick="simulateMacroCycle('bdry', 100, 'Jan 2021', 'Oct 2021')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2021 Post-COVID Commodity Super-Cycle Rally (+180% Capesize peak move).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🚀 2021 Super-Cycle</span>
                     <span style="font-size:10px;opacity:0.6;">📜</span>
@@ -4562,7 +4592,7 @@
                   <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +100%, Pana +70%</span>
                 </button>
 
-                <button onclick="simulateMacroCycle('bdry', -50, 'Jan 2015', 'Feb 2016')" class="macro-scenario-btn" data-tooltip="Simulate 2015-2016 Supply Glut All-Time Floor Collapse (-65% Capesize move).">
+                <button onclick="simulateMacroCycle('bdry', -50, 'Jan 2015', 'Feb 2016')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2015-2016 Supply Glut All-Time Floor Collapse (-65% Capesize move).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🌋 2015-16 Glut Crash</span>
                     <span style="font-size:10px;opacity:0.6;">📜</span>
@@ -4570,7 +4600,7 @@
                   <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Cape -50%, Pana -35%</span>
                 </button>
 
-                <button onclick="simulateMacroCycle('bwet', 85, 'Feb 2022', 'Nov 2022')" class="macro-scenario-btn" data-tooltip="Simulate 2022 Sanctions Oil Trade Flow Redirection (+150% VLCC move).">
+                <button onclick="simulateMacroCycle('bwet', 85, 'Feb 2022', 'Nov 2022')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2022 Sanctions Oil Trade Flow Redirection (+150% VLCC move).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>⛽ 2022 Tanker Squeeze</span>
                     <span style="font-size:10px;opacity:0.6;">📜</span>
@@ -4578,7 +4608,7 @@
                   <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +85%, Suez +72%</span>
                 </button>
 
-                <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" data-tooltip="Simulate 2023 Red Sea Chokepoint Diversion Freight Rally (+45% Cape move).">
+                <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2023 Red Sea Chokepoint Diversion Freight Rally (+45% Cape move).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🌊 2023 Red Sea Rally</span>
                     <span style="font-size:10px;opacity:0.6;">📜</span>
