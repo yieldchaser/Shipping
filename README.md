@@ -214,7 +214,9 @@ All 6 base indices as individual chart cards:
     - **5-Axiom Roll Predictor**: Synthesizes exact expected contract holdings, lot counts, and % weights for any date in the past, present, or future (today, month-end, Q4 2026, Q1 2027, 1 year out).
     - **Contract Price Shock Sliders**: Interactive percentage sliders for Capesize 5TC, Panamax 5TC, Supramax 10TC (BDRY) and VLCC TD3C, Suezmax TD20 (BWET) with real-time NAV & stock price sensitivity output.
     - **One-Click Macro Scenarios**: Pre-built multi-contract shocks (China Iron Ore Boom, Tanker Geopolitical Squeeze, Global Freight Slump, Seasonal Q4 Rally).
-    - **Target Price Reverse Solver**: Inverts the matrix to solve the required uniform FFA percentage rally to reach any target share price ($).
+    - **Target Price Reverse Solver & Live Plain English Insights**: Inverts the matrix to solve required uniform FFA rallies to reach target share prices ($) and generates real-time plain English market impact breakdowns.
+    - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view (3 clean slices) and detailed **By Contract Month** view.
+    - **Vessel Class Color Family Palette**: Grouping contract month slices by vessel class color families (blues for Capesize 5TC, greens for Panamax 5TC, golds for Supramax 10TC, oranges for VLCC TD3C, purples for Suezmax TD20).
     - **Dynamic Roll Yield & Contango Decay**: Calculates prompt vs next-quarter contract price spreads to measure implied monthly contango decay (🔴) or backwardation roll gain (🟢).
     - **Historical SEC Disclosure Backtesting**: Loads disclosed SEC filings for past dates with a green 99.8% precision validation badge.
 

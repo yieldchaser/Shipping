@@ -3642,8 +3642,8 @@
           <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
-              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
+              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" data-tooltip="Switch ETF Deconstruction Engine view to Amplify BDRY (Dry Bulk ETF)." style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
+              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" data-tooltip="Switch ETF Deconstruction Engine view to Amplify BWET (Tanker ETF)." style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
             </div>
           </div>
         </div>
@@ -3652,16 +3652,16 @@
         <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;background:var(--hover);padding:12px;border-radius:6px;border:1px solid var(--border);margin-bottom:16px;">
           <div style="display:flex;align-items:center;gap:8px;">
             <label style="font-size:12px;font-weight:600;color:var(--text-muted);">Target Date:</label>
-            <input type="date" id="deconstTargetDate" value="2026-08-11" onchange="onDeconstDateChange()" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:4px;font-size:12px;font-family:inherit;">
+            <input type="date" id="deconstTargetDate" value="2026-08-11" onchange="onDeconstDateChange()" data-tooltip="Select target date for 5-Axiom ETF futures portfolio allocation prediction." style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:4px;font-size:12px;font-family:inherit;">
           </div>
 
           <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
             <span style="font-size:11px;color:var(--text-muted);font-weight:600;">Presets:</span>
-            <button class="pill-btn" onclick="setDeconstDatePreset('today')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Today</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Month End</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Next Quarter Strip</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">1 Year Out</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('backtest')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Backtest (Jul 2026)</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('today')" data-tooltip="Set target date to today." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Today</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" data-tooltip="Set target date to current month-end roll target." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Month End</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" data-tooltip="Set target date to mid next-quarter contract strip roll." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Next Quarter Strip</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" data-tooltip="Set target date to 1 year in the future." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">1 Year Out</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('backtest')" data-tooltip="Load SEC Form 10-Q disclosed holdings backtest validation." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Backtest (Jul 2026)</button>
           </div>
           
           <div id="deconstBacktestBadge" style="margin-left:auto;display:none;font-size:11px;font-weight:700;padding:4px 10px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">
@@ -3811,8 +3811,8 @@
             <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;">
               <span>Holdings Weight Allocation</span>
               <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:10px;">
-                <button id="deconstChartModeClass" onclick="setDeconstChartMode('class')" style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">By Vessel</button>
-                <button id="deconstChartModeContract" onclick="setDeconstChartMode('contract')" style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">By Contract</button>
+                <button id="deconstChartModeClass" onclick="setDeconstChartMode('class')" data-tooltip="Clean high-level view aggregating futures allocations into 2-3 vessel class slices." style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">By Vessel</button>
+                <button id="deconstChartModeContract" onclick="setDeconstChartMode('contract')" data-tooltip="Detailed breakdown across contract expiry months using vessel color family grouping." style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">By Contract</button>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:280px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
