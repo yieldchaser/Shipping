@@ -3390,8 +3390,9 @@
         titleEl.innerHTML = '<span style="color:' + color + ';">📈 ' + contractName + '</span>';
       }
 
-      // Query contract history from SGX processed data
+      // 1. Query contract history from SGX processed data (for Dry Bulk BDRY)
       var history = [];
+      var historySource = '';
       var sgxKey = cls === 'cape' ? 'cape' : (cls === 'pana' ? 'panamax' : (cls === 'supra' ? 'supramax' : null));
       var processed = window.getFFAProcessed ? window.getFFAProcessed() : null;
 
@@ -3403,8 +3404,36 @@
           return (c.expiryLabel && c.expiryLabel.toLowerCase() === targetMonthLabel.toLowerCase()) || c.contract === contractName;
         });
 
-        if (matchContract && matchContract.history) {
+        if (matchContract && matchContract.history && matchContract.history.length) {
           history = matchContract.history;
+          historySource = 'sgx';
+        }
+      }
+
+      // 2. Query stored daily holdings history CSVs (DATA.bwetHoldingsHistory / DATA.bdryHoldingsHistory)
+      if (!history.length) {
+        var rawHistoryList = _deconstETFKey === 'bdry' ? (DATA.bdryHoldingsHistory || []) : (DATA.bwetHoldingsHistory || []);
+        var targetClean = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
+        var matchedRows = [];
+
+        rawHistoryList.forEach(function(row) {
+          if (row) {
+            var rowName = String(row.Name || row.name || row.contract || row.Contract || '').toLowerCase().replace(/\s+/g, ' ').trim();
+            if (rowName && (rowName === targetClean || rowName.includes(targetClean) || targetClean.includes(rowName))) {
+              var px = parseFloat(row.Price || row.price || row.settle || row.Settle || row.unitPrice || row.close || row.Close);
+              var dStr = row.Date || row.date || row.DateStr || row.asOf;
+              var dObj = dStr ? new Date(dStr) : null;
+              if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
+                matchedRows.push({ date: dObj, price: px });
+              }
+            }
+          }
+        });
+
+        if (matchedRows.length) {
+          matchedRows.sort(function(a, b) { return a.date - b.date; });
+          history = matchedRows;
+          historySource = 'etf_history';
         }
       }
 
@@ -3414,7 +3443,7 @@
       var isOfficialFeedAvailable = history.length > 0;
 
       if (subtitleEl) {
-        subtitleEl.textContent = isOfficialFeedAvailable ? 'SGX Exchange Daily Settled Price History' : 'Exchange Historical Settlement Feed Not Available';
+        subtitleEl.textContent = isOfficialFeedAvailable ? (historySource === 'sgx' ? 'SGX Exchange Daily Settled Price History' : 'Official ETF Daily Disclosed Holdings History Feed') : 'Exchange Historical Settlement Feed Not Available';
       }
 
       // If official exchange history feed is unavailable (e.g. Far-Dated Tanker Contracts), do NOT render a chart or simulate fake prices
@@ -3477,7 +3506,8 @@
       var latestPx = prices.length ? prices[prices.length - 1] : 0;
 
       if (badgesEl) {
-        badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">✓ Official SGX Settlement Feed</div>' +
+        var badgeText = historySource === 'sgx' ? '✓ Official SGX Settlement Feed' : '✓ Official ETF Daily Holdings History Feed';
+      badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">' + badgeText + '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
             '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">$' + Math.round(latestPx).toLocaleString() + '</strong>' +
           '</div>' +
