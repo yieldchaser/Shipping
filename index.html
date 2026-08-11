@@ -3074,43 +3074,33 @@
         btnMicro.style.color = 'var(--text-muted)';
       }
 
-      var targetDateEl = document.getElementById('deconstTargetDate');
-
       if (scen === 'china_boom') {
         if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 25; _deconstShocks.pana = 15; _deconstShocks.supra = 10;
-        if (targetDateEl) targetDateEl.value = '2026-08-31';
       } else if (scen === 'tanker_squeeze') {
         if (_deconstETFKey !== 'bwet') switchDeconstETF('bwet');
         _deconstShocks.vlcc = 35; _deconstShocks.suez = 45;
-        if (targetDateEl) targetDateEl.value = '2026-08-31';
       } else if (scen === 'recession') {
         if (_deconstETFKey === 'bdry') {
           _deconstShocks.cape = -30; _deconstShocks.pana = -25; _deconstShocks.supra = -20;
         } else {
           _deconstShocks.vlcc = -25; _deconstShocks.suez = -25;
         }
-        if (targetDateEl) targetDateEl.value = '2026-11-15';
       } else if (scen === 'q4_surge' || scen === 'cycle_q4') {
         if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 30; _deconstShocks.pana = 20; _deconstShocks.supra = 15;
-        if (targetDateEl) targetDateEl.value = '2026-11-15';
       } else if (scen === 'cycle_2021') {
         if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 120; _deconstShocks.pana = 85; _deconstShocks.supra = 70;
-        if (targetDateEl) targetDateEl.value = '2026-09-15';
       } else if (scen === 'cycle_2022') {
         if (_deconstETFKey !== 'bwet') switchDeconstETF('bwet');
         _deconstShocks.vlcc = 95; _deconstShocks.suez = 75;
-        if (targetDateEl) targetDateEl.value = '2026-11-15';
       } else if (scen === 'cycle_2023') {
         if (_deconstETFKey !== 'bdry') switchDeconstETF('bdry');
         _deconstShocks.cape = 45; _deconstShocks.pana = 35; _deconstShocks.supra = 25;
-        if (targetDateEl) targetDateEl.value = '2027-02-15';
       } else if (scen === 'cycle_2024') {
         if (_deconstETFKey !== 'bwet') switchDeconstETF('bwet');
         _deconstShocks.vlcc = 65; _deconstShocks.suez = 55;
-        if (targetDateEl) targetDateEl.value = '2027-05-15';
       }
 
       ['china_boom', 'tanker_squeeze', 'recession', 'q4_surge', 'cycle_2021', 'cycle_2022', 'cycle_2023', 'cycle_2024', 'cycle_q4'].forEach(function(key) {
