@@ -3023,9 +3023,9 @@
       var matchingPrices = [];
 
       rows.forEach(function(r) {
-        if (r && r.contract) {
-          var cClean = String(r.contract).toLowerCase().replace(/\s+/g, ' ').trim();
-          if (cClean.includes(targetLabel)) {
+        if (r) {
+          var cClean = (String(r.expiry_month || '') + ' ' + String(r.contract || '')).toLowerCase().replace(/\s+/g, ' ').trim();
+          if (cClean.includes(targetLabel) || cClean.includes(m[1].toLowerCase() + ' 20' + m[2])) {
             var px = parseFloat(r.settle || r.close || r.price);
             if (!isNaN(px) && px > 0) matchingPrices.push(px);
           }
@@ -3432,25 +3432,35 @@
         bodyEl.innerHTML = html;
       }
 
-      // Dynamically render Micro Contract Sliders if in Micro mode
+      // Dynamically render Micro Contract Sliders if in Micro mode (only build DOM if not dragging or holdings changed)
       if (_deconstSliderMode === 'micro') {
         var sliderContainerId = _deconstETFKey === 'bdry' ? 'deconstSlidersBdry' : 'deconstSlidersBwet';
         var sliderContainer = document.getElementById(sliderContainerId);
         if (sliderContainer) {
-          var sliderHtml = '';
-          pred.holdings.forEach(function(h, idx) {
-            var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
-            var curEff = Math.round(h.effShockPct);
-            var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
-            sliderHtml += '<div style="margin-bottom:8px;">' +
-              '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
-                '<span style="font-weight:600;color:' + nameColor + ';">' + h.Name + ':</span>' +
-                '<span style="font-weight:700;">' + valStr + '</span>' +
-              '</div>' +
-              '<input type="range" class="deconst-slider" min="-50" max="100" value="' + curEff + '" step="1" oninput="onDeconstMicroShockInput(' + idx + ', this)">' +
-            '</div>';
-          });
-          sliderContainer.innerHTML = sliderHtml;
+          var existingInputs = sliderContainer.querySelectorAll('input.deconst-slider');
+          if (existingInputs.length === pred.holdings.length && window._isMicroDragging) {
+            // Update value text badges in-place without replacing innerHTML
+            pred.holdings.forEach(function(h, idx) {
+              var valEl = document.getElementById('deconstMicroVal_' + idx);
+              var curEff = Math.round(h.effShockPct);
+              if (valEl) valEl.textContent = (curEff >= 0 ? '+' : '') + curEff + '%';
+            });
+          } else {
+            var sliderHtml = '';
+            pred.holdings.forEach(function(h, idx) {
+              var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
+              var curEff = Math.round(h.effShockPct);
+              var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
+              sliderHtml += '<div style="margin-bottom:8px;">' +
+                '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
+                  '<span style="font-weight:600;color:' + nameColor + ';">' + h.Name + ':</span>' +
+                  '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
+                '</div>' +
+                '<input type="range" class="deconst-slider" min="-50" max="100" value="' + curEff + '" step="1" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="onDeconstMicroShockInput(' + idx + ', this)">' +
+              '</div>';
+            });
+            sliderContainer.innerHTML = sliderHtml;
+          }
         }
       }
 
