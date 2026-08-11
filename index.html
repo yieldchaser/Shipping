@@ -4715,10 +4715,26 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
-    // Clean chart instantiation: always destroys existing instance to guarantee fresh metasets,
-    // correct scale bindings (yLeft vs yRight), and visible datasets across all view modes.
+    // Clean chart instantiation: preserves legend visibility (hidden/unselected state) across redrafts/slider drags,
+    // and guarantees fresh metasets & correct scale bindings.
     function updateOrCreateChart(id, canvas, config) {
+      const hiddenState = {};
+      const prev = chartRegistry[id];
+      if (prev && prev.data && prev.data.datasets) {
+        prev.data.datasets.forEach((ds, i) => {
+          if (ds.label && !prev.isDatasetVisible(i)) {
+            hiddenState[ds.label] = true;
+          }
+        });
+      }
       destroyChart(id);
+      if (config && config.data && config.data.datasets) {
+        config.data.datasets.forEach(ds => {
+          if (ds.label && hiddenState[ds.label]) {
+            ds.hidden = true;
+          }
+        });
+      }
       chartRegistry[id] = new Chart(canvas.getContext('2d'), config);
       return chartRegistry[id];
     }
@@ -11106,8 +11122,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
       ];
 
-      destroyChart('lpgFreightChart');
-      chartRegistry['lpgFreightChart'] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart('lpgFreightChart', canvas, {
         type: 'line',
         data: { labels: labels, datasets: datasets },
         options: {
@@ -11294,17 +11309,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const labels = rows.map(r => fmtDate(r.date));
 
-      // Helper: lookup nearest scrap price within 14-day window
+      // Helper: lookup nearest scrap price within 14-day window (strictly after Sept 2022 start date)
       function lookupScrapPrice(sRows, colName, dateObj) {
         if (!sRows || !sRows.length || !dateObj) return null;
         const ts = dateObj.getTime();
+        // Do NOT extrapolate scrap price prior to earliest actual scrappage report (Sept 2022)
+        if (ts < sRows[0].date.getTime() - 604800000) return null;
         let bestVal = null;
         let minDiff = Infinity;
         for (let i = 0; i < sRows.length; i++) {
           const r = sRows[i];
           if (r[colName] == null) continue;
           const diff = Math.abs(r.date.getTime() - ts);
-          if (diff < minDiff && diff <= 1210000000) {
+          if (diff < minDiff) {
             minDiff = diff;
             bestVal = r[colName];
           }
@@ -12154,9 +12171,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var totalMean = allRatioVals.reduce(function (a, b) { return a + b; }, 0) / allRatioVals.length;
       var meanLine = rows.map(function () { return totalMean; });
 
-      destroyChart('spreadChart');
-      var canvas = document.getElementById('spreadChart'); if (!canvas) return;
-      chartRegistry['spreadChart'] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart('spreadChart', canvas, {
         type: 'line',
         data: {
           labels: labels, datasets: [
@@ -14091,21 +14106,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const panaContrib = displayRows.map(r => r.panama_change * BDRY_WEIGHTS.panama);
       const supraContrib = displayRows.map(r => r.suprama_change * BDRY_WEIGHTS.suprama);
 
-      var bdiHidden = {};
-      var prevBdiChart = chartRegistry['bdiContribChart'];
-      if (prevBdiChart && prevBdiChart.data && prevBdiChart.data.datasets) {
-        prevBdiChart.data.datasets.forEach(function (ds, i) { bdiHidden[ds.label] = !prevBdiChart.isDatasetVisible(i); });
-      }
-      destroyChart('bdiContribChart');
-      const canvas = document.getElementById('bdiContribChart'); if (!canvas) return;
-      chartRegistry['bdiContribChart'] = new Chart(canvas.getContext('2d'), {
+      updateOrCreateChart('bdiContribChart', canvas, {
         type: 'bar',
         data: {
           labels: labels,
           datasets: [
-            { label: 'Capesize', data: capeContrib, backgroundColor: '#3fb950', hidden: bdiHidden['Capesize'] || false },
-            { label: 'Panamax', data: panaContrib, backgroundColor: '#d29922', hidden: bdiHidden['Panamax'] || false },
-            { label: 'Supramax', data: supraContrib, backgroundColor: '#f0883e', hidden: bdiHidden['Supramax'] || false }
+            { label: 'Capesize', data: capeContrib, backgroundColor: '#3fb950' },
+            { label: 'Panamax', data: panaContrib, backgroundColor: '#d29922' },
+            { label: 'Supramax', data: supraContrib, backgroundColor: '#f0883e' }
           ]
         },
         options: {
