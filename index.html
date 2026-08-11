@@ -2866,10 +2866,10 @@
       });
 
     // =====================================================================
-    // 🔮 ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE (TOP-LEVEL)
+    //  ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE (TOP-LEVEL)
     // =====================================================================
     // =====================================================================
-    // 🔮 ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE
+    //  ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE
     // =====================================================================
     function fmtDateISO(d) {
       if (!d || isNaN(d.getTime())) d = new Date();
@@ -3050,7 +3050,7 @@
       var infoEl = document.getElementById('deconstHistoricalCycleInfo');
       if (infoEl) {
         infoEl.style.display = 'block';
-        infoEl.innerHTML = '⚡ <b>Historical Cycle Active:</b> ' + (startDateStr || '') + ' → ' + (endDateStr || '') + ' (' + (pctMove >= 0 ? '+' : '') + pctMove + '% Move)';
+        infoEl.innerHTML = ' <b>Historical Cycle Active:</b> ' + (startDateStr || '') + ' → ' + (endDateStr || '') + ' (' + (pctMove >= 0 ? '+' : '') + pctMove + '% Move)';
       }
 
       renderETFDeconstructionEngine();
@@ -3399,7 +3399,7 @@
       var color = colMap[cls] || '#58a6ff';
 
       if (titleEl) {
-        titleEl.innerHTML = '<span style="color:' + color + ';">📈 ' + contractName + '</span>';
+        titleEl.innerHTML = '<span style="color:' + color + ';"> ' + contractName + '</span>';
       }
 
       // 1. Query contract history from SGX processed data (for Dry Bulk BDRY)
@@ -3502,7 +3502,7 @@
           noDataMsg.style.borderRadius = '6px';
           noDataMsg.style.padding = '20px';
           noDataMsg.style.textAlign = 'center';
-          noDataMsg.innerHTML = '<div style="font-size:24px;margin-bottom:6px;">📊</div>' +
+          noDataMsg.innerHTML = '<div style="font-size:24px;margin-bottom:6px;"></div>' +
             '<div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>' +
             '<div style="font-size:11px;color:var(--text-muted);max-width:440px;line-height:1.4;">' +
               'Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Rate shock scenario simulation remains 100% active in the predictor.' +
@@ -3510,7 +3510,7 @@
         }
 
         if (badgesEl) {
-          badgesEl.innerHTML = '<div style="background:rgba(210,153,34,0.12);border:1px solid rgba(210,153,34,0.3);color:#d29922;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">⚠️ Historical Feed Not Available</div>' +
+          badgesEl.innerHTML = '<div style="background:rgba(210,153,34,0.12);border:1px solid rgba(210,153,34,0.3);color:#d29922;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">[Warning] Historical Feed Not Available</div>' +
             '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
               '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--text);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
             '</div>';
@@ -3901,12 +3901,12 @@
           kpiRoll.textContent = '+' + spreadPct.toFixed(2) + '% / mo';
           kpiRoll.style.color = '#3fb950';
           var descEl = document.getElementById('deconstKpiRollDesc');
-          if (descEl) descEl.textContent = 'Backwardation Roll Gain 🟢';
+          if (descEl) descEl.textContent = 'Backwardation Roll Gain (+) ';
         } else {
           kpiRoll.textContent = spreadPct.toFixed(2) + '% / mo';
           kpiRoll.style.color = '#d29922';
           var descEl = document.getElementById('deconstKpiRollDesc');
-          if (descEl) descEl.textContent = 'Contango Decay Rate 🔴';
+          if (descEl) descEl.textContent = 'Contango Decay Rate (-) ';
         }
       }
 
@@ -3944,7 +3944,7 @@
 
           html += '<tr onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" class="deconst-holding-row" style="border-bottom:1px solid var(--border);font-size:11px;cursor:pointer;' + rowActiveCss + '" title="Click to view full historical price settlement chart for ' + h.Name + '">' +
             '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';display:flex;align-items:center;gap:6px;">' +
-              '<span style="font-size:10px;color:var(--text-muted);opacity:0.7;">📈</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);opacity:0.7;"></span>' +
               '<span>' + h.Name + '</span>' +
             '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + h.Lots.toFixed(1) + '</td>' +
@@ -4130,7 +4130,7 @@
               sliderHtml += '<div style="margin-bottom:8px;">' +
                 '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
                   '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" title="Click to view historical price settlement chart for ' + h.Name + '">' +
-                    '<span style="font-size:10px;opacity:0.7;">📈</span>' +
+                    '<span style="font-size:10px;opacity:0.7;"></span>' +
                     '<span style="text-decoration:underline;text-decoration-style:dotted;">' + h.Name + '</span>' +
                   '</span>' +
                   '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
@@ -4189,7 +4189,7 @@
           if (badgeEl) badgeEl.style.display = 'block';
           if (badgeTextEl) {
             if (_deconstETFKey === 'bdry') {
-              badgeTextEl.innerHTML = '🔵 <b style="color:#58a6ff;">Cape</b> (Blue) &nbsp;•&nbsp; 🟢 <b style="color:#3fb950;">Pana</b> (Green) &nbsp;•&nbsp; 🟡 <b style="color:#d29922;">Supra</b> (Gold)';
+              badgeTextEl.innerHTML = '🔵 <b style="color:#58a6ff;">Cape</b> (Blue) &nbsp;•&nbsp;  <b style="color:#3fb950;">Pana</b> (Green) &nbsp;•&nbsp;  <b style="color:#d29922;">Supra</b> (Gold)';
             } else {
               badgeTextEl.innerHTML = '🟧 <b style="color:#f0883e;">VLCC</b> (Orange) &nbsp;•&nbsp; 🟪 <b style="color:#a371f7;">Suezmax</b> (Purple)';
             }
@@ -4313,7 +4313,7 @@
 
   <div class="alerts-container" id="alertsContainer">
     <div id="alertBullish" class="alert-box alert-bullish">
-      🚀 BULLISH SIGNAL: <span id="alertBullishText"></span>
+       BULLISH SIGNAL: <span id="alertBullishText"></span>
     </div>
     <div id="alertBearish" class="alert-box alert-bearish">
       🚨 BEARISH SIGNAL: <span id="alertBearishText"></span>
@@ -4594,13 +4594,13 @@
 
       <!-- Liquidity Tracker (BDRY / BWET tabbed) -->
             <!-- ===================================================================== -->
-      <!-- 🔮 BDRY & BWET ETF FUTURES DECONSTRUCTION & SCENARIO ENGINE -->
+      <!--  BDRY & BWET ETF FUTURES DECONSTRUCTION & SCENARIO ENGINE -->
       <!-- ===================================================================== -->
       <div class="chart-container mb-20" id="etfDeconstructCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
           <div>
             <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
-              <span>🔮 ETF Futures Portfolio Deconstruction &amp; Scenario Predictor</span>
+              <span>ETF Futures Portfolio Deconstruction &amp; Scenario Predictor</span>
             </div>
             <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
               Deconstructs BDRY &amp; BWET holdings for any target date using the 5-Axiom Roll Model and simulates NAV sensitivity to freight futures shocks.
@@ -4657,10 +4657,10 @@
             <div id="deconstKpiPnl" style="font-size:22px;font-weight:800;color:var(--text);margin-top:2px;">$0.00</div>
             <div id="deconstKpiPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $13,870</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Implied Curve Roll Yield — lot-weighted spread between prompt and next-quarter futures strips across Capesize, Panamax, Supramax, VLCC, and Suezmax contracts. Positive values (+X.XX%/mo) indicate Backwardation Roll Gain 🟢; negative values (-X.XX%/mo) indicate Contango Decay Rate 🔴.">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Implied Curve Roll Yield — lot-weighted spread between prompt and next-quarter futures strips across Capesize, Panamax, Supramax, VLCC, and Suezmax contracts. Positive values (+X.XX%/mo) indicate Backwardation Roll Gain (+) ; negative values (-X.XX%/mo) indicate Contango Decay Rate (-) .">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Implied Curve Roll Yield</div>
             <div id="deconstKpiRoll" style="font-size:22px;font-weight:800;color:#d29922;margin-top:2px;">-0.08% / mo</div>
-            <div id="deconstKpiRollDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Contango Decay Rate</div>
+            <div id="deconstKpiRollDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Contango Decay Rate (-)</div>
           </div>
         </div>
 
@@ -4669,7 +4669,7 @@
           <!-- Left Column: Percentage Sliders -->
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;">
             <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:12px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
-              <span>⚡ Contract Price Shock Sliders</span>
+              <span>Contract Price Shock Sliders</span>
               <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:10px;">
                 <button id="deconstSliderModeMacro" onclick="setDeconstSliderMode('macro')" data-tooltip="<div class='rt-title'>Macro Slider Mode</div><div class='rt-row'><span class='rt-label'>Granularity:</span><span class='rt-val'>Bulk Vessel Class Level</span></div><div class='rt-note'>Shocks entire vessel classes (Capesize, Panamax, Supramax, VLCC, Suezmax) uniformly across all contract months.</div>" style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">Macro (Class)</button>
                 <button id="deconstSliderModeMicro" onclick="setDeconstSliderMode('micro')" data-tooltip="<div class='rt-title'>Micro Slider Mode</div><div class='rt-row'><span class='rt-label'>Granularity:</span><span class='rt-val'>Granular Contract Expiry Month</span></div><div class='rt-note'>Enables custom percentage shocks for every individual forward contract month.</div>" style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">Micro (Contract)</button>
@@ -4681,7 +4681,7 @@
               <span style="font-size:10px;color:var(--text-muted);font-weight:600;margin-right:2px;align-self:center;">Curve Shifters:</span>
               <button onclick="applyMicroCurvePreset('shift_up10')" data-tooltip="<div class='rt-title'>Curve Shifter: Parallel Shift Up (+10%)</div><div class='rt-row'><span class='rt-label'>Action:</span><span class='rt-val pos'>+10% Parallel Shock Vector</span></div><div class='rt-note'>Applies a uniform +10% rate expansion across all active portfolio contracts.</div>" style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text);font-size:10px;font-weight:600;cursor:pointer;">+10% All</button>
               <button onclick="applyMicroCurvePreset('shift_dn10')" data-tooltip="<div class='rt-title'>Curve Shifter: Parallel Shift Down (-10%)</div><div class='rt-row'><span class='rt-label'>Action:</span><span class='rt-val neg'>-10% Parallel Shock Vector</span></div><div class='rt-note'>Applies a uniform -10% rate contraction across all active portfolio contracts.</div>" style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text);font-size:10px;font-weight:600;cursor:pointer;">-10% All</button>
-              <button onclick="applyMicroCurvePreset('prompt_spike')" data-tooltip="<div class='rt-title'>Curve Shifter: Prompt Backwardation Spike</div><div class='rt-row'><span class='rt-label'>Prompt Month (M1):</span><span class='rt-val pos'>+15.0% Rate Rally</span></div><div class='rt-row'><span class='rt-label'>Next Month (M2):</span><span class='rt-val pos'>+8.0% Rate Rally</span></div><div class='rt-note'>Simulates urgent near-term tonnage demand spike and backwardation curve steepening.</div>" style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:rgba(63,185,80,0.15);color:#3fb950;border-color:rgba(63,185,80,0.3);font-size:10px;font-weight:600;cursor:pointer;">Prompt Spike ⚡</button>
+              <button onclick="applyMicroCurvePreset('prompt_spike')" data-tooltip="<div class='rt-title'>Curve Shifter: Prompt Backwardation Spike</div><div class='rt-row'><span class='rt-label'>Prompt Month (M1):</span><span class='rt-val pos'>+15.0% Rate Rally</span></div><div class='rt-row'><span class='rt-label'>Next Month (M2):</span><span class='rt-val pos'>+8.0% Rate Rally</span></div><div class='rt-note'>Simulates urgent near-term tonnage demand spike and backwardation curve steepening.</div>" style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:rgba(63,185,80,0.15);color:#3fb950;border-color:rgba(63,185,80,0.3);font-size:10px;font-weight:600;cursor:pointer;">Prompt Spike</button>
               <button onclick="applyMicroCurvePreset('flatten')" data-tooltip="<div class='rt-title'>Reset All Scenario Shocks</div><div class='rt-row'><span class='rt-label'>Action:</span><span class='rt-val'>Reset Shocks to 0.0% Baseline</span></div><div class='rt-note'>Clears all custom macro and micro shock offsets back to baseline settlement rates.</div>" style="padding:2px 6px;border:1px solid var(--border);border-radius:3px;background:var(--hover);color:var(--text-muted);font-size:10px;font-weight:600;cursor:pointer;">Reset Micro</button>
             </div>
             
@@ -4731,77 +4731,77 @@
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;display:flex;flex-direction:column;justify-content:space-between;">
             <div>
               <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;">
-                <span>🌐 One-Click Macro Scenarios</span>
+                <span>Macro Scenario &amp; Stress Test Matrix</span>
                 <div style="display:flex;gap:4px;background:var(--card);padding:2px;border-radius:4px;border:1px solid var(--border);">
-                  <button id="macroCategoryPresets" onclick="switchMacroCategory('presets')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:var(--accent);color:#fff;cursor:pointer;">⚡ Presets</button>
-                  <button id="macroCategoryCycles" onclick="switchMacroCategory('cycles')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:transparent;color:var(--text-muted);cursor:pointer;">📜 Multi-Year Cycles</button>
+                  <button id="macroCategoryPresets" onclick="switchMacroCategory('presets')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:var(--accent);color:#fff;cursor:pointer;">Stress Scenarios</button>
+                  <button id="macroCategoryCycles" onclick="switchMacroCategory('cycles')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:transparent;color:var(--text-muted);cursor:pointer;">Historical Cycles</button>
                 </div>
               </div>
               <div id="deconstHistoricalCycleInfo" style="display:none;font-size:11px;color:var(--accent);background:rgba(88,166,255,0.1);border:1px solid rgba(88,166,255,0.25);border-radius:4px;padding:4px 8px;margin-bottom:8px;"></div>
               <div id="macroPresetsGrid" style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
-                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%.">
+                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%, Supramax +10%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🇨🇳 China Ore Boom</span>
-                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                    <span style="font-size:11px;font-weight:700;">China Ore Expansion</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:var(--accent);font-weight:600;margin-top:4px;">Cape +25%, Pana +15%</span>
+                  <div style="font-size:10px;color:var(--accent);font-weight:600;margin-top:3px;font-family:monospace;">Cape +25% | Pana +15%</div>
                 </button>
 
-                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
+                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🛢️ Tanker Geopolantics</span>
-                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                    <span style="font-size:11px;font-weight:700;">Tanker Geopolitical Disruption</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +35%, Suez +45%</span>
+                  <div style="font-size:10px;color:#f0883e;font-weight:600;margin-top:3px;font-family:monospace;">VLCC +35% | Suez +45%</div>
                 </button>
 
-                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
+                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🔻 Global Freight Slump</span>
-                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                    <span style="font-size:11px;font-weight:700;">Global Freight Contraction</span>
+                    <span style="font-size:10px;color:#f85149;font-weight:800;">▼</span>
                   </div>
-                  <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Dry -30%, Tanker -25%</span>
+                  <div style="font-size:10px;color:#f85149;font-weight:600;margin-top:3px;font-family:monospace;">Dry -30% | Tanker -25%</div>
                 </button>
 
-                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
+                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>📈 Seasonal Q4 Rally</span>
-                    <span style="font-size:10px;opacity:0.6;">⚡</span>
+                    <span style="font-size:11px;font-weight:700;">Q4 Seasonal Peak Surge</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +30%, Pana +20%</span>
+                  <div style="font-size:10px;color:#3fb950;font-weight:600;margin-top:3px;font-family:monospace;">Cape +30% | Pana +20%</div>
                 </button>
               </div>
 
               <!-- Multi-Year Historical Cycles Scenario Grid -->
               <div id="macroCyclesGrid" style="display:none;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;max-height:160px;overflow-y:auto;padding-right:4px;">
-                <button onclick="simulateMacroCycle('bdry', 100, 'Jan 2021', 'Oct 2021')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2021 Post-COVID Commodity Super-Cycle Rally (+180% Capesize peak move).">
+                <button onclick="applyMacroScenario('cycle_2021')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2021 Post-COVID Commodity Supercycle Rate Shock (+120% Capesize, +85% Panamax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🚀 2021 Super-Cycle</span>
-                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                    <span style="font-size:11px;font-weight:700;">2021 Capesize Supercycle</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +100%, Pana +70%</span>
+                  <div style="font-size:10px;color:#3fb950;font-weight:600;margin-top:3px;font-family:monospace;">Cape +120% | Pana +85%</div>
                 </button>
 
-                <button onclick="simulateMacroCycle('bdry', -50, 'Jan 2015', 'Feb 2016')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2015-2016 Supply Glut All-Time Floor Collapse (-65% Capesize move).">
+                <button onclick="applyMacroScenario('cycle_2022')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2022 Tanker Rate Squeeze (+95% VLCC, +75% Suezmax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🌋 2015-16 Glut Crash</span>
-                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                    <span style="font-size:11px;font-weight:700;">2022 Sanctions Tanker Spike</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Cape -50%, Pana -35%</span>
+                  <div style="font-size:10px;color:#f0883e;font-weight:600;margin-top:3px;font-family:monospace;">VLCC +95% | Suez +75%</div>
                 </button>
 
-                <button onclick="simulateMacroCycle('bwet', 85, 'Feb 2022', 'Nov 2022')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2022 Sanctions Oil Trade Flow Redirection (+150% VLCC move).">
+                <button onclick="applyMacroScenario('cycle_2023')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2023 China Reopening Freight Recovery (+45% Capesize, +35% Panamax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>⛽ 2022 Tanker Squeeze</span>
-                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                    <span style="font-size:11px;font-weight:700;">2023 China Reopening Rally</span>
+                    <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
                   </div>
-                  <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +85%, Suez +72%</span>
+                  <div style="font-size:10px;color:var(--accent);font-weight:600;margin-top:3px;font-family:monospace;">Cape +45% | Pana +35%</div>
                 </button>
 
                 <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2023 Red Sea Chokepoint Diversion Freight Rally (+45% Cape move).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
-                    <span>🌊 2023 Red Sea Rally</span>
-                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                    <span>2024 Red Sea Crisis</span>
+                    <span style="font-size:10px;opacity:0.6;"></span>
                   </div>
                   <span style="font-size:10px;color:#58a6ff;font-weight:600;margin-top:4px;">Cape +45%, Pana +32%</span>
                 </button>
@@ -4811,7 +4811,7 @@
             <!-- Reverse Price Target Solver -->
             <div style="border-top:1px solid var(--border);padding-top:10px;margin-top:4px;">
               <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:6px;display:flex;align-items:center;justify-content:space-between;">
-                <span>🎯 Target Share Price Reverse Solver</span>
+                <span>Target Share Price Reverse Solver</span>
                 <span style="font-size:10px;color:var(--text-muted);">Solves required FFA rates</span>
               </div>
               <div style="display:flex;gap:8px;align-items:center;">
@@ -4860,7 +4860,7 @@
               </div>
             </div>
             <div id="deconstContractLegendBadge" style="font-size:11px;color:var(--text-muted);margin-bottom:6px;display:none;font-weight:600;">
-              <span id="deconstLegendBadgeText">🔵 <b>Cape</b> (Blue) &nbsp;•&nbsp; 🟢 <b>Pana</b> (Green) &nbsp;•&nbsp; 🟡 <b>Supra</b> (Gold)</span>
+              <span id="deconstLegendBadgeText">• <b>Cape</b> (Blue) &nbsp;•&nbsp;  <b>Pana</b> (Green) &nbsp;•&nbsp;  <b>Supra</b> (Gold)</span>
             </div>
             <div class="chart-canvas-wrap" style="height:270px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
               <canvas id="etfDeconstChart"></canvas>
@@ -4886,7 +4886,7 @@
         <!-- 2D Freight Shock Sensitivity Heatmap Matrix -->
         <div style="margin-top:16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;" data-tooltip="Interactive 5x5 Freight Shock Sensitivity Grid - simulates ETF share price ($) and net return (%) across 25 simultaneous freight rate shock scenarios. Click any cell to apply it instantly to the engine.">
           <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
-            <span>📊 2D Freight Sensitivity Heatmap Matrix (<span id="deconstMatrixTitle">Capesize vs Panamax Rate Shocks</span>)</span>
+            <span>2D Freight Sensitivity Heatmap Matrix (<span id="deconstMatrixTitle">Capesize vs Panamax Rate Shocks</span>)</span>
             <span style="font-size:11px;color:var(--text-muted);font-weight:400;">Click any cell to apply scenario shocks</span>
           </div>
           <div style="overflow-x:auto;">
@@ -5247,7 +5247,7 @@
       <div class="signals-section" id="signals-sec-tech">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-tech')">
           <div class="section-title-wrap">
-            <span data-tooltip="Derivatives & Technicals - Tracks spec positioning (FFA), volatility regimes (Bollinger Bands), and calendar spreads. Useful for analyzing speculative flows, hedging dynamics, and short-term momentum reversals.">📈 Derivatives & Technicals</span>
+            <span data-tooltip="Derivatives & Technicals - Tracks spec positioning (FFA), volatility regimes (Bollinger Bands), and calendar spreads. Useful for analyzing speculative flows, hedging dynamics, and short-term momentum reversals."> Derivatives & Technicals</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
@@ -5381,7 +5381,7 @@
           <div class="chart-container mb-20">
             <div class="chart-header">
               <div class="flex-row" style="gap:12px;align-items:center;">
-                <div class="chart-title" data-tooltip="Fund Flow Signal Chart - overlays the ETF NAV price against the rolling 5-day net flow. Price rising + flow diverging downward = Distribution ⚠️ (sell signal). Price falling + flow positive = Accumulation ⚠️ (potential reversal). Price and flow both rising = Confirmed momentum.">ETF Fund Flow Signals - Momentum &amp; Divergence</div>
+                <div class="chart-title" data-tooltip="Fund Flow Signal Chart - overlays the ETF NAV price against the rolling 5-day net flow. Price rising + flow diverging downward = Distribution [Warning] (sell signal). Price falling + flow positive = Accumulation [Warning] (potential reversal). Price and flow both rising = Confirmed momentum.">ETF Fund Flow Signals - Momentum &amp; Divergence</div>
                 <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
                   <button id="flowSigTabBdry" onclick="switchFlowSigTab('bdry')"
                     style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
@@ -5416,7 +5416,7 @@
           <!-- 5. Term Structure Slope -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal). 🔴 Backwardation (Down) = tight near-term supply; 🟢 Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
+              <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal).  Backwardation (Down) = tight near-term supply;  Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
               <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
                 <div style="display:flex;gap:4px;align-items:center;">
                   <span style="font-size:11px;color:var(--text-muted);">vs</span>
@@ -5759,7 +5759,7 @@
       <!-- Section 1: Signal & Confluence Engine -->
       <div class="intel-section">
         <div class="intel-section-title">
-          ⚡ Signal &amp; Confluence Engine
+           Signal &amp; Confluence Engine
           <span class="intel-section-meta" id="intelAlertsTs"></span>
         </div>
         <div id="intelAlertGrid">
@@ -7017,7 +7017,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (pctl5y > 0.8) return { text: '⛔ SELL (Overheated)', cls: 'signal-sell' };
       if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { text: '💎 GOLDEN DIP', cls: 'signal-golden' };
       if (pctl5y < 0.1 && zScore < -0.6) return { text: '🔥 CATCHING KNIFE', cls: 'signal-knife' };
-      if (pctl5y < 0.3 && alltimePctl < 0.3) return { text: '⚠️ VALUE TRAP', cls: 'signal-trap' };
+      if (pctl5y < 0.3 && alltimePctl < 0.3) return { text: '[Warning] VALUE TRAP', cls: 'signal-trap' };
       if (pctl5y < 0.4) return { text: '🔹 ACCUMULATE', cls: 'signal-accumulate' };
       return { text: '⏳ WAIT', cls: 'signal-wait' };
     }
@@ -8004,7 +8004,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <th onclick="sortMacroTable('${productKey}', 'end', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The ending date and value/rate of this cycle phase.">End Point${getIndicator('end')}</th>
       <th onclick="sortMacroTable('${productKey}', 'duration', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The duration of the cycle phase in calendar days.">Duration${getIndicator('duration')}</th>
       <th onclick="sortMacroTable('${productKey}', 'move', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="Percentage return from start value to end value.">Move %${getIndicator('move')}</th>
-      <th style="text-align:center;" data-tooltip="Instantly apply this historical cycle's move percentage to the ETF Deconstruction Engine sliders.">Simulate ⚡</th>
+      <th style="text-align:center;" data-tooltip="Instantly apply this historical cycle's move percentage to the ETF Deconstruction Engine sliders.">Simulate </th>
     </tr></thead><tbody>`;
 
       for (let i = 0; i < cycles.length; i++) {
@@ -8018,7 +8018,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
         const pctCls = pct >= 0 ? 'val-green' : 'val-red';
 
-        const phaseTypeLabel = pct >= 0 ? '📈 Expansion' : '📉 Contraction';
+        const phaseTypeLabel = pct >= 0 ? ' Expansion' : ' Contraction';
         const phaseCls = pct >= 0 ? 'val-green' : 'val-red';
 
         const isUSD = ['bdry', 'bwet'].includes(productKey);
@@ -8034,7 +8034,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <td data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Duration" data-tt-val="${days}" data-tt-title="Cycle Duration">${durationStr}</td>
       <td class="${pctCls}" style="font-weight:700;" data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Move" data-tt-val="${pct}" data-tt-title="Cycle Move %">${pctStr}</td>
       <td style="text-align:center;">
-        <button onclick="simulateMacroCycle('${productKey}', ${pct.toFixed(1)}, '${fmtDateUser(start.date)}', '${fmtDateUser(end.date)}')" class="dl-btn" style="padding:2px 8px;font-size:10px;background:rgba(88,166,255,0.15);color:var(--accent);border-color:rgba(88,166,255,0.3);cursor:pointer;font-weight:600;" title="Apply ${pctStr} move to ETF Deconstruction Engine">Simulate ⚡</button>
+        <button onclick="simulateMacroCycle('${productKey}', ${pct.toFixed(1)}, '${fmtDateUser(start.date)}', '${fmtDateUser(end.date)}')" class="dl-btn" style="padding:2px 8px;font-size:10px;background:rgba(88,166,255,0.15);color:var(--accent);border-color:rgba(88,166,255,0.3);cursor:pointer;font-weight:600;" title="Apply ${pctStr} move to ETF Deconstruction Engine">Simulate </button>
       </td>
     </tr>`;
       }
@@ -9224,8 +9224,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             var priceUp = ret5d > 0;
             var flowUp = f_5d > 0;
             
-            if (priceUp && !flowUp) f_div = "Distribution ⚠️";
-            else if (!priceUp && flowUp) f_div = "Accumulation ⚠️";
+            if (priceUp && !flowUp) f_div = "Distribution [Warning]";
+            else if (!priceUp && flowUp) f_div = "Accumulation [Warning]";
             else if (priceUp && flowUp) f_div = "Confirmed";
             else if (!priceUp && !flowUp) f_div = "Weak";
           }
@@ -9306,11 +9306,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       var fDivColor = 'rgb(139,148,158)';
       var fDivSub = "Price & Flow Align";
-      if (last.f_div.indexOf('⚠️') !== -1) { fDivColor = 'rgb(227,179,65)'; fDivSub = last.f_div === 'Distribution ⚠️' ? 'Price ↑, Flow ↓' : 'Price ↓, Flow ↑'; }
+      if (last.f_div.indexOf('[Warning]') !== -1) { fDivColor = 'rgb(227,179,65)'; fDivSub = last.f_div === 'Distribution [Warning]' ? 'Price ↑, Flow ↓' : 'Price ↓, Flow ↑'; }
       else if (last.f_div === 'Confirmed') { fDivColor = 'rgb(88,166,255)'; fDivSub = "Price ↑, Flow ↑"; }
       else if (last.f_div === 'Weak') { fDivSub = "Price ↓, Flow ↓"; }
-      kpiHtml += buildCard("Flow Divergence", last.f_div.replace(' ⚠️',''), fDivColor, fDivSub,
-        'Flow Divergence - compares 5-day ETF price return vs 5-day net flow direction. Distribution ⚠️ = price rising but capital is leaving (smart money selling into strength - high-conviction bearish). Accumulation ⚠️ = price falling but capital entering (smart money accumulating - high-conviction bullish). Confirmed = price and flows rising together. Weak = both declining.');
+      kpiHtml += buildCard("Flow Divergence", last.f_div.replace(' [Warning]',''), fDivColor, fDivSub,
+        'Flow Divergence - compares 5-day ETF price return vs 5-day net flow direction. Distribution [Warning] = price rising but capital is leaving (smart money selling into strength - high-conviction bearish). Accumulation [Warning] = price falling but capital entering (smart money accumulating - high-conviction bullish). Confirmed = price and flows rising together. Weak = both declining.');
 
       var fPrVal = last.f_pr != null ? last.f_pr : 0;
       var fPrAbs = Math.abs(fPrVal);
@@ -9621,9 +9621,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           var regimeLabel = '-', regimeColor = 'var(--text-muted)';
           if (cur1y != null && validAll.length > 50) {
             var pctl = percentileRank(validAll, cur1y) * 100;
-            if (pctl > 90)      { regimeLabel = '🔴 SPIKE';    regimeColor = '#f85149'; }
-            else if (pctl > 75) { regimeLabel = '🟡 ELEVATED'; regimeColor = '#e3b341'; }
-            else if (pctl > 25) { regimeLabel = '🟢 NORMAL';   regimeColor = '#3fb950'; }
+            if (pctl > 90)      { regimeLabel = ' SPIKE';    regimeColor = '#f85149'; }
+            else if (pctl > 75) { regimeLabel = ' ELEVATED'; regimeColor = '#e3b341'; }
+            else if (pctl > 25) { regimeLabel = ' NORMAL';   regimeColor = '#3fb950'; }
             else                { regimeLabel = '🔵 LOW';       regimeColor = '#58a6ff'; }
           }
           kpiHtml += [
@@ -10171,7 +10171,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     // =====================================================================
-    // ⚡ 5-MINUTE DYNAMIC LIVE AUTO-REFRESH ENGINE (BDRY & BWET)
+    //  5-MINUTE DYNAMIC LIVE AUTO-REFRESH ENGINE (BDRY & BWET)
     // =====================================================================
     var _etfAutoRefreshTimer = null;
     var _lastEtfFetchTime = 0;
@@ -10220,7 +10220,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         // Update live badge timestamp
         var badge = document.getElementById(`etfLiveBadge_${etfKey}`);
         if (badge) {
-          badge.textContent = `🟢 LIVE ${nowStr}`;
+          badge.textContent = ` LIVE ${nowStr}`;
           badge.setAttribute('data-tooltip', `Live price auto-updated at ${nowStr}. Refreshes every 5 minutes.`);
         }
 
@@ -10631,7 +10631,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <div class="etf-research-title">🚢 Dry Bulk Fundamentals - Data Sources</div>
       <div class="etf-fund-group">
         <div class="etf-fund-group-label">China Steel &amp; Bulk Demand</div>
-        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">⛏️</span><a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">🚢</span><a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
@@ -10662,9 +10662,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         <div class="etf-fund-group-label">Crude &amp; Product Demand</div>
         <div class="etf-fund-link"><span class="research-link-icon">🛢</span><a href="https://tradingeconomics.com/commodity/crude-oil" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://www.eia.gov/petroleum/supply/weekly/" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🇨🇳</span><a href="https://tradingeconomics.com/china/crude-oil-imports" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://tradingeconomics.com/china/crude-oil-imports" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">🏭</span><a href="https://tradingeconomics.com/china/refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://www.eia.gov/petroleum/weekly/crude.php" target="_blank" rel="noopener">US Crude Oil Production</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://www.eia.gov/petroleum/weekly/crude.php" target="_blank" rel="noopener">US Crude Oil Production</a></div>
         <div class="etf-fund-link"><span class="research-link-icon">🛑</span><a href="https://tradingeconomics.com/opec/crude-oil-production" target="_blank" rel="noopener">OPEC Crude Oil Production</a></div>
       </div>
       <div class="etf-fund-group">
@@ -10683,7 +10683,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       </div>
       <div class="research-group">
         <div class="research-group-label">Weekly Market Reports</div>
-        <div class="research-link"><span class="research-link-icon">⚡</span><a href="${etfKey === 'bdry' ? 'https://fearnpulse.com/#2' : 'https://fearnpulse.com/#1'}" target="_blank" rel="noopener">Fearnleys - Weekly Market Pulse</a></div>
+        <div class="research-link"><span class="research-link-icon"></span><a href="${etfKey === 'bdry' ? 'https://fearnpulse.com/#2' : 'https://fearnpulse.com/#1'}" target="_blank" rel="noopener">Fearnleys - Weekly Market Pulse</a></div>
         <div class="research-link"><span class="research-link-icon">🏛️</span><a href="${etfKey === 'bdry' ? 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#dry%20' : 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#tanker'}" target="_blank" rel="noopener">Baltic Exchange - Weekly Roundup</a></div>
       </div>
       <div class="research-group">
@@ -10692,7 +10692,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       </div>
       <div class="research-group">
         <div class="research-group-label">ETF Data</div>
-        <div class="research-link"><span class="research-link-icon">📈</span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs - ${ticker} Official Page</a></div>
+        <div class="research-link"><span class="research-link-icon"></span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs - ${ticker} Official Page</a></div>
         <div class="research-link"><span class="research-link-icon">📐</span><a href="${etfKey === 'bdry' ? 'https://www.solactive.com/index/DE000SLA4BY3/' : 'https://www.solactive.com/index/DE000SL0HLG3/'}" target="_blank" rel="noopener">Solactive - Index Page</a></div>
       </div>
     </div>
@@ -13854,9 +13854,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let regimeLabel = '-', regimeColor = 'var(--text-muted)';
       if (cur252 != null && validAll252.length > 50) {
         const pctl = percentileRank(validAll252, cur252) * 100;
-        if (pctl > 90) { regimeLabel = '🔴 SPIKE'; regimeColor = '#f85149'; }
-        else if (pctl > 75) { regimeLabel = '🟡 ELEVATED'; regimeColor = '#e3b341'; }
-        else if (pctl > 25) { regimeLabel = '🟢 NORMAL'; regimeColor = '#3fb950'; }
+        if (pctl > 90) { regimeLabel = ' SPIKE'; regimeColor = '#f85149'; }
+        else if (pctl > 75) { regimeLabel = ' ELEVATED'; regimeColor = '#e3b341'; }
+        else if (pctl > 25) { regimeLabel = ' NORMAL'; regimeColor = '#3fb950'; }
         else { regimeLabel = '🔵 LOW'; regimeColor = '#58a6ff'; }
       }
 
@@ -14588,7 +14588,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var slope = ((back - front) / front) * 100;
         var structure = slope > 1.5 ? 'Contango' : slope < -1.5 ? 'Backwardation' : 'Flat';
         var structureColor = slope < -1.5 ? '#3fb950' : slope > 1.5 ? '#f85149' : '#e3b341';
-        var structureIcon = slope < -1.5 ? '📉' : slope > 1.5 ? '📈' : '➡️';
+        var structureIcon = slope < -1.5 ? '' : slope > 1.5 ? '' : '➡️';
         slopeHtml += '<span style="margin-right:16px;font-size:12px;">' +
           '<span style="color:' + colorMap[cls] + ';font-weight:700">' + labelMap[cls] + '</span>' +
           ' &nbsp;' + structureIcon +
@@ -14693,7 +14693,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         buildBdryAvgChart(allRows, allRows.length - 1);
 
       } catch (err) {
-        loadingEl.textContent = '⚠️ Could not load BDRY market data: ' + err.message;
+        loadingEl.textContent = '[Warning] Could not load BDRY market data: ' + err.message;
         console.error('[BDRY Liq]', err);
       }
     }
@@ -15098,7 +15098,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         buildBwetAvgChart(allRows, allRows.length - 1);
 
       } catch (err) {
-        loadingEl.textContent = '⚠️ Could not load BWET market data: ' + err.message;
+        loadingEl.textContent = '[Warning] Could not load BWET market data: ' + err.message;
         console.error('[BWET Liq]', err);
       }
     }
@@ -15840,7 +15840,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       el.textContent = label;
       el.className = 'regime-badge ' + cls;
       el.style.display = 'inline-block';
-      const tt = `Trend Lifecycle for ${rows[0] && rows[0].bdiy ? 'BDI Index' : 'Selected Asset'} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%). 🟢 Expansion (>MA200, ROC>0), 🟡 Distribution (>MA200, ROC<0), 🔵 Accumulation (<MA200, ROC>0), 🔴 Contraction (<MA200, ROC<0).`;
+      const tt = `Trend Lifecycle for ${rows[0] && rows[0].bdiy ? 'BDI Index' : 'Selected Asset'} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%).  Expansion (>MA200, ROC>0),  Distribution (>MA200, ROC<0), 🔵 Accumulation (<MA200, ROC>0),  Contraction (<MA200, ROC<0).`;
       el.setAttribute('data-tooltip', tt);
       el.removeAttribute('title');
     }
@@ -16354,10 +16354,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const cur    = vals.filter(v => v != null).at(-1);
       let regime, emoji;
       if (ma200 == null || roc60 == null) { regime = 'N/A';          emoji = '⚪'; }
-      else if (cur > ma200 && roc60 > 0)  { regime = 'EXPANSION';    emoji = '🟢'; }
-      else if (cur > ma200)               { regime = 'DISTRIBUTION'; emoji = '🟡'; }
+      else if (cur > ma200 && roc60 > 0)  { regime = 'EXPANSION';    emoji = ''; }
+      else if (cur > ma200)               { regime = 'DISTRIBUTION'; emoji = ''; }
       else if (roc60 > 0)                 { regime = 'ACCUMULATION'; emoji = '🔵'; }
-      else                                { regime = 'CONTRACTION';  emoji = '🔴'; }
+      else                                { regime = 'CONTRACTION';  emoji = ''; }
       // Percentiles
       const validVals = vals.filter(v => v != null);
       const vals1y = validVals.slice(-252);
@@ -16399,7 +16399,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
            { label: '⛴️ Panamax',  q: panamaQ, c: _confluenceType(panamaQ.zScore, drySents) },
            { label: '🛳️ Supramax', q: supraQ, c: _confluenceType(supraQ.zScore, drySents) },
            { label: '⚓ Handysize', q: handyQ, c: _confluenceType(handyQ.zScore, drySents) }]) +
-        _buildVCCard('🛢️ Tanker Market', { ...cleanQ, zScore: tankerZ },
+        _buildVCCard(' Tanker Market', { ...cleanQ, zScore: tankerZ },
           _confluenceType(tankerZ, tankSents), tankerSigs,
           [{ label: 'BCTI Clean', q: cleanQ, c: _confluenceType(cleanQ.zScore, tankSents) },
            { label: 'BDTI Dirty', q: dirtyQ, c: _confluenceType(dirtyQ.zScore, tankSents) }]);
@@ -16768,7 +16768,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const cfg = cfgMap[vcData.confluence_type] || cfgMap.NEUTRAL;
         const s = snap?.[snapKey];
 
-        const emojiMap = { UP: '🟢', DOWN: '🔴', FLAT: '🟡', RECOVERY: '🔵', 'N/A': '⚪' };
+        const emojiMap = { UP: '', DOWN: '', FLAT: '', RECOVERY: '🔵', 'N/A': '⚪' };
         const regimeEmoji = emojiMap[s?.regime_emoji] || s?.regime_emoji || '';
         const regimeText = [regimeEmoji, s?.regime].filter(Boolean).join(' ') || 'N/A';
         const kpiHtml = [
@@ -16808,7 +16808,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           </div>
           ${vcData.confluence_note ? (() => {
             const ct = vcData.confluence_type || '';
-            const cIcon = ct === 'DIVERGENCE' ? '⚠️' : ct === 'BULL_CONFLUENCE' ? '✅' : ct === 'BEAR_CONFLUENCE' ? '🚨' : '🔄';
+            const cIcon = ct === 'DIVERGENCE' ? '[Warning]' : ct === 'BULL_CONFLUENCE' ? '✅' : ct === 'BEAR_CONFLUENCE' ? '🚨' : '🔄';
             return '<div class="brief-conf-note ' + cfg.cls + '">' + cIcon + ' ' + esc(vcData.confluence_note) + '</div>';
           })() : ''}
           <p class="brief-summary">${esc(vcData.summary || 'No narrative summary available in the latest brief for this class.')}</p>
@@ -16816,10 +16816,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           ${keySignals ? `<div class="brief-signals-title">Key Signals</div><ul class="brief-signals">${keySignals}</ul>` : ''}
           ${vcData.outlook ? (() => {
             const ol = (vcData.outlook || '').toLowerCase();
-            let oIcon = '📊', oCol = 'var(--accent)';
-            if (/strong|persist|surge|bullish|positive/.test(ol)) { oIcon = '📈'; oCol = 'var(--green)'; }
-            else if (/caution|risk|correction|volatile/.test(ol)) { oIcon = '⚠️'; oCol = 'var(--yellow)'; }
-            else if (/weak|decline|bearish|negative/.test(ol)) { oIcon = '📉'; oCol = 'var(--red)'; }
+            let oIcon = '', oCol = 'var(--accent)';
+            if (/strong|persist|surge|bullish|positive/.test(ol)) { oIcon = ''; oCol = 'var(--green)'; }
+            else if (/caution|risk|correction|volatile/.test(ol)) { oIcon = '[Warning]'; oCol = 'var(--yellow)'; }
+            else if (/weak|decline|bearish|negative/.test(ol)) { oIcon = ''; oCol = 'var(--red)'; }
             return '<div class="brief-outlook"><strong style="color:' + oCol + '">' + oIcon + ' Outlook:</strong> ' + esc(vcData.outlook) + '</div>';
           })() : ''}
           ${vcData.watch ? `<div class="brief-watch"><strong>Watch:</strong> ${esc(vcData.watch)}</div>` : ''}
