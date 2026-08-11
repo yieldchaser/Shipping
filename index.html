@@ -4115,7 +4115,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const k = vesselClass + '|' + tenorType;
       if (_valMapCache[k]) return _valMapCache[k];
       if (!DATA.vesselValuations) return { byDate: {}, sortedTs: [], sortedVals: [] };
-      const filtered = DATA.vesselValuations.filter(r => r.vessel_class === vesselClass && r.tenor_type === tenorType && r.valuation_usd_m != null);
+      // Primary series: exact vessel_class + tenor_type match
+      let filtered = DATA.vesselValuations.filter(r => r.vessel_class === vesselClass && r.tenor_type === tenorType && r.valuation_usd_m != null);
+      // Fallback: for DRY tenors, merge Japanese-built variant (standard S&P benchmark)
+      // Data source split dry bulk classes into (Japanese)/(Chinese) variants from Feb 2026
+      if (tenorType.startsWith('DRY-')) {
+        const jpClass = vesselClass + ' (Japanese)';
+        const jpTenor = tenorType + '-JP';
+        const jpRows = DATA.vesselValuations.filter(r => r.vessel_class === jpClass && r.tenor_type === jpTenor && r.valuation_usd_m != null);
+        if (jpRows.length) {
+          // Merge: use standard data as base, fill gaps with Japanese variant
+          const dateSet = new Set(filtered.map(r => r.dateStr));
+          const extra = jpRows.filter(r => !dateSet.has(r.dateStr));
+          filtered = filtered.concat(extra);
+        }
+      }
       filtered.sort((a, b) => a.date - b.date);
       const byDate = {};
       const sortedTs = new Array(filtered.length);
