@@ -3896,8 +3896,14 @@
           <!-- LPG Freight & Charter Rates -->
           <div class="chart-container mb-20" id="lpgContainer">
             <div class="chart-header">
-              <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot ($/day equiv), VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
-              <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: --</div>
+              <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot, VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index. Toggle between $/day TCE equivalent and raw $/month PCM hire.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div id="lpgUnitToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
+                  <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
+                </div>
+                <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: --</div>
+              </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
               <div class="index-range-label">
@@ -10982,6 +10988,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // -------------------------------------------------------
     // LPG FREIGHT & CHARTER RATES
     // -------------------------------------------------------
+    var _lpgUnitMode = 'day';
+    function setLPGUnit(unit) {
+      _lpgUnitMode = unit;
+      var dayBtn = document.getElementById('lpgUnitDay');
+      var monthBtn = document.getElementById('lpgUnitMonth');
+      if (dayBtn && monthBtn) {
+        dayBtn.style.background = unit === 'day' ? 'var(--accent)' : 'var(--card)';
+        dayBtn.style.color = unit === 'day' ? '#fff' : 'var(--text-muted)';
+        monthBtn.style.background = unit === 'month' ? 'var(--accent)' : 'var(--card)';
+        monthBtn.style.color = unit === 'month' ? '#fff' : 'var(--text-muted)';
+      }
+      renderLPGFreightChart();
+    }
+
     function renderLPGFreightChart(productKey) {
       const canvas = document.getElementById('lpgFreightChart');
       if (!canvas) return;
@@ -11034,8 +11054,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const labels = rows.map(r => fmtDate(r.date));
 
-      // Helper: convert monthly charter hire ($/month) to daily TCE ($/day)
-      const toDaily = v => (v != null && !isNaN(v)) ? v / 30.4375 : null;
+      const isDay = (_lpgUnitMode !== 'month');
+      const scaleVal = v => (v != null && !isNaN(v)) ? (isDay ? v / 30.4375 : v) : null;
+      const unitLabel = isDay ? '($/day)' : '($/mo PCM)';
+      const unitStr = isDay ? '/day' : '/mo';
+      const titleStr = isDay ? 'Charter & Spot Rates ($/day equiv)' : 'Charter & Spot Hire ($/month PCM)';
 
       // Update KPI badge
       const lpgBadge = document.getElementById('lpgRatesBadge');
@@ -11043,8 +11066,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (lpgBadge && latest) {
         const tcVal = latest.vlgc_tc;
         if (tcVal != null) {
-          const daily = Math.round(toDaily(tcVal));
-          lpgBadge.textContent = 'VLGC 1Y TC: $' + daily.toLocaleString() + '/day';
+          const scaled = scaleVal(tcVal);
+          lpgBadge.textContent = isDay ? ('VLGC 1Y TC: $' + Math.round(scaled).toLocaleString() + '/day') : ('VLGC 1Y TC: $' + (scaled / 1e6).toFixed(2) + 'M/mo');
           lpgBadge.style.background = 'var(--accent)';
           lpgBadge.style.color = '#fff';
         } else {
@@ -11055,11 +11078,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       const datasets = [
-        { label: 'VLGC 84k Spot ($/day)', data: rows.map(r => toDaily(r.vlgc_spot)), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'MGC Spot ($/day)', data: rows.map(r => toDaily(r.mgc_spot)), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [3, 3] },
-        { label: 'VLGC 84k 1Y TC', data: rows.map(r => toDaily(r.vlgc_tc)), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'MGC 38k 1Y TC', data: rows.map(r => toDaily(r.mgc_tc)), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-        { label: 'Handy 22k 1Y TC', data: rows.map(r => toDaily(r.hdy_tc)), yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [4, 4] },
+        { label: `VLGC 84k Spot ${unitLabel}`, data: rows.map(r => scaleVal(r.vlgc_spot)), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: `MGC Spot ${unitLabel}`, data: rows.map(r => scaleVal(r.mgc_spot)), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [3, 3] },
+        { label: `VLGC 84k 1Y TC ${unitLabel}`, data: rows.map(r => scaleVal(r.vlgc_tc)), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: `MGC 38k 1Y TC ${unitLabel}`, data: rows.map(r => scaleVal(r.mgc_tc)), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: `Handy 22k 1Y TC ${unitLabel}`, data: rows.map(r => scaleVal(r.hdy_tc)), yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [4, 4] },
         { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
       ];
 
@@ -11077,6 +11100,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
                   if (c.dataset.label.includes('Baltic')) return ' ' + c.dataset.label + ': ' + Math.round(c.parsed.y).toLocaleString();
+                  if (!isDay) return ' ' + c.dataset.label + ': $' + (c.parsed.y / 1e6).toFixed(2) + 'M/month';
                   return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
                 }
               }
@@ -11084,7 +11108,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Charter & Spot Rates ($/day equiv)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => isDay ? '$' + Math.round(v).toLocaleString() : '$' + (v / 1e6).toFixed(1) + 'M' }, title: { display: true, text: titleStr, color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Baltic LPG Index', color: '#8b949e', font: { size: 11 } } }
           }
         }
