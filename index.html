@@ -4648,6 +4648,21 @@
           </div>
         </div>
 
+        <!-- Clickable Contract History Detail Panel -->
+        <div id="deconstContractHistoryPanel" style="display:none;margin-top:16px;margin-bottom:16px;background:var(--card);border:1px solid var(--border);border-radius:6px;padding:16px;position:relative;animation:fadeIn 0.2s ease;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+            <div>
+              <div id="deconstContractHistoryTitle" style="font-size:14px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;"></div>
+              <div id="deconstContractHistorySubtitle" style="font-size:11px;color:var(--text-muted);margin-top:2px;">SGX / Baltic Exchange Settled Futures Contract Price History</div>
+            </div>
+            <button onclick="closeDeconstContractHistory()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);border-radius:4px;padding:3px 10px;font-size:11px;cursor:pointer;font-weight:600;">✕ Close Detail</button>
+          </div>
+          <div id="deconstContractBadgesRow" style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;"></div>
+          <div style="height:240px;position:relative;">
+            <canvas id="deconstContractChart"></canvas>
+          </div>
+        </div>
+
         <!-- 2D Freight Shock Sensitivity Heatmap Matrix -->
         <div style="margin-top:16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;" data-tooltip="Interactive 5x5 Freight Shock Sensitivity Grid - simulates ETF share price ($) and net return (%) across 25 simultaneous freight rate shock scenarios. Click any cell to apply it instantly to the engine.">
           <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
