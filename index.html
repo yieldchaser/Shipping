@@ -7,7 +7,7 @@
   <title>Shipping</title>
   <!-- Pirate ship favicon - inline SVG as data URI, works in all browsers -->
   <link rel="icon" type="image/svg+xml"
-    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.92em' font-size='95' style='filter: drop-shadow(0px 3px 5px rgba(0,0,0,0.9));'%3E🏴‍☠️%3C/text%3E%3C/svg%3E">
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.92em' font-size='95' style='filter: drop-shadow(0px 3px 5px rgba(0,0,0,0.9));'%3E%3Cpath d='M50 15 a15 15 0 1 0 0 30 a15 15 0 1 0 0 -30 M50 45 v40 M25 65 h50 M25 65 a25 25 0 0 0 50 0' fill='none' stroke='%2358a6ff' stroke-width='8'/%3E/text%3E%3C/svg%3E">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -403,6 +403,28 @@
       background: rgba(88, 166, 255, 0.18) !important;
       box-shadow: 0 0 12px rgba(88, 166, 255, 0.35) !important;
     }
+
+    
+    /* INSTIUIONAL DUOTONE SVG ICON TILES */
+    .icon-tile {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      vertical-align: middle;
+      transition: all 0.15s ease;
+    }
+    .icon-tile-accent { background: rgba(88, 166, 255, 0.12); color: #58a6ff; border: 1px solid rgba(88, 166, 255, 0.25); }
+    .icon-tile-green  { background: rgba(63, 185, 80, 0.12); color: #3fb950; border: 1px solid rgba(63, 185, 80, 0.25); }
+    .icon-tile-orange { background: rgba(240, 136, 62, 0.12); color: #f0883e; border: 1px solid rgba(240, 136, 62, 0.25); }
+    .icon-tile-purple { background: rgba(163, 113, 247, 0.12); color: #a371f7; border: 1px solid rgba(163, 113, 247, 0.25); }
+    .icon-tile-gold   { background: rgba(210, 153, 34, 0.12); color: #d29922; border: 1px solid rgba(210, 153, 34, 0.25); }
+    .icon-tile-red    { background: rgba(248, 81, 73, 0.12); color: #f85149; border: 1px solid rgba(248, 81, 73, 0.25); }
+
+    .icon-tile-sm { width: 22px; height: 22px; border-radius: 4px; }
+    .icon-tile-md { width: 28px; height: 28px; border-radius: 6px; }
+    .icon-tile-lg { width: 34px; height: 34px; border-radius: 8px; }
+    .icon-tile svg { width: 60%; height: 60%; stroke-width: 2.2; }
 
     /* GLOBAL TOOLTIP */
     /* GLOBAL TOOLTIP - SYSTEM 2 */
@@ -2818,7 +2840,7 @@
 <circle cx="121" cy="58" r="7" fill="#ffffff"/><circle cx="121" cy="56.5" r="3" fill="#000"/><circle cx="119.8" cy="56" r="0.5" fill="#fff"/><circle cx="122.2" cy="56" r="0.5" fill="#fff"/><rect x="119.8" y="58.5" width="2.4" height="1" fill="#000"/><line x1="117" y1="62" x2="125" y2="66" stroke="#000" stroke-width="1"/><line x1="125" y1="62" x2="117" y2="66" stroke="#000" stroke-width="1"/>
 </svg>
     </div> <!-- /header-ships -->
-    <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
+    <h1><div class="icon-tile icon-tile-accent icon-tile-lg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg></div> &nbsp;Shipping Intelligence</h1>
   </div>
   </div><!-- /header-outer -->
 
@@ -4204,9 +4226,9 @@
           if (badgeEl) badgeEl.style.display = 'block';
           if (badgeTextEl) {
             if (_deconstETFKey === 'bdry') {
-              badgeTextEl.innerHTML = '🔵 <b style="color:#58a6ff;">Cape</b> (Blue) &nbsp;•&nbsp;  <b style="color:#3fb950;">Pana</b> (Green) &nbsp;•&nbsp;  <b style="color:#d29922;">Supra</b> (Gold)';
+              badgeTextEl.innerHTML = '<b style="color:#58a6ff;">• Cape</b> (Blue) &nbsp;•&nbsp;  <b style="color:#3fb950;">• Pana</b> (Green) &nbsp;•&nbsp;  <b style="color:#d29922;">• Supra</b> (Gold)';
             } else {
-              badgeTextEl.innerHTML = '🟧 <b style="color:#f0883e;">VLCC</b> (Orange) &nbsp;•&nbsp; 🟪 <b style="color:#a371f7;">Suezmax</b> (Purple)';
+              badgeTextEl.innerHTML = '<b style="color:#f0883e;">• VLCC</b> (Orange) &nbsp;•&nbsp; <b style="color:#a371f7;">• Suezmax</b> (Purple)';
             }
           }
 
@@ -4331,7 +4353,7 @@
        BULLISH SIGNAL: <span id="alertBullishText"></span>
     </div>
     <div id="alertBearish" class="alert-box alert-bearish">
-      🚨 BEARISH SIGNAL: <span id="alertBearishText"></span>
+      BEARISH SIGNAL: <span id="alertBearishText"></span>
     </div>
   </div>
 
@@ -4615,7 +4637,7 @@
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
           <div>
             <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
-              <span>ETF Futures Portfolio Deconstruction &amp; Scenario Predictor</span>
+              <div style="display:inline-flex;align-items:center;gap:8px;"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg></div> <span>ETF Futures Portfolio Deconstruction &amp; Scenario Predictor</span></div>
             </div>
             <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
               Deconstructs BDRY &amp; BWET holdings for any target date using the 5-Axiom Roll Model and simulates NAV sensitivity to freight futures shocks.
@@ -5602,7 +5624,7 @@
       <div class="signals-section" id="signals-sec-physical">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-physical')">
           <div class="section-title-wrap">
-            <span data-tooltip="Physical Freight & Cargo - Monitors supply/demand fundamentals, including Spot vs. 1-Year Time Charter rates, geographic arbitrage (Atlantic vs. Pacific), and commodity restocking dynamics (Port Stocks vs. Rates).">🚢 Physical Freight & Cargo</span>
+            <span data-tooltip="Physical Freight & Cargo - Monitors supply/demand fundamentals, including Spot vs. 1-Year Time Charter rates, geographic arbitrage (Atlantic vs. Pacific), and commodity restocking dynamics (Port Stocks vs. Rates)."><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><path d="M12 10V3"/><path d="M12 3L9 5h6z"/></svg></div> &nbsp;Physical Freight & Cargo</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
@@ -5611,7 +5633,7 @@
           <!-- Signals View Mode Toggle -->
           <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding:10px; background:var(--card); border:1px solid var(--border); border-radius:6px;">
             <div style="font-size:13px; font-weight:600; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
-              <span>👁️</span> Signals View Mode:
+              <div class="icon-tile icon-tile-purple icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg></div> &nbsp;Signals View Mode:
             </div>
             <div class="flex-row" style="gap:8px;">
               <button class="toggle-btn active" id="signalsViewSingle" onclick="setSignalsViewMode('single')">Single Sector (Global Filter)</button>
@@ -5717,7 +5739,7 @@
       <div class="signals-section" id="signals-sec-capital">
         <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-capital')">
           <div class="section-title-wrap">
-            <span data-tooltip="Vessel Capital Cycle - Traces the long-term shipping cycle by mapping asset valuations (scrap prices, resale value floors) and quadrant phase modeling (Recovery, Boom, Over-ordering, Restructuring) to time capital deployment.">⚓ Vessel Capital Cycle</span>
+            <span data-tooltip="Vessel Capital Cycle - Traces the long-term shipping cycle by mapping asset valuations (scrap prices, resale value floors) and quadrant phase modeling (Recovery, Boom, Over-ordering, Restructuring) to time capital deployment."><div class="icon-tile icon-tile-gold icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg></div> &nbsp;Vessel Capital Cycle</span>
           </div>
           <span class="expand-icon">▼</span>
         </div>
@@ -5785,7 +5807,7 @@
       <!-- Section 2: Daily Market Brief -->
       <div class="intel-section">
         <div class="intel-section-title">
-          📋 Daily Market Brief
+          <div class="icon-tile icon-tile-green icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg></div> &nbsp;Daily Market Brief
           <span class="intel-section-meta" id="intelBriefTs"></span>
           <span class="brief-stale-badge" id="briefStaleBadge"></span>
           <span class="brief-nav">
@@ -5800,7 +5822,7 @@
 
       <!-- Section 3: Q&A Assistant -->
       <div class="intel-section">
-        <div class="intel-section-title">🔍 Research Q&amp;A</div>
+        <div class="intel-section-title"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div> &nbsp;Research Q&amp;A</div>
         <div style="background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
           <div class="qa-key-row">
             <span class="qa-key-label">Provider</span>
@@ -7029,11 +7051,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function tradingSignal(stats) {
       if (!stats) return { text: '⏳ WAIT', cls: 'signal-wait' };
       const { pctl5y, zScore, alltimePctl } = stats;
-      if (pctl5y > 0.8) return { text: '⛔ SELL (Overheated)', cls: 'signal-sell' };
-      if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { text: '💎 GOLDEN DIP', cls: 'signal-golden' };
-      if (pctl5y < 0.1 && zScore < -0.6) return { text: '🔥 CATCHING KNIFE', cls: 'signal-knife' };
+      if (pctl5y > 0.8) return { text: '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span> SELL (Overheated)', cls: 'signal-sell' };
+      if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { text: '<span class="icon-tile icon-tile-green icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span> GOLDEN DIP', cls: 'signal-golden' };
+      if (pctl5y < 0.1 && zScore < -0.6) return { text: '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg></span> CATCHING KNIFE', cls: 'signal-knife' };
       if (pctl5y < 0.3 && alltimePctl < 0.3) return { text: '[Warning] VALUE TRAP', cls: 'signal-trap' };
-      if (pctl5y < 0.4) return { text: '🔹 ACCUMULATE', cls: 'signal-accumulate' };
+      if (pctl5y < 0.4) return { text: '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span> ACCUMULATE', cls: 'signal-accumulate' };
       return { text: '⏳ WAIT', cls: 'signal-wait' };
     }
 
@@ -9639,7 +9661,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (pctl > 90)      { regimeLabel = ' SPIKE';    regimeColor = '#f85149'; }
             else if (pctl > 75) { regimeLabel = ' ELEVATED'; regimeColor = '#e3b341'; }
             else if (pctl > 25) { regimeLabel = ' NORMAL';   regimeColor = '#3fb950'; }
-            else                { regimeLabel = '🔵 LOW';       regimeColor = '#58a6ff'; }
+            else                { regimeLabel = 'LOW';       regimeColor = '#58a6ff'; }
           }
           kpiHtml += [
             { label: ETF_LABELS[k] + ' 1Y HV', val: cur1y != null ? cur1y.toFixed(1) + '%' : '-', color: ETF_COLORS[k][252] },
@@ -10635,23 +10657,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     <div class="etf-image-block">
       <img src="assets/BDRY_Export-Map-1024x548.webp" alt="BDRY Export Map" class="etf-card-image" />
       <div class="etf-map-legend">
-        <div class="etf-legend-item"><span class="etf-legend-dot">⚫</span>Major Dry Bulk Exporting Nations</div>
+        <div class="etf-legend-item"><span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>Major Dry Bulk Exporting Nations</div>
         <div class="etf-legend-sep"></div>
-        <div class="etf-legend-item"><span class="etf-legend-dot">🔵</span>Major Dry Bulk Importing Nations</div>
+        <div class="etf-legend-item"><span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>Major Dry Bulk Importing Nations</div>
         <div class="etf-legend-sep"></div>
         <div class="etf-legend-line"><span class="etf-legend-dash"></span>Dry Bulk Routes</div>
       </div>
     </div>
     <div class="etf-fundamentals-section">
-      <div class="etf-research-title">🚢 Dry Bulk Fundamentals - Data Sources</div>
+      <div class="etf-research-title"><span class="icon-tile icon-tile-accent icon-tile-md" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/></svg></span> &nbsp;Dry Bulk Fundamentals - Data Sources</div>
       <div class="etf-fund-group">
         <div class="etf-fund-group-label">China Steel &amp; Bulk Demand</div>
         <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">⛏️</span><a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🚢</span><a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🔥</span><a href="https://en.macromicro.me/series/1327/cn-import-volume-of-coal-and-lignite" target="_blank" rel="noopener">China Coal Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🌱</span><a href="https://en.macromicro.me/series/7453/china-soybean-import" target="_blank" rel="noopener">China Soybean Imports</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-accent icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></div> &nbsp;<a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-gold icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div> &nbsp;<a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-accent icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><path d="M12 10V3"/><path d="M12 3L9 5h6z"/></svg></div> &nbsp;<a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-orange icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 3.5z"/></svg></div> &nbsp;<a href="https://en.macromicro.me/series/1327/cn-import-volume-of-coal-and-lignite" target="_blank" rel="noopener">China Coal Imports</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-green icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 20h10"/><path d="M12 20v-8"/><path d="M12 12A5 5 0 0 1 7 7c0-2.76 2.24-5 5-5s5 2.24 5 5a5 5 0 0 1-5 5z"/></svg></div> &nbsp;<a href="https://en.macromicro.me/series/7453/china-soybean-import" target="_blank" rel="noopener">China Soybean Imports</a></div>
       </div>
       <div class="etf-fund-group">
         <div class="etf-fund-group-label">Export Flow Indicators</div>
@@ -10662,53 +10684,53 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     <div class="etf-image-block">
       <img src="assets/BWET_Tanker-Map-1-1024x585.webp" alt="BWET Tanker Map" class="etf-card-image" />
       <div class="etf-map-legend">
-        <div class="etf-legend-item"><span class="etf-legend-dot">⚫</span>Major Crude Exporting Nations</div>
+        <div class="etf-legend-item"><span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>Major Crude Exporting Nations</div>
         <div class="etf-legend-sep"></div>
-        <div class="etf-legend-item"><span class="etf-legend-dot">🔵</span>Major Crude Importing Nations</div>
+        <div class="etf-legend-item"><span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>Major Crude Importing Nations</div>
         <div class="etf-legend-sep"></div>
         <div class="etf-legend-line"><span class="etf-legend-dash"></span>Major Crude Tanker Routes</div>
         <div class="etf-legend-sep"></div>
-        <div class="etf-legend-item"><span class="etf-legend-dot">🟪</span>BWET Focused Routes</div>
+        <div class="etf-legend-item"><span class="icon-tile icon-tile-purple icon-tile-sm" style="margin-right:4px;"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:currentColor;"></span></span>BWET Focused Routes</div>
       </div>
     </div>
     <div class="etf-fundamentals-section">
-      <div class="etf-research-title">🛢 Tanker Fundamentals - Data Sources</div>
+      <div class="etf-research-title"><span class="icon-tile icon-tile-orange icon-tile-md" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></span> &nbsp;Tanker Fundamentals - Data Sources</div>
       <div class="etf-fund-group">
         <div class="etf-fund-group-label">Crude &amp; Product Demand</div>
-        <div class="etf-fund-link"><span class="research-link-icon">🛢</span><a href="https://tradingeconomics.com/commodity/crude-oil" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://www.eia.gov/petroleum/supply/weekly/" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
+        <div class="etf-fund-link"><span class="icon-tile icon-tile-orange icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></span> &nbsp;<a href="https://tradingeconomics.com/commodity/crude-oil" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
+        <div class="etf-fund-link"><div class="icon-tile icon-tile-accent icon-tile-sm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></div> &nbsp;<a href="https://www.eia.gov/petroleum/supply/weekly/" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
         <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://tradingeconomics.com/china/crude-oil-imports" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🏭</span><a href="https://tradingeconomics.com/china/refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
+        <div class="etf-fund-link"><span class="icon-tile icon-tile-accent icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4H2z"/></svg></span> &nbsp;<a href="https://tradingeconomics.com/china/refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
         <div class="etf-fund-link"><span class="research-link-icon"></span><a href="https://www.eia.gov/petroleum/weekly/crude.php" target="_blank" rel="noopener">US Crude Oil Production</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🛑</span><a href="https://tradingeconomics.com/opec/crude-oil-production" target="_blank" rel="noopener">OPEC Crude Oil Production</a></div>
+        <div class="etf-fund-link"><span class="icon-tile icon-tile-red icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg></span> &nbsp;<a href="https://tradingeconomics.com/opec/crude-oil-production" target="_blank" rel="noopener">OPEC Crude Oil Production</a></div>
       </div>
       <div class="etf-fund-group">
         <div class="etf-fund-group-label">Key Trade Routes</div>
-        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-TL1!/" target="_blank" rel="noopener">TD3C - Ras Tanura (MEG) → Ningbo (Far East)</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-T2D1!/" target="_blank" rel="noopener">TD20 - Nigeria (WAF) → Rotterdam</a></div>
+        <div class="etf-fund-link"><span class="icon-tile icon-tile-purple icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></span> &nbsp;<a href="https://in.tradingview.com/symbols/NYMEX-TL1!/" target="_blank" rel="noopener">TD3C - Ras Tanura (MEG) → Ningbo (Far East)</a></div>
+        <div class="etf-fund-link"><span class="icon-tile icon-tile-purple icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></span> &nbsp;<a href="https://in.tradingview.com/symbols/NYMEX-T2D1!/" target="_blank" rel="noopener">TD20 - Nigeria (WAF) → Rotterdam</a></div>
       </div>
     </div>`}
     <div class="etf-research-section">
-      <div class="etf-research-title">📰 Market Outlook &amp; Research Sources</div>
+      <div class="etf-research-title"><span class="icon-tile icon-tile-purple icon-tile-md" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></span> &nbsp;Market Outlook &amp; Research Sources</div>
       <div class="research-group">
         <div class="research-group-label">Research &amp; Insights</div>
-        <div class="research-link"><span class="research-link-icon">📋</span><a href="https://www.breakwaveadvisors.com/publications" target="_blank" rel="noopener">Breakwave Advisors - Research</a></div>
-        <div class="research-link"><span class="research-link-icon">💡</span><a href="https://www.breakwaveadvisors.com/insights" target="_blank" rel="noopener">Breakwave Advisors - Insights</a></div>
-        <div class="research-link"><span class="research-link-icon">🔗</span><a href="https://www.bimco.org/news-insights/market-analysis/" target="_blank" rel="noopener">BIMCO - Market Analysis</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-green icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></span> &nbsp;<a href="https://www.breakwaveadvisors.com/publications" target="_blank" rel="noopener">Breakwave Advisors - Research</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-gold icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5"/></svg></span> &nbsp;<a href="https://www.breakwaveadvisors.com/insights" target="_blank" rel="noopener">Breakwave Advisors - Insights</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-accent icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span> &nbsp;<a href="https://www.bimco.org/news-insights/market-analysis/" target="_blank" rel="noopener">BIMCO - Market Analysis</a></div>
       </div>
       <div class="research-group">
         <div class="research-group-label">Weekly Market Reports</div>
         <div class="research-link"><span class="research-link-icon"></span><a href="${etfKey === 'bdry' ? 'https://fearnpulse.com/#2' : 'https://fearnpulse.com/#1'}" target="_blank" rel="noopener">Fearnleys - Weekly Market Pulse</a></div>
-        <div class="research-link"><span class="research-link-icon">🏛️</span><a href="${etfKey === 'bdry' ? 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#dry%20' : 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#tanker'}" target="_blank" rel="noopener">Baltic Exchange - Weekly Roundup</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-accent icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="3" y1="21" x2="21" y2="21"/><line x1="3" y1="10" x2="21" y2="10"/><path d="M12 3L2 10h20L12 3z"/><line x1="6" y1="10" x2="6" y2="21"/><line x1="10" y1="10" x2="10" y2="21"/><line x1="14" y1="10" x2="14" y2="21"/><line x1="18" y1="10" x2="18" y2="21"/></svg></span> &nbsp;<a href="${etfKey === 'bdry' ? 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#dry%20' : 'https://www.balticexchange.com/en/data-services/WeeklyRoundup.html#tanker'}" target="_blank" rel="noopener">Baltic Exchange - Weekly Roundup</a></div>
       </div>
       <div class="research-group">
         <div class="research-group-label">Charter Rate Estimates</div>
-        <div class="research-link"><span class="research-link-icon">📅</span><a href="${etfKey === 'bdry' ? 'https://www.hellenicshippingnews.com/category/report-analysis/weekly-dry-time-charter-estimates/' : 'https://www.hellenicshippingnews.com/category/report-analysis/weekly-tanker-time-charter-estimates/'}" target="_blank" rel="noopener">Weekly Charter Rates (Hellenic)</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-green icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></span> &nbsp;<a href="${etfKey === 'bdry' ? 'https://www.hellenicshippingnews.com/category/report-analysis/weekly-dry-time-charter-estimates/' : 'https://www.hellenicshippingnews.com/category/report-analysis/weekly-tanker-time-charter-estimates/'}" target="_blank" rel="noopener">Weekly Charter Rates (Hellenic)</a></div>
       </div>
       <div class="research-group">
         <div class="research-group-label">ETF Data</div>
         <div class="research-link"><span class="research-link-icon"></span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs - ${ticker} Official Page</a></div>
-        <div class="research-link"><span class="research-link-icon">📐</span><a href="${etfKey === 'bdry' ? 'https://www.solactive.com/index/DE000SLA4BY3/' : 'https://www.solactive.com/index/DE000SL0HLG3/'}" target="_blank" rel="noopener">Solactive - Index Page</a></div>
+        <div class="research-link"><span class="icon-tile icon-tile-purple icon-tile-sm" style=""><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21.3 15.3l-7.6-7.6a1 1 0 0 0-1.4 0l-7 7a1 1 0 0 0 0 1.4l7.6 7.6a1 1 0 0 0 1.4 0l7-7a1 1 0 0 0 0-1.4z"/></svg></span> &nbsp;<a href="${etfKey === 'bdry' ? 'https://www.solactive.com/index/DE000SLA4BY3/' : 'https://www.solactive.com/index/DE000SL0HLG3/'}" target="_blank" rel="noopener">Solactive - Index Page</a></div>
       </div>
     </div>
 `;
@@ -10952,7 +10974,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       } catch (err) {
         document.getElementById('loadingOverlay').classList.add('hidden');
         document.getElementById('tab-dashboard').innerHTML =
-          `<div class="error-msg">❌ Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
+          `<div class="error-msg">[Error] Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
         console.error(err);
       }
     });
@@ -13872,7 +13894,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (pctl > 90) { regimeLabel = ' SPIKE'; regimeColor = '#f85149'; }
         else if (pctl > 75) { regimeLabel = ' ELEVATED'; regimeColor = '#e3b341'; }
         else if (pctl > 25) { regimeLabel = ' NORMAL'; regimeColor = '#3fb950'; }
-        else { regimeLabel = '🔵 LOW'; regimeColor = '#58a6ff'; }
+        else { regimeLabel = 'LOW'; regimeColor = '#58a6ff'; }
       }
 
       const kpiEl = document.getElementById('hvKpiStrip');
@@ -14603,7 +14625,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var slope = ((back - front) / front) * 100;
         var structure = slope > 1.5 ? 'Contango' : slope < -1.5 ? 'Backwardation' : 'Flat';
         var structureColor = slope < -1.5 ? '#3fb950' : slope > 1.5 ? '#f85149' : '#e3b341';
-        var structureIcon = slope < -1.5 ? '' : slope > 1.5 ? '' : '➡️';
+        var structureIcon = slope < -1.5 ? '' : slope > 1.5 ? '' : '->';
         slopeHtml += '<span style="margin-right:16px;font-size:12px;">' +
           '<span style="color:' + colorMap[cls] + ';font-weight:700">' + labelMap[cls] + '</span>' +
           ' &nbsp;' + structureIcon +
@@ -15855,7 +15877,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       el.textContent = label;
       el.className = 'regime-badge ' + cls;
       el.style.display = 'inline-block';
-      const tt = `Trend Lifecycle for ${rows[0] && rows[0].bdiy ? 'BDI Index' : 'Selected Asset'} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%).  Expansion (>MA200, ROC>0),  Distribution (>MA200, ROC<0), 🔵 Accumulation (<MA200, ROC>0),  Contraction (<MA200, ROC<0).`;
+      const tt = `Trend Lifecycle for ${rows[0] && rows[0].bdiy ? 'BDI Index' : 'Selected Asset'} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%).  Expansion (>MA200, ROC>0),  Distribution (>MA200, ROC<0), Accumulation (<MA200, ROC>0),  Contraction (<MA200, ROC<0).`;
       el.setAttribute('data-tooltip', tt);
       el.removeAttribute('title');
     }
@@ -16358,7 +16380,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _intelRegime(productKey) {
       const rows   = getRows(productKey);
-      if (!rows.length) return { regime: 'N/A', emoji: '⚪', ma200: null, roc60: null, zScore: null, current: null, pctl1y: null, pctl5y: null, pctlAll: null, zHistory: [] };
+      if (!rows.length) return { regime: 'N/A', emoji: '', ma200: null, roc60: null, zScore: null, current: null, pctl1y: null, pctl5y: null, pctlAll: null, zHistory: [] };
       const vals   = rows.map(r => r[productKey]);
       const ma200a = movingAverage(vals, 200);
       const roc60a = rateOfChange(vals, 60);
@@ -16368,10 +16390,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const zScore = zArr[zArr.length - 1];
       const cur    = vals.filter(v => v != null).at(-1);
       let regime, emoji;
-      if (ma200 == null || roc60 == null) { regime = 'N/A';          emoji = '⚪'; }
+      if (ma200 == null || roc60 == null) { regime = 'N/A';          emoji = ''; }
       else if (cur > ma200 && roc60 > 0)  { regime = 'EXPANSION';    emoji = ''; }
       else if (cur > ma200)               { regime = 'DISTRIBUTION'; emoji = ''; }
-      else if (roc60 > 0)                 { regime = 'ACCUMULATION'; emoji = '🔵'; }
+      else if (roc60 > 0)                 { regime = 'ACCUMULATION'; emoji = ''; }
       else                                { regime = 'CONTRACTION';  emoji = ''; }
       // Percentiles
       const validVals = vals.filter(v => v != null);
@@ -16408,12 +16430,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // Two primary vessel-class cards with sub-index strip
       grid.innerHTML =
-        _buildVCCard('🚢 Dry Bulk Freight', bdiQ,
+        _buildVCCard('Dry Bulk Freight', bdiQ,
           _confluenceType(bdiQ.zScore, drySents), drySigs,
-          [{ label: '🚢 Capesize', q: capeQ, c: _confluenceType(capeQ.zScore, drySents) },
-           { label: '⛴️ Panamax',  q: panamaQ, c: _confluenceType(panamaQ.zScore, drySents) },
-           { label: '🛳️ Supramax', q: supraQ, c: _confluenceType(supraQ.zScore, drySents) },
-           { label: '⚓ Handysize', q: handyQ, c: _confluenceType(handyQ.zScore, drySents) }]) +
+          [{ label: 'Capesize', q: capeQ, c: _confluenceType(capeQ.zScore, drySents) },
+           { label: 'Panamax',  q: panamaQ, c: _confluenceType(panamaQ.zScore, drySents) },
+           { label: 'Supramax', q: supraQ, c: _confluenceType(supraQ.zScore, drySents) },
+           { label: 'Handysize', q: handyQ, c: _confluenceType(handyQ.zScore, drySents) }]) +
         _buildVCCard(' Tanker Market', { ...cleanQ, zScore: tankerZ },
           _confluenceType(tankerZ, tankSents), tankerSigs,
           [{ label: 'BCTI Clean', q: cleanQ, c: _confluenceType(cleanQ.zScore, tankSents) },
@@ -16783,7 +16805,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const cfg = cfgMap[vcData.confluence_type] || cfgMap.NEUTRAL;
         const s = snap?.[snapKey];
 
-        const emojiMap = { UP: '', DOWN: '', FLAT: '', RECOVERY: '🔵', 'N/A': '⚪' };
+        const emojiMap = { UP: '', DOWN: '', FLAT: '', RECOVERY: '', 'N/A': '' };
         const regimeEmoji = emojiMap[s?.regime_emoji] || s?.regime_emoji || '';
         const regimeText = [regimeEmoji, s?.regime].filter(Boolean).join(' ') || 'N/A';
         const kpiHtml = [
@@ -16823,7 +16845,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           </div>
           ${vcData.confluence_note ? (() => {
             const ct = vcData.confluence_type || '';
-            const cIcon = ct === 'DIVERGENCE' ? '[Warning]' : ct === 'BULL_CONFLUENCE' ? '✅' : ct === 'BEAR_CONFLUENCE' ? '🚨' : '🔄';
+            const cIcon = ct === 'DIVERGENCE' ? '[Warning]' : ct === 'BULL_CONFLUENCE' ? '[Bullish]' : ct === 'BEAR_CONFLUENCE' ? '[Bearish]' : '[Neutral]';
             return '<div class="brief-conf-note ' + cfg.cls + '">' + cIcon + ' ' + esc(vcData.confluence_note) + '</div>';
           })() : ''}
           <p class="brief-summary">${esc(vcData.summary || 'No narrative summary available in the latest brief for this class.')}</p>
@@ -17552,7 +17574,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           // Surface low-confidence warning before LLM call
           const topScore = rankedChunks[0]?.score || 0;
           if (topChunks.length < 3 || topScore < 0.5) {
-            statEl.textContent = '⚠ Limited context found — answer may be partial';
+            statEl.textContent = '[Note] Limited context found — answer may be partial';
           }
 
           // LLM reranker: for large-context providers, fire a tiny call to re-order top candidates
