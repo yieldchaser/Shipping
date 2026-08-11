@@ -234,7 +234,7 @@ Comprehensive analytical suite for technical and fundamental signals:
   - **Time Charter Rates**: Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio, Fearnleys/Alibra source toggle (Merged, Fearnleys, Both), and dual-range slider.
   - **Basin/Sector Spreads**: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class with dual-range slider.
   - **Restocking Pressure**: Freight spot rates vs CFR 62% Iron Ore price and Qingdao Port Inventory with dual-range slider.
-  - **LPG Freight & Charter Rates**: Multi-series VLGC/MGC spot + charter rates (VLGC 84k, MGC 38k, Handy 22k) + Baltic LPG Index overlay with dual-range slider.
+  - **LPG Freight & Charter Rates**: Multi-series VLGC/MGC spot + charter rates (VLGC 84k, MGC 38k, Handy 22k) + Baltic LPG Index overlay with dual-range slider and unit toggle ($/Day TCE equivalent vs raw $/Month PCM hire).
   - **Vessel Capital Cycle**: S&P secondhand valuations (1970–2026) with 3 sub-modes (10Y Asset Value, Scrap Floor $M, Implied Charter Yield %) and dual-range slider.
   - **Market Cycle Quadrant**: 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score (Recovery, Boom, Over-ordering, Restructuring).
 
