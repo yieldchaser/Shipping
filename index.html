@@ -11372,8 +11372,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 } }, title: { display: isMainCall, text: 'Scrap Price ($/LDT)', color: '#8b949e', font: { size: 11 } } },
-            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 } }, title: { display: isMainCall, text: 'Vessel Scrap Floor Value ($M)', color: '#8b949e', font: { size: 11 } } }
+            yLeft: {
+              position: 'left',
+              grid: { color: '#151a22' },
+              ticks: { font: { size: isMainCall ? 11 : 9 }, callback: yLeftCallback },
+              title: { display: isMainCall && !!yLeftTitle, text: yLeftTitle, color: '#8b949e', font: { size: 11 } }
+            },
+            yRight: {
+              display: (mode !== '10y'),
+              position: 'right',
+              grid: { drawOnChartArea: false },
+              ticks: { font: { size: isMainCall ? 11 : 9 }, callback: yRightCallback },
+              title: { display: isMainCall && !!yRightTitle, text: yRightTitle, color: '#8b949e', font: { size: 11 } }
+            }
           }
         }
       });
