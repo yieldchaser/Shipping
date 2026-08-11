@@ -3918,14 +3918,63 @@
         matrixTable.innerHTML = mHtml;
       }
 
-      // Dynamically render Micro Contract Sliders if in Micro mode (only build DOM if not dragging or holdings changed)
-      if (_deconstSliderMode === 'micro') {
+      // Toggle Micro Preset Bar & Sliders DOM based on _deconstSliderMode
+      var microPresetBar = document.getElementById('deconstMicroPresetBar');
+      if (microPresetBar) microPresetBar.style.display = _deconstSliderMode === 'micro' ? 'flex' : 'none';
+
+      var bdrySlidersContainer = document.getElementById('deconstSlidersBdry');
+      var bwetSlidersContainer = document.getElementById('deconstSlidersBwet');
+      if (bdrySlidersContainer) bdrySlidersContainer.style.display = _deconstETFKey === 'bdry' ? 'block' : 'none';
+      if (bwetSlidersContainer) bwetSlidersContainer.style.display = _deconstETFKey === 'bwet' ? 'block' : 'none';
+
+      if (_deconstSliderMode === 'macro') {
+        if (bdrySlidersContainer && (!document.getElementById('deconstSliderCape') || !document.getElementById('deconstSliderPana'))) {
+          bdrySlidersContainer.innerHTML =
+            '<div style="margin-bottom:12px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
+                '<span style="font-weight:600;color:#58a6ff;">Capesize 5TC FFA Shock:</span>' +
+                '<span id="deconstValCape" style="font-weight:700;">' + (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape.toFixed(1) + '%</span>' +
+              '</div>' +
+              '<input type="range" class="deconst-slider" id="deconstSliderCape" min="-50" max="100" value="' + Math.round(_deconstShocks.cape) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+            '</div>' +
+            '<div style="margin-bottom:12px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
+                '<span style="font-weight:600;color:#3fb950;">Panamax 5TC FFA Shock:</span>' +
+                '<span id="deconstValPana" style="font-weight:700;">' + (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana.toFixed(1) + '%</span>' +
+              '</div>' +
+              '<input type="range" class="deconst-slider" id="deconstSliderPana" min="-50" max="100" value="' + Math.round(_deconstShocks.pana) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+            '</div>' +
+            '<div style="margin-bottom:8px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
+                '<span style="font-weight:600;color:#d29922;">Supramax 10TC FFA Shock:</span>' +
+                '<span id="deconstValSupra" style="font-weight:700;">' + (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra.toFixed(1) + '%</span>' +
+              '</div>' +
+              '<input type="range" class="deconst-slider" id="deconstSliderSupra" min="-50" max="100" value="' + Math.round(_deconstShocks.supra) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+            '</div>';
+        }
+        if (bwetSlidersContainer && (!document.getElementById('deconstSliderVlcc') || !document.getElementById('deconstSliderSuez'))) {
+          bwetSlidersContainer.innerHTML =
+            '<div style="margin-bottom:12px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
+                '<span style="font-weight:600;color:#f0883e;">VLCC TD3C (MEG-China) Shock:</span>' +
+                '<span id="deconstValVlcc" style="font-weight:700;">' + (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc.toFixed(1) + '%</span>' +
+              '</div>' +
+              '<input type="range" class="deconst-slider" id="deconstSliderVlcc" min="-50" max="100" value="' + Math.round(_deconstShocks.vlcc) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+            '</div>' +
+            '<div style="margin-bottom:8px;">' +
+              '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
+                '<span style="font-weight:600;color:#a371f7;">Suezmax TD20 (WAF-Cont) Shock:</span>' +
+                '<span id="deconstValSuez" style="font-weight:700;">' + (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez.toFixed(1) + '%</span>' +
+              '</div>' +
+              '<input type="range" class="deconst-slider" id="deconstSliderSuez" min="-50" max="100" value="' + Math.round(_deconstShocks.suez) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+            '</div>';
+        }
+      } else if (_deconstSliderMode === 'micro') {
         var sliderContainerId = _deconstETFKey === 'bdry' ? 'deconstSlidersBdry' : 'deconstSlidersBwet';
         var sliderContainer = document.getElementById(sliderContainerId);
         if (sliderContainer) {
           var existingInputs = sliderContainer.querySelectorAll('input.deconst-slider');
           if (existingInputs.length === pred.holdings.length && window._isMicroDragging) {
-            // Update value text badges in-place without replacing innerHTML
             pred.holdings.forEach(function(h, idx) {
               var valEl = document.getElementById('deconstMicroVal_' + idx);
               var curEff = Math.round(h.effShockPct);
