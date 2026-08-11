@@ -7839,8 +7839,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.parsed.y == null) return null;
-                  return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(1) + '%';
+                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(1) + '%' : '—');
                 }
               }
             }
@@ -7849,7 +7848,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 } } },
             y: {
               grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(0) + '%'; } },
+              ticks: { font: { size: 11 }, callback: function (v) { return v != null ? v.toFixed(0) + '%' : ''; } },
               title: { display: true, text: 'Annualized HV (%)', color: '#8b949e', font: { size: 11 } }
             }
           }
@@ -8039,7 +8038,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           ...commonOptions,
           scales: {
             ...commonOptions.scales,
-            y: { ...commonOptions.scales.y, ticks: { ...commonOptions.scales.y.ticks, callback: v => '$' + v.toFixed(2) } }
+            y: { ...commonOptions.scales.y, ticks: { ...commonOptions.scales.y.ticks, callback: v => v != null ? '$' + v.toFixed(2) : '' } }
           },
           plugins: {
             ...commonOptions.plugins,
@@ -8051,7 +8050,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                   const dNet = dailyNet[idx];
                   const cNet = cumFlows[idx];
                   return [
-                    ' Price: $' + c.parsed.y.toFixed(2),
+                    (c.parsed.y != null ? ' Price: $' + c.parsed.y.toFixed(2) : ''),
                     ' Daily Net: ' + (dNet >= 0 ? '+' : '') + '$' + (dNet / 1000000).toFixed(2) + 'M',
                     ' Cum. Net: ' + (cNet >= 0 ? '+' : '') + '$' + (cNet / 1000000).toFixed(2) + 'M'
                   ];
@@ -8467,7 +8466,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             legend: { display: false },
             tooltip: {
               callbacks: {
-                label: ctx => ` Drawdown: ${ctx.parsed.y.toFixed(2)}%`
+                label: ctx => ` Drawdown: ${ctx.parsed.y != null ? ctx.parsed.y.toFixed(2) : '—'}%`
               }
             }
           },
@@ -8488,7 +8487,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               max: 0,
               ticks: {
                 font: { size: 10 },
-                callback: v => v.toFixed(1) + '%'
+                callback: v => v != null ? v.toFixed(1) + '%' : ''
               },
               title: { display: true, text: 'Drawdown %', color: '#8b949e', font: { size: 10 } }
             }
@@ -8834,7 +8833,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               },
               tooltip: {
                 callbacks: {
-                  label: ctx => ` ${ctx.label}: ${ctx.parsed.toFixed(1)}% of futures`,
+                  label: ctx => ` ${ctx.label}: ${ctx.parsed != null ? ctx.parsed.toFixed(1) : ''}% of futures`,
                 },
               },
             },
@@ -9134,11 +9133,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true } },
-            tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } }
+            tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return dispLabels[i] ? dispLabels[i].slice(0, 7) : ''; } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } },
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } },
           },
         },
       });
@@ -9402,7 +9401,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             },
             y: {
               grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1); } },
+              ticks: { font: { size: 11 }, callback: function (v) { return v != null ? v.toFixed(1) : ''; } },
               title: { display: true, text: 'Z-Score', color: '#8b949e', font: { size: 11 }, padding: { right: 10 } }
             },
           },
@@ -9429,10 +9428,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           responsive: true, maintainAspectRatio: false,
           layout: { padding: { left: 10, top: 10 } },
           interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
+          plugins: { legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } }
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } }
           },
         },
       });
@@ -9447,8 +9446,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
         type: 'bar', data: { labels: MONTH_NAMES, datasets: [{ label: PRODUCTS[productKey].label + ' ' + cy, data: avgs, backgroundColor: colors, borderRadius: 4 }] },
         options: {
-          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
+          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
         },
       });
     }
@@ -9481,11 +9480,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           plugins: {
             decimation: { enabled: true, algorithm: 'lttb', samples: 120 },
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 9 }, boxWidth: 10, padding: 6 } },
-            tooltip: { callbacks: { title: function (c) { return 'Day ' + c[0].label; }, label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } }
+            tooltip: { callbacks: { title: function (c) { return 'Day ' + c[0].label; }, label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 13, font: { size: 10 } }, title: { display: true, text: 'Trading Day', color: '#8b949e', font: { size: 11 } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function (v) { return fmt(v); } } }
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function (v) { return v != null ? fmt(v) : ''; } } }
           },
         },
       });
@@ -9523,10 +9522,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         data: { labels: labels, datasets: [{ label: 'Drawdown %', data: ddData, borderColor: '#f85149', backgroundColor: 'rgba(248,81,73,0.3)', borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 6, pointBackgroundColor: '#111820', pointBorderColor: '#f85149', pointBorderWidth: 2, fill: true, tension: 0.1 }] },
         options: {
           responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' Drawdown: ' + c.parsed.y.toFixed(2) + '%'; } } } },
+          plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' Drawdown: ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + '%' : '—'); } } } },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 11 }, callback: function (val) { var l = this.getLabelForValue(val); return l ? String(l).slice(0, 7) : ''; } } },
-            y: { grid: { color: '#151a22' }, max: 0, ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1) + '%'; } }, title: { display: true, text: 'Drawdown %', color: '#8b949e', font: { size: 11 } } }
+            y: { grid: { color: '#151a22' }, max: 0, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? v.toFixed(1) + '%' : ''; } }, title: { display: true, text: 'Drawdown %', color: '#8b949e', font: { size: 11 } } }
           },
         },
       });
@@ -9663,7 +9662,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 title: ctx => `Year ${ctx[0].label}`,
-                label: ctx => ` ${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+                label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y != null ? fmt(ctx.parsed.y) : '—'}`,
               },
             },
           },
@@ -9675,7 +9674,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             },
             y: {
               grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: v => fmt(v) },
+              ticks: { font: { size: 11 }, callback: v => v != null ? fmt(v) : '' },
               title: { display: true, text: PRODUCTS[productKey].label, color: '#8b949e', font: { size: 11 } },
             },
           },
@@ -9698,8 +9697,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       chartRegistry['monthlyBarChart'] = new Chart(canvas.getContext('2d'), {
         type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 4 }] },
         options: {
-          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, maxRotation: 45 } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
+          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, maxRotation: 45 } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
         },
       });
     }
@@ -9731,8 +9730,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         },
         options: {
           responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
+          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
         },
       });
     }
@@ -9836,8 +9835,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         },
         options: {
           responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
+          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
         },
       });
     }
@@ -9853,8 +9852,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       chartRegistry['quarterlyBarChart'] = new Chart(canvas.getContext('2d'), {
         type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 4 }] },
         options: {
-          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
+          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
         },
       });
     }
@@ -9884,7 +9883,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
       
       html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700">8Y Avg</td>';
-      var a8all = [];
       qs.forEach(function (q) { var v = avg8y[q]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">&mdash;</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; });
       var a8avg = mean(a8all.filter(function (v) { return v != null; }));
       html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '&mdash;') + '</td><td>&mdash;</td></tr>';
@@ -10181,7 +10179,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                   callbacks: {
                     label: function (c) {
                       const val = c.parsed.y;
-                      if (val == null) return ' ' + c.dataset.label + ': -';
+                      if (val == null) return ' ' + c.dataset.label + ': —';
                       return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
                     }
                   }
@@ -10189,7 +10187,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               },
               scales: {
                 x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } }
+                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } }
               }
             }
           });
@@ -10410,7 +10408,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               callbacks: {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
+                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
                   if (c.dataset.label.includes('Spot')) {
                     const rawVal = Math.round(c.parsed.y / spotMultiplier);
                     return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day (' + rawVal.toLocaleString() + ' index points)';
@@ -10422,8 +10420,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: isMainCall, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
-            yRight: { position: 'right', min: 0.2, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v.toFixed(1) + 'x' }, title: { display: isMainCall, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', min: 0.2, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: isMainCall, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
@@ -10532,7 +10530,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               },
               scales: {
                 x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-                y: { min: 0.4, max: 2.2, grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v.toFixed(1) + 'x' }, title: { display: true, text: 'Spread Ratio', color: '#8b949e', font: { size: 11 } } }
+                y: { min: 0.4, max: 2.2, grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: true, text: 'Spread Ratio', color: '#8b949e', font: { size: 11 } } }
               }
             }
           });
@@ -12135,6 +12133,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               callbacks: {
                 title: function (c) { return c[0].label; },
                 label: function (c) {
+                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
                   if (c.dataset.label === '252D Percentile') return ' Percentile: ' + c.parsed.y.toFixed(1) + '%';
                   return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(3);
                 }
@@ -12143,7 +12142,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (val) { var l = this.getLabelForValue(val); return l ? String(l).slice(0, 7) : ''; } } },
-            yRatio: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(2); } }, title: { display: true, text: 'Ratio', color: '#8b949e', font: { size: 11 } } },
+            yRatio: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? v.toFixed(2) : ''; } }, title: { display: true, text: 'Ratio', color: '#8b949e', font: { size: 11 } } },
             yPctl: { position: 'right', grid: { drawOnChartArea: false }, min: 0, max: 100, ticks: { font: { size: 11 }, callback: function (v) { return v + '%'; } }, title: { display: true, text: 'Pctl', color: '#8b949e', font: { size: 11 } } },
           },
         },
@@ -13949,7 +13948,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 label: c => {
                   const r = filtered[c.dataIndex];
                   return [
-                    ` Premium: ${c.parsed.y.toFixed(2)}%`,
+                    (c.parsed.y != null ? ` Premium: ${c.parsed.y.toFixed(2)}%` : ''),
                     ` Spot: ${fmt(r.spot)}`,
                     ` Futures: ${fmt(r.ff)}`
                   ];
@@ -14082,11 +14081,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                   const pana = r.panama_change * BDRY_WEIGHTS.panama;
                   const supra = r.suprama_change * BDRY_WEIGHTS.suprama;
                   
-                  if (c.datasetIndex === 0) return ' Cape Contrib: ' + cape.toFixed(2);
-                  if (c.datasetIndex === 1) return ' Pana Contrib: ' + pana.toFixed(2);
+                  if (c.datasetIndex === 0) return ' Cape Contrib: ' + (cape != null ? cape.toFixed(2) : '—');
+                  if (c.datasetIndex === 1) return ' Pana Contrib: ' + (pana != null ? pana.toFixed(2) : '—');
                   return [
-                    ' Supra Contrib: ' + supra.toFixed(2),
-                    ' Total BDI Δ: ' + total.toFixed(2)
+                    ' Supra Contrib: ' + (supra != null ? supra.toFixed(2) : '—'),
+                    ' Total BDI Δ: ' + (total != null ? total.toFixed(2) : '—')
                   ];
                 }
               }
@@ -14184,7 +14183,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { display: false },
-            tooltip: { callbacks: { label: c => ' Lag ' + c.label + ': ' + c.parsed.y.toFixed(3) } }
+            tooltip: { callbacks: { label: c => ' Lag ' + c.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(3) : '—') } }
           },
           scales: {
             x: { 
