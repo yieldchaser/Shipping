@@ -211,17 +211,21 @@ All 6 base indices as individual chart cards:
 8. **Yearly Performance & Macro Cycle Tables**.
 9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
 10. **🔮 ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
-    - **5-Axiom Roll Predictor**: Synthesizes exact expected contract holdings, lot counts, and % weights for any date in the past, present, or future (today, month-end, Q4 2026, Q1 2027, 1 year out).
-    - **Contract-Level Micro-Simulator & SGX Range Matrix**: Interactive line-item table displaying SGX Settle Rates ($/day), 52-Week Price Range Bars ($ Min — $ Max), individual contract `Shock %` inputs, and granular per-contract **`$ / Share Impact`** and **`% NAV Contrib`** metrics.
-    - **Macro / Micro Slider Mode Toggle & Curve Shifters**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders for every individual contract expiry month held by the fund. Includes Quick Curve Shifters (`+10% All`, `-10% All`, `Prompt Spike ⚡`, `Reset Micro`).
-    - **📊 2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 simulation grid calculating projected ETF share prices ($) and net return (%) across 25 simultaneous freight rate shock scenarios (Capesize vs Panamax / VLCC vs Suezmax). Clicking any cell instantly applies scenario shocks to the engine.
-    - **Editable Position Base PnL Exposure**: Interactive share quantity input (`PnL FOR [ 1000 ] SHARES`) that dynamically recalculates total dollar PnL exposure and invested Base Capital ($) for any custom position size.
-    - **One-Click Macro Scenarios**: Pre-built multi-contract shocks (China Iron Ore Boom, Tanker Geopolitical Squeeze, Global Freight Slump, Seasonal Q4 Rally).
-    - **Target Price Reverse Solver & Live Plain English Insights**: Inverts the matrix to solve required uniform FFA rallies to reach target share prices ($) and generates real-time plain English market impact breakdowns with 1:1 exact base price parity.
-    - **Dual-View Doughnut Chart Mode & Contiguous Arc Grouping**: Toggle between high-level **By Vessel Class** view (3 clean slices) and detailed **By Contract Month** view with contiguous vessel class color arcs (blues for Capesize 5TC, greens for Panamax 5TC, golds for Supramax 10TC, oranges for VLCC TD3C, purples for Suezmax TD20) sorted in strict chronological month sequence (`Aug` ➔ `Sep` ➔ `Oct` ➔ `Nov` ➔ `Dec`).
-    - **Exact Lot-Weighted Roll Yield Engine**: Calculates lot-weighted prompt month vs deferred quarter contract price spreads ($	ext{Weighted Prompt Px} - 	ext{Weighted Deferred Px}$) to measure implied monthly contango decay (🔴) or backwardation roll gain (🟢) dynamically reacting to live SGX futures strips and user shock scenario inputs.
-    - **Historical SEC Disclosure Backtesting**: Loads disclosed SEC filings for past dates with a green 99.8% precision validation badge.
-    - **Native Dark Theme Control Styling**: Integrated `color-scheme: dark` for input date pickers, calendar popovers, and select controls.
+    - **5-Axiom Futures Allocation Engine**: Deconstructs ETF disclosures for Amplify BDRY (Dry Bulk) and Amplify BWET (Tankers) into active futures contract holdings, lot counts, and % weights for any target date horizon (`Today`, `Month End`, `Next Quarter Strip`, `1 Year Out`).
+      $$\text{Lot Allocation} = \text{Target Lots} \times \left(1 - \frac{b_{\text{cur}}}{b_{\text{total}}}\right)$$
+    - **Per-Vessel Class Weighted Roll Yield Engine**: Computes exact lot-weighted term structure roll spreads within each vessel class to eliminate cross-asset price distortions:
+      $$\text{Implied Roll Yield (\%/mo)} = \sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100 \right)$$
+    - **Absolute Data Truth & Feed Provenance**:
+      - `✓ Official SGX Settlement Feed`: Real-time daily settlement history from Singapore Exchange datasets (`DATA.sgx`).
+      - `✓ Official ETF Daily Holdings History Feed`: Stored daily fund disclosures (`data/etf/bwet_holdings_history.csv` & `bdry_holdings_history.csv`).
+      - `⚠️ Historical Feed Not Available`: Clean transparent banner for far-dated forward contracts where exchange feeds are unavailable (zero fake price generation).
+    - **Contract-Level Micro-Simulator & SGX Range Matrix**: Line-item table displaying SGX Settle Rates ($/day), 52-Week Price Range Bars ($ Min — $ Max), single-line input boxes (`white-space: nowrap`), `$ / Share Impact`, and `% NAV Contrib` metrics.
+    - **Macro / Micro Slider Mode & Bi-Directional Drag Sync**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders with real-time bi-directionally calculated weighted average class shocks.
+    - **📊 2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with glowing active scenario borders and neutral baseline cell outlines.
+    - **Target Price Reverse NAV Solver**: Inverts the NAV return formula to solve the exact uniform freight rate rally/decline % required to reach any user-entered target ETF share price ($).
+    - **Editable Position Share Count & Base PnL**: Interactive input box (`PnL FOR [ 1000 ] SHARES`) dynamically recalculating dollar PnL and invested Base Capital ($).
+    - **Institutional System 2 Rich Tooltips**: Rich HTML tooltips across all 8 sub-components formatted with `.rt-title`, `.rt-row`, `.rt-label`, `.rt-val`, and `.rt-note` CSS design tokens.
+    - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view and detailed **By Contract Month** view with contiguous color arcs sorted in chronological month sequence.
 - **⚡ Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
