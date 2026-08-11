@@ -82,6 +82,48 @@
       opacity: 1;
     }
 
+    /* ETF DECONSTRUCTION CUSTOM RANGE SLIDERS & SCROLLABLE CONTAINER */
+    #deconstSlidersBdry, #deconstSlidersBwet {
+      max-height: 235px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+    .deconst-slider {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      height: 5px;
+      border-radius: 3px;
+      background: var(--card);
+      outline: none;
+      border: 1px solid var(--border);
+      margin: 4px 0;
+    }
+    .deconst-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 13px;
+      height: 13px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      box-shadow: 0 0 6px rgba(88, 166, 255, 0.4);
+      transition: transform 0.1s ease, background 0.15s;
+    }
+    .deconst-slider::-webkit-slider-thumb:hover {
+      transform: scale(1.2);
+      background: #79c0ff;
+    }
+    .deconst-slider::-moz-range-thumb {
+      width: 13px;
+      height: 13px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      border: none;
+      box-shadow: 0 0 6px rgba(88, 166, 255, 0.4);
+    }
+
     /* HEADER */
     .header {
       padding: 12px 20px;
@@ -3381,7 +3423,7 @@
             '<td style="padding:6px 8px;text-align:right;font-weight:600;">' + sgxSettleStr + '</td>' +
             '<td style="padding:6px 8px;text-align:center;min-width:130px;">' + rangeBarHtml + '</td>' +
             '<td style="padding:6px 8px;text-align:right;">' +
-              '<input type="number" step="1" value="' + displayEffShock + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:50px;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;text-align:right;font-weight:600;"> %' +
+              '<input type="number" step="1" value="' + displayEffShock + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:52px;background:var(--card);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;font-family:inherit;text-align:right;font-weight:700;"> %' +
             '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + '$' + Math.abs(h.sharePriceImpact).toFixed(2) + '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + h.navContribPct.toFixed(2) + '%</td>' +
@@ -3400,12 +3442,12 @@
             var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
             var curEff = Math.round(h.effShockPct);
             var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
-            sliderHtml += '<div style="margin-bottom:10px;">' +
+            sliderHtml += '<div style="margin-bottom:8px;">' +
               '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
                 '<span style="font-weight:600;color:' + nameColor + ';">' + h.Name + ':</span>' +
                 '<span style="font-weight:700;">' + valStr + '</span>' +
               '</div>' +
-              '<input type="range" min="-50" max="100" value="' + curEff + '" step="1" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" min="-50" max="100" value="' + curEff + '" step="1" oninput="onDeconstMicroShockInput(' + idx + ', this)">' +
             '</div>';
           });
           sliderContainer.innerHTML = sliderHtml;
@@ -3933,7 +3975,7 @@
         </div>
 
         <!-- Interactive Shock Sliders & One-Click Macro Presets -->
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;" id="deconstGridSection">
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;align-items:start;" id="deconstGridSection">
           <!-- Left Column: Percentage Sliders -->
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;">
             <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:12px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
@@ -3951,21 +3993,21 @@
                   <span style="font-weight:600;color:#58a6ff;">Capesize 5TC FFA Shock:</span>
                   <span id="deconstValCape" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" id="deconstSliderCape" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderCape" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
               <div style="margin-bottom:12px;">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#3fb950;">Panamax 5TC FFA Shock:</span>
                   <span id="deconstValPana" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" id="deconstSliderPana" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderPana" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
               <div style="margin-bottom:8px;">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#d29922;">Supramax 10TC FFA Shock:</span>
                   <span id="deconstValSupra" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" id="deconstSliderSupra" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderSupra" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
             </div>
 
@@ -3975,14 +4017,14 @@
                   <span style="font-weight:600;color:#f0883e;">VLCC TD3C (MEG-China) Shock:</span>
                   <span id="deconstValVlcc" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" id="deconstSliderVlcc" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderVlcc" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
               <div style="margin-bottom:8px;">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#a371f7;">Suezmax TD20 (WAF-Cont) Shock:</span>
                   <span id="deconstValSuez" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" id="deconstSliderSuez" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderSuez" min="-50" max="100" value="0" step="1" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
             </div>
           </div>
@@ -4034,7 +4076,7 @@
             <div style="overflow-x:auto;max-height:280px;overflow-y:auto;border:1px solid var(--border);border-radius:6px;">
               <table style="width:100%;border-collapse:collapse;font-size:12px;text-align:left;">
                 <thead>
-                  <tr style="background:var(--hover);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:11px;">
+                  <tr style="background:var(--card);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;letter-spacing:0.4px;font-weight:700;">
                     <th style="padding:6px 8px;">Contract Description</th>
                     <th style="padding:6px 8px;text-align:right;">Lots</th>
                     <th style="padding:6px 8px;text-align:right;">Weight %</th>
