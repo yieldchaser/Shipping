@@ -2983,6 +2983,53 @@
       renderETFDeconstructionEngine();
     }
 
+    function simulateMacroCycle(key, pctMove, startDateStr, endDateStr) {
+      _deconstMicroShocks = {};
+      _deconstSliderMode = 'macro';
+      window._deconstSliderMode = 'macro';
+
+      var targetKey = (key === 'bwet' || key === 'vlcc' || key === 'suez') ? 'bwet' : 'bdry';
+      if (_deconstETFKey !== targetKey) {
+        switchDeconstETF(targetKey);
+      }
+
+      var capMin = -50, capMax = 100;
+      var clamp = function(v) { return Math.min(capMax, Math.max(capMin, Math.round(v))); };
+
+      if (targetKey === 'bdry') {
+        _deconstShocks.cape = clamp(pctMove);
+        _deconstShocks.pana = clamp(pctMove * 0.7);
+        _deconstShocks.supra = clamp(pctMove * 0.5);
+      } else {
+        _deconstShocks.vlcc = clamp(pctMove);
+        _deconstShocks.suez = clamp(pctMove * 0.85);
+      }
+
+      var sCape = document.getElementById('deconstSliderCape');
+      var sPana = document.getElementById('deconstSliderPana');
+      var sSupra = document.getElementById('deconstSliderSupra');
+      var sVlcc = document.getElementById('deconstSliderVlcc');
+      var sSuez = document.getElementById('deconstSliderSuez');
+
+      if (sCape) { sCape.value = _deconstShocks.cape; updateSliderTrackFill(sCape, '#58a6ff'); }
+      if (sPana) { sPana.value = _deconstShocks.pana; updateSliderTrackFill(sPana, '#3fb950'); }
+      if (sSupra) { sSupra.value = _deconstShocks.supra; updateSliderTrackFill(sSupra, '#d29922'); }
+      if (sVlcc) { sVlcc.value = _deconstShocks.vlcc; updateSliderTrackFill(sVlcc, '#f0883e'); }
+      if (sSuez) { sSuez.value = _deconstShocks.suez; updateSliderTrackFill(sSuez, '#a371f7'); }
+
+      var infoEl = document.getElementById('deconstHistoricalCycleInfo');
+      if (infoEl) {
+        infoEl.style.display = 'block';
+        infoEl.innerHTML = '⚡ <b>Historical Cycle Active:</b> ' + (startDateStr || '') + ' → ' + (endDateStr || '') + ' (' + (pctMove >= 0 ? '+' : '') + pctMove + '% Move)';
+      }
+
+      renderETFDeconstructionEngine();
+
+      var holdingsContainer = document.getElementById('deconstHoldingsBody');
+      if (holdingsContainer) holdingsContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+    window.simulateMacroCycle = simulateMacroCycle;
+
     function applyMacroScenario(scen) {
       _deconstMicroShocks = {};
       _deconstSliderMode = 'macro';
@@ -3033,6 +3080,25 @@
 
       renderETFDeconstructionEngine();
     }
+    function switchMacroCategory(cat) {
+      var btnPresets = document.getElementById('macroCategoryPresets');
+      var btnCycles = document.getElementById('macroCategoryCycles');
+      var gridPresets = document.getElementById('macroPresetsGrid');
+      var gridCycles = document.getElementById('macroCyclesGrid');
+
+      if (btnPresets && btnCycles) {
+        btnPresets.style.background = cat === 'presets' ? 'var(--accent)' : 'transparent';
+        btnPresets.style.color = cat === 'presets' ? '#fff' : 'var(--text-muted)';
+        btnCycles.style.background = cat === 'cycles' ? 'var(--accent)' : 'transparent';
+        btnCycles.style.color = cat === 'cycles' ? '#fff' : 'var(--text-muted)';
+      }
+
+      if (gridPresets && gridCycles) {
+        gridPresets.style.display = cat === 'presets' ? 'grid' : 'none';
+        gridCycles.style.display = cat === 'cycles' ? 'grid' : 'none';
+      }
+    }
+    window.switchMacroCategory = switchMacroCategory;
     window.applyMacroScenario = applyMacroScenario;
 
     var _deconstMicroShocks = {}; // contract-level custom percentage shocks
@@ -4444,10 +4510,15 @@
           <!-- Right Column: One-Click Macro Presets & Reverse Price Solver -->
           <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;display:flex;flex-direction:column;justify-content:space-between;">
             <div>
-              <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:10px;">
-                🌐 One-Click Macro Scenarios
+              <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;">
+                <span>🌐 One-Click Macro Scenarios</span>
+                <div style="display:flex;gap:4px;background:var(--card);padding:2px;border-radius:4px;border:1px solid var(--border);">
+                  <button id="macroCategoryPresets" onclick="switchMacroCategory('presets')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:var(--accent);color:#fff;cursor:pointer;">⚡ Presets</button>
+                  <button id="macroCategoryCycles" onclick="switchMacroCategory('cycles')" style="padding:2px 8px;font-size:10px;font-weight:600;border:none;border-radius:3px;background:transparent;color:var(--text-muted);cursor:pointer;">📜 Multi-Year Cycles</button>
+                </div>
               </div>
-              <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
+              <div id="deconstHistoricalCycleInfo" style="display:none;font-size:11px;color:var(--accent);background:rgba(88,166,255,0.1);border:1px solid rgba(88,166,255,0.25);border-radius:4px;padding:4px 8px;margin-bottom:8px;"></div>
+              <div id="macroPresetsGrid" style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
                 <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%.">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>🇨🇳 China Ore Boom</span>
@@ -4478,6 +4549,41 @@
                     <span style="font-size:10px;opacity:0.6;">⚡</span>
                   </div>
                   <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +30%, Pana +20%</span>
+                </button>
+              </div>
+
+              <!-- Multi-Year Historical Cycles Scenario Grid -->
+              <div id="macroCyclesGrid" style="display:none;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;max-height:160px;overflow-y:auto;padding-right:4px;">
+                <button onclick="simulateMacroCycle('bdry', 100, 'Jan 2021', 'Oct 2021')" class="macro-scenario-btn" data-tooltip="Simulate 2021 Post-COVID Commodity Super-Cycle Rally (+180% Capesize peak move).">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🚀 2021 Super-Cycle</span>
+                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                  </div>
+                  <span style="font-size:10px;color:#3fb950;font-weight:600;margin-top:4px;">Cape +100%, Pana +70%</span>
+                </button>
+
+                <button onclick="simulateMacroCycle('bdry', -50, 'Jan 2015', 'Feb 2016')" class="macro-scenario-btn" data-tooltip="Simulate 2015-2016 Supply Glut All-Time Floor Collapse (-65% Capesize move).">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🌋 2015-16 Glut Crash</span>
+                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                  </div>
+                  <span style="font-size:10px;color:#f85149;font-weight:600;margin-top:4px;">Cape -50%, Pana -35%</span>
+                </button>
+
+                <button onclick="simulateMacroCycle('bwet', 85, 'Feb 2022', 'Nov 2022')" class="macro-scenario-btn" data-tooltip="Simulate 2022 Sanctions Oil Trade Flow Redirection (+150% VLCC move).">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>⛽ 2022 Tanker Squeeze</span>
+                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                  </div>
+                  <span style="font-size:10px;color:#f0883e;font-weight:600;margin-top:4px;">VLCC +85%, Suez +72%</span>
+                </button>
+
+                <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" data-tooltip="Simulate 2023 Red Sea Chokepoint Diversion Freight Rally (+45% Cape move).">
+                  <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
+                    <span>🌊 2023 Red Sea Rally</span>
+                    <span style="font-size:10px;opacity:0.6;">📜</span>
+                  </div>
+                  <span style="font-size:10px;color:#58a6ff;font-weight:600;margin-top:4px;">Cape +45%, Pana +32%</span>
                 </button>
               </div>
             </div>
@@ -7663,6 +7769,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <th onclick="sortMacroTable('${productKey}', 'end', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The ending date and value/rate of this cycle phase.">End Point${getIndicator('end')}</th>
       <th onclick="sortMacroTable('${productKey}', 'duration', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The duration of the cycle phase in calendar days.">Duration${getIndicator('duration')}</th>
       <th onclick="sortMacroTable('${productKey}', 'move', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="Percentage return from start value to end value.">Move %${getIndicator('move')}</th>
+      <th style="text-align:center;" data-tooltip="Instantly apply this historical cycle's move percentage to the ETF Deconstruction Engine sliders.">Simulate ⚡</th>
     </tr></thead><tbody>`;
 
       for (let i = 0; i < cycles.length; i++) {
@@ -7691,6 +7798,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <td>${endLabel}</td>
       <td data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Duration" data-tt-val="${days}" data-tt-title="Cycle Duration">${durationStr}</td>
       <td class="${pctCls}" style="font-weight:700;" data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Move" data-tt-val="${pct}" data-tt-title="Cycle Move %">${pctStr}</td>
+      <td style="text-align:center;">
+        <button onclick="simulateMacroCycle('${productKey}', ${pct.toFixed(1)}, '${fmtDateUser(start.date)}', '${fmtDateUser(end.date)}')" class="dl-btn" style="padding:2px 8px;font-size:10px;background:rgba(88,166,255,0.15);color:var(--accent);border-color:rgba(88,166,255,0.3);cursor:pointer;font-weight:600;" title="Apply ${pctStr} move to ETF Deconstruction Engine">Simulate ⚡</button>
+      </td>
     </tr>`;
       }
 
