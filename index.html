@@ -2828,6 +2828,7 @@
 
     function switchDeconstETF(key) {
       _deconstETFKey = key;
+      _deconstMicroShocks = {};
       var bdryBtn = document.getElementById('deconstTabBdry');
       var bwetBtn = document.getElementById('deconstTabBwet');
       if (bdryBtn && bwetBtn) {
@@ -2842,6 +2843,13 @@
         bdryS.style.display = key === 'bdry' ? 'block' : 'none';
         bwetS.style.display = key === 'bwet' ? 'block' : 'none';
       }
+      var inputEl = document.getElementById('deconstTargetPriceInput');
+      if (inputEl) {
+        inputEl.placeholder = key === 'bdry' ? '13.87' : '119.74';
+        inputEl.value = '';
+      }
+      var resEl = document.getElementById('deconstReverseResult');
+      if (resEl) resEl.textContent = '';
       resetDeconstShocks();
     }
 
@@ -3011,7 +3019,7 @@
       renderETFDeconstructionEngine();
     }
 
-    function getDeconstBasePrice(etfKey) {
+    window.getDeconstBasePrice = function getDeconstBasePrice(etfKey) {
       if (etfKey === 'bdry' && DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
         var lastBdry = DATA.bdryLiquidity[DATA.bdryLiquidity.length - 1];
         if (lastBdry && parseFloat(lastBdry.close) > 0) return parseFloat(lastBdry.close);
@@ -3029,6 +3037,7 @@
       var targetPrice = parseFloat(inputEl.value);
       if (isNaN(targetPrice) || targetPrice <= 0) { resEl.textContent = ''; return; }
       
+      _deconstMicroShocks = {}; // Clear custom micro shocks to guarantee exact target price parity
       var curPrice = getDeconstBasePrice(_deconstETFKey);
       var reqNavPct = ((targetPrice - curPrice) / curPrice) * 100;
       
@@ -3044,7 +3053,7 @@
         if (sPana) sPana.value = Math.round(reqNavPct);
         if (sSupra) sSupra.value = Math.round(reqNavPct);
         document.getElementById('deconstValCape').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        document.getElementById('deconstValPana').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
+        document.getElementById('deconstValPana').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
         document.getElementById('deconstValSupra').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
       } else {
         resEl.textContent = 'Req. Tanker FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
@@ -3054,14 +3063,26 @@
         var sSuez = document.getElementById('deconstSliderSuez');
         if (sVlcc) sVlcc.value = Math.round(reqNavPct);
         if (sSuez) sSuez.value = Math.round(reqNavPct);
-        document.getElementById('deconstValVlcc').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
-        document.getElementById('deconstValSuez').textContent = (reqNavPct >= 0 ? '+' : '') + Math.round(reqNavPct) + '%';
+        document.getElementById('deconstValVlcc').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        document.getElementById('deconstValSuez').textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
       }
       renderETFDeconstructionEngine();
     }
 
     // 5-AXIOM PORTFOLIO PREDICTOR & SENSITIVITY ENGINE
-    function predictETFPortfolioHoldings(etfKey, targetDate) {
+
+    // Immediate global window scope bindings for inline HTML event handlers
+    window.switchDeconstETF = switchDeconstETF;
+    window.onDeconstDateChange = onDeconstDateChange;
+    window.setDeconstDatePreset = setDeconstDatePreset;
+    window.resetDeconstShocks = resetDeconstShocks;
+    window.onDeconstSliderInput = onDeconstSliderInput;
+    window.applyMacroScenario = applyMacroScenario;
+    window.solveReversePriceTarget = solveReversePriceTarget;
+    window.onDeconstMicroShockInput = onDeconstMicroShockInput;
+
+
+        function predictETFPortfolioHoldings(etfKey, targetDate) {
       var year = targetDate.getFullYear();
       var month = targetDate.getMonth() + 1;
       var day = targetDate.getDate();
