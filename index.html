@@ -11272,9 +11272,27 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const labels = rows.map(r => fmtDate(r.date));
 
+      // Helper: lookup nearest scrap price within 14-day window
+      function lookupScrapPrice(sRows, colName, dateObj) {
+        if (!sRows || !sRows.length || !dateObj) return null;
+        const ts = dateObj.getTime();
+        let bestVal = null;
+        let minDiff = Infinity;
+        for (let i = 0; i < sRows.length; i++) {
+          const r = sRows[i];
+          if (r[colName] == null) continue;
+          const diff = Math.abs(r.date.getTime() - ts);
+          if (diff < minDiff && diff <= 1210000000) {
+            minDiff = diff;
+            bestVal = r[colName];
+          }
+        }
+        return bestVal;
+      }
+
       const scrapFloorSeries = rows.map(r => {
-        const scrapR = scrapMap[r.dateStr];
-        return (scrapR && scrapR[activeCfg.scrapCol] != null) ? (activeCfg.ldt * scrapR[activeCfg.scrapCol]) / 1000000 : null;
+        const scrapVal = lookupScrapPrice(scrapRows, activeCfg.scrapCol, r.date);
+        return scrapVal != null ? (activeCfg.ldt * scrapVal) / 1000000 : null;
       });
       const val10ySeries = rows.map(r => lookupValuation(valMap, r.dateStr, r.date));
       const yieldSeries = rows.map(r => {
