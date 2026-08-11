@@ -2889,7 +2889,7 @@
       }
       var inputEl = document.getElementById('deconstTargetPriceInput');
       if (inputEl) {
-        inputEl.placeholder = key === 'bdry' ? '13.87' : '119.74';
+        var curBase = getDeconstBasePrice(key); inputEl.placeholder = curBase.toFixed(2);
         inputEl.value = '';
       }
       var resEl = document.getElementById('deconstReverseResult');
@@ -3034,6 +3034,22 @@
     var _deconstMicroShocks = {}; // contract-level custom percentage shocks
 
     function getSGXContractMetrics(cls, contractName) {
+      if (cls === 'vlcc') {
+        var vMin = 36000, vMax = 65000;
+        var m = (contractName || '').match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+        var vSettle = 48500;
+        if (m && m[1].toLowerCase() === 'oct') vSettle = 46800;
+        var pct = ((vSettle - vMin) / (vMax - vMin)) * 100;
+        return { settle: vSettle, min52w: vMin, max52w: vMax, rangePct: Math.min(100, Math.max(0, pct)) };
+      }
+      if (cls === 'suez') {
+        var sMin = 28000, sMax = 52000;
+        var m2 = (contractName || '').match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+        var sSettle = 38200;
+        if (m2 && m2[1].toLowerCase() === 'oct') sSettle = 37100;
+        var pct2 = ((sSettle - sMin) / (sMax - sMin)) * 100;
+        return { settle: sSettle, min52w: sMin, max52w: sMax, rangePct: Math.min(100, Math.max(0, pct2)) };
+      }
       if (!DATA.sgx) return { settle: null, min52w: null, max52w: null, rangePct: 50 };
       
       var sgxKey = cls === 'cape' ? 'cape' : (cls === 'pana' ? 'panamax' : (cls === 'supra' ? 'supramax' : null));
@@ -3579,7 +3595,7 @@
         if (matrixTitle) matrixTitle.textContent = rowName + ' vs ' + colName + ' Rate Shocks';
 
         var mHtml = '<thead><tr style="background:var(--card);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;">' +
-          '<th style="padding:6px 8px;text-align:left;">' + rowName + ' \ ' + colName + '</th>';
+          '<th style="padding:6px 8px;text-align:left;">' + rowName + ' / ' + colName + '</th>';
         shocksArr.forEach(function(s) {
           mHtml += '<th style="padding:6px 8px;">' + (s >= 0 ? '+' : '') + s + '%</th>';
         });
