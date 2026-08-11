@@ -214,26 +214,28 @@ All 6 base indices as individual chart cards:
 
 Comprehensive analytical suite for technical and fundamental signals:
 
+- **Interactive Dual-Handle Range Sliders**: Full UI parity with the Indices tab — every time-series chart features an independent, real-time dual-range date slider with interactive date boundaries (`YYYY-MM-DD ➔ YYYY-MM-DD`).
 - **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points $\times 10$, BDTI $\times 35$, BCTI $\times 30$) to allow direct comparison with 1-Year and 2-Year Time Charter rates.
 - **Detailed & Dynamic Concept Tooltips**: Interactive HTML tooltips explaining "what they are", "why they matter", and "how to read them" with live dataset metrics injected.
 - **View All Sectors Toggle**: Option to view all 6 sectors overlaid on a single wide chart.
 - **Signals Breakdown**:
-  - **Bollinger Bands (20D, 2σ)**: Price + upper/SMA/lower bands.
-  - **Historical Volatility**: Annualized volatility + regime classification based on all-time percentiles.
-  - **Cape / Panamax Ratio**: Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile.
+  - **Bollinger Bands (20D, 2σ)**: Price + upper/SMA/lower bands with dual-range slider.
+  - **Historical Volatility**: Annualized volatility + regime classification based on all-time percentiles with dual-range slider.
+  - **Cape / Panamax Ratio**: Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile with dual-range slider.
   - **Rate-of-Change Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
   - **Seasonal Decomposition**: Historical avg intra-year pattern $\pm 1\sigma$ with current year.
-  - **ETF P/D Z-Score**: Premium/Discount to NAV Z-score (+2 = Top, -2 = Bottom).
+  - **ETF P/D Z-Score**: Premium/Discount to NAV Z-score (+2 = Top, -2 = Bottom) with dual-range slider.
   - **FFA Term Structure**: Forward curves from live BDRY/BWET holdings.
   - **SGX FFA Forward Curve**: Official SGX settlement curve for Cape/Pana/Supra/Handy.
-  - **Futures vs Spot Premium**: Basis tracking between BDRYFF index and spot baskets.
-  - **BDI Contribution**: Decomposition of BDI daily change by vessel class.
-  - **ETF Fund Flow Signals**: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), Pressure.
+  - **Futures vs Spot Premium**: Basis tracking between BDRYFF index and spot baskets with dual-range slider.
+  - **BDI Contribution**: Decomposition of BDI daily change by vessel class with dual-range slider.
+  - **ETF Fund Flow Signals**: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), Pressure with dual-range slider.
   - **Lead–Lag Correlation**: Cross-correlation of log returns (-30 to +30 days) to detect lead times.
-  - **Time Charter Rates**: Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio.
-  - **Basin/Sector Spreads**: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class.
-  - **Restocking Pressure**: Freight spot rates vs CFR 62% Iron Ore price and Qingdao Port Inventory.
-  - **Vessel Capital Cycle**: Demolition scrap prices ($/LDT) and calculated ship-displacement scrap floor valuations ($M).
+  - **Time Charter Rates**: Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio, Fearnleys/Alibra source toggle (Merged, Fearnleys, Both), and dual-range slider.
+  - **Basin/Sector Spreads**: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class with dual-range slider.
+  - **Restocking Pressure**: Freight spot rates vs CFR 62% Iron Ore price and Qingdao Port Inventory with dual-range slider.
+  - **LPG Freight & Charter Rates**: Multi-series VLGC/MGC spot + charter rates (VLGC 84k, MGC 38k, Handy 22k) + Baltic LPG Index overlay with dual-range slider.
+  - **Vessel Capital Cycle**: S&P secondhand valuations (1970–2026) with 3 sub-modes (10Y Asset Value, Scrap Floor $M, Implied Charter Yield %) and dual-range slider.
   - **Market Cycle Quadrant**: 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score (Recovery, Boom, Over-ordering, Restructuring).
 
 ---

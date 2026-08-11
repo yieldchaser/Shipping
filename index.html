@@ -3542,6 +3542,17 @@
                 <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
               </div>
             </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="spreadRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="spreadRangeTrack">
+                <div class="dual-range-fill" id="spreadRangeFill"></div>
+                <input type="range" id="spreadRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="spreadRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
           </div>
 
@@ -3569,6 +3580,17 @@
                 <button class="toggle-btn active" id="pdZBtn1y" onclick="setPDZWindow('1y')">1Y</button>
                 <button class="toggle-btn" id="pdZBtn3y" onclick="setPDZWindow('3y')">3Y</button>
                 <button class="toggle-btn" id="pdZBtnAll" onclick="setPDZWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="pdZRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="pdZRangeTrack">
+                <div class="dual-range-fill" id="pdZRangeFill"></div>
+                <input type="range" id="pdZRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="pdZRangeEnd" min="0" max="100" value="100" step="1">
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="pdZscoreChart"></canvas></div>
@@ -3817,6 +3839,17 @@
                 <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
               </div>
             </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="tcRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="tcRangeTrack">
+                <div class="dual-range-fill" id="tcRangeFill"></div>
+                <input type="range" id="tcRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="tcRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
           </div>
 
@@ -3825,6 +3858,17 @@
             <div class="chart-header">
               <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
               <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: --</div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="basinRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="basinRangeTrack">
+                <div class="dual-range-fill" id="basinRangeFill"></div>
+                <input type="range" id="basinRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="basinRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
@@ -3835,6 +3879,17 @@
               <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
               <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: --</div>
             </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="restockRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="restockRangeTrack">
+                <div class="dual-range-fill" id="restockRangeFill"></div>
+                <input type="range" id="restockRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="restockRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
           </div>
 
@@ -3843,6 +3898,17 @@
             <div class="chart-header">
               <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot ($/day equiv), VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
               <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: --</div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="lpgRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="lpgRangeTrack">
+                <div class="dual-range-fill" id="lpgRangeFill"></div>
+                <input type="range" id="lpgRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="lpgRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="lpgFreightChart"></canvas></div>
           </div>
@@ -3869,6 +3935,17 @@
                   <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
                 </div>
                 <div id="scrapFloorBadge" class="kpi-badge">Value: --</div>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="valRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="valRangeTrack">
+                <div class="dual-range-fill" id="valRangeFill"></div>
+                <input type="range" id="valRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="valRangeEnd" min="0" max="100" value="100" step="1">
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="vesselValuationsChart"></canvas></div>
@@ -7188,6 +7265,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var bdryMap = {}; bdryFilt.forEach(function (r) { bdryMap[fmtDate(r.date)] = r.z; });
       var bwetMap = {}; bwetFilt.forEach(function (r) { bwetMap[fmtDate(r.date)] = r.z; });
 
+      // Build synthetic rows for slider (needs .date property)
+      var pdZRows = allLabels.map(function(l) { return { date: new Date(l) }; });
+      initDualRangeSlider('pdZRange', pdZRows, function(isManual) { if (isManual) renderPDZscoreChart(); });
+      var pdZSel = document.getElementById('pdZRangeStart');
+      var pdZEel = document.getElementById('pdZRangeEnd');
+      var pdZs = pdZSel ? parseInt(pdZSel.value) : 0;
+      var pdZe = pdZEel ? parseInt(pdZEel.value) : allLabels.length - 1;
+      var visLabels = allLabels.slice(pdZs, pdZe + 1);
+      if (!visLabels.length) return;
+
       var pdzHidden = {};
       var prevPdzChart = chartRegistry['pdZscoreChart'];
       if (prevPdzChart && prevPdzChart.data && prevPdzChart.data.datasets) {
@@ -7197,23 +7284,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       chartRegistry['pdZscoreChart'] = new Chart(canvas.getContext('2d'), {
         type: 'line',
         data: {
-          labels: allLabels,
+          labels: visLabels,
           datasets: [
             {
               label: 'BDRY Z-Score',
-              data: allLabels.map(function (l) { return bdryMap[l] != null ? bdryMap[l] : null; }),
+              data: visLabels.map(function (l) { return bdryMap[l] != null ? bdryMap[l] : null; }),
               borderColor: '#00bfff', backgroundColor: 'rgba(0,191,255,0.07)',
               borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, hidden: pdzHidden['BDRY Z-Score'] || false,
             },
             {
               label: 'BWET Z-Score',
-              data: allLabels.map(function (l) { return bwetMap[l] != null ? bwetMap[l] : null; }),
+              data: visLabels.map(function (l) { return bwetMap[l] != null ? bwetMap[l] : null; }),
               borderColor: '#ff6b6b', backgroundColor: 'rgba(255,107,107,0.07)',
               borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, hidden: pdzHidden['BWET Z-Score'] || false,
             },
-            { label: '+2σ', data: allLabels.map(function () { return 2; }), borderColor: 'rgba(248,81,73,0.5)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['+2σ'] || false },
-            { label: '-2σ', data: allLabels.map(function () { return -2; }), borderColor: 'rgba(63,185,80,0.5)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['-2σ'] || false },
-            { label: 'Zero', data: allLabels.map(function () { return 0; }), borderColor: 'rgba(139,148,158,0.3)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['Zero'] || false },
+            { label: '+2σ', data: visLabels.map(function () { return 2; }), borderColor: 'rgba(248,81,73,0.5)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['+2σ'] || false },
+            { label: '-2σ', data: visLabels.map(function () { return -2; }), borderColor: 'rgba(63,185,80,0.5)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['-2σ'] || false },
+            { label: 'Zero', data: visLabels.map(function () { return 0; }), borderColor: 'rgba(139,148,158,0.3)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0, hidden: pdzHidden['Zero'] || false },
           ],
         },
         options: {
@@ -7228,7 +7315,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             },
           },
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return allLabels[i] ? allLabels[i].slice(0, 7) : ''; } } },
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return visLabels[i] ? visLabels[i].slice(0, 7) : ''; } } },
             y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1) + 'σ'; } } },
           },
         },
@@ -10211,7 +10298,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!aligned.length) return;
 
       const cutoff = new Date('2000-01-01');
-      const rows = aligned.filter(r => r.date >= cutoff);
+      const allTcRows = aligned.filter(r => r.date >= cutoff);
+      if (!allTcRows.length) return;
+
+      // Init range slider on filtered aligned data
+      if (isMainCall) {
+        initDualRangeSlider('tcRange', allTcRows, function(isManual) { if (isManual) renderTimeCharterChart(productKey); });
+      }
+      const tcSEl = document.getElementById('tcRangeStart');
+      const tcEEl = document.getElementById('tcRangeEnd');
+      const tcS = tcSEl ? parseInt(tcSEl.value) : 0;
+      const tcE = tcEEl ? parseInt(tcEEl.value) : allTcRows.length - 1;
+      const rows = allTcRows.slice(tcS, tcE + 1);
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
@@ -10535,7 +10633,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       const cutoff = new Date('2000-01-01');
-      const rows = filtered.filter(r => r.date >= cutoff);
+      const allBasinRows = filtered.filter(r => r.date >= cutoff);
+      if (!allBasinRows.length) return;
+
+      // Init range slider
+      if (isMainCall) {
+        initDualRangeSlider('basinRange', allBasinRows, function(isManual) { if (isManual) renderBasinSpreadChart(productKey); });
+      }
+      const bSEl = document.getElementById('basinRangeStart');
+      const bEEl = document.getElementById('basinRangeEnd');
+      const bS = bSEl ? parseInt(bSEl.value) : 0;
+      const bE = bEEl ? parseInt(bEEl.value) : allBasinRows.length - 1;
+      const rows = allBasinRows.slice(bS, bE + 1);
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
@@ -10784,7 +10893,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!aligned.length) return;
 
       const cutoff = new Date('2018-07-01');
-      const rows = aligned.filter(r => r.date >= cutoff);
+      const allRestockRows = aligned.filter(r => r.date >= cutoff);
+      if (!allRestockRows.length) return;
+
+      // Init range slider
+      if (isMainCall) {
+        initDualRangeSlider('restockRange', allRestockRows, function(isManual) { if (isManual) renderIronOreRestockingChart(productKey); });
+      }
+      const rSEl = document.getElementById('restockRangeStart');
+      const rEEl = document.getElementById('restockRangeEnd');
+      const rS = rSEl ? parseInt(rSEl.value) : 0;
+      const rE = rEEl ? parseInt(rEEl.value) : allRestockRows.length - 1;
+      const rows = allRestockRows.slice(rS, rE + 1);
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
@@ -10854,6 +10974,111 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
             yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: isMainCall, text: 'Index / Price (USD)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 } }, title: { display: isMainCall, text: 'Port Inventory (10k tons)', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    // -------------------------------------------------------
+    // LPG FREIGHT & CHARTER RATES
+    // -------------------------------------------------------
+    function renderLPGFreightChart(productKey) {
+      const canvas = document.getElementById('lpgFreightChart');
+      if (!canvas) return;
+
+      const spotRows = DATA.lpgSpot || [];
+      const charterRows = DATA.lpgCharter || [];
+      const blpgRows = DATA.blpg || [];
+
+      if (!spotRows.length && !charterRows.length && !blpgRows.length) return;
+
+      // Build date-keyed maps
+      const spotMap = {};
+      spotRows.forEach(r => { spotMap[r.dateStr] = r; });
+      const tcMap = {};
+      charterRows.forEach(r => { tcMap[r.dateStr] = r; });
+      const blpgMap = {};
+      blpgRows.forEach(r => { blpgMap[r.dateStr] = r; });
+
+      // Build aligned dataset from all date sources
+      const allDates = new Set();
+      spotRows.forEach(r => allDates.add(r.dateStr));
+      charterRows.forEach(r => allDates.add(r.dateStr));
+      blpgRows.forEach(r => allDates.add(r.dateStr));
+
+      const allDatesSorted = Array.from(allDates).sort();
+      const allAligned = allDatesSorted.map(ds => ({
+        date: new Date(ds),
+        dateStr: ds,
+        vlgc_spot: spotMap[ds] ? spotMap[ds].vlgc_spot : null,
+        mgc_spot: spotMap[ds] ? spotMap[ds].mgc_spot : null,
+        vlgc_tc: tcMap[ds] ? tcMap[ds].vlgc_84k_tc : null,
+        mgc_tc: tcMap[ds] ? tcMap[ds].mgc_38k_tc : null,
+        hdy_tc: tcMap[ds] ? tcMap[ds].hdy_22k_tc : null,
+        blpg: blpgMap[ds] ? blpgMap[ds].index : null
+      })).filter(r => r.vlgc_spot != null || r.mgc_spot != null || r.vlgc_tc != null || r.blpg != null);
+
+      if (!allAligned.length) return;
+
+      // Init range slider
+      initDualRangeSlider('lpgRange', allAligned, function(isManual) { if (isManual) renderLPGFreightChart(productKey); });
+      const lSEl = document.getElementById('lpgRangeStart');
+      const lEEl = document.getElementById('lpgRangeEnd');
+      const lS = lSEl ? parseInt(lSEl.value) : 0;
+      const lE = lEEl ? parseInt(lEEl.value) : allAligned.length - 1;
+      const rows = allAligned.slice(lS, lE + 1);
+      if (!rows.length) return;
+
+      const labels = rows.map(r => fmtDate(r.date));
+
+      // Update KPI badge
+      const lpgBadge = document.getElementById('lpgRatesBadge');
+      const latest = rows[rows.length - 1];
+      if (lpgBadge && latest) {
+        const tcVal = latest.vlgc_tc;
+        if (tcVal != null) {
+          lpgBadge.textContent = 'VLGC 1Y TC: $' + Math.round(tcVal).toLocaleString() + '/day';
+          lpgBadge.style.background = 'var(--accent)';
+          lpgBadge.style.color = '#fff';
+        } else {
+          lpgBadge.textContent = 'VLGC 1Y TC: --';
+          lpgBadge.style.background = 'var(--border)';
+          lpgBadge.style.color = 'var(--text-muted)';
+        }
+      }
+
+      const datasets = [
+        { label: 'VLGC 84k Spot ($/day)', data: rows.map(r => r.vlgc_spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'MGC Spot ($/day)', data: rows.map(r => r.mgc_spot), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [3, 3] },
+        { label: 'VLGC 84k 1Y TC', data: rows.map(r => r.vlgc_tc), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'MGC 38k 1Y TC', data: rows.map(r => r.mgc_tc), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+        { label: 'Handy 22k 1Y TC', data: rows.map(r => r.hdy_tc), yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [4, 4] },
+        { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
+      ];
+
+      destroyChart('lpgFreightChart');
+      chartRegistry['lpgFreightChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: { labels: labels, datasets: datasets },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+                  if (c.dataset.label.includes('Baltic')) return ' ' + c.dataset.label + ': ' + Math.round(c.parsed.y).toLocaleString();
+                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: true, text: 'Charter Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Baltic LPG Index', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
@@ -10994,15 +11219,26 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tcMap = {};
       tcRows.forEach(r => { tcMap[r.dateStr] = r; });
 
-      let rows = [];
+      let allValRows = [];
       if (mode === '10y') {
-        rows = valMap.sortedTs.map(ts => ({ date: new Date(ts), dateStr: fmtDate(new Date(ts)) }));
+        allValRows = valMap.sortedTs.map(ts => ({ date: new Date(ts), dateStr: fmtDate(new Date(ts)) }));
       } else if (mode === 'scrap') {
-        rows = scrapRows.filter(r => r.date >= new Date('2022-01-01') && r[activeCfg.scrapCol] != null);
+        allValRows = scrapRows.filter(r => r.date >= new Date('2022-01-01') && r[activeCfg.scrapCol] != null);
       } else {
-        rows = tcRows.filter(r => r.date >= new Date('2000-01-01'));
+        allValRows = tcRows.filter(r => r.date >= new Date('2000-01-01'));
       }
 
+      if (!allValRows.length) return;
+
+      // Init range slider
+      if (isMainCall) {
+        initDualRangeSlider('valRange', allValRows, function(isManual) { if (isManual) renderVesselValuationsChart(productKey); });
+      }
+      const vSEl = document.getElementById('valRangeStart');
+      const vEEl = document.getElementById('valRangeEnd');
+      const vS = vSEl ? parseInt(vSEl.value) : 0;
+      const vE = vEEl ? parseInt(vEEl.value) : allValRows.length - 1;
+      let rows = allValRows.slice(vS, vE + 1);
       if (!rows.length) return;
 
       const labels = rows.map(r => fmtDate(r.date));
@@ -11806,7 +12042,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (_spreadWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
       else if (_spreadWindow === '5y') cutoff.setFullYear(cutoff.getFullYear() - 5);
       else cutoff = new Date('2008-01-01');
-      var rows = allRatio.filter(function (r) { return r.date >= cutoff; });
+      var windowRows = allRatio.filter(function (r) { return r.date >= cutoff; });
+      if (!windowRows.length) return;
+
+      // Init range slider on window-filtered data
+      initDualRangeSlider('spreadRange', windowRows, function(isManual) { if (isManual) renderCapeSpread(); });
+      var sEl = document.getElementById('spreadRangeStart');
+      var eEl = document.getElementById('spreadRangeEnd');
+      var sIdx = sEl ? parseInt(sEl.value) : 0;
+      var eIdx = eEl ? parseInt(eEl.value) : windowRows.length - 1;
+      var rows = windowRows.slice(sIdx, eIdx + 1);
       if (!rows.length) return;
 
       var labels = rows.map(function (r) { return fmtDate(r.date); });
