@@ -27,6 +27,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Clean Heavy Folders Before Pages Packaging
+        run: |
+          rm -rf reports knowledge scratch .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
