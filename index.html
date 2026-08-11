@@ -11041,6 +11041,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       if (!allAligned.length) return;
 
+      // Linear-interpolate sparse series across merged date grid
+      ['vlgc_spot', 'mgc_spot', 'vlgc_tc', 'mgc_tc', 'hdy_tc', 'blpg'].forEach(function(field) {
+        var validIdx = [];
+        allAligned.forEach(function(r, i) { if (r[field] != null) validIdx.push(i); });
+        if (validIdx.length >= 2) {
+          for (var vi = 0; vi < validIdx.length - 1; vi++) {
+            var ia = validIdx[vi], ib = validIdx[vi + 1];
+            var va = allAligned[ia][field], vb = allAligned[ib][field];
+            for (var j = ia + 1; j < ib; j++) {
+              allAligned[j][field] = va + (vb - va) * (j - ia) / (ib - ia);
+            }
+          }
+        }
+        if (validIdx.length > 0) {
+          var lastIdx = validIdx[validIdx.length - 1];
+          var lastVal = allAligned[lastIdx][field];
+          for (var k = lastIdx + 1; k < allAligned.length; k++) {
+            allAligned[k][field] = lastVal;
+          }
+        }
+      });
+
       // Init range slider
       initDualRangeSlider('lpgRange', allAligned, function(isManual) { if (isManual) renderLPGFreightChart(productKey); });
       const lSEl = document.getElementById('lpgRangeStart');
