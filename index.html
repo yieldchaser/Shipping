@@ -4339,7 +4339,7 @@
         { text: '\u201cI am the master of my fate, I am the captain of my soul.\u201d', attr: 'William Ernest Henley' },
         { text: '\u201cSavvy?\u201d', attr: 'Captain Jack Sparrow' }
       ];
-      var icon = '\uD83C\uDFF4\u200D\u2620\uFE0F';
+      var icon = '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/></svg></span>';
       var html = quotes.map(function (q) {
         return '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' + q.text + (q.attr ? '<span class="ticker-attr"> - ' + q.attr + '</span>' : '') + '</span>';
       }).join('');
@@ -16646,9 +16646,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const badge = document.getElementById('briefStaleBadge');
       if (!badge || !generatedAt) { if (badge) badge.textContent = ''; return; }
       const age = (Date.now() - new Date(generatedAt).getTime()) / 3600000;
-      if (age < 12) { badge.textContent = '\u{1F7E2} Fresh (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-fresh'; }
-      else if (age < 36) { badge.textContent = '\u{1F7E1} Aging (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-aging'; }
-      else { badge.textContent = '\u{1F534} Stale (' + Math.round(age / 24) + 'd ago)'; badge.className = 'brief-stale-badge stale-stale'; }
+      if (age < 12) { badge.innerHTML = '<span class="icon-tile icon-tile-green icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="5"/></svg></span> Fresh (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-fresh'; }
+      else if (age < 36) { badge.innerHTML = '<span class="icon-tile icon-tile-gold icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="5"/></svg></span> Aging (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-aging'; }
+      else { badge.innerHTML = '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="5"/></svg></span> Stale (' + Math.round(age / 24) + 'd ago)'; badge.className = 'brief-stale-badge stale-stale'; }
     }
 
     async function _briefNav(dir) {
