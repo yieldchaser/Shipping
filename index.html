@@ -3572,11 +3572,17 @@
 
       var isWorldscale = (classKey === 'vlcc' || classKey === 'suez' || (latestPx > 0 && latestPx < 500));
       var formatUnitVal = function(v) {
-        if (isWorldscale) return 'WS ' + (v != null ? v.toFixed(1) : '0.0');
-        return '$' + Math.round(v).toLocaleString();
+        if (isWorldscale) {
+          var tce = classKey === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
+        }
+        return '$' + Math.round(v).toLocaleString() + ' / day';
       };
       var formatUnitTooltip = function(v) {
-        if (isWorldscale) return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0');
+        if (isWorldscale) {
+          var tce = classKey === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
+        }
         return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
       };
 
