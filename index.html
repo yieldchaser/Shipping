@@ -6487,7 +6487,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     // CHART DEFAULTS (CHANGE 9)
     // =====================================================================
-    document.addEventListener('DOMContentLoaded', function () {
+    function initChartDefaults() {
       Chart.defaults.color = '#8b949e';
       Chart.defaults.borderColor = '#151a22';
       Chart.defaults.plugins.legend.labels.boxWidth = 12;
@@ -6536,7 +6536,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Perf: disable all chart animations - eliminates per-frame repaints on every render
       Chart.defaults.animation = false;
       Chart.defaults.transitions = {};
-    });
+    }
+    if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initChartDefaults); }
+    else { initChartDefaults(); }
 
     const chartRegistry = {};
     function destroyChart(id) {
@@ -11008,17 +11010,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     // BOOTSTRAP
     // =====================================================================
-    document.addEventListener('DOMContentLoaded', async function init() {
+    async function initApp() {
       try {
         await loadAllData();
         switchTab(currentTab || 'dashboard');
       } catch (err) {
-        document.getElementById('loadingOverlay').classList.add('hidden');
-        document.getElementById('tab-dashboard').innerHTML =
-          `<div class="error-msg">[Error] Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
-        console.error(err);
+        const overlay = document.getElementById('loadingOverlay');
+        if (overlay) overlay.classList.add('hidden');
+        const dash = document.getElementById('tab-dashboard');
+        if (dash) dash.innerHTML = `<div class="error-msg">[Error] Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
+        console.error('[initApp error]', err);
       }
-    });
+    }
+    if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initApp); }
+    else { initApp(); }
 
     // =====================================================================
     // YEARLY DASHBOARD TAB
@@ -18478,7 +18483,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     };
 
     // System 3: Personalization Mapping
-    document.addEventListener('DOMContentLoaded', () => {
+    function initTooltipTranslations() {
       // Standard metric translations
       const ttMap = {
         'Index:': 'Switching the index updates the dataset globally across all tabs simultaneously.',
@@ -18586,7 +18591,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         
         el.setAttribute('data-tooltip', description);
       });
-    });
+    }
+    if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initTooltipTranslations); }
+    else { initTooltipTranslations(); }
   </script>
 </body>
 
