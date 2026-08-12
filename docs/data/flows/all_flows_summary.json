@@ -1,31 +1,31 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "tickers": {
     "BDRY": {
       "last_30d_net": -4716000.0,
       "zscore": 0.38,
       "regime": "BALANCED",
       "pressure": 10.0,
-      "latest_nav": 13.87,
+      "latest_nav": 13.79,
       "flow_5d": 0.0,
       "flow_20d": -1284000.0,
-      "latest_date": "2026-08-10"
+      "latest_date": "2026-08-11"
     },
     "BWET": {
-      "last_30d_net": 2931000.0,
-      "zscore": -0.04,
+      "last_30d_net": 4210000.0,
+      "zscore": -1.47,
       "regime": "BALANCED",
-      "pressure": 9.0,
-      "latest_nav": 307.52,
-      "flow_5d": 2403000.0,
-      "flow_20d": 5091000.0,
-      "latest_date": "2026-08-10"
+      "pressure": -49.0,
+      "latest_nav": 334.65,
+      "flow_5d": -6113000.0,
+      "flow_20d": 7052000.0,
+      "latest_date": "2026-08-11"
     }
   },
   "cross_etf": {
     "bdry_flow_30d": -4716000.0,
-    "bwet_flow_30d": 2931000.0,
-    "combined_flow_30d": -1785000.0,
+    "bwet_flow_30d": 4210000.0,
+    "combined_flow_30d": -506000.0,
     "sentiment": "BEARISH"
   },
   "ng_history": [
@@ -19763,7 +19763,11 @@
     },
     {
       "date": "2026-08-11",
-      "close": 2.752
+      "close": 2.767
+    },
+    {
+      "date": "2026-08-12",
+      "close": 2.781
     }
   ]
 }
