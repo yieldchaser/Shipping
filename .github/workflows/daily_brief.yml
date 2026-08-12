@@ -68,7 +68,7 @@ jobs:
           NIM_API_KEY: ${{ secrets.NVIDIA_API_KEY || secrets.NIM_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY || secrets.NIM_API_KEY }}
           NIM_BASE_URL: ${{ secrets.NIM_BASE_URL || 'https://integrate.api.nvidia.com/v1' }}
-          NIM_MODEL: ${{ secrets.NIM_MODEL || 'meta/muse-glimmer-30b' }}
+          NIM_MODEL: ${{ secrets.NIM_MODEL || 'meta/llama-3.3-70b-instruct' }}
           LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'nim,ollama' }}
           GEMINI_MIN_INTERVAL_SEC: "1.5"
           GEMINI_MAX_RETRIES: "3"

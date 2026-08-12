@@ -73,7 +73,7 @@ OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "1.5")
 OLLAMA_MAX_BACKOFF_SEC = float(os.environ.get("OLLAMA_MAX_BACKOFF_SEC", "15.0"))
 
 NIM_API_KEY = (os.environ.get("NIM_API_KEY") or os.environ.get("NVIDIA_API_KEY") or "").strip()
-NIM_MODEL = (os.environ.get("NIM_MODEL") or "meta/muse-glimmer-30b").strip()
+NIM_MODEL = (os.environ.get("NIM_MODEL") or "meta/llama-3.3-70b-instruct").strip()
 NIM_BASE_URL = (os.environ.get("NIM_BASE_URL") or "https://integrate.api.nvidia.com/v1").strip().rstrip("/")
 NIM_MIN_INTERVAL_SEC = float(os.environ.get("NIM_MIN_INTERVAL_SEC", "1.5"))
 NIM_MAX_RETRIES = int(os.environ.get("NIM_MAX_RETRIES", "3"))
