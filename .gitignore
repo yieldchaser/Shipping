@@ -31,7 +31,6 @@ QODER.md
 
 
 # Heavy data dumps
-reports/
-knowledge/
-
+!reports/
+!knowledge/
 !knowledge/briefs/

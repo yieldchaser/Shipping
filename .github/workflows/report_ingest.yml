@@ -178,7 +178,7 @@ jobs:
         run: |
           git config user.name "report-bot"
           git config user.email "bot@shipping"
-          git add reports/
+          git add -f reports/
           if git diff --staged --quiet; then
             echo "No report changes to commit."
             exit 0
