@@ -3570,17 +3570,27 @@
       var maxPx = prices.length ? Math.max.apply(null, prices) : 0;
       var latestPx = prices.length ? prices[prices.length - 1] : 0;
 
+      var isWorldscale = (classKey === 'vlcc' || classKey === 'suez' || (latestPx > 0 && latestPx < 500));
+      var formatUnitVal = function(v) {
+        if (isWorldscale) return 'WS ' + (v != null ? v.toFixed(1) : '0.0');
+        return '$' + Math.round(v).toLocaleString();
+      };
+      var formatUnitTooltip = function(v) {
+        if (isWorldscale) return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0');
+        return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
+      };
+
       if (badgesEl) {
         var badgeText = historySource === 'sgx' ? 'Official SGX Settlement Feed' : 'Official ETF Daily Holdings History Feed';
-      badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">' + badgeText + '</div>' +
+        badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">' + badgeText + '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">$' + Math.round(latestPx).toLocaleString() + '</strong>' +
+            '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">' + formatUnitVal(latestPx) + '</strong>' +
           '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">52W Low:</span> <strong style="color:var(--text);">$' + Math.round(minPx).toLocaleString() + '</strong>' +
+            '<span style="color:var(--text-muted);">52W Low:</span> <strong style="color:var(--text);">' + formatUnitVal(minPx) + '</strong>' +
           '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">52W High:</span> <strong style="color:var(--text);">$' + Math.round(maxPx).toLocaleString() + '</strong>' +
+            '<span style="color:var(--text-muted);">52W High:</span> <strong style="color:var(--text);">' + formatUnitVal(maxPx) + '</strong>' +
           '</div>' +
           '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
             '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--accent);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
@@ -3593,7 +3603,7 @@
         data: {
           labels: labels,
           datasets: [{
-            label: contractName + ' Settlement Rate ($/day)',
+            label: contractName + (isWorldscale ? ' (Worldscale Points WS)' : ' Settlement Rate ($/day)'),
             data: prices,
             borderColor: color,
             backgroundColor: color + '22',
@@ -3611,7 +3621,7 @@
             legend: { display: false },
             tooltip: {
               callbacks: {
-                label: function(c) { return ' Settle: $' + Math.round(c.parsed.y).toLocaleString() + ' / day'; }
+                label: function(c) { return formatUnitTooltip(c.parsed.y); }
               }
             }
           },
@@ -3619,7 +3629,7 @@
             x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
             y: {
               grid: { color: 'rgba(255,255,255,0.03)' },
-              ticks: { font: { size: 10 }, callback: function(v) { return '$' + Math.round(v).toLocaleString(); } }
+              ticks: { font: { size: 10 }, callback: function(v) { return formatUnitVal(v); } }
             }
           }
         }
