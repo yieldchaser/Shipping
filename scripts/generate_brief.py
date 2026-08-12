@@ -66,7 +66,7 @@ BALTIC_TANKER_DIR = ROOT / "reports" / "baltic" / "tanker"
 
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()
 OLLAMA_MODEL = (os.environ.get("OLLAMA_MODEL") or "deepseek-v4-flash:cloud").strip()
-OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "").strip().rstrip("/")
+OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "https://api.ollama.com/v1").strip().rstrip("/")
 OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "1.5"))
 OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "3"))
 OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "1.5"))
