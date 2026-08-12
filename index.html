@@ -13139,8 +13139,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
       ];
 
-      const canvas = document.getElementById('lpgFreightChart');
-      if (!canvas) return;
       updateOrCreateChart('lpgFreightChart', canvas, {
         type: 'line',
         data: { labels: labels, datasets: datasets },
