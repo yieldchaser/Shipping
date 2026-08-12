@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-12T17:53:50.451148+00:00",
+  "generated_at": "2026-08-12T19:36:35.876158+00:00",
   "brief_date": "2026-08-12",
   "generation": {
     "mode": "template",
     "provider_used": "template",
     "model": "",
     "provider_order": [
-      "nim",
-      "ollama"
+      "ollama",
+      "nim"
     ],
     "attempted_providers": [
-      "nim",
-      "ollama"
+      "ollama",
+      "nim"
     ]
   },
   "market_snapshot": {
