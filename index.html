@@ -6587,17 +6587,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // DATA LOADING
     // =====================================================================
     async function fetchCSV(path) {
-      const resp = await fetch(path);
-      if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${path}`);
-      const text = await resp.text();
-      return new Promise((resolve, reject) => {
-        Papa.parse(text, {
-          header: true,
-          skipEmptyLines: true,
-          complete: r => resolve(r.data),
-          error: e => reject(e),
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error(`Timeout fetching ${path}`)), 10000)
+      );
+      const fetchPromise = (async () => {
+        const resp = await fetch(path);
+        if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${path}`);
+        const text = await resp.text();
+        return new Promise((resolve, reject) => {
+          Papa.parse(text, {
+            header: true,
+            skipEmptyLines: true,
+            complete: r => resolve(r.data),
+            error: e => reject(e),
+          });
         });
-      });
+      })();
+      return Promise.race([fetchPromise, timeoutPromise]);
     }
 
     // =====================================================================
@@ -6646,225 +6652,244 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
-      let total = 0;
+      // Pre-calculate total promises up front (PRODUCT_KEYS count + 19 specific file fetches + 4 SGX files)
+      const sgxFileKeys = ['cape', 'panamax', 'supramax', 'handysize'];
+      let total = PRODUCT_KEYS.length + 19 + sgxFileKeys.length;
 
       function tick(label) {
         loaded++;
-        progress.textContent = `${label} (${loaded}/${total})`;
+        if (progress) progress.textContent = `${label} (${loaded}/${total})`;
       }
 
-      const indexPromises = PRODUCT_KEYS.map(async key => {
-        if (PRODUCTS[key].computed) {
-          DATA.raw[key] = [];
+      // Watchdog timer: If loading takes longer than 8 seconds, force-dismiss overlay and render
+      let completed = false;
+      const watchdog = setTimeout(() => {
+        if (!completed) {
+          console.warn('[loadAllData] Watchdog 8s timeout triggered — force rendering dashboard');
+          completed = true;
+          try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
+          DATA.loaded = true;
+          if (overlay) overlay.classList.add('hidden');
+        }
+      }, 8000);
+
+      try {
+        const indexPromises = PRODUCT_KEYS.map(async key => {
+          if (PRODUCTS[key].computed) {
+            DATA.raw[key] = [];
+            tick(PRODUCTS[key].label);
+            return key;
+          }
+          try {
+            const rows = await fetchCSV(PRODUCTS[key].file);
+            const parsed = [];
+            if (PRODUCTS[key].solactive) {
+              for (const row of rows) {
+                const d = parseDate((row['date'] || '').trim());
+                const v = parseVal(row['value']);
+                const c = (row['change'] || '').trim();
+                if (d && v != null) {
+                  parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
+                }
+              }
+            } else {
+              for (const row of rows) {
+                const d = parseDate((row['Date'] || '').trim());
+                const v = parseVal(row['Index']);
+                const c = (row['% Change'] || '').trim();
+                if (d && v != null) {
+                  parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
+                }
+              }
+            }
+            parsed.sort((a, b) => a.date - b.date);
+            DATA.raw[key] = parsed;
+          } catch (e) {
+            DATA.raw[key] = [];
+            console.warn('[Index] Could not load ' + key + ':', e.message);
+          }
           tick(PRODUCTS[key].label);
           return key;
-        }
-        try {
-          const rows = await fetchCSV(PRODUCTS[key].file);
-          const parsed = [];
-          if (PRODUCTS[key].solactive) {
-            for (const row of rows) {
-              const d = parseDate((row['date'] || '').trim());
-              const v = parseVal(row['value']);
-              const c = (row['change'] || '').trim();
-              if (d && v != null) {
-                parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
-              }
-            }
-          } else {
-            for (const row of rows) {
-              const d = parseDate((row['Date'] || '').trim());
-              const v = parseVal(row['Index']);
-              const c = (row['% Change'] || '').trim();
-              if (d && v != null) {
-                parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
-              }
-            }
-          }
-          parsed.sort((a, b) => a.date - b.date);
-          DATA.raw[key] = parsed;
-        } catch (e) {
-          DATA.raw[key] = [];
-          console.warn('[Index] Could not load ' + key + ':', e.message);
-        }
-        tick(PRODUCTS[key].label);
-        return key;
-      });
-
-      const safeFetch = (file, label, defaultVal, parseFn) => {
-        return fetchCSV(file)
-          .then(r => { tick(label); return parseFn ? parseFn(r) : r; })
-          .catch(e => { tick(label + ' (fail)'); console.warn('[' + label + '] Load failed:', e.message); return defaultVal; });
-      };
-
-      const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r; });
-      const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r; });
-      const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r); });
-      const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r); });
-      const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r; });
-      const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r; });
-      const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r); });
-      const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r); });
-      const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r; });
-      const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r; });
-
-      // Physical Signals Derived CSVs
-      const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
-        DATA.timeCharterRates = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              if (k === 'source') { out[k] = row[k]; continue; }
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const ioPromise = safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
-        DATA.ironOreRestocking = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
-        DATA.vesselValuations = r.map(row => {
-          const d = parseDateISO(row.date);
-          const val = parseFloat(row.valuation_usd_m);
-          return {
-            date: d,
-            dateStr: row.date,
-            category: row.category,
-            tenor_type: row.tenor_type,
-            vessel_class: row.vessel_class,
-            valuation_usd_m: isNaN(val) ? null : val
-          };
-        }).filter(row => row.date != null);
-      });
-
-      const scrapPromise = safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
-        DATA.scrappagePrices = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Fearnleys TC Rates', [], r => {
-        DATA.timeCharterFearnleys = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const intermodalPromise = safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
-        DATA.intermodalTC = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              if (k === 'source') { out[k] = row[k]; continue; }
-              const val = parseFloat(row[k]);
-              out[k] = (isNaN(val) || val === 0) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const lpgSpotPromise = safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
-        DATA.lpgSpot = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const lpgCharterPromise = safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
-        DATA.lpgCharter = r.map(row => {
-          const out = { date: parseDateISO(row.date), dateStr: row.date };
-          for (const k in row) {
-            if (k !== 'date') {
-              const val = parseFloat(row[k]);
-              out[k] = isNaN(val) ? null : val;
-            }
-          }
-          return out;
-        }).filter(row => row.date != null);
-      });
-
-      const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
-        DATA.blpg = r.map(row => {
-          const d = parseDate(row.Date);
-          const val = parseFloat(row.Index);
-          return { date: d, dateStr: d ? fmtDate(d) : row.Date, index: isNaN(val) ? null : val };
-        }).filter(row => row.date != null);
-      });
-
-      // SGX FFA Futures - non-blocking; dashboard renders even if these fail
-      const sgxFiles = {
-        cape: 'data/futures/sgx_cape_futures.csv',
-        panamax: 'data/futures/sgx_panamax_futures.csv',
-        supramax: 'data/futures/sgx_supramax_futures.csv',
-        handysize: 'data/futures/sgx_handysize_futures.csv',
-      };
-      const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
-        return safeFetch(file, 'SGX ' + key.charAt(0).toUpperCase() + key.slice(1), [], r => {
-          DATA.sgx[key] = r;
         });
-      });
 
-      const allPromisesList = [
-        ...indexPromises,
-        bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
-        bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
-        bdryHistPromise, bwetHistPromise,
-        tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
-        lpgSpotPromise, lpgCharterPromise, blpgPromise,
-        ...sgxPromises
-      ];
+        const safeFetch = (file, label, defaultVal, parseFn) => {
+          return fetchCSV(file)
+            .then(r => { tick(label); return parseFn ? parseFn(r) : r; })
+            .catch(e => { tick(label + ' (fail)'); console.warn('[' + label + '] Load failed:', e.message); return defaultVal; });
+        };
 
-      total = allPromisesList.length;
+        const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r; });
+        const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r; });
+        const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r); });
+        const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r); });
+        const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r; });
+        const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r; });
+        const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r); });
+        const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r); });
+        const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r; });
+        const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r; });
 
-      await Promise.all(allPromisesList);
+        // Physical Signals Derived CSVs
+        const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
+          DATA.timeCharterRates = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                if (k === 'source') { out[k] = row[k]; continue; }
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
 
-      await new Promise(resolve => setTimeout(resolve, 0));
-      buildMaster();
+        const ioPromise = safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
+          DATA.ironOreRestocking = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
 
-      DATA.loaded = true;
-      DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
-      overlay.classList.add('hidden');
+        const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
+          DATA.vesselValuations = r.map(row => {
+            const d = parseDateISO(row.date);
+            const val = parseFloat(row.valuation_usd_m);
+            return {
+              date: d,
+              dateStr: row.date,
+              category: row.category,
+              tenor_type: row.tenor_type,
+              vessel_class: row.vessel_class,
+              valuation_usd_m: isNaN(val) ? null : val
+            };
+          }).filter(row => row.date != null);
+        });
 
-      // Use the latest actual data date (not system clock) for the header
-      const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
-      const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
-      document.getElementById('updatedAtText').textContent =
-        `Data as of ${_latestDataDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
-      document.getElementById('liveDot').classList.add('active');
+        const scrapPromise = safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
+          DATA.scrappagePrices = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Fearnleys TC Rates', [], r => {
+          DATA.timeCharterFearnleys = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const intermodalPromise = safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
+          DATA.intermodalTC = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                if (k === 'source') { out[k] = row[k]; continue; }
+                const val = parseFloat(row[k]);
+                out[k] = (isNaN(val) || val === 0) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const lpgSpotPromise = safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
+          DATA.lpgSpot = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const lpgCharterPromise = safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
+          DATA.lpgCharter = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
+          DATA.blpg = r.map(row => {
+            const d = parseDate(row.Date);
+            const val = parseFloat(row.Index);
+            return { date: d, dateStr: d ? fmtDate(d) : row.Date, index: isNaN(val) ? null : val };
+          }).filter(row => row.date != null);
+        });
+
+        const sgxFiles = {
+          cape: 'data/futures/sgx_cape_futures.csv',
+          panamax: 'data/futures/sgx_panamax_futures.csv',
+          supramax: 'data/futures/sgx_supramax_futures.csv',
+          handysize: 'data/futures/sgx_handysize_futures.csv',
+        };
+        const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
+          return safeFetch(file, 'SGX ' + key.charAt(0).toUpperCase() + key.slice(1), [], r => {
+            DATA.sgx[key] = r;
+          });
+        });
+
+        const allPromisesList = [
+          ...indexPromises,
+          bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
+          bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
+          bdryHistPromise, bwetHistPromise,
+          tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
+          lpgSpotPromise, lpgCharterPromise, blpgPromise,
+          ...sgxPromises
+        ];
+
+        await Promise.allSettled(allPromisesList);
+      } catch (err) {
+        console.error('[loadAllData error]', err);
+      } finally {
+        clearTimeout(watchdog);
+        if (!completed) {
+          completed = true;
+          try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
+          DATA.loaded = true;
+          DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
+          if (overlay) overlay.classList.add('hidden');
+
+          const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
+          const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
+          const updatedAtEl = document.getElementById('updatedAtText');
+          if (updatedAtEl) {
+            updatedAtEl.textContent = `Data as of ${_latestDataDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+          }
+          const liveDot = document.getElementById('liveDot');
+          if (liveDot) liveDot.classList.add('active');
+        }
+      }
     }
 
     function buildMaster() {
