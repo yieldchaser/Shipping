@@ -3570,17 +3570,17 @@
       var maxPx = prices.length ? Math.max.apply(null, prices) : 0;
       var latestPx = prices.length ? prices[prices.length - 1] : 0;
 
-      var isWorldscale = (classKey === 'vlcc' || classKey === 'suez' || (latestPx > 0 && latestPx < 500));
+      var isWorldscale = (cls === 'vlcc' || cls === 'suez' || (latestPx > 0 && latestPx < 500));
       var formatUnitVal = function(v) {
         if (isWorldscale) {
-          var tce = classKey === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          var tce = cls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
           return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
         }
         return '$' + Math.round(v).toLocaleString() + ' / day';
       };
       var formatUnitTooltip = function(v) {
         if (isWorldscale) {
-          var tce = classKey === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          var tce = cls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
           return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
         }
         return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
@@ -3635,7 +3635,7 @@
             x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
             y: {
               grid: { color: 'rgba(255,255,255,0.03)' },
-              ticks: { font: { size: 10 }, callback: function(v) { return formatUnitVal(v); } }
+              ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
             }
           }
         }
