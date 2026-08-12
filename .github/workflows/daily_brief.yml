@@ -62,14 +62,17 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-2.0-flash' }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ secrets.GROQ_MODEL || 'llama-3.3-70b-versatile' }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL || 'https://api.ollama.com/v1' }}
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
-          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL || 'deepseek-v4-flash:cloud' }}
+          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL || 'llama3.2' }}
           NIM_API_KEY: ${{ secrets.NVIDIA_API_KEY || secrets.NIM_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY || secrets.NIM_API_KEY }}
           NIM_BASE_URL: ${{ secrets.NIM_BASE_URL || 'https://integrate.api.nvidia.com/v1' }}
           NIM_MODEL: ${{ secrets.NIM_MODEL || 'meta/llama-3.3-70b-instruct' }}
-          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'nim,ollama' }}
+          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'gemini,nim,groq,ollama' }}
           GEMINI_MIN_INTERVAL_SEC: "1.5"
           GEMINI_MAX_RETRIES: "3"
           GEMINI_BACKOFF_BASE_SEC: "2.0"

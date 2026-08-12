@@ -80,14 +80,30 @@ NIM_MAX_RETRIES = int(os.environ.get("NIM_MAX_RETRIES", "3"))
 NIM_BACKOFF_BASE_SEC = float(os.environ.get("NIM_BACKOFF_BASE_SEC", "1.5"))
 NIM_MAX_BACKOFF_SEC = float(os.environ.get("NIM_MAX_BACKOFF_SEC", "15.0"))
 
-ALLOWED_PROVIDERS = {"ollama", "nim"}
+GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.0-flash").strip()
+GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
+GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
+GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "1.5"))
+GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "15.0"))
+
+GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip()
+GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "llama-3.3-70b-versatile").strip()
+GROQ_BASE_URL = (os.environ.get("GROQ_BASE_URL") or "https://api.groq.com/openai/v1").strip().rstrip("/")
+GROQ_MIN_INTERVAL_SEC = float(os.environ.get("GROQ_MIN_INTERVAL_SEC", "1.5"))
+GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
+GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
+GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
+
+ALLOWED_PROVIDERS = {"gemini", "nim", "groq", "ollama"}
+raw_order = os.environ.get("LLM_PROVIDER_ORDER", "gemini,nim,groq,ollama")
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
-    for part in os.environ.get("LLM_PROVIDER_ORDER", "nim,ollama").split(",")
+    for part in raw_order.split(",")
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["nim", "ollama"]
+    LLM_PROVIDER_ORDER = ["gemini", "nim", "groq", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
@@ -1096,11 +1112,150 @@ def call_nim_text(messages: list, retries: int | None = None) -> str | None:
     return None
 
 
+
+def gemini_available() -> bool:
+    return bool(GEMINI_API_KEY and GEMINI_MODEL)
+
+_last_gemini_call_ts = 0.0
+
+def _call_gemini_once(messages: list) -> str | None:
+    # Combine system + user prompt for Gemini REST API
+    system_text = ""
+    user_text = ""
+    for m in messages:
+        if m.get("role") == "system":
+            system_text = m.get("content", "")
+        else:
+            user_text += m.get("content", "") + "\n"
+    
+    full_prompt = f"{system_text}\n\n{user_text}".strip()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    
+    payload = {
+        "contents": [{"parts": [{"text": full_prompt}]}],
+        "generationConfig": {
+            "temperature": 0.35,
+            "maxOutputTokens": 2500,
+            "responseMimeType": "application/json"
+        }
+    }
+    
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    req = urllib_request.Request(
+        url,
+        data=body,
+        headers={"Content-Type": "application/json"},
+        method="POST"
+    )
+    
+    try:
+        with urllib_request.urlopen(req, timeout=45) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        err_body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Gemini HTTP {exc.code}: {err_body[:200]}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Gemini connection error: {exc}") from exc
+        
+    try:
+        data = json.loads(raw)
+        candidates = data.get("candidates") or []
+        if candidates:
+            parts = candidates[0].get("content", {}).get("parts") or []
+            if parts:
+                return parts[0].get("text")
+    except Exception as exc:
+        raise RuntimeError(f"Gemini response parse error: {exc}") from exc
+    return None
+
+def call_gemini_text(messages: list, retries: int | None = None) -> str | None:
+    if not gemini_available():
+        return None
+    retries = retries or GEMINI_MAX_RETRIES
+    global _last_gemini_call_ts
+    for attempt in range(retries):
+        try:
+            _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
+            return _call_gemini_once(messages)
+        except Exception as exc:
+            exc_text = str(exc)
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] Gemini failed: {exc_text}", file=sys.stderr)
+                return None
+    return None
+
+def groq_available() -> bool:
+    return bool(GROQ_API_KEY and GROQ_MODEL and GROQ_BASE_URL)
+
+_last_groq_call_ts = 0.0
+
+def _call_groq_once(messages: list) -> str | None:
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": messages,
+        "temperature": 0.35,
+        "max_tokens": 2500,
+        "response_format": {"type": "json_object"},
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+    }
+    req = urllib_request.Request(
+        f"{GROQ_BASE_URL}/chat/completions",
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=45) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        err_body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Groq HTTP {exc.code}: {err_body[:200]}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Groq connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Groq returned non-JSON payload: {raw[:200]}") from exc
+    choices = data.get("choices") or []
+    if not choices:
+        return None
+    message = choices[0].get("message") or {}
+    text = _clean_text(message.get("content"))
+    return text or None
+
+def call_groq_text(messages: list, retries: int | None = None) -> str | None:
+    if not groq_available():
+        return None
+    retries = retries or GROQ_MAX_RETRIES
+    global _last_groq_call_ts
+    for attempt in range(retries):
+        try:
+            _last_groq_call_ts = _apply_interval(_last_groq_call_ts, GROQ_MIN_INTERVAL_SEC)
+            return _call_groq_once(messages)
+        except Exception as exc:
+            exc_text = str(exc)
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, GROQ_BACKOFF_BASE_SEC, GROQ_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] Groq failed: {exc_text}", file=sys.stderr)
+                return None
+    return None
 def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]]:
     attempted: list[str] = []
     for provider in LLM_PROVIDER_ORDER:
         attempted.append(provider)
-        if provider == "ollama":
+        if provider == "gemini":
+            text = call_gemini_text(messages)
+        elif provider == "groq":
+            text = call_groq_text(messages)
+        elif provider == "ollama":
             text = call_ollama_text(messages)
         elif provider == "nim":
             text = call_nim_text(messages)
