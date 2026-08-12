@@ -2550,7 +2550,9 @@
 
   .chart-tooltip {
     position: absolute;
-    min-width: 220px; max-width: 300px;
+    min-width: 220px; max-width: 320px;
+    max-height: calc(100% - 16px);
+    overflow-y: auto;
     pointer-events: none;
     padding: 12px 14px;
     border-radius: 12px;
@@ -18413,9 +18415,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!tooltip) {
         tooltip = document.createElement('div');
         tooltip.className = 'chart-tooltip hidden';
-        // Allow tooltip to extend outside the chart boundary without clipping
-        container.style.overflow = 'visible';
         container.appendChild(tooltip);
+      }
+      container.style.overflow = 'visible';
+      if (container.parentNode && container.parentNode.style) {
+        container.parentNode.style.overflow = 'visible';
       }
       return tooltip;
     };
@@ -18452,32 +18456,42 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       `;
       tooltip.classList.remove('hidden');
 
-      // Boundary detection — position the tooltip so it never clips at any edge.
-      // The tooltip lives inside `container` (position:relative), so we work in
-      // local (container-relative) coordinates throughout.
-      const GAP = 14, pad = 6;
+      // Collision-aware boundary detection positioning engine — 100% zero clipping
+      const GAP = 12, pad = 8;
       const rect = container.getBoundingClientRect();
-      const tw = tooltip.offsetWidth || 220;
-      const th = tooltip.offsetHeight || 100;
+      const tw = tooltip.offsetWidth || 240;
+      const th = tooltip.offsetHeight || 140;
       const caretX = config.caretX !== undefined ? config.caretX : rect.width / 2;
       const caretY = config.caretY !== undefined ? config.caretY : rect.height / 2;
 
-      // Start: centred above caret
-      let localLeft = caretX - tw / 2;
-      let localTop  = caretY - th - GAP;
+      // HORIZONTAL POSITIONING:
+      let localLeft;
+      if (caretX + GAP + tw <= rect.width - pad) {
+        localLeft = caretX + GAP;
+      } else if (caretX - tw - GAP >= pad) {
+        localLeft = caretX - tw - GAP;
+      } else {
+        localLeft = caretX - tw / 2;
+      }
 
-      // If tooltip would go above the container top, flip below caret instead
-      if (localTop < pad) localTop = caretY + GAP;
+      // Hard clamp horizontal
+      localLeft = Math.max(pad, Math.min(rect.width - tw - pad, localLeft));
 
-      // Clamp horizontal: never let it overflow left or right of container
-      if (localLeft < pad) localLeft = pad;
-      if (localLeft + tw > rect.width - pad) localLeft = rect.width - tw - pad;
+      // VERTICAL POSITIONING:
+      let localTop = caretY - th - GAP;
+      if (localTop < pad) {
+        localTop = caretY + GAP;
+      }
 
-      // If still overflowing right (narrow container), pin at left edge
-      if (localLeft < 0) localLeft = 0;
+      // Hard clamp vertical: guaranteed never to exceed container top or bottom
+      if (th < rect.height - 2 * pad) {
+        localTop = Math.max(pad, Math.min(rect.height - th - pad, localTop));
+      } else {
+        localTop = pad;
+      }
 
-      tooltip.style.left = localLeft + 'px';
-      tooltip.style.top  = localTop  + 'px';
+      tooltip.style.left = Math.round(localLeft) + 'px';
+      tooltip.style.top  = Math.round(localTop)  + 'px';
     };
 
     // System 3: Personalization Mapping
