@@ -83,11 +83,11 @@ NIM_MAX_BACKOFF_SEC = float(os.environ.get("NIM_MAX_BACKOFF_SEC", "15.0"))
 ALLOWED_PROVIDERS = {"ollama", "nim"}
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
-    for part in os.environ.get("LLM_PROVIDER_ORDER", "ollama,nim").split(",")
+    for part in os.environ.get("LLM_PROVIDER_ORDER", "nim,ollama").split(",")
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["ollama", "nim"]
+    LLM_PROVIDER_ORDER = ["nim", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
