@@ -96,7 +96,10 @@ GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
 ALLOWED_PROVIDERS = {"gemini", "nim", "groq", "ollama"}
-raw_order = os.environ.get("LLM_PROVIDER_ORDER", "gemini,nim,groq,ollama")
+raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
+if not raw_order:
+    raw_order = "gemini,nim,groq,ollama"
+
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
     for part in raw_order.split(",")
