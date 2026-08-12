@@ -4329,31 +4329,31 @@
   <script>
     (function () {
       var quotes = [
-        { text: '\u201cI am a Man of Fortune, and I must seek my Fortune.\u201d', attr: 'Henry Avery, 1694' },
-        { text: '\u201cThe wind is as the wind is, but the set of the sail is yours.\u201d', attr: 'Viking Proverb' },
-        { text: '\u201cClearly, you\u2019ve never been to Singapore.\u201d', attr: 'Captain Jack Sparrow' },
-        { text: 'Sic Parvis Magna \u2014 Great things from small beginnings.', attr: 'Sir Francis Drake' },
-        { text: '\u201cMan cannot discover new oceans unless he has the courage to lose sight of the shore.\u201d', attr: 'Andr\u00e9 Gide' },
-        { text: '\u201cA ship in harbor is safe, but that is not what ships are built for.\u201d', attr: 'John A. Shedd' },
-        { text: 'The Fancy, 46 guns \u2014 Avery\u2019s ship, named for nothing but the wind and fortune.', attr: '' },
-        { text: '\u201cThe art of the sailor is to leave nothing to chance.\u201d', attr: 'Annie Van De Wiele' },
-        { text: '\u201cWhy is the rum always gone?\u201d', attr: 'Captain Jack Sparrow' },
-        { text: '\u201cHe who commands the sea has command of everything.\u201d', attr: 'Themistocles, 5th Century BC' },
-        { text: '\u201cIn an honest service there is thin commons, low wages, and hard labor; in this, plenty and satiety, pleasure and ease.\u201d', attr: 'Captain Bartholomew Roberts, 1722' },
-        { text: 'The Ganj-i-Sawai, 1695 \u2014 \xa3600,000 in gold & silver seized on the Indian Ocean. The richest pirate raid in history.', attr: '' },
-        { text: '\u201cAudentis Fortuna iuvat. (Fortune favors the bold.)\u201d', attr: 'Virgil' },
-        { text: '\u201cThe sea has never been friendly to man. At most it has been the accomplice of human restlessness.\u201d', attr: 'Joseph Conrad' },
-        { text: '\u201cThe problem is not the problem. The problem is your attitude about the problem.\u201d', attr: 'Captain Jack Sparrow' },
-        { text: '\u201cThe good seaman weathers the storm he cannot avoid, and avoids the storm he cannot weather.\u201d', attr: 'Unknown' },
-        { text: '\u201cNo prey, no pay.\u201d', attr: 'Pirate Code' },
-        { text: '\u201cPraise a ship when it has sailed, and a voyage when it is over.\u201d', attr: 'H\u00e1vam\u00e1l' },
-        { text: '\u201cA captain\'s greatest enemy is not the storm, but his own stubbornness in the face of the barometer.\u201d', attr: 'Old Mariner\'s proverb' },
-        { text: '\u201cCattle die, kinsmen die... but a noble name and a well-sailed voyage shall never perish.\u201d', attr: 'H\u00e1vam\u00e1l' },
+        { text: '“I am a Man of Fortune, and I must seek my Fortune.”', attr: 'Henry Avery, 1694' },
+        { text: '“The wind is as the wind is, but the set of the sail is yours.”', attr: 'Viking Proverb' },
+        { text: '“Clearly, you’ve never been to Singapore.”', attr: 'Captain Jack Sparrow' },
+        { text: 'Sic Parvis Magna — Great things from small beginnings.', attr: 'Sir Francis Drake' },
+        { text: '“Man cannot discover new oceans unless he has the courage to lose sight of the shore.”', attr: 'André Gide' },
+        { text: '“A ship in harbor is safe, but that is not what ships are built for.”', attr: 'John A. Shedd' },
+        { text: 'The Fancy, 46 guns — Avery’s ship, named for nothing but the wind and fortune.', attr: '' },
+        { text: '“The art of the sailor is to leave nothing to chance.”', attr: 'Annie Van De Wiele' },
+        { text: '“Why is the rum always gone?”', attr: 'Captain Jack Sparrow' },
+        { text: '“He who commands the sea has command of everything.”', attr: 'Themistocles, 5th Century BC' },
+        { text: '“In an honest service there is thin commons, low wages, and hard labor; in this, plenty and satiety, pleasure and ease.”', attr: 'Captain Bartholomew Roberts, 1722' },
+        { text: 'The Ganj-i-Sawai, 1695 — \xa3600,000 in gold & silver seized on the Indian Ocean. The richest pirate raid in history.', attr: '' },
+        { text: '“Audentis Fortuna iuvat. (Fortune favors the bold.)”', attr: 'Virgil' },
+        { text: '“The sea has never been friendly to man. At most it has been the accomplice of human restlessness.”', attr: 'Joseph Conrad' },
+        { text: '“The problem is not the problem. The problem is your attitude about the problem.”', attr: 'Captain Jack Sparrow' },
+        { text: '“The good seaman weathers the storm he cannot avoid, and avoids the storm he cannot weather.”', attr: 'Unknown' },
+        { text: '“No prey, no pay.”', attr: 'Pirate Code' },
+        { text: '“Praise a ship when it has sailed, and a voyage when it is over.”', attr: 'Hávamál' },
+        { text: '“A captain\'s greatest enemy is not the storm, but his own stubbornness in the face of the barometer.”', attr: 'Old Mariner\'s proverb' },
+        { text: '“Cattle die, kinsmen die... but a noble name and a well-sailed voyage shall never perish.”', attr: 'Hávamál' },
         { text: 'Henry Avery: the only pirate of the golden age to retire undefeated, vanishing into legend with the greatest haul ever taken.', attr: '' },
-        { text: '\u201cHe that will not risk a leak, must not sail.\u201d', attr: 'English Proverb' },
-        { text: 'No man is worth more to the sea than what the sea is willing to give him.', attr: 'old mariner\u2019s proverb' },
-        { text: '\u201cI am the master of my fate, I am the captain of my soul.\u201d', attr: 'William Ernest Henley' },
-        { text: '\u201cSavvy?\u201d', attr: 'Captain Jack Sparrow' }
+        { text: '“He that will not risk a leak, must not sail.”', attr: 'English Proverb' },
+        { text: 'No man is worth more to the sea than what the sea is willing to give him.', attr: 'old mariner’s proverb' },
+        { text: '“I am the master of my fate, I am the captain of my soul.”', attr: 'William Ernest Henley' },
+        { text: '“Savvy?”', attr: 'Captain Jack Sparrow' }
       ];
       var icon = '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/></svg></span>';
       var html = quotes.map(function (q) {
@@ -10569,8 +10569,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       return `
     <div class="etf-header">
       <div class="etf-ticker" data-tooltip="${etfKey === 'bdry' ?
-        'BDRY \u2014 Breakwave Dry Bulk Shipping ETF. Holds near-dated FFA futures weighted: 50% Capesize 5TC (180K DWT, iron ore & coal routes), 40% Panamax 5TC (82K DWT, grain & coal), 10% Supramax 58TC. Contracts roll quarterly. NAV tracks the Solactive Baltic Exchange Dry Bulk Shipping Index. The only US-listed pure-play dry bulk ETF.' :
-        'BWET \u2014 Breakwave Tanker Shipping ETF. The world\u2019s first crude oil tanker ETF. Portfolio: 90% TD3C VLCC futures (270K MT, Middle East Gulf \u2192 China, the \\u201cDow Jones of tanker markets\\u201d) + 10% TD20 Suezmax futures (130K MT, West Africa \u2192 UK-Continent). Targets 50\u201390 day average contract maturity. NAV tracks the Breakwave Wet Freight Futures Index.'
+        'BDRY — Breakwave Dry Bulk Shipping ETF. Holds near-dated FFA futures weighted: 50% Capesize 5TC (180K DWT, iron ore & coal routes), 40% Panamax 5TC (82K DWT, grain & coal), 10% Supramax 58TC. Contracts roll quarterly. NAV tracks the Solactive Baltic Exchange Dry Bulk Shipping Index. The only US-listed pure-play dry bulk ETF.' :
+        'BWET — Breakwave Tanker Shipping ETF. The world’s first crude oil tanker ETF. Portfolio: 90% TD3C VLCC futures (270K MT, Middle East Gulf → China, the “Dow Jones of tanker markets”) + 10% TD20 Suezmax futures (130K MT, West Africa → UK-Continent). Targets 50–90 day average contract maturity. NAV tracks the Breakwave Wet Freight Futures Index.'
       }">${ticker}</div>
       <div class="etf-name">${name}</div>
       <div class="etf-price-row">${priceHTML}</div>
@@ -11080,7 +11080,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (labelEl) {
           var sd = allRows[s] ? fmtDate(allRows[s].date).slice(0, 7) : '';
           var ed = allRows[e] ? fmtDate(allRows[e].date).slice(0, 7) : '';
-          labelEl.textContent = sd + ' \u2192 ' + ed;
+          labelEl.textContent = sd + ' → ' + ed;
         }
         rebuildYDHistChart(productKey);
       });
@@ -11323,7 +11323,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           fillEl.style.left = pctS + '%';
           fillEl.style.width = (pctE - pctS) + '%';
         }
-        if (labelEl) labelEl.textContent = masterLabels[s].slice(0, 7) + ' \u2192 ' + masterLabels[e].slice(0, 7);
+        if (labelEl) labelEl.textContent = masterLabels[s].slice(0, 7) + ' → ' + masterLabels[e].slice(0, 7);
       }
 
       // Use named reference to remove stale listeners
@@ -18491,22 +18491,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         '10Y Pctl': 'Percentage of trading days in the last 10 years where the index was lower than today.',
         '5Y Pctl': 'Percentage of trading days in the last 5 years where the index was lower than today.',
         '52-Week Drawdown': 'Percentage drop from the highest peak achieved in the trailing 52 weeks.',
-        '20D RoC': 'Rate of Change. Percentage move across the trailing 20 trading sessions (\u22481 month).',
+        '20D RoC': 'Rate of Change. Percentage move across the trailing 20 trading sessions (≈1 month).',
         'Current vs 5Y Avg': 'Percent difference between today\'s reading and the trailing 5-year average.',
         'Current vs 10Y Avg': 'Percent difference between today\'s reading and the trailing 10-year average.',
         'Last 5 Years Drawdown (%)': 'The depth of drops from 52-week peaks charted out historically.',
         'Historical Volatility (Annualized)': 'Annualized standard deviation of daily log returns, grouping price swings into volatility regimes.',
-        'Volatility %': 'Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.',
-        'Trough\u2192Peak %': 'Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).',
+        'Volatility %': 'Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.',
+        'Trough→Peak %': 'Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).',
         'Total Futures': 'Aggregate notional value of all forward freight agreements currently held.',
         'Collateral Cash': 'Treasury bills or cash equivalents held to margin the futures position.',
         'Futures / AUM': 'Notional futures exposure relative to total net assets. Often drifts >100% via leverage.',
         'NAV': 'Net Asset Value. The theoretical daily intrinsic value per ETF share.',
         'Expense Ratio': 'Annual fee percentage deducted by the ETF issuer from the fund assets.',
-        '52W High \u2014 Low': 'The highest ceiling and lowest floor traded over the last year.',
+        '52W High — Low': 'The highest ceiling and lowest floor traded over the last year.',
         '52W Position': 'Current spot on a 0-100% ruler stretching between the 52-week low to high.',
         'From Last Trough': 'Growth percentage since the lowest price hit any time in the past year.',
-        'Dollar Value Traded': 'Total market capital exchanged today (Share Price \u00D7 Volume).',
+        'Dollar Value Traded': 'Total market capital exchanged today (Share Price × Volume).',
         'Possible Shares': 'Safe trade size defined by volume banding (from 2% to 6.5% of total volume based on liquidity constraints).',
         'Safe Liquidity': 'Total trade capital ($) that can be entered/exited today without inducing market slippage.',
         'Total Safe Liquidity (1M)': 'Approximate cumulative trade capital that could safely be absorbed over the last 21 trading days.',
@@ -18517,12 +18517,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         'Volume': 'Total contracts or shares exchanged during the current session.',
         'Lots': 'Standardized trading unit size for the derivative contract.',
         'Price': 'The last traded price for the asset.',
-        'Mkt Value': 'Total market capitalization of the held position (Price \u00D7 Shares).',
+        'Mkt Value': 'Total market capitalization of the held position (Price × Shares).',
         'Weight': 'Proportional allocation of the asset within the broader portfolio.',
         'Close': 'Final settlement price for the trading day.',
-        '$ Vol Traded': 'Total capital committed (Price \u00D7 Volume) illustrating true liquidity depth.',
-        'Day \u0394': 'Absolute price change versus the previous session.',
-        'Day \u0394%': 'Percentage price change versus the previous session.',
+        '$ Vol Traded': 'Total capital committed (Price × Volume) illustrating true liquidity depth.',
+        'Day Δ': 'Absolute price change versus the previous session.',
+        'Day Δ%': 'Percentage price change versus the previous session.',
         '5D Chg%': 'Rolling 5-day percentage price change.',
         'Tier %': 'Liquidity safety guardrail tier based on average daily volume.',
         'Avg Value': 'Mathematical mean over the given timeframe.',
