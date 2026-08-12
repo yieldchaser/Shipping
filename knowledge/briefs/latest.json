@@ -1,17 +1,15 @@
 {
-  "generated_at": "2026-08-12T09:41:03.037292+00:00",
+  "generated_at": "2026-08-12T09:45:50.081655+00:00",
   "brief_date": "2026-08-12",
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "meta/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
-      "ollama",
-      "nim"
+      "ollama"
     ],
     "attempted_providers": [
-      "ollama",
-      "nim"
+      "ollama"
     ]
   },
   "market_snapshot": {
@@ -83,14 +81,15 @@
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.85sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/6 neg/6 neu.",
-      "summary": "The dry bulk market is currently in a distribution regime, with the BDI at 3083.0, +1.85σ above its 252-day mean. Momentum is characterized by a +53.3% ROC60, signaling one of the fastest six-month recoveries since 2020. Analyst consensus is neutral, with a breakdown of 0 positive, 0 negative, and 12 neutral reports. The Capesize segment is leading the market, with a +2799 points spread over Panamax. Geopolitical factors, such as the Iran-Israel conflict, are not currently impacting the dry bulk market. The market is expected to remain firm over the next 2-4 weeks, driven by healthy cargo volumes and improving owner confidence.",
+      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:12). Quant and analyst signals disagree for dry bulk (Z=+1.85sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/6 neg/6 neu.",
       "key_signals": [
-        "The Capesize-Panamax spread of +2799 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
-        "The BDI is in the 92nd percentile of its 5-year range, signaling a high level of market activity.",
-        "The Capesize Z-score of +1.85σ is historically associated with sustained FFA curve steepening as forward holders hedge into strength."
+        "Quant: BDI value=3083.0, z=+1.85sigma, 5Y percentile=92.1%.",
+        "Qual: last 12 reports sentiment mix -> neutral:12.",
+        "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
+        "Latest report 2026-08-04: momentum=positive, fundamentals=neutral."
       ],
-      "outlook": "The market is expected to remain firm over the next 2-4 weeks, driven by healthy cargo volumes and improving owner confidence, with a potential upside risk from geopolitical tensions in the Middle East.",
-      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
+      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
       "report_dates": [
         "2026-08-04",
         "2026-07-21",
@@ -104,25 +103,20 @@
         "2026-03-31",
         "2026-03-17",
         "2026-03-03"
-      ],
-      "momentum_grade": "UP",
-      "positioning_bias": "NEUTRAL",
-      "trade_idea": "No high-conviction setup: a clearer picture on iron ore demand and supply is needed to validate a trade thesis.",
-      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
-      "confidence_score": 0.5
+      ]
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 12 Breakwave reports: Sentiment 4 pos/1 neg/7 neu; Momentum 5 pos/3 neg/4 neu; Fundamentals 10 pos/0 neg/2 neu.",
-      "summary": "The tanker market is currently in an expansion regime, with the VLCC rate for the TD3C route (Middle East Gulf to China) at WS475.56, corresponding to a daily round-trip TCE of $481,286. Momentum is characterized by a strong uptrend, with the TC1 75kt MEG/Japan index up 48 points to WS499. Analyst consensus is bullish, with a breakdown of 4 positive, 1 negative, and 7 neutral reports. The clean tanker segment is outperforming the dirty segment, with a -1257 points spread. Geopolitical factors, such as the Middle East conflict, are currently supporting the tanker market. The market is expected to remain strong over the next 2-4 weeks, driven by improving oil demand and supply fundamentals.",
+      "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:7, negative:1, positive:4). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 12 Breakwave reports: Sentiment 4 pos/1 neg/7 neu; Momentum 5 pos/3 neg/4 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "key_signals": [
-        "The VLCC rate for the TD3C route (Middle East Gulf to China) is at WS475.56, corresponding to a daily round-trip TCE of $481,286, signaling a strong recovery in the tanker market.",
-        "The TC1 75kt MEG/Japan index is up 48 points to WS499, indicating a strong uptrend in the tanker market.",
-        "Dirty tanker check: level=2644.0, ROC60=+11.3%."
+        "Quant: CLEAN_TANKER value=1387.0, z=+0.81sigma, 5Y percentile=94.2%.",
+        "Qual: last 12 reports sentiment mix -> neutral:7, negative:1, positive:4.",
+        "Cross-check: DIRTY_TANKER value=2644.0, z=+1.04sigma.",
+        "Latest report 2026-08-11: momentum=neutral, fundamentals=positive."
       ],
-      "outlook": "The market is expected to remain strong over the next 2-4 weeks, driven by improving oil demand and supply fundamentals, with a potential upside risk from further escalation of the Middle East conflict.",
-      "watch": "OPEC+ June 1 meeting, China May oil imports data (~June 8), and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-08-11",
         "2026-07-28",
@@ -136,21 +130,11 @@
         "2026-04-07",
         "2026-03-24",
         "2026-03-10"
-      ],
-      "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG",
-      "trade_idea": "Buy a VLCC on the TD3C route (Middle East Gulf to China) at WS475.56, with an entry trigger of a further 10 points increase in the TC1 75kt MEG/Japan index and an exit thesis of a 5% drop in the VLCC rate.",
-      "catalyst_watch": "OPEC+ June 1 meeting, China May oil imports data (~June 8), and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "If the Middle East conflict escalates, it could lead to a disruption in oil supplies and invalidate the tanker market recovery thesis.",
-      "confidence_score": 0.7
+      ]
     }
   },
-  "macro_note": "The Middle East conflict is currently supporting the tanker market, with a potential tonnage impact of +100,000 dwt on the VLCC segment. The specific macro driver active today is the improving oil demand and supply fundamentals, with a direct freight impact of +$10/ton on the VLCC segment. The upcoming OPEC+ June 1 meeting and China May oil imports data (~June 8) will confirm or invalidate the current freight thesis.",
-  "cross_sector_analysis": {
-    "relative_value": "The tanker sector has a better risk-reward than the dry bulk sector, driven by the strong recovery in oil demand and supply fundamentals, with a Z-differential of +1.5σ between the two sectors.",
-    "dominant_driver": "The dominant macro force driving both sectors is the improving oil demand and supply fundamentals, with a specific impact on the tanker sector.",
-    "positioning_recommendation": "Buy a spread between the tanker and dry bulk sectors, with a long position in the tanker sector and a short position in the dry bulk sector, on a Z-differential of +1.5σ."
-  },
+  "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
+  "cross_sector_analysis": {},
   "sources": [
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",
