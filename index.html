@@ -13109,6 +13109,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         { label: 'Baltic LPG Index', data: rows.map(r => r.blpg), yAxisID: 'yRight', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true, borderDash: [2, 2] },
       ];
 
+      const canvas = document.getElementById('lpgFreightChart');
+      if (!canvas) return;
       updateOrCreateChart('lpgFreightChart', canvas, {
         type: 'line',
         data: { labels: labels, datasets: datasets },
@@ -14161,6 +14163,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var totalMean = allRatioVals.reduce(function (a, b) { return a + b; }, 0) / allRatioVals.length;
       var meanLine = rows.map(function () { return totalMean; });
 
+      const canvas = document.getElementById('spreadChart');
+      if (!canvas) return;
       updateOrCreateChart('spreadChart', canvas, {
         type: 'line',
         data: {
@@ -16087,6 +16091,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function renderBDIContributionChart() {
+      const canvas = document.getElementById('bdiContribChart');
+      if (!canvas) return;
       const rows = DATA.master.filter(r => r.bdry_spot_change != null && r.cape_change != null && r.panama_change != null && r.suprama_change != null);
       if (rows.length < 2) return;
 
