@@ -5666,7 +5666,7 @@
                   <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present) for dry bulk & tankers" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
                   <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip="Dual Overlay: Visualizes both Alibra (solid) and Fearnleys (dashed) to highlight broker rate divergence" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
                 </div>
-                <div id="spotTcRatioBadge" class="kpi-badge">Ratio: --</div>
+                <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -5687,7 +5687,7 @@
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
               <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
-              <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: --</div>
+              <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: —</div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
               <div class="index-range-label">
@@ -5707,7 +5707,7 @@
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
               <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
-              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: --</div>
+              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
               <div class="index-range-label">
@@ -5732,7 +5732,7 @@
                   <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
                   <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
                 </div>
-                <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: --</div>
+                <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -5770,7 +5770,7 @@
                   <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
                   <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
                 </div>
-                <div id="scrapFloorBadge" class="kpi-badge">Value: --</div>
+                <div id="scrapFloorBadge" class="kpi-badge">Value: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -5796,7 +5796,7 @@
               <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
               <div id="quadrantLegendCard" style="flex:0 0 240px;padding:16px;background:var(--hover);border:1px solid var(--border);border-radius:6px;font-size:12px;color:var(--text-muted);">
                 <div style="font-weight:600;color:var(--text);margin-bottom:8px;font-size:13px;">Current Phase Analysis</div>
-                <div id="quadrantPhaseText" style="font-weight:600;font-size:14px;color:var(--accent);margin-bottom:10px;">--</div>
+                <div id="quadrantPhaseText" style="font-weight:600;font-size:14px;color:var(--accent);margin-bottom:10px;">—</div>
                 <div style="margin-top:10px;line-height:1.4;border-top: 1px solid var(--border);padding-top: 8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
               </div>
             </div>
@@ -13124,7 +13124,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           lpgBadge.style.background = 'var(--accent)';
           lpgBadge.style.color = '#fff';
         } else {
-          lpgBadge.textContent = 'VLGC 1Y TC: --';
+          lpgBadge.textContent = 'VLGC 1Y TC: —';
           lpgBadge.style.background = 'var(--border)';
           lpgBadge.style.color = 'var(--text-muted)';
         }
@@ -17276,7 +17276,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       for (const [sector, d] of Object.entries(vc)) {
         if (!d) continue;
-        lines.push('', `--- ${sector.toUpperCase().replace(/_/g,' ')} ANALYST CONSENSUS ---`);
+        lines.push('', `— ${sector.toUpperCase().replace(/_/g,' ')} ANALYST CONSENSUS —`);
         if (d.confluence_type)    lines.push(`  Signal: ${d.confluence_type}`);
         if (d.confluence_note)    lines.push(`  ${d.confluence_note}`);
         if (d.summary)            lines.push(`  Summary: ${d.summary}`);
@@ -17288,7 +17288,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       if (brief.macro_note)
-        lines.push('', `--- MACRO CONTEXT ---`, `  ${brief.macro_note}`);
+        lines.push('', `— MACRO CONTEXT —`, `  ${brief.macro_note}`);
       if (brief.cross_sector_analysis?.relative_value)
         lines.push(`  Cross-sector: ${brief.cross_sector_analysis.relative_value}`);
 
