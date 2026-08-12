@@ -65,7 +65,7 @@ BALTIC_TANKER_DIR = ROOT / "reports" / "baltic" / "tanker"
 
 
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "").strip()
+OLLAMA_MODEL = (os.environ.get("OLLAMA_MODEL") or "llama3:8b").strip()
 OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "").strip().rstrip("/")
 OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "1.5"))
 OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "3"))
@@ -73,7 +73,7 @@ OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "1.5")
 OLLAMA_MAX_BACKOFF_SEC = float(os.environ.get("OLLAMA_MAX_BACKOFF_SEC", "15.0"))
 
 NIM_API_KEY = os.environ.get("NIM_API_KEY", "").strip()
-NIM_MODEL = os.environ.get("NIM_MODEL", "").strip()
+NIM_MODEL = (os.environ.get("NIM_MODEL") or "meta/llama-3.3-70b-instruct").strip()
 NIM_BASE_URL = (os.environ.get("NIM_BASE_URL") or "https://integrate.api.nvidia.com/v1").strip().rstrip("/")
 NIM_MIN_INTERVAL_SEC = float(os.environ.get("NIM_MIN_INTERVAL_SEC", "1.5"))
 NIM_MAX_RETRIES = int(os.environ.get("NIM_MAX_RETRIES", "3"))
@@ -982,7 +982,7 @@ def _call_ollama_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=150) as response:
+        with urllib_request.urlopen(req, timeout=45) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
