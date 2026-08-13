@@ -538,48 +538,64 @@
       color: var(--red);
     }
 
+    .signal-icon {
+      width: 12px;
+      height: 12px;
+      display: inline-block;
+      vertical-align: middle;
+      flex-shrink: 0;
+    }
+
     .signal-badge {
-      padding: 8px 16px;
-      border-radius: 8px;
-      font-size: 14px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 11px;
       font-weight: 700;
-      letter-spacing: 0.3px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      line-height: 1.2;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+      transition: all 0.2s ease;
+      vertical-align: middle;
     }
 
     .signal-sell {
-      background: rgba(248, 81, 73, 0.25);
+      background: rgba(248, 81, 73, 0.14);
       color: #f85149;
-      border: 1px solid rgba(248, 81, 73, 0.4);
+      border: 1px solid rgba(248, 81, 73, 0.35);
     }
 
     .signal-golden {
-      background: rgba(255, 215, 0, 0.25);
-      color: #ffd700;
-      border: 1px solid rgba(255, 215, 0, 0.4);
+      background: rgba(63, 185, 80, 0.14);
+      color: #3fb950;
+      border: 1px solid rgba(63, 185, 80, 0.35);
     }
 
     .signal-knife {
-      background: rgba(255, 140, 0, 0.25);
-      color: #ff8c00;
-      border: 1px solid rgba(255, 140, 0, 0.4);
+      background: rgba(248, 81, 73, 0.16);
+      color: #ff6b6b;
+      border: 1px solid rgba(248, 81, 73, 0.4);
     }
 
     .signal-trap {
-      background: rgba(139, 148, 158, 0.25);
-      color: #8b949e;
-      border: 1px solid rgba(139, 148, 158, 0.4);
+      background: rgba(227, 179, 65, 0.14);
+      color: #e3b341;
+      border: 1px solid rgba(227, 179, 65, 0.35);
     }
 
     .signal-accumulate {
-      background: rgba(88, 166, 255, 0.25);
+      background: rgba(88, 166, 255, 0.14);
       color: #58a6ff;
-      border: 1px solid rgba(88, 166, 255, 0.4);
+      border: 1px solid rgba(88, 166, 255, 0.35);
     }
 
     .signal-wait {
-      background: rgba(230, 237, 243, 0.1);
-      color: #e6edf3;
-      border: 1px solid rgba(230, 237, 243, 0.2);
+      background: rgba(139, 148, 158, 0.12);
+      color: #8b949e;
+      border: 1px solid rgba(139, 148, 158, 0.3);
     }
 
     .stats-row {
