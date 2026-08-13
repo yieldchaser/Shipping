@@ -517,9 +517,14 @@ def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> s
     Each full report is ~200-230 tokens, so 12 reports x 2 categories = ~5400 tokens total.
     """
     chunk_map = {
-        "drybulk": [KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
-                    KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl"],
-        "tankers": [KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl"],
+        "drybulk": [
+            KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
+            KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl",
+        ],
+        "tankers": [
+            KNOWLEDGE / "chunks" / "breakwave_tankers_2026.jsonl",
+            KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl",
+        ],
     }
     paths = chunk_map.get(category, [])
     chunks: list[dict] = []
