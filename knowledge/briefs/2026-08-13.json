@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:18:16.292481+00:00",
+  "generated_at": "2026-08-13T18:48:03.140146+00:00",
   "brief_date": "2026-08-13",
   "generation": {
     "mode": "template",
@@ -20,6 +20,11 @@
       "ollama"
     ]
   },
+  "executive_tldr": [
+    "Regime Split: Dry Bulk is in Divergence while Tankers exhibit Bull Confluence. Dry Bulk displays stronger statistical momentum than Tankers (Z-differential +0.81σ), favoring dry bulk spread positioning.",
+    "Tactical Desk Strategy: Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum.",
+    "Catalyst & Risk Boundary: Resolution of the tension between spot rate levels and analyst fundamental grades in the next reporting print. Invalidation Trigger: A breakdown in rate-of-change momentum below ROC60=0.0% would confirm that fundamentals are dragging spot prices lower."
+  ],
   "market_snapshot": {
     "bdi": {
       "value": 3083.0,
