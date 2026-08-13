@@ -1115,12 +1115,76 @@ def call_nim_text(messages: list, retries: int | None = None) -> str | None:
     return None
 
 
+
+def groq_available() -> bool:
+    return bool(GROQ_API_KEY and GROQ_MODEL and GROQ_BASE_URL)
+
+_last_groq_call_ts = 0.0
+
+def _call_groq_once(messages: list) -> str | None:
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": messages,
+        "temperature": 0.35,
+        "max_tokens": 2500,
+        "response_format": {"type": "json_object"},
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+    }
+    req = urllib_request.Request(
+        f"{GROQ_BASE_URL}/chat/completions",
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=45) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        err_body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Groq HTTP {exc.code}: {err_body[:200]}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Groq connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Groq returned non-JSON payload: {raw[:200]}") from exc
+    choices = data.get("choices") or []
+    if not choices:
+        return None
+    message = choices[0].get("message") or {}
+    text = _clean_text(message.get("content"))
+    return text or None
+
+def call_groq_text(messages: list, retries: int | None = None) -> str | None:
+    if not groq_available():
+        return None
+    retries = retries or GROQ_MAX_RETRIES
+    global _last_groq_call_ts
+    for attempt in range(retries):
+        try:
+            _last_groq_call_ts = _apply_interval(_last_groq_call_ts, GROQ_MIN_INTERVAL_SEC)
+            return _call_groq_once(messages)
+        except Exception as exc:
+            exc_text = str(exc)
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, GROQ_BACKOFF_BASE_SEC, GROQ_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] Groq failed: {exc_text}", file=sys.stderr)
+                return None
+    return None
 def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]]:
     attempted: list[str] = []
     for provider in LLM_PROVIDER_ORDER:
         attempted.append(provider)
         if provider == "nim":
             text = call_nim_text(messages)
+        elif provider == "groq":
+            text = call_groq_text(messages)
         elif provider == "ollama":
             text = call_ollama_text(messages)
         else:
@@ -1456,7 +1520,7 @@ def main() -> None:
         "generation": {
             "mode": generation_mode,
             "provider_used": generation_provider,
-            "model": OLLAMA_MODEL if generation_provider == "ollama" else (NIM_MODEL if generation_provider == "nim" else ""),
+            "model": GROQ_MODEL if generation_provider == "groq" else (OLLAMA_MODEL if generation_provider == "ollama" else (NIM_MODEL if generation_provider == "nim" else "")),
             "provider_order": LLM_PROVIDER_ORDER,
             "attempted_providers": attempted,
         },
@@ -1470,18 +1534,13 @@ def main() -> None:
         "sources": [s["doc_id"] for s in dry_signals + tanker_signals if s.get("doc_id")],
     }
 
+    if generation_mode == "template":
+        print("[brief] WARNING: LLM generation was not available. Suppressing template file creation/overwrite to prevent template slop.", file=sys.stderr)
+        return
+
     latest_path = BRIEFS / "latest.json"
     dated_path = BRIEFS / f"{today}.json"
     for out_path in (latest_path, dated_path):
-        if generation_mode == "template" and out_path.exists():
-            try:
-                existing = json.loads(out_path.read_text(encoding="utf-8"))
-                if existing.get("generation", {}).get("mode") == "llm":
-                    display_path = out_path.relative_to(ROOT) if hasattr(out_path, "relative_to") else out_path
-                    print(f"[brief] PRESERVED existing LLM brief at {display_path} — template fallback suppressed.")
-                    continue
-            except Exception:
-                pass
         out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
         try:
             display_path = out_path.relative_to(ROOT)
