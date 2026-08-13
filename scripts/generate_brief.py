@@ -1473,6 +1473,15 @@ def main() -> None:
     latest_path = BRIEFS / "latest.json"
     dated_path = BRIEFS / f"{today}.json"
     for out_path in (latest_path, dated_path):
+        if generation_mode == "template" and out_path.exists():
+            try:
+                existing = json.loads(out_path.read_text(encoding="utf-8"))
+                if existing.get("generation", {}).get("mode") == "llm":
+                    display_path = out_path.relative_to(ROOT) if hasattr(out_path, "relative_to") else out_path
+                    print(f"[brief] PRESERVED existing LLM brief at {display_path} — template fallback suppressed.")
+                    continue
+            except Exception:
+                pass
         out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
         try:
             display_path = out_path.relative_to(ROOT)
