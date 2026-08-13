@@ -4622,7 +4622,7 @@
       <!-- Quarterly Area Comparison 1 -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Quarterly Area Comparison - three overlaid series: current year (solid), prior year (dashed), and the 5-year rolling average (shaded). When the current year is tracking above both, it confirms a seasonally strong regime.">Quarterly Area Comparison &mdash; Current vs Prior vs 5Y Avg</div>
+          <div class="chart-title" data-tooltip="Quarterly Area Comparison - three overlaid series: current year (solid), prior year (dashed), and the 5-year rolling average (shaded). When the current year is tracking above both, it confirms a seasonally strong regime.">Quarterly Area Comparison • Current vs Prior vs 5Y Avg</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp1Chart"></canvas></div>
       </div>
@@ -5235,13 +5235,13 @@
       </div>
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Intra-Year Trajectory - monthly average rates for the active year. Colour coding shows the MoM trend acceleration or decay.">Shipping Rates &mdash; Current Year Monthly Bar</div>
+          <div class="chart-title" data-tooltip="Intra-Year Trajectory - monthly average rates for the active year. Colour coding shows the MoM trend acceleration or decay.">Shipping Rates • Current Year Monthly Bar</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyShippingRatesChart"></canvas></div>
       </div>
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates &mdash; Multi-Year Overlay</div>
+          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
           <select id="ratesOverlayProduct">
             <option value="bdiy">Baltic Dry Index (BDI)</option>
             <option value="bdry_spot">BDRY Spot Composite</option>
@@ -5283,7 +5283,7 @@
       <!-- Area Comparison Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Trajectory Divergence - current year vs. 5Y seasonal mean. When the current line breaks the 5Y average, it signals a fundamental break in global trade flows.">Monthly Area Comparison &mdash; Current vs Prior vs 5Y Avg</div>
+          <div class="chart-title" data-tooltip="Trajectory Divergence - current year vs. 5Y seasonal mean. When the current line breaks the 5Y average, it signals a fundamental break in global trade flows.">Monthly Area Comparison • Current vs Prior vs 5Y Avg</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
       </div>
@@ -7170,11 +7170,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const bullishTxt = document.getElementById('alertBullishText');
       const bearishTxt = document.getElementById('alertBearishText');
       if (sig.label.includes('ACCUMULATE') || sig.label.includes('GOLDEN')) {
-        bullishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> &mdash; Market positioned in value accumulation zone (' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile).';
+        bullishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> : Market positioned in value accumulation zone (' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile).';
         bullishEl.style.display = 'block';
         bearishEl.style.display = 'none';
       } else if (sig.label.includes('SELL') || sig.label.includes('KNIFE') || sig.label.includes('TRAP')) {
-        bearishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> &mdash; Market overextended at ' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile. Profit taking & hedging recommended.';
+        bearishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> : Market overextended at ' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile. Profit taking & hedging recommended.';
         bearishEl.style.display = 'block';
         bullishEl.style.display = 'none';
       } else {
@@ -11199,7 +11199,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       el.innerHTML =
         '<div class="current-price-block">' +
         '<div class="current-price-label">' + prod.label + '</div>' +
-        '<div class="current-price-value" style="font-size:36px">' + (stats ? fmt(stats.currentPrice) : '&mdash;') + '</div>' +
+        '<div class="current-price-value" style="font-size:36px">' + (stats ? fmt(stats.currentPrice) : '-') + '</div>' +
         (stats && stats.pctChange != null
           ? '<div class="current-price-change ' + (stats.pctChange >= 0 ? 'change-pos' : 'change-neg') + '">' +
           (stats.pctChange >= 0 ? '+' : '') + stats.pctChange.toFixed(2) + '% vs prior day</div>'
@@ -11807,27 +11807,27 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var yoy = fy != null && pfy != null && pfy !== 0 ? ((fy - pfy) / pfy) * 100 : null;
         
         html += '<tr><td class="year-col">' + y + '</td>';
-        for (var m = 0; m < 12; m++) { var v = rv[m]; if (v == null) { html += '<td style="color:#484f58">&mdash;</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; }
+        for (var m = 0; m < 12; m++) { var v = rv[m]; if (v == null) { html += '<td style="color:#484f58">-</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; }
         
-        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '&mdash;') + '</td>';
-        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '&mdash;') + '</td></tr>';
+        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '-') + '</td>';
+        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '-') + '</td></tr>';
       });
       
       html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700">8Y Avg</td>';
       var a8all = [];
-      for (var m = 0; m < 12; m++) { var v = avg8y[m]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">&mdash;</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; }
+      for (var m = 0; m < 12; m++) { var v = avg8y[m]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">-</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; }
       var a8avg = mean(a8all.filter(function (v) { return v != null; }));
-      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '&mdash;') + '</td><td>&mdash;</td></tr>';
+      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '-') + '</td><td>-</td></tr>';
       
       var ly = years8[0];
       html += '<tr><td class="year-col" style="color:var(--text-muted)">MoM %</td>';
       for (var m = 0; m < 12; m++) {
         var curr = matrix[ly] ? matrix[ly][m] : null, prev = m > 0 ? (matrix[ly] ? matrix[ly][m - 1] : null) : (matrix[ly - 1] ? matrix[ly - 1][11] : null);
-        if (curr == null || prev == null) { html += '<td style="color:#484f58">&mdash;</td>'; continue; }
+        if (curr == null || prev == null) { html += '<td style="color:#484f58">-</td>'; continue; }
         var pct = ((curr - prev) / prev) * 100;
         html += '<td style="background:' + heatmapColorPct(pct) + ';color:#e6edf3;font-size:11px">' + (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%</td>';
       }
-      html += '<td>&mdash;</td><td>&mdash;</td></tr></tbody></table>';
+      html += '<td>-</td><td>-</td></tr></tbody></table>';
       
       document.getElementById('monthlyDataGrid').innerHTML = html;
       document.getElementById('monthlyGridDlBtn').onclick = function () {
@@ -11921,15 +11921,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var py2 = years8[i + 1], pv = py2 != null ? qs.map(function (q) { return matrix[py2] ? matrix[py2][q] : null; }).filter(function (v) { return v != null; }) : [], pfy = pv.length ? mean(pv) : null;
         var yoy = fy != null && pfy != null && pfy !== 0 ? ((fy - pfy) / pfy) * 100 : null;
         html += '<tr><td class="year-col">' + y + '</td>';
-        qs.forEach(function (q) { var v = matrix[y] ? matrix[y][q] : null; if (v == null) { html += '<td style="color:#484f58">&mdash;</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; });
-        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '&mdash;') + '</td>';
-        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '&mdash;') + '</td></tr>';
+        qs.forEach(function (q) { var v = matrix[y] ? matrix[y][q] : null; if (v == null) { html += '<td style="color:#484f58">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; });
+        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '-') + '</td>';
+        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '-') + '</td></tr>';
       });
       
       html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700">8Y Avg</td>';
-      qs.forEach(function (q) { var v = avg8y[q]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">&mdash;</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; });
+      qs.forEach(function (q) { var v = avg8y[q]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; });
       var a8avg = mean(a8all.filter(function (v) { return v != null; }));
-      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '&mdash;') + '</td><td>&mdash;</td></tr>';
+      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '-') + '</td><td>-</td></tr>';
       
       var ly = years8[0];
       html += '<tr><td class="year-col" style="color:var(--text-muted)">QoQ %</td>';
@@ -11940,12 +11940,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (i > 0) { prev = matrix[ly] ? matrix[ly][qs[i-1]] : null; } 
         else { prev = matrix[ly-1] ? matrix[ly-1][qs[3]] : null; }
         
-        if (curr == null || prev == null) { html += '<td style="color:#484f58">&mdash;</td>'; continue; }
+        if (curr == null || prev == null) { html += '<td style="color:#484f58">-</td>'; continue; }
         var pct = ((curr - prev) / prev) * 100;
         html += '<td style="background:' + heatmapColorPct(pct) + ';color:#e6edf3;font-size:11px">' + (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%</td>';
       }
       
-      html += '<td>&mdash;</td><td>&mdash;</td></tr></tbody></table>';
+      html += '<td>-</td><td>-</td></tr></tbody></table>';
       
       document.getElementById('quarterlyDashDataGrid').innerHTML = html;
       document.getElementById('quarterlyDashGridDlBtn').onclick = function () {
