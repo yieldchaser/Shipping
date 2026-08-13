@@ -19,7 +19,7 @@ import re
 import sys
 import time
 from collections import Counter
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib import error as urllib_error
 from urllib import request as urllib_request
@@ -706,6 +706,11 @@ def build_system_message() -> str:
         "GOOD: 'A +53.3% ROC60 on the BDI signals one of the fastest six-month recoveries since 2020, "
         "placing the current cycle firmly in acceleration territory rather than mere mean-reversion.'\n\n"
 
+        "RULE 1A — STRICT UNIT INTEGRITY (INDEX POINTS vs CHARTER RATES): "
+        "Baltic freight indices (BDI, BCI, BPI, BSI, BHSI, BDTI, BCTI) are unitless index POINTS (e.g. '3,083 points' or 'breakout above 3,200 points on the BDI'). "
+        "NEVER prefix an index with a dollar sign '$' (NEVER write '$3200 on the BDI' or '$3083'). "
+        "Dollar signs ($/day) apply strictly to daily time-charter fixture rates (TCE rates like '$25,000/day' or VLCC '$48,000/day').\n\n"
+
         "RULE 2 — ANALYTICAL LAYERING. Each sentence in 'summary' must add a new analytical layer: "
         "(1) WHERE the market is — level, regime, and historical context in one sentence. "
         "(2) HOW FAST it got there — momentum characterization with Z-score and ROC60 giving the rate-of-change story. "
@@ -796,11 +801,13 @@ def build_user_message(
     pre_dry_conf: str = "NEUTRAL",
     pre_tanker_conf: str = "NEUTRAL",
 ) -> str:
-    today = date.today().isoformat()
     today_dt = date.today()
     today = today_dt.isoformat()
     cur_month = today_dt.strftime("%B")
     cur_year = today_dt.strftime("%Y")
+    next_month_dt = (today_dt.replace(day=1) + timedelta(days=32)).replace(day=1)
+    next_month = next_month_dt.strftime("%B")
+    next_year = next_month_dt.strftime("%Y")
     analytics = _build_analytics_context(snapshot, spreads or {})
     dry_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(dry_signals)) or "No recent reports."
     tanker_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(tanker_signals)) or "No recent reports."
@@ -810,7 +817,7 @@ def build_user_message(
     tanker_tally = _signal_tally(tanker_signals, tanker_z, pre_tanker_conf)
     n_dry = len([r for r in dry_report_text.split("---") if r.strip()])
     n_tank = len([r for r in tanker_report_text.split("---") if r.strip()])
-    return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today} (CURRENT MONTH: {cur_month.upper()} {cur_year})
+    return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today} (CURRENT TIMELINE: {cur_month.upper()} {cur_year} -> {next_month.upper()} {next_year})
 
 {analytics}
 
@@ -845,9 +852,10 @@ STRUCTURAL MARKET CONTEXT:
 {wiki_tanker}
 
 TASK: Write today's institutional freight brief for {today} ({cur_month} {cur_year}).
-TIMELINE MANDATE: Today is {today}. All upcoming catalysts and outlooks MUST be forward-looking into {cur_month} / the next month of {cur_year}. NEVER mention expired months like May or June.
+TIMELINE MANDATE: Today is {today}. All upcoming catalysts, trade triggers, and outlooks MUST be forward-looking into {cur_month} / {next_month} {next_year}. NEVER mention expired months.
 
 WRITING QUALITY MANDATE:
+- Freight indices (BDI, BCI, BPI, BSI, BHSI, BDTI, BCTI) are index POINTS, NEVER write '$' on indices.
 - Every 'key_signals' entry MUST be a full analytical sentence explaining significance, not a raw data label.
 - 'summary' MUST read as flowing analysis where each sentence builds on the previous one.
 - Numbers must support arguments, not replace them.
@@ -866,7 +874,7 @@ Return ONLY valid JSON matching this schema:
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
       "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
       "outlook": "<1 sentence naming the 2-4 week directional thesis with the key variable that could change it — if geopolitical risk is elevated, name that as either a tail upside or downside risk>",
-      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC forward-looking events or seasonal inflections for late {cur_month} / next month (e.g. upcoming monthly trade data, inventory releases, or seasonal freight inflections) — NEVER reference past months>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC forward-looking events or seasonal inflections for late {cur_month} / {next_month} (e.g. upcoming monthly trade data, inventory releases, or seasonal freight inflections) — NEVER reference past months>",
       "risk_note": "<1 sentence naming the single biggest tail risk and the SPECIFIC data point or event that would confirm it — if geopolitical, name the specific disruption threshold that would break the thesis>"
     }},
     "tanker": {{
@@ -879,7 +887,7 @@ Return ONLY valid JSON matching this schema:
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
       "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
       "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it — if geopolitical risk is elevated, name that as a tail upside driver>",
-      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate forward dates for {cur_month}/{cur_year} (e.g. upcoming OPEC+ ministerial reviews, weekly EIA crude stock figures, seasonal refinery runs) — NEVER reference past months>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate forward dates for {cur_month}/{next_month} {next_year} (e.g. upcoming OPEC+ ministerial reviews, weekly EIA crude stock figures, seasonal refinery runs) — NEVER reference past months>",
       "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline'>",
       "geopolitical_impact": "<IF active supply disruptions, sanctions, or route hazards are mentioned in analyst reports: 1-2 sentences explaining the explicit tonnage impact + which tanker segments (VLCC vs Suez vs Aframax) benefit most from rerouting. ELSE: null or empty string>"
     }}
@@ -892,9 +900,9 @@ Return ONLY valid JSON matching this schema:
   "executive_tldr": [
     "<Bullet 1: 1 concise punchy takeaway on macro freight velocity & regime divergence>",
     "<Bullet 2: 1 concise takeaway on top actionable positioning / spread trade setup>",
-    "<Bullet 3: 1 concise takeaway on the most critical near-term catalyst & risk invalidation trigger for {cur_month}/{cur_year}>"
+    "<Bullet 3: 1 concise takeaway on the most critical near-term catalyst & risk invalidation trigger for {cur_month}/{next_month}>"
   ],
-  "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event for {cur_month}/{cur_year} that will either confirm or invalidate the current freight thesis — NEVER reference past months>"
+  "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event for {cur_month}/{next_month} {next_year} that will either confirm or invalidate the current freight thesis — NEVER reference past months>"
 }}"""
 
 
@@ -1776,6 +1784,26 @@ def _ensure_tanker_segment_coverage(entry: dict, snapshot: dict) -> dict:
     return result
 
 
+def _sanitize_text_units(text: str | None) -> str | None:
+    if not text or not isinstance(text, str):
+        return text
+    # Fix "$3200 on the BDI" -> "3,200 points on the BDI", "$3000 BDI" -> "3,000 points BDI", "$3200 on BDI" -> "3,200 points on BDI"
+    text = re.sub(r'\$(\d+(?:,\d+)?(?:\.\d+)?)\s*(?:points\s*)?(?:on\s+(?:the\s+)?)?(BDI|BCI|BPI|BSI|BHSI|BDTI|BCTI|Baltic Dry Index)', r'\1 points on the \2', text, flags=re.IGNORECASE)
+    text = re.sub(r'\$(\d+(?:,\d+)?(?:\.\d+)?)\s*(BDI|BCI|BPI|BSI|BHSI|BDTI|BCTI)', r'\1 points \2', text, flags=re.IGNORECASE)
+    text = re.sub(r'(BDI|BCI|BPI|BSI|BHSI|BDTI|BCTI)\s*(?:at |of |above |below )?\$(\d+(?:,\d+)?(?:\.\d+)?)', r'\1 at \2 points', text, flags=re.IGNORECASE)
+    return text
+
+
+def _sanitize_brief_data(obj):
+    if isinstance(obj, str):
+        return _sanitize_text_units(obj)
+    elif isinstance(obj, dict):
+        return {k: _sanitize_brief_data(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [_sanitize_brief_data(v) for v in obj]
+    return obj
+
+
 # ------------------------ Main ------------------------
 
 def main() -> None:
@@ -1904,6 +1932,7 @@ def main() -> None:
         "cross_sector_analysis": cross_sector,
         "sources": [s["doc_id"] for s in dry_signals + tanker_signals if s.get("doc_id")],
     }
+    output = _sanitize_brief_data(output)
 
     latest_path = BRIEFS / "latest.json"
     dated_path = BRIEFS / f"{today}.json"

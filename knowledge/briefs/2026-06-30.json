@@ -106,7 +106,7 @@
       ],
       "momentum_grade": "UP",
       "positioning_bias": "LONG",
-      "trade_idea": "Long Capesize futures, entry at $3580, exit at $3750, triggered by a break above $3700 on the BDI.",
+      "trade_idea": "Long Capesize futures, entry at $3580, exit at $3750, triggered by a break above 3700 points on the BDI.",
       "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "confidence_score": 0.75
     },

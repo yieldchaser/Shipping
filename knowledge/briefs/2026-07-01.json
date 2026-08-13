@@ -107,7 +107,7 @@
       ],
       "momentum_grade": "UP",
       "positioning_bias": "LONG_SPREAD_VS_TANKER",
-      "trade_idea": "Execute a long position in Capesize futures with an entry trigger of $3700 and an exit thesis based on a decline in the BDI below $3500, reflecting a potential correction in the market.",
+      "trade_idea": "Execute a long position in Capesize futures with an entry trigger of $3700 and an exit thesis based on a decline in the BDI at 3500 points, reflecting a potential correction in the market.",
       "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
       "confidence_score": 0.75
