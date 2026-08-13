@@ -2339,6 +2339,78 @@
     .intel-spark-wrap { position: relative; height: 36px; margin: 6px 0; }
     .intel-spark-label { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .3px; margin-bottom: 2px; }
 
+    /* Executive TL;DR Box */
+    .brief-tldr-box {
+      background: linear-gradient(135deg, rgba(227,179,65,.08), rgba(163,113,247,.05));
+      border: 1px solid rgba(227,179,65,.32);
+      border-radius: 12px;
+      padding: 14px 18px;
+      margin-bottom: 14px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.25), inset 0 1px 0 rgba(255,255,255,0.04);
+    }
+    .brief-tldr-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px dashed rgba(227,179,65,.2);
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .brief-tldr-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: #f2cc60;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .brief-tldr-badge {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .4px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: rgba(227,179,65,.15);
+      color: var(--yellow);
+      border: 1px solid rgba(227,179,65,.3);
+    }
+    .brief-tldr-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .brief-tldr-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 13px;
+      line-height: 1.6;
+      color: var(--text);
+    }
+    .brief-tldr-num {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: rgba(227,179,65,.18);
+      color: #f2cc60;
+      font-size: 10px;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 1px;
+      border: 1px solid rgba(227,179,65,.35);
+    }
+    .brief-tldr-text {
+      flex: 1;
+    }
+
     /* Brief cards */
     .brief-macro {
       background: linear-gradient(135deg, rgba(88,166,255,.09), rgba(56,139,253,.03));
@@ -17312,7 +17384,42 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const hasCrossSector = csa && (csa.relative_value || csa.dominant_driver || csa.positioning_recommendation);
 
+      // Executive TL;DR Resolution (with fallback synthesis for historical briefs)
+      let tldrBullets = Array.isArray(data?.executive_tldr) && data.executive_tldr.length > 0
+        ? data.executive_tldr
+        : [];
+
+      if (!tldrBullets.length && vc) {
+        const dbConf = vc.dry_bulk?.confluence_type ? vc.dry_bulk.confluence_type.replace(/_/g, ' ') : 'Neutral';
+        const tkConf = vc.tanker?.confluence_type ? vc.tanker.confluence_type.replace(/_/g, ' ') : 'Neutral';
+        const bdiVal = snap?.bdi?.value != null ? `BDI ${fmtNum(snap.bdi.value)}` : 'Dry Bulk';
+        const dirtyVal = snap?.dirty_tanker?.value != null ? `BDTI ${fmtNum(snap.dirty_tanker.value)}` : 'Tanker';
+        tldrBullets = [
+          `Market Regime: ${bdiVal} is in ${dbConf} while ${dirtyVal} trades in ${tkConf}. ${macro_note ? esc(macro_note) : ''}`,
+          `Segment Velocity: Clean & Dirty tanker dynamics vs Capesize & Panamax dry commodity demand.`,
+          `Operational Thesis: Monitor upcoming Baltic index revisions and Breakwave fundamental assessments.`
+        ];
+      }
+
+      const tldrHtml = tldrBullets.length ? `
+        <div class="brief-tldr-box">
+          <div class="brief-tldr-head">
+            <span class="brief-tldr-title">⚡ Executive TL;DR & Desk Takeaways</span>
+            <span class="brief-tldr-badge">Fast Scan (30-Sec Read)</span>
+          </div>
+          <div class="brief-tldr-list">
+            ${tldrBullets.map((b, idx) => `
+              <div class="brief-tldr-item">
+                <span class="brief-tldr-num">${idx + 1}</span>
+                <span class="brief-tldr-text">${esc(b)}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : '';
+
       el.innerHTML = `
+        ${tldrHtml}
         ${macro_note ? `
           <div class="brief-macro">
             <span class="brief-macro-tag">🌍 Global Macro & Geopolitical Intelligence</span>

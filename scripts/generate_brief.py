@@ -885,6 +885,11 @@ Return ONLY valid JSON matching this schema:
     "dominant_driver": "<1 sentence naming the single most consequential macro force for BOTH sectors today — be specific, not generic>",
     "positioning_recommendation": "<1 sentence: specific cross-sector trade with named vehicles, entry rationale, and exit trigger>"
   }},
+  "executive_tldr": [
+    "<Bullet 1: 1 concise punchy takeaway on macro freight velocity & regime divergence>",
+    "<Bullet 2: 1 concise takeaway on top actionable positioning / spread trade setup>",
+    "<Bullet 3: 1 concise takeaway on the most critical near-term catalyst & risk invalidation trigger>"
+  ],
   "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY (e.g. 'The Iran-Israel escalation is rerouting VLCC traffic away from the Strait of Hormuz') then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event (with approximate date) that will either confirm or invalidate the current freight thesis — no generic boilerplate>"
 }}"""
 
@@ -1540,6 +1545,21 @@ def _template_cross_sector(snapshot: dict, dry_conf: str, tanker_conf: str) -> d
     }
 
 
+def _template_executive_tldr(dry_entry: dict, tanker_entry: dict, cross_sector: dict, macro_note: str) -> list[str]:
+    dry_conf = dry_entry.get("confluence_type", "").replace("_", " ").title()
+    tanker_conf = tanker_entry.get("confluence_type", "").replace("_", " ").title()
+    rv = cross_sector.get("relative_value", "")
+    pos = cross_sector.get("positioning_recommendation", "")
+    cat = dry_entry.get("catalyst_watch") or tanker_entry.get("catalyst_watch") or "Monitor upcoming weekly freight prints."
+    risk = dry_entry.get("risk_note") or tanker_entry.get("risk_note") or "Watch for moving average breakdown."
+
+    return [
+        f"Regime Split: Dry Bulk is in {dry_conf} while Tankers exhibit {tanker_conf}. {rv}",
+        f"Tactical Desk Strategy: {pos}",
+        f"Catalyst & Risk Boundary: {cat} Invalidation Trigger: {risk}"
+    ]
+
+
 def _template_vessel_entry(
     vessel_key: str,
     pre_conf: str,
@@ -1842,6 +1862,14 @@ def main() -> None:
     if not isinstance(cross_sector, dict) or not cross_sector.get("relative_value"):
         cross_sector = _template_cross_sector(snapshot, dry_entry["confluence_type"], tanker_entry["confluence_type"])
 
+    tldr_raw = (llm_payload or {}).get("executive_tldr")
+    if isinstance(tldr_raw, list) and len(tldr_raw) > 0:
+        executive_tldr = [_clean_text(str(b)) for b in tldr_raw if _clean_text(str(b))]
+    elif isinstance(tldr_raw, str) and len(tldr_raw) > 10:
+        executive_tldr = [_clean_text(b) for b in tldr_raw.split("\n") if _clean_text(b)]
+    else:
+        executive_tldr = _template_executive_tldr(dry_entry, tanker_entry, cross_sector, macro_note)
+
     output = {
         "generated_at": generated_at,
         "brief_date": today,
@@ -1852,6 +1880,7 @@ def main() -> None:
             "provider_order": LLM_PROVIDER_ORDER,
             "attempted_providers": attempted,
         },
+        "executive_tldr": executive_tldr,
         "market_snapshot": snapshot,
         "vessel_classes": {
             "dry_bulk": dry_entry,
