@@ -96,7 +96,7 @@ GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
 OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
-OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "meta-llama/llama-3.3-70b-instruct:free").strip()
+OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "google/gemini-2.0-flash-exp:free").strip()
 OPENROUTER_BASE_URL = (os.environ.get("OPENROUTER_BASE_URL") or "https://openrouter.ai/api/v1").strip().rstrip("/")
 OPENROUTER_MIN_INTERVAL_SEC = float(os.environ.get("OPENROUTER_MIN_INTERVAL_SEC", "1.5"))
 OPENROUTER_MAX_RETRIES = int(os.environ.get("OPENROUTER_MAX_RETRIES", "3"))
@@ -1086,6 +1086,7 @@ def _call_nim_once(messages: list) -> str | None:
         "Content-Type": "application/json",
         "Accept": "application/json",
         "Authorization": f"Bearer {NIM_API_KEY}",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     }
     req = urllib_request.Request(
         f"{NIM_BASE_URL}/chat/completions",
@@ -1094,7 +1095,7 @@ def _call_nim_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=150) as response:
+        with urllib_request.urlopen(req, timeout=60) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -1168,6 +1169,7 @@ def _call_groq_once(messages: list) -> str | None:
         "Content-Type": "application/json",
         "Accept": "application/json",
         "Authorization": f"Bearer {GROQ_API_KEY}",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     }
     req = urllib_request.Request(
         f"{GROQ_BASE_URL}/chat/completions",
@@ -1176,7 +1178,7 @@ def _call_groq_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=60) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -1236,7 +1238,7 @@ def gemini_available() -> bool:
     return has_key and has_model
 
 
-def _call_gemini_once(messages: list) -> str | None:
+def _call_gemini_once(messages: list, model_override: str | None = None) -> str | None:
     system_text = ""
     contents = []
     for m in messages:
@@ -1264,8 +1266,10 @@ def _call_gemini_once(messages: list) -> str | None:
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     headers = {
         "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     }
-    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    target_model = (model_override or GEMINI_MODEL).replace("models/", "")
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{target_model}:generateContent?key={GEMINI_API_KEY}"
     req = urllib_request.Request(
         endpoint,
         data=body,
@@ -1273,7 +1277,7 @@ def _call_gemini_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=60) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -1304,27 +1308,29 @@ def call_gemini_text(messages: list, retries: int | None = None) -> str | None:
         return None
     retries = retries or GEMINI_MAX_RETRIES
     global _last_gemini_call_ts
-    for attempt in range(retries):
-        try:
-            print(f"[brief] Gemini API call attempt {attempt + 1}/{retries} starting...", file=sys.stderr)
-            _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
-            res = _call_gemini_once(messages)
-            if res:
-                print(f"[brief] Gemini API call attempt {attempt + 1} SUCCESS!", file=sys.stderr)
-                return res
-            else:
-                print(f"[brief] Gemini API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
-        except Exception as exc:
-            exc_text = str(exc)
-            print(f"[brief] Gemini attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
-            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "API_KEY_INVALID")):
-                print("[brief] Gemini auth/client error detected; skipping further retries.", file=sys.stderr)
-                return None
-            if attempt < retries - 1:
-                _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
-            else:
-                print(f"[brief] Gemini failed all {retries} retries.", file=sys.stderr)
-                return None
+    gemini_candidates = [GEMINI_MODEL, "gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-pro"]
+    for candidate in gemini_candidates:
+        for attempt in range(retries):
+            try:
+                print(f"[brief] Gemini API call attempt {attempt + 1}/{retries} using {candidate} starting...", file=sys.stderr)
+                _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
+                res = _call_gemini_once(messages, model_override=candidate)
+                if res:
+                    print(f"[brief] Gemini API call attempt {attempt + 1} SUCCESS with {candidate}!", file=sys.stderr)
+                    return res
+                else:
+                    print(f"[brief] Gemini API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
+            except Exception as exc:
+                exc_text = str(exc)
+                print(f"[brief] Gemini attempt {attempt + 1}/{retries} ({candidate}) failed: {exc_text}", file=sys.stderr)
+                if "HTTP 404:" in exc_text:
+                    print(f"[brief] Gemini model {candidate} 404'd; trying next candidate model.", file=sys.stderr)
+                    break
+                if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "API_KEY_INVALID")):
+                    print("[brief] Gemini auth/client error detected; skipping further retries.", file=sys.stderr)
+                    return None
+                if attempt < retries - 1:
+                    _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
     return None
 
 
@@ -1337,9 +1343,10 @@ def openrouter_available() -> bool:
     return has_key and has_model and has_url
 
 
-def _call_openrouter_once(messages: list) -> str | None:
+def _call_openrouter_once(messages: list, model_override: str | None = None) -> str | None:
+    target_model = model_override or OPENROUTER_MODEL
     payload = {
-        "model": OPENROUTER_MODEL,
+        "model": target_model,
         "messages": messages,
         "temperature": 0.35,
         "max_tokens": 2500,
@@ -1352,6 +1359,7 @@ def _call_openrouter_once(messages: list) -> str | None:
         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
         "HTTP-Referer": "https://yieldchaser.github.io/Shipping/",
         "X-Title": "Shipping Intelligence Terminal",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     }
     req = urllib_request.Request(
         f"{OPENROUTER_BASE_URL}/chat/completions",
@@ -1360,7 +1368,7 @@ def _call_openrouter_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=60) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -1388,27 +1396,29 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
         return None
     retries = retries or OPENROUTER_MAX_RETRIES
     global _last_openrouter_call_ts
-    for attempt in range(retries):
-        try:
-            print(f"[brief] OpenRouter API call attempt {attempt + 1}/{retries} starting...", file=sys.stderr)
-            _last_openrouter_call_ts = _apply_interval(_last_openrouter_call_ts, OPENROUTER_MIN_INTERVAL_SEC)
-            res = _call_openrouter_once(messages)
-            if res:
-                print(f"[brief] OpenRouter API call attempt {attempt + 1} SUCCESS!", file=sys.stderr)
-                return res
-            else:
-                print(f"[brief] OpenRouter API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
-        except Exception as exc:
-            exc_text = str(exc)
-            print(f"[brief] OpenRouter attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
-            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
-                print("[brief] OpenRouter auth/client error detected; skipping further retries.", file=sys.stderr)
-                return None
-            if attempt < retries - 1:
-                _backoff_sleep(attempt, exc_text, OPENROUTER_BACKOFF_BASE_SEC, OPENROUTER_MAX_BACKOFF_SEC)
-            else:
-                print(f"[brief] OpenRouter failed all {retries} retries.", file=sys.stderr)
-                return None
+    or_candidates = [OPENROUTER_MODEL, "google/gemini-2.0-flash-exp:free", "deepseek/deepseek-r1:free", "meta-llama/llama-3.1-70b-instruct:free", "mistralai/mistral-small-24b-instruct-2501:free"]
+    for candidate in or_candidates:
+        for attempt in range(retries):
+            try:
+                print(f"[brief] OpenRouter API call attempt {attempt + 1}/{retries} using {candidate} starting...", file=sys.stderr)
+                _last_openrouter_call_ts = _apply_interval(_last_openrouter_call_ts, OPENROUTER_MIN_INTERVAL_SEC)
+                res = _call_openrouter_once(messages, model_override=candidate)
+                if res:
+                    print(f"[brief] OpenRouter API call attempt {attempt + 1} SUCCESS with {candidate}!", file=sys.stderr)
+                    return res
+                else:
+                    print(f"[brief] OpenRouter API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
+            except Exception as exc:
+                exc_text = str(exc)
+                print(f"[brief] OpenRouter attempt {attempt + 1}/{retries} ({candidate}) failed: {exc_text}", file=sys.stderr)
+                if "HTTP 404:" in exc_text or "unavailable for free" in exc_text:
+                    print(f"[brief] OpenRouter model {candidate} unavailable/404; trying next candidate.", file=sys.stderr)
+                    break
+                if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
+                    print("[brief] OpenRouter auth/client error detected; skipping further retries.", file=sys.stderr)
+                    return None
+                if attempt < retries - 1:
+                    _backoff_sleep(attempt, exc_text, OPENROUTER_BACKOFF_BASE_SEC, OPENROUTER_MAX_BACKOFF_SEC)
     return None
 
 
