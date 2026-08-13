@@ -2341,16 +2341,89 @@
 
     /* Brief cards */
     .brief-macro {
-      background: linear-gradient(180deg, rgba(88,166,255,.08), rgba(88,166,255,.03));
-      border: 1px solid rgba(88,166,255,.26);
-      border-radius: 8px;
-      padding: 10px 14px;
-      margin-bottom: 12px;
-      font-size: 12px;
-      color: var(--text-muted);
-      line-height: 1.6;
+      background: linear-gradient(135deg, rgba(88,166,255,.09), rgba(56,139,253,.03));
+      border: 1px solid rgba(88,166,255,.28);
+      border-radius: 10px;
+      padding: 12px 16px;
+      margin-bottom: 14px;
+      font-size: 13px;
+      color: var(--text);
+      line-height: 1.65;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.25), inset 0 1px 0 rgba(255,255,255,0.05);
     }
-    .brief-macro strong { color: #c9e0ff; }
+    .brief-macro-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: var(--accent);
+      background: rgba(88,166,255,.15);
+      border-radius: 4px;
+      padding: 2px 6px;
+      margin-right: 8px;
+    }
+    .brief-macro strong { color: #d0e4ff; font-weight: 600; }
+
+    /* Cross Sector Strategy Grid */
+    .brief-cross-sector {
+      margin-bottom: 16px;
+      background: rgba(13,17,23,.6);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+    .brief-cs-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .brief-cs-header-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .4px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .brief-cs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 10px;
+    }
+    .brief-cs-card {
+      background: rgba(22,27,34,.75);
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: 8px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      transition: border-color .15s ease;
+    }
+    .brief-cs-card:hover { border-color: rgba(255,255,255,.14); }
+    .brief-cs-label {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .35px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .brief-cs-val {
+      font-size: 12px;
+      color: var(--text);
+      line-height: 1.55;
+    }
+
     .brief-card {
       background: linear-gradient(180deg, rgba(255,255,255,.015), rgba(255,255,255,0) 18%), var(--card);
       border: 1px solid var(--border);
@@ -2366,9 +2439,67 @@
     .brief-card.ci-div {
       border: 1px solid var(--border);
     }
-    .brief-card-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 10px; gap: 12px; }
+    .brief-card-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 10px; gap: 12px; flex-wrap: wrap; }
     .brief-card-title  { font-size: 20px; font-weight: 700; color: var(--text); line-height: 1.2; }
     .brief-card-sub    { font-size: 11px; color: var(--text-muted); margin-top: 5px; text-transform: uppercase; letter-spacing: .28px; }
+    
+    .brief-desk-badges { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+    .brief-badge-bias {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: .3px;
+    }
+    .brief-badge-bias.bias-long { background: rgba(46,160,67,.2); color: var(--green); border: 1px solid rgba(46,160,67,.4); }
+    .brief-badge-bias.bias-short { background: rgba(248,81,73,.2); color: var(--red); border: 1px solid rgba(248,81,73,.4); }
+    .brief-badge-bias.bias-spread { background: rgba(163,113,247,.2); color: #c297ff; border: 1px solid rgba(163,113,247,.4); }
+    .brief-badge-bias.bias-neutral { background: rgba(139,148,158,.15); color: var(--text-muted); border: 1px solid var(--border); }
+
+    .brief-badge-momentum {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 6px;
+      letter-spacing: .2px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: rgba(13,17,23,.6);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+    .brief-badge-momentum.mom-strong-up { color: #3fb950; border-color: rgba(63,185,80,.4); }
+    .brief-badge-momentum.mom-up { color: #56d364; border-color: rgba(63,185,80,.25); }
+    .brief-badge-momentum.mom-down { color: #f85149; border-color: rgba(248,81,73,.25); }
+    .brief-badge-momentum.mom-strong-down { color: #ff7b72; border-color: rgba(248,81,73,.4); }
+
+    .brief-conviction-meter {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-muted);
+      background: rgba(13,17,23,.6);
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      border-radius: 6px;
+    }
+    .brief-conviction-bar {
+      width: 38px;
+      height: 4px;
+      background: rgba(255,255,255,.1);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .brief-conviction-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 2px;
+    }
+
     .brief-kpi-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 6px; }
     .brief-kpi {
       display: inline-flex;
@@ -2419,13 +2550,76 @@
       line-height: 1.6;
       margin: 4px 0 8px;
     }
+
+    /* Tactical Trade Idea Box */
+    .brief-trade-box {
+      margin: 12px 0;
+      padding: 12px 14px;
+      background: linear-gradient(135deg, rgba(163,113,247,.08), rgba(88,166,255,.04));
+      border: 1px solid rgba(163,113,247,.3);
+      border-radius: 8px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+    }
+    .brief-trade-head {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .4px;
+      color: #d2a8ff;
+      margin-bottom: 5px;
+    }
+    .brief-trade-body {
+      font-size: 13px;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* Intel Grid (Catalysts / Risks / Geopolitical) */
+    .brief-intel-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 10px;
+      margin: 12px 0 10px;
+    }
+    .brief-intel-card {
+      background: rgba(13,17,23,.5);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+    }
+    .brief-intel-card.intel-catalyst { border-left: 3px solid var(--accent); }
+    .brief-intel-card.intel-risk { border-left: 3px solid var(--yellow); }
+    .brief-intel-card.intel-geo { border-left: 3px solid #ff7b72; }
+    .brief-intel-head {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .35px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .brief-intel-card.intel-catalyst .brief-intel-head { color: #79c0ff; }
+    .brief-intel-card.intel-risk .brief-intel-head { color: #e3b341; }
+    .brief-intel-card.intel-geo .brief-intel-head { color: #ffa198; }
+    .brief-intel-body {
+      font-size: 12px;
+      color: var(--text);
+      line-height: 1.55;
+    }
+
     .brief-signals-title {
       font-size: 10px;
       text-transform: uppercase;
       letter-spacing: .36px;
       color: var(--text-muted);
-      margin-top: 10px;
-      margin-bottom: 4px;
+      margin-top: 12px;
+      margin-bottom: 6px;
     }
     .brief-signals { list-style: none; padding: 0; margin: 0; }
     .brief-signals li {
@@ -2436,7 +2630,6 @@
       gap: 7px;
       line-height: 1.55;
     }
-    .brief-signals li::before { content: '>'; color: var(--accent); font-weight: 700; flex-shrink: 0; }
     .brief-outlook {
       margin-top: 10px;
       padding: 10px 14px;
@@ -2460,7 +2653,7 @@
       flex-wrap: wrap;
       align-items: center;
       gap: 6px;
-      margin-top: 10px;
+      margin-top: 12px;
     }
     .brief-date-chip {
       font-size: 10px;
@@ -2481,14 +2674,14 @@
     .brief-meta {
       font-size: 10px;
       color: var(--text-muted);
-      margin-top: 12px;
+      margin-top: 14px;
       display: flex;
       flex-wrap: wrap;
-      gap: 6px;
+      gap: 8px;
       align-items: flex-start;
       opacity: .85;
       border-top: 1px dashed rgba(139,148,158,.25);
-      padding-top: 10px;
+      padding-top: 12px;
     }
     .brief-meta-group { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
     .brief-meta-label {
@@ -16811,7 +17004,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           INTEL.briefData = data;
           _paintBrief(el, tsEl, INTEL.briefData);
           _updateStaleBadge(data.generated_at);
-          _autoDetectOllamaFromBrief();
           _generateDynamicSuggestions();
         } catch {
           el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
@@ -16827,7 +17019,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           INTEL.briefData = data;
           _paintBrief(el, tsEl, INTEL.briefData);
           _updateStaleBadge(data.generated_at);
-          _autoDetectOllamaFromBrief();
           _generateDynamicSuggestions();
         } catch {
           el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
@@ -16864,6 +17055,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         market_snapshot: snap,
         vessel_classes: vc,
         macro_note,
+        cross_sector_analysis: csa,
         sources,
       } = data || {};
 
@@ -16966,6 +17158,37 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return `Segment breadth: ${cleanTxt}, ${dirtyTxt}.`;
       }
 
+      function biasBadgeHtml(bias) {
+        if (!bias) return '';
+        const b = String(bias).toUpperCase();
+        let cls = 'bias-neutral', label = b.replace(/_/g, ' ');
+        if (b.includes('LONG') && !b.includes('SPREAD')) { cls = 'bias-long'; label = '▲ BIAS: LONG'; }
+        else if (b.includes('SHORT') && !b.includes('SPREAD')) { cls = 'bias-short'; label = '▼ BIAS: SHORT'; }
+        else if (b.includes('SPREAD')) { cls = 'bias-spread'; label = '⚡ ' + label; }
+        else { label = '● BIAS: ' + label; }
+        return `<span class="brief-badge-bias ${cls}">${esc(label)}</span>`;
+      }
+
+      function momentumBadgeHtml(grade) {
+        if (!grade) return '';
+        const g = String(grade).toUpperCase();
+        let cls = '', icon = '●';
+        if (g === 'STRONG_UP') { cls = 'mom-strong-up'; icon = '▲▲'; }
+        else if (g === 'UP') { cls = 'mom-up'; icon = '▲'; }
+        else if (g === 'DOWN') { cls = 'mom-down'; icon = '▼'; }
+        else if (g === 'STRONG_DOWN') { cls = 'mom-strong-down'; icon = '▼▼'; }
+        return `<span class="brief-badge-momentum ${cls}">${icon} Momentum: ${esc(g.replace(/_/g, ' '))}</span>`;
+      }
+
+      function convictionMeterHtml(score) {
+        if (score == null) return '';
+        const pct = Math.round(Number(score) * 100);
+        return `<span class="brief-conviction-meter" data-tooltip="Analyst and quantitative signal agreement strength (0-100%)">
+          <span>Conviction: ${pct}%</span>
+          <div class="brief-conviction-bar"><div class="brief-conviction-fill" style="width:${pct}%"></div></div>
+        </span>`;
+      }
+
       function briefCard(title, vesselKey, vcData, snapKey) {
         if (!vcData) return '';
         const cfg = cfgMap[vcData.confluence_type] || cfgMap.NEUTRAL;
@@ -16983,6 +17206,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         ].join('');
 
         const subHtml = renderSubMarkets(vesselKey, snap);
+        const biasBadge = biasBadgeHtml(vcData.positioning_bias);
+        const momentumBadge = momentumBadgeHtml(vcData.momentum_grade);
+        const convictionMeter = convictionMeterHtml(vcData.confidence_score);
+
         const keySignals = uniq(vcData.key_signals).map(sig => {
           const lower = sig.toLowerCase();
           let icon = '●', col = 'var(--text-muted)';
@@ -16990,6 +17217,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           else if (/negative|contraction|weak|decline|below|bearish|risk|caution/.test(lower)) { icon = '▼'; col = 'var(--red)'; }
           return '<li style="display:flex;align-items:flex-start;gap:8px;margin-bottom:6px;"><span style="color:' + col + ';font-weight:700;flex-shrink:0;">' + icon + '</span><span>' + esc(sig) + '</span></li>';
         }).join('');
+
         const reportDatesRaw = uniq(vcData.report_dates);
         const latestQualDates = _latestQualDates(vesselKey);
         const maxFrom = arr => (arr || []).slice().sort((a, b) => String(b).localeCompare(String(a)))[0] || '';
@@ -16999,6 +17227,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           .join('');
         const segmentText = segmentNarrative(vesselKey, snap);
 
+        const catalystText = vcData.catalyst_watch || vcData.watch;
+        const riskText = vcData.risk_note;
+        const geoText = vcData.geopolitical_impact;
+
         return `<div class="brief-card ${cfg.cls}">
           <div class="brief-card-header">
             <div>
@@ -17007,55 +17239,129 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               <div class="brief-kpi-row">${kpiHtml}</div>
               ${subHtml ? `<div class="brief-sub-row">${subHtml}</div>` : ''}
             </div>
-            <span class="intel-vc-badge ${cfg.badge}">${esc(cfg.label)}</span>
+            <div class="brief-desk-badges">
+              <span class="intel-vc-badge ${cfg.badge}">${esc(cfg.label)}</span>
+              ${biasBadge}
+              ${momentumBadge}
+              ${convictionMeter}
+            </div>
           </div>
           ${vcData.confluence_note ? (() => {
             const ct = vcData.confluence_type || '';
-            const cIcon = ct === 'DIVERGENCE' ? '[Warning]' : ct === 'BULL_CONFLUENCE' ? '[Bullish]' : ct === 'BEAR_CONFLUENCE' ? '[Bearish]' : '[Neutral]';
-            return '<div class="brief-conf-note ' + cfg.cls + '">' + cIcon + ' ' + esc(vcData.confluence_note) + '</div>';
+            const cIcon = ct === 'DIVERGENCE' ? '⚡' : ct === 'BULL_CONFLUENCE' ? '▲' : ct === 'BEAR_CONFLUENCE' ? '▼' : '●';
+            return '<div class="brief-conf-note ' + cfg.cls + '"><strong>' + cIcon + ' Signal Synthesis:</strong> ' + esc(vcData.confluence_note) + '</div>';
           })() : ''}
           <p class="brief-summary">${esc(vcData.summary || 'No narrative summary available in the latest brief for this class.')}</p>
           ${segmentText ? `<div class="brief-segment-note">${esc(segmentText)}</div>` : ''}
-          ${keySignals ? `<div class="brief-signals-title">Key Signals</div><ul class="brief-signals">${keySignals}</ul>` : ''}
+          
+          ${vcData.trade_idea ? `
+            <div class="brief-trade-box">
+              <div class="brief-trade-head">🎯 Tactical Trade Setup & Execution Thesis</div>
+              <div class="brief-trade-body">${esc(vcData.trade_idea)}</div>
+            </div>
+          ` : ''}
+
+          ${(catalystText || riskText || geoText) ? `
+            <div class="brief-intel-grid">
+              ${catalystText ? `
+                <div class="brief-intel-card intel-catalyst">
+                  <div class="brief-intel-head">📅 Catalyst Watch (2-4 Weeks)</div>
+                  <div class="brief-intel-body">${esc(catalystText)}</div>
+                </div>
+              ` : ''}
+              ${riskText ? `
+                <div class="brief-intel-card intel-risk">
+                  <div class="brief-intel-head">⚠️ Thesis Invalidation / Tail Risk</div>
+                  <div class="brief-intel-body">${esc(riskText)}</div>
+                </div>
+              ` : ''}
+              ${geoText ? `
+                <div class="brief-intel-card intel-geo">
+                  <div class="brief-intel-head">🌍 Route & Geopolitical Impact</div>
+                  <div class="brief-intel-body">${esc(geoText)}</div>
+                </div>
+              ` : ''}
+            </div>
+          ` : ''}
+
+          ${keySignals ? `<div class="brief-signals-title">Key Signals & Quantitative Observations</div><ul class="brief-signals">${keySignals}</ul>` : ''}
+          
           ${vcData.outlook ? (() => {
             const ol = (vcData.outlook || '').toLowerCase();
             let oIcon = '', oCol = 'var(--accent)';
-            if (/strong|persist|surge|bullish|positive/.test(ol)) { oIcon = ''; oCol = 'var(--green)'; }
-            else if (/caution|risk|correction|volatile/.test(ol)) { oIcon = '[Warning]'; oCol = 'var(--yellow)'; }
-            else if (/weak|decline|bearish|negative/.test(ol)) { oIcon = ''; oCol = 'var(--red)'; }
-            return '<div class="brief-outlook"><strong style="color:' + oCol + '">' + oIcon + ' Outlook:</strong> ' + esc(vcData.outlook) + '</div>';
+            if (/strong|persist|surge|bullish|positive/.test(ol)) { oIcon = '▲'; oCol = 'var(--green)'; }
+            else if (/caution|risk|correction|volatile/.test(ol)) { oIcon = '⚡'; oCol = 'var(--yellow)'; }
+            else if (/weak|decline|bearish|negative/.test(ol)) { oIcon = '▼'; oCol = 'var(--red)'; }
+            return '<div class="brief-outlook"><strong style="color:' + oCol + '">' + oIcon + ' Desk Outlook:</strong> ' + esc(vcData.outlook) + '</div>';
           })() : ''}
-          ${vcData.watch ? `<div class="brief-watch"><strong>Watch:</strong> ${esc(vcData.watch)}</div>` : ''}
-          ${reportDates ? `<div class="brief-date-row"><span class="brief-meta-label">Reports</span>${reportDates}</div>` : ''}
+          
+          ${reportDates ? `<div class="brief-date-row"><span class="brief-meta-label">Primary Sources:</span>${reportDates}</div>` : ''}
         </div>`;
       }
 
       const providerOrder = Array.isArray(generation?.provider_order)
-        ? generation.provider_order.join(' -> ')
+        ? generation.provider_order.join(' → ')
         : (generation?.provider_order || '');
       const attemptedProviders = Array.isArray(generation?.attempted_providers)
-        ? generation.attempted_providers.join(' -> ')
+        ? generation.attempted_providers.join(' → ')
         : (generation?.attempted_providers || '');
 
       const sourceList = uniq(sources);
-      const shownSources = sourceList.slice(0, 8);
+      const shownSources = sourceList.slice(0, 10);
       const remainingSources = Math.max(0, sourceList.length - shownSources.length);
 
+      const hasCrossSector = csa && (csa.relative_value || csa.dominant_driver || csa.positioning_recommendation);
+
       el.innerHTML = `
-        ${macro_note ? `<div class="brief-macro"><strong>Macro:</strong> ${esc(macro_note)}</div>` : ''}
-        ${briefCard('Dry Bulk', 'dry_bulk', vc?.dry_bulk, 'bdi')}
-        ${briefCard('Tanker', 'tanker', vc?.tanker, 'clean_tanker')}
+        ${macro_note ? `
+          <div class="brief-macro">
+            <span class="brief-macro-tag">🌍 Global Macro & Geopolitical Intelligence</span>
+            <span>${esc(macro_note)}</span>
+          </div>
+        ` : ''}
+
+        ${hasCrossSector ? `
+          <div class="brief-cross-sector">
+            <div class="brief-cs-header">
+              <span class="brief-cs-header-title">📊 Cross-Sector Strategy & Relative-Value Allocation</span>
+            </div>
+            <div class="brief-cs-grid">
+              ${csa.relative_value ? `
+                <div class="brief-cs-card">
+                  <div class="brief-cs-label">📈 Relative Value & Spread Skew</div>
+                  <div class="brief-cs-val">${esc(csa.relative_value)}</div>
+                </div>
+              ` : ''}
+              ${csa.dominant_driver ? `
+                <div class="brief-cs-card">
+                  <div class="brief-cs-label">🌐 Dominant Global Driver</div>
+                  <div class="brief-cs-val">${esc(csa.dominant_driver)}</div>
+                </div>
+              ` : ''}
+              ${csa.positioning_recommendation ? `
+                <div class="brief-cs-card" style="border-left: 3px solid #a371f7;">
+                  <div class="brief-cs-label" style="color:#d2a8ff;">⚡ Portfolio Recommendation</div>
+                  <div class="brief-cs-val">${esc(csa.positioning_recommendation)}</div>
+                </div>
+              ` : ''}
+            </div>
+          </div>
+        ` : ''}
+
+        ${briefCard('Dry Bulk Market', 'dry_bulk', vc?.dry_bulk, 'bdi')}
+        ${briefCard('Tanker Market', 'tanker', vc?.tanker, 'clean_tanker')}
+
         <div class="brief-meta">
           <div class="brief-meta-group">
-            <span class="brief-meta-label">Generation</span>
-            ${generation?.provider_used ? `<span class="qa-cit">provider: ${esc(generation.provider_used)}</span>` : ''}
-            ${generation?.mode ? `<span class="qa-cit">mode: ${esc(generation.mode)}</span>` : ''}
-            ${providerOrder ? `<span class="qa-cit">order: ${esc(providerOrder)}</span>` : ''}
-            ${attemptedProviders ? `<span class="qa-cit">attempted: ${esc(attemptedProviders)}</span>` : ''}
-            ${brief_date ? `<span class="qa-cit">brief_date: ${esc(brief_date)}</span>` : ''}
+            <span class="brief-meta-label">Engine:</span>
+            <span class="qa-cit">${esc(generation?.mode === 'llm' ? 'AI Synthesizer (' + (generation.provider_used || 'LLM') + ')' : 'Deterministic Quantitative Engine')}</span>
+            ${generation?.model ? `<span class="qa-cit">model: ${esc(generation.model)}</span>` : ''}
+            ${providerOrder ? `<span class="qa-cit" data-tooltip="Provider Failover Order">cascade: ${esc(providerOrder)}</span>` : ''}
+            ${attemptedProviders ? `<span class="qa-cit" data-tooltip="Attempted Providers">attempted: ${esc(attemptedProviders)}</span>` : ''}
+            ${brief_date ? `<span class="qa-cit">date: ${esc(brief_date)}</span>` : ''}
           </div>
           <div class="brief-meta-group">
-            <span class="brief-meta-label">Sources</span>
+            <span class="brief-meta-label">Corpus Sources:</span>
             ${shownSources.map(src => `<span class="qa-cit">${esc(src)}</span>`).join('')}
             ${remainingSources > 0 ? `<span class="qa-cit">+${remainingSources} more</span>` : ''}
           </div>

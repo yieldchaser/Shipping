@@ -95,10 +95,18 @@ GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
 GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
-ALLOWED_PROVIDERS = {"nim", "ollama"}
+OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
+OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "meta-llama/llama-3.3-70b-instruct:free").strip()
+OPENROUTER_BASE_URL = (os.environ.get("OPENROUTER_BASE_URL") or "https://openrouter.ai/api/v1").strip().rstrip("/")
+OPENROUTER_MIN_INTERVAL_SEC = float(os.environ.get("OPENROUTER_MIN_INTERVAL_SEC", "1.5"))
+OPENROUTER_MAX_RETRIES = int(os.environ.get("OPENROUTER_MAX_RETRIES", "3"))
+OPENROUTER_BACKOFF_BASE_SEC = float(os.environ.get("OPENROUTER_BACKOFF_BASE_SEC", "1.5"))
+OPENROUTER_MAX_BACKOFF_SEC = float(os.environ.get("OPENROUTER_MAX_BACKOFF_SEC", "15.0"))
+
+ALLOWED_PROVIDERS = {"nim", "groq", "gemini", "openrouter", "ollama"}
 raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
 if not raw_order:
-    raw_order = "nim,ollama"
+    raw_order = "nim,groq,gemini,openrouter,ollama"
 
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
@@ -106,10 +114,13 @@ LLM_PROVIDER_ORDER = [
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["nim", "ollama"]
+    LLM_PROVIDER_ORDER = ["nim", "groq", "gemini", "openrouter", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
+_last_groq_call_ts = 0.0
+_last_gemini_call_ts = 0.0
+_last_openrouter_call_ts = 0.0
 
 _QUAL_SCORES = {
     "positive": 1.0,
@@ -1119,6 +1130,9 @@ def call_nim_text(messages: list, retries: int | None = None) -> str | None:
         except Exception as exc:
             exc_text = str(exc)
             print(f"[brief] NIM attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
+            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "API_KEY_INVALID")):
+                print("[brief] NIM auth/client error detected; skipping further retries.", file=sys.stderr)
+                return None
             if attempt < retries - 1:
                 _backoff_sleep(attempt, exc_text, NIM_BACKOFF_BASE_SEC, NIM_MAX_BACKOFF_SEC)
             else:
@@ -1127,12 +1141,285 @@ def call_nim_text(messages: list, retries: int | None = None) -> str | None:
     return None
 
 
+def groq_available() -> bool:
+    has_key = bool(GROQ_API_KEY)
+    has_model = bool(GROQ_MODEL)
+    has_url = bool(GROQ_BASE_URL)
+    key_disp = f"PRESENT (len={len(GROQ_API_KEY)})" if has_key else "MISSING/EMPTY (check GitHub Secret GROQ_API_KEY)"
+    print(f"[brief] Groq env check: API key={key_disp}, Model={GROQ_MODEL}, BaseURL={GROQ_BASE_URL}", file=sys.stderr)
+    return has_key and has_model and has_url
+
+
+def _call_groq_once(messages: list) -> str | None:
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": messages,
+        "temperature": 0.35,
+        "max_tokens": 2500,
+        "response_format": {"type": "json_object"},
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+    }
+    req = urllib_request.Request(
+        f"{GROQ_BASE_URL}/chat/completions",
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=90) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        err_body = exc.read().decode("utf-8", errors="replace")
+        details = err_body or str(exc)
+        if retry_after:
+            details = f"{details} retry_after {retry_after}"
+        raise RuntimeError(f"Groq HTTP {exc.code}: {details}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Groq connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Groq returned non-JSON payload: {raw[:200]}") from exc
+    choices = data.get("choices") or []
+    if not choices:
+        return None
+    message = choices[0].get("message") or {}
+    text = _clean_text(message.get("content"))
+    return text or None
+
+
+def call_groq_text(messages: list, retries: int | None = None) -> str | None:
+    if not groq_available():
+        return None
+    retries = retries or GROQ_MAX_RETRIES
+    global _last_groq_call_ts
+    for attempt in range(retries):
+        try:
+            print(f"[brief] Groq API call attempt {attempt + 1}/{retries} starting...", file=sys.stderr)
+            _last_groq_call_ts = _apply_interval(_last_groq_call_ts, GROQ_MIN_INTERVAL_SEC)
+            res = _call_groq_once(messages)
+            if res:
+                print(f"[brief] Groq API call attempt {attempt + 1} SUCCESS!", file=sys.stderr)
+                return res
+            else:
+                print(f"[brief] Groq API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
+        except Exception as exc:
+            exc_text = str(exc)
+            print(f"[brief] Groq attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
+            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
+                print("[brief] Groq auth/client error detected; skipping further retries.", file=sys.stderr)
+                return None
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, GROQ_BACKOFF_BASE_SEC, GROQ_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] Groq failed all {retries} retries.", file=sys.stderr)
+                return None
+    return None
+
+
+def gemini_available() -> bool:
+    has_key = bool(GEMINI_API_KEY)
+    has_model = bool(GEMINI_MODEL)
+    key_disp = f"PRESENT (len={len(GEMINI_API_KEY)})" if has_key else "MISSING/EMPTY (check GitHub Secret GEMINI_API_KEY)"
+    print(f"[brief] Gemini env check: API key={key_disp}, Model={GEMINI_MODEL}", file=sys.stderr)
+    return has_key and has_model
+
+
+def _call_gemini_once(messages: list) -> str | None:
+    system_text = ""
+    contents = []
+    for m in messages:
+        role = m.get("role", "user")
+        content = m.get("content", "")
+        if role == "system":
+            system_text += content + "\n\n"
+        elif role == "assistant":
+            contents.append({"role": "model", "parts": [{"text": content}]})
+        else:
+            contents.append({"role": "user", "parts": [{"text": content}]})
+
+    payload = {
+        "contents": contents,
+        "generationConfig": {
+            "temperature": 0.35,
+            "response_mime_type": "application/json",
+        }
+    }
+    if system_text.strip():
+        payload["system_instruction"] = {
+            "parts": [{"text": system_text.strip()}]
+        }
+
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+    }
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    req = urllib_request.Request(
+        endpoint,
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=90) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        err_body = exc.read().decode("utf-8", errors="replace")
+        details = err_body or str(exc)
+        if retry_after:
+            details = f"{details} retry_after {retry_after}"
+        raise RuntimeError(f"Gemini HTTP {exc.code}: {details}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Gemini connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Gemini returned non-JSON payload: {raw[:200]}") from exc
+    candidates = data.get("candidates") or []
+    if not candidates:
+        return None
+    content_obj = candidates[0].get("content") or {}
+    parts = content_obj.get("parts") or []
+    if not parts:
+        return None
+    text = _clean_text(parts[0].get("text"))
+    return text or None
+
+
+def call_gemini_text(messages: list, retries: int | None = None) -> str | None:
+    if not gemini_available():
+        return None
+    retries = retries or GEMINI_MAX_RETRIES
+    global _last_gemini_call_ts
+    for attempt in range(retries):
+        try:
+            print(f"[brief] Gemini API call attempt {attempt + 1}/{retries} starting...", file=sys.stderr)
+            _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
+            res = _call_gemini_once(messages)
+            if res:
+                print(f"[brief] Gemini API call attempt {attempt + 1} SUCCESS!", file=sys.stderr)
+                return res
+            else:
+                print(f"[brief] Gemini API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
+        except Exception as exc:
+            exc_text = str(exc)
+            print(f"[brief] Gemini attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
+            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "API_KEY_INVALID")):
+                print("[brief] Gemini auth/client error detected; skipping further retries.", file=sys.stderr)
+                return None
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] Gemini failed all {retries} retries.", file=sys.stderr)
+                return None
+    return None
+
+
+def openrouter_available() -> bool:
+    has_key = bool(OPENROUTER_API_KEY)
+    has_model = bool(OPENROUTER_MODEL)
+    has_url = bool(OPENROUTER_BASE_URL)
+    key_disp = f"PRESENT (len={len(OPENROUTER_API_KEY)})" if has_key else "MISSING/EMPTY (check GitHub Secret OPENROUTER_API_KEY)"
+    print(f"[brief] OpenRouter env check: API key={key_disp}, Model={OPENROUTER_MODEL}, BaseURL={OPENROUTER_BASE_URL}", file=sys.stderr)
+    return has_key and has_model and has_url
+
+
+def _call_openrouter_once(messages: list) -> str | None:
+    payload = {
+        "model": OPENROUTER_MODEL,
+        "messages": messages,
+        "temperature": 0.35,
+        "max_tokens": 2500,
+        "response_format": {"type": "json_object"},
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "HTTP-Referer": "https://yieldchaser.github.io/Shipping/",
+        "X-Title": "Shipping Intelligence Terminal",
+    }
+    req = urllib_request.Request(
+        f"{OPENROUTER_BASE_URL}/chat/completions",
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=90) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        err_body = exc.read().decode("utf-8", errors="replace")
+        details = err_body or str(exc)
+        if retry_after:
+            details = f"{details} retry_after {retry_after}"
+        raise RuntimeError(f"OpenRouter HTTP {exc.code}: {details}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"OpenRouter connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"OpenRouter returned non-JSON payload: {raw[:200]}") from exc
+    choices = data.get("choices") or []
+    if not choices:
+        return None
+    message = choices[0].get("message") or {}
+    text = _clean_text(message.get("content"))
+    return text or None
+
+
+def call_openrouter_text(messages: list, retries: int | None = None) -> str | None:
+    if not openrouter_available():
+        return None
+    retries = retries or OPENROUTER_MAX_RETRIES
+    global _last_openrouter_call_ts
+    for attempt in range(retries):
+        try:
+            print(f"[brief] OpenRouter API call attempt {attempt + 1}/{retries} starting...", file=sys.stderr)
+            _last_openrouter_call_ts = _apply_interval(_last_openrouter_call_ts, OPENROUTER_MIN_INTERVAL_SEC)
+            res = _call_openrouter_once(messages)
+            if res:
+                print(f"[brief] OpenRouter API call attempt {attempt + 1} SUCCESS!", file=sys.stderr)
+                return res
+            else:
+                print(f"[brief] OpenRouter API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
+        except Exception as exc:
+            exc_text = str(exc)
+            print(f"[brief] OpenRouter attempt {attempt + 1}/{retries} failed with error: {exc_text}", file=sys.stderr)
+            if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
+                print("[brief] OpenRouter auth/client error detected; skipping further retries.", file=sys.stderr)
+                return None
+            if attempt < retries - 1:
+                _backoff_sleep(attempt, exc_text, OPENROUTER_BACKOFF_BASE_SEC, OPENROUTER_MAX_BACKOFF_SEC)
+            else:
+                print(f"[brief] OpenRouter failed all {retries} retries.", file=sys.stderr)
+                return None
+    return None
+
+
 def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]]:
     attempted: list[str] = []
     for provider in LLM_PROVIDER_ORDER:
         attempted.append(provider)
+        text = None
         if provider == "nim":
             text = call_nim_text(messages)
+        elif provider == "groq":
+            text = call_groq_text(messages)
+        elif provider == "gemini":
+            text = call_gemini_text(messages)
+        elif provider == "openrouter":
+            text = call_openrouter_text(messages)
         elif provider == "ollama":
             text = call_ollama_text(messages)
         else:
@@ -1227,6 +1514,32 @@ def _template_macro_note(dry_conf: str, tanker_conf: str) -> str:
     return "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments."
 
 
+def _template_cross_sector(snapshot: dict, dry_conf: str, tanker_conf: str) -> dict:
+    bdi = snapshot.get("bdi", {})
+    dirty = snapshot.get("dirty_tanker", {})
+    dry_z = bdi.get("z_score_252d", 0.0) or 0.0
+    tanker_z = dirty.get("z_score_252d", 0.0) or 0.0
+    z_diff = dry_z - tanker_z
+
+    if z_diff > 0.5:
+        rv = f"Dry Bulk displays stronger statistical momentum than Tankers (Z-differential {_fmt_signed(z_diff, 2)}σ), favoring dry bulk spread positioning."
+        pos = "Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum."
+    elif z_diff < -0.5:
+        rv = f"Tankers outperform Dry Bulk on quantitative velocity (Z-differential {_fmt_signed(z_diff, 2)}σ), favoring energy freight over industrial dry bulk."
+        pos = "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
+    else:
+        rv = f"Dry Bulk and Tanker sectors are closely balanced (Z-differential {_fmt_signed(z_diff, 2)}σ), favoring segment-specific selection over broad sector rotations."
+        pos = "Maintain sector-neutral freight weighting; focus on intra-segment Capesize/Panamax or Clean/Dirty spread trades."
+
+    dom = "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points."
+
+    return {
+        "relative_value": rv,
+        "dominant_driver": dom,
+        "positioning_recommendation": pos,
+    }
+
+
 def _template_vessel_entry(
     vessel_key: str,
     pre_conf: str,
@@ -1283,13 +1596,64 @@ def _template_vessel_entry(
             f"fundamentals={latest_signal.get('fundamentals') or 'N/A'}."
         )
 
+    # Deterministic Momentum Grade
+    z_val = z_for_logic if z_for_logic is not None else 0.0
+    roc_val = primary_roc if primary_roc is not None else 0.0
+    if z_val > 1.5 and roc_val > 10:
+        momentum_grade = "STRONG_UP"
+    elif z_val > 0.5 or roc_val > 5:
+        momentum_grade = "UP"
+    elif abs(z_val) <= 0.5 and abs(roc_val) <= 5:
+        momentum_grade = "FLAT"
+    elif z_val < -1.5 and roc_val < -10:
+        momentum_grade = "STRONG_DOWN"
+    else:
+        momentum_grade = "DOWN"
+
+    # Deterministic Positioning Bias, Confidence, Trade Idea, Catalysts, Risks
+    if pre_conf == "BULL_CONFLUENCE":
+        positioning_bias = "LONG"
+        confidence_score = 0.80
+        if is_dry:
+            trade_idea = f"Tactical long {primary_key.upper()} exposure on pullbacks toward MA200 ({primary.get('ma200', 'N/A')}), targeting trend extension while momentum grade is {momentum_grade}."
+            catalyst_watch = "China steel PMI and iron ore port inventory draws over the next 2-4 weeks are the primary directional catalysts."
+            risk_note = f"A reversal below {primary.get('ma200', 'N/A')} or negative shift in Capesize voyage fixtures would invalidate the bullish thesis."
+        else:
+            trade_idea = f"Long {secondary_key.upper()} vs {primary_key.upper()} spread to capture dirty tanker momentum outperformance."
+            catalyst_watch = "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts."
+            risk_note = "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis."
+    elif pre_conf == "BEAR_CONFLUENCE":
+        positioning_bias = "SHORT"
+        confidence_score = 0.75
+        trade_idea = f"Defensive hedge on freight beta; reduce high-beta vessel exposure until momentum stabilizes above Z=-0.50σ."
+        catalyst_watch = "Watch for scrap demolition acceleration or fleet layups as early indicators of supply tightening."
+        risk_note = "Unexpected stimulus or supply disruption creating a sharp spot squeeze would invalidate the defensive stance."
+    elif pre_conf == "DIVERGENCE":
+        positioning_bias = "LONG_SPREAD_VS_TANKER" if is_dry else "SHORT_SPREAD_VS_DRY"
+        confidence_score = 0.55
+        trade_idea = f"No outright high-conviction direction: trade the relative-value spread between {primary_key.upper()} and {secondary_key.upper()} rather than outright directional beta."
+        catalyst_watch = "Resolution of the tension between spot rate levels and analyst fundamental grades in the next reporting print."
+        risk_note = "A breakdown in rate-of-change momentum below ROC60=0.0% would confirm that fundamentals are dragging spot prices lower."
+    else:
+        positioning_bias = "NEUTRAL"
+        confidence_score = 0.45
+        trade_idea = "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals."
+        catalyst_watch = "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment."
+        risk_note = "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
+
     return {
         "confluence_type": pre_conf if pre_conf in CONFLUENCE_TYPES else "NEUTRAL",
+        "momentum_grade": momentum_grade,
+        "positioning_bias": positioning_bias,
+        "confidence_score": confidence_score,
         "confluence_note": _template_confluence_note(pre_conf, label, z_for_logic, qual_score, tally=tally),
         "summary": summary,
-        "key_signals": key_signals[:4],
+        "key_signals": key_signals[:6],
+        "trade_idea": trade_idea,
         "outlook": _template_outlook(pre_conf, label),
-        "watch": _template_watch(pre_conf, latest_signal),
+        "catalyst_watch": catalyst_watch,
+        "watch": catalyst_watch,
+        "risk_note": risk_note,
         "report_dates": [s.get("date") for s in qual_signals if s.get("date")],
     }
 
@@ -1462,13 +1826,29 @@ def main() -> None:
     generation_mode = "llm" if provider_used else "template"
     generation_provider = provider_used or "template"
 
+    model_name = ""
+    if generation_provider == "ollama":
+        model_name = OLLAMA_MODEL
+    elif generation_provider == "nim":
+        model_name = NIM_MODEL
+    elif generation_provider == "groq":
+        model_name = GROQ_MODEL
+    elif generation_provider == "gemini":
+        model_name = GEMINI_MODEL
+    elif generation_provider == "openrouter":
+        model_name = OPENROUTER_MODEL
+
+    cross_sector = (llm_payload or {}).get("cross_sector_analysis")
+    if not isinstance(cross_sector, dict) or not cross_sector.get("relative_value"):
+        cross_sector = _template_cross_sector(snapshot, dry_entry["confluence_type"], tanker_entry["confluence_type"])
+
     output = {
         "generated_at": generated_at,
         "brief_date": today,
         "generation": {
             "mode": generation_mode,
             "provider_used": generation_provider,
-            "model": OLLAMA_MODEL if generation_provider == "ollama" else (NIM_MODEL if generation_provider == "nim" else ""),
+            "model": model_name,
             "provider_order": LLM_PROVIDER_ORDER,
             "attempted_providers": attempted,
         },
@@ -1478,7 +1858,7 @@ def main() -> None:
             "tanker": tanker_entry,
         },
         "macro_note": macro_note,
-        "cross_sector_analysis": (llm_payload or {}).get("cross_sector_analysis") or {},
+        "cross_sector_analysis": cross_sector,
         "sources": [s["doc_id"] for s in dry_signals + tanker_signals if s.get("doc_id")],
     }
 

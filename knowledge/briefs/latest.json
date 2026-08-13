@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:21:53.316313+00:00",
+  "generated_at": "2026-08-13T18:18:16.292481+00:00",
   "brief_date": "2026-08-13",
   "generation": {
     "mode": "template",
@@ -7,10 +7,16 @@
     "model": "",
     "provider_order": [
       "nim",
+      "groq",
+      "gemini",
+      "openrouter",
       "ollama"
     ],
     "attempted_providers": [
       "nim",
+      "groq",
+      "gemini",
+      "openrouter",
       "ollama"
     ]
   },
@@ -82,6 +88,9 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
+      "momentum_grade": "UP",
+      "positioning_bias": "LONG_SPREAD_VS_TANKER",
+      "confidence_score": 0.55,
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+1.85sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/6 neg/6 neu.",
       "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:12). Quant and analyst signals disagree for dry bulk (Z=+1.85sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 0 pos/0 neg/12 neu; Momentum 2 pos/5 neg/5 neu; Fundamentals 0 pos/6 neg/6 neu.",
       "key_signals": [
@@ -90,8 +99,11 @@
         "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
         "Latest report 2026-08-04: momentum=positive, fundamentals=neutral."
       ],
+      "trade_idea": "No outright high-conviction direction: trade the relative-value spread between BDI and CAPESIZE rather than outright directional beta.",
       "outlook": "dry bulk remains tactical; resolution should come from either analyst upgrades or price mean reversion.",
-      "watch": "Watch whether the next analyst print confirms momentum or rejects it.",
+      "catalyst_watch": "Resolution of the tension between spot rate levels and analyst fundamental grades in the next reporting print.",
+      "watch": "Resolution of the tension between spot rate levels and analyst fundamental grades in the next reporting print.",
+      "risk_note": "A breakdown in rate-of-change momentum below ROC60=0.0% would confirm that fundamentals are dragging spot prices lower.",
       "report_dates": [
         "2026-08-04",
         "2026-07-21",
@@ -109,6 +121,9 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
+      "momentum_grade": "UP",
+      "positioning_bias": "LONG",
+      "confidence_score": 0.8,
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 12 Breakwave reports: Sentiment 4 pos/1 neg/7 neu; Momentum 5 pos/3 neg/4 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:7, negative:1, positive:4). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 12 Breakwave reports: Sentiment 4 pos/1 neg/7 neu; Momentum 5 pos/3 neg/4 neu; Fundamentals 10 pos/0 neg/2 neu.",
       "key_signals": [
@@ -117,8 +132,11 @@
         "Cross-check: DIRTY_TANKER value=2644.0, z=+1.04sigma.",
         "Latest report 2026-08-11: momentum=neutral, fundamentals=positive."
       ],
+      "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
       "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
-      "watch": "Watch fundamentals trend in the next report (positive).",
+      "catalyst_watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
         "2026-08-11",
         "2026-07-28",
@@ -136,7 +154,11 @@
     }
   },
   "macro_note": "Cross-sector setup is mixed: at least one vessel class is in divergence, so relative-value positioning may outperform outright beta.",
-  "cross_sector_analysis": {},
+  "cross_sector_analysis": {
+    "relative_value": "Dry Bulk displays stronger statistical momentum than Tankers (Z-differential +0.81σ), favoring dry bulk spread positioning.",
+    "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
+    "positioning_recommendation": "Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum."
+  },
   "sources": [
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",

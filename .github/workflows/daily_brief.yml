@@ -14,7 +14,7 @@ on:
       llm_provider_order:
         description: 'LLM Provider Order'
         required: false
-        default: 'nim,ollama'
+        default: 'nim,groq,gemini,openrouter,ollama'
 
 permissions:
   contents: write
@@ -61,14 +61,17 @@ jobs:
       - name: Generate daily brief
         if: steps.check.outputs.skip == 'false'
         env:
-          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL || 'https://api.ollama.com/v1' }}
-          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
-          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL || 'llama3.2' }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NIM_API_KEY }}
           NIM_BASE_URL: ${{ secrets.NIM_BASE_URL || 'https://integrate.api.nvidia.com/v1' }}
-          NIM_MODEL: 'meta/llama-3.3-70b-instruct'
-          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'nim,ollama' }}
+          NIM_MODEL: ${{ secrets.NIM_MODEL || 'meta/llama-3.3-70b-instruct' }}
+          OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL || 'https://api.ollama.com/v1' }}
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL || 'llama3.2' }}
+          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'nim,groq,gemini,openrouter,ollama' }}
           OLLAMA_MIN_INTERVAL_SEC: "1.5"
           OLLAMA_MAX_RETRIES: "3"
           OLLAMA_BACKOFF_BASE_SEC: "1.5"
@@ -77,6 +80,18 @@ jobs:
           NIM_MAX_RETRIES: "3"
           NIM_BACKOFF_BASE_SEC: "1.5"
           NIM_MAX_BACKOFF_SEC: "15.0"
+          GROQ_MIN_INTERVAL_SEC: "1.5"
+          GROQ_MAX_RETRIES: "3"
+          GROQ_BACKOFF_BASE_SEC: "1.5"
+          GROQ_MAX_BACKOFF_SEC: "15.0"
+          GEMINI_MIN_INTERVAL_SEC: "1.5"
+          GEMINI_MAX_RETRIES: "3"
+          GEMINI_BACKOFF_BASE_SEC: "1.5"
+          GEMINI_MAX_BACKOFF_SEC: "15.0"
+          OPENROUTER_MIN_INTERVAL_SEC: "1.5"
+          OPENROUTER_MAX_RETRIES: "3"
+          OPENROUTER_BACKOFF_BASE_SEC: "1.5"
+          OPENROUTER_MAX_BACKOFF_SEC: "15.0"
         shell: bash
         run: |
           set -o pipefail
