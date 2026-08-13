@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-11_2026_08_11_profound_economic_transformation__root",
+  "doc_id": "breakwave_insights_insights_2026-08-11_2026_08_11_profound_economic_transformation",
+  "parent_id": null,
+  "title": "Profound economic transformation",
+  "section_path": [
+    "Profound economic transformation"
+  ],
+  "section_path_text": "Profound economic transformation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThroughout history, periods of profound economic transformation have rarely been defined solely by faster growth or larger industrial output. More often, they have been characterised by a gradual but decisive reshaping of the geography of commerce. As industries evolve, supply chains adjust, technologies advance and competitive advantages shift between regions, global trade patterns are continuously rewritten.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "products",
+    "steel",
+    "industrial",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1431,
+  "source_path": "reports/breakwave/2026/2026-08-11_profound-economic-transformation.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/11/profound-economic-transformation",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-11_2026_08_11_profound_economic_transformation__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-11_2026_08_11_profound_economic_transformation",
+      "parent_id": "breakwave_insights_insights_2026-08-11_2026_08_11_profound_economic_transformation__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThroughout history, periods of profound economic transformation have rarely been defined solely by faster growth or larger industrial output. More often, they have been characterised by a gradual but decisive reshaping of the geography of commerce.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1429,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

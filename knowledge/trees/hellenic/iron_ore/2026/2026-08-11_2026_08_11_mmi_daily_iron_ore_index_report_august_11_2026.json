@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report August 11 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report August 11 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report August 11 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nToday, the iron ore market showed a relatively strong performance on the futures market. The DCE main contract I2609 closed at 721.5 yuan/ton,up 1.26% from the previous trading session. Spot prices at Qingdao Port rose by an average of about 3-6 yuan/ton from the previous trading day.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "fines",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 10291,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-11-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Today, the iron ore market showed a relatively strong performance on the futures market. The DCE main contract I2609 closed at 721.5 yuan/ton,up 1.26% from the previous trading session.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "tons",
+        "trading",
+        "volume",
+        "according"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__s02_linked_asset_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026_1182026chinesee_a3133bbf1bce_jpg",
+      "doc_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__root",
+      "title": "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_1182026chinesee_a3133bbf1bce.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_1182026chinesee_a3133bbf1bce.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_1182026chinesee_a3133bbf1bce.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_1182026chinesee_a3133bbf1bce.jpg\n\nLinked image asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_1182026chinesee_a3133bbf1bce.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Aug 11th, 2026\nIRON ORE PORT STOCK INDEX (IOPI)\nAug 11th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "change",
+        "high",
+        "low",
+        "mtd",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 776,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__s03_linked_asset_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026_mmi_daily_iron_ore_report_for_11th_a_5a82357415b8_pdf",
+      "doc_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-11_2026_08_11_mmi_daily_iron_ore_index_report_august_11_2026__root",
+      "title": "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_mmi-daily-iron-ore-report-for-11th-a_5a82357415b8.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_mmi-daily-iron-ore-report-for-11th-a_5a82357415b8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_mmi-daily-iron-ore-report-for-11th-a_5a82357415b8.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-08-11_mmi-daily-iron-ore-index-report-august-11-2026_mmi-daily-iron-ore-report-for-11th-a_5a82357415b8.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Aug 11th, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n690 833 632\n4 0.58% 4.00 0.48% 0 0.00%\nAug 11th, 2026 Aug 11th, 2026 Aug 11th, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n95.05 115.85 873\n0.75 0.80% 0.35 0.30% 5 0.58%\nAug 11th, 2026 Aug 11th, 2026 Week Ending Aug 7th, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2609 RMB/t (3pm close) August 26 USD/dmt RB2610 RMB/t\n721.50 95.90 3016\n8.00 1.12% 0.90 0.95% 19 0.63%\nAug 11th, 2026 (3pm close) Aug 11th, 2026 (5.30 pm Print) Aug 11th, 2026 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) R",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9153,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

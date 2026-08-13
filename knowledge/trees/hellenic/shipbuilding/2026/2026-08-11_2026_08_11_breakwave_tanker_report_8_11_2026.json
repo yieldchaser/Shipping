@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 8.11.2026",
+  "section_path": [
+    "Breakwave Tanker Report 8.11.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 8.11.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nEast of Suez Risk Jumps - The geopolitical risk premium identified in late July remains embedded in East of Suez tanker freight,\nSource: Breakwave Advisors\n\nLinked asset: 2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 11, 2026\n• East of Suez Risk Jumps - The geopolitical risk premium identified in late July\nShort-term Indicators\nremains embedded in East of Suez tanker freight, but the disruption has evolved\nMomentum: Neutral\nfrom a Hormuz centered issue into a broader Middle East routing risk spanning both\nthe Gulf and Red Sea. Iran and Oman are nearing an agreement on new shipping Sentiment: Neutral\narrangements through Hormuz, although Tehran has separated progress on the Fundamentals: Positive\nframework from a full reopening of the Strait. Diplomatic progress has therefore\nyet to translate into sustained normalization of commercial traffic, keeping\nBreakwave Tanker\nsecurity exposure embedded in voyage economics.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "east",
+    "oil",
+    "crude",
+    "funds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1746,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-11_breakwave-tanker-report-8-11-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-11-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026",
+      "parent_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "East of Suez Risk Jumps - The geopolitical risk premium identified in late July remains embedded in East of Suez tanker freight,\nSource: Breakwave Advisors",
+      "keywords": [
+        "east",
+        "risk",
+        "suez",
+        "embedded",
+        "geopolitical",
+        "identified",
+        "july",
+        "jumps"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__s02_linked_asset_2026_08_11_breakwave_tanker_report_8_11_2026_breakwavetankersaugust112026report_3c65c6e8e1c9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026",
+      "parent_id": "hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__root",
+      "title": "Linked asset: 2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 11, 2026\n• East of Suez Risk Jumps - The geopolitical risk premium identified in late July\nShort-term Indicators\nremains embedded in East of Suez tanker freight, but the disruption has evolved\nMomentum: Neutral\nfrom a Hormuz centered issue into a broader Middle East routing risk spanning both\nthe Gulf and Red Sea. Iran and Oman are nearing an agreement on new shipping Sentiment: Neutral\narrangements through Hormuz, although Tehran has separated progress on the Fundamentals: Positive\nframework from a full reopening of the Strait.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1666,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
