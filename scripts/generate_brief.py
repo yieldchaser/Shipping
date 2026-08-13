@@ -739,10 +739,9 @@ def build_system_message() -> str:
         "GOOD: 'A Chinese iron ore import volume print below 95mt in the next customs release would confirm "
         "demand destruction and invalidate the BDI expansion thesis.'\n\n"
 
-        "RULE 8 — CATALYST WATCH must name SPECIFIC upcoming events with approximate timing. "
-        "BAD: 'Watch for demand developments'. "
-        "GOOD: 'China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal "
-        "in late May are the three near-term catalysts.'\n\n"
+        "RULE 8 — CATALYST WATCH must name SPECIFIC forward-looking upcoming events with realistic near-term timing. "
+        "Always anchor events to the current calendar date. NEVER reference expired past months (e.g. if today is in August, reference late August / September prints). "
+        "GOOD: 'China NBS Manufacturing PMI, upcoming monthly customs commodity trade data, and US weekly EIA petroleum status reports are the three near-term catalysts.'\n\n"
 
         "RULE 9 — MACRO NOTE must be event-specific, not geopolitical boilerplate. "
         "Never write generic sentences about 'rising interest rates' or 'geopolitical uncertainty'. "
@@ -798,6 +797,10 @@ def build_user_message(
     pre_tanker_conf: str = "NEUTRAL",
 ) -> str:
     today = date.today().isoformat()
+    today_dt = date.today()
+    today = today_dt.isoformat()
+    cur_month = today_dt.strftime("%B")
+    cur_year = today_dt.strftime("%Y")
     analytics = _build_analytics_context(snapshot, spreads or {})
     dry_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(dry_signals)) or "No recent reports."
     tanker_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(tanker_signals)) or "No recent reports."
@@ -807,7 +810,7 @@ def build_user_message(
     tanker_tally = _signal_tally(tanker_signals, tanker_z, pre_tanker_conf)
     n_dry = len([r for r in dry_report_text.split("---") if r.strip()])
     n_tank = len([r for r in tanker_report_text.split("---") if r.strip()])
-    return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today}
+    return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today} (CURRENT MONTH: {cur_month.upper()} {cur_year})
 
 {analytics}
 
@@ -841,7 +844,8 @@ STRUCTURAL MARKET CONTEXT:
 [Tanker Market]
 {wiki_tanker}
 
-TASK: Write today's institutional freight brief applying 0.85^i exponential decay to historical signals.
+TASK: Write today's institutional freight brief for {today} ({cur_month} {cur_year}).
+TIMELINE MANDATE: Today is {today}. All upcoming catalysts and outlooks MUST be forward-looking into {cur_month} / the next month of {cur_year}. NEVER mention expired months like May or June.
 
 WRITING QUALITY MANDATE:
 - Every 'key_signals' entry MUST be a full analytical sentence explaining significance, not a raw data label.
@@ -862,7 +866,7 @@ Return ONLY valid JSON matching this schema:
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
       "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
       "outlook": "<1 sentence naming the 2-4 week directional thesis with the key variable that could change it — if geopolitical risk is elevated, name that as either a tail upside or downside risk>",
-      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC dated events or seasonal inflections — include geopolitical monitoring if relevant (e.g., port closures, route hazards, sanctions)>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC forward-looking events or seasonal inflections for late {cur_month} / next month (e.g. upcoming monthly trade data, inventory releases, or seasonal freight inflections) — NEVER reference past months>",
       "risk_note": "<1 sentence naming the single biggest tail risk and the SPECIFIC data point or event that would confirm it — if geopolitical, name the specific disruption threshold that would break the thesis>"
     }},
     "tanker": {{
@@ -875,7 +879,7 @@ Return ONLY valid JSON matching this schema:
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
       "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
       "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it — if geopolitical risk is elevated, name that as a tail upside driver>",
-      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate dates — e.g. 'China May customs data (~June 8), OPEC+ meeting (June 1), and Strait of Hormuz escalation monitoring are the three near-term catalysts'>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate forward dates for {cur_month}/{cur_year} (e.g. upcoming OPEC+ ministerial reviews, weekly EIA crude stock figures, seasonal refinery runs) — NEVER reference past months>",
       "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline'>",
       "geopolitical_impact": "<IF active supply disruptions, sanctions, or route hazards are mentioned in analyst reports: 1-2 sentences explaining the explicit tonnage impact + which tanker segments (VLCC vs Suez vs Aframax) benefit most from rerouting. ELSE: null or empty string>"
     }}
@@ -888,9 +892,9 @@ Return ONLY valid JSON matching this schema:
   "executive_tldr": [
     "<Bullet 1: 1 concise punchy takeaway on macro freight velocity & regime divergence>",
     "<Bullet 2: 1 concise takeaway on top actionable positioning / spread trade setup>",
-    "<Bullet 3: 1 concise takeaway on the most critical near-term catalyst & risk invalidation trigger>"
+    "<Bullet 3: 1 concise takeaway on the most critical near-term catalyst & risk invalidation trigger for {cur_month}/{cur_year}>"
   ],
-  "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY (e.g. 'The Iran-Israel escalation is rerouting VLCC traffic away from the Strait of Hormuz') then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event (with approximate date) that will either confirm or invalidate the current freight thesis — no generic boilerplate>"
+  "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event for {cur_month}/{cur_year} that will either confirm or invalidate the current freight thesis — NEVER reference past months>"
 }}"""
 
 
