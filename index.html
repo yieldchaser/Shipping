@@ -5318,7 +5318,7 @@
       <!-- Spaghetti Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Full History Stacking - tracks index value by trading day for every year since 2008. Visualizes the recurring 'vessel rotation' and peak-demand months.">Monthly Performance by Year (Spaghetti)</div>
+          <div class="chart-title" data-tooltip="Monthly Multi-Year Trajectory - tracks average index values across all 12 calendar months for each historical year. Automatically adapts to the full available history for the selected maritime asset.">Monthly Performance by Year (Spaghetti)</div>
         </div>
         <div class="spaghetti-wrap">
           <canvas id="monthlySpaghettiChart"></canvas>
@@ -6044,6 +6044,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         _rowCache[productKey] = DATA.master.filter(r => r[productKey] != null);
       }
       return _rowCache[productKey];
+    }
+
+    function getProductYears(productKey) {
+      if (!DATA || !DATA.master || !DATA.master.length) return DATA && DATA.years ? DATA.years : [];
+      const rows = getRows(productKey);
+      if (!rows || !rows.length) return DATA.years || [];
+      const years = [...new Set(rows.map(r => r.year))].sort((a, b) => a - b);
+      return years.length ? years : (DATA.years || []);
     }
     function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; _spotMapCache = {}; _alignedCache = {}; _valMapCache = {}; }
 
@@ -8418,7 +8426,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function renderMonthlyHeatmap(productKey) {
       const container = document.getElementById('monthlyHeatmap');
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       const matrix = {};
       for (const y of years) {
@@ -8468,7 +8476,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function renderMonthlyHeatmapPct(productKey) {
       const container = document.getElementById('monthlyHeatmap');
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       // Build avg matrix
       const matrix = {};
@@ -8578,7 +8586,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // ---- CHANGE 6: Win-Rate KPI Cards ----
     function renderWinRateCards(productKey) {
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       // Build quarter avgs per year - use cache
       const qAvg = {};
@@ -8638,7 +8646,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function renderQuarterlyHeatmap(productKey) {
       const container = document.getElementById('quarterlyHeatmap');
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       const matrix = {};
       for (const y of years) {
@@ -8724,7 +8732,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function renderSpaghettiChart(productKey) {
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
       const qColors = { Q1: '#58a6ff', Q2: '#3fb950', Q3: '#f0883e', Q4: '#a371f7' };
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       // Build qAvg per year per quarter
       const qData = { Q1: [], Q2: [], Q3: [], Q4: [] };
@@ -11646,7 +11654,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function renderMonthlyWinRateCards(productKey) {
       const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       const mAvg = {};
       for (const y of years) {
@@ -11712,7 +11720,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         '#f85149', '#f0c040', '#7ee787', '#e3b341',
         '#d29922', '#ff7b72', '#2f81f7', '#1f6feb'
       ];
-      const years = DATA.years;
+      const years = getProductYears(productKey);
 
       const mData = {};
       months.forEach(m => mData[m] = []);
