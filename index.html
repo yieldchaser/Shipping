@@ -2883,6 +2883,13 @@
       padding: 3px 9px; font-size: 10.5px; color: #8ba2c4; transition: all 0.15s ease;
     }
     .qa-cit:hover { border-color: rgba(88, 166, 255, 0.4); color: #d0e4ff; }
+    .qa-cit-web {
+      background: rgba(31, 111, 235, 0.18); border-color: rgba(56, 139, 253, 0.38);
+      color: #93c5fd; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; font-weight: 500;
+    }
+    .qa-cit-web:hover {
+      background: rgba(31, 111, 235, 0.35); border-color: #58a6ff; color: #ffffff; text-decoration: none;
+    }
     .intel-empty { text-align: center; padding: 2.5rem 1rem; color: var(--text-muted); font-size: 13px; }
     .intel-empty code { background: var(--hover); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
     .brief-meta-toggle { font-size: 10px; color: var(--accent); cursor: pointer; border: none; background: none; text-decoration: underline; opacity: .8; }
@@ -6259,7 +6266,9 @@
             <label class="qa-scope-item" data-tooltip="China iron ore import volumes and price trends — the primary Capesize demand driver."><input type="checkbox" id="qaSrcIronOre" onchange="onQAScopeChange(false)"> Iron Ore</label>
             <label class="qa-scope-item" data-tooltip="Newbuild orderbooks, demolition/scrapping rates, and fleet supply analysis."><input type="checkbox" id="qaSrcShipbuilding" onchange="onQAScopeChange(false)"> Shipbuilding</label>
             <label class="qa-scope-item" data-tooltip="Shipping reference textbooks and foundational domain knowledge (no time-series data)."><input type="checkbox" id="qaSrcBooks" onchange="onQAScopeChange(false)"> Books</label>
-            <label class="qa-scope-item" style="border-left:1px solid var(--border);padding-left:8px;margin-left:4px;" data-tooltip="Search only wiki summaries for speed — skips daily reports and chunks."><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
+            <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Search only wiki summaries for speed — skips daily reports and chunks."><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
+            <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: searches the live web for breaking news, freight prints, and real-time updates (Gemini)."><input type="checkbox" id="qaSrcWebSearch"> 🌐 Web Search (Live)</label>
+            <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Research: loads 10-year historical archives (2014–2026) and up to 60 context passages."><input type="checkbox" id="qaDeepResearch"> 🔬 Deep Research</label>
           </div>
           <div class="qa-input-row">
             <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is today's confluence verdict across dry bulk and tanker markets? What are analysts saying about iron ore stockpiles?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runQAQuery()}"></textarea>
@@ -18015,7 +18024,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       return e > 0 ? md.slice(e + 3).trim() : md;
     }
 
-    async function _runProviderLLM(provider, apiKey, model, prompt, onToken) {
+    async function _runProviderLLM(provider, apiKey, model, prompt, onToken, options) {
       // ── Shared SSE reader for OpenAI-compatible streams ───────────────────
       async function _readSSE(res, onTok, providerLabel) {
         const reader = res.body.getReader();
@@ -18030,8 +18039,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (payload === '[DONE]') continue;
             try {
               const obj = JSON.parse(payload);
-              // OpenRouter (and others) embed errors mid-stream as a top-level 'error' key
-              // OR as finish_reason: 'error' in choices — must check both
               if (obj.error) {
                 const errMsg = obj.error.message || obj.error.code || JSON.stringify(obj.error);
                 throw new Error((providerLabel || 'Provider') + ' stream error: ' + errMsg);
@@ -18043,15 +18050,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               full += (obj?.choices?.[0]?.delta?.content || '');
               onTok(full);
             } catch (err) {
-              // Re-throw real provider errors; ignore JSON parse errors on malformed SSE lines
               if (err.message && (err.message.includes('stream error') || err.message.includes('finish_reason'))) throw err;
             }
           }
         }
-        return full || '(no response)';
+        return { text: full || '(no response)', webCitations: [] };
       }
 
-      const doStream = !!onToken;
+      const doStream = !!onToken && !options?.enableWebSearch;
       // ── Groq ──────────────────────────────────────────────────────────────
       if (provider === 'groq') {
         const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
@@ -18071,29 +18077,42 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
         if (doStream && res.body) return _readSSE(res, onToken);
         const data = await res.json();
-        return data?.choices?.[0]?.message?.content || '(no response)';
+        return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
-      // ── Gemini ────────────────────────────────────────────────────────────
+      // ── Gemini (Google AI with Search Grounding) ──────────────────────────
       if (provider === 'gemini') {
         const m = model || 'gemini-2.0-flash';
         const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(m)}:generateContent?key=${encodeURIComponent(apiKey)}`;
+        const bodyObj = {
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.2, maxOutputTokens: 2500 }
+        };
+        if (options && options.enableWebSearch) {
+          bodyObj.tools = [{ googleSearch: {} }];
+        }
         const res = await fetch(url, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: { temperature: 0.2, maxOutputTokens: 2048 }
-          })
+          body: JSON.stringify(bodyObj)
         });
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
           throw new Error(err?.error?.message || `Gemini HTTP ${res.status}`);
         }
         const data = await res.json();
-        const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '(no response)';
+        const candidate = data?.candidates?.[0];
+        const text = candidate?.content?.parts?.[0]?.text || '(no response)';
+        const webCitations = [];
+        if (candidate?.groundingMetadata?.groundingChunks) {
+          for (const gc of candidate.groundingMetadata.groundingChunks) {
+            if (gc.web && gc.web.uri) {
+              webCitations.push({ title: gc.web.title || gc.web.uri, url: gc.web.uri });
+            }
+          }
+        }
         if (onToken) onToken(text);
-        return text;
+        return { text, webCitations };
       }
 
       // ── OpenRouter ────────────────────────────────────────────────────────
@@ -18108,22 +18127,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
         });
-        // Log which model OpenRouter actually routed to (useful when using openrouter/free auto-router)
         const selectedModel = res.headers.get('X-OpenRouter-Selected-Model');
         if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
           const msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
-          // 503 means all free models at capacity; 429 means rate-limited
           if (res.status === 503) throw new Error('OpenRouter: all free models at capacity. ' + msg);
           if (res.status === 429) throw new Error('OpenRouter: rate limited. ' + msg);
           throw new Error(msg);
         }
         if (doStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
         const data = await res.json();
-        // Non-streaming: check for embedded error in response body
         if (data?.error) throw new Error('OpenRouter error: ' + (data.error.message || JSON.stringify(data.error)));
-        return data?.choices?.[0]?.message?.content || '(no response)';
+        return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
       throw new Error('Unknown provider: ' + provider);
@@ -18244,6 +18260,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const terms    = _expandQueryTerms(_tokenize(query));
         const wikiOnly = document.getElementById('qaSrcWikiOnly')?.checked;
 
+        const webSearch = !!document.getElementById('qaSrcWebSearch')?.checked;
+        const deepResearch = !!document.getElementById('qaDeepResearch')?.checked;
+
         // Step 1 - Wiki pages (high-level summary layer, always loaded)
         statEl.textContent = 'Loading wiki pages...';
         const wikiItems = (await Promise.all(
@@ -18254,7 +18273,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         )).filter(Boolean);
 
         const avgWLen    = wikiItems.reduce((s, w) => s + _tokenize(w.text).length, 0) / (wikiItems.length || 1);
-        const scoredWiki = _scoreItems(wikiItems, terms, w => w.text, avgWLen).slice(0, 3);
+        const scoredWiki = _scoreItems(wikiItems, terms, w => w.text, avgWLen).slice(0, deepResearch ? 6 : 3);
 
         // Step 2 - Chunks (progressive: recent first, expand if needed)
         let topChunks = [];
@@ -18275,8 +18294,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             (max, p) => Math.max(max, _providerConfig(p).maxContextTokens || 0),
             0
           );
-          const isLargeCtx = maxFallbackCtx >= 50000;
-          const maxTopChunks = isLargeCtx ? 40 : 10;
+          const isLargeCtx = maxFallbackCtx >= 20000 || deepResearch;
+          const maxTopChunks = deepResearch ? 60 : (isLargeCtx ? 35 : 12);
 
           statEl.textContent = 'Loading recent data...';
           let allChunks = (await Promise.all(_getUrls('recent').map(_loadChunks))).flat();
@@ -18286,9 +18305,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const histChunks = (await Promise.all(_getUrls('historical').map(_loadChunks))).flat();
           allChunks = [...allChunks, ...histChunks];
 
-          // Deep historical only for 128K providers
-          if (isLargeCtx) {
-            statEl.textContent = 'Loading historical archives (2014-2022)...';
+          // Deep historical archives for Deep Research / large context
+          if (isLargeCtx || deepResearch) {
+            statEl.textContent = 'Loading deep historical archives (2014-2022)...';
             const deepChunks = (await Promise.all(_getUrls('deep_historical').map(_loadChunks))).flat();
             allChunks = [...allChunks, ...deepChunks];
           }
@@ -18318,7 +18337,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           }
 
           // LLM reranker: for large-context providers, fire a tiny call to re-order top candidates
-          if (isLargeCtx && topChunks.length > 5) {
+          if (isLargeCtx && topChunks.length > 5 && !deepResearch) {
             statEl.textContent = 'Reranking passages…';
             const rkKey   = _loadProviderKey(fallbackOrder[0]);
             const rkModel = _loadProviderModel(fallbackOrder[0]) || _providerConfig(fallbackOrder[0]).defaultModel;
@@ -18330,11 +18349,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const _estimateTokens = text => Math.ceil((text || '').length / 3.5);
 
         // Helper: build context + prompt for a specific provider's token budget
-        function _buildPromptForBudget(providerKey, scoredWikiArr, topChunksArr, queryText) {
+        function _buildPromptForBudget(providerKey, scoredWikiArr, topChunksArr, queryText, isDeep, hasWeb) {
           const pCfg = _providerConfig(providerKey);
-          const maxCtx = pCfg.maxContextTokens || 8000;
-          const isLargeCtx = maxCtx >= 50000;
-          const budget = maxCtx - 800; // reserve for system prompt + response
+          let maxCtx = pCfg.maxContextTokens || 8000;
+          if (isDeep && maxCtx > 10000) maxCtx = Math.max(maxCtx, 32000);
+          const isLargeCtx = maxCtx >= 20000;
+          const budget = maxCtx - (hasWeb ? 1500 : 800); // reserve for system prompt + response
 
           const docs = [];
           let used = 0;
@@ -18350,8 +18370,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
           // Wikis: for large-context include all scored; for small-context cap at top 2 with tight budget
           const wikiArr = isLargeCtx ? scoredWikiArr : scoredWikiArr.slice(0, 2);
-          // Small-context (Groq 7K): wiki gets 15% — leave 85% for source chunks
-          const wikiBudget = Math.floor(budget * (isLargeCtx ? 0.3 : 0.15));
+          const wikiBudget = Math.floor(budget * (isLargeCtx ? 0.35 : 0.15));
           const perWiki = Math.floor(wikiBudget / Math.max(wikiArr.length, 1));
           for (const w of wikiArr) {
             let text = w.item.text;
@@ -18383,14 +18402,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const estTokens = _estimateTokens(ctxText);
 
           const today = new Date().toISOString().split('T')[0];
-          const wordLimit = isLargeCtx ? 600 : 350;
-          const promptText = 'You are a senior shipping freight market analyst. Today\'s date is ' + today + '.\n' +
-            'Answer the question using ONLY the provided context passages.\n\n' +
+          const wordLimit = isLargeCtx ? 750 : 350;
+          const promptText = 'You are a senior institutional shipping freight market analyst. Today\'s date is ' + today + '.\n' +
+            'Answer the question using the provided context passages and live freight intelligence.\n\n' +
             'STRICT RULES:\n' +
             '1. Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
-            '2. If the specific data the user asks about is NOT in the passages, say exactly: "This information is not available in my current context."\n' +
+            '2. If the user asks about real-time or breaking events, integrate live data and web grounding while grounding factual statistics in the context.\n' +
             '3. Do NOT invent or extrapolate data, dates, or statistics.\n' +
-            '4. Lead with the key finding. Group related data points together. Under ' + wordLimit + ' words.\n\n' +
+            '4. Lead with the key finding. Compare multi-year historical trends against current market conditions where relevant. Under ' + wordLimit + ' words.\n\n' +
             'Question: ' + queryText + '\n\n' +
             'Context Passages:\n' + ctxText;
 
@@ -18402,6 +18421,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         let usedProvider = provider;
         let finalDocs = [];
         let finalEstTokens = 0;
+        let finalWebCitations = [];
         let lastError = null;
 
         if (!fallbackOrder.length) {
@@ -18417,7 +18437,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!pModel) continue;
 
           // Build prompt sized for THIS provider's token budget
-          const { docs, estTokens, promptText } = _buildPromptForBudget(p, scoredWiki, topChunks, query);
+          const { docs, estTokens, promptText } = _buildPromptForBudget(p, scoredWiki, topChunks, query, deepResearch, webSearch);
 
           if (!docs.length) {
             lastError = new Error('No context passages fit within ' + pCfg.label + ' token limit.');
@@ -18425,11 +18445,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           }
 
           try {
-            statEl.textContent = 'Asking ' + pCfg.label + ' (' + docs.length + ' passages, ~' + estTokens + ' tokens)...';
-            answer = await _runProviderLLM(p, pKey, pModel, promptText, (partial) => { ansEl.innerHTML = _formatQAAnswer(partial); });
+            statEl.textContent = 'Asking ' + pCfg.label + ' (' + docs.length + ' passages, ~' + estTokens + ' tokens)' + (webSearch && p === 'gemini' ? ' + 🌐 Web Search' : '') + '...';
+            const resObj = await _runProviderLLM(
+              p, pKey, pModel, promptText,
+              (partial) => { ansEl.innerHTML = _formatQAAnswer(partial); },
+              { enableWebSearch: webSearch }
+            );
+            answer = typeof resObj === 'object' ? resObj.text : resObj;
+            const webCits = (typeof resObj === 'object' ? resObj.webCitations : []) || [];
             usedProvider = p;
             finalDocs = docs;
             finalEstTokens = estTokens;
+            finalWebCitations = webCits;
             break;
           } catch (err) {
             lastError = err;
@@ -18450,11 +18477,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const usedCfg = _providerConfig(usedProvider);
         const wikiCount = finalDocs.filter(d => d.type === 'wiki').length;
         const chunkCount = finalDocs.filter(d => d.type === 'chunk').length;
-        statEl.textContent = '[OK] ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens) [' + wikiCount + ' wiki · ' + chunkCount + ' chunks]';
+        const webCount = (finalWebCitations || []).length;
+        statEl.textContent = '[OK] ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens)' +
+          ' [' + wikiCount + ' wiki · ' + chunkCount + ' chunks' + (webCount > 0 ? ' · ' + webCount + ' web sources' : '') + ']';
         ansEl.innerHTML  = _formatQAAnswer(answer);
-        citEl.innerHTML    = finalDocs.map((d, i) =>
-          '<span class="qa-cit" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
-        ).join('');
+        citEl.innerHTML  = [
+          ...finalDocs.map((d, i) =>
+            '<span class="qa-cit" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
+          ),
+          ...(finalWebCitations || []).map(w =>
+            '<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '">🌐 ' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>'
+          )
+        ].join('');
       } catch (err) {
         const msg = err.message || 'Unknown error';
         let hint = '';
