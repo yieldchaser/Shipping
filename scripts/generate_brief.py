@@ -1492,6 +1492,15 @@ def main() -> None:
             display_path = out_path
         print(f"[brief] Wrote {display_path}")
 
+    all_dates = sorted([p.stem for p in BRIEFS.glob("????-??-??.json")], reverse=True)
+    manifest_data = {
+        "latest_date": all_dates[0] if all_dates else "",
+        "total_briefs": len(all_dates),
+        "dates": all_dates
+    }
+    (BRIEFS / "manifest.json").write_text(json.dumps(manifest_data, indent=2), encoding="utf-8")
+    print("[brief] Wrote knowledge/briefs/manifest.json")
+
     print(
         "[brief] Done "
         f"dry={output['vessel_classes']['dry_bulk']['confluence_type']} "

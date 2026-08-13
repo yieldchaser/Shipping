@@ -16762,25 +16762,69 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       else { badge.innerHTML = '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="5"/></svg></span> Stale (' + Math.round(age / 24) + 'd ago)'; badge.className = 'brief-stale-badge stale-stale'; }
     }
 
+    let _briefManifestDates = [];
+    let _briefCurrentIndex = 0;
+
+    async function _loadBriefManifest() {
+      if (_briefManifestDates.length > 0) return;
+      try {
+        const manifest = await _fetchJsonWithFallback('knowledge/briefs/manifest.json');
+        if (manifest && Array.isArray(manifest.dates)) {
+          _briefManifestDates = manifest.dates;
+        }
+      } catch (e) {
+        console.warn('Manifest load failed', e);
+      }
+    }
+
     async function _briefNav(dir) {
       window._briefNav = _briefNav;
-      _briefDateOffset += dir;
-      const dateStr = _briefDateStr(_briefDateOffset);
+      await _loadBriefManifest();
+      
       const el   = document.getElementById('intelBriefContent');
       const tsEl = document.getElementById('intelBriefTs');
       const nextBtn = document.getElementById('briefNext');
-      if (nextBtn) nextBtn.disabled = _briefDateOffset >= 0;
-      try {
-        const data = await _fetchJsonWithFallback('knowledge/briefs/' + dateStr + '.json');
-        if (!data) throw new Error('not_found');
-        INTEL.briefData = data;
-        _paintBrief(el, tsEl, INTEL.briefData);
-        _updateStaleBadge(data.generated_at);
-        _autoDetectOllamaFromBrief();
-        _generateDynamicSuggestions();
-      } catch {
-        el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
-        _updateStaleBadge(null);
+      const prevBtn = document.getElementById('briefPrev');
+
+      if (_briefManifestDates.length > 0) {
+        // dir is -1 for Prev (older, i.e., index + 1 in descending date array)
+        // dir is +1 for Next (newer, i.e., index - 1 in descending date array)
+        _briefCurrentIndex -= dir; 
+        if (_briefCurrentIndex < 0) _briefCurrentIndex = 0;
+        if (_briefCurrentIndex >= _briefManifestDates.length) _briefCurrentIndex = _briefManifestDates.length - 1;
+
+        const dateStr = _briefManifestDates[_briefCurrentIndex];
+        if (nextBtn) nextBtn.disabled = _briefCurrentIndex <= 0;
+        if (prevBtn) prevBtn.disabled = _briefCurrentIndex >= _briefManifestDates.length - 1;
+
+        try {
+          const data = await _fetchJsonWithFallback('knowledge/briefs/' + dateStr + '.json');
+          if (!data) throw new Error('not_found');
+          INTEL.briefData = data;
+          _paintBrief(el, tsEl, INTEL.briefData);
+          _updateStaleBadge(data.generated_at);
+          _autoDetectOllamaFromBrief();
+          _generateDynamicSuggestions();
+        } catch {
+          el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
+          _updateStaleBadge(null);
+        }
+      } else {
+        _briefDateOffset += dir;
+        const dateStr = _briefDateStr(_briefDateOffset);
+        if (nextBtn) nextBtn.disabled = _briefDateOffset >= 0;
+        try {
+          const data = await _fetchJsonWithFallback('knowledge/briefs/' + dateStr + '.json');
+          if (!data) throw new Error('not_found');
+          INTEL.briefData = data;
+          _paintBrief(el, tsEl, INTEL.briefData);
+          _updateStaleBadge(data.generated_at);
+          _autoDetectOllamaFromBrief();
+          _generateDynamicSuggestions();
+        } catch {
+          el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
+          _updateStaleBadge(null);
+        }
       }
     }
 
@@ -16788,6 +16832,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const el   = document.getElementById('intelBriefContent');
       const tsEl = document.getElementById('intelBriefTs');
       if (!el) return;
+      await _loadBriefManifest();
+      _briefCurrentIndex = 0;
       try {
         const data = await _fetchJsonWithFallback('knowledge/briefs/latest.json');
         if (!data) throw new Error('not_found');
@@ -16795,6 +16841,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         _paintBrief(el, tsEl, INTEL.briefData);
         _updateStaleBadge(data.generated_at);
         const nextBtn = document.getElementById('briefNext'); if (nextBtn) nextBtn.disabled = true;
+        const prevBtn = document.getElementById('briefPrev'); if (prevBtn) prevBtn.disabled = (_briefManifestDates.length <= 1);
       } catch {
         el.innerHTML = '<div class="intel-empty">No brief available for today.</div>';
         _updateStaleBadge(null);
