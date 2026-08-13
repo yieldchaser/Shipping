@@ -56,8 +56,8 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 12
-BALTIC_REPORTS = 8  # number of weekly Baltic Exchange reports to feed into the brief
+RECENT_REPORTS = 3
+BALTIC_REPORTS = 2  # number of weekly Baltic Exchange reports to feed into the brief
 
 # Baltic Exchange weekly HTML report directories
 BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
@@ -329,7 +329,7 @@ def compute_confluence(
     return "NEUTRAL"
 
 
-def wiki_excerpt(path: Path, max_chars: int = 2000) -> str:
+def wiki_excerpt(path: Path, max_chars: int = 500) -> str:
     try:
         text = path.read_text(encoding="utf-8")
         if text.startswith("---"):
