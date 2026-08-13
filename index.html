@@ -1629,14 +1629,18 @@
 
     /* REGIME BADGES */
     .regime-badge {
-      display: inline-block;
-      padding: 4px 10px;
-      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 11px;
+      border-radius: 6px;
       font-size: 11px;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.5px;
-      margin-left: 12px;
+      letter-spacing: 0.6px;
+      line-height: 1.2;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+      transition: all 0.2s ease;
       vertical-align: middle;
       cursor: help;
     }
@@ -4389,10 +4393,12 @@
         <div class="current-price-block">
           <div class="current-price-label" id="dashProductLabel" data-tooltip="Baltic Dry Index (BDI) - the composite benchmark assembled by the Baltic Exchange daily from reported freight rates on major dry bulk routes. Change this via the product selector in the top-right.">Baltic Dry Index (BDI)</div>
           <div class="current-price-value" id="dashCurrentPrice">-</div>
-          <div class="current-price-change" id="dashPriceChange">-</div>
+          <div class="price-meta-row" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-top:4px;">
+            <div class="current-price-change" id="dashPriceChange">-</div>
+            <div id="dashSignal" class="signal-badge signal-wait" data-tooltip="Marine Intelligence Signal - synthesized from 5Y Percentile and Z-Score. Identifies high-conviction 'Golden Dip' capitulation vs. systemic overextension."><svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT</div>
+            <div id="dashRegimeBadge" class="regime-badge" style="display:none;" title="Momentum Regime based on MA200 and ROC60"></div>
+          </div>
         </div>
-        <div id="dashSignal" class="signal-badge signal-wait" data-tooltip="Marine Intelligence Signal - synthesized from 5Y Percentile and Z-Score. Identifies high-conviction 'Golden Dip' capitulation vs. systemic overextension."><span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span> WAIT</div>
-        <div id="dashRegimeBadge" class="regime-badge" style="display:none;" title="Momentum Regime based on MA200 and ROC60"></div>
       </div>
 
       <div class="stats-row mb-20">
@@ -7099,14 +7105,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function tradingSignal(stats) {
-      if (!stats) return { text: '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span> WAIT', cls: 'signal-wait' };
+      if (!stats) return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
       const { pctl5y, zScore, alltimePctl } = stats;
-      if (pctl5y > 0.8) return { text: '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span> SELL (Overheated)', cls: 'signal-sell' };
-      if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { text: '<span class="icon-tile icon-tile-green icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span> GOLDEN DIP', cls: 'signal-golden' };
-      if (pctl5y < 0.1 && zScore < -0.6) return { text: '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg></span> CATCHING KNIFE', cls: 'signal-knife' };
-      if (pctl5y < 0.3 && alltimePctl < 0.3) return { text: '<span class="icon-tile icon-tile-red icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span> VALUE TRAP', cls: 'signal-trap' };
-      if (pctl5y < 0.4) return { text: '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span> ACCUMULATE', cls: 'signal-accumulate' };
-      return { text: '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span> WAIT', cls: 'signal-wait' };
+      if (pctl5y > 0.8) return { label: 'SELL (Overheated)', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> SELL (Overheated)', cls: 'signal-sell' };
+      if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { label: 'GOLDEN DIP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> GOLDEN DIP', cls: 'signal-golden' };
+      if (pctl5y < 0.1 && zScore < -0.6) return { label: 'CATCHING KNIFE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg> CATCHING KNIFE', cls: 'signal-knife' };
+      if (pctl5y < 0.3 && alltimePctl < 0.3) return { label: 'VALUE TRAP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> VALUE TRAP', cls: 'signal-trap' };
+      if (pctl5y < 0.4) return { label: 'ACCUMULATE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> ACCUMULATE', cls: 'signal-accumulate' };
+      return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
     }
 
     function pctColor(pct) {
@@ -7163,12 +7169,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const bearishEl = document.getElementById('alertBearish');
       const bullishTxt = document.getElementById('alertBullishText');
       const bearishTxt = document.getElementById('alertBearishText');
-      if (sig.text.includes('ACCUMULATE') || sig.text.includes('GOLDEN')) {
-        bullishTxt.innerHTML = sig.text;
+      if (sig.label.includes('ACCUMULATE') || sig.label.includes('GOLDEN')) {
+        bullishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> &mdash; Market positioned in value accumulation zone (' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile).';
         bullishEl.style.display = 'block';
         bearishEl.style.display = 'none';
-      } else if (sig.text.includes('SELL') || sig.text.includes('KNIFE')) {
-        bearishTxt.innerHTML = sig.text;
+      } else if (sig.label.includes('SELL') || sig.label.includes('KNIFE') || sig.label.includes('TRAP')) {
+        bearishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> &mdash; Market overextended at ' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile. Profit taking & hedging recommended.';
         bearishEl.style.display = 'block';
         bullishEl.style.display = 'none';
       } else {
@@ -11199,7 +11205,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           (stats.pctChange >= 0 ? '+' : '') + stats.pctChange.toFixed(2) + '% vs prior day</div>'
           : '') +
         '</div>' +
-        '<div class="signal-badge ' + sig.cls + '">' + sig.text + '</div>' +
+        '<div class="stat-card sc-signal" style="min-width:160px; display:flex; flex-direction:column; justify-content:center; align-items:flex-start;">' +
+        '<div class="stat-label" data-tooltip="Marine Intelligence Signal for ' + prod.label + ' - synthesized from 5Y Percentile and Z-Score. Identifies capitulation vs. systemic overextension.">Trading Signal</div>' +
+        '<div style="margin-top:6px;"><span class="signal-badge ' + sig.cls + '">' + sig.text + '</span></div>' +
+        '</div>' +
         (stats ? (
           '<div class="stat-card sc-percentile" style="min-width:110px">' +
           '<div class="stat-label" data-tooltip="Cycle Maturity (5Y) for ' + prod.label + ' - ranks today\'s rate vs. the last 1,260 sessions. <20% is historically \'oversold\'; >80% is where maritime supply often hits resistance.">5Y Pctl</div>' +
