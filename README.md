@@ -57,13 +57,13 @@ All files use standard CSV formatting with date headers in `DD-MM-YYYY` format.
 
 | File Path | Target Index | Code | Start Date | Rows | Schema / Columns | Primary / Derived |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 04-01-1985 | ~10,491 | `Date, Index, % Change` | Primary (Validated Backfill + Scraped) |
-| [`data/indices/cape_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/panama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,301 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/suprama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,300 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/handysize_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/handysize_historical.csv) | Baltic Handysize Index | BHSI | 06-10-2008 | ~4,279 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/cleantanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cleantanker_historical.csv) | Baltic Clean Tanker | BCTI | 02-01-2008 | ~4,473 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/dirtytanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/dirtytanker_historical.csv) | Baltic Dirty Tanker | BDTI | 05-12-2007 | ~4,488 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 04-01-1985 | ~10,492 | `Date, Index, % Change` | Primary (Validated Backfill + Scraped) |
+| [`data/indices/cape_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/panama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/suprama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,311 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/handysize_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/handysize_historical.csv) | Baltic Handysize Index | BHSI | 06-10-2008 | ~4,290 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/cleantanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cleantanker_historical.csv) | Baltic Clean Tanker | BCTI | 02-01-2008 | ~4,484 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/dirtytanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/dirtytanker_historical.csv) | Baltic Dirty Tanker | BDTI | 05-12-2007 | ~4,499 | `Date, Index, % Change` | Primary (Scraped) |
 
 ### 2.2 Baltic Ticker API Series (`data/indices/`)
 
@@ -90,8 +90,8 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`lpg_spot_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lpg_spot_rates.csv) | LPG Spot Rates ($/day) from Fearnleys API | 2004-01-07 | ~1,152 | `date, vlgc_spot, mgc_spot` |
 | [`vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | S&P Secondhand 5Y/10Y Prices & Newbuilding Prices ($M) from Fearnleys | 1970-12-01 | ~20,499 | `date, category, tenor_type, vessel_class, valuation_usd_m` |
 | [`scrappage_prices.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/scrappage_prices.csv) | Demolition/scrap prices by country ($/LDT) from Hellenic OCR | 2022-09-03 | ~137 | `date, dry_india, dry_bangla, dry_pak, dry_turkey, tanker_india, tanker_bangla, tanker_pak, container_india` |
-| [`fearnleys_catalog.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_catalog.csv) | Catalog of all route metrics, subtypes, & counts available in Fearnleys Hasura API | — | ~307 | `id, unit, rate_type, rate_subtype, route, count, min_date, max_date` |
-| [`iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 2018-07-03 | ~1,234 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
+| [`fearnleys_catalog.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_catalog.csv) | Catalog of all route metrics, subtypes, & counts available in Fearnleys Hasura API | — | ~356 | `id, unit, rate_type, rate_subtype, route, count, min_date, max_date` |
+| [`iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 2018-07-03 | ~1,244 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
 
 > [!NOTE]
 > **Dual-Source TC Rates**: The merged file contains data from two brokers with a ~8% median divergence in the overlap period. The `source` column identifies the broker. The Fearnleys-only file provides a clean single-source reference for comparison. The dashboard offers a **Merged / Fearnleys / Both** toggle to visualize the divergence.
@@ -319,14 +319,12 @@ Raw PDFs and HTML roundups in `reports/` are compiled into structured markdown w
 flowchart LR
     PDF["Raw PDF/HTML in reports/"] --> Extract["Text & Table Extraction"]
     Extract --> Chain{"Enrichment Provider Chain"}
-    Chain -->|Primary| P1["Gemini API"]
-    P1 -->|Rate Limit / 429| P2["Local Ollama"]
-    P2 -->|Fallback| P3["NVIDIA NIM"]
-    P3 -->|Offline| P4["Regex Heuristics"]
-    P1 --> Write["Write Markdown, Chunks & Trees"]
+    Chain -->|Primary| P1["NVIDIA NIM (meta/llama-3.3-70b-instruct)"]
+    P1 -->|Rate Limit / Failover| P2["Local Ollama"]
+    P2 -->|Offline| P3["Deterministic Template Engine"]
+    P1 --> Write["Write JSON Briefs & manifest.json"]
     P2 --> Write
     P3 --> Write
-    P4 --> Write
 ```
 
 ### 5.2 Browser-Native 4-Stage Ranked RAG Engine
@@ -370,8 +368,8 @@ The repository maintains itself via 6 idempotent GitHub Actions workflows:
 Graph statistics extracted via `code-review-graph` MCP tools:
 
 ```
-Total Files Tracked: 18 Python Scripts
-Total Graph Nodes:   422 (18 Files, 404 Functions)
+Total Files Tracked: 22 Python Scripts
+Total Graph Nodes:   422 (22 Files, 404 Functions)
 Total Graph Edges:   5,774 (5,194 Calls, 404 Contains, 173 Imports, 3 References)
 ```
 
@@ -379,23 +377,27 @@ Total Graph Edges:   5,774 (5,194 Calls, 404 Contains, 173 Imports, 3 References
 
 | Script Name | Size | Functions | Primary Community / Role |
 | :--- | :--- | :--- | :--- |
-| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 150 KB | 127 | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. |
-| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 67.5 KB | 50 | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer. |
-| [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 49.3 KB | 28 | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
-| [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 32.7 KB | 23 | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
-| [`hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py) | 24.3 KB | 19 | Hellenic Shipping News report & weekly TC rate table scraper. |
-| [`update_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_indices.py) | 23.4 KB | 14 | StockQ freight indices & SGX FFA futures curve scraper. |
-| [`build_health_report.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_health_report.py) | 23.3 KB | 16 | Knowledge health, source cadence, and diagnostic report generator. |
-| [`build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) | 20.3 KB | 18 | Topic evidence scoring and automated markdown wiki page builder. |
-| [`breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py) | 18.4 KB | 17 | Breakwave Insights HTML commentary archive scraper. |
-| [`fetch_flows_shipping.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_flows_shipping.py) | 16.8 KB | 8 | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
-| [`breakwave_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_scraper.py) | 16.0 KB | 12 | Breakwave Advisors PDF biweekly report scraper. |
-| [`normalize_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/normalize_source_archives.py) | 14.8 KB | 15 | HTML archive standardizer and cleaner. |
-| [`update_etf_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_etf_holdings.py) | 12.7 KB | 9 | Amplify ETF holdings downloader and sorter. |
-| [`source_archive_utils_v2.py`](file:///c:/Users/Dell/Github/Shipping/scripts/source_archive_utils_v2.py) | 11.3 KB | 20 | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
-| [`baltic_new_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_new_indices.py) | 8.8 KB | 11 | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
-| [`check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) | 4.9 KB | 7 | Freshness monitoring utility. |
-| [`validate_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_source_archives.py) | 4.3 KB | 5 | Source archive format validator. |
+| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 147.8 KB | 127 | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. |
+| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 68.3 KB | 50 | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (NVIDIA NIM). |
+| [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 48.1 KB | 28 | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
+| [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 31.9 KB | 23 | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
+| [`update_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_indices.py) | 24.0 KB | 14 | StockQ freight indices & SGX FFA futures curve scraper. |
+| [`hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py) | 23.8 KB | 19 | Hellenic Shipping News report & weekly TC rate table scraper. |
+| [`build_health_report.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_health_report.py) | 22.8 KB | 16 | Knowledge health, source cadence, and diagnostic report generator. |
+| [`build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) | 19.8 KB | 18 | Topic evidence scoring and automated markdown wiki page builder. |
+| [`breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py) | 18.0 KB | 17 | Breakwave Insights HTML commentary archive scraper. |
+| [`fetch_flows_shipping.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_flows_shipping.py) | 16.4 KB | 8 | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
+| [`breakwave_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_scraper.py) | 15.7 KB | 12 | Breakwave Advisors PDF biweekly report scraper. |
+| [`normalize_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/normalize_source_archives.py) | 14.5 KB | 15 | HTML archive standardizer and cleaner. |
+| [`update_etf_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_etf_holdings.py) | 12.4 KB | 9 | Amplify ETF holdings downloader and sorter. |
+| [`source_archive_utils_v2.py`](file:///c:/Users/Dell/Github/Shipping/scripts/source_archive_utils_v2.py) | 11.0 KB | 20 | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
+| [`baltic_new_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_new_indices.py) | 8.6 KB | 11 | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
+| [`backfill_historical_data.py`](file:///c:/Users/Dell/Github/Shipping/scripts/backfill_historical_data.py) | 8.3 KB | 6 | Fearnleys Hasura GraphQL API historical rates backfill script. |
+| [`check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) | 4.8 KB | 7 | Freshness monitoring utility for Breakwave biweekly reports. |
+| [`check_data_health.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_data_health.py) | 4.8 KB | 5 | CSV time series health & date continuity checker. |
+| [`validate_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_source_archives.py) | 4.2 KB | 5 | Source archive format validator. |
+| [`fetch_fearnleys_tc.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_fearnleys_tc.py) | 3.6 KB | 4 | FearnleysHasura API time charter rate fetcher. |
+| [`append_daily_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/append_daily_holdings.py) | 2.2 KB | 3 | Daily ETF holdings appending utility (`bdry_holdings_history.csv` / `bwet_holdings_history.csv`). |
 | [`knowledge_hash.py`](file:///c:/Users/Dell/Github/Shipping/scripts/knowledge_hash.py) | 1.2 KB | 2 | Incremental hashing helper for knowledge builds. |
 
 ---
