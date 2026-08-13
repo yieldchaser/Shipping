@@ -2831,52 +2831,58 @@
     }
     /* Q&A */
     .qa-key-row { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; flex-wrap: wrap; }
-    .qa-key-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; white-space: nowrap; }
+    .qa-key-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; white-space: nowrap; font-weight: 600; }
     .qa-key-input {
-      flex: 1; min-width: 180px; background: var(--bg); border: 1px solid var(--border);
+      flex: 1; min-width: 180px; background: rgba(13, 17, 23, 0.7); border: 1px solid rgba(88, 166, 255, 0.16);
       color: var(--text); border-radius: 6px; padding: 7px 12px;
-      font-size: 12px; font-family: monospace;
+      font-size: 12px; font-family: monospace; transition: border-color 0.15s ease, box-shadow 0.15s ease;
     }
     .qa-provider-select {
-      min-width: 130px;
-      max-width: 180px;
+      min-width: 150px;
+      max-width: 200px;
       font-family: inherit;
+      background: rgba(13, 17, 23, 0.85);
     }
-    .qa-key-input:focus { outline: none; border-color: var(--accent); }
+    .qa-key-input:focus { outline: none; border-color: rgba(88, 166, 255, 0.4); box-shadow: 0 0 8px rgba(88, 166, 255, 0.12); }
     .qa-key-btn {
-      background: var(--hover); color: var(--text-muted); border: 1px solid var(--border);
-      border-radius: 6px; padding: 6px 14px; cursor: pointer; font-size: 12px;
+      background: rgba(22, 27, 34, 0.8); color: var(--text-muted); border: 1px solid rgba(88, 166, 255, 0.2);
+      border-radius: 6px; padding: 6px 14px; cursor: pointer; font-size: 12px; font-weight: 500;
+      transition: all 0.15s ease;
     }
-    .qa-key-btn:hover { border-color: var(--accent); color: var(--text); }
+    .qa-key-btn:hover { border-color: rgba(88, 166, 255, 0.45); color: var(--text); background: rgba(88, 166, 255, 0.1); }
     .qa-scope-row { display: flex; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
-    .qa-scope-lbl { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; }
-    .qa-scope-item { font-size: 12px; color: var(--text-muted); display: flex; align-items: center; gap: 4px; cursor: pointer; }
+    .qa-scope-lbl { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; font-weight: 600; }
+    .qa-scope-item { font-size: 12px; color: var(--text-muted); display: flex; align-items: center; gap: 4px; cursor: pointer; transition: color 0.15s ease; }
+    .qa-scope-item:hover { color: var(--text); }
     .qa-scope-item input { accent-color: var(--accent); cursor: pointer; }
     .qa-input-row { display: flex; gap: 8px; margin-bottom: 10px; }
     .qa-textarea {
-      flex: 1; background: var(--bg); border: 1px solid var(--border); color: var(--text);
+      flex: 1; background: rgba(13, 17, 23, 0.7); border: 1px solid rgba(88, 166, 255, 0.16); color: var(--text);
       border-radius: 6px; padding: 10px 12px; font-size: 13px; resize: vertical; min-height: 56px;
-      font-family: inherit; line-height: 1.5;
+      font-family: inherit; line-height: 1.5; transition: border-color 0.15s ease, box-shadow 0.15s ease;
     }
-    .qa-textarea:focus { outline: none; border-color: var(--accent); }
+    .qa-textarea:focus { outline: none; border-color: rgba(88, 166, 255, 0.4); box-shadow: 0 0 10px rgba(88, 166, 255, 0.15); }
     .qa-submit {
-      background: var(--accent); color: #fff; border: none; border-radius: 6px;
-      padding: 0 18px; cursor: pointer; font-size: 13px; font-weight: 600;
-      align-self: flex-end; height: 40px; white-space: nowrap;
+      background: linear-gradient(135deg, #1f6feb 0%, #238636 100%); color: #fff; border: 1px solid rgba(56, 139, 253, 0.4);
+      border-radius: 6px; padding: 0 20px; cursor: pointer; font-size: 13px; font-weight: 600;
+      align-self: flex-end; height: 40px; white-space: nowrap; box-shadow: 0 2px 10px rgba(31, 111, 235, 0.25);
+      transition: all 0.15s ease;
     }
-    .qa-submit:disabled { opacity: 0.4; cursor: not-allowed; }
-    .qa-submit:hover:not(:disabled) { filter: brightness(1.15); }
+    .qa-submit:disabled { opacity: 0.4; cursor: not-allowed; box-shadow: none; }
+    .qa-submit:hover:not(:disabled) { filter: brightness(1.15); box-shadow: 0 4px 14px rgba(31, 111, 235, 0.4); }
     .qa-result-panel {
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 8px; padding: 16px; margin-top: 10px;
+      background: rgba(13, 17, 23, 0.85); border: 1px solid rgba(88, 166, 255, 0.18);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35), 0 0 12px rgba(88, 166, 255, 0.05);
+      border-radius: 8px; padding: 18px; margin-top: 12px;
     }
-    .qa-status   { font-size: 11px; color: var(--text-muted); margin-bottom: 10px; text-transform: uppercase; letter-spacing: .4px; }
-    .qa-answer   { color: var(--text); font-size: 13px; line-height: 1.7; white-space: pre-wrap; }
-    .qa-cit-list { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 12px; }
+    .qa-status   { font-size: 11px; color: var(--text-muted); margin-bottom: 12px; text-transform: uppercase; letter-spacing: .5px; font-weight: 600; }
+    .qa-answer   { color: var(--text); font-size: 13.5px; line-height: 1.75; white-space: pre-wrap; }
+    .qa-cit-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(88, 166, 255, 0.1); }
     .qa-cit {
-      background: var(--hover); border: 1px solid var(--border); border-radius: 3px;
-      padding: 2px 8px; font-size: 10px; color: var(--text-muted);
+      background: rgba(22, 27, 34, 0.8); border: 1px solid rgba(88, 166, 255, 0.16); border-radius: 4px;
+      padding: 3px 9px; font-size: 10.5px; color: #8ba2c4; transition: all 0.15s ease;
     }
+    .qa-cit:hover { border-color: rgba(88, 166, 255, 0.4); color: #d0e4ff; }
     .intel-empty { text-align: center; padding: 2.5rem 1rem; color: var(--text-muted); font-size: 13px; }
     .intel-empty code { background: var(--hover); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
     .brief-meta-toggle { font-size: 10px; color: var(--accent); cursor: pointer; border: none; background: none; text-decoration: underline; opacity: .8; }
@@ -2893,18 +2899,18 @@
   </style>
 <style>
 
-  .sq-wrap { padding: 1.5rem 0; font-family: inherit; }
-  .sq-label { font-size: 12px; color: var(--text-muted); letter-spacing: 0.04em; text-transform: uppercase; margin-bottom: 12px; }
-  .sq-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
-  .sq-tab { padding: 6px 14px; font-size: 13px; font-weight: 500; border-radius: 999px; border: 0.5px solid var(--border); background: transparent; color: var(--text); cursor: pointer; transition: background 0.15s, border-color 0.15s; }
-  .sq-tab:hover { background: rgba(255,255,255,0.05); }
-  .sq-tab.active { background: rgba(255,255,255,0.05); border-color: var(--accent); }
+  .sq-wrap { padding: 1.5rem 0 0.5rem; font-family: inherit; }
+  .sq-label { font-size: 11.5px; color: var(--text-muted); letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 12px; font-weight: 600; }
+  .sq-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .sq-tab { padding: 6px 14px; font-size: 12.5px; font-weight: 500; border-radius: 999px; border: 1px solid rgba(88, 166, 255, 0.16); background: rgba(13, 17, 23, 0.6); color: var(--text-muted); cursor: pointer; transition: all 0.15s ease; }
+  .sq-tab:hover { background: rgba(88, 166, 255, 0.08); border-color: rgba(88, 166, 255, 0.3); color: var(--text); }
+  .sq-tab.active { background: rgba(88, 166, 255, 0.14); border-color: #58a6ff; color: #93c5fd; font-weight: 600; }
   .sq-panel { display: none; flex-wrap: wrap; gap: 8px; }
   .sq-panel.visible { display: flex; }
-  .sq-q { padding: 8px 14px; font-size: 13px; border-radius: 6px; border: 0.5px solid var(--border); background: transparent; color: var(--text); cursor: pointer; text-align: left; transition: background 0.12s, border-color 0.12s; max-width: 100%; }
-  .sq-q:hover { background: rgba(255,255,255,0.05); border-color: var(--border); }
-  .sq-divider { width: 100%; height: 0.5px; background: var(--border); margin: 16px 0; }
-  .sq-hint { font-size: 12px; color: var(--gray); margin-top: 10px; }
+  .sq-q { padding: 8px 14px; font-size: 12.5px; border-radius: 6px; border: 1px solid rgba(88, 166, 255, 0.14); background: rgba(22, 27, 34, 0.6); color: var(--text); cursor: pointer; text-align: left; transition: all 0.15s ease; max-width: 100%; line-height: 1.4; }
+  .sq-q:hover { background: rgba(88, 166, 255, 0.08); border-color: rgba(88, 166, 255, 0.35); color: #d0e4ff; transform: translateY(-1px); }
+  .sq-divider { width: 100%; height: 0.5px; background: rgba(88, 166, 255, 0.12); margin: 16px 0; }
+  .sq-hint { font-size: 11.5px; color: var(--gray); margin-top: 10px; }
 
 
   /* TOOLTIP SYSTEM */
@@ -6232,14 +6238,15 @@
           <div class="qa-key-row">
             <span class="qa-key-label">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
-              <option value="groq" selected>Groq</option>
-              <option value="openrouter">OpenRouter (free)</option>
+              <option value="groq" selected>Groq (Ultra Fast)</option>
+              <option value="gemini">Gemini (Google AI)</option>
+              <option value="openrouter">OpenRouter (Multi-Model)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
             <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
             <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
-            <input type="text" id="qaModel" class="qa-key-input" placeholder="openai/gpt-oss-120b" list="qaModelSuggestions" />
+            <input type="text" id="qaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="qaModelSuggestions" />
             <datalist id="qaModelSuggestions"></datalist>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
@@ -6255,72 +6262,65 @@
             <label class="qa-scope-item" style="border-left:1px solid var(--border);padding-left:8px;margin-left:4px;" data-tooltip="Search only wiki summaries for speed — skips daily reports and chunks."><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
           </div>
           <div class="qa-input-row">
-            <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is the current Capesize supply outlook through Q3 2026? What are analysts saying about iron ore demand?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runQAQuery()}"></textarea>
+            <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is today's confluence verdict across dry bulk and tanker markets? What are analysts saying about iron ore stockpiles?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runQAQuery()}"></textarea>
             <button id="qaSubmitBtn" class="qa-submit" onclick="runQAQuery()">Ask</button>
           </div>
           <div class="sq-wrap">
-  <p class="sq-label">Suggested questions</p>
+  <p class="sq-label">Suggested research queries</p>
   <div class="sq-tabs" id="tabs">
-    <button class="sq-tab active" data-cat="briefing">Daily briefing</button>
-    <button class="sq-tab" data-cat="signals">Market signals</button>
-    <button class="sq-tab" data-cat="supply">Supply & orderbooks</button>
-    <button class="sq-tab" data-cat="macro">Macro & cargo</button>
-    <button class="sq-tab" data-cat="trade">Trade ideas</button>
+    <button class="sq-tab active" data-cat="briefing">Daily Briefing</button>
+    <button class="sq-tab" data-cat="signals">Market Signals</button>
+    <button class="sq-tab" data-cat="supply">Fleet Supply</button>
+    <button class="sq-tab" data-cat="macro">Macro &amp; Cargo</button>
+    <button class="sq-tab" data-cat="trade">Trade Strategy</button>
   </div>
 
-  <div class="sq-panel" id="panel-briefing">
-    <button class="sq-q" onclick="sq('Summarize the latest Breakwave dry bulk report and flag any contradictions with the quantitative regime.')">Does the Breakwave dry bulk view match the quant signals?</button>
-    <button class="sq-q" onclick="sq('Summarize the latest Hellenic Shipping News update on tankers.')">Summarize the latest Hellenic tanker update</button>
-    <button class="sq-q" onclick="sq('What is the top bearish risk flagged in the latest Breakwave reports, and what data would confirm it?')">What is the biggest downside risk right now?</button>
-    <button class="sq-q" onclick="sq('What are the most critical risks or warnings flagged across all reports today?')">What are the top risks flagged today?</button>
-    <button class="sq-q" onclick="sq('What is the Baltic Exchange saying about the current spot momentum, and is it aligned with the Z-scores?')">Is Baltic spot momentum aligned with Z-scores?</button>
-    <button class="sq-q" onclick="sq('Have Breakwave and Baltic reports disagreed on market direction in the past week?')">Do Breakwave and Baltic agree this week?</button>
-    <button class="sq-q" onclick="sq('What is the most unexpected or contrarian data point in the latest analyst reports?')">What is the most contrarian signal?</button>
-    <button class="sq-q" onclick="sq('Which vessel class is showing the strongest fundamental support right now according to the reports?')">Which vessel has strongest fundamentals now?</button>
-    <button class="sq-q" onclick="sq('What is the most bullish catalyst mentioned for Capesize vessels in the latest reports?')">Most bullish Capesize catalyst this week?</button>
+  <div class="sq-panel visible" id="panel-briefing">
+    <button class="sq-q" onclick="sq('What is today\'s confluence verdict and executive positioning takeaway across dry bulk and tanker markets?')">Today's top trade &amp; confluence verdict</button>
+    <button class="sq-q" onclick="sq('What are the top downside risks and thesis invalidation triggers flagged in the latest reports?')">Biggest downside risks &amp; invalidation triggers</button>
+    <button class="sq-q" onclick="sq('Compare Breakwave analyst sentiment against Baltic spot rate momentum for dry bulk this week.')">Breakwave sentiment vs Baltic spot momentum</button>
+    <button class="sq-q" onclick="sq('Summarize the latest Hellenic Shipping News charter rates and vessel valuations update.')">Latest Hellenic charter rates &amp; valuations</button>
+    <button class="sq-q" onclick="sq('What are the key near-term catalysts (customs data, OPEC+ meetings, EIA prints) flagged across all reports?')">Key near-term macro catalysts</button>
+    <button class="sq-q" onclick="sq('What is the most contrarian or unexpected signal in the recent analyst reports?')">Most contrarian analyst signal</button>
   </div>
 
   <div class="sq-panel" id="panel-signals">
-    <button class="sq-q" onclick="sq('What is the current quantitative regime for dry bulk - Accumulation, Expansion, Distribution, or Contraction - and what does it mean?')">What regime is dry bulk in right now?</button>
-    <button class="sq-q" onclick="sq('What is the current quantitative regime for tankers?')">What regime is the tanker market in?</button>
-    <button class="sq-q" onclick="sq('Is the system flagging any Divergence signals right now, where analyst sentiment contradicts the quantitative data?')">Are there any Divergence signals active?</button>
-    <button class="sq-q" onclick="sq('Is there a divergence between analyst sentiment and quantitative Z-score signals right now? If so, which market (dry bulk or tanker) shows the strongest divergence?')">Biggest analyst-vs-quant divergence right now?</button>
-    <button class="sq-q" onclick="sq('Is there a Bull or Bear Confluence active? Which vessel class shows the strongest confluence and what is driving it?')">Which confluence signal is strongest right now?</button>
-    <button class="sq-q" onclick="sq('What does the current Z-Score for Capesize rates suggest about where we are in the market cycle?')">What is the Capesize Z-Score telling us?</button>
-    <button class="sq-q" onclick="sq('Compare the Z-scores and 60-day momentum (ROC) across Capesize, Panamax, Supramax, and Handysize. Which vessel class looks most overbought or oversold?')">Which vessel class is most overbought/oversold?</button>
-    <button class="sq-q" onclick="sq('Are dirty and clean tanker Z-scores aligned, or is there a divergence between the two that could present a relative-value opportunity?')">Clean vs dirty tanker divergence?</button>
+    <button class="sq-q" onclick="sq('What quantitative regime (Distribution, Expansion, Accumulation, Contraction) is dry bulk in, and what is the 60-day ROC?')">Dry bulk regime &amp; ROC60 momentum</button>
+    <button class="sq-q" onclick="sq('What quantitative regime is the tanker market in, and is dirty outperforming clean?')">Tanker regime &amp; clean vs dirty split</button>
+    <button class="sq-q" onclick="sq('What does the Capesize-Panamax spread (+2,799 pts) reveal about commodity demand patterns?')">Capesize–Panamax spread significance</button>
+    <button class="sq-q" onclick="sq('Which vessel class has the most extreme 252-day Z-score right now, and what does it imply?')">Most overbought / oversold vessel class</button>
+    <button class="sq-q" onclick="sq('Are there any active Divergence signals where quant momentum contradicts analyst fundamentals?')">Active Divergence signals check</button>
+    <button class="sq-q" onclick="sq('Explain how multi-factor confluence scoring is computed (50% fundamentals, 30% sentiment, 20% momentum).')">How confluence scoring is computed</button>
   </div>
 
   <div class="sq-panel" id="panel-supply">
-    <button class="sq-q" onclick="sq('What is the current state of the Capesize and Newcastlemax orderbook?')">What does the Capesize orderbook look like?</button>
-    <button class="sq-q" onclick="sq('Summarize the current Panamax and Supramax orderbook and fleet growth outlook.')">Summarize the Panamax and Supramax orderbook</button>
-    <button class="sq-q" onclick="sq('What is the current dry bulk orderbook-to-fleet ratio and is it bullish or bearish?')">Is the dry bulk orderbook-to-fleet ratio bullish?</button>
-    <button class="sq-q" onclick="sq('What is the current tanker orderbook situation across VLCC, Suezmax, and Aframax?')">What does the tanker orderbook look like?</button>
-    <button class="sq-q" onclick="sq('Are scrapping rates rising or falling, and what is driving the trend?')">Are scrapping rates rising or falling?</button>
-    <button class="sq-q" onclick="sq('How are environmental regulations (CII, EEXI) affecting effective fleet supply right now?')">How are CII/EEXI rules affecting fleet supply?</button>
+    <button class="sq-q" onclick="sq('What is the current Capesize and Newcastlemax orderbook-to-fleet ratio and delivery schedule?')">Capesize orderbook &amp; delivery schedule</button>
+    <button class="sq-q" onclick="sq('What is the VLCC and Suezmax orderbook status through 2027, and how tight is shipyard berth supply?')">Tanker orderbook &amp; shipyard berths</button>
+    <button class="sq-q" onclick="sq('What is the Panamax and Supramax fleet supply outlook and scrapping rate trend?')">Panamax / Supramax fleet growth &amp; scrapping</button>
+    <button class="sq-q" onclick="sq('How are environmental regulations (CII ratings, EEXI, EU ETS) affecting effective vessel speed and supply?')">CII / EEXI / EU ETS supply impacts</button>
+    <button class="sq-q" onclick="sq('Are demolition/scrapping prices rising or falling in Bangladesh, India, and Pakistan?')">Subcontinent ship demolition price trends</button>
+    <button class="sq-q" onclick="sq('What is the current global dry bulk fleet YoY growth rate, and is supply outpacing demand?')">Dry bulk fleet YoY supply vs demand balance</button>
   </div>
 
   <div class="sq-panel" id="panel-macro">
-    <button class="sq-q" onclick="sq('How are Chinese steel margins and iron ore inventory levels affecting Capesize freight rates?')">How is Chinese steel affecting Capesize rates?</button>
-    <button class="sq-q" onclick="sq('What is the latest read on coal and grain demand from the Atlantic basin?')">What is the Atlantic coal and grain outlook?</button>
-    <button class="sq-q" onclick="sq('How are OPEC+ production cuts affecting dirty tanker demand right now?')">How are OPEC+ cuts affecting dirty tankers?</button>
-    <button class="sq-q" onclick="sq('Is Red Sea rerouting still affecting effective vessel supply and spot rates?')">Is Red Sea rerouting still moving rates?</button>
-    <button class="sq-q" onclick="sq('How are refinery margins affecting clean tanker (CPP) demand right now?')">How are refinery margins affecting CPP demand?</button>
-    <button class="sq-q" onclick="sq('What is the current ton-mile demand outlook for dry bulk trades?')">What is the ton-mile outlook for dry bulk?</button>
+    <button class="sq-q" onclick="sq('How are Chinese steel production, mill profit margins, and iron ore port inventories affecting Capesize rates?')">Chinese steel margins &amp; iron ore demand</button>
+    <button class="sq-q" onclick="sq('What is the latest Atlantic basin coal and grain export flow outlook for Panamax and Supramax?')">Atlantic coal &amp; grain trade outlook</button>
+    <button class="sq-q" onclick="sq('How are Middle East geopolitical tensions, Strait of Hormuz risks, and Red Sea diversions impacting tanker ton-miles?')">Hormuz / Red Sea geopolitical ton-mile impacts</button>
+    <button class="sq-q" onclick="sq('What is the global crude demand and OPEC+ production quota outlook for dirty tankers?')">OPEC+ production &amp; dirty tanker demand</button>
+    <button class="sq-q" onclick="sq('How are refinery utilization rates and product export margins driving Clean Tanker (CPP) earnings?')">Refinery runs &amp; clean tanker demand</button>
+    <button class="sq-q" onclick="sq('What is the long-term ton-mile trajectory for bauxite and minor bulk trades from West Africa to China?')">West Africa bauxite &amp; minor bulk ton-miles</button>
   </div>
 
   <div class="sq-panel" id="panel-trade">
-    <button class="sq-q" onclick="sq('What are the main upside catalysts and downside risks for the BDI over the next 6-12 weeks? Which is more likely?')">BDI upside vs downside - what is the skew?</button>
-    <button class="sq-q" onclick="sq('Which vessel segment (Capesize, Panamax, Supramax, Handysize) has the most attractive risk-reward setup at current price levels?')">Best risk-reward vessel right now?</button>
-    <button class="sq-q" onclick="sq('What are the most likely macro catalysts that could trigger a regime flip in tankers? How many weeks away?')">What macro catalyst could break the tanker regime?</button>
-    <button class="sq-q" onclick="sq('What is the consensus 6-month outlook for the tanker market based on all available reports?')">What is the 6-month tanker consensus?</button>
-    <button class="sq-q" onclick="sq('Is the analyst consensus for tanker rates over the next 6 months supported by quantitative signals? Where is the biggest opportunity if they disagree?')">Is tanker analyst consensus backed by the quant data?</button>
-    <button class="sq-q" onclick="sq('What is the most contrarian data point in the knowledge base? Which position would this signal support?')">Most contrarian signal and what does it suggest?</button>
-    <button class="sq-q" onclick="sq('Based on current regimes and analyst views, is it better to be long dry bulk or tankers?')">Long dry bulk or long tankers right now?</button>
-    <button class="sq-q" onclick="sq('If you had to choose between long dry bulk or long tankers based on current regimes, confluence signals, and macro catalysts, which has better risk-reward?')">Dry bulk or tankers, where does the data point right now?</button>
+    <button class="sq-q" onclick="sq('What is the current relative-value trade between dry bulk (BDI) and dirty tankers (BDTI)?')">Dry Bulk vs Tankers relative-value skew</button>
+    <button class="sq-q" onclick="sq('Which vessel segment (Capesize, Panamax, Supramax, VLCC, Suezmax) offers the most asymmetric risk-reward today?')">Best risk-reward vessel segment today</button>
+    <button class="sq-q" onclick="sq('What specific catalyst or data print would trigger a long Capesize FFA position?')">Capesize FFA entry &amp; invalidation triggers</button>
+    <button class="sq-q" onclick="sq('What is the 3-6 month consensus outlook for VLCC Middle East-Asia (TD3C) TCE earnings?')">3-6 month VLCC TD3C earnings consensus</button>
+    <button class="sq-q" onclick="sq('If iron ore prices break below 2-year lows, how would that transmit to the Capesize-Panamax spread?')">Iron ore drop transmission to spread trades</button>
+    <button class="sq-q" onclick="sq('Based on current statistical percentiles and fundamental sentiment, what is the optimal multi-asset allocation?')">Optimal multi-asset freight allocation</button>
   </div>
 
-  <p class="sq-hint">Select a category above, then click any question to run it.</p>
+  <p class="sq-hint">Select a category above, then click any question to run it instantly with live grounding.</p>
 </div>
 
 <script>
@@ -17569,8 +17569,54 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      groq:       { label: 'Groq',             keyStorage: 'qa_key_groq',       modelStorage: 'qa_model_groq',       defaultModel: 'openai/gpt-oss-120b',     keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',  hasBaseUrl: false, maxContextTokens: 7000 },
-      openrouter: { label: 'OpenRouter (free)', keyStorage: 'qa_key_openrouter', modelStorage: 'qa_model_openrouter', defaultModel: 'openrouter/free',         keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',      hasBaseUrl: false, maxContextTokens: 50000 },
+      groq: {
+        label: 'Groq (Ultra Fast)',
+        keyStorage: 'qa_key_groq',
+        modelStorage: 'qa_model_groq',
+        defaultModel: 'llama-3.3-70b-versatile',
+        keyLabel: 'Groq Key',
+        keyPlaceholder: 'gsk_... (free at console.groq.com)',
+        hasBaseUrl: false,
+        maxContextTokens: 3800,
+        suggestions: [
+          'llama-3.3-70b-versatile',
+          'llama-3.1-8b-instant',
+          'deepseek-r1-distill-llama-70b',
+          'mixtral-8x7b-32768'
+        ]
+      },
+      gemini: {
+        label: 'Gemini (Google AI)',
+        keyStorage: 'qa_key_gemini',
+        modelStorage: 'qa_model_gemini',
+        defaultModel: 'gemini-2.0-flash',
+        keyLabel: 'Gemini Key',
+        keyPlaceholder: 'AIzaSy... (free at aistudio.google.com)',
+        hasBaseUrl: false,
+        maxContextTokens: 30000,
+        suggestions: [
+          'gemini-2.0-flash',
+          'gemini-1.5-flash',
+          'gemini-1.5-pro'
+        ]
+      },
+      openrouter: {
+        label: 'OpenRouter (Multi-Model)',
+        keyStorage: 'qa_key_openrouter',
+        modelStorage: 'qa_model_openrouter',
+        defaultModel: 'openrouter/free',
+        keyLabel: 'OpenRouter Key',
+        keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
+        hasBaseUrl: false,
+        maxContextTokens: 25000,
+        suggestions: [
+          'openrouter/free',
+          'google/gemini-2.0-flash-exp:free',
+          'meta-llama/llama-3.3-70b-instruct:free',
+          'deepseek/deepseek-r1:free',
+          'mistralai/mistral-small-24b-instruct-2501:free'
+        ]
+      }
     };
 
 
@@ -17579,13 +17625,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const cfg = { ...baseCfg };
       
       if (provider === 'openrouter') {
-        // Free models on OpenRouter range from 64k (llama-3.3-70b:free) to 128k+.
-        // Hard cap at 50k to guarantee safety regardless of which model is chosen.
-        cfg.maxContextTokens = 50000;
+        cfg.maxContextTokens = 25000;
+      } else if (provider === 'gemini') {
+        cfg.maxContextTokens = 30000;
       } else if (provider === 'groq') {
-        // Groq free tier has a strict 12,000 TPM limit.
-        // Hard-cap to 7000 to leave headroom for output and avoid instant 429s.
-        cfg.maxContextTokens = 7000;
+        cfg.maxContextTokens = 3800;
       }
       return cfg;
     }
@@ -17625,6 +17669,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const modelEl = document.getElementById('qaModel');
       const labelEl = document.getElementById('qaApiKeyLabel');
       const statusEl = document.getElementById('qaKeyStatus');
+      const datalistEl = document.getElementById('qaModelSuggestions');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
       if (keyEl) {
         keyEl.placeholder = cfg.keyPlaceholder;
@@ -17634,6 +17679,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         modelEl.value = _loadProviderModel(provider);
         modelEl.placeholder = cfg.defaultModel;
       }
+      if (datalistEl && cfg.suggestions) {
+        datalistEl.innerHTML = cfg.suggestions.map(m => `<option value="${m}">${m}</option>`).join('');
+      }
       if (statusEl) statusEl.textContent = '';
       // Update provider status dot
       const dotEl = document.getElementById('qaProviderStatus');
@@ -17642,7 +17690,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const hasModel = !!(_loadProviderModel(provider) || cfg.defaultModel);
         if (hasKey || cfg.keyOptional) {
           dotEl.style.background = hasModel ? 'var(--green)' : 'var(--yellow)';
-          dotEl.setAttribute('data-tooltip', hasModel ? 'Ready (' + provider + ')' : 'No model set');
+          dotEl.setAttribute('data-tooltip', hasModel ? 'Ready (' + cfg.label + ')' : 'No model set');
         } else {
           dotEl.style.background = 'var(--red)';
           dotEl.setAttribute('data-tooltip', 'API key required');
@@ -18026,6 +18074,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return data?.choices?.[0]?.message?.content || '(no response)';
       }
 
+      // ── Gemini ────────────────────────────────────────────────────────────
+      if (provider === 'gemini') {
+        const m = model || 'gemini-2.0-flash';
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(m)}:generateContent?key=${encodeURIComponent(apiKey)}`;
+        const res = await fetch(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: { temperature: 0.2, maxOutputTokens: 2048 }
+          })
+        });
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({}));
+          throw new Error(err?.error?.message || `Gemini HTTP ${res.status}`);
+        }
+        const data = await res.json();
+        const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '(no response)';
+        if (onToken) onToken(text);
+        return text;
+      }
+
       // ── OpenRouter ────────────────────────────────────────────────────────
       if (provider === 'openrouter') {
         const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
@@ -18060,8 +18130,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _buildFallbackOrder(primary) {
-      // Only Groq and OpenRouter support browser-native CORS — these are the only active providers.
-      const all = ['groq', 'openrouter'];
+      // Direct browser-CORS supported providers: Groq, Gemini, and OpenRouter
+      const all = ['groq', 'gemini', 'openrouter'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
@@ -18072,9 +18142,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Migrate stale localStorage values from previous provider configurations.
     function _migrateQALocalStorage() {
       const groqStored = localStorage.getItem('qa_model_groq') || '';
-      if (groqStored === 'llama-3.3-70b-versatile' || groqStored === 'qwen/qwen3.6-27b') {
-        console.log('[QA] Migrating stale Groq model', groqStored, '→ openai/gpt-oss-120b');
-        localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
+      if (!groqStored || groqStored === 'openai/gpt-oss-120b' || groqStored === 'qwen/qwen3.6-27b') {
+        console.log('[QA] Setting production Groq model → llama-3.3-70b-versatile');
+        localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
       }
     }
 
