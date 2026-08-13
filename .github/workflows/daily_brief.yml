@@ -14,7 +14,7 @@ on:
       llm_provider_order:
         description: 'LLM Provider Order'
         required: false
-        default: 'nim,groq,gemini,openrouter,ollama'
+        default: 'groq,nim,gemini,openrouter,ollama'
 
 permissions:
   contents: write
