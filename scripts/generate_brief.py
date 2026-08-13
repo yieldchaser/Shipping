@@ -1,12 +1,12 @@
 """
 Daily shipping market brief generator.
 
-Reads quantitative CSV data + recent Breakwave signals + wiki context and writes:
+Reads quantitative CSV data + recent Breakwave signals + Baltic roundups + wiki context and writes:
   knowledge/briefs/latest.json
   knowledge/briefs/YYYY-MM-DD.json
 
-LLM provider order: ollama -> nim.
-If all providers fail, a deterministic template brief is generated.
+LLM provider cascade: Groq -> Gemini -> NVIDIA NIM -> OpenRouter -> Ollama.
+If all providers fail, a deterministic mathematical template brief is generated.
 """
 from __future__ import annotations
 

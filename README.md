@@ -316,40 +316,45 @@ knowledge/
 └── derived/            # Extracted signals.jsonl, themes.jsonl, timelines.json
 ```
 
-### 5.1 Multi-LLM Ingestion Chain
+### 5.1 Multi-LLM Ingestion & Synthesis Cascade
 
-Raw PDFs and HTML roundups in `reports/` are compiled into structured markdown with automated provider failover:
+Raw PDFs and HTML roundups in `reports/` are compiled into structured markdown and synthesized into daily confluence briefs via an automated multi-provider failover chain:
 
 ```mermaid
 flowchart LR
     PDF["Raw PDF/HTML in reports/"] --> Extract["Text & Table Extraction"]
-    Extract --> Chain{"Enrichment Provider Chain"}
-    Chain -->|Primary| P1["NVIDIA NIM (meta/llama-3.3-70b-instruct)"]
-    P1 -->|Rate Limit / Failover| P2["Local Ollama"]
-    P2 -->|Offline| P3["Deterministic Template Engine"]
+    Extract --> Chain{"Synthesis Provider Cascade"}
+    Chain -->|Primary| P1["Groq (llama-3.3-70b-versatile)"]
+    P1 -->|Rate Limit / Failover| P2["Google Gemini (gemini-2.0-flash)"]
+    P2 -->|Failover| P3["NVIDIA NIM (meta/llama-3.3-70b-instruct)"]
+    P3 -->|Failover| P4["OpenRouter Auto-Router"]
+    P4 -->|Offline| P5["Deterministic Mathematical Engine"]
     P1 --> Write["Write JSON Briefs & manifest.json"]
     P2 --> Write
     P3 --> Write
+    P4 --> Write
+    P5 --> Write
 ```
 
-### 5.2 Browser-Native 4-Stage Ranked RAG Engine
+### 5.2 Browser-Native Advanced RAG & Deep Research Engine
 
-The dashboard features a **client-side RAG search engine** tuned specifically for shipping market analysis:
+The dashboard features a high-performance **client-side RAG search engine** tuned specifically for shipping market research:
 
 ```mermaid
 flowchart LR
-    A["1. Query Expansion<br/>(40+ Aliases)"] --> B["2. Inverted Index<br/>Candidate Discovery"]
-    B --> C["3. Date & Multi-Factor<br/>BM25 Re-Scoring"]
-    C --> D["4. Live Narrative Context<br/>& Client LLM Answer"]
+    A["1. Query Intent & Aliases<br/>(40+ Maritime Aliases)"] --> B["2. Inverted Index<br/>(BM25 Fast Filtering)"]
+    B --> C["3. Dynamic Context Sizing<br/>(Fast 3.8K vs Deep 32K)"]
+    C --> D["4. LLM Synthesis + Citations<br/>([DOC-N] + 🌐 Live Web Grounding)"]
 ```
 
-#### Key RAG Features:
-- **Suggested Questions UI**: Tabbed interface (Daily Briefing, Market Signals, Supply & Orderbooks, Macro & Cargo, Trade Ideas).
-- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) → inverted index candidate discovery → date-range pre-filtering → multi-factor BM25 (keywords $2\times$, section-title boost, recency $1.5\times$, source dedup) → optional LLM reranker.
-- **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative text.
-- **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section.
-- **Low-Confidence Warnings**: Surfaces "⚠ Limited context found" when BM25 score $< 0.5$ or $<3$ chunks match.
-- **Browser Q&A Fallback**: Groq (defaults to `openai/gpt-oss-120b`) and OpenRouter both supported natively.
+#### Key RAG & Q&A Features:
+- **Curated Institutional Questions**: 30 high-utility suggested questions across 5 core disciplines (Daily Briefing, Market Signals, Fleet Supply, Macro & Cargo, Trade Strategy).
+- **Multi-Tier Candidate Retrieval**: Dynamic loading across Recent (2026), Historical (2023–2025), and Deep Historical (2014–2022) archives + full domain wiki textbooks.
+- **Deep Research Mode (128K Context Scaling)**: Expands context from 12 passages up to **60 ranked passages (~32,000+ tokens)** for multi-year cycle analysis and structural macro cross-referencing.
+- **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini 2.0 Flash search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
+- **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
+- **Zero-Hallucination Citation Binding**: Strict inline `[DOC-N]` source tracing linking claims directly to source asset, publication date, and section title.
+- **Client-Side Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** (`llama-3.3-70b-versatile`, `llama-3.1-8b-instant`), **Google Gemini** (`gemini-2.0-flash`, `gemini-1.5-flash`, `gemini-1.5-pro`), and **OpenRouter**.
 
 ---
 
@@ -359,7 +364,7 @@ The repository maintains itself via 8 idempotent GitHub Actions workflows:
 
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
-| [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via NVIDIA NIM (`meta/llama-3.3-70b-instruct`) & updates `knowledge/briefs/manifest.json`. |
+| [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via Groq / Gemini / NVIDIA NIM cascade & updates `knowledge/briefs/manifest.json`. |
 | [`daily_update.yml`](file:///.github/workflows/daily_update.yml) | `30 10 * * *`<br>`0 14,19,22 * * *` | Scheduled / Dispatch | `python scripts/update_indices.py`<br>`python scripts/fetch_flows_shipping.py` | Scrapes Baltic indices, SGX futures, BDRY/BWET Playwright ETF fund flows. |
 | [`baltic_new_indices_update.yml`](file:///.github/workflows/baltic_new_indices_update.yml) | `30 10 * * 1-5`<br>`0 14,19,22 * * 1-5` | Mon–Fri Scheduled | `python scripts/baltic_new_indices.py` | Updates BLNG, BLPG, FBX, BAI from Baltic ticker API & validates CSV tails. |
 | [`etf_holdings_update.yml`](file:///.github/workflows/etf_holdings_update.yml) | `0 14 * * 1-5` | Mon–Fri 2 PM UTC | `python scripts/update_etf_holdings.py` | Downloads Amplify master CSV, sorts BDRY/BWET holdings by contract month. |
