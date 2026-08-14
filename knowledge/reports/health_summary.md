@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-08-14T11:33:44Z'
+generated_at: '2026-08-14T17:14:17Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 6
@@ -8,9 +8,9 @@ warning_count: 6
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8633
-- Chunks: 99816
-- Sections: 30578
+- Documents: 8637
+- Chunks: 99820
+- Sections: 30582
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -20,10 +20,10 @@ warning_count: 6
 |---|---|---:|---:|---|---:|---:|
 | breakwave/drybulk | 2026-08-04 | 10 | 14 | healthy | 14 | 0 |
 | breakwave/tankers | 2026-08-11 | 3 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-08-07 | 7 | 7 | healthy | 0 | 8 |
-| baltic/tanker | 2026-08-07 | 7 | 7 | healthy | 0 | 12 |
-| baltic/gas | 2026-08-07 | 7 | 7 | healthy | 0 | 0 |
-| baltic/container | 2026-08-07 | 7 | 7 | healthy | 0 | 0 |
+| baltic/dry | 2026-08-14 | 0 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-08-14 | 0 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-08-14 | 0 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-08-14 | 0 | 7 | healthy | 7 | 0 |
 | baltic/ningbo | 2026-08-14 | 0 | 7 | healthy | 7 | 32 |
 | breakwave_insights/insights | 2026-08-14 | 0 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-08-12 | 2 | 14 | healthy | 7 | 1 |
@@ -46,7 +46,7 @@ warning_count: 6
 | China Steel and Iron Ore | 2026-08-14 | 92 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Coal and Grain Flows | 2026-08-14 | 130 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-08-14 | 101 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| LNG and LPG Shipping | 2026-08-11 | 172 | 250 | baltic, hellenic | - | healthy |
+| LNG and LPG Shipping | 2026-08-14 | 172 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-08-14 | 195 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings

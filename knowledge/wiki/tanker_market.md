@@ -9,7 +9,7 @@ categories:
 - vessel_valuations
 document_count: 94
 evidence_count: 250
-generated_at: '2026-08-14T11:32:37Z'
+generated_at: '2026-08-14T17:13:09Z'
 latest_evidence_date: '2026-08-14'
 page_type: topic_wiki
 related_topics:
@@ -46,20 +46,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 168, hellenic: 66, baltic: 10, breakwave: 6
-- Category coverage: insights: 168, demolition: 34, shipbuilding: 12, tanker: 10, vessel_valuations: 10, tanker_charter: 10, tankers: 6
+- Source coverage: breakwave_insights: 167, hellenic: 66, baltic: 11, breakwave: 6
+- Category coverage: insights: 167, demolition: 34, shipbuilding: 12, tanker: 11, vessel_valuations: 10, tanker_charter: 10, tankers: 6
 - Tone distribution: constructive: 156, neutral: 56, cautiously_bearish: 32, neutral_sentiment: 4, cautious: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-08-14 | Oil retraces amid a stalemate in US-Iran talks [doc_id: breakwave_insights_insights_2026-08-14_2026_08_14_oil_retraces_amid_a_stalemate_in_us_iran_talks | section_id: breakwave_insights_insights_2026-08-14_2026_08_14_oil_retraces_amid_a_stalemate_in_us_iran_talks__s03_chart_of_the_day | pages n/a]
 - 2026-08-14 | A Temporary Soft Patch: Why Coal Demand Should Rebound in the Second Half [doc_id: breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half | section_id: breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__s02_seaborne_coal_volumes_remain_robust | pages n/a]
+- 2026-08-14 | Tanker report - Week 33 [doc_id: baltic_tanker_2026-08-14_2026_08_14_tanker_report_week_33_tanker | section_id: baltic_tanker_2026-08-14_2026_08_14_tanker_report_week_33_tanker__s01_main | pages n/a]
 - 2026-08-13 | The 2026 freight recovery [doc_id: breakwave_insights_insights_2026-08-13_2026_08_13_the_2026_freight_recovery | section_id: breakwave_insights_insights_2026-08-13_2026_08_13_the_2026_freight_recovery__s01_main | pages n/a]
 - 2026-08-13 | India's Dramatic Improvement Continues [doc_id: breakwave_insights_insights_2026-08-13_2026_08_13_indias_dramatic_improvement_continues | section_id: breakwave_insights_insights_2026-08-13_2026_08_13_indias_dramatic_improvement_continues__s03_linked_asset_2026_08_13_indias_dramatic_improvement_continues_img_chart2_6793495e3b8a_jpg | pages n/a]
 - 2026-08-12 | Sixth month into the war: what changes can we interpret from China? [doc_id: breakwave_insights_insights_2026-08-12_2026_08_12_sixth_month_into_the_war_what_changes_can_we_interpret_from_china | section_id: breakwave_insights_insights_2026-08-12_2026_08_12_sixth_month_into_the_war_what_changes_can_we_interpret_from_china__s04_next_to_watch_will_china_turn_back_to_its_middle_east_baseloads_via_the_normal_route | pages n/a]
 - 2026-08-12 | Weekly Tanker Time Charter Estimates, August 12 2026 [doc_id: hellenic_tanker_charter_2026-08-12_2026_08_12_weekly_tanker_time_charter_estimates_august_12_2026 | section_id: hellenic_tanker_charter_2026-08-12_2026_08_12_weekly_tanker_time_charter_estimates_august_12_2026__s02_linked_asset_2026_08_12_weekly_tanker_time_charter_estimates_august_12_2026_1313_57c2ac8e851a_jpg | pages n/a]
 - 2026-08-12 | Weekly Vessel Valuations Report, August 11 2026 [doc_id: hellenic_vessel_valuations_2026-08-12_2026_08_12_weekly_vessel_valuations_report_august_11_2026 | section_id: hellenic_vessel_valuations_2026-08-12_2026_08_12_weekly_vessel_valuations_report_august_11_2026__s01_main | pages n/a]
-- 2026-08-12 | Chinese port stocks rise further as steel demand softens [doc_id: breakwave_insights_insights_2026-08-12_2026_08_12_chinese_port_stocks_rise_further_as_steel_demand_softens | section_id: breakwave_insights_insights_2026-08-12_2026_08_12_chinese_port_stocks_rise_further_as_steel_demand_softens__s05_linked_asset_2026_08_12_chinese_port_stocks_rise_further_as_steel_demand_softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f075e0a607d_png | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

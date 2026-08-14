@@ -4,8 +4,8 @@ categories:
 - shipbuilding
 document_count: 172
 evidence_count: 250
-generated_at: '2026-08-14T11:32:37Z'
-latest_evidence_date: '2026-08-11'
+generated_at: '2026-08-14T17:13:09Z'
+latest_evidence_date: '2026-08-14'
 page_type: topic_wiki
 related_topics:
 - tanker_market
@@ -17,12 +17,13 @@ topic_id: lng_and_lpg_shipping
 ---
 
 ## Summary
-Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex. The current wiki page is grounded in 250 cited sections from 172 documents across baltic, hellenic. Recent evidence runs through 2026-08-11, with the strongest recurring markers being lng, lpg, gas, spot, term. Primary coverage comes from categories such as gas, shipbuilding.
+Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex. The current wiki page is grounded in 250 cited sections from 172 documents across baltic, hellenic. Recent evidence runs through 2026-08-14, with the strongest recurring markers being lng, lpg, gas, spot, term. Primary coverage comes from categories such as gas, shipbuilding.
 
 ## Why It Matters
 Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and vessel availability across the gas shipping complex.
 
 ## Recent Evidence
+- 2026-08-14 | baltic gas | Main: 14 Aug 2026 Gas report - Week 33 [doc_id: baltic_gas_2026-08-14_2026_08_14_gas_report_week_33_gas | section_id: baltic_gas_2026-08-14_2026_08_14_gas_report_week_33_gas__s01_main | pages n/a]
 - 2026-08-11 | hellenic shipbuilding | Linked asset: 2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf: Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-11_breakwave-tanker-report-8-11-2026_breakwavetankersaugust112026report_3c65c6e8e1c9.pdf [Page 1] Tanker Shipping Bi-Weekly Industry Report August 11, 2026 • East of Suez Risk Jumps - The geopolitical risk premium identified in late July Short-term Indicators remains embedded in East of Suez tanker freight, but the disruption has evolved Momentum: Neutral from a Hormuz centered issue into a broader Middle East routing risk spanning both the Gulf and Red Sea. Iran and Oman are nearing an agreement on new shipping Sentiment: Neutral arrangements through Hormuz, although Tehran has separated progress on the Fundamentals: Positive framework from a full reopening of the Strait. [doc_id: hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026 | section_id: hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__s02_linked_asset_2026_08_11_breakwave_tanker_report_8_11_2026_breakwavetankersaugust112026report_3c65c6e8e1c9_pdf | pages n/a]
 - 2026-08-07 | baltic gas | Main: 07 Aug 2026 Gas report - Week 32 [doc_id: baltic_gas_2026-08-07_2026_gas_report_week_32_gas | section_id: baltic_gas_2026-08-07_2026_gas_report_week_32_gas__s01_main | pages n/a]
 - 2026-08-07 | baltic gas | Main: 07 Aug 2026 Gas report - Week 32 [doc_id: baltic_gas_2026-08-07_2026_08_07_gas_report_week_32_gas | section_id: baltic_gas_2026-08-07_2026_08_07_gas_report_week_32_gas__s01_main | pages n/a]
@@ -30,20 +31,20 @@ Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and
 - 2026-08-04 | hellenic shipbuilding | Main: Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk market continues to trade at historically elevated levels with no Source: Breakwave Advisors [doc_id: hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026 | section_id: hellenic_shipbuilding_2026-08-04_2026_08_04_breakwave_dry_bulk_shipping_report_8_4_2026__s01_main | pages n/a]
 - 2026-07-31 | baltic gas | Main: 31 Jul 2026 Gas report - Week 31 [doc_id: baltic_gas_2026-07-31_2026_gas_report_week_31_gas | section_id: baltic_gas_2026-07-31_2026_gas_report_week_31_gas__s01_main | pages n/a]
 - 2026-07-31 | baltic gas | Main: 31 Jul 2026 Gas report - Week 31 [doc_id: baltic_gas_2026-07-31_2026_07_31_gas_report_week_31_gas | section_id: baltic_gas_2026-07-31_2026_07_31_gas_report_week_31_gas__s01_main | pages n/a]
-- 2026-07-24 | baltic gas | Main: 24 Jul 2026 Gas report - Week 30 [doc_id: baltic_gas_2026-07-24_2026_gas_report_week_30_gas | section_id: baltic_gas_2026-07-24_2026_gas_report_week_30_gas__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-02-25 to 2026-08-11 across 2 calendar years.
-- Most-covered years: 2025: 152, 2026: 98
+- Coverage span: 2025-02-28 to 2026-08-14 across 2 calendar years.
+- Most-covered years: 2025: 151, 2026: 99
 - Recurring evidence markers: lng, lpg, gas, spot, term, atlantic
 
 ## Cross-Source View
-- Source coverage: baltic: 144, hellenic: 106
-- Category coverage: gas: 144, shipbuilding: 106
-- Tone distribution: constructive: 124, neutral: 68, cautiously_bearish: 58
+- Source coverage: baltic: 145, hellenic: 105
+- Category coverage: gas: 145, shipbuilding: 105
+- Tone distribution: constructive: 123, neutral: 69, cautiously_bearish: 58
 - Related topics: tanker_market
 
 ## Key Documents
+- 2026-08-14 | Gas report - Week 33 [doc_id: baltic_gas_2026-08-14_2026_08_14_gas_report_week_33_gas | section_id: baltic_gas_2026-08-14_2026_08_14_gas_report_week_33_gas__s01_main | pages n/a]
 - 2026-08-11 | Breakwave Tanker Report 8.11.2026 [doc_id: hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026 | section_id: hellenic_shipbuilding_2026-08-11_2026_08_11_breakwave_tanker_report_8_11_2026__s02_linked_asset_2026_08_11_breakwave_tanker_report_8_11_2026_breakwavetankersaugust112026report_3c65c6e8e1c9_pdf | pages n/a]
 - 2026-08-07 | Gas report - Week 32 [doc_id: baltic_gas_2026-08-07_2026_gas_report_week_32_gas | section_id: baltic_gas_2026-08-07_2026_gas_report_week_32_gas__s01_main | pages n/a]
 - 2026-08-07 | Gas report - Week 32 [doc_id: baltic_gas_2026-08-07_2026_08_07_gas_report_week_32_gas | section_id: baltic_gas_2026-08-07_2026_08_07_gas_report_week_32_gas__s01_main | pages n/a]
@@ -51,7 +52,6 @@ Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and
 - 2026-07-31 | Gas report - Week 31 [doc_id: baltic_gas_2026-07-31_2026_gas_report_week_31_gas | section_id: baltic_gas_2026-07-31_2026_gas_report_week_31_gas__s01_main | pages n/a]
 - 2026-07-31 | Gas report - Week 31 [doc_id: baltic_gas_2026-07-31_2026_07_31_gas_report_week_31_gas | section_id: baltic_gas_2026-07-31_2026_07_31_gas_report_week_31_gas__s01_main | pages n/a]
 - 2026-07-24 | Gas report - Week 30 [doc_id: baltic_gas_2026-07-24_2026_gas_report_week_30_gas | section_id: baltic_gas_2026-07-24_2026_gas_report_week_30_gas__s01_main | pages n/a]
-- 2026-07-24 | Gas report - Week 30 [doc_id: baltic_gas_2026-07-24_2026_07_24_gas_report_week_30_gas | section_id: baltic_gas_2026-07-24_2026_07_24_gas_report_week_30_gas__s01_main | pages n/a]
 
 ## Related Topics
 - tanker_market

@@ -6,7 +6,7 @@ categories:
 - iron_ore
 document_count: 92
 evidence_count: 250
-generated_at: '2026-08-14T11:32:37Z'
+generated_at: '2026-08-14T17:13:09Z'
 latest_evidence_date: '2026-08-14'
 page_type: topic_wiki
 related_topics:

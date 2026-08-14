@@ -10,7 +10,7 @@ categories:
 - vessel_valuations
 document_count: 91
 evidence_count: 250
-generated_at: '2026-08-14T11:32:37Z'
+generated_at: '2026-08-14T17:13:09Z'
 latest_evidence_date: '2026-08-14'
 page_type: topic_wiki
 related_topics:
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, capesize, australia, dry bulk
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 132, hellenic: 108, baltic: 6, breakwave: 4
-- Category coverage: insights: 132, iron_ore: 55, demolition: 27, shipbuilding: 10, vessel_valuations: 8, dry_charter: 8, dry: 6, drybulk: 4
-- Tone distribution: constructive: 147, neutral: 65, cautiously_bearish: 38
+- Source coverage: breakwave_insights: 131, hellenic: 108, baltic: 7, breakwave: 4
+- Category coverage: insights: 131, iron_ore: 55, demolition: 27, shipbuilding: 10, vessel_valuations: 8, dry_charter: 8, dry: 7, drybulk: 4
+- Tone distribution: constructive: 146, neutral: 66, cautiously_bearish: 38
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-08-14 | Oil retraces amid a stalemate in US-Iran talks [doc_id: breakwave_insights_insights_2026-08-14_2026_08_14_oil_retraces_amid_a_stalemate_in_us_iran_talks | section_id: breakwave_insights_insights_2026-08-14_2026_08_14_oil_retraces_amid_a_stalemate_in_us_iran_talks__s04_linked_asset_2026_08_14_oil_retraces_amid_a_stalemate_in_us_iran_talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_903f6de6c711_png | pages n/a]
 - 2026-08-14 | A Temporary Soft Patch: Why Coal Demand Should Rebound in the Second Half [doc_id: breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half | section_id: breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__s02_seaborne_coal_volumes_remain_robust | pages n/a]
+- 2026-08-14 | Bulk report - Week 33 [doc_id: baltic_dry_2026-08-14_2026_08_14_bulk_report_week_33_dry | section_id: baltic_dry_2026-08-14_2026_08_14_bulk_report_week_33_dry__s01_main | pages n/a]
 - 2026-08-13 | The 2026 freight recovery [doc_id: breakwave_insights_insights_2026-08-13_2026_08_13_the_2026_freight_recovery | section_id: breakwave_insights_insights_2026-08-13_2026_08_13_the_2026_freight_recovery__s01_main | pages n/a]
 - 2026-08-13 | MMI Daily Iron Ore Index Report August 13 2026 [doc_id: hellenic_iron_ore_2026-08-13_2026_08_13_mmi_daily_iron_ore_index_report_august_13_2026 | section_id: hellenic_iron_ore_2026-08-13_2026_08_13_mmi_daily_iron_ore_index_report_august_13_2026__s03_linked_asset_2026_08_13_mmi_daily_iron_ore_index_report_august_13_2026_mmi_daily_iron_ore_report_for_13th_a_6205f0c6ed41_pdf | pages n/a]
 - 2026-08-13 | India's Dramatic Improvement Continues [doc_id: breakwave_insights_insights_2026-08-13_2026_08_13_indias_dramatic_improvement_continues | section_id: breakwave_insights_insights_2026-08-13_2026_08_13_indias_dramatic_improvement_continues__s03_linked_asset_2026_08_13_indias_dramatic_improvement_continues_img_chart2_6793495e3b8a_jpg | pages n/a]
 - 2026-08-12 | Weekly Dry Time Charter Estimates, August 12 2026 [doc_id: hellenic_dry_charter_2026-08-12_2026_08_12_weekly_dry_time_charter_estimates_august_12_2026 | section_id: hellenic_dry_charter_2026-08-12_2026_08_12_weekly_dry_time_charter_estimates_august_12_2026__s02_linked_asset_2026_08_12_weekly_dry_time_charter_estimates_august_12_2026_1212_ef9f6ab01ea3_jpg | pages n/a]
 - 2026-08-12 | Weekly Vessel Valuations Report, August 11 2026 [doc_id: hellenic_vessel_valuations_2026-08-12_2026_08_12_weekly_vessel_valuations_report_august_11_2026 | section_id: hellenic_vessel_valuations_2026-08-12_2026_08_12_weekly_vessel_valuations_report_august_11_2026__s01_main | pages n/a]
-- 2026-08-12 | Chinese port stocks rise further as steel demand softens [doc_id: breakwave_insights_insights_2026-08-12_2026_08_12_chinese_port_stocks_rise_further_as_steel_demand_softens | section_id: breakwave_insights_insights_2026-08-12_2026_08_12_chinese_port_stocks_rise_further_as_steel_demand_softens__s02_market_continues_to_be_shaped_by_slower_ore_demand_but_stronger_tonne_miles | pages n/a]
 
 ## Related Topics
 - capesize
