@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__root",
+  "doc_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half",
+  "parent_id": null,
+  "title": "A Temporary Soft Patch: Why Coal Demand Should Rebound in the Second Half",
+  "section_path": [
+    "A Temporary Soft Patch: Why Coal Demand Should Rebound in the Second Half"
+  ],
+  "section_path_text": "A Temporary Soft Patch: Why Coal Demand Should Rebound in the Second Half",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nFollowing a substantial retreat in June, coal prices have traded well below recent peaks over the past month and a half. However, the benchmark futures for the Asian and European markets have traded along different paths during the period. The front-month futures for delivery in the port of Newcastle recovered some of June's losses during July but have since given them up and are trading a few per cent above the levels seen six weeks ago.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "crude_oil",
+    "gas",
+    "per",
+    "cent",
+    "seaborne",
+    "month"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1425,
+  "source_path": "reports/breakwave/2026/2026-08-14_a-temporary-soft-patch-why-coal-demand-should-rebound-in-the-second-half.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/14/a-temporary-soft-patch-why-coal-demand-should-rebound-in-the-second-half",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half",
+      "parent_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nFollowing a substantial retreat in June, coal prices have traded well below recent peaks over the past month and a half. However, the benchmark futures for the Asian and European markets have traded along different paths during the period.",
+      "keywords": [
+        "australia",
+        "europe",
+        "coal",
+        "crude_oil",
+        "cent",
+        "per",
+        "are",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__s02_seaborne_coal_volumes_remain_robust",
+      "doc_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half",
+      "parent_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__root",
+      "title": "Seaborne Coal Volumes Remain Robust",
+      "section_path": [
+        "Seaborne Coal Volumes Remain Robust"
+      ],
+      "section_path_text": "Seaborne Coal Volumes Remain Robust",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Global seaborne coal exports were broadly in line with recent years' volumes over the past month. According to data from Signal Ocean, 117 million tonnes of the fossil fuel were dispatched in July.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "japan",
+        "coal",
+        "crude_oil",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 620,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__s03_seasonal_recovery_should_provide_further_support_for_volumes",
+      "doc_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half",
+      "parent_id": "breakwave_insights_insights_2026-08-14_2026_08_14_a_temporary_soft_patch_why_coal_demand_should_rebound_in_the_second_half__root",
+      "title": "Seasonal Recovery Should Provide Further Support for Volumes",
+      "section_path": [
+        "Seasonal Recovery Should Provide Further Support for Volumes"
+      ],
+      "section_path_text": "Seasonal Recovery Should Provide Further Support for Volumes",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As highlighted in a previous Insights piece from Ocean Analytics, coal volumes typically increase during the second half of the year compared to the first six months. Still, the suggestion of softer Chinese and Indian demand for seaborne coal imports over the past month may give some pause for thought.",
+      "keywords": [
+        "china",
+        "india",
+        "coal",
+        "crude_oil",
+        "gas",
+        "demand",
+        "higher",
+        "seaborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 537,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
