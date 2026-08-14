@@ -4428,7 +4428,8 @@
 
       // 2. Query stored daily holdings history CSVs (DATA.bwetHoldingsHistory / DATA.bdryHoldingsHistory)
       if (!history.length) {
-        var rawHistoryList = _deconstETFKey === 'bdry' ? (DATA.bdryHoldingsHistory || []) : (DATA.bwetHoldingsHistory || []);
+        var dataObj = (typeof DATA !== 'undefined' && DATA) ? DATA : ((typeof window !== 'undefined' && window.DATA) ? window.DATA : {});
+        var rawHistoryList = _deconstETFKey === 'bdry' ? (dataObj.bdryHoldingsHistory || []) : (dataObj.bwetHoldingsHistory || []);
         var targetClean = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
         var targetMonthMatch = targetClean.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
         var targetMonthStr = targetMonthMatch ? (targetMonthMatch[1].toLowerCase() + ' ' + targetMonthMatch[2]) : '';
@@ -4519,7 +4520,6 @@
               '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--text);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
             '</div>';
         }
-        renderETFDeconstructionEngine();
         panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         return;
       }
@@ -4614,7 +4614,6 @@
         }
       });
 
-      renderETFDeconstructionEngine();
       panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
     window.toggleDeconstContractHistory = toggleDeconstContractHistory;
@@ -4728,14 +4727,31 @@
 
       getActualHoldings: function(etfKey, targetDateStr) {
         var _DATA = window.DATA || (typeof DATA !== 'undefined' ? DATA : null);
-        if (!_DATA) return [];
         var isBdry = (etfKey === 'bdry');
-        var rawList = isBdry ? _DATA.bdryHoldings : _DATA.bwetHoldings;
-        if (targetDateStr) {
+        var rawList = _DATA ? (isBdry ? _DATA.bdryHoldings : _DATA.bwetHoldings) : null;
+        if (targetDateStr && _DATA) {
           var histList = isBdry ? (_DATA.bdryHoldingsHistory || []) : (_DATA.bwetHoldingsHistory || []);
           if (histList.length > 0) {
             var sub = histList.filter(function(r) { return (r.date || r.Date) === targetDateStr; });
             if (sub.length > 0) rawList = sub;
+          }
+        }
+        if ((!rawList || rawList.length === 0) && typeof window !== 'undefined' && window.SCENARIO_SNAPSHOTS && window.SCENARIO_SNAPSHOTS[etfKey]) {
+          var snap = window.SCENARIO_SNAPSHOTS[etfKey];
+          if (snap && Array.isArray(snap.positions)) {
+            rawList = snap.positions.map(function(p) {
+              return {
+                Name: p.contract_name,
+                Ticker: p.ticker,
+                CUSIP: p.cusip,
+                Shares: p.lots,
+                Price: p.price,
+                MarketValue: p.position_notional || (p.lots * p.price * p.multiplier),
+                Multiplier: p.multiplier,
+                Unit: p.multiplier_unit,
+                RouteClass: p.route_class
+              };
+            });
           }
         }
         return this.normalizeHoldings(rawList || [], etfKey);
@@ -4918,8 +4934,20 @@
             heldPnl: heldPnl,
             rollPct: Math.min(100, Math.round((t / (dates.length - 1)) * 100)),
             contracts: curFut.map(function(f) {
+              var prevContract = (prevFut && prevFut.length) ? prevFut.find(function(pf) { return pf.contract_id === f.contract_id; }) : null;
+              var shockRatio = (prevContract && prevContract.mark > 0) ? (f.mark - prevContract.mark) / prevContract.mark : 0;
+              var weightPct = curFutNotional > 0 ? (f.disclosed_market_value / curFutNotional) * 100 : 0;
+              var dollarImpact = p_sim * (weightPct / 100) * shockRatio;
+              var normClass = (f.route_class || '').toLowerCase();
+              if (normClass.includes('cape')) normClass = 'cape';
+              else if (normClass.includes('pana')) normClass = 'pana';
+              else if (normClass.includes('supra')) normClass = 'supra';
+              else if (normClass.includes('vlcc') || normClass.includes('td3c')) normClass = 'vlcc';
+              else if (normClass.includes('suez') || normClass.includes('td20')) normClass = 'suez';
+              else normClass = isBdry ? 'cape' : 'vlcc';
+
               return {
-                class: f.route_class,
+                class: normClass,
                 contract_id: f.contract_id,
                 name: f.name,
                 fullName: f.fullName,
@@ -4930,7 +4958,8 @@
                 multiplier: f.multiplier,
                 unit: f.unit,
                 notional: f.disclosed_market_value,
-                weight: curFutNotional > 0 ? (f.disclosed_market_value / curFutNotional) * 100 : 0
+                dollarImpact: dollarImpact,
+                weight: weightPct
               };
             }),
             attribution: {
@@ -5729,7 +5758,12 @@
           }
 
           html += '<tr class="deconst-holding-row" style="border-bottom:1px solid var(--border);font-size:11px;">' +
-            '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';">' + h.Name + legTag + '</td>' +
+            '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" title="Click to view historical price settlement chart for ' + h.Name + '">' +
+              '<span style="display:inline-flex;align-items:center;gap:5px;">' +
+                '<span>' + h.Name + '</span>' + legTag +
+                '<span style="font-size:10px;opacity:0.8;padding:1px 4px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);">chart ↗</span>' +
+              '</span>' +
+            '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-size:10px;color:var(--text-muted);">' + h.disclosedLots.toFixed(1) + '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + lotColHtml + '</td>' +
             '<td style="padding:6px 8px;text-align:right;font-size:10px;color:var(--text-muted);">' + multStr + '</td>' +
@@ -7087,7 +7121,13 @@
           var dollarAbs = Math.abs(c.dollarImpact).toFixed(2);
 
           html += '<tr class="' + tickClass + '">' +
-            '<td><strong style="color:var(--text);">' + c.name + '</strong> ' + (c.isPrompt ? '<span style="font-size:9px;color:#e3b341;border:1px solid rgba(227,179,65,0.4);border-radius:2px;padding:1px 3px;">PROMPT</span>' : '<span style="font-size:9px;color:#58a6ff;border:1px solid rgba(88,166,255,0.4);border-radius:2px;padding:1px 3px;">NEXT-Q</span>') + '</td>' +
+            '<td style="cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + (c.class || 'cape') + '\', \'' + c.name.replace(/'/g, "\\'") + '\', ' + idx + ')" title="Click to view historical price settlement chart for ' + c.name + '">' +
+              '<span style="display:inline-flex;align-items:center;gap:5px;">' +
+                '<strong style="color:var(--text);">' + c.name + '</strong> ' + 
+                (c.isPrompt ? '<span style="font-size:9px;color:#e3b341;border:1px solid rgba(227,179,65,0.4);border-radius:2px;padding:1px 3px;">PROMPT</span>' : '<span style="font-size:9px;color:#58a6ff;border:1px solid rgba(88,166,255,0.4);border-radius:2px;padding:1px 3px;">NEXT-Q</span>') +
+                '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);">chart ↗</span>' +
+              '</span>' +
+            '</td>' +
             '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">$' + c.settleRate.toLocaleString() + '</td>' +
             '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);">$' + Math.round(c.simRate).toLocaleString() + '</td>' +
             '<td style="text-align:center;">' +
