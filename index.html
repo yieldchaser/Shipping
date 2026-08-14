@@ -5251,6 +5251,24 @@
         };
       }
 
+      function normalizeRouteClass(cls, name, ticker) {
+        var c = (cls || '').toLowerCase();
+        if (c.includes('cape')) return 'cape';
+        if (c.includes('pana')) return 'pana';
+        if (c.includes('supra')) return 'supra';
+        if (c.includes('vlcc') || c.includes('td3c')) return 'vlcc';
+        if (c.includes('suez') || c.includes('td20')) return 'suez';
+        
+        var n = (name || '').toLowerCase();
+        var t = (ticker || '').toLowerCase();
+        if (n.includes('capesize') || n.includes('cape') || t.includes('c5tcm')) return 'cape';
+        if (n.includes('panamax') || n.includes('pana') || t.includes('p5tcm')) return 'pana';
+        if (n.includes('supramax') || n.includes('supra') || t.includes('s58fm')) return 'supra';
+        if (n.includes('td3c') || n.includes('vlcc') || t.includes('dd3cm')) return 'vlcc';
+        if (n.includes('td20') || n.includes('suez') || t.includes('dd20m')) return 'suez';
+        return (etfKey === 'bdry') ? 'cape' : 'vlcc';
+      }
+
       var totNotional = 0;
       var holdingsOut = [];
 
@@ -5267,7 +5285,7 @@
         var notional = effectiveLots * p.price * mult;
         totNotional += notional;
 
-        var rClass = p.route_class || 'cape';
+        var rClass = normalizeRouteClass(p.route_class, p.contract_name, p.ticker);
 
         holdingsOut.push({
           Name: p.contract_name,
@@ -5299,7 +5317,7 @@
           var notional = lots * startMark * mult;
           totNotional += notional;
 
-          var rClass = leg.route_class || (etfKey === 'bdry' ? 'cape' : 'vlcc');
+          var rClass = normalizeRouteClass(leg.route_class, leg.contract_name, leg.ticker);
           holdingsOut.push({
             Name: leg.contract_name,
             fullName: leg.contract_name,
@@ -5949,17 +5967,18 @@
         if (isClassMode) {
           if (badgeEl) badgeEl.style.display = 'none';
           // Aggregate by vessel class for a clean 2-3 slice breakdown
-          var classMap = {};
-          pred.holdings.forEach(function(h, idx) {
-            classMap[h.class] = (classMap[h.class] || 0) + h.weight;
+          var classMap = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+          pred.holdings.forEach(function(h) {
+            var c = h.class || 'cape';
+            classMap[c] = (classMap[c] || 0) + (h.weight || 0);
           });
           if (_deconstETFKey === 'bdry') {
             labels = ['Capesize 5TC', 'Panamax 5TC', 'Supramax 10TC'];
-            weights = [classMap.cape || 0, classMap.pana || 0, classMap.supra || 0];
+            weights = [Number(classMap.cape.toFixed(1)), Number(classMap.pana.toFixed(1)), Number(classMap.supra.toFixed(1))];
             colors = ['#58a6ff', '#3fb950', '#d29922'];
           } else {
             labels = ['VLCC TD3C (MEG-China)', 'Suezmax TD20 (WAF-Cont)'];
-            weights = [classMap.vlcc || 0, classMap.suez || 0];
+            weights = [Number(classMap.vlcc.toFixed(1)), Number(classMap.suez.toFixed(1))];
             colors = ['#f0883e', '#a371f7'];
           }
         } else {
@@ -5972,7 +5991,7 @@
             }
           }
 
-          // Sort holdings by vessel class first, then chronologically by contract month (Aug 27 -> Sep 27 -> Oct 27 -> Nov 27)
+          // Sort holdings by vessel class first, then chronologically by contract month (Aug 26 -> Sep 26 -> Oct 26 -> Nov 26)
           var sortedHoldings = pred.holdings.slice().sort(function(a, b) {
             var order = { cape: 1, pana: 2, supra: 3, vlcc: 1, suez: 2 };
             var oa = order[a.class] || 9;
@@ -5982,22 +6001,28 @@
           });
 
           labels = sortedHoldings.map(function(h) {
-            return h.Name.replace(/Capesize 5TC FFA 180kt|Panamax 5TC FFA 82kt|Supramax 58 TC FFA 58kt|TD3C FFA 270kt MEG-China|TD20 FFA 130kt WAF-Cont/g, '').trim();
+            var prefix = (h.class === 'cape' ? 'Cape' : (h.class === 'pana' ? 'Pana' : (h.class === 'supra' ? 'Supra' : (h.class === 'vlcc' ? 'VLCC' : 'Suez'))));
+            var mMatch = (h.Name || '').match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{2})/i);
+            if (mMatch) {
+              return prefix + ' ' + mMatch[1] + ' ' + mMatch[2];
+            }
+            return (h.Name || '').replace(/Capesize 5TC FFA 180kt Timecharter Average|Panamax 5TC FFA 82kt Timecharter Average|Supramax 58 TC FFA 58kt Timecharter Average|TD3C FFA 270kt Middle East Gulf to China USD\/MT|TD20 FFA 130kt West Africa to Continent USD\/MT/gi, '').replace(/Timecharter Average/gi, '').replace(/\s+/g, ' ').trim();
           });
-          weights = sortedHoldings.map(function(h) { return h.weight; });
+          weights = sortedHoldings.map(function(h) { return Number((h.weight || 0).toFixed(1)); });
 
           var classColorFamilies = {
-            cape: ['#38bdf8', '#0284c7', '#0369a1', '#1e3a8a', '#7dd3fc'],
-            pana: ['#4ade80', '#22c55e', '#15803d', '#14532d', '#86efac'],
-            supra: ['#facc15', '#eab308', '#a16207', '#713f12', '#fef08a'],
-            vlcc: ['#fb923c', '#ea580c', '#c2410c', '#7c2d12', '#fed7aa'],
-            suez: ['#c084fc', '#9333ea', '#6b21a8', '#4c1d95', '#e9d5ff']
+            cape: ['#38bdf8', '#0284c7', '#0369a1', '#2563eb', '#60a5fa', '#93c5fd', '#bfdbfe'],
+            pana: ['#4ade80', '#22c55e', '#16a34a', '#15803d', '#86efac', '#bbf7d0', '#dcfce7'],
+            supra: ['#facc15', '#eab308', '#ca8a04', '#a16207', '#fde047', '#fef08a', '#fef9c3'],
+            vlcc: ['#fb923c', '#ea580c', '#c2410c', '#9a3412', '#fdba74', '#fed7aa', '#ffedd5'],
+            suez: ['#c084fc', '#9333ea', '#7e22ce', '#6b21a8', '#d8b4fe', '#e9d5ff', '#f3e8ff']
           };
           var classIndices = {};
           colors = sortedHoldings.map(function(h) {
-            var idx = classIndices[h.class] || 0;
-            classIndices[h.class] = idx + 1;
-            var family = classColorFamilies[h.class] || ['#888888'];
+            var c = h.class || 'cape';
+            var idx = classIndices[c] || 0;
+            classIndices[c] = idx + 1;
+            var family = classColorFamilies[c] || ['#58a6ff', '#3fb950', '#d29922'];
             return family[idx % family.length];
           });
         }
@@ -6006,17 +6031,43 @@
           type: 'doughnut',
           data: {
             labels: labels,
-            datasets: [{ data: weights, backgroundColor: colors, borderWidth: 2, borderColor: '#0f1318' }]
+            datasets: [{
+              data: weights,
+              backgroundColor: colors,
+              borderWidth: 2,
+              borderColor: '#0f1318',
+              hoverOffset: 5
+            }]
           },
           options: {
-            responsive: true, maintainAspectRatio: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '58%',
             plugins: {
               legend: {
                 display: isClassMode,
                 position: 'right',
-                labels: { font: { size: 11 }, usePointStyle: true, boxWidth: 8, padding: 8 }
+                labels: {
+                  color: '#e6edf3',
+                  font: { size: 11, weight: '600', family: 'system-ui, sans-serif' },
+                  usePointStyle: true,
+                  boxWidth: 8,
+                  padding: 10
+                }
               },
-              tooltip: { callbacks: { label: function(c) { return ' ' + c.label + ': ' + c.parsed.toFixed(1) + '%'; } } }
+              tooltip: {
+                backgroundColor: 'rgba(15, 23, 42, 0.95)',
+                titleColor: '#f8fafc',
+                bodyColor: '#e2e8f0',
+                borderColor: '#334155',
+                borderWidth: 1,
+                padding: 10,
+                callbacks: {
+                  label: function(c) {
+                    return ' ' + c.label + ': ' + Number(c.parsed || 0).toFixed(1) + '%';
+                  }
+                }
+              }
             }
           }
         });
