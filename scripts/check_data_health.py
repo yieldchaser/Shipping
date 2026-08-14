@@ -2,6 +2,7 @@
 """
 Data Health & Freshness Monitor
 Audits all CSV datasets in data/ relative to current date (or specified target date).
+Referenced in docs/DATASETS.md.
 """
 
 import csv
@@ -10,7 +11,7 @@ import os
 import sys
 import datetime
 
-TARGET_DATE = datetime.date(2026, 8, 11)
+TARGET_DATE = datetime.date.today()
 
 def parse_date_str(d_str):
     if not d_str:
