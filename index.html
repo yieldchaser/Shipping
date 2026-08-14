@@ -4407,27 +4407,63 @@
       _activeDeconstContractName = contractName;
 
       var colMap = { cape: '#58a6ff', pana: '#3fb950', supra: '#d29922', vlcc: '#f0883e', suez: '#a371f7' };
-      var routeIcons = { cape: '🚢', pana: '⚓', supra: '📦', vlcc: '🛢️', suez: '⛽' };
+      var routeIcons = {
+        cape: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><path d="M12 10V3"/><path d="M12 3L9 5h6z"/></svg>',
+        pana: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg>',
+        supra: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>',
+        vlcc: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>',
+        suez: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg>'
+      };
       var color = colMap[normCls] || '#58a6ff';
-      var icon = routeIcons[normCls] || '📈';
+      var icon = routeIcons[normCls] || '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>';
 
       // 1. Query contract history from SGX processed data (for Dry Bulk BDRY)
       var history = [];
       var historySource = '';
-      var sgxKey = normCls === 'cape' ? 'cape' : (normCls === 'pana' ? 'panamax' : (normCls === 'supra' ? 'supramax' : null));
+      var sgxKey = normCls === 'cape' ? 'cape' : (normCls === 'pana' ? 'panamax' : (normCls === 'supra' ? 'supramax' : (normCls === 'handy' ? 'handysize' : null)));
       var processed = window.getFFAProcessed ? window.getFFAProcessed() : null;
 
-      if (sgxKey && processed && processed[sgxKey]) {
+      if (sgxKey) {
         var m = contractName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
         var targetMonthLabel = m ? (m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase() + ' 20' + m[2]) : '';
+        var targetMonthShort = m ? (m[1].toLowerCase() + ' ' + m[2]) : '';
 
-        var matchContract = processed[sgxKey].find(function(c) {
-          return (c.expiryLabel && c.expiryLabel.toLowerCase() === targetMonthLabel.toLowerCase()) || c.contract === contractName;
-        });
+        if (processed && processed[sgxKey]) {
+          var matchContract = processed[sgxKey].find(function(c) {
+            var cExp = (c.expiryLabel || '').toLowerCase();
+            return (targetMonthLabel && cExp === targetMonthLabel.toLowerCase()) ||
+                   c.contract === contractName ||
+                   (targetMonthShort && cExp.includes(targetMonthShort));
+          });
 
-        if (matchContract && matchContract.history && matchContract.history.length) {
-          history = matchContract.history;
-          historySource = 'sgx';
+          if (matchContract && matchContract.history && matchContract.history.length) {
+            history = matchContract.history;
+            historySource = 'sgx';
+          }
+        }
+
+        // Direct scan in DATA.sgx if not found in processed
+        if (!history.length && typeof DATA !== 'undefined' && DATA.sgx && DATA.sgx[sgxKey]) {
+          var sgxRows = DATA.sgx[sgxKey] || [];
+          var sgxMatched = [];
+          sgxRows.forEach(function(row) {
+            var rMonth = String(row.month || row.tenor || row.contract || '').toLowerCase();
+            var isSgxMatch = (targetMonthShort && rMonth.includes(targetMonthShort)) ||
+                             (targetMonthLabel && rMonth.includes(targetMonthLabel.toLowerCase())) ||
+                             rMonth === contractName.toLowerCase();
+            if (isSgxMatch) {
+              var px = parseFloat(row.settle || row.price || row.Close || row.close);
+              var dObj = row.date ? new Date(row.date) : null;
+              if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
+                sgxMatched.push({ date: dObj, price: px });
+              }
+            }
+          });
+          if (sgxMatched.length) {
+            sgxMatched.sort(function(a, b) { return a.date - b.date; });
+            history = sgxMatched;
+            historySource = 'sgx';
+          }
         }
       }
 
@@ -4497,7 +4533,7 @@
       var rulebookRefEl = document.getElementById('cdModalRulebookRef');
 
       if (titleEl) titleEl.innerHTML = '<span style="color:' + color + ';">' + contractName + '</span>';
-      if (iconEl) iconEl.textContent = icon;
+      if (iconEl) iconEl.innerHTML = icon;
       if (subtitleEl) {
         subtitleEl.textContent = isOfficialFeedAvailable ? (historySource === 'sgx' ? 'SGX Exchange Daily Settled Futures Curve' : 'Official ETF Disclosed Historical Mark Trajectory') : 'Far-Dated Futures Contract (Rate Shock Simulated)';
       }
@@ -4703,6 +4739,47 @@
       destroyChart('cdModalChartCanvas');
     }
 
+    function openContractDetailModal(tickerOrName) {
+      if (!tickerOrName) return;
+      var raw = String(tickerOrName).trim();
+      var clean = raw.replace(/\bindex\b/gi, '').replace(/\s+/g, ' ').trim();
+
+      var monthCodeMap = {
+        'F': 'Jan', 'G': 'Feb', 'H': 'Mar', 'J': 'Apr', 'K': 'May', 'M': 'Jun',
+        'N': 'Jul', 'Q': 'Aug', 'U': 'Sep', 'V': 'Oct', 'X': 'Nov', 'Z': 'Dec'
+      };
+
+      var cls = 'cape';
+      var lower = clean.toLowerCase();
+      if (lower.startsWith('c5') || lower.includes('cape')) cls = 'cape';
+      else if (lower.startsWith('p5') || lower.includes('pana') || lower.includes('4tc')) cls = 'pana';
+      else if (lower.startsWith('s58') || lower.includes('supra') || lower.includes('58k')) cls = 'supra';
+      else if (lower.includes('td3c') || lower.includes('vlcc') || lower.startsWith('dd3')) cls = 'vlcc';
+      else if (lower.includes('td20') || lower.includes('suez')) cls = 'suez';
+      else if (typeof _deconstETFKey !== 'undefined' && _deconstETFKey === 'bwet') cls = 'vlcc';
+
+      var codeMatch = clean.match(/([FGHJKMNQUVXZ])(\d{2})/i);
+      var monthLabel = '';
+      if (codeMatch) {
+        var mLetter = codeMatch[1].toUpperCase();
+        var yDigits = codeMatch[2];
+        if (monthCodeMap[mLetter]) {
+          monthLabel = monthCodeMap[mLetter] + ' ' + yDigits;
+        }
+      }
+
+      var canonicalName = clean;
+      if (monthLabel) {
+        if (cls === 'cape') canonicalName = 'Capesize ' + monthLabel;
+        else if (cls === 'pana') canonicalName = 'Panamax ' + monthLabel;
+        else if (cls === 'supra') canonicalName = 'Supramax ' + monthLabel;
+        else if (cls === 'vlcc') canonicalName = 'VLCC TD3C ' + monthLabel;
+        else if (cls === 'suez') canonicalName = 'Suezmax TD20 ' + monthLabel;
+      }
+
+      openContractPriceInspector(cls, canonicalName, { ticker: clean, raw: raw });
+    }
+
     function toggleDeconstContractHistory(cls, contractName, idx) {
       if (_activeDeconstContractName === contractName) {
         closeDeconstContractHistory();
@@ -4711,6 +4788,7 @@
       openContractPriceInspector(cls, contractName, { index: idx });
     }
     window.openContractPriceInspector = openContractPriceInspector;
+    window.openContractDetailModal = openContractDetailModal;
     window.closeContractDetailModal = closeContractDetailModal;
     window.toggleDeconstContractHistory = toggleDeconstContractHistory;
     window.applyMicroCurvePreset = applyMicroCurvePreset;
@@ -8390,10 +8468,12 @@
               </div>
               <span>ETF &amp; Scenario Intelligence Copilot</span>
               <span id="etfQaFundBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY (Dry Bulk)</span>
-              <span id="etfQaLiveStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">● AI Grounded</span>
+              <span id="etfQaLiveStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;">
+                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> AI Grounded
+              </span>
             </div>
             <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
-              Ask anything in plain English about constituent futures exposures, roll decay, SGX forward curves, thesis translations, fund flows, or stress scenarios.
+              Ask anything in plain English about constituent futures exposures, multi-month holding resolution, 5-axiom roll decay, SGX forward curves, fund flows, or asymmetric shocks.
             </div>
           </div>
 
@@ -8425,17 +8505,17 @@
         <!-- Scope & Mode Controls -->
         <div class="qa-scope-row" style="margin-bottom:12px;">
           <span class="qa-scope-lbl">Grounded Context:</span>
-          <label class="qa-scope-item" data-tooltip="Live official constituent contract holdings table with active lot weights and notionals."><input type="checkbox" id="etfQaSrcHoldings" checked disabled> 📊 Active Disclosed Book</label>
-          <label class="qa-scope-item" data-tooltip="Live SGX settlement curves for Capesize, Panamax, Supramax, Handysize, VLCC, and Suezmax."><input type="checkbox" id="etfQaSrcCurves" checked> 📈 SGX Forward Curves</label>
-          <label class="qa-scope-item" data-tooltip="5-Axiom calendar roll schedules, business day progression, and prompt lot decay mechanics."><input type="checkbox" id="etfQaSrcRoll" checked> 🔄 5-Axiom Roll Schedules</label>
-          <label class="qa-scope-item" data-tooltip="Official CFTC Rule 4.22(h) monthly statements and SEC Form 10-Q quarterly reports."><input type="checkbox" id="etfQaSrcFilings" checked> 🏛️ CFTC &amp; SEC Filings</label>
-          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: queries live web for real-time freight prints, fixtures, and tanker news (Gemini)."><input type="checkbox" id="etfQaSrcWebSearch"> 🌐 Web Search (Live)</label>
-          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Context: injects active scenario slider state, custom forward roll-in legs, and 2-year forward strip matrices."><input type="checkbox" id="etfQaDeepContext" checked> 🔬 Deep Scenario Context</label>
+          <label class="qa-scope-item" data-tooltip="Live official constituent contract holdings table with active lot weights and notionals."><input type="checkbox" id="etfQaSrcHoldings" checked disabled> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> Active Disclosed Book</label>
+          <label class="qa-scope-item" data-tooltip="Live SGX settlement curves for Capesize, Panamax, Supramax, Handysize, VLCC, and Suezmax."><input type="checkbox" id="etfQaSrcCurves" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> SGX Forward Curves</label>
+          <label class="qa-scope-item" data-tooltip="5-Axiom calendar roll schedules, business day progression, and prompt lot decay mechanics."><input type="checkbox" id="etfQaSrcRoll" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg> 5-Axiom Roll Schedules</label>
+          <label class="qa-scope-item" data-tooltip="Official CFTC Rule 4.22(h) monthly statements and SEC Form 10-Q quarterly reports."><input type="checkbox" id="etfQaSrcFilings" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> CFTC &amp; SEC Filings</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: queries live web for real-time freight prints, fixtures, and tanker news (Gemini)."><input type="checkbox" id="etfQaSrcWebSearch"> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> Web Search (Live)</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Context: injects active scenario slider state, custom forward roll-in legs, and 2-year forward strip matrices."><input type="checkbox" id="etfQaDeepContext" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> Deep Scenario Context</label>
         </div>
 
         <!-- Question Input Row -->
         <div class="qa-input-row">
-          <textarea id="etfQaQuery" class="qa-textarea" placeholder="e.g. If I buy BDRY in August and hold through October, which exact futures contracts am I betting on, and what is the expected roll drag? What happens if Capesize rises 20% but Panamax drops 10%?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runEtfQAQuery()}"></textarea>
+          <textarea id="etfQaQuery" class="qa-textarea" placeholder="e.g. If I invest in BDRY or BWET today and hold for 3 months, how does my trade resolve over time? Which specific contract months must rise and in what sequence for the trade to be profitable?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runEtfQAQuery()}"></textarea>
           <button id="etfQaSubmitBtn" class="qa-submit" onclick="runEtfQAQuery()">Ask Copilot</button>
         </div>
 
@@ -8443,61 +8523,61 @@
         <div class="sq-wrap">
           <p class="sq-label">Suggested ETF &amp; Scenario Queries</p>
           <div class="sq-tabs" id="etfQaTabs">
-            <button class="sq-tab active" data-cat="exposures">🎯 Contract Exposures</button>
-            <button class="sq-tab" data-cat="roll">🔄 Roll Yield &amp; Carry</button>
-            <button class="sq-tab" data-cat="shocks">⚡ Scenario Shocks &amp; PnL</button>
-            <button class="sq-tab" data-cat="flows">🏦 Fund Flows &amp; AUM</button>
-            <button class="sq-tab" data-cat="strategy">🧭 Strategy &amp; Holding</button>
+            <button class="sq-tab active" data-cat="exposures"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>Contract Exposures</button>
+            <button class="sq-tab" data-cat="roll"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>Roll Yield &amp; Carry</button>
+            <button class="sq-tab" data-cat="shocks"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Scenario Shocks &amp; PnL</button>
+            <button class="sq-tab" data-cat="flows"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M3 21h18M3 10h18M5 6l7-3 7 3M4 10v11M20 10v11M8 14v4M12 14v4M16 14v4"/></svg>Fund Flows &amp; AUM</button>
+            <button class="sq-tab" data-cat="strategy"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>Strategy &amp; Holding</button>
           </div>
 
           <!-- Panel 1: Contract Exposures & Thesis Translation -->
           <div class="sq-panel visible" id="etf-panel-exposures">
-            <button class="sq-q" onclick="etfSq('If I buy BDRY today and hold for 2 months, which exact futures contracts am I betting on, and how does the lot transition work?')">Holding BDRY for 2 months: Exact futures bets</button>
-            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share?')">Contract with largest $/share sensitivity</button>
-            <button class="sq-q" onclick="etfSq('Translate my macro thesis: \'China steel mills restock aggressively, pushing Capesize spot up +25%\' into contract price targets and BDRY stock target.')">Translate +25% Capesize thesis to BDRY target</button>
-            <button class="sq-q" onclick="etfSq('Why does BDRY hold 15 contracts across prompt and forward months rather than just the front-month contract?')">Why 15 contracts instead of front month?</button>
-            <button class="sq-q" onclick="etfSq('How does BWET portfolio exposure split between VLCC TD3C and Suezmax TD20 right now, and what are the notional weights?')">BWET VLCC vs Suezmax exposure breakdown</button>
-            <button class="sq-q" onclick="etfSq('What is the current exact Futures Notional to AUM exposure ratio for the fund?')">Current Futures/AUM exposure ratio</button>
+            <button class="sq-q" onclick="etfSq('If I buy BDRY or BWET today and hold for 2 to 3 months, which exact futures contracts am I betting on, and how does the lot transition work across months?')">Multi-Month Hold: Exact contract bets &amp; rollover path</button>
+            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share based on today\'s lot weights?')">Contract with largest $/share sensitivity</button>
+            <button class="sq-q" onclick="etfSq('Translate a macro thesis: If Capesize rates surge +25% while Panamax stays flat, what is the exact ETF share price target and dollar gain on 2,500 shares?')">Translate +25% Capesize thesis to ETF target</button>
+            <button class="sq-q" onclick="etfSq('Why does the fund hold a laddered basket of prompt and deferred contracts rather than concentrating 100% in the front-month contract?')">Why laddered contracts instead of front month only?</button>
+            <button class="sq-q" onclick="etfSq('How is portfolio notional exposure currently split across vessel classes and contract maturities?')">Portfolio exposure split across vessel classes</button>
+            <button class="sq-q" onclick="etfSq('What is the current Futures Notional to Fund AUM exposure ratio and effective leverage?')">Futures Notional vs AUM leverage ratio</button>
           </div>
 
           <!-- Panel 2: Roll Yield & Curve Term Structure -->
           <div class="sq-panel" id="etf-panel-roll">
-            <button class="sq-q" onclick="etfSq('What is the expected roll yield drag or gain on Capesize over the next 60 days based on the current SGX forward curve?')">Expected 60-day Capesize roll yield drag/gain</button>
-            <button class="sq-q" onclick="etfSq('Is BWET currently trading in contango or backwardation across prompt vs forward strips, and what is the carry yield?')">BWET Contango vs Backwardation carry analysis</button>
-            <button class="sq-q" onclick="etfSq('Explain how the 5-Axiom calendar roll decay transfers lots from prompt to forward strips between business day 1 and 20.')">How 5-Axiom calendar roll mechanics work</button>
-            <button class="sq-q" onclick="etfSq('What happens to prompt contract lots on the final business day of the roll window?')">Prompt contract fate on final roll day</button>
-            <button class="sq-q" onclick="etfSq('Compare the annualized roll yield of Capesize vs Panamax right now based on active curve spreads.')">Capesize vs Panamax annualized roll spread</button>
-            <button class="sq-q" onclick="etfSq('How does forward curve backwardation generate structural carry for commodity shipping ETFs?')">How backwardation creates positive carry</button>
+            <button class="sq-q" onclick="etfSq('What is the expected roll yield carry (drag or gain) over the next 60 days based on active SGX forward curve spreads?')">Expected 60-day roll yield carry (drag/gain)</button>
+            <button class="sq-q" onclick="etfSq('Is the active forward curve in contango or backwardation across prompt vs forward strips, and what is the annualized carry yield?')">Contango vs Backwardation carry analysis</button>
+            <button class="sq-q" onclick="etfSq('Explain how the 5-Axiom calendar roll decay transfers lots from prompt to forward strips between business days 1 and 15.')">How 5-Axiom calendar roll mechanics work</button>
+            <button class="sq-q" onclick="etfSq('What happens to prompt contract lots on the final business day of the roll window, and how does cash settlement work?')">Prompt contract fate on final roll day</button>
+            <button class="sq-q" onclick="etfSq('Compare the annualized roll yields across Capesize, Panamax, and Supramax term structures right now.')">Annualized roll yield across vessel classes</button>
+            <button class="sq-q" onclick="etfSq('Why does structural backwardation generate positive roll carry while contango creates persistent NAV erosion?')">Why backwardation creates positive carry</button>
           </div>
 
           <!-- Panel 3: Scenario Shocks & PnL Sensitivity -->
           <div class="sq-panel" id="etf-panel-shocks">
-            <button class="sq-q" onclick="etfSq('If Capesize rallies +20% and Panamax drops -10%, what is the projected BDRY share price and PnL on 2,500 shares?')">Capesize +20% / Panamax -10%: BDRY price &amp; PnL</button>
-            <button class="sq-q" onclick="etfSq('What uniform freight rate rally % is required for BDRY to reach a target share price of $18.00?')">Reverse NAV Solver: Freight % needed for $18.00</button>
-            <button class="sq-q" onclick="etfSq('If VLCC TD3C freight rates spike to $110/MT on Red Sea tensions, what is the projected BWET price target?')">VLCC $110/MT Red Sea spike: BWET target</button>
-            <button class="sq-q" onclick="etfSq('How do micro-shocks on specific individual contract months aggregate into net ETF price return?')">Micro-shocks vs Macro-shocks aggregation math</button>
-            <button class="sq-q" onclick="etfSq('Explain the difference between Carried-Forward Spread and NAV Parity pricing modes.')">Carried-Forward Spread vs NAV Parity modes</button>
-            <button class="sq-q" onclick="etfSq('What is the maximum historical 1-day drawdown for BDRY and how did futures move?')">Historical maximum 1-day drawdown analysis</button>
+            <button class="sq-q" onclick="etfSq('If I invest today and hold for 3 months, which contract months\' rates must rise and in what specific order for my trade to be profitable?')">3-Month Hold: Which months must rise in what order?</button>
+            <button class="sq-q" onclick="etfSq('If Capesize freight rates rally +20% and Panamax drops -10%, what is the projected ETF share price and net portfolio PnL?')">Capesize +20% / Panamax -10%: Share price &amp; PnL</button>
+            <button class="sq-q" onclick="etfSq('What uniform freight rate rally % across all contracts is required to achieve a 25% target increase in ETF share price?')">Required freight rally % for target share price</button>
+            <button class="sq-q" onclick="etfSq('If tanker VLCC TD3C freight rates spike on geopolitical rerouting, how does that shock transmit to ETF share price?')">Tanker geopolitical freight spike transmission</button>
+            <button class="sq-q" onclick="etfSq('How do asymmetric micro-shocks across individual contract months aggregate into net variation margin and $/share change?')">Micro-shocks aggregation math &amp; $/share impact</button>
+            <button class="sq-q" onclick="etfSq('What are the primary price divergence risks between Baltic spot index prints and ETF NAV during high-volatility roll periods?')">Spot prints vs ETF NAV divergence in roll periods</button>
           </div>
 
           <!-- Panel 4: Fund Flows, AUM & AP Mechanics -->
           <div class="sq-panel" id="etf-panel-flows">
-            <button class="sq-q" onclick="etfSq('How does the current $30.94M AUM and 2.20M shares compare to historical creation and redemption cycles?')">Current $30.94M AUM &amp; 2.20M shares vs history</button>
-            <button class="sq-q" onclick="etfSq('Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep market price near NAV.')">AP 25k creation basket arbitrage mechanics</button>
-            <button class="sq-q" onclick="etfSq('Why did BDRY shares outstanding decline from 2.75M in June to 2.20M in August, and what does it signal?')">Why shares declined from 2.75M to 2.20M</button>
-            <button class="sq-q" onclick="etfSq('How does cash collateral in AGPXX earn 4.85% yield to offset the 3.50% total expense ratio?')">Cash collateral yield (4.85%) vs 3.50% TER</button>
-            <button class="sq-q" onclick="etfSq('What are the CME and SGX margin collateral requirements for BDRY futures holdings?')">CME / SGX clearing house margin requirements</button>
-            <button class="sq-q" onclick="etfSq('How does secondary market premium/discount to NAV arbitrage operate during market stress?')">Premium/Discount arbitrage in volatility</button>
+            <button class="sq-q" onclick="etfSq('How do current fund AUM, shares outstanding, and basket creation/redemption trends compare to historical freight cycles?')">Current AUM &amp; shares outstanding vs historical cycles</button>
+            <button class="sq-q" onclick="etfSq('Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep ETF market price pegged to NAV.')">AP 25,000-share creation basket arbitrage</button>
+            <button class="sq-q" onclick="etfSq('What market signals and sentiment shifts can be inferred from institutional share count expansions and contractions?')">Institutional share count expansion/contraction signals</button>
+            <button class="sq-q" onclick="etfSq('How does yield earned on unencumbered cash collateral held in Treasury money market funds offset the Total Expense Ratio?')">Cash collateral Treasury yield vs Total Expense Ratio</button>
+            <button class="sq-q" onclick="etfSq('What are the CME and SGX clearing house initial margin (IM) and variation margin (VM) rules for fund futures positions?')">CME &amp; SGX clearing house margin requirements</button>
+            <button class="sq-q" onclick="etfSq('How does secondary market premium/discount arbitrage operate during severe market liquidity dislocations?')">Premium/Discount arbitrage in volatility</button>
           </div>
 
           <!-- Panel 5: Trade Strategy & Holding Period -->
           <div class="sq-panel" id="etf-panel-strategy">
-            <button class="sq-q" onclick="etfSq('What are the top risks of holding BDRY for longer than 3 months (contango roll decay, volatility drag)?')">Risks of holding BDRY longer than 3 months</button>
-            <button class="sq-q" onclick="etfSq('How does holding BDRY differ from trading physical dry bulk shipping equities like Star Bulk (SBLK) or Golden Ocean (GOGL)?')">BDRY ETF vs Shipping Equities (SBLK, GOGL)</button>
-            <button class="sq-q" onclick="etfSq('What is the optimal entry and exit window within the monthly 5-axiom roll cycle?')">Optimal entry window in monthly roll cycle</button>
-            <button class="sq-q" onclick="etfSq('How does seasonal freight volatility (Q1 seasonal lull vs Q3/Q4 grain/ore peak) impact ETF tracking?')">Q1 lull vs Q3/Q4 seasonal peak impact</button>
-            <button class="sq-q" onclick="etfSq('Explain how a charterer or shipowner can hedge a physical freight charter party using BDRY shares.')">Hedging physical charters with BDRY</button>
-            <button class="sq-q" onclick="etfSq('What are the key thesis invalidation triggers for a long freight trade today?')">Key thesis invalidation &amp; stop-loss triggers</button>
+            <button class="sq-q" onclick="etfSq('What are the primary structural risks of holding commodity shipping ETFs beyond a single monthly roll cycle?')">Risks of holding shipping ETFs longer than 3 months</button>
+            <button class="sq-q" onclick="etfSq('How does holding freight futures ETFs differ from investing in physical dry bulk and tanker shipping equities?')">Freight Futures ETFs vs Shipping Equities</button>
+            <button class="sq-q" onclick="etfSq('What is the optimal entry and exit timing window relative to the monthly 15-business-day calendar roll schedule?')">Optimal entry window in monthly roll cycle</button>
+            <button class="sq-q" onclick="etfSq('How does seasonal freight demand (Q1 winter lull vs Q3/Q4 grain and ore export surges) affect ETF tracking?')">Seasonal demand peaks/troughs impact on ETF tracking</button>
+            <button class="sq-q" onclick="etfSq('How can a physical charterer or shipowner hedge physical vessel charter parties using ETF shares?')">Hedging physical vessel charters with ETF shares</button>
+            <button class="sq-q" onclick="etfSq('What specific forward curve flattening or freight breakdown signals should trigger an immediate invalidation of a long thesis?')">Thesis invalidation &amp; stop-loss risk triggers</button>
           </div>
 
           <p class="sq-hint">Select a category above, then click any prompt to run it instantly with full quantitative portfolio grounding.</p>
@@ -22166,15 +22246,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var promptText = "You are a Senior Institutional ETF Derivatives Strategist and Quant Risk Engineer specializing in Breakwave & Amplify Shipping ETFs (BDRY and BWET).\n" +
         "Today's date is " + (pred.snapshotDate || '2026-08-14') + ".\n" +
         "Answer the user's question with rigorous financial accuracy, exact arithmetic, and line-by-line mathematical proofs.\n\n" +
-        "CRITICAL RESPONSE GUIDELINES:\n" +
-        "1. GROUNDING & FIDELITY: Ground all calculations in the provided constituent holdings table, SGX forward settlements, 5-axiom roll schedules, and reverse-engineered AUM/shares ($30.94M / 2.20M shares for BDRY; $80.68M / 225k shares for BWET).\n" +
+        "CRITICAL RESPONSE & ANTI-HALLUCINATION GUIDELINES:\n" +
+        "1. STRICT QUANTITATIVE FIDELITY: NEVER invent, assume, or fabricate mock prices or delta values. Ground all numbers strictly in the provided Active Constituent Positions table and Live SGX Forward Curves.\n" +
         "2. STEP-BY-STEP ARITHMETIC: Always provide the line-by-line equation for Dollar Impact per Share = sum(Lots_i * Multiplier_i * DeltaPrice_i) / SharesOutstanding.\n" +
-        "3. CONTRACT BADGES: When referencing a specific constituent contract, format it as [CONTRACT:Ticker] (e.g. [CONTRACT:C5TCM Q26 INDEX]) so the user can click to inspect the settlement price curve.\n" +
-        "4. ACTIONABLE SCENARIOS: When you suggest or calculate a scenario, append an action token:\n" +
+        "3. MULTI-MONTH BET RESOLUTION & SEQUENCING:\n" +
+        "   When asked how a multi-month hold resolves ('which months must rise in what order to make the trade profitable'):\n" +
+        "   - Chronologically trace the 5-Axiom rollover progression month by month:\n" +
+        "     * Month 1: The fund holds Prompt Month (M) and rolls lots into Next Month (M+1) during business days 1–15. To profit in Month 1, prompt contract M and next contract M+1 must rise.\n" +
+        "     * Month 2: Prompt contract M expires and cash-settles against the Baltic monthly average index. The fund now holds (M+1) and rolls into (M+2). To profit in Month 2, contract M+1 and M+2 must rise.\n" +
+        "     * Month 3: Contract M+1 has expired. The fund holds (M+2) and rolls into next-quarter strips.\n" +
+        "   - Explicitly highlight path dependency: If spot freight spikes in Month 2 after the fund has already rolled out of Month 1, the fund does not capture that expired spot move; the rally MUST occur in the forward contracts held during that active window.\n" +
+        "4. INTERACTIVE CONTRACT BADGES: When referencing a specific constituent contract, format it as [CONTRACT:Ticker] (e.g. [CONTRACT:C5TCM Q26 INDEX] or [CONTRACT:Capesize Aug 26]) so the user can click to inspect the interactive SGX settlement curve chart.\n" +
+        "5. ACTIONABLE SCENARIOS: When you suggest or calculate a scenario, append an action token:\n" +
         "   - To apply slider shocks: [ACTION:apply_scenario:cape=+20,pana=-10,supra=0,vlcc=0,suez=0]\n" +
         "   - To jump the simulator: [ACTION:jump_simulator:2026-07-15]\n" +
-        "   - To formalize a decision ticket: [ACTION:open_decision_ticket]\n" +
-        "5. HOLDING PERIOD & ROLL DECAY: When asked about holding periods (e.g. 2-3 months), explicitly explain which forward contracts will decay/expire and which next-quarter contracts will accrue according to the 5-axiom roll rule.\n\n" +
+        "   - To formalize a decision ticket: [ACTION:open_decision_ticket]\n\n" +
         "User Question: " + query + "\n\n" +
         "Quantitative Context:\n" + lines.join('\n');
 
@@ -22197,24 +22283,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         });
         var labelParts = Object.entries(params).filter(function(e) { return e[1] !== 0; }).map(function(e) { return e[0].toUpperCase() + " " + (e[1] >= 0 ? '+' : '') + e[1] + "%"; });
         var label = labelParts.length ? labelParts.join(', ') : 'Reset Shocks';
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')">⚡ Apply to Scenario Simulator (' + label + ')</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply to Scenario Simulator (' + label + ')</button></div>';
       });
 
       // Parse [ACTION:jump_simulator:YYYY-MM-DD]
       esc = esc.replace(/\[ACTION:jump_simulator:([^\]]+)\]/gi, function(match, dateStr) {
         var d = dateStr.trim();
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="jumpSimulatorFromCopilot(\'' + d + '\')">📅 Jump Simulator to ' + d + '</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="jumpSimulatorFromCopilot(\'' + d + '\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jump Simulator to ' + d + '</button></div>';
       });
 
       // Parse [ACTION:open_decision_ticket]
       esc = esc.replace(/\[ACTION:open_decision_ticket\]/gi, function() {
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()">📋 Open Institutional Decision Ticket</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>Open Institutional Decision Ticket</button></div>';
       });
 
       // Parse [CONTRACT:Ticker]
       esc = esc.replace(/\[CONTRACT:\s*([^\]]+)\]/gi, function(match, ticker) {
         var t = ticker.trim();
-        return '<button class="etf-qa-contract-pill" onclick="openContractDetailModal(\'' + t + '\')">📈 ' + t + ' ↗</button>';
+        return '<button class="etf-qa-contract-pill" onclick="openContractDetailModal(\'' + t.replace(/'/g, "\\'") + '\')">' +
+          '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>' +
+          '<span>' + t + '</span>' +
+          '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-left:3px;opacity:0.75;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>' +
+          '</button>';
       });
 
       // Markdown formatting
@@ -22334,12 +22424,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(answer);
 
         var citHtml = [];
-        citHtml.push('<span class="qa-cit" title="Official ETF Daily Holdings">📊 ' + fundKey.toUpperCase() + ' Disclosed Holdings</span>');
-        citHtml.push('<span class="qa-cit" title="Singapore Exchange Settlement Feed">📈 SGX Forward Curves</span>');
-        citHtml.push('<span class="qa-cit" title="Solactive / Breakwave Index Rules">📜 5-Axiom Roll Schedules</span>');
-        citHtml.push('<span class="qa-cit" title="CFTC Rule 4.22(h) / Form 10-Q">🏛️ CFTC &amp; SEC Filings</span>');
+        citHtml.push('<span class="qa-cit" title="Official ETF Daily Holdings"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>' + fundKey.toUpperCase() + ' Disclosed Holdings</span>');
+        citHtml.push('<span class="qa-cit" title="Singapore Exchange Settlement Feed"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>SGX Forward Curves</span>');
+        citHtml.push('<span class="qa-cit" title="Solactive / Breakwave Index Rules"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>5-Axiom Roll Schedules</span>');
+        citHtml.push('<span class="qa-cit" title="CFTC Rule 4.22(h) / Form 10-Q"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>CFTC &amp; SEC Filings</span>');
         (finalWebCitations || []).forEach(function(w) {
-          citHtml.push('<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '">🌐 ' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>');
+          citHtml.push('<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>');
         });
         if (citEl) citEl.innerHTML = citHtml.join('');
 
