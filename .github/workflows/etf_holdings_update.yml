@@ -43,26 +43,23 @@ jobs:
     - name: Download and process ETF holdings & generate authoritative snapshot bundle
       run: python scripts/update_etf_holdings.py
 
-    - name: Run Python Thesis Scenario Translator unit tests
+    - name: Run Production Artifact Integrity Audit
+      run: python scripts/verify_production_artifact_integrity.py
+
+    - name: Run Decision Ticket Workflow unit tests
+      run: python scripts/test_decision_ticket_workflow.py -v
+
+    - name: Run Thesis Scenario Builder unit tests
       run: python scripts/test_thesis_scenario_builder.py -v
 
-    - name: Run Real Updater Pipeline & Immutability Integration Tests
-      run: python scratch/test_real_updater_pipeline.py -v
-
-    - name: Run Next-Business-Day Update & Browser Lifecycle Integration Tests
-      run: node scratch/test_next_business_day_update_flow.js
-
-    - name: Run Python-to-Browser parity test suite (generates fresh fixtures on the fly)
-      run: node scratch/test_python_browser_parity.js
-
-    - name: Run End-to-End Browser & DOM test suite
-      run: node scratch/test_e2e_scenario_translator.js
+    - name: Run Production Scenario Workflow tests
+      run: python scripts/test_production_scenario_workflow.py -v
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/etf/ scratch/python_parity_golden_fixtures.json
+        git add data/etf/
         if git diff --staged --quiet; then
           echo "No ETF holdings or snapshot changes to commit."
           exit 0
