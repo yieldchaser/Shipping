@@ -3671,37 +3671,45 @@
       
       _deconstMicroShocks = {}; // Clear custom micro shocks to guarantee exact target price parity
       var curPrice = getDeconstBasePrice(_deconstETFKey);
+      if (!curPrice || curPrice <= 0) { resEl.textContent = 'Invalid base price'; return; }
+
       var reqNavPct = ((targetPrice - curPrice) / curPrice) * 100;
+      var isRally = reqNavPct >= 0;
+      var labelAction = isRally ? 'Rally' : 'Drop';
       
       if (_deconstETFKey === 'bdry') {
-        resEl.textContent = 'Req. Dry FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        resEl.textContent = 'Req. Dry FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
         _deconstShocks.cape = reqNavPct;
         _deconstShocks.pana = reqNavPct;
         _deconstShocks.supra = reqNavPct;
-        var sCape = document.getElementById('deconstSliderCape');
-        var sPana = document.getElementById('deconstSliderPana');
-        var sSupra = document.getElementById('deconstSliderSupra');
-        if (sCape) { sCape.value = Math.round(reqNavPct); updateSliderTrackFill(sCape, '#58a6ff'); }
-        if (sPana) { sPana.value = Math.round(reqNavPct); updateSliderTrackFill(sPana, '#3fb950'); }
-        if (sSupra) { sSupra.value = Math.round(reqNavPct); updateSliderTrackFill(sSupra, '#d29922'); }
-        var vCape = document.getElementById('deconstValCape');
-        var vPana = document.getElementById('deconstValPana');
-        var vSupra = document.getElementById('deconstValSupra');
-        if (vCape) vCape.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        if (vPana) vPana.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        if (vSupra) vSupra.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+
+        ['Cape', 'Pana', 'Supra'].forEach(function(clsKey) {
+          var s = document.getElementById('deconstSlider' + clsKey);
+          var v = document.getElementById('deconstVal' + clsKey);
+          if (s) {
+            if (reqNavPct > 100) s.max = String(Math.ceil(reqNavPct / 10) * 10);
+            if (reqNavPct < -50) s.min = String(Math.floor(reqNavPct / 10) * 10);
+            s.value = Math.round(reqNavPct);
+            updateSliderTrackFill(s, clsKey === 'Cape' ? '#58a6ff' : (clsKey === 'Pana' ? '#3fb950' : '#d29922'));
+          }
+          if (v) v.textContent = (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        });
       } else {
-        resEl.textContent = 'Req. Tanker FFA Rally: ' + (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        resEl.textContent = 'Req. Tanker FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
         _deconstShocks.vlcc = reqNavPct;
         _deconstShocks.suez = reqNavPct;
-        var sVlcc = document.getElementById('deconstSliderVlcc');
-        var sSuez = document.getElementById('deconstSliderSuez');
-        if (sVlcc) { sVlcc.value = Math.round(reqNavPct); updateSliderTrackFill(sVlcc, '#f0883e'); }
-        if (sSuez) { sSuez.value = Math.round(reqNavPct); updateSliderTrackFill(sSuez, '#a371f7'); }
-        var vVlcc = document.getElementById('deconstValVlcc');
-        var vSuez = document.getElementById('deconstValSuez');
-        if (vVlcc) vVlcc.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        if (vSuez) vSuez.textContent = (reqNavPct >= 0 ? '+' : '') + reqNavPct.toFixed(1) + '%';
+
+        ['Vlcc', 'Suez'].forEach(function(clsKey) {
+          var s = document.getElementById('deconstSlider' + clsKey);
+          var v = document.getElementById('deconstVal' + clsKey);
+          if (s) {
+            if (reqNavPct > 100) s.max = String(Math.ceil(reqNavPct / 10) * 10);
+            if (reqNavPct < -50) s.min = String(Math.floor(reqNavPct / 10) * 10);
+            s.value = Math.round(reqNavPct);
+            updateSliderTrackFill(s, clsKey === 'Vlcc' ? '#f0883e' : '#a371f7');
+          }
+          if (v) v.textContent = (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
+        });
       }
       renderETFDeconstructionEngine();
     }
@@ -4115,20 +4123,56 @@
 
       function getLivePx(contractName, fallbackPx) {
         var cleanKey = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
-        return liveHoldingsMap[cleanKey] || fallbackPx;
+        if (liveHoldingsMap[cleanKey]) {
+          var exactPx = liveHoldingsMap[cleanKey];
+          if (exactPx < 300 && (cleanKey.includes('td3c') || cleanKey.includes('vlcc') || cleanKey.includes('middle east'))) return exactPx * 713;
+          if (exactPx < 300 && (cleanKey.includes('td20') || cleanKey.includes('suez') || cleanKey.includes('west africa'))) return exactPx * 560;
+          return exactPx;
+        }
+
+        // Fuzzy match by month and vessel class
+        var mMatch = cleanKey.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+        if (mMatch) {
+          var targetMonth = mMatch[1] + ' ' + mMatch[2];
+          var keys = Object.keys(liveHoldingsMap);
+          for (var i = 0; i < keys.length; i++) {
+            var k = keys[i];
+            if (k.includes(targetMonth)) {
+              if (cleanKey.includes('cape') && (k.includes('cape') || k.includes('5tc'))) return liveHoldingsMap[k];
+              if (cleanKey.includes('pana') && (k.includes('pana') || k.includes('82kt'))) return liveHoldingsMap[k];
+              if (cleanKey.includes('supra') && (k.includes('supra') || k.includes('58kt'))) return liveHoldingsMap[k];
+              if (cleanKey.includes('td3c') && (k.includes('td3c') || k.includes('middle east') || k.includes('meg'))) {
+                var px = liveHoldingsMap[k];
+                return px < 300 ? px * 713 : px; // Standardize WS/MT to TCE $/day if necessary
+              }
+              if (cleanKey.includes('td20') && (k.includes('td20') || k.includes('west africa') || k.includes('waf'))) {
+                var px2 = liveHoldingsMap[k];
+                return px2 < 300 ? px2 * 560 : px2;
+              }
+            }
+          }
+        }
+        return fallbackPx;
       }
 
       var holdings = [];
       
       if (etfKey === 'bdry') {
         // Benchmark target Notional ratio per SEC Form 10-Q: Capesize 50% / Panamax 40% / Supramax 10%
-        var capeNextLots = Math.round((45.0 * rollPct) / 5.0) * 5.0;
-        var panaNextLots = Math.round((52.0 * rollPct) / 5.0) * 5.0;
-        var supraNextLots = Math.round((15.0 * rollPct) / 5.0) * 5.0;
+        var capeTargetLots = 45.0;
+        var panaTargetLots = 52.0;
+        var supraTargetLots = 15.0;
 
-        var capePromptLots = Math.max(0, 45.0 - capeNextLots);
-        var panaPromptLots = Math.max(0, 52.0 - panaNextLots);
-        var supraPromptLots = Math.max(0, 15.0 - supraNextLots);
+        var capeNextLots = Math.round((capeTargetLots * rollPct) / 5.0) * 5.0;
+        var panaNextLots = Math.round((panaTargetLots * rollPct) / 2.0) * 2.0;
+        var supraNextLots = Math.round((supraTargetLots * rollPct) / 5.0) * 5.0;
+
+        if (rollPct >= 0.99) { capeNextLots = capeTargetLots; panaNextLots = panaTargetLots; supraNextLots = supraTargetLots; }
+        if (rollPct <= 0.01) { capeNextLots = 0; panaNextLots = 0; supraNextLots = 0; }
+
+        var capePromptLots = Math.max(0, capeTargetLots - capeNextLots);
+        var panaPromptLots = Math.max(0, panaTargetLots - panaNextLots);
+        var supraPromptLots = Math.max(0, supraTargetLots - supraNextLots);
 
         // Prompt month contracts
         pMonths.forEach(function(mStr) {
@@ -4146,12 +4190,18 @@
           });
         }
       } else {
-        // BWET: VLCC target ~87 lots/mo, Suezmax ~25 lots/mo
-        var vlccNextLots = Math.round((87.0 * rollPct) / 5.0) * 5.0;
-        var suezNextLots = Math.round((25.0 * rollPct) / 5.0) * 5.0;
+        // BWET: Benchmark 90% VLCC TD3C / 10% Suezmax TD20 per SEC Form 10-Q
+        var vlccTargetLots = 85.0;
+        var suezTargetLots = 12.0; // Scaled for exact 90/10 notional parity
 
-        var vlccPromptLots = Math.max(0, 150.0 - vlccNextLots);
-        var suezPromptLots = Math.max(0, 30.0 - suezNextLots);
+        var vlccNextLots = Math.round((vlccTargetLots * rollPct) / 5.0) * 5.0;
+        var suezNextLots = Math.round((suezTargetLots * rollPct) / 2.0) * 2.0;
+
+        if (rollPct >= 0.99) { vlccNextLots = vlccTargetLots; suezNextLots = suezTargetLots; }
+        if (rollPct <= 0.01) { vlccNextLots = 0; suezNextLots = 0; }
+
+        var vlccPromptLots = Math.max(0, vlccTargetLots - vlccNextLots);
+        var suezPromptLots = Math.max(0, suezTargetLots - suezNextLots);
 
         pMonths.forEach(function(mStr) {
           if (vlccPromptLots > 0) { var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', isPrompt: true, Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) }); }
@@ -4160,8 +4210,8 @@
 
         if (vlccNextLots > 0 || suezNextLots > 0) {
           nMonths.forEach(function(mStr) {
-            if (vlccNextLots > 0) holdings.push({ Name: 'TD3C FFA 270kt MEG-China ' + mStr, class: 'vlcc', isPrompt: false, Lots: vlccNextLots, unitPrice: 46800 });
-            if (suezNextLots > 0) holdings.push({ Name: 'TD20 FFA 130kt WAF-Cont ' + mStr, class: 'suez', isPrompt: false, Lots: suezNextLots, unitPrice: 37100 });
+            if (vlccNextLots > 0) { var nameVlccN = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlccN, class: 'vlcc', isPrompt: false, Lots: vlccNextLots, unitPrice: getLivePx(nameVlccN, 46800) }); }
+            if (suezNextLots > 0) { var nameSuezN = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuezN, class: 'suez', isPrompt: false, Lots: suezNextLots, unitPrice: getLivePx(nameSuezN, 37100) }); }
           });
         }
       }
@@ -4296,65 +4346,63 @@
       }
       if (kpiRoll) {
         // Calculate exact per-vessel-class lot-weighted roll yield spread to prevent cross-class price distortions
-        var classPromptNotional = {};
-        var classPromptLots = {};
-        var classNextNotional = {};
-        var classNextLots = {};
-        var classTotalNotional = {};
+        var classMetrics = {};
+        var benchmarkWeights = _deconstETFKey === 'bdry' 
+          ? { cape: 0.50, pana: 0.40, supra: 0.10 } 
+          : { vlcc: 0.90, suez: 0.10 };
 
-        pred.holdings.forEach(function(h) {
-          var px = h.shockPrice || h.unitPrice;
-          var notional = h.Lots * px;
-          var clsKey = h.class;
+        var classKeys = _deconstETFKey === 'bdry' ? ['cape', 'pana', 'supra'] : ['vlcc', 'suez'];
 
-          if (!classPromptNotional[clsKey]) {
-            classPromptNotional[clsKey] = 0; classPromptLots[clsKey] = 0;
-            classNextNotional[clsKey] = 0; classNextLots[clsKey] = 0;
-            classTotalNotional[clsKey] = 0;
-          }
-          classTotalNotional[clsKey] += notional;
+        classKeys.forEach(function(cls) {
+          var promptHoldings = pred.holdings.filter(function(h) { return h.class === cls && h.isPrompt; });
+          var nextHoldings = pred.holdings.filter(function(h) { return h.class === cls && !h.isPrompt; });
 
-          if (h.isPrompt) {
-            classPromptNotional[clsKey] += notional;
-            classPromptLots[clsKey] += h.Lots;
-          } else {
-            classNextNotional[clsKey] += notional;
-            classNextLots[clsKey] += h.Lots;
-          }
-        });
-
-        var weightedRollYieldSum = 0;
-        var totalPortNotional = 0;
-        Object.keys(classTotalNotional).forEach(function(k) { totalPortNotional += classTotalNotional[k]; });
-
-        Object.keys(classTotalNotional).forEach(function(clsKey) {
-          var pNot = classPromptNotional[clsKey];
-          var pLt = classPromptLots[clsKey];
-          var nNot = classNextNotional[clsKey];
-          var nLt = classNextLots[clsKey];
+          var pNot = 0, pLt = 0, nNot = 0, nLt = 0;
+          promptHoldings.forEach(function(h) {
+            var px = h.shockPrice || h.unitPrice;
+            pNot += h.Lots * px; pLt += h.Lots;
+          });
+          nextHoldings.forEach(function(h) {
+            var px = h.shockPrice || h.unitPrice;
+            nNot += h.Lots * px; nLt += h.Lots;
+          });
 
           var avgP = pLt > 0 ? (pNot / pLt) : 0;
           var avgN = nLt > 0 ? (nNot / nLt) : 0;
 
-          if (avgP > 0 && avgN > 0) {
-            var classRollSpreadPct = ((avgP - avgN) / avgP) * 100;
-            var classWeight = totalPortNotional > 0 ? (classTotalNotional[clsKey] / totalPortNotional) : 0;
-            weightedRollYieldSum += classRollSpreadPct * classWeight;
+          // Decouple to market forward curve prices if portfolio roll has not commenced (rollPct == 0)
+          if (avgP === 0 || avgN === 0) {
+            var pFall = cls === 'cape' ? 22500 : (cls === 'pana' ? 15200 : (cls === 'supra' ? 14100 : (cls === 'vlcc' ? 48500 : 38200)));
+            var nFall = cls === 'cape' ? 21800 : (cls === 'pana' ? 14800 : (cls === 'supra' ? 13900 : (cls === 'vlcc' ? 46800 : 37100)));
+            var shock = _deconstShocks[cls] || 0;
+            if (avgP === 0) avgP = pFall * (1 + shock / 100);
+            if (avgN === 0) avgN = nFall * (1 + shock / 100);
+          }
+
+          if (avgP > 1.0 && avgN > 1.0) {
+            var spread = ((avgP - avgN) / avgP) * 100;
+            classMetrics[cls] = { avgP: avgP, avgN: avgN, spread: spread, weight: benchmarkWeights[cls] || 0 };
           }
         });
 
+        var weightedRollYieldSum = 0;
+        var totalActiveWeight = 0;
+        Object.keys(classMetrics).forEach(function(cls) {
+          totalActiveWeight += classMetrics[cls].weight;
+        });
+
+        Object.keys(classMetrics).forEach(function(cls) {
+          var normWeight = totalActiveWeight > 0 ? (classMetrics[cls].weight / totalActiveWeight) : 0;
+          weightedRollYieldSum += classMetrics[cls].spread * normWeight;
+        });
+
         var spreadPct = weightedRollYieldSum;
-        if (spreadPct >= 0) {
-          kpiRoll.textContent = '+' + spreadPct.toFixed(2) + '% / mo';
-          kpiRoll.style.color = '#3fb950';
-          var descEl = document.getElementById('deconstKpiRollDesc');
-          if (descEl) descEl.textContent = 'Backwardation Roll Gain (+) ';
-        } else {
-          kpiRoll.textContent = spreadPct.toFixed(2) + '% / mo';
-          kpiRoll.style.color = '#d29922';
-          var descEl = document.getElementById('deconstKpiRollDesc');
-          if (descEl) descEl.textContent = 'Contango Decay Rate (-) ';
-        }
+        var isPos = spreadPct >= 0;
+        kpiRoll.textContent = (isPos ? '+' : '') + spreadPct.toFixed(2) + '% / mo';
+        kpiRoll.style.color = isPos ? '#3fb950' : '#d29922';
+
+        var descEl = document.getElementById('deconstKpiRollDesc');
+        if (descEl) descEl.textContent = isPos ? 'Backwardation Roll Gain (+) ' : 'Contango Decay Rate (-) ';
       }
 
       // Update Table & Roll Progress Text
@@ -4383,7 +4431,8 @@
           }
 
           var displayEffShock = Math.round(h.effShockPct);
-          var impactSign = h.sharePriceImpact >= 0 ? '+' : '';
+          var dollarImpactStr = (h.sharePriceImpact > 0 ? '+$' : (h.sharePriceImpact < 0 ? '-$' : '$')) + Math.abs(h.sharePriceImpact).toFixed(2);
+          var navContribStr = (h.navContribPct > 0 ? '+' : '') + h.navContribPct.toFixed(2) + '%';
           var impactColor = h.sharePriceImpact > 0 ? '#3fb950' : (h.sharePriceImpact < 0 ? '#f85149' : 'var(--text-muted)');
 
           var isRowActive = _activeDeconstContractName === h.Name;
@@ -4404,8 +4453,8 @@
                 '<span style="font-size:11px;font-weight:700;color:var(--text-muted);">%</span>' +
               '</div>' +
             '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + '$' + Math.abs(h.sharePriceImpact).toFixed(2) + '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + impactSign + h.navContribPct.toFixed(2) + '%</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + dollarImpactStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + navContribStr + '</td>' +
             '</tr>';
         });
         bodyEl.innerHTML = html;
@@ -4463,7 +4512,12 @@
             var cellColor = '';
             var borderCss = '';
             var isBaselineCell = (rShock === 0 && cShock === 0);
-            var isCurrent = Math.abs(rShock - (_deconstETFKey === 'bdry' ? _deconstShocks.cape : _deconstShocks.vlcc)) < 0.1 && Math.abs(cShock - (_deconstETFKey === 'bdry' ? _deconstShocks.pana : _deconstShocks.suez)) < 0.1;
+            var hasMicroShocks = Object.keys(_deconstMicroShocks).length > 0;
+            var isCurrent = !hasMicroShocks && (
+              _deconstETFKey === 'bdry'
+                ? (Math.abs(rShock - _deconstShocks.cape) < 0.1 && Math.abs(cShock - _deconstShocks.pana) < 0.1 && Math.abs(cShock - _deconstShocks.supra) < 0.1)
+                : (Math.abs(rShock - _deconstShocks.vlcc) < 0.1 && Math.abs(cShock - _deconstShocks.suez) < 0.1)
+            );
 
             if (isCurrent) {
               // Only the currently active scenario cell gets the bold glowing selection border
@@ -5063,7 +5117,7 @@
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" data-tooltip="<div class='rt-title'>Amplify BDRY (Breakwave Dry Bulk Shipping ETF)</div><div class='rt-row'><span class='rt-label'>Underlying Asset:</span><span class='rt-val'>Dry Bulk Freight Futures (FFA)</span></div><div class='rt-row'><span class='rt-label'>Target Weightings:</span><span class='rt-val'>Capesize 50% / Panamax 40% / Supramax 10%</span></div><div class='rt-note'>Click to switch predictor model to BDRY dry bulk futures curve.</div>" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
-              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" data-tooltip="<div class='rt-title'>Amplify BWET (Breakwave Tanker Shipping ETF)</div><div class='rt-row'><span class='rt-label'>Underlying Asset:</span><span class='rt-val'>Crude Oil Tanker Futures (FFA)</span></div><div class='rt-row'><span class='rt-label'>Target Weightings:</span><span class='rt-val'>VLCC TD3C ~86.4% / Suezmax TD20 ~13.6%</span></div><div class='rt-note'>Click to switch predictor model to BWET crude tanker futures curve.</div>" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
+              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" data-tooltip="<div class='rt-title'>Amplify BWET (Breakwave Tanker Shipping ETF)</div><div class='rt-row'><span class='rt-label'>Underlying Asset:</span><span class='rt-val'>Crude Oil Tanker Futures (FFA)</span></div><div class='rt-row'><span class='rt-label'>Target Weightings:</span><span class='rt-val'>90% VLCC TD3C / 10% Suezmax TD20</span></div><div class='rt-note'>Click to switch predictor model to BWET crude tanker futures curve.</div>" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
             </div>
           </div>
         </div>
@@ -10489,15 +10543,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function classifyHolding(name, ticker, etf) {
       const n = (name || '').toLowerCase();
       const t = (ticker || '').toLowerCase();
+      if (n.includes('cash') || n.includes('invesco') || n.includes('agpxx') || t.includes('cash') || t.includes('agpxx')) return 'cash';
       if (etf === 'bdry') {
-        if (n.includes('capesize') || t.includes('c5tcm')) return 'cape';
-        if (n.includes('panamax') || t.includes('p5tcm')) return 'pana';
-        if (n.includes('supramax') || t.includes('s58fm')) return 'supra';
-        return 'cash';
+        if (n.includes('capesize') || n.includes('cape') || t.includes('c5tcm')) return 'cape';
+        if (n.includes('panamax') || n.includes('pana') || t.includes('p5tcm')) return 'pana';
+        if (n.includes('supramax') || n.includes('supra') || t.includes('s58fm')) return 'supra';
+        return 'other';
       } else {
-        if (n.includes('td3c') || t.includes('dd3cm')) return 'td3c';
-        if (n.includes('td20') || t.includes('dd20m')) return 'td20';
-        return 'cash';
+        if (n.includes('td3c') || n.includes('vlcc') || t.includes('dd3cm')) return 'td3c';
+        if (n.includes('td20') || n.includes('suez') || t.includes('dd20m')) return 'td20';
+        return 'other';
       }
     }
 
@@ -11015,7 +11070,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       </div>
       <div class="etf-metric">
         <div class="etf-metric-label">Futures / AUM</div>
-        <div class="etf-metric-value" style="color:var(--green)">${(totalFutures / totalAUM * 100).toFixed(1)}%</div>
+        <div class="etf-metric-value" style="color:var(--green)">${totalAUM > 0 ? (totalFutures / totalAUM * 100).toFixed(1) + '%' : '-'}</div>
       </div>
     </div>
     <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr);">
@@ -16462,12 +16517,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             
             // Shading
             if (zeroY >= top && zeroY <= bottom) {
-              // Contango (Upper)
+              // Contango (Upper - Futures > Spot: Long Roll Drag / Overpriced)
               ctx.save();
-              ctx.fillStyle = 'rgba(63, 185, 80, 0.08)';
-              ctx.fillRect(left, top, right - left, zeroY - top);
-              // Backwardation (Lower)
               ctx.fillStyle = 'rgba(248, 81, 73, 0.08)';
+              ctx.fillRect(left, top, right - left, zeroY - top);
+              // Backwardation (Lower - Futures < Spot: Long Roll Yield / Prompt Scarcity)
+              ctx.fillStyle = 'rgba(63, 185, 80, 0.08)';
               ctx.fillRect(left, zeroY, right - left, bottom - zeroY);
 
               // Zero Line
