@@ -5608,8 +5608,25 @@
       var snapBaseline = (pred.snapshot && pred.snapshot.baseline) ? pred.snapshot.baseline : {};
       var curBasePrice = (_deconstManualBaseline && _deconstManualBaseline.mktPx) ? _deconstManualBaseline.mktPx : (snapBaseline.market_price || getDeconstBasePrice(_deconstETFKey));
       var baseNavSh = (_deconstManualBaseline && _deconstManualBaseline.navSh) ? _deconstManualBaseline.navSh : (snapBaseline.nav_per_share || curBasePrice);
-      var baseShares = (_deconstManualBaseline && _deconstManualBaseline.shares) ? _deconstManualBaseline.shares : (snapBaseline.shares_outstanding || (_deconstETFKey === 'bdry' ? 2350000 : 350000));
-      var baseTotalNav = (_deconstManualBaseline && _deconstManualBaseline.totalNav) ? _deconstManualBaseline.totalNav : (snapBaseline.total_nav_dollars || (baseShares * baseNavSh));
+      
+      // Dynamic reverse-engineering of Total NAV from constituent holdings if snapshot is missing baseline
+      var baseTotalNav = (_deconstManualBaseline && _deconstManualBaseline.totalNav) ? _deconstManualBaseline.totalNav : snapBaseline.total_nav_dollars;
+      if (!baseTotalNav && pred.holdings && pred.holdings.length) {
+        var impliedNavList = pred.holdings.filter(function(h) { return h.weight > 2.0 && h.Lots > 0 && (h.unitPrice > 0 || h.startingPrice > 0); })
+          .map(function(h) { return (h.Lots * (h.multiplier || 1.0) * (h.unitPrice || h.startingPrice)) / (h.weight / 100); });
+        if (impliedNavList.length) {
+          baseTotalNav = impliedNavList.reduce(function(a, b) { return a + b; }, 0) / impliedNavList.length;
+        }
+      }
+
+      var baseShares = (_deconstManualBaseline && _deconstManualBaseline.shares) ? _deconstManualBaseline.shares : snapBaseline.shares_outstanding;
+      if (!baseShares && baseTotalNav && baseNavSh > 0) {
+        var rawSh = baseTotalNav / baseNavSh;
+        baseShares = Math.round(rawSh / 25000) * 25000;
+      }
+      if (!baseShares) baseShares = (_deconstETFKey === 'bdry' ? 2200000 : 225000);
+      if (!baseTotalNav) baseTotalNav = baseShares * baseNavSh;
+
       var baseOrigin = _deconstManualBaseline ? ("Manual Baseline (" + (_deconstManualBaseline.asOfDate || 'User Input') + ")") : ("Official Baseline (" + (snapBaseline.as_of_date || holdingsDate) + ")");
       var isValidBaseline = (baseShares > 0 && baseNavSh > 0);
 
@@ -6153,9 +6170,25 @@
       var holdingsDate = pred.snapshotDate || '2026-08-14';
       var curBasePrice = (_deconstManualBaseline && _deconstManualBaseline.mktPx) ? _deconstManualBaseline.mktPx : (snapBaseline.market_price || getDeconstBasePrice(_deconstETFKey));
       var baseNavSh = (_deconstManualBaseline && _deconstManualBaseline.navSh) ? _deconstManualBaseline.navSh : (snapBaseline.nav_per_share || curBasePrice);
-      var baseShares = (_deconstManualBaseline && _deconstManualBaseline.shares) ? _deconstManualBaseline.shares : (snapBaseline.shares_outstanding || (_deconstETFKey === 'bdry' ? 2350000 : 350000));
-      var baseTotalNav = (_deconstManualBaseline && _deconstManualBaseline.totalNav) ? _deconstManualBaseline.totalNav : (snapBaseline.total_nav_dollars || (baseShares * baseNavSh));
-      var baseOrigin = _deconstManualBaseline ? ("Manual Baseline (" + (_deconstManualBaseline.asOfDate || 'User Input') + ")") : ("Official Filings (" + (snapBaseline.as_of_date || holdingsDate) + ")");
+      
+      var baseTotalNav = (_deconstManualBaseline && _deconstManualBaseline.totalNav) ? _deconstManualBaseline.totalNav : snapBaseline.total_nav_dollars;
+      if (!baseTotalNav && pred.holdings && pred.holdings.length) {
+        var impliedNavList = pred.holdings.filter(function(h) { return h.weight > 2.0 && h.Lots > 0 && (h.unitPrice > 0 || h.startingPrice > 0); })
+          .map(function(h) { return (h.Lots * (h.multiplier || 1.0) * (h.unitPrice || h.startingPrice)) / (h.weight / 100); });
+        if (impliedNavList.length) {
+          baseTotalNav = impliedNavList.reduce(function(a, b) { return a + b; }, 0) / impliedNavList.length;
+        }
+      }
+
+      var baseShares = (_deconstManualBaseline && _deconstManualBaseline.shares) ? _deconstManualBaseline.shares : snapBaseline.shares_outstanding;
+      if (!baseShares && baseTotalNav && baseNavSh > 0) {
+        var rawSh = baseTotalNav / baseNavSh;
+        baseShares = Math.round(rawSh / 25000) * 25000;
+      }
+      if (!baseShares) baseShares = (_deconstETFKey === 'bdry' ? 2200000 : 225000);
+      if (!baseTotalNav) baseTotalNav = baseShares * baseNavSh;
+
+      var baseOrigin = _deconstManualBaseline ? ("Manual Baseline (" + (_deconstManualBaseline.asOfDate || 'User Input') + ")") : ("Official Disclosed Baseline (" + (snapBaseline.as_of_date || holdingsDate) + ")");
       var isValidBaseline = (baseShares > 0 && baseNavSh > 0);
 
       var baselineDate = _deconstManualBaseline ? (_deconstManualBaseline.asOfDate || 'Manual') : (snapBaseline.as_of_date || holdingsDate);

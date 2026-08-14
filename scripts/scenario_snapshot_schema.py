@@ -281,22 +281,54 @@ def generate_scenario_snapshot(
             latest_nav_sh = float(last_f['nav'])
             latest_nav_date = last_f['date_dt'].strftime('%Y-%m-%d')
 
-    cftc_file = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'data', 'cftc_statements', f'cftc_{f_key}_monthly_ledger.csv'))
-    latest_shares = 2350000 if fund == 'BDRY' else 350000
+    # 3. Derive Shares Outstanding & Total NAV (Reverse-Engineered directly from Constituent Market Value & Weights)
+    latest_shares = 2200000 if fund == 'BDRY' else 4700000
     latest_total_nav = None
-    if os.path.exists(cftc_file):
-        import pandas as pd
-        df_c = pd.read_csv(cftc_file)
-        df_c['date_dt'] = pd.to_datetime(df_c['statement_period_end'], errors='coerce')
-        df_c = df_c.sort_values('date_dt')
-        if not df_c.empty:
-            last_c = df_c.iloc[-1]
-            shares_val = last_c.get('shares_outstanding_period_end')
-            if pd.notna(shares_val) and int(shares_val) > 0:
-                latest_shares = int(shares_val)
-            nav_val = last_c.get('net_asset_value_period_end')
-            if pd.notna(nav_val) and float(nav_val) > 0:
-                latest_total_nav = float(nav_val)
+
+    # Priority A: Reverse-engineer dynamically from daily holdings CSV (Market_Value / Weightings)
+    raw_holdings_path = os.path.join(base_dir, 'raw_holdings', fund, f"{snapshot_date}.csv")
+    if not os.path.exists(raw_holdings_path):
+        raw_holdings_path = os.path.join(base_dir, f"{f_key}_holdings.csv")
+
+    if os.path.exists(raw_holdings_path):
+        try:
+            import pandas as pd
+            import numpy as np
+            df_h = pd.read_csv(raw_holdings_path)
+            if 'Market_Value' in df_h.columns and 'Weightings' in df_h.columns:
+                df_h['mv_num'] = df_h['Market_Value'].astype(str).str.replace('$', '').str.replace(',', '').astype(float)
+                df_h['wt_num'] = df_h['Weightings'].astype(str).str.replace('%', '').astype(float) / 100.0
+                valid_rows = df_h[(df_h['wt_num'] > 0.02) & (df_h['mv_num'] > 0)]
+                if not valid_rows.empty:
+                    implied_total_nav = float((valid_rows['mv_num'] / valid_rows['wt_num']).median())
+                    latest_total_nav = round(implied_total_nav, 2)
+                    price_for_shares = latest_nav_sh if (latest_nav_sh and latest_nav_sh > 0) else latest_mkt_px
+                    if price_for_shares and price_for_shares > 0:
+                        raw_shares = latest_total_nav / price_for_shares
+                        # Discretize to ETF creation basket resolution (25,000 shares)
+                        latest_shares = int(round(raw_shares / 25000.0) * 25000)
+        except Exception:
+            pass
+
+    # Priority B: Fallback to historical CFTC monthly ledger if holdings CSV missing weights
+    if latest_total_nav is None:
+        cftc_file = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'data', 'cftc_statements', f'cftc_{f_key}_monthly_ledger.csv'))
+        if os.path.exists(cftc_file):
+            try:
+                import pandas as pd
+                df_c = pd.read_csv(cftc_file)
+                df_c['date_dt'] = pd.to_datetime(df_c['statement_period_end'], errors='coerce')
+                df_c = df_c.sort_values('date_dt')
+                if not df_c.empty:
+                    last_c = df_c.iloc[-1]
+                    shares_val = last_c.get('shares_outstanding_period_end')
+                    if pd.notna(shares_val) and int(shares_val) > 0:
+                        latest_shares = int(shares_val)
+                    nav_val = last_c.get('net_asset_value_period_end')
+                    if pd.notna(nav_val) and float(nav_val) > 0:
+                        latest_total_nav = float(nav_val)
+            except Exception:
+                pass
 
     if latest_total_nav is None and latest_nav_sh is not None and latest_shares is not None:
         latest_total_nav = round(float(latest_shares * latest_nav_sh), 2)
