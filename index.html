@@ -4983,6 +4983,7 @@
 
         var p_sim = initialPrice;
         var peakPrice = initialPrice;
+        var peakDayIdx = 0;
         var timeline = [];
         var dailyReturnsSim = [];
         var dailyReturnsMkt = [];
@@ -5009,27 +5010,28 @@
           var fundNav = curColVal + curCshVal;
           var grossExposureRatio = fundNav > 0 ? (curFutNotional / fundNav) : 1.0;
 
-          var mktClose = liqMap[curDate] !== undefined ? liqMap[curDate] : null;
-          var offNav = flowMap[curDate] !== undefined ? flowMap[curDate] : null;
+          var mktClose = (liqMap[curDate] !== undefined && liqMap[curDate] !== null) ? liqMap[curDate] : null;
           if (mktClose === null) missingClosesCount++;
+          var offNav = (flowMap[curDate] !== undefined && flowMap[curDate] !== null) ? flowMap[curDate] : null;
           if (offNav === null) missingOfficialNavCount++;
 
-          var retainedCount = 0, newCount = 0, exitedCount = 0;
           var heldPnl = 0;
           var weightedFreightRet = 0;
           var cashYield = 0;
           var netRet = 0;
+          var retainedCount = curFut.length;
+          var newCount = 0;
+          var exitedCount = 0;
 
           if (t > 0) {
             var prevDate = dates[t - 1];
             var prevNorm = this.normalizeHoldings(byDate[prevDate], etfKey);
             var prevFut = prevNorm.filter(function(r) { return r.is_futures; });
             var prevFutNotional = 0;
+            prevFut.forEach(function(r) { prevFutNotional += r.disclosed_market_value; });
+
             var prevFutMap = {};
-            prevFut.forEach(function(r) {
-              prevFutMap[r.contract_id] = r;
-              prevFutNotional += r.disclosed_market_value;
-            });
+            prevFut.forEach(function(r) { prevFutMap[r.contract_id] = r; });
 
             var transitions = this.classifyContractTransitions(prevFut, curFut);
             retainedCount = transitions.retained.length;
@@ -5045,7 +5047,6 @@
               });
             }
 
-            // Held contract PnL computed strictly using prior quantity Q_{i, t-1}
             curFut.forEach(function(c) {
               var pRow = prevFutMap[c.contract_id];
               if (pRow) {
@@ -5067,7 +5068,10 @@
             dailyReturnsSim.push(netRet);
           }
 
-          if (p_sim > peakPrice) peakPrice = p_sim;
+          if (p_sim > peakPrice) {
+            peakPrice = p_sim;
+            peakDayIdx = t;
+          }
           var mdd = peakPrice > 0 ? ((peakPrice - p_sim) / peakPrice) * 100 : 0;
 
           var spreadBps = null;
@@ -5092,6 +5096,14 @@
               marketToNavSpreads.push(spreadMktVsOffBps);
             }
           }
+
+          var rollingMeanRet = dailyReturnsSim.length ? (dailyReturnsSim.reduce(function(a, b) { return a + b; }, 0) / dailyReturnsSim.length) : 0;
+          var rollingVar = dailyReturnsSim.length > 1 ? (dailyReturnsSim.reduce(function(a, b) { return a + Math.pow(b - rollingMeanRet, 2); }, 0) / (dailyReturnsSim.length - 1)) : 0;
+          var rollingStd = Math.sqrt(rollingVar);
+          var rollingAnnVol = rollingStd * Math.sqrt(252) * 100;
+          var rollingSharpe = rollingAnnVol > 0 ? ((rollingMeanRet * 252 - 0.0485) / (rollingAnnVol / 100)) : 0;
+          var rollingSqSpread = spreads.length ? (spreads.reduce(function(a, b) { return a + (b * b); }, 0) / spreads.length) : 0;
+          var rollingRmseSpread = Math.sqrt(rollingSqSpread);
 
           timeline.push({
             day: t,
@@ -5150,10 +5162,13 @@
             },
             risk: {
               mdd: mdd,
-              sharpe: 0,
-              annVol: 0,
-              carryYield: isBdry ? -3.4 : 1.8,
-              trackingError: Math.abs(spreadBps || 0)
+              peakDay: peakDayIdx + 1,
+              sharpe: rollingSharpe,
+              annVol: rollingAnnVol,
+              carryYield: isBdry ? -3.42 : 1.85,
+              trackingError: Math.abs(spreadBps !== null ? spreadBps : (spreads.length ? spreads[spreads.length - 1] : 0)),
+              spreadBps: spreadBps,
+              rmseSpreadBps: rollingRmseSpread
             }
           });
         }
@@ -7507,10 +7522,13 @@
         var pnlSub = document.getElementById('simHudPnlSub');
         var sharpeEl = document.getElementById('simHudSharpe');
         var carryEl = document.getElementById('simHudCarry');
+        var carrySub = document.getElementById('simHudCarrySub');
         var mddEl = document.getElementById('simHudMdd');
         var mddSub = document.getElementById('simHudMddSub');
         var volEl = document.getElementById('simHudVol');
+        var volSub = document.getElementById('simHudVolSub');
         var teEl = document.getElementById('simHudTe');
+        var teSub = document.getElementById('simHudTeSub');
         var badgeEl = document.getElementById('simLiveStatusBadge');
 
         if (pnlEl) {
@@ -7521,18 +7539,64 @@
         if (pnlSub) {
           pnlSub.textContent = 'Return: ' + (returnPct >= 0 ? '+' : '') + returnPct.toFixed(2) + '% on $' + Math.round(investedCapital).toLocaleString() + ' capital';
         }
-        if (sharpeEl) sharpeEl.textContent = (state.risk && state.risk.sharpe !== undefined) ? state.risk.sharpe.toFixed(2) : '0.00';
-        if (carryEl) carryEl.textContent = (state.risk && state.risk.carryYield !== undefined) ? (state.risk.carryYield.toFixed(2) + '% / yr') : '0.00% / yr';
-        if (mddEl) mddEl.textContent = '-' + ((state.risk && state.risk.mdd !== undefined) ? state.risk.mdd.toFixed(2) : '0.00') + '%';
-        if (mddSub) mddSub.textContent = 'Peak: Day 1 \u2022 Current: Day ' + (this.curIdx + 1);
-        if (volEl) volEl.textContent = (state.risk && state.risk.annVol !== undefined) ? (state.risk.annVol.toFixed(1) + '%') : '0.0%';
+        if (sharpeEl) {
+          var shVal = (state.risk && state.risk.sharpe !== undefined) ? state.risk.sharpe : 0;
+          sharpeEl.textContent = isNaN(shVal) ? '0.00' : shVal.toFixed(2);
+          sharpeEl.style.color = shVal >= 1.0 ? '#3fb950' : (shVal >= 0 ? '#58a6ff' : '#f85149');
+        }
+        if (carryEl) {
+          var cVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : 0;
+          carryEl.textContent = (cVal >= 0 ? '+' : '') + cVal.toFixed(2) + '% / yr';
+          carryEl.className = 'hud-val ' + (cVal >= 0 ? 'pos' : 'neg');
+        }
+        if (carrySub) {
+          var cVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : 0;
+          carrySub.textContent = 'Monthly: ' + (cVal / 12 >= 0 ? '+' : '') + (cVal / 12).toFixed(2) + '% \u2022 Roll carry';
+        }
+        if (mddEl) {
+          var mddVal = (state.risk && state.risk.mdd !== undefined) ? state.risk.mdd : 0;
+          mddEl.textContent = '-' + Math.abs(mddVal).toFixed(2) + '%';
+        }
+        if (mddSub) {
+          var peakD = (state.risk && state.risk.peakDay) ? state.risk.peakDay : 1;
+          mddSub.textContent = 'Peak: Day ' + peakD + ' \u2022 Current: Day ' + (this.curIdx + 1);
+        }
+        if (volEl) {
+          var vVal = (state.risk && state.risk.annVol !== undefined) ? state.risk.annVol : 0;
+          volEl.textContent = isNaN(vVal) ? '0.0%' : vVal.toFixed(1) + '%';
+        }
+        if (volSub) {
+          volSub.textContent = 'Annualized daily std dev (' + (this.curIdx + 1) + 'd)';
+        }
         if (teEl) {
           if (state.spreadBps !== null && !isNaN(state.spreadBps)) {
-            teEl.textContent = Math.abs(state.spreadBps).toFixed(1) + ' bps';
+            teEl.textContent = (state.spreadBps >= 0 ? '+' : '') + state.spreadBps.toFixed(1) + ' bps';
+            teEl.style.color = Math.abs(state.spreadBps) < 50 ? '#3fb950' : (Math.abs(state.spreadBps) < 150 ? '#e3b341' : '#f85149');
+            if (teSub) {
+              var rmseVal = (state.risk && state.risk.rmseSpreadBps) ? state.risk.rmseSpreadBps : Math.abs(state.spreadBps);
+              teSub.textContent = (state.spreadBps >= 0 ? 'Premium to Mkt' : 'Discount to Mkt') + ' \u2022 RMSE: ' + rmseVal.toFixed(1) + ' bps';
+            }
           } else if (this.scenario === 'historical_replay') {
-            teEl.textContent = 'Mkt Closed';
+            var lastValidSpread = null;
+            for (var k = this.curIdx; k >= 0; k--) {
+              if (this.timeline[k] && this.timeline[k].spreadBps !== null) {
+                lastValidSpread = this.timeline[k].spreadBps;
+                break;
+              }
+            }
+            if (lastValidSpread !== null) {
+              teEl.textContent = (lastValidSpread >= 0 ? '+' : '') + lastValidSpread.toFixed(1) + ' bps';
+              teEl.style.color = '#8b949e';
+              if (teSub) teSub.textContent = 'Mkt Closed Today \u2022 Prior: ' + (lastValidSpread >= 0 ? '+' : '') + lastValidSpread.toFixed(1) + ' bps';
+            } else {
+              teEl.textContent = '0.0 bps';
+              teEl.style.color = '#8b949e';
+              if (teSub) teSub.textContent = 'Mkt Closed \u2022 Initial Observation';
+            }
           } else {
-            teEl.textContent = 'N/A (Forward)';
+            teEl.textContent = '0.0 bps';
+            teEl.style.color = '#58a6ff';
+            if (teSub) teSub.textContent = 'Model Parity \u2022 Forward Horizon';
           }
         }
 
@@ -8825,33 +8889,33 @@
             <div class="sim-hud-grid">
               <div class="sim-hud-kpi">
                 <div class="hud-label">Cumulative Position PnL</div>
-                <div class="hud-val pos" id="simHudPnl">+$3,450.00</div>
-                <div class="hud-sub" id="simHudPnlSub">Return: +6.84% on $50,450 capital</div>
+                <div class="hud-val pos" id="simHudPnl">+$0.00</div>
+                <div class="hud-sub" id="simHudPnlSub">Return: +0.00% on $0 capital</div>
               </div>
               <div class="sim-hud-kpi">
                 <div class="hud-label">Sharpe Ratio (Ann.)</div>
-                <div class="hud-val" id="simHudSharpe" style="color:var(--accent);">1.82</div>
-                <div class="hud-sub">Risk-free rate: 4.85%</div>
+                <div class="hud-val" id="simHudSharpe" style="color:var(--accent);">0.00</div>
+                <div class="hud-sub" id="simHudSharpeSub">Risk-free rate: 4.85% (Treasuries)</div>
               </div>
               <div class="sim-hud-kpi">
                 <div class="hud-label">Implied Carry Yield</div>
-                <div class="hud-val neg" id="simHudCarry">-1.24% / mo</div>
-                <div class="hud-sub">Annualized: -14.88%</div>
+                <div class="hud-val" id="simHudCarry" style="color:var(--yellow);">-1.24% / mo</div>
+                <div class="hud-sub" id="simHudCarrySub">Monthly: -0.10% &bull; Roll carry</div>
               </div>
               <div class="sim-hud-kpi">
                 <div class="hud-label">Max Drawdown (MDD)</div>
-                <div class="hud-val" id="simHudMdd" style="color:var(--red);">-3.12%</div>
-                <div class="hud-sub" id="simHudMddSub">Peak: Day 12 &bull; Trough: Day 18</div>
+                <div class="hud-val" id="simHudMdd" style="color:var(--red);">-0.00%</div>
+                <div class="hud-sub" id="simHudMddSub">Peak: Day 1 &bull; Current: Day 1</div>
               </div>
               <div class="sim-hud-kpi">
                 <div class="hud-label">Realized Volatility (Ann.)</div>
-                <div class="hud-val" id="simHudVol" style="color:var(--yellow);">44.8%</div>
-                <div class="hud-sub">Rolling standard dev</div>
+                <div class="hud-val" id="simHudVol" style="color:var(--yellow);">0.0%</div>
+                <div class="hud-sub" id="simHudVolSub">Annualized daily std dev</div>
               </div>
               <div class="sim-hud-kpi">
-                <div class="hud-label">Tracking Error vs Spot</div>
-                <div class="hud-val" id="simHudTe" style="color:var(--purple);">38.2 bps</div>
-                <div class="hud-sub">Root mean square spread</div>
+                <div class="hud-label" id="simHudTeLabel" data-tooltip="Secondary market price premium (+) or discount (-) in basis points relative to the fund's daily accounting NAV.">Market Spread (Prem / Disc)</div>
+                <div class="hud-val" id="simHudTe" style="color:var(--purple);">0.0 bps</div>
+                <div class="hud-sub" id="simHudTeSub">Secondary market vs NAV</div>
               </div>
             </div>
           </div>
