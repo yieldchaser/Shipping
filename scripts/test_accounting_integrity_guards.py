@@ -27,9 +27,9 @@ class TestAccountingIntegrityGuards(unittest.TestCase):
         sunday_nav = get_exact_official_nav('2026-06-21', self.bdry_flows)
         self.assertTrue(np.isnan(sunday_nav), "Sunday 2026-06-21 must be NaN; look-ahead forward/backward search is prohibited.")
         
-        # 2026-08-13 is missing from flows table. Exact lookup must return NaN without backward-filling August 12.
-        missing_nav = get_exact_official_nav('2026-08-13', self.bdry_flows)
-        self.assertTrue(np.isnan(missing_nav), "2026-08-13 must be NaN; backward search is prohibited.")
+        # A missing unobserved date must return NaN without backward-filling previous dates.
+        missing_nav = get_exact_official_nav('2099-01-01', self.bdry_flows)
+        self.assertTrue(np.isnan(missing_nav), "Missing date 2099-01-01 must be NaN; backward search is prohibited.")
 
     def test_no_estimated_shares_in_reconstruction(self):
         res = run_fund_level_nav_reconstruction('bdry')
