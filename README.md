@@ -110,6 +110,8 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`data/etf/bwet_holdings.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bwet_holdings.csv) | Daily Holdings | Live | ~15 | BWET FFA contract holdings (TD3C VLCC & TD20 Suezmax) |
 | [`data/etf/bdry_holdings_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BDRY ETF FFA contract positions |
 | [`data/etf/bwet_holdings_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bwet_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BWET ETF FFA contract positions |
+| [`data/etf/snapshots/scenario_snapshots.js`](file:///c:/Users/Dell/Github/Shipping/data/etf/snapshots/scenario_snapshots.js) | Snapshot Bundle | Live | — | Cryptographically verified canonical scenario snapshot bundle for BDRY & BWET |
+| [`data/etf/snapshots/provenance_manifest.json`](file:///c:/Users/Dell/Github/Shipping/data/etf/snapshots/provenance_manifest.json) | Audit Manifest | Live | — | Immutable SHA-256 cryptographic provenance registry and hash audit trail |
 | [`data/etf/BDRY_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BDRY_flows.csv) | Fund Flows | 23-03-2018 | ~2,088 | Daily flow $, Net Shares, NAV, AUM history for BDRY ETF |
 | [`data/etf/BWET_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BWET_flows.csv) | Fund Flows | 04-05-2023 | ~808 | Daily flow $, Net Shares, NAV, AUM history for BWET ETF |
 | [`data/flows/all_flows_summary.json`](file:///c:/Users/Dell/Github/Shipping/data/flows/all_flows_summary.json) | JSON Summary | Live | — | Unified JSON payload containing synced ETF flow metrics |
@@ -227,6 +229,19 @@ All 6 base indices as individual chart cards:
     - **Dual Worldscale (WS) & Time Charter Equivalent (TCE $/day) Unit Architecture**: Dynamically formats crude tanker futures history (BWET ETF: VLCC TD3C & Suezmax TD20) in both exchange-traded Worldscale Points (`WS 68.0`) and implied daily charter revenue (`~$48,484/day`), while preserving absolute dollar rates (`$39,232/day`) for dry bulk futures (BDRY ETF).
     - **Contract-Level Micro-Simulator & SGX Range Matrix**: Line-item table displaying SGX Settle Rates ($/day or WS), 52-Week Price Range Bars ($ Min — $ Max), single-line input boxes (`white-space: nowrap`), `$ / Share Impact`, and `% NAV Contrib` metrics.
     - **Macro / Micro Slider Mode & Institutional 0%-Origin Range Sliders**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders. Range slider tracks feature 0%-origin baseline fills (positive shocks fill right in class colors; negative shocks fill left in financial red).
+    - **Dynamic Reverse-Engineered Shares Outstanding & Total NAV**: Eliminates 30-day reporting lags from monthly SEC/CFTC filings by dynamically inverting daily constituent disclosures:
+      $$\text{Total Fund NAV} = \text{median}\left(\left\{\frac{\text{Market\_Value}_i}{w_i} \;\middle|\; w_i > 2\%\right\}\right)$$
+      $$\text{Shares Outstanding} = \text{round}\left(\frac{\text{Total Fund NAV}}{\text{NAV per share}} \times \frac{1}{25,000}\right) \times 25,000$$
+      *Empirical Validation*: Produces **2,200,000 shares** ($30.94M AUM) for BDRY and **225,000 shares** ($80.68M AUM) for BWET, matching terminal data (Koyfin / Bloomberg) with 100.0% precision down to the exact 25,000-share creation basket.
+    - **Institutional Thesis-to-ETF Scenario Translator & Decision Ticket Workflow**:
+      - *Scenario Book Separation*: Toggle between **Frozen Disclosed Book** (official archive) and **User-Assumed Forward Book** (custom roll-in legs, custom entry/target marks, and roll transaction friction).
+      - *4-Regime Market Pricing Model*: Evaluates projected secondary market prices under Unchanged Basis, Carried-Forward Baseline Spread, Stressed AP Spread, and Theoretical NAV Parity.
+      - *Institutional Decision Ticket Modal (`#decisionTicketModal`)*: Generates structured, compliance-ready decision tickets detailing Route P&L Attribution (Cape/Pana/Supra/VLCC/Suez), Book Separation tables, and Residual Risk disclosures with 1-click `{ }` Copy JSON and `📄` Copy Text.
+    - **Universal Classy Contract Settlement Price Inspector Modal (`#etfContractDetailModal`)**:
+      - High-DPI Chart.js modal rendering historical settlement curve trajectories, 52-Week High/Low range bars, active fund position lots & % weights, and official exchange rulebook references (SGX / CME ClearPort / Baltic Exchange).
+      - Accessible across all constituent tables, micro-shock sliders, simulator strip rows, and decision ticket book views with `<kbd>ESC</kbd>` and backdrop click dismissal.
+    - **Contract-Level Micro-Simulator & SGX Range Matrix**: Line-item table displaying SGX Settle Rates ($/day or WS), 52-Week Price Range Bars ($ Min — $ Max), single-line input boxes (`white-space: nowrap`), `$ / Share Impact`, and `% NAV Contrib` metrics.
+    - **Macro / Micro Slider Mode & Institutional 0%-Origin Range Sliders**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders. Range slider tracks feature 0%-origin baseline fills (positive shocks fill right in class colors; negative shocks fill left in financial red).
     - **2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with glowing active scenario borders and neutral baseline cell outlines.
     - **Target Price Reverse NAV Solver**: Inverts the NAV return formula to solve the exact uniform freight rate rally/decline % required to reach any user-entered target ETF share price ($).
     - **Editable Position Share Count & Base PnL**: Interactive input box (`PnL FOR [ 1000 ] SHARES`) dynamically recalculating dollar PnL and invested Base Capital ($).
@@ -241,7 +256,7 @@ All 6 base indices as individual chart cards:
       - *Margin Collateral Hierarchy*: Segregates 15% CME/SGX encumbered Initial Margin ($C_{\text{IM}}$) while unencumbered free cash ($C_{\text{free}}$ in AGPXX) continuously accrues 4.85% yield minus 3.50% TER.
       - *Authorized Participant (AP) Arbitrage Bounds*: Secondary market price tracks theoretical NAV with mean-reverting basis spread SDE.
     - **Cinematic 4-Panel Frontier Grid**:
-      - **Panel A: Dynamic Holdings Table**: Animated decaying lot progress bars, prompt/deferred classification, per-contract $/share impact, and live green/crimson tick pulses on daily rate evolutions.
+      - **Panel A: Dynamic Holdings Table**: Animated decaying lot progress bars, prompt/deferred classification, per-contract $/share impact, and live green/crimson tick pulses on daily rate evolutions with clickable contract settlement charts (`chart ↗`).
       - **Panel B: Dual-Pane Charts**: Top pane tracks Simulated Price vs Actual Market Close; Bottom pane plots real-time tracking spread / basis in basis points (bps).
       - **Panel C: 3-Way Daily Attribution Waterfall**: Decomposes daily price changes into Pure Freight Move ($\Delta R_{\text{freight}}$) + Roll Yield Drag/Gain ($\Delta R_{\text{roll}}$) + Cash Yield & Fee Drag ($\Delta R_{\text{cash}}$).
       - **Panel D: Risk & Performance HUD**: Real-time position PnL on custom share count, Annualized Sharpe Ratio, Implied Carry Yield, Max Drawdown (MDD), Realized Volatility, and Tracking Error.
@@ -413,18 +428,24 @@ Total Graph Edges:   5,774 (5,194 Calls, 404 Contains, 173 Imports, 3 References
 | [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 68.3 KB | 50 | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (NVIDIA NIM). |
 | [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 48.1 KB | 28 | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
 | [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 31.9 KB | 23 | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
+| [`thesis_scenario_builder.py`](file:///c:/Users/Dell/Github/Shipping/scripts/thesis_scenario_builder.py) | 26.5 KB | 12 | Authoritative Python ETF scenario builder executing 4-regime pricing & decision ticket translation. |
 | [`update_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_indices.py) | 24.0 KB | 14 | StockQ freight indices & SGX FFA futures curve scraper. |
 | [`hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py) | 23.8 KB | 19 | Hellenic Shipping News report & weekly TC rate table scraper. |
 | [`build_health_report.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_health_report.py) | 22.8 KB | 16 | Knowledge health, source cadence, and diagnostic report generator. |
+| [`scenario_snapshot_schema.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scenario_snapshot_schema.py) | 20.4 KB | 11 | Authoritative snapshot schema compiler & dynamic reverse-engineered shares generator. |
 | [`build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) | 19.8 KB | 18 | Topic evidence scoring and automated markdown wiki page builder. |
 | [`breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py) | 18.0 KB | 17 | Breakwave Insights HTML commentary archive scraper. |
 | [`fetch_flows_shipping.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_flows_shipping.py) | 16.4 KB | 8 | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
 | [`breakwave_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_scraper.py) | 15.7 KB | 12 | Breakwave Advisors PDF biweekly report scraper. |
+| [`current_book_manual_shock.py`](file:///c:/Users/Dell/Github/Shipping/scripts/current_book_manual_shock.py) | 15.0 KB | 8 | Disclosed book manual contract shock calculation & provenance validation core. |
 | [`normalize_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/normalize_source_archives.py) | 14.5 KB | 15 | HTML archive standardizer and cleaner. |
+| [`provenance_manifest_manager.py`](file:///c:/Users/Dell/Github/Shipping/scripts/provenance_manifest_manager.py) | 13.2 KB | 7 | Immutable SHA-256 provenance manifest registry and content hash auditor. |
 | [`update_etf_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_etf_holdings.py) | 12.4 KB | 9 | Amplify ETF holdings downloader and sorter. |
 | [`source_archive_utils_v2.py`](file:///c:/Users/Dell/Github/Shipping/scripts/source_archive_utils_v2.py) | 11.0 KB | 20 | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
+| [`verify_production_artifact_integrity.py`](file:///c:/Users/Dell/Github/Shipping/scripts/verify_production_artifact_integrity.py) | 9.5 KB | 5 | Cryptographic production artifact integrity and snapshot parity auditor. |
 | [`baltic_new_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_new_indices.py) | 8.6 KB | 11 | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
 | [`backfill_historical_data.py`](file:///c:/Users/Dell/Github/Shipping/scripts/backfill_historical_data.py) | 8.3 KB | 6 | Fearnleys Hasura GraphQL API historical rates backfill script. |
+| [`test_decision_ticket_workflow.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_decision_ticket_workflow.py) | 6.8 KB | 7 | Complete Python unit test suite for Decision Ticket workflow and book separation. |
 | [`check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) | 4.8 KB | 7 | Freshness monitoring utility for Breakwave biweekly reports. |
 | [`check_data_health.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_data_health.py) | 4.8 KB | 5 | CSV time series health & date continuity checker. |
 | [`validate_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_source_archives.py) | 4.2 KB | 5 | Source archive format validator. |
@@ -462,6 +483,17 @@ python scripts/baltic_new_indices.py
 
 # Update BDRY / BWET ETF holdings
 python scripts/update_etf_holdings.py
+
+# Generate Authoritative ETF Scenario Snapshots with Dynamic Reverse-Engineered Shares
+python -c "from scripts.scenario_snapshot_schema import save_scenario_snapshots_bundle; print(save_scenario_snapshots_bundle())"
+
+# Verify Cryptographic SHA-256 Provenance & Production Artifact Integrity
+python scripts/verify_production_artifact_integrity.py
+
+# Run Python-to-Browser Bit-for-Bit Parity & Adversarial Regression Tests
+node scratch/test_python_browser_parity.js
+node scratch/test_e2e_scenario_translator.js
+python scripts/test_decision_ticket_workflow.py
 
 # Fetch BDRY / BWET Playwright fund flows
 python scripts/fetch_flows_shipping.py
