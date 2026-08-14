@@ -198,10 +198,10 @@ def run_official_nav_reconstruction(etf_key: str) -> Dict[str, Any]:
                 
             freight_ret = held_pnl / prev_fut_notional if prev_fut_notional > 0 else 0.0
             
-            # Business day cash yield (AGPXX repo 4.85% net of 3.50% TER)
+            # Business day cash yield (AGPXX repo 4.85% net of 1.45% statutory OER)
             dt_days = (datetime.strptime(cur_date, '%Y-%m-%d') - datetime.strptime(prev_date, '%Y-%m-%d')).days
             b_days = max(1, min(dt_days, 3))
-            cash_yield = ((0.0485 - 0.0350) / 252.0) * b_days
+            cash_yield = ((0.0485 - 0.0145) / 252.0) * b_days
             
             net_nav_return = freight_ret + cash_yield
             sim_nav = sim_nav * (1.0 + net_nav_return)

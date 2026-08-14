@@ -4258,38 +4258,49 @@
       var isRally = reqNavPct >= 0;
       var labelAction = isRally ? 'Rally' : 'Drop';
       
+      // Calculate gross futures exposure ratio to scale required freight shock accurately
+      var targetDate = new Date();
+      var pred = typeof predictETFPortfolioHoldings === 'function' ? predictETFPortfolioHoldings(_deconstETFKey, targetDate) : null;
+      var totalFutNotional = (pred && pred.totalNotional > 0) ? pred.totalNotional : 0;
+      var ps = typeof getDeconstPortfolioState === 'function' ? getDeconstPortfolioState(_deconstETFKey) : null;
+      var totalNav = (ps && ps.baselineTotalNav > 0) ? ps.baselineTotalNav : (totalFutNotional > 0 ? totalFutNotional : 0);
+      var exposureRatio = (totalFutNotional > 0 && totalNav > 0) ? (totalFutNotional / totalNav) : 1.0;
+      if (exposureRatio <= 0.05) exposureRatio = 1.0;
+
+      var reqFreightPct = reqNavPct / exposureRatio;
+      
       if (_deconstETFKey === 'bdry') {
-        resEl.textContent = 'Req. Dry FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        _deconstShocks.cape = reqNavPct;
-        _deconstShocks.pana = reqNavPct;
-        _deconstShocks.supra = reqNavPct;
+        resEl.textContent = 'Req. Dry FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqFreightPct.toFixed(1) + '%';
+        _deconstShocks.cape = reqFreightPct;
+        _deconstShocks.pana = reqFreightPct;
+        _deconstShocks.supra = reqFreightPct;
 
         ['Cape', 'Pana', 'Supra'].forEach(function(clsKey) {
           var s = document.getElementById('deconstSlider' + clsKey);
           var v = document.getElementById('deconstVal' + clsKey);
           if (s) {
-            if (reqNavPct > 100) s.max = String(Math.ceil(reqNavPct / 10) * 10);
-            if (reqNavPct < -50) s.min = String(Math.floor(reqNavPct / 10) * 10);
-            s.value = Math.round(reqNavPct);
+            if (reqFreightPct > 100) s.max = String(Math.ceil(reqFreightPct / 10) * 10);
+            if (reqFreightPct < -50) s.min = String(Math.floor(reqFreightPct / 10) * 10);
+            s.value = Math.round(reqFreightPct);
             updateSliderTrackFill(s, clsKey === 'Cape' ? '#58a6ff' : (clsKey === 'Pana' ? '#3fb950' : '#d29922'));
           }
-          if (v) v.textContent = (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
+          if (v) v.textContent = (isRally ? '+' : '') + reqFreightPct.toFixed(1) + '%';
         });
       } else {
-        resEl.textContent = 'Req. Tanker FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
-        _deconstShocks.vlcc = reqNavPct;
-        _deconstShocks.suez = reqNavPct;
+        resEl.textContent = 'Req. Tanker FFA ' + labelAction + ': ' + (isRally ? '+' : '') + reqFreightPct.toFixed(1) + '%';
+        _deconstShocks.vlcc = reqFreightPct;
+        _deconstShocks.suez = reqFreightPct;
 
         ['Vlcc', 'Suez'].forEach(function(clsKey) {
           var s = document.getElementById('deconstSlider' + clsKey);
           var v = document.getElementById('deconstVal' + clsKey);
           if (s) {
-            if (reqNavPct > 100) s.max = String(Math.ceil(reqNavPct / 10) * 10);
-            if (reqNavPct < -50) s.min = String(Math.floor(reqNavPct / 10) * 10);
-            s.value = Math.round(reqNavPct);
+            if (reqFreightPct > 100) s.max = String(Math.ceil(reqFreightPct / 10) * 10);
+            if (reqFreightPct < -50) s.min = String(Math.floor(reqFreightPct / 10) * 10);
+            s.value = Math.round(reqFreightPct);
             updateSliderTrackFill(s, clsKey === 'Vlcc' ? '#f0883e' : '#a371f7');
           }
-          if (v) v.textContent = (isRally ? '+' : '') + reqNavPct.toFixed(1) + '%';
+          if (v) v.textContent = (isRally ? '+' : '') + reqFreightPct.toFixed(1) + '%';
         });
       }
       renderETFDeconstructionEngine();
@@ -5061,7 +5072,7 @@
             var dPrev = new Date(dates[t - 1] + 'T00:00:00Z');
             var dtDays = Math.round((dCur - dPrev) / (1000 * 60 * 60 * 24));
             var bDays = Math.max(1, Math.min(isNaN(dtDays) ? 1 : dtDays, 3));
-            cashYield = ((0.0485 - 0.0350) / 252) * bDays;
+            cashYield = ((0.0485 - 0.0145) / 252) * bDays;
             netRet = weightedFreightRet + cashYield;
 
             p_sim = p_sim * (1 + netRet);
@@ -10645,6 +10656,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
+
+      // Defensive pre-initialization to prevent unhandled undefined accesses
+      DATA.bdryHoldings = DATA.bdryHoldings || [];
+      DATA.bwetHoldings = DATA.bwetHoldings || [];
+      DATA.bdryHoldingsHistory = DATA.bdryHoldingsHistory || [];
+      DATA.bwetHoldingsHistory = DATA.bwetHoldingsHistory || [];
+      DATA.bdryPD = DATA.bdryPD || [];
+      DATA.bwetPD = DATA.bwetPD || [];
+      DATA.bdryLiquidity = DATA.bdryLiquidity || [];
+      DATA.bwetLiquidity = DATA.bwetLiquidity || [];
+      DATA.bdryFlows = DATA.bdryFlows || [];
+      DATA.bwetFlows = DATA.bwetFlows || [];
+
       // Pre-calculate total promises up front (PRODUCT_KEYS count + 19 specific file fetches + 4 SGX files)
       const sgxFileKeys = ['cape', 'panamax', 'supramax', 'handysize'];
       let total = PRODUCT_KEYS.length + 19 + sgxFileKeys.length;
@@ -10708,7 +10732,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const safeFetch = (file, label, defaultVal, parseFn) => {
           return fetchCSV(file)
             .then(r => { tick(label); return parseFn ? parseFn(r) : r; })
-            .catch(e => { tick(label + ' (fail)'); console.warn('[' + label + '] Load failed:', e.message); return defaultVal; });
+            .catch(e => {
+              tick(label + ' (fail)');
+              console.warn('[' + label + '] Load failed:', e.message);
+              if (parseFn) {
+                try { parseFn(defaultVal); } catch (err) {}
+              }
+              return defaultVal;
+            });
         };
 
         const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r; });
@@ -15005,10 +15036,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (currentTab === 'yearly-dash') renderYearlyDash(currentProduct);
       if (currentTab === 'monthly-dash') renderMonthlyDash(currentProduct);
       if (currentTab === 'signals') renderSignalsTab(currentProduct);
+      if (currentTab === 'intelligence') renderIntelligenceTab();
+      if (currentTab === 'etfs') {
+        renderETFTab();
+        try { if (typeof renderETFDeconstructionEngine === 'function') renderETFDeconstructionEngine(); } catch (e) {}
+      }
     });
 
     document.getElementById('ratesOverlayProduct').addEventListener('change', function () {
-      if (DATA.loaded) renderYDRatesOverlay('yearlyRatesChart');
+      if (DATA.loaded && currentTab === 'yearly-dash') renderYDRatesOverlay('yearlyRatesChart');
     });
 
     // =====================================================================
@@ -21654,11 +21690,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const reader = res.body.getReader();
         const decoder = new TextDecoder();
         let full = '';
+        let lineBuffer = '';
         while (true) {
           const { done, value } = await reader.read();
           if (done) break;
-          const lines = decoder.decode(value, { stream: true }).split('\n').filter(l => l.startsWith('data: '));
-          for (const line of lines) {
+          lineBuffer += decoder.decode(value, { stream: true });
+          const parts = lineBuffer.split('\n');
+          lineBuffer = parts.pop() || '';
+          for (const rawLine of parts) {
+            const line = rawLine.trim();
+            if (!line.startsWith('data: ')) continue;
             const payload = line.slice(6).trim();
             if (payload === '[DONE]') continue;
             try {
@@ -21682,12 +21723,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       const doStream = !!onToken && !options?.enableWebSearch;
+      const fetchSignal = options?.signal;
       // ── Groq ──────────────────────────────────────────────────────────────
       if (provider === 'groq') {
         const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
           body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+          signal: fetchSignal
         });
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
@@ -21734,7 +21777,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 'Content-Type': 'application/json',
                 'x-goog-api-key': apiKey
               },
-              body: JSON.stringify(bodyObj)
+              body: JSON.stringify(bodyObj),
+              signal: fetchSignal
             });
 
             if (!res.ok) {
@@ -21783,6 +21827,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             'X-OpenRouter-Title': 'Shipping Intelligence Dashboard',
           },
           body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+          signal: fetchSignal
         });
         const selectedModel = res.headers.get('X-OpenRouter-Selected-Model');
         if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
@@ -21814,7 +21859,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             temperature: 0.2,
             max_tokens: 2048,
             stream: doStream
-          })
+          }),
+          signal: fetchSignal
         });
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
@@ -21917,7 +21963,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const ansEl  = document.getElementById('qaAnswer');
       const citEl  = document.getElementById('qaCitations');
       const query  = (document.getElementById('qaQuery')?.value || '').trim();
-      const autoSrc = _autoSelectSources(query);  // backend source routing — doesn't touch checkboxes
+      const autoSrc = _autoSelectSources(query);
       const provider = _currentQAProvider();
       const cfg = _providerConfig(provider);
       const apiKey = (document.getElementById('qaApiKey')?.value || _loadProviderKey(provider) || '').trim();
@@ -21932,6 +21978,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       localStorage.setItem('qa_provider', provider);
       const statusEl = document.getElementById('qaKeyStatus');
       if (statusEl) statusEl.textContent = 'Saved';
+
+      if (window._currentQAController) {
+        try { window._currentQAController.abort(); } catch (e) {}
+      }
+      window._currentQAController = new AbortController();
+      const qaSignal = window._currentQAController.signal;
 
       btn.disabled = true;
       panel.style.display = 'block';
@@ -22133,7 +22185,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               (partial) => { ansEl.innerHTML = _formatQAAnswer(partial); },
-              { enableWebSearch: webSearch }
+              { enableWebSearch: webSearch, signal: qaSignal }
             );
             answer = typeof resObj === 'object' ? resObj.text : resObj;
             const webCits = (typeof resObj === 'object' ? resObj.webCitations : []) || [];
@@ -22143,6 +22195,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             finalWebCitations = webCits;
             break;
           } catch (err) {
+            if (err.name === 'AbortError') return;
             lastError = err;
             const isRetryable = /429|rate.limit|quota|too.many|too.large|request.too|token/i.test(err.message);
             if (isRetryable && fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
@@ -22719,6 +22772,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var statusEl = document.getElementById('etfQaKeyStatus');
       if (statusEl) statusEl.textContent = 'Saved';
 
+      if (window._currentEtfQAController) {
+        try { window._currentEtfQAController.abort(); } catch (e) {}
+      }
+      window._currentEtfQAController = new AbortController();
+      var etfQaSignal = window._currentEtfQAController.signal;
+
       if (btn) btn.disabled = true;
       if (panel) panel.style.display = 'block';
       if (statEl) statEl.textContent = 'Assembling ETF portfolio context & SGX forward curves...';
@@ -22748,13 +22807,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             var resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               function(partial) { if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(partial); },
-              { enableWebSearch: webSearch }
+              { enableWebSearch: webSearch, signal: etfQaSignal }
             );
             answer = typeof resObj === 'object' ? resObj.text : resObj;
             finalWebCitations = (typeof resObj === 'object' ? resObj.webCitations : []) || [];
             usedProvider = p;
             break;
           } catch (err) {
+            if (err.name === 'AbortError') return;
             lastError = err;
             if (fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
               if (statEl) statEl.textContent = pCfg.label + ' failed - trying next provider...';
@@ -22784,6 +22844,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (citEl) citEl.innerHTML = citHtml.join('');
 
       } catch (err) {
+        if (err.name === 'AbortError') return;
         var msg = err.message || 'Unknown error';
         if (statEl) statEl.innerHTML = '[Error] ' + msg;
         if (ansEl) ansEl.textContent = '';

@@ -307,7 +307,7 @@ def compute_confluence(
             return 0.0
         decay = 0.85
         weights = [decay ** i for i in range(len(values))]
-        return sum(w * _QUAL_SCORES.get(v.lower(), 0.0) for w, v in zip(weights, values)) / sum(weights)
+        return sum(w * _QUAL_SCORES.get((str(v or 'neutral')).lower(), 0.0) for w, v in zip(weights, values)) / sum(weights)
 
     s_score = _weighted_score(sentiments)
     m_score = _weighted_score(momentums) if momentums else 0.0
@@ -1829,15 +1829,15 @@ def main() -> None:
     tanker_z = compute_tanker_z(snapshot)
     pre_dry_conf = compute_confluence(
         dry_z,
-        sentiments=[s.get("sentiment", "neutral") for s in dry_signals],
-        momentums=[s.get("momentum", "neutral") for s in dry_signals],
-        fundamentals=[s.get("fundamentals", "neutral") for s in dry_signals],
+        sentiments=[s.get("sentiment") or "neutral" for s in dry_signals],
+        momentums=[s.get("momentum") or "neutral" for s in dry_signals],
+        fundamentals=[s.get("fundamentals") or "neutral" for s in dry_signals],
     )
     pre_tanker_conf = compute_confluence(
         tanker_z,
-        sentiments=[s.get("sentiment", "neutral") for s in tanker_signals],
-        momentums=[s.get("momentum", "neutral") for s in tanker_signals],
-        fundamentals=[s.get("fundamentals", "neutral") for s in tanker_signals],
+        sentiments=[s.get("sentiment") or "neutral" for s in tanker_signals],
+        momentums=[s.get("momentum") or "neutral" for s in tanker_signals],
+        fundamentals=[s.get("fundamentals") or "neutral" for s in tanker_signals],
     )
 
     print("[brief] Loading wiki excerpts...")
