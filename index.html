@@ -2919,6 +2919,381 @@
   .sq-divider { width: 100%; height: 0.5px; background: rgba(88, 166, 255, 0.12); margin: 16px 0; }
   .sq-hint { font-size: 11.5px; color: var(--gray); margin-top: 10px; }
 
+  /* ===================================================================== */
+  /*  DAY-BY-DAY ETF SIMULATOR STYLING & GLOWING MICRO-INTERACTIONS         */
+  /* ===================================================================== */
+  .sim-ambient-glow {
+    position: absolute;
+    top: -80px;
+    right: -80px;
+    width: 320px;
+    height: 320px;
+    background: radial-gradient(circle, rgba(88, 166, 255, 0.08) 0%, rgba(0,0,0,0) 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+  .sim-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 16px;
+    position: relative;
+    z-index: 1;
+  }
+  .sim-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .sim-live-badge {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(122, 132, 148, 0.2);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    transition: all 0.3s ease;
+  }
+  .sim-live-badge.playing {
+    background: rgba(63, 185, 80, 0.18);
+    color: #3fb950;
+    border-color: rgba(63, 185, 80, 0.4);
+    box-shadow: 0 0 10px rgba(63, 185, 80, 0.3);
+    animation: simBadgePulse 1.5s infinite;
+  }
+  @keyframes simBadgePulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+  .sim-subtitle { font-size: 12px; color: var(--text-muted); margin-top: 3px; }
+  .sim-etf-toggle {
+    display: flex;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 3px;
+    gap: 4px;
+  }
+  .sim-toggle-btn {
+    padding: 5px 14px;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    background: transparent;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+  }
+  .sim-toggle-btn.active {
+    background: var(--accent);
+    color: #fff;
+    box-shadow: 0 0 12px rgba(88, 166, 255, 0.4);
+  }
+  .sim-scenario-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+    scrollbar-width: none;
+  }
+  .sim-scenario-bar::-webkit-scrollbar { display: none; }
+  .sim-scenario-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+  }
+  .sim-scenario-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+  }
+  .sim-scenario-chip:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+  }
+  .sim-scenario-chip.active {
+    background: rgba(88, 166, 255, 0.12);
+    border-color: var(--accent);
+    box-shadow: 0 0 10px rgba(88, 166, 255, 0.3);
+  }
+  .chip-dot { width: 6px; height: 6px; border-radius: 50%; }
+  .chip-dot-bull { background: #3fb950; box-shadow: 0 0 6px #3fb950; }
+  .chip-dot-bear { background: #f85149; box-shadow: 0 0 6px #f85149; }
+  .chip-dot-warn { background: #e3b341; box-shadow: 0 0 6px #e3b341; }
+  .chip-dot-accent { background: #58a6ff; box-shadow: 0 0 6px #58a6ff; }
+  .chip-tag {
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+  .chip-tag.pos { color: #3fb950; background: rgba(63, 185, 80, 0.1); }
+  .chip-tag.neg { color: #f85149; background: rgba(248, 81, 73, 0.1); }
+  .chip-tag.warn { color: #e3b341; background: rgba(227, 179, 65, 0.1); }
+  .chip-tag.accent { color: #58a6ff; background: rgba(88, 166, 255, 0.1); }
+  .sim-playback-dock {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 900px) { .sim-playback-dock { grid-template-columns: 1fr; } }
+  .sim-playback-controls { display: flex; align-items: center; gap: 8px; }
+  .sim-ctrl-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .sim-ctrl-btn:hover { background: var(--hover); border-color: var(--accent); color: var(--accent); }
+  .sim-play-btn {
+    background: var(--accent);
+    border: none;
+    color: #fff;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 0 14px rgba(88, 166, 255, 0.4);
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+  .sim-play-btn:hover { transform: scale(1.08); box-shadow: 0 0 20px rgba(88, 166, 255, 0.6); }
+  .sim-scrubber-wrapper { position: relative; display: flex; flex-direction: column; gap: 6px; }
+  .sim-timeline-info { display: flex; justify-content: space-between; font-size: 11px; }
+  .sim-date-badge { font-weight: 700; font-family: 'IBM Plex Mono', monospace; color: var(--text); }
+  .sim-roll-badge { font-weight: 600; color: #58a6ff; }
+  .sim-slider-container { position: relative; width: 100%; height: 20px; display: flex; align-items: center; }
+  #simScrubber {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: var(--card);
+    outline: none;
+    position: relative;
+    z-index: 2;
+    cursor: pointer;
+  }
+  #simScrubber::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    box-shadow: 0 0 8px var(--accent);
+    border: 2px solid #fff;
+    transition: transform 0.1s ease, box-shadow 0.15s ease;
+  }
+  #simScrubber::-webkit-slider-thumb:hover { transform: scale(1.25); box-shadow: 0 0 14px var(--accent); }
+  .sim-scrubber-progress {
+    position: absolute;
+    left: 0;
+    top: 7px;
+    height: 6px;
+    background: linear-gradient(90deg, #388bfd, #58a6ff);
+    border-radius: 3px;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .sim-scrubber-roll-zone {
+    position: absolute;
+    top: 4px;
+    height: 12px;
+    background: rgba(227, 179, 65, 0.15);
+    border: 1px dashed rgba(227, 179, 65, 0.4);
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .sim-scrubber-tooltip {
+    position: absolute;
+    top: -64px;
+    background: rgba(17, 24, 32, 0.95);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 11px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.6), 0 0 10px rgba(88, 166, 255, 0.3);
+    pointer-events: none;
+    display: none;
+    transform: translateX(-50%);
+    z-index: 100;
+    white-space: nowrap;
+  }
+  .sim-scrubber-tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px 5px 0;
+    border-style: solid;
+    border-color: var(--accent) transparent transparent;
+  }
+  .sim-scrubber-tooltip .tt-date { font-weight: 700; color: var(--text-muted); font-size: 10px; margin-bottom: 2px; }
+  .sim-scrubber-tooltip .tt-row { display: flex; justify-content: space-between; gap: 8px; }
+  .sim-speed-dock { display: flex; align-items: center; gap: 6px; }
+  .sim-speed-label { font-size: 11px; color: var(--text-muted); font-weight: 600; }
+  .sim-speed-group {
+    display: flex;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px;
+    gap: 2px;
+  }
+  .sim-speed-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    padding: 3px 8px;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .sim-speed-btn.active { background: var(--accent); color: #fff; }
+  .sim-frontier-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  @media (max-width: 1100px) { .sim-frontier-grid { grid-template-columns: 1fr; } }
+  .sim-panel {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+  }
+  .sim-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  .sim-panel-title { font-size: 12px; font-weight: 700; color: var(--text); display: flex; align-items: center; gap: 6px; }
+  .sim-panel-dot { width: 7px; height: 7px; border-radius: 50%; }
+  .dot-blue { background: #58a6ff; box-shadow: 0 0 6px #58a6ff; }
+  .dot-cyan { background: #38bdf8; box-shadow: 0 0 6px #38bdf8; }
+  .dot-gold { background: #e3b341; box-shadow: 0 0 6px #e3b341; }
+  .dot-green { background: #3fb950; box-shadow: 0 0 6px #3fb950; }
+  .sim-badge {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: var(--card);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+  }
+  .sim-badge-pos { background: rgba(63, 185, 80, 0.15); color: #3fb950; border-color: rgba(63, 185, 80, 0.3); }
+  .sim-table-wrap { overflow-x: auto; max-height: 280px; overflow-y: auto; }
+  .sim-table { width: 100%; border-collapse: collapse; font-size: 11px; }
+  .sim-table th {
+    background: var(--card);
+    color: var(--text-muted);
+    padding: 6px 8px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  .sim-table td { padding: 6px 8px; border-bottom: 1px solid rgba(255, 255, 255, 0.04); transition: background 0.3s ease; }
+  .tick-pulse-up { animation: tickUpPulse 0.8s ease-out; }
+  .tick-pulse-down { animation: tickDownPulse 0.8s ease-out; }
+  @keyframes tickUpPulse { 0% { background: rgba(63, 185, 80, 0.35); } 100% { background: transparent; } }
+  @keyframes tickDownPulse { 0% { background: rgba(248, 81, 73, 0.35); } 100% { background: transparent; } }
+  .lot-progress-track { width: 100%; height: 6px; background: var(--card); border-radius: 3px; overflow: hidden; position: relative; }
+  .lot-progress-fill { height: 100%; transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+  .fill-decay { background: linear-gradient(90deg, #f85149, #e3b341); }
+  .fill-accrual { background: linear-gradient(90deg, #58a6ff, #3fb950); }
+  .sim-dual-top-pane { height: 160px; margin-bottom: 8px; position: relative; }
+  .sim-dual-bottom-pane { height: 95px; position: relative; }
+  .sim-legend-inline { display: flex; gap: 10px; font-size: 10px; color: var(--text-muted); }
+  .sim-leg-item { display: flex; align-items: center; gap: 4px; }
+  .leg-box { width: 8px; height: 8px; border-radius: 2px; }
+  .leg-sim { background: #58a6ff; }
+  .leg-mkt { background: #e3b341; }
+  .leg-spread { background: #bc8cff; }
+  .sim-waterfall-summary { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+  .att-card { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 8px; text-align: center; }
+  .att-label { font-size: 10px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; }
+  .att-val { font-size: 15px; font-weight: 800; font-family: 'IBM Plex Mono', monospace; margin: 2px 0; }
+  .att-sub { font-size: 9px; color: var(--text-muted); }
+  .att-val.pos { color: #3fb950; }
+  .att-val.neg { color: #f85149; }
+  .sim-waterfall-chart-wrap { height: 180px; position: relative; }
+  .sim-hud-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .sim-hud-kpi { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 10px; }
+  .hud-label { font-size: 10px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; }
+  .hud-val { font-size: 18px; font-weight: 800; font-family: 'IBM Plex Mono', monospace; margin: 2px 0; }
+  .hud-sub { font-size: 10px; color: var(--text-muted); }
+  .hud-val.pos { color: #3fb950; }
+  .hud-val.neg { color: #f85149; }
+  .sim-hud-share-input { display: flex; align-items: center; gap: 4px; font-size: 10px; color: var(--text-muted); font-weight: 700; }
+  #simShareCountInput {
+    width: 60px;
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+    text-align: center;
+  }
+
 
   /* TOOLTIP SYSTEM */
   #global-tooltip {
@@ -4065,6 +4440,7 @@
 
 
         function predictETFPortfolioHoldings(etfKey, targetDate) {
+      if (typeof DATA === 'undefined' || !DATA) return { holdings: [], grossFuturesExposureRatio: 1.0, futuresTotalNotional: 0 };
       var year = targetDate.getFullYear();
       var month = targetDate.getMonth() + 1;
       var day = targetDate.getDate();
@@ -4249,6 +4625,7 @@
       }
 
     window.renderETFDeconstructionEngine = function renderETFDeconstructionEngine() {
+      if (typeof DATA === 'undefined' || !DATA) return;
       var dateInput = document.getElementById('deconstTargetDate');
       if (!dateInput) return;
       if (!dateInput.value) {
@@ -4753,7 +5130,668 @@
     // Auto-render on script load if tab active
     setTimeout(function() {
       try { renderETFDeconstructionEngine(); } catch(e) { console.error(e); }
+      try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch(e) { console.error('[SIM_CONTROLLER]', e); }
     }, 200);
+
+    // =====================================================================
+    //  DAY-BY-DAY ETF PORTFOLIO & PRICE SIMULATOR (GOLD STANDARD ENGINE)
+    // =====================================================================
+    window.SIM_CONTROLLER = {
+      etf: 'bdry',
+      scenario: 'china_stimulus',
+      speed: 1.0,
+      shares: 5000,
+      curIdx: 0,
+      isPlaying: false,
+      timer: null,
+      timeline: [],
+      charts: { price: null, spread: null, waterfall: null },
+      prevTickRates: {},
+
+      init: function() {
+        this.buildTimeline();
+        this.setupHotkeys();
+        this.renderFrame(true);
+      },
+
+      switchETF: function(etf) {
+        if (this.etf === etf) return;
+        this.pause();
+        this.etf = etf;
+        var bdryBtn = document.getElementById('simEtfBdry');
+        var bwetBtn = document.getElementById('simEtfBwet');
+        if (bdryBtn) bdryBtn.classList.toggle('active', etf === 'bdry');
+        if (bwetBtn) bwetBtn.classList.toggle('active', etf === 'bwet');
+        
+        // Auto-select relevant scenario
+        if (etf === 'bwet' && this.scenario === 'china_stimulus') {
+          this.loadScenario('red_sea_spike');
+        } else if (etf === 'bdry' && this.scenario === 'red_sea_spike') {
+          this.loadScenario('china_stimulus');
+        } else {
+          this.buildTimeline();
+          this.renderFrame(true);
+        }
+      },
+
+      loadScenario: function(scenKey) {
+        this.pause();
+        this.scenario = scenKey;
+        var chips = document.querySelectorAll('.sim-scenario-chip');
+        chips.forEach(function(c) { c.classList.remove('active'); });
+        var activeChip = document.getElementById('scenChip_' + scenKey);
+        if (activeChip) activeChip.classList.add('active');
+
+        this.buildTimeline();
+        this.renderFrame(true);
+      },
+
+      buildTimeline: function() {
+        this.curIdx = 0;
+        this.timeline = [];
+        var isBdry = this.etf === 'bdry';
+        var basePrice = isBdry ? 10.09 : 340.50;
+        var numDays = 30;
+        
+        // Base Date anchor
+        var baseDate = new Date(2026, 7, 11); // Aug 11, 2026
+
+        // Scenario Shock Matrix (% per day)
+        var dailyShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+        var rollVelocity = 1.0;
+        var contangoPenalty = -0.0028; // -0.28% per month normal basis
+
+        if (this.scenario === 'china_stimulus') {
+          dailyShocks.cape = 0.035; dailyShocks.pana = 0.022; dailyShocks.supra = 0.015;
+          dailyShocks.vlcc = 0.008; dailyShocks.suez = 0.006;
+          contangoPenalty = 0.0015; // flips to backwardation
+        } else if (this.scenario === 'red_sea_spike') {
+          dailyShocks.vlcc = 0.040; dailyShocks.suez = 0.032;
+          dailyShocks.cape = 0.012; dailyShocks.pana = 0.008;
+          contangoPenalty = 0.0025; // steep backwardation
+        } else if (this.scenario === 'monsoon_lull') {
+          dailyShocks.cape = -0.015; dailyShocks.pana = -0.012; dailyShocks.supra = -0.009;
+          dailyShocks.vlcc = -0.005; dailyShocks.suez = -0.004;
+          contangoPenalty = -0.0035;
+        } else if (this.scenario === 'contango_drag') {
+          dailyShocks.cape = 0.000; dailyShocks.pana = 0.000; dailyShocks.supra = 0.000;
+          dailyShocks.vlcc = 0.000; dailyShocks.suez = 0.000;
+          contangoPenalty = -0.0065; // severe contango
+        } else if (this.scenario === 'fast_roll') {
+          dailyShocks.cape = 0.005; dailyShocks.pana = 0.003;
+          dailyShocks.vlcc = 0.006; dailyShocks.suez = 0.004;
+          rollVelocity = 2.5; // rolls in 8 days
+        }
+
+        var curSimPrice = basePrice;
+        var curMktPrice = basePrice;
+        var peakPrice = basePrice;
+        var dailyReturns = [];
+
+        // Generate synthetic contract template
+        var baseContracts = isBdry ? [
+          { class: 'cape', name: 'Capesize Aug 26', baseRate: 26800, baseLots: 45, isPrompt: true },
+          { class: 'cape', name: 'Capesize Sep 26', baseRate: 25400, baseLots: 0, isPrompt: false },
+          { class: 'pana', name: 'Panamax Aug 26', baseRate: 17400, baseLots: 38, isPrompt: true },
+          { class: 'pana', name: 'Panamax Sep 26', baseRate: 16800, baseLots: 0, isPrompt: false },
+          { class: 'supra', name: 'Supramax Aug 26', baseRate: 15100, baseLots: 10, isPrompt: true }
+        ] : [
+          { class: 'vlcc', name: 'TD3C Aug 26', baseRate: 49500, baseLots: 85, isPrompt: true },
+          { class: 'vlcc', name: 'TD3C Sep 26', baseRate: 48200, baseLots: 0, isPrompt: false },
+          { class: 'suez', name: 'TD20 Aug 26', baseRate: 38500, baseLots: 12, isPrompt: true },
+          { class: 'suez', name: 'TD20 Sep 26', baseRate: 37900, baseLots: 0, isPrompt: false }
+        ];
+
+        var curRates = {};
+        baseContracts.forEach(function(c) { curRates[c.name] = c.baseRate; });
+
+        for (var t = 0; t < numDays; t++) {
+          var dayDate = new Date(baseDate);
+          dayDate.setDate(dayDate.getDate() + t);
+          var dateStr = fmtDateISO(dayDate);
+
+          // Calculate Roll Progress (Axiom 2)
+          var rawRollProgress = (t / 20) * rollVelocity;
+          var rollPct = Math.min(100, Math.round(rawRollProgress * 100));
+
+          // Evolve contract rates with Samuelson term decay
+          var contracts = [];
+          var totalNotional = 0;
+
+          baseContracts.forEach(function(c) {
+            var shockRate = dailyShocks[c.class] || 0;
+            // Samuelson damping: prompt gets full shock, deferred gets 80%
+            var termFactor = c.isPrompt ? 1.0 : 0.82;
+            curRates[c.name] = curRates[c.name] * (1 + shockRate * termFactor);
+
+            // Compute dynamic lots based on roll progress (strictly conserving target lots)
+            var lots = c.baseLots;
+            if (c.class === 'cape' && isBdry) {
+              var nextL = Math.round(45 * (rollPct / 100));
+              lots = c.isPrompt ? (45 - nextL) : nextL;
+            } else if (c.class === 'pana' && isBdry) {
+              var nextL = Math.round(38 * (rollPct / 100));
+              lots = c.isPrompt ? (38 - nextL) : nextL;
+            } else if (c.class === 'vlcc' && !isBdry) {
+              var nextL = Math.round(85 * (rollPct / 100));
+              lots = c.isPrompt ? (85 - nextL) : nextL;
+            } else if (c.class === 'suez' && !isBdry) {
+              var nextL = Math.round(12 * (rollPct / 100));
+              lots = c.isPrompt ? (12 - nextL) : nextL;
+            }
+
+            var mult = isBdry ? 1.0 : 1000.0;
+            var notional = lots * curRates[c.name] * mult;
+            totalNotional += notional;
+
+            contracts.push({
+              class: c.class,
+              name: c.name,
+              settleRate: c.baseRate,
+              simRate: curRates[c.name],
+              lots: lots,
+              initialLots: c.baseLots,
+              isPrompt: c.isPrompt,
+              notional: notional,
+              dollarImpact: 0,
+              weight: 0
+            });
+          });
+
+          // Normalize weights and dollar impact
+          contracts.forEach(function(c) {
+            c.weight = totalNotional > 0 ? (c.notional / totalNotional) * 100 : 0;
+            var shockRatio = (c.simRate - c.settleRate) / c.settleRate;
+            c.dollarImpact = curSimPrice * (c.weight / 100) * shockRatio;
+          });
+
+          // Weighted Daily Return & 3-Way Attribution
+          var weightedFreightRet = 0;
+          if (isBdry) {
+            weightedFreightRet = 0.50 * dailyShocks.cape + 0.40 * dailyShocks.pana + 0.10 * dailyShocks.supra;
+          } else {
+            weightedFreightRet = 0.90 * dailyShocks.vlcc + 0.10 * dailyShocks.suez;
+          }
+
+          var rollDrag = (contangoPenalty / 20) * (rollPct > 0 ? 1 : 0);
+          var cashFeeDrag = (0.0485 - 0.0350) / 252; // T-Bills - 3.50% TER
+          var netDailyRet = weightedFreightRet + rollDrag + cashFeeDrag;
+
+          curSimPrice = curSimPrice * (1 + netDailyRet);
+          // Market price tracks with slight AP arbitrage noise
+          var noise = (Math.sin(t * 1.5) * 0.002);
+          curMktPrice = curMktPrice * (1 + weightedFreightRet + cashFeeDrag + noise);
+          var spreadBps = ((curSimPrice - curMktPrice) / curMktPrice) * 10000;
+
+          dailyReturns.push(netDailyRet);
+          if (curSimPrice > peakPrice) peakPrice = curSimPrice;
+          var curMdd = peakPrice > 0 ? ((peakPrice - curSimPrice) / peakPrice) * 100 : 0;
+
+          // Compute Rolling Stats
+          var meanRet = dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length;
+          var variance = dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length || 1);
+          var stdDev = Math.sqrt(variance);
+          var annVol = stdDev * Math.sqrt(252) * 100;
+          var sharpe = annVol > 0 ? ((meanRet * 252 - 0.0485) / (annVol / 100)) : 0;
+
+          this.timeline.push({
+            day: t,
+            date: dateStr,
+            simPrice: curSimPrice,
+            mktPrice: curMktPrice,
+            spreadBps: spreadBps,
+            rollPct: rollPct,
+            contracts: contracts,
+            attribution: {
+              freight: weightedFreightRet * 100,
+              roll: rollDrag * 100,
+              cash: cashFeeDrag * 100,
+              total: netDailyRet * 100
+            },
+            risk: {
+              annVol: annVol,
+              sharpe: sharpe,
+              mdd: curMdd,
+              carryYield: (contangoPenalty * 12) * 100,
+              trackingError: Math.abs(spreadBps)
+            }
+          });
+        }
+
+        // Update Scrubber Slider Max
+        var scrubber = document.getElementById('simScrubber');
+        if (scrubber) {
+          scrubber.max = this.timeline.length - 1;
+          scrubber.value = 0;
+        }
+      },
+
+      togglePlay: function() {
+        if (this.isPlaying) this.pause();
+        else this.play();
+      },
+
+      play: function() {
+        if (this.isPlaying) return;
+        this.isPlaying = true;
+        this.updatePlayBtnUI();
+        var self = this;
+        var intervalMs = Math.max(80, Math.round(1000 / this.speed));
+        
+        if (this.timer) clearInterval(this.timer);
+        this.timer = setInterval(function() {
+          if (self.curIdx >= self.timeline.length - 1) {
+            self.pause();
+            return;
+          }
+          self.curIdx++;
+          self.renderFrame(false);
+        }, intervalMs);
+      },
+
+      pause: function() {
+        this.isPlaying = false;
+        if (this.timer) {
+          clearInterval(this.timer);
+          this.timer = null;
+        }
+        this.updatePlayBtnUI();
+      },
+
+      stepNext: function() {
+        this.pause();
+        if (this.curIdx < this.timeline.length - 1) {
+          this.curIdx++;
+          this.renderFrame(false);
+        }
+      },
+
+      stepPrev: function() {
+        this.pause();
+        if (this.curIdx > 0) {
+          this.curIdx--;
+          this.renderFrame(false);
+        }
+      },
+
+      reset: function() {
+        this.pause();
+        this.curIdx = 0;
+        this.renderFrame(true);
+      },
+
+      setSpeed: function(speed, btnEl) {
+        this.speed = speed;
+        var btns = document.querySelectorAll('.sim-speed-btn');
+        btns.forEach(function(b) { b.classList.remove('active'); });
+        if (btnEl) btnEl.classList.add('active');
+        if (this.isPlaying) {
+          this.pause();
+          this.play();
+        }
+      },
+
+      onScrubberInput: function(val) {
+        this.pause();
+        this.curIdx = parseInt(val, 10);
+        this.renderFrame(false);
+      },
+
+      onScrubberHover: function(e) {
+        var scrubber = document.getElementById('simScrubber');
+        var tooltip = document.getElementById('simScrubberTooltip');
+        if (!scrubber || !tooltip || !this.timeline.length) return;
+
+        var rect = scrubber.getBoundingClientRect();
+        var pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+        var hoverIdx = Math.round(pct * (this.timeline.length - 1));
+        var data = this.timeline[hoverIdx];
+        if (!data) return;
+
+        var ttDate = document.getElementById('simTtDate');
+        var ttNav = document.getElementById('simTtNav');
+        var ttRoll = document.getElementById('simTtRoll');
+
+        if (ttDate) ttDate.textContent = 'Day ' + (hoverIdx + 1) + ' \u2022 ' + data.date;
+        if (ttNav) ttNav.textContent = '$' + data.simPrice.toFixed(2);
+        if (ttRoll) ttRoll.textContent = data.rollPct + '%';
+
+        tooltip.style.left = (pct * 100) + '%';
+        tooltip.style.display = 'block';
+      },
+
+      hideScrubberTooltip: function() {
+        var tooltip = document.getElementById('simScrubberTooltip');
+        if (tooltip) tooltip.style.display = 'none';
+      },
+
+      onShareCountChange: function(val) {
+        var parsed = parseFloat(val);
+        if (!isNaN(parsed) && parsed > 0) {
+          this.shares = Math.max(1, parsed);
+          if (this.timeline.length && this.timeline[this.curIdx]) {
+            this.renderHUD(this.timeline[this.curIdx]);
+          }
+        }
+      },
+
+      updatePlayBtnUI: function() {
+        var playIcon = document.getElementById('simPlayIcon');
+        var pauseIcon = document.getElementById('simPauseIcon');
+        var badge = document.getElementById('simLiveStatusBadge');
+        if (playIcon && pauseIcon) {
+          playIcon.style.display = this.isPlaying ? 'none' : 'block';
+          pauseIcon.style.display = this.isPlaying ? 'block' : 'none';
+        }
+        if (badge) {
+          badge.textContent = this.isPlaying ? 'SIMULATING' : 'PAUSED';
+          badge.classList.toggle('playing', this.isPlaying);
+        }
+      },
+
+      renderFrame: function(fullReset) {
+        if (!this.timeline.length) return;
+        var state = this.timeline[this.curIdx];
+        if (!state) return;
+
+        // Update Scrubber Progress
+        var scrubber = document.getElementById('simScrubber');
+        var progress = document.getElementById('simScrubberProgress');
+        var dateDisplay = document.getElementById('simCurrentDateDisplay');
+        var rollBadge = document.getElementById('simRollStatusBadge');
+
+        if (scrubber) scrubber.value = this.curIdx;
+        if (progress) {
+          var pct = (this.curIdx / (this.timeline.length - 1)) * 100;
+          progress.style.width = pct + '%';
+        }
+        if (dateDisplay) dateDisplay.textContent = 'Day ' + (this.curIdx + 1) + ' / ' + this.timeline.length + ' \u2022 ' + state.date;
+        if (rollBadge) rollBadge.textContent = 'Roll Progress: ' + state.rollPct + '%';
+
+        // Render 4 Panels
+        this.renderTable(state);
+        this.renderDualCharts(state, fullReset);
+        this.renderWaterfallChart(state, fullReset);
+        this.renderHUD(state);
+      },
+
+      renderTable: function(state) {
+        var tbody = document.getElementById('simHoldingsBody');
+        var badge = document.getElementById('simActiveLotsBadge');
+        if (!tbody) return;
+
+        var totalLots = 0;
+        var html = '';
+        var self = this;
+
+        state.contracts.forEach(function(c, idx) {
+          totalLots += c.lots;
+          var prevRate = self.prevTickRates[c.name] || c.simRate;
+          var tickClass = '';
+          if (c.simRate > prevRate) tickClass = 'tick-pulse-up';
+          else if (c.simRate < prevRate) tickClass = 'tick-pulse-down';
+          self.prevTickRates[c.name] = c.simRate;
+
+          var decayPct = c.initialLots > 0 ? Math.round((c.lots / c.initialLots) * 100) : (state.rollPct);
+          var barClass = c.isPrompt ? 'fill-decay' : 'fill-accrual';
+          var dollarClass = c.dollarImpact >= 0 ? '#3fb950' : '#f85149';
+          var dollarSign = c.dollarImpact >= 0 ? '+$' : '-$';
+          var dollarAbs = Math.abs(c.dollarImpact).toFixed(2);
+
+          html += '<tr class="' + tickClass + '">' +
+            '<td><strong style="color:var(--text);">' + c.name + '</strong> ' + (c.isPrompt ? '<span style="font-size:9px;color:#e3b341;border:1px solid rgba(227,179,65,0.4);border-radius:2px;padding:1px 3px;">PROMPT</span>' : '<span style="font-size:9px;color:#58a6ff;border:1px solid rgba(88,166,255,0.4);border-radius:2px;padding:1px 3px;">NEXT-Q</span>') + '</td>' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">$' + c.settleRate.toLocaleString() + '</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);">$' + Math.round(c.simRate).toLocaleString() + '</td>' +
+            '<td style="text-align:center;">' +
+              '<div style="display:flex;align-items:center;gap:6px;">' +
+                '<div class="lot-progress-track"><div class="lot-progress-fill ' + barClass + '" style="width:' + decayPct + '%;"></div></div>' +
+                '<span style="font-family:monospace;font-size:10px;min-width:32px;font-weight:700;">' + c.lots + 'L</span>' +
+              '</div>' +
+            '</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--accent);">' + c.weight.toFixed(1) + '%</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:' + dollarClass + ';">' + dollarSign + dollarAbs + '</td>' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">' + ((c.notional / 1000000).toFixed(2)) + 'M</td>' +
+          '</tr>';
+        });
+
+        tbody.innerHTML = html;
+        if (badge) badge.textContent = totalLots.toFixed(1) + ' Total Lots';
+      },
+
+      renderDualCharts: function(state, fullReset) {
+        var priceCanvas = document.getElementById('simPriceChart');
+        var spreadCanvas = document.getElementById('simSpreadChart');
+        if (!priceCanvas || !spreadCanvas) return;
+
+        var labels = [];
+        var simPrices = [];
+        var mktPrices = [];
+        var spreads = [];
+
+        for (var i = 0; i <= this.curIdx; i++) {
+          labels.push('D' + (i + 1));
+          simPrices.push(this.timeline[i].simPrice);
+          mktPrices.push(this.timeline[i].mktPrice);
+          spreads.push(this.timeline[i].spreadBps);
+        }
+
+        // Render Price Chart (Top Pane)
+        if (!this.charts.price || fullReset) {
+          if (this.charts.price) {
+            try { this.charts.price.destroy(); } catch(e) {}
+            this.charts.price = null;
+          }
+          if (typeof destroyChart === 'function') destroyChart('simPriceChart');
+
+          this.charts.price = new Chart(priceCanvas.getContext('2d'), {
+            type: 'line',
+            data: {
+              labels: labels,
+              datasets: [
+                {
+                  label: 'Sim Price ($)',
+                  data: simPrices,
+                  borderColor: '#58a6ff',
+                  backgroundColor: 'rgba(88, 166, 255, 0.12)',
+                  borderWidth: 2,
+                  fill: true,
+                  tension: 0.2,
+                  pointRadius: simPrices.length > 20 ? 0 : 2
+                },
+                {
+                  label: 'Mkt Price ($)',
+                  data: mktPrices,
+                  borderColor: '#e3b341',
+                  borderWidth: 1.5,
+                  borderDash: [4, 4],
+                  fill: false,
+                  pointRadius: 0
+                }
+              ]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              animation: false,
+              plugins: { legend: { display: false } },
+              scales: {
+                x: { display: false },
+                y: {
+                  ticks: { font: { size: 10 }, color: '#8b949e' },
+                  grid: { color: 'rgba(255,255,255,0.05)' }
+                }
+              }
+            }
+          });
+          if (typeof chartRegistry !== 'undefined') chartRegistry['simPriceChart'] = this.charts.price;
+        } else {
+          this.charts.price.data.labels = labels;
+          this.charts.price.data.datasets[0].data = simPrices;
+          this.charts.price.data.datasets[1].data = mktPrices;
+          this.charts.price.update('none');
+        }
+
+        // Render Spread Chart (Bottom Pane)
+        if (!this.charts.spread || fullReset) {
+          if (this.charts.spread) {
+            try { this.charts.spread.destroy(); } catch(e) {}
+            this.charts.spread = null;
+          }
+          if (typeof destroyChart === 'function') destroyChart('simSpreadChart');
+
+          this.charts.spread = new Chart(spreadCanvas.getContext('2d'), {
+            type: 'bar',
+            data: {
+              labels: labels,
+              datasets: [{
+                label: 'Spread (bps)',
+                data: spreads,
+                backgroundColor: spreads.map(function(v) { return v >= 0 ? 'rgba(63, 185, 80, 0.6)' : 'rgba(248, 81, 73, 0.6)'; }),
+                borderWidth: 0
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              animation: false,
+              plugins: { legend: { display: false } },
+              scales: {
+                x: { ticks: { font: { size: 9 }, color: '#8b949e', maxTicksLimit: 8 }, grid: { display: false } },
+                y: { ticks: { font: { size: 9 }, color: '#8b949e' }, grid: { color: 'rgba(255,255,255,0.05)' } }
+              }
+            }
+          });
+          if (typeof chartRegistry !== 'undefined') chartRegistry['simSpreadChart'] = this.charts.spread;
+        } else {
+          this.charts.spread.data.labels = labels;
+          this.charts.spread.data.datasets[0].data = spreads;
+          this.charts.spread.data.datasets[0].backgroundColor = spreads.map(function(v) { return v >= 0 ? 'rgba(63, 185, 80, 0.6)' : 'rgba(248, 81, 73, 0.6)'; });
+          this.charts.spread.update('none');
+        }
+      },
+
+      renderWaterfallChart: function(state, fullReset) {
+        var canvas = document.getElementById('simWaterfallChart');
+        if (!canvas) return;
+
+        var att = state.attribution;
+        var freightEl = document.getElementById('attFreightVal');
+        var rollEl = document.getElementById('attRollVal');
+        var cashEl = document.getElementById('attCashVal');
+        var totalBadge = document.getElementById('simTotalDailyReturnBadge');
+
+        if (freightEl) {
+          freightEl.textContent = (att.freight >= 0 ? '+' : '') + att.freight.toFixed(2) + '%';
+          freightEl.className = 'att-val ' + (att.freight >= 0 ? 'pos' : 'neg');
+        }
+        if (rollEl) {
+          rollEl.textContent = (att.roll >= 0 ? '+' : '') + att.roll.toFixed(2) + '%';
+          rollEl.className = 'att-val ' + (att.roll >= 0 ? 'pos' : 'neg');
+        }
+        if (cashEl) {
+          cashEl.textContent = (att.cash >= 0 ? '+' : '') + att.cash.toFixed(2) + '%';
+          cashEl.className = 'att-val ' + (att.cash >= 0 ? 'pos' : 'neg');
+        }
+        if (totalBadge) {
+          totalBadge.textContent = (att.total >= 0 ? '+' : '') + att.total.toFixed(2) + '% Total Today';
+          totalBadge.className = 'sim-badge ' + (att.total >= 0 ? 'sim-badge-pos' : '');
+        }
+
+        var labels = ['Freight Move', 'Roll Carry', 'Cash Yield', 'Net Return'];
+        var values = [att.freight, att.roll, att.cash, att.total];
+        var colors = [
+          att.freight >= 0 ? '#3fb950' : '#f85149',
+          att.roll >= 0 ? '#3fb950' : '#e3b341',
+          '#58a6ff',
+          att.total >= 0 ? '#238636' : '#da3633'
+        ];
+
+        if (!this.charts.waterfall || fullReset) {
+          if (this.charts.waterfall) {
+            try { this.charts.waterfall.destroy(); } catch(e) {}
+            this.charts.waterfall = null;
+          }
+          if (typeof destroyChart === 'function') destroyChart('simWaterfallChart');
+
+          this.charts.waterfall = new Chart(canvas.getContext('2d'), {
+            type: 'bar',
+            data: {
+              labels: labels,
+              datasets: [{ data: values, backgroundColor: colors, borderRadius: 4 }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              animation: false,
+              plugins: { legend: { display: false } },
+              scales: {
+                x: { ticks: { font: { size: 10 }, color: '#8b949e' }, grid: { display: false } },
+                y: { ticks: { font: { size: 10 }, color: '#8b949e', callback: function(v) { return v.toFixed(1) + '%'; } }, grid: { color: 'rgba(255,255,255,0.05)' } }
+              }
+            }
+          });
+          if (typeof chartRegistry !== 'undefined') chartRegistry['simWaterfallChart'] = this.charts.waterfall;
+        } else {
+          this.charts.waterfall.data.datasets[0].data = values;
+          this.charts.waterfall.data.datasets[0].backgroundColor = colors;
+          this.charts.waterfall.update('none');
+        }
+      },
+
+      renderHUD: function(state) {
+        var basePrice = this.timeline[0].simPrice;
+        var curPrice = state.simPrice;
+        var pnl = (curPrice - basePrice) * this.shares;
+        var returnPct = basePrice > 0 ? ((curPrice - basePrice) / basePrice) * 100 : 0;
+        var investedCapital = basePrice * this.shares;
+
+        var pnlEl = document.getElementById('simHudPnl');
+        var pnlSub = document.getElementById('simHudPnlSub');
+        var sharpeEl = document.getElementById('simHudSharpe');
+        var carryEl = document.getElementById('simHudCarry');
+        var mddEl = document.getElementById('simHudMdd');
+        var mddSub = document.getElementById('simHudMddSub');
+        var volEl = document.getElementById('simHudVol');
+        var teEl = document.getElementById('simHudTe');
+
+        if (pnlEl) {
+          var pnlSign = pnl >= 0 ? '+$' : '-$';
+          pnlEl.textContent = pnlSign + Math.abs(pnl).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+          pnlEl.className = 'hud-val ' + (pnl >= 0 ? 'pos' : 'neg');
+        }
+        if (pnlSub) {
+          pnlSub.textContent = 'Return: ' + (returnPct >= 0 ? '+' : '') + returnPct.toFixed(2) + '% on $' + Math.round(investedCapital).toLocaleString() + ' capital';
+        }
+        if (sharpeEl) sharpeEl.textContent = state.risk.sharpe.toFixed(2);
+        if (carryEl) carryEl.textContent = state.risk.carryYield.toFixed(2) + '% / yr';
+        if (mddEl) mddEl.textContent = '-' + state.risk.mdd.toFixed(2) + '%';
+        if (mddSub) mddSub.textContent = 'Peak: Day 1 \u2022 Current: Day ' + (this.curIdx + 1);
+        if (volEl) volEl.textContent = state.risk.annVol.toFixed(1) + '%';
+        if (teEl) teEl.textContent = state.risk.trackingError.toFixed(1) + ' bps';
+      },
+
+      setupHotkeys: function() {
+        var self = this;
+        document.addEventListener('keydown', function(e) {
+          // Guard against typing in input boxes
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+          
+          if (e.code === 'Space') {
+            e.preventDefault();
+            self.togglePlay();
+          } else if (e.code === 'ArrowRight') {
+            e.preventDefault();
+            self.stepNext();
+          } else if (e.code === 'ArrowLeft') {
+            e.preventDefault();
+            self.stepPrev();
+          } else if (e.code === 'KeyR') {
+            e.preventDefault();
+            self.reset();
+          }
+        });
+      }
+    };
 
     });
   </script>
@@ -5403,7 +6441,262 @@
         </div>
       </div>
 
-<div class="chart-container mb-20" id="liqTrackerSection" style="margin-top:24px;">
+      <!-- ===================================================================== -->
+      <!--  DAY-BY-DAY ETF PORTFOLIO & PRICE SIMULATOR (GOLD STANDARD UI)       -->
+      <!-- ===================================================================== -->
+      <div class="chart-container mb-20" id="etfDaySimulatorCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;overflow:hidden;">
+        
+        <!-- Ambient Background Glow -->
+        <div class="sim-ambient-glow"></div>
+
+        <!-- Header & Primary Controls -->
+        <div class="sim-header">
+          <div class="sim-header-left">
+            <div class="sim-title">
+              <div class="icon-tile icon-tile-accent icon-tile-md">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+              </div>
+              <span>Day-by-Day ETF Portfolio &amp; Price Simulator</span>
+              <span class="sim-live-badge" id="simLiveStatusBadge">PAUSED</span>
+            </div>
+            <div class="sim-subtitle">
+              Cinematic daily roll &amp; freight shock simulator with 5-axiom lot decay, 3-way attribution waterfall, dual-pane tracking spread, and live portfolio HUD.
+            </div>
+          </div>
+
+          <div class="sim-header-right">
+            <!-- ETF Selector Toggle -->
+            <div class="sim-etf-toggle">
+              <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')">BDRY (Dry Bulk)</button>
+              <button id="simEtfBwet" class="sim-toggle-btn" onclick="SIM_CONTROLLER.switchETF('bwet')">BWET (Tankers)</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Preset Macro Scenario Trigger Chips -->
+        <div class="sim-scenario-bar">
+          <span class="sim-scenario-label"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Macro Presets:</span>
+          <button class="sim-scenario-chip active" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')">
+            <span class="chip-dot chip-dot-bull"></span>
+            <span class="chip-name">China Stimulus Rally</span>
+            <span class="chip-tag pos">+3.5%/d Cape</span>
+          </button>
+          <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')">
+            <span class="chip-dot chip-dot-bull"></span>
+            <span class="chip-name">Red Sea / Tanker Spike</span>
+            <span class="chip-tag pos">+4.0%/d VLCC</span>
+          </button>
+          <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')">
+            <span class="chip-dot chip-dot-bear"></span>
+            <span class="chip-name">Monsoon Lull</span>
+            <span class="chip-tag neg">-1.5%/d</span>
+          </button>
+          <button class="sim-scenario-chip" id="scenChip_contango_drag" onclick="SIM_CONTROLLER.loadScenario('contango_drag')">
+            <span class="chip-dot chip-dot-warn"></span>
+            <span class="chip-name">Contango Drag Test</span>
+            <span class="chip-tag warn">Pure Decay</span>
+          </button>
+          <button class="sim-scenario-chip" id="scenChip_fast_roll" onclick="SIM_CONTROLLER.loadScenario('fast_roll')">
+            <span class="chip-dot chip-dot-accent"></span>
+            <span class="chip-name">Fast 5-Day Roll</span>
+            <span class="chip-tag accent">20%/d Roll</span>
+          </button>
+        </div>
+
+        <!-- Cinematic Playback Controller & Scrubber -->
+        <div class="sim-playback-dock">
+          <div class="sim-playback-controls">
+            <button class="sim-ctrl-btn" id="simBtnReset" onclick="SIM_CONTROLLER.reset()" title="Reset to Day 0 (Key: R)">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+            </button>
+            <button class="sim-ctrl-btn" id="simBtnPrev" onclick="SIM_CONTROLLER.stepPrev()" title="Step Previous (Key: ←)">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" y1="19" x2="5" y2="5"/></svg>
+            </button>
+            <button class="sim-play-btn" id="simBtnPlay" onclick="SIM_CONTROLLER.togglePlay()" title="Play/Pause (Key: Spacebar)">
+              <svg id="simPlayIcon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              <svg id="simPauseIcon" style="display:none;" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+            </button>
+            <button class="sim-ctrl-btn" id="simBtnNext" onclick="SIM_CONTROLLER.stepNext()" title="Step Next (Key: →)">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" y1="5" x2="19" y2="19"/></svg>
+            </button>
+          </div>
+
+          <!-- Interactive Scrubber & Timeline -->
+          <div class="sim-scrubber-wrapper">
+            <div class="sim-timeline-info">
+              <span id="simCurrentDateDisplay" class="sim-date-badge">Day 1 / 30 &bull; 2026-08-11</span>
+              <span id="simRollStatusBadge" class="sim-roll-badge">Roll Progress: 0%</span>
+            </div>
+            <div class="sim-slider-container">
+              <input type="range" id="simScrubber" min="0" max="29" value="0" step="1" 
+                     oninput="SIM_CONTROLLER.onScrubberInput(this.value)"
+                     onmousemove="SIM_CONTROLLER.onScrubberHover(event)"
+                     onmouseleave="SIM_CONTROLLER.hideScrubberTooltip()">
+              <div class="sim-scrubber-progress" id="simScrubberProgress"></div>
+              <div class="sim-scrubber-roll-zone" id="simScrubberRollZone" title="Contract Roll Execution Window"></div>
+            </div>
+            <!-- Floating Glassmorphism Scrubber Hover Tooltip -->
+            <div class="sim-scrubber-tooltip" id="simScrubberTooltip">
+              <div class="tt-date" id="simTtDate">2026-08-11</div>
+              <div class="tt-row"><span>Sim NAV:</span> <strong id="simTtNav" class="pos">$10.45</strong></div>
+              <div class="tt-row"><span>Roll %:</span> <strong id="simTtRoll">35%</strong></div>
+            </div>
+          </div>
+
+          <!-- Speed Multiplier Switcher -->
+          <div class="sim-speed-dock">
+            <span class="sim-speed-label">Speed:</span>
+            <div class="sim-speed-group">
+              <button class="sim-speed-btn" data-speed="0.5" onclick="SIM_CONTROLLER.setSpeed(0.5, this)">0.5x</button>
+              <button class="sim-speed-btn active" data-speed="1" onclick="SIM_CONTROLLER.setSpeed(1, this)">1x</button>
+              <button class="sim-speed-btn" data-speed="2" onclick="SIM_CONTROLLER.setSpeed(2, this)">2x</button>
+              <button class="sim-speed-btn" data-speed="5" onclick="SIM_CONTROLLER.setSpeed(5, this)">5x</button>
+              <button class="sim-speed-btn" data-speed="10" onclick="SIM_CONTROLLER.setSpeed(10, this)">10x</button>
+              <button class="sim-speed-btn" data-speed="999" onclick="SIM_CONTROLLER.setSpeed(999, this)">⚡ Max</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- ===================================================================== -->
+        <!--  4-PANEL FRONTIER VISUALIZATION GRID                                  -->
+        <!-- ===================================================================== -->
+        <div class="sim-frontier-grid">
+          
+          <!-- PANEL A: Animated Holdings & Flow Table -->
+          <div class="sim-panel sim-panel-holdings">
+            <div class="sim-panel-header">
+              <div class="sim-panel-title">
+                <span class="sim-panel-dot dot-blue"></span>
+                <span>Panel A: Dynamic Holdings &amp; Contract Roll Migration</span>
+              </div>
+              <div class="sim-badge" id="simActiveLotsBadge">112.0 Total Lots</div>
+            </div>
+            <div class="sim-table-wrap">
+              <table class="sim-table" id="simHoldingsTable">
+                <thead>
+                  <tr>
+                    <th>Contract Strip</th>
+                    <th style="text-align:right;">Settle Rate</th>
+                    <th style="text-align:right;">Sim Rate</th>
+                    <th style="text-align:center;min-width:110px;">Lot Migration</th>
+                    <th style="text-align:right;">Weight</th>
+                    <th style="text-align:right;">$/Share Imp.</th>
+                    <th style="text-align:right;">NAV Contrib</th>
+                  </tr>
+                </thead>
+                <tbody id="simHoldingsBody">
+                  <!-- Dynamic rows generated with decaying lot progress bars & tick pulses -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- PANEL B: Dual-Pane Chart -->
+          <div class="sim-panel sim-panel-charts">
+            <div class="sim-panel-header">
+              <div class="sim-panel-title">
+                <span class="sim-panel-dot dot-cyan"></span>
+                <span>Panel B: Price Tracking &amp; Premium/Discount Frontier</span>
+              </div>
+              <div class="sim-legend-inline">
+                <span class="sim-leg-item"><span class="leg-box leg-sim"></span> Sim Price</span>
+                <span class="sim-leg-item"><span class="leg-box leg-mkt"></span> Mkt Price</span>
+                <span class="sim-leg-item"><span class="leg-box leg-spread"></span> Spread (bps)</span>
+              </div>
+            </div>
+            <!-- Top Pane: Simulated Price vs Actual Market Price -->
+            <div class="sim-dual-top-pane">
+              <canvas id="simPriceChart"></canvas>
+            </div>
+            <!-- Bottom Pane: Tracking Spread & Premium/Discount Bar -->
+            <div class="sim-dual-bottom-pane">
+              <canvas id="simSpreadChart"></canvas>
+            </div>
+          </div>
+
+          <!-- PANEL C: 3-Way Daily Attribution Waterfall -->
+          <div class="sim-panel sim-panel-waterfall">
+            <div class="sim-panel-header">
+              <div class="sim-panel-title">
+                <span class="sim-panel-dot dot-gold"></span>
+                <span>Panel C: 3-Way Daily Return Attribution Waterfall</span>
+              </div>
+              <div id="simTotalDailyReturnBadge" class="sim-badge sim-badge-pos">+1.84% Total Today</div>
+            </div>
+            <div class="sim-waterfall-summary">
+              <div class="att-card" id="attFreightCard">
+                <div class="att-label">Freight Beta Impact</div>
+                <div class="att-val pos" id="attFreightVal">+2.15%</div>
+                <div class="att-sub">Underlying FFA moves</div>
+              </div>
+              <div class="att-card" id="attRollCard">
+                <div class="att-label">Roll Yield Drag/Gain</div>
+                <div class="att-val neg" id="attRollVal">-0.28%</div>
+                <div class="att-sub">Contango decay friction</div>
+              </div>
+              <div class="att-card" id="attCashCard">
+                <div class="att-label">Cash &amp; Fee Drag</div>
+                <div class="att-val neg" id="attCashVal">-0.03%</div>
+                <div class="att-sub">T-Bill - 1.45% OER</div>
+              </div>
+            </div>
+            <div class="sim-waterfall-chart-wrap">
+              <canvas id="simWaterfallChart"></canvas>
+            </div>
+          </div>
+
+          <!-- PANEL D: Risk & PnL Analytics HUD -->
+          <div class="sim-panel sim-panel-hud">
+            <div class="sim-panel-header">
+              <div class="sim-panel-title">
+                <span class="sim-panel-dot dot-green"></span>
+                <span>Panel D: Real-Time Risk &amp; Performance HUD</span>
+              </div>
+              <div class="sim-hud-share-input">
+                <span>SHARES:</span>
+                <input type="number" id="simShareCountInput" value="5000" min="1" step="500" oninput="SIM_CONTROLLER.onShareCountChange(this.value)">
+              </div>
+            </div>
+            <div class="sim-hud-grid">
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Cumulative Position PnL</div>
+                <div class="hud-val pos" id="simHudPnl">+$3,450.00</div>
+                <div class="hud-sub" id="simHudPnlSub">Return: +6.84% on $50,450 capital</div>
+              </div>
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Sharpe Ratio (Ann.)</div>
+                <div class="hud-val" id="simHudSharpe" style="color:var(--accent);">1.82</div>
+                <div class="hud-sub">Risk-free rate: 4.85%</div>
+              </div>
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Implied Carry Yield</div>
+                <div class="hud-val neg" id="simHudCarry">-1.24% / mo</div>
+                <div class="hud-sub">Annualized: -14.88%</div>
+              </div>
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Max Drawdown (MDD)</div>
+                <div class="hud-val" id="simHudMdd" style="color:var(--red);">-3.12%</div>
+                <div class="hud-sub" id="simHudMddSub">Peak: Day 12 &bull; Trough: Day 18</div>
+              </div>
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Realized Volatility (Ann.)</div>
+                <div class="hud-val" id="simHudVol" style="color:var(--yellow);">44.8%</div>
+                <div class="hud-sub">Rolling standard dev</div>
+              </div>
+              <div class="sim-hud-kpi">
+                <div class="hud-label">Tracking Error vs Spot</div>
+                <div class="hud-val" id="simHudTe" style="color:var(--purple);">38.2 bps</div>
+                <div class="hud-sub">Root mean square spread</div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="chart-container mb-20" id="liqTrackerSection" style="margin-top:24px;">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Liquidity Tracker - estimates the maximum safe daily trade size for BDRY or BWET using rolling volume, spread, and volatility data sourced from the liquidity CSV files. 'Safe Liquidity' is the threshold below which an institutional order won't materially move the ETF price.">Liquidity Tracker</div>
           <div class="flex-row" style="gap:6px;align-items:center;">
@@ -7000,8 +8293,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     const chartRegistry = {};
     function destroyChart(id) {
       if (chartRegistry[id]) {
-        chartRegistry[id].destroy();
+        try { chartRegistry[id].destroy(); } catch (e) {}
         delete chartRegistry[id];
+      }
+      var el = typeof id === 'string' ? document.getElementById(id) : id;
+      if (el && typeof Chart !== 'undefined' && Chart.getChart) {
+        try {
+          var c = Chart.getChart(el);
+          if (c) c.destroy();
+        } catch (e) {}
       }
     }
 
@@ -10231,6 +11531,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // ETF Deconstruction & Scenario Engine
       try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
+      // ETF Day-by-Day Portfolio & Price Simulator
+      try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
       // Initialize 5-minute dynamic live price auto-refresh engine
       try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
     }

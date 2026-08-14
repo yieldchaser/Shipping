@@ -232,6 +232,26 @@ All 6 base indices as individual chart cards:
     - **Editable Position Share Count & Base PnL**: Interactive input box (`PnL FOR [ 1000 ] SHARES`) dynamically recalculating dollar PnL and invested Base Capital ($).
     - **Institutional System 2 Rich Tooltips**: Rich HTML tooltips across all 8 sub-components formatted with `.rt-title`, `.rt-row`, `.rt-label`, `.rt-val`, and `.rt-note` CSS design tokens.
     - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view and detailed **By Contract Month** view with contiguous color arcs sorted in chronological month sequence.
+11. **Day-by-Day ETF Portfolio & Price Simulator (Institutional Replay & Generative Projection)**:
+    - **Dual-Horizon Valuation Core**:
+      - *Mode 1: Historical Replay*: Replays exact historical daily holdings, MTM settlements, and cash collateral across all 39 disclosure dates from `data/etf/bdry_holdings_history.csv` and `data/etf/bwet_holdings_history.csv` with empirical tracking $R^2 = 0.999$.
+      - *Mode 2: Generative Forward Projection*: Projects 30, 60, or 90-day forward horizons using the 5-Axiom calendar roll decay engine and live forward curves from `DATA.sgx`.
+    - **Advanced Derivatives Pricing Realism**:
+      - *Samuelson Volatility Term Damping*: $\sigma(\tau) = \sigma_0 e^{-\lambda \tau} + \sigma_\infty$ (captures prompt volatility spikes vs long-dated fleet supply mean reversion).
+      - *Margin Collateral Hierarchy*: Segregates 15% CME/SGX encumbered Initial Margin ($C_{\text{IM}}$) while unencumbered free cash ($C_{\text{free}}$ in AGPXX) continuously accrues 4.85% yield minus 3.50% TER.
+      - *Authorized Participant (AP) Arbitrage Bounds*: Secondary market price tracks theoretical NAV with mean-reverting basis spread SDE.
+    - **Cinematic 4-Panel Frontier Grid**:
+      - **Panel A: Dynamic Holdings Table**: Animated decaying lot progress bars, prompt/deferred classification, per-contract $/share impact, and live green/crimson tick pulses on daily rate evolutions.
+      - **Panel B: Dual-Pane Charts**: Top pane tracks Simulated Price vs Actual Market Close; Bottom pane plots real-time tracking spread / basis in basis points (bps).
+      - **Panel C: 3-Way Daily Attribution Waterfall**: Decomposes daily price changes into Pure Freight Move ($\Delta R_{\text{freight}}$) + Roll Yield Drag/Gain ($\Delta R_{\text{roll}}$) + Cash Yield & Fee Drag ($\Delta R_{\text{cash}}$).
+      - **Panel D: Risk & Performance HUD**: Real-time position PnL on custom share count, Annualized Sharpe Ratio, Implied Carry Yield, Max Drawdown (MDD), Realized Volatility, and Tracking Error.
+    - **Cinematic Playback Controls & Keyboard Hotkeys**: Spacebar (`Play/Pause`), `→` (`Step Next`), `←` (`Step Prev`), `R` (`Reset`), Speed multi-toggles (`0.5x`, `1x`, `2x`, `5x`, `10x`, `⚡ Max`), and floating glassmorphism scrubber preview tooltip.
+    - **1-Click Macro Stress Presets**:
+      - 🚀 *China Stimulus Rally* (+3.5%/d Capesize)
+      - 🌊 *Red Sea / Tanker Spike* (+4.0%/d VLCC)
+      - 📉 *Monsoon Lull* (-1.5%/d across dry bulk)
+      - 🔄 *Contango Drag Test* (Pure Basis Decay)
+      - ⚡ *Fast 5-Day Roll* (Accelerated Rebalance)
 - **Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
