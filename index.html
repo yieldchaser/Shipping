@@ -23893,24 +23893,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
         else if (type === 'etf-action-pill') {
           const action = target.getAttribute('data-tt-action') || 'action';
-          html = `<div class="rt-title">Bi-Directional Action Hook</div>`;
           if (action === 'simulator') {
-            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Scenario Translator</span></div>`;
+            html = `<div class="rt-title">Apply to Scenario Translator</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Thesis-to-ETF Scenario Engine</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Dials macro sliders to match AI thesis</span></div>`;
-            html += `<div class="rt-note">Clicking instantly transfers the analyzed percentage shocks to the live sensitivity matrix.</div>`;
+            html += `<div class="rt-note">Click to instantly transfer the analyzed percentage shocks from the AI response to the live sensitivity matrix.</div>`;
           } else if (action === 'jump') {
+            html = `<div class="rt-title">Jump Simulator to This Date</div>`;
             html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Day-by-Day Simulator</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Jumps timeline directly to analyzed roll epoch</span></div>`;
-            html += `<div class="rt-note">Seamlessly transports the simulator playback scrubber to inspect the historical or forward date.</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Scrubs timeline to the analyzed roll epoch</span></div>`;
+            html += `<div class="rt-note">Seamlessly jumps the simulator playback scrubber to this exact historical or forward date for inspection.</div>`;
           } else if (action === 'ticket') {
-            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Compliance Decision Ticket</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Opens structured decision ticket modal</span></div>`;
-            html += `<div class="rt-note">Generates compliance-ready P&L attribution, book separation tables, and residual risk disclosures with 1-click JSON export.</div>`;
+            html = `<div class="rt-title">Open Institutional Decision Ticket</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Compliance Decision Ticket Modal</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Opens structured P&amp;L attribution report</span></div>`;
+            html += `<div class="rt-note">Generates compliance-ready P&amp;L attribution, book separation tables, and residual risk disclosures with 1-click JSON export.</div>`;
           } else if (action === 'inspect') {
+            html = `<div class="rt-title">View Contract Settlement History</div>`;
             html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Universal Contract Inspector</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Renders high-DPI historical settlement curve</span></div>`;
-            html += `<div class="rt-note">Displays official exchange settlement history, 52W range bars, active lot weights, and statutory rulebooks.</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Renders high-DPI historical settlement chart</span></div>`;
+            html += `<div class="rt-note">Displays official exchange settlement history, 52-week range bars, active lot weights, and statutory rulebooks.</div>`;
           }
+        }
         else if (type === 'deconst-matrix-cell') {
           const rShock = parseFloat(target.getAttribute('data-tt-rshock'));
           const cShock = parseFloat(target.getAttribute('data-tt-cshock'));
