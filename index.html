@@ -4435,15 +4435,12 @@
         var mHtml = '<thead><tr style="background:rgba(255,255,255,0.02);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;">' +
           '<th style="width:130px;padding:6px 8px;text-align:center;line-height:1.3;border-right:1px solid var(--border);"><div style="font-size:9px;color:var(--text-muted);">Y: <strong style="color:var(--accent);font-size:10px;">' + rowName + '</strong></div><div style="font-size:9px;color:var(--text-muted);">X: <strong style="color:#3fb950;font-size:10px;">' + colName + '</strong></div></th>';
         shocksArr.forEach(function(s) {
-          var isZero = s === 0;
-          var headerStyle = isZero ? 'width:17.4%;padding:6px 4px;color:var(--accent);font-weight:800;border-bottom:2px solid var(--accent);' : 'width:17.4%;padding:6px 4px;font-weight:700;';
-          mHtml += '<th style="' + headerStyle + '">' + (s >= 0 ? '+' : '') + s + '%</th>';
+          mHtml += '<th style="width:17.4%;padding:6px 4px;font-weight:700;color:var(--text-muted);border-bottom:1px solid var(--border);">' + (s >= 0 ? '+' : '') + s + '%</th>';
         });
         mHtml += '</tr></thead><tbody>';
 
         shocksArr.forEach(function(rShock) {
-          var isRowZero = rShock === 0;
-          var rowHeaderStyle = isRowZero ? 'width:130px;padding:6px 8px;font-weight:800;text-align:center;color:var(--accent);background:var(--card);border-right:2px solid var(--accent);' : 'width:130px;padding:6px 8px;font-weight:700;text-align:center;color:var(--text-muted);background:var(--card);border-right:1px solid var(--border);';
+          var rowHeaderStyle = 'width:130px;padding:6px 8px;font-weight:700;text-align:center;color:var(--text-muted);background:var(--card);border-right:1px solid var(--border);';
           
           mHtml += '<tr style="border-bottom:1px solid var(--border);">' +
             '<td style="' + rowHeaderStyle + '">' + (rShock >= 0 ? '+' : '') + rShock + '%</td>';
@@ -4469,15 +4466,15 @@
             var isCurrent = Math.abs(rShock - (_deconstETFKey === 'bdry' ? _deconstShocks.cape : _deconstShocks.vlcc)) < 0.1 && Math.abs(cShock - (_deconstETFKey === 'bdry' ? _deconstShocks.pana : _deconstShocks.suez)) < 0.1;
 
             if (isCurrent) {
-              // The currently active scenario cell gets the bold glowing selection border
+              // Only the currently active scenario cell gets the bold glowing selection border
               cellBg = isBaselineCell ? 'rgba(88,166,255,0.15)' : (simShock > 0 ? 'rgba(63,185,80,' + (intensity + 0.08) + ')' : (simShock < 0 ? 'rgba(248,81,73,' + (intensity + 0.08) + ')' : 'rgba(88,166,255,0.1)'));
               cellColor = isBaselineCell ? '#58a6ff' : (simShock > 0 ? '#3fb950' : (simShock < 0 ? '#f85149' : 'var(--accent)'));
               borderCss = 'border:2px solid var(--accent);box-shadow:0 0 14px rgba(88,166,255,0.5);z-index:10;';
             } else if (isBaselineCell) {
-              // Non-selected baseline cell gets a clean neutral dashed indicator
+              // Non-selected baseline cell is clean and neutral
               cellBg = 'rgba(255,255,255,0.02)';
               cellColor = 'var(--text-muted)';
-              borderCss = 'border:1px dashed rgba(88,166,255,0.35);';
+              borderCss = 'border:1px solid var(--border);';
             } else if (simShock > 0) {
               cellBg = 'rgba(63,185,80,' + intensity + ')';
               cellColor = '#3fb950';
