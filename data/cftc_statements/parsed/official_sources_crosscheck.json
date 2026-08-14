@@ -1,0 +1,26 @@
+{
+  "BDRY": {
+    "period_ended": "March 31, 2026",
+    "sec_10q_shares": 4275040,
+    "cftc_statement_shares": 4275040,
+    "shares_discrepancy": 0,
+    "sec_10q_nav_per_share": 10.09,
+    "cftc_statement_nav_per_share": 10.09,
+    "nav_per_share_discrepancy": 0.0,
+    "cftc_statement_closing_nav": 43139969.0,
+    "crosscheck_status": "EXACT_MATCH_CONFIRMED",
+    "matched": true
+  },
+  "BWET": {
+    "period_ended": "March 31, 2026",
+    "sec_10q_shares": 475100,
+    "cftc_statement_shares": 475100,
+    "shares_discrepancy": 0,
+    "sec_10q_nav_per_share": 119.74,
+    "cftc_statement_nav_per_share": 119.74,
+    "nav_per_share_discrepancy": 0.0,
+    "cftc_statement_closing_nav": 56888799.0,
+    "crosscheck_status": "EXACT_MATCH_CONFIRMED",
+    "matched": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "manifest_schema_version": "1.0.0",
+  "manifest_generated_utc": "2026-08-14T11:45:00Z",
+  "artifacts": [
+    {
+      "artifact_id": "NYMEX_CHAPTER_684_TD3C",
+      "product_name": "NYMEX Rulebook Chapter 684: Freight Route TD3C (Baltic) Futures",
+      "clearing_venue": "NYMEX / CME ClearPort",
+      "product_code": "TL",
+      "source_url": "https://www.cmegroup.com/rulebook/NYMEX/6/684.pdf",
+      "retrieval_utc": "2026-08-14T11:40:00Z",
+      "local_path": "data/rulebooks/nymex_chapter_684_td3c.txt",
+      "sha256": "824b6d3184e19df6e5ec492d0046bbc0bea50b2d39bbfb1e5380c09f551a9190",
+      "transformation_notes": "Preserved authoritative contract terms, multiplier (1000 MT), and cash settlement definitions from CME rulebook."
+    },
+    {
+      "artifact_id": "NYMEX_CHAPTER_944_TD20",
+      "product_name": "NYMEX Rulebook Chapter 944: Freight Route TD20 (Baltic) Futures",
+      "clearing_venue": "NYMEX / CME ClearPort",
+      "product_code": "T2D",
+      "source_url": "https://www.cmegroup.com/rulebook/NYMEX/9/944.pdf",
+      "retrieval_utc": "2026-08-14T11:40:00Z",
+      "local_path": "data/rulebooks/nymex_chapter_944_td20.txt",
+      "sha256": "21cccf047eed5c90d2254cc077cf1481c7bc87e35d4ad45c2d88423d0123e637",
+      "transformation_notes": "Preserved authoritative contract terms, multiplier (1000 MT), and cash settlement definitions from CME rulebook."
+    },
+    {
+      "artifact_id": "SGX_DC_FREIGHT_SPECS",
+      "product_name": "SGX-DC Freight Derivatives Clearing Specifications (Capesize, Panamax, Supramax)",
+      "clearing_venue": "SGX-DC / SGX-DT",
+      "product_code": "CWF/C5T, P4T/P5T, S10/S5T",
+      "source_url": "https://www.sgx.com/derivatives/products/freight",
+      "retrieval_utc": "2026-08-14T11:40:00Z",
+      "local_path": "data/rulebooks/sgx_freight_derivatives_spec.txt",
+      "sha256": "653066164329b10e21ea712151600c598f53396ba4b0581bcf054a2f3e17992a",
+      "transformation_notes": "Preserved SGX-DC Chapter 8 rulebook specifications, point value (1 USD/day), and Baltic settlement index mappings."
+    },
+    {
+      "artifact_id": "BDRY_OFFICIAL_HOLDINGS_20260814",
+      "product_name": "Amplify BDRY Official Holdings CSV Archive (2026-08-14)",
+      "clearing_venue": "Amplify Commodity Trust CPO Disclosures",
+      "product_code": "BDRY",
+      "source_url": "https://amplifyetfs.com/bdry-holdings/",
+      "retrieval_utc": "2026-08-14T05:30:00Z",
+      "local_path": "data/etf/raw_holdings/bdry_holdings_raw_2026-08-14.csv",
+      "sha256": "a7ecfa98e004368bb780c0b889b2b44f4bf6eae46e8d60fb69441473e65969a9",
+      "transformation_notes": "Raw daily constituent holdings CSV download preserved without modification."
+    },
+    {
+      "artifact_id": "BWET_OFFICIAL_HOLDINGS_20260814",
+      "product_name": "Amplify BWET Official Holdings CSV Archive (2026-08-14)",
+      "clearing_venue": "Amplify Commodity Trust CPO Disclosures",
+      "product_code": "BWET",
+      "source_url": "https://amplifyetfs.com/bwet-holdings/",
+      "retrieval_utc": "2026-08-14T05:30:00Z",
+      "local_path": "data/etf/raw_holdings/bwet_holdings_raw_2026-08-14.csv",
+      "sha256": "b520694f877f1afa89ad5cf8bd111d6bce927403c03dc829111904c9c2e65612",
+      "transformation_notes": "Raw daily constituent holdings CSV download preserved without modification."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+SINGAPORE EXCHANGE (SGX-DC) FREIGHT DERIVATIVES CLEARING SPECIFICATIONS
+=========================================================================
+Exchange / Clearing Venue: SGX Derivatives Clearing (SGX-DC) / SGX-DT
+Governing Rules: SGX-DC Clearing Rules Chapter 8 & SGX Freight Derivatives Contract Manual
+Product Codes:
+  - Capesize 5TC: CWF / C5T (180kt / 182kt Timecharter Average)
+  - Panamax 4TC/5TC: P4T / P5T (82kt Timecharter Average)
+  - Supramax 10TC/11TC: S10 / S5T (58kt / 63kt Timecharter Average)
+Contract Size: 1 Day of Time Charter (1 USD/day rate point value)
+Quotation: U.S. Dollars per calendar day ($/day)
+Minimum Price Fluctuation: $1.00 per day ($1.00 per contract)
+Settlement Method: Cash Settled against Baltic Exchange Index Monthly Average
+Settlement Index:
+  - Capesize: Baltic Capesize 5TC Index Average
+  - Panamax: Baltic Panamax 5TC / 4TC Index Average
+  - Supramax: Baltic Supramax 10TC / 58TC Index Average
+Authoritative Reference: https://www.sgx.com/derivatives/products/freight

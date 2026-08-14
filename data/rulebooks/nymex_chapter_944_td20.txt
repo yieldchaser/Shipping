@@ -1,0 +1,12 @@
+NYMEX RULEBOOK CHAPTER 944: FREIGHT ROUTE TD20 (BALTIC) FUTURES
+================================================================
+Exchange / Clearing Venue: New York Mercantile Exchange (NYMEX) / CME ClearPort / CME Globex
+Commodity Code: T2D (Monthly Futures), T2B (BALMO), T2M (Daily Mini Futures)
+Rulebook Chapter: 944 (Standard Monthly) / Chapter 891 (Mini)
+Contract Size: 1,000 Metric Tons (MT) of West Africa to UK Continent Crude Oil Cargo
+Quotation: U.S. Dollars and cents per Metric Ton ($/MT)
+Minimum Price Fluctuation: $0.0001 per metric ton ($0.10 per contract)
+Settlement Method: Financially (Cash) Settled
+Floating Price Settlement: The Floating Price for each contract month is the arithmetic average of the daily assessments published by the Baltic Exchange for the TD20 route for each day that it is published during the contract month.
+Termination of Trading: Trading ceases on the last business day of the contract month.
+Authoritative Reference: https://www.cmegroup.com/rulebook/NYMEX/9/944.pdf

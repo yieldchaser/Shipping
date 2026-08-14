@@ -10,6 +10,7 @@
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.92em' font-size='95' style='filter: drop-shadow(0px 3px 5px rgba(0,0,0,0.9));'%3E%3Cpath d='M50 15 a15 15 0 1 0 0 30 a15 15 0 1 0 0 -30 M50 45 v40 M25 65 h50 M25 65 a25 25 0 0 0 50 0' fill='none' stroke='%2358a6ff' stroke-width='8'/%3E/text%3E%3C/svg%3E">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" defer></script>
+  <script src="data/etf/snapshots/scenario_snapshots.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -3695,6 +3696,22 @@
 
     var _deconstETFKey = 'bdry';
     var _deconstChartMode = 'class'; // 'class' (default clean view) or 'contract' (detailed view)
+    var _deconstScenarioMode = 'FROZEN_BOOK'; // 'FROZEN_BOOK' (default) or 'USER_SPECIFIED_FORWARD_BOOK'
+    var _deconstPricingMode = 'AUTO'; // 'AUTO' (default: carry-forward if contemporaneous), 'CARRY_FORWARD_PREMIUM_DISCOUNT', or 'NAV_PARITY'
+    var _deconstTargetPrices = {}; // Keyed by exact contract name -> target freight rate ($)
+    var _deconstCustomForwardLots = {}; // Keyed by exact contract name -> user-specified scenario lots
+    var _deconstRollInLegs = { bdry: [], bwet: [] }; // Custom user-assumed forward roll-in legs
+    var _deconstManualBaseline = null; // Optional user-supplied contemporaneous baseline
+    var _deconstPremDiscSpreadPct = 2.50; // User configurable assumption spread (+/-2.50% default)
+    var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+    window._deconstShocks = _deconstShocks;
+    window._deconstMicroShocks = _deconstMicroShocks;
+    window._deconstTargetPrices = _deconstTargetPrices;
+    window._deconstCustomForwardLots = _deconstCustomForwardLots;
+    window._deconstRollInLegs = _deconstRollInLegs;
+    window._deconstManualBaseline = _deconstManualBaseline;
+    window._deconstScenarioMode = _deconstScenarioMode;
+    window._deconstPricingMode = _deconstPricingMode;
 
     window.setDeconstChartMode = function setDeconstChartMode(mode) {
       _deconstChartMode = mode;
@@ -3710,13 +3727,163 @@
         var pBar = document.getElementById('deconstMicroPresetBar'); if (pBar) pBar.style.display = mode === 'micro' ? 'flex' : 'none'; renderETFDeconstructionEngine();
       }
     };
-    var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
-    window._deconstShocks = _deconstShocks;
-    window._deconstMicroShocks = _deconstMicroShocks;
+
+    window.setDeconstScenarioMode = function setDeconstScenarioMode(mode) {
+      _deconstScenarioMode = mode;
+      window._deconstScenarioMode = mode;
+      var btnFrozen = document.getElementById('deconstModeFrozen');
+      var btnForward = document.getElementById('deconstModeForward');
+      if (btnFrozen && btnForward) {
+        btnFrozen.style.background = mode === 'FROZEN_BOOK' ? 'var(--accent)' : 'transparent';
+        btnFrozen.style.color = mode === 'FROZEN_BOOK' ? '#fff' : 'var(--text-muted)';
+        btnForward.style.background = mode === 'USER_SPECIFIED_FORWARD_BOOK' ? 'var(--accent)' : 'transparent';
+        btnForward.style.color = mode === 'USER_SPECIFIED_FORWARD_BOOK' ? '#fff' : 'var(--text-muted)';
+      }
+      var addBtn = document.getElementById('deconstAddRollInBtn');
+      if (addBtn) addBtn.style.display = (mode === 'USER_SPECIFIED_FORWARD_BOOK') ? 'inline-flex' : 'none';
+      renderETFDeconstructionEngine();
+    };
+
+    window.onDeconstPricingModeChange = function onDeconstPricingModeChange(val) {
+      _deconstPricingMode = val;
+      window._deconstPricingMode = val;
+      renderETFDeconstructionEngine();
+    };
+
+    window.onDeconstTargetPriceInput = function onDeconstTargetPriceInput(idx, inputEl) {
+      if (!_lastPredHoldings || !_lastPredHoldings[idx]) return;
+      var h = _lastPredHoldings[idx];
+      var val = parseFloat(inputEl.value);
+      if (isNaN(val) || val <= 0) {
+        delete _deconstTargetPrices[h.Name];
+        delete _deconstMicroShocks[h.Name];
+      } else {
+        _deconstTargetPrices[h.Name] = val;
+        var baseMark = h.startingPrice || h.unitPrice || 1.0;
+        var shockPct = ((val - baseMark) / baseMark) * 100;
+        _deconstMicroShocks[h.Name] = shockPct;
+      }
+      renderETFDeconstructionEngine();
+    };
+
+    window.onDeconstForwardLotInput = function onDeconstForwardLotInput(idx, inputEl) {
+      if (!_lastPredHoldings || !_lastPredHoldings[idx]) return;
+      var h = _lastPredHoldings[idx];
+      var val = parseFloat(inputEl.value);
+      if (isNaN(val) || val < 0) {
+        delete _deconstCustomForwardLots[h.Name];
+      } else {
+        _deconstCustomForwardLots[h.Name] = val;
+      }
+      renderETFDeconstructionEngine();
+    };
+
+    window.toggleManualBaselineDrawer = function toggleManualBaselineDrawer() {
+      var d = document.getElementById('deconstManualBaselineDrawer');
+      if (!d) return;
+      d.style.display = (d.style.display === 'none' || !d.style.display) ? 'block' : 'none';
+    };
+
+    window.toggleAddRollInDrawer = function toggleAddRollInDrawer() {
+      var d = document.getElementById('deconstAddRollInDrawer');
+      if (!d) return;
+      d.style.display = (d.style.display === 'none' || !d.style.display) ? 'block' : 'none';
+    };
+
+    window.addCustomRollInLeg = function addCustomRollInLeg() {
+      var name = (document.getElementById('rollInName').value || '').trim();
+      var lots = parseFloat(document.getElementById('rollInLots').value);
+      var mult = parseFloat(document.getElementById('rollInMult').value);
+      var startPx = parseFloat(document.getElementById('rollInStartPx').value);
+      var tgtPx = parseFloat(document.getElementById('rollInTgtPx').value);
+      var cost = parseFloat(document.getElementById('rollInCost').value) || 0.0;
+
+      if (!name) { alert('Please enter a contract name / identifier.'); return; }
+      if (isNaN(lots) || lots < 0) { alert('Please enter valid non-negative lots.'); return; }
+      if (isNaN(mult) || mult <= 0) { alert('Please enter a valid positive multiplier.'); return; }
+      if (isNaN(startPx) || startPx <= 0) { alert('Please enter a valid positive starting / entry mark.'); return; }
+      if (isNaN(tgtPx) || tgtPx <= 0) { alert('Please enter a valid positive target mark.'); return; }
+
+      _deconstRollInLegs[_deconstETFKey].push({
+        id: 'user_leg_' + Date.now(),
+        contract_name: name,
+        ticker: name.toUpperCase().replace(/\s+/g, '_'),
+        cusip: 'USER_SPECIFIED',
+        lots: lots,
+        multiplier: mult,
+        multiplier_unit: (_deconstETFKey === 'bdry' ? '1 Calendar Day' : '1,000 MT'),
+        starting_mark: startPx,
+        target_mark: tgtPx,
+        roll_transaction_cost_dollars: cost,
+        is_roll_in_new_contract: true
+      });
+
+      // Clear input fields
+      document.getElementById('rollInName').value = '';
+      document.getElementById('rollInLots').value = '50';
+      document.getElementById('rollInStartPx').value = '';
+      document.getElementById('rollInTgtPx').value = '';
+      document.getElementById('rollInCost').value = '0';
+      
+      var d = document.getElementById('deconstAddRollInDrawer');
+      if (d) d.style.display = 'none';
+
+      renderETFDeconstructionEngine();
+    };
+
+    window.removeCustomRollInLeg = function removeCustomRollInLeg(idx) {
+      if (_deconstRollInLegs[_deconstETFKey] && _deconstRollInLegs[_deconstETFKey][idx]) {
+        _deconstRollInLegs[_deconstETFKey].splice(idx, 1);
+        renderETFDeconstructionEngine();
+      }
+    };
+
+    window.applyManualBaseline = function applyManualBaseline() {
+      var totNav = parseFloat(document.getElementById('mbInputTotalNav').value);
+      var shares = parseInt(document.getElementById('mbInputShares').value);
+      var navSh = parseFloat(document.getElementById('mbInputNavSh').value);
+      var mktPx = parseFloat(document.getElementById('mbInputMktPx').value);
+      var asOfDate = document.getElementById('mbInputDate').value || '2026-08-13';
+      var src = document.getElementById('mbInputSource').value || 'User Manual Input';
+
+      if (isNaN(totNav) || isNaN(shares) || isNaN(mktPx) || totNav <= 0 || shares <= 0 || mktPx <= 0) {
+        alert('Please provide valid positive numbers for Total NAV, Shares Outstanding, and Market Price.');
+        return;
+      }
+
+      var impliedNavSh = totNav / shares;
+      if (!isNaN(navSh) && Math.abs(impliedNavSh - navSh) > 0.05) {
+        alert('Manual baseline rejected: Total NAV / Shares ($' + impliedNavSh.toFixed(4) + ') differs from supplied NAV/Share ($' + navSh.toFixed(4) + ') by > $0.05. Please align inputs.');
+        return;
+      }
+
+      _deconstManualBaseline = {
+        totalNav: totNav,
+        shares: shares,
+        navSh: isNaN(navSh) ? impliedNavSh : navSh,
+        impliedNavSh: impliedNavSh,
+        mktPx: mktPx,
+        asOfDate: asOfDate,
+        source: src,
+        mathVerified: true
+      };
+      window._deconstManualBaseline = _deconstManualBaseline;
+      renderETFDeconstructionEngine();
+    };
+
+    window.clearManualBaseline = function clearManualBaseline() {
+      _deconstManualBaseline = null;
+      window._deconstManualBaseline = null;
+      var d = document.getElementById('deconstManualBaselineDrawer');
+      if (d) d.style.display = 'none';
+      renderETFDeconstructionEngine();
+    };
 
     function switchDeconstETF(key) {
       _deconstETFKey = key;
       _deconstMicroShocks = {};
+      _deconstTargetPrices = {};
+      _deconstCustomForwardLots = {};
       var bdryBtn = document.getElementById('deconstTabBdry');
       var bwetBtn = document.getElementById('deconstTabBwet');
       if (bdryBtn && bwetBtn) {
@@ -3774,6 +3941,8 @@
     function resetDeconstShocks() {
       _deconstShocks.cape = 0; _deconstShocks.pana = 0; _deconstShocks.supra = 0; _deconstShocks.vlcc = 0; _deconstShocks.suez = 0;
       _deconstMicroShocks = {};
+      _deconstTargetPrices = {};
+      _deconstCustomForwardLots = {};
       var colMap = { Cape: '#58a6ff', Pana: '#3fb950', Supra: '#d29922', Vlcc: '#f0883e', Suez: '#a371f7' };
       ['Cape', 'Pana', 'Supra', 'Vlcc', 'Suez'].forEach(function(s) {
         var el = document.getElementById('deconstSlider' + s);
@@ -3802,26 +3971,26 @@
         
         if (nCape !== _deconstShocks.cape) {
           _deconstShocks.cape = nCape;
-          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'cape') delete _deconstMicroShocks[h.Name]; });
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'cape') { delete _deconstMicroShocks[h.Name]; delete _deconstTargetPrices[h.Name]; } });
         }
         if (nPana !== _deconstShocks.pana) {
           _deconstShocks.pana = nPana;
-          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'pana') delete _deconstMicroShocks[h.Name]; });
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'pana') { delete _deconstMicroShocks[h.Name]; delete _deconstTargetPrices[h.Name]; } });
         }
         if (nSupra !== _deconstShocks.supra) {
           _deconstShocks.supra = nSupra;
-          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'supra') delete _deconstMicroShocks[h.Name]; });
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'supra') { delete _deconstMicroShocks[h.Name]; delete _deconstTargetPrices[h.Name]; } });
         }
       } else {
         var nVlcc = parseFloat(sVlcc ? sVlcc.value : 0) || 0;
         var nSuez = parseFloat(sSuez ? sSuez.value : 0) || 0;
         if (nVlcc !== _deconstShocks.vlcc) {
           _deconstShocks.vlcc = nVlcc;
-          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'vlcc') delete _deconstMicroShocks[h.Name]; });
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'vlcc') { delete _deconstMicroShocks[h.Name]; delete _deconstTargetPrices[h.Name]; } });
         }
         if (nSuez !== _deconstShocks.suez) {
           _deconstShocks.suez = nSuez;
-          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'suez') delete _deconstMicroShocks[h.Name]; });
+          if (_lastPredHoldings) _lastPredHoldings.forEach(function(h) { if (h.class === 'suez') { delete _deconstMicroShocks[h.Name]; delete _deconstTargetPrices[h.Name]; } });
         }
       }
       renderETFDeconstructionEngine();
@@ -4044,15 +4213,19 @@
     }
 
     window.getDeconstBasePrice = function getDeconstBasePrice(etfKey) {
-      if (etfKey === 'bdry' && DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
-        var lastBdry = DATA.bdryLiquidity[DATA.bdryLiquidity.length - 1];
-        if (lastBdry && parseFloat(lastBdry.close) > 0) return parseFloat(lastBdry.close);
-      } else if (etfKey === 'bwet' && DATA.bwetLiquidity && DATA.bwetLiquidity.length) {
-        var lastBwet = DATA.bwetLiquidity[DATA.bwetLiquidity.length - 1];
-        if (lastBwet && parseFloat(lastBwet.close) > 0) return parseFloat(lastBwet.close);
+      var _DATA = window.DATA || (typeof DATA !== 'undefined' ? DATA : null);
+      if (!_DATA) return etfKey === 'bdry' ? 13.79 : 119.74;
+      if (etfKey === 'bdry' && _DATA.bdryLiquidity && _DATA.bdryLiquidity.length) {
+        var lastBdry = _DATA.bdryLiquidity[_DATA.bdryLiquidity.length - 1];
+        var cVal = parseFloat(lastBdry.close || lastBdry.Close);
+        if (!isNaN(cVal) && cVal > 0) return cVal;
+      } else if (etfKey === 'bwet' && _DATA.bwetLiquidity && _DATA.bwetLiquidity.length) {
+        var lastBwet = _DATA.bwetLiquidity[_DATA.bwetLiquidity.length - 1];
+        var cVal2 = parseFloat(lastBwet.close || lastBwet.Close);
+        if (!isNaN(cVal2) && cVal2 > 0) return cVal2;
       }
-      return etfKey === 'bdry' ? 10.09 : 119.74;
-    }
+      return etfKey === 'bdry' ? 13.79 : 119.74;
+    };
 
     function solveReversePriceTarget() {
       var inputEl = document.getElementById('deconstTargetPriceInput');
@@ -4455,219 +4628,816 @@
     window.solveReversePriceTarget = solveReversePriceTarget;
     window.onDeconstMicroShockInput = onDeconstMicroShockInput;
 
+    // =====================================================================
+    //  PURE FINANCIAL ENGINE: window.ETF_ENGINE (DECOUPLED CALCULATIONS)
+    // =====================================================================
+    // CANONICAL ETF ACCOUNTING & SCENARIO ENGINE (SINGLE SOURCE OF TRUTH)
+    // =====================================================================
+    window.ETF_ENGINE = {
+      normalizeHoldings: function(rawRows, etfKey) {
+        var isBdry = (etfKey === 'bdry');
+        var records = [];
+        (rawRows || []).forEach(function(r) {
+          var name = String(r.Name || r.name || r.Ticker || '').trim();
+          var ticker = String(r.Ticker || r.ticker || '').trim();
+          var cusip = String(r.CUSIP || r.cusip || '').trim();
+          var lots = parseFloat(r.Lots || r.lots || 0) || 0;
+          var price = parseFloat(String(r.Price || r.price || 0).replace(/[$,]/g, '')) || 0;
+          var mv = parseFloat(String(r.Market_Value || r.market_value || 0).replace(/[$,]/g, '')) || 0;
+          var dateStr = String(r.date || r.Date || 'latest').trim();
 
-        function predictETFPortfolioHoldings(etfKey, targetDate) {
-      if (typeof DATA === 'undefined' || !DATA) return { holdings: [], grossFuturesExposureRatio: 1.0, futuresTotalNotional: 0 };
-      var year = targetDate.getFullYear();
-      var month = targetDate.getMonth() + 1;
-      var day = targetDate.getDate();
+          var isCash = name.toLowerCase().includes('cash') || ticker.toLowerCase().includes('cash');
+          var isCollateral = name.toLowerCase().includes('invesco') || ticker.toLowerCase().includes('agpxx');
+          var isFutures = !(isCash || isCollateral);
 
-      // Days in month calculation for roll progress
-      var firstDay = new Date(year, month - 1, 1);
-      var lastDay = new Date(year, month, 0);
-      var totalDays = lastDay.getDate();
-      
-      // Calculate business day progress
-      var bdayCount = 0; var curBday = 0;
-      for (var d = 1; d <= totalDays; d++) {
-        var dt = new Date(year, month - 1, d);
-        if (dt.getDay() !== 0 && dt.getDay() !== 6) {
-          bdayCount++;
-          if (d <= day) curBday++;
+          var routeClass = 'other';
+          var multiplier = 1.0;
+          var unit = 'USD/day';
+
+          if (isFutures) {
+            if (isBdry) {
+              multiplier = 1.0;
+              unit = 'USD/day';
+              if (name.toLowerCase().includes('cape') || ticker.toLowerCase().includes('c5tc')) routeClass = 'cape';
+              else if (name.toLowerCase().includes('pana') || ticker.toLowerCase().includes('p5tc')) routeClass = 'pana';
+              else if (name.toLowerCase().includes('supra') || ticker.toLowerCase().includes('s58f')) routeClass = 'supra';
+            } else {
+              multiplier = 1000.0; // 1,000 MT per lot
+              unit = 'USD/MT';
+              if (name.toLowerCase().includes('td3c') || ticker.toLowerCase().includes('dd3c')) routeClass = 'vlcc';
+              else if (name.toLowerCase().includes('td20') || ticker.toLowerCase().includes('dd20')) routeClass = 'suez';
+            }
+          } else if (isCollateral) {
+            routeClass = 'collateral';
+            unit = 'shares';
+            multiplier = 1.0;
+          } else if (isCash) {
+            routeClass = 'cash';
+            unit = 'USD';
+            multiplier = 1.0;
+          }
+
+          var contractId = cusip && cusip !== 'nan' && cusip !== ticker ? cusip : ticker;
+          if (!contractId || contractId === 'nan') contractId = name;
+
+          var cleanName = name.replace(/FFA.*?Average\s*/i, '').replace(/Index/i, '').trim();
+
+          records.push({
+            as_of_date: dateStr,
+            etf: etfKey,
+            contract_id: contractId,
+            name: cleanName,
+            fullName: name,
+            ticker: ticker,
+            route_class: routeClass,
+            quantity: lots,
+            mark: price,
+            unit: unit,
+            multiplier: multiplier,
+            disclosed_market_value: mv > 0 ? mv : (lots * price * multiplier),
+            is_futures: isFutures,
+            is_cash: isCash,
+            is_collateral: isCollateral
+          });
+        });
+        return records;
+      },
+
+      classifyContractTransitions: function(prevFut, curFut) {
+        var prevMap = {};
+        (prevFut || []).forEach(function(f) { prevMap[f.contract_id] = true; });
+        var curMap = {};
+        (curFut || []).forEach(function(f) { curMap[f.contract_id] = true; });
+
+        var retained = [], newContracts = [], exited = [];
+        (curFut || []).forEach(function(f) {
+          if (prevMap[f.contract_id]) retained.push(f.contract_id);
+          else newContracts.push(f.contract_id);
+        });
+        (prevFut || []).forEach(function(f) {
+          if (!curMap[f.contract_id]) exited.push(f.contract_id);
+        });
+
+        return {
+          retained: retained,
+          new: newContracts,
+          exited: exited,
+          hasTransition: newContracts.length > 0 || exited.length > 0
+        };
+      },
+
+      getActualHoldings: function(etfKey, targetDateStr) {
+        var _DATA = window.DATA || (typeof DATA !== 'undefined' ? DATA : null);
+        if (!_DATA) return [];
+        var isBdry = (etfKey === 'bdry');
+        var rawList = isBdry ? _DATA.bdryHoldings : _DATA.bwetHoldings;
+        if (targetDateStr) {
+          var histList = isBdry ? (_DATA.bdryHoldingsHistory || []) : (_DATA.bwetHoldingsHistory || []);
+          if (histList.length > 0) {
+            var sub = histList.filter(function(r) { return (r.date || r.Date) === targetDateStr; });
+            if (sub.length > 0) rawList = sub;
+          }
         }
-      }
-      var rollPct = Math.min(1.0, Math.max(0.0, curBday / Math.max(1, bdayCount)));
-      
-      // Month names mapping
-      var mNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-      var qNum = Math.floor((month - 1) / 3) + 1;
-      var nextQNum = (qNum % 4) + 1;
-      var nextQYear = year + (qNum === 4 ? 1 : 0);
-      var yearSuffix = String(nextQYear).slice(2);
+        return this.normalizeHoldings(rawList || [], etfKey);
+      },
 
-      // Next Quarter Month Names
-      var nMonths = [];
-      if (nextQNum === 1) nMonths = ['Jan ' + yearSuffix, 'Feb ' + yearSuffix, 'Mar ' + yearSuffix];
-      else if (nextQNum === 2) nMonths = ['Apr ' + yearSuffix, 'May ' + yearSuffix, 'Jun ' + yearSuffix];
-      else if (nextQNum === 3) nMonths = ['Jul ' + yearSuffix, 'Aug ' + yearSuffix, 'Sep ' + yearSuffix];
-      else nMonths = ['Oct ' + yearSuffix, 'Nov ' + yearSuffix, 'Dec ' + yearSuffix];
+      runAccountingReplay: function(etfKey) {
+        var _DATA = window.DATA || (typeof DATA !== 'undefined' ? DATA : null);
+        if (!_DATA) return { timeline: [], metrics: {} };
+        var isBdry = (etfKey === 'bdry');
+        var rawHist = isBdry ? (_DATA.bdryHoldingsHistory || []) : (_DATA.bwetHoldingsHistory || []);
+        var rawLiq = isBdry ? (_DATA.bdryLiquidity || []) : (_DATA.bwetLiquidity || []);
 
-      // Prompt Months (remaining in current quarter)
-      var pMonths = [];
-      for (var m = month; m <= qNum * 3; m++) {
-        pMonths.push(mNames[m - 1] + ' ' + String(year).slice(2));
-      }
+        var liqMap = {};
+        rawLiq.forEach(function(r) {
+          var d = r.Date || r.date;
+          var c = parseFloat(r.Close || r.close);
+          if (d && !isNaN(c)) liqMap[d] = c;
+        });
 
-      // Query live daily CSV disclosures if target date is today
-      var liveHoldingsMap = {};
-      var isTodayDate = (year === new Date().getFullYear() && month === (new Date().getMonth() + 1) && day === new Date().getDate());
-      if (isTodayDate) {
-        var rawList = (etfKey === 'bdry' ? DATA.bdryHoldings : DATA.bwetHoldings) || [];
-        rawList.forEach(function(item) {
-          if (item && item.Name && item.Price) {
-            var px = parseFloat(String(item.Price).replace(/[$,]/g, ''));
-            if (!isNaN(px) && px > 0) {
-              var cleanKey = item.Name.toLowerCase().replace(/\s+/g, ' ').trim();
-              liveHoldingsMap[cleanKey] = px;
+        var byDate = {};
+        rawHist.forEach(function(r) {
+          var d = r.date || r.Date;
+          if (!d) return;
+          if (!byDate[d]) byDate[d] = [];
+          byDate[d].push(r);
+        });
+
+        var dates = Object.keys(byDate).sort();
+        if (dates.length < 2) return { timeline: [], metrics: {} };
+
+        var flowMap = {};
+        var flowRows = isBdry ? (DATA.bdryFlows || []) : (DATA.bwetFlows || []);
+        (flowRows || []).forEach(function(r) {
+          var ds = r.dateStr || (r.date instanceof Date ? r.date.toISOString().split('T')[0] : String(r.date || '').split('T')[0]);
+          if (ds && r.nav > 0) flowMap[ds] = r.nav;
+        });
+
+        var initialPrice = null;
+        for (var i = 0; i < dates.length; i++) {
+          if (flowMap[dates[i]] !== undefined) {
+            initialPrice = flowMap[dates[i]];
+            break;
+          } else if (liqMap[dates[i]] !== undefined) {
+            initialPrice = liqMap[dates[i]];
+            break;
+          }
+        }
+        if (!initialPrice) initialPrice = isBdry ? 11.58 : 217.75;
+
+        var p_sim = initialPrice;
+        var peakPrice = initialPrice;
+        var timeline = [];
+        var dailyReturnsSim = [];
+        var dailyReturnsMkt = [];
+        var spreads = [];
+        var marketToNavSpreads = [];
+        var contractEvents = [];
+        var missingClosesCount = 0;
+        var missingOfficialNavCount = 0;
+
+        for (var t = 0; t < dates.length; t++) {
+          var curDate = dates[t];
+          var curNorm = this.normalizeHoldings(byDate[curDate], etfKey);
+          var curFut = curNorm.filter(function(r) { return r.is_futures; });
+          var curCol = curNorm.filter(function(r) { return r.is_collateral; });
+          var curCsh = curNorm.filter(function(r) { return r.is_cash; });
+
+          var curFutNotional = 0;
+          curFut.forEach(function(r) { curFutNotional += r.disclosed_market_value; });
+          var curColVal = 0;
+          curCol.forEach(function(r) { curColVal += r.disclosed_market_value; });
+          var curCshVal = 0;
+          curCsh.forEach(function(r) { curCshVal += r.disclosed_market_value; });
+
+          var fundNav = curColVal + curCshVal;
+          var grossExposureRatio = fundNav > 0 ? (curFutNotional / fundNav) : 1.0;
+
+          var mktClose = liqMap[curDate] !== undefined ? liqMap[curDate] : null;
+          var offNav = flowMap[curDate] !== undefined ? flowMap[curDate] : null;
+          if (mktClose === null) missingClosesCount++;
+          if (offNav === null) missingOfficialNavCount++;
+
+          var retainedCount = 0, newCount = 0, exitedCount = 0;
+          var heldPnl = 0;
+          var weightedFreightRet = 0;
+          var cashYield = 0;
+          var netRet = 0;
+
+          if (t > 0) {
+            var prevDate = dates[t - 1];
+            var prevNorm = this.normalizeHoldings(byDate[prevDate], etfKey);
+            var prevFut = prevNorm.filter(function(r) { return r.is_futures; });
+            var prevFutNotional = 0;
+            var prevFutMap = {};
+            prevFut.forEach(function(r) {
+              prevFutMap[r.contract_id] = r;
+              prevFutNotional += r.disclosed_market_value;
+            });
+
+            var transitions = this.classifyContractTransitions(prevFut, curFut);
+            retainedCount = transitions.retained.length;
+            newCount = transitions.new.length;
+            exitedCount = transitions.exited.length;
+
+            if (transitions.hasTransition) {
+              contractEvents.push({
+                date: curDate,
+                retained: transitions.retained,
+                new: transitions.new,
+                exited: transitions.exited
+              });
+            }
+
+            // Held contract PnL computed strictly using prior quantity Q_{i, t-1}
+            curFut.forEach(function(c) {
+              var pRow = prevFutMap[c.contract_id];
+              if (pRow) {
+                var qPrev = pRow.quantity;
+                var dp = c.mark - pRow.mark;
+                heldPnl += qPrev * c.multiplier * dp;
+              }
+            });
+
+            weightedFreightRet = prevFutNotional > 0 ? (heldPnl / prevFutNotional) : 0;
+            var dCur = new Date(curDate + 'T00:00:00Z');
+            var dPrev = new Date(dates[t - 1] + 'T00:00:00Z');
+            var dtDays = Math.round((dCur - dPrev) / (1000 * 60 * 60 * 24));
+            var bDays = Math.max(1, Math.min(isNaN(dtDays) ? 1 : dtDays, 3));
+            cashYield = ((0.0485 - 0.0350) / 252) * bDays;
+            netRet = weightedFreightRet + cashYield;
+
+            p_sim = p_sim * (1 + netRet);
+            dailyReturnsSim.push(netRet);
+          }
+
+          if (p_sim > peakPrice) peakPrice = p_sim;
+          var mdd = peakPrice > 0 ? ((peakPrice - p_sim) / peakPrice) * 100 : 0;
+
+          var spreadBps = null;
+          var spreadMktVsOffBps = null;
+          var driftSimVsOffBps = null;
+          var retMkt = null;
+          if (mktClose !== null) {
+            spreadBps = ((p_sim - mktClose) / mktClose) * 10000;
+            spreads.push(spreadBps);
+            if (t > 0) {
+              var prevMkt = liqMap[dates[t - 1]];
+              if (prevMkt !== undefined && prevMkt > 0) {
+                retMkt = (mktClose - prevMkt) / prevMkt;
+                dailyReturnsMkt.push({ sim: netRet, mkt: retMkt });
+              }
             }
           }
-        });
-      }
-
-      function getLivePx(contractName, fallbackPx) {
-        var cleanKey = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
-        if (liveHoldingsMap[cleanKey]) {
-          var exactPx = liveHoldingsMap[cleanKey];
-          if (exactPx < 300 && (cleanKey.includes('td3c') || cleanKey.includes('vlcc') || cleanKey.includes('middle east'))) return exactPx * 713;
-          if (exactPx < 300 && (cleanKey.includes('td20') || cleanKey.includes('suez') || cleanKey.includes('west africa'))) return exactPx * 560;
-          return exactPx;
-        }
-
-        // Fuzzy match by month and vessel class
-        var mMatch = cleanKey.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
-        if (mMatch) {
-          var targetMonth = mMatch[1] + ' ' + mMatch[2];
-          var keys = Object.keys(liveHoldingsMap);
-          for (var i = 0; i < keys.length; i++) {
-            var k = keys[i];
-            if (k.includes(targetMonth)) {
-              if (cleanKey.includes('cape') && (k.includes('cape') || k.includes('5tc'))) return liveHoldingsMap[k];
-              if (cleanKey.includes('pana') && (k.includes('pana') || k.includes('82kt'))) return liveHoldingsMap[k];
-              if (cleanKey.includes('supra') && (k.includes('supra') || k.includes('58kt'))) return liveHoldingsMap[k];
-              if (cleanKey.includes('td3c') && (k.includes('td3c') || k.includes('middle east') || k.includes('meg'))) {
-                var px = liveHoldingsMap[k];
-                return px < 300 ? px * 713 : px; // Standardize WS/MT to TCE $/day if necessary
-              }
-              if (cleanKey.includes('td20') && (k.includes('td20') || k.includes('west africa') || k.includes('waf'))) {
-                var px2 = liveHoldingsMap[k];
-                return px2 < 300 ? px2 * 560 : px2;
-              }
+          if (offNav !== null && offNav > 0) {
+            driftSimVsOffBps = ((p_sim - offNav) / offNav) * 10000;
+            if (mktClose !== null) {
+              spreadMktVsOffBps = ((mktClose - offNav) / offNav) * 10000;
+              marketToNavSpreads.push(spreadMktVsOffBps);
             }
           }
-        }
-        return fallbackPx;
-      }
 
-      var holdings = [];
+          timeline.push({
+            day: t,
+            date: curDate,
+            simPrice: p_sim,
+            simNav: p_sim,
+            officialNav: offNav,
+            mktPrice: mktClose,
+            spreadBps: spreadBps,
+            spreadMktVsOffBps: spreadMktVsOffBps,
+            driftSimVsOffBps: driftSimVsOffBps,
+            futuresNotional: curFutNotional,
+            collateralValue: curColVal,
+            cashValue: curCshVal,
+            fundNav: fundNav,
+            exposureRatio: grossExposureRatio,
+            retainedCount: retainedCount,
+            newCount: newCount,
+            exitedCount: exitedCount,
+            heldPnl: heldPnl,
+            rollPct: Math.min(100, Math.round((t / (dates.length - 1)) * 100)),
+            contracts: curFut.map(function(f) {
+              return {
+                class: f.route_class,
+                contract_id: f.contract_id,
+                name: f.name,
+                fullName: f.fullName,
+                settleRate: f.mark,
+                simRate: f.mark,
+                lots: f.quantity,
+                initialLots: f.quantity,
+                multiplier: f.multiplier,
+                unit: f.unit,
+                notional: f.disclosed_market_value,
+                weight: curFutNotional > 0 ? (f.disclosed_market_value / curFutNotional) * 100 : 0
+              };
+            }),
+            attribution: {
+              freight: weightedFreightRet * 100,
+              roll: 0,
+              cash: cashYield * 100,
+              total: netRet * 100
+            },
+            risk: {
+              mdd: mdd,
+              sharpe: 0,
+              annVol: 0,
+              carryYield: isBdry ? -3.4 : 1.8,
+              trackingError: Math.abs(spreadBps || 0)
+            }
+          });
+        }
+
+        // Canonical statistical evaluation
+        var validTimeline = timeline.filter(function(r) { return r.mktPrice !== null; });
+        var simArr = validTimeline.map(function(r) { return r.simPrice; });
+        var mktArr = validTimeline.map(function(r) { return r.mktPrice; });
+
+        var meanSim = simArr.reduce(function(a, b) { return a + b; }, 0) / (simArr.length || 1);
+        var meanMkt = mktArr.reduce(function(a, b) { return a + b; }, 0) / (mktArr.length || 1);
+        var num = 0, den1 = 0, den2 = 0;
+        for (var i = 0; i < simArr.length; i++) {
+          var dS = simArr[i] - meanSim;
+          var dM = mktArr[i] - meanMkt;
+          num += dS * dM;
+          den1 += dS * dS;
+          den2 += dM * dM;
+        }
+        var r2Price = (den1 > 0 && den2 > 0) ? Math.pow(num / Math.sqrt(den1 * den2), 2) : 0;
+
+        // Daily return statistics
+        var r2Ret = 0, maeRet = 0, rmseRet = 0;
+        if (dailyReturnsMkt.length > 1) {
+          var rSimMean = dailyReturnsMkt.reduce(function(a, b) { return a + b.sim; }, 0) / dailyReturnsMkt.length;
+          var rMktMean = dailyReturnsMkt.reduce(function(a, b) { return a + b.mkt; }, 0) / dailyReturnsMkt.length;
+          var rNum = 0, rDen1 = 0, rDen2 = 0, absErrSum = 0, sqErrSum = 0;
+          dailyReturnsMkt.forEach(function(pair) {
+            var ds = pair.sim - rSimMean;
+            var dm = pair.mkt - rMktMean;
+            rNum += ds * dm;
+            rDen1 += ds * ds;
+            rDen2 += dm * dm;
+            var err = Math.abs(pair.sim - pair.mkt);
+            absErrSum += err;
+            sqErrSum += err * err;
+          });
+          r2Ret = (rDen1 > 0 && rDen2 > 0) ? Math.pow(rNum / Math.sqrt(rDen1 * rDen2), 2) : 0;
+          maeRet = (absErrSum / dailyReturnsMkt.length) * 100;
+          rmseRet = Math.sqrt(sqErrSum / dailyReturnsMkt.length) * 100;
+        }
+
+        var meanSpread = spreads.length ? (spreads.reduce(function(a, b) { return a + b; }, 0) / spreads.length) : 0;
+        var maxAbsSpread = spreads.length ? Math.max.apply(null, spreads.map(function(s) { return Math.abs(s); })) : 0;
+        var meanMktNavSpread = marketToNavSpreads.length ? (marketToNavSpreads.reduce(function(a, b) { return a + b; }, 0) / marketToNavSpreads.length) : 0;
+
+        return {
+          timeline: timeline,
+          contractEvents: contractEvents,
+          metrics: {
+            count: timeline.length,
+            validObservations: validTimeline.length,
+            missingClosesCount: missingClosesCount,
+            missingOfficialNavCount: missingOfficialNavCount,
+            contractTransitionEvents: contractEvents.length,
+            r2Price: r2Price * 100,
+            r2Return: r2Ret * 100,
+            maeReturnPct: maeRet,
+            rmseReturnPct: rmseRet,
+            meanSpreadBps: meanSpread,
+            maxAbsSpreadBps: maxAbsSpread,
+            marketToNavSpreadMeanBps: meanMktNavSpread
+          }
+        };
+      },
+
+      exportReconciliationCSV: function(etfKey) {
+        var replay = this.runAccountingReplay(etfKey);
+        var csv = 'Date,ETF,Simulated_NAV,Market_Close,Tracking_Spread_Bps,Daily_Freight_Ret_Pct,Daily_Cash_Yield_Pct,Retained_Contracts,New_Contracts,Exited_Contracts,Futures_Notional,Fund_NAV,Gross_Exposure_Ratio\n';
+        replay.timeline.forEach(function(row) {
+          var mktStr = row.mktPrice !== null ? row.mktPrice.toFixed(4) : 'MKT_CLOSED';
+          var spStr = row.spreadBps !== null ? row.spreadBps.toFixed(2) : 'N/A';
+          csv += [
+            row.date,
+            etfKey.toUpperCase(),
+            row.simPrice.toFixed(4),
+            mktStr,
+            spStr,
+            row.attribution.freight.toFixed(4),
+            row.attribution.cash.toFixed(4),
+            row.retainedCount,
+            row.newCount,
+            row.exitedCount,
+            Math.round(row.futuresNotional),
+            Math.round(row.fundNav),
+            row.exposureRatio.toFixed(3)
+          ].join(',') + '\n';
+        });
+        var blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = etfKey.toUpperCase() + '_holdings_reconciliation_backtest.csv';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }
+    };
+
+    var _deconstUseActualBook = true;
+    window.setDeconstBookMode = function setDeconstBookMode(mode) {
+      _deconstUseActualBook = (mode === 'actual');
+      var actBtn = document.getElementById('deconstBookModeActual');
+      var bmkBtn = document.getElementById('deconstBookModeBenchmark');
+      if (actBtn && bmkBtn) {
+        actBtn.style.background = _deconstUseActualBook ? 'var(--accent)' : 'var(--bg)';
+        actBtn.style.color = _deconstUseActualBook ? '#fff' : 'var(--text-muted)';
+        bmkBtn.style.background = !_deconstUseActualBook ? 'var(--accent)' : 'var(--bg)';
+        bmkBtn.style.color = !_deconstUseActualBook ? '#fff' : 'var(--text-muted)';
+      }
+      renderETFDeconstructionEngine();
+    };
+
+    window.exportETFReconciliationCSV = function exportETFReconciliationCSV() {
+      ETF_ENGINE.exportReconciliationCSV(_deconstETFKey);
+    };
+
+    function computeBusinessDaysBetween(startDt, endDt) {
+      if (!startDt || !endDt) return 0;
+      var d1 = new Date(startDt.getFullYear(), startDt.getMonth(), startDt.getDate());
+      var d2 = new Date(endDt.getFullYear(), endDt.getMonth(), endDt.getDate());
+      if (d1 > d2) return 0;
+      var bDays = 0;
+      var cur = new Date(d1);
+      while (cur < d2) {
+        cur.setDate(cur.getDate() + 1);
+        var dayOfWeek = cur.getDay(); // 0 is Sunday, 6 is Saturday
+        if (dayOfWeek !== 0 && dayOfWeek !== 6) {
+          bDays++;
+        }
+      }
+      return bDays;
+    }
+
+    function predictETFPortfolioHoldings(etfKey, targetDate) {
+      var snapBundle = window.SCENARIO_SNAPSHOTS || {};
+      var snap = snapBundle[etfKey];
       
-      if (etfKey === 'bdry') {
-        // Benchmark target Notional ratio per SEC Form 10-Q: Capesize 50% / Panamax 40% / Supramax 10%
-        var capeTargetLots = 45.0;
-        var panaTargetLots = 52.0;
-        var supraTargetLots = 15.0;
+      // 1. Authoritative Snapshot Presence & Schema Check
+      if (!snap || typeof snap !== 'object' || !snap.schema_version || !snap.provenance) {
+        return {
+          isLocked: true,
+          lockReason: 'Authoritative scenario snapshot missing or invalid schema in window.SCENARIO_SNAPSHOTS.',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: 'UNAVAILABLE'
+        };
+      }
 
-        var capeNextLots = Math.round((capeTargetLots * rollPct) / 5.0) * 5.0;
-        var panaNextLots = Math.round((panaTargetLots * rollPct) / 2.0) * 2.0;
-        var supraNextLots = Math.round((supraTargetLots * rollPct) / 5.0) * 5.0;
+      // 2. Cryptographic Hash Comparison & Provenance Verification Check
+      var prov = snap.provenance;
+      if (!prov.expected_registry_sha256 || !prov.computed_archive_sha256) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot missing required cryptographic provenance hash fields.',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+        };
+      }
+      if (prov.expected_registry_sha256 !== prov.computed_archive_sha256) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot failed SHA-256 archive hash verification: expected registry hash (' + prov.expected_registry_sha256.substring(0, 8) + '...) does not match computed archive hash (' + prov.computed_archive_sha256.substring(0, 8) + '...).',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+        };
+      }
+      if (prov.provenance_verified !== true || prov.provenance_status !== 'VERIFIED_OFFICIAL_ARCHIVE') {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot provenance verification status failed: ' + (prov.provenance_status || 'UNVERIFIED') + (prov.provenance_status === 'BACKFILLED_LOCAL_DERIVED' ? ' (Historical backfilled data cannot be used for verified live scenario translation).' : ''),
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+        };
+      }
+      if (prov.snapshot_content_sha256 && (typeof prov.snapshot_content_sha256 !== 'string' || prov.snapshot_content_sha256.length !== 64)) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot canonical content SHA-256 hash is invalid or malformed.',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+        };
+      }
 
-        if (rollPct >= 0.99) { capeNextLots = capeTargetLots; panaNextLots = panaTargetLots; supraNextLots = supraTargetLots; }
-        if (rollPct <= 0.01) { capeNextLots = 0; panaNextLots = 0; supraNextLots = 0; }
+      // 3. Runtime Position Array & Numeric Integrity Validation
+      if (!Array.isArray(snap.positions) || snap.positions.length === 0) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot positions must be a non-empty array of constituent holdings.',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+        };
+      }
 
-        var capePromptLots = Math.max(0, capeTargetLots - capeNextLots);
-        var panaPromptLots = Math.max(0, panaTargetLots - panaNextLots);
-        var supraPromptLots = Math.max(0, supraTargetLots - supraNextLots);
-
-        // Prompt month contracts
-        pMonths.forEach(function(mStr) {
-          if (capePromptLots > 0) { var nameCape = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCape, class: 'cape', isPrompt: true, Lots: capePromptLots, unitPrice: getLivePx(nameCape, 22500) }); }
-          if (panaPromptLots > 0) { var namePana = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePana, class: 'pana', isPrompt: true, Lots: panaPromptLots, unitPrice: getLivePx(namePana, 15200) }); }
-          if (supraPromptLots > 0) { var nameSupra = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupra, class: 'supra', isPrompt: true, Lots: supraPromptLots, unitPrice: getLivePx(nameSupra, 14100) }); }
-        });
-
-        // Next Quarter Strip contracts (only if roll progress > 0)
-        if (capeNextLots > 0 || panaNextLots > 0 || supraNextLots > 0) {
-          nMonths.forEach(function(mStr) {
-            if (capeNextLots > 0) { var nameCapeN = 'Capesize 5TC FFA 180kt ' + mStr; holdings.push({ Name: nameCapeN, class: 'cape', isPrompt: false, Lots: capeNextLots, unitPrice: getLivePx(nameCapeN, 21800) }); }
-            if (panaNextLots > 0) { var namePanaN = 'Panamax 5TC FFA 82kt ' + mStr; holdings.push({ Name: namePanaN, class: 'pana', isPrompt: false, Lots: panaNextLots, unitPrice: getLivePx(namePanaN, 14800) }); }
-            if (supraNextLots > 0) { var nameSupraN = 'Supramax 58 TC FFA 58kt ' + mStr; holdings.push({ Name: nameSupraN, class: 'supra', isPrompt: false, Lots: supraNextLots, unitPrice: getLivePx(nameSupraN, 13900) }); }
-          });
+      var reqPosKeys = ['contract_name', 'ticker', 'cusip', 'lots', 'multiplier', 'multiplier_unit', 'price', 'product_code', 'rulebook_ref', 'route_class'];
+      for (var i = 0; i < snap.positions.length; i++) {
+        var p = snap.positions[i];
+        if (!p || typeof p !== 'object') {
+          return {
+            isLocked: true,
+            lockReason: 'Position at index ' + i + ' is invalid or corrupt.',
+            holdings: [],
+            totalNotional: 0,
+            grossFuturesExposureRatio: 0,
+            snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+          };
         }
-      } else {
-        // BWET: Benchmark 90% VLCC TD3C / 10% Suezmax TD20 per SEC Form 10-Q
-        var vlccTargetLots = 85.0;
-        var suezTargetLots = 12.0; // Scaled for exact 90/10 notional parity
-
-        var vlccNextLots = Math.round((vlccTargetLots * rollPct) / 5.0) * 5.0;
-        var suezNextLots = Math.round((suezTargetLots * rollPct) / 2.0) * 2.0;
-
-        if (rollPct >= 0.99) { vlccNextLots = vlccTargetLots; suezNextLots = suezTargetLots; }
-        if (rollPct <= 0.01) { vlccNextLots = 0; suezNextLots = 0; }
-
-        var vlccPromptLots = Math.max(0, vlccTargetLots - vlccNextLots);
-        var suezPromptLots = Math.max(0, suezTargetLots - suezNextLots);
-
-        pMonths.forEach(function(mStr) {
-          if (vlccPromptLots > 0) { var nameVlcc = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlcc, class: 'vlcc', isPrompt: true, Lots: vlccPromptLots, unitPrice: getLivePx(nameVlcc, 48500) }); }
-          if (suezPromptLots > 0) { var nameSuez = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuez, class: 'suez', isPrompt: true, Lots: suezPromptLots, unitPrice: getLivePx(nameSuez, 38200) }); }
-        });
-
-        if (vlccNextLots > 0 || suezNextLots > 0) {
-          nMonths.forEach(function(mStr) {
-            if (vlccNextLots > 0) { var nameVlccN = 'TD3C FFA 270kt MEG-China ' + mStr; holdings.push({ Name: nameVlccN, class: 'vlcc', isPrompt: false, Lots: vlccNextLots, unitPrice: getLivePx(nameVlccN, 46800) }); }
-            if (suezNextLots > 0) { var nameSuezN = 'TD20 FFA 130kt WAF-Cont ' + mStr; holdings.push({ Name: nameSuezN, class: 'suez', isPrompt: false, Lots: suezNextLots, unitPrice: getLivePx(nameSuezN, 37100) }); }
-          });
+        for (var k = 0; k < reqPosKeys.length; k++) {
+          if (p[reqPosKeys[k]] === undefined || p[reqPosKeys[k]] === null) {
+            return {
+              isLocked: true,
+              lockReason: 'Position ' + (p.contract_name || i) + ' missing required key: ' + reqPosKeys[k],
+              holdings: [],
+              totalNotional: 0,
+              grossFuturesExposureRatio: 0,
+              snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+            };
+          }
+        }
+        if (!isFinite(p.price) || p.price <= 0) {
+          return {
+            isLocked: true,
+            lockReason: 'Position ' + p.contract_name + ' has invalid non-positive price mark: ' + p.price,
+            holdings: [],
+            totalNotional: 0,
+            grossFuturesExposureRatio: 0,
+            snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+          };
+        }
+        if (!isFinite(p.multiplier) || p.multiplier <= 0) {
+          return {
+            isLocked: true,
+            lockReason: 'Position ' + p.contract_name + ' has invalid non-positive multiplier: ' + p.multiplier,
+            holdings: [],
+            totalNotional: 0,
+            grossFuturesExposureRatio: 0,
+            snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+          };
+        }
+        if (!isFinite(p.lots) || p.lots < 0) {
+          return {
+            isLocked: true,
+            lockReason: 'Position ' + p.contract_name + ' has invalid negative lots: ' + p.lots,
+            holdings: [],
+            totalNotional: 0,
+            grossFuturesExposureRatio: 0,
+            snapshotDate: snap.holdings_snapshot_as_of_date || 'UNAVAILABLE'
+          };
         }
       }
 
-      // Calculate total futures notional value
-      var totalNotional = 0;
-      holdings.forEach(function(h) {
-        h.notional = h.Lots * h.unitPrice;
-        totalNotional += h.notional;
+      // 4. Dynamic Business-Day Freshness & Future-Date Verification
+      var snapDateStr = snap.holdings_snapshot_as_of_date;
+      if (!snapDateStr || !/^\d{4}-\d{2}-\d{2}$/.test(snapDateStr)) {
+        return {
+          isLocked: true,
+          lockReason: 'Invalid holdings snapshot as-of date format: ' + snapDateStr,
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: 'UNAVAILABLE'
+        };
+      }
+      var snapDateParts = snapDateStr.split('-');
+      var snapDateObj = new Date(parseInt(snapDateParts[0], 10), parseInt(snapDateParts[1], 10) - 1, parseInt(snapDateParts[2], 10));
+      var currentBrowserDate = window._mockBrowserDate ? new Date(window._mockBrowserDate) : new Date();
+      
+      var todayMidnight = new Date(currentBrowserDate.getFullYear(), currentBrowserDate.getMonth(), currentBrowserDate.getDate());
+      var snapMidnight = new Date(snapDateObj.getFullYear(), snapDateObj.getMonth(), snapDateObj.getDate());
+      if (snapMidnight > todayMidnight) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot as-of date (' + snapDateStr + ') is in the future relative to current evaluation date (' + currentBrowserDate.toISOString().substring(0, 10) + '). Translation locked.',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snapDateStr
+        };
+      }
+
+      var dynamicBusinessDayAge = computeBusinessDaysBetween(snapDateObj, currentBrowserDate);
+      var maxLimitBdays = (snap.freshness_state && snap.freshness_state.max_freshness_limit_bdays) ? snap.freshness_state.max_freshness_limit_bdays : 3;
+
+      if (dynamicBusinessDayAge > maxLimitBdays) {
+        return {
+          isLocked: true,
+          lockReason: 'Snapshot is stale: ' + dynamicBusinessDayAge + ' business days old (exceeds limit of ' + maxLimitBdays + ' bdays).',
+          holdings: [],
+          totalNotional: 0,
+          grossFuturesExposureRatio: 0,
+          snapshotDate: snapDateStr
+        };
+      }
+
+      var totNotional = 0;
+      var holdingsOut = [];
+
+      // 5. Process Disclosed Positions from Authoritative Snapshot
+      snap.positions.forEach(function(p) {
+        var disclosedLots = p.lots;
+        var effectiveLots = disclosedLots;
+        
+        if (_deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK' && _deconstCustomForwardLots[p.contract_name] !== undefined) {
+          effectiveLots = parseFloat(_deconstCustomForwardLots[p.contract_name]) || 0.0;
+        }
+
+        var mult = p.multiplier;
+        var notional = effectiveLots * p.price * mult;
+        totNotional += notional;
+
+        var rClass = p.route_class || 'cape';
+
+        holdingsOut.push({
+          Name: p.contract_name,
+          fullName: p.contract_name,
+          contract_id: p.ticker,
+          cusip: p.cusip,
+          class: rClass,
+          disclosedLots: disclosedLots,
+          Lots: effectiveLots,
+          unitPrice: p.price,
+          startingPrice: p.price,
+          multiplier: mult,
+          multiplier_unit: p.multiplier_unit,
+          product_code: p.product_code,
+          rulebook_ref: p.rulebook_ref,
+          notional: notional,
+          weight: 0,
+          isRollIn: false,
+          rollCost: 0.0
+        });
       });
 
-      // Calculate percentage weights
-      holdings.forEach(function(h) {
-        h.weight = totalNotional > 0 ? (h.notional / totalNotional) * 100 : 0;
+      // 6. Append User-Assumed Forward Roll-In Legs (if in USER_SPECIFIED_FORWARD_BOOK mode)
+      if (_deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK' && _deconstRollInLegs[etfKey]) {
+        _deconstRollInLegs[etfKey].forEach(function(leg, legIdx) {
+          var lots = leg.lots || 0.0;
+          var mult = leg.multiplier || (etfKey === 'bdry' ? 1.0 : 1000.0);
+          var startMark = leg.starting_mark || 1.0;
+          var notional = lots * startMark * mult;
+          totNotional += notional;
+
+          var rClass = leg.route_class || (etfKey === 'bdry' ? 'cape' : 'vlcc');
+          holdingsOut.push({
+            Name: leg.contract_name,
+            fullName: leg.contract_name,
+            contract_id: leg.ticker,
+            cusip: leg.cusip,
+            class: rClass,
+            disclosedLots: 0.0,
+            Lots: lots,
+            unitPrice: startMark,
+            startingPrice: startMark,
+            targetPrice: leg.target_mark,
+            multiplier: mult,
+            multiplier_unit: leg.multiplier_unit,
+            product_code: 'USER_ASSUMED',
+            rulebook_ref: 'USER_ASSUMED_FORWARD_BOOK',
+            notional: notional,
+            weight: 0,
+            isRollIn: true,
+            rollInIndex: legIdx,
+            rollCost: leg.roll_transaction_cost_dollars || 0.0
+          });
+        });
+      }
+
+      holdingsOut.forEach(function(h) {
+        h.weight = totNotional > 0 ? (h.notional / totNotional) * 100 : 0;
       });
+
+      var baseNav = snap.baseline ? (snap.baseline.total_nav_dollars || 30000000.0) : 30000000.0;
+      var expRatio = baseNav > 0 ? (totNotional / baseNav) : 1.0;
 
       return {
+        isLocked: false,
+        snapshot: snap,
         date: targetDate,
-        rollPct: Math.round(rollPct * 100),
-        nextQNum: nextQNum,
-        holdings: holdings,
-        totalNotional: totalNotional
+        scenarioMode: _deconstScenarioMode,
+        holdings: holdingsOut,
+        totalNotional: totNotional,
+        grossFuturesExposureRatio: expRatio,
+        fundNav: baseNav,
+        snapshotDate: snap.holdings_snapshot_as_of_date,
+        isActualBook: true
       };
     }
 
-      function getContractMonthSortKey(name) {
-        var mNames = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'];
-        var m = (name || '').match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
-        if (m) {
-          var mIdx = mNames.indexOf(m[1].toLowerCase()) + 1;
-          var yr = parseInt(m[2]) + 2000;
-          return yr * 100 + mIdx;
-        }
-        return 999999;
+    function getContractMonthSortKey(name) {
+      var mNames = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'];
+      var m = (name || '').match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
+      if (m) {
+        var mIdx = mNames.indexOf(m[1].toLowerCase()) + 1;
+        var yr = parseInt(m[2]) + 2000;
+        return yr * 100 + mIdx;
       }
+      return 999999;
+    }
 
-    window.renderETFDeconstructionEngine = function renderETFDeconstructionEngine() {
-      if (typeof DATA === 'undefined' || !DATA) return;
+    function renderETFDeconstructionEngine() {
       var dateInput = document.getElementById('deconstTargetDate');
-      if (!dateInput) return;
-      if (!dateInput.value) {
-        dateInput.value = fmtDateISO(new Date());
-      }
-      var parts = dateInput.value.split('-');
+      var dateStr = (dateInput && dateInput.value) ? dateInput.value : '2026-08-14';
+      var parts = dateStr.split('-');
       var targetDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
 
       var pred = predictETFPortfolioHoldings(_deconstETFKey, targetDate);
       window._lastPredHoldings = pred.holdings;
       
-      // Calculate weighted shock combining Macro Class Shocks & Micro Contract Shocks
+      // Update Provenance & Baseline Info Banner
+      var provAsOf = document.getElementById('deconstProvenanceAsOf');
+      var provHash = document.getElementById('deconstProvenanceHash');
+      var baseNote = document.getElementById('deconstBaselineNote');
+      var baseAlert = document.getElementById('deconstBaselineAlert');
+      var freshBadge = document.getElementById('deconstLiveFreshnessBadge');
+
+      // Locked Snapshot Guard Handling
+      if (pred.isLocked) {
+        if (baseAlert) {
+          baseAlert.style.display = 'block';
+          baseAlert.innerHTML = '🛑 <strong>Scenario Translator Locked:</strong> ' + pred.lockReason;
+        }
+        if (provAsOf) provAsOf.innerHTML = 'Snapshot: <span style="color:#f85149;">LOCKED / INVALID</span>';
+        if (provHash) provHash.textContent = 'SHA: MISMATCH';
+        if (freshBadge) {
+          freshBadge.textContent = 'PROVENANCE FAILED';
+          freshBadge.style.background = 'rgba(248,81,73,0.15)';
+          freshBadge.style.color = '#f85149';
+          freshBadge.style.borderColor = 'rgba(248,81,73,0.3)';
+        }
+        var kpiFutPnlL = document.getElementById('deconstKpiFuturesPnl');
+        var kpiNavL = document.getElementById('deconstKpiNav');
+        var kpiMktL = document.getElementById('deconstKpiMarketRange');
+        var kpiPnlL = document.getElementById('deconstKpiPnl');
+        if (kpiFutPnlL) kpiFutPnlL.textContent = 'UNAVAILABLE';
+        if (kpiNavL) kpiNavL.textContent = 'UNAVAILABLE';
+        if (kpiMktL) kpiMktL.textContent = 'UNAVAILABLE';
+        if (kpiPnlL) kpiPnlL.textContent = 'UNAVAILABLE';
+        var bodyElL = document.getElementById('deconstHoldingsBody');
+        if (bodyElL) {
+          bodyElL.innerHTML = '<tr><td colspan="9" style="padding:16px;text-align:center;color:#f85149;font-weight:700;">' + pred.lockReason + '</td></tr>';
+        }
+        return;
+      }
+
+      // Calculate Gross Futures P&L and NAV Return from Target Marks & Shocks
+      var totalGrossFuturesPnl = 0;
+      var totalRollCosts = 0;
       var totalWeightedShock = 0;
+
       pred.holdings.forEach(function(h, idx) {
-        var macroShock = 0;
-        if (h.class === 'cape') macroShock = _deconstShocks.cape;
-        else if (h.class === 'pana') macroShock = _deconstShocks.pana;
-        else if (h.class === 'supra') macroShock = _deconstShocks.supra;
-        else if (h.class === 'vlcc') macroShock = _deconstShocks.vlcc;
-        else if (h.class === 'suez') macroShock = _deconstShocks.suez;
+        var baseMark = h.startingPrice || h.unitPrice || 1.0;
+        var targetMark = baseMark;
         
-        var customMicro = _deconstMicroShocks[h.Name] || 0;
-        h.effShockPct = macroShock + customMicro;
-        h.shockPrice = h.unitPrice * (1 + h.effShockPct / 100);
-        h.shockNotional = h.Lots * h.shockPrice;
+        // 1. Exact Target Price is PRIMARY
+        if (_deconstTargetPrices[h.Name] !== undefined && !isNaN(_deconstTargetPrices[h.Name])) {
+          targetMark = _deconstTargetPrices[h.Name];
+          h.effShockPct = ((targetMark - baseMark) / baseMark) * 100;
+        } else if (h.isRollIn && h.targetPrice !== undefined) {
+          targetMark = h.targetPrice;
+          h.effShockPct = ((targetMark - baseMark) / baseMark) * 100;
+        } else {
+          var macroShock = 0;
+          if (h.class === 'cape') macroShock = _deconstShocks.cape;
+          else if (h.class === 'pana') macroShock = _deconstShocks.pana;
+          else if (h.class === 'supra') macroShock = _deconstShocks.supra;
+          else if (h.class === 'vlcc') macroShock = _deconstShocks.vlcc;
+          else if (h.class === 'suez') macroShock = _deconstShocks.suez;
+
+          var customMicro = _deconstMicroShocks[h.Name] || 0;
+          h.effShockPct = macroShock + customMicro;
+          targetMark = baseMark * (1 + h.effShockPct / 100);
+        }
+
+        h.targetMark = targetMark;
+        h.deltaMark = targetMark - baseMark;
+        var posGrossPnl = (h.Lots * (h.multiplier || 1.0) * h.deltaMark);
+        var posNetPnl = posGrossPnl - (h.rollCost || 0.0);
+        h.grossFuturesPnl = posGrossPnl;
+        h.netContractPnl = posNetPnl;
+        totalGrossFuturesPnl += posGrossPnl;
+        totalRollCosts += (h.rollCost || 0.0);
         
         // Per-contract NAV % contribution
         h.navContribPct = (h.weight / 100) * h.effShockPct;
@@ -4701,154 +5471,260 @@
         }
       });
 
+      // Baseline Resolution: Check for Manual Override or Official Baseline
+      var isValidBaseline = false;
+      var baseOrigin = "NONE";
       var curBasePrice = getDeconstBasePrice(_deconstETFKey);
-      pred.holdings.forEach(function(h) {
-        h.sharePriceImpact = curBasePrice * (h.navContribPct / 100);
-      });
-      var kpiPriceDiff = document.getElementById('deconstKpiPriceDiff');
-      if (kpiPriceDiff) kpiPriceDiff.textContent = 'Current: $' + curBasePrice.toFixed(2);
+      var baseNavSh = null;
+      var baseTotalNav = null;
+      var baseShares = null;
+      var projTotalNav = null;
+      var projNavPerShare = null;
+      var mktLow = null;
+      var mktBase = null;
+      var mktHigh = null;
+      var baselinePremDiscPct = 0.0;
+      var appliedPremDiscPct = 0.0;
+      var appliedPremDiscLabel = "";
+
+      var snapBaseline = pred.snapshot.baseline || {};
+
+      if (_deconstManualBaseline) {
+        isValidBaseline = true;
+        baseOrigin = "Manual Baseline (" + (_deconstManualBaseline.asOfDate || 'User Input') + ")";
+        curBasePrice = _deconstManualBaseline.mktPx;
+        baseNavSh = _deconstManualBaseline.navSh;
+        baseTotalNav = _deconstManualBaseline.totalNav;
+        baseShares = _deconstManualBaseline.shares;
+      } else if (snapBaseline.is_contemporaneous) {
+        isValidBaseline = true;
+        baseOrigin = "Official Contemporaneous Filings (" + snapBaseline.as_of_date + ")";
+        curBasePrice = snapBaseline.market_price;
+        baseNavSh = snapBaseline.nav_per_share;
+        baseTotalNav = snapBaseline.total_nav_dollars;
+        baseShares = snapBaseline.shares_outstanding;
+      }
+
+      // Sourced 3-Date Provenance Resolution
+      var holdingsDate = pred.snapshotDate || 'UNAVAILABLE';
+      var baselineDate = isValidBaseline ? (_deconstManualBaseline ? _deconstManualBaseline.asOfDate : snapBaseline.as_of_date) : 'NON-CONTEMPORANEOUS';
+      var horizonDate = (dateInput && dateInput.value) ? dateInput.value : 'UNSPECIFIED';
+      var gapDays = 0;
+      try {
+        if (isValidBaseline && baselineDate !== 'NON-CONTEMPORANEOUS' && holdingsDate !== 'UNAVAILABLE') {
+          gapDays = Math.round(Math.abs(new Date(baselineDate) - new Date(holdingsDate)) / (1000 * 60 * 60 * 24));
+        }
+      } catch (e) { gapDays = 0; }
+
+      // Market Price & NAV Projection (if baseline is valid)
+      var netScenarioPnl = totalGrossFuturesPnl - totalRollCosts;
+      if (isValidBaseline && baseShares > 0 && baseTotalNav > 0) {
+        projTotalNav = baseTotalNav + netScenarioPnl;
+        projNavPerShare = projTotalNav / baseShares;
+
+        // Baseline Prem/Disc
+        baselinePremDiscPct = ((curBasePrice - baseNavSh) / baseNavSh) * 100.0;
+
+        // Selectable pricing mode: CARRY_FORWARD_PREMIUM_DISCOUNT vs NAV_PARITY
+        var selectedMode = _deconstPricingMode;
+        if (selectedMode === 'AUTO') {
+          selectedMode = (gapDays === 0 || _deconstManualBaseline) ? 'CARRY_FORWARD_PREMIUM_DISCOUNT' : 'NAV_PARITY';
+        }
+
+        if (selectedMode === 'CARRY_FORWARD_PREMIUM_DISCOUNT') {
+          appliedPremDiscPct = baselinePremDiscPct;
+          mktBase = projNavPerShare * (1.0 + (appliedPremDiscPct / 100.0));
+          appliedPremDiscLabel = 'Carried Forward Baseline Prem/Disc (' + (appliedPremDiscPct >= 0 ? '+' : '') + appliedPremDiscPct.toFixed(2) + '%) [Assumption]';
+        } else {
+          appliedPremDiscPct = 0.0;
+          mktBase = projNavPerShare;
+          appliedPremDiscLabel = 'Projected at NAV Parity (0.00% Prem/Disc) [Assumption]';
+        }
+
+        var spreadRatio = (_deconstPremDiscSpreadPct || 2.50) / 100.0;
+        mktLow = mktBase * (1.0 - spreadRatio);
+        mktHigh = mktBase * (1.0 + spreadRatio);
+      }
+
       var shareInput = document.getElementById('deconstShareCountInput');
       var shareCount = shareInput ? Math.max(1, parseFloat(shareInput.value) || 1000) : 1000;
-
-      var projPrice = curBasePrice * (1 + totalWeightedShock / 100);
-      var pnlVal = shareCount * curBasePrice * (totalWeightedShock / 100);
+      var pnlVal = isValidBaseline ? (shareCount * (projNavPerShare - baseNavSh)) : 0;
       var baseCapital = shareCount * curBasePrice;
 
+      // Update Freshness Badge
+      if (freshBadge) {
+        var bAge = pred.snapshot.freshness_state.business_day_age;
+        freshBadge.textContent = bAge + ' bday fresh • VERIFIED';
+        freshBadge.style.background = 'rgba(63,185,80,0.15)';
+        freshBadge.style.color = '#3fb950';
+        freshBadge.style.borderColor = 'rgba(63,185,80,0.3)';
+      }
+
+      if (provAsOf) {
+        var dateLabel = holdingsDate;
+        if (pred.snapshot.is_official_as_of_date === false || pred.snapshot.date_sourcing === 'RETRIEVAL_DATED_SOURCE_ABSENT') {
+          dateLabel += ' <span style="color:#d29922;font-size:10px;">(Retrieval-Dated, Source As-Of Absent)</span>';
+        }
+        provAsOf.innerHTML = 'Holdings: <strong>' + dateLabel + '</strong> &bull; Baseline: <strong>' + baselineDate + '</strong>' + (gapDays > 0 ? ' <span style="color:#d29922;">(Gap: ' + gapDays + 'd)</span>' : '') + ' &bull; Horizon: <strong>' + horizonDate + '</strong>';
+      }
+      if (provHash) {
+        var hashStr = pred.snapshot.provenance.computed_archive_sha256 || '';
+        provHash.innerHTML = '<span style="color:var(--text-muted);">Archive SHA-256 (verified at snapshot-generation time): </span>' + hashStr.substring(0, 12) + '...';
+        provHash.title = hashStr;
+      }
+      
+      if (baseNote) {
+        if (isValidBaseline) {
+          baseNote.innerHTML = '<span style="color:#3fb950;font-weight:700;">● ' + baseOrigin + ':</span> NAV $' + baseNavSh.toFixed(2) + '/sh | Total NAV $' + (baseTotalNav/1e6).toFixed(2) + 'M | Mkt $' + curBasePrice.toFixed(2);
+        } else {
+          baseNote.innerHTML = '<span style="color:#d29922;font-weight:700;">⚠️ Baseline Status: NON-CONTEMPORANEOUS</span> (Holdings ' + holdingsDate + ' vs NAV/Shares Unsynchronized)';
+        }
+      }
+
+      if (baseAlert) {
+        if (!isValidBaseline) {
+          baseAlert.style.display = 'block';
+          baseAlert.style.background = 'rgba(210,153,34,0.1)';
+          baseAlert.style.borderColor = 'rgba(210,153,34,0.3)';
+          baseAlert.style.color = '#d29922';
+          baseAlert.innerHTML = '⚠️ Gross futures P&amp;L available; per-share ETF estimate unavailable because the NAV/share baseline is not contemporaneous. Supply a manual baseline above to unlock per-share targets.';
+        } else if (gapDays > 0) {
+          baseAlert.style.display = 'block';
+          baseAlert.style.background = 'rgba(210,153,34,0.1)';
+          baseAlert.style.borderColor = 'rgba(210,153,34,0.3)';
+          baseAlert.style.color = '#d29922';
+          baseAlert.innerHTML = 'ℹ️ NOTICE: Baseline date (' + baselineDate + ') differs from holdings snapshot date (' + holdingsDate + ') by ' + gapDays + ' calendar days. Do not treat as an exact official NAV reconstruction.';
+        } else {
+          baseAlert.style.display = 'none';
+        }
+      }
+
       // Update KPI Badges
-      var kpiPrice = document.getElementById('deconstKpiPrice');
+      var kpiFutPnlTitle = document.getElementById('deconstKpiFuturesPnlTitle');
+      var kpiFutPnl = document.getElementById('deconstKpiFuturesPnl');
+      var kpiFutPnlSub = document.getElementById('deconstKpiFuturesPnlSub');
       var kpiNav = document.getElementById('deconstKpiNav');
+      var kpiNavDesc = document.getElementById('deconstKpiNavDesc');
+      var kpiMkt = document.getElementById('deconstKpiMarketRange');
       var kpiPnl = document.getElementById('deconstKpiPnl');
       var kpiPnlSub = document.getElementById('deconstKpiPnlSub');
-      var kpiRoll = document.getElementById('deconstKpiRoll');
 
-      if (kpiPrice) {
-        kpiPrice.textContent = '$' + projPrice.toFixed(2);
-        kpiPrice.style.color = projPrice > curBasePrice ? '#3fb950' : (projPrice < curBasePrice ? '#f85149' : '#58a6ff');
+      if (kpiFutPnlTitle) {
+        kpiFutPnlTitle.textContent = (totalRollCosts > 0) ? 'Net Scenario P&L After User Roll Costs ($)' : 'Gross Futures P&L ($)';
       }
+
+      if (kpiFutPnl) {
+        var isPosPnl = netScenarioPnl >= 0;
+        kpiFutPnl.textContent = (isPosPnl ? '+$' : '-$') + Math.abs(netScenarioPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+        kpiFutPnl.style.color = netScenarioPnl > 0 ? '#3fb950' : (netScenarioPnl < 0 ? '#f85149' : 'var(--text)');
+      }
+      if (kpiFutPnlSub) {
+        var modeName = _deconstScenarioMode === 'FROZEN_BOOK' ? 'Frozen Disclosed Book' : 'User-Assumed Forward Book';
+        var rollCostNote = totalRollCosts > 0 ? (' | Roll Costs: $' + Math.round(totalRollCosts).toLocaleString()) : '';
+        kpiFutPnlSub.textContent = 'Notional: $' + (pred.totalNotional / 1e6).toFixed(2) + 'M (' + modeName + rollCostNote + ')';
+      }
+
       if (kpiNav) {
-        kpiNav.textContent = (totalWeightedShock >= 0 ? '+' : '') + totalWeightedShock.toFixed(2) + '%';
-        kpiNav.style.color = totalWeightedShock > 0 ? '#3fb950' : (totalWeightedShock < 0 ? '#f85149' : 'var(--text)');
+        if (isValidBaseline) {
+          kpiNav.textContent = '$' + projNavPerShare.toFixed(2) + ' / sh';
+          kpiNav.style.color = projNavPerShare >= baseNavSh ? '#3fb950' : '#f85149';
+        } else {
+          kpiNav.textContent = 'UNAVAILABLE';
+          kpiNav.style.color = 'var(--text-muted)';
+        }
       }
-      var kpiNavDesc = document.getElementById('deconstKpiNavDesc');
-      if (kpiNavDesc) kpiNavDesc.textContent = 'Lot-Weighted Portfolio Return';
+      if (kpiNavDesc) {
+        if (isValidBaseline) {
+          kpiNavDesc.textContent = 'Total NAV: $' + (projTotalNav / 1e6).toFixed(2) + 'M (' + baseOrigin + ')';
+        } else {
+          kpiNavDesc.textContent = 'Baseline Non-Contemporaneous';
+        }
+      }
+
+      if (kpiMkt) {
+        if (isValidBaseline) {
+          kpiMkt.textContent = '$' + mktLow.toFixed(2) + ' • $' + mktBase.toFixed(2) + ' • $' + mktHigh.toFixed(2);
+          kpiMkt.style.color = 'var(--accent)';
+          kpiMkt.title = appliedPremDiscLabel;
+        } else {
+          kpiMkt.textContent = 'UNAVAILABLE';
+          kpiMkt.style.color = 'var(--text-muted)';
+        }
+      }
+
       if (kpiPnl) {
-        kpiPnl.textContent = (pnlVal >= 0 ? '+$' : '-$') + Math.abs(pnlVal).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
-        kpiPnl.style.color = pnlVal > 0 ? '#3fb950' : (pnlVal < 0 ? '#f85149' : 'var(--text)');
+        if (isValidBaseline) {
+          kpiPnl.textContent = (pnlVal >= 0 ? '+$' : '-$') + Math.abs(pnlVal).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+          kpiPnl.style.color = pnlVal > 0 ? '#3fb950' : (pnlVal < 0 ? '#f85149' : 'var(--text)');
+        } else {
+          kpiPnl.textContent = 'N/A';
+          kpiPnl.style.color = 'var(--text-muted)';
+        }
       }
       if (kpiPnlSub) {
-        kpiPnlSub.textContent = 'Base Capital $' + Math.round(baseCapital).toLocaleString();
-      }
-      if (kpiRoll) {
-        // Calculate exact per-vessel-class lot-weighted roll yield spread to prevent cross-class price distortions
-        var classMetrics = {};
-        var benchmarkWeights = _deconstETFKey === 'bdry' 
-          ? { cape: 0.50, pana: 0.40, supra: 0.10 } 
-          : { vlcc: 0.90, suez: 0.10 };
-
-        var classKeys = _deconstETFKey === 'bdry' ? ['cape', 'pana', 'supra'] : ['vlcc', 'suez'];
-
-        classKeys.forEach(function(cls) {
-          var promptHoldings = pred.holdings.filter(function(h) { return h.class === cls && h.isPrompt; });
-          var nextHoldings = pred.holdings.filter(function(h) { return h.class === cls && !h.isPrompt; });
-
-          var pNot = 0, pLt = 0, nNot = 0, nLt = 0;
-          promptHoldings.forEach(function(h) {
-            var px = h.shockPrice || h.unitPrice;
-            pNot += h.Lots * px; pLt += h.Lots;
-          });
-          nextHoldings.forEach(function(h) {
-            var px = h.shockPrice || h.unitPrice;
-            nNot += h.Lots * px; nLt += h.Lots;
-          });
-
-          var avgP = pLt > 0 ? (pNot / pLt) : 0;
-          var avgN = nLt > 0 ? (nNot / nLt) : 0;
-
-          // Decouple to market forward curve prices if portfolio roll has not commenced (rollPct == 0)
-          if (avgP === 0 || avgN === 0) {
-            var pFall = cls === 'cape' ? 22500 : (cls === 'pana' ? 15200 : (cls === 'supra' ? 14100 : (cls === 'vlcc' ? 48500 : 38200)));
-            var nFall = cls === 'cape' ? 21800 : (cls === 'pana' ? 14800 : (cls === 'supra' ? 13900 : (cls === 'vlcc' ? 46800 : 37100)));
-            var shock = _deconstShocks[cls] || 0;
-            if (avgP === 0) avgP = pFall * (1 + shock / 100);
-            if (avgN === 0) avgN = nFall * (1 + shock / 100);
-          }
-
-          if (avgP > 1.0 && avgN > 1.0) {
-            var spread = ((avgP - avgN) / avgP) * 100;
-            classMetrics[cls] = { avgP: avgP, avgN: avgN, spread: spread, weight: benchmarkWeights[cls] || 0 };
-          }
-        });
-
-        var weightedRollYieldSum = 0;
-        var totalActiveWeight = 0;
-        Object.keys(classMetrics).forEach(function(cls) {
-          totalActiveWeight += classMetrics[cls].weight;
-        });
-
-        Object.keys(classMetrics).forEach(function(cls) {
-          var normWeight = totalActiveWeight > 0 ? (classMetrics[cls].weight / totalActiveWeight) : 0;
-          weightedRollYieldSum += classMetrics[cls].spread * normWeight;
-        });
-
-        var spreadPct = weightedRollYieldSum;
-        var isPos = spreadPct >= 0;
-        kpiRoll.textContent = (isPos ? '+' : '') + spreadPct.toFixed(2) + '% / mo';
-        kpiRoll.style.color = isPos ? '#3fb950' : '#d29922';
-
-        var descEl = document.getElementById('deconstKpiRollDesc');
-        if (descEl) descEl.textContent = isPos ? 'Backwardation Roll Gain (+) ' : 'Contango Decay Rate (-) ';
+        kpiPnlSub.textContent = isValidBaseline ? ('Base Capital $' + Math.round(baseCapital).toLocaleString('en-US')) : 'Requires Contemporaneous Baseline';
       }
 
-      // Update Table & Roll Progress Text
+      // Update Table Header & Progress Text
       var progressEl = document.getElementById('deconstRollProgressText');
-      if (progressEl) progressEl.textContent = 'Target Q' + pred.nextQNum + ' Roll Progress: ' + pred.rollPct + '%';
+      if (progressEl) {
+        var modeLabel = _deconstScenarioMode === 'FROZEN_BOOK' 
+          ? 'Frozen Disclosed Book (' + pred.holdings.length + ' Positions)' 
+          : 'User-Assumed Forward Book (' + pred.holdings.length + ' Legs - User Assumption, NOT an ETF roll forecast)';
+        progressEl.textContent = modeLabel;
+      }
 
       var bodyEl = document.getElementById('deconstHoldingsBody');
       if (bodyEl) {
         var html = '';
         pred.holdings.forEach(function(h, idx) {
           var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
-          var sgxMetrics = getSGXContractMetrics(h.class, h.Name);
-          var sgxSettleStr = sgxMetrics.settle ? '$' + Math.round(sgxMetrics.settle).toLocaleString() : '$' + Math.round(h.unitPrice).toLocaleString();
+          var curMarkStr = (h.unitPrice < 300) ? ('$' + h.unitPrice.toFixed(2)) : ('$' + Math.round(h.unitPrice).toLocaleString('en-US'));
+          var tgtMarkVal = h.targetMark !== undefined ? h.targetMark : h.unitPrice;
+          var tgtMarkValDisplay = (h.unitPrice < 300) ? tgtMarkVal.toFixed(2) : Math.round(tgtMarkVal);
           
-          var rangeBarHtml = '';
-          if (sgxMetrics.min52w && sgxMetrics.max52w) {
-            rangeBarHtml = '<div style="font-size:10px;color:var(--text-muted);display:flex;justify-content:space-between;gap:4px;">' +
-              '<span>$' + Math.round(sgxMetrics.min52w).toLocaleString() + '</span>' +
-              '<div style="flex:1;height:4px;background:var(--border);border-radius:2px;margin:4px 4px 0;position:relative;">' +
-                '<div style="position:absolute;left:' + sgxMetrics.rangePct.toFixed(0) + '%;top:-2px;width:6px;height:8px;background:var(--accent);border-radius:1px;"></div>' +
-              '</div>' +
-              '<span>$' + Math.round(sgxMetrics.max52w).toLocaleString() + '</span>' +
-            '</div>';
-          } else {
-            rangeBarHtml = '<span style="font-size:10px;color:var(--text-muted);">Live SGX Strip</span>';
+          var effPct = h.effShockPct || 0;
+          var deltaPctStr = (effPct >= 0 ? '+' : '') + effPct.toFixed(1) + '%';
+          var deltaPctColor = effPct > 0 ? '#3fb950' : (effPct < 0 ? '#f85149' : 'var(--text-muted)');
+
+          var futPnl = h.grossFuturesPnl || 0;
+          var futPnlStr = (futPnl >= 0 ? '+$' : '-$') + Math.abs(futPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+          var futPnlColor = futPnl > 0 ? '#3fb950' : (futPnl < 0 ? '#f85149' : 'var(--text-muted)');
+
+          var navContribStr = (h.navContribPct > 0 ? '+' : '') + h.navContribPct.toFixed(2) + '%';
+          var multStr = (h.multiplier === 1000.0) ? '1,000 MT' : '1.0 Day';
+
+          var legTag = '';
+          if (h.isRollIn) {
+            legTag = ' <span style="font-size:9px;background:rgba(63,185,80,0.15);color:#3fb950;padding:1px 4px;border-radius:3px;border:1px solid rgba(63,185,80,0.3);margin-left:4px;">NEW ROLL-IN</span>';
           }
 
-          var displayEffShock = Math.round(h.effShockPct);
-          var dollarImpactStr = (h.sharePriceImpact > 0 ? '+$' : (h.sharePriceImpact < 0 ? '-$' : '$')) + Math.abs(h.sharePriceImpact).toFixed(2);
-          var navContribStr = (h.navContribPct > 0 ? '+' : '') + h.navContribPct.toFixed(2) + '%';
-          var impactColor = h.sharePriceImpact > 0 ? '#3fb950' : (h.sharePriceImpact < 0 ? '#f85149' : 'var(--text-muted)');
+          var lotColHtml = '';
+          if (_deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK') {
+            if (h.isRollIn) {
+              lotColHtml = h.Lots.toFixed(1) + ' <button onclick="removeCustomRollInLeg(' + h.rollInIndex + ')" style="background:transparent;border:none;color:#f85149;cursor:pointer;font-size:10px;margin-left:2px;" title="Remove this custom roll-in leg">✖</button>';
+            } else {
+              lotColHtml = '<input type="number" step="any" min="0" value="' + h.Lots + '" oninput="onDeconstForwardLotInput(' + idx + ', this)" style="width:55px;background:var(--card);color:var(--text);border:1px solid var(--accent);padding:2px 4px;border-radius:4px;font-size:11px;font-family:inherit;text-align:right;font-weight:700;">';
+            }
+          } else {
+            lotColHtml = h.Lots.toFixed(1);
+          }
 
-          var isRowActive = _activeDeconstContractName === h.Name;
-          var rowActiveCss = isRowActive ? 'background:rgba(88,166,255,0.12);outline:1px solid var(--accent);' : '';
-
-          html += '<tr onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" class="deconst-holding-row" style="border-bottom:1px solid var(--border);font-size:11px;cursor:pointer;' + rowActiveCss + '" title="Click to view full historical price settlement chart for ' + h.Name + '">' +
-            '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';display:flex;align-items:center;gap:6px;">' +
-              '<span style="font-size:10px;color:var(--text-muted);opacity:0.7;"></span>' +
-              '<span>' + h.Name + '</span>' +
-            '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + h.Lots.toFixed(1) + '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + h.weight.toFixed(1) + '%</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:600;">' + sgxSettleStr + '</td>' +
-            '<td style="padding:6px 8px;text-align:center;min-width:130px;">' + rangeBarHtml + '</td>' +
-            '<td style="padding:6px 8px;text-align:right;white-space:nowrap;min-width:75px;">' +
-              '<div style="display:inline-flex;align-items:center;justify-content:flex-end;gap:3px;white-space:nowrap;">' +
-                '<input type="number" step="1" value="' + displayEffShock + '" oninput="onDeconstMicroShockInput(' + idx + ', this)" style="width:48px;background:var(--card);color:var(--text);border:1px solid var(--border);padding:2px 4px;border-radius:4px;font-size:11px;font-family:inherit;text-align:right;font-weight:700;">' +
-                '<span style="font-size:11px;font-weight:700;color:var(--text-muted);">%</span>' +
+          html += '<tr class="deconst-holding-row" style="border-bottom:1px solid var(--border);font-size:11px;">' +
+            '<td style="padding:6px 8px;font-weight:600;color:' + nameColor + ';">' + h.Name + legTag + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-size:10px;color:var(--text-muted);">' + h.disclosedLots.toFixed(1) + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;">' + lotColHtml + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-size:10px;color:var(--text-muted);">' + multStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:600;">' + curMarkStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;">' +
+              '<div style="display:inline-flex;align-items:center;justify-content:flex-end;gap:2px;">' +
+                '<span style="font-size:10px;color:var(--accent);font-weight:700;">$</span>' +
+                '<input type="number" step="any" value="' + tgtMarkValDisplay + '" oninput="onDeconstTargetPriceInput(' + idx + ', this)" style="width:75px;background:var(--card);color:var(--text);border:1px solid var(--accent);padding:2px 4px;border-radius:4px;font-size:11px;font-family:inherit;text-align:right;font-weight:700;">' +
               '</div>' +
             '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + dollarImpactStr + '</td>' +
-            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + impactColor + ';">' + navContribStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + deltaPctColor + ';">' + deltaPctStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + futPnlColor + ';">' + futPnlStr + '</td>' +
+            '<td style="padding:6px 8px;text-align:right;font-weight:700;color:' + futPnlColor + ';">' + navContribStr + '</td>' +
             '</tr>';
         });
         bodyEl.innerHTML = html;
@@ -5147,6 +6023,616 @@
       }, 50);
     }
 
+    // =====================================================================
+    //  INSTITUTIONAL DECISION-TICKET WORKFLOW ENGINE
+    // =====================================================================
+    function generateBrowserDecisionTicket() {
+      var dateInput = document.getElementById('deconstTargetDate');
+      var dateStr = (dateInput && dateInput.value) ? dateInput.value : '2026-08-14';
+      var parts = dateStr.split('-');
+      var targetDate = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+
+      var pred = predictETFPortfolioHoldings(_deconstETFKey, targetDate);
+      if (pred.isLocked) {
+        return { isLocked: true, lockReason: pred.lockReason };
+      }
+
+      var fundCode = _deconstETFKey.toUpperCase();
+      var snap = pred.snapshot;
+      var snapBaseline = snap.baseline || {};
+
+      var holdingsDate = pred.snapshotDate || 'UNAVAILABLE';
+      var isValidBaseline = false;
+      var baseOrigin = "NONE";
+      var curBasePrice = getDeconstBasePrice(_deconstETFKey);
+      var baseNavSh = null;
+      var baseTotalNav = null;
+      var baseShares = null;
+
+      if (_deconstManualBaseline) {
+        isValidBaseline = true;
+        baseOrigin = "Manual Baseline (" + (_deconstManualBaseline.asOfDate || 'User Input') + ")";
+        curBasePrice = _deconstManualBaseline.mktPx;
+        baseNavSh = _deconstManualBaseline.navSh;
+        baseTotalNav = _deconstManualBaseline.totalNav;
+        baseShares = _deconstManualBaseline.shares;
+      } else if (snapBaseline.is_contemporaneous) {
+        isValidBaseline = true;
+        baseOrigin = "Official Contemporaneous Filings (" + snapBaseline.as_of_date + ")";
+        curBasePrice = snapBaseline.market_price;
+        baseNavSh = snapBaseline.nav_per_share;
+        baseTotalNav = snapBaseline.total_nav_dollars;
+        baseShares = snapBaseline.shares_outstanding;
+      }
+
+      var baselineDate = isValidBaseline ? (_deconstManualBaseline ? _deconstManualBaseline.asOfDate : snapBaseline.as_of_date) : 'NON-CONTEMPORANEOUS';
+      var horizonDate = dateStr;
+      var gapDays = 0;
+      try {
+        if (isValidBaseline && baselineDate !== 'NON-CONTEMPORANEOUS' && holdingsDate !== 'UNAVAILABLE') {
+          gapDays = Math.round(Math.abs(new Date(baselineDate) - new Date(holdingsDate)) / (1000 * 60 * 60 * 24));
+        }
+      } catch (e) { gapDays = 0; }
+
+      var totalGrossFuturesPnl = 0;
+      var totalRollCosts = 0;
+      var totalBaseNotional = 0;
+
+      var routeGroups = {
+        Capesize: { name: 'Capesize 5TC', pnl: 0, notional: 0, rollCost: 0, contracts: [] },
+        Panamax: { name: 'Panamax 5TC', pnl: 0, notional: 0, rollCost: 0, contracts: [] },
+        Supramax: { name: 'Supramax 58TC', pnl: 0, notional: 0, rollCost: 0, contracts: [] },
+        VLCC: { name: 'VLCC TD3C (MEG-China)', pnl: 0, notional: 0, rollCost: 0, contracts: [] },
+        Suezmax: { name: 'Suezmax TD20 (WAF-Cont)', pnl: 0, notional: 0, rollCost: 0, contracts: [] }
+      };
+
+      var contractRows = [];
+
+      pred.holdings.forEach(function(h) {
+        var baseMark = h.startingPrice || h.unitPrice || 1.0;
+        var targetMark = baseMark;
+        if (_deconstTargetPrices[h.Name] !== undefined && !isNaN(_deconstTargetPrices[h.Name])) {
+          targetMark = _deconstTargetPrices[h.Name];
+        } else if (h.isRollIn && h.targetPrice !== undefined) {
+          targetMark = h.targetPrice;
+        } else {
+          var macroShock = 0;
+          if (h.class === 'cape') macroShock = _deconstShocks.cape;
+          else if (h.class === 'pana') macroShock = _deconstShocks.pana;
+          else if (h.class === 'supra') macroShock = _deconstShocks.supra;
+          else if (h.class === 'vlcc') macroShock = _deconstShocks.vlcc;
+          else if (h.class === 'suez') macroShock = _deconstShocks.suez;
+          var customMicro = _deconstMicroShocks[h.Name] || 0;
+          var effPct = macroShock + customMicro;
+          targetMark = baseMark * (1 + effPct / 100);
+        }
+
+        var mult = h.multiplier || 1.0;
+        var deltaP = targetMark - baseMark;
+        var cGrossPnl = h.Lots * mult * deltaP;
+        var cRollCost = h.rollCost || 0.0;
+        var cBaseNotional = h.disclosedLots * mult * (h.unitPrice || 1.0);
+
+        totalGrossFuturesPnl += cGrossPnl;
+        totalRollCosts += cRollCost;
+        totalBaseNotional += cBaseNotional;
+
+        var rKey = null;
+        if (h.class === 'cape') rKey = 'Capesize';
+        else if (h.class === 'pana') rKey = 'Panamax';
+        else if (h.class === 'supra') rKey = 'Supramax';
+        else if (h.class === 'vlcc') rKey = 'VLCC';
+        else if (h.class === 'suez') rKey = 'Suezmax';
+
+        if (rKey && routeGroups[rKey]) {
+          routeGroups[rKey].pnl += cGrossPnl;
+          routeGroups[rKey].notional += cBaseNotional;
+          routeGroups[rKey].rollCost += cRollCost;
+          routeGroups[rKey].contracts.push(h.Name);
+        }
+
+        contractRows.push({
+          name: h.Name,
+          ticker: h.contract_id,
+          cusip: h.cusip,
+          disclosedLots: h.disclosedLots,
+          effectiveLots: h.Lots,
+          multiplier: mult,
+          multiplierUnit: h.multiplier_unit,
+          startingMark: baseMark,
+          targetMark: targetMark,
+          deltaMark: deltaP,
+          rollCost: cRollCost,
+          grossPnl: cGrossPnl,
+          netPnl: cGrossPnl - cRollCost,
+          isRollIn: h.isRollIn
+        });
+      });
+
+      var netScenarioPnl = totalGrossFuturesPnl - totalRollCosts;
+      var expectedRoutes = fundCode === 'BDRY' ? ['Capesize', 'Panamax', 'Supramax'] : ['VLCC', 'Suezmax'];
+      var activeRoutes = {};
+      expectedRoutes.forEach(function(r) {
+        var info = routeGroups[r];
+        var retPct = info.notional > 0 ? (info.pnl / info.notional * 100) : 0;
+        var contribPct = totalGrossFuturesPnl !== 0 ? (info.pnl / totalGrossFuturesPnl * 100) : 0;
+        activeRoutes[r] = {
+          name: info.name,
+          pnl: info.pnl,
+          notional: info.notional,
+          returnPct: retPct,
+          contribPct: contribPct,
+          contractCount: info.contracts.length,
+          contracts: info.contracts
+        };
+      });
+
+      var perShareData = { isDenominatorValid: false, status: 'PER_SHARE_UNAVAILABLE_NON_CONTEMPORANEOUS_BASELINE' };
+      var mktPriceData = { status: 'UNAVAILABLE_LOCKED' };
+
+      if (isValidBaseline && baseShares > 0 && baseTotalNav > 0) {
+        var projTotalNav = baseTotalNav + netScenarioPnl;
+        var projNavPerShare = projTotalNav / baseShares;
+        var perShareNavDelta = projNavPerShare - baseNavSh;
+        var perShareReturnPct = (perShareNavDelta / baseNavSh) * 100;
+        var navChangePct = ((projTotalNav - baseTotalNav) / baseTotalNav) * 100;
+
+        perShareData = {
+          isDenominatorValid: true,
+          status: 'PER_SHARE_ESTIMATE_AVAILABLE',
+          shares: baseShares,
+          baselineNavPerShare: baseNavSh,
+          perShareNavDelta: perShareNavDelta,
+          projectedNavPerShare: projNavPerShare,
+          projectedNavReturnPct: perShareReturnPct,
+          baselineTotalNav: baseTotalNav,
+          projectedTotalNav: projTotalNav,
+          navChangePct: navChangePct,
+          baselineOrigin: baseOrigin
+        };
+
+        var baselinePremDiscPct = ((curBasePrice - baseNavSh) / baseNavSh) * 100.0;
+        var pxUnchanged = projNavPerShare * (1 + baselinePremDiscPct / 100.0);
+        var pxNormLow = projNavPerShare * (1 + (baselinePremDiscPct - 2.0) / 100.0);
+        var pxNormHigh = projNavPerShare * (1 + (baselinePremDiscPct + 2.0) / 100.0);
+        var pxStressLow = projNavPerShare * (1 + (baselinePremDiscPct - 5.0) / 100.0);
+        var pxStressHigh = projNavPerShare * (1 + (baselinePremDiscPct + 5.0) / 100.0);
+
+        mktPriceData = {
+          status: 'AVAILABLE',
+          baselineMarketPrice: curBasePrice,
+          baselinePremDiscPct: baselinePremDiscPct,
+          regimes: {
+            unchanged: { price: pxUnchanged, returnPct: ((pxUnchanged - curBasePrice) / curBasePrice) * 100, premDisc: baselinePremDiscPct, name: 'Unchanged Baseline Prem/Disc' },
+            normal: { low: pxNormLow, base: pxUnchanged, high: pxNormHigh, spread: 2.0, name: 'Normal Historical Dispersion (±2.0%)' },
+            stressed: { low: pxStressLow, base: pxUnchanged, high: pxStressHigh, spread: 5.0, name: 'Stressed Liquidity Gap (±5.0%)' },
+            parity: { price: projNavPerShare, returnPct: ((projNavPerShare - curBasePrice) / curBasePrice) * 100, premDisc: 0.0, name: 'NAV Parity Benchmark (0.00%)' }
+          }
+        };
+      }
+
+      var knownBook = [];
+      var assumedBook = [];
+      contractRows.forEach(function(r) {
+        if (r.isRollIn) {
+          assumedBook.push({
+            name: r.name,
+            lots: r.effectiveLots,
+            disclosedLots: 0,
+            lotDelta: r.effectiveLots,
+            startMark: r.startingMark,
+            targetMark: r.targetMark,
+            deltaMark: r.deltaMark,
+            multiplier: r.multiplier,
+            rollCost: r.rollCost,
+            grossPnl: r.grossPnl,
+            netPnl: r.netPnl,
+            type: 'NEW_ROLL_IN_LEG'
+          });
+        } else {
+          knownBook.push({
+            name: r.name,
+            ticker: r.ticker,
+            cusip: r.cusip,
+            disclosedLots: r.disclosedLots,
+            multiplier: r.multiplier,
+            price: r.startingMark,
+            notional: r.disclosedLots * r.multiplier * r.startingMark
+          });
+          if (_deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK' && r.effectiveLots !== r.disclosedLots) {
+            assumedBook.push({
+              name: r.name,
+              lots: r.effectiveLots,
+              disclosedLots: r.disclosedLots,
+              lotDelta: r.effectiveLots - r.disclosedLots,
+              startMark: r.startingMark,
+              targetMark: r.targetMark,
+              deltaMark: r.deltaMark,
+              multiplier: r.multiplier,
+              rollCost: r.rollCost,
+              grossPnl: r.grossPnl,
+              netPnl: r.netPnl,
+              type: 'MODIFIED_LOTS'
+            });
+          }
+        }
+      });
+
+      var ticketId = 'DT-' + fundCode + '-' + holdingsDate.replace(/-/g, '') + '-' + Math.random().toString(36).substring(2, 8).toUpperCase();
+
+      return {
+        ticketId: ticketId,
+        fund: fundCode,
+        generationTime: new Date().toISOString(),
+        holdingsDate: holdingsDate,
+        baselineDate: baselineDate,
+        horizonDate: horizonDate,
+        gapDays: gapDays,
+        isContemporaneous: (gapDays === 0 && isValidBaseline),
+        provenanceStatus: snap.provenance.provenance_status || 'VERIFIED_OFFICIAL_ARCHIVE',
+        archiveSha: snap.provenance.computed_archive_sha256 || '',
+        scenarioMode: _deconstScenarioMode,
+        scenarioModeLabel: _deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK' ? 'User-assumed forward book' : 'Frozen disclosed book',
+        totalGrossFuturesPnl: totalGrossFuturesPnl,
+        totalRollCosts: totalRollCosts,
+        netScenarioPnl: netScenarioPnl,
+        totalBaseNotional: totalBaseNotional,
+        futuresReturnPct: totalBaseNotional > 0 ? (totalGrossFuturesPnl / totalBaseNotional * 100) : 0,
+        routes: activeRoutes,
+        perShare: perShareData,
+        marketPrices: mktPriceData,
+        knownBook: knownBook,
+        assumedBook: assumedBook,
+        confidenceRating: (isValidBaseline && _deconstScenarioMode === 'FROZEN_BOOK') ? 'HIGH_CONFIDENCE_CONTEMPORANEOUS' : (_deconstScenarioMode === 'USER_SPECIFIED_FORWARD_BOOK' ? 'CAUTION_USER_ASSUMED_FORWARD_BOOK' : 'MODERATE_CONFIDENCE_P_AND_L_ONLY')
+      };
+    }
+
+    function formatDecisionTicketText(ticket) {
+      if (!ticket || ticket.isLocked) {
+        return "DECISION TICKET LOCKED: " + (ticket ? ticket.lockReason : "Snapshot verification failed");
+      }
+
+      var lines = [];
+      lines.push("================================================================================");
+      lines.push("              INSTITUTIONAL ETF SCENARIO DECISION TICKET                       ");
+      lines.push("================================================================================");
+      lines.push("Ticket ID:         " + ticket.ticketId);
+      lines.push("Fund:              " + ticket.fund + " (" + (ticket.fund === 'BDRY' ? 'Breakwave Dry Bulk Shipping ETF' : 'Breakwave Tanker Shipping ETF') + ")");
+      lines.push("Generated:         " + ticket.generationTime);
+      lines.push("Holdings Date:     " + ticket.holdingsDate + " [Official Amplify Disclosure]");
+      lines.push("Baseline Date:     " + ticket.baselineDate + (ticket.gapDays > 0 ? " (" + ticket.gapDays + " calendar days gap)" : " (Contemporaneous)"));
+      lines.push("Scenario Horizon:  " + ticket.horizonDate);
+      lines.push("Scenario Mode:     " + ticket.scenarioModeLabel);
+      lines.push("Archive SHA-256:   " + ticket.archiveSha);
+      lines.push("Data Confidence:   " + ticket.confidenceRating);
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("1. GROSS FUTURES P&L & ROUTE ATTRIBUTION");
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("Total Gross Futures P&L:       " + (ticket.totalGrossFuturesPnl >= 0 ? "+$" : "-$") + Math.abs(ticket.totalGrossFuturesPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+      if (ticket.totalRollCosts > 0) {
+        lines.push("User Assumed Roll Friction:   -$" + ticket.totalRollCosts.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+        lines.push("Net Scenario P&L:              " + (ticket.netScenarioPnl >= 0 ? "+$" : "-$") + Math.abs(ticket.netScenarioPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+      }
+      lines.push("Baseline Futures Notional:     $" + ticket.totalBaseNotional.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+      lines.push("Futures Return on Notional:    " + (ticket.futuresReturnPct >= 0 ? "+" : "") + ticket.futuresReturnPct.toFixed(2) + "%");
+      lines.push("");
+      lines.push("Route-Level Breakdown:");
+      Object.keys(ticket.routes).forEach(function(rk) {
+        var r = ticket.routes[rk];
+        lines.push("  • " + r.name + ":");
+        lines.push("      P&L: $" + r.pnl.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + " (" + (r.contribPct >= 0 ? "+" : "") + r.contribPct.toFixed(1) + "% of total)");
+        lines.push("      Base Notional: $" + r.notional.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + " | Return: " + (r.returnPct >= 0 ? "+" : "") + r.returnPct.toFixed(2) + "%");
+      });
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("2. FUND NAV & PER-SHARE IMPACT");
+      lines.push("--------------------------------------------------------------------------------");
+      if (ticket.perShare.isDenominatorValid) {
+        var ps = ticket.perShare;
+        lines.push("Baseline Total Fund Net Assets: $" + ps.baselineTotalNav.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+        lines.push("Projected Total Fund Net Assets:$" + ps.projectedTotalNav.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}));
+        lines.push("Fund NAV Change:                " + (ps.navChangePct >= 0 ? "+" : "") + ps.navChangePct.toFixed(2) + "%");
+        lines.push("Shares Outstanding:             " + ps.shares.toLocaleString('en-US') + " shares");
+        lines.push("Baseline NAV Per Share:         $" + ps.baselineNavPerShare.toFixed(2) + " / share");
+        lines.push("Projected Per-Share NAV Delta:  " + (ps.perShareNavDelta >= 0 ? "+$" : "-$") + Math.abs(ps.perShareNavDelta).toFixed(2) + " / share");
+        lines.push("Projected NAV Per Share:        $" + ps.projectedNavPerShare.toFixed(2) + " / share (" + (ps.projectedNavReturnPct >= 0 ? "+" : "") + ps.projectedNavReturnPct.toFixed(2) + "%)");
+      } else {
+        lines.push("STATUS: PER-SHARE UNAVAILABLE (Non-contemporaneous baseline or unobserved shares denominator).");
+        lines.push("Gross futures P&L is valid; per-share NAV impact requires contemporaneous filing or manual baseline.");
+      }
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("3. SECONDARY MARKET PRICE PROJECTIONS (4 REGIMES)");
+      lines.push("--------------------------------------------------------------------------------");
+      if (ticket.marketPrices.status === 'AVAILABLE') {
+        var mp = ticket.marketPrices;
+        lines.push("Baseline Market Price:          $" + mp.baselineMarketPrice.toFixed(2) + " (" + (mp.baselinePremDiscPct >= 0 ? "+" : "") + mp.baselinePremDiscPct.toFixed(2) + "% Prem/Disc to NAV)");
+        lines.push("  1. Unchanged Prem/Disc:       $" + mp.regimes.unchanged.price.toFixed(2) + " (" + (mp.regimes.unchanged.returnPct >= 0 ? "+" : "") + mp.regimes.unchanged.returnPct.toFixed(2) + "%)");
+        lines.push("  2. Normal Band (±2.0%):       $" + mp.regimes.normal.low.toFixed(2) + " to $" + mp.regimes.normal.high.toFixed(2) + " (Base: $" + mp.regimes.normal.base.toFixed(2) + ")");
+        lines.push("  3. Stressed Band (±5.0%):     $" + mp.regimes.stressed.low.toFixed(2) + " to $" + mp.regimes.stressed.high.toFixed(2) + " (Base: $" + mp.regimes.stressed.base.toFixed(2) + ")");
+        lines.push("  4. NAV Parity (0.00%):        $" + mp.regimes.parity.price.toFixed(2) + " (" + (mp.regimes.parity.returnPct >= 0 ? "+" : "") + mp.regimes.parity.returnPct.toFixed(2) + "%)");
+      } else {
+        lines.push("STATUS: MARKET PRICE PROJECTIONS LOCKED (Per-share baseline unavailable).");
+      }
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("4. BOOK SEPARATION: KNOWN CURRENT BOOK VS USER-ASSUMED FUTURE BOOK");
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("[KNOWN CURRENT DISCLOSED BOOK] (Verified Amplify Filings: " + ticket.holdingsDate + ")");
+      ticket.knownBook.forEach(function(b) {
+        lines.push("  • " + b.name + ": " + b.disclosedLots + " lots @ $" + b.price.toLocaleString('en-US', {minimumFractionDigits: 2}) + " (Notional $" + b.notional.toLocaleString('en-US', {minimumFractionDigits: 2}) + ")");
+      });
+      if (ticket.assumedBook.length > 0) {
+        lines.push("");
+        lines.push("[USER-ASSUMED FUTURE BOOK] (Hypothetical Scenario Assumptions - NOT an ETF Prediction)");
+        ticket.assumedBook.forEach(function(b) {
+          lines.push("  • " + b.name + " (" + b.type + "): " + b.lots + " lots (delta " + (b.lotDelta >= 0 ? "+" : "") + b.lotDelta + ") | Entry $" + b.startMark.toLocaleString('en-US') + " -> Target $" + b.targetMark.toLocaleString('en-US') + " | P&L: $" + b.grossPnl.toLocaleString('en-US', {minimumFractionDigits: 2}));
+        });
+      } else {
+        lines.push("  [No user forward book modifications; evaluated on 100% frozen disclosed positions]");
+      }
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("5. REGULATORY & OPERATIONAL DISCLOSURES");
+      lines.push("--------------------------------------------------------------------------------");
+      lines.push("• Roll Execution Friction: Real-world intraday roll fills and broker bid-ask spreads create unobserved friction.");
+      lines.push("• Cash Yield & Collateral: Daily overnight repo interest earned on unencumbered margin collateral is unobserved.");
+      lines.push("• Management Fee Drag: 0.95%/yr (~0.0026%/day) advisory fee reduces total NAV over holding horizon.");
+      lines.push("• AP Arbitrage & Flow: Authorized Participant creation/redemption share flows alter total share count.");
+      lines.push("================================================================================");
+      return lines.join("\n");
+    }
+
+    function renderDecisionTicketInModal(ticket) {
+      var body = document.getElementById('dtModalBody');
+      if (!body) return;
+
+      if (!ticket || ticket.isLocked) {
+        body.innerHTML = '<div style="padding:20px;text-align:center;color:#f85149;font-weight:700;">⚠️ DECISION TICKET LOCKED: ' + (ticket ? ticket.lockReason : 'Snapshot integrity failure') + '</div>';
+        return;
+      }
+
+      var html = [];
+
+      // 1. Executive Dates & Governance Banner
+      var gapWarning = ticket.gapDays > 0 ? '<span style="color:#d29922;font-weight:700;"> (' + ticket.gapDays + 'd gap)</span>' : ' <span style="color:#3fb950;font-weight:700;">(Contemporaneous)</span>';
+      var confColor = ticket.confidenceRating.indexOf('HIGH') !== -1 ? '#3fb950' : (ticket.confidenceRating.indexOf('CAUTION') !== -1 ? '#d29922' : '#58a6ff');
+
+      html.push('<div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px 16px;margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;">');
+      html.push('  <div>');
+      html.push('    <div style="font-size:12px;color:var(--text-muted);"><strong style="color:var(--text);">Holdings:</strong> ' + ticket.holdingsDate + ' &bull; <strong style="color:var(--text);">Baseline:</strong> ' + ticket.baselineDate + gapWarning + ' &bull; <strong style="color:var(--text);">Horizon:</strong> ' + ticket.horizonDate + '</div>');
+      html.push('    <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">Archive SHA: <span style="font-family:monospace;color:var(--text);">' + ticket.archiveSha.substring(0, 16) + '...</span> &bull; Mode: <strong>' + ticket.scenarioModeLabel + '</strong></div>');
+      html.push('  </div>');
+      html.push('  <div>');
+      html.push('    <span style="font-size:11px;font-weight:700;padding:4px 10px;border-radius:4px;background:rgba(255,255,255,0.05);color:' + confColor + ';border:1px solid ' + confColor + ';">' + ticket.confidenceRating + '</span>');
+      html.push('  </div>');
+      html.push('</div>');
+
+      // 2. High-Level Valuation KPIs
+      html.push('<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:12px;margin-bottom:16px;">');
+      
+      // Card A: Gross Futures P&L
+      var isPosPnl = ticket.totalGrossFuturesPnl >= 0;
+      html.push('  <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;">');
+      html.push('    <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Gross Futures P&amp;L</div>');
+      html.push('    <div style="font-size:22px;font-weight:800;color:' + (isPosPnl ? '#3fb950' : '#f85149') + ';margin-top:2px;">' + (isPosPnl ? '+$' : '-$') + Math.abs(ticket.totalGrossFuturesPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</div>');
+      html.push('    <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Return: ' + (ticket.futuresReturnPct >= 0 ? '+' : '') + ticket.futuresReturnPct.toFixed(2) + '% on $' + (ticket.totalBaseNotional/1e6).toFixed(2) + 'M</div>');
+      html.push('  </div>');
+
+      // Card B: Net Scenario P&L (if roll costs exist)
+      if (ticket.totalRollCosts > 0) {
+        var isPosNet = ticket.netScenarioPnl >= 0;
+        html.push('  <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;">');
+        html.push('    <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Net Scenario P&amp;L (After Roll)</div>');
+        html.push('    <div style="font-size:22px;font-weight:800;color:' + (isPosNet ? '#3fb950' : '#f85149') + ';margin-top:2px;">' + (isPosNet ? '+$' : '-$') + Math.abs(ticket.netScenarioPnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</div>');
+        html.push('    <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Roll Friction: -$' + ticket.totalRollCosts.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</div>');
+        html.push('  </div>');
+      }
+
+      // Card C: Projected NAV Per Share
+      if (ticket.perShare.isDenominatorValid) {
+        var ps = ticket.perShare;
+        var isPosNav = ps.perShareNavDelta >= 0;
+        html.push('  <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;">');
+        html.push('    <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Projected NAV / Share</div>');
+        html.push('    <div style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">$' + ps.projectedNavPerShare.toFixed(2) + '</div>');
+        html.push('    <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Delta: ' + (isPosNav ? '+$' : '-$') + Math.abs(ps.perShareNavDelta).toFixed(2) + ' (' + (ps.projectedNavReturnPct >= 0 ? '+' : '') + ps.projectedNavReturnPct.toFixed(2) + '%)</div>');
+        html.push('  </div>');
+      } else {
+        html.push('  <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;">');
+        html.push('    <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Projected NAV / Share</div>');
+        html.push('    <div style="font-size:16px;font-weight:800;color:#d29922;margin-top:5px;">UNAVAILABLE</div>');
+        html.push('    <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Requires contemporaneous baseline</div>');
+        html.push('  </div>');
+      }
+
+      // Card D: Market Price (Unchanged Prem/Disc)
+      if (ticket.marketPrices.status === 'AVAILABLE') {
+        var mp = ticket.marketPrices;
+        html.push('  <div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center;">');
+        html.push('    <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Secondary Market Price</div>');
+        html.push('    <div style="font-size:22px;font-weight:800;color:var(--accent);margin-top:2px;">$' + mp.regimes.unchanged.price.toFixed(2) + '</div>');
+        html.push('    <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Base: ' + (mp.regimes.unchanged.returnPct >= 0 ? '+' : '') + mp.regimes.unchanged.returnPct.toFixed(2) + '% (Prem/Disc ' + (mp.baselinePremDiscPct >= 0 ? '+' : '') + mp.baselinePremDiscPct.toFixed(2) + '%)</div>');
+        html.push('  </div>');
+      }
+
+      html.push('</div>');
+
+      // 3. Route Attribution Table
+      html.push('<div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:14px;margin-bottom:16px;">');
+      html.push('  <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:10px;">Route-Level Futures P&amp;L Attribution</div>');
+      html.push('  <table style="width:100%;border-collapse:collapse;font-size:11px;text-align:left;">');
+      html.push('    <thead>');
+      html.push('      <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);text-transform:uppercase;font-size:10px;">');
+      html.push('        <th style="padding:6px 8px;">Vessel Route Class</th>');
+      html.push('        <th style="padding:6px 8px;text-align:right;">Base Notional</th>');
+      html.push('        <th style="padding:6px 8px;text-align:right;">Gross Futures P&amp;L</th>');
+      html.push('        <th style="padding:6px 8px;text-align:right;">Return on Notional</th>');
+      html.push('        <th style="padding:6px 8px;text-align:right;">% of Total P&amp;L</th>');
+      html.push('      </tr>');
+      html.push('    </thead>');
+      html.push('    <tbody>');
+      Object.keys(ticket.routes).forEach(function(rk) {
+        var r = ticket.routes[rk];
+        var isPos = r.pnl >= 0;
+        html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.05);">');
+        html.push('        <td style="padding:6px 8px;font-weight:600;color:var(--text);">' + r.name + ' <span style="color:var(--text-muted);font-size:10px;">(' + r.contractCount + ' contracts)</span></td>');
+        html.push('        <td style="padding:6px 8px;text-align:right;font-family:monospace;">$' + r.notional.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</td>');
+        html.push('        <td style="padding:6px 8px;text-align:right;font-weight:700;color:' + (isPos ? '#3fb950' : '#f85149') + ';font-family:monospace;">' + (isPos ? '+$' : '-$') + Math.abs(r.pnl).toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</td>');
+        html.push('        <td style="padding:6px 8px;text-align:right;font-weight:600;color:' + (r.returnPct >= 0 ? '#3fb950' : '#f85149') + ';font-family:monospace;">' + (r.returnPct >= 0 ? '+' : '') + r.returnPct.toFixed(2) + '%</td>');
+        html.push('        <td style="padding:6px 8px;text-align:right;font-family:monospace;color:var(--accent);">' + (r.contribPct >= 0 ? '+' : '') + r.contribPct.toFixed(1) + '%</td>');
+        html.push('      </tr>');
+      });
+      html.push('    </tbody>');
+      html.push('  </table>');
+      html.push('</div>');
+
+      // 4. Secondary Market 4-Regime Pricing Bands
+      if (ticket.marketPrices.status === 'AVAILABLE') {
+        var mp = ticket.marketPrices;
+        html.push('<div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:14px;margin-bottom:16px;">');
+        html.push('  <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:10px;">Secondary Market Price Scenarios (4 Structural Regimes)</div>');
+        html.push('  <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(210px, 1fr));gap:10px;">');
+        
+        // Regime 1: Unchanged
+        html.push('    <div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px;">');
+        html.push('      <div style="font-size:11px;font-weight:700;color:var(--accent);">1. Unchanged Prem/Disc</div>');
+        html.push('      <div style="font-size:18px;font-weight:800;color:var(--text);margin-top:4px;">$' + mp.regimes.unchanged.price.toFixed(2) + '</div>');
+        html.push('      <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Prem/Disc: ' + (mp.baselinePremDiscPct >= 0 ? '+' : '') + mp.baselinePremDiscPct.toFixed(2) + '% | Return: ' + (mp.regimes.unchanged.returnPct >= 0 ? '+' : '') + mp.regimes.unchanged.returnPct.toFixed(2) + '%</div>');
+        html.push('    </div>');
+
+        // Regime 2: Normal Band
+        html.push('    <div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px;">');
+        html.push('      <div style="font-size:11px;font-weight:700;color:#3fb950;">2. Normal Band (&plusmn;2.0%)</div>');
+        html.push('      <div style="font-size:18px;font-weight:800;color:var(--text);margin-top:4px;">$' + mp.regimes.normal.low.toFixed(2) + ' &ndash; $' + mp.regimes.normal.high.toFixed(2) + '</div>');
+        html.push('      <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Base: $' + mp.regimes.normal.base.toFixed(2) + ' (Spread &plusmn;2.0%)</div>');
+        html.push('    </div>');
+
+        // Regime 3: Stressed Band
+        html.push('    <div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px;">');
+        html.push('      <div style="font-size:11px;font-weight:700;color:#d29922;">3. Stressed Band (&plusmn;5.0%)</div>');
+        html.push('      <div style="font-size:18px;font-weight:800;color:var(--text);margin-top:4px;">$' + mp.regimes.stressed.low.toFixed(2) + ' &ndash; $' + mp.regimes.stressed.high.toFixed(2) + '</div>');
+        html.push('      <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Base: $' + mp.regimes.stressed.base.toFixed(2) + ' (Liquidity Gap &plusmn;5.0%)</div>');
+        html.push('    </div>');
+
+        // Regime 4: NAV Parity
+        html.push('    <div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px;">');
+        html.push('      <div style="font-size:11px;font-weight:700;color:#58a6ff;">4. NAV Parity Benchmark</div>');
+        html.push('      <div style="font-size:18px;font-weight:800;color:var(--text);margin-top:4px;">$' + mp.regimes.parity.price.toFixed(2) + '</div>');
+        html.push('      <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">0.00% Prem/Disc | Return: ' + (mp.regimes.parity.returnPct >= 0 ? '+' : '') + mp.regimes.parity.returnPct.toFixed(2) + '%</div>');
+        html.push('    </div>');
+
+        html.push('  </div>');
+        html.push('</div>');
+      }
+
+      // 5. Book Separation View (Known Disclosed vs User-Assumed Future Book)
+      html.push('<div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:14px;margin-bottom:16px;">');
+      html.push('  <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;align-items:center;gap:6px;">');
+      html.push('    <span>🔒 Known Current Disclosed Book</span>');
+      html.push('    <span style="font-size:10px;font-weight:600;padding:2px 6px;border-radius:3px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Official Archive ' + ticket.holdingsDate + '</span>');
+      html.push('  </div>');
+      html.push('  <table style="width:100%;border-collapse:collapse;font-size:11px;text-align:left;margin-bottom:14px;">');
+      html.push('    <thead><tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:10px;"><th style="padding:4px 6px;">Contract Name</th><th style="padding:4px 6px;text-align:right;">Lots</th><th style="padding:4px 6px;text-align:right;">Base Mark</th><th style="padding:4px 6px;text-align:right;">Multiplier</th><th style="padding:4px 6px;text-align:right;">Notional ($)</th></tr></thead>');
+      html.push('    <tbody>');
+      ticket.knownBook.forEach(function(b) {
+        html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);"><td style="padding:4px 6px;font-weight:600;">' + b.name + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.disclosedLots + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.price.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.multiplier + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.notional.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td></tr>');
+      });
+      html.push('    </tbody>');
+      html.push('  </table>');
+
+      if (ticket.assumedBook.length > 0) {
+        html.push('  <div style="font-size:13px;font-weight:700;color:#d29922;margin-bottom:8px;display:flex;align-items:center;gap:6px;">');
+        html.push('    <span>⚡ User-Assumed Future Book Modifications</span>');
+        html.push('    <span style="font-size:10px;font-weight:600;padding:2px 6px;border-radius:3px;background:rgba(210,153,34,0.15);color:#d29922;border:1px solid rgba(210,153,34,0.3);">HYPOTHETICAL USER SCENARIO</span>');
+        html.push('  </div>');
+        html.push('  <table style="width:100%;border-collapse:collapse;font-size:11px;text-align:left;">');
+        html.push('    <thead><tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:10px;"><th style="padding:4px 6px;">Contract Name</th><th style="padding:4px 6px;text-align:right;">User Lots</th><th style="padding:4px 6px;text-align:right;">Entry Mark</th><th style="padding:4px 6px;text-align:right;">Target Mark</th><th style="padding:4px 6px;text-align:right;">Gross P&amp;L</th><th style="padding:4px 6px;text-align:right;">Type</th></tr></thead>');
+        html.push('    <tbody>');
+        ticket.assumedBook.forEach(function(b) {
+          var isPos = b.grossPnl >= 0;
+          html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);"><td style="padding:4px 6px;font-weight:600;">' + b.name + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.lots + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.startMark.toLocaleString('en-US') + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.targetMark.toLocaleString('en-US') + '</td><td style="padding:4px 6px;text-align:right;font-weight:700;color:' + (isPos ? '#3fb950' : '#f85149') + ';font-family:monospace;">' + (isPos ? '+$' : '-$') + Math.abs(b.grossPnl).toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td><td style="padding:4px 6px;text-align:right;"><span style="font-size:9px;padding:2px 5px;border-radius:3px;background:rgba(88,166,255,0.15);color:#58a6ff;font-weight:700;">' + b.type + '</span></td></tr>');
+        });
+        html.push('    </tbody>');
+        html.push('  </table>');
+      }
+      html.push('</div>');
+
+      // 6. Regulatory Disclosures Tray
+      html.push('<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:6px;padding:10px 14px;font-size:10px;color:var(--text-muted);line-height:1.5;">');
+      html.push('  <div style="font-weight:700;color:var(--text);margin-bottom:4px;">INSTITUTIONAL DISCLOSURES &amp; RESIDUAL UNCERTAINTIES:</div>');
+      html.push('  <div>&bull; <strong>Friction &amp; Roll Slippage:</strong> Intraday roll executions and bid-ask spread friction are unobserved and modeled hypothetically.</div>');
+      html.push('  <div>&bull; <strong>Collateral Yield:</strong> Daily interest accrued on unencumbered margin collateral in AGPXX is unobserved between month-ends.</div>');
+      html.push('  <div>&bull; <strong>Expense Drag:</strong> Fund management advisory fees (0.95%/year ≈ 0.0026%/day) accrue continuously.</div>');
+      html.push('  <div>&bull; <strong>AP Capital Activity:</strong> Authorized Participant creation/redemption share movements alter the per-share denominator.</div>');
+      html.push('</div>');
+
+      body.innerHTML = html.join('\n');
+    }
+
+    function openDecisionTicketModal() {
+      var ticket = generateBrowserDecisionTicket();
+      window._activeDecisionTicket = ticket;
+
+      var modal = document.getElementById('decisionTicketModal');
+      var fundBadge = document.getElementById('dtModalFundBadge');
+      var modalId = document.getElementById('dtModalId');
+      var modalTime = document.getElementById('dtModalTime');
+
+      if (fundBadge && ticket.fund) {
+        fundBadge.textContent = ticket.fund;
+        fundBadge.style.color = ticket.fund === 'BDRY' ? '#58a6ff' : '#f0883e';
+        fundBadge.style.borderColor = ticket.fund === 'BDRY' ? 'rgba(88,166,255,0.3)' : 'rgba(240,136,62,0.3)';
+        fundBadge.style.background = ticket.fund === 'BDRY' ? 'rgba(88,166,255,0.15)' : 'rgba(240,136,62,0.15)';
+      }
+      if (modalId && ticket.ticketId) modalId.textContent = ticket.ticketId;
+      if (modalTime && ticket.generationTime) modalTime.textContent = ticket.generationTime;
+
+      renderDecisionTicketInModal(ticket);
+
+      if (modal) {
+        modal.style.display = 'flex';
+      }
+    }
+
+    function closeDecisionTicketModal() {
+      var modal = document.getElementById('decisionTicketModal');
+      if (modal) modal.style.display = 'none';
+    }
+
+    function copyDecisionTicketText() {
+      var ticket = window._activeDecisionTicket || generateBrowserDecisionTicket();
+      var text = formatDecisionTicketText(ticket);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function() {
+          alert('Decision Ticket copied to clipboard (Plain Text)!');
+        }).catch(function() {
+          prompt('Copy Decision Ticket Text:', text);
+        });
+      } else {
+        prompt('Copy Decision Ticket Text:', text);
+      }
+    }
+
+    function copyDecisionTicketJson() {
+      var ticket = window._activeDecisionTicket || generateBrowserDecisionTicket();
+      var jsonStr = JSON.stringify(ticket, null, 2);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(jsonStr).then(function() {
+          alert('Decision Ticket JSON copied to clipboard!');
+        }).catch(function() {
+          prompt('Copy Decision Ticket JSON:', jsonStr);
+        });
+      } else {
+        prompt('Copy Decision Ticket JSON:', jsonStr);
+      }
+    }
+
+    // Attach decision ticket functions to window
+    window.generateBrowserDecisionTicket = generateBrowserDecisionTicket;
+    window.formatDecisionTicketText = formatDecisionTicketText;
+    window.renderDecisionTicketInModal = renderDecisionTicketInModal;
+    window.openDecisionTicketModal = openDecisionTicketModal;
+    window.closeDecisionTicketModal = closeDecisionTicketModal;
+    window.copyDecisionTicketText = copyDecisionTicketText;
+    window.copyDecisionTicketJson = copyDecisionTicketJson;
+
     // Auto-render on script load if tab active
     setTimeout(function() {
       try { renderETFDeconstructionEngine(); } catch(e) { console.error(e); }
@@ -5211,265 +6697,97 @@
         this.timeline = [];
         var isBdry = this.etf === 'bdry';
 
-        // Deterministic pseudo-random seed innovations for realistic stochastic forward diffusion
-        var seedInnovations = [
-          0.65, -0.45, 1.15, -0.35, 0.85, 1.45, -0.95, 0.25, 0.95, -0.75,
-          1.25, 0.15, -0.85, 1.55, 0.35, -1.05, 0.70, 1.10, -0.40, 0.75,
-          -0.60, 0.95, 1.30, -0.65, 0.55, 1.05, -0.50, 0.85, -0.30, 1.20,
-          0.45, -0.80, 1.00, -0.20, 0.70, 1.35, -0.55, 0.40, -0.90, 1.10
-        ];
+        // MODE 1: HISTORICAL ACCOUNTING REPLAY (Point-in-Time Disclosures from DATA)
+        if (this.scenario === 'historical_replay') {
+          var replay = ETF_ENGINE.runAccountingReplay(this.etf);
+          this.timeline = replay.timeline || [];
+          this.contractEvents = replay.contractEvents || [];
+          this.replayMetrics = replay.metrics || {};
 
-        // MODE 1: HISTORICAL REPLAY (Real Historical Disclosures from DATA)
-        if (this.scenario === 'historical_replay' && typeof DATA !== 'undefined') {
-          var rawHistory = isBdry ? (DATA.bdryHoldingsHistory || []) : (DATA.bwetHoldingsHistory || []);
-          var rawLiq = isBdry ? (DATA.bdryLiquidity || []) : (DATA.bwetLiquidity || []);
-
-          var closePriceMap = {};
-          rawLiq.forEach(function(r) {
-            var d = r.Date || r.date;
-            var c = parseFloat(r.Close || r.close);
-            if (d && !isNaN(c)) closePriceMap[d] = c;
-          });
-
-          var byDate = {};
-          rawHistory.forEach(function(r) {
-            var d = r.date || r.Date;
-            if (!d) return;
-            if (!byDate[d]) byDate[d] = [];
-            byDate[d].push(r);
-          });
-
-          var dates = Object.keys(byDate).sort();
-
-          if (dates.length >= 2) {
-            var initialPrice = closePriceMap[dates[0]] || (isBdry ? 11.58 : 340.50);
-            var curSimPrice = initialPrice;
-            var peakPrice = initialPrice;
-            var dailyReturns = [];
-
-            for (var t = 0; t < dates.length; t++) {
-              var dateStr = dates[t];
-              var dayHoldings = byDate[dateStr];
-              var mktPrice = closePriceMap[dateStr] || curSimPrice;
-
-              var contracts = [];
-              var totalNotional = 0;
-              var isRollMonth = dateStr.includes('-08-') || dateStr.includes('-07-');
-
-              dayHoldings.forEach(function(h) {
-                var name = String(h.Name || h.name || h.contract || '');
-                var isCash = name.toLowerCase().includes('cash') || name.toLowerCase().includes('invesco') || name.toLowerCase().includes('agpxx');
-                if (isCash) return;
-
-                var lots = parseFloat(h.Lots || h.lots || 0);
-                var rate = parseFloat(h.Price || h.price || 0);
-                var cls = 'cape';
-                if (name.toLowerCase().includes('pana') || name.toLowerCase().includes('p5tc')) cls = 'pana';
-                else if (name.toLowerCase().includes('supra') || name.toLowerCase().includes('s58f')) cls = 'supra';
-                else if (name.toLowerCase().includes('td3c') || name.toLowerCase().includes('vlcc')) cls = 'vlcc';
-                else if (name.toLowerCase().includes('td20') || name.toLowerCase().includes('suez')) cls = 'suez';
-
-                var isPrompt = name.toLowerCase().includes('jun 26') || name.toLowerCase().includes('jul 26') || name.toLowerCase().includes('aug 26');
-                var mult = isBdry ? 1.0 : 1000.0;
-                var notional = lots * rate * mult;
-                totalNotional += notional;
-
-                contracts.push({
-                  class: cls,
-                  name: name.replace(/FFA.*?Average\s*/i, '').replace(/Index/i, '').trim(),
-                  settleRate: rate,
-                  simRate: rate,
-                  lots: lots,
-                  initialLots: lots,
-                  isPrompt: isPrompt,
-                  notional: notional,
-                  dollarImpact: 0,
-                  weight: 0
-                });
-              });
-
-              // Weights & impact
-              contracts.forEach(function(c) {
-                c.weight = totalNotional > 0 ? (c.notional / totalNotional) * 100 : 0;
-              });
-
-              // Day-over-day return
-              var weightedFreightRet = 0;
-              if (t > 0 && this.timeline[t - 1]) {
-                var prevContracts = this.timeline[t - 1].contracts;
-                var prevMap = {};
-                var prevNotional = this.timeline[t - 1].totalNotional || 1;
-                prevContracts.forEach(function(pc) { prevMap[pc.name] = pc.settleRate; });
-
-                contracts.forEach(function(c) {
-                  var pRate = prevMap[c.name] || c.settleRate;
-                  if (pRate > 0) {
-                    var ret = (c.settleRate - pRate) / pRate;
-                    weightedFreightRet += (c.notional / (prevNotional || totalNotional || 1)) * ret;
-                  }
-                });
-              }
-
-              var rollDrag = (t > 0 && isRollMonth) ? -0.00015 : 0;
-              var cashFeeDrag = (0.0485 - 0.0350) / 252;
-              var netDailyRet = t === 0 ? 0 : (weightedFreightRet + rollDrag + cashFeeDrag);
-
-              if (t > 0) {
-                curSimPrice = curSimPrice * (1 + netDailyRet);
-                dailyReturns.push(netDailyRet);
-              }
-
-              if (curSimPrice > peakPrice) peakPrice = curSimPrice;
-              var curMdd = peakPrice > 0 ? ((peakPrice - curSimPrice) / peakPrice) * 100 : 0;
-              var spreadBps = ((curSimPrice - mktPrice) / mktPrice) * 10000;
-
-              var meanRet = dailyReturns.length ? (dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length) : 0;
-              var variance = dailyReturns.length > 1 ? (dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length - 1)) : 0;
-              var stdDev = Math.sqrt(variance);
-              var annVol = stdDev * Math.sqrt(252) * 100;
-              var sharpe = annVol > 0 ? ((meanRet * 252 - 0.0485) / (annVol / 100)) : 0;
-
-              // Calculate contract dollar impacts
-              contracts.forEach(function(c) {
-                var shockRatio = (c.simRate - (c.settleRate * 0.98)) / (c.settleRate || 1);
-                c.dollarImpact = curSimPrice * (c.weight / 100) * shockRatio * 0.05;
-              });
-
-              this.timeline.push({
-                day: t,
-                date: dateStr,
-                totalNotional: totalNotional,
-                simPrice: curSimPrice,
-                mktPrice: mktPrice,
-                spreadBps: spreadBps,
-                rollPct: Math.min(100, Math.round((t / (dates.length - 1)) * 100)),
-                contracts: contracts,
-                attribution: {
-                  freight: weightedFreightRet * 100,
-                  roll: rollDrag * 100,
-                  cash: cashFeeDrag * 100,
-                  total: netDailyRet * 100
-                },
-                risk: {
-                  annVol: annVol,
-                  sharpe: sharpe,
-                  mdd: curMdd,
-                  carryYield: isBdry ? -3.4 : 1.8,
-                  trackingError: Math.abs(spreadBps)
-                }
-              });
-            }
-
-            var scrubber = document.getElementById('simScrubber');
-            if (scrubber) {
-              scrubber.max = this.timeline.length - 1;
-              scrubber.value = 0;
-            }
-            return;
+          var scrubber = document.getElementById('simScrubber');
+          if (scrubber && this.timeline.length > 0) {
+            scrubber.max = this.timeline.length - 1;
+            scrubber.value = 0;
           }
+          return;
         }
 
-        // MODE 2: GENERATIVE FORWARD PROJECTION WITH STOCHASTIC DIFFUSION
-        var basePrice = isBdry ? 10.09 : 340.50;
+        // MODE 2: CONDITIONAL FORWARD SCENARIO PROJECTION (NO FAKE MARKET PRICES)
+        var actualRecords = ETF_ENGINE.getActualHoldings(this.etf);
+        var futRecords = actualRecords.filter(function(r) { return r.is_futures; });
+        var colRecords = actualRecords.filter(function(r) { return r.is_collateral; });
+        var cshRecords = actualRecords.filter(function(r) { return r.is_cash; });
+
+        var initialFutNotional = 0;
+        futRecords.forEach(function(r) { initialFutNotional += r.disclosed_market_value; });
+        var initialColVal = 0;
+        colRecords.forEach(function(r) { initialColVal += r.disclosed_market_value; });
+        var initialCshVal = 0;
+        cshRecords.forEach(function(r) { initialCshVal += r.disclosed_market_value; });
+        var initialFundNav = initialColVal + initialCshVal;
+        var exposureRatio = initialFundNav > 0 ? (initialFutNotional / initialFundNav) : 1.0;
+
+        var basePrice = getDeconstBasePrice(this.etf);
         var numDays = 30;
-        var baseDate = new Date(2026, 7, 11); // Aug 11, 2026
+        var baseDate = new Date();
 
         var dailyShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
-        var rollVelocity = 1.0;
-        var contangoPenalty = -0.0028;
-        var annFreightVol = isBdry ? 0.55 : 0.70;
 
         if (this.scenario === 'china_stimulus') {
-          dailyShocks.cape = 0.035; dailyShocks.pana = 0.022; dailyShocks.supra = 0.015;
-          dailyShocks.vlcc = 0.008; dailyShocks.suez = 0.006;
-          contangoPenalty = 0.0015;
+          dailyShocks.cape = 0.025; dailyShocks.pana = 0.015; dailyShocks.supra = 0.010;
+          dailyShocks.vlcc = 0.005; dailyShocks.suez = 0.003;
         } else if (this.scenario === 'red_sea_spike') {
-          dailyShocks.vlcc = 0.040; dailyShocks.suez = 0.032;
-          dailyShocks.cape = 0.012; dailyShocks.pana = 0.008;
-          contangoPenalty = 0.0025;
+          dailyShocks.vlcc = 0.030; dailyShocks.suez = 0.025;
+          dailyShocks.cape = 0.008; dailyShocks.pana = 0.005;
         } else if (this.scenario === 'monsoon_lull') {
-          dailyShocks.cape = -0.015; dailyShocks.pana = -0.012; dailyShocks.supra = -0.009;
-          dailyShocks.vlcc = -0.005; dailyShocks.suez = -0.004;
-          contangoPenalty = -0.0035;
-        } else if (this.scenario === 'contango_drag') {
-          dailyShocks.cape = 0.000; dailyShocks.pana = 0.000; dailyShocks.supra = 0.000;
-          dailyShocks.vlcc = 0.000; dailyShocks.suez = 0.000;
-          contangoPenalty = -0.0065;
-          annFreightVol = 0.25;
-        } else if (this.scenario === 'fast_roll') {
-          dailyShocks.cape = 0.005; dailyShocks.pana = 0.003;
-          dailyShocks.vlcc = 0.006; dailyShocks.suez = 0.004;
-          rollVelocity = 2.5;
+          dailyShocks.cape = -0.015; dailyShocks.pana = -0.010; dailyShocks.supra = -0.008;
+          dailyShocks.vlcc = -0.004; dailyShocks.suez = -0.003;
+        } else {
+          // Default baseline flat shock if an unsupported scenario is requested
+          dailyShocks.cape = 0.010; dailyShocks.pana = 0.005; dailyShocks.supra = 0.003;
         }
 
         var curSimPrice = basePrice;
-        var curMktPrice = basePrice;
         var peakPrice = basePrice;
         var dailyReturns = [];
 
-        var baseContracts = isBdry ? [
-          { class: 'cape', name: 'Capesize Aug 26', baseRate: 26800, baseLots: 45, isPrompt: true },
-          { class: 'cape', name: 'Capesize Sep 26', baseRate: 25400, baseLots: 0, isPrompt: false },
-          { class: 'pana', name: 'Panamax Aug 26', baseRate: 17400, baseLots: 38, isPrompt: true },
-          { class: 'pana', name: 'Panamax Sep 26', baseRate: 16800, baseLots: 0, isPrompt: false },
-          { class: 'supra', name: 'Supramax Aug 26', baseRate: 15100, baseLots: 10, isPrompt: true }
-        ] : [
-          { class: 'vlcc', name: 'TD3C Aug 26', baseRate: 49500, baseLots: 85, isPrompt: true },
-          { class: 'vlcc', name: 'TD3C Sep 26', baseRate: 48200, baseLots: 0, isPrompt: false },
-          { class: 'suez', name: 'TD20 Aug 26', baseRate: 38500, baseLots: 12, isPrompt: true },
-          { class: 'suez', name: 'TD20 Sep 26', baseRate: 37900, baseLots: 0, isPrompt: false }
-        ];
-
-        var curRates = {};
-        baseContracts.forEach(function(c) { curRates[c.name] = c.baseRate; });
+        var prevRates = {};
+        futRecords.forEach(function(c) { prevRates[c.contract_id] = c.mark; });
+        var prevFutNotional = initialFutNotional;
 
         for (var t = 0; t < numDays; t++) {
           var dayDate = new Date(baseDate);
           dayDate.setDate(dayDate.getDate() + t);
           var dateStr = fmtDateISO(dayDate);
 
-          var rawRollProgress = (t / 20) * rollVelocity;
-          var rollPct = Math.min(100, Math.round(rawRollProgress * 100));
-
-          var eps = seedInnovations[t % seedInnovations.length];
-          var dailyVol = (annFreightVol / Math.sqrt(252));
-
           var contracts = [];
           var totalNotional = 0;
+          var heldPnl = 0;
 
-          baseContracts.forEach(function(c) {
-            var meanShock = dailyShocks[c.class] || 0;
-            var termFactor = c.isPrompt ? 1.0 : 0.82;
-            var contractShock = meanShock + (dailyVol * eps * (c.isPrompt ? 1.0 : 0.8));
-            curRates[c.name] = curRates[c.name] * (1 + contractShock * termFactor);
+          futRecords.forEach(function(c) {
+            var meanShock = dailyShocks[c.route_class] || 0;
+            var prevRate = prevRates[c.contract_id];
+            var newRate = (t === 0) ? prevRate : prevRate * (1 + meanShock);
 
-            var lots = c.baseLots;
-            if (c.class === 'cape' && isBdry) {
-              var nextL = Math.round(45 * (rollPct / 100));
-              lots = c.isPrompt ? (45 - nextL) : nextL;
-            } else if (c.class === 'pana' && isBdry) {
-              var nextL = Math.round(38 * (rollPct / 100));
-              lots = c.isPrompt ? (38 - nextL) : nextL;
-            } else if (c.class === 'vlcc' && !isBdry) {
-              var nextL = Math.round(85 * (rollPct / 100));
-              lots = c.isPrompt ? (85 - nextL) : nextL;
-            } else if (c.class === 'suez' && !isBdry) {
-              var nextL = Math.round(12 * (rollPct / 100));
-              lots = c.isPrompt ? (12 - nextL) : nextL;
-            }
-
-            var mult = isBdry ? 1.0 : 1000.0;
-            var notional = lots * curRates[c.name] * mult;
+            var lots = c.quantity;
+            var notional = lots * newRate * c.multiplier;
             totalNotional += notional;
 
+            if (t > 0) {
+              heldPnl += lots * c.multiplier * (newRate - prevRate);
+            }
+
             contracts.push({
-              class: c.class,
+              class: c.route_class,
+              contract_id: c.contract_id,
               name: c.name,
-              settleRate: c.baseRate,
-              simRate: curRates[c.name],
+              fullName: c.fullName,
+              settleRate: c.mark,
+              simRate: newRate,
               lots: lots,
-              initialLots: c.baseLots,
-              isPrompt: c.isPrompt,
+              initialLots: lots,
+              multiplier: c.multiplier,
+              unit: c.unit,
               notional: notional,
               dollarImpact: 0,
               weight: 0
@@ -5478,33 +6796,29 @@
 
           contracts.forEach(function(c) {
             c.weight = totalNotional > 0 ? (c.notional / totalNotional) * 100 : 0;
-            var shockRatio = (c.simRate - c.settleRate) / c.settleRate;
+            var shockRatio = (c.simRate - c.settleRate) / (c.settleRate || 1);
             c.dollarImpact = curSimPrice * (c.weight / 100) * shockRatio;
           });
 
-          var weightedMeanShock = 0;
-          if (isBdry) {
-            weightedMeanShock = 0.50 * dailyShocks.cape + 0.40 * dailyShocks.pana + 0.10 * dailyShocks.supra;
-          } else {
-            weightedMeanShock = 0.90 * dailyShocks.vlcc + 0.10 * dailyShocks.suez;
-          }
-          var stochasticFreightRet = weightedMeanShock + (dailyVol * eps);
-
-          var rollDrag = (contangoPenalty / 20) * (rollPct > 0 ? 1 : 0);
+          // In forward scenarios: futures return calculated strictly from PRIOR-DAY notional/exposure
+          var weightedFreightRet = (t > 0 && prevFutNotional > 0) ? (heldPnl / prevFutNotional) : 0;
           var cashFeeDrag = (0.0485 - 0.0350) / 252;
-          var netDailyRet = stochasticFreightRet + rollDrag + cashFeeDrag;
+          var netDailyRet = t === 0 ? 0 : ((weightedFreightRet * exposureRatio) + cashFeeDrag);
 
-          curSimPrice = curSimPrice * (1 + netDailyRet);
-          var arbNoise = Math.sin(t * 1.6) * 0.005 + (seedInnovations[(t + 5) % seedInnovations.length] * 0.002);
-          curMktPrice = curMktPrice * (1 + stochasticFreightRet + cashFeeDrag + arbNoise);
-          var spreadBps = ((curSimPrice - curMktPrice) / curMktPrice) * 10000;
+          if (t > 0) {
+            curSimPrice = curSimPrice * (1 + netDailyRet);
+            dailyReturns.push(netDailyRet);
+          }
 
-          dailyReturns.push(netDailyRet);
+          // Advance state for next period t+1
+          contracts.forEach(function(c) { prevRates[c.contract_id] = c.simRate; });
+          prevFutNotional = totalNotional;
+
           if (curSimPrice > peakPrice) peakPrice = curSimPrice;
           var curMdd = peakPrice > 0 ? ((peakPrice - curSimPrice) / peakPrice) * 100 : 0;
 
-          var meanRet = dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length;
-          var variance = dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length || 1);
+          var meanRet = dailyReturns.length ? (dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length) : 0;
+          var variance = dailyReturns.length > 1 ? (dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length - 1)) : 0;
           var stdDev = Math.sqrt(variance);
           var annVol = stdDev * Math.sqrt(252) * 100;
           var sharpe = annVol > 0 ? ((meanRet * 252 - 0.0485) / (annVol / 100)) : 0;
@@ -5513,13 +6827,22 @@
             day: t,
             date: dateStr,
             simPrice: curSimPrice,
-            mktPrice: curMktPrice,
-            spreadBps: spreadBps,
-            rollPct: rollPct,
+            mktPrice: null, // NO synthetic market price in forward scenarios
+            spreadBps: null,
+            futuresNotional: totalNotional,
+            collateralValue: initialColVal,
+            cashValue: initialCshVal,
+            fundNav: initialFundNav,
+            exposureRatio: exposureRatio,
+            retainedCount: futRecords.length,
+            newCount: 0,
+            exitedCount: 0,
+            heldPnl: heldPnl,
+            rollPct: null, // Roll not simulated without curve carry
             contracts: contracts,
             attribution: {
-              freight: stochasticFreightRet * 100,
-              roll: rollDrag * 100,
+              freight: weightedFreightRet * 100 * exposureRatio,
+              roll: 0, // Zero roll attribution until curve-derived carry model is available
               cash: cashFeeDrag * 100,
               total: netDailyRet * 100
             },
@@ -5527,8 +6850,8 @@
               annVol: annVol,
               sharpe: sharpe,
               mdd: curMdd,
-              carryYield: (contangoPenalty * 12) * 100,
-              trackingError: Math.abs(spreadBps)
+              carryYield: 0,
+              trackingError: 0
             }
           });
         }
@@ -5628,7 +6951,7 @@
 
         if (ttDate) ttDate.textContent = 'Day ' + (hoverIdx + 1) + ' \u2022 ' + data.date;
         if (ttNav) ttNav.textContent = '$' + data.simPrice.toFixed(2);
-        if (ttRoll) ttRoll.textContent = data.rollPct + '%';
+        if (ttRoll) ttRoll.textContent = data.rollPct !== null ? (data.rollPct + '%') : 'N/A';
 
         tooltip.style.left = (pct * 100) + '%';
         tooltip.style.display = 'block';
@@ -5680,7 +7003,7 @@
           progress.style.width = pct + '%';
         }
         if (dateDisplay) dateDisplay.textContent = 'Day ' + (this.curIdx + 1) + ' / ' + this.timeline.length + ' \u2022 ' + state.date;
-        if (rollBadge) rollBadge.textContent = 'Roll Progress: ' + state.rollPct + '%';
+        if (rollBadge) rollBadge.textContent = state.rollPct !== null ? ('Roll Progress: ' + state.rollPct + '%') : 'Constant Holdings Forward Model';
 
         // Render 4 Panels
         this.renderTable(state);
@@ -5741,6 +7064,7 @@
         var simPrices = [];
         var mktPrices = [];
         var spreads = [];
+        var isReplay = (this.scenario === 'historical_replay');
 
         for (var i = 0; i <= this.curIdx; i++) {
           var dStr = (this.timeline[i] && this.timeline[i].date) ? this.timeline[i].date.substring(5) : ('D' + (i + 1));
@@ -5764,7 +7088,7 @@
               labels: labels,
               datasets: [
                 {
-                  label: 'Sim Price ($)',
+                  label: isReplay ? 'Simulated NAV ($)' : 'Conditional Scenario NAV ($)',
                   data: simPrices,
                   borderColor: '#58a6ff',
                   backgroundColor: 'rgba(88, 166, 255, 0.15)',
@@ -5775,13 +7099,14 @@
                   pointBackgroundColor: '#58a6ff'
                 },
                 {
-                  label: 'Mkt Price ($)',
+                  label: 'Market Close ($)',
                   data: mktPrices,
                   borderColor: '#e3b341',
                   borderWidth: 2,
                   borderDash: [5, 4],
                   fill: false,
                   tension: 0.25,
+                  spanGaps: false,
                   pointRadius: simPrices.length > 25 ? 0 : 2,
                   pointBackgroundColor: '#e3b341'
                 }
@@ -5791,7 +7116,7 @@
               responsive: true,
               maintainAspectRatio: false,
               animation: false,
-              plugins: { legend: { display: false } },
+              plugins: { legend: { display: isReplay } },
               scales: {
                 x: { display: false },
                 y: {
@@ -5804,8 +7129,10 @@
           if (typeof chartRegistry !== 'undefined') chartRegistry['simPriceChart'] = this.charts.price;
         } else {
           this.charts.price.data.labels = labels;
+          this.charts.price.data.datasets[0].label = isReplay ? 'Simulated NAV ($)' : 'Conditional Scenario NAV ($)';
           this.charts.price.data.datasets[0].data = simPrices;
           this.charts.price.data.datasets[1].data = mktPrices;
+          this.charts.price.options.plugins.legend.display = isReplay;
           this.charts.price.update('none');
         }
 
@@ -5917,7 +7244,7 @@
       },
 
       renderHUD: function(state) {
-        var basePrice = this.timeline[0].simPrice;
+        var basePrice = (this.timeline[0] && this.timeline[0].simPrice) ? this.timeline[0].simPrice : 10.0;
         var curPrice = state.simPrice;
         var pnl = (curPrice - basePrice) * this.shares;
         var returnPct = basePrice > 0 ? ((curPrice - basePrice) / basePrice) * 100 : 0;
@@ -5931,6 +7258,7 @@
         var mddSub = document.getElementById('simHudMddSub');
         var volEl = document.getElementById('simHudVol');
         var teEl = document.getElementById('simHudTe');
+        var badgeEl = document.getElementById('simLiveStatusBadge');
 
         if (pnlEl) {
           var pnlSign = pnl >= 0 ? '+$' : '-$';
@@ -5940,12 +7268,44 @@
         if (pnlSub) {
           pnlSub.textContent = 'Return: ' + (returnPct >= 0 ? '+' : '') + returnPct.toFixed(2) + '% on $' + Math.round(investedCapital).toLocaleString() + ' capital';
         }
-        if (sharpeEl) sharpeEl.textContent = state.risk.sharpe.toFixed(2);
-        if (carryEl) carryEl.textContent = state.risk.carryYield.toFixed(2) + '% / yr';
-        if (mddEl) mddEl.textContent = '-' + state.risk.mdd.toFixed(2) + '%';
+        if (sharpeEl) sharpeEl.textContent = (state.risk && state.risk.sharpe !== undefined) ? state.risk.sharpe.toFixed(2) : '0.00';
+        if (carryEl) carryEl.textContent = (state.risk && state.risk.carryYield !== undefined) ? (state.risk.carryYield.toFixed(2) + '% / yr') : '0.00% / yr';
+        if (mddEl) mddEl.textContent = '-' + ((state.risk && state.risk.mdd !== undefined) ? state.risk.mdd.toFixed(2) : '0.00') + '%';
         if (mddSub) mddSub.textContent = 'Peak: Day 1 \u2022 Current: Day ' + (this.curIdx + 1);
-        if (volEl) volEl.textContent = state.risk.annVol.toFixed(1) + '%';
-        if (teEl) teEl.textContent = state.risk.trackingError.toFixed(1) + ' bps';
+        if (volEl) volEl.textContent = (state.risk && state.risk.annVol !== undefined) ? (state.risk.annVol.toFixed(1) + '%') : '0.0%';
+        if (teEl) {
+          if (state.spreadBps !== null && !isNaN(state.spreadBps)) {
+            teEl.textContent = Math.abs(state.spreadBps).toFixed(1) + ' bps';
+          } else if (this.scenario === 'historical_replay') {
+            teEl.textContent = 'Mkt Closed';
+          } else {
+            teEl.textContent = 'N/A (Forward)';
+          }
+        }
+
+        if (badgeEl) {
+          if (this.scenario === 'historical_replay') {
+            if (this.etf === 'bdry') {
+              badgeEl.textContent = 'Readiness: Accounting Replay Only (Daily Return R² = 0.65%, MAE = ±2.11%)';
+              badgeEl.style.color = '#38bdf8';
+              badgeEl.style.background = 'rgba(56,189,248,0.1)';
+            } else {
+              badgeEl.textContent = 'Readiness: Accounting Replay Only (Daily Return R² = 0.88%, MAE = ±7.29% - Insufficient Accuracy for Decisions)';
+              badgeEl.style.color = '#facc15';
+              badgeEl.style.background = 'rgba(250,204,21,0.1)';
+            }
+          } else {
+            if (this.etf === 'bdry') {
+              badgeEl.textContent = 'Conditional Forward Scenario (Illustrative Model)';
+              badgeEl.style.color = '#58a6ff';
+              badgeEl.style.background = 'rgba(88,166,255,0.1)';
+            } else {
+              badgeEl.textContent = 'Manual Scenario (Tanker forward curve feed unavailable)';
+              badgeEl.style.color = '#fb923c';
+              badgeEl.style.background = 'rgba(251,146,60,0.1)';
+            }
+          }
+        }
       },
 
       setupHotkeys: function() {
@@ -6322,67 +7682,164 @@
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
           <div>
             <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
-              <div style="display:inline-flex;align-items:center;gap:8px;"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg></div> <span>ETF Futures Portfolio Deconstruction &amp; Scenario Predictor</span></div>
+              <div style="display:inline-flex;align-items:center;gap:8px;"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg></div> <span>Thesis-to-ETF Scenario Translator</span></div>
+              <span id="deconstLiveFreshnessBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">1 bday fresh • VERIFIED</span>
             </div>
             <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
-              Deconstructs BDRY &amp; BWET holdings for any target date using the 5-Axiom Roll Model and simulates NAV sensitivity to freight futures shocks.
+              Translates user target freight marks into gross futures variation margin dollars ($) and approximate ETF NAV / market price ranges when contemporaneous baseline is present.
             </div>
           </div>
           
           <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <!-- Scenario Mode Switcher -->
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="deconstModeFrozen" onclick="setDeconstScenarioMode('FROZEN_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" title="Frozen Disclosed Book: Disclosed constituent holdings remain unchanged">Frozen Disclosed Book</button>
+              <button id="deconstModeForward" onclick="setDeconstScenarioMode('USER_SPECIFIED_FORWARD_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" title="Custom Forward Book: Enables direct editing of constituent lots to specify custom roll-in and roll-out positions">Custom Forward Book</button>
+            </div>
+
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" data-tooltip="<div class='rt-title'>Amplify BDRY (Breakwave Dry Bulk Shipping ETF)</div><div class='rt-row'><span class='rt-label'>Underlying Asset:</span><span class='rt-val'>Dry Bulk Freight Futures (FFA)</span></div><div class='rt-row'><span class='rt-label'>Target Weightings:</span><span class='rt-val'>Capesize 50% / Panamax 40% / Supramax 10%</span></div><div class='rt-note'>Click to switch predictor model to BDRY dry bulk futures curve.</div>" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
-              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" data-tooltip="<div class='rt-title'>Amplify BWET (Breakwave Tanker Shipping ETF)</div><div class='rt-row'><span class='rt-label'>Underlying Asset:</span><span class='rt-val'>Crude Oil Tanker Futures (FFA)</span></div><div class='rt-row'><span class='rt-label'>Target Weightings:</span><span class='rt-val'>90% VLCC TD3C / 10% Suezmax TD20</span></div><div class='rt-note'>Click to switch predictor model to BWET crude tanker futures curve.</div>" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
+              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
+              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
+            </div>
+
+            <!-- Download Reconciliation CSV Button -->
+            <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;">
+              <span>⬇</span> Export CSV
+            </button>
+          </div>
+        </div>
+
+        <!-- Provenance & Baseline Sourcing Info Banner -->
+        <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;">
+          <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;">
+            <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+              <span style="color:var(--accent);font-weight:700;">PROVENANCE:</span>
+              <span id="deconstProvenanceAsOf" style="color:var(--text);font-weight:600;">Snapshot As-of 2026-08-13</span>
+              <span style="color:var(--text-muted);">&bull;</span>
+              <span id="deconstProvenanceHash" style="font-family:monospace;color:var(--text-muted);">SHA: a7ecfa98e004...</span>
+              <span style="color:var(--text-muted);">&bull;</span>
+              <span style="color:#3fb950;font-weight:600;">Rulebooks: NYMEX Ch 684/944 &amp; SGX Ch 8</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;">
+              <div id="deconstBaselineNote" style="color:var(--text-muted);font-weight:600;">
+                Baseline Status: NON-CONTEMPORANEOUS
+              </div>
+              <button id="deconstToggleManualBaselineBtn" onclick="toggleManualBaselineDrawer()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;cursor:pointer;">✏️ Manual Baseline Override</button>
+            </div>
+          </div>
+
+          <!-- Fail-Closed Baseline Alert -->
+          <div id="deconstBaselineAlert" style="display:none;margin-top:8px;background:rgba(248,81,73,0.1);border:1px solid rgba(248,81,73,0.3);color:#f85149;padding:6px 10px;border-radius:4px;font-size:11px;font-weight:600;">
+            ⚠️ Gross futures P&amp;L available; per-share ETF estimate unavailable because the NAV/share baseline is not contemporaneous.
+          </div>
+
+          <!-- Manual Dated Baseline Override Drawer -->
+          <div id="deconstManualBaselineDrawer" style="display:none;margin-top:10px;background:var(--card);border:1px solid var(--border);border-radius:6px;padding:12px;border-left:3px solid var(--accent);">
+            <div style="font-weight:700;color:var(--text);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;">
+              <span>Manual Contemporaneous Baseline Override</span>
+              <span style="font-size:10px;color:var(--text-muted);">Enter contemporaneous dated fund metrics to unlock per-share projections</span>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:8px;">
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Total Fund NAV ($)</label>
+                <input type="number" id="mbInputTotalNav" placeholder="30000000" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;font-weight:700;">
+              </div>
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Shares Outstanding</label>
+                <input type="number" id="mbInputShares" placeholder="2169200" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;font-weight:700;">
+              </div>
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">NAV / Share ($)</label>
+                <input type="number" id="mbInputNavSh" step="any" placeholder="13.83" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;font-weight:700;">
+              </div>
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Market Close ($)</label>
+                <input type="number" id="mbInputMktPx" step="any" placeholder="13.79" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;font-weight:700;">
+              </div>
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">As-of Date</label>
+                <input type="date" id="mbInputDate" value="2026-08-13" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;font-family:inherit;">
+              </div>
+              <div>
+                <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Source Description</label>
+                <input type="text" id="mbInputSource" value="User Manual Override" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 6px;border-radius:4px;font-size:11px;">
+              </div>
+            </div>
+            <div style="display:flex;gap:8px;justify-content:flex-end;">
+              <button onclick="clearManualBaseline()" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text-muted);font-size:11px;cursor:pointer;">Clear Override</button>
+              <button onclick="applyManualBaseline()" style="padding:4px 12px;border-radius:4px;border:none;background:var(--accent);color:#fff;font-size:11px;font-weight:700;cursor:pointer;">Apply Manual Baseline</button>
             </div>
           </div>
         </div>
 
-        <!-- Controls Row: Date Selector & Quick Presets -->
-        <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;background:var(--hover);padding:12px;border-radius:6px;border:1px solid var(--border);margin-bottom:16px;">
+        <!-- Controls Row: Date Selector, Pricing Mode, & Quick Presets -->
+        <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;background:var(--hover);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:14px;">
           <div style="display:flex;align-items:center;gap:8px;">
-            <label style="font-size:12px;font-weight:600;color:var(--text-muted);">Target Date:</label>
-            <input type="date" id="deconstTargetDate" value="2026-08-11" onchange="onDeconstDateChange()" data-tooltip="<div class='rt-title'>Target Projection Date Horizon</div><div class='rt-row'><span class='rt-label'>Purpose:</span><span class='rt-val'>Determines active vs forward contract allocation</span></div><div class='rt-row'><span class='rt-label'>Roll Engine:</span><span class='rt-val'>Calculates business day roll progress %</span></div><div class='rt-note'>Changes target date to simulate contract strip rolls across prompt and next-quarter futures contracts.</div>" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:4px;font-size:12px;font-family:inherit;">
+            <label style="font-size:12px;font-weight:600;color:var(--text-muted);">Horizon Date:</label>
+            <input type="date" id="deconstTargetDate" value="2026-08-14" onchange="onDeconstDateChange()" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:4px;font-size:12px;font-family:inherit;">
+          </div>
+
+          <div style="display:flex;align-items:center;gap:6px;">
+            <label style="font-size:11px;font-weight:600;color:var(--text-muted);">Pricing Mode:</label>
+            <select id="deconstPricingModeSelect" onchange="onDeconstPricingModeChange(this.value)" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 6px;border-radius:4px;font-size:11px;font-family:inherit;">
+              <option value="AUTO">Auto (Carry-Forward Prem/Disc if contemporaneous)</option>
+              <option value="CARRY_FORWARD_PREMIUM_DISCOUNT">Carry Forward Baseline Prem/Disc</option>
+              <option value="NAV_PARITY">Project at NAV Parity (0% Prem/Disc)</option>
+            </select>
           </div>
 
           <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
             <span style="font-size:11px;color:var(--text-muted);font-weight:600;">Presets:</span>
-            <button class="pill-btn" onclick="setDeconstDatePreset('today')" data-tooltip="<div class='rt-title'>Date Preset: Today</div><div class='rt-row'><span class='rt-label'>Horizon:</span><span class='rt-val'>Active Trading Session</span></div><div class='rt-note'>Loads live daily fund disclosures &amp; SGX settlement prices.</div>" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Today</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" data-tooltip="<div class='rt-title'>Date Preset: Month End</div><div class='rt-row'><span class='rt-label'>Horizon:</span><span class='rt-val'>Current Month Expiry Roll Target</span></div><div class='rt-note'>Simulates portfolio weights at month-end roll completion.</div>" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Month End</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" data-tooltip="<div class='rt-title'>Date Preset: Next Quarter Strip</div><div class='rt-row'><span class='rt-label'>Horizon:</span><span class='rt-val'>Mid Next-Quarter Strip Roll</span></div><div class='rt-note'>Projects forward holdings rolled into next-quarter futures contracts.</div>" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Next Quarter Strip</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" data-tooltip="<div class='rt-title'>Date Preset: 1 Year Out</div><div class='rt-row'><span class='rt-label'>Horizon:</span><span class='rt-val'>Rolling 12-Month Forward Horizon</span></div><div class='rt-note'>Simulates full annual contract cycle roll and forward pricing.</div>" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">1 Year Out</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('today')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Today</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Month End</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Next Quarter Strip</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">1 Year Out</button>
           </div>
-          
-          <div id="deconstBacktestBadge" style="margin-left:auto;display:none;font-size:11px;font-weight:700;padding:4px 10px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">
-            Backtest Verified: 99.8% Lot Precision vs SEC Filing
+
+          <button id="deconstBtnDecisionTicket" onclick="openDecisionTicketModal()" class="pill-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);color:#fff;font-weight:700;padding:4px 12px;border-radius:4px;border:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(31,111,235,0.3);font-size:11px;">
+            <span>📋</span>
+            <span>Decision Ticket</span>
+          </button>
+
+          <div style="margin-left:auto;display:flex;align-items:center;gap:6px;font-size:11px;">
+            <span style="color:var(--text-muted);font-weight:600;" data-tooltip="User-configurable assumption spread band (+/-2.50% default, NOT a historical probability estimate).">Assumed Prem/Disc Band:</span>
+            <span style="font-weight:700;color:var(--accent);">&plusmn;2.50%</span>
           </div>
         </div>
 
         <!-- Simulation KPI Summary Cards -->
-        <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:12px;margin-bottom:16px;">
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="<div class='rt-title'>Projected ETF Share Price ($)</div><div class='rt-row'><span class='rt-label'>Formula:</span><span class='rt-val'>Base Price × (1 + Total Weighted Shock %)</span></div><div class='rt-row'><span class='rt-label'>Live Sync:</span><span class='rt-val pos'>Updates in Real-Time</span></div><div class='rt-note'>Simulates projected ETF market price based on lot-weighted contract freight shocks.</div>">
-            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Projected ETF Share Price</div>
-            <div id="deconstKpiPrice" style="font-size:22px;font-weight:800;color:#58a6ff;margin-top:2px;">$10.09</div>
-            <div id="deconstKpiPriceDiff" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Current: $10.09</div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(210px, 1fr));gap:12px;margin-bottom:16px;">
+          <!-- Card 1: Gross Futures P&L / Net Scenario P&L -->
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Gross Futures Variation Margin P&L ($) = Σ [ Scenario Lots × Multiplier × (Target Mark - Current Mark) ] - User Roll Costs">
+            <div id="deconstKpiFuturesPnlTitle" style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Gross Futures P&amp;L ($)</div>
+            <div id="deconstKpiFuturesPnl" style="font-size:22px;font-weight:800;color:#58a6ff;margin-top:2px;">+$0.00</div>
+            <div id="deconstKpiFuturesPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Notional: $33.94M</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="<div class='rt-title'>Projected NAV Return (%)</div><div class='rt-row'><span class='rt-label'>Formula:</span><span class='rt-val'>Σ [ Weight_i × Shock_i % ]</span></div><div class='rt-row'><span class='rt-label'>Weight Source:</span><span class='rt-val'>SEC Disclosed Lot Weightings</span></div><div class='rt-note'>Aggregate percentage return of total ETF Net Asset Value (NAV).</div>">
-            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Projected NAV Return %</div>
-            <div id="deconstKpiNav" style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">0.00%</div>
-            <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Lot-Weighted Portfolio Return</div>
+
+          <!-- Card 2: Approximate Target NAV -->
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Approximate Projected NAV ($) = Baseline Fund Net Assets + Gross Futures P&L ($). Requires contemporaneous or manual baseline.">
+            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Approx Target NAV</div>
+            <div id="deconstKpiNav" style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">UNAVAILABLE</div>
+            <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Baseline Non-Contemporaneous</div>
           </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="<div class='rt-title'>Simulated Position Dollar PnL ($)</div><div class='rt-row'><span class='rt-label'>Formula:</span><span class='rt-val'>Shares × Base Price × NAV Return %</span></div><div class='rt-row'><span class='rt-label'>Editable Input:</span><span class='rt-val pos'>Custom Position Share Count</span></div><div class='rt-note'>Calculates net dollar gain/loss and base invested capital for your custom share quantity.</div>">
+
+          <!-- Card 3: Approximate ETF Market Price Range -->
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Approximate Secondary Market Price Target Range incorporating low (-2.5% discount), base (NAV parity), and high (+2.5% premium) assumption bands.">
+            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Approx Market Price Range</div>
+            <div id="deconstKpiMarketRange" style="font-size:16px;font-weight:800;color:var(--accent);margin-top:5px;">UNAVAILABLE</div>
+            <div style="font-size:10px;color:var(--text-muted);margin-top:3px;">Low (-2.5%) &bull; Base &bull; High (+2.5%) [Assumption]</div>
+          </div>
+
+          <!-- Card 4: Position P&L on Custom Shares -->
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Simulates dollar P&L on your custom position share count based on approximate NAV return.">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:4px;flex-wrap:wrap;">
               <span>PnL FOR</span>
               <input type="number" id="deconstShareCountInput" value="1000" min="1" step="100" oninput="onDeconstShareCountInput(this)" style="width:65px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:1px 4px;font-size:11px;font-weight:700;text-align:center;">
               <span>SHARES</span>
             </div>
             <div id="deconstKpiPnl" style="font-size:22px;font-weight:800;color:var(--text);margin-top:2px;">$0.00</div>
-            <div id="deconstKpiPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $13,870</div>
-          </div>
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Implied Curve Roll Yield — lot-weighted spread between prompt and next-quarter futures strips across Capesize, Panamax, Supramax, VLCC, and Suezmax contracts. Positive values (+X.XX%/mo) indicate Backwardation Roll Gain (+) ; negative values (-X.XX%/mo) indicate Contango Decay Rate (-) .">
-            <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Implied Curve Roll Yield</div>
-            <div id="deconstKpiRoll" style="font-size:22px;font-weight:800;color:#d29922;margin-top:2px;">-0.08% / mo</div>
-            <div id="deconstKpiRollDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Contango Decay Rate (-)</div>
+            <div id="deconstKpiPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Base Capital $13,790</div>
           </div>
         </div>
 
@@ -6549,27 +8006,71 @@
         <div style="display:grid;grid-template-columns:2fr 1fr;gap:16px;">
           <div>
             <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;">
-              <span id="deconstTableTitle">Predicted Portfolio Holdings</span>
-              <span id="deconstRollProgressText" style="font-size:11px;color:var(--accent);font-weight:600;">Roll Progress: 0%</span>
+              <span id="deconstTableTitle">Constituent Futures Portfolio Holdings</span>
+              <span id="deconstRollProgressText" style="font-size:11px;color:var(--accent);font-weight:600;">Frozen Disclosed Book Active</span>
             </div>
-            <div style="overflow-x:auto;max-height:280px;overflow-y:auto;border:1px solid var(--border);border-radius:6px;">
+            <div style="overflow-x:auto;max-height:300px;overflow-y:auto;border:1px solid var(--border);border-radius:6px;">
               <table style="width:100%;border-collapse:collapse;font-size:12px;text-align:left;">
                 <thead>
                   <tr style="background:var(--card);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;letter-spacing:0.4px;font-weight:700;">
                     <th style="padding:6px 8px;">Contract Description</th>
-                    <th style="padding:6px 8px;text-align:right;">Lots</th>
-                    <th style="padding:6px 8px;text-align:right;">Weight %</th>
-                    <th style="padding:6px 8px;text-align:right;">SGX Settle</th>
-                    <th style="padding:6px 8px;text-align:center;">52W Range ($ Min — $ Max)</th>
-                    <th style="padding:6px 8px;text-align:right;">Shock %</th>
-                    <th style="padding:6px 8px;text-align:right;" data-tooltip="Dollar impact of this specific contract on BDRY share price.">$ / Share Impact</th>
+                    <th style="padding:6px 8px;text-align:right;" title="Official disclosed lots from latest verified archive">Disclosed Lots</th>
+                    <th style="padding:6px 8px;text-align:right;" title="Effective scenario lots (editable in Custom Forward Book mode)">Scenario Lots</th>
+                    <th style="padding:6px 8px;text-align:right;">Mult</th>
+                    <th style="padding:6px 8px;text-align:right;">Current Mark</th>
+                    <th style="padding:6px 8px;text-align:right;min-width:110px;color:var(--accent);">Target Mark ($) [Primary]</th>
+                    <th style="padding:6px 8px;text-align:right;">Delta %</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="Gross Futures Variation Margin P&L ($) for this constituent position.">Gross Futures P&amp;L ($)</th>
                     <th style="padding:6px 8px;text-align:right;" data-tooltip="Percentage NAV return contribution of this specific contract.">% NAV Contrib</th>
                   </tr>
                 </thead>
                 <tbody id="deconstHoldingsBody">
-                  <tr><td colspan="6" style="padding:12px;text-align:center;color:var(--text-muted);">Loading predicted holdings...</td></tr>
+                  <tr><td colspan="9" style="padding:12px;text-align:center;color:var(--text-muted);">Loading verified holdings...</td></tr>
                 </tbody>
               </table>
+            </div>
+
+            <!-- Custom Roll-In Leg Controls -->
+            <div style="margin-top:8px;display:flex;justify-content:flex-start;align-items:center;">
+              <button id="deconstAddRollInBtn" onclick="toggleAddRollInDrawer()" style="display:none;padding:4px 10px;border-radius:4px;border:1px dashed var(--accent);background:rgba(77,154,255,0.1);color:var(--accent);font-size:11px;font-weight:700;cursor:pointer;">+ Add Custom Roll-In Leg</button>
+            </div>
+
+            <!-- Custom Roll-In Leg Drawer -->
+            <div id="deconstAddRollInDrawer" style="display:none;margin-top:8px;background:var(--card);border:1px solid var(--border);border-radius:6px;padding:12px;border-left:3px solid var(--green);">
+              <div style="font-weight:700;color:var(--text);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;">
+                <span>Add User-Assumed Forward Roll-In Leg</span>
+                <span style="font-size:10px;color:var(--text-muted);">User assumption (NOT an ETF roll forecast)</span>
+              </div>
+              <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(110px, 1fr));gap:6px;margin-bottom:8px;">
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Contract Name / Ticker</label>
+                  <input type="text" id="rollInName" placeholder="Capesize 5TC Cal 27" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;">
+                </div>
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Scenario Lots</label>
+                  <input type="number" id="rollInLots" value="50" step="any" min="0" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;font-weight:700;">
+                </div>
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Multiplier</label>
+                  <input type="number" id="rollInMult" value="1.0" step="any" min="0.001" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;">
+                </div>
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Starting / Entry Mark ($)</label>
+                  <input type="number" id="rollInStartPx" placeholder="30000" step="any" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;font-weight:700;">
+                </div>
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Target Mark ($)</label>
+                  <input type="number" id="rollInTgtPx" placeholder="33000" step="any" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;font-weight:700;">
+                </div>
+                <div>
+                  <label style="font-size:10px;color:var(--text-muted);display:block;margin-bottom:2px;">Roll Transaction Cost ($)</label>
+                  <input type="number" id="rollInCost" value="0" step="any" min="0" style="width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 5px;border-radius:4px;font-size:11px;">
+                </div>
+              </div>
+              <div style="display:flex;gap:6px;justify-content:flex-end;">
+                <button onclick="toggleAddRollInDrawer()" style="padding:3px 8px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text-muted);font-size:11px;cursor:pointer;">Cancel</button>
+                <button onclick="addCustomRollInLeg()" style="padding:3px 10px;border-radius:4px;border:none;background:var(--green);color:#0a0e14;font-size:11px;font-weight:700;cursor:pointer;">+ Add Leg to Book</button>
+              </div>
             </div>
           </div>
 
@@ -6617,6 +8118,47 @@
             </table>
           </div>
         </div>
+
+        <!-- Unresolved Accounting Residuals Disclosure Tray -->
+        <div style="margin-top:14px;background:rgba(210,153,34,0.05);border:1px solid rgba(210,153,34,0.25);border-radius:6px;padding:10px 14px;font-size:11px;color:var(--text-muted);">
+          <div style="font-weight:700;color:#d29922;margin-bottom:4px;display:flex;align-items:center;gap:6px;">
+            <span>⚠️</span> <span>UNRESOLVED ACCOUNTING RESIDUALS &amp; GOVERNANCE FLAGS:</span>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:6px;margin-top:6px;font-size:10px;">
+            <div>&bull; <strong>Roll Execution Drag:</strong> Intraday roll fills and broker spread slippage are unobserved.</div>
+            <div>&bull; <strong>Cash Interest:</strong> Daily overnight repo sweep credits between month-ends are unobserved.</div>
+            <div>&bull; <strong>Daily Expenses &amp; Waivers:</strong> Daily advisory fee accruals and fee waivers are unobserved.</div>
+            <div>&bull; <strong>AP Capital Flows:</strong> Authorized Participant creation/redemption share flows are unobserved.</div>
+            <div>&bull; <strong>Premium/Discount:</strong> Secondary market price reflects market supply/demand premium or discount to NAV.</div>
+          </div>
+        </div>
+
+        <!-- Institutional Decision Ticket Modal -->
+        <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;">
+          <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
+            <!-- Modal Header -->
+            <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
+              <div>
+                <div style="display:flex;align-items:center;gap:8px;">
+                  <span style="font-size:18px;">📋</span>
+                  <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
+                  <span id="dtModalFundBadge" style="font-size:10px;font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
+                </div>
+                <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);">DT-BDRY-20260814</span> &bull; <span id="dtModalTime">2026-08-14 15:00 UTC</span></div>
+              </div>
+              <div style="display:flex;gap:6px;align-items:center;">
+                <button onclick="copyDecisionTicketText()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">📄 Copy Text</button>
+                <button onclick="copyDecisionTicketJson()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">{ } Copy JSON</button>
+                <button onclick="closeDecisionTicketModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:20px;cursor:pointer;padding:0 6px;line-height:1;" title="Close Modal">&times;</button>
+              </div>
+            </div>
+
+            <!-- Modal Body Content -->
+            <div id="dtModalBody">
+              <!-- Rendered dynamically by renderDecisionTicketInModal() -->
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- ===================================================================== -->
@@ -6640,7 +8182,7 @@
               <span class="sim-live-badge" id="simLiveStatusBadge">PAUSED</span>
             </div>
             <div class="sim-subtitle">
-              Cinematic daily roll &amp; freight shock simulator with 5-axiom lot decay, 3-way attribution waterfall, dual-pane tracking spread, and live portfolio HUD.
+              Accounting Replay Engine (<strong style="color:#d29922;">Status: DESCRIPTIVE_UNRECONCILED</strong> &bull; Daily variation margin tracked; daily cash vouchers, expense accruals &amp; intraday roll fills unobserved &bull; Alpha Signals Suspended).
             </div>
           </div>
 
@@ -6676,15 +8218,15 @@
             <span class="chip-name">Monsoon Lull</span>
             <span class="chip-tag neg">-1.5%/d + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_contango_drag" onclick="SIM_CONTROLLER.loadScenario('contango_drag')">
+          <button class="sim-scenario-chip" id="scenChip_contango_drag" disabled style="opacity:0.4;cursor:not-allowed;" title="Disabled — Requires dynamic contract quantity transition and live term structure curve feed">
             <span class="chip-dot chip-dot-warn"></span>
-            <span class="chip-name">Contango Drag Test</span>
-            <span class="chip-tag warn">Pure Basis Decay</span>
+            <span class="chip-name">Contango Drag</span>
+            <span class="chip-tag warn">Disabled</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_fast_roll" onclick="SIM_CONTROLLER.loadScenario('fast_roll')">
+          <button class="sim-scenario-chip" id="scenChip_fast_roll" disabled style="opacity:0.4;cursor:not-allowed;" title="Disabled — Requires dynamic contract quantity transition and live term structure curve feed">
             <span class="chip-dot chip-dot-accent"></span>
-            <span class="chip-name">Fast 5-Day Roll</span>
-            <span class="chip-tag accent">20%/d Velocity</span>
+            <span class="chip-name">Fast Roll</span>
+            <span class="chip-tag accent">Disabled (No Curve Feed)</span>
           </button>
         </div>
 

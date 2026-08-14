@@ -27,26 +27,48 @@ jobs:
       with:
         python-version: '3.11'
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
     - name: Install dependencies
-      run: pip install pandas requests yfinance
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests yfinance numpy
 
     - name: Pull latest before run
       run: git pull --rebase --autostash origin main
 
-    - name: Download and process ETF holdings
+    - name: Download and process ETF holdings & generate authoritative snapshot bundle
       run: python scripts/update_etf_holdings.py
+
+    - name: Run Python Thesis Scenario Translator unit tests
+      run: python scripts/test_thesis_scenario_builder.py -v
+
+    - name: Run Real Updater Pipeline & Immutability Integration Tests
+      run: python scratch/test_real_updater_pipeline.py -v
+
+    - name: Run Next-Business-Day Update & Browser Lifecycle Integration Tests
+      run: node scratch/test_next_business_day_update_flow.js
+
+    - name: Run Python-to-Browser parity test suite (generates fresh fixtures on the fly)
+      run: node scratch/test_python_browser_parity.js
+
+    - name: Run End-to-End Browser & DOM test suite
+      run: node scratch/test_e2e_scenario_translator.js
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/etf/bdry_holdings.csv data/etf/bwet_holdings.csv data/etf/bdry_liquidity.csv data/etf/bwet_liquidity.csv data/etf/bdry_holdings_history.csv data/etf/bwet_holdings_history.csv
+        git add data/etf/ scratch/python_parity_golden_fixtures.json
         if git diff --staged --quiet; then
-          echo "No ETF holdings changes to commit."
+          echo "No ETF holdings or snapshot changes to commit."
           exit 0
         fi
 
-        git commit -m "Update ETF holdings $(date +'%Y-%m-%d %H:%M UTC')"
+        git commit -m "Update ETF holdings, snapshots, and provenance manifest $(date +'%Y-%m-%d %H:%M UTC')"
 
         for attempt in 1 2 3; do
           if git pull --rebase --autostash origin main && git push origin HEAD:main; then
