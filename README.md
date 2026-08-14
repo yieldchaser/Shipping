@@ -267,6 +267,20 @@ All 6 base indices as individual chart cards:
       - 📉 *Monsoon Lull* (-1.5%/d across dry bulk)
       - 🔄 *Contango Drag Test* (Pure Basis Decay)
       - ⚡ *Fast 5-Day Roll* (Accelerated Rebalance)
+12. **Institutional ETF & Scenario Intelligence Q&A Copilot ("Ask Anything")**:
+    - **Conversational Derivative Analytics**: Plain-English institutional AI copilot answering complex ETF questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, and statutory rulebooks.
+    - **Multi-Provider Failover Architecture**: Seamlessly routes across **Groq** (`llama-3.3-70b-versatile`), **Gemini** (`gemini-2.5-flash` / `gemini-1.5-flash` with Google Search Grounding), and **OpenRouter** with automatic key-sharing from the Research tab (`localStorage`).
+    - **5-Category Institutional Suggested Prompt Suite (30 Curated Prompts)**:
+      - 🎯 *Contract Exposures*: Holding BDRY for 2 months, highest $/share sensitivity contract, translating macro shipping views into ETF targets, Futures/AUM ratios.
+      - 🔄 *Roll Yield & Carry*: 60-day Capesize roll decay, BWET Contango vs Backwardation, 5-axiom calendar decay math, prompt contract expiration.
+      - ⚡ *Scenario Shocks & PnL*: Multi-vessel asymmetric shocks (Cape +20% / Pana -10%), Reverse NAV Solver price targets, Red Sea tanker spikes, Micro vs Macro aggregation math.
+      - 🏦 *Fund Flows & AUM*: $30.94M AUM & 2.20M shares vs history, 25k creation basket arbitrage, cash collateral yield (4.85%) vs 3.50% TER, CME/SGX margins.
+      - 🧭 *Strategy & Holding*: Multi-month holding risks, ETF vs Shipping Equities (SBLK, GOGL), optimal roll entry window, charter party hedging.
+    - **Bi-Directional Interactive Action Execution**:
+      - `⚡ Apply to Scenario Simulator`: 1-click button inside AI responses that automatically dials the macro/micro sliders in the Thesis-to-ETF Scenario Translator and recalculates the live portfolio.
+      - `📅 Jump Simulator to Date`: Jumps the Day-by-Day Simulator timeline directly to the analyzed historical roll epoch.
+      - `📋 Open Institutional Decision Ticket`: Pre-populates and launches the structured compliance decision ticket modal.
+      - `📈 Inspect Contract [Ticker]`: Clickable contract pills opening high-DPI settlement trajectory charts (`#etfContractDetailModal`).
 - **Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
@@ -360,7 +374,7 @@ flowchart LR
     PDF["Raw PDF/HTML in reports/"] --> Extract["Text & Table Extraction"]
     Extract --> Chain{"Synthesis Provider Cascade"}
     Chain -->|Primary| P1["Groq (llama-3.3-70b-versatile)"]
-    P1 -->|Rate Limit / Failover| P2["Google Gemini (gemini-2.0-flash)"]
+    P1 -->|Rate Limit / Failover| P2["Google Gemini (gemini-2.5-flash)"]
     P2 -->|Failover| P3["NVIDIA NIM (meta/llama-3.3-70b-instruct)"]
     P3 -->|Failover| P4["OpenRouter Auto-Router"]
     P4 -->|Offline| P5["Deterministic Mathematical Engine"]
@@ -386,10 +400,10 @@ flowchart LR
 - **Curated Institutional Questions**: 30 high-utility suggested questions across 5 core disciplines (Daily Briefing, Market Signals, Fleet Supply, Macro & Cargo, Trade Strategy).
 - **Multi-Tier Candidate Retrieval**: Dynamic loading across Recent (2026), Historical (2023–2025), and Deep Historical (2014–2022) archives + full domain wiki textbooks.
 - **Deep Research Mode (128K Context Scaling)**: Expands context from 12 passages up to **60 ranked passages (~32,000+ tokens)** for multi-year cycle analysis and structural macro cross-referencing.
-- **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini 2.0 Flash search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
+- **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
 - **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
 - **Zero-Hallucination Citation Binding**: Strict inline `[DOC-N]` source tracing linking claims directly to source asset, publication date, and section title.
-- **Client-Side Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** (`llama-3.3-70b-versatile`, `llama-3.1-8b-instant`), **Google Gemini** (`gemini-2.0-flash`, `gemini-1.5-flash`, `gemini-1.5-pro`), and **OpenRouter**.
+- **Client-Side Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** (`llama-3.3-70b-versatile`, `llama-3.1-8b-instant`), **Google Gemini** (`gemini-2.5-flash`, `gemini-1.5-flash`, `gemini-1.5-pro`), and **OpenRouter**.
 
 ---
 

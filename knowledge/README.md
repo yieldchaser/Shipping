@@ -109,7 +109,7 @@ Gemini controls:
 - request pacing (`GEMINI_MIN_INTERVAL_SEC`)
 - retry/backoff/jitter (`GEMINI_MAX_RETRIES`, `GEMINI_BACKOFF_BASE_SEC`, `GEMINI_MAX_BACKOFF_SEC`)
 - retry-after parsing for rate-limit responses
-- model override via `GEMINI_MODEL` (default `gemini-2.0-flash`)
+- model override via `GEMINI_MODEL` (default `gemini-2.5-flash`)
 
 Ollama controls:
 

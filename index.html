@@ -2921,6 +2921,16 @@
   .sq-hint { font-size: 11.5px; color: var(--gray); margin-top: 10px; }
 
   /* ===================================================================== */
+  /*  INSTITUTIONAL ETF COPILOT & ACTION DISPATCHER STYLING                */
+  /* ===================================================================== */
+  .etf-qa-action-bar { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 14px 0; padding: 10px 12px; background: rgba(31, 111, 235, 0.08); border: 1px solid rgba(88, 166, 255, 0.25); border-radius: 6px; align-items: center; }
+  .etf-qa-action-lbl { font-size: 11px; font-weight: 700; color: #58a6ff; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px; }
+  .etf-qa-action-btn { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 5px; font-size: 11.5px; font-weight: 700; cursor: pointer; border: 1px solid rgba(88, 166, 255, 0.35); background: rgba(88, 166, 255, 0.15); color: #fff; transition: all 0.15s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
+  .etf-qa-action-btn:hover { background: rgba(88, 166, 255, 0.3); border-color: #58a6ff; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(88, 166, 255, 0.3); }
+  .etf-qa-contract-pill { display: inline-flex; align-items: center; gap: 4px; background: rgba(22, 27, 34, 0.8); border: 1px solid rgba(88, 166, 255, 0.3); padding: 1px 7px; border-radius: 4px; color: #58a6ff; font-family: monospace; font-size: 11.5px; font-weight: 700; cursor: pointer; text-decoration: none; transition: all 0.15s ease; margin: 0 2px; }
+  .etf-qa-contract-pill:hover { background: rgba(88, 166, 255, 0.25); border-color: #58a6ff; color: #fff; }
+
+  /* ===================================================================== */
   /*  DAY-BY-DAY ETF SIMULATOR STYLING & GLOWING MICRO-INTERACTIONS         */
   /* ===================================================================== */
   .sim-ambient-glow {
@@ -8362,6 +8372,145 @@
             </div>
           </div>
         </div>
+      </div>
+
+      <!-- ===================================================================== -->
+      <!--  INSTITUTIONAL ETF & SCENARIO INTELLIGENCE COPILOT ("ASK ANYTHING")    -->
+      <!-- ===================================================================== -->
+      <div class="chart-container mb-20" id="etfQaCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
+        
+        <!-- Header & Active Badge -->
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
+          <div>
+            <div style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
+              <div class="icon-tile icon-tile-accent icon-tile-md">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </div>
+              <span>ETF &amp; Scenario Intelligence Copilot</span>
+              <span id="etfQaFundBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY (Dry Bulk)</span>
+              <span id="etfQaLiveStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">● AI Grounded</span>
+            </div>
+            <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
+              Ask anything in plain English about constituent futures exposures, roll decay, SGX forward curves, thesis translations, fund flows, or stress scenarios.
+            </div>
+          </div>
+
+          <!-- Switcher to match active tab -->
+          <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+            <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY Context</button>
+            <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET Context</button>
+          </div>
+        </div>
+
+        <!-- Provider and API Key Row -->
+        <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
+          <span class="qa-key-label">Provider</span>
+          <select id="etfQaProvider" class="qa-key-input qa-provider-select" onchange="onEtfQAProviderChange()">
+            <option value="groq" selected>Groq (Ultra Fast)</option>
+            <option value="gemini">Gemini (Google AI)</option>
+            <option value="openrouter">OpenRouter (Multi-Model)</option>
+          </select>
+          <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
+          <span class="qa-key-label" id="etfQaApiKeyLabel">Groq Key</span>
+          <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" />
+          <span class="qa-key-label">Model</span>
+          <input type="text" id="etfQaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="etfQaModelSuggestions" />
+          <datalist id="etfQaModelSuggestions"></datalist>
+          <button class="qa-key-btn" onclick="saveEtfQASettings()">Save</button>
+          <span id="etfQaKeyStatus" style="font-size:11px;color:var(--green);font-weight:600;"></span>
+        </div>
+
+        <!-- Scope & Mode Controls -->
+        <div class="qa-scope-row" style="margin-bottom:12px;">
+          <span class="qa-scope-lbl">Grounded Context:</span>
+          <label class="qa-scope-item" data-tooltip="Live official constituent contract holdings table with active lot weights and notionals."><input type="checkbox" id="etfQaSrcHoldings" checked disabled> 📊 Active Disclosed Book</label>
+          <label class="qa-scope-item" data-tooltip="Live SGX settlement curves for Capesize, Panamax, Supramax, Handysize, VLCC, and Suezmax."><input type="checkbox" id="etfQaSrcCurves" checked> 📈 SGX Forward Curves</label>
+          <label class="qa-scope-item" data-tooltip="5-Axiom calendar roll schedules, business day progression, and prompt lot decay mechanics."><input type="checkbox" id="etfQaSrcRoll" checked> 🔄 5-Axiom Roll Schedules</label>
+          <label class="qa-scope-item" data-tooltip="Official CFTC Rule 4.22(h) monthly statements and SEC Form 10-Q quarterly reports."><input type="checkbox" id="etfQaSrcFilings" checked> 🏛️ CFTC &amp; SEC Filings</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: queries live web for real-time freight prints, fixtures, and tanker news (Gemini)."><input type="checkbox" id="etfQaSrcWebSearch"> 🌐 Web Search (Live)</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Context: injects active scenario slider state, custom forward roll-in legs, and 2-year forward strip matrices."><input type="checkbox" id="etfQaDeepContext" checked> 🔬 Deep Scenario Context</label>
+        </div>
+
+        <!-- Question Input Row -->
+        <div class="qa-input-row">
+          <textarea id="etfQaQuery" class="qa-textarea" placeholder="e.g. If I buy BDRY in August and hold through October, which exact futures contracts am I betting on, and what is the expected roll drag? What happens if Capesize rises 20% but Panamax drops 10%?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runEtfQAQuery()}"></textarea>
+          <button id="etfQaSubmitBtn" class="qa-submit" onclick="runEtfQAQuery()">Ask Copilot</button>
+        </div>
+
+        <!-- 5-Category Suggested ETF Queries -->
+        <div class="sq-wrap">
+          <p class="sq-label">Suggested ETF &amp; Scenario Queries</p>
+          <div class="sq-tabs" id="etfQaTabs">
+            <button class="sq-tab active" data-cat="exposures">🎯 Contract Exposures</button>
+            <button class="sq-tab" data-cat="roll">🔄 Roll Yield &amp; Carry</button>
+            <button class="sq-tab" data-cat="shocks">⚡ Scenario Shocks &amp; PnL</button>
+            <button class="sq-tab" data-cat="flows">🏦 Fund Flows &amp; AUM</button>
+            <button class="sq-tab" data-cat="strategy">🧭 Strategy &amp; Holding</button>
+          </div>
+
+          <!-- Panel 1: Contract Exposures & Thesis Translation -->
+          <div class="sq-panel visible" id="etf-panel-exposures">
+            <button class="sq-q" onclick="etfSq('If I buy BDRY today and hold for 2 months, which exact futures contracts am I betting on, and how does the lot transition work?')">Holding BDRY for 2 months: Exact futures bets</button>
+            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share?')">Contract with largest $/share sensitivity</button>
+            <button class="sq-q" onclick="etfSq('Translate my macro thesis: \'China steel mills restock aggressively, pushing Capesize spot up +25%\' into contract price targets and BDRY stock target.')">Translate +25% Capesize thesis to BDRY target</button>
+            <button class="sq-q" onclick="etfSq('Why does BDRY hold 15 contracts across prompt and forward months rather than just the front-month contract?')">Why 15 contracts instead of front month?</button>
+            <button class="sq-q" onclick="etfSq('How does BWET portfolio exposure split between VLCC TD3C and Suezmax TD20 right now, and what are the notional weights?')">BWET VLCC vs Suezmax exposure breakdown</button>
+            <button class="sq-q" onclick="etfSq('What is the current exact Futures Notional to AUM exposure ratio for the fund?')">Current Futures/AUM exposure ratio</button>
+          </div>
+
+          <!-- Panel 2: Roll Yield & Curve Term Structure -->
+          <div class="sq-panel" id="etf-panel-roll">
+            <button class="sq-q" onclick="etfSq('What is the expected roll yield drag or gain on Capesize over the next 60 days based on the current SGX forward curve?')">Expected 60-day Capesize roll yield drag/gain</button>
+            <button class="sq-q" onclick="etfSq('Is BWET currently trading in contango or backwardation across prompt vs forward strips, and what is the carry yield?')">BWET Contango vs Backwardation carry analysis</button>
+            <button class="sq-q" onclick="etfSq('Explain how the 5-Axiom calendar roll decay transfers lots from prompt to forward strips between business day 1 and 20.')">How 5-Axiom calendar roll mechanics work</button>
+            <button class="sq-q" onclick="etfSq('What happens to prompt contract lots on the final business day of the roll window?')">Prompt contract fate on final roll day</button>
+            <button class="sq-q" onclick="etfSq('Compare the annualized roll yield of Capesize vs Panamax right now based on active curve spreads.')">Capesize vs Panamax annualized roll spread</button>
+            <button class="sq-q" onclick="etfSq('How does forward curve backwardation generate structural carry for commodity shipping ETFs?')">How backwardation creates positive carry</button>
+          </div>
+
+          <!-- Panel 3: Scenario Shocks & PnL Sensitivity -->
+          <div class="sq-panel" id="etf-panel-shocks">
+            <button class="sq-q" onclick="etfSq('If Capesize rallies +20% and Panamax drops -10%, what is the projected BDRY share price and PnL on 2,500 shares?')">Capesize +20% / Panamax -10%: BDRY price &amp; PnL</button>
+            <button class="sq-q" onclick="etfSq('What uniform freight rate rally % is required for BDRY to reach a target share price of $18.00?')">Reverse NAV Solver: Freight % needed for $18.00</button>
+            <button class="sq-q" onclick="etfSq('If VLCC TD3C freight rates spike to $110/MT on Red Sea tensions, what is the projected BWET price target?')">VLCC $110/MT Red Sea spike: BWET target</button>
+            <button class="sq-q" onclick="etfSq('How do micro-shocks on specific individual contract months aggregate into net ETF price return?')">Micro-shocks vs Macro-shocks aggregation math</button>
+            <button class="sq-q" onclick="etfSq('Explain the difference between Carried-Forward Spread and NAV Parity pricing modes.')">Carried-Forward Spread vs NAV Parity modes</button>
+            <button class="sq-q" onclick="etfSq('What is the maximum historical 1-day drawdown for BDRY and how did futures move?')">Historical maximum 1-day drawdown analysis</button>
+          </div>
+
+          <!-- Panel 4: Fund Flows, AUM & AP Mechanics -->
+          <div class="sq-panel" id="etf-panel-flows">
+            <button class="sq-q" onclick="etfSq('How does the current $30.94M AUM and 2.20M shares compare to historical creation and redemption cycles?')">Current $30.94M AUM &amp; 2.20M shares vs history</button>
+            <button class="sq-q" onclick="etfSq('Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep market price near NAV.')">AP 25k creation basket arbitrage mechanics</button>
+            <button class="sq-q" onclick="etfSq('Why did BDRY shares outstanding decline from 2.75M in June to 2.20M in August, and what does it signal?')">Why shares declined from 2.75M to 2.20M</button>
+            <button class="sq-q" onclick="etfSq('How does cash collateral in AGPXX earn 4.85% yield to offset the 3.50% total expense ratio?')">Cash collateral yield (4.85%) vs 3.50% TER</button>
+            <button class="sq-q" onclick="etfSq('What are the CME and SGX margin collateral requirements for BDRY futures holdings?')">CME / SGX clearing house margin requirements</button>
+            <button class="sq-q" onclick="etfSq('How does secondary market premium/discount to NAV arbitrage operate during market stress?')">Premium/Discount arbitrage in volatility</button>
+          </div>
+
+          <!-- Panel 5: Trade Strategy & Holding Period -->
+          <div class="sq-panel" id="etf-panel-strategy">
+            <button class="sq-q" onclick="etfSq('What are the top risks of holding BDRY for longer than 3 months (contango roll decay, volatility drag)?')">Risks of holding BDRY longer than 3 months</button>
+            <button class="sq-q" onclick="etfSq('How does holding BDRY differ from trading physical dry bulk shipping equities like Star Bulk (SBLK) or Golden Ocean (GOGL)?')">BDRY ETF vs Shipping Equities (SBLK, GOGL)</button>
+            <button class="sq-q" onclick="etfSq('What is the optimal entry and exit window within the monthly 5-axiom roll cycle?')">Optimal entry window in monthly roll cycle</button>
+            <button class="sq-q" onclick="etfSq('How does seasonal freight volatility (Q1 seasonal lull vs Q3/Q4 grain/ore peak) impact ETF tracking?')">Q1 lull vs Q3/Q4 seasonal peak impact</button>
+            <button class="sq-q" onclick="etfSq('Explain how a charterer or shipowner can hedge a physical freight charter party using BDRY shares.')">Hedging physical charters with BDRY</button>
+            <button class="sq-q" onclick="etfSq('What are the key thesis invalidation triggers for a long freight trade today?')">Key thesis invalidation &amp; stop-loss triggers</button>
+          </div>
+
+          <p class="sq-hint">Select a category above, then click any prompt to run it instantly with full quantitative portfolio grounding.</p>
+        </div>
+
+        <!-- Result Panel -->
+        <div id="etfQaResultPanel" style="display:none;" class="qa-result-panel">
+          <div id="etfQaStatus" class="qa-status"></div>
+          <div id="etfQaActions" style="display:none;"></div>
+          <div id="etfQaAnswer" class="qa-answer"></div>
+          <div id="etfQaCitations" class="qa-cit-list"></div>
+        </div>
+
       </div>
 
       <!-- ===================================================================== -->
@@ -20891,15 +21040,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         label: 'Gemini (Google AI)',
         keyStorage: 'qa_key_gemini',
         modelStorage: 'qa_model_gemini',
-        defaultModel: 'gemini-2.0-flash',
+        defaultModel: 'gemini-2.5-flash',
         keyLabel: 'Gemini Key',
         keyPlaceholder: 'AIzaSy... (free at aistudio.google.com)',
         hasBaseUrl: false,
         maxContextTokens: 30000,
         suggestions: [
-          'gemini-2.0-flash',
+          'gemini-2.5-flash',
           'gemini-1.5-flash',
-          'gemini-1.5-pro'
+          'gemini-1.5-pro',
+          'gemini-2.5-pro'
         ]
       },
       openrouter: {
@@ -20937,28 +21087,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _currentQAProvider() {
-      const selected = (document.getElementById('qaProvider')?.value || localStorage.getItem('qa_provider') || 'groq').trim().toLowerCase();
+      const stored = typeof localStorage !== 'undefined' ? localStorage.getItem('qa_provider') : 'groq';
+      const selected = (document.getElementById('qaProvider')?.value || stored || 'groq').trim().toLowerCase();
       return QA_PROVIDER_CONFIG[selected] ? selected : 'groq';
     }
 
     function _loadProviderKey(provider) {
       const cfg = _providerConfig(provider);
-      return localStorage.getItem(cfg.keyStorage) || '';
+      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.keyStorage) : '') || '';
     }
 
     function _saveProviderKey(provider, value) {
       const cfg = _providerConfig(provider);
-      localStorage.setItem(cfg.keyStorage, value);
+      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.keyStorage, value);
     }
 
     function _loadProviderModel(provider) {
       const cfg = _providerConfig(provider);
-      return localStorage.getItem(cfg.modelStorage) || cfg.defaultModel;
+      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.modelStorage) : '') || cfg.defaultModel;
     }
 
     function _saveProviderModel(provider, value) {
       const cfg = _providerConfig(provider);
-      localStorage.setItem(cfg.modelStorage, value);
+      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.modelStorage, value);
     }
 
     
@@ -21373,10 +21524,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
-      // ── Gemini (Google AI with Search Grounding) ──────────────────────────
+      // ── Gemini (Google AI with Search Grounding & Auto-Model Fallback) ──────
       if (provider === 'gemini') {
-        const m = model || 'gemini-2.0-flash';
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(m)}:generateContent?key=${encodeURIComponent(apiKey)}`;
+        const rawModel = (model || 'gemini-2.5-flash').trim().replace(/^models\//, '');
+        // Build model cascade: prioritized requested model, modern standard models
+        const candidateModels = Array.from(new Set([
+          rawModel === 'gemini-2.0-flash' ? 'gemini-2.5-flash' : rawModel,
+          'gemini-2.5-flash',
+          'gemini-1.5-flash',
+          'gemini-1.5-pro',
+          'gemini-2.5-pro'
+        ])).filter(Boolean);
+
         const bodyObj = {
           contents: [{ parts: [{ text: prompt }] }],
           generationConfig: { temperature: 0.2, maxOutputTokens: 2500 }
@@ -21384,28 +21543,53 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (options && options.enableWebSearch) {
           bodyObj.tools = [{ googleSearch: {} }];
         }
-        const res = await fetch(url, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(bodyObj)
-        });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          throw new Error(err?.error?.message || `Gemini HTTP ${res.status}`);
-        }
-        const data = await res.json();
-        const candidate = data?.candidates?.[0];
-        const text = candidate?.content?.parts?.[0]?.text || '(no response)';
-        const webCitations = [];
-        if (candidate?.groundingMetadata?.groundingChunks) {
-          for (const gc of candidate.groundingMetadata.groundingChunks) {
-            if (gc.web && gc.web.uri) {
-              webCitations.push({ title: gc.web.title || gc.web.uri, url: gc.web.uri });
+
+        let lastGeminiErr = null;
+        for (const m of candidateModels) {
+          try {
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(m)}:generateContent?key=${encodeURIComponent(apiKey)}`;
+            const res = await fetch(url, {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                'x-goog-api-key': apiKey
+              },
+              body: JSON.stringify(bodyObj)
+            });
+
+            if (!res.ok) {
+              const err = await res.json().catch(() => ({}));
+              const msg = err?.error?.message || `Gemini HTTP ${res.status}`;
+              // If model is deprecated or not found, try next candidate model
+              if (/no longer available|not found|404|deprecated|is not supported/i.test(msg)) {
+                lastGeminiErr = new Error(`Gemini (${m}): ${msg}`);
+                continue;
+              }
+              throw new Error(msg);
             }
+
+            const data = await res.json();
+            const candidate = data?.candidates?.[0];
+            const text = candidate?.content?.parts?.[0]?.text || '(no response)';
+            const webCitations = [];
+            if (candidate?.groundingMetadata?.groundingChunks) {
+              for (const gc of candidate.groundingMetadata.groundingChunks) {
+                if (gc.web && gc.web.uri) {
+                  webCitations.push({ title: gc.web.title || gc.web.uri, url: gc.web.uri });
+                }
+              }
+            }
+            if (onToken) onToken(text);
+            return { text, webCitations };
+          } catch (err) {
+            lastGeminiErr = err;
+            if (/no longer available|not found|404|deprecated|is not supported/i.test(err.message)) {
+              continue;
+            }
+            throw err;
           }
         }
-        if (onToken) onToken(text);
-        return { text, webCitations };
+        throw lastGeminiErr || new Error('Gemini API call failed across all candidate models.');
       }
 
       // ── OpenRouter ────────────────────────────────────────────────────────
@@ -21796,6 +21980,384 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         ansEl.textContent = '';
       } finally { btn.disabled = false; }
     }
+
+    // =====================================================================
+    // INSTITUTIONAL ETF & SCENARIO INTELLIGENCE COPILOT CONTROLLER
+    // =====================================================================
+    var _etfQaFund = 'bdry';
+
+    function switchEtfQaFund(fundKey) {
+      _etfQaFund = (fundKey || 'bdry').toLowerCase();
+      var bdryBtn = document.getElementById('etfQaSwitchBdry');
+      var bwetBtn = document.getElementById('etfQaSwitchBwet');
+      var badge = document.getElementById('etfQaFundBadge');
+      if (_etfQaFund === 'bwet') {
+        if (bdryBtn) { bdryBtn.style.background = 'transparent'; bdryBtn.style.color = 'var(--text-muted)'; }
+        if (bwetBtn) { bwetBtn.style.background = 'var(--accent)'; bwetBtn.style.color = '#fff'; }
+        if (badge) { badge.textContent = 'BWET (Tankers)'; badge.style.color = '#e3b341'; badge.style.background = 'rgba(227,179,65,0.15)'; badge.style.borderColor = 'rgba(227,179,65,0.3)'; }
+      } else {
+        if (bdryBtn) { bdryBtn.style.background = 'var(--accent)'; bdryBtn.style.color = '#fff'; }
+        if (bwetBtn) { bwetBtn.style.background = 'transparent'; bwetBtn.style.color = 'var(--text-muted)'; }
+        if (badge) { badge.textContent = 'BDRY (Dry Bulk)'; badge.style.color = '#58a6ff'; badge.style.background = 'rgba(88,166,255,0.15)'; badge.style.borderColor = 'rgba(88,166,255,0.3)'; }
+      }
+    }
+
+    function etfSq(q) {
+      var el = document.getElementById('etfQaQuery');
+      if (el) {
+        el.value = q;
+        runEtfQAQuery();
+      }
+    }
+
+    function onEtfQAProviderChange() {
+      var sel = document.getElementById('etfQaProvider');
+      if (!sel) return;
+      var provider = sel.value;
+      var cfg = _providerConfig(provider);
+      var lbl = document.getElementById('etfQaApiKeyLabel');
+      if (lbl) lbl.textContent = cfg.label.split(' ')[0] + ' Key';
+      var keyInput = document.getElementById('etfQaApiKey');
+      if (keyInput) keyInput.value = _loadProviderKey(provider);
+      var modelInput = document.getElementById('etfQaModel');
+      if (modelInput) modelInput.value = _loadProviderModel(provider) || cfg.defaultModel;
+      _updateEtfQAModelSuggestions(provider);
+      _updateEtfQAProviderStatus(provider);
+    }
+
+    function _updateEtfQAModelSuggestions(provider) {
+      var dl = document.getElementById('etfQaModelSuggestions');
+      if (!dl) return;
+      dl.innerHTML = '';
+      var cfg = _providerConfig(provider);
+      (cfg.suggestedModels || []).forEach(function(m) {
+        var opt = document.createElement('option');
+        opt.value = m;
+        dl.appendChild(opt);
+      });
+    }
+
+    function _updateEtfQAProviderStatus(provider) {
+      var dot = document.getElementById('etfQaProviderStatus');
+      if (!dot) return;
+      var key = _loadProviderKey(provider);
+      var cfg = _providerConfig(provider);
+      if (key || cfg.keyOptional) {
+        dot.style.background = 'var(--green)';
+        dot.setAttribute('data-tooltip', cfg.label + ' key configured');
+      } else {
+        dot.style.background = 'var(--text-muted)';
+        dot.setAttribute('data-tooltip', 'No ' + cfg.label + ' key found');
+      }
+    }
+
+    function saveEtfQASettings() {
+      var sel = document.getElementById('etfQaProvider');
+      if (!sel) return;
+      var provider = sel.value;
+      var key = (document.getElementById('etfQaApiKey')?.value || '').trim();
+      var model = (document.getElementById('etfQaModel')?.value || '').trim();
+      _saveProviderKey(provider, key);
+      _saveProviderModel(provider, model);
+      if (typeof localStorage !== 'undefined') localStorage.setItem('qa_provider', provider);
+      var st = document.getElementById('etfQaKeyStatus');
+      if (st) {
+        st.textContent = 'Saved!';
+        setTimeout(function() { st.textContent = ''; }, 2500);
+      }
+      _updateEtfQAProviderStatus(provider);
+    }
+
+    function initEtfQAController() {
+      // Sync stored provider from Research tab
+      var storedProvider = (typeof localStorage !== 'undefined' ? localStorage.getItem('qa_provider') : 'groq') || 'groq';
+      var sel = document.getElementById('etfQaProvider');
+      if (sel) {
+        sel.value = storedProvider;
+        onEtfQAProviderChange();
+      }
+
+      // Tab switcher listener
+      var tabs = document.getElementById('etfQaTabs');
+      if (tabs) {
+        tabs.addEventListener('click', function(e) {
+          var tab = e.target.closest('.sq-tab');
+          if (!tab) return;
+          tabs.querySelectorAll('.sq-tab').forEach(function(t) { t.classList.remove('active'); });
+          document.querySelectorAll('#etfQaCard .sq-panel').forEach(function(p) { p.classList.remove('visible'); });
+          tab.classList.add('active');
+          var cat = tab.dataset.cat;
+          var panel = document.getElementById('etf-panel-' + cat);
+          if (panel) panel.classList.add('visible');
+        });
+      }
+    }
+
+    function buildEtfQAContext(query, fundKey) {
+      var fKey = (fundKey || _etfQaFund || _deconstETFKey || 'bdry').toLowerCase();
+      var targetDate = (document.getElementById('deconstTargetDate')?.value) || '2026-08-14';
+      var pred = predictETFPortfolioHoldings(fKey, targetDate);
+
+      var lines = [];
+      lines.push("=== INSTITUTIONAL ETF PORTFOLIO KNOWLEDGE BASE (" + fKey.toUpperCase() + ") ===");
+      lines.push("Fund Symbol: Amplify " + (fKey === 'bdry' ? 'Dry Bulk Shipping ETF (BDRY)' : 'Tanker Shipping ETF (BWET)'));
+      lines.push("As-Of Date: " + (pred.snapshotDate || '2026-08-14') + " | Horizon Target Date: " + targetDate);
+
+      // 1. Live Constituent Holdings
+      lines.push("\n--- ACTIVE CONSTITUENT FUTURES POSITIONS (" + (pred.holdings ? pred.holdings.length : 0) + " Contracts) ---");
+      if (pred.holdings && pred.holdings.length) {
+        pred.holdings.forEach(function(h, idx) {
+          var lots = h.Lots || h.disclosedLots || 0;
+          var px = h.unitPrice || h.startingPrice || 0;
+          var pxStr = fKey === 'bwet' ? ("WS " + px + " (~$" + Math.round(px * 1000) + "/day TCE)") : ("$" + Number(px).toLocaleString() + "/day");
+          var mult = h.multiplier || 1.0;
+          var notional = lots * mult * px;
+          var notionalStr = "$" + (notional / 1e6).toFixed(2) + "M";
+          var wtStr = h.weight ? (h.weight.toFixed(2) + "%") : 'n/a';
+          var origin = h.isRollIn ? 'User Added Forward Leg' : 'Disclosed Trust Archive';
+          lines.push("  [" + (idx+1) + "] " + h.Name + " | Ticker: " + (h.contract_id || h.ticker) + " | Route: " + (h.class || h.route_class) + " | Lots: " + lots + " | Settle: " + pxStr + " | Notional: " + notionalStr + " | Net Asset Weight: " + wtStr + " | " + origin);
+        });
+      }
+
+      // 2. Term Structure and Implied Roll Spreads from DATA.sgx
+      lines.push("\n--- LIVE FORWARD CURVES & TERM STRUCTURE SPREADS ---");
+      if (typeof DATA !== 'undefined' && DATA.sgx) {
+        ['cape', 'panamax', 'supramax', 'handysize'].forEach(function(cls) {
+          var rows = DATA.sgx[cls] || [];
+          if (rows.length) {
+            var lastFew = rows.slice(-6);
+            var pts = lastFew.map(function(r) { return (r.tenor || r.month || r.contract) + ": $" + Number(r.settle || r.price || 0).toLocaleString(); }).join(' | ');
+            lines.push("  " + cls.toUpperCase() + " 5TC FORWARD STRIP: " + pts);
+          }
+        });
+      }
+
+      // 3. 5-Axiom Calendar Roll State
+      lines.push("\n--- 5-AXIOM CALENDAR ROLL SCHEDULE & CARRY METRICS ---");
+      var d = new Date();
+      var bdaysTotal = 20;
+      var bdayCur = Math.min(20, Math.max(1, Math.floor(d.getDate() * (20/30))));
+      var rollPct = pred.rollProgressPct != null ? pred.rollProgressPct : (bdayCur / bdaysTotal * 100);
+      lines.push("  Calendar Roll Progress: " + rollPct.toFixed(1) + "% (" + bdayCur + " of " + bdaysTotal + " roll days elapsed)");
+      lines.push("  Prompt Lot Decay Rule: Lots transfer linearly from front month to next-quarter strip across first 15 business days.");
+      lines.push("  Benchmark Allocation: " + (fKey === 'bdry' ? "50% Capesize (5TC), 40% Panamax (5TC), 10% Supramax (58TC)" : "90% VLCC (TD3C MEG-China), 10% Suezmax (TD20 WAF-UKC)"));
+      lines.push("  Statutory Fees & Cash: Total Expense Ratio (TER) = 3.50% | Cash Collateral Yield = 4.85% (BlackRock AGPXX) | Initial Margin = 15% (CME/SGX)");
+
+      // 4. Reverse-Engineered Baseline Capital Structure
+      lines.push("\n--- FUND CAPITAL STRUCTURE & AP CREATION BASKETS ---");
+      var snapBase = (pred.snapshot && pred.snapshot.baseline) ? pred.snapshot.baseline : {};
+      var totNav = snapBase.total_nav_dollars || (fKey === 'bdry' ? 30943541.77 : 80677134.78);
+      var shares = snapBase.shares_outstanding || (fKey === 'bdry' ? 2200000 : 225000);
+      var navSh = snapBase.nav_per_share || (fKey === 'bdry' ? 14.07 : 358.43);
+      var mktPx = snapBase.market_price || (fKey === 'bdry' ? 14.29 : 374.55);
+      var premDisc = ((mktPx - navSh) / navSh) * 100;
+      lines.push("  Total Net Assets (AUM): $" + (totNav/1e6).toFixed(2) + "M");
+      lines.push("  Shares Outstanding: " + Number(shares).toLocaleString() + " shares (" + (shares/1e6).toFixed(2) + "M shares / " + (shares/25000) + " Creation Units of 25,000)");
+      lines.push("  NAV / Share: $" + navSh.toFixed(2) + " | Secondary Market Close: $" + mktPx.toFixed(2) + " | Baseline Prem/Disc: " + (premDisc >= 0 ? '+' : '') + premDisc.toFixed(2) + "%");
+
+      // 5. Active Browser UI State
+      lines.push("\n--- CURRENT INTERACTIVE SCENARIO & SIMULATOR UI STATE ---");
+      lines.push("  Active Macro Slider Shocks: Cape=" + (_deconstShocks.cape||0) + "%, Pana=" + (_deconstShocks.pana||0) + "%, Supra=" + (_deconstShocks.supra||0) + "%, VLCC=" + (_deconstShocks.vlcc||0) + "%, Suez=" + (_deconstShocks.suez||0) + "%");
+      lines.push("  Scenario Book Mode: " + _deconstScenarioMode + " | Pricing Regime: " + _deconstPricingMode);
+      if (_deconstRollInLegs && _deconstRollInLegs.length) {
+        lines.push("  Custom User Roll-In Legs Specified: " + _deconstRollInLegs.map(function(l) { return l.name + " (" + l.lots + " lots, target $" + l.targetPrice + ")"; }).join('; '));
+      }
+
+      var promptText = "You are a Senior Institutional ETF Derivatives Strategist and Quant Risk Engineer specializing in Breakwave & Amplify Shipping ETFs (BDRY and BWET).\n" +
+        "Today's date is " + (pred.snapshotDate || '2026-08-14') + ".\n" +
+        "Answer the user's question with rigorous financial accuracy, exact arithmetic, and line-by-line mathematical proofs.\n\n" +
+        "CRITICAL RESPONSE GUIDELINES:\n" +
+        "1. GROUNDING & FIDELITY: Ground all calculations in the provided constituent holdings table, SGX forward settlements, 5-axiom roll schedules, and reverse-engineered AUM/shares ($30.94M / 2.20M shares for BDRY; $80.68M / 225k shares for BWET).\n" +
+        "2. STEP-BY-STEP ARITHMETIC: Always provide the line-by-line equation for Dollar Impact per Share = sum(Lots_i * Multiplier_i * DeltaPrice_i) / SharesOutstanding.\n" +
+        "3. CONTRACT BADGES: When referencing a specific constituent contract, format it as [CONTRACT:Ticker] (e.g. [CONTRACT:C5TCM Q26 INDEX]) so the user can click to inspect the settlement price curve.\n" +
+        "4. ACTIONABLE SCENARIOS: When you suggest or calculate a scenario, append an action token:\n" +
+        "   - To apply slider shocks: [ACTION:apply_scenario:cape=+20,pana=-10,supra=0,vlcc=0,suez=0]\n" +
+        "   - To jump the simulator: [ACTION:jump_simulator:2026-07-15]\n" +
+        "   - To formalize a decision ticket: [ACTION:open_decision_ticket]\n" +
+        "5. HOLDING PERIOD & ROLL DECAY: When asked about holding periods (e.g. 2-3 months), explicitly explain which forward contracts will decay/expire and which next-quarter contracts will accrue according to the 5-axiom roll rule.\n\n" +
+        "User Question: " + query + "\n\n" +
+        "Quantitative Context:\n" + lines.join('\n');
+
+      return { lines: lines, promptText: promptText, fundKey: fKey };
+    }
+
+    function _formatEtfQAAnswer(text) {
+      if (!text) return '';
+      var esc = String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+
+      // Parse [ACTION:apply_scenario:cape=+20,pana=-10...]
+      esc = esc.replace(/\[ACTION:apply_scenario:([^\]]+)\]/gi, function(match, paramStr) {
+        var params = {};
+        paramStr.split(',').forEach(function(part) {
+          var kv = part.split('=');
+          if (kv.length === 2) params[kv[0].trim().toLowerCase()] = parseFloat(kv[1].trim()) || 0;
+        });
+        var labelParts = Object.entries(params).filter(function(e) { return e[1] !== 0; }).map(function(e) { return e[0].toUpperCase() + " " + (e[1] >= 0 ? '+' : '') + e[1] + "%"; });
+        var label = labelParts.length ? labelParts.join(', ') : 'Reset Shocks';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')">⚡ Apply to Scenario Simulator (' + label + ')</button></div>';
+      });
+
+      // Parse [ACTION:jump_simulator:YYYY-MM-DD]
+      esc = esc.replace(/\[ACTION:jump_simulator:([^\]]+)\]/gi, function(match, dateStr) {
+        var d = dateStr.trim();
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="jumpSimulatorFromCopilot(\'' + d + '\')">📅 Jump Simulator to ' + d + '</button></div>';
+      });
+
+      // Parse [ACTION:open_decision_ticket]
+      esc = esc.replace(/\[ACTION:open_decision_ticket\]/gi, function() {
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()">📋 Open Institutional Decision Ticket</button></div>';
+      });
+
+      // Parse [CONTRACT:Ticker]
+      esc = esc.replace(/\[CONTRACT:\s*([^\]]+)\]/gi, function(match, ticker) {
+        var t = ticker.trim();
+        return '<button class="etf-qa-contract-pill" onclick="openContractDetailModal(\'' + t + '\')">📈 ' + t + ' ↗</button>';
+      });
+
+      // Markdown formatting
+      esc = esc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+      esc = esc.replace(/\r?\n/g, '<br>');
+      return esc;
+    }
+
+    function applyCopilotScenario(scenarioObj) {
+      if (!scenarioObj) return;
+      if (scenarioObj.cape != null) _deconstShocks.cape = scenarioObj.cape;
+      if (scenarioObj.pana != null) _deconstShocks.pana = scenarioObj.pana;
+      if (scenarioObj.supra != null) _deconstShocks.supra = scenarioObj.supra;
+      if (scenarioObj.vlcc != null) _deconstShocks.vlcc = scenarioObj.vlcc;
+      if (scenarioObj.suez != null) _deconstShocks.suez = scenarioObj.suez;
+
+      // Update slider inputs in DOM if present
+      var sCape = document.getElementById('deconstShockCape'); if (sCape && scenarioObj.cape != null) sCape.value = scenarioObj.cape;
+      var sPana = document.getElementById('deconstShockPana'); if (sPana && scenarioObj.pana != null) sPana.value = scenarioObj.pana;
+      var sSupra = document.getElementById('deconstShockSupra'); if (sSupra && scenarioObj.supra != null) sSupra.value = scenarioObj.supra;
+      var sVlcc = document.getElementById('deconstShockVlcc'); if (sVlcc && scenarioObj.vlcc != null) sVlcc.value = scenarioObj.vlcc;
+      var sSuez = document.getElementById('deconstShockSuez'); if (sSuez && scenarioObj.suez != null) sSuez.value = scenarioObj.suez;
+
+      renderETFDeconstructionEngine();
+      var card = document.getElementById('etfDeconstructCard');
+      if (card) card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function jumpSimulatorFromCopilot(dateStr) {
+      if (!dateStr || typeof SIM_CONTROLLER === 'undefined') return;
+      var targetIdx = -1;
+      (SIM_CONTROLLER.timeline || []).forEach(function(step, idx) {
+        if (step.date === dateStr || step.dateStr === dateStr) targetIdx = idx;
+      });
+      if (targetIdx >= 0) {
+        SIM_CONTROLLER.onScrubberInput(targetIdx);
+        var simCard = document.getElementById('etfDaySimulatorCard');
+        if (simCard) simCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    async function runEtfQAQuery() {
+      var btn    = document.getElementById('etfQaSubmitBtn');
+      var panel  = document.getElementById('etfQaResultPanel');
+      var statEl = document.getElementById('etfQaStatus');
+      var ansEl  = document.getElementById('etfQaAnswer');
+      var citEl  = document.getElementById('etfQaCitations');
+      var query  = (document.getElementById('etfQaQuery')?.value || '').trim();
+      var sel    = document.getElementById('etfQaProvider');
+      var provider = sel ? sel.value : (_currentQAProvider() || 'groq');
+      var cfg    = _providerConfig(provider);
+      var apiKey = (document.getElementById('etfQaApiKey')?.value || _loadProviderKey(provider) || '').trim();
+      var model  = (document.getElementById('etfQaModel')?.value || _loadProviderModel(provider) || cfg.defaultModel).trim();
+
+      if (!query) return;
+      if (!apiKey && !cfg.keyOptional) { alert('Enter your ' + cfg.label + ' API key first.'); return; }
+      if (!model) { alert('Enter a ' + cfg.label + ' model first.'); return; }
+
+      _saveProviderKey(provider, apiKey);
+      _saveProviderModel(provider, model);
+      localStorage.setItem('qa_provider', provider);
+      var statusEl = document.getElementById('etfQaKeyStatus');
+      if (statusEl) statusEl.textContent = 'Saved';
+
+      if (btn) btn.disabled = true;
+      if (panel) panel.style.display = 'block';
+      if (statEl) statEl.textContent = 'Assembling ETF portfolio context & SGX forward curves...';
+      if (ansEl) ansEl.textContent = '';
+      if (citEl) citEl.innerHTML = '';
+
+      try {
+        var webSearch = !!document.getElementById('etfQaSrcWebSearch')?.checked;
+        var fallbackOrder = _buildFallbackOrder(provider);
+
+        var { promptText, fundKey } = buildEtfQAContext(query, _etfQaFund);
+
+        var answer = null;
+        var usedProvider = provider;
+        var finalWebCitations = [];
+        var lastError = null;
+
+        for (var p of fallbackOrder) {
+          var pCfg = _providerConfig(p);
+          var pKey = p === provider ? apiKey : (_loadProviderKey(p) || '');
+          var pModel = p === provider ? model : (_loadProviderModel(p) || pCfg.defaultModel);
+          if (!pKey && !pCfg.keyOptional) continue;
+          if (!pModel) continue;
+
+          try {
+            if (statEl) statEl.textContent = 'Asking ' + pCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio Grounded)' + (webSearch && p === 'gemini' ? ' + 🌐 Web Search' : '') + '...';
+            var resObj = await _runProviderLLM(
+              p, pKey, pModel, promptText,
+              function(partial) { if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(partial); },
+              { enableWebSearch: webSearch }
+            );
+            answer = typeof resObj === 'object' ? resObj.text : resObj;
+            finalWebCitations = (typeof resObj === 'object' ? resObj.webCitations : []) || [];
+            usedProvider = p;
+            break;
+          } catch (err) {
+            lastError = err;
+            if (fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
+              if (statEl) statEl.textContent = pCfg.label + ' failed - trying next provider...';
+              continue;
+            }
+            throw err;
+          }
+        }
+
+        if (!answer) throw lastError || new Error('All providers failed or unavailable.');
+
+        var usedCfg = _providerConfig(usedProvider);
+        if (statEl) {
+          statEl.textContent = '[OK] ' + usedCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio & Curves Grounded)' +
+            (finalWebCitations.length > 0 ? ' · ' + finalWebCitations.length + ' web sources' : '');
+        }
+        if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(answer);
+
+        var citHtml = [];
+        citHtml.push('<span class="qa-cit" title="Official ETF Daily Holdings">📊 ' + fundKey.toUpperCase() + ' Disclosed Holdings</span>');
+        citHtml.push('<span class="qa-cit" title="Singapore Exchange Settlement Feed">📈 SGX Forward Curves</span>');
+        citHtml.push('<span class="qa-cit" title="Solactive / Breakwave Index Rules">📜 5-Axiom Roll Schedules</span>');
+        citHtml.push('<span class="qa-cit" title="CFTC Rule 4.22(h) / Form 10-Q">🏛️ CFTC &amp; SEC Filings</span>');
+        (finalWebCitations || []).forEach(function(w) {
+          citHtml.push('<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '">🌐 ' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>');
+        });
+        if (citEl) citEl.innerHTML = citHtml.join('');
+
+      } catch (err) {
+        var msg = err.message || 'Unknown error';
+        if (statEl) statEl.innerHTML = '[Error] ' + msg;
+        if (ansEl) ansEl.textContent = '';
+      } finally {
+        if (btn) btn.disabled = false;
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initEtfQAController);
+    } else {
+      initEtfQAController();
+    }
+
 
   </script>
 
