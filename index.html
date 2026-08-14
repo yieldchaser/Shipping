@@ -3658,15 +3658,32 @@
         document.querySelectorAll('.index-pill').forEach(b => b.classList.remove('active'));
         this.classList.add('active');
         const sel = document.getElementById('globalProduct');
-        sel.value = this.dataset.val;
-        sel.dispatchEvent(new Event('change'));
+        if (sel) {
+          sel.value = this.dataset.val;
+          sel.dispatchEvent(new Event('change'));
+        }
       });
+    });
+
+    // Global Chart.js registry and lifecycle helpers (accessible across all scripts)
+    window.chartRegistry = window.chartRegistry || {};
+    window.destroyChart = window.destroyChart || function destroyChart(id) {
+      if (window.chartRegistry[id]) {
+        try { window.chartRegistry[id].destroy(); } catch (e) {}
+        delete window.chartRegistry[id];
+      }
+      var el = typeof id === 'string' ? document.getElementById(id) : id;
+      if (el && typeof Chart !== 'undefined' && Chart.getChart) {
+        try {
+          var c = Chart.getChart(el);
+          if (c) c.destroy();
+        } catch (e) {}
+      }
+    };
+    var chartRegistry = window.chartRegistry;
 
     // =====================================================================
     //  ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE (TOP-LEVEL)
-    // =====================================================================
-    // =====================================================================
-    //  ETF FUTURES PORTFOLIO DECONSTRUCTION & SENSITIVITY ENGINE
     // =====================================================================
     function fmtDateISO(d) {
       if (!d || isNaN(d.getTime())) d = new Date();
@@ -5027,7 +5044,10 @@
       // Update Donut / Stacked Bar Chart (etfDeconstChart) - skip canvas destroy/re-create while actively dragging sliders to ensure 60fps smooth interaction
       if (window._isSliderDragging || window._isMicroDragging) return;
 
-      setTimeout(function() {
+      if (renderETFDeconstructionEngine._chartTimer) {
+        clearTimeout(renderETFDeconstructionEngine._chartTimer);
+      }
+      renderETFDeconstructionEngine._chartTimer = setTimeout(function() {
         var canvas = document.getElementById('etfDeconstChart');
         if (!canvas) return;
         destroyChart('etfDeconstChart');
@@ -5929,10 +5949,12 @@
       },
 
       setupHotkeys: function() {
+        if (this._hotkeysBound) return;
+        this._hotkeysBound = true;
         var self = this;
         document.addEventListener('keydown', function(e) {
-          // Guard against typing in input boxes
-          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+          // Guard against typing in input boxes or content editable areas
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT' || e.target.isContentEditable) return;
           
           if (e.code === 'Space') {
             e.preventDefault();
@@ -5950,8 +5972,6 @@
         });
       }
     };
-
-    });
   </script>
 
   <!-- TABS BAR -->
@@ -6476,7 +6496,7 @@
 
               <!-- Multi-Year Historical Cycles Scenario Grid -->
               <div id="macroCyclesGrid" style="display:none;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;max-height:160px;overflow-y:auto;padding-right:4px;">
-                <button onclick="applyMacroScenario('cycle_2021')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2021 Post-COVID Commodity Supercycle Rate Shock (+120% Capesize, +85% Panamax).">
+                <button id="macroBtn_cycle_2021" onclick="applyMacroScenario('cycle_2021')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2021 Post-COVID Commodity Supercycle Rate Shock (+120% Capesize, +85% Panamax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2021 Capesize Supercycle</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -6484,7 +6504,7 @@
                   <div style="font-size:10px;color:#3fb950;font-weight:600;margin-top:3px;font-family:monospace;">Cape +120% | Pana +85%</div>
                 </button>
 
-                <button onclick="applyMacroScenario('cycle_2022')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2022 Tanker Rate Squeeze (+95% VLCC, +75% Suezmax).">
+                <button id="macroBtn_cycle_2022" onclick="applyMacroScenario('cycle_2022')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2022 Tanker Rate Squeeze (+95% VLCC, +75% Suezmax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2022 Sanctions Tanker Spike</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -6492,7 +6512,7 @@
                   <div style="font-size:10px;color:#f0883e;font-weight:600;margin-top:3px;font-family:monospace;">VLCC +95% | Suez +75%</div>
                 </button>
 
-                <button onclick="applyMacroScenario('cycle_2023')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2023 China Reopening Freight Recovery (+45% Capesize, +35% Panamax).">
+                <button id="macroBtn_cycle_2023" onclick="applyMacroScenario('cycle_2023')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2023 China Reopening Freight Recovery (+45% Capesize, +35% Panamax).">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2023 China Reopening Rally</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -7881,7 +7901,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       lpgSpot: [],
       lpgCharter: [],
       blpg: [],
-      sgx: { cape: [], panamax: [], suprama: [], handysize: [] },
+      sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
     };
 
     // Per-product filtered row cache (populated after load)
@@ -12278,13 +12298,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }, 300000); // 5 minutes
 
       // Auto-refresh when user switches back to browser tab if > 5m elapsed
-      document.addEventListener('visibilitychange', function() {
-        if (!document.hidden && (Date.now() - _lastEtfFetchTime > 300000)) {
-          fetchLiveETFQuote('BDRY', 'bdry');
-          fetchLiveETFQuote('BWET', 'bwet');
-          _lastEtfFetchTime = Date.now();
-        }
-      });
+      if (!window._etfVisibilityBound) {
+        window._etfVisibilityBound = true;
+        document.addEventListener('visibilitychange', function() {
+          if (!document.hidden && (Date.now() - _lastEtfFetchTime > 300000)) {
+            fetchLiveETFQuote('BDRY', 'bdry');
+            fetchLiveETFQuote('BWET', 'bwet');
+            _lastEtfFetchTime = Date.now();
+          }
+        });
+      }
     }
 
     let _etfDrawdownWindow = { bdry: '5y', bwet: '5y' };
@@ -12891,6 +12914,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
 
       if (!DATA.loaded) return;
+
+      // Pause simulator playback if navigating away from ETFs tab
+      if (tabId !== 'etfs') {
+        if (window.SIM_CONTROLLER && window.SIM_CONTROLLER.isPlaying) {
+          window.SIM_CONTROLLER.pause();
+        }
+      }
 
       if (tabId === 'dashboard') renderDashboard(currentProduct);
       if (tabId === 'heatmaps') renderHeatmaps(currentProduct);
