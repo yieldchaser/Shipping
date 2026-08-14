@@ -4382,34 +4382,29 @@
     }
     window.closeDeconstContractHistory = closeDeconstContractHistory;
 
-    function toggleDeconstContractHistory(cls, contractName, idx) {
-      if (_activeDeconstContractName === contractName) {
-        closeDeconstContractHistory();
-        return;
-      }
+    function openContractPriceInspector(cls, contractName, meta) {
+      if (!contractName) return;
+      meta = meta || {};
+
+      var normCls = (cls || '').toLowerCase();
+      if (normCls.includes('cape') || normCls.includes('5tc')) normCls = 'cape';
+      else if (normCls.includes('pana') || normCls.includes('4tc')) normCls = 'pana';
+      else if (normCls.includes('supra') || normCls.includes('10tc') || normCls.includes('58kt')) normCls = 'supra';
+      else if (normCls.includes('vlcc') || normCls.includes('td3c')) normCls = 'vlcc';
+      else if (normCls.includes('suez') || normCls.includes('td20')) normCls = 'suez';
+      else normCls = _deconstETFKey === 'bwet' ? 'vlcc' : 'cape';
+
       _activeDeconstContractName = contractName;
 
-      var panel = document.getElementById('deconstContractHistoryPanel');
-      var titleEl = document.getElementById('deconstContractHistoryTitle');
-      var subtitleEl = document.getElementById('deconstContractHistorySubtitle');
-      var badgesEl = document.getElementById('deconstContractBadgesRow');
-      var canvas = document.getElementById('deconstContractChart');
-      var chartWrap = canvas ? canvas.parentElement : null;
-      if (!panel || !canvas) return;
-
-      panel.style.display = 'block';
-
       var colMap = { cape: '#58a6ff', pana: '#3fb950', supra: '#d29922', vlcc: '#f0883e', suez: '#a371f7' };
-      var color = colMap[cls] || '#58a6ff';
-
-      if (titleEl) {
-        titleEl.innerHTML = '<span style="color:' + color + ';"> ' + contractName + '</span>';
-      }
+      var routeIcons = { cape: '🚢', pana: '⚓', supra: '📦', vlcc: '🛢️', suez: '⛽' };
+      var color = colMap[normCls] || '#58a6ff';
+      var icon = routeIcons[normCls] || '📈';
 
       // 1. Query contract history from SGX processed data (for Dry Bulk BDRY)
       var history = [];
       var historySource = '';
-      var sgxKey = cls === 'cape' ? 'cape' : (cls === 'pana' ? 'panamax' : (cls === 'supra' ? 'supramax' : null));
+      var sgxKey = normCls === 'cape' ? 'cape' : (normCls === 'pana' ? 'panamax' : (normCls === 'supra' ? 'supramax' : null));
       var processed = window.getFFAProcessed ? window.getFFAProcessed() : null;
 
       if (sgxKey && processed && processed[sgxKey]) {
@@ -4447,11 +4442,11 @@
                 var rowMonthStr = rowMonthMatch ? (rowMonthMatch[1].toLowerCase() + ' ' + rowMonthMatch[2]) : '';
 
                 if (rowMonthStr === targetMonthStr) {
-                  if ((cls === 'vlcc' && (rowName.includes('td3c') || rowName.includes('vlcc'))) ||
-                      (cls === 'suez' && (rowName.includes('td20') || rowName.includes('suez'))) ||
-                      (cls === 'cape' && (rowName.includes('cape') || rowName.includes('5tc'))) ||
-                      (cls === 'pana' && (rowName.includes('pana') || rowName.includes('4tc') || rowName.includes('82kt'))) ||
-                      (cls === 'supra' && (rowName.includes('supra') || rowName.includes('10tc') || rowName.includes('58kt')))) {
+                  if ((normCls === 'vlcc' && (rowName.includes('td3c') || rowName.includes('vlcc'))) ||
+                      (normCls === 'suez' && (rowName.includes('td20') || rowName.includes('suez'))) ||
+                      (normCls === 'cape' && (rowName.includes('cape') || rowName.includes('5tc'))) ||
+                      (normCls === 'pana' && (rowName.includes('pana') || rowName.includes('4tc') || rowName.includes('82kt'))) ||
+                      (normCls === 'supra' && (rowName.includes('supra') || rowName.includes('10tc') || rowName.includes('58kt')))) {
                     isMatch = true;
                   }
                 }
@@ -4476,60 +4471,51 @@
         }
       }
 
-      var holdingItem = _lastPredHoldings ? _lastPredHoldings[idx] : null;
-      var activeLots = holdingItem ? holdingItem.Lots.toFixed(1) : '0.0';
-      var weightPct = holdingItem ? holdingItem.weight.toFixed(1) + '%' : '0.0%';
+      var holdingItem = (_lastPredHoldings && meta.index !== undefined) ? _lastPredHoldings[meta.index] : null;
+      var activeLots = meta.lots !== undefined ? Number(meta.lots).toFixed(1) : (holdingItem ? holdingItem.Lots.toFixed(1) : '0.0');
+      var weightPct = meta.weight !== undefined ? Number(meta.weight).toFixed(1) + '%' : (holdingItem ? holdingItem.weight.toFixed(1) + '%' : '0.0%');
       var isOfficialFeedAvailable = history.length > 0;
 
+      // Update Modal DOM
+      var modal = document.getElementById('etfContractDetailModal');
+      var titleEl = document.getElementById('cdModalContractTitle');
+      var iconEl = document.getElementById('cdModalRouteIcon');
+      var subtitleEl = document.getElementById('cdModalSubtitle');
+      var badgesEl = document.getElementById('cdModalBadgesRow');
+      var canvas = document.getElementById('cdModalChartCanvas');
+      var noDataMsg = document.getElementById('cdModalNoDataMsg');
+      var rulebookRefEl = document.getElementById('cdModalRulebookRef');
+
+      if (titleEl) titleEl.innerHTML = '<span style="color:' + color + ';">' + contractName + '</span>';
+      if (iconEl) iconEl.textContent = icon;
       if (subtitleEl) {
-        subtitleEl.textContent = isOfficialFeedAvailable ? (historySource === 'sgx' ? 'SGX Exchange Daily Settled Price History' : 'Official ETF Daily Disclosed Holdings History Feed') : 'Exchange Historical Settlement Feed Not Available';
+        subtitleEl.textContent = isOfficialFeedAvailable ? (historySource === 'sgx' ? 'SGX Exchange Daily Settled Futures Curve' : 'Official ETF Disclosed Historical Mark Trajectory') : 'Far-Dated Futures Contract (Rate Shock Simulated)';
       }
-
-      // If official exchange history feed is unavailable (e.g. Far-Dated Tanker Contracts), do NOT render a chart or simulate fake prices
-      if (!isOfficialFeedAvailable) {
-        destroyChart('deconstContractChart');
-        canvas.style.display = 'none';
-
-        var noDataMsg = document.getElementById('deconstNoDataBanner');
-        if (!noDataMsg && chartWrap) {
-          noDataMsg = document.createElement('div');
-          noDataMsg.id = 'deconstNoDataBanner';
-          chartWrap.appendChild(noDataMsg);
-        }
-        if (noDataMsg) {
-          noDataMsg.style.display = 'flex';
-          noDataMsg.style.flexDirection = 'column';
-          noDataMsg.style.alignItems = 'center';
-          noDataMsg.style.justifyContent = 'center';
-          noDataMsg.style.height = '200px';
-          noDataMsg.style.background = 'var(--bg)';
-          noDataMsg.style.border = '1px dashed var(--border)';
-          noDataMsg.style.borderRadius = '6px';
-          noDataMsg.style.padding = '20px';
-          noDataMsg.style.textAlign = 'center';
-          noDataMsg.innerHTML = '<div style="font-size:24px;margin-bottom:6px;"></div>' +
-            '<div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>' +
-            '<div style="font-size:11px;color:var(--text-muted);max-width:440px;line-height:1.4;">' +
-              'Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Rate shock scenario simulation remains 100% active in the predictor.' +
-            '</div>';
-        }
-
-        if (badgesEl) {
-          badgesEl.innerHTML = '<div style="background:rgba(210,153,34,0.12);border:1px solid rgba(210,153,34,0.3);color:#d29922;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">[Warning] Historical Feed Not Available</div>' +
-            '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-              '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--text);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
-            '</div>';
-        }
-        panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-        return;
+      if (rulebookRefEl) {
+        rulebookRefEl.textContent = (normCls === 'vlcc' || normCls === 'suez') ? 'Rulebook Reference: CME ClearPort / Baltic Exchange Tanker Assessments (TD3C/TD20)' : 'Rulebook Reference: SGX Freight Derivatives / Baltic Exchange Dry Bulk 5TC/4TC/10TC';
       }
-
-      // Hide no-data banner and show canvas if official history exists
-      var noDataMsg = document.getElementById('deconstNoDataBanner');
-      if (noDataMsg) noDataMsg.style.display = 'none';
-      canvas.style.display = 'block';
 
       var prices = history.map(function(h) { return h.price; });
+      var minPx = prices.length ? Math.min.apply(null, prices) : 0;
+      var maxPx = prices.length ? Math.max.apply(null, prices) : 0;
+      var latestPx = prices.length ? prices[prices.length - 1] : (holdingItem ? holdingItem.unitPrice : 0);
+
+      var isWorldscale = (normCls === 'vlcc' || normCls === 'suez' || (latestPx > 0 && latestPx < 500));
+      var formatUnitVal = function(v) {
+        if (isWorldscale) {
+          var tce = normCls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/d)';
+        }
+        return '$' + Math.round(v).toLocaleString() + ' / day';
+      };
+      var formatUnitTooltip = function(v) {
+        if (isWorldscale) {
+          var tce = normCls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
+          return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
+        }
+        return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
+      };
+
       var formatContractDate = function(d) {
         if (typeof fmtDate !== 'undefined') return fmtDate(d);
         if (!(d instanceof Date)) d = new Date(d);
@@ -4539,83 +4525,183 @@
       };
       var labels = history.map(function(h) { return formatContractDate(h.date); });
 
-      var minPx = prices.length ? Math.min.apply(null, prices) : 0;
-      var maxPx = prices.length ? Math.max.apply(null, prices) : 0;
-      var latestPx = prices.length ? prices[prices.length - 1] : 0;
+      var badgeText = historySource === 'sgx' ? 'Official SGX Settlement Feed' : (historySource === 'etf_history' ? 'Official ETF Disclosed Feed' : 'Forward Curve Proxy');
+      var badgesHtml = '<div style="background:var(--bg);border:1px solid var(--border);padding:6px 10px;border-radius:6px;">' +
+          '<div style="font-size:10px;color:var(--text-muted);">Latest Settle</div>' +
+          '<div style="font-size:13px;font-weight:800;color:' + color + ';">' + formatUnitVal(latestPx) + '</div>' +
+        '</div>' +
+        '<div style="background:var(--bg);border:1px solid var(--border);padding:6px 10px;border-radius:6px;">' +
+          '<div style="font-size:10px;color:var(--text-muted);">52W Low</div>' +
+          '<div style="font-size:13px;font-weight:700;color:var(--text);">' + (minPx > 0 ? formatUnitVal(minPx) : 'N/A') + '</div>' +
+        '</div>' +
+        '<div style="background:var(--bg);border:1px solid var(--border);padding:6px 10px;border-radius:6px;">' +
+          '<div style="font-size:10px;color:var(--text-muted);">52W High</div>' +
+          '<div style="font-size:13px;font-weight:700;color:var(--text);">' + (maxPx > 0 ? formatUnitVal(maxPx) : 'N/A') + '</div>' +
+        '</div>' +
+        '<div style="background:var(--bg);border:1px solid var(--border);padding:6px 10px;border-radius:6px;">' +
+          '<div style="font-size:10px;color:var(--text-muted);">Position Weight</div>' +
+          '<div style="font-size:13px;font-weight:700;color:var(--accent);">' + activeLots + ' L (' + weightPct + ')</div>' +
+        '</div>' +
+        '<div style="background:var(--bg);border:1px solid var(--border);padding:6px 10px;border-radius:6px;">' +
+          '<div style="font-size:10px;color:var(--text-muted);">Data Provenance</div>' +
+          '<div style="font-size:11px;font-weight:700;color:#3fb950;margin-top:2px;">' + badgeText + '</div>' +
+        '</div>';
 
-      var isWorldscale = (cls === 'vlcc' || cls === 'suez' || (latestPx > 0 && latestPx < 500));
-      var formatUnitVal = function(v) {
-        if (isWorldscale) {
-          var tce = cls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
-          return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
-        }
-        return '$' + Math.round(v).toLocaleString() + ' / day';
-      };
-      var formatUnitTooltip = function(v) {
-        if (isWorldscale) {
-          var tce = cls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
-          return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
-        }
-        return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
-      };
+      if (badgesEl) badgesEl.innerHTML = badgesHtml;
+      if (modal) modal.style.display = 'flex';
 
-      if (badgesEl) {
-        var badgeText = historySource === 'sgx' ? 'Official SGX Settlement Feed' : 'Official ETF Daily Holdings History Feed';
-        badgesEl.innerHTML = '<div style="background:rgba(63,185,80,0.12);border:1px solid rgba(63,185,80,0.3);color:#3fb950;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;">' + badgeText + '</div>' +
-          '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">Latest Settle:</span> <strong style="color:' + color + ';">' + formatUnitVal(latestPx) + '</strong>' +
-          '</div>' +
-          '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">52W Low:</span> <strong style="color:var(--text);">' + formatUnitVal(minPx) + '</strong>' +
-          '</div>' +
-          '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">52W High:</span> <strong style="color:var(--text);">' + formatUnitVal(maxPx) + '</strong>' +
-          '</div>' +
-          '<div style="background:var(--bg);border:1px solid var(--border);padding:4px 10px;border-radius:4px;font-size:11px;">' +
-            '<span style="color:var(--text-muted);">ETF Active Position:</span> <strong style="color:var(--accent);">' + activeLots + ' Lots (' + weightPct + ')</strong>' +
-          '</div>';
-      }
+      if (canvas) {
+        if (!isOfficialFeedAvailable) {
+          destroyChart('cdModalChartCanvas');
+          canvas.style.display = 'none';
+          if (noDataMsg) noDataMsg.style.display = 'flex';
+        } else {
+          if (noDataMsg) noDataMsg.style.display = 'none';
+          canvas.style.display = 'block';
 
-      destroyChart('deconstContractChart');
-      chartRegistry['deconstContractChart'] = new Chart(canvas.getContext('2d'), {
-        type: 'line',
-        data: {
-          labels: labels,
-          datasets: [{
-            label: contractName + (isWorldscale ? ' (Worldscale Points WS)' : ' Settlement Rate ($/day)'),
-            data: prices,
-            borderColor: color,
-            backgroundColor: color + '22',
-            borderWidth: 2,
-            pointRadius: 2,
-            pointHoverRadius: 6,
-            fill: true,
-            tension: 0.2
-          }]
-        },
-        options: {
-          responsive: true, maintainAspectRatio: false,
-          interaction: { mode: 'index', intersect: false },
-          plugins: {
-            legend: { display: false },
-            tooltip: {
-              callbacks: {
-                label: function(c) { return formatUnitTooltip(c.parsed.y); }
+          destroyChart('cdModalChartCanvas');
+          chartRegistry['cdModalChartCanvas'] = new Chart(canvas.getContext('2d'), {
+            type: 'line',
+            data: {
+              labels: labels,
+              datasets: [{
+                label: contractName + (isWorldscale ? ' (Worldscale WS)' : ' ($/day)'),
+                data: prices,
+                borderColor: color,
+                backgroundColor: color + '22',
+                borderWidth: 2,
+                pointRadius: 2,
+                pointHoverRadius: 6,
+                fill: true,
+                tension: 0.2
+              }]
+            },
+            options: {
+              responsive: true, maintainAspectRatio: false,
+              interaction: { mode: 'index', intersect: false },
+              plugins: {
+                legend: { display: false },
+                tooltip: {
+                  callbacks: {
+                    label: function(c) { return formatUnitTooltip(c.parsed.y); }
+                  }
+                }
+              },
+              scales: {
+                x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
+                y: {
+                  grid: { color: 'rgba(255,255,255,0.03)' },
+                  ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
+                }
               }
             }
-          },
-          scales: {
-            x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
-            y: {
-              grid: { color: 'rgba(255,255,255,0.03)' },
-              ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
+          });
+        }
+      }
+
+      // Synchronize inline panel (#deconstContractHistoryPanel)
+      var panel = document.getElementById('deconstContractHistoryPanel');
+      var inlineTitle = document.getElementById('deconstContractHistoryTitle');
+      var inlineSubtitle = document.getElementById('deconstContractHistorySubtitle');
+      var inlineBadges = document.getElementById('deconstContractBadgesRow');
+      var inlineCanvas = document.getElementById('deconstContractChart');
+      var inlineWrap = inlineCanvas ? inlineCanvas.parentElement : null;
+
+      if (panel) {
+        panel.style.display = 'block';
+        if (inlineTitle) inlineTitle.innerHTML = '<span style="color:' + color + ';"> ' + contractName + '</span>';
+        if (inlineSubtitle) inlineSubtitle.textContent = isOfficialFeedAvailable ? (historySource === 'sgx' ? 'SGX Exchange Daily Settled Price History' : 'Official ETF Daily Disclosed Holdings History Feed') : 'Exchange Historical Settlement Feed Not Available';
+        if (inlineBadges) inlineBadges.innerHTML = badgesHtml;
+
+        if (inlineCanvas) {
+          if (!isOfficialFeedAvailable) {
+            destroyChart('deconstContractChart');
+            inlineCanvas.style.display = 'none';
+            var noDataBanner = document.getElementById('deconstNoDataBanner');
+            if (!noDataBanner && inlineWrap) {
+              noDataBanner = document.createElement('div');
+              noDataBanner.id = 'deconstNoDataBanner';
+              inlineWrap.appendChild(noDataBanner);
             }
+            if (noDataBanner) {
+              noDataBanner.style.display = 'flex';
+              noDataBanner.style.flexDirection = 'column';
+              noDataBanner.style.alignItems = 'center';
+              noDataBanner.style.justifyContent = 'center';
+              noDataBanner.style.height = '200px';
+              noDataBanner.style.background = 'var(--bg)';
+              noDataBanner.style.border = '1px dashed var(--border)';
+              noDataBanner.style.borderRadius = '6px';
+              noDataBanner.style.padding = '20px';
+              noDataBanner.style.textAlign = 'center';
+              noDataBanner.innerHTML = '<div style="font-size:24px;margin-bottom:6px;">📊</div>' +
+                '<div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>' +
+                '<div style="font-size:11px;color:var(--text-muted);max-width:440px;line-height:1.4;">' +
+                  'Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Rate shock scenario simulation remains 100% active in the predictor.' +
+                '</div>';
+            }
+          } else {
+            var noDataBanner = document.getElementById('deconstNoDataBanner');
+            if (noDataBanner) noDataBanner.style.display = 'none';
+            inlineCanvas.style.display = 'block';
+
+            destroyChart('deconstContractChart');
+            chartRegistry['deconstContractChart'] = new Chart(inlineCanvas.getContext('2d'), {
+              type: 'line',
+              data: {
+                labels: labels,
+                datasets: [{
+                  label: contractName + (isWorldscale ? ' (Worldscale Points WS)' : ' Settlement Rate ($/day)'),
+                  data: prices,
+                  borderColor: color,
+                  backgroundColor: color + '22',
+                  borderWidth: 2,
+                  pointRadius: 2,
+                  pointHoverRadius: 6,
+                  fill: true,
+                  tension: 0.2
+                }]
+              },
+              options: {
+                responsive: true, maintainAspectRatio: false,
+                interaction: { mode: 'index', intersect: false },
+                plugins: {
+                  legend: { display: false },
+                  tooltip: {
+                    callbacks: {
+                      label: function(c) { return formatUnitTooltip(c.parsed.y); }
+                    }
+                  }
+                },
+                scales: {
+                  x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
+                  y: {
+                    grid: { color: 'rgba(255,255,255,0.03)' },
+                    ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
+                  }
+                }
+              }
+            });
           }
         }
-      });
-
-      panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
     }
+
+    function closeContractDetailModal() {
+      var modal = document.getElementById('etfContractDetailModal');
+      if (modal) modal.style.display = 'none';
+      destroyChart('cdModalChartCanvas');
+    }
+
+    function toggleDeconstContractHistory(cls, contractName, idx) {
+      if (_activeDeconstContractName === contractName) {
+        closeDeconstContractHistory();
+        return;
+      }
+      openContractPriceInspector(cls, contractName, { index: idx });
+    }
+    window.openContractPriceInspector = openContractPriceInspector;
+    window.closeContractDetailModal = closeContractDetailModal;
     window.toggleDeconstContractHistory = toggleDeconstContractHistory;
     window.applyMicroCurvePreset = applyMicroCurvePreset;
     window.switchDeconstETF = switchDeconstETF;
@@ -6617,7 +6703,20 @@
       html.push('    <thead><tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:10px;"><th style="padding:4px 6px;">Contract Name</th><th style="padding:4px 6px;text-align:right;">Lots</th><th style="padding:4px 6px;text-align:right;">Base Mark</th><th style="padding:4px 6px;text-align:right;">Multiplier</th><th style="padding:4px 6px;text-align:right;">Notional ($)</th></tr></thead>');
       html.push('    <tbody>');
       ticket.knownBook.forEach(function(b) {
-        html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);"><td style="padding:4px 6px;font-weight:600;">' + b.name + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.disclosedLots + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.price.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.multiplier + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.notional.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td></tr>');
+        var bNameLower = (b.name || '').toLowerCase();
+        var bCls = (bNameLower.includes('cape') || bNameLower.includes('5tc')) ? 'cape' : (bNameLower.includes('pana') ? 'pana' : (bNameLower.includes('supra') ? 'supra' : (bNameLower.includes('vlcc') || bNameLower.includes('td3c') ? 'vlcc' : 'suez')));
+        html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);">' +
+          '<td style="padding:4px 6px;font-weight:600;cursor:pointer;" onclick="openContractPriceInspector(\'' + bCls + '\', \'' + b.name.replace(/'/g, "\\'") + '\', {lots:' + b.disclosedLots + ', notional:' + b.notional + '})" title="Click to view historical price settlement chart for ' + b.name + '">' +
+            '<span style="display:inline-flex;align-items:center;gap:4px;">' +
+              '<span>' + b.name + '</span>' +
+              '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);">chart ↗</span>' +
+            '</span>' +
+          '</td>' +
+          '<td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.disclosedLots + '</td>' +
+          '<td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.price.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td>' +
+          '<td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.multiplier + '</td>' +
+          '<td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.notional.toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td>' +
+        '</tr>');
       });
       html.push('    </tbody>');
       html.push('  </table>');
@@ -6632,7 +6731,21 @@
         html.push('    <tbody>');
         ticket.assumedBook.forEach(function(b) {
           var isPos = b.grossPnl >= 0;
-          html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);"><td style="padding:4px 6px;font-weight:600;">' + b.name + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.lots + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.startMark.toLocaleString('en-US') + '</td><td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.targetMark.toLocaleString('en-US') + '</td><td style="padding:4px 6px;text-align:right;font-weight:700;color:' + (isPos ? '#3fb950' : '#f85149') + ';font-family:monospace;">' + (isPos ? '+$' : '-$') + Math.abs(b.grossPnl).toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td><td style="padding:4px 6px;text-align:right;"><span style="font-size:9px;padding:2px 5px;border-radius:3px;background:rgba(88,166,255,0.15);color:#58a6ff;font-weight:700;">' + b.type + '</span></td></tr>');
+          var bNameLower = (b.name || '').toLowerCase();
+          var bCls = (bNameLower.includes('cape') || bNameLower.includes('5tc')) ? 'cape' : (bNameLower.includes('pana') ? 'pana' : (bNameLower.includes('supra') ? 'supra' : (bNameLower.includes('vlcc') || bNameLower.includes('td3c') ? 'vlcc' : 'suez')));
+          html.push('      <tr style="border-bottom:1px solid rgba(255,255,255,0.03);">' +
+            '<td style="padding:4px 6px;font-weight:600;cursor:pointer;" onclick="openContractPriceInspector(\'' + bCls + '\', \'' + b.name.replace(/'/g, "\\'") + '\', {lots:' + b.lots + '})" title="Click to view historical price settlement chart for ' + b.name + '">' +
+              '<span style="display:inline-flex;align-items:center;gap:4px;">' +
+                '<span>' + b.name + '</span>' +
+                '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);">chart ↗</span>' +
+              '</span>' +
+            '</td>' +
+            '<td style="padding:4px 6px;text-align:right;font-family:monospace;">' + b.lots + '</td>' +
+            '<td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.startMark.toLocaleString('en-US') + '</td>' +
+            '<td style="padding:4px 6px;text-align:right;font-family:monospace;">$' + b.targetMark.toLocaleString('en-US') + '</td>' +
+            '<td style="padding:4px 6px;text-align:right;font-weight:700;color:' + (isPos ? '#3fb950' : '#f85149') + ';font-family:monospace;">' + (isPos ? '+$' : '-$') + Math.abs(b.grossPnl).toLocaleString('en-US', {minimumFractionDigits: 2}) + '</td>' +
+            '<td style="padding:4px 6px;text-align:right;"><span style="font-size:9px;padding:2px 5px;border-radius:3px;background:rgba(88,166,255,0.15);color:#58a6ff;font-weight:700;">' + b.type + '</span></td>' +
+          '</tr>');
         });
         html.push('    </tbody>');
         html.push('  </table>');
@@ -7407,7 +7520,10 @@
           // Guard against typing in input boxes or content editable areas
           if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT' || e.target.isContentEditable) return;
           
-          if (e.code === 'Space') {
+          if (e.key === 'Escape' || e.code === 'Escape') {
+            if (typeof closeContractDetailModal === 'function') closeContractDetailModal();
+            if (typeof closeDecisionTicketModal === 'function') closeDecisionTicketModal();
+          } else if (e.code === 'Space') {
             e.preventDefault();
             self.togglePlay();
           } else if (e.code === 'ArrowRight') {
@@ -8247,6 +8363,47 @@
             <!-- Modal Body Content -->
             <div id="dtModalBody">
               <!-- Rendered dynamically by renderDecisionTicketInModal() -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Universal Institutional Contract Settlement Inspector Modal -->
+        <div id="etfContractDetailModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
+          <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
+            <!-- Modal Header -->
+            <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+              <div>
+                <div style="display:flex;align-items:center;gap:8px;">
+                  <span id="cdModalRouteIcon" style="font-size:16px;">📈</span>
+                  <span style="font-size:15px;font-weight:800;letter-spacing:0.3px;" id="cdModalContractTitle">Contract Name</span>
+                  <span id="cdModalStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">ACTIVE STRIP</span>
+                </div>
+                <div id="cdModalSubtitle" style="font-size:11px;color:var(--text-muted);margin-top:3px;">Exchange Settled Daily Forward Curve History</div>
+              </div>
+              <div style="display:flex;gap:6px;align-items:center;">
+                <button onclick="closeContractDetailModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:22px;cursor:pointer;padding:0 6px;line-height:1;" title="Close (Esc)">&times;</button>
+              </div>
+            </div>
+
+            <!-- KPI Badges HUD Strip -->
+            <div id="cdModalBadgesRow" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:14px;">
+              <!-- Populated dynamically -->
+            </div>
+
+            <!-- Chart Container -->
+            <div style="height:280px;position:relative;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px;">
+              <canvas id="cdModalChartCanvas"></canvas>
+              <div id="cdModalNoDataMsg" style="display:none;height:100%;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--text-muted);">
+                <div style="font-size:24px;margin-bottom:6px;">📊</div>
+                <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>
+                <div style="font-size:11px;max-width:440px;line-height:1.4;">Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Scenario simulation remains 100% active in the predictor.</div>
+              </div>
+            </div>
+
+            <!-- Contract Metadata / Rulebook Footer -->
+            <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
+              <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
+              <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:9px;">ESC</kbd> to exit</span>
             </div>
           </div>
         </div>
