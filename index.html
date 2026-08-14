@@ -7297,16 +7297,20 @@
           var dollarSign = c.dollarImpact >= 0 ? '+$' : '-$';
           var dollarAbs = Math.abs(c.dollarImpact).toFixed(2);
 
+          var isBwet = self.etf === 'bwet';
+          var settleStr = isBwet ? ('WS ' + Number(c.settleRate).toFixed(1)) : ('$' + Number(c.settleRate).toLocaleString());
+          var simStr = isBwet ? ('WS ' + Number(c.simRate).toFixed(1)) : ('$' + Math.round(c.simRate).toLocaleString());
+
           html += '<tr class="' + tickClass + '">' +
-            '<td style="cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + (c.class || 'cape') + '\', \'' + c.name.replace(/'/g, "\\'") + '\', ' + idx + ')" title="Click to view historical price settlement chart for ' + c.name + '">' +
+            '<td style="cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + (c.class || (isBwet ? 'vlcc' : 'cape')) + '\', \'' + c.name.replace(/'/g, "\\'") + '\', ' + idx + ')" title="Click to view historical price settlement chart for ' + c.name + '">' +
               '<span style="display:inline-flex;align-items:center;gap:5px;">' +
                 '<strong style="color:var(--text);">' + c.name + '</strong> ' + 
                 (c.isPrompt ? '<span style="font-size:9px;color:#e3b341;border:1px solid rgba(227,179,65,0.4);border-radius:2px;padding:1px 3px;">PROMPT</span>' : '<span style="font-size:9px;color:#58a6ff;border:1px solid rgba(88,166,255,0.4);border-radius:2px;padding:1px 3px;">NEXT-Q</span>') +
-                '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);">chart ↗</span>' +
+                '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);display:inline-flex;align-items:center;gap:2px;"><svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>chart ↗</span>' +
               '</span>' +
             '</td>' +
-            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">$' + c.settleRate.toLocaleString() + '</td>' +
-            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);">$' + Math.round(c.simRate).toLocaleString() + '</td>' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">' + settleStr + '</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);">' + simStr + '</td>' +
             '<td style="text-align:center;">' +
               '<div style="display:flex;align-items:center;gap:6px;">' +
                 '<div class="lot-progress-track"><div class="lot-progress-fill ' + barClass + '" style="width:' + decayPct + '%;"></div></div>' +
@@ -7315,7 +7319,7 @@
             '</td>' +
             '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--accent);">' + c.weight.toFixed(1) + '%</td>' +
             '<td style="text-align:right;font-family:monospace;font-weight:700;color:' + dollarClass + ';">' + dollarSign + dollarAbs + '</td>' +
-            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">' + ((c.notional / 1000000).toFixed(2)) + 'M</td>' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">$' + ((c.notional / 1000000).toFixed(2)) + 'M</td>' +
           '</tr>';
         });
 
