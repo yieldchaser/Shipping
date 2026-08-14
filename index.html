@@ -5138,7 +5138,7 @@
     // =====================================================================
     window.SIM_CONTROLLER = {
       etf: 'bdry',
-      scenario: 'china_stimulus',
+      scenario: 'historical_replay',
       speed: 1.0,
       shares: 5000,
       curIdx: 0,
@@ -5190,25 +5190,183 @@
         this.curIdx = 0;
         this.timeline = [];
         var isBdry = this.etf === 'bdry';
+
+        // Deterministic pseudo-random seed innovations for realistic stochastic forward diffusion
+        var seedInnovations = [
+          0.65, -0.45, 1.15, -0.35, 0.85, 1.45, -0.95, 0.25, 0.95, -0.75,
+          1.25, 0.15, -0.85, 1.55, 0.35, -1.05, 0.70, 1.10, -0.40, 0.75,
+          -0.60, 0.95, 1.30, -0.65, 0.55, 1.05, -0.50, 0.85, -0.30, 1.20,
+          0.45, -0.80, 1.00, -0.20, 0.70, 1.35, -0.55, 0.40, -0.90, 1.10
+        ];
+
+        // MODE 1: HISTORICAL REPLAY (Real Historical Disclosures from DATA)
+        if (this.scenario === 'historical_replay' && typeof DATA !== 'undefined') {
+          var rawHistory = isBdry ? (DATA.bdryHoldingsHistory || []) : (DATA.bwetHoldingsHistory || []);
+          var rawLiq = isBdry ? (DATA.bdryLiquidity || []) : (DATA.bwetLiquidity || []);
+
+          var closePriceMap = {};
+          rawLiq.forEach(function(r) {
+            var d = r.Date || r.date;
+            var c = parseFloat(r.Close || r.close);
+            if (d && !isNaN(c)) closePriceMap[d] = c;
+          });
+
+          var byDate = {};
+          rawHistory.forEach(function(r) {
+            var d = r.date || r.Date;
+            if (!d) return;
+            if (!byDate[d]) byDate[d] = [];
+            byDate[d].push(r);
+          });
+
+          var dates = Object.keys(byDate).sort();
+
+          if (dates.length >= 2) {
+            var initialPrice = closePriceMap[dates[0]] || (isBdry ? 11.58 : 340.50);
+            var curSimPrice = initialPrice;
+            var peakPrice = initialPrice;
+            var dailyReturns = [];
+
+            for (var t = 0; t < dates.length; t++) {
+              var dateStr = dates[t];
+              var dayHoldings = byDate[dateStr];
+              var mktPrice = closePriceMap[dateStr] || curSimPrice;
+
+              var contracts = [];
+              var totalNotional = 0;
+              var isRollMonth = dateStr.includes('-08-') || dateStr.includes('-07-');
+
+              dayHoldings.forEach(function(h) {
+                var name = String(h.Name || h.name || h.contract || '');
+                var isCash = name.toLowerCase().includes('cash') || name.toLowerCase().includes('invesco') || name.toLowerCase().includes('agpxx');
+                if (isCash) return;
+
+                var lots = parseFloat(h.Lots || h.lots || 0);
+                var rate = parseFloat(h.Price || h.price || 0);
+                var cls = 'cape';
+                if (name.toLowerCase().includes('pana') || name.toLowerCase().includes('p5tc')) cls = 'pana';
+                else if (name.toLowerCase().includes('supra') || name.toLowerCase().includes('s58f')) cls = 'supra';
+                else if (name.toLowerCase().includes('td3c') || name.toLowerCase().includes('vlcc')) cls = 'vlcc';
+                else if (name.toLowerCase().includes('td20') || name.toLowerCase().includes('suez')) cls = 'suez';
+
+                var isPrompt = name.toLowerCase().includes('jun 26') || name.toLowerCase().includes('jul 26') || name.toLowerCase().includes('aug 26');
+                var mult = isBdry ? 1.0 : 1000.0;
+                var notional = lots * rate * mult;
+                totalNotional += notional;
+
+                contracts.push({
+                  class: cls,
+                  name: name.replace(/FFA.*?Average\s*/i, '').replace(/Index/i, '').trim(),
+                  settleRate: rate,
+                  simRate: rate,
+                  lots: lots,
+                  initialLots: lots,
+                  isPrompt: isPrompt,
+                  notional: notional,
+                  dollarImpact: 0,
+                  weight: 0
+                });
+              });
+
+              // Weights & impact
+              contracts.forEach(function(c) {
+                c.weight = totalNotional > 0 ? (c.notional / totalNotional) * 100 : 0;
+              });
+
+              // Day-over-day return
+              var weightedFreightRet = 0;
+              if (t > 0 && this.timeline[t - 1]) {
+                var prevContracts = this.timeline[t - 1].contracts;
+                var prevMap = {};
+                var prevNotional = this.timeline[t - 1].totalNotional || 1;
+                prevContracts.forEach(function(pc) { prevMap[pc.name] = pc.settleRate; });
+
+                contracts.forEach(function(c) {
+                  var pRate = prevMap[c.name] || c.settleRate;
+                  if (pRate > 0) {
+                    var ret = (c.settleRate - pRate) / pRate;
+                    weightedFreightRet += (c.notional / (prevNotional || totalNotional || 1)) * ret;
+                  }
+                });
+              }
+
+              var rollDrag = (t > 0 && isRollMonth) ? -0.00015 : 0;
+              var cashFeeDrag = (0.0485 - 0.0350) / 252;
+              var netDailyRet = t === 0 ? 0 : (weightedFreightRet + rollDrag + cashFeeDrag);
+
+              if (t > 0) {
+                curSimPrice = curSimPrice * (1 + netDailyRet);
+                dailyReturns.push(netDailyRet);
+              }
+
+              if (curSimPrice > peakPrice) peakPrice = curSimPrice;
+              var curMdd = peakPrice > 0 ? ((peakPrice - curSimPrice) / peakPrice) * 100 : 0;
+              var spreadBps = ((curSimPrice - mktPrice) / mktPrice) * 10000;
+
+              var meanRet = dailyReturns.length ? (dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length) : 0;
+              var variance = dailyReturns.length > 1 ? (dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length - 1)) : 0;
+              var stdDev = Math.sqrt(variance);
+              var annVol = stdDev * Math.sqrt(252) * 100;
+              var sharpe = annVol > 0 ? ((meanRet * 252 - 0.0485) / (annVol / 100)) : 0;
+
+              // Calculate contract dollar impacts
+              contracts.forEach(function(c) {
+                var shockRatio = (c.simRate - (c.settleRate * 0.98)) / (c.settleRate || 1);
+                c.dollarImpact = curSimPrice * (c.weight / 100) * shockRatio * 0.05;
+              });
+
+              this.timeline.push({
+                day: t,
+                date: dateStr,
+                totalNotional: totalNotional,
+                simPrice: curSimPrice,
+                mktPrice: mktPrice,
+                spreadBps: spreadBps,
+                rollPct: Math.min(100, Math.round((t / (dates.length - 1)) * 100)),
+                contracts: contracts,
+                attribution: {
+                  freight: weightedFreightRet * 100,
+                  roll: rollDrag * 100,
+                  cash: cashFeeDrag * 100,
+                  total: netDailyRet * 100
+                },
+                risk: {
+                  annVol: annVol,
+                  sharpe: sharpe,
+                  mdd: curMdd,
+                  carryYield: isBdry ? -3.4 : 1.8,
+                  trackingError: Math.abs(spreadBps)
+                }
+              });
+            }
+
+            var scrubber = document.getElementById('simScrubber');
+            if (scrubber) {
+              scrubber.max = this.timeline.length - 1;
+              scrubber.value = 0;
+            }
+            return;
+          }
+        }
+
+        // MODE 2: GENERATIVE FORWARD PROJECTION WITH STOCHASTIC DIFFUSION
         var basePrice = isBdry ? 10.09 : 340.50;
         var numDays = 30;
-        
-        // Base Date anchor
         var baseDate = new Date(2026, 7, 11); // Aug 11, 2026
 
-        // Scenario Shock Matrix (% per day)
         var dailyShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
         var rollVelocity = 1.0;
-        var contangoPenalty = -0.0028; // -0.28% per month normal basis
+        var contangoPenalty = -0.0028;
+        var annFreightVol = isBdry ? 0.55 : 0.70;
 
         if (this.scenario === 'china_stimulus') {
           dailyShocks.cape = 0.035; dailyShocks.pana = 0.022; dailyShocks.supra = 0.015;
           dailyShocks.vlcc = 0.008; dailyShocks.suez = 0.006;
-          contangoPenalty = 0.0015; // flips to backwardation
+          contangoPenalty = 0.0015;
         } else if (this.scenario === 'red_sea_spike') {
           dailyShocks.vlcc = 0.040; dailyShocks.suez = 0.032;
           dailyShocks.cape = 0.012; dailyShocks.pana = 0.008;
-          contangoPenalty = 0.0025; // steep backwardation
+          contangoPenalty = 0.0025;
         } else if (this.scenario === 'monsoon_lull') {
           dailyShocks.cape = -0.015; dailyShocks.pana = -0.012; dailyShocks.supra = -0.009;
           dailyShocks.vlcc = -0.005; dailyShocks.suez = -0.004;
@@ -5216,11 +5374,12 @@
         } else if (this.scenario === 'contango_drag') {
           dailyShocks.cape = 0.000; dailyShocks.pana = 0.000; dailyShocks.supra = 0.000;
           dailyShocks.vlcc = 0.000; dailyShocks.suez = 0.000;
-          contangoPenalty = -0.0065; // severe contango
+          contangoPenalty = -0.0065;
+          annFreightVol = 0.25;
         } else if (this.scenario === 'fast_roll') {
           dailyShocks.cape = 0.005; dailyShocks.pana = 0.003;
           dailyShocks.vlcc = 0.006; dailyShocks.suez = 0.004;
-          rollVelocity = 2.5; // rolls in 8 days
+          rollVelocity = 2.5;
         }
 
         var curSimPrice = basePrice;
@@ -5228,7 +5387,6 @@
         var peakPrice = basePrice;
         var dailyReturns = [];
 
-        // Generate synthetic contract template
         var baseContracts = isBdry ? [
           { class: 'cape', name: 'Capesize Aug 26', baseRate: 26800, baseLots: 45, isPrompt: true },
           { class: 'cape', name: 'Capesize Sep 26', baseRate: 25400, baseLots: 0, isPrompt: false },
@@ -5250,21 +5408,21 @@
           dayDate.setDate(dayDate.getDate() + t);
           var dateStr = fmtDateISO(dayDate);
 
-          // Calculate Roll Progress (Axiom 2)
           var rawRollProgress = (t / 20) * rollVelocity;
           var rollPct = Math.min(100, Math.round(rawRollProgress * 100));
 
-          // Evolve contract rates with Samuelson term decay
+          var eps = seedInnovations[t % seedInnovations.length];
+          var dailyVol = (annFreightVol / Math.sqrt(252));
+
           var contracts = [];
           var totalNotional = 0;
 
           baseContracts.forEach(function(c) {
-            var shockRate = dailyShocks[c.class] || 0;
-            // Samuelson damping: prompt gets full shock, deferred gets 80%
+            var meanShock = dailyShocks[c.class] || 0;
             var termFactor = c.isPrompt ? 1.0 : 0.82;
-            curRates[c.name] = curRates[c.name] * (1 + shockRate * termFactor);
+            var contractShock = meanShock + (dailyVol * eps * (c.isPrompt ? 1.0 : 0.8));
+            curRates[c.name] = curRates[c.name] * (1 + contractShock * termFactor);
 
-            // Compute dynamic lots based on roll progress (strictly conserving target lots)
             var lots = c.baseLots;
             if (c.class === 'cape' && isBdry) {
               var nextL = Math.round(45 * (rollPct / 100));
@@ -5298,36 +5456,33 @@
             });
           });
 
-          // Normalize weights and dollar impact
           contracts.forEach(function(c) {
             c.weight = totalNotional > 0 ? (c.notional / totalNotional) * 100 : 0;
             var shockRatio = (c.simRate - c.settleRate) / c.settleRate;
             c.dollarImpact = curSimPrice * (c.weight / 100) * shockRatio;
           });
 
-          // Weighted Daily Return & 3-Way Attribution
-          var weightedFreightRet = 0;
+          var weightedMeanShock = 0;
           if (isBdry) {
-            weightedFreightRet = 0.50 * dailyShocks.cape + 0.40 * dailyShocks.pana + 0.10 * dailyShocks.supra;
+            weightedMeanShock = 0.50 * dailyShocks.cape + 0.40 * dailyShocks.pana + 0.10 * dailyShocks.supra;
           } else {
-            weightedFreightRet = 0.90 * dailyShocks.vlcc + 0.10 * dailyShocks.suez;
+            weightedMeanShock = 0.90 * dailyShocks.vlcc + 0.10 * dailyShocks.suez;
           }
+          var stochasticFreightRet = weightedMeanShock + (dailyVol * eps);
 
           var rollDrag = (contangoPenalty / 20) * (rollPct > 0 ? 1 : 0);
-          var cashFeeDrag = (0.0485 - 0.0350) / 252; // T-Bills - 3.50% TER
-          var netDailyRet = weightedFreightRet + rollDrag + cashFeeDrag;
+          var cashFeeDrag = (0.0485 - 0.0350) / 252;
+          var netDailyRet = stochasticFreightRet + rollDrag + cashFeeDrag;
 
           curSimPrice = curSimPrice * (1 + netDailyRet);
-          // Market price tracks with slight AP arbitrage noise
-          var noise = (Math.sin(t * 1.5) * 0.002);
-          curMktPrice = curMktPrice * (1 + weightedFreightRet + cashFeeDrag + noise);
+          var arbNoise = Math.sin(t * 1.6) * 0.005 + (seedInnovations[(t + 5) % seedInnovations.length] * 0.002);
+          curMktPrice = curMktPrice * (1 + stochasticFreightRet + cashFeeDrag + arbNoise);
           var spreadBps = ((curSimPrice - curMktPrice) / curMktPrice) * 10000;
 
           dailyReturns.push(netDailyRet);
           if (curSimPrice > peakPrice) peakPrice = curSimPrice;
           var curMdd = peakPrice > 0 ? ((peakPrice - curSimPrice) / peakPrice) * 100 : 0;
 
-          // Compute Rolling Stats
           var meanRet = dailyReturns.reduce(function(a, b) { return a + b; }, 0) / dailyReturns.length;
           var variance = dailyReturns.reduce(function(a, b) { return a + Math.pow(b - meanRet, 2); }, 0) / (dailyReturns.length || 1);
           var stdDev = Math.sqrt(variance);
@@ -5343,7 +5498,7 @@
             rollPct: rollPct,
             contracts: contracts,
             attribution: {
-              freight: weightedFreightRet * 100,
+              freight: stochasticFreightRet * 100,
               roll: rollDrag * 100,
               cash: cashFeeDrag * 100,
               total: netDailyRet * 100
@@ -5358,7 +5513,6 @@
           });
         }
 
-        // Update Scrubber Slider Max
         var scrubber = document.getElementById('simScrubber');
         if (scrubber) {
           scrubber.max = this.timeline.length - 1;
@@ -5569,7 +5723,8 @@
         var spreads = [];
 
         for (var i = 0; i <= this.curIdx; i++) {
-          labels.push('D' + (i + 1));
+          var dStr = (this.timeline[i] && this.timeline[i].date) ? this.timeline[i].date.substring(5) : ('D' + (i + 1));
+          labels.push(dStr);
           simPrices.push(this.timeline[i].simPrice);
           mktPrices.push(this.timeline[i].mktPrice);
           spreads.push(this.timeline[i].spreadBps);
@@ -5592,20 +5747,23 @@
                   label: 'Sim Price ($)',
                   data: simPrices,
                   borderColor: '#58a6ff',
-                  backgroundColor: 'rgba(88, 166, 255, 0.12)',
-                  borderWidth: 2,
+                  backgroundColor: 'rgba(88, 166, 255, 0.15)',
+                  borderWidth: 2.5,
                   fill: true,
-                  tension: 0.2,
-                  pointRadius: simPrices.length > 20 ? 0 : 2
+                  tension: 0.25,
+                  pointRadius: simPrices.length > 25 ? 0 : 3,
+                  pointBackgroundColor: '#58a6ff'
                 },
                 {
                   label: 'Mkt Price ($)',
                   data: mktPrices,
                   borderColor: '#e3b341',
-                  borderWidth: 1.5,
-                  borderDash: [4, 4],
+                  borderWidth: 2,
+                  borderDash: [5, 4],
                   fill: false,
-                  pointRadius: 0
+                  tension: 0.25,
+                  pointRadius: simPrices.length > 25 ? 0 : 2,
+                  pointBackgroundColor: '#e3b341'
                 }
               ]
             },
@@ -6475,33 +6633,38 @@
           </div>
         </div>
 
-        <!-- Preset Macro Scenario Trigger Chips -->
+        <!-- Preset Macro Scenario & Replay Trigger Chips -->
         <div class="sim-scenario-bar">
-          <span class="sim-scenario-label"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Macro Presets:</span>
-          <button class="sim-scenario-chip active" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')">
+          <span class="sim-scenario-label"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Scenarios &amp; Replay:</span>
+          <button class="sim-scenario-chip active" id="scenChip_historical_replay" onclick="SIM_CONTROLLER.loadScenario('historical_replay')">
+            <span class="chip-dot chip-dot-bull"></span>
+            <span class="chip-name">Historical Replay (SEC Filings)</span>
+            <span class="chip-tag pos">39 Days Actual</span>
+          </button>
+          <button class="sim-scenario-chip" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">China Stimulus Rally</span>
-            <span class="chip-tag pos">+3.5%/d Cape</span>
+            <span class="chip-tag pos">+3.5%/d Cape + Vol</span>
           </button>
           <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">Red Sea / Tanker Spike</span>
-            <span class="chip-tag pos">+4.0%/d VLCC</span>
+            <span class="chip-tag pos">+4.0%/d VLCC + Vol</span>
           </button>
           <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')">
             <span class="chip-dot chip-dot-bear"></span>
             <span class="chip-name">Monsoon Lull</span>
-            <span class="chip-tag neg">-1.5%/d</span>
+            <span class="chip-tag neg">-1.5%/d + Vol</span>
           </button>
           <button class="sim-scenario-chip" id="scenChip_contango_drag" onclick="SIM_CONTROLLER.loadScenario('contango_drag')">
             <span class="chip-dot chip-dot-warn"></span>
             <span class="chip-name">Contango Drag Test</span>
-            <span class="chip-tag warn">Pure Decay</span>
+            <span class="chip-tag warn">Pure Basis Decay</span>
           </button>
           <button class="sim-scenario-chip" id="scenChip_fast_roll" onclick="SIM_CONTROLLER.loadScenario('fast_roll')">
             <span class="chip-dot chip-dot-accent"></span>
             <span class="chip-name">Fast 5-Day Roll</span>
-            <span class="chip-tag accent">20%/d Roll</span>
+            <span class="chip-tag accent">20%/d Velocity</span>
           </button>
         </div>
 
