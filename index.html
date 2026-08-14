@@ -6155,6 +6155,8 @@
         var sliderContainer = document.getElementById(sliderContainerId);
         if (sliderContainer) {
           var existingInputs = sliderContainer.querySelectorAll('input.deconst-slider');
+
+          // ── FAST PATH: dragging → only update value labels, no DOM touch ──
           if (existingInputs.length === pred.holdings.length && window._isMicroDragging) {
             pred.holdings.forEach(function(h, idx) {
               var valEl = document.getElementById('deconstMicroVal_' + idx);
@@ -6162,31 +6164,61 @@
               if (valEl) valEl.textContent = (curEff >= 0 ? '+' : '') + curEff + '%';
             });
           } else {
-            var sliderHtml = '';
-            pred.holdings.forEach(function(h, idx) {
-              var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
-              var curEff = Math.round(h.effShockPct);
-              var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
-              var zeroPct = 33.33;
-              var thumbPct = Math.min(100, Math.max(0, ((curEff - (-50)) / 150) * 100));
-              var trackFillStyle = 'background:var(--card);';
-              if (curEff > 0) {
-                trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + thumbPct.toFixed(1) + '%, var(--card) ' + thumbPct.toFixed(1) + '%, var(--card) 100%);';
-              } else if (curEff < 0) {
-                trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + thumbPct.toFixed(1) + '%, #f85149 ' + thumbPct.toFixed(1) + '%, #f85149 ' + zeroPct.toFixed(1) + '%, var(--card) ' + zeroPct.toFixed(1) + '%, var(--card) 100%);';
-              }
-              sliderHtml += '<div style="margin-bottom:8px;">' +
-                '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
-                  '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Pricing History</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Lots Held</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Click to toggle historical settlement price trend line.</div>">' +
-                    '<span style="font-size:10px;opacity:0.7;">📈</span>' +
-                    '<span>' + h.Name + '</span>' +
-                  '</span>' +
-                  '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
-                '</div>' +
-                '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Granular Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Contract Lots</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Drag to apply custom percentage rate shock directly to this forward contract month.</div>" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
-              '</div>';
-            });
-            sliderContainer.innerHTML = sliderHtml;
+            // Build a structural fingerprint: contract names + lot counts.
+            // If the container already holds the same contract lineup, patch in-place
+            // (no innerHTML wipeout) so hovered elements never flicker.
+            var structKey = pred.holdings.map(function(h) { return h.Name + '|' + (h.lots || 0); }).join(',');
+            var domKey = sliderContainer.getAttribute('data-render-key') || '';
+
+            if (structKey === domKey && existingInputs.length === pred.holdings.length) {
+              // ── SURGICAL PATCH PATH: structure unchanged, update only dynamics ──
+              pred.holdings.forEach(function(h, idx) {
+                var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
+                var curEff = Math.round(h.effShockPct);
+                var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
+                var zeroPct = 33.33;
+                var thumbPct = Math.min(100, Math.max(0, ((curEff - (-50)) / 150) * 100));
+                var trackFillStyle = 'background:var(--card);';
+                if (curEff > 0) {
+                  trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + thumbPct.toFixed(1) + '%, var(--card) ' + thumbPct.toFixed(1) + '%, var(--card) 100%);';
+                } else if (curEff < 0) {
+                  trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + thumbPct.toFixed(1) + '%, #f85149 ' + thumbPct.toFixed(1) + '%, #f85149 ' + zeroPct.toFixed(1) + '%, var(--card) ' + zeroPct.toFixed(1) + '%, var(--card) 100%);';
+                }
+                var inp = existingInputs[idx];
+                if (inp && inp.value != curEff) inp.value = curEff;
+                if (inp) inp.style.cssText = trackFillStyle;
+                var valEl = document.getElementById('deconstMicroVal_' + idx);
+                if (valEl && valEl.textContent !== valStr) valEl.textContent = valStr;
+              });
+            } else {
+              // ── FULL RE-RENDER PATH: contract lineup changed (ETF switch / new holdings) ──
+              var sliderHtml = '';
+              pred.holdings.forEach(function(h, idx) {
+                var nameColor = h.class === 'cape' ? '#58a6ff' : (h.class === 'pana' ? '#3fb950' : (h.class === 'supra' ? '#d29922' : (h.class === 'vlcc' ? '#f0883e' : '#a371f7')));
+                var curEff = Math.round(h.effShockPct);
+                var valStr = (curEff >= 0 ? '+' : '') + curEff + '%';
+                var zeroPct = 33.33;
+                var thumbPct = Math.min(100, Math.max(0, ((curEff - (-50)) / 150) * 100));
+                var trackFillStyle = 'background:var(--card);';
+                if (curEff > 0) {
+                  trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + zeroPct.toFixed(1) + '%, ' + nameColor + ' ' + thumbPct.toFixed(1) + '%, var(--card) ' + thumbPct.toFixed(1) + '%, var(--card) 100%);';
+                } else if (curEff < 0) {
+                  trackFillStyle = 'background:linear-gradient(to right, var(--card) 0%, var(--card) ' + thumbPct.toFixed(1) + '%, #f85149 ' + thumbPct.toFixed(1) + '%, #f85149 ' + zeroPct.toFixed(1) + '%, var(--card) ' + zeroPct.toFixed(1) + '%, var(--card) 100%);';
+                }
+                sliderHtml += '<div style="margin-bottom:8px;">' +
+                  '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
+                    '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Pricing History</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Lots Held</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Click to toggle historical settlement price trend line.</div>">' +
+                      '<span style="font-size:10px;opacity:0.7;">📈</span>' +
+                      '<span>' + h.Name + '</span>' +
+                    '</span>' +
+                    '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
+                  '</div>' +
+                  '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Granular Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Contract Lots</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Drag to apply custom percentage rate shock directly to this forward contract month.</div>" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
+                '</div>';
+              });
+              sliderContainer.innerHTML = sliderHtml;
+              sliderContainer.setAttribute('data-render-key', structKey);
+            }
           }
         }
       }
