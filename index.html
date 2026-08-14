@@ -8473,8 +8473,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initChartDefaults); }
     else { initChartDefaults(); }
 
-    const chartRegistry = {};
-    function destroyChart(id) {
+    var chartRegistry = window.chartRegistry = window.chartRegistry || {};
+    window.destroyChart = function destroyChart(id) {
       if (chartRegistry[id]) {
         try { chartRegistry[id].destroy(); } catch (e) {}
         delete chartRegistry[id];
@@ -8486,7 +8486,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (c) c.destroy();
         } catch (e) {}
       }
-    }
+    };
+    var destroyChart = window.destroyChart;
 
     // Clean chart instantiation: preserves legend visibility (hidden/unselected state) across redrafts/slider drags,
     // and guarantees fresh metasets & correct scale bindings.
