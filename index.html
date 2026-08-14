@@ -6087,7 +6087,7 @@
               borderCss = 'border:1px solid var(--border);';
             }
 
-            mHtml += '<td onclick="applyMatrixCellShocks(' + rShock + ',' + cShock + ')" class="deconst-matrix-cell" style="padding:6px 8px;cursor:pointer;background:' + cellBg + ';' + borderCss + '" title="Click to apply ' + rShock + '% ' + rowName + ' / ' + cShock + '% ' + colName + ' shocks">' +
+            mHtml += '<td onclick="applyMatrixCellShocks(' + rShock + ',' + cShock + ')" class="deconst-matrix-cell" style="padding:6px 8px;cursor:pointer;background:' + cellBg + ';' + borderCss + '" data-tt-type="deconst-matrix-cell" data-tt-rshock="' + rShock + '" data-tt-cshock="' + cShock + '" data-tt-rowname="' + rowName.replace(/"/g, '&quot;') + '" data-tt-colname="' + colName.replace(/"/g, '&quot;') + '" data-tt-simprice="' + simPrice.toFixed(2) + '" data-tt-simshock="' + simShock.toFixed(1) + '" data-tt-simpnl="' + pnlStr.replace(/"/g, '&quot;') + '" data-tt-shares="' + shareCount + '">' +
               '<div style="font-weight:800;color:' + cellColor + ';font-size:11px;">$' + simPrice.toFixed(2) + '</div>' +
               '<div style="font-size:10px;font-weight:700;color:' + cellColor + ';opacity:0.9;margin-top:1px;">' + (simShock >= 0 ? '+' : '') + simShock.toFixed(1) + '%</div>' +
               '<div style="font-size:9px;font-weight:600;color:var(--text-muted);opacity:0.75;margin-top:1px;">' + pnlStr + '</div>' +
@@ -6111,43 +6111,43 @@
       if (_deconstSliderMode === 'macro') {
         if (bdrySlidersContainer && (!document.getElementById('deconstSliderCape') || !document.getElementById('deconstSliderPana'))) {
           bdrySlidersContainer.innerHTML =
-            '<div style="margin-bottom:12px;">' +
+            '<div style="margin-bottom:12px;" data-tooltip="<div class=\'rt-title\'>Capesize 5TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>180,000 DWT Capesize Bulker</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>Australia &amp; Brazil Iron Ore to China</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Capesize constituent futures contracts.</div>">' +
               '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
                 '<span style="font-weight:600;color:#58a6ff;">Capesize 5TC FFA Shock:</span>' +
                 '<span id="deconstValCape" style="font-weight:700;">' + (_deconstShocks.cape >= 0 ? '+' : '') + _deconstShocks.cape.toFixed(1) + '%</span>' +
               '</div>' +
-              '<input type="range" class="deconst-slider" id="deconstSliderCape" min="-50" max="100" value="' + Math.round(_deconstShocks.cape) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" id="deconstSliderCape" data-tooltip="<div class=\'rt-title\'>Capesize 5TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>180,000 DWT Capesize Bulker</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>Australia &amp; Brazil Iron Ore to China</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Capesize constituent futures contracts.</div>" min="-50" max="100" value="' + Math.round(_deconstShocks.cape) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
             '</div>' +
-            '<div style="margin-bottom:12px;">' +
+            '<div style="margin-bottom:12px;" data-tooltip="<div class=\'rt-title\'>Panamax 5TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>75,000-82,000 DWT Panamax/Kamsarmax</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>US Gulf &amp; S. America Grains, Pacific Coal</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Panamax constituent futures contracts.</div>">' +
               '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
                 '<span style="font-weight:600;color:#3fb950;">Panamax 5TC FFA Shock:</span>' +
                 '<span id="deconstValPana" style="font-weight:700;">' + (_deconstShocks.pana >= 0 ? '+' : '') + _deconstShocks.pana.toFixed(1) + '%</span>' +
               '</div>' +
-              '<input type="range" class="deconst-slider" id="deconstSliderPana" min="-50" max="100" value="' + Math.round(_deconstShocks.pana) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" id="deconstSliderPana" data-tooltip="<div class=\'rt-title\'>Panamax 5TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>75,000-82,000 DWT Panamax/Kamsarmax</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>US Gulf &amp; S. America Grains, Pacific Coal</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Panamax constituent futures contracts.</div>" min="-50" max="100" value="' + Math.round(_deconstShocks.pana) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
             '</div>' +
-            '<div style="margin-bottom:8px;">' +
+            '<div style="margin-bottom:8px;" data-tooltip="<div class=\'rt-title\'>Supramax 10TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>58,000-64,000 DWT Supramax/Ultramax</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>Minor Bulks, Fertilizers, Steel, Grains</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Supramax constituent futures contracts.</div>">' +
               '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
                 '<span style="font-weight:600;color:#d29922;">Supramax 10TC FFA Shock:</span>' +
                 '<span id="deconstValSupra" style="font-weight:700;">' + (_deconstShocks.supra >= 0 ? '+' : '') + _deconstShocks.supra.toFixed(1) + '%</span>' +
               '</div>' +
-              '<input type="range" class="deconst-slider" id="deconstSliderSupra" min="-50" max="100" value="' + Math.round(_deconstShocks.supra) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" id="deconstSliderSupra" data-tooltip="<div class=\'rt-title\'>Supramax 10TC Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>58,000-64,000 DWT Supramax/Ultramax</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Trade</span><span class=\'rt-val\'>Minor Bulks, Fertilizers, Steel, Grains</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Supramax constituent futures contracts.</div>" min="-50" max="100" value="' + Math.round(_deconstShocks.supra) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
             '</div>';
         }
         if (bwetSlidersContainer && (!document.getElementById('deconstSliderVlcc') || !document.getElementById('deconstSliderSuez'))) {
           bwetSlidersContainer.innerHTML =
-            '<div style="margin-bottom:12px;">' +
+            '<div style="margin-bottom:12px;" data-tooltip="<div class=\'rt-title\'>VLCC TD3C Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>300,000 DWT Very Large Crude Carrier</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Route</span><span class=\'rt-val\'>Middle East Gulf to Ningbo (China)</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all VLCC crude tanker futures contracts.</div>">' +
               '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
                 '<span style="font-weight:600;color:#f0883e;">VLCC TD3C (MEG-China) Shock:</span>' +
                 '<span id="deconstValVlcc" style="font-weight:700;">' + (_deconstShocks.vlcc >= 0 ? '+' : '') + _deconstShocks.vlcc.toFixed(1) + '%</span>' +
               '</div>' +
-              '<input type="range" class="deconst-slider" id="deconstSliderVlcc" min="-50" max="100" value="' + Math.round(_deconstShocks.vlcc) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" id="deconstSliderVlcc" data-tooltip="<div class=\'rt-title\'>VLCC TD3C Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>300,000 DWT Very Large Crude Carrier</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Route</span><span class=\'rt-val\'>Middle East Gulf to Ningbo (China)</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all VLCC crude tanker futures contracts.</div>" min="-50" max="100" value="' + Math.round(_deconstShocks.vlcc) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
             '</div>' +
-            '<div style="margin-bottom:8px;">' +
+            '<div style="margin-bottom:8px;" data-tooltip="<div class=\'rt-title\'>Suezmax TD20 Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>150,000-160,000 DWT Suezmax Crude Tanker</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Route</span><span class=\'rt-val\'>West Africa to UK-Continent</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Suezmax crude tanker futures contracts.</div>">' +
               '<div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">' +
                 '<span style="font-weight:600;color:#a371f7;">Suezmax TD20 (WAF-Cont) Shock:</span>' +
                 '<span id="deconstValSuez" style="font-weight:700;">' + (_deconstShocks.suez >= 0 ? '+' : '') + _deconstShocks.suez.toFixed(1) + '%</span>' +
               '</div>' +
-              '<input type="range" class="deconst-slider" id="deconstSliderSuez" min="-50" max="100" value="' + Math.round(_deconstShocks.suez) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
+              '<input type="range" class="deconst-slider" id="deconstSliderSuez" data-tooltip="<div class=\'rt-title\'>Suezmax TD20 Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Vessel Size</span><span class=\'rt-val\'>150,000-160,000 DWT Suezmax Crude Tanker</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Major Route</span><span class=\'rt-val\'>West Africa to UK-Continent</span></div><div class=\'rt-note\'>Applies a macro percentage shock to all Suezmax crude tanker futures contracts.</div>" min="-50" max="100" value="' + Math.round(_deconstShocks.suez) + '" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">' +
             '</div>';
         }
       } else if (_deconstSliderMode === 'micro') {
@@ -6177,13 +6177,13 @@
               }
               sliderHtml += '<div style="margin-bottom:8px;">' +
                 '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
-                  '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" title="Click to view historical price settlement chart for ' + h.Name + '">' +
-                    '<span style="font-size:10px;opacity:0.7;"></span>' +
+                  '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Pricing History</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Lots Held</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Click to toggle historical settlement price trend line.</div>">' +
+                    '<span style="font-size:10px;opacity:0.7;">📈</span>' +
                     '<span>' + h.Name + '</span>' +
                   '</span>' +
                   '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
                 '</div>' +
-                '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
+                '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Granular Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Contract Lots</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Drag to apply custom percentage rate shock directly to this forward contract month.</div>" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
               '</div>';
             });
             sliderContainer.innerHTML = sliderHtml;
@@ -7373,25 +7373,42 @@
           var settleStr = isBwet ? ('WS ' + Number(c.settleRate).toFixed(1)) : ('$' + Number(c.settleRate).toLocaleString());
           var simStr = isBwet ? ('WS ' + Number(c.simRate).toFixed(1)) : ('$' + Math.round(c.simRate).toLocaleString());
 
+          var rowTooltip = "<div class='rt-title'>" + c.name + " (" + (c.isPrompt ? 'Prompt Month' : 'Forward Strip') + ")</div>" +
+            "<div class='rt-row'><span class='rt-label'>Active Lots</span><span class='rt-val'>" + c.lots + " Lots ($" + ((c.notional / 1000000).toFixed(2)) + "M Notional)</span></div>" +
+            "<div class='rt-row'><span class='rt-label'>Daily Delta Impact</span><span class='rt-val " + (c.dollarImpact >= 0 ? 'pos' : 'neg') + "'>" + dollarSign + dollarAbs + " / ETF share</span></div>" +
+            "<div class='rt-note'>Click row to inspect high-resolution historical settlement curve and 52W range.</div>";
+
+          var lotTooltip = "<div class='rt-title'>Lot Migration & Decay Progress</div>" +
+            "<div class='rt-row'><span class='rt-label'>Contract Role</span><span class='rt-val'>" + (c.isPrompt ? 'Prompt Roll-Out Decay' : 'Next-Strip Roll-In Accrual') + "</span></div>" +
+            "<div class='rt-row'><span class='rt-label'>Starting Lots</span><span class='rt-val'>" + c.initialLots + " Lots</span></div>" +
+            "<div class='rt-row'><span class='rt-label'>Current Held Lots</span><span class='rt-val' style='color:var(--accent);'>" + c.lots + " Lots</span></div>" +
+            "<div class='rt-row'><span class='rt-label'>Migration State</span><span class='rt-val'>" + decayPct + "% " + (c.isPrompt ? 'Remaining' : 'Accrued') + "</span></div>" +
+            "<div class='rt-note'>5-Axiom calendar roll decay: 6.67% of prompt lots transitioned per business day across days 1-15.</div>";
+
+          var impactTooltip = "<div class='rt-title'>Dollar Impact per ETF Share</div>" +
+            "<div class='rt-row'><span class='rt-label'>Per-Share Contribution</span><span class='rt-val " + (c.dollarImpact >= 0 ? 'pos' : 'neg') + "'>" + dollarSign + dollarAbs + "</span></div>" +
+            "<div class='rt-row'><span class='rt-label'>Formula</span><span class='rt-val'>Lots × Mult × (Sim - Settle) ÷ Shares</span></div>" +
+            "<div class='rt-note'>Direct linear transmission of underlying freight rate move to fund NAV per share.</div>";
+
           html += '<tr class="' + tickClass + '">' +
-            '<td style="cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + (c.class || (isBwet ? 'vlcc' : 'cape')) + '\', \'' + c.name.replace(/'/g, "\\'") + '\', ' + idx + ')" title="Click to view historical price settlement chart for ' + c.name + '">' +
+            '<td style="cursor:pointer;" onclick="toggleDeconstContractHistory(\'' + (c.class || (isBwet ? 'vlcc' : 'cape')) + '\', \'' + c.name.replace(/'/g, "\\'") + '\', ' + idx + ')" data-tooltip="' + rowTooltip.replace(/"/g, '&quot;') + '">' +
               '<span style="display:inline-flex;align-items:center;gap:5px;">' +
                 '<strong style="color:var(--text);">' + c.name + '</strong> ' + 
                 (c.isPrompt ? '<span style="font-size:9px;color:#e3b341;border:1px solid rgba(227,179,65,0.4);border-radius:2px;padding:1px 3px;">PROMPT</span>' : '<span style="font-size:9px;color:#58a6ff;border:1px solid rgba(88,166,255,0.4);border-radius:2px;padding:1px 3px;">NEXT-Q</span>') +
                 '<span style="font-size:9px;opacity:0.8;padding:1px 3px;border-radius:3px;background:rgba(88,166,255,0.12);border:1px solid rgba(88,166,255,0.25);color:var(--accent);display:inline-flex;align-items:center;gap:2px;"><svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>chart ↗</span>' +
               '</span>' +
             '</td>' +
-            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">' + settleStr + '</td>' +
-            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);">' + simStr + '</td>' +
-            '<td style="text-align:center;">' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);" data-tooltip="<div class=\'rt-title\'>Official Settle Rate</div><div class=\'rt-val\'>' + settleStr + '</div><div class=\'rt-note\'>Baseline exchange daily settlement mark.</div>">' + settleStr + '</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--text);" data-tooltip="<div class=\'rt-title\'>Simulated Rate</div><div class=\'rt-val\' style=\'color:var(--accent);\'>' + simStr + '</div><div class=\'rt-note\'>Effective scenario simulated mark for this epoch.</div>">' + simStr + '</td>' +
+            '<td style="text-align:center;" data-tooltip="' + lotTooltip.replace(/"/g, '&quot;') + '">' +
               '<div style="display:flex;align-items:center;gap:6px;">' +
                 '<div class="lot-progress-track"><div class="lot-progress-fill ' + barClass + '" style="width:' + decayPct + '%;"></div></div>' +
                 '<span style="font-family:monospace;font-size:10px;min-width:32px;font-weight:700;">' + c.lots + 'L</span>' +
               '</div>' +
             '</td>' +
-            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--accent);">' + c.weight.toFixed(1) + '%</td>' +
-            '<td style="text-align:right;font-family:monospace;font-weight:700;color:' + dollarClass + ';">' + dollarSign + dollarAbs + '</td>' +
-            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);">$' + ((c.notional / 1000000).toFixed(2)) + 'M</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:var(--accent);" data-tooltip="<div class=\'rt-title\'>Portfolio Weight</div><div class=\'rt-val\'>' + c.weight.toFixed(1) + '%</div><div class=\'rt-note\'>Percentage of total fund futures notional.</div>">' + c.weight.toFixed(1) + '%</td>' +
+            '<td style="text-align:right;font-family:monospace;font-weight:700;color:' + dollarClass + ';" data-tooltip="' + impactTooltip.replace(/"/g, '&quot;') + '">' + dollarSign + dollarAbs + '</td>' +
+            '<td style="text-align:right;font-family:monospace;color:var(--text-muted);" data-tooltip="<div class=\'rt-title\'>Position Gross Notional</div><div class=\'rt-val\'>$' + ((c.notional / 1000000).toFixed(2)) + 'M</div><div class=\'rt-note\'>Notional = Lots × Multiplier × Simulated Rate.</div>">$' + ((c.notional / 1000000).toFixed(2)) + 'M</td>' +
           '</tr>';
         });
 
@@ -8077,9 +8094,9 @@
       <div class="chart-container mb-20" id="etfDeconstructCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
           <div>
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;" data-tooltip="<div class='rt-title'>Thesis-to-ETF Scenario Translator</div><div class='rt-row'><span class='rt-label'>Function</span><span class='rt-val'>Multi-Contract Shock Vector Engine</span></div><div class='rt-note'>Translates user-defined freight rate theses (e.g. +25% Capesize, -10% Panamax) into exact variation margin dollars ($), target share prices ($), and 2D sensitivity matrices.</div>">
               <div style="display:inline-flex;align-items:center;gap:8px;"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg></div> <span>Thesis-to-ETF Scenario Translator</span></div>
-              <span id="deconstLiveFreshnessBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">1 bday fresh • VERIFIED</span>
+              <span id="deconstLiveFreshnessBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);" data-tooltip="<div class='rt-title'>Archive Freshness &amp; Verification</div><div class='rt-row'><span class='rt-label'>Status</span><span class='rt-val pos'>1 Business Day Fresh • Verified</span></div><div class='rt-note'>Verified against the latest published Breakwave portfolio disclosure snapshot.</div>">1 bday fresh • VERIFIED</span>
             </div>
             <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
               Translates user target freight marks into gross futures variation margin dollars ($) and approximate ETF NAV / market price ranges when contemporaneous baseline is present.
@@ -8089,25 +8106,25 @@
           <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- Scenario Mode Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstModeFrozen" onclick="setDeconstScenarioMode('FROZEN_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" title="Frozen Disclosed Book: Disclosed constituent holdings remain unchanged">Frozen Disclosed Book</button>
-              <button id="deconstModeForward" onclick="setDeconstScenarioMode('USER_SPECIFIED_FORWARD_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" title="Custom Forward Book: Enables direct editing of constituent lots to specify custom roll-in and roll-out positions">Custom Forward Book</button>
+              <button id="deconstModeFrozen" onclick="setDeconstScenarioMode('FROZEN_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Frozen Disclosed Book Mode</div><div class='rt-note'>Locks holdings to the official disclosed SEC filing basket. Assumes constant contract quantities across the scenario horizon.</div>">Frozen Disclosed Book</button>
+              <button id="deconstModeForward" onclick="setDeconstScenarioMode('USER_SPECIFIED_FORWARD_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Custom Forward Book Mode</div><div class='rt-note'>Unlocks full editing of constituent lot quantities and allows adding custom forward roll-in contracts for multi-month positioning models.</div>">Custom Forward Book</button>
             </div>
 
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY (Dry Bulk)</button>
-              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET (Tankers)</button>
+              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-note'>Switches translator to analyze Capesize, Panamax, and Supramax dry bulk freight futures.</div>">BDRY (Dry Bulk)</button>
+              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-note'>Switches translator to analyze VLCC and Suezmax crude oil tanker freight futures.</div>">BWET (Tankers)</button>
             </div>
 
             <!-- Download Reconciliation CSV Button -->
-            <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;">
+            <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;" data-tooltip="<div class='rt-title'>Export Reconciliation CSV</div><div class='rt-note'>Downloads complete line-by-line portfolio data, target marks, gross variation margin P&L, and NAV contributions in standard CSV format.</div>">
               <span>⬇</span> Export CSV
             </button>
           </div>
         </div>
 
         <!-- Provenance & Baseline Sourcing Info Banner -->
-        <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;">
+        <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;" data-tooltip="<div class='rt-title'>Data Provenance &amp; Clearing Rulebooks</div><div class='rt-row'><span class='rt-label'>Clearing Exchanges</span><span class='rt-val'>NYMEX (CME Group) &amp; SGX Derivatives</span></div><div class='rt-row'><span class='rt-label'>Audit Hash</span><span class='rt-val'>SHA-256 Verified at generation</span></div><div class='rt-note'>Every position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>">
           <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;">
             <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
               <span style="color:var(--accent);font-weight:700;">PROVENANCE:</span>
@@ -8118,10 +8135,10 @@
               <span style="color:#3fb950;font-weight:600;">Rulebooks: NYMEX Ch 684/944 &amp; SGX Ch 8</span>
             </div>
             <div style="display:flex;align-items:center;gap:8px;">
-              <div id="deconstBaselineNote" style="color:var(--text-muted);font-weight:600;">
+              <div id="deconstBaselineNote" style="color:var(--text-muted);font-weight:600;" data-tooltip="<div class='rt-title'>Baseline Contemporaneous Status</div><div class='rt-note'>Indicates whether contemporaneous NAV and shares outstanding are verified for per-share price projections.</div>">
                 Baseline Status: NON-CONTEMPORANEOUS
               </div>
-              <button id="deconstToggleManualBaselineBtn" onclick="toggleManualBaselineDrawer()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;cursor:pointer;">✏️ Manual Baseline Override</button>
+              <button id="deconstToggleManualBaselineBtn" onclick="toggleManualBaselineDrawer()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;cursor:pointer;" data-tooltip="<div class='rt-title'>Manual Contemporaneous Baseline Override</div><div class='rt-note'>Opens the manual baseline drawer to input exact dated fund AUM, shares outstanding, and NAV/share for per-share price projection.</div>">✏️ Manual Baseline Override</button>
             </div>
           </div>
 
@@ -8171,12 +8188,12 @@
 
         <!-- Controls Row: Date Selector, Pricing Mode, & Quick Presets -->
         <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;background:var(--hover);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:14px;">
-          <div style="display:flex;align-items:center;gap:8px;">
+          <div style="display:flex;align-items:center;gap:8px;" data-tooltip="<div class='rt-title'>Scenario Horizon Date</div><div class='rt-note'>Select the target future or historical date for your scenario simulation horizon.</div>">
             <label style="font-size:12px;font-weight:600;color:var(--text-muted);">Horizon Date:</label>
             <input type="date" id="deconstTargetDate" value="2026-08-14" onchange="onDeconstDateChange()" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:4px;font-size:12px;font-family:inherit;">
           </div>
 
-          <div style="display:flex;align-items:center;gap:6px;">
+          <div style="display:flex;align-items:center;gap:6px;" data-tooltip="<div class='rt-title'>Secondary Market Pricing Mode</div><div class='rt-row'><span class='rt-label'>Auto</span><span class='rt-val'>Carry forward baseline prem/disc if contemporaneous</span></div><div class='rt-row'><span class='rt-label'>Carry-Forward</span><span class='rt-val'>Preserves historical premium/discount spread</span></div><div class='rt-row'><span class='rt-label'>NAV Parity</span><span class='rt-val'>Assumes 0.00% arbitrage parity (Price = NAV)</span></div><div class='rt-note'>Determines how the ETF secondary market price is projected from underlying NAV.</div>">
             <label style="font-size:11px;font-weight:600;color:var(--text-muted);">Pricing Mode:</label>
             <select id="deconstPricingModeSelect" onchange="onDeconstPricingModeChange(this.value)" style="background:var(--bg);color:var(--text);border:1px solid var(--border);padding:3px 6px;border-radius:4px;font-size:11px;font-family:inherit;">
               <option value="AUTO">Auto (Carry-Forward Prem/Disc if contemporaneous)</option>
@@ -8187,20 +8204,20 @@
 
           <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
             <span style="font-size:11px;color:var(--text-muted);font-weight:600;">Presets:</span>
-            <button class="pill-btn" onclick="setDeconstDatePreset('today')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Today</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Month End</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">Next Quarter Strip</button>
-            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;">1 Year Out</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('today')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;" data-tooltip="<div class='rt-title'>Horizon: Today</div><div class='rt-note'>Sets horizon date to today's active trading session.</div>">Today</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('month_end')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;" data-tooltip="<div class='rt-title'>Horizon: Month End</div><div class='rt-note'>Sets horizon date to the final trading day of the prompt contract month.</div>">Month End</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('next_quarter')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;" data-tooltip="<div class='rt-title'>Horizon: Next Quarter Strip</div><div class='rt-note'>Sets horizon date to the beginning of the next quarterly contract strip.</div>">Next Quarter Strip</button>
+            <button class="pill-btn" onclick="setDeconstDatePreset('one_year')" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);cursor:pointer;" data-tooltip="<div class='rt-title'>Horizon: 1 Year Forward</div><div class='rt-note'>Sets horizon date 365 days out for full multi-cycle analysis.</div>">1 Year Out</button>
           </div>
 
-          <button id="deconstBtnDecisionTicket" onclick="openDecisionTicketModal()" class="pill-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);color:#fff;font-weight:700;padding:4px 12px;border-radius:4px;border:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(31,111,235,0.3);font-size:11px;">
+          <button id="deconstBtnDecisionTicket" data-tooltip="<div class='rt-title'>Open Institutional Decision Ticket</div><div class='rt-row'><span class='rt-label'>Format</span><span class='rt-val'>Structured Compliance &amp; Trading Summary</span></div><div class='rt-note'>Generates a complete institutional decision ticket detailing portfolio shocks, P&amp;L attribution, book separation, and residual risks with 1-click JSON/Text export.</div>" onclick="openDecisionTicketModal()" class="pill-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);color:#fff;font-weight:700;padding:4px 12px;border-radius:4px;border:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(31,111,235,0.3);font-size:11px;">
             <span>📋</span>
             <span>Decision Ticket</span>
           </button>
 
           <div style="margin-left:auto;display:flex;align-items:center;gap:6px;font-size:11px;">
             <span style="color:var(--text-muted);font-weight:600;" data-tooltip="User-configurable assumption spread band (+/-2.50% default, NOT a historical probability estimate).">Assumed Prem/Disc Band:</span>
-            <span style="font-weight:700;color:var(--accent);">&plusmn;2.50%</span>
+            <span style="font-weight:700;color:var(--accent);" data-tooltip="Band range applied to model secondary market pricing uncertainty around NAV.">&plusmn;2.50%</span>
           </div>
         </div>
 
@@ -8261,43 +8278,43 @@
             </div>
             
             <div id="deconstSlidersBdry">
-              <div style="margin-bottom:12px;">
+              <div style="margin-bottom:12px;" data-tooltip="<div class='rt-title'>Capesize 5TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>180,000 DWT Capesize Bulker</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>Australia &amp; Brazil Iron Ore to China</span></div><div class='rt-note'>Applies a macro percentage shock to all Capesize constituent futures contracts.</div>">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#58a6ff;">Capesize 5TC FFA Shock:</span>
                   <span id="deconstValCape" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" class="deconst-slider" id="deconstSliderCape" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderCape" data-tooltip="<div class='rt-title'>Capesize 5TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>180,000 DWT Capesize Bulker</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>Australia &amp; Brazil Iron Ore to China</span></div><div class='rt-note'>Applies a macro percentage shock to all Capesize constituent futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
-              <div style="margin-bottom:12px;">
+              <div style="margin-bottom:12px;" data-tooltip="<div class='rt-title'>Panamax 5TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>75,000-82,000 DWT Panamax/Kamsarmax</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>US Gulf &amp; S. America Grains, Pacific Coal</span></div><div class='rt-note'>Applies a macro percentage shock to all Panamax constituent futures contracts.</div>">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#3fb950;">Panamax 5TC FFA Shock:</span>
                   <span id="deconstValPana" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" class="deconst-slider" id="deconstSliderPana" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderPana" data-tooltip="<div class='rt-title'>Panamax 5TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>75,000-82,000 DWT Panamax/Kamsarmax</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>US Gulf &amp; S. America Grains, Pacific Coal</span></div><div class='rt-note'>Applies a macro percentage shock to all Panamax constituent futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
-              <div style="margin-bottom:8px;">
+              <div style="margin-bottom:8px;" data-tooltip="<div class='rt-title'>Supramax 10TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>58,000-64,000 DWT Supramax/Ultramax</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>Minor Bulks, Fertilizers, Steel, Grains</span></div><div class='rt-note'>Applies a macro percentage shock to all Supramax constituent futures contracts.</div>">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#d29922;">Supramax 10TC FFA Shock:</span>
                   <span id="deconstValSupra" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" class="deconst-slider" id="deconstSliderSupra" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderSupra" data-tooltip="<div class='rt-title'>Supramax 10TC Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>58,000-64,000 DWT Supramax/Ultramax</span></div><div class='rt-row'><span class='rt-label'>Major Trade</span><span class='rt-val'>Minor Bulks, Fertilizers, Steel, Grains</span></div><div class='rt-note'>Applies a macro percentage shock to all Supramax constituent futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
             </div>
 
             <div id="deconstSlidersBwet" style="display:none;">
-              <div style="margin-bottom:12px;">
+              <div style="margin-bottom:12px;" data-tooltip="<div class='rt-title'>VLCC TD3C Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>300,000 DWT Very Large Crude Carrier</span></div><div class='rt-row'><span class='rt-label'>Major Route</span><span class='rt-val'>Middle East Gulf to Ningbo (China)</span></div><div class='rt-note'>Applies a macro percentage shock to all VLCC crude tanker futures contracts.</div>">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#f0883e;">VLCC TD3C (MEG-China) Shock:</span>
                   <span id="deconstValVlcc" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" class="deconst-slider" id="deconstSliderVlcc" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderVlcc" data-tooltip="<div class='rt-title'>VLCC TD3C Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>300,000 DWT Very Large Crude Carrier</span></div><div class='rt-row'><span class='rt-label'>Major Route</span><span class='rt-val'>Middle East Gulf to Ningbo (China)</span></div><div class='rt-note'>Applies a macro percentage shock to all VLCC crude tanker futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
-              <div style="margin-bottom:8px;">
+              <div style="margin-bottom:8px;" data-tooltip="<div class='rt-title'>Suezmax TD20 Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>150,000-160,000 DWT Suezmax Crude Tanker</span></div><div class='rt-row'><span class='rt-label'>Major Route</span><span class='rt-val'>West Africa to UK-Continent</span></div><div class='rt-note'>Applies a macro percentage shock to all Suezmax crude tanker futures contracts.</div>">
                 <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
                   <span style="font-weight:600;color:#a371f7;">Suezmax TD20 (WAF-Cont) Shock:</span>
                   <span id="deconstValSuez" style="font-weight:700;">+0%</span>
                 </div>
-                <input type="range" class="deconst-slider" id="deconstSliderSuez" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
+                <input type="range" class="deconst-slider" id="deconstSliderSuez" data-tooltip="<div class='rt-title'>Suezmax TD20 Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>150,000-160,000 DWT Suezmax Crude Tanker</span></div><div class='rt-row'><span class='rt-label'>Major Route</span><span class='rt-val'>West Africa to UK-Continent</span></div><div class='rt-note'>Applies a macro percentage shock to all Suezmax crude tanker futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
             </div>
           </div>
@@ -8314,7 +8331,7 @@
               </div>
               <div id="deconstHistoricalCycleInfo" style="display:none;font-size:11px;color:var(--accent);background:rgba(88,166,255,0.1);border:1px solid rgba(88,166,255,0.25);border-radius:4px;padding:4px 8px;margin-bottom:8px;"></div>
               <div id="macroPresetsGrid" style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;">
-                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate China Iron Ore Import Surge: Capesize +25%, Panamax +15%, Supramax +10%.">
+                <button id="macroBtn_china_boom" onclick="applyMacroScenario('china_boom')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>China Iron Ore Expansion</div><div class='rt-row'><span class='rt-label'>Cape 5TC:</span><span class='rt-val pos'>+25.0%</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC:</span><span class='rt-val pos'>+15.0%</span></div><div class='rt-row'><span class='rt-label'>Supramax 10TC:</span><span class='rt-val pos'>+10.0%</span></div><div class='rt-note'>Simulates heavy Chinese port restocking and Brazilian export surge.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">China Ore Expansion</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8322,7 +8339,7 @@
                   <div style="font-size:10px;color:var(--accent);font-weight:600;margin-top:3px;font-family:monospace;">Cape +25% | Pana +15%</div>
                 </button>
 
-                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Tanker Geopolitical Disruption: VLCC +35%, Suezmax +45%.">
+                <button id="macroBtn_tanker_squeeze" onclick="applyMacroScenario('tanker_squeeze')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Tanker Geopolitical Disruption</div><div class='rt-row'><span class='rt-label'>VLCC TD3C:</span><span class='rt-val pos'>+35.0%</span></div><div class='rt-row'><span class='rt-label'>Suezmax TD20:</span><span class='rt-val pos'>+45.0%</span></div><div class='rt-note'>Simulates Red Sea / Strait of Hormuz chokepoint friction lengthening voyages.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">Tanker Geopolitical Disruption</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8330,7 +8347,7 @@
                   <div style="font-size:10px;color:#f0883e;font-weight:600;margin-top:3px;font-family:monospace;">VLCC +35% | Suez +45%</div>
                 </button>
 
-                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Global Commodity Demand Slump: Dry Bulk -30%, Tankers -25%.">
+                <button id="macroBtn_recession" onclick="applyMacroScenario('recession')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Global Freight Contraction</div><div class='rt-row'><span class='rt-label'>Dry Bulk:</span><span class='rt-val neg'>-30.0%</span></div><div class='rt-row'><span class='rt-label'>Tankers:</span><span class='rt-val neg'>-25.0%</span></div><div class='rt-note'>Simulates industrial recession and sharp drop in seaborne cargo demand.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">Global Freight Contraction</span>
                     <span style="font-size:10px;color:#f85149;font-weight:800;">▼</span>
@@ -8338,7 +8355,7 @@
                   <div style="font-size:10px;color:#f85149;font-weight:600;margin-top:3px;font-family:monospace;">Dry -30% | Tanker -25%</div>
                 </button>
 
-                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate Q4 Seasonal Grain & Coal Rally: Capesize +30%, Panamax +20%.">
+                <button id="macroBtn_q4_surge" onclick="applyMacroScenario('q4_surge')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Q4 Seasonal Peak Surge</div><div class='rt-row'><span class='rt-label'>Cape 5TC:</span><span class='rt-val pos'>+30.0%</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC:</span><span class='rt-val pos'>+20.0%</span></div><div class='rt-note'>Simulates pre-winter coal stockpiling and US grain export peak.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">Q4 Seasonal Peak Surge</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8349,7 +8366,7 @@
 
               <!-- Multi-Year Historical Cycles Scenario Grid -->
               <div id="macroCyclesGrid" style="display:none;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px;max-height:160px;overflow-y:auto;padding-right:4px;">
-                <button id="macroBtn_cycle_2021" onclick="applyMacroScenario('cycle_2021')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2021 Post-COVID Commodity Supercycle Rate Shock (+120% Capesize, +85% Panamax).">
+                <button id="macroBtn_cycle_2021" onclick="applyMacroScenario('cycle_2021')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>2021 Capesize Supercycle</div><div class='rt-row'><span class='rt-label'>Cape 5TC:</span><span class='rt-val pos'>+120.0%</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC:</span><span class='rt-val pos'>+85.0%</span></div><div class='rt-note'>Simulates historic 2021 post-pandemic commodity rally and severe port congestion.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2021 Capesize Supercycle</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8357,7 +8374,7 @@
                   <div style="font-size:10px;color:#3fb950;font-weight:600;margin-top:3px;font-family:monospace;">Cape +120% | Pana +85%</div>
                 </button>
 
-                <button id="macroBtn_cycle_2022" onclick="applyMacroScenario('cycle_2022')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2022 Tanker Rate Squeeze (+95% VLCC, +75% Suezmax).">
+                <button id="macroBtn_cycle_2022" onclick="applyMacroScenario('cycle_2022')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>2022 Sanctions Tanker Spike</div><div class='rt-row'><span class='rt-label'>VLCC TD3C:</span><span class='rt-val pos'>+95.0%</span></div><div class='rt-row'><span class='rt-label'>Suezmax TD20:</span><span class='rt-val pos'>+75.0%</span></div><div class='rt-note'>Simulates Russian crude trade rerouting and massive increase in tanker ton-miles.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2022 Sanctions Tanker Spike</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8365,7 +8382,7 @@
                   <div style="font-size:10px;color:#f0883e;font-weight:600;margin-top:3px;font-family:monospace;">VLCC +95% | Suez +75%</div>
                 </button>
 
-                <button id="macroBtn_cycle_2023" onclick="applyMacroScenario('cycle_2023')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="Simulate 2023 China Reopening Freight Recovery (+45% Capesize, +35% Panamax).">
+                <button id="macroBtn_cycle_2023" onclick="applyMacroScenario('cycle_2023')" class="macro-scenario-btn" style="background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:5px;text-align:left;cursor:pointer;transition:all 0.15s;" data-tooltip="<div class='rt-title'>2023 China Reopening Rally</div><div class='rt-row'><span class='rt-label'>Cape 5TC:</span><span class='rt-val pos'>+45.0%</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC:</span><span class='rt-val pos'>+35.0%</span></div><div class='rt-note'>Simulates post-lockdown industrial bounce in Chinese manufacturing and raw material imports.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span style="font-size:11px;font-weight:700;">2023 China Reopening Rally</span>
                     <span style="font-size:10px;color:#3fb950;font-weight:800;">▲</span>
@@ -8373,7 +8390,7 @@
                   <div style="font-size:10px;color:var(--accent);font-weight:600;margin-top:3px;font-family:monospace;">Cape +45% | Pana +35%</div>
                 </button>
 
-                <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="Simulate 2023 Red Sea Chokepoint Diversion Freight Rally (+45% Cape move).">
+                <button onclick="simulateMacroCycle('bdry', 45, 'Nov 2023', 'Dec 2023')" class="macro-scenario-btn" style="background:var(--bg);border:1px solid var(--border);color:var(--text);" data-tooltip="<div class='rt-title'>2024 Red Sea Crisis</div><div class='rt-row'><span class='rt-label'>Cape 5TC:</span><span class='rt-val pos'>+45.0%</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC:</span><span class='rt-val pos'>+32.0%</span></div><div class='rt-note'>Simulates Bab-el-Mandeb Strait disruption and global vessel rerouting via Cape of Good Hope.</div>">
                   <div style="display:flex;align-items:center;justify-content:space-between;width:100%;">
                     <span>2024 Red Sea Crisis</span>
                     <span style="font-size:10px;opacity:0.6;"></span>
@@ -8384,7 +8401,7 @@
             </div>
 
             <!-- Reverse Price Target Solver -->
-            <div style="border-top:1px solid var(--border);padding-top:10px;margin-top:4px;">
+            <div style="border-top:1px solid var(--border);padding-top:10px;margin-top:4px;" data-tooltip="<div class='rt-title'>Reverse Price Target Solver</div><div class='rt-row'><span class='rt-label'>Method</span><span class='rt-val'>Linear Goal-Seek on Lot Weights</span></div><div class='rt-note'>Calculates the uniform percentage freight rally required across active holdings to achieve your target ETF share price.</div>">
               <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:6px;display:flex;align-items:center;justify-content:space-between;">
                 <span>Target Share Price Reverse Solver</span>
                 <span style="font-size:10px;color:var(--text-muted);">Solves required FFA rates</span>
@@ -8409,13 +8426,13 @@
               <table style="width:100%;border-collapse:collapse;font-size:12px;text-align:left;">
                 <thead>
                   <tr style="background:var(--card);color:var(--text-muted);border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;letter-spacing:0.4px;font-weight:700;">
-                    <th style="padding:6px 8px;">Contract Description</th>
-                    <th style="padding:6px 8px;text-align:right;" title="Official disclosed lots from latest verified archive">Disclosed Lots</th>
-                    <th style="padding:6px 8px;text-align:right;" title="Effective scenario lots (editable in Custom Forward Book mode)">Scenario Lots</th>
-                    <th style="padding:6px 8px;text-align:right;">Mult</th>
-                    <th style="padding:6px 8px;text-align:right;">Current Mark</th>
-                    <th style="padding:6px 8px;text-align:right;min-width:110px;color:var(--accent);">Target Mark ($) [Primary]</th>
-                    <th style="padding:6px 8px;text-align:right;">Delta %</th>
+                    <th style="padding:6px 8px;" data-tooltip="<div class='rt-title'>Contract Strip Description</div><div class='rt-note'>Constituent futures strip specification (Baltic / SGX / CME).</div>">Contract Description</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="<div class='rt-title'>Official Disclosed Lots</div><div class='rt-note'>Actual contract lot quantities disclosed in official fund archives.</div>">Disclosed Lots</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="<div class='rt-title'>Effective Scenario Lots</div><div class='rt-note'>Modeled lot position. Editable in Custom Forward Book mode to model roll transitions.</div>">Scenario Lots</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="<div class='rt-title'>Contract Multiplier</div><div class='rt-note'>Exchange point value multiplier ($/index point or $/day). Capesize=1.0, Panamax=1.0, Supramax=1.0, VLCC=100.0, Suezmax=100.0.</div>">Mult</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="<div class='rt-title'>Baseline Settlement Rate</div><div class='rt-note'>Contemporaneous exchange settlement mark used as the baseline price.</div>">Current Mark</th>
+                    <th style="padding:6px 8px;text-align:right;min-width:110px;color:var(--accent);" data-tooltip="<div class='rt-title'>Target Freight Mark</div><div class='rt-note'>Simulated settlement mark after applying your percentage shock or direct price input.</div>">Target Mark ($) [Primary]</th>
+                    <th style="padding:6px 8px;text-align:right;" data-tooltip="<div class='rt-title'>Rate Shock Delta (%)</div><div class='rt-note'>Percentage change from baseline settlement mark to scenario target mark.</div>">Delta %</th>
                     <th style="padding:6px 8px;text-align:right;" data-tooltip="Gross Futures Variation Margin P&L ($) for this constituent position.">Gross Futures P&amp;L ($)</th>
                     <th style="padding:6px 8px;text-align:right;" data-tooltip="Percentage NAV return contribution of this specific contract.">% NAV Contrib</th>
                   </tr>
@@ -8428,7 +8445,7 @@
 
             <!-- Custom Roll-In Leg Controls -->
             <div style="margin-top:8px;display:flex;justify-content:flex-start;align-items:center;">
-              <button id="deconstAddRollInBtn" onclick="toggleAddRollInDrawer()" style="display:none;padding:4px 10px;border-radius:4px;border:1px dashed var(--accent);background:rgba(77,154,255,0.1);color:var(--accent);font-size:11px;font-weight:700;cursor:pointer;">+ Add Custom Roll-In Leg</button>
+              <button id="deconstAddRollInBtn" onclick="toggleAddRollInDrawer()" style="display:none;padding:4px 10px;border-radius:4px;border:1px dashed var(--accent);background:rgba(77,154,255,0.1);color:var(--accent);font-size:11px;font-weight:700;cursor:pointer;" data-tooltip="<div class='rt-title'>Add Forward Roll-In Leg</div><div class='rt-note'>Add future contract expiries to model forward roll positioning.</div>">+ Add Custom Roll-In Leg</button>
             </div>
 
             <!-- Custom Roll-In Leg Drawer -->
@@ -8472,16 +8489,16 @@
 
           <div>
             <div style="font-size:12px;font-weight:700;color:var(--text);margin-bottom:4px;display:flex;justify-content:space-between;align-items:center;">
-              <span>Holdings Weight Allocation</span>
+              <span data-tooltip="<div class='rt-title'>Portfolio Allocation Donut</div><div class='rt-note'>Visual breakdown of contract notional weights across the fund.</div>">Holdings Weight Allocation</span>
               <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:10px;">
-                <button id="deconstChartModeClass" onclick="setDeconstChartMode('class')" data-tooltip="Clean high-level view aggregating futures allocations into 2-3 vessel class slices." style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">By Vessel</button>
-                <button id="deconstChartModeContract" onclick="setDeconstChartMode('contract')" data-tooltip="Detailed breakdown across contract expiry months using vessel color family grouping." style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">By Contract</button>
+                <button id="deconstChartModeClass" onclick="setDeconstChartMode('class')" data-tooltip="<div class='rt-title'>Allocation by Vessel Class</div><div class='rt-note'>Aggregates allocations into high-level vessel class slices.</div>" style="padding:2px 6px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-weight:700;">By Vessel</button>
+                <button id="deconstChartModeContract" onclick="setDeconstChartMode('contract')" data-tooltip="<div class='rt-title'>Allocation by Contract Strip</div><div class='rt-note'>Granular breakdown across individual contract expiry strips.</div>" style="padding:2px 6px;border:none;cursor:pointer;background:var(--bg);color:var(--text-muted);border-left:1px solid var(--border);">By Contract</button>
               </div>
             </div>
             <div id="deconstContractLegendBadge" style="font-size:11px;color:var(--text-muted);margin-bottom:6px;display:none;font-weight:600;">
               <span id="deconstLegendBadgeText">• <b>Cape</b> (Blue) &nbsp;•&nbsp;  <b>Pana</b> (Green) &nbsp;•&nbsp;  <b>Supra</b> (Gold)</span>
             </div>
-            <div class="chart-canvas-wrap" style="height:270px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;">
+            <div class="chart-canvas-wrap" style="height:270px;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px;" data-tooltip="<div class='rt-title'>Portfolio Allocation Donut Chart</div><div class='rt-note'>Interactive visualization of active futures contract notionals.</div>">
               <canvas id="etfDeconstChart"></canvas>
             </div>
           </div>
@@ -8750,14 +8767,14 @@
         <!-- Header & Primary Controls -->
         <div class="sim-header">
           <div class="sim-header-left">
-            <div class="sim-title">
+            <div class="sim-title" data-tooltip="<div class='rt-title'>Day-by-Day ETF Portfolio &amp; Price Simulator</div><div class='rt-row'><span class='rt-label'>Data Source</span><span class='rt-val'>SEC Form 10-Q &amp; Daily N-PORT Disclosures</span></div><div class='rt-row'><span class='rt-label'>Engine Mode</span><span class='rt-val'>Deterministic Point-in-Time Accounting Replay</span></div><div class='rt-note'>Simulates full calendar roll cycles day-by-day, tracking lot decay, variation margin settlement, and premium/discount spreads without synthetic distortion.</div>">
               <div class="icon-tile icon-tile-accent icon-tile-md">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <polygon points="5 3 19 12 5 21 5 3"></polygon>
                 </svg>
               </div>
               <span>Day-by-Day ETF Portfolio &amp; Price Simulator</span>
-              <span class="sim-live-badge" id="simLiveStatusBadge">PAUSED</span>
+              <span class="sim-live-badge" id="simLiveStatusBadge" data-tooltip="<div class='rt-title'>Simulation Playback State</div><div class='rt-row'><span class='rt-label'>Controls</span><span class='rt-val'>Spacebar (Play/Pause) • R (Reset) • ←/→ (Step)</span></div><div class='rt-note'>Indicates whether the simulator is actively advancing through consecutive trading days or paused for static inspection.</div>">PAUSED</span>
             </div>
             <div class="sim-subtitle">
               Accounting Replay Engine (<strong style="color:#d29922;">Status: DESCRIPTIVE_UNRECONCILED</strong> &bull; Daily variation margin tracked; daily cash vouchers, expense accruals &amp; intraday roll fills unobserved &bull; Alpha Signals Suspended).
@@ -8767,41 +8784,41 @@
           <div class="sim-header-right">
             <!-- ETF Selector Toggle -->
             <div class="sim-etf-toggle">
-              <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')">BDRY (Dry Bulk)</button>
-              <button id="simEtfBwet" class="sim-toggle-btn" onclick="SIM_CONTROLLER.switchETF('bwet')">BWET (Tankers)</button>
+              <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>Capesize 5TC • Panamax 5TC • Supramax 10TC</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Solactive Dry Bulk Shipping Index</span></div><div class='rt-note'>Switches simulator to replay BDRY dry bulk futures holdings and lot migration.</div>">BDRY (Dry Bulk)</button>
+              <button id="simEtfBwet" class="sim-toggle-btn" onclick="SIM_CONTROLLER.switchETF('bwet')" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>VLCC TD3C (MEG-China) • Suezmax TD20 (WAF-Cont)</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Breakwave Tanker Futures Index</span></div><div class='rt-note'>Switches simulator to replay BWET crude tanker futures holdings and lot migration.</div>">BWET (Tankers)</button>
             </div>
           </div>
         </div>
 
         <!-- Preset Macro Scenario & Replay Trigger Chips -->
         <div class="sim-scenario-bar">
-          <span class="sim-scenario-label"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Scenarios &amp; Replay:</span>
-          <button class="sim-scenario-chip active" id="scenChip_historical_replay" onclick="SIM_CONTROLLER.loadScenario('historical_replay')">
+          <span class="sim-scenario-label" data-tooltip="<div class='rt-title'>Macro Scenario &amp; Replay Presets</div><div class='rt-note'>Select a historical SEC filing replay window or apply forward conditional stress scenarios.</div>"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Scenarios &amp; Replay:</span>
+          <button class="sim-scenario-chip active" id="scenChip_historical_replay" onclick="SIM_CONTROLLER.loadScenario('historical_replay')" data-tooltip="<div class='rt-title'>Historical Accounting Replay</div><div class='rt-row'><span class='rt-label'>Window</span><span class='rt-val'>39 Trading Days Point-in-Time</span></div><div class='rt-row'><span class='rt-label'>Grounding</span><span class='rt-val'>Official SEC Filings &amp; SGX Settle Prices</span></div><div class='rt-note'>Replays actual historical portfolio holdings, verified daily lot transitions, and secondary market premium/discount spreads.</div>">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">Historical Replay (SEC Filings)</span>
             <span class="chip-tag pos">39 Days Actual</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')">
+          <button class="sim-scenario-chip" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')" data-tooltip="<div class='rt-title'>Macro Scenario: China Stimulus Rally</div><div class='rt-row'><span class='rt-label'>Cape 5TC</span><span class='rt-val pos'>+2.5%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC</span><span class='rt-val pos'>+1.5%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Supramax 10TC</span><span class='rt-val pos'>+1.0%/day compounded</span></div><div class='rt-note'>Simulates infrastructure stimulus surge driving strong Capesize iron ore imports into Qingdao.</div>">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">China Stimulus Rally</span>
             <span class="chip-tag pos">+3.5%/d Cape + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')">
+          <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')" data-tooltip="<div class='rt-title'>Macro Scenario: Red Sea Tanker Spike</div><div class='rt-row'><span class='rt-label'>VLCC TD3C</span><span class='rt-val pos'>+3.0%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Suezmax TD20</span><span class='rt-val pos'>+2.5%/day compounded</span></div><div class='rt-note'>Simulates geopolitical chokepoint rerouting around Cape of Good Hope, adding ton-mile demand and squeezing freight rates.</div>">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">Red Sea / Tanker Spike</span>
             <span class="chip-tag pos">+4.0%/d VLCC + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')">
+          <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')" data-tooltip="<div class='rt-title'>Macro Scenario: Seasonal Monsoon Lull</div><div class='rt-row'><span class='rt-label'>Dry Bulk Basket</span><span class='rt-val neg'>-1.5%/day contraction</span></div><div class='rt-row'><span class='rt-label'>Tanker Basket</span><span class='rt-val neg'>-0.4%/day contraction</span></div><div class='rt-note'>Simulates seasonal construction slowdown and industrial shipping demand lull.</div>">
             <span class="chip-dot chip-dot-bear"></span>
             <span class="chip-name">Monsoon Lull</span>
             <span class="chip-tag neg">-1.5%/d + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_contango_drag" disabled style="opacity:0.4;cursor:not-allowed;" title="Disabled — Requires dynamic contract quantity transition and live term structure curve feed">
+          <button class="sim-scenario-chip" id="scenChip_contango_drag" disabled style="opacity:0.4;cursor:not-allowed;" data-tooltip="<div class='rt-title'>Contango Drag (Disabled)</div><div class='rt-note'>Requires dynamic contract quantity transition and live term structure curve feed.</div>">
             <span class="chip-dot chip-dot-warn"></span>
             <span class="chip-name">Contango Drag</span>
             <span class="chip-tag warn">Disabled</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_fast_roll" disabled style="opacity:0.4;cursor:not-allowed;" title="Disabled — Requires dynamic contract quantity transition and live term structure curve feed">
+          <button class="sim-scenario-chip" id="scenChip_fast_roll" disabled style="opacity:0.4;cursor:not-allowed;" data-tooltip="<div class='rt-title'>Fast Roll (Disabled)</div><div class='rt-note'>Requires dynamic contract quantity transition and live term structure curve feed.</div>">
             <span class="chip-dot chip-dot-accent"></span>
             <span class="chip-name">Fast Roll</span>
             <span class="chip-tag accent">Disabled (No Curve Feed)</span>
@@ -8811,17 +8828,17 @@
         <!-- Cinematic Playback Controller & Scrubber -->
         <div class="sim-playback-dock">
           <div class="sim-playback-controls">
-            <button class="sim-ctrl-btn" id="simBtnReset" onclick="SIM_CONTROLLER.reset()" title="Reset to Day 0 (Key: R)">
+            <button class="sim-ctrl-btn" id="simBtnReset" onclick="SIM_CONTROLLER.reset()" data-tooltip="<div class='rt-title'>Reset Timeline (Day 0)</div><div class='rt-row'><span class='rt-label'>Keyboard Shortcut</span><span class='rt-val'>Key: R</span></div><div class='rt-note'>Resets timeline scrubber and portfolio positions back to initial day 0.</div>">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
             </button>
-            <button class="sim-ctrl-btn" id="simBtnPrev" onclick="SIM_CONTROLLER.stepPrev()" title="Step Previous (Key: ←)">
+            <button class="sim-ctrl-btn" id="simBtnPrev" onclick="SIM_CONTROLLER.stepPrev()" data-tooltip="<div class='rt-title'>Step Previous (-1 Day)</div><div class='rt-row'><span class='rt-label'>Keyboard Shortcut</span><span class='rt-val'>Key: Left Arrow (←)</span></div><div class='rt-note'>Steps the simulation backward by one trading day.</div>">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" y1="19" x2="5" y2="5"/></svg>
             </button>
-            <button class="sim-play-btn" id="simBtnPlay" onclick="SIM_CONTROLLER.togglePlay()" title="Play/Pause (Key: Spacebar)">
+            <button class="sim-play-btn" id="simBtnPlay" onclick="SIM_CONTROLLER.togglePlay()" data-tooltip="<div class='rt-title'>Play / Pause Simulation</div><div class='rt-row'><span class='rt-label'>Keyboard Shortcut</span><span class='rt-val'>Spacebar</span></div><div class='rt-note'>Toggles real-time continuous playback advancing through daily epochs.</div>">
               <svg id="simPlayIcon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
               <svg id="simPauseIcon" style="display:none;" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
             </button>
-            <button class="sim-ctrl-btn" id="simBtnNext" onclick="SIM_CONTROLLER.stepNext()" title="Step Next (Key: →)">
+            <button class="sim-ctrl-btn" id="simBtnNext" onclick="SIM_CONTROLLER.stepNext()" data-tooltip="<div class='rt-title'>Step Next (+1 Day)</div><div class='rt-row'><span class='rt-label'>Keyboard Shortcut</span><span class='rt-val'>Key: Right Arrow (→)</span></div><div class='rt-note'>Advances the simulation forward by one trading day.</div>">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" y1="5" x2="19" y2="19"/></svg>
             </button>
           </div>
@@ -8829,8 +8846,8 @@
           <!-- Interactive Scrubber & Timeline -->
           <div class="sim-scrubber-wrapper">
             <div class="sim-timeline-info">
-              <span id="simCurrentDateDisplay" class="sim-date-badge">Day 1 / 30 &bull; 2026-08-11</span>
-              <span id="simRollStatusBadge" class="sim-roll-badge">Roll Progress: 0%</span>
+              <span id="simCurrentDateDisplay" class="sim-date-badge" data-tooltip="<div class='rt-title'>Current Timeline Epoch</div><div class='rt-note'>Current simulated trading day index and calendar date.</div>">Day 1 / 30 &bull; 2026-08-11</span>
+              <span id="simRollStatusBadge" class="sim-roll-badge" data-tooltip="<div class='rt-title'>Solactive 5-Axiom Calendar Roll Progress</div><div class='rt-row'><span class='rt-label'>Roll Window</span><span class='rt-val'>Business Days 1-15</span></div><div class='rt-row'><span class='rt-label'>Daily Rate</span><span class='rt-val'>6.67% of prompt lots transitioned/day</span></div><div class='rt-note'>Cumulative transition percentage of prompt lots transferred into next-strip contracts.</div>">Roll Progress: 0%</span>
             </div>
             <div class="sim-slider-container">
               <input type="range" id="simScrubber" min="0" max="29" value="0" step="1" 
@@ -8852,12 +8869,12 @@
           <div class="sim-speed-dock">
             <span class="sim-speed-label">Speed:</span>
             <div class="sim-speed-group">
-              <button class="sim-speed-btn" data-speed="0.5" onclick="SIM_CONTROLLER.setSpeed(0.5, this)">0.5x</button>
-              <button class="sim-speed-btn active" data-speed="1" onclick="SIM_CONTROLLER.setSpeed(1, this)">1x</button>
-              <button class="sim-speed-btn" data-speed="2" onclick="SIM_CONTROLLER.setSpeed(2, this)">2x</button>
-              <button class="sim-speed-btn" data-speed="5" onclick="SIM_CONTROLLER.setSpeed(5, this)">5x</button>
-              <button class="sim-speed-btn" data-speed="10" onclick="SIM_CONTROLLER.setSpeed(10, this)">10x</button>
-              <button class="sim-speed-btn" data-speed="999" onclick="SIM_CONTROLLER.setSpeed(999, this)">⚡ Max</button>
+              <button class="sim-speed-btn" data-speed="0.5" onclick="SIM_CONTROLLER.setSpeed(0.5, this)" data-tooltip="<div class='rt-title'>Playback Speed: 0.5x</div><div class='rt-note'>Slow motion playback (2,000ms per day) for granular inspection.</div>">0.5x</button>
+              <button class="sim-speed-btn active" data-speed="1" onclick="SIM_CONTROLLER.setSpeed(1, this)" data-tooltip="<div class='rt-title'>Playback Speed: 1.0x</div><div class='rt-note'>Standard playback speed (1,000ms per day).</div>">1x</button>
+              <button class="sim-speed-btn" data-speed="2" onclick="SIM_CONTROLLER.setSpeed(2, this)" data-tooltip="<div class='rt-title'>Playback Speed: 2.0x</div><div class='rt-note'>Double speed (500ms per day).</div>">2x</button>
+              <button class="sim-speed-btn" data-speed="5" onclick="SIM_CONTROLLER.setSpeed(5, this)" data-tooltip="<div class='rt-title'>Playback Speed: 5.0x</div><div class='rt-note'>Fast speed (200ms per day).</div>">5x</button>
+              <button class="sim-speed-btn" data-speed="10" onclick="SIM_CONTROLLER.setSpeed(10, this)" data-tooltip="<div class='rt-title'>Playback Speed: 10.0x</div><div class='rt-note'>High speed (100ms per day).</div>">10x</button>
+              <button class="sim-speed-btn" data-speed="999" onclick="SIM_CONTROLLER.setSpeed(999, this)" data-tooltip="<div class='rt-title'>Playback Speed: Maximum</div><div class='rt-note'>Instantaneous execution (10ms per day).</div>">⚡ Max</button>
             </div>
           </div>
         </div>
@@ -8870,23 +8887,23 @@
           <!-- PANEL A: Animated Holdings & Flow Table -->
           <div class="sim-panel sim-panel-holdings">
             <div class="sim-panel-header">
-              <div class="sim-panel-title">
+              <div class="sim-panel-title" data-tooltip="<div class='rt-title'>Dynamic Holdings &amp; Contract Roll Migration</div><div class='rt-row'><span class='rt-label'>Axiom 1-5 Engine</span><span class='rt-val'>Solactive Calendar Roll Rules</span></div><div class='rt-note'>Displays active constituent futures positions, real-time prompt contract decay, forward lot accruals, and per-contract NAV contributions.</div>">
                 <span class="sim-panel-dot dot-blue"></span>
                 <span>Panel A: Dynamic Holdings &amp; Contract Roll Migration</span>
               </div>
-              <div class="sim-badge" id="simActiveLotsBadge">112.0 Total Lots</div>
+              <div class="sim-badge" id="simActiveLotsBadge" data-tooltip="<div class='rt-title'>Total Active Futures Lots</div><div class='rt-note'>Sum of all prompt and forward futures contract lots currently held in the fund portfolio.</div>">112.0 Total Lots</div>
             </div>
             <div class="sim-table-wrap">
               <table class="sim-table" id="simHoldingsTable">
                 <thead>
                   <tr>
-                    <th>Contract Strip</th>
-                    <th style="text-align:right;">Settle Rate</th>
-                    <th style="text-align:right;">Sim Rate</th>
-                    <th style="text-align:center;min-width:110px;">Lot Migration</th>
-                    <th style="text-align:right;">Weight</th>
-                    <th style="text-align:right;">$/Share Imp.</th>
-                    <th style="text-align:right;">NAV Contrib</th>
+                    <th data-tooltip="<div class='rt-title'>Contract Strip Expiry</div><div class='rt-note'>Baltic / SGX futures maturity strip. Click any row to view high-resolution settlement history chart.</div>">Contract Strip</th>
+                    <th style="text-align:right;" data-tooltip="<div class='rt-title'>Official Settlement Rate</div><div class='rt-note'>Official exchange settlement price published for this trading day.</div>">Settle Rate</th>
+                    <th style="text-align:right;" data-tooltip="<div class='rt-title'>Simulated Rate</div><div class='rt-note'>Effective freight rate applied in the current scenario frame.</div>">Sim Rate</th>
+                    <th style="text-align:center;min-width:110px;" data-tooltip="<div class='rt-title'>Lot Migration &amp; Decay Progress</div><div class='rt-note'>Prompt lots decay over 15 business days (6.67%/day) while next-month forward lots accrue.</div>">Lot Migration</th>
+                    <th style="text-align:right;" data-tooltip="<div class='rt-title'>Portfolio Notional Weight (%)</div><div class='rt-note'>Percentage of total fund futures notional represented by this contract.</div>">Weight</th>
+                    <th style="text-align:right;" data-tooltip="<div class='rt-title'>Dollar Impact per ETF Share</div><div class='rt-note'>Linear $/share NAV move = (Lots × Multiplier × Daily ΔMark) ÷ Shares Outstanding.</div>">$/Share Imp.</th>
+                    <th style="text-align:right;" data-tooltip="<div class='rt-title'>Gross Position Notional</div><div class='rt-note'>Total gross dollar value of contract position = Lots × Multiplier × Rate.</div>">NAV Contrib</th>
                   </tr>
                 </thead>
                 <tbody id="simHoldingsBody">
@@ -8899,22 +8916,22 @@
           <!-- PANEL B: Dual-Pane Chart -->
           <div class="sim-panel sim-panel-charts">
             <div class="sim-panel-header">
-              <div class="sim-panel-title">
+              <div class="sim-panel-title" data-tooltip="<div class='rt-title'>Price Tracking &amp; Spread Frontier</div><div class='rt-row'><span class='rt-label'>Top Pane</span><span class='rt-val'>Simulated NAV vs Actual Market Close</span></div><div class='rt-row'><span class='rt-label'>Bottom Pane</span><span class='rt-val'>Secondary Market Spread (bps)</span></div><div class='rt-note'>Visualizes tracking performance, market price divergence, and Authorized Participant arbitrage boundaries over time.</div>">
                 <span class="sim-panel-dot dot-cyan"></span>
                 <span>Panel B: Price Tracking &amp; Premium/Discount Frontier</span>
               </div>
               <div class="sim-legend-inline">
-                <span class="sim-leg-item"><span class="leg-box leg-sim"></span> Sim Price</span>
-                <span class="sim-leg-item"><span class="leg-box leg-mkt"></span> Mkt Price</span>
-                <span class="sim-leg-item"><span class="leg-box leg-spread"></span> Spread (bps)</span>
+                <span class="sim-leg-item" data-tooltip="<div class='rt-title'>Simulated Fund NAV ($)</div><div class='rt-note'>Accounting net asset value per share computed from daily futures mark-to-market variation margin.</div>"><span class="leg-box leg-sim"></span> Sim Price</span>
+                <span class="sim-leg-item" data-tooltip="<div class='rt-title'>Secondary Market Price ($)</div><div class='rt-note'>Actual recorded NYSE Arca market closing price.</div>"><span class="leg-box leg-mkt"></span> Mkt Price</span>
+                <span class="sim-leg-item" data-tooltip="<div class='rt-title'>Tracking Spread (Basis Points)</div><div class='rt-note'>Spread = (Market Price − NAV) ÷ NAV × 10,000 bps. Green = Premium; Red = Discount.</div>"><span class="leg-box leg-spread"></span> Spread (bps)</span>
               </div>
             </div>
             <!-- Top Pane: Simulated Price vs Actual Market Price -->
-            <div class="sim-dual-top-pane">
+            <div class="sim-dual-top-pane" data-tooltip="<div class='rt-title'>Simulated NAV vs Market Price Trend</div><div class='rt-note'>Tracks the divergence between simulated fund NAV (blue line) and historical market close (dashed gold line).</div>">
               <canvas id="simPriceChart"></canvas>
             </div>
             <!-- Bottom Pane: Tracking Spread & Premium/Discount Bar -->
-            <div class="sim-dual-bottom-pane">
+            <div class="sim-dual-bottom-pane" data-tooltip="<div class='rt-title'>Daily Tracking Spread Distribution</div><div class='rt-note'>Daily premium (green) and discount (red) spreads in basis points relative to fund NAV.</div>">
               <canvas id="simSpreadChart"></canvas>
             </div>
           </div>
@@ -8922,11 +8939,11 @@
           <!-- PANEL C: 3-Way Daily Attribution Waterfall -->
           <div class="sim-panel sim-panel-waterfall">
             <div class="sim-panel-header">
-              <div class="sim-panel-title">
+              <div class="sim-panel-title" data-tooltip="<div class='rt-title'>3-Way Daily Return Attribution Waterfall</div><div class='rt-row'><span class='rt-label'>Attribution Model</span><span class='rt-val'>Solactive 3-Factor Decomposition</span></div><div class='rt-row'><span class='rt-label'>Governing Equation</span><span class='rt-val'>R_total = R_freight + R_roll + R_cash</span></div><div class='rt-note'>Deconstructs each day's ETF return into pure freight rate moves (Beta), calendar roll transition friction/gain (Roll Carry), and Treasury collateral yield minus fund operating expense ratio (1.45% OER).</div>">
                 <span class="sim-panel-dot dot-gold"></span>
                 <span>Panel C: 3-Way Daily Return Attribution Waterfall</span>
               </div>
-              <div id="simTotalDailyReturnBadge" class="sim-badge sim-badge-pos">+1.84% Total Today</div>
+              <div id="simTotalDailyReturnBadge" class="sim-badge sim-badge-pos" data-tooltip="<div class='rt-title'>Total Combined Return Today</div><div class='rt-row'><span class='rt-label'>Decomposition</span><span class='rt-val'>Freight Beta + Roll Drag + Net Cash Yield</span></div><div class='rt-note'>Sum of all 3 return drivers for the current simulation day. Hover over individual component cards below for detailed breakdowns.</div>">+1.84% Total Today</div>
             </div>
             <div class="sim-waterfall-summary">
               <div class="att-card" id="attFreightCard" data-tt-type="etf-waterfall-card" data-tt-component="freight" style="cursor:help;">
@@ -8945,7 +8962,7 @@
                 <div class="att-sub">T-Bill - 1.45% OER</div>
               </div>
             </div>
-            <div class="sim-waterfall-chart-wrap">
+            <div class="sim-waterfall-chart-wrap" data-tooltip="<div class='rt-title'>3-Way Waterfall Attribution Chart</div><div class='rt-row'><span class='rt-label'>Bar 1 (Green/Red)</span><span class='rt-val'>Freight Move (Beta Contribution)</span></div><div class='rt-row'><span class='rt-label'>Bar 2 (Gold/Green)</span><span class='rt-val'>Roll Carry (Contango/Backwardation)</span></div><div class='rt-row'><span class='rt-label'>Bar 3 (Blue)</span><span class='rt-val'>Net Cash Yield (T-Bills − 1.45% OER)</span></div><div class='rt-row'><span class='rt-label'>Bar 4 (Dark Green/Red)</span><span class='rt-val'>Total Net Daily Return</span></div><div class='rt-note'>Visual bar breakdown of today's return components. Hover individual bars for precise percentage values.</div>">
               <canvas id="simWaterfallChart"></canvas>
             </div>
           </div>
@@ -8953,7 +8970,7 @@
           <!-- PANEL D: Risk & PnL Analytics HUD -->
           <div class="sim-panel sim-panel-hud">
             <div class="sim-panel-header">
-              <div class="sim-panel-title">
+              <div class="sim-panel-title" data-tooltip="<div class='rt-title'>Real-Time Risk &amp; Performance HUD</div><div class='rt-row'><span class='rt-label'>Metrics</span><span class='rt-val'>Sharpe Ratio • Carry Yield • Drawdown • Volatility • Market Spread</span></div><div class='rt-note'>Continuously calculated quantitative risk and performance metrics updated for the active simulation timeline.</div>">
                 <span class="sim-panel-dot dot-green"></span>
                 <span>Panel D: Real-Time Risk &amp; Performance HUD</span>
               </div>
@@ -23894,6 +23911,24 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Renders high-DPI historical settlement curve</span></div>`;
             html += `<div class="rt-note">Displays official exchange settlement history, 52W range bars, active lot weights, and statutory rulebooks.</div>`;
           }
+        else if (type === 'deconst-matrix-cell') {
+          const rShock = parseFloat(target.getAttribute('data-tt-rshock'));
+          const cShock = parseFloat(target.getAttribute('data-tt-cshock'));
+          const rowName = target.getAttribute('data-tt-rowname') || 'Vessel Class 1';
+          const colName = target.getAttribute('data-tt-colname') || 'Vessel Class 2';
+          const simPrice = target.getAttribute('data-tt-simprice') || '-';
+          const simShock = parseFloat(target.getAttribute('data-tt-simshock') || '0');
+          const simPnl = target.getAttribute('data-tt-simpnl') || '$0';
+          const shares = target.getAttribute('data-tt-shares') || '1,000';
+          const simCls = simShock > 0 ? 'pos' : (simShock < 0 ? 'neg' : '');
+
+          html = `<div class="rt-title">2D Sensitivity Scenario Intersection</div>`;
+          html += `<div class="rt-row"><span class="rt-label">${rowName} Shock (Y)</span><span class="rt-val ${rShock >= 0 ? 'pos' : 'neg'}">${rShock >= 0 ? '+' : ''}${rShock}%</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">${colName} Shock (X)</span><span class="rt-val ${cShock >= 0 ? 'pos' : 'neg'}">${cShock >= 0 ? '+' : ''}${cShock}%</span></div>`;
+          html += `<div class="rt-row" style="border-top:1px solid rgba(255,255,255,0.08);padding-top:4px;margin-top:4px;"><span class="rt-label">Projected ETF Price</span><span class="rt-val" style="color:var(--accent);font-weight:700;">$${simPrice}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Simulated NAV Return</span><span class="rt-val ${simCls}">${simShock >= 0 ? '+' : ''}${simShock.toFixed(1)}%</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Position Dollar P&L</span><span class="rt-val ${simCls}">${simPnl} <span style="font-size:10px;color:var(--text-muted);">(${shares} sh)</span></span></div>`;
+          html += `<div class="rt-note">Click this cell to instantly apply these exact dual-rate shocks to the active scenario engine.</div>`;
         }
 
         return html;
