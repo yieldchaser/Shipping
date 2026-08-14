@@ -2,7 +2,7 @@
 window.SCENARIO_SNAPSHOTS = {
   bdry: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-08-14T15:53:12.783449+00:00",
+  "generation_timestamp_utc": "2026-08-14T16:22:35.370484+00:00",
   "fund_symbol": "BDRY",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-08-14",
@@ -22,8 +22,8 @@ window.SCENARIO_SNAPSHOTS = {
     "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-08-14.csv",
     "expected_registry_sha256": "29233a6ecde30033c6287fa5a98c2fd015ade4403783c1820df31bc5925e19d9",
     "computed_archive_sha256": "29233a6ecde30033c6287fa5a98c2fd015ade4403783c1820df31bc5925e19d9",
-    "snapshot_content_sha256": "197c0471f0ff79b8b92516c32d94281e6ff3f5ff8f96730ab5e305dac7dd6c89",
-    "manifest_snapshot_sha256": "197c0471f0ff79b8b92516c32d94281e6ff3f5ff8f96730ab5e305dac7dd6c89",
+    "snapshot_content_sha256": "b153bed150c59d78dbaa7ba40f29bc66f4d3f2942e9985e2968f3cc91ceeab56",
+    "manifest_snapshot_sha256": "b153bed150c59d78dbaa7ba40f29bc66f4d3f2942e9985e2968f3cc91ceeab56",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
@@ -31,7 +31,7 @@ window.SCENARIO_SNAPSHOTS = {
     "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-08-14T15:53:12.783449+00:00"
+    "reference_time_utc": "2026-08-14T16:22:35.370484+00:00"
   },
   "baseline": {
     "as_of_date": "2026-08-14",
@@ -39,7 +39,7 @@ window.SCENARIO_SNAPSHOTS = {
     "total_nav_dollars": null,
     "shares_outstanding": null,
     "nav_per_share": 14.07,
-    "market_price": 14.220000267028809,
+    "market_price": 14.289999961853027,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
@@ -257,7 +257,7 @@ window.SCENARIO_SNAPSHOTS = {
 },
   bwet: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-08-14T15:53:12.783449+00:00",
+  "generation_timestamp_utc": "2026-08-14T16:22:35.370484+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-08-14",
@@ -277,8 +277,8 @@ window.SCENARIO_SNAPSHOTS = {
     "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-08-14.csv",
     "expected_registry_sha256": "f51e50f3d135269e63b295f47d8523bfc7b8e1f8897eba5df38782e93be23071",
     "computed_archive_sha256": "f51e50f3d135269e63b295f47d8523bfc7b8e1f8897eba5df38782e93be23071",
-    "snapshot_content_sha256": "8cdd9552021d065be776517f7f82251920789606b1efe9afc757e86cc1baaefa",
-    "manifest_snapshot_sha256": "8cdd9552021d065be776517f7f82251920789606b1efe9afc757e86cc1baaefa",
+    "snapshot_content_sha256": "4530dbab04cf4a03b90a0e3acf7125c85aadc125d61f74e053b5bfa823290876",
+    "manifest_snapshot_sha256": "4530dbab04cf4a03b90a0e3acf7125c85aadc125d61f74e053b5bfa823290876",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
@@ -286,7 +286,7 @@ window.SCENARIO_SNAPSHOTS = {
     "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-08-14T15:53:12.783449+00:00"
+    "reference_time_utc": "2026-08-14T16:22:35.370484+00:00"
   },
   "baseline": {
     "as_of_date": "2026-08-14",
@@ -294,7 +294,7 @@ window.SCENARIO_SNAPSHOTS = {
     "total_nav_dollars": null,
     "shares_outstanding": null,
     "nav_per_share": 358.43,
-    "market_price": 376.1166076660156,
+    "market_price": 374.5499877929688,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
