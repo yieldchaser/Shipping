@@ -8577,26 +8577,26 @@
 
           <!-- Switcher to match active tab -->
           <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-            <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY Context</button>
-            <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET Context</button>
+            <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
+            <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
           </div>
         </div>
 
         <!-- Provider and API Key Row -->
         <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
-          <span class="qa-key-label">Provider</span>
-          <select id="etfQaProvider" class="qa-key-input qa-provider-select" onchange="onEtfQAProviderChange()">
+          <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
+          <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
             <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
             <option value="gemini">Gemini (Google AI)</option>
             <option value="openrouter">OpenRouter (Multi-Model)</option>
             <option value="nim">NVIDIA NIM (DeepSeek / Nemotron / GLM)</option>
           </select>
           <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
-          <span class="qa-key-label" id="etfQaApiKeyLabel">Groq Key</span>
-          <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" />
-          <span class="qa-key-label">Model</span>
-          <select id="etfQaModel" class="qa-key-input qa-model-select" onchange="onQAModelSelectChange(this, 'etf')"></select>
-          <button class="qa-key-btn" onclick="saveEtfQASettings()">Save</button>
+          <span class="qa-key-label" id="etfQaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab.">Groq Key</span>
+          <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab." />
+          <span class="qa-key-label" data-tooltip="Select from flagship open-weights and proprietary models, or choose '✏️ Custom Model...' to enter any model ID.">Model</span>
+          <select id="etfQaModel" class="qa-key-input qa-model-select" data-tt-type="llm-model-info" onchange="onQAModelSelectChange(this, 'etf')"></select>
+          <button class="qa-key-btn" onclick="saveEtfQASettings()" data-tooltip="Save provider, API key, and model preferences to browser localStorage.">Save</button>
           <span id="etfQaKeyStatus" style="font-size:11px;color:var(--green);font-weight:600;"></span>
         </div>
 
@@ -8881,17 +8881,17 @@
               <div id="simTotalDailyReturnBadge" class="sim-badge sim-badge-pos">+1.84% Total Today</div>
             </div>
             <div class="sim-waterfall-summary">
-              <div class="att-card" id="attFreightCard">
+              <div class="att-card" id="attFreightCard" data-tt-type="etf-waterfall-card" data-tt-component="freight" style="cursor:help;">
                 <div class="att-label">Freight Beta Impact</div>
                 <div class="att-val pos" id="attFreightVal">+2.15%</div>
                 <div class="att-sub">Underlying FFA moves</div>
               </div>
-              <div class="att-card" id="attRollCard">
+              <div class="att-card" id="attRollCard" data-tt-type="etf-waterfall-card" data-tt-component="roll" style="cursor:help;">
                 <div class="att-label">Roll Yield Drag/Gain</div>
                 <div class="att-val neg" id="attRollVal">-0.28%</div>
                 <div class="att-sub">Contango decay friction</div>
               </div>
-              <div class="att-card" id="attCashCard">
+              <div class="att-card" id="attCashCard" data-tt-type="etf-waterfall-card" data-tt-component="cash" style="cursor:help;">
                 <div class="att-label">Cash &amp; Fee Drag</div>
                 <div class="att-val neg" id="attCashVal">-0.03%</div>
                 <div class="att-sub">T-Bill - 1.45% OER</div>
@@ -8909,39 +8909,39 @@
                 <span class="sim-panel-dot dot-green"></span>
                 <span>Panel D: Real-Time Risk &amp; Performance HUD</span>
               </div>
-              <div class="sim-hud-share-input">
+              <div class="sim-hud-share-input" data-tooltip="Enter your modeled position size (number of shares) to calculate live dollar P&L and invested base capital.">
                 <span>SHARES:</span>
                 <input type="number" id="simShareCountInput" value="5000" min="1" step="500" oninput="SIM_CONTROLLER.onShareCountChange(this.value)">
               </div>
             </div>
             <div class="sim-hud-grid">
-              <div class="sim-hud-kpi">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Cumulative Position P&amp;L" data-tt-formula="Position Shares × (Simulated Price − Initial Base Price)" data-tt-desc="Total dollar mark-to-market return on your custom modeled share capital over the simulation window." style="cursor:help;">
                 <div class="hud-label">Cumulative Position PnL</div>
                 <div class="hud-val pos" id="simHudPnl">+$0.00</div>
                 <div class="hud-sub" id="simHudPnlSub">Return: +0.00% on $0 capital</div>
               </div>
-              <div class="sim-hud-kpi">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Annualized Sharpe Ratio" data-tt-formula="(Mean Daily Return − (4.85% / 252)) / StdDev × √252" data-tt-desc="Risk-adjusted excess return per unit of total risk benchmarked against the 4.85% Treasury risk-free rate." style="cursor:help;">
                 <div class="hud-label">Sharpe Ratio (Ann.)</div>
                 <div class="hud-val" id="simHudSharpe" style="color:var(--accent);">0.00</div>
                 <div class="hud-sub" id="simHudSharpeSub">Risk-free rate: 4.85% (Treasuries)</div>
               </div>
-              <div class="sim-hud-kpi">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Implied Carry &amp; Roll Yield" data-tt-formula="Σ [ w_v × (Prompt_v − Next_v) / Prompt_v ]" data-tt-desc="Lot-weighted monthly roll spread. Negative = Contango decay friction; Positive = Backwardation carry gain." style="cursor:help;">
                 <div class="hud-label">Implied Carry Yield</div>
                 <div class="hud-val" id="simHudCarry" style="color:var(--yellow);">-1.24% / mo</div>
                 <div class="hud-sub" id="simHudCarrySub">Monthly: -0.10% &bull; Roll carry</div>
               </div>
-              <div class="sim-hud-kpi">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Maximum Drawdown (MDD)" data-tt-formula="Min [ (Price_t − Max(Price_0..t)) / Max(Price_0..t) ]" data-tt-desc="Worst peak-to-trough percentage equity decline recorded during the simulated timeline." style="cursor:help;">
                 <div class="hud-label">Max Drawdown (MDD)</div>
                 <div class="hud-val" id="simHudMdd" style="color:var(--red);">-0.00%</div>
                 <div class="hud-sub" id="simHudMddSub">Peak: Day 1 &bull; Current: Day 1</div>
               </div>
-              <div class="sim-hud-kpi">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Annualized Realized Volatility" data-tt-formula="StdDev(Daily Returns) × √252" data-tt-desc="Historical standard deviation of percentage price changes scaled to an annualized 252 trading-day basis." style="cursor:help;">
                 <div class="hud-label">Realized Volatility (Ann.)</div>
                 <div class="hud-val" id="simHudVol" style="color:var(--yellow);">0.0%</div>
                 <div class="hud-sub" id="simHudVolSub">Annualized daily std dev</div>
               </div>
-              <div class="sim-hud-kpi">
-                <div class="hud-label" id="simHudTeLabel" data-tooltip="Secondary market price premium (+) or discount (-) in basis points relative to the fund's daily accounting NAV.">Market Spread (Prem / Disc)</div>
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Market Spread (Premium / Discount)" data-tt-formula="(Secondary Market Price − Accounting NAV) / NAV × 10,000 bps" data-tt-desc="Basis spread in basis points. Positive = Trading at a premium; Negative = Trading at a discount to NAV." style="cursor:help;">
+                <div class="hud-label" id="simHudTeLabel">Market Spread (Prem / Disc)</div>
                 <div class="hud-val" id="simHudTe" style="color:var(--purple);">0.0 bps</div>
                 <div class="hud-sub" id="simHudTeSub">Secondary market vs NAV</div>
               </div>
@@ -9842,19 +9842,19 @@
         <div class="intel-section-title"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div> &nbsp;Research Q&amp;A</div>
         <div style="background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
           <div class="qa-key-row">
-            <span class="qa-key-label">Provider</span>
-            <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
+            <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
+            <select id="qaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onQAProviderChange()">
               <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
               <option value="gemini">Gemini (Google AI)</option>
               <option value="openrouter">OpenRouter (Multi-Model)</option>
               <option value="nim">NVIDIA NIM (DeepSeek / Nemotron / GLM)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
-            <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
-            <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" />
-            <span class="qa-key-label">Model</span>
-            <select id="qaModel" class="qa-key-input qa-model-select" onchange="onQAModelSelectChange(this, 'qa')"></select>
-            <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
+            <span class="qa-key-label" id="qaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage. Never sent to our servers — direct client-side execution.">Groq Key</span>
+            <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" data-tooltip="API Key is stored exclusively in your browser's localStorage. Never sent to our servers — direct client-side execution." />
+            <span class="qa-key-label" data-tooltip="Select from flagship open-weights and proprietary models, or choose '✏️ Custom Model...' to enter any model ID.">Model</span>
+            <select id="qaModel" class="qa-key-input qa-model-select" data-tt-type="llm-model-info" onchange="onQAModelSelectChange(this, 'qa')"></select>
+            <button class="qa-key-btn" onclick="saveQASettings()" data-tooltip="Save provider, API key, and model preferences to browser localStorage.">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
           <div class="qa-scope-row">
@@ -23481,6 +23481,98 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             html += `<div class="rt-row"><span class="rt-label">Spot/TC Ratio Z-Score</span><span class="rt-val ${zVal >= 0 ? 'pos' : 'neg'}">${zVal >= 0 ? '+' : ''}${zVal.toFixed(2)}σ</span></div>`;
           } else {
             html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display cycle analysis.</div>`;
+          }
+        }
+        else if (type === 'llm-provider-info') {
+          const provider = target.getAttribute('data-tt-provider') || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
+          const cfg = typeof _providerConfig === 'function' ? _providerConfig(provider) : { label: 'Inference Provider', maxContextTokens: 16000, suggestions: [] };
+          const hasKey = typeof _loadProviderKey === 'function' ? !!_loadProviderKey(provider) : false;
+          const modelsCount = (cfg.suggestions || []).length;
+          
+          html = `<div class="rt-title">${cfg.label} Architecture</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Inference Engine</span><span class="rt-val" style="color:var(--accent);">${provider.toUpperCase()} Direct CORS</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Context Limit</span><span class="rt-val">${(cfg.maxContextTokens / 1000).toFixed(0)}k Tokens</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Catalog Models</span><span class="rt-val">${modelsCount} Flagship Models</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Status</span><span class="rt-val ${hasKey || cfg.keyOptional ? 'pos' : 'neg'}">${hasKey ? 'Configured (Saved)' : (cfg.keyOptional ? 'Optional' : 'Key Required')}</span></div>`;
+          html += `<div class="rt-note">Direct browser-to-API communication. Keys are saved exclusively in client-side localStorage.</div>`;
+        }
+        else if (type === 'llm-model-info') {
+          const modelId = target.getAttribute('data-tt-model') || target.value || 'deepseek-r1-distill-llama-70b';
+          const provider = target.getAttribute('data-tt-provider') || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
+          
+          let arch = 'Reasoning / General LLM';
+          let tokens = '32k';
+          if (modelId.includes('deepseek-r1') || modelId.includes('r1')) { arch = 'DeepSeek R1 Reasoning Model (MoE / Distill)'; tokens = '64k–128k'; }
+          else if (modelId.includes('nemotron')) { arch = 'NVIDIA Nemotron (Ultra-low latency reasoning)'; tokens = '32k–128k'; }
+          else if (modelId.includes('glm')) { arch = 'Zhipu GLM Bilingual Reasoning Engine'; tokens = '128k'; }
+          else if (modelId.includes('minimax')) { arch = 'MiniMax High-Speed MoE Transformer'; tokens = '128k'; }
+          else if (modelId.includes('gemini-2.5')) { arch = 'Google Gemini 2.5 Multi-Modal Thinking Model'; tokens = '32k+'; }
+          else if (modelId.includes('llama-3.3') || modelId.includes('405b')) { arch = 'Meta Llama Frontier Dense / Large Model'; tokens = '32k–128k'; }
+          
+          html = `<div class="rt-title">Active Model: ${modelId}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Provider</span><span class="rt-val" style="color:var(--accent);">${provider.toUpperCase()}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Architecture</span><span class="rt-val">${arch}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Max Window</span><span class="rt-val">${tokens}</span></div>`;
+          html += `<div class="rt-note">Select any flagship model from the dropdown or click '✏️ Custom Model...' to enter your own model ID.</div>`;
+        }
+        else if (type === 'etf-waterfall-card') {
+          const comp = target.getAttribute('data-tt-component') || 'freight';
+          const valEl = target.querySelector('.att-val');
+          const val = valEl ? valEl.textContent.trim() : (target.getAttribute('data-tt-val') || '0.00%');
+          const valNum = parseFloat(val);
+          const valCls = valNum >= 0 ? 'pos' : 'neg';
+          
+          if (comp === 'freight') {
+            html = `<div class="rt-title">Freight Beta Contribution</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Today's Move</span><span class="rt-val ${valCls}">${val}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">Σ [ w_i × ΔMark_i ]</span></div>`;
+            html += `<div class="rt-note">Pure price return from underlying freight futures mark-to-market settlements across Capesize, Panamax, Supramax, VLCC, and Suezmax holdings.</div>`;
+          } else if (comp === 'roll') {
+            html = `<div class="rt-title">Roll Yield Carry / Drag</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Daily Drag/Gain</span><span class="rt-val ${valCls}">${val}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Mechanics</span><span class="rt-val">5-Axiom Calendar Decay</span></div>`;
+            html += `<div class="rt-note">Impact of transitioning prompt contracts into next-month strips over the 15-business-day roll window. Negative in contango; positive in backwardation.</div>`;
+          } else if (comp === 'cash') {
+            html = `<div class="rt-title">Collateral Yield & Fee Drag</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Net Daily Yield</span><span class="rt-val ${valCls}">${val}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Statutory Equation</span><span class="rt-val">(4.85% - 1.45%) / 252</span></div>`;
+            html += `<div class="rt-note">Net return on unencumbered cash collateral held in Treasury bills / money market repos (4.85% APY) minus the fund's 1.45% statutory operating expense ratio (OER).</div>`;
+          }
+        }
+        else if (type === 'etf-sim-kpi') {
+          const title = target.getAttribute('data-tt-title') || target.querySelector('.hud-label')?.textContent.trim() || 'Performance Metric';
+          const valEl = target.querySelector('.hud-val');
+          const val = valEl ? valEl.textContent.trim() : (target.getAttribute('data-tt-val') || '-');
+          const subEl = target.querySelector('.hud-sub');
+          const sub = subEl ? subEl.textContent.trim() : (target.getAttribute('data-tt-sub') || '');
+          const formula = target.getAttribute('data-tt-formula') || '';
+          const desc = target.getAttribute('data-tt-desc') || '';
+          
+          html = `<div class="rt-title">${title}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Simulated Value</span><span class="rt-val" style="color:var(--accent);">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Detail</span><span class="rt-val">${sub}</span></div>`;
+          if (formula) html += `<div class="rt-row"><span class="rt-label">Formula / Basis</span><span class="rt-val">${formula}</span></div>`;
+          if (desc) html += `<div class="rt-note">${desc}</div>`;
+        }
+        else if (type === 'etf-action-pill') {
+          const action = target.getAttribute('data-tt-action') || 'action';
+          html = `<div class="rt-title">Bi-Directional Action Hook</div>`;
+          if (action === 'simulator') {
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Scenario Translator</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Dials macro sliders to match AI thesis</span></div>`;
+            html += `<div class="rt-note">Clicking instantly transfers the analyzed percentage shocks to the live sensitivity matrix.</div>`;
+          } else if (action === 'jump') {
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Day-by-Day Simulator</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Jumps timeline directly to analyzed roll epoch</span></div>`;
+            html += `<div class="rt-note">Seamlessly transports the simulator playback scrubber to inspect the historical or forward date.</div>`;
+          } else if (action === 'ticket') {
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Compliance Decision Ticket</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Opens structured decision ticket modal</span></div>`;
+            html += `<div class="rt-note">Generates compliance-ready P&L attribution, book separation tables, and residual risk disclosures with 1-click JSON export.</div>`;
+          } else if (action === 'inspect') {
+            html += `<div class="rt-row"><span class="rt-label">Target</span><span class="rt-val">Universal Contract Inspector</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Effect</span><span class="rt-val">Renders high-DPI historical settlement curve</span></div>`;
+            html += `<div class="rt-note">Displays official exchange settlement history, 52W range bars, active lot weights, and statutory rulebooks.</div>`;
           }
         }
 
