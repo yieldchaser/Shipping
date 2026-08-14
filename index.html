@@ -2844,6 +2844,19 @@
       font-family: inherit;
       background: rgba(13, 17, 23, 0.85);
     }
+    .qa-model-select {
+      min-width: 210px;
+      max-width: 320px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11.5px;
+      background: rgba(13, 17, 23, 0.85);
+      cursor: pointer;
+    }
+    .qa-model-select option {
+      background: #111820;
+      color: var(--text);
+      padding: 6px 8px;
+    }
     .qa-key-input:focus { outline: none; border-color: rgba(88, 166, 255, 0.4); box-shadow: 0 0 8px rgba(88, 166, 255, 0.12); }
     .qa-key-btn {
       background: rgba(22, 27, 34, 0.8); color: var(--text-muted); border: 1px solid rgba(88, 166, 255, 0.2);
@@ -8582,8 +8595,7 @@
           <span class="qa-key-label" id="etfQaApiKeyLabel">Groq Key</span>
           <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" />
           <span class="qa-key-label">Model</span>
-          <input type="text" id="etfQaModel" class="qa-key-input" placeholder="deepseek-r1-distill-llama-70b" list="etfQaModelSuggestions" />
-          <datalist id="etfQaModelSuggestions"></datalist>
+          <select id="etfQaModel" class="qa-key-input qa-model-select" onchange="onQAModelSelectChange(this, 'etf')"></select>
           <button class="qa-key-btn" onclick="saveEtfQASettings()">Save</button>
           <span id="etfQaKeyStatus" style="font-size:11px;color:var(--green);font-weight:600;"></span>
         </div>
@@ -9841,8 +9853,7 @@
             <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
             <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
-            <input type="text" id="qaModel" class="qa-key-input" placeholder="deepseek-r1-distill-llama-70b" list="qaModelSuggestions" />
-            <datalist id="qaModelSuggestions"></datalist>
+            <select id="qaModel" class="qa-key-input qa-model-select" onchange="onQAModelSelectChange(this, 'qa')"></select>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -21331,6 +21342,75 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     
     // Removed: _autoDetectOllamaFromBrief (Ollama removed from browser Q&A)
 
+    function _populateModelSelect(selectEl, provider) {
+      if (!selectEl) return;
+      const cfg = _providerConfig(provider);
+      const savedModel = _loadProviderModel(provider) || cfg.defaultModel;
+      const suggestions = cfg.suggestions || [];
+      const hasSaved = suggestions.includes(savedModel);
+
+      let html = suggestions.map(m => {
+        const isSelected = m === savedModel ? ' selected' : '';
+        const isDef = m === cfg.defaultModel ? ' (Default)' : '';
+        return `<option value="${m}"${isSelected}>${m}${isDef}</option>`;
+      }).join('');
+
+      if (savedModel && !hasSaved) {
+        html = `<option value="${savedModel}" selected>${savedModel} (Custom)</option>` + html;
+      }
+      html += `<option value="__custom__">✏️ Custom Model...</option>`;
+      selectEl.innerHTML = html;
+      selectEl.value = savedModel;
+    }
+    window._populateModelSelect = _populateModelSelect;
+
+    function onQAModelSelectChange(selectEl, source) {
+      if (!selectEl) return;
+      const provider = source === 'etf'
+        ? (document.getElementById('etfQaProvider')?.value || 'groq')
+        : _currentQAProvider();
+      let val = selectEl.value;
+
+      if (val === '__custom__') {
+        const customVal = prompt('Enter custom model identifier for ' + provider.toUpperCase() + ' (e.g. org/model-name):', '');
+        if (customVal && customVal.trim()) {
+          val = customVal.trim();
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = val + ' (Custom)';
+          opt.selected = true;
+          selectEl.insertBefore(opt, selectEl.firstChild);
+          selectEl.value = val;
+        } else {
+          selectEl.value = _loadProviderModel(provider) || _providerConfig(provider).defaultModel;
+          return;
+        }
+      }
+
+      _saveProviderModel(provider, val);
+
+      const otherId = source === 'etf' ? 'qaModel' : 'etfQaModel';
+      const otherEl = document.getElementById(otherId);
+      if (otherEl) {
+        const hasOpt = Array.from(otherEl.options).some(o => o.value === val);
+        if (!hasOpt) {
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = val + ' (Custom)';
+          otherEl.insertBefore(opt, otherEl.firstChild);
+        }
+        otherEl.value = val;
+      }
+
+      const statId = source === 'etf' ? 'etfQaKeyStatus' : 'qaKeyStatus';
+      const statEl = document.getElementById(statId);
+      if (statEl) {
+        statEl.textContent = 'Saved: ' + val;
+        setTimeout(() => { if (statEl) statEl.textContent = ''; }, 2500);
+      }
+    }
+    window.onQAModelSelectChange = onQAModelSelectChange;
+
     function _syncQAProviderUI() {
       const provider = _currentQAProvider();
       const cfg = _providerConfig(provider);
@@ -21338,18 +21418,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const modelEl = document.getElementById('qaModel');
       const labelEl = document.getElementById('qaApiKeyLabel');
       const statusEl = document.getElementById('qaKeyStatus');
-      const datalistEl = document.getElementById('qaModelSuggestions');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
       if (keyEl) {
         keyEl.placeholder = cfg.keyPlaceholder;
         keyEl.value = _loadProviderKey(provider);
       }
       if (modelEl) {
-        modelEl.value = _loadProviderModel(provider);
-        modelEl.placeholder = cfg.defaultModel;
-      }
-      if (datalistEl && cfg.suggestions) {
-        datalistEl.innerHTML = cfg.suggestions.map(m => `<option value="${m}">${m}</option>`).join('');
+        _populateModelSelect(modelEl, provider);
       }
       if (statusEl) statusEl.textContent = '';
       // Update provider status dot
@@ -22498,23 +22573,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var lbl = document.getElementById('etfQaApiKeyLabel');
       if (lbl) lbl.textContent = cfg.label.split(' ')[0] + ' Key';
       var keyInput = document.getElementById('etfQaApiKey');
-      if (keyInput) keyInput.value = _loadProviderKey(provider);
-      var modelInput = document.getElementById('etfQaModel');
-      if (modelInput) modelInput.value = _loadProviderModel(provider) || cfg.defaultModel;
-      _updateEtfQAModelSuggestions(provider);
+      if (keyInput) {
+        keyInput.value = _loadProviderKey(provider);
+        keyInput.placeholder = cfg.keyPlaceholder;
+      }
+      var modelSelect = document.getElementById('etfQaModel');
+      if (modelSelect) {
+        _populateModelSelect(modelSelect, provider);
+      }
       _updateEtfQAProviderStatus(provider);
-    }
-
-    function _updateEtfQAModelSuggestions(provider) {
-      var dl = document.getElementById('etfQaModelSuggestions');
-      if (!dl) return;
-      dl.innerHTML = '';
-      var cfg = _providerConfig(provider);
-      (cfg.suggestedModels || []).forEach(function(m) {
-        var opt = document.createElement('option');
-        opt.value = m;
-        dl.appendChild(opt);
-      });
     }
 
     function _updateEtfQAProviderStatus(provider) {
