@@ -3920,6 +3920,9 @@
 
     function onDeconstDateChange() {
       renderETFDeconstructionEngine();
+      if (typeof renderEtfSuggestedQuestions === 'function') {
+        renderEtfSuggestedQuestions(_etfQaFund);
+      }
     }
 
     function setDeconstDatePreset(preset) {
@@ -3946,6 +3949,9 @@
         dateInput.value = '2026-07-15';
       }
       renderETFDeconstructionEngine();
+      if (typeof renderEtfSuggestedQuestions === 'function') {
+        renderEtfSuggestedQuestions(_etfQaFund);
+      }
     }
 
     function resetDeconstShocks() {
@@ -22066,6 +22072,225 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     var _etfQaFund = 'bdry';
 
+    function _getEtfDynamicMonths() {
+      var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      var monthShorts = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+      var baseDate = new Date();
+      var dInput = document.getElementById('deconstTargetDate')?.value;
+      if (dInput) {
+        var parsed = new Date(dInput);
+        if (!isNaN(parsed.getTime())) baseDate = parsed;
+      }
+
+      var curMonthIdx = baseDate.getMonth();
+      var curYear = baseDate.getFullYear();
+
+      var getM = function(offset) {
+        var d = new Date(curYear, curMonthIdx + offset, 1);
+        var mIdx = d.getMonth();
+        var yShort = String(d.getFullYear()).slice(-2);
+        return {
+          fullName: monthNames[mIdx],
+          shortName: monthShorts[mIdx],
+          label: monthShorts[mIdx] + ' ' + yShort,
+          fullLabel: monthNames[mIdx] + ' 20' + yShort,
+          yearShort: yShort
+        };
+      };
+
+      return {
+        m0: getM(0),
+        m1: getM(1),
+        m2: getM(2),
+        m3: getM(3),
+        m6: getM(6)
+      };
+    }
+
+    function renderEtfSuggestedQuestions(fundKey) {
+      var fKey = (fundKey || _etfQaFund || 'bdry').toLowerCase();
+      var dm = _getEtfDynamicMonths();
+      var fundUpper = fKey.toUpperCase();
+      var isBwet = fKey === 'bwet';
+
+      // Update textarea placeholder dynamically
+      var textarea = document.getElementById('etfQaQuery');
+      if (textarea) {
+        if (isBwet) {
+          textarea.placeholder = "e.g. If I buy BWET in " + dm.m0.fullName + " and hold through " + dm.m2.fullName + " (" + dm.m0.label + " \u2192 " + dm.m2.label + "), which exact tanker futures contracts am I betting on, and what is the expected roll drag? What happens if VLCC TD3C spikes +30% on geopolitical rerouting?";
+        } else {
+          textarea.placeholder = "e.g. If I buy BDRY in " + dm.m0.fullName + " and hold through " + dm.m2.fullName + " (" + dm.m0.label + " \u2192 " + dm.m2.label + "), which exact futures contracts am I betting on, and what is the expected roll drag? What happens if Capesize rises 20% but Panamax drops 10%?";
+        }
+      }
+
+      var panelsData = {
+        exposures: [
+          {
+            q: "If I buy " + fundUpper + " in " + dm.m0.fullName + " and hold through " + dm.m2.fullName + " (" + dm.m0.label + " \u2192 " + dm.m2.label + "), which exact futures contracts am I betting on, and how does the lot transition work across months?",
+            label: "Holding " + fundUpper + " " + dm.m0.shortName + " \u2192 " + dm.m2.shortName + ": Exact futures bets & rollover path"
+          },
+          {
+            q: "Which specific constituent contract currently has the largest dollar impact per ETF share based on today's " + dm.m0.shortName + " lot weights?",
+            label: "Contract with largest $/share sensitivity in " + dm.m0.shortName
+          },
+          {
+            q: isBwet
+              ? "Translate my macro thesis: 'Middle East tanker rerouting pushes VLCC TD3C spot up +30% in " + dm.m0.shortName + "' into contract price targets and BWET stock target."
+              : "Translate my macro thesis: 'China steel mills restock iron ore aggressively, pushing Capesize spot up +25% in " + dm.m0.shortName + "' into contract price targets and BDRY stock target.",
+            label: isBwet
+              ? "Translate +30% VLCC thesis in " + dm.m0.shortName + " to BWET target"
+              : "Translate +25% Capesize thesis in " + dm.m0.shortName + " to BDRY target"
+          },
+          {
+            q: "Why does " + fundUpper + " hold a laddered strip across " + dm.m0.shortName + ", " + dm.m1.shortName + ", and " + dm.m2.shortName + " contracts rather than concentrating 100% in the front-month contract?",
+            label: "Why laddered strip (" + dm.m0.shortName + "/" + dm.m1.shortName + "/" + dm.m2.shortName + ") instead of front month only?"
+          },
+          {
+            q: isBwet
+              ? "How does BWET portfolio exposure split between VLCC TD3C and Suezmax TD20 right now, and what are the notional weights?"
+              : "How is BDRY portfolio exposure currently split across Capesize 5TC, Panamax 4TC, and Supramax 10TC right now?",
+            label: isBwet
+              ? "VLCC vs Suezmax exposure breakdown"
+              : "Capesize / Panamax / Supramax exposure split"
+          },
+          {
+            q: "What is the current exact Futures Notional to Fund AUM exposure ratio and effective leverage for " + fundUpper + "?",
+            label: "Current Futures Notional vs AUM leverage ratio"
+          }
+        ],
+        roll: [
+          {
+            q: "What is the expected roll yield carry (drag or gain) from " + dm.m0.fullName + " through " + dm.m2.fullName + " (60-day horizon) based on active SGX forward curve spreads?",
+            label: "Expected " + dm.m0.shortName + " \u2192 " + dm.m2.shortName + " 60-day roll carry (drag/gain)"
+          },
+          {
+            q: "Is " + fundUpper + " currently trading in contango or backwardation across " + dm.m0.shortName + " vs " + dm.m1.shortName + " vs " + dm.m2.shortName + " strips, and what is the annualized carry yield?",
+            label: "Contango vs Backwardation carry across " + dm.m0.shortName + "/" + dm.m1.shortName + "/" + dm.m2.shortName
+          },
+          {
+            q: "Explain how the 5-Axiom calendar roll decay transfers lots from " + dm.m0.fullName + " prompt to " + dm.m1.fullName + " forward strip between business days 1 and 15.",
+            label: "How 5-Axiom roll transfers " + dm.m0.shortName + " \u2192 " + dm.m1.shortName + " lots"
+          },
+          {
+            q: "What happens to " + dm.m0.fullName + " prompt contract lots on the final business day of the roll window, and how does Baltic cash settlement work?",
+            label: "Prompt " + dm.m0.shortName + " contract fate on final roll day"
+          },
+          {
+            q: isBwet
+              ? "Compare the annualized roll yield of VLCC TD3C vs Suezmax TD20 right now based on active " + dm.m0.shortName + "/" + dm.m1.shortName + " curve spreads."
+              : "Compare the annualized roll yield of Capesize vs Panamax vs Supramax right now based on active " + dm.m0.shortName + "/" + dm.m1.shortName + " curve spreads.",
+            label: "Annualized roll yield across vessel classes"
+          },
+          {
+            q: "Why does forward curve backwardation generate structural positive carry for " + fundUpper + " while contango creates persistent NAV erosion?",
+            label: "Why backwardation creates positive carry vs contango drag"
+          }
+        ],
+        shocks: [
+          {
+            q: "If I invest in " + fundUpper + " today in " + dm.m0.fullName + " and hold for 3 months (through " + dm.m3.fullName + "), which contract months' rates must rise and in what specific order for my trade to be profitable?",
+            label: "3-Month Hold (" + dm.m0.shortName + " \u2192 " + dm.m3.shortName + "): Which months must rise in what order?"
+          },
+          {
+            q: isBwet
+              ? "If " + dm.m0.shortName + " VLCC TD3C rallies +25% and Suezmax drops -5%, what is the projected BWET share price and net PnL on 250 shares?"
+              : "If " + dm.m0.shortName + " Capesize rallies +20% and Panamax drops -10%, what is the projected BDRY share price and net PnL on 2,500 shares?",
+            label: isBwet
+              ? "VLCC +25% / Suezmax -5%: Share price & PnL"
+              : "Capesize +20% / Panamax -10%: Share price & PnL"
+          },
+          {
+            q: "What uniform freight rate rally % across all " + dm.m0.shortName + ", " + dm.m1.shortName + ", and " + dm.m2.shortName + " contracts is required to achieve a +25% increase in " + fundUpper + " share price?",
+            label: "Required uniform freight rally % for +25% target share price"
+          },
+          {
+            q: isBwet
+              ? "If VLCC TD3C freight rates spike to WS 110 (~$110,000/day TCE) on Red Sea / Cape of Good Hope diversions, what is the projected BWET share price?"
+              : "If Capesize freight rates surge to $45,000/day on unexpected Atlantic basin vessel tightness, what is the projected BDRY share price?",
+            label: isBwet
+              ? "VLCC WS 110 Red Sea spike: BWET target"
+              : "Capesize $45k/day Atlantic surge: BDRY target"
+          },
+          {
+            q: "How do asymmetric micro-shocks across individual contract months (" + dm.m0.shortName + " vs " + dm.m1.shortName + " vs " + dm.m2.shortName + ") aggregate into net variation margin and $/share change?",
+            label: "Micro-shocks (" + dm.m0.shortName + "/" + dm.m1.shortName + "/" + dm.m2.shortName + ") aggregation math"
+          },
+          {
+            q: "What are the primary price divergence risks between Baltic spot index prints and " + fundUpper + " ETF NAV during high-volatility roll periods?",
+            label: "Spot prints vs " + fundUpper + " NAV divergence during roll periods"
+          }
+        ],
+        flows: [
+          {
+            q: "How do current " + fundUpper + " AUM, shares outstanding, and basket creation/redemption trends compare to historical freight cycles?",
+            label: "Current AUM & shares outstanding vs historical cycles"
+          },
+          {
+            q: "Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep " + fundUpper + " market price pegged to NAV.",
+            label: "AP 25,000-share creation basket arbitrage mechanics"
+          },
+          {
+            q: "What market signals and sentiment shifts can be inferred from institutional " + fundUpper + " share count expansions and contractions?",
+            label: "Institutional share count expansion/contraction signals"
+          },
+          {
+            q: "How does yield earned on unencumbered cash collateral held in Treasury money market funds offset the " + fundUpper + " Total Expense Ratio?",
+            label: "Cash collateral Treasury yield vs Total Expense Ratio"
+          },
+          {
+            q: "What are the CME and SGX clearing house initial margin (15%) and daily variation margin requirements for " + fundUpper + " futures holdings?",
+            label: "CME & SGX clearing house margin requirements"
+          },
+          {
+            q: "How does secondary market premium/discount arbitrage operate for " + fundUpper + " during severe freight market liquidity dislocations?",
+            label: "Premium/Discount arbitrage in volatility"
+          }
+        ],
+        strategy: [
+          {
+            q: "What are the primary structural risks of holding " + fundUpper + " from " + dm.m0.fullName + " through " + dm.m3.fullName + " (contango roll decay, volatility drag)?",
+            label: "Risks of holding " + fundUpper + " " + dm.m0.shortName + " \u2192 " + dm.m3.shortName + " (3+ months)"
+          },
+          {
+            q: isBwet
+              ? "How does holding BWET ETF differ from investing in physical tanker shipping equities like Frontline (FRO), Scorpio (STNG), or DHT (DHT)?"
+              : "How does holding BDRY ETF differ from investing in physical dry bulk shipping equities like Star Bulk (SBLK) or Golden Ocean (GOGL)?",
+            label: isBwet
+              ? "BWET ETF vs Tanker Equities (FRO, STNG, DHT)"
+              : "BDRY ETF vs Shipping Equities (SBLK, GOGL)"
+          },
+          {
+            q: "What is the optimal entry and exit timing window relative to the monthly 15-business-day calendar roll schedule for " + fundUpper + "?",
+            label: "Optimal entry/exit window in monthly roll cycle"
+          },
+          {
+            q: "How does seasonal freight demand (" + dm.m0.shortName + " through " + dm.m3.shortName + " seasonal transitions) affect " + fundUpper + " tracking?",
+            label: "Seasonal freight demand patterns impact on tracking"
+          },
+          {
+            q: "How can a physical charterer or shipowner hedge physical vessel charter parties using " + fundUpper + " ETF shares?",
+            label: "Hedging physical vessel charters with " + fundUpper + " shares"
+          },
+          {
+            q: "What specific forward curve flattening or freight breakdown signals should trigger an immediate invalidation of a long " + fundUpper + " thesis?",
+            label: "Thesis invalidation & stop-loss risk triggers"
+          }
+        ]
+      };
+
+      Object.keys(panelsData).forEach(function(cat) {
+        var panelEl = document.getElementById('etf-panel-' + cat);
+        if (!panelEl) return;
+        var items = panelsData[cat];
+        var html = items.map(function(item) {
+          var safeQ = item.q.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+          return '<button class="sq-q" onclick="etfSq(\'' + safeQ + '\')">' + item.label + '</button>';
+        }).join('\n');
+        panelEl.innerHTML = html;
+      });
+    }
+
     function switchEtfQaFund(fundKey) {
       _etfQaFund = (fundKey || 'bdry').toLowerCase();
       var bdryBtn = document.getElementById('etfQaSwitchBdry');
@@ -22080,6 +22305,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (bwetBtn) { bwetBtn.style.background = 'transparent'; bwetBtn.style.color = 'var(--text-muted)'; }
         if (badge) { badge.textContent = 'BDRY (Dry Bulk)'; badge.style.color = '#58a6ff'; badge.style.background = 'rgba(88,166,255,0.15)'; badge.style.borderColor = 'rgba(88,166,255,0.3)'; }
       }
+      renderEtfSuggestedQuestions(_etfQaFund);
     }
 
     function etfSq(q) {
@@ -22156,6 +22382,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         sel.value = storedProvider;
         onEtfQAProviderChange();
       }
+
+      // Initial render of dynamic self-updating suggested questions
+      renderEtfSuggestedQuestions(_etfQaFund);
 
       // Tab switcher listener
       var tabs = document.getElementById('etfQaTabs');
@@ -22441,6 +22670,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (btn) btn.disabled = false;
       }
     }
+
+    window.renderEtfSuggestedQuestions = renderEtfSuggestedQuestions;
+    window._getEtfDynamicMonths = _getEtfDynamicMonths;
+    window.switchEtfQaFund = switchEtfQaFund;
+    window.etfSq = etfSq;
+    window.runEtfQAQuery = runEtfQAQuery;
+    window.initEtfQAController = initEtfQAController;
 
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', initEtfQAController);
