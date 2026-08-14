@@ -113,17 +113,23 @@ def load_latest_official_snapshot(
             f"Manifest record for {f_upper} ({latest_date_str}) missing 'immutable_archive_path'."
         )
         
-    # Resolve relative archive path against repo root or base dir
+    # Resolve relative archive path against base_dir first, then repo root
     if os.path.isabs(raw_archive_rel):
         raw_archive_full = raw_archive_rel
     else:
-        # Check relative to base_dir or repo root
+        rel_clean = raw_archive_rel
+        if rel_clean.startswith('data/etf/'):
+            rel_clean = rel_clean[len('data/etf/'):]
+        elif rel_clean.startswith('data/'):
+            rel_clean = rel_clean[len('data/'):]
+            
+        base_cand = os.path.normpath(os.path.join(base_dir, rel_clean))
         root_cand = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', raw_archive_rel))
-        base_cand = os.path.normpath(os.path.join(base_dir, '..', '..', raw_archive_rel))
-        if os.path.exists(root_cand):
-            raw_archive_full = root_cand
-        elif os.path.exists(base_cand):
+        
+        if os.path.exists(base_cand):
             raw_archive_full = base_cand
+        elif os.path.exists(root_cand):
+            raw_archive_full = root_cand
         else:
             raw_archive_full = os.path.join(base_dir, 'raw_holdings', f_upper, os.path.basename(raw_archive_rel))
             
@@ -147,12 +153,18 @@ def load_latest_official_snapshot(
         if os.path.isabs(raw_source_rel):
             raw_source_full = raw_source_rel
         else:
+            rel_clean = raw_source_rel
+            if rel_clean.startswith('data/etf/'):
+                rel_clean = rel_clean[len('data/etf/'):]
+            elif rel_clean.startswith('data/'):
+                rel_clean = rel_clean[len('data/'):]
+                
+            base_cand = os.path.normpath(os.path.join(base_dir, rel_clean))
             root_cand = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', raw_source_rel))
-            base_cand = os.path.normpath(os.path.join(base_dir, '..', '..', raw_source_rel))
-            if os.path.exists(root_cand):
-                raw_source_full = root_cand
-            elif os.path.exists(base_cand):
+            if os.path.exists(base_cand):
                 raw_source_full = base_cand
+            elif os.path.exists(root_cand):
+                raw_source_full = root_cand
             else:
                 raw_source_full = os.path.join(base_dir, 'raw_sources', os.path.basename(raw_source_rel))
                 

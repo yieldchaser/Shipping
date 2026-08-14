@@ -182,7 +182,7 @@ def save_immutable_raw_archive(fund: str, as_of_date: str, df: pd.DataFrame, bas
     base_name = f"{as_of_date}.csv"
     target_file = os.path.join(fund_dir, base_name)
     
-    csv_content = df.to_csv(index=False).encode('utf-8')
+    csv_content = df.to_csv(index=False, lineterminator='\n').encode('utf-8')
     computed_sha = calculate_bytes_sha256(csv_content)
     
     if os.path.exists(target_file):

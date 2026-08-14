@@ -247,7 +247,7 @@ def process_fund_in_staging(
     
     # 1. Save normalized current snapshot to staging
     current_output = os.path.join(staging_dir, f"{f_lower}_holdings.csv")
-    fund_df.to_csv(current_output, index=False)
+    fund_df.to_csv(current_output, index=False, lineterminator='\n')
     
     # 2. Save immutable derived raw archive in staging
     derived_rel, derived_sha = save_immutable_raw_archive(
@@ -286,7 +286,7 @@ def process_fund_in_staging(
             combined_df = df_archive
     else:
         combined_df = df_archive
-    combined_df.to_csv(history_file, index=False)
+    combined_df.to_csv(history_file, index=False, lineterminator='\n')
     
     return {
         'fund': f_upper,
@@ -309,7 +309,7 @@ def fetch_etf_prices(target_dir: str):
                 csv_df.rename(columns={'Date': 'date', 'Close': 'close', 'Volume': 'volume'}, inplace=True)
                 csv_df['date'] = csv_df['date'].dt.strftime('%Y-%m-%d')
                 out_p = os.path.join(target_dir, f'{fund.lower()}_liquidity.csv')
-                csv_df.to_csv(out_p, index=False)
+                csv_df.to_csv(out_p, index=False, lineterminator='\n')
                 print(f"[OK] Saved {out_p}")
         except Exception as e:
             print(f"WARNING: Could not fetch liquidity for {fund}: {e}")
@@ -482,7 +482,7 @@ def fetch_official_firestore_master_feed() -> bytes:
             
     df = pd.DataFrame(rows)
     buf = io.StringIO()
-    df.to_csv(buf, index=False)
+    df.to_csv(buf, index=False, lineterminator='\n')
     return buf.getvalue().encode('utf-8')
 
 def run_update_pipeline(
