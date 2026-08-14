@@ -1,25 +1,26 @@
 {
-  "generated_at": "2026-08-13T21:03:11.138764+00:00",
-  "brief_date": "2026-08-13",
+  "generated_at": "2026-08-14T09:33:44.784058+00:00",
+  "brief_date": "2026-08-14",
   "generation": {
     "mode": "llm",
     "provider_used": "groq",
     "model": "llama-3.3-70b-versatile",
     "provider_order": [
-      "groq",
       "nim",
+      "groq",
       "gemini",
       "openrouter",
       "ollama"
     ],
     "attempted_providers": [
+      "nim",
       "groq"
     ]
   },
   "executive_tldr": [
-    "The dry bulk market is range-bound, while the tanker market is strengthening, driven by robust demand for crude oil transportation and ongoing geopolitical tensions.",
-    "A long dry bulk vs short tanker spread trade is the top actionable positioning idea, driven by the structural imbalance in iron ore and coal demand.",
-    "The most critical near-term catalyst is the upcoming Chinese steel production and iron ore import data, which will dictate the direction of freight rates in the coming months."
+    "The dry bulk market is expected to be range-bound over the next 2-4 weeks, with a potential downside risk if iron ore prices continue to decline.",
+    "A long spread trade in the dry bulk sector, specifically in the Capesize segment, versus a short position in the tanker sector, specifically in the Aframax segment, is recommended.",
+    "The upcoming monthly customs commodity trade data and the US weekly EIA petroleum status reports are the key catalysts to watch for late August and September 2026."
   ],
   "market_snapshot": {
     "bdi": {
@@ -93,17 +94,19 @@
       "positioning_bias": "NEUTRAL",
       "confidence_score": 0.5,
       "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 1 pos/0 neg/2 neu; Fundamentals 0 pos/0 neg/3 neu.",
-      "summary": "The dry bulk market is currently positioned in a top-quartile historical regime, with the BDI at 3083 points. The momentum characterization, with a Z-score of +1.85σ and a ROC60 of -2.2%, signals a slowing rate of change. Analyst consensus is neutral, with a mixed vessel-class breakdown: Capesize rates are firming, while Panamax and Handysize rates are softer. Geopolitical factors, such as supply disruptions and port congestion, are currently inactive, leading to a neutral positioning bias over the next 2-4 weeks.",
+      "summary": "The dry bulk market is currently positioned in a strong but potentially overextended regime, with the BDI at 3083 points, which is in the 92nd percentile historically. The momentum characterization, with a Z-score of +1.85σ and a ROC60 of -2.2%, suggests a market that has been accelerating but is now showing signs of slowing down. The analyst consensus is neutral, with a breakdown of vessel classes showing Capesize leading the market, while Panamax and Handysize rates are softer. Integrating geopolitical factors, such as supply disruptions and port congestion, into the analysis suggests that the market may be due for a correction, and the actionable conclusion is to position for a potential downturn over the next 2-4 weeks.",
       "key_signals": [
-        "Capesize rates at 5105 points sit +1.85σ above their 252-day mean — a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
         "The Capesize-Panamax spread of +2799 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
-        "The BDI historical context is top-quartile, with the current level exceeding 92% of all historical observations.",
-        "The dry bulk fleet is growing at a 3.4% year-over-year rate, which may eventually weigh on rates if demand does not keep pace."
+        "The BDI historical context is in the top-quartile, suggesting a strong market, but the Z-score of +1.85σ implies a potential overextension.",
+        "The Tanker Z-spread is aligned, with clean Z=+0.58σ and dirty Z=+1.04σ, indicating a balanced market.",
+        "The Capesize rates at 5105 sit +1.85σ above their 252-day mean, a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
+        "The Supramax segment is showing signs of expansion, with a Z-score of +1.02σ and a ROC60 of +2.4%, indicating a potential upside in this segment.",
+        "The Handysize segment is under pressure, with a Z-score of +0.82σ and a ROC60 of +2.6%, but the rates are still in the 70th percentile historically."
       ],
-      "trade_idea": "No high-conviction setup: a clear breakout above 3200 points on the BDI or a significant increase in iron ore import volumes would be needed to validate a long thesis.",
-      "outlook": "The dry bulk market is expected to remain range-bound over the next 2-4 weeks, with the key variable being the trajectory of iron ore import demand from China.",
-      "catalyst_watch": "The upcoming monthly customs commodity trade data and Chinese steel production figures for late August will be closely watched for signs of demand strength or weakness.",
-      "watch": "The upcoming monthly customs commodity trade data and Chinese steel production figures for late August will be closely watched for signs of demand strength or weakness.",
+      "trade_idea": "No high-conviction setup: a clear breakdown of the BDI below 2800 points would be needed to validate a short thesis.",
+      "outlook": "The dry bulk market is expected to be range-bound over the next 2-4 weeks, with a potential downside risk if iron ore prices continue to decline, which could change the outlook if Chinese steel production data shows a significant decline.",
+      "catalyst_watch": "The upcoming monthly customs commodity trade data and the US weekly EIA petroleum status reports are the key catalysts to watch for late August and September 2026.",
+      "watch": "The upcoming monthly customs commodity trade data and the US weekly EIA petroleum status reports are the key catalysts to watch for late August and September 2026.",
       "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
       "report_dates": [
         "2026-08-04",
@@ -117,18 +120,20 @@
       "positioning_bias": "LONG",
       "confidence_score": 0.7,
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 2 pos/0 neg/1 neu; Fundamentals 3 pos/0 neg/0 neu.",
-      "summary": "The tanker market is currently positioned in a mildly bullish regime, with the Dirty Tanker index at 2644 points. The momentum characterization, with a Z-score of +0.81σ and a ROC60 of +11.3%, signals a strengthening rate of change. Analyst consensus is positive, with a clean-dirty split favoring the dirty side. Geopolitical factors, such as supply disruptions and sanctions, are currently active, leading to a long positioning bias over the next 2-4 weeks.",
+      "summary": "The tanker market is currently positioned in a strong regime, with the Dirty Tanker index at 2644 points, which is in the 97th percentile historically. The momentum characterization, with a Z-score of +0.81σ and a ROC60 of +11.3%, suggests a market that is accelerating. The analyst consensus is bullish, with a breakdown of vessel classes showing VLCC and Suezmax rates leading the market, while Aframax rates are softer. Integrating geopolitical factors, such as supply disruptions and sanctions, into the analysis suggests that the market may continue to strengthen, and the actionable conclusion is to position for a potential upside over the next 2-4 weeks.",
       "key_signals": [
-        "The Dirty Tanker index at 2644 points is +1.04σ above its 252-day mean — a level historically associated with sustained strength in the sector.",
-        "The Clean-Dirty tanker spread of -1257 points indicates a strong preference for dirty tanker exposure, driven by robust demand for crude oil transportation.",
-        "The VLCC Middle East-Asia route is trading at a premium, with a daily round-trip TCE of over $481,286, signaling tight supply conditions.",
-        "The tanker fleet is growing at a 3.7% year-over-year rate, which may eventually weigh on rates if demand does not keep pace."
+        "The VLCC rate for the TD3C route is now assessed at WS475.56, which corresponds to a daily round-trip TCE of $481,286 for the standard Baltic VLCC.",
+        "The Suezmax rate for the TD20 route is now assessed at WS172.22, which translates into a daily round-trip TCE of a little under $71,350.",
+        "The Aframax rate for the TD7 route is now assessed at WS213, giving a daily round-trip TCE of over $108,000 basis Hound Point to Wilhelmshaven.",
+        "The Clean Tanker index is at 1387 points, which is in the 94th percentile historically, indicating a strong market.",
+        "The Dirty Tanker index is at 2644 points, which is in the 97th percentile historically, indicating a very strong market.",
+        "The Tanker Z-spread is aligned, with clean Z=+0.58σ and dirty Z=+1.04σ, indicating a balanced market."
       ],
-      "trade_idea": "Buy the Dirty Tanker index on a breakout above 2700 points, with an entry trigger of a 2% increase in the VLCC Middle East-Asia route TCE, and exit on a 5% decline in the same route's TCE.",
-      "outlook": "The tanker market is expected to remain strong over the next 2-4 weeks, with the key variable being the trajectory of global oil demand and the impact of ongoing geopolitical tensions.",
-      "catalyst_watch": "The upcoming OPEC+ ministerial review and weekly EIA crude stock figures will be closely watched for signs of supply-demand balance or potential disruptions.",
-      "watch": "The upcoming OPEC+ ministerial review and weekly EIA crude stock figures will be closely watched for signs of supply-demand balance or potential disruptions.",
-      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline, invalidating the current bull thesis.",
+      "trade_idea": "Buy the Dirty Tanker index on a breakout above 2700 points, with an entry trigger of a daily close above this level and an exit thesis of a decline below 2500 points.",
+      "outlook": "The tanker market is expected to continue to strengthen over the next 2-4 weeks, with a potential upside risk if oil demand continues to increase, which could change the outlook if OPEC+ production cuts are announced.",
+      "catalyst_watch": "The upcoming OPEC+ ministerial review and the weekly EIA crude stock figures are the key catalysts to watch for late August and September 2026.",
+      "watch": "The upcoming OPEC+ ministerial review and the weekly EIA crude stock figures are the key catalysts to watch for late August and September 2026.",
+      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline, which would invalidate the bull thesis.",
       "report_dates": [
         "2026-08-11",
         "2026-07-28",
@@ -136,11 +141,11 @@
       ]
     }
   },
-  "macro_note": "The ongoing US-Iran conflict is the primary macro driver, with its freight transmission mechanism being the increased risk premium for tanker routes, particularly for VLCCs. The upcoming Chinese steel production and iron ore import data for late August will be the key event to confirm or invalidate the current freight thesis, as it will provide insight into the trajectory of Chinese import demand.",
+  "macro_note": "The ongoing geopolitical tensions in the Middle East are having a significant impact on the tanker market, with the VLCC and Suezmax segments benefiting the most from the rerouting of cargoes. The upcoming OPEC+ ministerial review and the weekly EIA crude stock figures are the key catalysts to watch for late August and September 2026, which will either confirm or invalidate the current freight thesis.",
   "cross_sector_analysis": {
-    "relative_value": "The dry bulk sector has a better risk-reward profile compared to tankers, given the current Z-differential of +1.04σ vs +0.81σ, driven by the structural imbalance in iron ore and coal demand.",
-    "dominant_driver": "The single most consequential macro force for both sectors is the trajectory of Chinese import demand, which will dictate the direction of freight rates in the coming months.",
-    "positioning_recommendation": "A long dry bulk vs short tanker spread trade is recommended, using the BDI and Dirty Tanker indices as the respective proxies, with an entry trigger of a 2% increase in the Capesize-Panamax spread and an exit trigger of a 5% decline in the same spread."
+    "relative_value": "The dry bulk sector has a better risk-reward profile compared to the tanker sector, with a Z-differential of +1.04σ, indicating a potential upside in the dry bulk market.",
+    "dominant_driver": "The dominant macro force driving both sectors is the increase in oil demand and the geopolitical risk premium, which is having a direct impact on freight rates.",
+    "positioning_recommendation": "A long spread trade in the dry bulk sector, specifically in the Capesize segment, versus a short position in the tanker sector, specifically in the Aframax segment, is recommended, with an entry trigger of a daily close above 2800 points in the BDI and an exit thesis of a decline below 2500 points."
   },
   "sources": [
     "breakwave_drybulk_2026-08-04",
