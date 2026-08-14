@@ -11,6 +11,8 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" defer></script>
   <script src="data/etf/snapshots/scenario_snapshots.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -2890,7 +2892,53 @@
       border-radius: 8px; padding: 18px; margin-top: 12px;
     }
     .qa-status   { font-size: 11px; color: var(--text-muted); margin-bottom: 12px; text-transform: uppercase; letter-spacing: .5px; font-weight: 600; }
-    .qa-answer   { color: var(--text); font-size: 13.5px; line-height: 1.75; white-space: pre-wrap; }
+    .qa-answer   { color: var(--text); font-size: 13.5px; line-height: 1.75; word-break: break-word; }
+    .qa-answer p { margin-bottom: 0.85em; }
+    .qa-answer h1, .qa-answer h2, .qa-answer h3, .qa-answer h4 {
+      color: #fff; font-weight: 700; margin-top: 1.2em; margin-bottom: 0.5em; line-height: 1.35;
+    }
+    .qa-answer h1 { font-size: 17px; border-bottom: 1px solid var(--border); padding-bottom: 4px; }
+    .qa-answer h2 { font-size: 15.5px; color: var(--accent); }
+    .qa-answer h3 { font-size: 14.5px; color: #58a6ff; }
+    .qa-answer h4 { font-size: 13.5px; color: #79c0ff; }
+    .qa-answer hr.qa-hr { border: 0; border-top: 1px solid rgba(88, 166, 255, 0.2); margin: 1.2em 0; }
+    .qa-answer ul.qa-ul, .qa-answer ol.qa-ol { margin: 0.6em 0 0.9em 1.4em; padding: 0; }
+    .qa-answer li { margin-bottom: 0.35em; line-height: 1.65; }
+    .qa-answer blockquote.qa-blockquote {
+      border-left: 3px solid var(--accent); background: rgba(77, 154, 255, 0.07);
+      margin: 0.8em 0; padding: 8px 14px; border-radius: 0 6px 6px 0; color: #c9d1d9;
+    }
+    .qa-answer .qa-table-wrap {
+      overflow-x: auto; margin: 1em 0; border-radius: 6px;
+      border: 1px solid rgba(88, 166, 255, 0.2); background: rgba(13, 17, 23, 0.7);
+    }
+    .qa-answer table.qa-table { width: 100%; border-collapse: collapse; font-size: 12.5px; text-align: left; }
+    .qa-answer table.qa-table th {
+      background: rgba(22, 27, 34, 0.95); color: #58a6ff; font-weight: 700;
+      padding: 8px 12px; border-bottom: 1px solid rgba(88, 166, 255, 0.25);
+      white-space: nowrap; text-transform: uppercase; font-size: 11px; letter-spacing: 0.3px;
+    }
+    .qa-answer table.qa-table td { padding: 7px 12px; border-bottom: 1px solid rgba(48, 54, 61, 0.4); color: var(--text); }
+    .qa-answer table.qa-table tr:last-child td { border-bottom: none; }
+    .qa-answer table.qa-table tr:hover td { background: rgba(88, 166, 255, 0.05); }
+    .qa-answer code.qa-inline-code {
+      background: rgba(110, 118, 129, 0.2); padding: 2px 5px; border-radius: 4px;
+      font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #79c0ff;
+    }
+    .qa-answer pre.qa-pre {
+      background: #0d1117; border: 1px solid var(--border); border-radius: 6px;
+      padding: 12px; overflow-x: auto; margin: 0.9em 0;
+    }
+    .qa-answer pre.qa-pre code {
+      font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #e6edf3; line-height: 1.5;
+    }
+    .qa-answer .qa-math-display {
+      margin: 1.1em 0; padding: 12px 16px; background: rgba(22, 27, 34, 0.75);
+      border: 1px solid rgba(88, 166, 255, 0.22); border-radius: 6px;
+      overflow-x: auto; text-align: center; box-shadow: inset 0 1px 3px rgba(0,0,0,0.3);
+    }
+    .qa-answer .katex { font-size: 1.08em; color: #e6edf3; }
+    .qa-answer .katex-display { margin: 0; padding: 0; }
     .qa-cit-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(88, 166, 255, 0.1); }
     .qa-cit {
       background: rgba(22, 27, 34, 0.8); border: 1px solid rgba(88, 166, 255, 0.16); border-radius: 4px;
@@ -21925,11 +21973,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // ── NVIDIA NIM (OpenAI-compatible) ──────────────────────────────────
       if (provider === 'nim') {
         const endpoint = 'https://integrate.api.nvidia.com/v1/chat/completions';
+        const cleanKey = apiKey.trim().startsWith('Bearer ') ? apiKey.trim() : ('Bearer ' + apiKey.trim());
         const res = await fetch(endpoint, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${apiKey}`
+            'Authorization': cleanKey
           },
           body: JSON.stringify({
             model: model || 'deepseek-ai/deepseek-r1',
@@ -21942,11 +21991,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         });
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
-          const msg = err?.error?.message || `NVIDIA NIM HTTP ${res.status}`;
+          let msg = err?.error?.message || err?.detail || (typeof err === 'string' ? err : '') || `NVIDIA NIM HTTP ${res.status}`;
+          if (res.status === 401) msg = `NVIDIA NIM 401 Unauthorized: Invalid API key. Ensure your key starts with 'nvapi-' from build.nvidia.com. (${msg})`;
+          else if (res.status === 404) msg = `NVIDIA NIM 404 Model Not Found: Model '${model}' is unavailable on NIM. (${msg})`;
+          else if (res.status === 422) msg = `NVIDIA NIM 422 Unprocessable Request: Parameter mismatch for '${model}'. (${msg})`;
+          console.warn('[NVIDIA NIM API Error]', res.status, msg, err);
           throw new Error(msg);
         }
         if (doStream && res.body) return _readSSE(res, onToken, 'NVIDIA NIM');
         const data = await res.json();
+        if (data?.error) {
+          const errMsg = data.error.message || JSON.stringify(data.error);
+          throw new Error('NVIDIA NIM error: ' + errMsg);
+        }
         return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
@@ -21989,13 +22046,268 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
 
 
-    function _formatQAAnswer(text) {
-      if (!text) return '';
-      // Escape HTML to prevent injection, but allow our superscripts
-      let esc = String(text)
+    function _escapeHtml(str) {
+      return String(str)
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;');
+    }
+
+    function _formatMathInner(html) {
+      html = html.replace(/\\text\{([^}]+)\}/g, '<span style="font-family:inherit;font-style:normal;">$1</span>');
+      html = html.replace(/\\times/g, '&times;');
+      html = html.replace(/\\Delta/g, '&Delta;');
+      html = html.replace(/\\sigma/g, '&sigma;');
+      html = html.replace(/\\sum/g, '&sum;');
+      html = html.replace(/\\approx/g, '&asymp;');
+      html = html.replace(/\\pm/g, '&plusmn;');
+      html = html.replace(/\\;/g, '&nbsp;');
+      html = html.replace(/\\,/g, '&nbsp;');
+      html = html.replace(/\\quad/g, '&emsp;');
+      html = html.replace(/_\{([^}]+)\}/g, '<sub>$1</sub>');
+      html = html.replace(/\^\{([^}]+)\}/g, '<sup>$1</sup>');
+      html = html.replace(/_([a-zA-Z0-9])/g, '<sub>$1</sub>');
+      html = html.replace(/\^([a-zA-Z0-9])/g, '<sup>$1</sup>');
+      html = html.replace(/\{,\}/g, ',');
+      return html;
+    }
+
+    function _parseFractions(tex) {
+      let res = tex;
+      while (res.includes('\\frac')) {
+        const idx = res.indexOf('\\frac');
+        let i = idx + 5;
+        while (i < res.length && res[i] !== '{') i++;
+        if (i >= res.length) break;
+        
+        let depth = 1;
+        let j = i + 1;
+        while (j < res.length && depth > 0) {
+          if (res[j] === '{') depth++;
+          else if (res[j] === '}') depth--;
+          j++;
+        }
+        if (depth > 0) break;
+        const num = res.slice(i + 1, j - 1);
+
+        while (j < res.length && res[j] !== '{') j++;
+        if (j >= res.length) break;
+        depth = 1;
+        let k = j + 1;
+        while (k < res.length && depth > 0) {
+          if (res[k] === '{') depth++;
+          else if (res[k] === '}') depth--;
+          k++;
+        }
+        if (depth > 0) break;
+        const den = res.slice(j + 1, k - 1);
+
+        const replacement = `<span class="qa-frac" style="display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:0.9em;margin:0 4px;"><span style="border-bottom:1px solid currentColor;padding:0 2px 1px;">${_formatMathInner(num)}</span><span style="padding:1px 2px 0;">${_formatMathInner(den)}</span></span>`;
+        res = res.slice(0, idx) + replacement + res.slice(k);
+      }
+      return res;
+    }
+
+    function _renderMath(tex, isDisplay) {
+      const cleanTex = tex.trim();
+      if (typeof katex !== 'undefined' && typeof katex.renderToString === 'function') {
+        try {
+          return katex.renderToString(cleanTex, {
+            displayMode: isDisplay,
+            throwOnError: false
+          });
+        } catch (e) {
+          console.warn('[KaTeX Render]', e);
+        }
+      }
+
+      let html = _escapeHtml(cleanTex);
+      html = _parseFractions(html);
+      html = _formatMathInner(html);
+
+      if (isDisplay) {
+        return `<div class="qa-math-display"><span style="font-family:'IBM Plex Mono', 'Cambria Math', serif;font-size:14px;letter-spacing:0.5px;">${html}</span></div>`;
+      } else {
+        return `<span class="qa-math-inline" style="font-family:'IBM Plex Mono', 'Cambria Math', serif;color:#79c0ff;padding:0 2px;">${html}</span>`;
+      }
+    }
+
+    function _renderMarkdownTables(text) {
+      const lines = text.split('\n');
+      const result = [];
+      let inTable = false;
+      let tableLines = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line.startsWith('|') && line.endsWith('|')) {
+          inTable = true;
+          tableLines.push(line);
+        } else {
+          if (inTable) {
+            result.push(_convertTableLinesToHtml(tableLines));
+            tableLines = [];
+            inTable = false;
+          }
+          result.push(lines[i]);
+        }
+      }
+      if (inTable) {
+        result.push(_convertTableLinesToHtml(tableLines));
+      }
+      return result.join('\n');
+    }
+
+    function _convertTableLinesToHtml(lines) {
+      if (lines.length < 2) return lines.join('\n');
+      const parseRow = (row) => row.split('|').slice(1, -1).map(c => c.trim());
+      const headerCols = parseRow(lines[0]);
+      
+      let startBodyIdx = 1;
+      const alignments = [];
+      if (lines[1].includes('---')) {
+        startBodyIdx = 2;
+        const sepCols = parseRow(lines[1]);
+        sepCols.forEach(c => {
+          if (c.startsWith(':') && c.endsWith(':')) alignments.push('center');
+          else if (c.endsWith(':')) alignments.push('right');
+          else alignments.push('left');
+        });
+      }
+
+      let html = '<div class="qa-table-wrap"><table class="qa-table"><thead><tr>';
+      headerCols.forEach((h, idx) => {
+        const align = alignments[idx] ? ` style="text-align:${alignments[idx]};"` : '';
+        html += `<th${align}>${h}</th>`;
+      });
+      html += '</tr></thead><tbody>';
+
+      for (let r = startBodyIdx; r < lines.length; r++) {
+        const cols = parseRow(lines[r]);
+        if (!cols.length || (cols.length === 1 && !cols[0])) continue;
+        html += '<tr>';
+        cols.forEach((c, idx) => {
+          const align = alignments[idx] ? ` style="text-align:${alignments[idx]};"` : '';
+          html += `<td${align}>${c}</td>`;
+        });
+        html += '</tr>';
+      }
+      html += '</tbody></table></div>';
+      return html;
+    }
+
+    function _renderMarkdownLists(text) {
+      const lines = text.split('\n');
+      const result = [];
+      let inUl = false;
+      let inOl = false;
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        const ulMatch = line.match(/^(\s*)[-\*]\s+(.*)$/);
+        const olMatch = line.match(/^(\s*)\d+\.\s+(.*)$/);
+
+        if (ulMatch) {
+          if (inOl) { result.push('</ol>'); inOl = false; }
+          if (!inUl) { result.push('<ul class="qa-ul">'); inUl = true; }
+          result.push(`<li>${ulMatch[2]}</li>`);
+        } else if (olMatch) {
+          if (inUl) { result.push('</ul>'); inUl = false; }
+          if (!inOl) { result.push('<ol class="qa-ol">'); inOl = true; }
+          result.push(`<li>${olMatch[2]}</li>`);
+        } else {
+          if (inUl) { result.push('</ul>'); inUl = false; }
+          if (inOl) { result.push('</ol>'); inOl = false; }
+          result.push(line);
+        }
+      }
+      if (inUl) result.push('</ul>');
+      if (inOl) result.push('</ol>');
+      return result.join('\n');
+    }
+
+    function renderRichMarkdownAndMath(text) {
+      if (!text) return '';
+
+      // 1. Code blocks
+      const codeBlocks = [];
+      let s = String(text).replace(/```([a-zA-Z0-9_-]*)\r?\n([\s\S]*?)```/g, (match, lang, code) => {
+        const id = `@@@CODE_BLOCK_${codeBlocks.length}@@@`;
+        codeBlocks.push(`<pre class="qa-pre"><code class="qa-code language-${lang || 'text'}">${_escapeHtml(code.trim())}</code></pre>`);
+        return id;
+      });
+
+      // 2. Display math \[ ... \] and $$ ... $$
+      const mathBlocks = [];
+      s = s.replace(/\\\[([\s\S]*?)\\\]/g, (match, math) => {
+        const id = `@@@MATH_BLOCK_${mathBlocks.length}@@@`;
+        mathBlocks.push(_renderMath(math, true));
+        return `\n\n${id}\n\n`;
+      });
+      s = s.replace(/\$\$([\s\S]*?)\$\$/g, (match, math) => {
+        const id = `@@@MATH_BLOCK_${mathBlocks.length}@@@`;
+        mathBlocks.push(_renderMath(math, true));
+        return `\n\n${id}\n\n`;
+      });
+
+      // 3. Inline math \( ... \) and $ ... $
+      s = s.replace(/\\\(([\s\S]*?)\\\)/g, (match, math) => {
+        const id = `@@@MATH_BLOCK_${mathBlocks.length}@@@`;
+        mathBlocks.push(_renderMath(math, false));
+        return id;
+      });
+      s = s.replace(/(^|[^\\$])\$([^\$\n]+?)\$(?!\d)/g, (match, prefix, math) => {
+        if (/^\s*[\d,]+(?:\.\d+)?\s*(?:k|m|b|bn|million|billion|\/day|\/share)?\s*$/i.test(math)) {
+          return match;
+        }
+        const id = `@@@MATH_BLOCK_${mathBlocks.length}@@@`;
+        mathBlocks.push(_renderMath(math, false));
+        return prefix + id;
+      });
+
+      // 4. Tables
+      s = _renderMarkdownTables(s);
+
+      // 5. Headers
+      s = s.replace(/^#### (.*?)$/gm, '<h4 class="qa-h4">$1</h4>');
+      s = s.replace(/^### (.*?)$/gm, '<h3 class="qa-h3">$1</h3>');
+      s = s.replace(/^## (.*?)$/gm, '<h2 class="qa-h2">$1</h2>');
+      s = s.replace(/^# (.*?)$/gm, '<h1 class="qa-h1">$1</h1>');
+
+      // 6. Horizontal Rules
+      s = s.replace(/^(\*{3,}|-{3,}|_{3,})$/gm, '<hr class="qa-hr">');
+
+      // 7. Blockquotes
+      s = s.replace(/^> (.*?)$/gm, '<blockquote class="qa-blockquote">$1</blockquote>');
+
+      // 8. Lists
+      s = _renderMarkdownLists(s);
+
+      // 9. Inlines
+      s = s.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+      s = s.replace(/__([^_]+?)__/g, '<strong>$1</strong>');
+      s = s.replace(/(^|[^\*])\*([^\*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
+      s = s.replace(/`([^`\n]+?)`/g, '<code class="qa-inline-code">$1</code>');
+
+      // 10. Newlines
+      s = s.replace(/\r?\n/g, '<br>');
+      s = s.replace(/(<\/(?:h[1-4]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr)>)<br>/gi, '$1');
+      s = s.replace(/<br>(<(?:h[1-4]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr))/gi, '$1');
+
+      // 11. Restore math & code
+      mathBlocks.forEach((m, idx) => {
+        s = s.replace(new RegExp(`@@@MATH_BLOCK_${idx}@@@`, 'g'), m);
+      });
+      codeBlocks.forEach((c, idx) => {
+        s = s.replace(new RegExp(`@@@CODE_BLOCK_${idx}@@@`, 'g'), c);
+      });
+
+      return s;
+    }
+
+    function _formatQAAnswer(text) {
+      if (!text) return '';
+      let esc = String(text);
 
       // Handle multi-citation groups like [DOC-1, DOC-2, DOC-3]
       esc = esc.replace(/\[DOC-\s*(\d+(?:\s*,\s*DOC-\s*\d+)*)\]/gi, (match) => {
@@ -22010,13 +22322,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const _docWordMap = { 'zero':0, 'one':1, 'two':2, 'three':3, 'four':4, 'five':5, 'six':6, 'seven':7, 'eight':8, 'nine':9, 'ten':10, 'eleven':11, 'twelve':12, 'thirteen':13, 'fourteen':14, 'fifteen':15, 'sixteen':16, 'seventeen':17, 'eighteen':18, 'nineteen':19, 'twenty':20 };
       esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(\d+)/gi, '[DOC-$1]');
       esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b/gi, (m, word) => '[DOC-' + _docWordMap[word.toLowerCase()] + ']');
-      // Now convert the bracketed forms to superscripts
       esc = esc.replace(/\[DOC-\s*(\d+)\]/gi, '<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">$1</sup>');
 
-      // Basic markdown styling for readability
-      esc = esc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-      esc = esc.replace(/\r?\n/g, '<br>');
-      return esc;
+      return renderRichMarkdownAndMath(esc);
     }
 
     function _autoSelectSources(query) {
@@ -22237,6 +22545,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         let finalEstTokens = 0;
         let finalWebCitations = [];
         let lastError = null;
+        let primaryError = null;
 
         if (!fallbackOrder.length) {
           ansEl.textContent = 'No providers configured. Enter an API key above and click Save.';
@@ -22255,6 +22564,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
           if (!docs.length) {
             lastError = new Error('No context passages fit within ' + pCfg.label + ' token limit.');
+            if (p === provider) primaryError = lastError;
             continue;
           }
 
@@ -22275,7 +22585,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           } catch (err) {
             if (err.name === 'AbortError') return;
             lastError = err;
-            const isRetryable = /429|rate.limit|quota|too.many|too.large|request.too|token/i.test(err.message);
+            if (p === provider) primaryError = err;
+            const isRetryable = /429|rate.limit|quota|too.many|too.large|request.too|token|unauthorized|401|404|not found|503/i.test(err.message);
             if (isRetryable && fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
               statEl.textContent = pCfg.label + ' failed (' + (err.message || '').slice(0, 60) + ') - trying next...';
               continue;
@@ -22293,8 +22604,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const wikiCount = finalDocs.filter(d => d.type === 'wiki').length;
         const chunkCount = finalDocs.filter(d => d.type === 'chunk').length;
         const webCount = (finalWebCitations || []).length;
-        statEl.textContent = '[OK] ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens)' +
-          ' [' + wikiCount + ' wiki · ' + chunkCount + ' chunks' + (webCount > 0 ? ' · ' + webCount + ' web sources' : '') + ']';
+        const fallbackMsg = (usedProvider !== provider && primaryError)
+          ? ' <span style="color:var(--yellow);font-size:10.5px;margin-left:6px;" title="' + _escapeHtml(primaryError.message) + '">⚠️ (' + _providerConfig(provider).label + ' error: ' + _escapeHtml(primaryError.message.slice(0, 60)) + ' → routed to ' + usedCfg.label + ')</span>'
+          : '';
+        statEl.innerHTML = '<span style="color:var(--green);font-weight:700;">[OK] ' + usedCfg.label + '</span> · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens)' +
+          ' [' + wikiCount + ' wiki · ' + chunkCount + ' chunks' + (webCount > 0 ? ' · ' + webCount + ' web sources' : '') + ']' + fallbackMsg;
         ansEl.innerHTML  = _formatQAAnswer(answer);
         citEl.innerHTML  = [
           ...finalDocs.map((d, i) =>
@@ -22742,10 +23056,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _formatEtfQAAnswer(text) {
       if (!text) return '';
-      var esc = String(text)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;');
+      let esc = String(text);
 
       // Parse [ACTION:apply_scenario:cape=+20,pana=-10...]
       esc = esc.replace(/\[ACTION:apply_scenario:([^\]]+)\]/gi, function(match, paramStr) {
@@ -22756,34 +23067,37 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         });
         var labelParts = Object.entries(params).filter(function(e) { return e[1] !== 0; }).map(function(e) { return e[0].toUpperCase() + " " + (e[1] >= 0 ? '+' : '') + e[1] + "%"; });
         var label = labelParts.length ? labelParts.join(', ') : 'Reset Shocks';
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply to Scenario Simulator (' + label + ')</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="simulator" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply to Scenario Simulator (' + label + ')</button></div>';
       });
 
       // Parse [ACTION:jump_simulator:YYYY-MM-DD]
       esc = esc.replace(/\[ACTION:jump_simulator:([^\]]+)\]/gi, function(match, dateStr) {
         var d = dateStr.trim();
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" onclick="jumpSimulatorFromCopilot(\'' + d + '\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jump Simulator to ' + d + '</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="jump" onclick="jumpSimulatorFromCopilot(\'' + d + '\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jump Simulator to ' + d + '</button></div>';
       });
 
       // Parse [ACTION:open_decision_ticket]
       esc = esc.replace(/\[ACTION:open_decision_ticket\]/gi, function() {
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>Open Institutional Decision Ticket</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="ticket" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>Open Institutional Decision Ticket</button></div>';
       });
 
       // Parse [CONTRACT:Ticker]
       esc = esc.replace(/\[CONTRACT:\s*([^\]]+)\]/gi, function(match, ticker) {
         var t = ticker.trim();
-        return '<button class="etf-qa-contract-pill" onclick="openContractDetailModal(\'' + t.replace(/'/g, "\\'") + '\')">' +
+        return '<button class="etf-qa-contract-pill" data-tt-type="etf-action-pill" data-tt-action="inspect" onclick="openContractDetailModal(\'' + t.replace(/'/g, "\\'") + '\')">' +
           '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>' +
           '<span>' + t + '</span>' +
           '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-left:3px;opacity:0.75;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>' +
           '</button>';
       });
 
-      // Markdown formatting
-      esc = esc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-      esc = esc.replace(/\r?\n/g, '<br>');
-      return esc;
+      return renderRichMarkdownAndMath(esc);
+    }
+
+    if (typeof window !== 'undefined') {
+      window.renderRichMarkdownAndMath = renderRichMarkdownAndMath;
+      window._formatQAAnswer = _formatQAAnswer;
+      window._formatEtfQAAnswer = _formatEtfQAAnswer;
     }
 
     function applyCopilotScenario(scenarioObj) {
@@ -22864,6 +23178,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var usedProvider = provider;
         var finalWebCitations = [];
         var lastError = null;
+        var primaryError = null;
 
         for (var p of fallbackOrder) {
           var pCfg = _providerConfig(p);
@@ -22886,6 +23201,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           } catch (err) {
             if (err.name === 'AbortError') return;
             lastError = err;
+            if (p === provider) primaryError = err;
             if (fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
               if (statEl) statEl.textContent = pCfg.label + ' failed - trying next provider...';
               continue;
@@ -22898,8 +23214,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         var usedCfg = _providerConfig(usedProvider);
         if (statEl) {
-          statEl.textContent = '[OK] ' + usedCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio & Curves Grounded)' +
-            (finalWebCitations.length > 0 ? ' · ' + finalWebCitations.length + ' web sources' : '');
+          var fallbackMsg = (usedProvider !== provider && primaryError)
+            ? ' <span style="color:var(--yellow);font-size:10.5px;margin-left:6px;" title="' + _escapeHtml(primaryError.message) + '">⚠️ (' + _providerConfig(provider).label + ' error: ' + _escapeHtml(primaryError.message.slice(0, 60)) + ' → routed to ' + usedCfg.label + ')</span>'
+            : '';
+          statEl.innerHTML = '<span style="color:var(--green);font-weight:700;">[OK] ' + usedCfg.label + '</span> (' + fundKey.toUpperCase() + ' Portfolio & Curves Grounded)' +
+            (finalWebCitations.length > 0 ? ' · ' + finalWebCitations.length + ' web sources' : '') +
+            fallbackMsg;
         }
         if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(answer);
 
