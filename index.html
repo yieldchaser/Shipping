@@ -15026,6 +15026,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (typeof renderETFDeconstructionEngine === 'function') {
             renderETFDeconstructionEngine();
           }
+          if (typeof initEtfQAController === 'function') {
+            initEtfQAController();
+          }
         } catch (e) { console.error('[ETFTab Engine]', e); }
       }
       if (tabId === 'yearly-dash') renderYearlyDash(currentProduct);
