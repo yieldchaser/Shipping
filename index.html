@@ -10017,12 +10017,21 @@
           <!-- Time Charter spot vs term curve -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs 1-Year Time Charter Rate (TCE $/day) — overlays spot earnings against fixed 1-year period charter rates to identify market regime. Spot > 1Y TC = Strong near-term tightness / backwardated market; Spot < 1Y TC = Overcapacity / market weakness." data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
-              <div style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs Period Time Charter Rates (TCE $/day) — overlays spot earnings against fixed period charter rates (4/6M, 1Y, 2Y, 3Y, 5Y) to identify term structure regimes. Spot > Period TC = Backwardation/tightness; Spot < Period TC = Contango/overcapacity." data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="tcTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="tcTenor4_6m" onclick="setTcTenor('4_6m')" data-tooltip="4/6 Months: Prompt period time charter estimates (Alibra)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="tcTenor1y" onclick="setTcTenor('1y')" data-tooltip="1-Year: Standard 1-Year Time Charter benchmark rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="tcTenor2y" onclick="setTcTenor('2y')" data-tooltip="2-Year: 2-Year Time Charter period rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                  <button class="toggle-btn" id="tcTenor3y" onclick="setTcTenor('3y')" data-tooltip="3-Year: 3-Year Time Charter period rate (Eco/Scrubber fitted)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
+                  <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip="5-Year: 5-Year Long-Term Time Charter period rate (Eco/Scrubber fitted)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
+                  <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip="All Tenors (Term Structure): Overlays all available period horizons (4/6M, 1Y, 2Y, 3Y, 5Y) alongside Spot" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
+                </div>
                 <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present) into a continuous timeline" style="padding:3px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
-                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present) for dry bulk & tankers" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
-                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip="Dual Overlay: Visualizes both Alibra (solid) and Fearnleys (dashed) to highlight broker rate divergence" style="padding:3px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                  <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
+                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
+                  <button class="toggle-btn" id="tcSrcIntermodal" onclick="setTcSource('intermodal')" data-tooltip="Intermodal Shipbrokers: Bi-weekly 1Y & 3Y Benchmarks" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Intermodal</button>
+                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip="Dual Overlay: Visualizes both Alibra (solid) and Fearnleys (dashed)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
                 </div>
                 <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
               </div>
@@ -10044,8 +10053,15 @@
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Tonnage Basin Arbitrage — compares Atlantic vs. Pacific 1-Year Time Charter rates across Capesize and Panamax vessel classes. High Atlantic/Pacific ratio signals strong Atlantic cargo demand or fleet imbalance." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
-              <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: —</div>
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Tonnage Basin Arbitrage — compares Atlantic vs. Pacific Time Charter rates across Capesize and Panamax vessel classes across selected horizons. High Atlantic/Pacific ratio signals strong Atlantic cargo demand or fleet imbalance." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip="4/6 Months Atlantic vs Pacific Spread" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip="1-Year Atlantic vs Pacific Spread (Default)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip="2-Year Atlantic vs Pacific Spread" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                </div>
+                <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: —</div>
+              </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
               <div class="index-range-label">
@@ -16501,6 +16517,60 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
+    window.tcTenor = window.tcTenor || '1y';
+    window.basinTenor = window.basinTenor || '1y';
+
+    window.setTcTenor = function(tenor) {
+      window.tcTenor = tenor;
+      ['4_6m', '1y', '2y', '3y', '5y', 'all'].forEach(function(t) {
+        const btn = document.getElementById('tcTenor' + (t === '4_6m' ? '4_6m' : (t === 'all' ? 'All' : t)));
+        if (btn) {
+          if (t === tenor) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderTimeCharterChart(window.currentProduct || 'cape');
+    };
+
+    window.setBasinTenor = function(tenor) {
+      window.basinTenor = tenor;
+      ['4_6m', '1y', '2y'].forEach(function(t) {
+        const btn = document.getElementById('basinTenor' + (t === '4_6m' ? '4_6m' : t));
+        if (btn) {
+          if (t === tenor) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderBasinSpreadChart(window.currentProduct || 'cape');
+    };
+
+    window.setTcSource = function(src) {
+      window.tcDataSource = src;
+      ['merged', 'fearnleys', 'intermodal', 'both'].forEach(function(s) {
+        const btn = document.getElementById('tcSrc' + (s.charAt(0).toUpperCase() + s.slice(1)));
+        if (btn) {
+          if (s === src) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderTimeCharterChart(window.currentProduct || 'cape');
+    };
+
     function renderTimeCharterChart(productKey, canvasId) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'timeCharterChart';
@@ -16508,6 +16578,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!canvas) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
+      const activeTenor = window.tcTenor || '1y';
+      const tcSrc = window.tcDataSource || 'merged';
 
       if (isMainCall) {
         const wrapper = canvas.parentNode;
@@ -16518,14 +16590,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (!canvas) return;
           }
 
-          // OVERLAID VIEW MODE: Plot spot and 1Y TC rates of all 6 sectors on a single chart!
+          // OVERLAID VIEW MODE: Plot spot and selected tenor TC rates of all 6 sectors on a single chart!
           const tcRows = DATA.timeCharterRates || [];
           if (!tcRows.length) return;
 
           const spotMaps = {};
           sectors.forEach(s => { spotMaps[s] = getSpotMap(s); });
 
-          var aligned = getCachedAligned('tc_all', productKey);
+          var cacheKey = 'tc_all_' + activeTenor + '_' + tcSrc;
+          var aligned = getCachedAligned(singleCacheKey, productKey);
           if (!aligned) {
             aligned = [];
             tcRows.forEach(r => {
@@ -16535,16 +16608,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 rowData[s + '_spot'] = spotVal;
 
                 let tcCol = 'capesize_1y_avg';
-                if (s === 'panama') tcCol = 'panamax_1y_avg';
-                else if (s === 'suprama') tcCol = 'supramax_1y_avg';
-                else if (s === 'handysize') tcCol = 'handysize_1y_avg';
-                else if (s === 'dirtytanker') tcCol = 'vlcc_1y';
-                else if (s === 'cleantanker') tcCol = 'mr_1y';
-                rowData[s + '_tc1y'] = r[tcCol];
+                if (s === 'cape') tcCol = activeTenor === '4_6m' ? 'capesize_4_6m_avg' : (activeTenor === '2y' ? 'capesize_2y_avg' : 'capesize_1y_avg');
+                else if (s === 'panama') tcCol = activeTenor === '4_6m' ? 'panamax_4_6m_avg' : (activeTenor === '2y' ? 'panamax_2y_avg' : 'panamax_1y_avg');
+                else if (s === 'suprama') tcCol = activeTenor === '4_6m' ? 'supramax_4_6m_avg' : (activeTenor === '2y' ? 'supramax_2y_avg' : 'supramax_1y_avg');
+                else if (s === 'handysize') tcCol = activeTenor === '4_6m' ? 'handysize_4_6m_avg' : (activeTenor === '2y' ? 'handysize_2y_avg' : 'handysize_1y_avg');
+                else if (s === 'dirtytanker') tcCol = (activeTenor === '2y' ? 'vlcc_2y' : (activeTenor === '3y' ? 'vlcc_3y' : (activeTenor === '5y' ? 'vlcc_5y' : 'vlcc_1y')));
+                else if (s === 'cleantanker') tcCol = (activeTenor === '2y' ? 'mr_2y' : (activeTenor === '3y' ? 'mr_3y' : (activeTenor === '5y' ? 'mr_5y' : 'mr_1y')));
+                rowData[s + '_tc'] = r[tcCol];
               });
               aligned.push(rowData);
             });
-            setCachedAligned('tc_all', productKey, aligned);
+            setCachedAligned(singleCacheKey, productKey, aligned);
           }
 
           const cutoff = new Date('2000-01-01');
@@ -16570,8 +16644,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             });
 
             datasets.push({
-              label: `${labelText} 1Y TC`,
-              data: rows.map(r => r[s + '_tc1y']),
+              label: `${labelText} ${activeTenor.toUpperCase()} TC`,
+              data: rows.map(r => r[s + '_tc']),
               yAxisID: 'yLeft',
               borderColor: color,
               backgroundColor: 'transparent',
@@ -16587,22 +16661,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           
           const ratioBadge = document.getElementById('spotTcRatioBadge');
           if (ratioBadge) {
-            ratioBadge.textContent = 'View All Mode';
+            ratioBadge.textContent = 'View All Mode (' + activeTenor.toUpperCase() + ')';
             ratioBadge.style.background = 'var(--border)';
             ratioBadge.style.color = 'var(--text-muted)';
             ratioBadge.removeAttribute('data-tt-type');
-            ratioBadge.setAttribute('data-tooltip', 'Spot-to-Term ratios are only calculated when a single sector is selected (Global Filter mode).');
+            ratioBadge.setAttribute('data-tooltip', 'Spot-to-Term ratios are calculated in Single Sector mode.');
           }
 
           const tcTitle = document.getElementById('tcChartTitle');
           if (tcTitle) {
             tcTitle.setAttribute('data-tooltip', ' ');
             tcTitle.setAttribute('data-tt-type', 'concept-timecharter');
-            tcTitle.removeAttribute('data-tt-spot');
-            tcTitle.removeAttribute('data-tt-tc1y');
-            tcTitle.removeAttribute('data-tt-tc2y');
-            tcTitle.removeAttribute('data-tt-ratio');
-            tcTitle.removeAttribute('data-tt-product');
           }
 
           updateOrCreateChart(actualCanvasId, canvas, {
@@ -16613,13 +16682,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               maintainAspectRatio: false,
               interaction: { mode: 'index', intersect: false },
               plugins: {
-                legend: {
-                  position: 'top',
-                  labels: {
-                    usePointStyle: true,
-                    font: { size: 10 }
-                  }
-                },
+                legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
                 tooltip: {
                   callbacks: {
                     label: function (c) {
@@ -16647,74 +16710,155 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       let spotKey = 'cape';
+      let tc4_6mCol = 'capesize_4_6m_avg';
       let tc1yCol = 'capesize_1y_avg';
       let tc2yCol = 'capesize_2y_avg';
+      let tc3yCol = null;
+      let tc5yCol = null;
+      let intermodal1yCol = 'capesize_1y_tc';
+      let intermodal3yCol = 'capesize_3y_tc';
       let labelPrefix = 'Capesize';
 
       if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
         spotKey = productKey === 'bdiy' ? 'bdiy' : (productKey === 'bdry_spot' ? 'bdry_spot' : productKey);
+        tc4_6mCol = 'capesize_4_6m_avg';
         tc1yCol = 'capesize_1y_avg';
         tc2yCol = 'capesize_2y_avg';
+        intermodal1yCol = 'capesize_1y_tc';
+        intermodal3yCol = 'capesize_3y_tc';
         labelPrefix = productKey === 'bdiy' ? 'BDI' : (productKey === 'bdry_spot' ? 'BDRY Spot' : (productKey === 'bdry' ? 'BDRY' : 'BDRYFF'));
       } else if (productKey === 'panama') {
         spotKey = 'panama';
+        tc4_6mCol = 'panamax_4_6m_avg';
         tc1yCol = 'panamax_1y_avg';
         tc2yCol = 'panamax_2y_avg';
+        intermodal1yCol = 'panamax_1y_tc';
+        intermodal3yCol = 'panamax_3y_tc';
         labelPrefix = 'Panamax';
       } else if (productKey === 'suprama') {
         spotKey = 'suprama';
+        tc4_6mCol = 'supramax_4_6m_avg';
         tc1yCol = 'supramax_1y_avg';
         tc2yCol = 'supramax_2y_avg';
+        intermodal1yCol = 'supramax_1y_tc';
+        intermodal3yCol = 'supramax_3y_tc';
         labelPrefix = 'Supramax';
       } else if (productKey === 'handysize') {
         spotKey = 'handysize';
+        tc4_6mCol = 'handysize_4_6m_avg';
         tc1yCol = 'handysize_1y_avg';
         tc2yCol = 'handysize_2y_avg';
+        intermodal1yCol = 'handysize_1y_tc';
+        intermodal3yCol = 'handysize_3y_tc';
         labelPrefix = 'Handysize';
-      } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') {
+      } else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff' || productKey === 'vlcc') {
         spotKey = 'dirtytanker';
+        tc4_6mCol = null;
         tc1yCol = 'vlcc_1y';
         tc2yCol = 'vlcc_2y';
+        tc3yCol = 'vlcc_3y';
+        tc5yCol = 'vlcc_5y';
+        intermodal1yCol = 'vlcc_1y_tc';
+        intermodal3yCol = 'vlcc_3y_tc';
         labelPrefix = 'VLCC Tanker';
-      } else if (productKey === 'cleantanker') {
+      } else if (productKey === 'suezmax') {
+        spotKey = 'dirtytanker';
+        tc4_6mCol = null;
+        tc1yCol = 'suezmax_1y';
+        tc2yCol = 'suezmax_2y';
+        tc3yCol = 'suezmax_3y';
+        tc5yCol = 'suezmax_5y';
+        intermodal1yCol = 'suezmax_1y_tc';
+        intermodal3yCol = 'suezmax_3y_tc';
+        labelPrefix = 'Suezmax Tanker';
+      } else if (productKey === 'aframax') {
+        spotKey = 'dirtytanker';
+        tc4_6mCol = null;
+        tc1yCol = 'aframax_1y';
+        tc2yCol = 'aframax_2y';
+        tc3yCol = 'aframax_3y';
+        tc5yCol = 'aframax_5y';
+        intermodal1yCol = 'aframax_1y_tc';
+        intermodal3yCol = 'aframax_3y_tc';
+        labelPrefix = 'Aframax Tanker';
+      } else if (productKey === 'cleantanker' || productKey === 'mr') {
         spotKey = 'cleantanker';
+        tc4_6mCol = null;
         tc1yCol = 'mr_1y';
         tc2yCol = 'mr_2y';
+        tc3yCol = 'mr_3y';
+        tc5yCol = 'mr_5y';
+        intermodal1yCol = 'mr_1y_tc';
+        intermodal3yCol = 'mr_3y_tc';
         labelPrefix = 'MR Clean Tanker';
+      } else if (productKey === 'lr1') {
+        spotKey = 'cleantanker';
+        tc4_6mCol = null;
+        tc1yCol = 'lr1_1y';
+        tc2yCol = 'lr1_2y';
+        tc3yCol = 'lr1_3y';
+        tc5yCol = 'lr1_5y';
+        intermodal1yCol = 'lr1_1y_tc';
+        intermodal3yCol = 'lr1_3y_tc';
+        labelPrefix = 'LR1 Clean Tanker';
+      } else if (productKey === 'lr2') {
+        spotKey = 'cleantanker';
+        tc4_6mCol = null;
+        tc1yCol = 'lr2_1y';
+        tc2yCol = 'lr2_2y';
+        tc3yCol = 'lr2_3y';
+        tc5yCol = 'lr2_5y';
+        intermodal1yCol = null;
+        intermodal3yCol = null;
+        labelPrefix = 'LR2 Clean Tanker';
+      } else if (productKey === 'handytanker') {
+        spotKey = 'cleantanker';
+        tc4_6mCol = null;
+        tc1yCol = 'handytanker_1y';
+        tc2yCol = 'handytanker_2y';
+        tc3yCol = 'handytanker_3y';
+        tc5yCol = 'handytanker_5y';
+        intermodal1yCol = 'handy_tanker_1y_tc';
+        intermodal3yCol = 'handy_tanker_3y_tc';
+        labelPrefix = 'Handy Tanker';
       }
 
       const spotMultiplier = SPOT_MULTIPLIERS[spotKey] || 1;
-
       const spotRows = getRows(spotKey);
       const tcRows = DATA.timeCharterRates || [];
       if (!spotRows.length || !tcRows.length) return;
 
       const spotMapObj = getSpotMap(spotKey);
+      var singleCacheKey = 'tc_single_' + productKey + '_' + activeTenor + '_' + tcSrc;
+      var aligned = getCachedAligned(cacheKey, productKey);
 
-      var aligned = getCachedAligned('tc_single', productKey);
       if (!aligned) {
         aligned = [];
         tcRows.forEach(r => {
           let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
+          const tc4_6m = tc4_6mCol ? r[tc4_6mCol] : null;
+          const tc1y = tc1yCol ? r[tc1yCol] : null;
+          const tc2y = tc2yCol ? r[tc2yCol] : null;
+          const tc3y = tc3yCol ? r[tc3yCol] : null;
+          const tc5y = tc5yCol ? r[tc5yCol] : null;
 
-          const tc1y = r[tc1yCol];
-          const tc2y = r[tc2yCol];
-
-          if (spotVal != null || tc1y != null || tc2y != null) {
+          if (spotVal != null || tc4_6m != null || tc1y != null || tc2y != null || tc3y != null || tc5y != null) {
             aligned.push({
               date: r.date,
               dateStr: r.dateStr,
               spot: spotVal,
+              tc4_6m: tc4_6m,
               tc1y: tc1y,
               tc2y: tc2y,
-              ratio: null // filled in after interpolation
+              tc3y: tc3y,
+              tc5y: tc5y,
+              ratio: null
             });
           }
         });
 
-        // Linear interpolation for sparse TC columns (e.g. vlcc_1y has only ~24 points)
-        // This fills gaps so the chart shows a continuous line rather than truncating early
-        ['tc1y', 'tc2y'].forEach(function(field) {
+        // Linear interpolation for sparse period rates
+        ['tc4_6m', 'tc1y', 'tc2y', 'tc3y', 'tc5y'].forEach(function(field) {
           var validIdx = [];
           aligned.forEach(function(r, i) { if (r[field] != null) validIdx.push(i); });
           if (validIdx.length >= 2) {
@@ -16726,7 +16870,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               }
             }
           }
-          // Extrapolate flat from last known value
           if (validIdx.length > 0) {
             var lastIdx = validIdx[validIdx.length - 1];
             var lastVal = aligned[lastIdx][field];
@@ -16736,12 +16879,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           }
         });
 
-        // Compute ratio post-interpolation
+        // Compute ratio based on active tenor
         aligned.forEach(function(r) {
-          r.ratio = (r.spot != null && r.tc1y && r.tc1y > 0) ? Math.min(2.5, r.spot / r.tc1y) : null;
+          let compareRate = r.tc1y;
+          if (activeTenor === '4_6m' && r.tc4_6m) compareRate = r.tc4_6m;
+          else if (activeTenor === '2y' && r.tc2y) compareRate = r.tc2y;
+          else if (activeTenor === '3y' && r.tc3y) compareRate = r.tc3y;
+          else if (activeTenor === '5y' && r.tc5y) compareRate = r.tc5y;
+
+          r.ratio = (r.spot != null && compareRate && compareRate > 0) ? Math.min(2.5, r.spot / compareRate) : null;
         });
 
-        setCachedAligned('tc_single', productKey, aligned);
+        setCachedAligned(cacheKey, productKey, aligned);
       }
 
       if (!aligned.length) return;
@@ -16750,7 +16899,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const allTcRows = aligned.filter(r => r.date >= cutoff);
       if (!allTcRows.length) return;
 
-      // Init range slider on filtered aligned data
       if (isMainCall) {
         initDualRangeSlider('tcRange', allTcRows, function(isManual) { if (isManual) renderTimeCharterChart(productKey); });
       }
@@ -16764,7 +16912,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const latest = rows[rows.length - 1];
       const ratioBadge = document.getElementById('spotTcRatioBadge');
       if (isMainCall && ratioBadge && latest.ratio != null) {
-        ratioBadge.textContent = `Spot/1Y TC: ${latest.ratio.toFixed(2)}x`;
+        ratioBadge.textContent = `Spot/${activeTenor.toUpperCase()} TC: ${latest.ratio.toFixed(2)}x`;
         ratioBadge.removeAttribute('data-tooltip');
         ratioBadge.setAttribute('data-tt-type', 'ratio-badge');
         ratioBadge.setAttribute('data-tt-spot', latest.spot || 0);
@@ -16796,16 +16944,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const labels = rows.map(r => fmtDate(r.date));
       const spotSeries = rows.map(r => r.spot);
-      const tc1ySeries = rows.map(r => r.tc1y);
-      const tc2ySeries = rows.map(r => r.tc2y);
       const ratioSeries = rows.map(r => r.ratio);
 
-      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 2Y TC' :
-                        (productKey === 'cleantanker') ? 'MR 2Y TC' : '2-Year TC';
-      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
-                        (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
-
-      // Build Fearnleys overlay data if source mode requires it
+      // Build Fearnleys overlay data
       const fearnRows = DATA.timeCharterFearnleys || [];
       const fearnByDate = {};
       const fearnSortedTs = new Array(fearnRows.length);
@@ -16823,27 +16964,83 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return idx >= 0 ? fearnSortedVals[idx] : null;
       });
 
-      const tcSrc = window.tcDataSource || 'merged';
+      // Build Intermodal overlay data
+      const intermodalRows = DATA.intermodalTC || [];
+      const im1yByDate = {}, im3yByDate = {};
+      intermodalRows.forEach(ir => {
+        if (intermodal1yCol && ir[intermodal1yCol]) im1yByDate[ir.dateStr] = ir[intermodal1yCol];
+        if (intermodal3yCol && ir[intermodal3yCol]) im3yByDate[ir.dateStr] = ir[intermodal3yCol];
+      });
+      const imTc1y = rows.map(r => im1yByDate[r.dateStr] || null);
+      const imTc3y = rows.map(r => im3yByDate[r.dateStr] || null);
+
       const showMerged = (tcSrc === 'merged' || tcSrc === 'both');
       const showFearn = (tcSrc === 'fearnleys' || tcSrc === 'both');
+      const showIntermodal = (tcSrc === 'intermodal');
 
       const tcDatasets = [];
-      tcDatasets.push({ label: `${labelPrefix} Spot`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+      tcDatasets.push({
+        label: `${labelPrefix} Spot`,
+        data: spotSeries,
+        yAxisID: 'yLeft',
+        borderColor: '#58a6ff',
+        backgroundColor: 'transparent',
+        borderWidth: 2,
+        pointRadius: 0,
+        fill: false,
+        tension: 0.1,
+        spanGaps: true
+      });
+
       if (showMerged) {
-        tcDatasets.push({ label: tc1yLabel + (tcSrc === 'both' ? ' (Alibra)' : ''), data: tc1ySeries, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-        tcDatasets.push({ label: tc2yLabel, data: tc2ySeries, yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        if (activeTenor === 'all') {
+          if (tc4_6mCol) tcDatasets.push({ label: '4/6 Months TC', data: rows.map(r => r.tc4_6m), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [2, 2], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+          tcDatasets.push({ label: '1-Year TC', data: rows.map(r => r.tc1y), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+          tcDatasets.push({ label: '2-Year TC', data: rows.map(r => r.tc2y), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [6, 3], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+          if (tc3yCol) tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc3y), yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [8, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+          if (tc5yCol) tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc5y), yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [10, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (activeTenor === '4_6m') {
+          tcDatasets.push({ label: '4/6 Months TC', data: rows.map(r => r.tc4_6m), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (activeTenor === '2y') {
+          tcDatasets.push({ label: '2-Year TC', data: rows.map(r => r.tc2y), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (activeTenor === '3y') {
+          const s3 = rows.map(r => r.tc3y || null);
+          tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: s3, yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (activeTenor === '5y') {
+          const s5 = rows.map(r => r.tc5y || null);
+          tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: s5, yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else {
+          // Default 1y
+          tcDatasets.push({ label: '1-Year TC' + (tcSrc === 'both' ? ' (Alibra)' : ''), data: rows.map(r => r.tc1y), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        }
       }
+
       if (showFearn) {
-        tcDatasets.push({ label: tc1yLabel + ' (Fearnleys)', data: fearnTc1y, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: showMerged ? [5, 3] : [], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        tcDatasets.push({ label: '1-Year TC (Fearnleys)', data: fearnTc1y, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: showMerged ? [5, 3] : [], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
       }
-      tcDatasets.push({ label: 'Spot/1Y TC Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+
+      if (showIntermodal) {
+        tcDatasets.push({ label: '1-Year TC (Intermodal)', data: imTc1y, yAxisID: 'yLeft', borderColor: '#56d364', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        tcDatasets.push({ label: '3-Year TC (Intermodal)', data: imTc3y, yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+      }
+
+      tcDatasets.push({
+        label: `Spot/${activeTenor.toUpperCase()} Ratio`,
+        data: ratioSeries,
+        yAxisID: 'yRight',
+        borderColor: '#e3b341',
+        backgroundColor: 'transparent',
+        borderWidth: 1,
+        borderDash: [4, 4],
+        pointRadius: 0,
+        fill: false,
+        tension: 0.1,
+        spanGaps: true
+      });
 
       updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
-        data: {
-          labels: labels,
-          datasets: tcDatasets
-        },
+        data: { labels: labels, datasets: tcDatasets },
         options: {
           responsive: true, maintainAspectRatio: false,
           interaction: { mode: 'index', intersect: false },
@@ -16853,7 +17050,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               callbacks: {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
+                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
                   if (c.dataset.label.includes('Spot')) {
                     const rawVal = Math.round(c.parsed.y / spotMultiplier);
                     return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day (' + rawVal.toLocaleString() + ' index points)';
@@ -16880,6 +17077,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!canvas || !container) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
+      const activeTenor = window.basinTenor || '1y';
 
       if (isMainCall) {
         const wrapper = canvas.parentNode;
@@ -16895,16 +17093,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!tcRows.length) return;
 
           const colMap = {
-            cape: { c1: 'capesize_1y_atl', c2: 'capesize_1y_pac', label: 'Capesize Atl/Pac', color: PRODUCTS.cape.color },
-            panama: { c1: 'panamax_1y_atl', c2: 'panamax_1y_pac', label: 'Panamax Atl/Pac', color: PRODUCTS.panama.color },
-            suprama: { c1: 'supramax_1y_atl', c2: 'supramax_1y_pac', label: 'Supramax Atl/Pac', color: PRODUCTS.suprama.color },
-            handysize: { c1: 'handysize_1y_atl', c2: 'handysize_1y_pac', label: 'Handysize Atl/Pac', color: PRODUCTS.handysize.color },
+            cape: { c1: 'capesize_' + activeTenor + '_atl', c2: 'capesize_' + activeTenor + '_pac', label: 'Capesize Atl/Pac', color: PRODUCTS.cape.color },
+            panama: { c1: 'panamax_' + activeTenor + '_atl', c2: 'panamax_' + activeTenor + '_pac', label: 'Panamax Atl/Pac', color: PRODUCTS.panama.color },
+            suprama: { c1: 'supramax_' + activeTenor + '_atl', c2: 'supramax_' + activeTenor + '_pac', label: 'Supramax Atl/Pac', color: PRODUCTS.suprama.color },
+            handysize: { c1: 'handysize_' + activeTenor + '_atl', c2: 'handysize_' + activeTenor + '_pac', label: 'Handysize Atl/Pac', color: PRODUCTS.handysize.color },
             dirtytanker: { c1: 'vlcc_1y', c2: 'mr_1y', label: 'Dirty VLCC/MR', color: PRODUCTS.dirtytanker.color },
             cleantanker: { c1: 'lr2_1y', c2: 'mr_1y', label: 'Clean LR2/MR', color: PRODUCTS.cleantanker.color }
           };
 
           // Linear-interpolate sparse TC columns before computing ratios
-          const interpCols = ['vlcc_1y', 'mr_1y', 'lr2_1y'];
+          const interpCols = ['vlcc_1y', 'mr_1y', 'lr2_1y', 'capesize_' + activeTenor + '_atl', 'capesize_' + activeTenor + '_pac', 'panamax_' + activeTenor + '_atl', 'panamax_' + activeTenor + '_pac'];
           const tcRowsCopy = tcRows.map(r => Object.assign({}, r));
           interpCols.forEach(function(col) {
             var validIdx = [];
@@ -16931,7 +17129,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               const cfg = colMap[s];
               const v1 = r[cfg.c1];
               const v2 = r[cfg.c2];
-              // Clamp to [0.4, 2.2] to suppress data-entry outlier spikes
               const raw = (v1 != null && v2 != null && v2 > 0) ? (v1 / v2) : null;
               rowData[s + '_ratio'] = raw != null ? Math.max(0.4, Math.min(2.2, raw)) : null;
             });
@@ -16975,7 +17172,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               },
               scales: {
                 x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-                y: { min: 0.4, max: 2.2, grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: true, text: 'Spread Ratio', color: '#8b949e', font: { size: 11 } } }
+                y: { min: 0.4, max: 2.2, grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: true, text: 'Spread Ratio (' + activeTenor.toUpperCase() + ')', color: '#8b949e', font: { size: 11 } } }
               }
             }
           });
@@ -16983,12 +17180,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (spreadTitle) {
             spreadTitle.setAttribute('data-tooltip', ' ');
             spreadTitle.setAttribute('data-tt-type', 'concept-basinspread');
-            spreadTitle.removeAttribute('data-tt-v1');
-            spreadTitle.removeAttribute('data-tt-v2');
-            spreadTitle.removeAttribute('data-tt-ratio');
-            spreadTitle.removeAttribute('data-tt-label1');
-            spreadTitle.removeAttribute('data-tt-label2');
-            spreadTitle.removeAttribute('data-tt-product');
           }
 
           return;
@@ -17003,31 +17194,31 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       let isTanker = (productKey === 'dirtytanker' || productKey === 'cleantanker' || productKey === 'bwet' || productKey === 'bwetff');
       
-      let col1 = 'capesize_1y_atl';
-      let col2 = 'capesize_1y_pac';
-      let label1 = 'Capesize 1Y Atl TC';
-      let label2 = 'Capesize 1Y Pac TC';
+      let col1 = 'capesize_' + activeTenor + '_atl';
+      let col2 = 'capesize_' + activeTenor + '_pac';
+      let label1 = 'Capesize ' + activeTenor.toUpperCase() + ' Atl TC';
+      let label2 = 'Capesize ' + activeTenor.toUpperCase() + ' Pac TC';
 
       if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
-        col1 = 'capesize_1y_atl';
-        col2 = 'capesize_1y_pac';
-        label1 = 'Capesize 1Y Atl TC';
-        label2 = 'Capesize 1Y Pac TC';
+        col1 = 'capesize_' + activeTenor + '_atl';
+        col2 = 'capesize_' + activeTenor + '_pac';
+        label1 = 'Capesize ' + activeTenor.toUpperCase() + ' Atl TC';
+        label2 = 'Capesize ' + activeTenor.toUpperCase() + ' Pac TC';
       } else if (productKey === 'panama') {
-        col1 = 'panamax_1y_atl';
-        col2 = 'panamax_1y_pac';
-        label1 = 'Panamax 1Y Atl TC';
-        label2 = 'Panamax 1Y Pac TC';
+        col1 = 'panamax_' + activeTenor + '_atl';
+        col2 = 'panamax_' + activeTenor + '_pac';
+        label1 = 'Panamax ' + activeTenor.toUpperCase() + ' Atl TC';
+        label2 = 'Panamax ' + activeTenor.toUpperCase() + ' Pac TC';
       } else if (productKey === 'suprama') {
-        col1 = 'supramax_1y_atl';
-        col2 = 'supramax_1y_pac';
-        label1 = 'Supramax 1Y Atl TC';
-        label2 = 'Supramax 1Y Pac TC';
+        col1 = 'supramax_' + activeTenor + '_atl';
+        col2 = 'supramax_' + activeTenor + '_pac';
+        label1 = 'Supramax ' + activeTenor.toUpperCase() + ' Atl TC';
+        label2 = 'Supramax ' + activeTenor.toUpperCase() + ' Pac TC';
       } else if (productKey === 'handysize') {
-        col1 = 'handysize_1y_atl';
-        col2 = 'handysize_1y_pac';
-        label1 = 'Handysize 1Y Atl TC';
-        label2 = 'Handysize 1Y Pac TC';
+        col1 = 'handysize_' + activeTenor + '_atl';
+        col2 = 'handysize_' + activeTenor + '_pac';
+        label1 = 'Handysize ' + activeTenor.toUpperCase() + ' Atl TC';
+        label2 = 'Handysize ' + activeTenor.toUpperCase() + ' Pac TC';
       } else if (productKey === 'cleantanker') {
         col1 = 'lr2_1y';
         col2 = 'mr_1y';
@@ -17043,7 +17234,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tcRows = DATA.timeCharterRates || [];
       if (!tcRows.length) return;
 
-      // Interpolate sparse TC columns (vlcc_1y etc) to avoid truncated charts
       const tcRowsInterp = tcRows.map(r => Object.assign({}, r));
       [col1, col2].forEach(function(col) {
         var validIdx = [];
@@ -17085,7 +17275,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const allBasinRows = filtered.filter(r => r.date >= cutoff);
       if (!allBasinRows.length) return;
 
-      // Init range slider
       if (isMainCall) {
         initDualRangeSlider('basinRange', allBasinRows, function(isManual) { if (isManual) renderBasinSpreadChart(productKey); });
       }
@@ -17099,7 +17288,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const latest = rows[rows.length - 1];
       const basinBadge = document.getElementById('basinRatioBadge');
       if (isMainCall && basinBadge && latest && latest.ratio != null) {
-        basinBadge.textContent = `Atl/Pac: ${latest.ratio.toFixed(2)}x`;
+        basinBadge.textContent = `Atl/Pac (${activeTenor.toUpperCase()}): ${latest.ratio.toFixed(2)}x`;
         if (latest.ratio > 1.2) {
           basinBadge.style.background = '#3fb950';
           basinBadge.style.color = '#fff';
@@ -17134,9 +17323,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         data: {
           labels: labels,
           datasets: [
-            { label: label1, data: v1Series, yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-            { label: label2, data: v2Series, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-            { label: isTanker ? (productKey === 'cleantanker' ? 'LR2 / MR Ratio' : 'VLCC / MR Ratio') : 'Atlantic / Pacific Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false }
+            { label: `${label1} ($/day)`, data: v1Series, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+            { label: `${label2} ($/day)`, data: v2Series, yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+            { label: 'Atl/Pac Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true }
           ]
         },
         options: {
@@ -17148,7 +17337,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               callbacks: {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.label.includes('Ratio') || c.dataset.label.includes('ratio')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
+                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
                   return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
                 }
               }
@@ -17156,8 +17345,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: isMainCall, text: 'Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
-            yRight: { position: 'right', min: 0.5, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v.toFixed(1) + 'x' }, title: { display: isMainCall, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Period Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', min: 0.4, max: 2.2, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: isMainCall, text: 'Atl/Pac Ratio', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });

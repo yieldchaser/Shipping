@@ -222,7 +222,8 @@ CHARTER_SEGMENT_ALIASES = {
         "aframax": ["aframax", "afra", "jafra", "aera", "larna", "apra", "arra"],
         "lr2": ["lr2", "lr 2", "1r2", "ure", "ur2"],
         "lr1": ["lr1", "lr 1", "lri", "trl", "uri", "tr1", "lr", "ut", "1r1", "lrt", "ir1"],  # OCR variants of LR1
-        "mr": ["mr", "m.r.", "mr imo", "mri", "handy", "handymax"],
+        "mr": ["mr imo", "mr", "m.r.", "mri", "handymax", "mr1", "mr2"],
+        "handytanker": ["handy", "handytanker", "h.tanker", "small tanker"],
     },
 }
 IRON_ORE_SIGNAL_HINTS = [
@@ -3167,6 +3168,9 @@ def build_derived(llm_enabled: bool = False):
                 if category == "dry_charter":
                     rates = vals[-6:]
                     if len(rates) == 6:
+                        tc_records[date][f"{seg}_4_6m_atl"] = rates[0]
+                        tc_records[date][f"{seg}_4_6m_pac"] = rates[1]
+                        tc_records[date][f"{seg}_4_6m_avg"] = (rates[0] + rates[1]) / 2.0
                         tc_records[date][f"{seg}_1y_atl"] = rates[2]
                         tc_records[date][f"{seg}_1y_pac"] = rates[3]
                         tc_records[date][f"{seg}_1y_avg"] = (rates[2] + rates[3]) / 2.0
@@ -3174,6 +3178,8 @@ def build_derived(llm_enabled: bool = False):
                         tc_records[date][f"{seg}_2y_pac"] = rates[5]
                         tc_records[date][f"{seg}_2y_avg"] = (rates[4] + rates[5]) / 2.0
                     elif len(rates) == 5:
+                        tc_records[date][f"{seg}_4_6m_pac"] = rates[0]
+                        tc_records[date][f"{seg}_4_6m_avg"] = rates[0]
                         tc_records[date][f"{seg}_1y_atl"] = rates[1]
                         tc_records[date][f"{seg}_1y_pac"] = rates[2]
                         tc_records[date][f"{seg}_1y_avg"] = (rates[1] + rates[2]) / 2.0
@@ -3242,6 +3248,9 @@ def build_derived(llm_enabled: bool = False):
                         if _cat == "dry_charter":
                             _rates = _vals[-6:]
                             if len(_rates) == 6:
+                                tc_records[_date][f"{_seg}_4_6m_atl"] = _rates[0]
+                                tc_records[_date][f"{_seg}_4_6m_pac"] = _rates[1]
+                                tc_records[_date][f"{_seg}_4_6m_avg"] = (_rates[0] + _rates[1]) / 2.0
                                 tc_records[_date][f"{_seg}_1y_atl"] = _rates[2]
                                 tc_records[_date][f"{_seg}_1y_pac"] = _rates[3]
                                 tc_records[_date][f"{_seg}_1y_avg"] = (_rates[2] + _rates[3]) / 2.0
@@ -3249,6 +3258,8 @@ def build_derived(llm_enabled: bool = False):
                                 tc_records[_date][f"{_seg}_2y_pac"] = _rates[5]
                                 tc_records[_date][f"{_seg}_2y_avg"] = (_rates[4] + _rates[5]) / 2.0
                             elif len(_rates) == 5:
+                                tc_records[_date][f"{_seg}_4_6m_pac"] = _rates[0]
+                                tc_records[_date][f"{_seg}_4_6m_avg"] = _rates[0]
                                 tc_records[_date][f"{_seg}_1y_atl"] = _rates[1]
                                 tc_records[_date][f"{_seg}_1y_pac"] = _rates[2]
                                 tc_records[_date][f"{_seg}_1y_avg"] = (_rates[1] + _rates[2]) / 2.0
@@ -3271,12 +3282,16 @@ def build_derived(llm_enabled: bool = False):
     tc_file = derived_dir / "time_charter_rates.csv"
     tc_cols = [
         "date",
+        "capesize_4_6m_atl", "capesize_4_6m_pac", "capesize_4_6m_avg",
         "capesize_1y_atl", "capesize_1y_pac", "capesize_1y_avg",
         "capesize_2y_atl", "capesize_2y_pac", "capesize_2y_avg",
+        "panamax_4_6m_atl", "panamax_4_6m_pac", "panamax_4_6m_avg",
         "panamax_1y_atl", "panamax_1y_pac", "panamax_1y_avg",
         "panamax_2y_atl", "panamax_2y_pac", "panamax_2y_avg",
+        "supramax_4_6m_atl", "supramax_4_6m_pac", "supramax_4_6m_avg",
         "supramax_1y_atl", "supramax_1y_pac", "supramax_1y_avg",
         "supramax_2y_atl", "supramax_2y_pac", "supramax_2y_avg",
+        "handysize_4_6m_atl", "handysize_4_6m_pac", "handysize_4_6m_avg",
         "handysize_1y_atl", "handysize_1y_pac", "handysize_1y_avg",
         "handysize_2y_atl", "handysize_2y_pac", "handysize_2y_avg",
         "vlcc_1y", "vlcc_2y", "vlcc_3y", "vlcc_5y",
@@ -3284,7 +3299,8 @@ def build_derived(llm_enabled: bool = False):
         "aframax_1y", "aframax_2y", "aframax_3y", "aframax_5y",
         "mr_1y", "mr_2y", "mr_3y", "mr_5y",
         "lr1_1y", "lr1_2y", "lr1_3y", "lr1_5y",
-        "lr2_1y", "lr2_2y", "lr2_3y", "lr2_5y"
+        "lr2_1y", "lr2_2y", "lr2_3y", "lr2_5y",
+        "handytanker_1y", "handytanker_2y", "handytanker_3y", "handytanker_5y"
     ]
     # Preserve pre-existing backfilled rows (source=fearnleys) and add source provenance
     import csv
@@ -3318,6 +3334,9 @@ def build_derived(llm_enabled: bool = False):
                                     val = key_val
                                     break
                                 elif col_seg == "supramax" and ("supra" in key_seg or "smax" in key_seg or "ultra" in key_seg):
+                                    val = key_val
+                                    break
+                                elif col_seg == "handytanker" and ("handytanker" in key_seg or "h.tanker" in key_seg):
                                     val = key_val
                                     break
             row_dict[col] = val if val is not None else ""
