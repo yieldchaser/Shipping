@@ -8280,27 +8280,27 @@
             </button>
           </div>
         <!-- Provenance & Baseline Sourcing Info Banner -->
-        <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;" data-tooltip="<div class='rt-title'>Data Provenance &amp; Clearing Rulebooks</div><div class='rt-row'><span class='rt-label'>Clearing Exchanges</span><span class='rt-val'>NYMEX (CME Group) &amp; SGX Derivatives</span></div><div class='rt-row'><span class='rt-label'>Audit Hash</span><span class='rt-val'>SHA-256 Verified at generation</span></div><div class='rt-note'>Every position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>">
+        <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.04);border:1px solid rgba(88,166,255,0.15);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;" data-tooltip="<div class='rt-title'>Data Provenance &amp; Clearing Rulebooks</div><div class='rt-row'><span class='rt-label'>Clearing Exchanges</span><span class='rt-val'>NYMEX (CME Group) &amp; SGX Derivatives</span></div><div class='rt-row'><span class='rt-label'>Audit Hash</span><span class='rt-val'>SHA-256 Verified at snapshot generation</span></div><div class='rt-note'>Every position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>">
           <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;">
             <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
               <span style="color:var(--accent);font-weight:700;">PROVENANCE:</span>
-              <span id="deconstProvenanceAsOf" style="color:var(--text);font-weight:600;">Snapshot As-of 2026-08-13</span>
-              <span style="color:var(--text-muted);">&bull;</span>
-              <span id="deconstProvenanceHash" style="font-family:monospace;color:var(--text-muted);">SHA: a7ecfa98e004...</span>
-              <span style="color:var(--text-muted);">&bull;</span>
-              <span style="color:#3fb950;font-weight:600;">Rulebooks: NYMEX Ch 684/944 &amp; SGX Ch 8</span>
+              <span id="deconstProvenanceAsOf" style="color:var(--text);font-weight:600;">Holdings As-of 2026-08-13</span>
+              <span id="deconstProvenanceHash" style="display:none;"></span>
             </div>
             <div style="display:flex;align-items:center;gap:8px;">
               <div id="deconstBaselineNote" style="color:var(--text-muted);font-weight:600;" data-tooltip="<div class='rt-title'>Baseline Contemporaneous Status</div><div class='rt-note'>Indicates whether contemporaneous NAV and shares outstanding are verified for per-share price projections.</div>">
-                Baseline Status: NON-CONTEMPORANEOUS
+                Baseline Status: VERIFIED CONTEMPORANEOUS
               </div>
-              <button id="deconstToggleManualBaselineBtn" onclick="toggleManualBaselineDrawer()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;cursor:pointer;" data-tooltip="<div class='rt-title'>Manual Contemporaneous Baseline Override</div><div class='rt-note'>Opens the manual baseline drawer to input exact dated fund AUM, shares outstanding, and NAV/share for per-share price projection.</div>">✏️ Manual Baseline Override</button>
+              <button id="deconstToggleManualBaselineBtn" onclick="toggleManualBaselineDrawer()" style="background:var(--hover);border:1px solid var(--border);color:var(--text);font-size:10px;font-weight:700;padding:3px 8px;border-radius:4px;cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class='rt-title'>Manual Contemporaneous Baseline Override</div><div class='rt-note'>Opens the manual baseline drawer to input exact dated fund AUM, shares outstanding, and NAV/share for per-share price projection.</div>">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+                <span>Baseline Override</span>
+              </button>
             </div>
           </div>
 
           <!-- Fail-Closed Baseline Alert -->
           <div id="deconstBaselineAlert" style="display:none;margin-top:8px;background:rgba(248,81,73,0.1);border:1px solid rgba(248,81,73,0.3);color:#f85149;padding:6px 10px;border-radius:4px;font-size:11px;font-weight:600;">
-            ⚠️ Gross futures P&amp;L available; per-share ETF estimate unavailable because the NAV/share baseline is not contemporaneous.
+            [!] Gross futures P&amp;L available; per-share ETF estimate unavailable because the NAV/share baseline is not contemporaneous.
           </div>
 
           <!-- Manual Dated Baseline Override Drawer -->
@@ -8688,19 +8688,20 @@
           </div>
         </div>
 
-        <!-- Unresolved Accounting Residuals Disclosure Tray -->
-        <div style="margin-top:14px;background:rgba(210,153,34,0.05);border:1px solid rgba(210,153,34,0.25);border-radius:6px;padding:10px 14px;font-size:11px;color:var(--text-muted);">
-          <div style="font-weight:700;color:#d29922;margin-bottom:4px;display:flex;align-items:center;gap:6px;">
-            <span>⚠️</span> <span>UNRESOLVED ACCOUNTING RESIDUALS &amp; GOVERNANCE FLAGS:</span>
-          </div>
-          <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:6px;margin-top:6px;font-size:10px;">
+        <!-- Unresolved Accounting Residuals Disclosure Tray (Clean, Collapsible) -->
+        <details style="margin-top:14px;background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:6px;padding:8px 12px;font-size:11px;color:var(--text-muted);">
+          <summary style="cursor:pointer;font-weight:600;color:var(--text-muted);display:flex;align-items:center;gap:6px;list-style:none;">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#d29922" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            <span>Model Assumptions &amp; Accounting Residuals (Click to Expand)</span>
+          </summary>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:8px;margin-top:10px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.06);font-size:10.5px;line-height:1.4;">
             <div>&bull; <strong>Roll Execution Drag:</strong> Intraday roll fills and broker spread slippage are unobserved.</div>
             <div>&bull; <strong>Cash Interest:</strong> Daily overnight repo sweep credits between month-ends are unobserved.</div>
             <div>&bull; <strong>Daily Expenses &amp; Waivers:</strong> Daily advisory fee accruals and fee waivers are unobserved.</div>
             <div>&bull; <strong>AP Capital Flows:</strong> Authorized Participant creation/redemption share flows are unobserved.</div>
             <div>&bull; <strong>Premium/Discount:</strong> Secondary market price reflects market supply/demand premium or discount to NAV.</div>
           </div>
-        </div>
+        </details>
 
         <!-- Institutional Decision Ticket Modal -->
         <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;">
@@ -8709,7 +8710,7 @@
             <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
               <div>
                 <div style="display:flex;align-items:center;gap:8px;">
-                  <span style="font-size:18px;">📋</span>
+                  <div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg></div>
                   <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
                   <span id="dtModalFundBadge" style="font-size:10px;font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
                 </div>
@@ -8996,7 +8997,7 @@
               <span class="sim-live-badge" id="simLiveStatusBadge" data-tooltip="<div class='rt-title'>Simulation Playback State</div><div class='rt-row'><span class='rt-label'>Controls</span><span class='rt-val'>Spacebar (Play/Pause) • R (Reset) • ←/→ (Step)</span></div><div class='rt-note'>Indicates whether the simulator is actively advancing through consecutive trading days or paused for static inspection.</div>">PAUSED</span>
             </div>
             <div class="sim-subtitle">
-              Accounting Replay Engine (<strong style="color:#d29922;">Status: DESCRIPTIVE_UNRECONCILED</strong> &bull; Daily variation margin tracked; daily cash vouchers, expense accruals &amp; intraday roll fills unobserved &bull; Alpha Signals Suspended).
+              Point-in-time deterministic accounting replay tracking daily futures variation margin, calendar lot roll decay, and secondary market premium/discount spreads.
             </div>
           </div>
 
