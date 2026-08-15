@@ -2933,9 +2933,9 @@
       font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #e6edf3; line-height: 1.5;
     }
     .qa-answer .qa-math-display {
-      margin: 1.1em 0; padding: 12px 16px; background: rgba(22, 27, 34, 0.75);
-      border: 1px solid rgba(88, 166, 255, 0.22); border-radius: 6px;
-      overflow-x: auto; text-align: center; box-shadow: inset 0 1px 3px rgba(0,0,0,0.3);
+      margin: 0.9em 0; padding: 6px 10px; background: transparent;
+      border: none; border-radius: 4px;
+      overflow-x: auto; text-align: center;
     }
     .qa-answer .katex { font-size: 1.08em; color: #e6edf3; }
     .qa-answer .katex-display { margin: 0; padding: 0; }
@@ -22275,18 +22275,39 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _renderMath(tex, isDisplay) {
       let cleanTex = String(tex || '').trim();
-      // 1. Sanitize common LLM LaTeX glitches that cause KaTeX fatal parse errors
-      cleanTex = cleanTex.replace(/\\text\{\s*\$\s*\}/g, '\\text{\\$}');
-      cleanTex = cleanTex.replace(/\\text\{\s*\$([^\}]+)\}/g, '\\text{\\$$1}');
+
+      // 1. Remove duplicate outer delimiters if nested
+      cleanTex = cleanTex.replace(/^(\$\$|\\\[|\$|\\\()/, '').replace(/(\$\$|\\\]|\$|\\\))$/, '').trim();
+
+      // 2. Normalize double backslashes before commands/symbols
+      cleanTex = cleanTex.replace(/\\\\([a-zA-Z]+)/g, '\\$1');
+      cleanTex = cleanTex.replace(/\\\\(\$)/g, '\\$1');
+
+      // 3. Balance trailing unclosed braces
+      let opens = (cleanTex.match(/\{/g) || []).length;
+      let closes = (cleanTex.match(/\}/g) || []).length;
+      while (closes > opens && cleanTex.endsWith('}')) {
+        cleanTex = cleanTex.slice(0, -1).trim();
+        closes--;
+      }
+
+      // 4. Sanitize common LLM LaTeX glitches that cause KaTeX fatal parse errors
+      cleanTex = cleanTex.replace(/\\text\{\s*\\?\$\s*\}/g, '\\text{\\$}');
+      cleanTex = cleanTex.replace(/\\text\{\s*\\?\$([^\}]+)\}/g, (m, val) => '\\text{\\$' + val + '}');
       cleanTex = cleanTex.replace(/\\text\{([^\$]*)\$([^\}]*)\}/g, '\\text{$1\\$$2}');
-      cleanTex = cleanTex.replace(/(^|[^\\])\$([0-9,]+)/g, '$1\\$$2');
+
+      // 5. Normalize currency symbols in math mode for KaTeX
+      cleanTex = cleanTex.replace(/\\?\$([0-9,]+(?:\.[0-9]+)?)/g, '@@CURRENCY_$1@@');
+      cleanTex = cleanTex.replace(/@@CURRENCY_([^@]+)@@/g, (m, val) => '\\text{\\$' + val + '}');
       cleanTex = cleanTex.replace(/([0-9]+)\s*%/g, '$1\\%');
 
       if (typeof katex !== 'undefined' && typeof katex.renderToString === 'function') {
         try {
           const rendered = katex.renderToString(cleanTex, {
             displayMode: isDisplay,
-            throwOnError: false
+            throwOnError: false,
+            strict: false,
+            trust: true
           });
           // If KaTeX parsed cleanly without error span, return its output
           if (rendered && !rendered.includes('katex-error')) {
@@ -22298,7 +22319,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       // 2. Fallback to clean, elegant pure HTML/CSS math formatting
-      let html = _escapeHtml(cleanTex);
+      let html = cleanTex;
+      html = html.replace(/\\text\{([^}]+)\}/g, '$1');
+      html = html.replace(/\\frac\{([^}]+)\}\{([^}]+)\}/g, '$1 / $2');
+      html = html.replace(/\\\\/g, '');
+      html = html.replace(/\\/g, '');
+      html = html.replace(/\}/g, '');
+      html = html.replace(/\{/g, '');
+      html = _escapeHtml(html);
       html = _parseFractions(html);
       html = _formatMathInner(html);
 
