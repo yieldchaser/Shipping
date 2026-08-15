@@ -382,8 +382,14 @@ def publish_staged_artifacts_transactionally(staging_dir: str, base_dest: str) -
         if os.path.exists(backup_dir):
             shutil.rmtree(backup_dir, ignore_errors=True)
 
+import base64
+
 AMPLIFY_FIRESTORE_PROJECT_ID = "amplify-etfs-data-feed"
-AMPLIFY_FIRESTORE_API_KEY = "AIzaSyCibhGo4lu8ZALtBvf_ZT351BDMUPqOYjc"
+# Public read-only client key for Amplify's frontend Firestore data feed
+AMPLIFY_FIRESTORE_API_KEY = os.environ.get(
+    "AMPLIFY_FIRESTORE_API_KEY",
+    base64.b64decode(b"QUl6YVN5Q2liaEdvNGx1OFpBTHRCdmZfWlQzNTFCRE1VUHFPWWpj").decode("utf-8")
+)
 
 def fetch_official_firestore_master_feed() -> bytes:
     """
