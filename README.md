@@ -234,9 +234,12 @@ Structured in the **"Executive Intelligence First"** workflow:
    - Holdings table sorted by vessel class → expiry month (nearest prompt first) with interactive trade route maps and allocation donuts.
 2. **Daily Freight & ETF Market Intelligence Brief (`#etfDailyBriefCard`)**:
    - Multi-factor quantitative confluence, desk positioning bias (Bullish / Bearish / Neutral), momentum grades, and forward curve roll dynamics synthesized server-side.
-   - 1-Click Action Hooks: `⚡ Apply Setup` (dials scenario sliders to match the brief) and `💬 Ask Copilot` (pre-populates prompt).
+   - **Active Portfolio & Roll Mechanics Strip**: Live prompt vs next month settlement marks, roll yield badges (`⚠️ -0.52%/mo Contango Friction` or `🚀 +0.07%/mo Backwardation Carry`), and 60-day position takeaways.
+   - 1-Click Action Hooks: `⚡ Apply Setup` (dials scenario sliders to match the brief) and `💬 What is a 3-Month Hold a Bet On?` (pre-populates multi-horizon prompt).
 3. **Institutional ETF & Scenario Intelligence Copilot ("Ask Anything") (`#etfQaCard`)**:
-   - Conversational AI derivatives strategist answering complex questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, and statutory rulebooks.
+   - **Multi-Horizon Bet Deconstruction Core**: Rigorously decomposes any holding thesis across **1 Month ($T_{30}$)**, **3 Months ($T_{90}$)**, **6 Months ($T_{180}$)**, **1 Year ($T_{365}$)**, or **Multi-Year Macro Cycles ($1\text{Y} \to 3\text{Y}$)** into prompt cash settlements against physical Baltic spot averages, rollover lot decay across business days 1–15, contango drag hurdle rates, and physical commodity catalysts.
+   - **Per-Contract Dollar Sensitivity**: Computes line-by-line NAV impact per share for every constituent position (e.g. Capesize Aug 26 moves BDRY by exact **\$0.0705/share** per $+\$1,000/\text{day}$ change).
+   - **Full Tenor Forward Curves**: Injects complete SGX settlement curves across all tenors (Prompt, $M+1, M+2, Q_1, Q_2, Q_3, Q_4, \text{Cal}+1, \text{Cal}+2$).
    - Direct client-side execution via **Groq** (`llama-3.3-70b-versatile`, `deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Google Gemini** (`gemini-2.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`).
    - 5 curated suggestion categories (30 prompts): *Contract Exposures*, *Roll Yield & Carry*, *Scenario Shocks & PnL*, *Fund Flows & AUM*, *Strategy & Holding*.
    - Interactive action execution buttons: `⚡ Apply to Scenario Simulator`, `📅 Jump Simulator to Date`, `📋 Open Institutional Decision Ticket`, `📈 Inspect Contract`.
@@ -341,6 +344,9 @@ Executive macro desk and deep research workspace.
 | **Volatility %** | $(\max(y) - \min(y)) / |\text{mean}(y)| \times 100\%$ |
 | **Trough → Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
 | **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor \times \text{Close}$ |
+| **Per-Contract NAV Sensitivity** | $(\text{Lots}_i \times 1,000) / \text{Shares Outstanding}$ |
+| **Implied Monthly Roll Yield** | $\sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100\% \right)$ |
+| **Multi-Month Contango Hurdle** | $1 - \prod_{m=1}^{H} (1 - \text{RollYield}_m) + \text{OER} \times \frac{H}{12}$ |
 
 ---
 
