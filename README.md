@@ -267,8 +267,8 @@ All 6 base indices as individual chart cards:
       - 🔄 *Contango Drag Test* (Pure Basis Decay)
       - ⚡ *Fast 5-Day Roll* (Accelerated Rebalance)
 12. **Institutional ETF & Scenario Intelligence Q&A Copilot ("Ask Anything")**:
-    - **Conversational Derivative Analytics**: Plain-English institutional AI copilot answering complex ETF questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, and statutory rulebooks.
-    - **Multi-Provider Failover Architecture**: Seamlessly routes across **NVIDIA NIM** (`deepseek-ai/deepseek-r1`, `nemotron-3.5-lightning`, `glm-5.2`, etc.), **Groq** (`deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Gemini** (`gemini-2.5-flash` / `gemini-1.5-flash` with Google Search Grounding), and **OpenRouter** with automatic key-sharing from the Research tab (`localStorage`).
+    - **Conversational Derivative Analytics**: Plain-English institutional AI copilot answering complex ETF questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, statutory rulebooks, and active daily desk briefings.
+    - **Direct-CORS Client Inference Architecture**: Operates client-side with zero middleman servers across **Groq** (`deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Google Gemini** (`gemini-2.5-flash` / `gemini-1.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`) with automatic key synchronization via browser `localStorage`.
     - **Interactive Model Dropdown & Custom Model Support**: Native `<select>` element populating all flagship models with a `✏️ Custom Model...` option and instant tab-to-tab synchronization.
     - **5-Category Institutional Suggested Prompt Suite (30 Curated Prompts)**:
       - 🎯 *Contract Exposures*: Holding BDRY for 2 months, highest $/share sensitivity contract, translating macro shipping views into ETF targets, Futures/AUM ratios.
@@ -281,6 +281,16 @@ All 6 base indices as individual chart cards:
       - `📅 Jump Simulator to Date`: Jumps the Day-by-Day Simulator timeline directly to the analyzed historical roll epoch.
       - `📋 Open Institutional Decision Ticket`: Pre-populates and launches the structured compliance decision ticket modal.
       - `📈 Inspect Contract [Ticker]`: Clickable contract pills opening high-DPI settlement trajectory charts (`#etfContractDetailModal`).
+13. **Daily Freight & ETF Market Intelligence Brief (Server-Side AI Synthesizer)**:
+    - **Embedded Desk Intelligence**: Seamlessly integrated directly beneath the ETF Copilot, displaying the latest daily freight intelligence payload (`knowledge/briefs/latest.json`) synthesized server-side by backend Python pipelines (powered by **NVIDIA NIM** / `deepseek-ai/deepseek-r1` / `meta/llama-3.3-70b-instruct` on GitHub Actions with zero CORS friction).
+    - **Zero-Key Immediate Access**: End users instantly view institutional market analysis without configuring client-side API keys.
+    - **Executive Desk TL;DR**: 3-bullet 30-second scan capturing macro freight velocity, sector divergence, and near-term catalysts.
+    - **Fund-Adaptive Dual-Panel Breakdown**:
+      - *Breakwave Dry Bulk ETF (BDRY)*: Confluence score (Bull/Bear/Neutral), Capesize-Panamax spread skew, 5-year BDI percentiles, and desk outlook.
+      - *Breakwave Tanker ETF (BWET)*: Confluence score, Clean-Dirty tanker spreads, VLCC TD3C MEG-China & Suezmax TD20 momentum, and geopolitical route impact.
+    - **Global Macro & Relative-Value Allocation**: Multi-sector Z-differential spread analysis and global supply-demand drivers.
+    - **1-Click Action Hooks**: `⚡ Apply Setup` (instantly dials scenario sliders to match the brief's thesis) and `💬 Ask Copilot` (pre-populates grounded prompt in the Copilot).
+    - **Direct Copilot Grounding (`buildEtfQAContext`)**: Injects daily brief confluence, trade ideas, and macro notes directly into the Copilot context for consistent analytical responses.
 - **Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
 
 | Liquidity Metric | Formula |
@@ -403,11 +413,11 @@ flowchart LR
 - **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
 - **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
 - **Zero-Hallucination Citation Binding**: Strict inline `[DOC-N]` source tracing linking claims directly to source asset, publication date, and section title.
-- **Client-Side Multi-Provider Support**: Browser-native API key storage and direct CORS routing for:
-  - **NVIDIA NIM**: `deepseek-ai/deepseek-r1`, `nvidia/nemotron-3.5-lightning-30b-a3b`, `zai/glm-5.2`, `minimaxai/minimax-m3`, `meta/muse-glimmer-30b`, `nvidia/nemotron-3-ultra-550b-a55b`, `meta/llama-3.1-405b-instruct`, `meta/llama-3.3-70b-instruct`, `google/diffusiongemma-26b-a4b-it`.
+- **Client-Side Direct-CORS Multi-Provider Support**: Browser-native API key storage and direct CORS routing for:
   - **Groq**: `deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`, `meta-llama/llama-3.1-8b-instant`.
   - **Google Gemini**: `gemini-2.5-flash`, `gemini-1.5-flash`, `gemini-1.5-pro`, `gemini-2.5-pro`.
   - **OpenRouter**: `openrouter/free`, `google/gemini-2.0-flash-exp:free`, `meta-llama/llama-3.3-70b-instruct:free`, `deepseek/deepseek-r1:free`.
+- **Server-Side AI Synthesis Engine**: Backend Python pipelines (`scripts/generate_brief.py` & `scripts/process_knowledge.py`) execute on GitHub Actions with zero CORS limitations, utilizing **NVIDIA NIM** (`deepseek-ai/deepseek-r1`, `nvidia/nemotron-3-ultra-550b`, `meta/llama-3.3-70b-instruct`) alongside Groq, Gemini, and OpenRouter to synthesize daily market briefs and compile topic wikis.
 
 ---
 
@@ -523,8 +533,8 @@ python scratch/run_all_test_suites.py
 python scripts/test_decision_ticket_workflow.py
 
 # 6. Run LLM Providers, Dropdown & Headless DOM Simulation Runtime Tests
-node scratch/test_llm_providers_and_nim.js
-node scratch/test_complete_etf_suite.js
+node scratch/test_etf_daily_brief_and_nim_removal.js
+node scratch/test_rich_tooltips_full.js
 node scratch/simulate_dom_runtime.js
 
 # 7. Fetch BDRY / BWET Playwright fund flows
