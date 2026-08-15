@@ -16543,6 +16543,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       } else if (sectionId === 'signals-sec-physical') {
         fns = [
           function () { renderTimeCharterChart(productKey); },
+          function () { renderTankerForwardChart(); },
           function () { renderBasinSpreadChart(productKey); },
           function () { renderIronOreRestockingChart(productKey); },
           function () { renderLPGFreightChart(productKey); },
@@ -17461,9 +17462,13 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (validIdx.length >= 2) {
           for (var vi = 0; vi < validIdx.length - 1; vi++) {
             var ia = validIdx[vi], ib = validIdx[vi + 1];
-            var va = tcRowsInterp[ia][col], vb = tcRowsInterp[ib][col];
-            for (var j = ia + 1; j < ib; j++) {
-              tcRowsInterp[j][col] = va + (vb - va) * (j - ia) / (ib - ia);
+            var dtA = tcRowsInterp[ia].date ? tcRowsInterp[ia].date.getTime() : 0;
+            var dtB = tcRowsInterp[ib].date ? tcRowsInterp[ib].date.getTime() : 0;
+            if (dtB - dtA <= 65 * 86400000) {
+              var va = tcRowsInterp[ia][col], vb = tcRowsInterp[ib][col];
+              for (var j = ia + 1; j < ib; j++) {
+                tcRowsInterp[j][col] = va + (vb - va) * (j - ia) / (ib - ia);
+              }
             }
           }
         }

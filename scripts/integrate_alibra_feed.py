@@ -85,7 +85,7 @@ def parse_archive_file(filepath):
             date_col = row[1] if len(row) > 1 else ""
             tag_col = row[6] if len(row) > 6 else (row[5] if len(row) > 5 else "")
             iso_date = parse_iso_date(tag_col, date_col)
-            if not iso_date:
+            if not iso_date or iso_date < "2008-01-01":
                 continue
             handy = clean_num(row[2])
             supra = clean_num(row[3])
@@ -130,6 +130,8 @@ def integrate_historical_time_charter():
 
     for d in sorted(all_dates):
         row = existing_rows.get(d, {})
+        if d < "2008-01-01" and row.get("source") == "alibra_archive":
+            continue
         row_dict = {"date": d}
         for col in TC_COLS[1:]:
             row_dict[col] = row.get(col, "")
