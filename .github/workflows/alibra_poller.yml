@@ -1,0 +1,62 @@
+name: Alibra Forward Curves & Time Charter Poller
+
+on:
+  schedule:
+    # Run twice daily at 07:00 UTC and 16:00 UTC to catch any morning or afternoon updates
+    - cron: '0 7,16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: alibra-poller
+  cancel-in-progress: false
+
+jobs:
+  poll-and-integrate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Pull latest before run
+        run: git pull --rebase --autostash origin main
+
+      - name: Run Alibra Poller & Ingestion Engine
+        run: python scripts/alibra_poller.py --integrate
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/alibra_data/ data/derived/time_charter_rates.csv data/derived/tanker_forward_curves.csv data/derived/tanker_forward_curves_history.csv
+          if git diff --staged --quiet; then
+            echo "No new Alibra data or updates to commit."
+            exit 0
+          fi
+
+          git commit -m "data(alibra): auto-poll and update forward curves / time charter $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            echo "Push race on attempt $attempt. Retrying in 10s..."
+            sleep 10
+          done
+
+          echo "Failed to push after 3 attempts."
+          exit 1
