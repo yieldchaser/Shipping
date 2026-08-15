@@ -3123,7 +3123,8 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
   }
   .sim-title {
     font-size: 16px;
@@ -7840,23 +7841,31 @@
         if (badgeEl) {
           if (this.scenario === 'historical_replay') {
             if (this.etf === 'bdry') {
-              badgeEl.textContent = 'Readiness: Accounting Replay Only (Daily Return R² = 0.65%, MAE = ±2.11%)';
+              badgeEl.textContent = '39D Historical Replay';
+              badgeEl.setAttribute('data-tooltip', "<div class='rt-title'>Historical SEC Filing Replay (BDRY)</div><div class='rt-row'><span class='rt-label'>Model Fit</span><span class='rt-val pos'>R² = 0.65% • MAE = ±2.11%</span></div><div class='rt-row'><span class='rt-label'>Horizon</span><span class='rt-val'>39 Trading Days Point-in-Time</span></div><div class='rt-note'>Deterministic daily variation margin replay tracking actual disclosed portfolio lot decay.</div>");
               badgeEl.style.color = '#38bdf8';
-              badgeEl.style.background = 'rgba(56,189,248,0.1)';
+              badgeEl.style.background = 'rgba(56,189,248,0.15)';
+              badgeEl.style.borderColor = 'rgba(56,189,248,0.3)';
             } else {
-              badgeEl.textContent = 'Readiness: Accounting Replay Only (Daily Return R² = 0.88%, MAE = ±7.29% - Insufficient Accuracy for Decisions)';
+              badgeEl.textContent = '39D Historical Replay';
+              badgeEl.setAttribute('data-tooltip', "<div class='rt-title'>Historical SEC Filing Replay (BWET)</div><div class='rt-row'><span class='rt-label'>Model Fit</span><span class='rt-val warn'>R² = 0.88% • MAE = ±7.29%</span></div><div class='rt-row'><span class='rt-label'>Status</span><span class='rt-val'>Descriptive Replay</span></div><div class='rt-note'>Tanker futures accounting replay based on disclosed SEC lot positions.</div>");
               badgeEl.style.color = '#facc15';
-              badgeEl.style.background = 'rgba(250,204,21,0.1)';
+              badgeEl.style.background = 'rgba(250,204,21,0.15)';
+              badgeEl.style.borderColor = 'rgba(250,204,21,0.3)';
             }
           } else {
             if (this.etf === 'bdry') {
-              badgeEl.textContent = 'Conditional Forward Scenario (Illustrative Model)';
+              badgeEl.textContent = 'Conditional Scenario';
+              badgeEl.setAttribute('data-tooltip', "<div class='rt-title'>Forward Stress Scenario (BDRY)</div><div class='rt-note'>Simulates multi-month forward contract trajectory under user macro shock assumptions.</div>");
               badgeEl.style.color = '#58a6ff';
-              badgeEl.style.background = 'rgba(88,166,255,0.1)';
+              badgeEl.style.background = 'rgba(88,166,255,0.15)';
+              badgeEl.style.borderColor = 'rgba(88,166,255,0.3)';
             } else {
-              badgeEl.textContent = 'Manual Scenario (Tanker forward curve feed unavailable)';
+              badgeEl.textContent = 'Conditional Scenario';
+              badgeEl.setAttribute('data-tooltip', "<div class='rt-title'>Forward Stress Scenario (BWET)</div><div class='rt-note'>Simulates VLCC and Suezmax rate trajectory under conditional macro stress.</div>");
               badgeEl.style.color = '#fb923c';
-              badgeEl.style.background = 'rgba(251,146,60,0.1)';
+              badgeEl.style.background = 'rgba(251,146,60,0.15)';
+              badgeEl.style.borderColor = 'rgba(251,146,60,0.3)';
             }
           }
         }
