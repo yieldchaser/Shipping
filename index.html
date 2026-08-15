@@ -24349,7 +24349,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           }
         }
         else if (type === 'llm-provider-info') {
-          const provider = target.getAttribute('data-tt-provider') || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
+          const selectVal = (target.tagName === 'SELECT') ? target.value : (target.closest('.qa-key-row')?.querySelector('.qa-provider-select')?.value);
+          const provider = target.getAttribute('data-tt-provider') || selectVal || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
           const cfg = typeof _providerConfig === 'function' ? _providerConfig(provider) : { label: 'Inference Provider', maxContextTokens: 16000, suggestions: [] };
           const hasKey = typeof _loadProviderKey === 'function' ? !!_loadProviderKey(provider) : false;
           const modelsCount = (cfg.suggestions || []).length;
@@ -24362,23 +24363,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-note">Direct browser-to-API communication. Keys are saved exclusively in client-side localStorage.</div>`;
         }
         else if (type === 'llm-model-info') {
-          const modelId = target.getAttribute('data-tt-model') || target.value || 'deepseek-r1-distill-llama-70b';
-          const provider = target.getAttribute('data-tt-provider') || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
+          const modelId = target.getAttribute('data-tt-model') || target.value || 'gemini-2.0-flash';
+          const selectVal = (target.closest('.qa-key-row')?.querySelector('.qa-provider-select')?.value);
+          const provider = target.getAttribute('data-tt-provider') || selectVal || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
           
           let arch = 'Reasoning / General LLM';
           let tokens = '32k';
-          if (modelId.includes('deepseek-r1') || modelId.includes('r1')) { arch = 'DeepSeek R1 Reasoning Model (MoE / Distill)'; tokens = '64k–128k'; }
-          else if (modelId.includes('nemotron')) { arch = 'NVIDIA Nemotron (Ultra-low latency reasoning)'; tokens = '32k–128k'; }
-          else if (modelId.includes('glm')) { arch = 'Zhipu GLM Bilingual Reasoning Engine'; tokens = '128k'; }
-          else if (modelId.includes('minimax')) { arch = 'MiniMax High-Speed MoE Transformer'; tokens = '128k'; }
-          else if (modelId.includes('gemini-2.5')) { arch = 'Google Gemini 2.5 Multi-Modal Thinking Model'; tokens = '32k+'; }
-          else if (modelId.includes('llama-3.3') || modelId.includes('405b')) { arch = 'Meta Llama Frontier Dense / Large Model'; tokens = '32k–128k'; }
+          const mLower = modelId.toLowerCase();
+          if (mLower.includes('gemini-2.0') || mLower.includes('gemini-2.5') || mLower.includes('gemini')) { arch = 'Google Gemini Multi-Modal Thinking Model'; tokens = '1M+ Tokens'; }
+          else if (mLower.includes('deepseek-r1') || mLower.includes('r1')) { arch = 'DeepSeek R1 Reasoning Model (MoE / Distill)'; tokens = '64k–128k'; }
+          else if (mLower.includes('deepseek-chat') || mLower.includes('deepseek-v3')) { arch = 'DeepSeek V3 671B Flagship MoE'; tokens = '64k'; }
+          else if (mLower.includes('claude-3-5') || mLower.includes('claude-3.7') || mLower.includes('claude')) { arch = 'Anthropic Claude Hybrid Reasoning Engine'; tokens = '200k'; }
+          else if (mLower.includes('gpt-4o') || mLower.includes('o1') || mLower.includes('o3')) { arch = 'OpenAI Frontier Reasoning / Omnimodal Model'; tokens = '128k–200k'; }
+          else if (mLower.includes('nemotron')) { arch = 'NVIDIA Nemotron (Ultra-low latency reasoning)'; tokens = '32k–128k'; }
+          else if (mLower.includes('glm')) { arch = 'Zhipu GLM Bilingual Reasoning Engine'; tokens = '128k'; }
+          else if (mLower.includes('minimax')) { arch = 'MiniMax High-Speed MoE Transformer'; tokens = '128k'; }
+          else if (mLower.includes('llama-3.3') || mLower.includes('405b') || mLower.includes('llama')) { arch = 'Meta Llama Frontier Dense / Large Model'; tokens = '32k–128k'; }
           
           html = `<div class="rt-title">Active Model: ${modelId}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Provider</span><span class="rt-val" style="color:var(--accent);">${provider.toUpperCase()}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Architecture</span><span class="rt-val">${arch}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Max Window</span><span class="rt-val">${tokens}</span></div>`;
-          html += `<div class="rt-note">Select any flagship model from the dropdown or click '✏️ Custom Model...' to enter your own model ID.</div>`;
+          html += `<div class="rt-note">Select any flagship model from the dropdown or enter your custom model ID.</div>`;
         }
         else if (type === 'etf-waterfall-card') {
           const comp = target.getAttribute('data-tt-component') || 'freight';
