@@ -10050,6 +10050,25 @@
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
           </div>
 
+          <!-- Tanker 22-Month Forward Curves & Eco Spreads -->
+          <div class="chart-container mb-20" id="tankerForwardContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="tankerForwardTitle" data-tooltip="Tanker FFA Forward Curves (22-Month Horizon) — tracks forward TCE rate expectations for VLCC (TD3C), Suezmax (TD20), Aframax (TD25), and Clean Product (LR1 TC5, MR TC2/TC14/TC6) alongside Eco fuel-efficiency premiums." data-tt-type="concept-forwardcurves">Tanker FFA Forward Term Structures (22-Month FFA Curves)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="tankerFwdRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="fwdVlcc" onclick="setTankerFwdRoute('vlcc')" data-tooltip="VLCC TD3C AG/China (Standard vs ECO)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLCC TD3C</button>
+                  <button class="toggle-btn" id="fwdSuez" onclick="setTankerFwdRoute('suez')" data-tooltip="Suezmax TD20 WAFR/UKC" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax TD20</button>
+                  <button class="toggle-btn" id="fwdAfra" onclick="setTankerFwdRoute('afra')" data-tooltip="Aframax TD25 USG/UKC" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Aframax TD25</button>
+                  <button class="toggle-btn" id="fwdLr1" onclick="setTankerFwdRoute('lr1')" data-tooltip="Clean LR1 TC5 AG/Japan (Standard vs ECO)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean LR1</button>
+                  <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip="Clean MR Atlantic Basket (TC2, TC14, TC6, Triangulation)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
+                  <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip="Overview of all dirty and clean benchmark routes" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
+                </div>
+                <div id="tankerFwdEcoBadge" class="kpi-badge">Eco Premium: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="tankerForwardChart"></canvas></div>
+          </div>
+
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
@@ -10346,6 +10365,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       lpgCharter: [],
       blpg: [],
       sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
+      tankerForwardCurves: [],
     };
 
     // Per-product filtered row cache (populated after load)
@@ -11245,6 +11265,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           }).filter(row => row.date != null);
         });
 
+        const tankerFwdPromise = safeFetch('data/derived/tanker_forward_curves.csv', 'Tanker Forward Curves', [], r => {
+          DATA.tankerForwardCurves = r.map(row => {
+            return {
+              snapshotDate: row.snapshot_date,
+              forwardMonth: row.forward_month,
+              contractLabel: row.contract_label,
+              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
+              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
+              suezmax_td20: parseFloat(row.suezmax_td20) || null,
+              aframax_td25: parseFloat(row.aframax_td25) || null,
+              lr1_tc5: parseFloat(row.lr1_tc5) || null,
+              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
+              mr_tc2: parseFloat(row.mr_tc2) || null,
+              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
+              mr_tc14: parseFloat(row.mr_tc14) || null,
+              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
+              mr_tc6: parseFloat(row.mr_tc6) || null,
+              mr_triangulation: parseFloat(row.mr_triangulation) || null
+            };
+          });
+        });
+
         const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
           DATA.blpg = r.map(row => {
             const d = parseDate(row.Date);
@@ -11271,7 +11313,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
           bdryHistPromise, bwetHistPromise,
           tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
-          lpgSpotPromise, lpgCharterPromise, blpgPromise,
+          lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise,
           ...sgxPromises
         ];
 
@@ -17064,6 +17106,109 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
             yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', min: 0.2, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: isMainCall, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
+          }
+        }
+      });
+    }
+
+    window.tankerFwdRoute = 'vlcc';
+    window.setTankerFwdRoute = function(route) {
+      window.tankerFwdRoute = route;
+      const btns = ['fwdVlcc', 'fwdSuez', 'fwdAfra', 'fwdLr1', 'fwdMr', 'fwdAll'];
+      const activeMap = { vlcc: 'fwdVlcc', suez: 'fwdSuez', afra: 'fwdAfra', lr1: 'fwdLr1', mr: 'fwdMr', all: 'fwdAll' };
+      btns.forEach(function(id) {
+        const el = document.getElementById(id);
+        if (el) {
+          if (id === activeMap[route]) {
+            el.classList.add('active');
+            el.style.background = 'var(--accent)';
+            el.style.color = '#fff';
+          } else {
+            el.classList.remove('active');
+            el.style.background = 'var(--card)';
+            el.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderTankerForwardChart();
+    };
+
+    function renderTankerForwardChart() {
+      const canvas = document.getElementById('tankerForwardChart');
+      if (!canvas) return;
+      const rows = DATA.tankerForwardCurves || [];
+      if (!rows.length) return;
+
+      const route = window.tankerFwdRoute || 'vlcc';
+      const labels = rows.map(function(r) { return r.contractLabel || r.forwardMonth; });
+      let datasets = [];
+
+      const ecoBadge = document.getElementById('tankerFwdEcoBadge');
+      if (ecoBadge) {
+        const prompt = rows[0];
+        if (prompt && prompt.vlcc_td3c && prompt.vlcc_eco_td3c) {
+          const diff = prompt.vlcc_td3c - prompt.vlcc_eco_td3c;
+          ecoBadge.textContent = 'VLCC Eco/Non-Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+        } else {
+          ecoBadge.textContent = 'Forward Curve: 22 Months';
+        }
+      }
+
+      if (route === 'vlcc') {
+        datasets = [
+          { label: 'VLCC TD3C Standard ($/day)', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
+          { label: 'VLCC TD3C ECO ($/day)', data: rows.map(function(r) { return r.vlcc_eco_td3c; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2 }
+        ];
+      } else if (route === 'suez') {
+        datasets = [
+          { label: 'Suezmax TD20 WAFR/UKC ($/day)', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 }
+        ];
+      } else if (route === 'afra') {
+        datasets = [
+          { label: 'Aframax TD25 USG/UKC ($/day)', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 }
+        ];
+      } else if (route === 'lr1') {
+        datasets = [
+          { label: 'Clean LR1 TC5 Standard ($/day)', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
+          { label: 'Clean LR1 TC5 ECO ($/day)', data: rows.map(function(r) { return r.lr1_eco_tc5; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2 }
+        ];
+      } else if (route === 'mr') {
+        datasets = [
+          { label: 'MR Triangulation (TC2+TC14)', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
+          { label: 'MR TC2 UKC/USAC', data: rows.map(function(r) { return r.mr_tc2; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 },
+          { label: 'MR TC14 USG/UKC', data: rows.map(function(r) { return r.mr_tc14; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 },
+          { label: 'MR TC6 Med', data: rows.map(function(r) { return r.mr_tc6; }), borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 }
+        ];
+      } else {
+        datasets = [
+          { label: 'VLCC TD3C Standard', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
+          { label: 'Suezmax TD20', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
+          { label: 'Aframax TD25', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
+          { label: 'Clean LR1 TC5', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
+          { label: 'MR Triangulation', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 }
+        ];
+      }
+
+      updateOrCreateChart('tankerForwardChart', canvas, {
+        type: 'line',
+        data: { labels: labels, datasets: datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? '$' + Math.round(c.parsed.y).toLocaleString() + '/day' : '—');
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 } } },
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function(v) { return v != null ? '$' + Math.round(v).toLocaleString() : ''; } }, title: { display: true, text: 'Forward TCE ($/day)', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
