@@ -7946,8 +7946,8 @@
   <div class="tabs-bar">
     <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
     <button class="tab-btn" data-tab="yearly-dash">Yearly</button>
-    <button class="tab-btn" data-tab="monthly-dash">Monthly</button>
     <button class="tab-btn" data-tab="quarterly">Quarterly</button>
+    <button class="tab-btn" data-tab="monthly-dash">Monthly</button>
     <button class="tab-btn" data-tab="heatmaps">Heatmaps</button>
     <button class="tab-btn" data-tab="indices">Indices</button>
     <button class="tab-btn" data-tab="etfs">ETFs</button>
@@ -8010,7 +8010,6 @@
   <!-- MAIN CONTENT -->
   <div class="main">
 
-    <!-- ===== TAB: DASHBOARD ===== -->
     <div class="tab-panel active" id="tab-dashboard">
       <div class="dashboard-hero mb-20">
         <div class="current-price-block">
@@ -8195,39 +8194,113 @@
     </div>
 
     <!-- ===== TAB: HEATMAPS ===== -->
-    <div class="tab-panel" id="tab-heatmaps">
-      <div class="heatmap-view-row">
-        <label for="heatmapViewSelect" data-tooltip="View Mode toggle - Absolute Values show raw index levels (useful for spotting price floors/ceilings). % Change mode converts each cell to the Month-over-Month or Quarter-over-Quarter % return, making seasonal momentum patterns immediately obvious.">Heatmap View:</label>
-        <select id="heatmapViewSelect" onchange="onHeatmapViewChange()">
-          <option value="absolute">Absolute Values</option>
-          <option value="pct">% Change (MoM/QoQ)</option>
-        </select>
-      </div>
 
-      <div class="heatmap-section mb-20">
-        <div
-          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-          <div class="section-title" style="margin-bottom:0" data-tooltip="Cyclical Intensity (Monthly) - visualizes rate velocity by month. Red = Negative Momentum; Green = Asset Expansion. Essential for identifying recurring seasonal pivot points.">Monthly Performance Heatmap</div>
-          <button class="dl-btn" id="monthlyHeatmapDlBtn">⬇ Download CSV</button>
+    <div class="tab-panel" id="tab-yearly-dash">
+      <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Historical Price</div>
+          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
+            <button class="toggle-btn active" id="ydAvgBtn5" onclick="setYDHistAvg(5)">5Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtn10" onclick="setYDHistAvg(10)">10Y Avg</button>
+            <button class="toggle-btn" id="ydAvgBtnAll" onclick="setYDHistAvg(0)">All-Time Avg</button>
+            <button class="dl-btn" id="ydHistDlBtn">&#x2B07; CSV</button>
+          </div>
         </div>
-        <div class="heatmap-wrap">
-          <div id="monthlyHeatmap"></div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydHistRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydHistRangeTrack">
+            <div class="dual-range-fill" id="ydHistRangeFill"></div>
+            <input type="range" id="ydHistRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="ydHistRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
         </div>
+        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
       </div>
-
-      <div class="heatmap-section mb-20">
-        <div
-          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-          <div class="section-title" style="margin-bottom:0" data-tooltip="Quarterly Heatmap - aggregates Jan-Mar into Q1, Apr-Jun into Q2 etc., reducing noise and exposing multi-month structural biases (e.g., Q4 is historically the strongest quarter for Capesize rates).">Quarterly Heatmap</div>
-          <button class="dl-btn" id="quarterlyHeatmapDlBtn">⬇ Download CSV</button>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its 1-year mean. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling 252-Day)</div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
+            <button class="toggle-btn" id="ydZscoreBtn63" onclick="setYDZscoreWindow(63)">3M</button>
+            <button class="toggle-btn" id="ydZscoreBtn126" onclick="setYDZscoreWindow(126)">6M</button>
+            <button class="toggle-btn active" id="ydZscoreBtn252" onclick="setYDZscoreWindow(252)">1Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn504" onclick="setYDZscoreWindow(504)">2Y</button>
+            <button class="toggle-btn" id="ydZscoreBtn756" onclick="setYDZscoreWindow(756)">3Y</button>
+          </div>
         </div>
-        <div class="heatmap-wrap">
-          <div id="quarterlyHeatmap"></div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydZscoreRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydZscoreRangeTrack">
+            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
+            <input type="range" id="ydZscoreRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="ydZscoreRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
         </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Long-term z-score analysis providing structural context by comparing the current market to every cycle since the 2008 peak.">Historical Z-Score (All Time from 2008)</div>
+        </div>
+        <div class="index-range-wrap" style="padding: 2px 0 6px;">
+          <div class="index-range-label">
+            <span>Range:</span>
+            <span id="ydHistZscoreRangeLabel">Loading…</span>
+          </div>
+          <div class="dual-range-track" id="ydHistZscoreRangeTrack">
+            <div class="dual-range-fill" id="ydHistZscoreRangeFill"></div>
+            <input type="range" id="ydHistZscoreRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="ydHistZscoreRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHistZscoreChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product)</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Intra-Year Trajectory - monthly average rates for the active year. Colour coding shows the MoM trend acceleration or decay.">Shipping Rates • Current Year Monthly Bar</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyShippingRatesChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
+          <select id="ratesOverlayProduct">
+            <option value="bdiy">Baltic Dry Index (BDI)</option>
+            <option value="bdry_spot">BDRY Spot Composite</option>
+            <option value="cape">Capesize</option>
+            <option value="panama">Panamax</option>
+            <option value="suprama">Supramax</option>
+            <option value="handysize">Handysize</option>
+            <option value="dirtytanker">Dirty Tanker (BDTI)</option>
+            <option value="cleantanker">Clean Tanker (BCTI)</option>
+            <option value="bdryff">BDRY Freight Futures (BDRYFF)</option>
+            <option value="bwetff">BWET Freight Futures (BWETFF)</option>
+          </select>
+        </div>
+        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyRatesChart"></canvas></div>
+      </div>
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyDrawdownChart"></canvas></div>
       </div>
     </div>
 
-    <!-- ===== TAB: QUARTERLY ===== -->
+    <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
+
     <div class="tab-panel" id="tab-quarterly">
       <!-- Win-Rate KPI Cards -->
       <div class="win-rate-row mb-20" id="winRateRow" data-tooltip="Probability of Expansion - historical 'Hit Rate' for this specific period. 60%+ signifies a high-conviction seasonal tailwind backed by decades of data."></div>
@@ -8273,11 +8346,89 @@
     </div>
 
     <!-- ===== TAB: INDICES ===== -->
+
+    <div class="tab-panel" id="tab-monthly-dash">
+      <!-- Win-Rate KPI Cards -->
+      <div class="win-rate-row mb-20" id="monthlyWinRateRow"></div>
+
+      <!-- Spaghetti Chart -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Monthly Multi-Year Trajectory - tracks average index values across all 12 calendar months for each historical year. Automatically adapts to the full available history for the selected maritime asset.">Monthly Performance by Year (Spaghetti)</div>
+        </div>
+        <div class="spaghetti-wrap">
+          <canvas id="monthlySpaghettiChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Area Comparison Chart -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Trajectory Divergence - current year vs. 5Y seasonal mean. When the current line breaks the 5Y average, it signals a fundamental break in global trade flows.">Monthly Area Comparison • Current vs Prior vs 5Y Avg</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
+      </div>
+
+      <!-- Bar Chart -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Rolling Momentum - a 12-month summary of rate velocity. Identifies the shift from one quarterly regime to the next.">Monthly Bar Chart (Last 12 Months)</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-header">
+          <div class="chart-header-title" data-tooltip="Heatmap Resolution - Year vs Month. 8-year relative scaling ensures recent market extremes (2020+) remain visually distinct from 2008 records.">Monthly Data Grid</div>
+          <button class="dl-btn" id="monthlyGridDlBtn">&#x2B07; CSV</button>
+        </div>
+        <div style="overflow-x:auto">
+          <div id="monthlyDataGrid"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== TAB: SIGNALS ===== -->
+
+    <div class="tab-panel" id="tab-heatmaps">
+      <div class="heatmap-view-row">
+        <label for="heatmapViewSelect" data-tooltip="View Mode toggle - Absolute Values show raw index levels (useful for spotting price floors/ceilings). % Change mode converts each cell to the Month-over-Month or Quarter-over-Quarter % return, making seasonal momentum patterns immediately obvious.">Heatmap View:</label>
+        <select id="heatmapViewSelect" onchange="onHeatmapViewChange()">
+          <option value="absolute">Absolute Values</option>
+          <option value="pct">% Change (MoM/QoQ)</option>
+        </select>
+      </div>
+
+      <div class="heatmap-section mb-20">
+        <div
+          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+          <div class="section-title" style="margin-bottom:0" data-tooltip="Cyclical Intensity (Monthly) - visualizes rate velocity by month. Red = Negative Momentum; Green = Asset Expansion. Essential for identifying recurring seasonal pivot points.">Monthly Performance Heatmap</div>
+          <button class="dl-btn" id="monthlyHeatmapDlBtn">⬇ Download CSV</button>
+        </div>
+        <div class="heatmap-wrap">
+          <div id="monthlyHeatmap"></div>
+        </div>
+      </div>
+
+      <div class="heatmap-section mb-20">
+        <div
+          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+          <div class="section-title" style="margin-bottom:0" data-tooltip="Quarterly Heatmap - aggregates Jan-Mar into Q1, Apr-Jun into Q2 etc., reducing noise and exposing multi-month structural biases (e.g., Q4 is historically the strongest quarter for Capesize rates).">Quarterly Heatmap</div>
+          <button class="dl-btn" id="quarterlyHeatmapDlBtn">⬇ Download CSV</button>
+        </div>
+        <div class="heatmap-wrap">
+          <div id="quarterlyHeatmap"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== TAB: QUARTERLY ===== -->
+
     <div class="tab-panel" id="tab-indices">
       <div class="indices-grid" id="indicesGrid"></div>
     </div>
 
     <!-- ===== TAB: ETFs ===== -->
+
     <div class="tab-panel" id="tab-etfs">
       <div class="etf-grid" id="etfGrid"></div>
 
@@ -9491,152 +9642,7 @@
       </div>
 
     </div>
-    <div class="tab-panel" id="tab-yearly-dash">
-      <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Long-term price chart compared against historical 5Y and 10Y benchmarks to identify multi-year cycles.">Historical Price</div>
-          <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
-            <button class="toggle-btn active" id="ydAvgBtn5" onclick="setYDHistAvg(5)">5Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtn10" onclick="setYDHistAvg(10)">10Y Avg</button>
-            <button class="toggle-btn" id="ydAvgBtnAll" onclick="setYDHistAvg(0)">All-Time Avg</button>
-            <button class="dl-btn" id="ydHistDlBtn">&#x2B07; CSV</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydHistRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydHistRangeTrack">
-            <div class="dual-range-fill" id="ydHistRangeFill"></div>
-            <input type="range" id="ydHistRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="ydHistRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its 1-year mean. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling 252-Day)</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <button class="toggle-btn" id="ydZscoreBtn63" onclick="setYDZscoreWindow(63)">3M</button>
-            <button class="toggle-btn" id="ydZscoreBtn126" onclick="setYDZscoreWindow(126)">6M</button>
-            <button class="toggle-btn active" id="ydZscoreBtn252" onclick="setYDZscoreWindow(252)">1Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn504" onclick="setYDZscoreWindow(504)">2Y</button>
-            <button class="toggle-btn" id="ydZscoreBtn756" onclick="setYDZscoreWindow(756)">3Y</button>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydZscoreRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydZscoreRangeTrack">
-            <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
-            <input type="range" id="ydZscoreRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="ydZscoreRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Long-term z-score analysis providing structural context by comparing the current market to every cycle since the 2008 peak.">Historical Z-Score (All Time from 2008)</div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydHistZscoreRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydHistZscoreRangeTrack">
-            <div class="dual-range-fill" id="ydHistZscoreRangeFill"></div>
-            <input type="range" id="ydHistZscoreRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="ydHistZscoreRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHistZscoreChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Intra-Year Trajectory - monthly average rates for the active year. Colour coding shows the MoM trend acceleration or decay.">Shipping Rates • Current Year Monthly Bar</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyShippingRatesChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
-          <select id="ratesOverlayProduct">
-            <option value="bdiy">Baltic Dry Index (BDI)</option>
-            <option value="bdry_spot">BDRY Spot Composite</option>
-            <option value="cape">Capesize</option>
-            <option value="panama">Panamax</option>
-            <option value="suprama">Supramax</option>
-            <option value="handysize">Handysize</option>
-            <option value="dirtytanker">Dirty Tanker (BDTI)</option>
-            <option value="cleantanker">Clean Tanker (BCTI)</option>
-            <option value="bdryff">BDRY Freight Futures (BDRYFF)</option>
-            <option value="bwetff">BWET Freight Futures (BWETFF)</option>
-          </select>
-        </div>
-        <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyRatesChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyDrawdownChart"></canvas></div>
-      </div>
-    </div>
 
-    <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
-    <div class="tab-panel" id="tab-monthly-dash">
-      <!-- Win-Rate KPI Cards -->
-      <div class="win-rate-row mb-20" id="monthlyWinRateRow"></div>
-
-      <!-- Spaghetti Chart -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Monthly Multi-Year Trajectory - tracks average index values across all 12 calendar months for each historical year. Automatically adapts to the full available history for the selected maritime asset.">Monthly Performance by Year (Spaghetti)</div>
-        </div>
-        <div class="spaghetti-wrap">
-          <canvas id="monthlySpaghettiChart"></canvas>
-        </div>
-      </div>
-
-      <!-- Area Comparison Chart -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Trajectory Divergence - current year vs. 5Y seasonal mean. When the current line breaks the 5Y average, it signals a fundamental break in global trade flows.">Monthly Area Comparison • Current vs Prior vs 5Y Avg</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
-      </div>
-
-      <!-- Bar Chart -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Rolling Momentum - a 12-month summary of rate velocity. Identifies the shift from one quarterly regime to the next.">Monthly Bar Chart (Last 12 Months)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
-      </div>
-      <div class="chart-section">
-        <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Heatmap Resolution - Year vs Month. 8-year relative scaling ensures recent market extremes (2020+) remain visually distinct from 2008 records.">Monthly Data Grid</div>
-          <button class="dl-btn" id="monthlyGridDlBtn">&#x2B07; CSV</button>
-        </div>
-        <div style="overflow-x:auto">
-          <div id="monthlyDataGrid"></div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ===== TAB: SIGNALS ===== -->
     <div class="tab-panel" id="tab-signals">
 
       <!-- SECTION 1: DERIVATIVES & TECHNICALS (COLLAPSIBLE) -->
@@ -9648,7 +9654,139 @@
           <span class="expand-icon">▼</span>
         </div>
         <div class="signals-section-body">
+          <!-- A. FORWARD CURVES & DERIVATIVES BASIS -->
+          <!-- 7. SGX FFA Forward Curve -->
+          <div class="chart-container mb-20" style="margin-top:4px;">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
+              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+                <div style="display:flex;gap:4px;">
+                  <button class="toggle-btn active" id="ffaBtnCape" onclick="setFFAProduct('cape')">Cape</button>
+                  <button class="toggle-btn" id="ffaBtnPanamax" onclick="setFFAProduct('panamax')">Panamax</button>
+                  <button class="toggle-btn" id="ffaBtnSupramax" onclick="setFFAProduct('supramax')">Supramax</button>
+                  <button class="toggle-btn" id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
+                </div>
+                <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
+                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
+                  <button class="toggle-btn" id="ffaComp1w" onclick="setFFAComp('1w')">1W ago</button>
+                  <button class="toggle-btn" id="ffaComp2w" onclick="setFFAComp('2w')">2W ago</button>
+                  <button class="toggle-btn" id="ffaComp1m" onclick="setFFAComp('1m')">1M ago</button>
+                  <button class="toggle-btn" id="ffaComp3m" onclick="setFFAComp('3m')">3M ago</button>
+                  <button class="toggle-btn active" id="ffaCompNone" onclick="setFFAComp('none')">No Compare</button>
+                </div>
+              </div>
+            </div>
+            <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
+              Latest settlement prices per contract month. Click any point to view full contract history below.
+            </div>
+            <div id="ffaNoData"
+              style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
+              SGX FFA data not available yet. Data populates after the first daily update run.
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="ffaForwardChart"></canvas></div>
+          </div>
 
+          <!-- 8. SGX FFA Contract History (shown on click) -->
+          <div class="chart-container mb-20" id="ffaHistoryPanel" style="display:none;">
+            <div class="chart-header">
+              <div class="chart-title" id="ffaHistoryTitle" data-tooltip="Historic Settlement Trace - settlement history for the selected forward contract. Essential for identifying whether the curve is hardening or melting.">Contract History</div>
+              <div class="flex-row" style="gap:8px;align-items:center;">
+                <span id="ffaHistoryBadge"
+                  style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
+                <button class="toggle-btn"
+                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">Close
+                  Close</button>
+              </div>
+            </div>
+            <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
+            <div class="chart-canvas-wrap" style="height:280px"><canvas id="ffaHistoryChart"></canvas></div>
+          </div>
+
+          <!-- 5. Term Structure Slope -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal).  Backwardation (Down) = tight near-term supply;  Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
+              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+                <div style="display:flex;gap:4px;align-items:center;">
+                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
+                  <button class="toggle-btn" id="termComp1w" onclick="setTermComp('1w')">1W ago</button>
+                  <button class="toggle-btn" id="termComp2w" onclick="setTermComp('2w')">2W ago</button>
+                  <button class="toggle-btn" id="termComp1m" onclick="setTermComp('1m')">1M ago</button>
+                  <button class="toggle-btn" id="termComp3m" onclick="setTermComp('3m')">3M ago</button>
+                  <button class="toggle-btn active" id="termCompNone" onclick="setTermComp('none')">No Compare</button>
+                </div>
+              </div>
+            </div>
+            <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
+              <div>
+                <div
+                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
+                  BDRY - Dry Bulk FFA Curve</div>
+                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBdryChart"></canvas></div>
+                <div id="termBdrySlope" style="margin-top:8px;font-size:12px;"></div>
+              </div>
+              <div>
+                <div
+                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
+                  BWET - Tanker FFA Curve</div>
+                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBwetChart"></canvas></div>
+                <div id="termBwetSlope" style="margin-top:8px;font-size:12px;"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 9. Futures Premium (Basis) -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Market Basis - (Front-Month FFA vs. Synthetic Spot). Sustained Contango (>5%) indicates institutional 'Front-Running' of expected spot market rallies; deep Backwardation signals extreme near-term stress.">Futures vs Spot Premium - BDRYFF vs Synthetic Spot</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn" id="basisBtn3m" onclick="setBasisWindow('3m')">3M</button>
+                <button class="toggle-btn active" id="basisBtn1y" onclick="setBasisWindow('1y')">1Y</button>
+                <button class="toggle-btn" id="basisBtnAll" onclick="setBasisWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="basisRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="basisRangeTrack">
+                <div class="dual-range-fill" id="basisRangeFill"></div>
+                <input type="range" id="basisRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="basisRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basisChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Premium % = (Front Month FFA - Combined Spot Index) / Combined Spot × 100. Shaded green = Contango, Red = Backwardation.
+            </div>
+          </div>
+
+          <!-- 2. Cape/Panamax Spread -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Sector Rotation Proxy - divides BCI by BPI. High (>2.5) signals Capesize overextension; Low (<1.2) suggests Capesize is historically undervalued vs. Grains. Measures iron ore velocity vs. agricultural flows.">Cape / Panamax Ratio - Iron Ore vs Bulk Grain Proxy</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="spreadBtn3y" onclick="setSpreadWindow('3y')">3Y</button>
+                <button class="toggle-btn" id="spreadBtn5y" onclick="setSpreadWindow('5y')">5Y</button>
+                <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="spreadRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="spreadRangeTrack">
+                <div class="dual-range-fill" id="spreadRangeFill"></div>
+                <input type="range" id="spreadRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="spreadRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
+          </div>
+
+          <!-- B. MOMENTUM & VOLATILITY REGIMES -->
           <!-- 1. Bollinger Bands -->
           <div class="chart-container mb-20">
             <div class="chart-header">
@@ -9705,30 +9843,6 @@
             </div>
           </div>
 
-          <!-- 2. Cape/Panamax Spread -->
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="Sector Rotation Proxy - divides BCI by BPI. High (>2.5) signals Capesize overextension; Low (<1.2) suggests Capesize is historically undervalued vs. Grains. Measures iron ore velocity vs. agricultural flows.">Cape / Panamax Ratio - Iron Ore vs Bulk Grain Proxy</div>
-              <div class="flex-row" style="gap:6px;align-items:center;">
-                <button class="toggle-btn active" id="spreadBtn3y" onclick="setSpreadWindow('3y')">3Y</button>
-                <button class="toggle-btn" id="spreadBtn5y" onclick="setSpreadWindow('5y')">5Y</button>
-                <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="spreadRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="spreadRangeTrack">
-                <div class="dual-range-fill" id="spreadRangeFill"></div>
-                <input type="range" id="spreadRangeStart" min="0" max="100" value="0" step="1">
-                <input type="range" id="spreadRangeEnd" min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
-          </div>
-
           <!-- 3. Rate-of-Change Heatmap -->
           <div class="chart-container mb-20">
             <div class="chart-header">
@@ -9745,6 +9859,68 @@
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
           </div>
 
+          <!-- C. CROSS-ASSET ATTRIBUTION & LEAD-LAG -->
+          <!-- 10. Vessel-Class Contribution to BDI -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="BDI Attribution - decomposes daily moves by weighting (Capesize 50%, Panamax 40%, Supramax 10%). Reveals whether a rally is broad-based or driven by a specific commodity sector (e.g. Iron Ore vs. Grains).">BDI Daily Change - Vessel Class Contribution</div>
+              <div class="flex-row" style="gap:6px;align-items:center;">
+                <button class="toggle-btn active" id="bdiContribBtn3m" onclick="setBDIContribWindow('3m')">3M</button>
+                <button class="toggle-btn" id="bdiContribBtn6m" onclick="setBDIContribWindow('6m')">6M</button>
+                <button class="toggle-btn" id="bdiContribBtn1y" onclick="setBDIContribWindow('1y')">1Y</button>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="bdiContribRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="bdiContribRangeTrack">
+                <div class="dual-range-fill" id="bdiContribRangeFill"></div>
+                <input type="range" id="bdiContribRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="bdiContribRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="bdiContribChart"></canvas></div>
+            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+              Approximate decomposition: 50% Capesize, 40% Panamax, 10% Supramax.
+            </div>
+          </div>
+
+          <!-- 11. Lead-Lag Correlation Analysis -->
+          <div class="chart-container mb-20">
+            <div class="chart-header">
+              <div class="chart-title" data-tooltip="Predictive Lag Analysis - identifies which assets lead others. Yellow dot marks the 'Sweet Spot' where Asset A most reliably predicts Asset B.">Lead-Lag Correlation (Cross-Correlation of Log Returns)</div>
+            </div>
+            <div class="signals-controls">
+              <label for="leadLagPair" class="context-label" style="margin-bottom:0">Pairs:</label>
+              <select id="leadLagPair" class="signals-select" onchange="renderLeadLagChart()">
+                <optgroup label="Financial Speed (ETF Leads)">
+                  <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
+                  <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
+                  <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
+                  <option value="bdry:bdryff">BDRY vs BDRYFF (ETF vs Futures)</option>
+                  <option value="bwet:bwetff">BWET vs BWETFF (ETF vs Futures)</option>
+                </optgroup>
+                <optgroup label="Vessel Rotation (Ripple Effects)">
+                  <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
+                  <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
+                </optgroup>
+                <optgroup label="Basis & Indices">
+                  <option value="bdiy:bdryff">BDI vs BDRYFF</option>
+                  <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
+                  <option value="cape:bdiy">BCI vs BDI</option>
+                  <option value="panama:bdiy">BPI vs BDI</option>
+                  <option value="suprama:bdiy">BSI vs BDI</option>
+                  <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
+                </optgroup>
+              </select>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
+            <div id="leadLagInfo" class="lead-lag-info"></div>
+          </div>
+
+          <!-- D. ETF MARKET TIMING & SENTIMENT SIGNALS -->
           <!-- 6. ETF Premium/Discount Z-Score Signal -->
           <div class="chart-container mb-20">
             <div class="chart-header">
@@ -9808,174 +9984,6 @@
               Visualizing ETF Price vs 5D Flow to identify structural divergence. Red bars indicate distribution, green bars indicate accumulation.
             </div>
           </div>
-
-          <!-- 5. Term Structure Slope -->
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal).  Backwardation (Down) = tight near-term supply;  Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
-              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
-                <div style="display:flex;gap:4px;align-items:center;">
-                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
-                  <button class="toggle-btn" id="termComp1w" onclick="setTermComp('1w')">1W ago</button>
-                  <button class="toggle-btn" id="termComp2w" onclick="setTermComp('2w')">2W ago</button>
-                  <button class="toggle-btn" id="termComp1m" onclick="setTermComp('1m')">1M ago</button>
-                  <button class="toggle-btn" id="termComp3m" onclick="setTermComp('3m')">3M ago</button>
-                  <button class="toggle-btn active" id="termCompNone" onclick="setTermComp('none')">No Compare</button>
-                </div>
-              </div>
-            </div>
-            <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
-              <div>
-                <div
-                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
-                  BDRY - Dry Bulk FFA Curve</div>
-                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBdryChart"></canvas></div>
-                <div id="termBdrySlope" style="margin-top:8px;font-size:12px;"></div>
-              </div>
-              <div>
-                <div
-                  style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">
-                  BWET - Tanker FFA Curve</div>
-                <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBwetChart"></canvas></div>
-                <div id="termBwetSlope" style="margin-top:8px;font-size:12px;"></div>
-              </div>
-            </div>
-          </div>
-
-          <!-- 7. SGX FFA Forward Curve -->
-          <div class="chart-container mb-20" style="margin-top:4px;">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
-              <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
-                <div style="display:flex;gap:4px;">
-                  <button class="toggle-btn active" id="ffaBtnCape" onclick="setFFAProduct('cape')">Cape</button>
-                  <button class="toggle-btn" id="ffaBtnPanamax" onclick="setFFAProduct('panamax')">Panamax</button>
-                  <button class="toggle-btn" id="ffaBtnSupramax" onclick="setFFAProduct('supramax')">Supramax</button>
-                  <button class="toggle-btn" id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
-                </div>
-                <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
-                  <span style="font-size:11px;color:var(--text-muted);">vs</span>
-                  <button class="toggle-btn" id="ffaComp1w" onclick="setFFAComp('1w')">1W ago</button>
-                  <button class="toggle-btn" id="ffaComp2w" onclick="setFFAComp('2w')">2W ago</button>
-                  <button class="toggle-btn" id="ffaComp1m" onclick="setFFAComp('1m')">1M ago</button>
-                  <button class="toggle-btn" id="ffaComp3m" onclick="setFFAComp('3m')">3M ago</button>
-                  <button class="toggle-btn active" id="ffaCompNone" onclick="setFFAComp('none')">No Compare</button>
-                </div>
-              </div>
-            </div>
-            <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
-              Latest settlement prices per contract month. Click any point to view full contract history below.
-            </div>
-            <div id="ffaNoData"
-              style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
-              SGX FFA data not available yet. Data populates after the first daily update run.
-            </div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="ffaForwardChart"></canvas></div>
-          </div>
-
-          <!-- 8. SGX FFA Contract History (shown on click) -->
-          <div class="chart-container mb-20" id="ffaHistoryPanel" style="display:none;">
-            <div class="chart-header">
-              <div class="chart-title" id="ffaHistoryTitle" data-tooltip="Historic Settlement Trace - settlement history for the selected forward contract. Essential for identifying whether the curve is hardening or melting.">Contract History</div>
-              <div class="flex-row" style="gap:8px;align-items:center;">
-                <span id="ffaHistoryBadge"
-                  style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
-                <button class="toggle-btn"
-                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">Close
-                  Close</button>
-              </div>
-            </div>
-            <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
-            <div class="chart-canvas-wrap" style="height:280px"><canvas id="ffaHistoryChart"></canvas></div>
-          </div>
-
-          <!-- 9. Futures Premium (Basis) -->
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="Market Basis - (Front-Month FFA vs. Synthetic Spot). Sustained Contango (>5%) indicates institutional 'Front-Running' of expected spot market rallies; deep Backwardation signals extreme near-term stress.">Futures vs Spot Premium - BDRYFF vs Synthetic Spot</div>
-              <div class="flex-row" style="gap:6px;align-items:center;">
-                <button class="toggle-btn" id="basisBtn3m" onclick="setBasisWindow('3m')">3M</button>
-                <button class="toggle-btn active" id="basisBtn1y" onclick="setBasisWindow('1y')">1Y</button>
-                <button class="toggle-btn" id="basisBtnAll" onclick="setBasisWindow('all')">All</button>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="basisRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="basisRangeTrack">
-                <div class="dual-range-fill" id="basisRangeFill"></div>
-                <input type="range" id="basisRangeStart" min="0" max="100" value="0" step="1">
-                <input type="range" id="basisRangeEnd" min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="basisChart"></canvas></div>
-            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-              Premium % = (Front Month FFA - Combined Spot Index) / Combined Spot × 100. Shaded green = Contango, Red = Backwardation.
-            </div>
-          </div>
-
-          <!-- 10. Vessel-Class Contribution to BDI -->
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="BDI Attribution - decomposes daily moves by weighting (Capesize 50%, Panamax 40%, Supramax 10%). Reveals whether a rally is broad-based or driven by a specific commodity sector (e.g. Iron Ore vs. Grains).">BDI Daily Change - Vessel Class Contribution</div>
-              <div class="flex-row" style="gap:6px;align-items:center;">
-                <button class="toggle-btn active" id="bdiContribBtn3m" onclick="setBDIContribWindow('3m')">3M</button>
-                <button class="toggle-btn" id="bdiContribBtn6m" onclick="setBDIContribWindow('6m')">6M</button>
-                <button class="toggle-btn" id="bdiContribBtn1y" onclick="setBDIContribWindow('1y')">1Y</button>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="bdiContribRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="bdiContribRangeTrack">
-                <div class="dual-range-fill" id="bdiContribRangeFill"></div>
-                <input type="range" id="bdiContribRangeStart" min="0" max="100" value="0" step="1">
-                <input type="range" id="bdiContribRangeEnd" min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="bdiContribChart"></canvas></div>
-            <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-              Approximate decomposition: 50% Capesize, 40% Panamax, 10% Supramax.
-            </div>
-          </div>
-
-          <!-- 11. Lead-Lag Correlation Analysis -->
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" data-tooltip="Predictive Lag Analysis - identifies which assets lead others. Yellow dot marks the 'Sweet Spot' where Asset A most reliably predicts Asset B.">Lead-Lag Correlation (Cross-Correlation of Log Returns)</div>
-            </div>
-            <div class="signals-controls">
-              <label for="leadLagPair" class="context-label" style="margin-bottom:0">Pairs:</label>
-              <select id="leadLagPair" class="signals-select" onchange="renderLeadLagChart()">
-                <optgroup label="Financial Speed (ETF Leads)">
-                  <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
-                  <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
-                  <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
-                  <option value="bdry:bdryff">BDRY vs BDRYFF (ETF vs Futures)</option>
-                  <option value="bwet:bwetff">BWET vs BWETFF (ETF vs Futures)</option>
-                </optgroup>
-                <optgroup label="Vessel Rotation (Ripple Effects)">
-                  <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
-                  <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
-                </optgroup>
-                <optgroup label="Basis & Indices">
-                  <option value="bdiy:bdryff">BDI vs BDRYFF</option>
-                  <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
-                  <option value="cape:bdiy">BCI vs BDI</option>
-                  <option value="panama:bdiy">BPI vs BDI</option>
-                  <option value="suprama:bdiy">BSI vs BDI</option>
-                  <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
-                </optgroup>
-              </select>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
-            <div id="leadLagInfo" class="lead-lag-info"></div>
-          </div>
-
         </div>
       </div>
 
@@ -10150,6 +10158,7 @@
     </div>
 
     <!-- ── Intelligence Tab ──────────────────────────────────────────────── -->
+
     <div class="tab-panel" id="tab-intelligence">
 
       <!-- Section 1: Signal & Confluence Engine -->
@@ -10292,8 +10301,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       </div>
 
     </div><!-- /tab-intelligence -->
-
-  </div><!-- /main -->
+  <!-- /main -->
 
 
 
