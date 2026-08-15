@@ -22495,6 +22495,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return '\n\n<details class="qa-think-block" style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;margin-bottom:14px;"><summary style="cursor:pointer;color:var(--text-muted);font-size:11.5px;font-weight:600;display:inline-flex;align-items:center;gap:5px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>Model Reasoning Trace (Click to Expand)</summary><div class="qa-think-body" style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.06);color:var(--text-muted);font-size:12px;line-height:1.5;">' + _escapeHtml(thought.trim()).replace(/\n/g, '<br>') + '</div></details>\n\n';
       });
 
+      // 0b. Auto-detect unwrapped standalone multiline LaTeX equations (e.g. \Delta NAV_{Sep} \approx ... or \sum_i ...)
+      rawText = rawText.replace(/(^|\n\n)([ \t]*\\[a-zA-Z]+[\s\S]*?(?:\n\n|$))/g, function(match, pre, block) {
+        const trimmed = block.trim();
+        if (trimmed.includes('$$') || trimmed.includes('\\[') || trimmed.startsWith('<') || trimmed.startsWith('#')) return match;
+        if (/(\\approx|\\frac|\\sum|\\cdot|\\times|\\Big|\\underbrace|\\Delta|\\prod|\\int|\\sqrt|\\alpha|\\beta|\\gamma)/.test(trimmed)) {
+          return pre + '$$\n' + trimmed + '\n$$\n\n';
+        }
+        return match;
+      });
+
       // 1. Code blocks
       const codeBlocks = [];
       let s = rawText.replace(/```([a-zA-Z0-9_-]*)\r?\n([\s\S]*?)```/g, (match, lang, code) => {
@@ -22534,7 +22544,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // 4. Tables
       s = _renderMarkdownTables(s);
 
-      // 5. Headers
+      // 5. Headers (h1 - h6)
+      s = s.replace(/^###### (.*?)$/gm, '<h6 class="qa-h6" style="font-size:11.5px;color:#79c0ff;font-weight:700;margin:0.8em 0 0.3em 0;">$1</h6>');
+      s = s.replace(/^##### (.*?)$/gm, '<h5 class="qa-h5" style="font-size:12.5px;color:#79c0ff;font-weight:700;margin:1.1em 0 0.3em 0;letter-spacing:0.3px;">$1</h5>');
       s = s.replace(/^#### (.*?)$/gm, '<h4 class="qa-h4">$1</h4>');
       s = s.replace(/^### (.*?)$/gm, '<h3 class="qa-h3">$1</h3>');
       s = s.replace(/^## (.*?)$/gm, '<h2 class="qa-h2">$1</h2>');
@@ -22557,8 +22569,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // 10. Newlines
       s = s.replace(/\r?\n/g, '<br>');
-      s = s.replace(/(<\/(?:h[1-4]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr)>)<br>/gi, '$1');
-      s = s.replace(/<br>(<(?:h[1-4]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr))/gi, '$1');
+      s = s.replace(/(<\/(?:h[1-6]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr)>)<br>/gi, '$1');
+      s = s.replace(/<br>(<(?:h[1-6]|div|table|thead|tbody|tr|th|td|ul|ol|li|blockquote|pre|hr))/gi, '$1');
 
       // 11. Restore math & code
       mathBlocks.forEach((m, idx) => {
@@ -22567,6 +22579,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       codeBlocks.forEach((c, idx) => {
         s = s.replace(new RegExp(`@@@CODE_BLOCK_${idx}@@@`, 'g'), c);
       });
+
+      // 12. Clean up redundant <br> margins around display math blocks
+      s = s.replace(/(?:<br>\s*)+(<div class="qa-math-display">)/gi, '$1');
+      s = s.replace(/(<div class="qa-math-display">[\s\S]*?<\/div>)(?:\s*<br>)+/gi, '$1');
 
       return s;
     }
@@ -23654,18 +23670,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         });
         var labelParts = Object.entries(params).filter(function(e) { return e[1] !== 0; }).map(function(e) { return e[0].toUpperCase() + " " + (e[1] >= 0 ? '+' : '') + e[1] + "%"; });
         var label = labelParts.length ? labelParts.join(', ') : 'Reset Shocks';
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="simulator" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply to Scenario Simulator (' + label + ')</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tooltip="Apply this exact ' + label + ' curve shock to the interactive scenario engine" onclick="applyCopilotScenario(' + JSON.stringify(params).replace(/"/g, '&quot;') + ')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply to Scenario Simulator (' + label + ')</button></div>';
       });
 
       // Parse [ACTION:jump_simulator:YYYY-MM-DD]
       esc = esc.replace(/\[ACTION:jump_simulator:([^\]]+)\]/gi, function(match, dateStr) {
         var d = dateStr.trim();
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="jump" onclick="jumpSimulatorFromCopilot(\'' + d + '\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jump Simulator to ' + d + '</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tooltip="Jump simulator timeline and historical book replay to ' + d + '" onclick="jumpSimulatorFromCopilot(\'' + d + '\')"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Jump Simulator to ' + d + '</button></div>';
       });
 
       // Parse [ACTION:open_decision_ticket]
       esc = esc.replace(/\[ACTION:open_decision_ticket\]/gi, function() {
-        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tt-type="etf-action-pill" data-tt-action="ticket" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>Open Institutional Decision Ticket</button></div>';
+        return '<div style="margin:10px 0;"><button class="etf-qa-action-btn" data-tooltip="Generate and inspect the formal institutional trade ticket" style="background:linear-gradient(135deg, #1f6feb 0%, #238636 100%);" onclick="openDecisionTicketModal()"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg>Open Institutional Decision Ticket</button></div>';
       });
 
       // Parse [CONTRACT:Ticker]
