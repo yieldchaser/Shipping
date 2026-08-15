@@ -22098,18 +22098,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // ── OpenRouter ────────────────────────────────────────────────────────
       if (provider === 'openrouter') {
+        // Free-tier OpenRouter models often return empty SSE streams.
+        // Force non-streaming for reliability; fall back to stream only on paid models.
+        const isFreeModel = !apiKey || model === 'openrouter/free' || model.endsWith(':free');
+        const orStream = doStream && !isFreeModel;
         const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
             'Authorization': `Bearer ${apiKey}`,
             'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
-            'X-OpenRouter-Title': 'Shipping Intelligence Dashboard',
+            'X-Title': 'Shipping Intelligence Dashboard',
           },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+          body: JSON.stringify({
+            model,
+            messages: [{ role: 'user', content: prompt }],
+            temperature: 0.2,
+            max_tokens: 4096,
+            stream: orStream
+          }),
           signal: fetchSignal
         });
-        const selectedModel = res.headers.get('X-OpenRouter-Selected-Model');
+        const selectedModel = res.headers.get('X-OpenRouter-Selected-Model') || res.headers.get('x-openrouter-selected-model');
         if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
@@ -22118,10 +22128,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (res.status === 429) throw new Error('OpenRouter: rate limited. ' + msg);
           throw new Error(msg);
         }
-        if (doStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
+        if (orStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
         const data = await res.json();
         if (data?.error) throw new Error('OpenRouter error: ' + (data.error.message || JSON.stringify(data.error)));
-        return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
+        const orText = data?.choices?.[0]?.message?.content;
+        if (!orText || !orText.trim()) {
+          const finishReason = data?.choices?.[0]?.finish_reason;
+          throw new Error('OpenRouter returned empty content (finish_reason=' + (finishReason || 'null') + '). Model: ' + (selectedModel || model));
+        }
+        if (onToken) onToken(orText);
+        return { text: orText, webCitations: [] };
       }
 
       throw new Error('Unknown provider: ' + provider);
@@ -23566,7 +23582,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!pModel) continue;
 
           try {
-            if (statEl) statEl.textContent = 'Asking ' + pCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio Grounded)' + (webSearch && p === 'gemini' ? ' + 🌐 Web Search' : '') + '...';
+            if (statEl) statEl.textContent = 'Asking ' + pCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio Grounded)' + (webSearch && p === 'gemini' ? ' + Live Web Search' : '') + '...';
             var resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               function(partial) { if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(partial); },
@@ -23593,7 +23609,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var usedCfg = _providerConfig(usedProvider);
         if (statEl) {
           var fallbackMsg = (usedProvider !== provider && primaryError)
-            ? ' <span style="color:var(--yellow);font-size:10.5px;margin-left:6px;" title="' + _escapeHtml(primaryError.message) + '">⚠️ (' + _providerConfig(provider).label + ' error: ' + _escapeHtml(primaryError.message.slice(0, 60)) + ' → routed to ' + usedCfg.label + ')</span>'
+            ? ' <span style="color:var(--yellow);font-size:10.5px;margin-left:6px;" title="' + _escapeHtml(primaryError.message) + '">[!] (' + _providerConfig(provider).label + ' error: ' + _escapeHtml(primaryError.message.slice(0, 60)) + ' → routed to ' + usedCfg.label + ')</span>'
             : '';
           statEl.innerHTML = '<span style="color:var(--green);font-weight:700;">[OK] ' + usedCfg.label + '</span> (' + fundKey.toUpperCase() + ' Portfolio & Curves Grounded)' +
             (finalWebCitations.length > 0 ? ' · ' + finalWebCitations.length + ' web sources' : '') +
