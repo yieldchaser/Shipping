@@ -4636,19 +4636,24 @@
       var history = [];
       var historySource = '';
       var sgxKey = normCls === 'cape' ? 'cape' : (normCls === 'pana' ? 'panamax' : (normCls === 'supra' ? 'supramax' : (normCls === 'handy' ? 'handysize' : null)));
-      var processed = window.getFFAProcessed ? window.getFFAProcessed() : null;
+      var getFfaFn = (typeof getFFAProcessed === 'function') ? getFFAProcessed : (window.getFFAProcessed ? window.getFFAProcessed : null);
+      var processed = getFfaFn ? getFfaFn() : null;
 
       if (sgxKey) {
         var m = contractName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
         var targetMonthLabel = m ? (m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase() + ' 20' + m[2]) : '';
         var targetMonthShort = m ? (m[1].toLowerCase() + ' ' + m[2]) : '';
+        var codeMatch = (meta.ticker || contractName).match(/([FGHJKMNQUVXZ])(\d{2})/i);
+        var targetCode = codeMatch ? (codeMatch[1].toUpperCase() + codeMatch[2]) : '';
 
         if (processed && processed[sgxKey]) {
           var matchContract = processed[sgxKey].find(function(c) {
             var cExp = (c.expiryLabel || '').toLowerCase();
+            var cTicker = (c.contract || '').toUpperCase();
             return (targetMonthLabel && cExp === targetMonthLabel.toLowerCase()) ||
                    c.contract === contractName ||
-                   (targetMonthShort && cExp.includes(targetMonthShort));
+                   (targetMonthShort && cExp.includes(targetMonthShort)) ||
+                   (targetCode && cTicker.includes(targetCode));
           });
 
           if (matchContract && matchContract.history && matchContract.history.length) {
@@ -4662,10 +4667,12 @@
           var sgxRows = DATA.sgx[sgxKey] || [];
           var sgxMatched = [];
           sgxRows.forEach(function(row) {
-            var rMonth = String(row.month || row.tenor || row.contract || '').toLowerCase();
+            var rMonth = String(row.expiry_month || row.month || row.tenor || '').toLowerCase();
+            var rContract = String(row.contract || '').toUpperCase();
             var isSgxMatch = (targetMonthShort && rMonth.includes(targetMonthShort)) ||
                              (targetMonthLabel && rMonth.includes(targetMonthLabel.toLowerCase())) ||
-                             rMonth === contractName.toLowerCase();
+                             rMonth === contractName.toLowerCase() ||
+                             (targetCode && rContract.includes(targetCode));
             if (isSgxMatch) {
               var px = parseFloat(row.settle || row.price || row.Close || row.close);
               var dObj = row.date ? new Date(row.date) : null;
@@ -19992,7 +19999,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function getFFAProcessed() {
-      window.getFFAProcessed = getFFAProcessed;
       if (_ffaProcessed) return _ffaProcessed;
       if (!DATA.sgx) return null;
       _ffaProcessed = {};
@@ -20001,6 +20007,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
       return _ffaProcessed;
     }
+    window.getFFAProcessed = getFFAProcessed;
 
     function setFFAProduct(p) {
       window.setFFAProduct = setFFAProduct;
@@ -24570,6 +24577,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
 
         hideTimer = setTimeout(() => tt.classList.remove('visible'), 80);
+      });
+
+      window.addEventListener('scroll', function() {
+        if (tt) tt.classList.remove('visible');
+      }, { passive: true });
+
+      document.addEventListener('click', function() {
+        if (tt) tt.classList.remove('visible');
       });
     })();
 
