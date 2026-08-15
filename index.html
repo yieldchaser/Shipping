@@ -2988,8 +2988,86 @@
   .etf-qa-action-lbl { font-size: 11px; font-weight: 700; color: #58a6ff; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px; }
   .etf-qa-action-btn { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 5px; font-size: 11.5px; font-weight: 700; cursor: pointer; border: 1px solid rgba(88, 166, 255, 0.35); background: rgba(88, 166, 255, 0.15); color: #fff; transition: all 0.15s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
   .etf-qa-action-btn:hover { background: rgba(88, 166, 255, 0.3); border-color: #58a6ff; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(88, 166, 255, 0.3); }
-  .etf-qa-contract-pill { display: inline-flex; align-items: center; gap: 4px; background: rgba(22, 27, 34, 0.8); border: 1px solid rgba(88, 166, 255, 0.3); padding: 1px 7px; border-radius: 4px; color: #58a6ff; font-family: monospace; font-size: 11.5px; font-weight: 700; cursor: pointer; text-decoration: none; transition: all 0.15s ease; margin: 0 2px; }
   .etf-qa-contract-pill:hover { background: rgba(88, 166, 255, 0.25); border-color: #58a6ff; color: #fff; }
+
+  /* ===================================================================== */
+  /*  ETF DAILY MARKET BRIEF STYLING & INTERACTIVE CARDS                   */
+  /* ===================================================================== */
+  .etf-brief-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+  .etf-brief-panel {
+    background: rgba(13, 17, 23, 0.7);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    position: relative;
+    transition: all 0.2s ease;
+  }
+  .etf-brief-panel:hover {
+    border-color: rgba(88, 166, 255, 0.4);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+  }
+  .etf-brief-panel.active-focus {
+    border-color: rgba(88, 166, 255, 0.6);
+    background: linear-gradient(135deg, rgba(88, 166, 255, 0.06), rgba(13, 17, 23, 0.85));
+    box-shadow: 0 4px 20px rgba(88, 166, 255, 0.12);
+  }
+  .etf-brief-panel-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .etf-brief-panel-title {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .etf-brief-subhead {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  .etf-brief-signal-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0;
+  }
+  .etf-brief-signal-item {
+    font-size: 12px;
+    line-height: 1.5;
+    color: var(--text);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .etf-brief-action-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px 14px;
+    background: rgba(88, 166, 255, 0.05);
+    border: 1px solid rgba(88, 166, 255, 0.2);
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 12px;
+  }
 
   /* ===================================================================== */
   /*  DAY-BY-DAY ETF SIMULATOR STYLING & GLOWING MICRO-INTERACTIONS         */
@@ -8686,7 +8764,6 @@
             <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
             <option value="gemini">Gemini (Google AI)</option>
             <option value="openrouter">OpenRouter (Multi-Model)</option>
-            <option value="nim">NVIDIA NIM (DeepSeek / Nemotron / GLM)</option>
           </select>
           <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
           <span class="qa-key-label" id="etfQaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab.">Groq Key</span>
@@ -8784,6 +8861,57 @@
           <div id="etfQaActions" style="display:none;"></div>
           <div id="etfQaAnswer" class="qa-answer"></div>
           <div id="etfQaCitations" class="qa-cit-list"></div>
+        </div>
+
+      </div>
+
+      <!-- ===================================================================== -->
+      <!--  DAILY FREIGHT & ETF MARKET INTELLIGENCE BRIEF (SERVER AI POWERED)    -->
+      <!-- ===================================================================== -->
+      <div class="chart-container mb-20" id="etfDailyBriefCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
+        
+        <!-- Header & Active Controls -->
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
+          <div>
+            <div style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
+                  <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+                </svg>
+              </div>
+              <span>Daily Freight &amp; ETF Market Intelligence Brief</span>
+              <span id="etfBriefDateBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);">2026-08-14</span>
+              <span id="etfBriefEngineBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;" data-tooltip="Synthesized via server-side quantitative pipeline &amp; NVIDIA NIM / LLM models. Zero client-side API keys required.">
+                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (NIM / LLM)
+              </span>
+            </div>
+            <div style="font-size:12px;color:var(--text-muted);margin-top:4px;">
+              Multi-factor quantitative confluence, desk momentum grades, and forward curve roll dynamics synthesized by the server-side intelligence engine.
+            </div>
+          </div>
+
+          <!-- Controls: Fund Filter & Expand/Collapse -->
+          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <!-- Fund Filter Tabs -->
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
+              <button id="etfBriefFilterBdry" onclick="setEtfBriefFocus('bdry')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BDRY (Capesize, Panamax, Supramax dry bulk).">BDRY (Dry Bulk)</button>
+              <button id="etfBriefFilterBwet" onclick="setEtfBriefFocus('bwet')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BWET (VLCC and Suezmax crude tankers).">BWET (Tankers)</button>
+            </div>
+
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="etfBriefCollapseBtn" onclick="toggleEtfDailyBriefCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle brief expansion">
+              <span id="etfBriefCollapseIcon">▲</span> <span id="etfBriefCollapseText">Collapse</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Dynamic Brief Content Container -->
+        <div id="etfDailyBriefContent" style="transition:all 0.2s ease;">
+          <div style="text-align:center;padding:24px;color:var(--text-muted);">
+            <div class="spinner" style="margin:0 auto 8px;"></div>
+            Loading latest institutional freight intelligence...
+          </div>
         </div>
 
       </div>
@@ -9944,7 +10072,6 @@
               <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
               <option value="gemini">Gemini (Google AI)</option>
               <option value="openrouter">OpenRouter (Multi-Model)</option>
-              <option value="nim">NVIDIA NIM (DeepSeek / Nemotron / GLM)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
             <span class="qa-key-label" id="qaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage. Never sent to our servers — direct client-side execution.">Groq Key</span>
@@ -21372,27 +21499,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           'deepseek/deepseek-r1:free',
           'mistralai/mistral-small-24b-instruct-2501:free'
         ]
-      },
-      nim: {
-        label: 'NVIDIA NIM (DeepSeek / Nemotron / GLM)',
-        keyStorage: 'qa_key_nim',
-        modelStorage: 'qa_model_nim',
-        defaultModel: 'deepseek-ai/deepseek-r1',
-        keyLabel: 'NVIDIA Key',
-        keyPlaceholder: 'nvapi-... (free at build.nvidia.com)',
-        hasBaseUrl: false,
-        maxContextTokens: 16000,
-        suggestions: [
-          'deepseek-ai/deepseek-r1',
-          'nvidia/nemotron-3.5-lightning-30b-a3b',
-          'zai/glm-5.2',
-          'minimaxai/minimax-m3',
-          'meta/muse-glimmer-30b',
-          'nvidia/nemotron-3-ultra-550b-a55b',
-          'meta/llama-3.1-405b-instruct',
-          'meta/llama-3.3-70b-instruct',
-          'google/diffusiongemma-26b-a4b-it'
-        ]
       }
     };
 
@@ -21405,8 +21511,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         cfg.maxContextTokens = 25000;
       } else if (provider === 'gemini') {
         cfg.maxContextTokens = 30000;
-      } else if (provider === 'nim') {
-        cfg.maxContextTokens = 16000;
       } else if (provider === 'groq') {
         cfg.maxContextTokens = 8000;
       }
@@ -22019,49 +22123,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
-      // ── NVIDIA NIM (OpenAI-compatible) ──────────────────────────────────
-      if (provider === 'nim') {
-        const endpoint = 'https://integrate.api.nvidia.com/v1/chat/completions';
-        const cleanKey = apiKey.trim().startsWith('Bearer ') ? apiKey.trim() : ('Bearer ' + apiKey.trim());
-        const res = await fetch(endpoint, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': cleanKey
-          },
-          body: JSON.stringify({
-            model: model || 'deepseek-ai/deepseek-r1',
-            messages: [{ role: 'user', content: prompt }],
-            temperature: 0.2,
-            max_tokens: 2048,
-            stream: doStream
-          }),
-          signal: fetchSignal
-        });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          let msg = err?.error?.message || err?.detail || (typeof err === 'string' ? err : '') || `NVIDIA NIM HTTP ${res.status}`;
-          if (res.status === 401) msg = `NVIDIA NIM 401 Unauthorized: Invalid API key. Ensure your key starts with 'nvapi-' from build.nvidia.com. (${msg})`;
-          else if (res.status === 404) msg = `NVIDIA NIM 404 Model Not Found: Model '${model}' is unavailable on NIM. (${msg})`;
-          else if (res.status === 422) msg = `NVIDIA NIM 422 Unprocessable Request: Parameter mismatch for '${model}'. (${msg})`;
-          console.warn('[NVIDIA NIM API Error]', res.status, msg, err);
-          throw new Error(msg);
-        }
-        if (doStream && res.body) return _readSSE(res, onToken, 'NVIDIA NIM');
-        const data = await res.json();
-        if (data?.error) {
-          const errMsg = data.error.message || JSON.stringify(data.error);
-          throw new Error('NVIDIA NIM error: ' + errMsg);
-        }
-        return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
-      }
-
       throw new Error('Unknown provider: ' + provider);
     }
 
     function _buildFallbackOrder(primary) {
-      // Direct browser-CORS supported providers: Groq, Gemini, OpenRouter, and NVIDIA NIM
-      const all = ['groq', 'gemini', 'openrouter', 'nim'];
+      // Direct browser-CORS supported providers: Groq, Gemini, and OpenRouter
+      const all = ['groq', 'gemini', 'openrouter'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
@@ -22085,9 +22152,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
         localStorage.setItem('qa_model_openrouter', 'openrouter/free');
       }
-      // Reset any stale provider pointing at removed providers (ollama)
+      // Reset any stale provider pointing at removed providers (ollama, nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
-      if (storedProvider === 'ollama') {
+      if (storedProvider === 'ollama' || storedProvider === 'nim') {
         console.log('[QA] Resetting stale provider', storedProvider, '→ groq');
         localStorage.setItem('qa_provider', 'groq');
       }
@@ -22921,6 +22988,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (badge) { badge.textContent = 'BDRY (Dry Bulk)'; badge.style.color = '#58a6ff'; badge.style.background = 'rgba(88,166,255,0.15)'; badge.style.borderColor = 'rgba(88,166,255,0.3)'; }
       }
       renderEtfSuggestedQuestions(_etfQaFund);
+      updateEtfDailyBriefFocus(_etfQaFund);
     }
 
     function etfSq(q) {
@@ -22928,6 +22996,240 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (el) {
         el.value = q;
         runEtfQAQuery();
+      }
+    }
+
+    // =====================================================================
+    //  INSTITUTIONAL ETF DAILY MARKET BRIEF CONTROLLER
+    // =====================================================================
+    var _etfBriefFocus = 'all';
+    var _etfBriefCollapsed = false;
+
+    function toggleEtfDailyBriefCollapse() {
+      _etfBriefCollapsed = !_etfBriefCollapsed;
+      var el = document.getElementById('etfDailyBriefContent');
+      var icon = document.getElementById('etfBriefCollapseIcon');
+      var txt = document.getElementById('etfBriefCollapseText');
+      if (el) {
+        el.style.display = _etfBriefCollapsed ? 'none' : 'block';
+      }
+      if (icon) icon.textContent = _etfBriefCollapsed ? '▼' : '▲';
+      if (txt) txt.textContent = _etfBriefCollapsed ? 'Expand' : 'Collapse';
+    }
+
+    function setEtfBriefFocus(focus) {
+      _etfBriefFocus = focus || 'all';
+      ['all', 'bdry', 'bwet'].forEach(function(f) {
+        var btn = document.getElementById('etfBriefFilter' + f.charAt(0).toUpperCase() + f.slice(1));
+        if (btn) {
+          if (f === _etfBriefFocus) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'transparent';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderEtfDailyBrief(_etfBriefFocus);
+    }
+
+    function updateEtfDailyBriefFocus(fundKey) {
+      if (_etfBriefFocus !== 'all') {
+        setEtfBriefFocus(fundKey);
+      } else {
+        var dryPanel = document.getElementById('etfBriefPanelDry');
+        var tankerPanel = document.getElementById('etfBriefPanelTanker');
+        if (dryPanel && tankerPanel) {
+          if (fundKey === 'bdry') {
+            dryPanel.classList.add('active-focus');
+            tankerPanel.classList.remove('active-focus');
+          } else if (fundKey === 'bwet') {
+            tankerPanel.classList.add('active-focus');
+            dryPanel.classList.remove('active-focus');
+          }
+        }
+      }
+    }
+
+    async function renderEtfDailyBrief(focusMode) {
+      var container = document.getElementById('etfDailyBriefContent');
+      if (!container) return;
+
+      var focus = focusMode || _etfBriefFocus || 'all';
+      var data = (typeof INTEL !== 'undefined') ? INTEL.briefData : null;
+
+      if (!data) {
+        try {
+          data = await _fetchJsonWithFallback('knowledge/briefs/latest.json');
+          if (data && typeof INTEL !== 'undefined') INTEL.briefData = data;
+        } catch (err) {
+          console.warn('[ETF Brief] Failed to fetch latest brief:', err);
+        }
+      }
+
+      if (!data) {
+        container.innerHTML = '<div style="padding:16px;text-align:center;color:var(--text-muted);font-size:12px;">No verified daily brief payload available for today.</div>';
+        return;
+      }
+
+      // Update date badge
+      var dateBadge = document.getElementById('etfBriefDateBadge');
+      if (dateBadge && data.brief_date) dateBadge.textContent = data.brief_date;
+
+      // Update engine badge
+      var engBadge = document.getElementById('etfBriefEngineBadge');
+      if (engBadge && data.generation) {
+        var prov = data.generation.provider_used || 'LLM';
+        var mod = data.generation.model ? (' / ' + data.generation.model.split('/').pop().replace(/-instruct|-versatile/g, '')) : '';
+        engBadge.innerHTML = '<svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (' + prov.toUpperCase() + mod + ')';
+      }
+
+      var esc = function(str) {
+        return String(str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      };
+
+      var tldrHtml = '';
+      if (Array.isArray(data.executive_tldr) && data.executive_tldr.length) {
+        tldrHtml = '<div class="brief-tldr-box" style="margin-bottom:14px;">' +
+          '<div class="brief-tldr-head">' +
+            '<span class="brief-tldr-title"><span style="font-size:13px;">⚡</span> Executive Desk TL;DR (30-Sec Scan)</span>' +
+            '<span class="brief-tldr-badge">Institutional Takeaways</span>' +
+          '</div>' +
+          '<div class="brief-tldr-list">' +
+            data.executive_tldr.map(function(item, idx) {
+              return '<div class="brief-tldr-item">' +
+                '<span class="brief-tldr-num">' + (idx + 1) + '</span>' +
+                '<span class="brief-tldr-text">' + esc(item) + '</span>' +
+              '</div>';
+            }).join('') +
+          '</div>' +
+        '</div>';
+      }
+
+      var vc = data.vessel_classes || {};
+      var db = vc.dry_bulk || {};
+      var tk = vc.tanker || {};
+
+      var showDry = (focus === 'all' || focus === 'bdry');
+      var showTanker = (focus === 'all' || focus === 'bwet');
+
+      var dryIsFocus = (_etfQaFund === 'bdry' || focus === 'bdry');
+      var tankerIsFocus = (_etfQaFund === 'bwet' || focus === 'bwet');
+
+      var dryHtml = '';
+      if (showDry && db) {
+        var dbConf = db.confluence_type || 'NEUTRAL';
+        var dbBias = db.positioning_bias || 'NEUTRAL';
+        var dbBiasColor = dbBias === 'LONG' ? 'var(--green)' : (dbBias === 'SHORT' ? 'var(--red)' : 'var(--text-muted)');
+
+        var dbSignalsHtml = (db.key_signals || []).slice(0, 3).map(function(sig) {
+          return '<li class="etf-brief-signal-item"><span style="color:#58a6ff;font-weight:700;">•</span> <span>' + esc(sig) + '</span></li>';
+        }).join('');
+
+        dryHtml = '<div class="etf-brief-panel ' + (dryIsFocus ? 'active-focus' : '') + '" id="etfBriefPanelDry">' +
+          '<div class="etf-brief-panel-head">' +
+            '<div class="etf-brief-panel-title">' +
+              '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#58a6ff;"></span>' +
+              '<span>Breakwave Dry Bulk ETF (BDRY) &bull; Capesize / Panamax</span>' +
+            '</div>' +
+            '<div style="display:flex;gap:6px;align-items:center;">' +
+              '<span class="intel-vc-badge badge-' + (dbConf === 'BULL_CONFLUENCE' ? 'bull' : (dbConf === 'BEAR_CONFLUENCE' ? 'bear' : 'neut')) + '" style="font-size:10px;padding:2px 6px;">' + dbConf.replace(/_/g, ' ') + '</span>' +
+              '<span style="font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;border:1px solid ' + dbBiasColor + ';color:' + dbBiasColor + ';">Bias: ' + dbBias + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div class="etf-brief-subhead">Key Freight Signals &amp; Confluence:</div>' +
+          '<ul class="etf-brief-signal-list">' + dbSignalsHtml + '</ul>' +
+          (db.outlook ? '<div style="font-size:11.5px;color:var(--text);margin-bottom:8px;line-height:1.4;"><strong style="color:#58a6ff;">Desk Outlook:</strong> ' + esc(db.outlook) + '</div>' : '') +
+          (db.trade_idea ? '<div style="background:rgba(88,166,255,0.08);border:1px solid rgba(88,166,255,0.25);border-radius:6px;padding:8px 10px;font-size:11.5px;margin-top:8px;"><span style="color:#f2cc60;font-weight:700;">🎯 Tactical Setup:</span> ' + esc(db.trade_idea) + '</div>' : '') +
+          '<div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">' +
+            '<button class="etf-qa-action-btn" onclick="applyBriefScenario(\'bdry\')" style="font-size:11px;padding:4px 8px;" data-tooltip="Transfer the analyzed Dry Bulk percentage shock to the scenario matrix."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply Setup (+15% Cape / +10% Pana)</button>' +
+            '<button class="etf-qa-action-btn" onclick="askCopilotBriefQuestion(\'How does today\\\'s Dry Bulk confluence (' + dbConf + ') and Capesize-Panamax spread impact my 3-month BDRY holding?\')" style="font-size:11px;padding:4px 8px;background:rgba(255,255,255,0.06);border-color:var(--border);"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Ask Copilot About BDRY Outlook</button>' +
+          '</div>' +
+        '</div>';
+      }
+
+      var tankerHtml = '';
+      if (showTanker && tk) {
+        var tkConf = tk.confluence_type || 'NEUTRAL';
+        var tkBias = tk.positioning_bias || 'NEUTRAL';
+        var tkBiasColor = tkBias === 'LONG' ? 'var(--green)' : (tkBias === 'SHORT' ? 'var(--red)' : 'var(--text-muted)');
+
+        var tkSignalsHtml = (tk.key_signals || []).slice(0, 3).map(function(sig) {
+          return '<li class="etf-brief-signal-item"><span style="color:#f0883e;font-weight:700;">•</span> <span>' + esc(sig) + '</span></li>';
+        }).join('');
+
+        tankerHtml = '<div class="etf-brief-panel ' + (tankerIsFocus ? 'active-focus' : '') + '" id="etfBriefPanelTanker">' +
+          '<div class="etf-brief-panel-head">' +
+            '<div class="etf-brief-panel-title">' +
+              '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#f0883e;"></span>' +
+              '<span>Breakwave Tanker ETF (BWET) &bull; VLCC TD3C / Suezmax TD20</span>' +
+            '</div>' +
+            '<div style="display:flex;gap:6px;align-items:center;">' +
+              '<span class="intel-vc-badge badge-' + (tkConf === 'BULL_CONFLUENCE' ? 'bull' : (tkConf === 'BEAR_CONFLUENCE' ? 'bear' : 'neut')) + '" style="font-size:10px;padding:2px 6px;">' + tkConf.replace(/_/g, ' ') + '</span>' +
+              '<span style="font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;border:1px solid ' + tkBiasColor + ';color:' + tkBiasColor + ';">Bias: ' + tkBias + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div class="etf-brief-subhead">Key Freight Signals &amp; Confluence:</div>' +
+          '<ul class="etf-brief-signal-list">' + tkSignalsHtml + '</ul>' +
+          (tk.outlook ? '<div style="font-size:11.5px;color:var(--text);margin-bottom:8px;line-height:1.4;"><strong style="color:#f0883e;">Desk Outlook:</strong> ' + esc(tk.outlook) + '</div>' : '') +
+          (tk.trade_idea ? '<div style="background:rgba(240,136,62,0.08);border:1px solid rgba(240,136,62,0.25);border-radius:6px;padding:8px 10px;font-size:11.5px;margin-top:8px;"><span style="color:#f2cc60;font-weight:700;">🎯 Tactical Setup:</span> ' + esc(tk.trade_idea) + '</div>' : '') +
+          '<div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">' +
+            '<button class="etf-qa-action-btn" onclick="applyBriefScenario(\'bwet\')" style="font-size:11px;padding:4px 8px;border-color:rgba(240,136,62,0.4);background:rgba(240,136,62,0.15);" data-tooltip="Transfer the analyzed Tanker percentage shock to the scenario matrix."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply Setup (+20% VLCC / +15% Suez)</button>' +
+            '<button class="etf-qa-action-btn" onclick="askCopilotBriefQuestion(\'How does today\\\'s Tanker confluence (' + tkConf + ') and VLCC TCE rate momentum translate into BWET share price sensitivity?\')" style="font-size:11px;padding:4px 8px;background:rgba(255,255,255,0.06);border-color:var(--border);"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Ask Copilot About BWET Outlook</button>' +
+          '</div>' +
+        '</div>';
+      }
+
+      var macroHtml = '';
+      if (data.macro_note || data.cross_sector_analysis) {
+        var csa = data.cross_sector_analysis || {};
+        macroHtml = '<div class="brief-macro" style="margin-bottom:0;margin-top:14px;background:linear-gradient(135deg, rgba(88,166,255,0.07), rgba(163,113,247,0.05));border-color:rgba(88,166,255,0.25);">' +
+          '<div style="display:flex;align-items:center;gap:6px;margin-bottom:6px;">' +
+            '<span class="brief-macro-tag">🌍 Global Macro &amp; Relative-Value Allocation</span>' +
+            (csa.dominant_driver ? '<span style="font-size:10px;color:var(--text-muted);font-weight:600;">Driver: ' + esc(csa.dominant_driver) + '</span>' : '') +
+          '</div>' +
+          (data.macro_note ? '<div style="font-size:12.5px;line-height:1.55;color:var(--text);margin-bottom:6px;">' + esc(data.macro_note) + '</div>' : '') +
+          (csa.relative_value ? '<div style="font-size:11.5px;color:#d0e4ff;"><strong style="color:#f2cc60;">📊 Relative-Value Skew:</strong> ' + esc(csa.relative_value) + '</div>' : '') +
+        '</div>';
+      }
+
+      container.innerHTML = tldrHtml + '<div class="etf-brief-grid">' + dryHtml + tankerHtml + '</div>' + macroHtml;
+    }
+
+    function applyBriefScenario(fundKey) {
+      if (fundKey === 'bwet') {
+        if (typeof switchDeconstETF === 'function') switchDeconstETF('bwet');
+        if (typeof _deconstShocks !== 'undefined') {
+          _deconstShocks.vlcc = 20;
+          _deconstShocks.suez = 15;
+          _deconstShocks.cape = 0;
+          _deconstShocks.pana = 0;
+          _deconstShocks.supra = 0;
+        }
+      } else {
+        if (typeof switchDeconstETF === 'function') switchDeconstETF('bdry');
+        if (typeof _deconstShocks !== 'undefined') {
+          _deconstShocks.cape = 15;
+          _deconstShocks.pana = 10;
+          _deconstShocks.supra = 5;
+          _deconstShocks.vlcc = 0;
+          _deconstShocks.suez = 0;
+        }
+      }
+      if (typeof syncDeconstSlidersToState === 'function') syncDeconstSlidersToState();
+      if (typeof renderETFDeconstructionEngine === 'function') renderETFDeconstructionEngine();
+      var deconstEl = document.getElementById('etfDeconstructionCard');
+      if (deconstEl) deconstEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function askCopilotBriefQuestion(promptText) {
+      var queryEl = document.getElementById('etfQaQuery');
+      if (queryEl) {
+        queryEl.value = promptText;
+        var qaCard = document.getElementById('etfQaCard');
+        if (qaCard) qaCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        if (typeof runEtfQAQuery === 'function') runEtfQAQuery();
       }
     }
 
@@ -22992,6 +23294,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // Initial render of dynamic self-updating suggested questions
       renderEtfSuggestedQuestions(_etfQaFund);
+
+      // Initial render of ETF Daily Market Brief
+      renderEtfDailyBrief(_etfQaFund);
 
       // Tab switcher listener
       var tabs = document.getElementById('etfQaTabs');
@@ -23077,6 +23382,26 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       lines.push("  Scenario Book Mode: " + _deconstScenarioMode + " | Pricing Regime: " + _deconstPricingMode);
       if (_deconstRollInLegs && _deconstRollInLegs.length) {
         lines.push("  Custom User Roll-In Legs Specified: " + _deconstRollInLegs.map(function(l) { return l.name + " (" + l.lots + " lots, target $" + l.targetPrice + ")"; }).join('; '));
+      }
+
+      // 6. Latest Desk Brief & Multi-Factor Confluence Grounding
+      if (typeof INTEL !== 'undefined' && INTEL.briefData) {
+        var bData = INTEL.briefData;
+        lines.push("\n--- LATEST DAILY FREIGHT & MACRO DESK BRIEFING ---");
+        if (bData.brief_date) lines.push("  Briefing Date: " + bData.brief_date);
+        if (bData.macro_note) lines.push("  Global Macro Intelligence: " + bData.macro_note);
+        if (bData.cross_sector_analysis && bData.cross_sector_analysis.relative_value) {
+          lines.push("  Relative Value Spread Analysis: " + bData.cross_sector_analysis.relative_value);
+        }
+        var vc = (bData.vessel_classes || {})[fKey === 'bdry' ? 'dry_bulk' : 'tanker'];
+        if (vc) {
+          lines.push("  Fund Segment Confluence: " + (vc.confluence_type || 'NEUTRAL') + " (Bias: " + (vc.positioning_bias || 'NEUTRAL') + ", Momentum: " + (vc.momentum_grade || 'NEUTRAL') + ", Conviction: " + Math.round((vc.confidence_score||0.5)*100) + "%)");
+          if (vc.confluence_note) lines.push("  Confluence Note: " + vc.confluence_note);
+          if (vc.outlook) lines.push("  Desk Outlook: " + vc.outlook);
+          if (vc.trade_idea) lines.push("  Tactical Trade Setup: " + vc.trade_idea);
+          if (vc.catalyst_watch) lines.push("  Catalyst Watch: " + vc.catalyst_watch);
+          if (vc.risk_note) lines.push("  Tail Risk Trigger: " + vc.risk_note);
+        }
       }
 
       var promptText = "You are a Senior Institutional ETF Derivatives Strategist and Quant Risk Engineer specializing in Breakwave & Amplify Shipping ETFs (BDRY and BWET).\n" +
