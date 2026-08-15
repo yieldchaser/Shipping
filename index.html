@@ -8793,7 +8793,6 @@
           <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
           <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
             <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
-            <option value="gemini">Gemini (Google AI)</option>
             <option value="openrouter">OpenRouter (Multi-Model)</option>
           </select>
           <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -10180,7 +10179,6 @@
             <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onQAProviderChange()">
               <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
-              <option value="gemini">Gemini (Google AI)</option>
               <option value="openrouter">OpenRouter (Multi-Model)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -21577,22 +21575,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           'mixtral-8x7b-32768'
         ]
       },
-      gemini: {
-        label: 'Gemini (Google AI)',
-        keyStorage: 'qa_key_gemini',
-        modelStorage: 'qa_model_gemini',
-        defaultModel: 'gemini-2.0-flash',
-        keyLabel: 'Gemini Key',
-        keyPlaceholder: 'AIzaSy... (free at aistudio.google.com)',
-        hasBaseUrl: false,
-        maxContextTokens: 30000,
-        suggestions: [
-          'gemini-2.0-flash',
-          'gemini-1.5-flash',
-          'gemini-1.5-pro',
-          'gemini-2.0-flash-lite'
-        ]
-      },
       openrouter: {
         label: 'OpenRouter (Multi-Model)',
         keyStorage: 'qa_key_openrouter',
@@ -21604,10 +21586,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         maxContextTokens: 32000,
         suggestions: [
           'openrouter/free',
-          'google/gemini-2.0-flash-exp:free',
           'meta-llama/llama-3.3-70b-instruct:free',
           'deepseek/deepseek-r1:free',
-          'mistralai/mistral-small-24b-instruct-2501:free'
+          'mistralai/mistral-small-24b-instruct-2501:free',
+          'qwen/qwen-2.5-72b-instruct:free'
         ]
       }
     };
@@ -21619,8 +21601,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       
       if (provider === 'openrouter') {
         cfg.maxContextTokens = 32000;
-      } else if (provider === 'gemini') {
-        cfg.maxContextTokens = 30000;
       } else if (provider === 'groq') {
         cfg.maxContextTokens = 8000;
       }
@@ -22136,75 +22116,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
       }
 
-      // ── Gemini (Google AI with Search Grounding & Auto-Model Fallback) ──────
-      if (provider === 'gemini') {
-        const rawModel = (model || 'gemini-2.0-flash').trim().replace(/^models\//, '');
-        // Build model cascade: prioritized requested model, modern standard models
-        const candidateModels = Array.from(new Set([
-          rawModel,
-          'gemini-2.0-flash',
-          'gemini-1.5-flash',
-          'gemini-1.5-pro',
-          'gemini-2.0-flash-lite'
-        ])).filter(Boolean);
-
-        const bodyObj = {
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.2, maxOutputTokens: 8192 }
-        };
-        if (options && options.enableWebSearch) {
-          bodyObj.tools = [{ googleSearch: {} }];
-        }
-
-        let lastGeminiErr = null;
-        for (const m of candidateModels) {
-          try {
-            const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(m)}:generateContent?key=${encodeURIComponent(apiKey)}`;
-            const res = await fetch(url, {
-              method: 'POST',
-              headers: {
-                'Content-Type': 'application/json',
-                'x-goog-api-key': apiKey
-              },
-              body: JSON.stringify(bodyObj),
-              signal: fetchSignal
-            });
-
-            if (!res.ok) {
-              const err = await res.json().catch(() => ({}));
-              const msg = err?.error?.message || `Gemini HTTP ${res.status}`;
-              // If model is deprecated or not found, try next candidate model
-              if (/no longer available|not found|404|deprecated|is not supported/i.test(msg)) {
-                lastGeminiErr = new Error(`Gemini (${m}): ${msg}`);
-                continue;
-              }
-              throw new Error(msg);
-            }
-
-            const data = await res.json();
-            const candidate = data?.candidates?.[0];
-            const text = candidate?.content?.parts?.[0]?.text || '(no response)';
-            const webCitations = [];
-            if (candidate?.groundingMetadata?.groundingChunks) {
-              for (const gc of candidate.groundingMetadata.groundingChunks) {
-                if (gc.web && gc.web.uri) {
-                  webCitations.push({ title: gc.web.title || gc.web.uri, url: gc.web.uri });
-                }
-              }
-            }
-            if (onToken) onToken(text);
-            return { text, webCitations };
-          } catch (err) {
-            lastGeminiErr = err;
-            if (/no longer available|not found|404|deprecated|is not supported/i.test(err.message)) {
-              continue;
-            }
-            throw err;
-          }
-        }
-        throw lastGeminiErr || new Error('Gemini API call failed across all candidate models.');
-      }
-
       // ── OpenRouter ────────────────────────────────────────────────────────
       if (provider === 'openrouter') {
         // Free-tier OpenRouter models often return empty SSE streams.
@@ -22253,8 +22164,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _buildFallbackOrder(primary) {
-      // Direct browser-CORS supported providers: Groq, Gemini, and OpenRouter
-      const all = ['groq', 'gemini', 'openrouter'];
+      // Direct browser-CORS supported providers: Groq and OpenRouter
+      const all = ['groq', 'openrouter'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
@@ -22278,10 +22189,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
         localStorage.setItem('qa_model_openrouter', 'openrouter/free');
       }
-      // Reset any stale provider pointing at removed providers (ollama, nim)
+      // Reset any stale provider pointing at removed providers (gemini, ollama, nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
-      if (storedProvider === 'ollama' || storedProvider === 'nim') {
-        console.log('[QA] Resetting stale provider', storedProvider, '→ groq');
+      if (storedProvider === 'gemini' || storedProvider === 'ollama' || storedProvider === 'nim') {
+        console.log('[QA] Resetting decommissioned provider', storedProvider, '→ groq');
         localStorage.setItem('qa_provider', 'groq');
       }
     }
@@ -23542,17 +23453,69 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
+    function _autoSelectEtfSources(query) {
+      var q = (query || '').toLowerCase();
+      var active = new Set();
+      active.add('holdings'); // Always required
+
+      // SGX Forward Curves & Term Structure Spreads
+      if (/curve|curves|sgx|forward|strip|spread|contango|backwardation|term structure|settle|settlement|ffa|rates|surge|rally|drop|shock|basis|price|q26|u26|v26|x26|z26|c5tcm|p5tcm|s58fm|ws|5tc|contract|rise|rising|future/i.test(q)) {
+        active.add('curves');
+      }
+
+      // 5-Axiom Roll Schedules & Mechanics
+      if (/roll|rollover|5-axiom|axiom|decay|prompt|deferred|hold|holding|month|sequence|resolve|transition|fate|cash.settle|expir|ladder|carry|business day|drag|weight|invest|bet/i.test(q)) {
+        active.add('roll');
+      }
+
+      // CFTC & SEC Filings / Capital Structure / NAV & AUM
+      if (/cftc|sec|10-q|10-k|filing|statutory|ter|expense ratio|fee|custody|collateral|margin|yield|agpxx|creation|unit|authorized participant|shares out|aum|capital structure|nav|premium|discount/i.test(q)) {
+        active.add('filings');
+      }
+
+      // Deep Scenario Context & Custom Legs
+      if (/scenario|shock|pnl|sensitiv|delta|target|simulator|slider|roll.in|custom leg|hypothe|bet|thesis|uniform|profit|what if|leverage|notional/i.test(q)) {
+        active.add('deep');
+      }
+
+      // Macro Desk Briefing & Confluence
+      if (/brief|desk|macro|sentiment|verdict|confluence|catalyst|bias|risk|trade idea|outlook|analyst|news|relative value|china|opec/i.test(q)) {
+        active.add('brief');
+      }
+
+      return active;
+    }
+
     function buildEtfQAContext(query, fundKey) {
       var fKey = (fundKey || _etfQaFund || _deconstETFKey || 'bdry').toLowerCase();
       var targetDate = (document.getElementById('deconstTargetDate')?.value) || '2026-08-14';
       var pred = predictETFPortfolioHoldings(fKey, targetDate);
+      var autoSrc = _autoSelectEtfSources(query);
+
+      var isChecked = function(id) {
+        var el = document.getElementById(id);
+        return el ? el.checked : true;
+      };
+
+      // Source active if checkbox is checked OR auto-detected from query intent (auto-routing)
+      var useCurves = isChecked('etfQaSrcCurves') || autoSrc.has('curves');
+      var useRoll = isChecked('etfQaSrcRoll') || autoSrc.has('roll');
+      var useFilings = isChecked('etfQaSrcFilings') || autoSrc.has('filings');
+      var useDeep = isChecked('etfQaDeepContext') || autoSrc.has('deep');
+      var useBrief = autoSrc.has('brief') || useDeep;
+
+      var autoRouted = [];
+      if (!isChecked('etfQaSrcCurves') && autoSrc.has('curves')) autoRouted.push('SGX Forward Curves');
+      if (!isChecked('etfQaSrcRoll') && autoSrc.has('roll')) autoRouted.push('5-Axiom Roll Schedules');
+      if (!isChecked('etfQaSrcFilings') && autoSrc.has('filings')) autoRouted.push('CFTC & SEC Filings');
+      if (!isChecked('etfQaDeepContext') && autoSrc.has('deep')) autoRouted.push('Deep Scenario Context');
 
       var lines = [];
       lines.push("=== INSTITUTIONAL ETF PORTFOLIO KNOWLEDGE BASE (" + fKey.toUpperCase() + ") ===");
       lines.push("Fund Symbol: Amplify " + (fKey === 'bdry' ? 'Dry Bulk Shipping ETF (BDRY)' : 'Tanker Shipping ETF (BWET)'));
       lines.push("As-Of Date: " + (pred.snapshotDate || '2026-08-14') + " | Horizon Target Date: " + targetDate);
 
-      // 1. Live Constituent Holdings
+      // 1. Live Constituent Holdings (Always Grounded)
       lines.push("\n--- ACTIVE CONSTITUENT FUTURES POSITIONS (" + (pred.holdings ? pred.holdings.length : 0) + " Contracts) ---");
       if (pred.holdings && pred.holdings.length) {
         pred.holdings.forEach(function(h, idx) {
@@ -23569,8 +23532,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       // 2. Term Structure and Implied Roll Spreads from DATA.sgx
-      lines.push("\n--- LIVE FORWARD CURVES & TERM STRUCTURE SPREADS ---");
-      if (typeof DATA !== 'undefined' && DATA.sgx) {
+      if (useCurves && typeof DATA !== 'undefined' && DATA.sgx) {
+        lines.push("\n--- LIVE FORWARD CURVES & TERM STRUCTURE SPREADS ---");
         ['cape', 'panamax', 'supramax', 'handysize'].forEach(function(cls) {
           var rows = DATA.sgx[cls] || [];
           if (rows.length) {
@@ -23582,38 +23545,44 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       // 3. 5-Axiom Calendar Roll State
-      lines.push("\n--- 5-AXIOM CALENDAR ROLL SCHEDULE & CARRY METRICS ---");
-      var d = new Date();
-      var bdaysTotal = 20;
-      var bdayCur = Math.min(20, Math.max(1, Math.floor(d.getDate() * (20/30))));
-      var rollPct = pred.rollProgressPct != null ? pred.rollProgressPct : (bdayCur / bdaysTotal * 100);
-      lines.push("  Calendar Roll Progress: " + rollPct.toFixed(1) + "% (" + bdayCur + " of " + bdaysTotal + " roll days elapsed)");
-      lines.push("  Prompt Lot Decay Rule: Lots transfer linearly from front month to next-quarter strip across first 15 business days.");
-      lines.push("  Benchmark Allocation: " + (fKey === 'bdry' ? "50% Capesize (5TC), 40% Panamax (5TC), 10% Supramax (58TC)" : "90% VLCC (TD3C MEG-China), 10% Suezmax (TD20 WAF-UKC)"));
-      lines.push("  Statutory Fees & Cash: Total Expense Ratio (TER) = 3.50% | Cash Collateral Yield = 4.85% (BlackRock AGPXX) | Initial Margin = 15% (CME/SGX)");
+      if (useRoll) {
+        lines.push("\n--- 5-AXIOM CALENDAR ROLL SCHEDULE & CARRY METRICS ---");
+        var d = new Date();
+        var bdaysTotal = 20;
+        var bdayCur = Math.min(20, Math.max(1, Math.floor(d.getDate() * (20/30))));
+        var rollPct = pred.rollProgressPct != null ? pred.rollProgressPct : (bdayCur / bdaysTotal * 100);
+        lines.push("  Calendar Roll Progress: " + rollPct.toFixed(1) + "% (" + bdayCur + " of " + bdaysTotal + " roll days elapsed)");
+        lines.push("  Prompt Lot Decay Rule: Lots transfer linearly from front month to next-quarter strip across first 15 business days.");
+        lines.push("  Benchmark Allocation: " + (fKey === 'bdry' ? "50% Capesize (5TC), 40% Panamax (5TC), 10% Supramax (58TC)" : "90% VLCC (TD3C MEG-China), 10% Suezmax (TD20 WAF-UKC)"));
+        lines.push("  Statutory Fees & Cash: Total Expense Ratio (TER) = 3.50% | Cash Collateral Yield = 4.85% (BlackRock AGPXX) | Initial Margin = 15% (CME/SGX)");
+      }
 
       // 4. Reverse-Engineered Baseline Capital Structure
-      lines.push("\n--- FUND CAPITAL STRUCTURE & AP CREATION BASKETS ---");
-      var snapBase = (pred.snapshot && pred.snapshot.baseline) ? pred.snapshot.baseline : {};
-      var totNav = snapBase.total_nav_dollars || (fKey === 'bdry' ? 30943541.77 : 80677134.78);
-      var shares = snapBase.shares_outstanding || (fKey === 'bdry' ? 2200000 : 225000);
-      var navSh = snapBase.nav_per_share || (fKey === 'bdry' ? 14.07 : 358.43);
-      var mktPx = snapBase.market_price || (fKey === 'bdry' ? 14.29 : 374.55);
-      var premDisc = ((mktPx - navSh) / navSh) * 100;
-      lines.push("  Total Net Assets (AUM): $" + (totNav/1e6).toFixed(2) + "M");
-      lines.push("  Shares Outstanding: " + Number(shares).toLocaleString() + " shares (" + (shares/1e6).toFixed(2) + "M shares / " + (shares/25000) + " Creation Units of 25,000)");
-      lines.push("  NAV / Share: $" + navSh.toFixed(2) + " | Secondary Market Close: $" + mktPx.toFixed(2) + " | Baseline Prem/Disc: " + (premDisc >= 0 ? '+' : '') + premDisc.toFixed(2) + "%");
+      if (useFilings) {
+        lines.push("\n--- FUND CAPITAL STRUCTURE & AP CREATION BASKETS ---");
+        var snapBase = (pred.snapshot && pred.snapshot.baseline) ? pred.snapshot.baseline : {};
+        var totNav = snapBase.total_nav_dollars || (fKey === 'bdry' ? 30943541.77 : 80677134.78);
+        var shares = snapBase.shares_outstanding || (fKey === 'bdry' ? 2200000 : 225000);
+        var navSh = snapBase.nav_per_share || (fKey === 'bdry' ? 14.07 : 358.43);
+        var mktPx = snapBase.market_price || (fKey === 'bdry' ? 14.29 : 374.55);
+        var premDisc = ((mktPx - navSh) / navSh) * 100;
+        lines.push("  Total Net Assets (AUM): $" + (totNav/1e6).toFixed(2) + "M");
+        lines.push("  Shares Outstanding: " + Number(shares).toLocaleString() + " shares (" + (shares/1e6).toFixed(2) + "M shares / " + (shares/25000) + " Creation Units of 25,000)");
+        lines.push("  NAV / Share: $" + navSh.toFixed(2) + " | Secondary Market Close: $" + mktPx.toFixed(2) + " | Baseline Prem/Disc: " + (premDisc >= 0 ? '+' : '') + premDisc.toFixed(2) + "%");
+      }
 
       // 5. Active Browser UI State
-      lines.push("\n--- CURRENT INTERACTIVE SCENARIO & SIMULATOR UI STATE ---");
-      lines.push("  Active Macro Slider Shocks: Cape=" + (_deconstShocks.cape||0) + "%, Pana=" + (_deconstShocks.pana||0) + "%, Supra=" + (_deconstShocks.supra||0) + "%, VLCC=" + (_deconstShocks.vlcc||0) + "%, Suez=" + (_deconstShocks.suez||0) + "%");
-      lines.push("  Scenario Book Mode: " + _deconstScenarioMode + " | Pricing Regime: " + _deconstPricingMode);
-      if (_deconstRollInLegs && _deconstRollInLegs.length) {
-        lines.push("  Custom User Roll-In Legs Specified: " + _deconstRollInLegs.map(function(l) { return l.name + " (" + l.lots + " lots, target $" + l.targetPrice + ")"; }).join('; '));
+      if (useDeep) {
+        lines.push("\n--- CURRENT INTERACTIVE SCENARIO & SIMULATOR UI STATE ---");
+        lines.push("  Active Macro Slider Shocks: Cape=" + (_deconstShocks.cape||0) + "%, Pana=" + (_deconstShocks.pana||0) + "%, Supra=" + (_deconstShocks.supra||0) + "%, VLCC=" + (_deconstShocks.vlcc||0) + "%, Suez=" + (_deconstShocks.suez||0) + "%");
+        lines.push("  Scenario Book Mode: " + _deconstScenarioMode + " | Pricing Regime: " + _deconstPricingMode);
+        if (_deconstRollInLegs && _deconstRollInLegs.length) {
+          lines.push("  Custom User Roll-In Legs Specified: " + _deconstRollInLegs.map(function(l) { return l.name + " (" + l.lots + " lots, target $" + l.targetPrice + ")"; }).join('; '));
+        }
       }
 
       // 6. Latest Desk Brief & Multi-Factor Confluence Grounding
-      if (typeof INTEL !== 'undefined' && INTEL.briefData) {
+      if (useBrief && typeof INTEL !== 'undefined' && INTEL.briefData) {
         var bData = INTEL.briefData;
         lines.push("\n--- LATEST DAILY FREIGHT & MACRO DESK BRIEFING ---");
         if (bData.brief_date) lines.push("  Briefing Date: " + bData.brief_date);
@@ -23654,7 +23623,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         "User Question: " + query + "\n\n" +
         "Quantitative Context:\n" + lines.join('\n');
 
-      return { lines: lines, promptText: promptText, fundKey: fKey };
+      return {
+        lines: lines,
+        promptText: promptText,
+        fundKey: fKey,
+        useCurves: useCurves,
+        useRoll: useRoll,
+        useFilings: useFilings,
+        useDeep: useDeep,
+        useBrief: useBrief,
+        autoRouted: autoRouted
+      };
     }
 
     function _formatEtfQAAnswer(text) {
@@ -23778,7 +23757,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var webSearch = !!document.getElementById('etfQaSrcWebSearch')?.checked;
         var fallbackOrder = _buildFallbackOrder(provider);
 
-        var { promptText, fundKey } = buildEtfQAContext(query, _etfQaFund);
+        var ctxObj = buildEtfQAContext(query, _etfQaFund);
+        var promptText = ctxObj.promptText;
+        var fundKey = ctxObj.fundKey;
 
         var answer = null;
         var usedProvider = provider;
@@ -23794,7 +23775,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           if (!pModel) continue;
 
           try {
-            if (statEl) statEl.textContent = 'Asking ' + pCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio Grounded)' + (webSearch && p === 'gemini' ? ' + Live Web Search' : '') + '...';
+            if (statEl) statEl.textContent = 'Asking ' + pCfg.label + ' (' + fundKey.toUpperCase() + ' Portfolio Grounded)...';
             var resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               function(partial) { if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(partial); },
@@ -23823,7 +23804,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           var fallbackMsg = (usedProvider !== provider && primaryError)
             ? ' <span style="color:var(--yellow);font-size:10.5px;margin-left:6px;" title="' + _escapeHtml(primaryError.message) + '">[!] (' + _providerConfig(provider).label + ' error: ' + _escapeHtml(primaryError.message.slice(0, 60)) + ' → routed to ' + usedCfg.label + ')</span>'
             : '';
-          statEl.innerHTML = '<span style="color:var(--green);font-weight:700;">[OK] ' + usedCfg.label + '</span> (' + fundKey.toUpperCase() + ' Portfolio & Curves Grounded)' +
+          var autoRouteMsg = ctxObj.autoRouted.length > 0
+            ? ' <span style="color:#79c0ff;font-size:10.5px;margin-left:4px;" title="Context auto-routed based on question intent">· Auto-routed: ' + ctxObj.autoRouted.join(', ') + '</span>'
+            : '';
+          statEl.innerHTML = '<span style="color:var(--green);font-weight:700;">[OK] ' + usedCfg.label + '</span> (' + fundKey.toUpperCase() + ' Portfolio Grounded)' +
+            autoRouteMsg +
             (finalWebCitations.length > 0 ? ' · ' + finalWebCitations.length + ' web sources' : '') +
             fallbackMsg;
         }
@@ -23831,9 +23816,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         var citHtml = [];
         citHtml.push('<span class="qa-cit" title="Official ETF Daily Holdings"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>' + fundKey.toUpperCase() + ' Disclosed Holdings</span>');
-        citHtml.push('<span class="qa-cit" title="Singapore Exchange Settlement Feed"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>SGX Forward Curves</span>');
-        citHtml.push('<span class="qa-cit" title="Solactive / Breakwave Index Rules"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>5-Axiom Roll Schedules</span>');
-        citHtml.push('<span class="qa-cit" title="CFTC Rule 4.22(h) / Form 10-Q"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>CFTC &amp; SEC Filings</span>');
+        if (ctxObj.useCurves) {
+          var autoTag = ctxObj.autoRouted.includes('SGX Forward Curves') ? ' (Auto-Routed)' : '';
+          citHtml.push('<span class="qa-cit" title="Singapore Exchange Settlement Feed"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>SGX Forward Curves' + autoTag + '</span>');
+        }
+        if (ctxObj.useRoll) {
+          var autoTag = ctxObj.autoRouted.includes('5-Axiom Roll Schedules') ? ' (Auto-Routed)' : '';
+          citHtml.push('<span class="qa-cit" title="Solactive / Breakwave Index Rules"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>5-Axiom Roll Schedules' + autoTag + '</span>');
+        }
+        if (ctxObj.useFilings) {
+          var autoTag = ctxObj.autoRouted.includes('CFTC & SEC Filings') ? ' (Auto-Routed)' : '';
+          citHtml.push('<span class="qa-cit" title="CFTC Rule 4.22(h) / Form 10-Q"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>CFTC &amp; SEC Filings' + autoTag + '</span>');
+        }
+        if (ctxObj.useDeep) {
+          var autoTag = ctxObj.autoRouted.includes('Deep Scenario Context') ? ' (Auto-Routed)' : '';
+          citHtml.push('<span class="qa-cit" title="Active Interactive Slider Context & Custom Legs"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Deep Scenario Context' + autoTag + '</span>');
+        }
         (finalWebCitations || []).forEach(function(w) {
           citHtml.push('<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:3px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>');
         });
