@@ -17156,36 +17156,36 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       if (route === 'vlcc') {
         datasets = [
-          { label: 'VLCC TD3C Standard ($/day)', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
-          { label: 'VLCC TD3C ECO ($/day)', data: rows.map(function(r) { return r.vlcc_eco_td3c; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2 }
+          { label: 'VLCC TD3C Standard ($/day)', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3, spanGaps: true },
+          { label: 'VLCC TD3C ECO ($/day)', data: rows.map(function(r) { return r.vlcc_eco_td3c; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2, spanGaps: true }
         ];
       } else if (route === 'suez') {
         datasets = [
-          { label: 'Suezmax TD20 WAFR/UKC ($/day)', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 }
+          { label: 'Suezmax TD20 WAFR/UKC ($/day)', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3, spanGaps: true }
         ];
       } else if (route === 'afra') {
         datasets = [
-          { label: 'Aframax TD25 USG/UKC ($/day)', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 }
+          { label: 'Aframax TD25 USG/UKC ($/day)', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3, spanGaps: true }
         ];
       } else if (route === 'lr1') {
         datasets = [
-          { label: 'Clean LR1 TC5 Standard ($/day)', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
-          { label: 'Clean LR1 TC5 ECO ($/day)', data: rows.map(function(r) { return r.lr1_eco_tc5; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2 }
+          { label: 'Clean LR1 TC5 Standard ($/day)', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3, spanGaps: true },
+          { label: 'Clean LR1 TC5 ECO ($/day)', data: rows.map(function(r) { return r.lr1_eco_tc5; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], tension: 0.15, pointRadius: 2, spanGaps: true }
         ];
       } else if (route === 'mr') {
         datasets = [
-          { label: 'MR Triangulation (TC2+TC14)', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3 },
-          { label: 'MR TC2 UKC/USAC', data: rows.map(function(r) { return r.mr_tc2; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 },
-          { label: 'MR TC14 USG/UKC', data: rows.map(function(r) { return r.mr_tc14; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 },
-          { label: 'MR TC6 Med', data: rows.map(function(r) { return r.mr_tc6; }), borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2 }
+          { label: 'MR Triangulation (TC2+TC14)', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2.5, tension: 0.15, pointRadius: 3, spanGaps: true },
+          { label: 'MR TC2 UKC/USAC', data: rows.map(function(r) { return r.mr_tc2; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'MR TC14 USG/UKC', data: rows.map(function(r) { return r.mr_tc14; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'MR TC6 Med', data: rows.map(function(r) { return r.mr_tc6; }), borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.15, pointRadius: 2, spanGaps: true }
         ];
       } else {
         datasets = [
-          { label: 'VLCC TD3C Standard', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
-          { label: 'Suezmax TD20', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
-          { label: 'Aframax TD25', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
-          { label: 'Clean LR1 TC5', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 },
-          { label: 'MR Triangulation', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2 }
+          { label: 'VLCC TD3C Standard', data: rows.map(function(r) { return r.vlcc_td3c; }), borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'Suezmax TD20', data: rows.map(function(r) { return r.suezmax_td20; }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'Aframax TD25', data: rows.map(function(r) { return r.aframax_td25; }), borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'Clean LR1 TC5', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true },
+          { label: 'MR Triangulation', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true }
         ];
       }
 
@@ -24742,6 +24742,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-row"><span class="rt-label">Spot/TC Z-Score</span><span class="rt-val ${z >= 0 ? 'pos' : 'neg'}">${z >= 0 ? '+' : ''}${z.toFixed(2)}σ</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Interpretation</span><span class="rt-val">${desc}</span></div>`;
           html += `<div class="rt-note">Calculated weekly. X-axis shows the 60-day momentum of the Spot rate. Y-axis shows the normalized Z-score of the Spot-to-1Y-TC ratio.</div>`;
+        }
+        else if (type === 'concept-forwardcurves') {
+          html = `<div class="rt-title">Tanker FFA Forward Term Structures</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Forward Freight Agreements (FFAs)</strong>: Derivative contracts settled against physical tanker TCE benchmarks (VLCC TD3C, Suezmax TD20, Aframax TD25, LR1 TC5, MR TC2/TC14/TC6).</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Eco Fuel-Efficiency Premium</strong>: Compares modern Eco/Scrubber-fitted tonnage against conventional baseline ships across the 22-month forward horizon.</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select individual routes above to inspect forward monthly contract curves.</div>`;
+        }
+        else if (type === 'concept-vesselval') {
+          html = `<div class="rt-title">Vessel Valuations & Capital Yield</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Asset Valuations vs Yields</strong>: Tracks secondhand vessel values ($M), newbuilding prices, and implied time charter yield (1Y TC / Secondhand Value).</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: High charter yields with asset prices near the demolition scrap floor indicate asymmetric risk/reward.</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Toggle between Secondhand Values, Newbuilding Prices, Demolition Scrap, and Implied Yield.</div>`;
         }
         else if (type === 'concept-timecharter') {
           const spotVal = parseFloat(target.getAttribute('data-tt-spot'));

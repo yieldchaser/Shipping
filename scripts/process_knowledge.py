@@ -3350,6 +3350,13 @@ def build_derived(llm_enabled: bool = False):
         for row in all_rows:
             writer.writerow(row)
 
+    # Seamlessly merge deep archives (2008-2026) and forward curves
+    try:
+        import integrate_alibra_feed
+        integrate_alibra_feed.main()
+    except Exception as _e:
+        print(f"[WARN] integrate_alibra_feed skipped: {_e}")
+
     # 2. Compile Iron Ore Restocking (Daily/Weekly)
     iron_ore_records = {}
     for r in signal_rows:
