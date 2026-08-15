@@ -8230,9 +8230,17 @@
             <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;" data-tooltip="<div class='rt-title'>Export Reconciliation CSV</div><div class='rt-note'>Downloads complete line-by-line portfolio data, target marks, gross variation margin P&L, and NAV contributions in standard CSV format.</div>">
               <span>⬇</span> Export CSV
             </button>
+
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="deconstCollapseBtn" onclick="toggleDeconstCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Scenario Translator expansion">
+              <svg id="deconstCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="deconstCollapseText">Expand</span>
+            </button>
           </div>
         </div>
 
+        <!-- Collapsible Content Wrapper (Collapsed by default) -->
+        <div id="deconstCardContent" style="display:none; transition:all 0.2s ease;">
         <!-- Provenance & Baseline Sourcing Info Banner -->
         <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;" data-tooltip="<div class='rt-title'>Data Provenance &amp; Clearing Rulebooks</div><div class='rt-row'><span class='rt-label'>Clearing Exchanges</span><span class='rt-val'>NYMEX (CME Group) &amp; SGX Derivatives</span></div><div class='rt-row'><span class='rt-label'>Audit Hash</span><span class='rt-val'>SHA-256 Verified at generation</span></div><div class='rt-note'>Every position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>">
           <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;">
@@ -8723,6 +8731,7 @@
             </div>
           </div>
         </div>
+        </div> <!-- /#deconstCardContent -->
       </div>
 
       <!-- ===================================================================== -->
@@ -8750,12 +8759,22 @@
             </div>
           </div>
 
-          <!-- Switcher to match active tab -->
-          <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-            <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
-            <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
+          <!-- Switcher to match active tab & Expand/Collapse -->
+          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
+              <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
+            </div>
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="etfQaCollapseBtn" onclick="toggleEtfQaCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Copilot expansion">
+              <svg id="etfQaCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="etfQaCollapseText">Expand</span>
+            </button>
           </div>
         </div>
+
+        <!-- Collapsible Content Wrapper (Collapsed by default) -->
+        <div id="etfQaCardContent" style="display:none; transition:all 0.2s ease;">
 
         <!-- Provider and API Key Row -->
         <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
@@ -8862,6 +8881,7 @@
           <div id="etfQaAnswer" class="qa-answer"></div>
           <div id="etfQaCitations" class="qa-cit-list"></div>
         </div>
+        </div> <!-- /#etfQaCardContent -->
 
       </div>
 
@@ -8901,14 +8921,14 @@
 
             <!-- Collapse / Expand Toggle Button -->
             <button id="etfBriefCollapseBtn" onclick="toggleEtfDailyBriefCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle brief expansion">
-              <svg id="etfBriefCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
-              <span id="etfBriefCollapseText">Collapse</span>
+              <svg id="etfBriefCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="etfBriefCollapseText">Expand</span>
             </button>
           </div>
         </div>
 
-        <!-- Dynamic Brief Content Container -->
-        <div id="etfDailyBriefContent" style="transition:all 0.2s ease;">
+        <!-- Dynamic Brief Content Container (Collapsed by default) -->
+        <div id="etfDailyBriefContent" style="display:none; transition:all 0.2s ease;">
           <div style="text-align:center;padding:24px;color:var(--text-muted);">
             <div class="spinner" style="margin:0 auto 8px;"></div>
             Loading latest institutional freight intelligence...
@@ -8942,14 +8962,22 @@
             </div>
           </div>
 
-          <div class="sim-header-right">
+          <div class="sim-header-right" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- ETF Selector Toggle -->
             <div class="sim-etf-toggle">
               <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>Capesize 5TC • Panamax 5TC • Supramax 10TC</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Solactive Dry Bulk Shipping Index</span></div><div class='rt-note'>Switches simulator to replay BDRY dry bulk futures holdings and lot migration.</div>">BDRY (Dry Bulk)</button>
               <button id="simEtfBwet" class="sim-toggle-btn" onclick="SIM_CONTROLLER.switchETF('bwet')" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>VLCC TD3C (MEG-China) • Suezmax TD20 (WAF-Cont)</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Breakwave Tanker Futures Index</span></div><div class='rt-note'>Switches simulator to replay BWET crude tanker futures holdings and lot migration.</div>">BWET (Tankers)</button>
             </div>
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="simCollapseBtn" onclick="toggleSimCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Simulator expansion">
+              <svg id="simCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="simCollapseText">Expand</span>
+            </button>
           </div>
         </div>
+
+        <!-- Collapsible Content Wrapper (Collapsed by default) -->
+        <div id="simCardContent" style="display:none; transition:all 0.2s ease;">
 
         <!-- Preset Macro Scenario & Replay Trigger Chips -->
         <div class="sim-scenario-bar">
@@ -9175,6 +9203,7 @@
           </div>
 
         </div>
+        </div> <!-- /#simCardContent -->
       </div>
 
       <div class="chart-container mb-20" id="liqTrackerSection" style="margin-top:24px;">
@@ -23023,25 +23052,82 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     // =====================================================================
-    //  INSTITUTIONAL ETF DAILY MARKET BRIEF CONTROLLER
+    //  ETF TAB 4-SECTION COLLAPSIBLE SYSTEM (COLLAPSED BY DEFAULT)
     // =====================================================================
-    var _etfBriefFocus = 'all';
-    var _etfBriefCollapsed = false;
+    var _deconstCardCollapsed = true;
+    var _etfQaCardCollapsed = true;
+    var _etfBriefCollapsed = true;
+    var _simCardCollapsed = true;
 
-    function toggleEtfDailyBriefCollapse() {
-      _etfBriefCollapsed = !_etfBriefCollapsed;
+    function toggleDeconstCardCollapse(forceState) {
+      if (forceState !== undefined) _deconstCardCollapsed = forceState;
+      else _deconstCardCollapsed = !_deconstCardCollapsed;
+      var el = document.getElementById('deconstCardContent');
+      var icon = document.getElementById('deconstCollapseIcon');
+      var txt = document.getElementById('deconstCollapseText');
+      if (el) el.style.display = _deconstCardCollapsed ? 'none' : 'block';
+      if (icon) {
+        var pl = icon.querySelector('polyline');
+        if (pl) pl.setAttribute('points', _deconstCardCollapsed ? '6 9 12 15 18 9' : '18 15 12 9 6 15');
+      }
+      if (txt) txt.textContent = _deconstCardCollapsed ? 'Expand' : 'Collapse';
+      if (!_deconstCardCollapsed && typeof renderETFDeconstructionEngine === 'function') {
+        renderETFDeconstructionEngine();
+      }
+    }
+
+    function toggleEtfQaCardCollapse(forceState) {
+      if (forceState !== undefined) _etfQaCardCollapsed = forceState;
+      else _etfQaCardCollapsed = !_etfQaCardCollapsed;
+      var el = document.getElementById('etfQaCardContent');
+      var icon = document.getElementById('etfQaCollapseIcon');
+      var txt = document.getElementById('etfQaCollapseText');
+      if (el) el.style.display = _etfQaCardCollapsed ? 'none' : 'block';
+      if (icon) {
+        var pl = icon.querySelector('polyline');
+        if (pl) pl.setAttribute('points', _etfQaCardCollapsed ? '6 9 12 15 18 9' : '18 15 12 9 6 15');
+      }
+      if (txt) txt.textContent = _etfQaCardCollapsed ? 'Expand' : 'Collapse';
+    }
+
+    function toggleEtfDailyBriefCollapse(forceState) {
+      if (forceState !== undefined) _etfBriefCollapsed = forceState;
+      else _etfBriefCollapsed = !_etfBriefCollapsed;
       var el = document.getElementById('etfDailyBriefContent');
       var icon = document.getElementById('etfBriefCollapseIcon');
       var txt = document.getElementById('etfBriefCollapseText');
-      if (el) {
-        el.style.display = _etfBriefCollapsed ? 'none' : 'block';
-      }
+      if (el) el.style.display = _etfBriefCollapsed ? 'none' : 'block';
       if (icon) {
         var pl = icon.querySelector('polyline');
         if (pl) pl.setAttribute('points', _etfBriefCollapsed ? '6 9 12 15 18 9' : '18 15 12 9 6 15');
       }
       if (txt) txt.textContent = _etfBriefCollapsed ? 'Expand' : 'Collapse';
+      if (!_etfBriefCollapsed && typeof renderEtfDailyBrief === 'function') {
+        renderEtfDailyBrief();
+      }
     }
+
+    function toggleSimCardCollapse(forceState) {
+      if (forceState !== undefined) _simCardCollapsed = forceState;
+      else _simCardCollapsed = !_simCardCollapsed;
+      var el = document.getElementById('simCardContent');
+      var icon = document.getElementById('simCollapseIcon');
+      var txt = document.getElementById('simCollapseText');
+      if (el) el.style.display = _simCardCollapsed ? 'none' : 'block';
+      if (icon) {
+        var pl = icon.querySelector('polyline');
+        if (pl) pl.setAttribute('points', _simCardCollapsed ? '6 9 12 15 18 9' : '18 15 12 9 6 15');
+      }
+      if (txt) txt.textContent = _simCardCollapsed ? 'Expand' : 'Collapse';
+      if (!_simCardCollapsed && window.SIM_CONTROLLER && typeof window.SIM_CONTROLLER.render === 'function') {
+        window.SIM_CONTROLLER.render();
+      }
+    }
+
+    // =====================================================================
+    //  INSTITUTIONAL ETF DAILY MARKET BRIEF CONTROLLER
+    // =====================================================================
+    var _etfBriefFocus = 'all';
 
     function setEtfBriefFocus(focus) {
       _etfBriefFocus = focus || 'all';
@@ -23243,9 +23329,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           _deconstShocks.suez = 0;
         }
       }
+      if (_deconstCardCollapsed) toggleDeconstCardCollapse(false);
       if (typeof syncDeconstSlidersToState === 'function') syncDeconstSlidersToState();
       if (typeof renderETFDeconstructionEngine === 'function') renderETFDeconstructionEngine();
-      var deconstEl = document.getElementById('etfDeconstructionCard');
+      var deconstEl = document.getElementById('etfDeconstructCard');
       if (deconstEl) deconstEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
@@ -23253,6 +23340,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var queryEl = document.getElementById('etfQaQuery');
       if (queryEl) {
         queryEl.value = promptText;
+        if (_etfQaCardCollapsed) toggleEtfQaCardCollapse(false);
         var qaCard = document.getElementById('etfQaCard');
         if (qaCard) qaCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
         if (typeof runEtfQAQuery === 'function') runEtfQAQuery();
@@ -23516,6 +23604,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var sVlcc = document.getElementById('deconstShockVlcc'); if (sVlcc && scenarioObj.vlcc != null) sVlcc.value = scenarioObj.vlcc;
       var sSuez = document.getElementById('deconstShockSuez'); if (sSuez && scenarioObj.suez != null) sSuez.value = scenarioObj.suez;
 
+      if (_deconstCardCollapsed) toggleDeconstCardCollapse(false);
       renderETFDeconstructionEngine();
       var card = document.getElementById('etfDeconstructCard');
       if (card) card.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -23528,6 +23617,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (step.date === dateStr || step.dateStr === dateStr) targetIdx = idx;
       });
       if (targetIdx >= 0) {
+        if (_simCardCollapsed) toggleSimCardCollapse(false);
         SIM_CONTROLLER.onScrubberInput(targetIdx);
         var simCard = document.getElementById('etfDaySimulatorCard');
         if (simCard) simCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -23548,6 +23638,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var model  = (document.getElementById('etfQaModel')?.value || _loadProviderModel(provider) || cfg.defaultModel).trim();
 
       if (!query) return;
+      if (_etfQaCardCollapsed) toggleEtfQaCardCollapse(false);
       if (!apiKey && !cfg.keyOptional) { alert('Enter your ' + cfg.label + ' API key first.'); return; }
       if (!model) { alert('Enter a ' + cfg.label + ' model first.'); return; }
 
@@ -23650,6 +23741,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     window.etfSq = etfSq;
     window.runEtfQAQuery = runEtfQAQuery;
     window.initEtfQAController = initEtfQAController;
+    window.toggleDeconstCardCollapse = toggleDeconstCardCollapse;
+    window.toggleEtfQaCardCollapse = toggleEtfQaCardCollapse;
+    window.toggleEtfDailyBriefCollapse = toggleEtfDailyBriefCollapse;
+    window.toggleSimCardCollapse = toggleSimCardCollapse;
 
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', initEtfQAController);
