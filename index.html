@@ -21579,17 +21579,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         label: 'OpenRouter (Multi-Model)',
         keyStorage: 'qa_key_openrouter',
         modelStorage: 'qa_model_openrouter',
-        defaultModel: 'meta-llama/llama-3.3-70b-instruct:free',
+        defaultModel: 'openrouter/free',
         keyLabel: 'OpenRouter Key',
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
         maxContextTokens: 32000,
         suggestions: [
+          'openrouter/free',
           'meta-llama/llama-3.3-70b-instruct:free',
           'deepseek/deepseek-r1:free',
           'mistralai/mistral-small-24b-instruct-2501:free',
-          'qwen/qwen-2.5-72b-instruct:free',
-          'openrouter/free'
+          'qwen/qwen-2.5-72b-instruct:free'
         ]
       }
     };
@@ -22192,12 +22192,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _migrateOpenRouterModel() {
-      // OpenRouter: if currently set to 'openrouter/free', migrate to 'meta-llama/llama-3.3-70b-instruct:free' for superior reliability
-      const orStored = localStorage.getItem('qa_model_openrouter') || '';
-      if (!orStored || orStored === 'openrouter/free') {
-        console.log('[QA] Migrating OpenRouter model', orStored, '→ meta-llama/llama-3.3-70b-instruct:free');
-        localStorage.setItem('qa_model_openrouter', 'meta-llama/llama-3.3-70b-instruct:free');
-      }
       // Reset any stale provider pointing at removed providers (gemini, ollama, nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
       if (storedProvider === 'gemini' || storedProvider === 'ollama' || storedProvider === 'nim') {
@@ -22412,6 +22406,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // 0. Parse & collapse reasoning traces (<think>...</think> or "Here's a thinking process:")
       let rawText = String(text);
       rawText = rawText.replace(/<think>([\s\S]*?)<\/think>/gi, function(match, thought) {
+        return '\n\n<details class="qa-think-block" style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;margin-bottom:14px;"><summary style="cursor:pointer;color:var(--text-muted);font-size:11.5px;font-weight:600;display:inline-flex;align-items:center;gap:5px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>Model Reasoning Trace (Click to Expand)</summary><div class="qa-think-body" style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.06);color:var(--text-muted);font-size:12px;line-height:1.5;">' + _escapeHtml(thought.trim()).replace(/\n/g, '<br>') + '</div></details>\n\n';
+      });
+
+      // 0a. Also parse plain-text reasoning blocks like "Here's a thinking process: ... [Final Output / Section 1 / ### / etc.]"
+      rawText = rawText.replace(/(?:^|\n\n)((?:Here's a thinking process|Thinking Process|Here is the thinking process|Here is a thinking process|Okay, here's a thinking process)[\s\S]*?)(?=(?:\n\n(?:[#0-9]+\.|\#{1,4}\s+|EXECUTIVE SUMMARY|1\.\s+EXECUTIVE|===|---)|\n\n\*\*1\.|\n\n\*\*Executive|$))/i, function(match, thought) {
         return '\n\n<details class="qa-think-block" style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;margin-bottom:14px;"><summary style="cursor:pointer;color:var(--text-muted);font-size:11.5px;font-weight:600;display:inline-flex;align-items:center;gap:5px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>Model Reasoning Trace (Click to Expand)</summary><div class="qa-think-body" style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.06);color:var(--text-muted);font-size:12px;line-height:1.5;">' + _escapeHtml(thought.trim()).replace(/\n/g, '<br>') + '</div></details>\n\n';
       });
 
@@ -23541,16 +23540,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       // 2. Term Structure and Implied Roll Spreads from DATA.sgx
-      if (useCurves && typeof DATA !== 'undefined' && DATA.sgx) {
+      if (useCurves) {
         lines.push("\n--- LIVE FORWARD CURVES & TERM STRUCTURE SPREADS ---");
-        ['cape', 'panamax', 'supramax', 'handysize'].forEach(function(cls) {
-          var rows = DATA.sgx[cls] || [];
-          if (rows.length) {
-            var lastFew = rows.slice(-6);
-            var pts = lastFew.map(function(r) { return (r.tenor || r.month || r.contract) + ": $" + Number(r.settle || r.price || 0).toLocaleString(); }).join(' | ');
-            lines.push("  " + cls.toUpperCase() + " 5TC FORWARD STRIP: " + pts);
+        try {
+          var ffaProc = typeof getFFAProcessed === 'function' ? getFFAProcessed() : null;
+          if (ffaProc) {
+            ['cape', 'panamax', 'supramax', 'handysize'].forEach(function(cls) {
+              var contracts = ffaProc[cls] || [];
+              if (contracts.length) {
+                var pts = contracts.slice(0, 7).map(function(c) {
+                  var lastPx = (c.history && c.history.length) ? c.history[c.history.length - 1].price : (c.price || 0);
+                  return (c.name || c.contract) + ": $" + Number(lastPx).toLocaleString() + "/day";
+                }).join(' | ');
+                lines.push("  " + cls.toUpperCase() + " FORWARD CURVE: " + pts);
+              }
+            });
           }
-        });
+        } catch(e) {}
       }
 
       // 3. 5-Axiom Calendar Roll State
