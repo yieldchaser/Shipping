@@ -3206,11 +3206,9 @@
   .sim-scenario-bar {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
     gap: 8px;
-    overflow-x: auto;
-    padding-bottom: 6px;
     margin-bottom: 16px;
-    scrollbar-width: none;
   }
   .sim-scenario-bar::-webkit-scrollbar { display: none; }
   .sim-scenario-label {
@@ -7215,6 +7213,11 @@
           this.contractEvents = replay.contractEvents || [];
           this.replayMetrics = replay.metrics || {};
 
+          var badge = document.getElementById('simHistDaysBadge');
+          if (badge && this.timeline.length) {
+            badge.textContent = this.timeline.length + ' Days Actual';
+          }
+
           var scrubber = document.getElementById('simScrubber');
           if (scrubber && this.timeline.length > 0) {
             scrubber.max = this.timeline.length - 1;
@@ -7253,6 +7256,12 @@
         } else if (this.scenario === 'monsoon_lull') {
           dailyShocks.cape = -0.015; dailyShocks.pana = -0.010; dailyShocks.supra = -0.008;
           dailyShocks.vlcc = -0.004; dailyShocks.suez = -0.003;
+        } else if (this.scenario === 'contango_drag') {
+          dailyShocks.cape = -0.008; dailyShocks.pana = -0.006; dailyShocks.supra = -0.004;
+          dailyShocks.vlcc = -0.007; dailyShocks.suez = -0.005;
+        } else if (this.scenario === 'fast_roll') {
+          dailyShocks.cape = 0.018; dailyShocks.pana = 0.012; dailyShocks.supra = 0.008;
+          dailyShocks.vlcc = 0.015; dailyShocks.suez = 0.010;
         } else {
           // Default baseline flat shock if an unsupported scenario is requested
           dailyShocks.cape = 0.010; dailyShocks.pana = 0.005; dailyShocks.supra = 0.003;
@@ -8992,36 +9001,36 @@
 
         <!-- Preset Macro Scenario & Replay Trigger Chips -->
         <div class="sim-scenario-bar">
-          <span class="sim-scenario-label" data-tooltip="<div class='rt-title'>Macro Scenario &amp; Replay Presets</div><div class='rt-note'>Select a historical SEC filing replay window or apply forward conditional stress scenarios.</div>"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Scenarios &amp; Replay:</span>
-          <button class="sim-scenario-chip active" id="scenChip_historical_replay" onclick="SIM_CONTROLLER.loadScenario('historical_replay')" data-tooltip="<div class='rt-title'>Historical Accounting Replay</div><div class='rt-row'><span class='rt-label'>Window</span><span class='rt-val'>39 Trading Days Point-in-Time</span></div><div class='rt-row'><span class='rt-label'>Grounding</span><span class='rt-val'>Official SEC Filings &amp; SGX Settle Prices</span></div><div class='rt-note'>Replays actual historical portfolio holdings, verified daily lot transitions, and secondary market premium/discount spreads.</div>">
+          <span class="sim-scenario-label" data-tooltip="Select a historical SEC filing replay window or apply forward conditional stress scenarios."><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg> Scenarios &amp; Replay:</span>
+          <button class="sim-scenario-chip active" id="scenChip_historical_replay" onclick="SIM_CONTROLLER.loadScenario('historical_replay')" data-tooltip="Replays actual historical portfolio holdings, verified daily lot transitions, and secondary market premium/discount spreads from official SEC Form 10-Q &amp; Daily Trust disclosures.">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">Historical Replay (SEC Filings)</span>
-            <span class="chip-tag pos">39 Days Actual</span>
+            <span class="chip-tag pos" id="simHistDaysBadge">40 Days Actual</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')" data-tooltip="<div class='rt-title'>Macro Scenario: China Stimulus Rally</div><div class='rt-row'><span class='rt-label'>Cape 5TC</span><span class='rt-val pos'>+2.5%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Panamax 5TC</span><span class='rt-val pos'>+1.5%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Supramax 10TC</span><span class='rt-val pos'>+1.0%/day compounded</span></div><div class='rt-note'>Simulates infrastructure stimulus surge driving strong Capesize iron ore imports into Qingdao.</div>">
+          <button class="sim-scenario-chip" id="scenChip_china_stimulus" onclick="SIM_CONTROLLER.loadScenario('china_stimulus')" data-tooltip="Simulates infrastructure stimulus surge driving strong Capesize iron ore imports into Qingdao (+2.5%/day Cape, +1.5%/day Pana).">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">China Stimulus Rally</span>
             <span class="chip-tag pos">+3.5%/d Cape + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')" data-tooltip="<div class='rt-title'>Macro Scenario: Red Sea Tanker Spike</div><div class='rt-row'><span class='rt-label'>VLCC TD3C</span><span class='rt-val pos'>+3.0%/day compounded</span></div><div class='rt-row'><span class='rt-label'>Suezmax TD20</span><span class='rt-val pos'>+2.5%/day compounded</span></div><div class='rt-note'>Simulates geopolitical chokepoint rerouting around Cape of Good Hope, adding ton-mile demand and squeezing freight rates.</div>">
+          <button class="sim-scenario-chip" id="scenChip_red_sea_spike" onclick="SIM_CONTROLLER.loadScenario('red_sea_spike')" data-tooltip="Simulates geopolitical chokepoint rerouting around Cape of Good Hope, squeezing tanker ton-mile demand (+3.0%/day VLCC, +2.5%/day Suez).">
             <span class="chip-dot chip-dot-bull"></span>
             <span class="chip-name">Red Sea / Tanker Spike</span>
             <span class="chip-tag pos">+4.0%/d VLCC + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')" data-tooltip="<div class='rt-title'>Macro Scenario: Seasonal Monsoon Lull</div><div class='rt-row'><span class='rt-label'>Dry Bulk Basket</span><span class='rt-val neg'>-1.5%/day contraction</span></div><div class='rt-row'><span class='rt-label'>Tanker Basket</span><span class='rt-val neg'>-0.4%/day contraction</span></div><div class='rt-note'>Simulates seasonal construction slowdown and industrial shipping demand lull.</div>">
+          <button class="sim-scenario-chip" id="scenChip_monsoon_lull" onclick="SIM_CONTROLLER.loadScenario('monsoon_lull')" data-tooltip="Simulates seasonal construction slowdown and industrial shipping demand contraction (-1.5%/day Dry Bulk, -0.4%/day Tankers).">
             <span class="chip-dot chip-dot-bear"></span>
             <span class="chip-name">Monsoon Lull</span>
             <span class="chip-tag neg">-1.5%/d + Vol</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_contango_drag" disabled style="opacity:0.4;cursor:not-allowed;" data-tooltip="<div class='rt-title'>Contango Drag (Disabled)</div><div class='rt-note'>Requires dynamic contract quantity transition and live term structure curve feed.</div>">
+          <button class="sim-scenario-chip" id="scenChip_contango_drag" onclick="SIM_CONTROLLER.loadScenario('contango_drag')" data-tooltip="Simulates persistent forward curve contango eroding fund NAV through negative calendar roll carry (-0.8%/day roll drag).">
             <span class="chip-dot chip-dot-warn"></span>
-            <span class="chip-name">Contango Drag</span>
-            <span class="chip-tag warn">Disabled</span>
+            <span class="chip-name">Contango Roll Drag</span>
+            <span class="chip-tag warn">-0.8%/d Carry</span>
           </button>
-          <button class="sim-scenario-chip" id="scenChip_fast_roll" disabled style="opacity:0.4;cursor:not-allowed;" data-tooltip="<div class='rt-title'>Fast Roll (Disabled)</div><div class='rt-note'>Requires dynamic contract quantity transition and live term structure curve feed.</div>">
+          <button class="sim-scenario-chip" id="scenChip_fast_roll" onclick="SIM_CONTROLLER.loadScenario('fast_roll')" data-tooltip="Simulates rapid front-month prompt lot decay into expanding deferred forward contracts (+1.8%/day momentum).">
             <span class="chip-dot chip-dot-accent"></span>
-            <span class="chip-name">Fast Roll</span>
-            <span class="chip-tag accent">Disabled (No Curve Feed)</span>
+            <span class="chip-name">Fast Roll Beta</span>
+            <span class="chip-tag accent">+1.8%/d Beta</span>
           </button>
         </div>
 
