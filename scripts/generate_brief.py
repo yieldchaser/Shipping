@@ -39,6 +39,17 @@ BRIEFS = KNOWLEDGE / "briefs"
 SIGNALS_FILE = DERIVED / "signals.jsonl"
 
 # CSV files: key -> path  (DD-MM-YYYY, Index, %Change)
+ETF_HOLDINGS_FILES = {
+    "bdry": ROOT / "data" / "etf" / "bdry_holdings.csv",
+    "bwet": ROOT / "data" / "etf" / "bwet_holdings.csv",
+}
+SGX_CURVE_FILES = {
+    "cape": ROOT / "data" / "futures" / "sgx_cape_futures.csv",
+    "panamax": ROOT / "data" / "futures" / "sgx_panamax_futures.csv",
+    "supramax": ROOT / "data" / "futures" / "sgx_supramax_futures.csv",
+    "handysize": ROOT / "data" / "futures" / "sgx_handysize_futures.csv",
+}
+
 CSV_FILES = {
     "bdi": ROOT / "data" / "indices" / "bdiy_historical.csv",
     "capesize": ROOT / "data" / "indices" / "cape_historical.csv",
@@ -223,6 +234,116 @@ def percentile_5y(values: list[float | None]) -> float | None:
         return None
     return round(sum(1 for v in window if v <= current) / len(window), 3)
 
+
+
+def load_etf_holdings_data(fund_key: str) -> list[dict]:
+    p = ETF_HOLDINGS_FILES.get(fund_key)
+    if not p or not p.exists():
+        return []
+    holdings = []
+    try:
+        with open(p, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                name = row.get("Name", "")
+                ticker = row.get("Ticker", "")
+                if "Cash" in name or "Portfolio" in name or "AGPXX" in ticker:
+                    continue
+                try:
+                    lots = float(row.get("Lots", 0) or 0)
+                    price = float(row.get("Price", 0) or 0)
+                    mv = float(row.get("Market_Value", 0) or 0)
+                    wt_str = row.get("Weightings", "0%").replace("%", "").strip()
+                    wt = float(wt_str) if wt_str else 0.0
+                    if lots > 0:
+                        holdings.append({
+                            "name": name,
+                            "ticker": ticker,
+                            "lots": lots,
+                            "price": price,
+                            "market_value": mv,
+                            "weight": wt
+                        })
+                except Exception:
+                    continue
+    except Exception:
+        pass
+    return holdings
+
+
+def load_sgx_curve_data() -> dict[str, list[dict]]:
+    curves: dict[str, list[dict]] = {}
+    for cls, p in SGX_CURVE_FILES.items():
+        if not p.exists():
+            continue
+        try:
+            contract_map: dict[str, dict] = {}
+            with open(p, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    c = row.get("contract")
+                    if not c:
+                        continue
+                    try:
+                        px = float(row.get("price", 0) or 0)
+                        if c not in contract_map or row.get("date", "") >= contract_map[c].get("date", ""):
+                            contract_map[c] = {
+                                "contract": c,
+                                "expiry_month": row.get("expiry_month"),
+                                "expiry_year": row.get("expiry_year"),
+                                "price": px,
+                                "date": row.get("date", "")
+                            }
+                    except Exception:
+                        continue
+            curves[cls] = list(contract_map.values())
+        except Exception:
+            pass
+    return curves
+
+
+def compute_etf_curve_metrics(fund_key: str, holdings: list[dict], curves: dict) -> dict:
+    if not holdings:
+        return {}
+    
+    # Sort holdings by weight descending
+    sorted_h = sorted(holdings, key=lambda x: x.get("weight", 0), reverse=True)
+    prompt_h = sorted_h[0] if len(sorted_h) > 0 else {}
+    next_h = sorted_h[1] if len(sorted_h) > 1 else {}
+    
+    prompt_px = prompt_h.get("price", 0.0)
+    next_px = next_h.get("price", 0.0)
+    
+    # Implied monthly roll yield
+    roll_spread_pct = 0.0
+    regime = "NEUTRAL"
+    if prompt_px > 0 and next_px > 0:
+        roll_spread_pct = round(((prompt_px - next_px) / prompt_px) * 100, 2)
+        regime = "BACKWARDATION_CARRY" if roll_spread_pct > 0 else ("CONTANGO_DRAG" if roll_spread_pct < 0 else "FLAT")
+        
+    is_bdry = (fund_key.lower() == "bdry")
+    summary_30d = (
+        f"30-Day Hold: Direct bet on {prompt_h.get('name', 'Prompt')} settling above ${prompt_px:,.0f}/day with {abs(roll_spread_pct):.1f}% monthly {regime.replace('_', ' ').lower()}."
+        if is_bdry else
+        f"30-Day Hold: Direct bet on {prompt_h.get('name', 'Prompt')} settling above WS {prompt_px:.1f} (~${round(prompt_px*1000):,}/d) with {abs(roll_spread_pct):.1f}% monthly {regime.replace('_', ' ').lower()}."
+    )
+    summary_90d = (
+        f"90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat {abs(roll_spread_pct*3):.1f}% cumulative 3-month {regime.replace('_', ' ').lower()}."
+    )
+    summary_180d = (
+        f"180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER."
+    )
+    
+    return {
+        "prompt_contract": prompt_h,
+        "next_contract": next_h,
+        "implied_roll_yield_pct": roll_spread_pct,
+        "curve_regime": regime,
+        "holding_bet_summary_30d": summary_30d,
+        "holding_bet_summary_90d": summary_90d,
+        "holding_bet_summary_180d": summary_180d,
+        "total_active_contracts": len(holdings)
+    }
 
 def build_market_snapshot() -> dict:
     snapshot: dict[str, dict] = {}
@@ -506,6 +627,22 @@ def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
         lines.append(f"  BDI historical context: {spreads['bdi_hist']} historically")
     if "tanker_z_ctx" in spreads:
         lines.append(f"  Tanker Z-spread: {spreads['tanker_z_ctx']}")
+    # Add ETF Constituent Holdings and Forward Curve analytics
+    bdry_h = load_etf_holdings_data("bdry")
+    bwet_h = load_etf_holdings_data("bwet")
+    sgx_c = load_sgx_curve_data()
+    bdry_m = compute_etf_curve_metrics("bdry", bdry_h, sgx_c)
+    bwet_m = compute_etf_curve_metrics("bwet", bwet_h, sgx_c)
+    
+    lines.append("\nETF CONSTITUENTS & FORWARD ROLL DYNAMICS:")
+    if bdry_m:
+        lines.append(f"  BDRY (Dry Bulk): Prompt {bdry_m['prompt_contract'].get('name','')} (${bdry_m['prompt_contract'].get('price',0):,.0f}/d) -> Next {bdry_m['next_contract'].get('name','')} (${bdry_m['next_contract'].get('price',0):,.0f}/d) | Monthly Roll Yield: {bdry_m['implied_roll_yield_pct']:+.2f}% ({bdry_m['curve_regime']})")
+        lines.append(f"    * {bdry_m['holding_bet_summary_30d']}")
+        lines.append(f"    * {bdry_m['holding_bet_summary_90d']}")
+    if bwet_m:
+        lines.append(f"  BWET (Tanker): Prompt {bwet_m['prompt_contract'].get('name','')} (WS {bwet_m['prompt_contract'].get('price',0):.1f}) -> Next {bwet_m['next_contract'].get('name','')} (WS {bwet_m['next_contract'].get('price',0):.1f}) | Monthly Roll Yield: {bwet_m['implied_roll_yield_pct']:+.2f}% ({bwet_m['curve_regime']})")
+        lines.append(f"    * {bwet_m['holding_bet_summary_30d']}")
+        
     return "\n".join(lines)
 
 
