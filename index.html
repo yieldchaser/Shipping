@@ -21492,7 +21492,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         keyLabel: 'OpenRouter Key',
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
-        maxContextTokens: 25000,
+        maxContextTokens: 32000,
         suggestions: [
           'openrouter/free',
           'google/gemini-2.0-flash-exp:free',
@@ -21509,7 +21509,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const cfg = { ...baseCfg };
       
       if (provider === 'openrouter') {
-        cfg.maxContextTokens = 25000;
+        cfg.maxContextTokens = 32000;
       } else if (provider === 'gemini') {
         cfg.maxContextTokens = 30000;
       } else if (provider === 'groq') {
@@ -22009,7 +22009,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 8192, stream: doStream }),
           signal: fetchSignal
         });
         if (!res.ok) {
@@ -22041,7 +22041,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         const bodyObj = {
           contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.2, maxOutputTokens: 2500 }
+          generationConfig: { temperature: 0.2, maxOutputTokens: 8192 }
         };
         if (options && options.enableWebSearch) {
           bodyObj.tools = [{ googleSearch: {} }];
@@ -22114,7 +22114,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             model,
             messages: [{ role: 'user', content: prompt }],
             temperature: 0.2,
-            max_tokens: 4096,
+            max_tokens: 8192,
             stream: orStream
           }),
           signal: fetchSignal
