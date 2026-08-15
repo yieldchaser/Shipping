@@ -2057,6 +2057,10 @@ def main() -> None:
     output = {
         "generated_at": generated_at,
         "brief_date": today,
+        "constituent_holdings": {
+            "bdry": compute_etf_curve_metrics("bdry", load_etf_holdings_data("bdry"), load_sgx_curve_data()),
+            "bwet": compute_etf_curve_metrics("bwet", load_etf_holdings_data("bwet"), load_sgx_curve_data())
+        },
         "generation": {
             "mode": generation_mode,
             "provider_used": generation_provider,
