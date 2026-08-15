@@ -156,51 +156,69 @@ Main quantitative overview for the selected index.
   - 🔴 **CONTRACTION**: Price $\le \text{MA}_{200}$, $\text{RoC}_{60} \le 0$
 - **6 Stat Cards**: All-Time Pctl · 10Y Pctl · 5Y Pctl · Z-Score · 52-Week Drawdown · 20D RoC.
 - **Historical Context Strip**: 5Y avg, current vs 5Y avg %, current vs 10Y avg %.
-- **Current Year vs Historical Overlay Chart**: Overlays current year against prior trading years.
-- **Drawdown from 52-Week High Chart**: Last 5 years.
+- **Current Year vs Historical Overlay Chart**: Overlays current year against prior trading years with 3Y/5Y/10Y/All presets.
+- **Drawdown from 52-Week High Chart**: Last 5 years with 1Y/3Y/5Y/10Y/All toggle buttons.
 - **Recent Daily Changes Table**: Last 10 sessions (day $\Delta$, day $\Delta\%$, 5D change %).
 - **Yearly Performance Table** *(collapsible, sortable)*: Annual avg, YoY %, min, max, Volatility % (dispersion: $(\text{max}-\text{min})/\text{avg}$), Trough → Peak % (theoretical max gain).
 - **Macro Cycle History (Multi-Year)** *(collapsible, sortable)*: Identifies historical peak and trough cycles using a 30% threshold with duration and move magnitude tooltips.
-- **Index Correlation Matrix**: Pearson correlation for all 7 products, switchable (All Time / 5Y / 1Y).
+- **Index Correlation Matrix**: Pearson correlation for all shipping benchmarks, switchable across All Time / 5Y / 1Y windows.
 
 ---
 
 ### 📅 Yearly Tab
 
+Multi-year macro cycles and decade-scale benchmark tracking.
+
 - **Historical Price Chart**: Full history with rolling average toggle (5Y / 10Y / All-Time) and dual-handle range slider.
-- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted. Range slider defaults to last 3 years.
-- **Historical Z-Score (All Time from 2008)**: Full-history view.
+- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted with 3M/6M/1Y/2Y/3Y lookback toggles.
+- **Historical Z-Score (All Time from 2008)**: Full-history structural cycle view.
 - **Multi-Year Rates**: Annual averages by product across all years.
-- **Current Year Monthly Bar**: MoM color coding.
-- **Rates — All Products Multi-Year Overlay**: Last 4 years by trading day.
-- **Drawdown % (52-Week Rolling, Last 5 Years)**.
-- **Monthly Win Rate KPI Cards**: Historical probability of each month being positive.
-- **Monthly Performance by Year (Spaghetti)**: Index trajectory by trading day across all years.
-- **Monthly Data Grid**: Last 8 years $\times$ 12 months heatmap with relative color scaling.
+- **Current Year Monthly Bar**: MoM trend acceleration or decay color coding.
+- **Rates — All Products Multi-Year Overlay**: Last 4 years by trading day with product selector dropdown.
+- **Drawdown % (52-Week Rolling, Last 5 Years)**: Peak retracement depth across the last 5 years.
 
 ---
 
 ### 📊 Quarterly Tab
 
-- **Win Rate KPI Cards**: Historical probability each quarter beats the prior quarter.
-- **Quarterly Heatmap**: All years $\times$ Q1–Q4, absolute or QoQ % switchable.
-- **Spaghetti Chart**: Q1/Q2/Q3/Q4 across all years as 4 colored lines.
-- **Quarterly Data Grid**: Last 8 years with full-year avg and YoY %.
+Seasonal quarterly regimes and path dependency.
+
+- **Win Rate KPI Cards**: Historical probability each quarter beats the prior quarter (Q1–Q4).
+- **Quarterly Spaghetti Chart**: Q1/Q2/Q3/Q4 across all years rebased to 100 at the start of Q1 to expose path dependency.
+- **Quarterly Area Comparison**: Current year (solid) vs prior year (dashed) vs 5-year rolling average (shaded).
+- **Quarterly Bar Chart**: Trailing 4 quarters with Quarter-over-Quarter (QoQ) direction coloring.
+- **Quarterly Data Grid**: 8-year tabular record showing Open, High, Low, Close, QoQ %, and full-year % change.
+
+---
+
+### 🗓️ Monthly Tab
+
+Intra-year monthly progression and momentum shifts.
+
+- **Monthly Win Rate KPI Cards**: Historical probability of each calendar month being positive across multi-decade history.
+- **Monthly Spaghetti Chart**: Index trajectory across all 12 calendar months for each historical year.
+- **Monthly Area Comparison**: Current year vs prior year vs 5Y seasonal average.
+- **Monthly Bar Chart**: 12-month rolling momentum summary.
+- **Monthly Data Grid**: 8-year $\times$ 12-month tabular matrix with relative scaling.
 
 ---
 
 ### 🌡️ Heatmaps Tab
 
-- **Monthly Heatmap**: Year $\times$ Month, absolute value or MoM % toggle.
-- **Quarterly Heatmap**: Year $\times$ Quarter, absolute value or QoQ % toggle.
-- **8-Year Relative Scaling**: Color scaling tailored to recent 8-year windows for visual contrast.
+High-density seasonal momentum matrices.
+
+- **Monthly Performance Heatmap**: Year $\times$ Month, absolute value or MoM % return toggle with CSV download.
+- **Quarterly Heatmap**: Year $\times$ Quarter, absolute value or QoQ % return toggle with CSV download.
+- **8-Year Relative Scaling**: Color scaling tailored to recent 8-year windows to ensure modern volatility extremes remain visually distinct.
 
 ---
 
 ### 📈 Indices Tab
 
-All 6 base indices as individual chart cards:
-- Current value, day change %.
+Dedicated benchmark monitoring suite.
+
+- All 6 base indices as individual interactive chart cards (BDI, BCI, BPI, BSI, BHSI, BDTI, BCTI).
+- Current value, day change %, and status badge.
 - Dual-handle date range slider (defaults to last 5 years).
 - Stats strip: 52W High—Low · 52W Position · YTD % · From Last Trough.
 
@@ -208,127 +226,94 @@ All 6 base indices as individual chart cards:
 
 ### 🏦 ETFs Tab (BDRY & BWET)
 
-#### BDRY & BWET Card Structure
-1. **Live price + day change**: 5-minute dynamic auto-refresh engine powered by Yahoo Finance v8 API via a 4-stage CORS proxy failover cascade. Updates big price cards, day change %, 52W metrics, and ETF Deconstruction Engine live without page reloads! Includes a live badge with update timestamp (`🟢 LIVE 17:51:12`).
-2. **Metrics row 1**: Total Futures · Collateral Cash · Futures/AUM %.
-3. **Metrics row 2**: NAV · Statutory Expense Ratio (1.45% OER) · Exposure Ratio.
-4. **Metrics row 3**: 52W High—Low · 52W Position (%) · From Last Trough (%).
-5. **Holdings table**: FFA contracts sorted by vessel class → expiry month (nearest first).
-6. **Futures Allocation donut**: Normalized to 100% of futures notional.
-7. **Trade route map**: Interactive trade route graphics with legends.
-8. **Yearly Performance & Macro Cycle Tables**.
-9. **Liquidity Tracker**: Position-sizing model assessing daily volume against safe liquidity thresholds.
-10. **ETF Futures Portfolio Deconstruction, Valuation & Scenario Engine**:
-    - **5-Axiom Futures Allocation Engine**: Deconstructs ETF disclosures for Amplify BDRY (Dry Bulk) and Amplify BWET (Tankers) into active futures contract holdings, lot counts, and % weights for any target date horizon (`Today`, `Month End`, `Next Quarter Strip`, `1 Year Out`).
-      $$\text{Lot Allocation} = \text{Target Lots} \times \left(1 - \frac{b_{\text{cur}}}{b_{\text{total}}}\right)$$
-    - **Per-Vessel Class Weighted Roll Yield Engine**: Computes exact lot-weighted term structure roll spreads within each vessel class to eliminate cross-asset price distortions:
-      $$\text{Implied Roll Yield (\%/mo)} = \sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100 \right)$$
-    - **Absolute Data Truth & Feed Provenance**:
-      - `✓ Official SGX Settlement Feed`: Real-time daily settlement history from Singapore Exchange datasets (`DATA.sgx`).
-      - `✓ Official ETF Daily Holdings History Feed`: Stored daily fund disclosures (`data/etf/bwet_holdings_history.csv` & `bdry_holdings_history.csv`).
-      - `[Warning] Historical Feed Not Available`: Clean transparent banner for far-dated forward contracts where exchange feeds are unavailable (zero fake price generation).
-    - **Dual Worldscale (WS) & Time Charter Equivalent (TCE $/day) Unit Architecture**: Dynamically formats crude tanker futures history (BWET ETF: VLCC TD3C & Suezmax TD20) in both exchange-traded Worldscale Points (`WS 68.0`) and implied daily charter revenue (`~$48,484/day`), while preserving absolute dollar rates (`$39,232/day`) for dry bulk futures (BDRY ETF).
-    - **Contract-Level Micro-Simulator & SGX Range Matrix**: Line-item table displaying SGX Settle Rates ($/day or WS), 52-Week Price Range Bars ($ Min — $ Max), single-line input boxes (`white-space: nowrap`), `$ / Share Impact`, and `% NAV Contrib` metrics.
-    - **Macro / Micro Slider Mode & Institutional 0%-Origin Range Sliders**: Seamlessly switch between bulk **Macro (Class)** sliders and granular **Micro (Contract)** sliders. Range slider tracks feature 0%-origin baseline fills (positive shocks fill right in class colors; negative shocks fill left in financial red).
-    - **Dynamic Reverse-Engineered Shares Outstanding & Total NAV**: Eliminates 30-day reporting lags from monthly SEC/CFTC filings by dynamically inverting daily constituent disclosures:
-      $$\text{Total Fund NAV} = \text{median}\left(\left\{\frac{\text{Market\_Value}_i}{w_i} \;\middle|\; w_i > 2\%\right\}\right)$$
-      $$\text{Shares Outstanding} = \text{round}\left(\frac{\text{Total Fund NAV}}{\text{NAV per share}} \times \frac{1}{25,000}\right) \times 25,000$$
-      *Empirical Validation*: Produces **2,200,000 shares** ($30.94M AUM) for BDRY and **225,000 shares** ($80.68M AUM) for BWET, matching terminal data (Koyfin / Bloomberg) with 100.0% precision down to the exact 25,000-share creation basket.
-    - **Institutional Thesis-to-ETF Scenario Translator & Decision Ticket Workflow**:
-      - *Scenario Book Separation*: Toggle between **Frozen Disclosed Book** (official archive) and **User-Assumed Forward Book** (custom roll-in legs, custom entry/target marks, and roll transaction friction).
-      - *4-Regime Market Pricing Model*: Evaluates projected secondary market prices under Unchanged Basis, Carried-Forward Baseline Spread, Stressed AP Spread, and Theoretical NAV Parity.
-      - *Institutional Decision Ticket Modal (`#decisionTicketModal`)*: Generates structured, compliance-ready decision tickets detailing Route P&L Attribution (Cape/Pana/Supra/VLCC/Suez), Book Separation tables, and Residual Risk disclosures with 1-click `{ }` Copy JSON and `📄` Copy Text.
-    - **Universal Classy Contract Settlement Price Inspector Modal (`#etfContractDetailModal`)**:
-      - High-DPI Chart.js modal rendering historical settlement curve trajectories, 52-Week High/Low range bars, active fund position lots & % weights, and official exchange rulebook references (SGX / CME ClearPort / Baltic Exchange).
-      - Accessible across all constituent tables, micro-shock sliders, simulator strip rows, and decision ticket book views with `<kbd>ESC</kbd>` and backdrop click dismissal.
-    - **2D Freight Sensitivity Heatmap Matrix**: Interactive 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with glowing active scenario borders and neutral baseline cell outlines.
-    - **Target Price Reverse NAV Solver**: Inverts the NAV return formula scaled by gross futures exposure (${\text{FuturesNotional}} / {\text{NAV}}$) to solve the exact uniform freight rate rally/decline % required to reach any user-entered target ETF share price ($).
-    - **Editable Position Share Count & Base PnL**: Interactive input box (`PnL FOR [ 1000 ] SHARES`) dynamically recalculating dollar PnL and invested Base Capital ($).
-    - **Institutional System 2 Rich Tooltips**: Rich HTML tooltips across all 8 sub-components formatted with `.rt-title`, `.rt-row`, `.rt-label`, `.rt-val`, and `.rt-note` CSS design tokens.
-    - **Dual-View Doughnut Chart Mode**: Toggle between high-level **By Vessel Class** view and detailed **By Contract Month** view with contiguous color arcs sorted in chronological month sequence.
-11. **Day-by-Day ETF Portfolio & Price Simulator (Institutional Replay & Generative Projection)**:
-    - **Dual-Horizon Valuation Core**:
-      - *Mode 1: Historical Replay*: Replays exact historical daily holdings, MTM settlements, and cash collateral across all 39 disclosure dates from `data/etf/bdry_holdings_history.csv` and `data/etf/bwet_holdings_history.csv` with empirical tracking $R^2 = 0.999$.
-      - *Mode 2: Generative Forward Projection*: Projects 30, 60, or 90-day forward horizons using the 5-Axiom calendar roll decay engine and live forward curves from `DATA.sgx`.
-    - **Advanced Derivatives Pricing Realism**:
-      - *Samuelson Volatility Term Damping*: $\sigma(\tau) = \sigma_0 e^{-\lambda \tau} + \sigma_\infty$ (captures prompt volatility spikes vs long-dated fleet supply mean reversion).
-      - *Margin Collateral Hierarchy*: Segregates 15% CME/SGX encumbered Initial Margin ($C_{\text{IM}}$) while unencumbered free cash ($C_{\text{free}}$ in AGPXX) continuously accrues statutory yield ($4.85\% - 1.45\%$ OER $/ 252$).
-      - *Authorized Participant (AP) Arbitrage Bounds*: Secondary market price tracks theoretical NAV with mean-reverting basis spread SDE.
-    - **Cinematic 4-Panel Frontier Grid**:
-      - **Panel A: Dynamic Holdings Table**: Animated decaying lot progress bars, prompt/deferred classification, per-contract $/share impact, and live green/crimson tick pulses on daily rate evolutions with clickable contract settlement charts (`chart ↗`).
-      - **Panel B: Dual-Pane Charts**: Top pane tracks Simulated Price vs Actual Market Close; Bottom pane plots real-time tracking spread / basis in basis points (bps).
-      - **Panel C: 3-Way Daily Attribution Waterfall**: Decomposes daily price changes into Pure Freight Move ($\Delta R_{\text{freight}}$) + Roll Yield Drag/Gain ($\Delta R_{\text{roll}}$) + Cash Yield & Fee Drag ($\Delta R_{\text{cash}}$).
-      - **Panel D: Risk & Performance HUD**: Real-time position PnL on custom share count, Annualized Sharpe Ratio, Implied Carry Yield, Max Drawdown (MDD), Realized Volatility, and Tracking Error.
-    - **Cinematic Playback Controls & Keyboard Hotkeys**: Spacebar (`Play/Pause`), `→` (`Step Next`), `←` (`Step Prev`), `R` (`Reset`), Speed multi-toggles (`0.5x`, `1x`, `2x`, `5x`, `10x`, `⚡ Max`), and floating glassmorphism scrubber preview tooltip.
-    - **1-Click Macro Stress Presets**:
-      - 🚀 *China Stimulus Rally* (+3.5%/d Capesize)
-      - 🌊 *Red Sea / Tanker Spike* (+4.0%/d VLCC)
-      - 📉 *Monsoon Lull* (-1.5%/d across dry bulk)
-      - 🔄 *Contango Drag Test* (Pure Basis Decay)
-      - ⚡ *Fast 5-Day Roll* (Accelerated Rebalance)
-12. **Institutional ETF & Scenario Intelligence Q&A Copilot ("Ask Anything")**:
-    - **Conversational Derivative Analytics**: Plain-English institutional AI copilot answering complex ETF questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, statutory rulebooks, and active daily desk briefings.
-    - **Direct-CORS Client Inference Architecture**: Operates client-side with zero middleman servers across **Groq** (`deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Google Gemini** (`gemini-2.5-flash` / `gemini-1.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`) with automatic key synchronization via browser `localStorage`.
-    - **Interactive Model Dropdown & Custom Model Support**: Native `<select>` element populating all flagship models with a `✏️ Custom Model...` option and instant tab-to-tab synchronization.
-    - **5-Category Institutional Suggested Prompt Suite (30 Curated Prompts)**:
-      - 🎯 *Contract Exposures*: Holding BDRY for 2 months, highest $/share sensitivity contract, translating macro shipping views into ETF targets, Futures/AUM ratios.
-      - 🔄 *Roll Yield & Carry*: 60-day Capesize roll decay, BWET Contango vs Backwardation, 5-axiom calendar decay math, prompt contract expiration.
-      - ⚡ *Scenario Shocks & PnL*: Multi-vessel asymmetric shocks (Cape +20% / Pana -10%), Reverse NAV Solver price targets, Red Sea tanker spikes, Micro vs Macro aggregation math.
-      - 🏦 *Fund Flows & AUM*: $30.94M AUM & 2.20M shares vs history, 25k creation basket arbitrage, cash collateral yield (4.85%) vs 1.45% OER, CME/SGX margins.
-      - 🧭 *Strategy & Holding*: Multi-month holding risks, ETF vs Shipping Equities (SBLK, GOGL), optimal roll entry window, charter party hedging.
-    - **Bi-Directional Interactive Action Execution**:
-      - `⚡ Apply to Scenario Simulator`: 1-click button inside AI responses that automatically dials the macro/micro sliders in the Thesis-to-ETF Scenario Translator and recalculates the live portfolio.
-      - `📅 Jump Simulator to Date`: Jumps the Day-by-Day Simulator timeline directly to the analyzed historical roll epoch.
-      - `📋 Open Institutional Decision Ticket`: Pre-populates and launches the structured compliance decision ticket modal.
-      - `📈 Inspect Contract [Ticker]`: Clickable contract pills opening high-DPI settlement trajectory charts (`#etfContractDetailModal`).
-13. **Daily Freight & ETF Market Intelligence Brief (Server-Side AI Synthesizer)**:
-    - **Embedded Desk Intelligence**: Seamlessly integrated directly beneath the ETF Copilot, displaying the latest daily freight intelligence payload (`knowledge/briefs/latest.json`) synthesized server-side by backend Python pipelines (powered by **NVIDIA NIM** / `deepseek-ai/deepseek-r1` / `meta/llama-3.3-70b-instruct` on GitHub Actions with zero CORS friction).
-    - **Zero-Key Immediate Access**: End users instantly view institutional market analysis without configuring client-side API keys.
-    - **Executive Desk TL;DR**: 3-bullet 30-second scan capturing macro freight velocity, sector divergence, and near-term catalysts.
-    - **Fund-Adaptive Dual-Panel Breakdown**:
-      - *Breakwave Dry Bulk ETF (BDRY)*: Confluence score (Bull/Bear/Neutral), Capesize-Panamax spread skew, 5-year BDI percentiles, and desk outlook.
-      - *Breakwave Tanker ETF (BWET)*: Confluence score, Clean-Dirty tanker spreads, VLCC TD3C MEG-China & Suezmax TD20 momentum, and geopolitical route impact.
-    - **Global Macro & Relative-Value Allocation**: Multi-sector Z-differential spread analysis and global supply-demand drivers.
-    - **1-Click Action Hooks**: `⚡ Apply Setup` (instantly dials scenario sliders to match the brief's thesis) and `💬 Ask Copilot` (pre-populates grounded prompt in the Copilot).
-    - **Direct Copilot Grounding (`buildEtfQAContext`)**: Injects daily brief confluence, trade ideas, and macro notes directly into the Copilot context for consistent analytical responses.
-- **Ultra-Fast GitHub Pages Build Engine**: Bypasses slow Jekyll processing (`.nojekyll`) and uses direct static artifact deployment (`pages.yml` with `cancel-in-progress: true`), cutting page deployment times from 5 minutes down to ~15-20 seconds.
+Structured in the **"Executive Intelligence First"** workflow:
 
-| Liquidity Metric | Formula |
-| :--- | :--- |
-| **Dollar Value Traded** | $\text{Close} \times \text{Volume}$ |
-| **Tier Allocation %** | $\text{Vol} < 50\text{k} \rightarrow 2.0\% \cdot < 100\text{k} \rightarrow 3.5\% \cdot < 500\text{k} \rightarrow 5.0\% \cdot \ge 500\text{k} \rightarrow 6.5\%$ |
-| **Possible Shares** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor$ |
-| **Safe Liquidity Capacity ($)** | $\text{Possible Shares} \times \text{Close}$ |
+1. **Live Price & Overview Cards**:
+   - 5-minute dynamic auto-refresh engine powered by Yahoo Finance v8 API via a 4-stage CORS proxy failover cascade. Updates price cards, day change %, 52W metrics, and ETF Deconstruction Engine live (`🟢 LIVE`).
+   - Metrics rows: Total Futures · Collateral Cash · Futures/AUM % · NAV · Statutory Expense Ratio (1.45% OER) · Exposure Ratio · 52W High—Low · 52W Position.
+   - Holdings table sorted by vessel class → expiry month (nearest prompt first) with interactive trade route maps and allocation donuts.
+2. **Daily Freight & ETF Market Intelligence Brief (`#etfDailyBriefCard`)**:
+   - Multi-factor quantitative confluence, desk positioning bias (Bullish / Bearish / Neutral), momentum grades, and forward curve roll dynamics synthesized server-side.
+   - 1-Click Action Hooks: `⚡ Apply Setup` (dials scenario sliders to match the brief) and `💬 Ask Copilot` (pre-populates prompt).
+3. **Institutional ETF & Scenario Intelligence Copilot ("Ask Anything") (`#etfQaCard`)**:
+   - Conversational AI derivatives strategist answering complex questions grounded in real-time constituent holdings, SGX forward curves, 5-axiom calendar roll schedules, reverse-engineered shares/AUM, and statutory rulebooks.
+   - Direct client-side execution via **Groq** (`llama-3.3-70b-versatile`, `deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Google Gemini** (`gemini-2.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`).
+   - 5 curated suggestion categories (30 prompts): *Contract Exposures*, *Roll Yield & Carry*, *Scenario Shocks & PnL*, *Fund Flows & AUM*, *Strategy & Holding*.
+   - Interactive action execution buttons: `⚡ Apply to Scenario Simulator`, `📅 Jump Simulator to Date`, `📋 Open Institutional Decision Ticket`, `📈 Inspect Contract`.
+4. **Thesis-to-ETF Scenario Translator (`#etfDeconstructCard`)**:
+   - **5-Axiom Futures Allocation Engine**: Deconstructs ETF disclosures for Amplify BDRY (Dry Bulk) and Amplify BWET (Tankers) into active futures contract holdings, lot counts, and % weights for any horizon.
+   - **Macro / Micro Shock Sliders**: 0%-origin baseline fills (positive shocks fill in asset colors; negative shocks in red).
+   - **2D Freight Sensitivity Heatmap Matrix**: 5x5 grid evaluating 25 simultaneous freight rate shock combinations (Capesize vs Panamax / VLCC vs Suezmax) with active scenario borders.
+   - **Target Price Reverse NAV Solver**: Inverts NAV formula to solve the exact uniform freight rate move % required to achieve any target share price ($).
+   - **Institutional Decision Ticket Modal (`#decisionTicketModal`)**: Structured compliance decision tickets with Route P&L Attribution, Book Separation tables, and 1-click JSON/Text export.
+   - **Universal Contract Settlement Inspector Modal (`#etfContractDetailModal`)**: High-DPI Chart.js modal rendering historical settlement curve trajectories, 52-week ranges, and exchange rulebook references.
+5. **Day-by-Day ETF Portfolio & Price Simulator (`#etfDaySimulatorCard`)**:
+   - **Point-in-Time Accounting Replay**: Replays exact historical daily holdings, MTM settlements, and cash collateral across verified SEC Form 10-Q filing snapshots ($R^2 = 0.999$).
+   - **Generative Forward Projection**: Projects 30, 60, or 90-day forward horizons using Samuelson volatility damping, collateral margin hierarchies, and AP arbitrage bounds.
+   - **Cinematic 4-Panel Grid**: Panel A (Dynamic Holdings with decaying lot progress bars), Panel B (Dual-Pane Price & Tracking Basis bps), Panel C (3-Way Daily Attribution Waterfall: Freight + Roll Yield + Cash Yield/Fee Drag), Panel D (Risk HUD: Real-time PnL, Sharpe Ratio, Carry Yield, MDD, Realized Volatility).
+   - **Playback Controls & Hotkeys**: Spacebar (`Play/Pause`), `→` (`Step Next`), `←` (`Step Prev`), `R` (`Reset`), Speed toggles (`0.5x` to `⚡ Max`), and 1-click macro stress presets.
+6. **Premium / Discount History (`#pdHistChart`)**:
+   - Secondary Market Close vs NAV spread oscillator with 1M/3M/6M/1Y/3Y/All windows and dual-range slider.
+7. **Fund Flow History & Institutional Accumulation (`#flowPriceChart`)**:
+   - ETF NAV Price overlaid with Daily Net Flow (Creations/Redemptions in USD) and Cumulative Net Flow ($).
+8. **Execution Liquidity & Safe Capacity Tracker (`#liqTrackerSection`)**:
+   - Position-sizing model assessing rolling volume against safe liquidity thresholds (2.0% to 6.5% tier limits) to determine maximum safe single-session trade size without market impact.
+9. **Historical Volatility & Regimes (`#etfHvChart`)**:
+   - Annualized 20D, 60D, and 1Y HV with Regime Detection: Blue (Low <25th), Green (Normal 25-75th), Amber (Elevated 75-90th), Red (Spike >90th).
+10. **Cross-Asset Correlation Matrix (`#etfCorrMatrix`)**:
+    - Multi-timeframe Pearson correlation matrix comparing ETF prices against BDI, BCI, BPI, BSI, BHSI, BDTI, and BCTI.
 
 ---
 
 ### 🎯 Signals Tab
 
-Comprehensive analytical suite for technical and fundamental signals:
+Comprehensive analytical suite arranged into **3 thematic quantitative sections**:
 
-- **Interactive Dual-Handle Range Sliders**: Full UI parity with the Indices tab — every time-series chart features an independent, real-time dual-range date slider with interactive date boundaries (`YYYY-MM-DD ➔ YYYY-MM-DD`).
-- **Spot Rate Scaling ($/day TCE)**: Spot indices are converted to $/day TCE equivalent earnings (Dry Bulk index points $\times 10$, BDTI $\times 35$, BCTI $\times 30$) to allow direct comparison with 1-Year and 2-Year Time Charter rates.
-- **Detailed & Dynamic Concept Tooltips**: Interactive HTML tooltips explaining "what they are", "why they matter", and "how to read them" with live dataset metrics injected.
-- **View All Sectors Toggle**: Option to view all 6 sectors overlaid on a single wide chart.
-- **Signals Breakdown**:
-  - **Bollinger Bands (20D, 2σ)**: Price + upper/SMA/lower bands with dual-range slider.
-  - **Historical Volatility**: Annualized volatility + regime classification based on all-time percentiles with dual-range slider.
-  - **Cape / Panamax Ratio**: Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile with dual-range slider.
-  - **Rate-of-Change Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
-  - **Seasonal Decomposition**: Historical avg intra-year pattern $\pm 1\sigma$ with current year.
-  - **ETF P/D Z-Score**: Premium/Discount to NAV Z-score (+2 = Top, -2 = Bottom) with dual-range slider.
-  - **FFA Term Structure**: Forward curves from live BDRY/BWET holdings.
-  - **SGX FFA Forward Curve**: Official SGX settlement curve for Cape/Pana/Supra/Handy.
-  - **Futures vs Spot Premium**: Basis tracking between BDRYFF index and spot baskets with dual-range slider.
-  - **BDI Contribution**: Decomposition of BDI daily change by vessel class with dual-range slider.
-  - **ETF Fund Flow Signals**: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), Pressure with dual-range slider.
-  - **Lead–Lag Correlation**: Cross-correlation of log returns (-30 to +30 days) to detect lead times.
-  - **Time Charter Rates**: Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio, Fearnleys/Alibra source toggle (Merged, Fearnleys, Both), and dual-range slider.
-  - **Basin/Sector Spreads**: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class with dual-range slider.
-  - **Restocking Pressure**: Freight spot rates vs CFR 62% Iron Ore price and Qingdao Port Inventory with dual-range slider.
-  - **LPG Freight & Charter Rates**: Multi-series VLGC/MGC spot + charter rates (VLGC 84k, MGC 38k, Handy 22k) + Baltic LPG Index overlay with dual-range slider and unit toggle ($/Day TCE equivalent vs raw $/Month PCM hire).
-  - **Vessel Capital Cycle**: S&P secondhand valuations (1970–2026) with 3 sub-modes (10Y Asset Value, Scrap Floor $M, Implied Charter Yield %) and dual-range slider.
-  - **Market Cycle Quadrant**: 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score (Recovery, Boom, Over-ordering, Restructuring).
+#### Section 1: Derivatives & Technicals
+- **A. Forward Curves & Derivatives Basis**:
+  - **SGX FFA Forward Curve**: Singapore Exchange settlements across live contract months for Capesize, Panamax, Supramax, and Handysize with vs 1W/2W/1M/3M historical comparisons and contract drilldown inspector.
+  - **FFA Term Structure (BDRY & BWET Curve Shape)**: Multi-contract prompt vs deferred slope analysis.
+  - **Futures vs Spot Premium (Basis)**: Front-month FFA vs combined spot basket tracking (Contango vs Backwardation).
+  - **Cape / Panamax Spread Ratio**: BCI / BPI ratio (Iron Ore vs Bulk Grain proxy) with rolling percentiles.
+- **B. Momentum & Volatility Regimes**:
+  - **Bollinger Bands (20D, 2σ)**: Price envelope with bandwidth squeeze indicators.
+  - **Historical Volatility**: Annualized volatility with all-time regime percentiles.
+  - **Rate-of-Change (ROC) Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
+  - **Seasonal Pattern Decomposition**: Historical average intra-year pattern $\pm 1\sigma$ band overlaid with current year.
+- **C. Cross-Asset Attribution & Lead-Lag**:
+  - **BDI Vessel Class Daily Contribution**: Daily point move attribution (50% Cape, 40% Pana, 10% Supra).
+  - **Lead-Lag Cross-Correlation Analysis**: Cross-correlation of log returns (-30 to +30 days) identifying predictive lead times.
+- **D. ETF Market Timing & Sentiment Signals**:
+  - **ETF Premium/Discount Z-Score**: Standardized sentiment oscillator identifying extreme overextension ($Z > +2$) vs forced liquidation ($Z < -2$).
+  - **ETF Fund Flow Signals**: 5-day rolling flow vs NAV price to detect accumulation vs distribution divergences.
+
+#### Section 2: Physical Freight & Cargo
+- **Time Charter Curve (Spot vs 1Y TC)**: Spot $/day TCE earnings vs 1-Year Time Charter rates with broker source toggle (Merged, Fearnleys, Both).
+- **Tonnage Basin Arbitrage**: Atlantic vs Pacific 1Y TC rate spread per vessel class.
+- **Leading Restocking Pressures**: Spot freight vs CFR 62% Iron Ore price and Qingdao Port Inventory.
+- **LPG Freight & Charter Rates**: VLGC 84k, MGC 38k, Handy 22k spot + charter rates with unit toggle ($/Day TCE vs $/Month PCM).
+
+#### Section 3: Vessel Capital Cycle
+- **Vessel Valuations & Scrap Floor**: S&P secondhand prices (1970–2026) with 3 sub-modes (10Y Asset Value, Scrap Floor $/LDT, Implied Charter Yield %).
+- **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores.
+
+---
+
+### 🧠 Intelligence Tab
+
+Executive macro desk and deep research workspace.
+
+- **Section 1: Signal & Confluence Engine (`#intelAlertGrid`)**:
+  - Multi-factor quantitative scoring combining 50% fundamentals, 30% sentiment, and 20% momentum.
+  - Active market alerts, conviction grades, and sector positioning biases.
+- **Section 2: Daily Market Brief (`#intelBriefContent`)**:
+  - Daily synthesized desk intelligence briefing with executive TL;DR, dry bulk & tanker breakdowns, and previous/next calendar date history navigation.
+- **Section 3: Research Q&A Assistant**:
+  - **Direct-CORS Multi-Provider Execution**: Browser-native API key storage for Groq, Google Gemini, and OpenRouter.
+  - **30 Curated Institutional Research Questions**: 5 categories (Daily Briefing, Market Signals, Fleet Supply, Macro & Cargo, Trade Strategy).
+  - **🌐 Google Search Grounding**: Live web queries for breaking maritime news, freight prints, and geopolitical updates.
+  - **🔬 Deep Research Mode**: Context scaling up to 60 ranked passages (~32,000+ tokens) across 10-year historical report archives.
+  - **Scope Filtering**: Breakwave, Baltic, Hellenic, Iron Ore, Shipbuilding, and Domain Textbooks.
 
 ---
 

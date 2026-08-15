@@ -8010,6 +8010,7 @@
   <!-- MAIN CONTENT -->
   <div class="main">
 
+    <!-- ===== TAB: DASHBOARD ===== -->
     <div class="tab-panel active" id="tab-dashboard">
       <div class="dashboard-hero mb-20">
         <div class="current-price-block">
@@ -8195,6 +8196,7 @@
 
     <!-- ===== TAB: HEATMAPS ===== -->
 
+    <!-- ===== TAB: YEARLY ===== -->
     <div class="tab-panel" id="tab-yearly-dash">
       <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
       <div class="chart-container mb-20">
@@ -8301,6 +8303,7 @@
 
     <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
 
+    <!-- ===== TAB: QUARTERLY ===== -->
     <div class="tab-panel" id="tab-quarterly">
       <!-- Win-Rate KPI Cards -->
       <div class="win-rate-row mb-20" id="winRateRow" data-tooltip="Probability of Expansion - historical 'Hit Rate' for this specific period. 60%+ signifies a high-conviction seasonal tailwind backed by decades of data."></div>
@@ -8347,9 +8350,10 @@
 
     <!-- ===== TAB: INDICES ===== -->
 
+    <!-- ===== TAB: MONTHLY ===== -->
     <div class="tab-panel" id="tab-monthly-dash">
       <!-- Win-Rate KPI Cards -->
-      <div class="win-rate-row mb-20" id="monthlyWinRateRow"></div>
+      <div class="win-rate-row mb-20" id="monthlyWinRateRow" data-tooltip="Monthly Win Rate — historical probability of each calendar month generating positive return based on multi-decade history."></div>
 
       <!-- Spaghetti Chart -->
       <div class="chart-container mb-20">
@@ -8389,6 +8393,7 @@
 
     <!-- ===== TAB: SIGNALS ===== -->
 
+    <!-- ===== TAB: HEATMAPS ===== -->
     <div class="tab-panel" id="tab-heatmaps">
       <div class="heatmap-view-row">
         <label for="heatmapViewSelect" data-tooltip="View Mode toggle - Absolute Values show raw index levels (useful for spotting price floors/ceilings). % Change mode converts each cell to the Month-over-Month or Quarter-over-Quarter % return, making seasonal momentum patterns immediately obvious.">Heatmap View:</label>
@@ -8423,12 +8428,14 @@
 
     <!-- ===== TAB: QUARTERLY ===== -->
 
+    <!-- ===== TAB: INDICES ===== -->
     <div class="tab-panel" id="tab-indices">
       <div class="indices-grid" id="indicesGrid"></div>
     </div>
 
     <!-- ===== TAB: ETFs ===== -->
 
+    <!-- ===== TAB: ETFs ===== -->
     <div class="tab-panel" id="tab-etfs">
       <div class="etf-grid" id="etfGrid"></div>
 
@@ -9110,7 +9117,7 @@
       <!-- ===================================================================== -->
       <!-- 4. DAY-BY-DAY ETF PORTFOLIO & PRICE SIMULATOR (GOLD STANDARD UI)      -->
       <!-- ===================================================================== -->
-      <div class="chart-container mb-20" id="etfDaySimulatorCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;overflow:hidden;">
+      <div class="chart-container mb-20" id="etfDaySimulatorCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;overflow:hidden;" data-tooltip="<div class='rt-title'>Point-in-Time Accounting Replay &amp; Forward Simulator</div><div class='rt-row'><span class='rt-label'>History Window</span><span class='rt-val'>40-Day Verified SEC Filings</span></div><div class='rt-row'><span class='rt-label'>Roll Schedule</span><span class='rt-val'>5-Axiom Deterministic Rules</span></div><div class='rt-note'>Replays daily futures variation margin, calendar lot roll decay, and secondary market premium/discount spreads.</div>">
         
         <!-- Ambient Background Glow -->
         <div class="sim-ambient-glow"></div>
@@ -9643,6 +9650,7 @@
 
     </div>
 
+    <!-- ===== TAB: SIGNALS ===== -->
     <div class="tab-panel" id="tab-signals">
 
       <!-- SECTION 1: DERIVATIVES & TECHNICALS (COLLAPSIBLE) -->
@@ -10010,7 +10018,7 @@
           <!-- Time Charter spot vs term curve -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="tcChartTitle" data-tooltip=" " data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
+              <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs 1-Year Time Charter Rate (TCE $/day) — overlays spot earnings against fixed 1-year period charter rates to identify market regime. Spot > 1Y TC = Strong near-term tightness / backwardated market; Spot < 1Y TC = Overcapacity / market weakness." data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present) into a continuous timeline" style="padding:3px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
@@ -10037,7 +10045,7 @@
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Tonnage Basin Arbitrage — compares Atlantic vs. Pacific 1-Year Time Charter rates across Capesize and Panamax vessel classes. High Atlantic/Pacific ratio signals strong Atlantic cargo demand or fleet imbalance." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific 1Y TC)</div>
               <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: —</div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10057,7 +10065,7 @@
           <!-- Leading Restocking Pressures -->
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
-              <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+              <div class="chart-title" id="restockingTitle" data-tooltip="Port Stocks vs Freight Spot — tracks relationship between China Qingdao iron ore inventories, CFR 62% ore prices, and Capesize spot rates. Low port inventories combined with high steel margins signal aggressive restocking demand." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
               <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10114,7 +10122,7 @@
           <!-- Vessel valuations and scrap floor -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
+              <div class="chart-title" id="valuationTitle" data-tooltip="Vessel Asset Values & Scrap Floor — tracks secondhand 10-year vessel values ($M), demolition/scrap price floor ($/LDT), and implied charter yields (1Y TC / Asset Price). When asset prices approach scrap value, downside risk is historically minimized." data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="valuationModeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
@@ -10141,7 +10149,7 @@
           <!-- Shipping Market Cycle Quadrant -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="quadrantChartTitle" data-tooltip=" " data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
+              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
             </div>
             <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;">
               <div class="chart-canvas-wrap" style="height:360px;flex:1;min-width:300px;"><canvas id="marketCycleQuadrantChart"></canvas></div>
@@ -10159,6 +10167,7 @@
 
     <!-- ── Intelligence Tab ──────────────────────────────────────────────── -->
 
+    <!-- ===== TAB: INTELLIGENCE ===== -->
     <div class="tab-panel" id="tab-intelligence">
 
       <!-- Section 1: Signal & Confluence Engine -->
