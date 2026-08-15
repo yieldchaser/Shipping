@@ -21579,17 +21579,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         label: 'OpenRouter (Multi-Model)',
         keyStorage: 'qa_key_openrouter',
         modelStorage: 'qa_model_openrouter',
-        defaultModel: 'openrouter/free',
+        defaultModel: 'meta-llama/llama-3.3-70b-instruct:free',
         keyLabel: 'OpenRouter Key',
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
         maxContextTokens: 32000,
         suggestions: [
-          'openrouter/free',
           'meta-llama/llama-3.3-70b-instruct:free',
           'deepseek/deepseek-r1:free',
           'mistralai/mistral-small-24b-instruct-2501:free',
-          'qwen/qwen-2.5-72b-instruct:free'
+          'qwen/qwen-2.5-72b-instruct:free',
+          'openrouter/free'
         ]
       }
     };
@@ -22082,13 +22082,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 throw new Error((providerLabel || 'Provider') + ' returned finish_reason=error mid-stream');
               }
               full += (obj?.choices?.[0]?.delta?.content || '');
-              onTok(full);
+              var displayFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '');
+              onTok(displayFull);
             } catch (err) {
               if (err.message && (err.message.includes('stream error') || err.message.includes('finish_reason'))) throw err;
             }
           }
         }
-        return { text: full || '(no response)', webCitations: [] };
+        var cleanedFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+        if (/^User Safety:\s*safe\s*$/i.test(cleanedFull) || /^Safety:\s*safe\s*$/i.test(cleanedFull) || (cleanedFull.length < 25 && /safe/i.test(cleanedFull))) {
+          throw new Error((providerLabel || 'Provider') + ' emitted a safety guardrail stub ("' + cleanedFull + '") instead of the actual completion. Retrying...');
+        }
+        return { text: cleanedFull || '(no response)', webCitations: [] };
       }
 
       const doStream = !!onToken && !options?.enableWebSearch;
@@ -22151,10 +22156,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (orStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
         const data = await res.json();
         if (data?.error) throw new Error('OpenRouter error: ' + (data.error.message || JSON.stringify(data.error)));
-        const orText = data?.choices?.[0]?.message?.content;
-        if (!orText || !orText.trim()) {
+        let orText = data?.choices?.[0]?.message?.content || '';
+        
+        // Strip leading safety classification lines if prepended
+        orText = orText.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+
+        if (!orText || /^User Safety:\s*safe\s*$/i.test(orText) || /^Safety:\s*safe\s*$/i.test(orText) || (orText.length < 25 && /safe/i.test(orText))) {
           const finishReason = data?.choices?.[0]?.finish_reason;
-          throw new Error('OpenRouter returned empty content (finish_reason=' + (finishReason || 'null') + '). Model: ' + (selectedModel || model));
+          throw new Error('OpenRouter free router returned a safety guardrail stub ("' + orText + '") instead of the actual completion (finish_reason=' + (finishReason || 'null') + '). Retrying with fallback...');
         }
         if (onToken) onToken(orText);
         return { text: orText, webCitations: [] };
@@ -22183,11 +22192,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _migrateOpenRouterModel() {
-      // OpenRouter: any pinned ':free' model -> openrouter/free auto-router
+      // OpenRouter: if currently set to 'openrouter/free', migrate to 'meta-llama/llama-3.3-70b-instruct:free' for superior reliability
       const orStored = localStorage.getItem('qa_model_openrouter') || '';
-      if (orStored && orStored !== 'openrouter/free' && orStored.endsWith(':free')) {
-        console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
-        localStorage.setItem('qa_model_openrouter', 'openrouter/free');
+      if (!orStored || orStored === 'openrouter/free') {
+        console.log('[QA] Migrating OpenRouter model', orStored, '→ meta-llama/llama-3.3-70b-instruct:free');
+        localStorage.setItem('qa_model_openrouter', 'meta-llama/llama-3.3-70b-instruct:free');
       }
       // Reset any stale provider pointing at removed providers (gemini, ollama, nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
