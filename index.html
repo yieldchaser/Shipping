@@ -8281,9 +8281,210 @@
     <div class="tab-panel" id="tab-etfs">
       <div class="etf-grid" id="etfGrid"></div>
 
-      <!-- Liquidity Tracker (BDRY / BWET tabbed) -->
-            <!-- ===================================================================== -->
-      <!--  BDRY & BWET ETF FUTURES DECONSTRUCTION & SCENARIO ENGINE -->
+      <!-- ===================================================================== -->
+      <!-- 1. DAILY FREIGHT & ETF MARKET INTELLIGENCE BRIEF (SERVER AI POWERED) -->
+      <!-- ===================================================================== -->
+      <div class="chart-container mb-20" id="etfDailyBriefCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
+        
+        <!-- Header & Active Controls -->
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
+          <div style="flex:1 1 auto;min-width:0;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
+                  <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+                </svg>
+              </div>
+              <span>Daily Freight &amp; ETF Market Intelligence Brief</span>
+              <span id="etfBriefDateBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);">2026-08-14</span>
+              <span id="etfBriefEngineBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;" data-tooltip="Synthesized via server-side quantitative pipeline &amp; NVIDIA NIM / LLM models. Zero client-side API keys required.">
+                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (NIM / LLM)
+              </span>
+            </div>
+            <div style="font-size:12px;color:var(--text-muted);margin-top:4px;">
+              Multi-factor quantitative confluence, desk momentum grades, and forward curve roll dynamics synthesized by the server-side intelligence engine.
+            </div>
+          </div>
+
+          <!-- Controls: Fund Filter & Expand/Collapse -->
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <!-- Fund Filter Tabs -->
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
+              <button id="etfBriefFilterBdry" onclick="setEtfBriefFocus('bdry')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BDRY (Capesize, Panamax, Supramax dry bulk).">BDRY (Dry Bulk)</button>
+              <button id="etfBriefFilterBwet" onclick="setEtfBriefFocus('bwet')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BWET (VLCC and Suezmax crude tankers).">BWET (Tankers)</button>
+            </div>
+
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="etfBriefCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfDailyBriefCollapse()" data-tooltip="Toggle brief expansion">
+              <svg id="etfBriefCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="etfBriefCollapseText">Expand</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Dynamic Brief Content Container (Collapsed by default) -->
+        <div id="etfDailyBriefContent" style="display:none; transition:all 0.2s ease;">
+          <div style="text-align:center;padding:24px;color:var(--text-muted);">
+            <div class="spinner" style="margin:0 auto 8px;"></div>
+            Loading latest institutional freight intelligence...
+          </div>
+        </div>
+
+      </div>
+
+      <!-- ===================================================================== -->
+      <!-- 2. INSTITUTIONAL ETF & SCENARIO INTELLIGENCE COPILOT ("ASK ANYTHING") -->
+      <!-- ===================================================================== -->
+      <div class="chart-container mb-20" id="etfQaCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
+        
+        <!-- Header & Active Badge -->
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
+          <div style="flex:1 1 auto;min-width:0;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div class="icon-tile icon-tile-accent icon-tile-md">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </div>
+              <span>ETF &amp; Scenario Intelligence Copilot</span>
+              <span id="etfQaFundBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY (Dry Bulk)</span>
+              <span id="etfQaLiveStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;">
+                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> AI Grounded
+              </span>
+            </div>
+            <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
+              Ask anything in plain English about constituent futures exposures, multi-month holding resolution, 5-axiom roll decay, SGX forward curves, fund flows, or asymmetric shocks.
+            </div>
+          </div>
+
+          <!-- Switcher to match active tab & Expand/Collapse -->
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
+              <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
+            </div>
+            <!-- Collapse / Expand Toggle Button -->
+            <button id="etfQaCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfQaCardCollapse()" data-tooltip="Toggle Copilot expansion">
+              <svg id="etfQaCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+              <span id="etfQaCollapseText">Expand</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Collapsible Content Wrapper (Collapsed by default) -->
+        <div id="etfQaCardContent" style="display:none; transition:all 0.2s ease;">
+
+        <!-- Provider and API Key Row -->
+        <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
+          <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
+          <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
+            <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
+            <option value="openrouter">OpenRouter (Multi-Model)</option>
+          </select>
+          <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
+          <span class="qa-key-label" id="etfQaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab.">Groq Key</span>
+          <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab." />
+          <span class="qa-key-label" data-tooltip="Select from flagship open-weights and proprietary models, or choose '✏️ Custom Model...' to enter any model ID.">Model</span>
+          <select id="etfQaModel" class="qa-key-input qa-model-select" data-tt-type="llm-model-info" onchange="onQAModelSelectChange(this, 'etf')"></select>
+          <button class="qa-key-btn" onclick="saveEtfQASettings()" data-tooltip="Save provider, API key, and model preferences to browser localStorage.">Save</button>
+          <span id="etfQaKeyStatus" style="font-size:11px;color:var(--green);font-weight:600;"></span>
+        </div>
+
+        <!-- Scope & Mode Controls -->
+        <div class="qa-scope-row" style="margin-bottom:12px;">
+          <span class="qa-scope-lbl">Grounded Context:</span>
+          <label class="qa-scope-item" data-tooltip="Live official constituent contract holdings table with active lot weights and notionals."><input type="checkbox" id="etfQaSrcHoldings" checked disabled> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> Active Disclosed Book</label>
+          <label class="qa-scope-item" data-tooltip="Live SGX settlement curves for Capesize, Panamax, Supramax, Handysize, VLCC, and Suezmax."><input type="checkbox" id="etfQaSrcCurves" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> SGX Forward Curves</label>
+          <label class="qa-scope-item" data-tooltip="5-Axiom calendar roll schedules, business day progression, and prompt lot decay mechanics."><input type="checkbox" id="etfQaSrcRoll" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg> 5-Axiom Roll Schedules</label>
+          <label class="qa-scope-item" data-tooltip="Official CFTC Rule 4.22(h) monthly statements and SEC Form 10-Q quarterly reports."><input type="checkbox" id="etfQaSrcFilings" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> CFTC &amp; SEC Filings</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: queries live web for real-time freight prints, fixtures, and tanker news (Gemini)."><input type="checkbox" id="etfQaSrcWebSearch"> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> Web Search (Live)</label>
+          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Context: injects active scenario slider state, custom forward roll-in legs, and 2-year forward strip matrices."><input type="checkbox" id="etfQaDeepContext" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> Deep Scenario Context</label>
+        </div>
+
+        <!-- Question Input Row -->
+        <div class="qa-input-row">
+          <textarea id="etfQaQuery" class="qa-textarea" placeholder="e.g. If I invest in BDRY or BWET today and hold for 3 months, how does my trade resolve over time? Which specific contract months must rise and in what sequence for the trade to be profitable?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runEtfQAQuery()}"></textarea>
+          <button id="etfQaSubmitBtn" class="qa-submit" onclick="runEtfQAQuery()">Ask Copilot</button>
+        </div>
+
+        <!-- 5-Category Suggested ETF Queries -->
+        <div class="sq-wrap">
+          <p class="sq-label">Suggested ETF &amp; Scenario Queries</p>
+          <div class="sq-tabs" id="etfQaTabs">
+            <button class="sq-tab active" data-cat="exposures"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>Contract Exposures</button>
+            <button class="sq-tab" data-cat="roll"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>Roll Yield &amp; Carry</button>
+            <button class="sq-tab" data-cat="shocks"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Scenario Shocks &amp; PnL</button>
+            <button class="sq-tab" data-cat="flows"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M3 21h18M3 10h18M5 6l7-3 7 3M4 10v11M20 10v11M8 14v4M12 14v4M16 14v4"/></svg>Fund Flows &amp; AUM</button>
+            <button class="sq-tab" data-cat="strategy"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>Strategy &amp; Holding</button>
+          </div>
+
+          <!-- Panel 1: Contract Exposures & Thesis Translation -->
+          <div class="sq-panel visible" id="etf-panel-exposures">
+            <button class="sq-q" onclick="etfSq('If I buy BDRY or BWET today and hold for 2 to 3 months, which exact futures contracts am I betting on, and how does the lot transition work across months?')">Multi-Month Hold: Exact contract bets &amp; rollover path</button>
+            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share based on today\'s lot weights?')">Contract with largest $/share sensitivity</button>
+            <button class="sq-q" onclick="etfSq('Translate a macro thesis: If Capesize rates surge +25% while Panamax stays flat, what is the exact ETF share price target and dollar gain on 2,500 shares?')">Translate +25% Capesize thesis to ETF target</button>
+            <button class="sq-q" onclick="etfSq('Why does the fund hold a laddered basket of prompt and deferred contracts rather than concentrating 100% in the front-month contract?')">Why laddered contracts instead of front month only?</button>
+            <button class="sq-q" onclick="etfSq('How is portfolio notional exposure currently split across vessel classes and contract maturities?')">Portfolio exposure split across vessel classes</button>
+            <button class="sq-q" onclick="etfSq('What is the current Futures Notional to Fund AUM exposure ratio and effective leverage?')">Futures Notional vs AUM leverage ratio</button>
+          </div>
+
+          <!-- Panel 2: Roll Yield & Curve Term Structure -->
+          <div class="sq-panel" id="etf-panel-roll">
+            <button class="sq-q" onclick="etfSq('What is the expected roll yield carry (drag or gain) over the next 60 days based on active SGX forward curve spreads?')">Expected 60-day roll yield carry (drag/gain)</button>
+            <button class="sq-q" onclick="etfSq('Is the active forward curve in contango or backwardation across prompt vs forward strips, and what is the annualized carry yield?')">Contango vs Backwardation carry analysis</button>
+            <button class="sq-q" onclick="etfSq('Explain how the 5-Axiom calendar roll decay transfers lots from prompt to forward strips between business days 1 and 15.')">How 5-Axiom calendar roll mechanics work</button>
+            <button class="sq-q" onclick="etfSq('What happens to prompt contract lots on the final business day of the roll window, and how does cash settlement work?')">Prompt contract fate on final roll day</button>
+            <button class="sq-q" onclick="etfSq('Compare the annualized roll yields across Capesize, Panamax, and Supramax term structures right now.')">Annualized roll yield across vessel classes</button>
+            <button class="sq-q" onclick="etfSq('Why does structural backwardation generate positive roll carry while contango creates persistent NAV erosion?')">Why backwardation creates positive carry</button>
+          </div>
+
+          <!-- Panel 3: Scenario Shocks & PnL Sensitivity -->
+          <div class="sq-panel" id="etf-panel-shocks">
+            <button class="sq-q" onclick="etfSq('If I invest today and hold for 3 months, which contract months\' rates must rise and in what specific order for my trade to be profitable?')">3-Month Hold: Which months must rise in what order?</button>
+            <button class="sq-q" onclick="etfSq('If Capesize freight rates rally +20% and Panamax drops -10%, what is the projected ETF share price and net portfolio PnL?')">Capesize +20% / Panamax -10%: Share price &amp; PnL</button>
+            <button class="sq-q" onclick="etfSq('What uniform freight rate rally % across all contracts is required to achieve a 25% target increase in ETF share price?')">Required freight rally % for target share price</button>
+            <button class="sq-q" onclick="etfSq('If tanker VLCC TD3C freight rates spike on geopolitical rerouting, how does that shock transmit to ETF share price?')">Tanker geopolitical freight spike transmission</button>
+            <button class="sq-q" onclick="etfSq('How do asymmetric micro-shocks across individual contract months aggregate into net variation margin and $/share change?')">Micro-shocks aggregation math &amp; $/share impact</button>
+            <button class="sq-q" onclick="etfSq('What are the primary price divergence risks between Baltic spot index prints and ETF NAV during high-volatility roll periods?')">Spot prints vs ETF NAV divergence in roll periods</button>
+          </div>
+
+          <!-- Panel 4: Fund Flows, AUM & AP Mechanics -->
+          <div class="sq-panel" id="etf-panel-flows">
+            <button class="sq-q" onclick="etfSq('How do current fund AUM, shares outstanding, and basket creation/redemption trends compare to historical freight cycles?')">Current AUM &amp; shares outstanding vs historical cycles</button>
+            <button class="sq-q" onclick="etfSq('Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep ETF market price pegged to NAV.')">AP 25,000-share creation basket arbitrage</button>
+            <button class="sq-q" onclick="etfSq('What market signals and sentiment shifts can be inferred from institutional share count expansions and contractions?')">Institutional share count expansion/contraction signals</button>
+            <button class="sq-q" onclick="etfSq('How does yield earned on unencumbered cash collateral held in Treasury money market funds offset the Total Expense Ratio?')">Cash collateral Treasury yield vs Total Expense Ratio</button>
+            <button class="sq-q" onclick="etfSq('What are the CME and SGX clearing house initial margin (IM) and variation margin (VM) rules for fund futures positions?')">CME &amp; SGX clearing house margin requirements</button>
+            <button class="sq-q" onclick="etfSq('How does secondary market premium/discount arbitrage operate during severe market liquidity dislocations?')">Premium/Discount arbitrage in volatility</button>
+          </div>
+
+          <!-- Panel 5: Trade Strategy & Holding Period -->
+          <div class="sq-panel" id="etf-panel-strategy">
+            <button class="sq-q" onclick="etfSq('What are the primary structural risks of holding commodity shipping ETFs beyond a single monthly roll cycle?')">Risks of holding shipping ETFs longer than 3 months</button>
+            <button class="sq-q" onclick="etfSq('How does holding freight futures ETFs differ from investing in physical dry bulk and tanker shipping equities?')">Freight Futures ETFs vs Shipping Equities</button>
+            <button class="sq-q" onclick="etfSq('What is the optimal entry and exit timing window relative to the monthly 15-business-day calendar roll schedule?')">Optimal entry window in monthly roll cycle</button>
+            <button class="sq-q" onclick="etfSq('How does seasonal freight demand (Q1 winter lull vs Q3/Q4 grain and ore export surges) affect ETF tracking?')">Seasonal demand peaks/troughs impact on ETF tracking</button>
+            <button class="sq-q" onclick="etfSq('How can a physical charterer or shipowner hedge physical vessel charter parties using ETF shares?')">Hedging physical vessel charters with ETF shares</button>
+            <button class="sq-q" onclick="etfSq('What specific forward curve flattening or freight breakdown signals should trigger an immediate invalidation of a long thesis?')">Thesis invalidation &amp; stop-loss risk triggers</button>
+          </div>
+
+          <p class="sq-hint">Select a category above, then click any prompt to run it instantly with full quantitative portfolio grounding.</p>
+        </div>
+
+        <!-- Result Panel -->
+        <div id="etfQaResultPanel" style="display:none;" class="qa-result-panel">
+          <div id="etfQaStatus" class="qa-status"></div>
+          <div id="etfQaActions" style="display:none;"></div>
+          <div id="etfQaAnswer" class="qa-answer"></div>
+          <div id="etfQaCitations" class="qa-cit-list"></div>
+        </div>
+        </div> <!-- /#etfQaCardContent -->
+
+      </div>
+
+      <!-- ===================================================================== -->
+      <!-- 3. BDRY & BWET ETF FUTURES DECONSTRUCTION & SCENARIO TRANSLATOR       -->
       <!-- ===================================================================== -->
       <div class="chart-container mb-20" id="etfDeconstructCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
@@ -8756,209 +8957,7 @@
       </div> <!-- /#etfDeconstructCard -->
 
       <!-- ===================================================================== -->
-      <!--  INSTITUTIONAL ETF & SCENARIO INTELLIGENCE COPILOT ("ASK ANYTHING")    -->
-      <!-- ===================================================================== -->
-      <div class="chart-container mb-20" id="etfQaCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
-        
-        <!-- Header & Active Badge -->
-        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
-          <div style="flex:1 1 auto;min-width:0;">
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div class="icon-tile icon-tile-accent icon-tile-md">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
-                </svg>
-              </div>
-              <span>ETF &amp; Scenario Intelligence Copilot</span>
-              <span id="etfQaFundBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY (Dry Bulk)</span>
-              <span id="etfQaLiveStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;">
-                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> AI Grounded
-              </span>
-            </div>
-            <div style="font-size:12px;color:var(--text-muted);margin-top:2px;">
-              Ask anything in plain English about constituent futures exposures, multi-month holding resolution, 5-axiom roll decay, SGX forward curves, fund flows, or asymmetric shocks.
-            </div>
-          </div>
-
-          <!-- Switcher to match active tab & Expand/Collapse -->
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
-              <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
-            </div>
-            <!-- Collapse / Expand Toggle Button -->
-            <button id="etfQaCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfQaCardCollapse()" data-tooltip="Toggle Copilot expansion">
-              <svg id="etfQaCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
-              <span id="etfQaCollapseText">Expand</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Collapsible Content Wrapper (Collapsed by default) -->
-        <div id="etfQaCardContent" style="display:none; transition:all 0.2s ease;">
-
-        <!-- Provider and API Key Row -->
-        <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
-          <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
-          <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
-            <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
-            <option value="openrouter">OpenRouter (Multi-Model)</option>
-          </select>
-          <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
-          <span class="qa-key-label" id="etfQaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab.">Groq Key</span>
-          <input type="password" id="etfQaApiKey" class="qa-key-input" placeholder="gsk_... (synchronized with Research tab)" data-tooltip="API Key is stored exclusively in your browser's localStorage and synchronized with the Research tab." />
-          <span class="qa-key-label" data-tooltip="Select from flagship open-weights and proprietary models, or choose '✏️ Custom Model...' to enter any model ID.">Model</span>
-          <select id="etfQaModel" class="qa-key-input qa-model-select" data-tt-type="llm-model-info" onchange="onQAModelSelectChange(this, 'etf')"></select>
-          <button class="qa-key-btn" onclick="saveEtfQASettings()" data-tooltip="Save provider, API key, and model preferences to browser localStorage.">Save</button>
-          <span id="etfQaKeyStatus" style="font-size:11px;color:var(--green);font-weight:600;"></span>
-        </div>
-
-        <!-- Scope & Mode Controls -->
-        <div class="qa-scope-row" style="margin-bottom:12px;">
-          <span class="qa-scope-lbl">Grounded Context:</span>
-          <label class="qa-scope-item" data-tooltip="Live official constituent contract holdings table with active lot weights and notionals."><input type="checkbox" id="etfQaSrcHoldings" checked disabled> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> Active Disclosed Book</label>
-          <label class="qa-scope-item" data-tooltip="Live SGX settlement curves for Capesize, Panamax, Supramax, Handysize, VLCC, and Suezmax."><input type="checkbox" id="etfQaSrcCurves" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> SGX Forward Curves</label>
-          <label class="qa-scope-item" data-tooltip="5-Axiom calendar roll schedules, business day progression, and prompt lot decay mechanics."><input type="checkbox" id="etfQaSrcRoll" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg> 5-Axiom Roll Schedules</label>
-          <label class="qa-scope-item" data-tooltip="Official CFTC Rule 4.22(h) monthly statements and SEC Form 10-Q quarterly reports."><input type="checkbox" id="etfQaSrcFilings" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> CFTC &amp; SEC Filings</label>
-          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Google Search Grounding: queries live web for real-time freight prints, fixtures, and tanker news (Gemini)."><input type="checkbox" id="etfQaSrcWebSearch"> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> Web Search (Live)</label>
-          <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Deep Context: injects active scenario slider state, custom forward roll-in legs, and 2-year forward strip matrices."><input type="checkbox" id="etfQaDeepContext" checked> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> Deep Scenario Context</label>
-        </div>
-
-        <!-- Question Input Row -->
-        <div class="qa-input-row">
-          <textarea id="etfQaQuery" class="qa-textarea" placeholder="e.g. If I invest in BDRY or BWET today and hold for 3 months, how does my trade resolve over time? Which specific contract months must rise and in what sequence for the trade to be profitable?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runEtfQAQuery()}"></textarea>
-          <button id="etfQaSubmitBtn" class="qa-submit" onclick="runEtfQAQuery()">Ask Copilot</button>
-        </div>
-
-        <!-- 5-Category Suggested ETF Queries -->
-        <div class="sq-wrap">
-          <p class="sq-label">Suggested ETF &amp; Scenario Queries</p>
-          <div class="sq-tabs" id="etfQaTabs">
-            <button class="sq-tab active" data-cat="exposures"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>Contract Exposures</button>
-            <button class="sq-tab" data-cat="roll"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>Roll Yield &amp; Carry</button>
-            <button class="sq-tab" data-cat="shocks"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Scenario Shocks &amp; PnL</button>
-            <button class="sq-tab" data-cat="flows"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M3 21h18M3 10h18M5 6l7-3 7 3M4 10v11M20 10v11M8 14v4M12 14v4M16 14v4"/></svg>Fund Flows &amp; AUM</button>
-            <button class="sq-tab" data-cat="strategy"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>Strategy &amp; Holding</button>
-          </div>
-
-          <!-- Panel 1: Contract Exposures & Thesis Translation -->
-          <div class="sq-panel visible" id="etf-panel-exposures">
-            <button class="sq-q" onclick="etfSq('If I buy BDRY or BWET today and hold for 2 to 3 months, which exact futures contracts am I betting on, and how does the lot transition work across months?')">Multi-Month Hold: Exact contract bets &amp; rollover path</button>
-            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share based on today\'s lot weights?')">Contract with largest $/share sensitivity</button>
-            <button class="sq-q" onclick="etfSq('Translate a macro thesis: If Capesize rates surge +25% while Panamax stays flat, what is the exact ETF share price target and dollar gain on 2,500 shares?')">Translate +25% Capesize thesis to ETF target</button>
-            <button class="sq-q" onclick="etfSq('Why does the fund hold a laddered basket of prompt and deferred contracts rather than concentrating 100% in the front-month contract?')">Why laddered contracts instead of front month only?</button>
-            <button class="sq-q" onclick="etfSq('How is portfolio notional exposure currently split across vessel classes and contract maturities?')">Portfolio exposure split across vessel classes</button>
-            <button class="sq-q" onclick="etfSq('What is the current Futures Notional to Fund AUM exposure ratio and effective leverage?')">Futures Notional vs AUM leverage ratio</button>
-          </div>
-
-          <!-- Panel 2: Roll Yield & Curve Term Structure -->
-          <div class="sq-panel" id="etf-panel-roll">
-            <button class="sq-q" onclick="etfSq('What is the expected roll yield carry (drag or gain) over the next 60 days based on active SGX forward curve spreads?')">Expected 60-day roll yield carry (drag/gain)</button>
-            <button class="sq-q" onclick="etfSq('Is the active forward curve in contango or backwardation across prompt vs forward strips, and what is the annualized carry yield?')">Contango vs Backwardation carry analysis</button>
-            <button class="sq-q" onclick="etfSq('Explain how the 5-Axiom calendar roll decay transfers lots from prompt to forward strips between business days 1 and 15.')">How 5-Axiom calendar roll mechanics work</button>
-            <button class="sq-q" onclick="etfSq('What happens to prompt contract lots on the final business day of the roll window, and how does cash settlement work?')">Prompt contract fate on final roll day</button>
-            <button class="sq-q" onclick="etfSq('Compare the annualized roll yields across Capesize, Panamax, and Supramax term structures right now.')">Annualized roll yield across vessel classes</button>
-            <button class="sq-q" onclick="etfSq('Why does structural backwardation generate positive roll carry while contango creates persistent NAV erosion?')">Why backwardation creates positive carry</button>
-          </div>
-
-          <!-- Panel 3: Scenario Shocks & PnL Sensitivity -->
-          <div class="sq-panel" id="etf-panel-shocks">
-            <button class="sq-q" onclick="etfSq('If I invest today and hold for 3 months, which contract months\' rates must rise and in what specific order for my trade to be profitable?')">3-Month Hold: Which months must rise in what order?</button>
-            <button class="sq-q" onclick="etfSq('If Capesize freight rates rally +20% and Panamax drops -10%, what is the projected ETF share price and net portfolio PnL?')">Capesize +20% / Panamax -10%: Share price &amp; PnL</button>
-            <button class="sq-q" onclick="etfSq('What uniform freight rate rally % across all contracts is required to achieve a 25% target increase in ETF share price?')">Required freight rally % for target share price</button>
-            <button class="sq-q" onclick="etfSq('If tanker VLCC TD3C freight rates spike on geopolitical rerouting, how does that shock transmit to ETF share price?')">Tanker geopolitical freight spike transmission</button>
-            <button class="sq-q" onclick="etfSq('How do asymmetric micro-shocks across individual contract months aggregate into net variation margin and $/share change?')">Micro-shocks aggregation math &amp; $/share impact</button>
-            <button class="sq-q" onclick="etfSq('What are the primary price divergence risks between Baltic spot index prints and ETF NAV during high-volatility roll periods?')">Spot prints vs ETF NAV divergence in roll periods</button>
-          </div>
-
-          <!-- Panel 4: Fund Flows, AUM & AP Mechanics -->
-          <div class="sq-panel" id="etf-panel-flows">
-            <button class="sq-q" onclick="etfSq('How do current fund AUM, shares outstanding, and basket creation/redemption trends compare to historical freight cycles?')">Current AUM &amp; shares outstanding vs historical cycles</button>
-            <button class="sq-q" onclick="etfSq('Explain how Authorized Participants (APs) create and redeem 25,000-share creation units to keep ETF market price pegged to NAV.')">AP 25,000-share creation basket arbitrage</button>
-            <button class="sq-q" onclick="etfSq('What market signals and sentiment shifts can be inferred from institutional share count expansions and contractions?')">Institutional share count expansion/contraction signals</button>
-            <button class="sq-q" onclick="etfSq('How does yield earned on unencumbered cash collateral held in Treasury money market funds offset the Total Expense Ratio?')">Cash collateral Treasury yield vs Total Expense Ratio</button>
-            <button class="sq-q" onclick="etfSq('What are the CME and SGX clearing house initial margin (IM) and variation margin (VM) rules for fund futures positions?')">CME &amp; SGX clearing house margin requirements</button>
-            <button class="sq-q" onclick="etfSq('How does secondary market premium/discount arbitrage operate during severe market liquidity dislocations?')">Premium/Discount arbitrage in volatility</button>
-          </div>
-
-          <!-- Panel 5: Trade Strategy & Holding Period -->
-          <div class="sq-panel" id="etf-panel-strategy">
-            <button class="sq-q" onclick="etfSq('What are the primary structural risks of holding commodity shipping ETFs beyond a single monthly roll cycle?')">Risks of holding shipping ETFs longer than 3 months</button>
-            <button class="sq-q" onclick="etfSq('How does holding freight futures ETFs differ from investing in physical dry bulk and tanker shipping equities?')">Freight Futures ETFs vs Shipping Equities</button>
-            <button class="sq-q" onclick="etfSq('What is the optimal entry and exit timing window relative to the monthly 15-business-day calendar roll schedule?')">Optimal entry window in monthly roll cycle</button>
-            <button class="sq-q" onclick="etfSq('How does seasonal freight demand (Q1 winter lull vs Q3/Q4 grain and ore export surges) affect ETF tracking?')">Seasonal demand peaks/troughs impact on ETF tracking</button>
-            <button class="sq-q" onclick="etfSq('How can a physical charterer or shipowner hedge physical vessel charter parties using ETF shares?')">Hedging physical vessel charters with ETF shares</button>
-            <button class="sq-q" onclick="etfSq('What specific forward curve flattening or freight breakdown signals should trigger an immediate invalidation of a long thesis?')">Thesis invalidation &amp; stop-loss risk triggers</button>
-          </div>
-
-          <p class="sq-hint">Select a category above, then click any prompt to run it instantly with full quantitative portfolio grounding.</p>
-        </div>
-
-        <!-- Result Panel -->
-        <div id="etfQaResultPanel" style="display:none;" class="qa-result-panel">
-          <div id="etfQaStatus" class="qa-status"></div>
-          <div id="etfQaActions" style="display:none;"></div>
-          <div id="etfQaAnswer" class="qa-answer"></div>
-          <div id="etfQaCitations" class="qa-cit-list"></div>
-        </div>
-        </div> <!-- /#etfQaCardContent -->
-
-      </div>
-
-      <!-- ===================================================================== -->
-      <!--  DAILY FREIGHT & ETF MARKET INTELLIGENCE BRIEF (SERVER AI POWERED)    -->
-      <!-- ===================================================================== -->
-      <div class="chart-container mb-20" id="etfDailyBriefCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
-        
-        <!-- Header & Active Controls -->
-        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
-          <div style="flex:1 1 auto;min-width:0;">
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
-                  <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
-                </svg>
-              </div>
-              <span>Daily Freight &amp; ETF Market Intelligence Brief</span>
-              <span id="etfBriefDateBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);">2026-08-14</span>
-              <span id="etfBriefEngineBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;" data-tooltip="Synthesized via server-side quantitative pipeline &amp; NVIDIA NIM / LLM models. Zero client-side API keys required.">
-                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (NIM / LLM)
-              </span>
-            </div>
-            <div style="font-size:12px;color:var(--text-muted);margin-top:4px;">
-              Multi-factor quantitative confluence, desk momentum grades, and forward curve roll dynamics synthesized by the server-side intelligence engine.
-            </div>
-          </div>
-
-          <!-- Controls: Fund Filter & Expand/Collapse -->
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <!-- Fund Filter Tabs -->
-            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
-              <button id="etfBriefFilterBdry" onclick="setEtfBriefFocus('bdry')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BDRY (Capesize, Panamax, Supramax dry bulk).">BDRY (Dry Bulk)</button>
-              <button id="etfBriefFilterBwet" onclick="setEtfBriefFocus('bwet')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Focus specifically on BWET (VLCC and Suezmax crude tankers).">BWET (Tankers)</button>
-            </div>
-
-            <!-- Collapse / Expand Toggle Button -->
-            <button id="etfBriefCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfDailyBriefCollapse()" data-tooltip="Toggle brief expansion">
-              <svg id="etfBriefCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
-              <span id="etfBriefCollapseText">Expand</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Dynamic Brief Content Container (Collapsed by default) -->
-        <div id="etfDailyBriefContent" style="display:none; transition:all 0.2s ease;">
-          <div style="text-align:center;padding:24px;color:var(--text-muted);">
-            <div class="spinner" style="margin:0 auto 8px;"></div>
-            Loading latest institutional freight intelligence...
-          </div>
-        </div>
-
-      </div>
-
-      <!-- ===================================================================== -->
-      <!--  DAY-BY-DAY ETF PORTFOLIO & PRICE SIMULATOR (GOLD STANDARD UI)       -->
+      <!-- 4. DAY-BY-DAY ETF PORTFOLIO & PRICE SIMULATOR (GOLD STANDARD UI)      -->
       <!-- ===================================================================== -->
       <div class="chart-container mb-20" id="etfDaySimulatorCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;overflow:hidden;">
         
@@ -9226,6 +9225,77 @@
         </div> <!-- /#simCardContent -->
       </div>
 
+      <!-- Premium / Discount History -->
+      <div class="chart-container mb-20" style="margin-top:24px;">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Sentiment Oscillator - tracks the gap between the ETF price and its Net Asset Value (NAV). Deep discounts (< -2.5%) indicate panic; high premiums signal FOMO.">Premium / Discount History - BDRY &amp; BWET</div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
+            <div class="toggle-group pd-ranges">
+              <button class="toggle-btn" id="pdBtn1m" onclick="setPDWindow('1m')">1M</button>
+              <button class="toggle-btn" id="pdBtn3m" onclick="setPDWindow('3m')">3M</button>
+              <button class="toggle-btn" id="pdBtn6m" onclick="setPDWindow('6m')">6M</button>
+              <button class="toggle-btn active" id="pdBtn1y" onclick="setPDWindow('1y')">1Y</button>
+              <button class="toggle-btn" id="pdBtn3y" onclick="setPDWindow('3y')">3Y</button>
+              <button class="toggle-btn" id="pdBtnAll" onclick="setPDWindow('all')">All</button>
+            </div>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding:2px 0 6px;">
+          <div class="index-range-label"><span>Range:</span><span id="pdRangeLabel">Loading…</span></div>
+          <div class="dual-range-track" id="pdRangeTrack">
+            <div class="dual-range-fill" id="pdRangeFill"></div>
+            <input type="range" id="pdRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="pdRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="pdHistChart"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+          Premium/Discount = (Market Price - NAV) / NAV × 100. Positive = ETF trades above NAV; negative = discount.
+        </div>
+      </div>
+
+      <!-- Fund Flow History -->
+      <div class="chart-container mb-20" style="margin-top:24px;">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="AP Participation (Fund Flow) - tracks 'Authorized Participant' activity. Large green bars signal institutional accumulation; red bars during a rally signal distribution / profit-taking.">Fund Flow History (BDRY &amp; BWET)</div>
+          <div class="flex-row" style="gap:12px;align-items:center;">
+            <div class="toggle-group flow-ranges" style="margin-right:8px;">
+              <button class="toggle-btn" id="flowBtn1m" onclick="setFlowWindow('1m')">1M</button>
+              <button class="toggle-btn" id="flowBtn3m" onclick="setFlowWindow('3m')">3M</button>
+              <button class="toggle-btn" id="flowBtn6m" onclick="setFlowWindow('6m')">6M</button>
+              <button class="toggle-btn" id="flowBtn1y" onclick="setFlowWindow('1y')">1Y</button>
+              <button class="toggle-btn active" id="flowBtn3y" onclick="setFlowWindow('3y')">3Y</button>
+              <button class="toggle-btn" id="flowBtnAll" onclick="setFlowWindow('all')">All</button>
+            </div>
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+              <button id="flowTabBdry" onclick="switchFlowTab('bdry')"
+                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
+              <button id="flowTabBwet" onclick="switchFlowTab('bwet')"
+                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
+            </div>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding:2px 0 6px;">
+          <div class="index-range-label"><span>Range:</span><span id="flowRangeLabel">Loading…</span></div>
+          <div class="dual-range-track" id="flowRangeTrack">
+            <div class="dual-range-fill" id="flowRangeFill"></div>
+            <input type="range" id="flowRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="flowRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">ETF NAV Price ($)</div>
+        <div class="chart-canvas-wrap" style="height:240px;margin-bottom:12px;"><canvas id="flowPriceChart"></canvas></div>
+        
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Daily Net Flow - each bar is a single day's net share creation/redemption in USD. Green bars = Authorized Participants created new ETF shares that day (net buying of underlying FFA futures). Red bars = APs redeemed shares (net selling). Large isolated red bars after a price rally often signal distribution; large green bars after a selloff signal accumulation.">Daily Net Flow - Inflow / Outflow ($)</div>
+        <div class="chart-canvas-wrap" style="height:180px;margin-bottom:12px;"><canvas id="flowDailyChart"></canvas></div>
+        
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Cumulative Net Flow ($) - running total of all daily creations minus redemptions. Recalculated to $0 at the left edge of the selected window. A persistently rising line = institutional capital building a position. A sharply falling line = institutional exit.">Cumulative Net Flow ($)</div>
+        <div class="chart-canvas-wrap" style="height:240px;"><canvas id="flowCumChart"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+          Daily flows represent creations/redemptions in USD. Cumulative flow is recalculated to start from $0 at the beginning of the selected range.
+        </div>
+      </div>
+
       <div class="chart-container mb-20" id="liqTrackerSection" style="margin-top:24px;">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Liquidity Tracker - estimates the maximum safe daily trade size for BDRY or BWET using rolling volume, spread, and volatility data sourced from the liquidity CSV files. 'Safe Liquidity' is the threshold below which an institutional order won't materially move the ETF price.">Liquidity Tracker</div>
@@ -9304,77 +9374,6 @@
           <div style="overflow-x:auto;max-height:420px;overflow-y:auto;" id="bwetLiqTableWrap">
             <div id="bwetLiqTable"></div>
           </div>
-        </div>
-      </div>
-
-      <!-- Premium / Discount History -->
-      <div class="chart-container mb-20" style="margin-top:24px;">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Sentiment Oscillator - tracks the gap between the ETF price and its Net Asset Value (NAV). Deep discounts (< -2.5%) indicate panic; high premiums signal FOMO.">Premium / Discount History - BDRY &amp; BWET</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
-            <div class="toggle-group pd-ranges">
-              <button class="toggle-btn" id="pdBtn1m" onclick="setPDWindow('1m')">1M</button>
-              <button class="toggle-btn" id="pdBtn3m" onclick="setPDWindow('3m')">3M</button>
-              <button class="toggle-btn" id="pdBtn6m" onclick="setPDWindow('6m')">6M</button>
-              <button class="toggle-btn active" id="pdBtn1y" onclick="setPDWindow('1y')">1Y</button>
-              <button class="toggle-btn" id="pdBtn3y" onclick="setPDWindow('3y')">3Y</button>
-              <button class="toggle-btn" id="pdBtnAll" onclick="setPDWindow('all')">All</button>
-            </div>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding:2px 0 6px;">
-          <div class="index-range-label"><span>Range:</span><span id="pdRangeLabel">Loading…</span></div>
-          <div class="dual-range-track" id="pdRangeTrack">
-            <div class="dual-range-fill" id="pdRangeFill"></div>
-            <input type="range" id="pdRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="pdRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="pdHistChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Premium/Discount = (Market Price - NAV) / NAV × 100. Positive = ETF trades above NAV; negative = discount.
-        </div>
-      </div>
-
-      <!-- Fund Flow History -->
-      <div class="chart-container mb-20" style="margin-top:24px;">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="AP Participation (Fund Flow) - tracks 'Authorized Participant' activity. Large green bars signal institutional accumulation; red bars during a rally signal distribution / profit-taking.">Fund Flow History (BDRY &amp; BWET)</div>
-          <div class="flex-row" style="gap:12px;align-items:center;">
-            <div class="toggle-group flow-ranges" style="margin-right:8px;">
-              <button class="toggle-btn" id="flowBtn1m" onclick="setFlowWindow('1m')">1M</button>
-              <button class="toggle-btn" id="flowBtn3m" onclick="setFlowWindow('3m')">3M</button>
-              <button class="toggle-btn" id="flowBtn6m" onclick="setFlowWindow('6m')">6M</button>
-              <button class="toggle-btn" id="flowBtn1y" onclick="setFlowWindow('1y')">1Y</button>
-              <button class="toggle-btn active" id="flowBtn3y" onclick="setFlowWindow('3y')">3Y</button>
-              <button class="toggle-btn" id="flowBtnAll" onclick="setFlowWindow('all')">All</button>
-            </div>
-            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="flowTabBdry" onclick="switchFlowTab('bdry')"
-                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
-              <button id="flowTabBwet" onclick="switchFlowTab('bwet')"
-                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
-            </div>
-          </div>
-        </div>
-        <div class="index-range-wrap" style="padding:2px 0 6px;">
-          <div class="index-range-label"><span>Range:</span><span id="flowRangeLabel">Loading…</span></div>
-          <div class="dual-range-track" id="flowRangeTrack">
-            <div class="dual-range-fill" id="flowRangeFill"></div>
-            <input type="range" id="flowRangeStart" min="0" max="100" value="0" step="1">
-            <input type="range" id="flowRangeEnd" min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">ETF NAV Price ($)</div>
-        <div class="chart-canvas-wrap" style="height:240px;margin-bottom:12px;"><canvas id="flowPriceChart"></canvas></div>
-        
-        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Daily Net Flow - each bar is a single day's net share creation/redemption in USD. Green bars = Authorized Participants created new ETF shares that day (net buying of underlying FFA futures). Red bars = APs redeemed shares (net selling). Large isolated red bars after a price rally often signal distribution; large green bars after a selloff signal accumulation.">Daily Net Flow - Inflow / Outflow ($)</div>
-        <div class="chart-canvas-wrap" style="height:180px;margin-bottom:12px;"><canvas id="flowDailyChart"></canvas></div>
-        
-        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Cumulative Net Flow ($) - running total of all daily creations minus redemptions. Recalculated to $0 at the left edge of the selected window. A persistently rising line = institutional capital building a position. A sharply falling line = institutional exit.">Cumulative Net Flow ($)</div>
-        <div class="chart-canvas-wrap" style="height:240px;"><canvas id="flowCumChart"></canvas></div>
-        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Daily flows represent creations/redemptions in USD. Cumulative flow is recalculated to start from $0 at the beginning of the selected range.
         </div>
       </div>
 
