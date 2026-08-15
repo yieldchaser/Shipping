@@ -8743,76 +8743,8 @@
             <div>&bull; <strong>Premium/Discount:</strong> Secondary market price reflects market supply/demand premium or discount to NAV.</div>
           </div>
         </details>
-
-        <!-- Institutional Decision Ticket Modal -->
-        <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;">
-          <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
-            <!-- Modal Header -->
-            <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
-              <div>
-                <div style="display:flex;align-items:center;gap:8px;">
-                  <div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg></div>
-                  <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
-                  <span id="dtModalFundBadge" style="font-size:10px;font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
-                </div>
-                <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);">DT-BDRY-20260814</span> &bull; <span id="dtModalTime">2026-08-14 15:00 UTC</span></div>
-              </div>
-              <div style="display:flex;gap:6px;align-items:center;">
-                <button onclick="copyDecisionTicketText()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">📄 Copy Text</button>
-                <button onclick="copyDecisionTicketJson()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">{ } Copy JSON</button>
-                <button onclick="closeDecisionTicketModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:20px;cursor:pointer;padding:0 6px;line-height:1;" title="Close Modal">&times;</button>
-              </div>
-            </div>
-
-            <!-- Modal Body Content -->
-            <div id="dtModalBody">
-              <!-- Rendered dynamically by renderDecisionTicketInModal() -->
-            </div>
-          </div>
-        </div>
-
-        <!-- Universal Institutional Contract Settlement Inspector Modal -->
-        <div id="etfContractDetailModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
-          <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
-            <!-- Modal Header -->
-            <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
-              <div>
-                <div style="display:flex;align-items:center;gap:8px;">
-                  <span id="cdModalRouteIcon" style="font-size:16px;">📈</span>
-                  <span style="font-size:15px;font-weight:800;letter-spacing:0.3px;" id="cdModalContractTitle">Contract Name</span>
-                  <span id="cdModalStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">ACTIVE STRIP</span>
-                </div>
-                <div id="cdModalSubtitle" style="font-size:11px;color:var(--text-muted);margin-top:3px;">Exchange Settled Daily Forward Curve History</div>
-              </div>
-              <div style="display:flex;gap:6px;align-items:center;">
-                <button onclick="closeContractDetailModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:22px;cursor:pointer;padding:0 6px;line-height:1;" title="Close (Esc)">&times;</button>
-              </div>
-            </div>
-
-            <!-- KPI Badges HUD Strip -->
-            <div id="cdModalBadgesRow" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:14px;">
-              <!-- Populated dynamically -->
-            </div>
-
-            <!-- Chart Container -->
-            <div style="height:280px;position:relative;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px;">
-              <canvas id="cdModalChartCanvas"></canvas>
-              <div id="cdModalNoDataMsg" style="display:none;height:100%;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--text-muted);">
-                <div style="font-size:24px;margin-bottom:6px;">📊</div>
-                <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>
-                <div style="font-size:11px;max-width:440px;line-height:1.4;">Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Scenario simulation remains 100% active in the predictor.</div>
-              </div>
-            </div>
-
-            <!-- Contract Metadata / Rulebook Footer -->
-            <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
-              <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
-              <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:9px;">ESC</kbd> to exit</span>
-            </div>
-          </div>
-        </div>
         </div> <!-- /#deconstCardContent -->
-      </div>
+      </div> <!-- /#etfDeconstructCard -->
 
       <!-- ===================================================================== -->
       <!--  INSTITUTIONAL ETF & SCENARIO INTELLIGENCE COPILOT ("ASK ANYTHING")    -->
@@ -9481,6 +9413,74 @@
           </div>
         </div>
         <div id="etfCorrMatrix" style="overflow-x:auto;margin-top:14px;"></div>
+      </div>
+
+      <!-- Institutional Decision Ticket Modal (Global) -->
+      <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;">
+        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
+          <!-- Modal Header -->
+          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
+            <div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg></div>
+                <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
+                <span id="dtModalFundBadge" style="font-size:10px;font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
+              </div>
+              <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);">DT-BDRY-20260814</span> &bull; <span id="dtModalTime">2026-08-14 15:00 UTC</span></div>
+            </div>
+            <div style="display:flex;gap:6px;align-items:center;">
+              <button onclick="copyDecisionTicketText()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">📄 Copy Text</button>
+              <button onclick="copyDecisionTicketJson()" class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">{ } Copy JSON</button>
+              <button onclick="closeDecisionTicketModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:20px;cursor:pointer;padding:0 6px;line-height:1;" title="Close Modal">&times;</button>
+            </div>
+          </div>
+
+          <!-- Modal Body Content -->
+          <div id="dtModalBody">
+            <!-- Rendered dynamically by renderDecisionTicketInModal() -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Universal Institutional Contract Settlement Inspector Modal (Global) -->
+      <div id="etfContractDetailModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10020;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
+        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
+          <!-- Modal Header -->
+          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+            <div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span id="cdModalRouteIcon" style="font-size:16px;">📈</span>
+                <span style="font-size:15px;font-weight:800;letter-spacing:0.3px;" id="cdModalContractTitle">Contract Name</span>
+                <span id="cdModalStatusBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">ACTIVE STRIP</span>
+              </div>
+              <div id="cdModalSubtitle" style="font-size:11px;color:var(--text-muted);margin-top:3px;">Exchange Settled Daily Forward Curve History</div>
+            </div>
+            <div style="display:flex;gap:6px;align-items:center;">
+              <button onclick="closeContractDetailModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:22px;cursor:pointer;padding:0 6px;line-height:1;" title="Close (Esc)">&times;</button>
+            </div>
+          </div>
+
+          <!-- KPI Badges HUD Strip -->
+          <div id="cdModalBadgesRow" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:14px;">
+            <!-- Populated dynamically -->
+          </div>
+
+          <!-- Chart Container -->
+          <div style="height:280px;position:relative;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px;">
+            <canvas id="cdModalChartCanvas"></canvas>
+            <div id="cdModalNoDataMsg" style="display:none;height:100%;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--text-muted);">
+              <div style="font-size:24px;margin-bottom:6px;">📊</div>
+              <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>
+              <div style="font-size:11px;max-width:440px;line-height:1.4;">Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Scenario simulation remains 100% active in the predictor.</div>
+            </div>
+          </div>
+
+          <!-- Contract Metadata / Rulebook Footer -->
+          <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
+            <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
+            <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:9px;">ESC</kbd> to exit</span>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -22351,18 +22351,30 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _renderMath(tex, isDisplay) {
-      const cleanTex = tex.trim();
+      let cleanTex = String(tex || '').trim();
+      // 1. Sanitize common LLM LaTeX glitches that cause KaTeX fatal parse errors
+      cleanTex = cleanTex.replace(/\\text\{\s*\$\s*\}/g, '\\text{\\$}');
+      cleanTex = cleanTex.replace(/\\text\{\s*\$([^\}]+)\}/g, '\\text{\\$$1}');
+      cleanTex = cleanTex.replace(/\\text\{([^\$]*)\$([^\}]*)\}/g, '\\text{$1\\$$2}');
+      cleanTex = cleanTex.replace(/(^|[^\\])\$([0-9,]+)/g, '$1\\$$2');
+      cleanTex = cleanTex.replace(/([0-9]+)\s*%/g, '$1\\%');
+
       if (typeof katex !== 'undefined' && typeof katex.renderToString === 'function') {
         try {
-          return katex.renderToString(cleanTex, {
+          const rendered = katex.renderToString(cleanTex, {
             displayMode: isDisplay,
             throwOnError: false
           });
+          // If KaTeX parsed cleanly without error span, return its output
+          if (rendered && !rendered.includes('katex-error')) {
+            return rendered;
+          }
         } catch (e) {
-          console.warn('[KaTeX Render]', e);
+          console.warn('[KaTeX Render Error]', e);
         }
       }
 
+      // 2. Fallback to clean, elegant pure HTML/CSS math formatting
       let html = _escapeHtml(cleanTex);
       html = _parseFractions(html);
       html = _formatMathInner(html);
@@ -22382,7 +22394,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
-        if (line.startsWith('|') && line.endsWith('|')) {
+        const isTableLine = line.includes('|') && (line.startsWith('|') || line.endsWith('|') || /\|.*\|/.test(line) || line.includes('---'));
+        if (isTableLine) {
           inTable = true;
           tableLines.push(line);
         } else {
@@ -22402,12 +22415,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _convertTableLinesToHtml(lines) {
       if (lines.length < 2) return lines.join('\n');
-      const parseRow = (row) => row.split('|').slice(1, -1).map(c => c.trim());
+      const parseRow = (row) => {
+        let r = row.trim();
+        if (r.startsWith('|')) r = r.slice(1);
+        if (r.endsWith('|')) r = r.slice(0, -1);
+        return r.split('|').map(c => c.trim());
+      };
       const headerCols = parseRow(lines[0]);
       
       let startBodyIdx = 1;
       const alignments = [];
-      if (lines[1].includes('---')) {
+      if (lines[1].includes('---') || lines[1].includes(':--')) {
         startBodyIdx = 2;
         const sepCols = parseRow(lines[1]);
         sepCols.forEach(c => {
@@ -23653,7 +23671,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Parse [CONTRACT:Ticker]
       esc = esc.replace(/\[CONTRACT:\s*([^\]]+)\]/gi, function(match, ticker) {
         var t = ticker.trim();
-        return '<button class="etf-qa-contract-pill" data-tt-type="etf-action-pill" data-tt-action="inspect" onclick="openContractDetailModal(\'' + t.replace(/'/g, "\\'") + '\')">' +
+        return '<button class="etf-qa-contract-pill" data-tooltip="Click to inspect official SGX settlement history for ' + t.replace(/"/g, '&quot;') + '" onclick="openContractDetailModal(\'' + t.replace(/'/g, "\\'") + '\')">' +
           '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle;margin-right:3px;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>' +
           '<span>' + t + '</span>' +
           '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-left:3px;opacity:0.75;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>' +
@@ -24569,21 +24587,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       document.addEventListener('mouseout', function(e) {
         const target = e.target.closest('[data-tooltip], [data-tt-type]');
-        if (!target) return;
-
-        // If the mouse is moving to an element that is still inside the target container, do nothing!
-        if (e.relatedTarget && target.contains(e.relatedTarget)) {
-          return;
+        if (target) {
+          if (e.relatedTarget && target.contains(e.relatedTarget)) {
+            return;
+          }
         }
-
-        hideTimer = setTimeout(() => tt.classList.remove('visible'), 80);
+        if (hideTimer) clearTimeout(hideTimer);
+        hideTimer = setTimeout(() => {
+          if (tt) tt.classList.remove('visible');
+        }, 50);
       });
 
       window.addEventListener('scroll', function() {
+        if (hideTimer) clearTimeout(hideTimer);
         if (tt) tt.classList.remove('visible');
       }, { passive: true });
 
       document.addEventListener('click', function() {
+        if (hideTimer) clearTimeout(hideTimer);
+        if (tt) tt.classList.remove('visible');
+      });
+
+      document.addEventListener('pointerdown', function() {
+        if (hideTimer) clearTimeout(hideTimer);
         if (tt) tt.classList.remove('visible');
       });
     })();
