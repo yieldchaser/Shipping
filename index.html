@@ -3082,15 +3082,48 @@
     pointer-events: none;
     z-index: 0;
   }
+  .etf-card-collapse-btn {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 4px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    height: 28px;
+    box-sizing: border-box;
+    transition: all 0.15s ease;
+    flex-shrink: 0;
+  }
+  .etf-card-collapse-btn:hover {
+    color: var(--text);
+    border-color: var(--accent);
+    background: rgba(255, 255, 255, 0.04);
+  }
   .sim-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     gap: 12px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     position: relative;
     z-index: 1;
+  }
+  .sim-header-left {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .sim-header-right {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
   }
   .sim-title {
     font-size: 16px;
@@ -3099,6 +3132,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    flex-wrap: wrap;
   }
   .sim-live-badge {
     font-size: 10px;
@@ -3129,10 +3163,10 @@
     gap: 4px;
   }
   .sim-toggle-btn {
-    padding: 5px 14px;
+    padding: 4px 12px;
     border: none;
     border-radius: 4px;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 700;
     cursor: pointer;
     background: transparent;
@@ -8201,10 +8235,10 @@
             <!-- ===================================================================== -->
       <!--  BDRY & BWET ETF FUTURES DECONSTRUCTION & SCENARIO ENGINE -->
       <!-- ===================================================================== -->
-      <div class="chart-container mb-20" id="etfDeconstructCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
-        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
-          <div>
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;" data-tooltip="<div class='rt-title'>Thesis-to-ETF Scenario Translator</div><div class='rt-row'><span class='rt-label'>Function</span><span class='rt-val'>Multi-Contract Shock Vector Engine</span></div><div class='rt-note'>Translates user-defined freight rate theses (e.g. +25% Capesize, -10% Panamax) into exact variation margin dollars ($), target share prices ($), and 2D sensitivity matrices.</div>">
+      <div class="chart-container mb-20" id="etfDeconstructCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
+          <div style="flex:1 1 auto;min-width:0;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;" data-tooltip="<div class='rt-title'>Thesis-to-ETF Scenario Translator</div><div class='rt-row'><span class='rt-label'>Function</span><span class='rt-val'>Multi-Contract Shock Vector Engine</span></div><div class='rt-note'>Translates user-defined freight rate theses (e.g. +25% Capesize, -10% Panamax) into exact variation margin dollars ($), target share prices ($), and 2D sensitivity matrices.</div>">
               <div style="display:inline-flex;align-items:center;gap:8px;"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg></div> <span>Thesis-to-ETF Scenario Translator</span></div>
               <span id="deconstLiveFreshnessBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);" data-tooltip="<div class='rt-title'>Archive Freshness &amp; Verification</div><div class='rt-row'><span class='rt-label'>Status</span><span class='rt-val pos'>1 Business Day Fresh • Verified</span></div><div class='rt-note'>Verified against the latest published Breakwave portfolio disclosure snapshot.</div>">1 bday fresh • VERIFIED</span>
             </div>
@@ -8213,26 +8247,15 @@
             </div>
           </div>
           
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <!-- Scenario Mode Switcher -->
-            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstModeFrozen" onclick="setDeconstScenarioMode('FROZEN_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Frozen Disclosed Book Mode</div><div class='rt-note'>Locks holdings to the official disclosed SEC filing basket. Assumes constant contract quantities across the scenario horizon.</div>">Frozen Disclosed Book</button>
-              <button id="deconstModeForward" onclick="setDeconstScenarioMode('USER_SPECIFIED_FORWARD_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Custom Forward Book Mode</div><div class='rt-note'>Unlocks full editing of constituent lot quantities and allows adding custom forward roll-in contracts for multi-month positioning models.</div>">Custom Forward Book</button>
-            </div>
-
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
-              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-note'>Switches translator to analyze Capesize, Panamax, and Supramax dry bulk freight futures.</div>">BDRY (Dry Bulk)</button>
-              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-note'>Switches translator to analyze VLCC and Suezmax crude oil tanker freight futures.</div>">BWET (Tankers)</button>
+              <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-note'>Switches translator to analyze Capesize, Panamax, and Supramax dry bulk freight futures.</div>">BDRY (Dry Bulk)</button>
+              <button id="deconstTabBwet" onclick="switchDeconstETF('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-note'>Switches translator to analyze VLCC and Suezmax crude oil tanker freight futures.</div>">BWET (Tankers)</button>
             </div>
 
-            <!-- Download Reconciliation CSV Button -->
-            <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;" data-tooltip="<div class='rt-title'>Export Reconciliation CSV</div><div class='rt-note'>Downloads complete line-by-line portfolio data, target marks, gross variation margin P&L, and NAV contributions in standard CSV format.</div>">
-              <span>⬇</span> Export CSV
-            </button>
-
             <!-- Collapse / Expand Toggle Button -->
-            <button id="deconstCollapseBtn" onclick="toggleDeconstCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Scenario Translator expansion">
+            <button id="deconstCollapseBtn" class="etf-card-collapse-btn" onclick="toggleDeconstCardCollapse()" data-tooltip="Toggle Scenario Translator expansion">
               <svg id="deconstCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
               <span id="deconstCollapseText">Expand</span>
             </button>
@@ -8241,6 +8264,21 @@
 
         <!-- Collapsible Content Wrapper (Collapsed by default) -->
         <div id="deconstCardContent" style="display:none; transition:all 0.2s ease;">
+          <!-- Scenario Mode & Export Toolbar (Inside Content) -->
+          <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:12px;padding:8px 12px;background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:6px;">
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <span style="font-size:11px;font-weight:700;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.5px;">Scenario Book:</span>
+              <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
+                <button id="deconstModeFrozen" onclick="setDeconstScenarioMode('FROZEN_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Frozen Disclosed Book Mode</div><div class='rt-note'>Locks holdings to the official disclosed SEC filing basket. Assumes constant contract quantities across the scenario horizon.</div>">Frozen Disclosed Book</button>
+                <button id="deconstModeForward" onclick="setDeconstScenarioMode('USER_SPECIFIED_FORWARD_BOOK')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="<div class='rt-title'>Custom Forward Book Mode</div><div class='rt-note'>Unlocks full editing of constituent lot quantities and allows adding custom forward roll-in contracts for multi-month positioning models.</div>">Custom Forward Book</button>
+              </div>
+            </div>
+            <!-- Download Reconciliation CSV Button -->
+            <button id="deconstDownloadCsvBtn" onclick="exportETFReconciliationCSV()" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-size:11px;font-weight:700;display:flex;align-items:center;gap:5px;" data-tooltip="<div class='rt-title'>Export Reconciliation CSV</div><div class='rt-note'>Downloads complete line-by-line portfolio data, target marks, gross variation margin P&L, and NAV contributions in standard CSV format.</div>">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Export CSV</span>
+            </button>
+          </div>
         <!-- Provenance & Baseline Sourcing Info Banner -->
         <div id="deconstProvenanceBanner" style="background:rgba(88,166,255,0.06);border:1px solid rgba(88,166,255,0.2);padding:8px 12px;border-radius:6px;margin-bottom:12px;font-size:11px;" data-tooltip="<div class='rt-title'>Data Provenance &amp; Clearing Rulebooks</div><div class='rt-row'><span class='rt-label'>Clearing Exchanges</span><span class='rt-val'>NYMEX (CME Group) &amp; SGX Derivatives</span></div><div class='rt-row'><span class='rt-label'>Audit Hash</span><span class='rt-val'>SHA-256 Verified at generation</span></div><div class='rt-note'>Every position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>">
           <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;">
@@ -8740,9 +8778,9 @@
       <div class="chart-container mb-20" id="etfQaCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
         
         <!-- Header & Active Badge -->
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:14px;">
-          <div>
-            <div style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;">
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
+          <div style="flex:1 1 auto;min-width:0;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div class="icon-tile icon-tile-accent icon-tile-md">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
@@ -8760,13 +8798,13 @@
           </div>
 
           <!-- Switcher to match active tab & Expand/Collapse -->
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
               <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
             </div>
             <!-- Collapse / Expand Toggle Button -->
-            <button id="etfQaCollapseBtn" onclick="toggleEtfQaCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Copilot expansion">
+            <button id="etfQaCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfQaCardCollapse()" data-tooltip="Toggle Copilot expansion">
               <svg id="etfQaCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
               <span id="etfQaCollapseText">Expand</span>
             </button>
@@ -8891,9 +8929,9 @@
       <div class="chart-container mb-20" id="etfDailyBriefCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
         
         <!-- Header & Active Controls -->
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
-          <div>
-            <div style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
+          <div style="flex:1 1 auto;min-width:0;">
+            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
                   <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
@@ -8911,7 +8949,7 @@
           </div>
 
           <!-- Controls: Fund Filter & Expand/Collapse -->
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- Fund Filter Tabs -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
@@ -8920,7 +8958,7 @@
             </div>
 
             <!-- Collapse / Expand Toggle Button -->
-            <button id="etfBriefCollapseBtn" onclick="toggleEtfDailyBriefCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle brief expansion">
+            <button id="etfBriefCollapseBtn" class="etf-card-collapse-btn" onclick="toggleEtfDailyBriefCollapse()" data-tooltip="Toggle brief expansion">
               <svg id="etfBriefCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
               <span id="etfBriefCollapseText">Expand</span>
             </button>
@@ -8946,8 +8984,8 @@
         <div class="sim-ambient-glow"></div>
 
         <!-- Header & Primary Controls -->
-        <div class="sim-header">
-          <div class="sim-header-left">
+        <div class="sim-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;position:relative;z-index:1;">
+          <div class="sim-header-left" style="flex:1 1 auto;min-width:0;">
             <div class="sim-title" data-tooltip="<div class='rt-title'>Day-by-Day ETF Portfolio &amp; Price Simulator</div><div class='rt-row'><span class='rt-label'>Data Source</span><span class='rt-val'>SEC Form 10-Q &amp; Daily N-PORT Disclosures</span></div><div class='rt-row'><span class='rt-label'>Engine Mode</span><span class='rt-val'>Deterministic Point-in-Time Accounting Replay</span></div><div class='rt-note'>Simulates full calendar roll cycles day-by-day, tracking lot decay, variation margin settlement, and premium/discount spreads without synthetic distortion.</div>">
               <div class="icon-tile icon-tile-accent icon-tile-md">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -8962,14 +9000,14 @@
             </div>
           </div>
 
-          <div class="sim-header-right" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div class="sim-header-right" style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             <!-- ETF Selector Toggle -->
             <div class="sim-etf-toggle">
               <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>Capesize 5TC • Panamax 5TC • Supramax 10TC</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Solactive Dry Bulk Shipping Index</span></div><div class='rt-note'>Switches simulator to replay BDRY dry bulk futures holdings and lot migration.</div>">BDRY (Dry Bulk)</button>
               <button id="simEtfBwet" class="sim-toggle-btn" onclick="SIM_CONTROLLER.switchETF('bwet')" data-tooltip="<div class='rt-title'>Breakwave Tanker Shipping ETF (BWET)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>VLCC TD3C (MEG-China) • Suezmax TD20 (WAF-Cont)</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Breakwave Tanker Futures Index</span></div><div class='rt-note'>Switches simulator to replay BWET crude tanker futures holdings and lot migration.</div>">BWET (Tankers)</button>
             </div>
             <!-- Collapse / Expand Toggle Button -->
-            <button id="simCollapseBtn" onclick="toggleSimCardCollapse()" style="background:var(--bg);border:1px solid var(--border);color:var(--text-muted);padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;display:flex;align-items:center;gap:4px;" data-tooltip="Toggle Simulator expansion">
+            <button id="simCollapseBtn" class="etf-card-collapse-btn" onclick="toggleSimCardCollapse()" data-tooltip="Toggle Simulator expansion">
               <svg id="simCollapseIcon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
               <span id="simCollapseText">Expand</span>
             </button>
