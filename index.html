@@ -10063,10 +10063,18 @@
                   <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip="Clean MR Atlantic Basket (TC2, TC14, TC6, Triangulation)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
                   <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip="Overview of all dirty and clean benchmark routes" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
+                <div id="tankerFwdSlopeBadge" class="kpi-badge">Term Structure: —</div>
                 <div id="tankerFwdEcoBadge" class="kpi-badge">Eco Premium: —</div>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="tankerForwardChart"></canvas></div>
+            <div id="tankerContractDrilldown" style="display:none;margin-top:12px;padding:10px 14px;background:rgba(22,27,34,0.7);border:1px solid var(--border);border-radius:6px;font-size:12px;">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+                <span id="drillContractTitle" style="font-weight:600;color:var(--text-bright);">Contract Details</span>
+                <span id="drillContractBadge" style="padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Forward FFA</span>
+              </div>
+              <div id="drillContractBody" style="display:flex;gap:16px;flex-wrap:wrap;color:var(--text-muted);"></div>
+            </div>
           </div>
 
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
@@ -17144,13 +17152,50 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let datasets = [];
 
       const ecoBadge = document.getElementById('tankerFwdEcoBadge');
-      if (ecoBadge) {
-        const prompt = rows[0];
-        if (prompt && prompt.vlcc_td3c && prompt.vlcc_eco_td3c) {
-          const diff = prompt.vlcc_td3c - prompt.vlcc_eco_td3c;
-          ecoBadge.textContent = 'VLCC Eco/Non-Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+      const slopeBadge = document.getElementById('tankerFwdSlopeBadge');
+      
+      const prompt = rows[0];
+      const m12 = rows.length >= 12 ? rows[11] : rows[rows.length - 1];
+
+      let primaryCol = 'vlcc_td3c';
+      if (route === 'suez') primaryCol = 'suezmax_td20';
+      else if (route === 'afra') primaryCol = 'aframax_td25';
+      else if (route === 'lr1') primaryCol = 'lr1_tc5';
+      else if (route === 'mr') primaryCol = 'mr_triangulation';
+      else if (route === 'all') primaryCol = 'vlcc_td3c';
+
+      if (slopeBadge && prompt && m12 && prompt[primaryCol] != null && m12[primaryCol] != null) {
+        const slope = prompt[primaryCol] - m12[primaryCol];
+        const pct = (slope / prompt[primaryCol]) * 100;
+        if (slope > 5000) {
+          slopeBadge.textContent = 'Backwardation: -$' + Math.round(slope).toLocaleString() + '/d (-' + Math.abs(pct).toFixed(0) + '% M1-M12)';
+          slopeBadge.style.background = 'rgba(248,81,73,0.2)';
+          slopeBadge.style.color = '#f85149';
+          slopeBadge.style.border = '1px solid rgba(248,81,73,0.4)';
+        } else if (slope < -2000) {
+          slopeBadge.textContent = 'Contango: +$' + Math.round(Math.abs(slope)).toLocaleString() + '/d (+' + Math.abs(pct).toFixed(0) + '% M1-M12)';
+          slopeBadge.style.background = 'rgba(63,185,80,0.2)';
+          slopeBadge.style.color = '#3fb950';
+          slopeBadge.style.border = '1px solid rgba(63,185,80,0.4)';
         } else {
-          ecoBadge.textContent = 'Forward Curve: 22 Months';
+          slopeBadge.textContent = 'Flat Term Structure: $' + Math.round(prompt[primaryCol]).toLocaleString() + '/d';
+          slopeBadge.style.background = 'var(--border)';
+          slopeBadge.style.color = 'var(--text-muted)';
+          slopeBadge.style.border = 'none';
+        }
+      }
+
+      if (ecoBadge) {
+        if (route === 'lr1' && prompt && prompt.lr1_tc5 && prompt.lr1_eco_tc5) {
+          const diff = prompt.lr1_tc5 - prompt.lr1_eco_tc5;
+          ecoBadge.textContent = 'LR1 Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+          ecoBadge.style.display = '';
+        } else if (prompt && prompt.vlcc_td3c && prompt.vlcc_eco_td3c) {
+          const diff = prompt.vlcc_td3c - prompt.vlcc_eco_td3c;
+          ecoBadge.textContent = 'VLCC Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+          ecoBadge.style.display = '';
+        } else {
+          ecoBadge.style.display = 'none';
         }
       }
 
@@ -17209,6 +17254,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 } } },
             y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function(v) { return v != null ? '$' + Math.round(v).toLocaleString() : ''; } }, title: { display: true, text: 'Forward TCE ($/day)', color: '#8b949e', font: { size: 11 } } }
+          },
+          onClick: function(evt, elements) {
+            if (!elements || !elements.length) return;
+            const elIdx = elements[0].index;
+            const r = rows[elIdx];
+            if (!r) return;
+            const drillPanel = document.getElementById('tankerContractDrilldown');
+            const drillTitle = document.getElementById('drillContractTitle');
+            const drillBody = document.getElementById('drillContractBody');
+            if (drillPanel && drillTitle && drillBody) {
+              drillPanel.style.display = 'block';
+              drillTitle.textContent = 'Contract Month: ' + (r.contractLabel || r.forwardMonth) + ' (Snapshot ' + r.snapshotDate + ')';
+              
+              let items = [];
+              if (r.vlcc_td3c) items.push('<span><strong>VLCC Standard:</strong> $' + Math.round(r.vlcc_td3c).toLocaleString() + '/d</span>');
+              if (r.vlcc_eco_td3c) items.push('<span><strong>VLCC ECO:</strong> $' + Math.round(r.vlcc_eco_td3c).toLocaleString() + '/d</span>');
+              if (r.suezmax_td20) items.push('<span><strong>Suezmax TD20:</strong> $' + Math.round(r.suezmax_td20).toLocaleString() + '/d</span>');
+              if (r.aframax_td25) items.push('<span><strong>Aframax TD25:</strong> $' + Math.round(r.aframax_td25).toLocaleString() + '/d</span>');
+              if (r.lr1_tc5) items.push('<span><strong>LR1 TC5:</strong> $' + Math.round(r.lr1_tc5).toLocaleString() + '/d</span>');
+              if (r.mr_triangulation) items.push('<span><strong>MR Triangulation:</strong> $' + Math.round(r.mr_triangulation).toLocaleString() + '/d</span>');
+              
+              drillBody.innerHTML = items.join('<span style="color:var(--border);">|</span>');
+            }
           }
         }
       });
