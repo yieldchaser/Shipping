@@ -1736,8 +1736,14 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
                 _last_openrouter_call_ts = _apply_interval(_last_openrouter_call_ts, OPENROUTER_MIN_INTERVAL_SEC)
                 res = _call_openrouter_once(messages, model_override=candidate)
                 if res:
-                    print(f"[brief] OpenRouter API call attempt {attempt + 1} SUCCESS with {candidate}!", file=sys.stderr)
-                    return res
+                    # Validate that the response is actually parseable JSON before declaring success
+                    test_parse = _extract_json_payload(res)
+                    if test_parse is not None:
+                        print(f"[brief] OpenRouter API call attempt {attempt + 1} SUCCESS with {candidate}!", file=sys.stderr)
+                        return res
+                    else:
+                        print(f"[brief] OpenRouter attempt {attempt + 1} ({candidate}) returned non-JSON content; trying next candidate.", file=sys.stderr)
+                        break  # skip remaining retries for this candidate
                 else:
                     print(f"[brief] OpenRouter API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
             except Exception as exc:
