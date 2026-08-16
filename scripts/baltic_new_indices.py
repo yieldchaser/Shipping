@@ -70,7 +70,11 @@ def fetch_ticker(retries: int = 4, delay_seconds: int = 5) -> dict[str, dict]:
     last_error = None
     for attempt in range(1, retries + 1):
         try:
-            resp = requests.get(API_URL, timeout=30, headers={"Accept": "application/json"})
+            headers = {
+                "Accept": "application/json",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            }
+            resp = requests.get(API_URL, timeout=30, headers=headers)
             resp.raise_for_status()
             data = resp.json()
 

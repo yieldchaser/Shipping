@@ -25,6 +25,8 @@ INDEXES = {
 
 BASE_URL = "https://en.stockq.org/index/{}.php"  # Fixed: removed space
 
+_SESSION = requests.Session()
+
 def scrape_index(code):
     """Scrape all data from stockq.org for one index"""
     url = BASE_URL.format(code)
@@ -33,7 +35,7 @@ def scrape_index(code):
     }
 
     try:
-        response = requests.get(url, headers=headers, timeout=30)
+        response = _SESSION.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -122,7 +124,7 @@ def fetch_latest_solactive(isin):
     headers = {**SOLACTIVE_HEADERS, "referer": f"https://www.solactive.com/index/{isin}/"}
 
     try:
-        response = requests.post(url, json=payload, headers=headers, timeout=30)
+        response = _SESSION.post(url, json=payload, headers=headers, timeout=30)
         response.raise_for_status()
         data = response.json()
 
@@ -204,7 +206,7 @@ def fetch_solactive_live(isin):
     headers = {**SOLACTIVE_HEADERS, "referer": f"https://www.solactive.com/index/{isin}/"}
 
     try:
-        response = requests.post(url, json=payload, headers=headers, timeout=30)
+        response = _SESSION.post(url, json=payload, headers=headers, timeout=30)
         response.raise_for_status()
         data = response.json()
 
@@ -399,10 +401,7 @@ def get_expiry(month, year):
         d = date(year, 12, 24)
     else:
         # Last calendar day of month
-        if month == 12:
-            d = date(year, 12, 31)
-        else:
-            d = date(year, month + 1, 1) - timedelta(days=1)
+        d = date(year, month + 1, 1) - timedelta(days=1)
 
     # Walk back to last UK business day
     if _HAS_HOLIDAYS:
@@ -471,7 +470,7 @@ def fetch_sgx_latest(ticker):
     """
     url = SGX_HISTORY_URL.format(ticker=ticker)
     try:
-        r = requests.get(url, headers=SGX_HEADERS, timeout=20)
+        r = _SESSION.get(url, headers=SGX_HEADERS, timeout=20)
         r.raise_for_status()
         data = r.json().get('data', [])
         if not data:

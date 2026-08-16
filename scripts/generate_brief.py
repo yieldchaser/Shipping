@@ -1718,7 +1718,7 @@ def _call_openrouter_once(messages: list, model_override: str | None = None) -> 
     )
     # Free models: 60s timeout (scale-to-zero, respond fast or not at all)
     # Paid models: 180s timeout (guaranteed capacity)
-    is_free_model = ":free" in target_model
+    is_free_model = ":free" in target_model or "free" in target_model.lower()
     read_timeout = 60 if is_free_model else 180
     try:
         with urllib_request.urlopen(req, timeout=read_timeout) as response:
