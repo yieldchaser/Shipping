@@ -349,9 +349,9 @@ Executive macro desk and deep research workspace.
 | **BDRY Spot** | $0.50 \cdot \text{BCI} + 0.40 \cdot \text{BPI} + 0.10 \cdot \text{BSI}$ |
 | **Volatility %** | $(\max(y) - \min(y)) / \lvert \text{mean}(y) \rvert \times 100\%$ |
 | **Trough → Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
-| **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor \times \text{Close}$ |
+| **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier Limit} \rfloor \times \text{Close}$ |
 | **Per-Contract NAV Sensitivity** | $(\text{Lots}_i \times 1{,}000) / \text{Shares Outstanding}$ |
-| **Implied Monthly Roll Yield** | $\sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100\% \right)$ |
+| **Implied Monthly Roll Yield** | $\sum_{v} \Big( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \Big) \times 100\%$ |
 | **Multi-Month Contango Hurdle** | $1 - \prod_{m=1}^{H} (1 - \text{RollYield}_m) + \text{OER} \times \frac{H}{12}$ |
 
 ### 4.3 Physical Freight & Capital Cycle Mathematical Specifications
@@ -362,7 +362,7 @@ Executive macro desk and deep research workspace.
 | **Demolition Scrap Floor** | $\text{Floor}_{\text{Scrap}} = \frac{\text{LDT (Lightweight Tons)} \times \text{Scrap Price (USD/LDT)}}{10^6}$ | Absolute liquidation floor. Secondhand prices approaching scrap floor represent zero-downside option asymmetry. |
 | **Basin Arbitrage Ratio** | $\text{Ratio}_{\text{Basin}} = \frac{\text{Atlantic TC (USD/day)}}{\text{Pacific TC (USD/day)}}$ | $>1.25\text{x}$ triggers Atlantic fleet repositioning; $<0.80\text{x}$ signals Pacific coal/grain premium. |
 | **Tanker Curve Slope** | $\text{Slope}_{\text{FFA}} = \frac{\text{M12 Deferred (USD/day)} - \text{M1 Prompt (USD/day)}}{\text{M1 Prompt (USD/day)}} \times 100\%$ | Negative = Backwardation / Prompt Tightness; Positive = Contango / Winter Storage Demand. |
-| **Cycle Quadrant Coordinates** | $X = \text{RoC}_{60}(\text{Spot}), \quad Y = Z_{252}\left(\frac{\text{Spot}}{\text{1Y TC}}\right)$ | Maps 4 shipping cycle phases: **Recovery** ($X>0, Y<0$), **Boom** ($X>0, Y>0$), **Over-ordering** ($X<0, Y>0$), **Restructuring** ($X<0, Y<0$). |
+| **Cycle Quadrant Coordinates** | $X = \text{RoC}_{60}(\text{Spot}), \quad Y = Z_{252}\Big(\frac{\text{Spot}}{\text{1Y TC}}\Big)$ | Maps 4 shipping cycle phases: **Recovery** ($X>0, Y<0$), **Boom** ($X>0, Y>0$), **Over-ordering** ($X<0, Y>0$), **Restructuring** ($X<0, Y<0$). |
 | **LNG Replacement Multiple** | $\text{Multiple}_{\text{LNG}} = \frac{\text{Newbuilding Price (USD M)}}{\text{7Y TC (USD/day)} \times 365 / 10^6}$ | Multi-year asset payback period in years. Low multiples indicate attractive shipyard contract entry. |
 
 ---
