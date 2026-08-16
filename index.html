@@ -23089,13 +23089,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           lines.push('', `— RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (${lastOre.date || ''}) —`);
           lines.push(`  Qingdao Port Inventory: ${lastOre.inventories_mt || 'N/A'} MT | CFR 62% Fe: $${lastOre.cfr_62 || 'N/A'}/t | 65% Carajas: $${lastOre.cfr_65 || 'N/A'}/t | Crude Steel Output: ${lastOre.steel_production_mt || 'N/A'} MT`);
         }
-        if (DATA.vesselValuations && DATA.scrappage) {
-          lines.push('', `— VESSEL CAPITAL CYCLE & SECONDHAND VALUATIONS —`);
-          lines.push(`  Capesize 10Y Asset: ~$59M (Scrap Floor ~$15.2M @ $420/LDT) | VLCC 10Y Asset: ~$110M (Scrap Floor ~$21.5M @ $440/LDT)`);
+        if (DATA.vesselValuations && DATA.vesselValuations.length && DATA.scrappage && DATA.scrappage.length) {
+          const lastScrap = DATA.scrappage[DATA.scrappage.length - 1];
+          const scrapDry = lastScrap.dry_india || 420;
+          const scrapTanker = lastScrap.tanker_india || 440;
+          const capeValObj = DATA.vesselValuations.filter(r => (r.vessel_class.includes('Capesize') || r.vessel_class === 'Capesize') && (r.tenor_type || '').includes('10')).pop();
+          const vlccValObj = DATA.vesselValuations.filter(r => r.vessel_class === 'VLCC' && (r.tenor_type || '').includes('10')).pop();
+          const capeVal = capeValObj ? capeValObj.valuation_usd_m : 59;
+          const vlccVal = vlccValObj ? vlccValObj.valuation_usd_m : 110;
+          const capeScrapM = ((21000 * scrapDry) / 1e6).toFixed(1);
+          const vlccScrapM = ((38000 * scrapTanker) / 1e6).toFixed(1);
+          lines.push('', `— VESSEL CAPITAL CYCLE & SECONDHAND VALUATIONS (${lastScrap.date || ''}) —`);
+          lines.push(`  Capesize 10Y Asset: $${capeVal}M (Scrap Floor: $${capeScrapM}M @ $${scrapDry}/LDT) | VLCC 10Y Asset: $${vlccVal}M (Scrap Floor: $${vlccScrapM}M @ $${scrapTanker}/LDT)`);
         }
-        if (DATA.lpgCharter && DATA.lngCharter) {
+        if (DATA.lpgCharter && DATA.lpgCharter.length && DATA.lngCharter && DATA.lngCharter.length) {
+          const lastLpg = DATA.lpgCharter[DATA.lpgCharter.length - 1];
+          const lastLng = DATA.lngCharter[DATA.lngCharter.length - 1];
+          const vlgcMonth = Number(lastLpg.vlgc_84k_tc || 0);
+          const vlgcDay = Math.round(vlgcMonth / 30.4375);
+          const lng7y = Number(lastLng.lngc_174k_7y_tc || 0);
+          const lng10y = Number(lastLng.lngc_174k_10y_tc || 0);
           lines.push('', `— GAS SHIPPING BENCHMARKS —`);
-          lines.push(`  LPG VLGC 84k 1Y TC: ~$72,000/day ($2.2M/month) | LNG 174k 2-Stroke: 7Y TC ~$81,000/day, Newbuilding ~$262M`);
+          lines.push(`  LPG VLGC 84k 1Y TC: $${vlgcDay.toLocaleString('en-US')}/d ($${vlgcMonth.toLocaleString('en-US')}/mo) | MGC 38k 1Y: $${Number(lastLpg.mgc_38k_tc||0).toLocaleString('en-US')}/mo`);
+          lines.push(`  LNG 174k 2-Stroke: 7Y TC $${lng7y.toLocaleString('en-US')}/d | 10Y TC $${lng10y.toLocaleString('en-US')}/d | Newbuilding: $${Number(lastLng.lngc_80k_nb_price||262).toLocaleString('en-US')}M`);
         }
       }
 
@@ -24695,45 +24711,60 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       // 2. Multi-Horizon Bet Resolution Roadmap & Hurdle Rates
       lines.push("\n--- MULTI-HORIZON BET RESOLUTION ROADMAP & HURDLE RATES (1M, 3M, 6M, 1Y, MULTI-YEAR) ---");
+      var sortedH = (pred.holdings || []).slice().sort(function(a, b) {
+        return (b.weight || 0) - (a.weight || 0);
+      });
+      var promptH = sortedH[0] || {};
+      var nextH = sortedH[1] || {};
+      var promptName = promptH.Name || 'Prompt Contract';
+      var nextName = nextH.Name || 'Next Contract';
+      var promptPx = promptH.unitPrice || promptH.startingPrice || 0;
+      var nextPx = nextH.unitPrice || nextH.startingPrice || 0;
+      var promptPxStr = fKey === 'bwet' ? ("WS " + promptPx + " (~$" + Math.round(promptPx * 1000) + "/day TCE)") : ("$" + Number(promptPx).toLocaleString('en-US') + "/day");
+      var nextPxStr = fKey === 'bwet' ? ("WS " + nextPx + " (~$" + Math.round(nextPx * 1000) + "/day TCE)") : ("$" + Number(nextPx).toLocaleString('en-US') + "/day");
+      var rollYieldPct = (promptPx > 0 && nextPx > 0) ? (((promptPx - nextPx) / promptPx) * 100) : 0;
+      var rollRegime = rollYieldPct > 0 ? "Backwardation Carry" : (rollYieldPct < 0 ? "Contango Drag" : "Flat");
+      var rollYieldStr = (rollYieldPct >= 0 ? "+" : "") + rollYieldPct.toFixed(2) + "%/mo " + rollRegime;
+
       if (fKey === 'bdry') {
         lines.push("  • 1-MONTH HOLDING HORIZON (T0 -> T30):");
-        lines.push("    - Active Basket: Prompt (Aug 26) + Next (Sep 26). Linear decay of Aug lots into Sep across business days 1–15.");
-        lines.push("    - Resolution: Aug 26 cash-settles against August physical Baltic spot average (BCI 5TC / BPI 5TC / BSI 58TC). Sep 26 becomes prompt.");
-        lines.push("    - What you are betting on: August physical spot averaging ABOVE current forward settle ($39,200/d Cape, $20,336/d Pana) + September expectations rising.");
-        lines.push("    - Carry / Hurdle Rate: Implied monthly roll yield = -0.52%/mo Contango Drag (Prompt $39,200 vs Next $39,404).");
+        lines.push("    - Active Basket: " + promptName + " + " + nextName + ". Linear decay of prompt lots into next month across business days 1–15.");
+        lines.push("    - Resolution: Prompt cash-settles against physical Baltic spot average (BCI 5TC / BPI 5TC / BSI 58TC). " + nextName + " becomes prompt.");
+        lines.push("    - What you are betting on: Physical spot averaging ABOVE current forward settle (" + promptPxStr + ") + next month forward expectations rising.");
+        lines.push("    - Carry / Hurdle Rate: Implied monthly roll yield = " + rollYieldStr + " (Prompt " + promptPxStr + " vs Next " + nextPxStr + ").");
         
         lines.push("  • 3-MONTH HOLDING HORIZON (T0 -> T90):");
-        lines.push("    - Active Basket: Traversal across Aug 26 -> Sep 26 -> Oct 26 -> Q4 Strip.");
-        lines.push("    - Resolution: Aug and Sep contracts expire sequentially into realized cash; portfolio rolls into Q4 strip ($38,574/d avg).");
-        lines.push("    - What you are betting on: 2 consecutive physical prompt cash settlements + Q4 forward curve repricing higher.");
-        lines.push("    - Carry / Hurdle Rate: -1.8% cumulative 3-month contango friction.");
+        lines.push("    - Active Basket: Traversal across prompt through next 2 quarterly monthly strips.");
+        lines.push("    - Resolution: Front contracts expire sequentially into realized cash; portfolio rolls into deferred strips.");
+        lines.push("    - What you are betting on: Consecutive physical prompt cash settlements + forward curve repricing higher.");
+        lines.push("    - Carry / Hurdle Rate: ~" + (rollYieldPct * 3).toFixed(1) + "% cumulative 3-month " + rollRegime.toLowerCase() + " friction.");
         
         lines.push("  • 6-MONTH HOLDING HORIZON (T0 -> T180):");
-        lines.push("    - Active Basket: Traversal across 6 monthly roll cycles capturing the seasonal shift from Q4 peak into Q1 winter lull.");
-        lines.push("    - Resolution: 5 monthly contracts expire; fund rolls through Q4 into Q1 2027 forward contracts.");
-        lines.push("    - What you are betting on: Seasonal autumn freight rally outperforming forward pricing before standard Q1 seasonal softening.");
-        lines.push("    - Seasonal Benchmark: Q4 historically has 68% positive win rate vs Q1 (38% win rate).");
+        lines.push("    - Active Basket: Traversal across 6 monthly roll cycles capturing seasonal freight transitions.");
+        lines.push("    - Resolution: 5 monthly contracts expire; fund rolls through quarterly forward contracts.");
+        lines.push("    - What you are betting on: Seasonal freight rallies outperforming forward pricing curves.");
+        lines.push("    - Seasonal Benchmark: Autumn Q4 historically has ~68% positive win rate vs Q1 winter lull (~38% win rate).");
         
         lines.push("  • 1-YEAR HOLDING HORIZON (T0 -> T365):");
-        lines.push("    - Active Basket: Full annual rollover across all 4 quarterly strips into Cal 2027 strip ($23,500/d).");
-        lines.push("    - Carry & Cost Drag: Statutory 1.45% OER + cumulative annual contango decay (-8.5% to -14.0% annualized) offset by 4.85% Treasury collateral yield.");
-        lines.push("    - What you are betting on: Structural macro fleet utilization tightening (global dry bulk ton-mile demand growth exceeding net fleet supply growth of ~2.8%).");
+        lines.push("    - Active Basket: Full annual rollover across all quarterly strips into subsequent calendar strip.");
+        lines.push("    - Carry & Cost Drag: Statutory 1.45% OER + cumulative annual roll decay offset by ~4.85% Treasury collateral yield.");
+        lines.push("    - What you are betting on: Structural macro fleet utilization tightening (global dry bulk ton-mile demand growth exceeding net fleet supply additions of ~2.8%).");
         
         lines.push("  • MULTI-YEAR MACRO CYCLE (1Y -> 3Y):");
-        lines.push("    - Historical Shipping Benchmark: Average Capesize bull run lasts 184 days (+142.4% gain); average bear correction lasts 146 days (-58.1% drop). Full macro cycles average 330–420 days.");
+        lines.push("    - Historical Shipping Benchmark: Average Capesize bull run lasts ~184 days (+142.4% gain); average bear correction lasts ~146 days (-58.1% drop). Full macro cycles average 330–420 days.");
         lines.push("    - What you are betting on: S&P secondhand vessel valuation re-rating, long-term shipyard delivery bottlenecks, and global commodity supercycles.");
       } else {
         lines.push("  • 1-MONTH HOLDING HORIZON (T0 -> T30):");
-        lines.push("    - Active Basket: Prompt TD3C VLCC (Aug 26, WS 95.2 / ~$95k/d) + Next (Sep 26, WS 95.1). Linear decay of Aug lots into Sep.");
-        lines.push("    - Resolution: Aug 26 cash-settles against August physical Baltic TD3C MEG-China spot average.");
-        lines.push("    - Carry / Hurdle Rate: +0.07%/mo Backwardation Carry (Prompt WS 95.2 vs Next WS 95.1).");
+        lines.push("    - Active Basket: Prompt " + promptName + " (" + promptPxStr + ") + Next " + nextName + " (" + nextPxStr + "). Linear decay of prompt lots into next month.");
+        lines.push("    - Resolution: Prompt cash-settles against physical Baltic TD3C MEG-China / TD20 WAF-UKC spot average.");
+        lines.push("    - Carry / Hurdle Rate: " + rollYieldStr + " (Prompt " + promptPxStr + " vs Next " + nextPxStr + ").");
         
         lines.push("  • 3-MONTH HOLDING HORIZON (T0 -> T90):");
-        lines.push("    - Active Basket: Traversal across Aug -> Sep -> Oct (WS 91.0) -> Nov (WS 83.8).");
-        lines.push("    - Carry / Hurdle Rate: -4.4% cumulative 3-month contango friction as winter curve flattens.");
+        lines.push("    - Active Basket: Traversal across prompt through next 3 forward monthly contracts.");
+        lines.push("    - Carry / Hurdle Rate: ~" + (rollYieldPct * 3).toFixed(1) + "% cumulative 3-month " + rollRegime.toLowerCase() + " as seasonal curve evolves.");
         
         lines.push("  • 6-MONTH TO 1-YEAR HORIZON (T0 -> T365):");
-        lines.push("    - What you are betting on: Global crude tanker fleet ton-mile expansion (OPEC+ unwinding, Atlantic basin crude exports to Asia) overcoming fleet supply additions.");
+        lines.push("    - What you are betting on: Global crude tanker fleet ton-mile expansion (OPEC+ supply shifts, Atlantic basin crude exports to Asia) overcoming fleet supply additions.");
       }
 
       // 3. Exhaustive Forward Curves Across All Tenors (Prompt -> Cal+2)

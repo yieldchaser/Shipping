@@ -729,15 +729,17 @@ def load_physical_signals_context() -> str:
                     scrap_rows.append(row)
             if scrap_rows and val_map:
                 ls = scrap_rows[-1]
-                cape_val = val_map.get("Capesize (Japanese)") or val_map.get("Capesize") or 59.0
-                vlcc_val = val_map.get("VLCC") or 110.0
-                scrap_dry = float(ls.get("dry_india") or 420.0)
-                scrap_tank = float(ls.get("tanker_india") or 440.0)
-                cape_scrap = (21000 * scrap_dry) / 1e6
-                vlcc_scrap = (38000 * scrap_tank) / 1e6
-                lines.append(f"  • Vessel Capital Cycle & Asset Valuations (Secondhand vs Demolition Floor):")
-                lines.append(f"      - Capesize 10Y Asset: ${cape_val:.1f}M | Scrap Floor: ${cape_scrap:.1f}M (${scrap_dry:,.0f}/LDT) | Demolition Cushion: +${(cape_val - cape_scrap):.1f}M")
-                lines.append(f"      - VLCC 10Y Asset: ${vlcc_val:.1f}M | Scrap Floor: ${vlcc_scrap:.1f}M (${scrap_tank:,.0f}/LDT) | Demolition Cushion: +${(vlcc_val - vlcc_scrap):.1f}M")
+                cape_val = val_map.get("Capesize (Japanese)") or val_map.get("Capesize (Chinese)") or val_map.get("Capesize")
+                vlcc_val = val_map.get("VLCC")
+                scrap_dry = float(ls.get("dry_india") or ls.get("dry_bangla") or 0)
+                scrap_tank = float(ls.get("tanker_india") or ls.get("tanker_bangla") or 0)
+                lines.append(f"  • Vessel Capital Cycle & Asset Valuations (Secondhand vs Demolition Floor - {ls.get('date', '')}):")
+                if cape_val and scrap_dry > 0:
+                    cape_scrap = (21000 * scrap_dry) / 1e6
+                    lines.append(f"      - Capesize 10Y Asset: ${cape_val:.1f}M | Scrap Floor: ${cape_scrap:.1f}M (${scrap_dry:,.0f}/LDT) | Demolition Cushion: +${(cape_val - cape_scrap):.1f}M")
+                if vlcc_val and scrap_tank > 0:
+                    vlcc_scrap = (38000 * scrap_tank) / 1e6
+                    lines.append(f"      - VLCC 10Y Asset: ${vlcc_val:.1f}M | Scrap Floor: ${vlcc_scrap:.1f}M (${scrap_tank:,.0f}/LDT) | Demolition Cushion: +${(vlcc_val - vlcc_scrap):.1f}M")
         except Exception:
             pass
 
