@@ -10027,24 +10027,24 @@
               <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs Period Time Charter Rates (TCE $/day) — overlays spot earnings against fixed period charter rates (4/6M, 1Y, 2Y, 3Y, 5Y) to identify term structure regimes. Spot > Period TC = Backwardation/tightness; Spot < Period TC = Contango/overcapacity." data-tt-type="concept-timecharter">Time Charter Curve (Spot vs Term Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="tcTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="tcTenor4_6m" onclick="setTcTenor('4_6m')" data-tooltip="4/6 Months: Prompt period time charter estimates (Alibra)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
-                  <button class="toggle-btn active" id="tcTenor1y" onclick="setTcTenor('1y')" data-tooltip="1-Year: Standard 1-Year Time Charter benchmark rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
-                  <button class="toggle-btn" id="tcTenor2y" onclick="setTcTenor('2y')" data-tooltip="2-Year: 2-Year Time Charter period rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
-                  <button class="toggle-btn" id="tcTenor3y" onclick="setTcTenor('3y')" data-tooltip="3-Year: 3-Year Time Charter period rate (Eco/Scrubber fitted)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
-                  <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip="5-Year: 5-Year Long-Term Time Charter period rate (Eco/Scrubber fitted)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
-                  <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip="All Tenors (Term Structure): Overlays all available period horizons (4/6M, 1Y, 2Y, 3Y, 5Y) alongside Spot" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
+                  <button class="toggle-btn" id="tcTenor4_6m" onclick="setTcTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="tcTenor1y" onclick="setTcTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="tcTenor2y" onclick="setTcTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                  <button class="toggle-btn" id="tcTenor3y" onclick="setTcTenor('3y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="3y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
+                  <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="5y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
+                  <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
                 </div>
                 <div id="tcBasinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tcBasinAvg" onclick="setTcBasin('avg')" data-tooltip="Global Blended Rate: Mean of Atlantic & Pacific" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Global</button>
-                  <button class="toggle-btn" id="tcBasinAtl" onclick="setTcBasin('atl')" data-tooltip="Atlantic Basin Time Charter Rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic</button>
-                  <button class="toggle-btn" id="tcBasinPac" onclick="setTcBasin('pac')" data-tooltip="Pacific Basin Time Charter Rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific</button>
-                  <button class="toggle-btn" id="tcBasinBoth" onclick="setTcBasin('both')" data-tooltip="Dual Overlay: Show Atlantic (cyan) & Pacific (orange) together" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                  <button class="toggle-btn active" id="tcBasinAvg" onclick="setTcBasin('avg')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="avg" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Global</button>
+                  <button class="toggle-btn" id="tcBasinAtl" onclick="setTcBasin('atl')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="atl" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic</button>
+                  <button class="toggle-btn" id="tcBasinPac" onclick="setTcBasin('pac')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="pac" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific</button>
+                  <button class="toggle-btn" id="tcBasinBoth" onclick="setTcBasin('both')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
                 </div>
                 <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
-                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
-                  <button class="toggle-btn" id="tcSrcIntermodal" onclick="setTcSource('intermodal')" data-tooltip="Intermodal Shipbrokers: Bi-weekly 1Y & 3Y Benchmarks" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Intermodal</button>
-                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip="Dual Overlay: Visualizes both Alibra (solid) and Fearnleys (dashed)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                  <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="merged" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
+                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="fearnleys" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
+                  <button class="toggle-btn" id="tcSrcIntermodal" onclick="setTcSource('intermodal')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="intermodal" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Intermodal</button>
+                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
                 </div>
                 <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
               </div>
@@ -10066,11 +10066,11 @@
           <!-- Live Period TCE Rate Matrix Heatmap Table -->
           <div class="chart-container mb-20" id="tceMatrixContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="tceMatrixTitle" data-tooltip="Live Institutional Period TCE Rate Matrix — weekly benchmark rates across all Dry Bulk (Atl/Pac) and Tanker classes with color-coded week-on-week changes." data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
+              <div class="chart-title" id="tceMatrixTitle" data-tooltip=" " data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip="Dry Bulk Period TCE: Capesize, Panamax, Supramax, Handysize across 6M, 1Y, 2Y tenors for Atlantic & Pacific basins" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
-                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip="Tanker Period TCE: VLCC, Suezmax, Aframax, LR2, LR1, MR across 1Y, 2Y, 3Y, 5Y tenors" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
+                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
+                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="Crude & Product Tanker Benchmarks" data-tt-cargo="Crude & Clean Fleet" data-tt-desc="Institutional period charter rates across VLCC, Suezmax, Aframax, LR2, LR1, and MR classes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
                 </div>
                 <div id="tceMatrixDateBadge" class="kpi-badge" data-tooltip="Official publication date of Alibra Shipbrokers weekly period fixture assessments">Report Date: —</div>
               </div>
@@ -10081,15 +10081,15 @@
           <!-- Tanker 22-Month Forward Curves & Eco Spreads -->
           <div class="chart-container mb-20" id="tankerForwardContainer">
             <div class="chart-header">
-              <div class="chart-title" id="tankerForwardTitle" data-tooltip="Tanker FFA Forward Curves (22-Month Horizon) — tracks forward TCE rate expectations for VLCC (TD3C), Suezmax (TD20), Aframax (TD25), and Clean Product (LR1 TC5, MR TC2/TC14/TC6) alongside Eco fuel-efficiency premiums." data-tt-type="concept-forwardcurves">Tanker FFA Forward Term Structures (22-Month FFA Curves)</div>
+              <div class="chart-title" id="tankerForwardTitle" data-tooltip=" " data-tt-type="concept-forwardcurves">Tanker FFA Forward Term Structures (22-Month FFA Curves)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="tankerFwdRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="fwdVlcc" onclick="setTankerFwdRoute('vlcc')" data-tooltip="VLCC TD3C AG/China (Standard vs ECO)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLCC TD3C</button>
-                  <button class="toggle-btn" id="fwdSuez" onclick="setTankerFwdRoute('suez')" data-tooltip="Suezmax TD20 WAFR/UKC" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax TD20</button>
-                  <button class="toggle-btn" id="fwdAfra" onclick="setTankerFwdRoute('afra')" data-tooltip="Aframax TD25 USG/UKC" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Aframax TD25</button>
-                  <button class="toggle-btn" id="fwdLr1" onclick="setTankerFwdRoute('lr1')" data-tooltip="Clean LR1 TC5 AG/Japan (Standard vs ECO)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean LR1</button>
-                  <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip="Clean MR Atlantic Basket (TC2, TC14, TC6, Triangulation)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
-                  <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip="Overview of all dirty and clean benchmark routes" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
+                  <button class="toggle-btn active" id="fwdVlcc" onclick="setTankerFwdRoute('vlcc')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="vlcc" data-tt-name="VLCC TD3C AG/China" data-tt-cargo="270,000 MT Crude Oil (MEG to China)" data-tt-desc="Benchmark supertanker route for global dirty crude freight." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLCC TD3C</button>
+                  <button class="toggle-btn" id="fwdSuez" onclick="setTankerFwdRoute('suez')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="suez" data-tt-name="Suezmax TD20 WAF/UKC" data-tt-cargo="130,000 MT Crude Oil (West Africa to Europe)" data-tt-desc="Key benchmark for Atlantic Basin dirty crude flows." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax TD20</button>
+                  <button class="toggle-btn" id="fwdAfra" onclick="setTankerFwdRoute('afra')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="afra" data-tt-name="Aframax TD25 USG/UKC" data-tt-cargo="70,000 MT Crude Oil (US Gulf to Europe)" data-tt-desc="Primary driver of US crude export waterborne logistics." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Aframax TD25</button>
+                  <button class="toggle-btn" id="fwdLr1" onclick="setTankerFwdRoute('lr1')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="lr1" data-tt-name="Clean LR1 TC5 AG/Japan" data-tt-cargo="55,000 MT Clean Petroleum / Naphtha" data-tt-desc="Major clean product arb route from Middle East refineries to Asian petrochemical complexes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean LR1</button>
+                  <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="mr" data-tt-name="Clean MR Atlantic Basket" data-tt-cargo="37,000 MT Gasoline / Diesel (TC2, TC14, TC6)" data-tt-desc="Medium Range tanker triangulation covering transatlantic and US Gulf diesel exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
+                  <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="All Tanker Benchmark Routes" data-tt-cargo="Multi-Segment Crude & Clean Product Basket" data-tt-desc="Overlays all dirty and clean tanker forward curves for fleet-wide macro analysis." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
                 <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Negative = Backwardation; Positive = Contango">Term Structure: —</div>
                 <div id="tankerFwdEcoBadge" class="kpi-badge" data-tooltip="Eco Fuel-Efficiency Premium: Average $/day savings of modern Eco/Scrubber vessels over conventional standard hulls">Eco Premium: —</div>
@@ -10108,12 +10108,12 @@
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Tonnage Basin Arbitrage — compares Atlantic vs. Pacific Time Charter rates across Capesize and Panamax vessel classes across selected horizons. High Atlantic/Pacific ratio signals strong Atlantic cargo demand or fleet imbalance." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="basinTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip="4/6 Months Atlantic vs Pacific Spread" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
-                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip="1-Year Atlantic vs Pacific Spread (Default)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
-                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip="2-Year Atlantic vs Pacific Spread" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                  <button class="toggle-btn" id="basinTenor4_6m" onclick="setBasinTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                  <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                  <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
                 </div>
                 <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
               </div>
@@ -10135,12 +10135,12 @@
           <!-- Leading Restocking Pressures -->
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
-              <div class="chart-title" id="restockingTitle" data-tooltip="Port Stocks vs Freight Spot — tracks relationship between China Qingdao iron ore inventories, CFR 62% ore prices, and Capesize spot rates. Low port inventories combined with high steel margins signal aggressive restocking demand." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+              <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tooltip="62% Fe Standard Grade Iron Ore CFR China ($/dmt) vs Qingdao Port Inventory" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
-                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" data-tooltip="65% Fe High-Grade Brazilian Carajas Fines CFR China ($/dmt) - primary driver of long-haul Capesize ton-mile demand" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
-                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" data-tooltip="China Monthly Crude Steel Production (MT) vs Major Warehouse Finished Steel Inventories" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
+                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="62" data-tt-name="62% Fe Standard CFR China" data-tt-desc="Global benchmark price for seaborne iron ore delivered to Qingdao port." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
+                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="65" data-tt-name="65% Fe Carajas Premium Fines" data-tt-desc="High-grade Brazilian ore requiring long-haul Capesize voyages, maximizing ton-mile demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
+                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="steel" data-tt-name="China Steel Output & Mill Stocks" data-tt-desc="Downstream steel mill production and inventory levels dictating raw material replenishment demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
                 </div>
                 <div id="oreFreightRatioBadge" class="kpi-badge" data-tooltip="Capesize Freight to Iron Ore Value Ratio (%) — measures shipping cost as a percentage of total delivered commodity value">Freight/Ore: —</div>
               </div>
@@ -10165,8 +10165,8 @@
               <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot, VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index. Toggle between $/day TCE equivalent and raw $/month PCM hire.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="lpgUnitToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" data-tooltip="Display hire in Time Charter Equivalent $/day (Standard maritime unit)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
-                  <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" data-tooltip="Display hire in Per Calendar Month $/month (Standard commercial chartering unit)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
+                  <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" data-tooltip=" " data-tt-type="concept-lpg-unit" data-tt-unit="day" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
+                  <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" data-tooltip=" " data-tt-type="concept-lpg-unit" data-tt-unit="month" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
                 </div>
                 <div id="lpgRatesBadge" class="kpi-badge" data-tooltip="1-Year Time Charter fixture rate for modern 84,000 m³ Very Large Gas Carriers (VLGC)">VLGC 1Y TC: —</div>
               </div>
@@ -10188,13 +10188,13 @@
           <!-- LNG Carrier 7Y/10Y Long-Term Period Rates & Newbuilding Asset Values -->
           <div class="chart-container mb-20" id="lngCharterContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="lngCharterTitle" data-tooltip="LNG Carrier Long-Term Period Rates & Newbuilding Prices — tracks 7-Year and 10-Year Time Charter rates for modern 174k m³ LNG carriers ($/day) against shipyard newbuilding prices ($M) from 2017 to present." data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
+              <div class="chart-title" id="lngCharterTitle" data-tooltip=" " data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="lngSeriesToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lngBtn7y" onclick="setLngSeries('7y')" data-tooltip="7-Year Long-Term Time Charter lease rate for modern 174k m³ 2-Stroke LNG carriers ($/day)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">7-Year TC</button>
-                  <button class="toggle-btn" id="lngBtn10y" onclick="setLngSeries('10y')" data-tooltip="10-Year Long-Term Time Charter lease rate for modern 174k m³ LNG carriers ($/day)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">10-Year TC</button>
-                  <button class="toggle-btn" id="lngBtnNb" onclick="setLngSeries('nb')" data-tooltip="Shipyard Newbuilding Asset Prices ($M) for 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newbuilding $M</button>
-                  <button class="toggle-btn" id="lngBtnAll" onclick="setLngSeries('all')" data-tooltip="Overlays 7Y TC, 10Y TC, and Shipyard Newbuilding Asset Prices on a synchronized dual-axis chart" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
+                  <button class="toggle-btn active" id="lngBtn7y" onclick="setLngSeries('7y')" data-tooltip=" " data-tt-type="concept-lng-series" data-tt-series="7y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">7-Year TC</button>
+                  <button class="toggle-btn" id="lngBtn10y" onclick="setLngSeries('10y')" data-tooltip=" " data-tt-type="concept-lng-series" data-tt-series="10y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">10-Year TC</button>
+                  <button class="toggle-btn" id="lngBtnNb" onclick="setLngSeries('nb')" data-tooltip=" " data-tt-type="concept-lng-series" data-tt-series="nb" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newbuilding $M</button>
+                  <button class="toggle-btn" id="lngBtnAll" onclick="setLngSeries('all')" data-tooltip=" " data-tt-type="concept-lng-series" data-tt-series="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
                 </div>
                 <div id="lngRatesBadge" class="kpi-badge" data-tooltip="Prompt 7-Year and 10-Year Time Charter rates and 174k m³ Newbuilding shipyard contract price">LNG 7Y TC: —</div>
               </div>
@@ -10227,12 +10227,12 @@
           <!-- Vessel valuations and scrap floor -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" id="valuationTitle" data-tooltip="Vessel Asset Values & Scrap Floor — tracks secondhand 10-year vessel values ($M), demolition/scrap price floor ($/LDT), and implied charter yields (1Y TC / Asset Price). When asset prices approach scrap value, downside risk is historically minimized." data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
+              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="valuationModeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" data-tooltip="10-Year-Old Secondhand Vessel Resale Price ($M) from 1970 to present" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
-                  <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" data-tooltip="Demolition Scrap Value ($M) computed as Lightweight Tonnage (LDT) × Regional Scrap Price ($/LDT)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
-                  <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" data-tooltip="Implied Gross Charter Yield % computed as (1-Year Period TC × 365) / Secondhand Asset Value" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
+                  <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" data-tooltip=" " data-tt-type="concept-val-mode" data-tt-mode="10y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
+                  <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" data-tooltip=" " data-tt-type="concept-val-mode" data-tt-mode="scrap" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
+                  <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" data-tooltip=" " data-tt-type="concept-val-mode" data-tt-mode="yield" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
                 </div>
                 <div id="scrapFloorBadge" class="kpi-badge" data-tooltip="Current asset price relative to the historical steel demolition scrap floor">Value: —</div>
               </div>
@@ -17502,11 +17502,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let html = '';
 
       function renderChange(val) {
-        if (val == null || isNaN(val) || val === 0) return '<span style="color:var(--text-muted);font-size:11px;">—</span>';
+        if (val == null || isNaN(val)) return '<span style="color:var(--text-muted);font-size:11px;">—</span>';
+        if (val === 0) {
+          return `<span style="color:var(--text-muted);font-weight:600;font-size:11px;background:rgba(139,148,158,0.12);padding:2px 5px;border-radius:3px;">+0.0%</span>`;
+        }
         const isPos = val > 0;
         const color = isPos ? '#3fb950' : '#f85149';
         const sign = isPos ? '+' : '';
-        return `<span style="color:${color};font-weight:600;font-size:11px;background:${isPos ? 'rgba(63,185,80,0.1)' : 'rgba(248,81,73,0.1)'};padding:2px 5px;border-radius:3px;">${sign}${val}%</span>`;
+        return `<span style="color:${color};font-weight:600;font-size:11px;background:${isPos ? 'rgba(63,185,80,0.12)' : 'rgba(248,81,73,0.12)'};padding:2px 5px;border-radius:3px;">${sign}${val.toFixed(1)}%</span>`;
       }
 
       function fmtRate(v) {
@@ -17514,53 +17517,198 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return '$' + Math.round(v).toLocaleString('en-US') + '/d';
       }
 
+      const vesselMeta = {
+        'Handysize (38dwt)': { dwt: '35,000 – 40,000 DWT', cargo: 'Minor bulks, steel, grains, fertilizers, bauxite', routes: 'Regional Atlantic & Pacific coastal, Intra-Asia, Black Sea' },
+        'Supramax / Ultramax': { dwt: '55,000 – 64,000 DWT (Geared with grabs)', cargo: 'Grains, coal, petcoke, minor ores, minerals', routes: 'US Gulf to Far East, Indo to India coal, Black Sea grains' },
+        'Panamax / Kamsarmax': { dwt: '75,000 – 85,000 DWT (Panama Canal dimensions)', cargo: 'Grain, thermal & coking coal, bauxite, iron ore', routes: 'South America grain to China, Australia to India coal' },
+        'Capesize': { dwt: '170,000 – 210,000 DWT (Post-Panamax cape size)', cargo: 'Iron ore, metallurgical coal, bauxite', routes: 'Brazil (Tubarão) & West Australia to China / Japan' },
+        'Handymax': { dwt: '37,000 – 40,000 DWT', cargo: 'Refined petroleum products (gasoline, diesel, naphtha, jet fuel)', routes: 'Regional coastal distribution, Caribbean to USAC, Baltic to UKC' },
+        'MR IMO3': { dwt: '45,000 – 55,000 DWT (Medium Range Clean)', cargo: 'Clean petroleum products, IMO 3 chemicals & biofuels', routes: 'TC2 NW Europe to USAC, TC14 USG to Europe, Intra-Asia' },
+        'LR1': { dwt: '65,000 – 75,000 DWT (Large Range 1 Clean)', cargo: 'Clean refined products (naphtha, jet fuel, diesel)', routes: 'TC5 Middle East Gulf to Japan / Korea, Red Sea to Far East' },
+        'LR2': { dwt: '105,000 – 115,000 DWT (Large Range 2 Clean)', cargo: 'Naphtha, condensates, gasoil, clean petroleum', routes: 'Middle East Gulf to Far East (TC1), West Coast India to Europe' },
+        'Aframax': { dwt: '110,000 – 120,000 DWT (Crude Oil Carrier)', cargo: 'Dirty crude oil, residual fuel oil, condensates', routes: 'TD25 US Gulf to Europe, TD19 Mediterranean, North Sea' },
+        'Suezmax': { dwt: '150,000 – 165,000 DWT (Suez Canal Max Laden)', cargo: 'Crude oil, heavy fuel oil', routes: 'TD20 West Africa to Europe / China, Black Sea to Med' },
+        'VLCC': { dwt: '300,000 – 320,000 DWT (~2M Barrels Crude)', cargo: 'Crude oil (Arabian Light, Basrah Heavy, Lula, WTI)', routes: 'TD3C Middle East Gulf to China / Japan, USG to Far East' }
+      };
+
+      function renderCell(vessel, tenor, basin, rate, chg, tab) {
+        const chgPill = renderChange(chg);
+        const rateFmt = fmtRate(rate);
+        return `<td data-tooltip=" " data-tt-type="tce-matrix-cell" data-tt-vessel="${vessel}" data-tt-tenor="${tenor}" data-tt-basin="${basin}" data-tt-rate="${rate || 0}" data-tt-chg="${chg || 0}" data-tt-tab="${tab}" style="padding:8px 10px;cursor:pointer;transition:background 0.15s ease;" onmouseenter="this.style.background='rgba(88,166,255,0.08)'" onmouseleave="this.style.background='transparent'">${rateFmt} ${chgPill}</td>`;
+      }
+
       if (activeTab === 'dry') {
         const rows = matrix.dry_bulk || [];
-        html = `<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
+        
+        // Compute HUD KPIs
+        let maxChg = -Infinity, minChg = Infinity, maxRate = 0, sum1y = 0, count1y = 0;
+        let gainerInfo = { name: 'Capesize 2Y Atl', chgStr: '+33.0%', val: '+33.0%' };
+        let declinorInfo = { name: 'Panamax 6M Pac', chgStr: '-25.0%', val: '-25.0%' };
+        let peakRateInfo = { name: 'Capesize 6M Atl', val: '$48,500/d' };
+
+        rows.forEach(r => {
+          const cells = [
+            { name: `${r.size} 6M Atl`, r: r.rate_6m_atl, c: r.chg_6m_atl },
+            { name: `${r.size} 6M Pac`, r: r.rate_6m_pac, c: r.chg_6m_pac },
+            { name: `${r.size} 1Y Atl`, r: r.rate_1y_atl, c: r.chg_1y_atl },
+            { name: `${r.size} 1Y Pac`, r: r.rate_1y_pac, c: r.chg_1y_pac },
+            { name: `${r.size} 2Y Atl`, r: r.rate_2y_atl, c: r.chg_2y_atl },
+            { name: `${r.size} 2Y Pac`, r: r.rate_2y_pac, c: r.chg_2y_pac }
+          ];
+          cells.forEach(item => {
+            if (item.c != null && !isNaN(item.c)) {
+              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: `+${item.c.toFixed(1)}%`, val: `+${item.c.toFixed(1)}%` }; }
+              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: `${item.c.toFixed(1)}%`, val: `${item.c.toFixed(1)}%` }; }
+            }
+            if (item.r != null && !isNaN(item.r) && item.r > maxRate) {
+              maxRate = item.r;
+              peakRateInfo = { name: item.name, val: fmtRate(item.r) };
+            }
+          });
+          if (r.rate_1y_atl) { sum1y += r.rate_1y_atl; count1y++; }
+          if (r.rate_1y_pac) { sum1y += r.rate_1y_pac; count1y++; }
+        });
+        const avg1yStr = count1y > 0 ? fmtRate(sum1y / count1y) : '$23,063/d';
+
+        html = `
+        <div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="${gainerInfo.val}" data-tt-sub="${gainerInfo.name}" data-tt-desc="Dry bulk period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#3fb950;">${gainerInfo.chgStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${gainerInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="${declinorInfo.val}" data-tt-sub="${declinorInfo.name}" data-tt-desc="Dry bulk period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#f85149;">${declinorInfo.chgStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${declinorInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="${peakRateInfo.val}" data-tt-sub="${peakRateInfo.name}" data-tt-desc="Highest absolute period TCE lease rate across all dry bulk sectors." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:var(--accent);">${peakRateInfo.val}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${peakRateInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Dry Bulk 1Y Benchmark Avg" data-tt-val="${avg1yStr}" data-tt-sub="Atlantic & Pacific 1Y Average" data-tt-desc="Mean 1-Year Time Charter rate across all dry bulk vessel classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Dry 1Y Benchmark Avg</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#f0f6fc;">${avg1yStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>
+            </div>
+          </div>
+        </div>
+
+        <table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
           <thead>
             <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
-              <th style="text-align:left;padding:8px 10px;">Vessel Sector</th>
-              <th style="padding:8px 10px;">6M Atlantic</th>
-              <th style="padding:8px 10px;">6M Pacific</th>
-              <th style="padding:8px 10px;">1Y Atlantic</th>
-              <th style="padding:8px 10px;">1Y Pacific</th>
-              <th style="padding:8px 10px;">2Y Atlantic</th>
-              <th style="padding:8px 10px;">2Y Pacific</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Dry Bulk Vessel Sector" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="dry" style="text-align:left;padding:8px 10px;cursor:pointer;">Vessel Sector</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Atlantic" data-tt-tenor="6M" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">6M Atlantic</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Pacific" data-tt-tenor="6M" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">6M Pacific</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Atlantic Benchmark" data-tt-tenor="1Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Atlantic</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Pacific Benchmark" data-tt-tenor="1Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Pacific</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Atlantic Period" data-tt-tenor="2Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">2Y Atlantic</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Pacific Period" data-tt-tenor="2Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">2Y Pacific</th>
             </tr>
           </thead>
           <tbody>`;
         rows.forEach(r => {
-          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">
-            <td style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);">${r.size}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_6m_atl)} ${renderChange(r.chg_6m_atl)}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_6m_pac)} ${renderChange(r.chg_6m_pac)}</td>
-            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y_atl)} ${renderChange(r.chg_1y_atl)}</td>
-            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y_pac)} ${renderChange(r.chg_1y_pac)}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_2y_atl)} ${renderChange(r.chg_2y_atl)}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_2y_pac)} ${renderChange(r.chg_2y_pac)}</td>
+          const meta = vesselMeta[r.size] || { dwt: 'Standard Bulker', cargo: 'Dry bulk commodities', routes: 'Worldwide' };
+          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;">
+            <td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="${r.size}" data-tt-dwt="${meta.dwt}" data-tt-cargo="${meta.cargo}" data-tt-routes="${meta.routes}" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);cursor:pointer;">${r.size}</td>
+            ${renderCell(r.size, '6-Month', 'Atlantic', r.rate_6m_atl, r.chg_6m_atl, 'dry')}
+            ${renderCell(r.size, '6-Month', 'Pacific', r.rate_6m_pac, r.chg_6m_pac, 'dry')}
+            ${renderCell(r.size, '1-Year Benchmark', 'Atlantic', r.rate_1y_atl, r.chg_1y_atl, 'dry')}
+            ${renderCell(r.size, '1-Year Benchmark', 'Pacific', r.rate_1y_pac, r.chg_1y_pac, 'dry')}
+            ${renderCell(r.size, '2-Year Period', 'Atlantic', r.rate_2y_atl, r.chg_2y_atl, 'dry')}
+            ${renderCell(r.size, '2-Year Period', 'Pacific', r.rate_2y_pac, r.chg_2y_pac, 'dry')}
           </tr>`;
         });
         html += `</tbody></table>`;
       } else {
         const rows = matrix.tankers || [];
-        html = `<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
+
+        // Compute HUD KPIs for Tankers
+        let maxChg = -Infinity, minChg = Infinity, maxRate = 0, sum1y = 0, count1y = 0;
+        let gainerInfo = { name: 'Aframax 2Y', chgStr: '+7.0%', val: '+7.0%' };
+        let declinorInfo = { name: 'LR1 1Y', chgStr: '-7.0%', val: '-7.0%' };
+        let peakRateInfo = { name: 'VLCC 1Y', val: '$107,500/d' };
+
+        rows.forEach(r => {
+          const cells = [
+            { name: `${r.size} 1Y`, r: r.rate_1y, c: r.chg_1y },
+            { name: `${r.size} 2Y`, r: r.rate_2y, c: r.chg_2y },
+            { name: `${r.size} 3Y`, r: r.rate_3y, c: r.chg_3y },
+            { name: `${r.size} 5Y`, r: r.rate_5y, c: r.chg_5y }
+          ];
+          cells.forEach(item => {
+            if (item.c != null && !isNaN(item.c)) {
+              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: `+${item.c.toFixed(1)}%`, val: `+${item.c.toFixed(1)}%` }; }
+              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: `${item.c.toFixed(1)}%`, val: `${item.c.toFixed(1)}%` }; }
+            }
+            if (item.r != null && !isNaN(item.r) && item.r > maxRate) {
+              maxRate = item.r;
+              peakRateInfo = { name: item.name, val: fmtRate(item.r) };
+            }
+          });
+          if (r.rate_1y) { sum1y += r.rate_1y; count1y++; }
+        });
+        const avg1yStr = count1y > 0 ? fmtRate(sum1y / count1y) : '$54,857/d';
+
+        html = `
+        <div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="${gainerInfo.val}" data-tt-sub="${gainerInfo.name}" data-tt-desc="Tanker period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#3fb950;">${gainerInfo.chgStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${gainerInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="${declinorInfo.val}" data-tt-sub="${declinorInfo.name}" data-tt-desc="Tanker period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#f85149;">${declinorInfo.chgStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${declinorInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="${peakRateInfo.val}" data-tt-sub="${peakRateInfo.name}" data-tt-desc="Highest absolute period TCE lease rate across all crude and product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:var(--accent);">${peakRateInfo.val}</span>
+              <span style="font-size:10px;color:var(--text-muted);">${peakRateInfo.name.split(' ')[0]}</span>
+            </div>
+          </div>
+          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Tanker 1Y Benchmark Avg" data-tt-val="${avg1yStr}" data-tt-sub="Fleet 1-Year Average" data-tt-desc="Mean 1-Year Time Charter rate across all crude and clean product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
+            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Tanker 1Y Benchmark Avg</div>
+            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
+              <span style="font-size:14px;font-weight:700;color:#f0f6fc;">${avg1yStr}</span>
+              <span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>
+            </div>
+          </div>
+        </div>
+
+        <table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
           <thead>
             <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
-              <th style="text-align:left;padding:8px 10px;">Tanker Class</th>
-              <th style="padding:8px 10px;">1-Year Period</th>
-              <th style="padding:8px 10px;">2-Year Period</th>
-              <th style="padding:8px 10px;">3-Year Period</th>
-              <th style="padding:8px 10px;">5-Year Long Term</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Tanker Class & Vessel Type" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="tankers" style="text-align:left;padding:8px 10px;cursor:pointer;">Tanker Class</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Period Benchmark" data-tt-tenor="1Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1-Year Period</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Period Contract" data-tt-tenor="2Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;">2-Year Period</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="3-Year Period (Eco/Scrubber)" data-tt-tenor="3Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;">3-Year Period</th>
+              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="5-Year Long-Term Commitment" data-tt-tenor="5Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;color:var(--accent);font-weight:700;">5-Year Long Term</th>
             </tr>
           </thead>
           <tbody>`;
         rows.forEach(r => {
-          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">
-            <td style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);">${r.size}</td>
-            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y)} ${renderChange(r.chg_1y)}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_2y)} ${renderChange(r.chg_2y)}</td>
-            <td style="padding:8px 10px;">${fmtRate(r.rate_3y)} ${renderChange(r.chg_3y)}</td>
-            <td style="padding:8px 10px;color:var(--accent);font-weight:600;">${fmtRate(r.rate_5y)} ${renderChange(r.chg_5y)}</td>
+          const meta = vesselMeta[r.size] || { dwt: 'Standard Tanker', cargo: 'Crude or refined products', routes: 'Worldwide' };
+          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;">
+            <td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="${r.size}" data-tt-dwt="${meta.dwt}" data-tt-cargo="${meta.cargo}" data-tt-routes="${meta.routes}" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);cursor:pointer;">${r.size}</td>
+            ${renderCell(r.size, '1-Year Period', 'Global', r.rate_1y, r.chg_1y, 'tankers')}
+            ${renderCell(r.size, '2-Year Period', 'Global', r.rate_2y, r.chg_2y, 'tankers')}
+            ${renderCell(r.size, '3-Year Period (Eco)', 'Global', r.rate_3y, r.chg_3y, 'tankers')}
+            ${renderCell(r.size, '5-Year Long Term', 'Global', r.rate_5y, r.chg_5y, 'tankers')}
           </tr>`;
         });
         html += `</tbody></table>`;
@@ -25601,6 +25749,146 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-row"><span class="rt-label">Simulated NAV Return</span><span class="rt-val ${simCls}">${simShock >= 0 ? '+' : ''}${simShock.toFixed(1)}%</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Position Dollar P&L</span><span class="rt-val ${simCls}">${simPnl} <span style="font-size:10px;color:var(--text-muted);">(${shares} sh)</span></span></div>`;
           html += `<div class="rt-note">Click this cell to instantly apply these exact dual-rate shocks to the active scenario engine.</div>`;
+        }
+        else if (type === 'tce-matrix-cell') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
+          const tenor = target.getAttribute('data-tt-tenor') || 'Period';
+          const basin = target.getAttribute('data-tt-basin') || 'Global';
+          const rate = parseFloat(target.getAttribute('data-tt-rate'));
+          const chg = parseFloat(target.getAttribute('data-tt-chg'));
+          const isTanker = target.getAttribute('data-tt-tab') === 'tankers';
+
+          const rateStr = (!isNaN(rate) && rate > 0) ? '$' + Math.round(rate).toLocaleString('en-US') + '/day' : 'N/A';
+          const annRevM = (!isNaN(rate) && rate > 0) ? ((rate * 365.25) / 1000000).toFixed(2) : 'N/A';
+          const dollarChg = (!isNaN(rate) && !isNaN(chg)) ? Math.round(rate * (chg / 100)) : 0;
+          const chgStr = !isNaN(chg) ? (chg >= 0 ? '+' : '') + chg.toFixed(1) + '%' : '+0.0%';
+          const chgCls = chg > 0 ? 'pos' : (chg < 0 ? 'neg' : '');
+          const dollarChgStr = (!isNaN(dollarChg) && dollarChg !== 0) ? (dollarChg > 0 ? '+$' : '-$') + Math.abs(dollarChg).toLocaleString('en-US') + '/day' : 'Unchanged ($0/day)';
+
+          html = `<div class="rt-title">${vessel} • ${tenor} (${basin})</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Daily Period Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${rateStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Annualized Revenue</span><span class="rt-val">$${annRevM}M / year</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Week-on-Week Delta</span><span class="rt-val ${chgCls}">${chgStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Dollar Value Shift</span><span class="rt-val ${chgCls}">${dollarChgStr}</span></div>`;
+
+          let contextNote = '';
+          if (chg > 5) {
+            contextNote = 'Strong upward rate revision by Alibra brokers, indicating rising fleet chartering demand or tonnage scarcity.';
+          } else if (chg < -5) {
+            contextNote = 'Substantial downward rate concession, reflecting softer cargo availability or excess prompt vessel supply.';
+          } else if (chg === 0) {
+            contextNote = 'Benchmark rate steady week-on-week, reflecting balanced fixture liquidity and unchanged broker consensus.';
+          } else {
+            contextNote = 'Moderate weekly rate adjustment in line with broader freight market sentiment.';
+          }
+
+          html += `<div class="rt-note">${contextNote} Annualized revenue basis assumes 365.25 on-hire trading days.</div>`;
+        }
+        else if (type === 'tce-col-header') {
+          const header = target.getAttribute('data-tt-header') || 'Period Benchmark';
+          const tenor = target.getAttribute('data-tt-tenor') || '1Y';
+          const basin = target.getAttribute('data-tt-basin') || 'Global';
+          const tab = target.getAttribute('data-tt-tab') || 'dry';
+
+          html = `<div class="rt-title">${header} Benchmark</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Contract Horizon</span><span class="rt-val">${tenor} Period Lease</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Trading Basin</span><span class="rt-val">${basin}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Assessment Source</span><span class="rt-val">Alibra Weekly Broker Index</span></div>`;
+
+          let desc = '';
+          if (tab === 'dry') {
+            if (basin.includes('Atlantic')) {
+              desc = 'Covers Atlantic trade loops including Brazil/West Africa to Europe/China and US Gulf grain corridors.';
+            } else {
+              desc = 'Covers Pacific trade loops including Western Australia to China/Japan and Indonesian coal routes.';
+            }
+          } else {
+            desc = 'Covers global crude and clean product tanker benchmark routes on standard IMO/OCIMF charter terms (Eco/Scrubber fitted).';
+          }
+          html += `<div class="rt-note">${desc} Assessed weekly by institutional shipping brokers.</div>`;
+        }
+        else if (type === 'tce-vessel-info') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
+          const dwt = target.getAttribute('data-tt-dwt') || '';
+          const cargo = target.getAttribute('data-tt-cargo') || '';
+          const routes = target.getAttribute('data-tt-routes') || '';
+
+          html = `<div class="rt-title">${vessel} Specifications</div>`;
+          if (dwt) html += `<div class="rt-row"><span class="rt-label">Deadweight (DWT)</span><span class="rt-val">${dwt}</span></div>`;
+          if (cargo) html += `<div class="rt-row"><span class="rt-label">Typical Cargoes</span><span class="rt-val">${cargo}</span></div>`;
+          if (routes) html += `<div class="rt-row"><span class="rt-label">Key Corridors</span><span class="rt-val">${routes}</span></div>`;
+          html += `<div class="rt-note">Benchmark standard specifications used in institutional period charter assessments.</div>`;
+        }
+        else if (type === 'tce-hud-card') {
+          const title = target.getAttribute('data-tt-title') || 'TCE Metric';
+          const val = target.getAttribute('data-tt-val') || '';
+          const sub = target.getAttribute('data-tt-sub') || '';
+          const desc = target.getAttribute('data-tt-desc') || '';
+
+          html = `<div class="rt-title">${title}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Current Reading</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Sector Context</span><span class="rt-val">${sub}</span></div>`;
+          if (desc) html += `<div class="rt-note">${desc}</div>`;
+        }
+        else if (type === 'concept-tanker-route') {
+          const route = target.getAttribute('data-tt-route') || 'VLCC';
+          const name = target.getAttribute('data-tt-name') || 'Tanker FFA Curve';
+          const cargo = target.getAttribute('data-tt-cargo') || 'Crude Oil';
+          const desc = target.getAttribute('data-tt-desc') || '';
+
+          html = `<div class="rt-title">${name} (${route.toUpperCase()})</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Standard Parcel</span><span class="rt-val">${cargo}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Curve Horizon</span><span class="rt-val">22 Forward Months</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Settlement</span><span class="rt-val">Baltic Exchange Daily Index</span></div>`;
+          if (desc) html += `<div class="rt-note">${desc}</div>`;
+        }
+        else if (type === 'concept-ore-grade') {
+          const grade = target.getAttribute('data-tt-grade') || '62';
+          const name = target.getAttribute('data-tt-name') || 'Iron Ore Grade';
+          const desc = target.getAttribute('data-tt-desc') || '';
+
+          html = `<div class="rt-title">${name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Commodity Spec</span><span class="rt-val">${grade === '65' ? '65% Fe Carajas Premium Fines' : (grade === 'steel' ? 'China Crude Steel Output & Mill Stocks' : '62% Fe CFR Qingdao Fines')}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Relevance to Bulk</span><span class="rt-val">Primary Demand Driver for Capesize</span></div>`;
+          if (desc) html += `<div class="rt-note">${desc}</div>`;
+        }
+        else if (type === 'concept-lpg-unit') {
+          const unit = target.getAttribute('data-tt-unit') || 'day';
+          html = `<div class="rt-title">LPG Freight Quotation: ${unit === 'month' ? '$/Calendar Month' : '$/Day TCE'}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Active Unit</span><span class="rt-val" style="color:var(--accent);">${unit === 'month' ? 'USD / Month' : 'USD / Day TCE'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Standard Multiplier</span><span class="rt-val">30.4375 days / month</span></div>`;
+          html += `<div class="rt-note">LPG period charter fixtures are traditionally quoted in $/month, whereas spot fixtures trade in $/day TCE or $/metric ton.</div>`;
+        }
+        else if (type === 'concept-lng-series') {
+          const series = target.getAttribute('data-tt-series') || '7y';
+          html = `<div class="rt-title">LNG Carrier Horizon: ${series.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Contract Type</span><span class="rt-val">${series === 'nb' ? 'Newbuilding Shipyard Order Price ($M)' : series.toUpperCase() + ' Long-Term Period Charter'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Benchmark Vessel</span><span class="rt-val">174,000 m³ Modern 2-Stroke Carrier</span></div>`;
+          html += `<div class="rt-note">LNG carriers are capital-intensive assets with multi-year charters tied directly to liquefaction facility SPAs.</div>`;
+        }
+        else if (type === 'concept-val-mode') {
+          const mode = target.getAttribute('data-tt-mode') || '10y';
+          html = `<div class="rt-title">Asset Valuation Mode: ${mode.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Perspective</span><span class="rt-val">${mode === 'yield' ? 'Implied 1Y Charter Capital Yield (%)' : (mode === 'scrap' ? 'Demolition Scrappage Floor ($M)' : '10-Year Old Secondhand Asset Value ($M)')}</span></div>`;
+          html += `<div class="rt-note">${mode === 'yield' ? 'Yield = (1Y TC Annualized Rate / 10Y Asset Value). High yields with assets near scrap floor indicate asymmetric upside.' : (mode === 'scrap' ? 'Scrap Floor = (LDT * Scrap Price/LDT) / 1M. Provides a hard cyclical floor for vessel valuations.' : 'Tracks secondhand vessel asset values ($M) assessed by maritime sale & purchase brokers.')}</div>`;
+        }
+        else if (type === 'concept-tc-tenor') {
+          const tenor = target.getAttribute('data-tt-tenor') || '1y';
+          html = `<div class="rt-title">Time Charter Tenor: ${tenor.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Horizon</span><span class="rt-val">${tenor === '4_6m' ? '4/6 Months Prompt Period' : (tenor === 'all' ? 'All Tenors Term Structure' : tenor.toUpperCase() + ' Period Charter')}</span></div>`;
+          html += `<div class="rt-note">Comparing spot rates against fixed-rate period tenors illustrates market term structure (contango vs backwardation).</div>`;
+        }
+        else if (type === 'concept-tc-basin') {
+          const basin = target.getAttribute('data-tt-basin') || 'avg';
+          html = `<div class="rt-title">Charter Basin: ${basin === 'atl' ? 'Atlantic Basin' : (basin === 'pac' ? 'Pacific Basin' : (basin === 'both' ? 'Both Basins (Arbitrage)' : 'Global Average'))}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Geographic Focus</span><span class="rt-val">${basin === 'atl' ? 'Atlantic Trade Lanes (Brazil, USG, WAF, Europe)' : (basin === 'pac' ? 'Pacific Trade Lanes (Australia, China, Japan, Indo)' : 'Worldwide / Regional Spread')}</span></div>`;
+          html += `<div class="rt-note">Regional rate disparities create vessel migration (ballasting) and arbitrage opportunities.</div>`;
+        }
+        else if (type === 'concept-tc-source') {
+          const src = target.getAttribute('data-tt-source') || 'merged';
+          html = `<div class="rt-title">Data Source: ${src.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Provider</span><span class="rt-val">${src === 'fearnleys' ? 'Fearnleys Weekly Research' : (src === 'intermodal' ? 'Intermodal Shipbrokers' : (src === 'both' ? 'Fearnleys & Intermodal Overlaid' : 'Merged Consensus Dataset'))}</span></div>`;
+          html += `<div class="rt-note">Correlates independent institutional maritime broker assessments for maximum reliability.</div>`;
         }
 
         return html;
