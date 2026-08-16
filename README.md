@@ -354,6 +354,17 @@ Executive macro desk and deep research workspace.
 | **Implied Monthly Roll Yield** | $\sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100\% \right)$ |
 | **Multi-Month Contango Hurdle** | $1 - \prod_{m=1}^{H} (1 - \text{RollYield}_m) + \text{OER} \times \frac{H}{12}$ |
 
+### 4.3 Physical Freight & Capital Cycle Mathematical Specifications
+
+| Metric / Model | Mathematical Formulation | Economic Interpretation & Trigger |
+| :--- | :--- | :--- |
+| **Implied Charter Yield** | $\text{Yield}_{\text{TC}} = \frac{\text{1Y TC (\$/d)} \times 365}{\text{10Y Asset Value (\$M)} \times 10^6} \times 100\%$ | Measures cash-on-cash annual return on vessel hardware. Yields $>25\%$ signal extreme historical undervaluation. |
+| **Demolition Scrap Floor** | $\text{Floor}_{\text{Scrap}} = \frac{\text{LDT (Lightweight Tons)} \times \text{Scrap Price (\$/LDT)}}{10^6}$ | Absolute liquidation floor. Secondhand prices approaching scrap floor represent zero-downside option asymmetry. |
+| **Basin Arbitrage Ratio** | $\text{Ratio}_{\text{Basin}} = \frac{\text{Atlantic TC (\$/d)}}{\text{Pacific TC (\$/d)}}$ | $>1.25\text{x}$ triggers Atlantic fleet repositioning; $<0.80\text{x}$ signals Pacific coal/grain premium. |
+| **Tanker Curve Slope** | $\text{Slope}_{\text{FFA}} = \frac{\text{M12 Deferred (\$/d)} - \text{M1 Prompt (\$/d)}}{\text{M1 Prompt (\$/d)}} \times 100\%$ | Negative = Backwardation / Prompt Tightness; Positive = Contango / Winter Storage Demand. |
+| **Cycle Quadrant Coordinates** | $X = \text{RoC}_{60}(\text{Spot}), \quad Y = Z_{252}\left(\frac{\text{Spot}}{\text{1Y TC}}\right)$ | Maps 4 shipping cycle phases: **Recovery** ($X>0, Y<0$), **Boom** ($X>0, Y>0$), **Over-ordering** ($X<0, Y>0$), **Restructuring** ($X<0, Y<0$). |
+| **LNG Replacement Multiple** | $\text{Multiple}_{\text{LNG}} = \frac{\text{Newbuilding Price (\$M)}}{\text{7Y TC (\$/d)} \times 365 / 10^6}$ | Multi-year asset payback period in years. Low multiples indicate attractive shipyard contract entry. |
+
 ---
 
 ## 5. Intelligence Knowledge Base Engine & RAG Architecture

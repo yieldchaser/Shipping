@@ -10069,10 +10069,10 @@
               <div class="chart-title" id="tceMatrixTitle" data-tooltip="Live Institutional Period TCE Rate Matrix — weekly benchmark rates across all Dry Bulk (Atl/Pac) and Tanker classes with color-coded week-on-week changes." data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
-                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
+                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip="Dry Bulk Period TCE: Capesize, Panamax, Supramax, Handysize across 6M, 1Y, 2Y tenors for Atlantic & Pacific basins" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
+                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip="Tanker Period TCE: VLCC, Suezmax, Aframax, LR2, LR1, MR across 1Y, 2Y, 3Y, 5Y tenors" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
                 </div>
-                <div id="tceMatrixDateBadge" class="kpi-badge">Report Date: —</div>
+                <div id="tceMatrixDateBadge" class="kpi-badge" data-tooltip="Official publication date of Alibra Shipbrokers weekly period fixture assessments">Report Date: —</div>
               </div>
             </div>
             <div id="tceMatrixTableWrap" style="overflow-x:auto;margin-top:10px;"></div>
@@ -10091,15 +10091,15 @@
                   <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip="Clean MR Atlantic Basket (TC2, TC14, TC6, Triangulation)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
                   <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip="Overview of all dirty and clean benchmark routes" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
-                <div id="tankerFwdSlopeBadge" class="kpi-badge">Term Structure: —</div>
-                <div id="tankerFwdEcoBadge" class="kpi-badge">Eco Premium: —</div>
+                <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Negative = Backwardation; Positive = Contango">Term Structure: —</div>
+                <div id="tankerFwdEcoBadge" class="kpi-badge" data-tooltip="Eco Fuel-Efficiency Premium: Average $/day savings of modern Eco/Scrubber vessels over conventional standard hulls">Eco Premium: —</div>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="tankerForwardChart"></canvas></div>
             <div id="tankerContractDrilldown" style="display:none;margin-top:12px;padding:10px 14px;background:rgba(22,27,34,0.7);border:1px solid var(--border);border-radius:6px;font-size:12px;">
               <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
                 <span id="drillContractTitle" style="font-weight:600;color:var(--text-bright);">Contract Details</span>
-                <span id="drillContractBadge" style="padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Forward FFA</span>
+                <span id="drillContractBadge" data-tooltip="Official forward settlement details and per-vessel breakdown for this contract month" style="padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Forward FFA</span>
               </div>
               <div id="drillContractBody" style="display:flex;gap:16px;flex-wrap:wrap;color:var(--text-muted);"></div>
             </div>
@@ -10115,7 +10115,7 @@
                   <button class="toggle-btn active" id="basinTenor1y" onclick="setBasinTenor('1y')" data-tooltip="1-Year Atlantic vs Pacific Spread (Default)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
                   <button class="toggle-btn" id="basinTenor2y" onclick="setBasinTenor('2y')" data-tooltip="2-Year Atlantic vs Pacific Spread" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
                 </div>
-                <div id="basinRatioBadge" class="kpi-badge">Atl/Pac: —</div>
+                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10138,11 +10138,11 @@
               <div class="chart-title" id="restockingTitle" data-tooltip="Port Stocks vs Freight Spot — tracks relationship between China Qingdao iron ore inventories, CFR 62% ore prices, and Capesize spot rates. Low port inventories combined with high steel margins signal aggressive restocking demand." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
-                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
-                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
+                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tooltip="62% Fe Standard Grade Iron Ore CFR China ($/dmt) vs Qingdao Port Inventory" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
+                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" data-tooltip="65% Fe High-Grade Brazilian Carajas Fines CFR China ($/dmt) - primary driver of long-haul Capesize ton-mile demand" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
+                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" data-tooltip="China Monthly Crude Steel Production (MT) vs Major Warehouse Finished Steel Inventories" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
                 </div>
-                <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
+                <div id="oreFreightRatioBadge" class="kpi-badge" data-tooltip="Capesize Freight to Iron Ore Value Ratio (%) — measures shipping cost as a percentage of total delivered commodity value">Freight/Ore: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10165,10 +10165,10 @@
               <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot, VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index. Toggle between $/day TCE equivalent and raw $/month PCM hire.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="lpgUnitToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
-                  <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
+                  <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" data-tooltip="Display hire in Time Charter Equivalent $/day (Standard maritime unit)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
+                  <button class="toggle-btn" id="lpgUnitMonth" onclick="setLPGUnit('month')" data-tooltip="Display hire in Per Calendar Month $/month (Standard commercial chartering unit)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">$/Month PCM</button>
                 </div>
-                <div id="lpgRatesBadge" class="kpi-badge">VLGC 1Y TC: —</div>
+                <div id="lpgRatesBadge" class="kpi-badge" data-tooltip="1-Year Time Charter fixture rate for modern 84,000 m³ Very Large Gas Carriers (VLGC)">VLGC 1Y TC: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10191,12 +10191,12 @@
               <div class="chart-title" id="lngCharterTitle" data-tooltip="LNG Carrier Long-Term Period Rates & Newbuilding Prices — tracks 7-Year and 10-Year Time Charter rates for modern 174k m³ LNG carriers ($/day) against shipyard newbuilding prices ($M) from 2017 to present." data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="lngSeriesToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lngBtn7y" onclick="setLngSeries('7y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">7-Year TC</button>
-                  <button class="toggle-btn" id="lngBtn10y" onclick="setLngSeries('10y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">10-Year TC</button>
-                  <button class="toggle-btn" id="lngBtnNb" onclick="setLngSeries('nb')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newbuilding $M</button>
-                  <button class="toggle-btn" id="lngBtnAll" onclick="setLngSeries('all')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
+                  <button class="toggle-btn active" id="lngBtn7y" onclick="setLngSeries('7y')" data-tooltip="7-Year Long-Term Time Charter lease rate for modern 174k m³ 2-Stroke LNG carriers ($/day)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">7-Year TC</button>
+                  <button class="toggle-btn" id="lngBtn10y" onclick="setLngSeries('10y')" data-tooltip="10-Year Long-Term Time Charter lease rate for modern 174k m³ LNG carriers ($/day)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">10-Year TC</button>
+                  <button class="toggle-btn" id="lngBtnNb" onclick="setLngSeries('nb')" data-tooltip="Shipyard Newbuilding Asset Prices ($M) for 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newbuilding $M</button>
+                  <button class="toggle-btn" id="lngBtnAll" onclick="setLngSeries('all')" data-tooltip="Overlays 7Y TC, 10Y TC, and Shipyard Newbuilding Asset Prices on a synchronized dual-axis chart" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
                 </div>
-                <div id="lngRatesBadge" class="kpi-badge">LNG 7Y TC: —</div>
+                <div id="lngRatesBadge" class="kpi-badge" data-tooltip="Prompt 7-Year and 10-Year Time Charter rates and 174k m³ Newbuilding shipyard contract price">LNG 7Y TC: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -10230,11 +10230,11 @@
               <div class="chart-title" id="valuationTitle" data-tooltip="Vessel Asset Values & Scrap Floor — tracks secondhand 10-year vessel values ($M), demolition/scrap price floor ($/LDT), and implied charter yields (1Y TC / Asset Price). When asset prices approach scrap value, downside risk is historically minimized." data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
               <div style="display:flex;align-items:center;gap:8px;">
                 <div id="valuationModeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
-                  <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
-                  <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
+                  <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" data-tooltip="10-Year-Old Secondhand Vessel Resale Price ($M) from 1970 to present" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
+                  <button class="toggle-btn" id="valModeScrap" onclick="setValuationMode('scrap')" data-tooltip="Demolition Scrap Value ($M) computed as Lightweight Tonnage (LDT) × Regional Scrap Price ($/LDT)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Scrap Floor</button>
+                  <button class="toggle-btn" id="valModeYield" onclick="setValuationMode('yield')" data-tooltip="Implied Gross Charter Yield % computed as (1-Year Period TC × 365) / Secondhand Asset Value" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Charter Yield %</button>
                 </div>
-                <div id="scrapFloorBadge" class="kpi-badge">Value: —</div>
+                <div id="scrapFloorBadge" class="kpi-badge" data-tooltip="Current asset price relative to the historical steel demolition scrap floor">Value: —</div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
