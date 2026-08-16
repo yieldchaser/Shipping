@@ -10081,15 +10081,23 @@
           <div class="chart-container mb-20" id="tceMatrixContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
               <div class="chart-title" id="tceMatrixTitle" data-tooltip=" " data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
-              <div style="display:flex;align-items:center;gap:8px;">
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <!-- Sector Toggle -->
                 <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
                   <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="Crude & Product Tanker Benchmarks" data-tt-cargo="Crude & Clean Fleet" data-tt-desc="Institutional period charter rates across VLCC, Suezmax, Aframax, LR2, LR1, and MR classes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
+                </div>
+                <!-- Multi-Horizon Momentum Toggle -->
+                <div id="tceHorizonToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="tceHor1w" onclick="setTceHorizon('1w')" data-tooltip="Show 1-Week (Week-on-Week) percentage rate revision" style="padding:3px 8px;border:none;cursor:pointer;background:rgba(88,166,255,0.2);color:#58a6ff;font-size:11px;font-weight:600;font-family:inherit;">1W WoW</button>
+                  <button class="toggle-btn" id="tceHor1m" onclick="setTceHorizon('1m')" data-tooltip="Show 1-Month (Month-on-Month) percentage rate momentum" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M MoM</button>
+                  <button class="toggle-btn" id="tceHor1y" onclick="setTceHorizon('1y')" data-tooltip="Show 1-Year (Year-on-Year) structural percentage rate change" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y YoY</button>
                 </div>
                 <div id="tceMatrixDateBadge" class="kpi-badge" data-tooltip="Official publication date of Alibra Shipbrokers weekly period fixture assessments">Report Date: —</div>
               </div>
             </div>
             <div id="tceMatrixTableWrap" style="overflow-x:auto;margin-top:10px;"></div>
+            <div id="tceRowDrilldownWrap" style="display:none;margin-top:12px;padding:12px 16px;background:rgba(22,27,34,0.7);border:1px solid var(--border);border-radius:6px;font-size:12px;"></div>
           </div>
 
           <!-- Tanker 22-Month Forward Curves & Eco Spreads -->
@@ -17475,11 +17483,15 @@ if (intelTabsContainer) {
     };
 
     // =========================================================================
-    // TCE MATRIX TAB TOGGLE & TABLE RENDERER
+    // TCE MATRIX TAB TOGGLE, HORIZON TOGGLE & TABLE RENDERER
     // =========================================================================
     window.tceTab = window.tceTab || 'dry';
+    window.tceHorizon = window.tceHorizon || '1w';
+    window.selectedTceRow = null;
+
     window.setTceTab = function(tab) {
       window.tceTab = tab;
+      window.selectedTceRow = null;
       const btnDry = document.getElementById('tceTabDry');
       const btnWet = document.getElementById('tceTabWet');
       if (btnDry && btnWet) {
@@ -17494,17 +17506,68 @@ if (intelTabsContainer) {
       renderTCEMatrixTable();
     };
 
+    window.setTceHorizon = function(hor) {
+      window.tceHorizon = hor;
+      ['1w', '1m', '1y'].forEach(function(h) {
+        const btn = document.getElementById('tceHor' + h);
+        if (btn) {
+          if (h === hor) {
+            btn.classList.add('active');
+            btn.style.background = 'rgba(88,166,255,0.2)';
+            btn.style.color = '#58a6ff';
+            btn.style.fontWeight = '600';
+          } else {
+            btn.classList.remove('active');
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+            btn.style.fontWeight = 'normal';
+          }
+        }
+      });
+      renderTCEMatrixTable();
+    };
+
+    window.selectTceRow = function(idx, tab) {
+      window.selectedTceRow = (window.selectedTceRow === idx) ? null : idx;
+      renderTCEMatrixTable();
+    };
+
+    function renderSparklineSVG(points, width, height) {
+      width = width || 76;
+      height = height || 20;
+      if (!points || points.length < 2) return '<span style="color:var(--text-muted);font-size:10px;">—</span>';
+      let min = Infinity, max = -Infinity;
+      for (let i = 0; i < points.length; i++) {
+        if (points[i] < min) min = points[i];
+        if (points[i] > max) max = points[i];
+      }
+      const range = max - min || 1;
+      const coords = [];
+      for (let i = 0; i < points.length; i++) {
+        const x = ((i / (points.length - 1)) * (width - 6) + 3).toFixed(1);
+        const y = (height - 4 - ((points[i] - min) / range) * (height - 8)).toFixed(1);
+        coords.push(x + ',' + y);
+      }
+      const lastP = points[points.length - 1];
+      const firstP = points[0];
+      const color = lastP >= firstP ? '#3fb950' : '#f85149';
+      const lastX = width - 3;
+      const lastY = (height - 4 - ((lastP - min) / range) * (height - 8)).toFixed(1);
+      return '<svg width="' + width + '" height="' + height + '" viewBox="0 0 ' + width + ' ' + height + '" style="overflow:visible;vertical-align:middle;display:inline-block;"><polyline fill="none" stroke="' + color + '" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" points="' + coords.join(' ') + '" /><circle cx="' + lastX + '" cy="' + lastY + '" r="2" fill="' + color + '" /></svg>';
+    }
+
     function renderTCEMatrixTable() {
       const container = document.getElementById('tceMatrixContainer');
       const wrap = document.getElementById('tceMatrixTableWrap');
+      const drillWrap = document.getElementById('tceRowDrilldownWrap');
       const dateBadge = document.getElementById('tceMatrixDateBadge');
       if (!container || !wrap) return;
 
       const matrix = DATA.tceMatrix;
       if (!matrix) {
         fetch('data/derived/alibra_tce_matrix.json')
-          .then(r => r.ok ? r.json() : null)
-          .then(json => {
+          .then(function(r) { return r.ok ? r.json() : null; })
+          .then(function(json) {
             if (json) {
               DATA.tceMatrix = json;
               renderTCEMatrixTable();
@@ -17518,17 +17581,18 @@ if (intelTabsContainer) {
       }
 
       const activeTab = window.tceTab || 'dry';
+      const activeHor = window.tceHorizon || '1w';
       let html = '';
 
       function renderChange(val) {
         if (val == null || isNaN(val)) return '<span style="color:var(--text-muted);font-size:11px;">—</span>';
         if (val === 0) {
-          return `<span style="color:var(--text-muted);font-weight:600;font-size:11px;background:rgba(139,148,158,0.12);padding:2px 5px;border-radius:3px;">+0.0%</span>`;
+          return '<span style="color:var(--text-muted);font-weight:600;font-size:11px;background:rgba(139,148,158,0.12);padding:2px 5px;border-radius:3px;">+0.0%</span>';
         }
         const isPos = val > 0;
         const color = isPos ? '#3fb950' : '#f85149';
         const sign = isPos ? '+' : '';
-        return `<span style="color:${color};font-weight:600;font-size:11px;background:${isPos ? 'rgba(63,185,80,0.12)' : 'rgba(248,81,73,0.12)'};padding:2px 5px;border-radius:3px;">${sign}${val.toFixed(1)}%</span>`;
+        return '<span style="color:' + color + ';font-weight:600;font-size:11px;background:' + (isPos ? 'rgba(63,185,80,0.12)' : 'rgba(248,81,73,0.12)') + ';padding:2px 5px;border-radius:3px;">' + sign + val.toFixed(1) + '%</span>';
       }
 
       function fmtRate(v) {
@@ -17550,34 +17614,41 @@ if (intelTabsContainer) {
         'VLCC': { dwt: '300,000 – 320,000 DWT (~2M Barrels Crude)', cargo: 'Crude oil (Arabian Light, Basrah Heavy, Lula, WTI)', routes: 'TD3C Middle East Gulf to China / Japan, USG to Far East' }
       };
 
-      function renderCell(vessel, tenor, basin, rate, chg, tab) {
-        const chgPill = renderChange(chg);
+      function getCellChg(row, tenorKey, defVal) {
+        if (activeHor === '1w') return defVal;
+        if (activeHor === '1m') return row.mom_1m;
+        if (activeHor === '1y') return row.mom_1y;
+        return defVal;
+      }
+
+      function renderCell(vessel, tenor, basin, rate, chg, tab, row) {
+        const effChg = getCellChg(row, tenor, chg);
+        const chgPill = renderChange(effChg);
         const rateFmt = fmtRate(rate);
-        return `<td data-tooltip=" " data-tt-type="tce-matrix-cell" data-tt-vessel="${vessel}" data-tt-tenor="${tenor}" data-tt-basin="${basin}" data-tt-rate="${rate || 0}" data-tt-chg="${chg || 0}" data-tt-tab="${tab}" style="padding:8px 10px;cursor:pointer;transition:background 0.15s ease;" onmouseenter="this.style.background='rgba(88,166,255,0.08)'" onmouseleave="this.style.background='transparent'">${rateFmt} ${chgPill}</td>`;
+        return '<td data-tooltip=" " data-tt-type="tce-matrix-cell" data-tt-vessel="' + vessel + '" data-tt-tenor="' + tenor + '" data-tt-basin="' + basin + '" data-tt-rate="' + (rate || 0) + '" data-tt-chg="' + (effChg || 0) + '" data-tt-tab="' + tab + '" style="padding:8px 8px;cursor:pointer;transition:background 0.15s ease;" onmouseenter="this.style.background=\'rgba(88,166,255,0.08)\'" onmouseleave="this.style.background=\'transparent\'">' + rateFmt + ' ' + chgPill + '</td>';
       }
 
       if (activeTab === 'dry') {
         const rows = matrix.dry_bulk || [];
         
-        // Compute HUD KPIs
         let maxChg = -Infinity, minChg = Infinity, maxRate = 0, sum1y = 0, count1y = 0;
         let gainerInfo = { name: 'Capesize 2Y Atl', chgStr: '+33.0%', val: '+33.0%' };
         let declinorInfo = { name: 'Panamax 6M Pac', chgStr: '-25.0%', val: '-25.0%' };
         let peakRateInfo = { name: 'Capesize 6M Atl', val: '$48,500/d' };
 
-        rows.forEach(r => {
+        rows.forEach(function(r) {
           const cells = [
-            { name: `${r.size} 6M Atl`, r: r.rate_6m_atl, c: r.chg_6m_atl },
-            { name: `${r.size} 6M Pac`, r: r.rate_6m_pac, c: r.chg_6m_pac },
-            { name: `${r.size} 1Y Atl`, r: r.rate_1y_atl, c: r.chg_1y_atl },
-            { name: `${r.size} 1Y Pac`, r: r.rate_1y_pac, c: r.chg_1y_pac },
-            { name: `${r.size} 2Y Atl`, r: r.rate_2y_atl, c: r.chg_2y_atl },
-            { name: `${r.size} 2Y Pac`, r: r.rate_2y_pac, c: r.chg_2y_pac }
+            { name: r.size + ' 6M Atl', r: r.rate_6m_atl, c: r.chg_6m_atl },
+            { name: r.size + ' 6M Pac', r: r.rate_6m_pac, c: r.chg_6m_pac },
+            { name: r.size + ' 1Y Atl', r: r.rate_1y_atl, c: r.chg_1y_atl },
+            { name: r.size + ' 1Y Pac', r: r.rate_1y_pac, c: r.chg_1y_pac },
+            { name: r.size + ' 2Y Atl', r: r.rate_2y_atl, c: r.chg_2y_atl },
+            { name: r.size + ' 2Y Pac', r: r.rate_2y_pac, c: r.chg_2y_pac }
           ];
-          cells.forEach(item => {
+          cells.forEach(function(item) {
             if (item.c != null && !isNaN(item.c)) {
-              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: `+${item.c.toFixed(1)}%`, val: `+${item.c.toFixed(1)}%` }; }
-              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: `${item.c.toFixed(1)}%`, val: `${item.c.toFixed(1)}%` }; }
+              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: '+' + item.c.toFixed(1) + '%', val: '+' + item.c.toFixed(1) + '%' }; }
+              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: item.c.toFixed(1) + '%', val: item.c.toFixed(1) + '%' }; }
             }
             if (item.r != null && !isNaN(item.r) && item.r > maxRate) {
               maxRate = item.r;
@@ -17589,84 +17660,143 @@ if (intelTabsContainer) {
         });
         const avg1yStr = count1y > 0 ? fmtRate(sum1y / count1y) : '$23,063/d';
 
-        html = `
-        <div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="${gainerInfo.val}" data-tt-sub="${gainerInfo.name}" data-tt-desc="Dry bulk period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#3fb950;">${gainerInfo.chgStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${gainerInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="${declinorInfo.val}" data-tt-sub="${declinorInfo.name}" data-tt-desc="Dry bulk period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#f85149;">${declinorInfo.chgStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${declinorInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="${peakRateInfo.val}" data-tt-sub="${peakRateInfo.name}" data-tt-desc="Highest absolute period TCE lease rate across all dry bulk sectors." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:var(--accent);">${peakRateInfo.val}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${peakRateInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Dry Bulk 1Y Benchmark Avg" data-tt-val="${avg1yStr}" data-tt-sub="Atlantic & Pacific 1Y Average" data-tt-desc="Mean 1-Year Time Charter rate across all dry bulk vessel classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Dry 1Y Benchmark Avg</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#f0f6fc;">${avg1yStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>
-            </div>
-          </div>
-        </div>
+        html = '<div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="' + gainerInfo.val + '" data-tt-sub="' + gainerInfo.name + '" data-tt-desc="Dry bulk period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#3fb950;">' + gainerInfo.chgStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + gainerInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="' + declinorInfo.val + '" data-tt-sub="' + declinorInfo.name + '" data-tt-desc="Dry bulk period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#f85149;">' + declinorInfo.chgStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + declinorInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="' + peakRateInfo.val + '" data-tt-sub="' + peakRateInfo.name + '" data-tt-desc="Highest absolute period TCE lease rate across all dry bulk sectors." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:var(--accent);">' + peakRateInfo.val + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + peakRateInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Dry Bulk 1Y Benchmark Avg" data-tt-val="' + avg1yStr + '" data-tt-sub="Atlantic & Pacific 1Y Average" data-tt-desc="Mean 1-Year Time Charter rate across all dry bulk vessel classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Dry 1Y Benchmark Avg</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#f0f6fc;">' + avg1yStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>' +
+            '</div>' +
+          '</div>' +
+        '</div>';
 
-        <table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
-          <thead>
-            <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Dry Bulk Vessel Sector" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="dry" style="text-align:left;padding:8px 10px;cursor:pointer;">Vessel Sector</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Atlantic" data-tt-tenor="6M" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">6M Atlantic</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Pacific" data-tt-tenor="6M" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">6M Pacific</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Atlantic Benchmark" data-tt-tenor="1Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Atlantic</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Pacific Benchmark" data-tt-tenor="1Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Pacific</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Atlantic Period" data-tt-tenor="2Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">2Y Atlantic</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Pacific Period" data-tt-tenor="2Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 10px;cursor:pointer;">2Y Pacific</th>
-            </tr>
-          </thead>
-          <tbody>`;
-        rows.forEach(r => {
+        html += '<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">' +
+          '<thead>' +
+            '<tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Dry Bulk Vessel Sector" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="dry" style="text-align:left;padding:8px 10px;cursor:pointer;">Vessel Sector</th>' +
+              '<th data-tooltip="52-Week 1-Year Time Charter Rate Trajectory & Range" style="text-align:center;padding:8px 6px;">52W Trend</th>' +
+              '<th data-tooltip="10-Year Historical Cycle Percentile Rank (2016-2026)" style="text-align:center;padding:8px 6px;">10Y Cycle</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Atlantic" data-tt-tenor="6M" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">6M Atlantic</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Pacific" data-tt-tenor="6M" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">6M Pacific</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Atlantic Benchmark" data-tt-tenor="1Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Atlantic</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Pacific Benchmark" data-tt-tenor="1Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Pacific</th>' +
+              '<th data-tooltip="Atlantic Premium over Pacific Basin (1Y Benchmark Spread: Atlantic $/d - Pacific $/d)" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);">Basin Spread (1Y)</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Atlantic Period" data-tt-tenor="2Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">2Y Atlantic</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Pacific Period" data-tt-tenor="2Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">2Y Pacific</th>' +
+            '</tr>' +
+          '</thead>' +
+          '<tbody>';
+
+        rows.forEach(function(r, idx) {
           const meta = vesselMeta[r.size] || { dwt: 'Standard Bulker', cargo: 'Dry bulk commodities', routes: 'Worldwide' };
-          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;">
-            <td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="${r.size}" data-tt-dwt="${meta.dwt}" data-tt-cargo="${meta.cargo}" data-tt-routes="${meta.routes}" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);cursor:pointer;">${r.size}</td>
-            ${renderCell(r.size, '6-Month', 'Atlantic', r.rate_6m_atl, r.chg_6m_atl, 'dry')}
-            ${renderCell(r.size, '6-Month', 'Pacific', r.rate_6m_pac, r.chg_6m_pac, 'dry')}
-            ${renderCell(r.size, '1-Year Benchmark', 'Atlantic', r.rate_1y_atl, r.chg_1y_atl, 'dry')}
-            ${renderCell(r.size, '1-Year Benchmark', 'Pacific', r.rate_1y_pac, r.chg_1y_pac, 'dry')}
-            ${renderCell(r.size, '2-Year Period', 'Atlantic', r.rate_2y_atl, r.chg_2y_atl, 'dry')}
-            ${renderCell(r.size, '2-Year Period', 'Pacific', r.rate_2y_pac, r.chg_2y_pac, 'dry')}
-          </tr>`;
+          const isSel = (window.selectedTceRow === idx);
+          const bg = isSel ? 'background:rgba(88,166,255,0.12);border-left:3px solid var(--accent);' : '';
+          const sparkSvg = renderSparklineSVG(r.sparkline_52w);
+          const spreadSign = r.basin_spread_1y >= 0 ? '+' : '';
+          const spreadColor = r.basin_spread_1y >= 0 ? '#3fb950' : '#f85149';
+          const spreadBg = r.basin_spread_1y >= 0 ? 'rgba(63,185,80,0.12)' : 'rgba(248,81,73,0.12)';
+          const basinPill = '<span style="color:' + spreadColor + ';font-weight:700;font-size:11px;background:' + spreadBg + ';padding:2px 6px;border-radius:3px;">' + spreadSign + '$' + Math.round(r.basin_spread_1y).toLocaleString() + '/d (' + (r.basin_spread_pct_1y > 0 ? '+' : '') + r.basin_spread_pct_1y + '%)</span>';
+          
+          let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
+          if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
+          else if (r.pctile_10y < 75) { cycleColor = '#d29922'; cycleBg = 'rgba(210,153,34,0.15)'; cycleBrd = 'rgba(210,153,34,0.3)'; }
+          const pctileBadge = '<span class="kpi-badge" data-tooltip="10Y Percentile: ' + r.pctile_10y + '% (10Y Median: $' + (r.median_10y || 0).toLocaleString() + '/d) | Status: ' + (r.cycle_label || '') + '" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
+
+          html += '<tr onclick="selectTceRow(' + idx + ', \'dry\')" style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;cursor:pointer;' + bg + '">' +
+            '<td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="' + r.size + '" data-tt-dwt="' + meta.dwt + '" data-tt-cargo="' + meta.cargo + '" data-tt-routes="' + meta.routes + '" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);"><div style="font-weight:600;">' + r.size + '</div><div style="font-size:10px;color:var(--text-muted);font-weight:normal;">' + meta.dwt.split(' ')[0] + '</div></td>' +
+            '<td data-tooltip="52-Week Range: $' + (r.low_52w || 0).toLocaleString() + '/d – $' + (r.high_52w || 0).toLocaleString() + '/d | 1M: ' + (r.mom_1m > 0 ? '+' : '') + r.mom_1m + '% | 1Y: ' + (r.mom_1y > 0 ? '+' : '') + r.mom_1y + '%" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
+            '<td style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
+            renderCell(r.size, '6-Month', 'Atlantic', r.rate_6m_atl, r.chg_6m_atl, 'dry', r) +
+            renderCell(r.size, '6-Month', 'Pacific', r.rate_6m_pac, r.chg_6m_pac, 'dry', r) +
+            renderCell(r.size, '1-Year Benchmark', 'Atlantic', r.rate_1y_atl, r.chg_1y_atl, 'dry', r) +
+            renderCell(r.size, '1-Year Benchmark', 'Pacific', r.rate_1y_pac, r.chg_1y_pac, 'dry', r) +
+            '<td style="text-align:center;padding:8px 8px;">' + basinPill + '</td>' +
+            renderCell(r.size, '2-Year Period', 'Atlantic', r.rate_2y_atl, r.chg_2y_atl, 'dry', r) +
+            renderCell(r.size, '2-Year Period', 'Pacific', r.rate_2y_pac, r.chg_2y_pac, 'dry', r) +
+          '</tr>';
         });
-        html += `</tbody></table>`;
+        html += '</tbody></table>';
+
+        if (window.selectedTceRow !== null && rows[window.selectedTceRow]) {
+          const sel = rows[window.selectedTceRow];
+          const meta = vesselMeta[sel.size] || {};
+          if (drillWrap) {
+            drillWrap.style.display = 'block';
+            drillWrap.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">' +
+              '<div style="font-weight:700;color:var(--text-bright);font-size:13px;display:flex;align-items:center;gap:8px;">' +
+                '<span>' + sel.size + ' — Vessel Fundamentals & Period Diagnostics</span>' +
+                '<span class="kpi-badge" style="font-size:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">' + (sel.cycle_label || 'Active Fleet') + '</span>' +
+              '</div>' +
+              '<button onclick="selectTceRow(null)" style="background:transparent;border:none;color:var(--text-muted);cursor:pointer;font-size:14px;">✕</button>' +
+            '</div>' +
+            '<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));gap:10px;margin-bottom:10px;">' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">52-Week High / Low</div>' +
+                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString() + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString() + '</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">10Y Historical Median</div>' +
+                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString() + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">1Y Basin Spread (Atl - Pac)</div>' +
+                '<div style="font-size:12px;font-weight:700;color:var(--accent);margin-top:2px;">+$' + Math.round(sel.basin_spread_1y).toLocaleString() + '/d <span style="color:var(--text-muted);font-size:11px;">(+' + sel.basin_spread_pct_1y + '%)</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Multi-Horizon Momentum</div>' +
+                '<div style="font-size:11px;font-weight:600;color:#f0f6fc;margin-top:2px;">1W: <span style="color:#3fb950;">+' + sel.mom_1w + '%</span> | 1M: <span style="color:#3fb950;">+' + sel.mom_1m + '%</span> | 1Y: <span style="color:#3fb950;">+' + sel.mom_1y + '%</span></div>' +
+              '</div>' +
+            '</div>' +
+            '<div style="font-size:11px;color:var(--text-muted);line-height:1.5;">' +
+              '<div><strong style="color:var(--text-bright);">Deadweight & Dimensions:</strong> ' + (meta.dwt || '—') + '</div>' +
+              '<div><strong style="color:var(--text-bright);">Primary Cargoes:</strong> ' + (meta.cargo || '—') + '</div>' +
+              '<div><strong style="color:var(--text-bright);">Major Trade Lanes:</strong> ' + (meta.routes || '—') + '</div>' +
+            '</div>';
+          }
+        } else if (drillWrap) {
+          drillWrap.style.display = 'none';
+        }
+
       } else {
         const rows = matrix.tankers || [];
 
-        // Compute HUD KPIs for Tankers
         let maxChg = -Infinity, minChg = Infinity, maxRate = 0, sum1y = 0, count1y = 0;
         let gainerInfo = { name: 'Aframax 2Y', chgStr: '+7.0%', val: '+7.0%' };
         let declinorInfo = { name: 'LR1 1Y', chgStr: '-7.0%', val: '-7.0%' };
         let peakRateInfo = { name: 'VLCC 1Y', val: '$107,500/d' };
 
-        rows.forEach(r => {
+        rows.forEach(function(r) {
           const cells = [
-            { name: `${r.size} 1Y`, r: r.rate_1y, c: r.chg_1y },
-            { name: `${r.size} 2Y`, r: r.rate_2y, c: r.chg_2y },
-            { name: `${r.size} 3Y`, r: r.rate_3y, c: r.chg_3y },
-            { name: `${r.size} 5Y`, r: r.rate_5y, c: r.chg_5y }
+            { name: r.size + ' 1Y', r: r.rate_1y, c: r.chg_1y },
+            { name: r.size + ' 2Y', r: r.rate_2y, c: r.chg_2y },
+            { name: r.size + ' 3Y', r: r.rate_3y, c: r.chg_3y },
+            { name: r.size + ' 5Y', r: r.rate_5y, c: r.chg_5y }
           ];
-          cells.forEach(item => {
+          cells.forEach(function(item) {
             if (item.c != null && !isNaN(item.c)) {
-              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: `+${item.c.toFixed(1)}%`, val: `+${item.c.toFixed(1)}%` }; }
-              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: `${item.c.toFixed(1)}%`, val: `${item.c.toFixed(1)}%` }; }
+              if (item.c > maxChg) { maxChg = item.c; gainerInfo = { name: item.name, chgStr: '+' + item.c.toFixed(1) + '%', val: '+' + item.c.toFixed(1) + '%' }; }
+              if (item.c < minChg) { minChg = item.c; declinorInfo = { name: item.name, chgStr: item.c.toFixed(1) + '%', val: item.c.toFixed(1) + '%' }; }
             }
             if (item.r != null && !isNaN(item.r) && item.r > maxRate) {
               maxRate = item.r;
@@ -17677,60 +17807,122 @@ if (intelTabsContainer) {
         });
         const avg1yStr = count1y > 0 ? fmtRate(sum1y / count1y) : '$54,857/d';
 
-        html = `
-        <div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="${gainerInfo.val}" data-tt-sub="${gainerInfo.name}" data-tt-desc="Tanker period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#3fb950;">${gainerInfo.chgStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${gainerInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="${declinorInfo.val}" data-tt-sub="${declinorInfo.name}" data-tt-desc="Tanker period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#f85149;">${declinorInfo.chgStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${declinorInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="${peakRateInfo.val}" data-tt-sub="${peakRateInfo.name}" data-tt-desc="Highest absolute period TCE lease rate across all crude and product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:var(--accent);">${peakRateInfo.val}</span>
-              <span style="font-size:10px;color:var(--text-muted);">${peakRateInfo.name.split(' ')[0]}</span>
-            </div>
-          </div>
-          <div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Tanker 1Y Benchmark Avg" data-tt-val="${avg1yStr}" data-tt-sub="Fleet 1-Year Average" data-tt-desc="Mean 1-Year Time Charter rate across all crude and clean product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">
-            <div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Tanker 1Y Benchmark Avg</div>
-            <div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">
-              <span style="font-size:14px;font-weight:700;color:#f0f6fc;">${avg1yStr}</span>
-              <span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>
-            </div>
-          </div>
-        </div>
+        html = '<div class="tce-hud-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;margin-bottom:12px;">' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Gainer" data-tt-val="' + gainerInfo.val + '" data-tt-sub="' + gainerInfo.name + '" data-tt-desc="Tanker period fixture with the highest week-on-week rate revision." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Gainer</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#3fb950;">' + gainerInfo.chgStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + gainerInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Top WoW Declinor" data-tt-val="' + declinorInfo.val + '" data-tt-sub="' + declinorInfo.name + '" data-tt-desc="Tanker period fixture with the largest week-on-week rate concession." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Top WoW Declinor</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#f85149;">' + declinorInfo.chgStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + declinorInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Peak Period Rate" data-tt-val="' + peakRateInfo.val + '" data-tt-sub="' + peakRateInfo.name + '" data-tt-desc="Highest absolute period TCE lease rate across all crude and product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Peak Period Rate</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:var(--accent);">' + peakRateInfo.val + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">' + peakRateInfo.name.split(' ')[0] + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div data-tooltip=" " data-tt-type="tce-hud-card" data-tt-title="Tanker 1Y Benchmark Avg" data-tt-val="' + avg1yStr + '" data-tt-sub="Fleet 1-Year Average" data-tt-desc="Mean 1-Year Time Charter rate across all crude and clean product tanker classes." style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;cursor:pointer;">' +
+            '<div style="font-size:10px;color:#8b949e;text-transform:uppercase;letter-spacing:0.5px;">Tanker 1Y Benchmark Avg</div>' +
+            '<div style="display:flex;align-items:baseline;justify-content:space-between;margin-top:2px;">' +
+              '<span style="font-size:14px;font-weight:700;color:#f0f6fc;">' + avg1yStr + '</span>' +
+              '<span style="font-size:10px;color:var(--text-muted);">Sector Avg</span>' +
+            '</div>' +
+          '</div>' +
+        '</div>';
 
-        <table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
-          <thead>
-            <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Tanker Class & Vessel Type" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="tankers" style="text-align:left;padding:8px 10px;cursor:pointer;">Tanker Class</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Period Benchmark" data-tt-tenor="1Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;font-weight:700;color:var(--text-primary);">1-Year Period</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Period Contract" data-tt-tenor="2Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;">2-Year Period</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="3-Year Period (Eco/Scrubber)" data-tt-tenor="3Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;">3-Year Period</th>
-              <th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="5-Year Long-Term Commitment" data-tt-tenor="5Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 10px;cursor:pointer;color:var(--accent);font-weight:700;">5-Year Long Term</th>
-            </tr>
-          </thead>
-          <tbody>`;
-        rows.forEach(r => {
+        html += '<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">' +
+          '<thead>' +
+            '<tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Tanker Class & Vessel Type" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="tankers" style="text-align:left;padding:8px 10px;cursor:pointer;">Tanker Class</th>' +
+              '<th data-tooltip="52-Week 1-Year Time Charter Rate Trajectory & Range" style="text-align:center;padding:8px 6px;">52W Trend</th>' +
+              '<th data-tooltip="10-Year Historical Cycle Percentile Rank (2016-2026)" style="text-align:center;padding:8px 6px;">10Y Cycle</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Period Benchmark" data-tt-tenor="1Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1-Year Period</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Period Contract" data-tt-tenor="2Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;">2-Year Period</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="3-Year Period (Eco/Scrubber)" data-tt-tenor="3Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;">3-Year Period</th>' +
+              '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="5-Year Long-Term Commitment" data-tt-tenor="5Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;color:var(--accent);font-weight:700;">5-Year Long Term</th>' +
+              '<th data-tooltip="Daily fuel efficiency advantage of modern Eco / Scrubber fitted hulls over standard conventional tonnage" style="text-align:center;padding:8px 8px;font-weight:700;color:#58a6ff;">Eco Hull Premium</th>' +
+              '<th data-tooltip="Term Structure Curve Shape: 1Y Prompt Rate vs 3Y Forward Rate Spread (Positive = Backwardation / Prompt Tightness; Negative = Contango)" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);">Curve Structure</th>' +
+            '</tr>' +
+          '</thead>' +
+          '<tbody>';
+
+        rows.forEach(function(r, idx) {
           const meta = vesselMeta[r.size] || { dwt: 'Standard Tanker', cargo: 'Crude or refined products', routes: 'Worldwide' };
-          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;">
-            <td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="${r.size}" data-tt-dwt="${meta.dwt}" data-tt-cargo="${meta.cargo}" data-tt-routes="${meta.routes}" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);cursor:pointer;">${r.size}</td>
-            ${renderCell(r.size, '1-Year Period', 'Global', r.rate_1y, r.chg_1y, 'tankers')}
-            ${renderCell(r.size, '2-Year Period', 'Global', r.rate_2y, r.chg_2y, 'tankers')}
-            ${renderCell(r.size, '3-Year Period (Eco)', 'Global', r.rate_3y, r.chg_3y, 'tankers')}
-            ${renderCell(r.size, '5-Year Long Term', 'Global', r.rate_5y, r.chg_5y, 'tankers')}
-          </tr>`;
+          const isSel = (window.selectedTceRow === idx);
+          const bg = isSel ? 'background:rgba(88,166,255,0.12);border-left:3px solid var(--accent);' : '';
+          const sparkSvg = renderSparklineSVG(r.sparkline_52w);
+          const ecoPill = '<span style="color:#58a6ff;font-weight:700;font-size:11px;background:rgba(88,166,255,0.12);padding:2px 6px;border-radius:3px;">+$' + (r.eco_premium_day || 0).toLocaleString() + '/d</span>';
+          const slopeSign = r.curve_slope_3y >= 0 ? '+' : '';
+          const slopeColor = r.curve_slope_3y >= 0 ? '#3fb950' : '#d29922';
+          const slopeBg = r.curve_slope_3y >= 0 ? 'rgba(63,185,80,0.12)' : 'rgba(210,153,34,0.12)';
+          const slopePill = '<span style="color:' + slopeColor + ';font-weight:700;font-size:11px;background:' + slopeBg + ';padding:2px 6px;border-radius:3px;">' + slopeSign + '$' + Math.round(r.curve_slope_3y).toLocaleString() + '/d (' + (r.curve_slope_3y > 2000 ? 'Bwd' : r.curve_slope_3y < -2000 ? 'Ctg' : 'Flat') + ')</span>';
+
+          let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
+          if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
+          else if (r.pctile_10y < 75) { cycleColor = '#d29922'; cycleBg = 'rgba(210,153,34,0.15)'; cycleBrd = 'rgba(210,153,34,0.3)'; }
+          const pctileBadge = '<span class="kpi-badge" data-tooltip="10Y Percentile: ' + r.pctile_10y + '% (10Y Median: $' + (r.median_10y || 0).toLocaleString() + '/d) | Status: ' + (r.cycle_label || '') + '" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
+
+          html += '<tr onclick="selectTceRow(' + idx + ', \'tankers\')" style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;cursor:pointer;' + bg + '">' +
+            '<td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="' + r.size + '" data-tt-dwt="' + meta.dwt + '" data-tt-cargo="' + meta.cargo + '" data-tt-routes="' + meta.routes + '" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);"><div style="font-weight:600;">' + r.size + '</div><div style="font-size:10px;color:var(--text-muted);font-weight:normal;">' + meta.dwt.split(' ')[0] + '</div></td>' +
+            '<td data-tooltip="52-Week Range: $' + (r.low_52w || 0).toLocaleString() + '/d – $' + (r.high_52w || 0).toLocaleString() + '/d | 1M: ' + (r.mom_1m > 0 ? '+' : '') + r.mom_1m + '% | 1Y: ' + (r.mom_1y > 0 ? '+' : '') + r.mom_1y + '%" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
+            '<td style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
+            renderCell(r.size, '1-Year Period', 'Global', r.rate_1y, r.chg_1y, 'tankers', r) +
+            renderCell(r.size, '2-Year Period', 'Global', r.rate_2y, r.chg_2y, 'tankers', r) +
+            renderCell(r.size, '3-Year Period (Eco)', 'Global', r.rate_3y, r.chg_3y, 'tankers', r) +
+            renderCell(r.size, '5-Year Long Term', 'Global', r.rate_5y, r.chg_5y, 'tankers', r) +
+            '<td style="text-align:center;padding:8px 8px;">' + ecoPill + '</td>' +
+            '<td style="text-align:center;padding:8px 8px;">' + slopePill + '</td>' +
+          '</tr>';
         });
-        html += `</tbody></table>`;
+        html += '</tbody></table>';
+
+        if (window.selectedTceRow !== null && rows[window.selectedTceRow]) {
+          const sel = rows[window.selectedTceRow];
+          const meta = vesselMeta[sel.size] || {};
+          if (drillWrap) {
+            drillWrap.style.display = 'block';
+            drillWrap.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">' +
+              '<div style="font-weight:700;color:var(--text-bright);font-size:13px;display:flex;align-items:center;gap:8px;">' +
+                '<span>' + sel.size + ' Tanker — Vessel Diagnostics & Term Structure</span>' +
+                '<span class="kpi-badge" style="font-size:10px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">' + (sel.cycle_label || 'Active Tanker Fleet') + '</span>' +
+              '</div>' +
+              '<button onclick="selectTceRow(null)" style="background:transparent;border:none;color:var(--text-muted);cursor:pointer;font-size:14px;">✕</button>' +
+            '</div>' +
+            '<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));gap:10px;margin-bottom:10px;">' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">52-Week High / Low</div>' +
+                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString() + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString() + '</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">10Y Historical Median</div>' +
+                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString() + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Eco Fuel Efficiency Premium</div>' +
+                '<div style="font-size:12px;font-weight:700;color:#58a6ff;margin-top:2px;">+$' + (sel.eco_premium_day || 0).toLocaleString() + '/d <span style="color:var(--text-muted);font-size:11px;">(Scrubber fitted)</span></div>' +
+              '</div>' +
+              '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
+                '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Curve Shape (1Y vs 3Y)</div>' +
+                '<div style="font-size:11px;font-weight:700;color:' + (sel.curve_slope_3y >= 0 ? '#3fb950' : '#d29922') + ';margin-top:2px;">' + (sel.curve_slope_state || 'Flat') + ' <span style="color:var(--text-muted);font-size:10px;">(+$' + Math.round(sel.curve_slope_3y).toLocaleString() + '/d)</span></div>' +
+              '</div>' +
+            '</div>' +
+            '<div style="font-size:11px;color:var(--text-muted);line-height:1.5;">' +
+              '<div><strong style="color:var(--text-bright);">Deadweight & Specifications:</strong> ' + (meta.dwt || '—') + '</div>' +
+              '<div><strong style="color:var(--text-bright);">Cargo Transported:</strong> ' + (meta.cargo || '—') + '</div>' +
+              '<div><strong style="color:var(--text-bright);">Primary Routes:</strong> ' + (meta.routes || '—') + '</div>' +
+            '</div>';
+          }
+        } else if (drillWrap) {
+          drillWrap.style.display = 'none';
+        }
       }
 
       wrap.innerHTML = html;
