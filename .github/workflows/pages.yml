@@ -4,6 +4,17 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Daily Market Brief"
+      - "Daily Knowledge Ingestion"
+      - "Process Knowledge Base"
+      - "Daily Freight Pipeline"
+      - "ETF Holdings Daily Ingestion"
+      - "Alibra OCR Time Charter Poller"
+      - "Baltic New Indices Daily Ingestion"
+    types:
+      - completed
 
 permissions:
   contents: read
