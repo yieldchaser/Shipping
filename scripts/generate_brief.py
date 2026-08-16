@@ -110,7 +110,7 @@ OPENROUTER_MAX_BACKOFF_SEC = float(os.environ.get("OPENROUTER_MAX_BACKOFF_SEC", 
 ALLOWED_PROVIDERS = {"groq", "nim", "openrouter", "ollama"}
 raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
 if not raw_order:
-    raw_order = "groq,nim,openrouter,ollama"
+    raw_order = "nim,groq,openrouter,ollama"
 
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
@@ -118,7 +118,7 @@ LLM_PROVIDER_ORDER = [
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["groq", "nim", "openrouter", "ollama"]
+    LLM_PROVIDER_ORDER = ["nim", "groq", "openrouter", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
@@ -1420,7 +1420,7 @@ def _call_nim_once(messages: list) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=60) as response:
+        with urllib_request.urlopen(req, timeout=180) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -1693,7 +1693,7 @@ def _call_openrouter_once(messages: list, model_override: str | None = None) -> 
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=60) as response:
+        with urllib_request.urlopen(req, timeout=180) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
