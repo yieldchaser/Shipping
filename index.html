@@ -8472,7 +8472,7 @@
           </div>
 
           <!-- Controls: Fund Filter & Expand/Collapse -->
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;">
             <!-- Fund Filter Tabs -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
@@ -8524,7 +8524,7 @@
           </div>
 
           <!-- Switcher to match active tab & Expand/Collapse -->
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;">
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="etfQaSwitchBdry" onclick="switchEtfQaFund('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Switch Copilot context to BDRY (Capesize, Panamax, Supramax dry bulk futures book and SGX freight curves).">BDRY Context</button>
               <button id="etfQaSwitchBwet" onclick="switchEtfQaFund('bwet')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:transparent;color:var(--text-muted);transition:all 0.15s;" data-tooltip="Switch Copilot context to BWET (VLCC TD3C and Suezmax TD20 crude tanker futures book and SGX freight curves).">BWET Context</button>
@@ -8663,7 +8663,7 @@
             </div>
           </div>
           
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;">
             <!-- ETF Switcher -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="deconstTabBdry" onclick="switchDeconstETF('bdry')" style="padding:4px 12px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-note'>Switches translator to analyze Capesize, Panamax, and Supramax dry bulk freight futures.</div>">BDRY (Dry Bulk)</button>
@@ -9146,7 +9146,7 @@
             </div>
           </div>
 
-          <div class="sim-header-right" style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <div class="sim-header-right" style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;">
             <!-- ETF Selector Toggle -->
             <div class="sim-etf-toggle">
               <button id="simEtfBdry" class="sim-toggle-btn active" onclick="SIM_CONTROLLER.switchETF('bdry')" data-tooltip="<div class='rt-title'>Breakwave Dry Bulk Shipping ETF (BDRY)</div><div class='rt-row'><span class='rt-label'>Constituents</span><span class='rt-val'>Capesize 5TC • Panamax 5TC • Supramax 10TC</span></div><div class='rt-row'><span class='rt-label'>Benchmark</span><span class='rt-val'>Solactive Dry Bulk Shipping Index</span></div><div class='rt-note'>Switches simulator to replay BDRY dry bulk futures holdings and lot migration.</div>">BDRY (Dry Bulk)</button>
