@@ -1692,8 +1692,12 @@ def _call_openrouter_once(messages: list, model_override: str | None = None) -> 
         headers=headers,
         method="POST",
     )
+    # Free models: 60s timeout (scale-to-zero, respond fast or not at all)
+    # Paid models: 180s timeout (guaranteed capacity)
+    is_free_model = ":free" in target_model
+    read_timeout = 60 if is_free_model else 180
     try:
-        with urllib_request.urlopen(req, timeout=180) as response:
+        with urllib_request.urlopen(req, timeout=read_timeout) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
