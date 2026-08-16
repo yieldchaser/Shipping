@@ -107,10 +107,10 @@ OPENROUTER_MAX_RETRIES = int(os.environ.get("OPENROUTER_MAX_RETRIES", "3"))
 OPENROUTER_BACKOFF_BASE_SEC = float(os.environ.get("OPENROUTER_BACKOFF_BASE_SEC", "1.5"))
 OPENROUTER_MAX_BACKOFF_SEC = float(os.environ.get("OPENROUTER_MAX_BACKOFF_SEC", "15.0"))
 
-ALLOWED_PROVIDERS = {"groq", "nim", "openrouter", "ollama"}
+ALLOWED_PROVIDERS = {"groq", "nim", "gemini", "openrouter", "ollama"}
 raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
 if not raw_order:
-    raw_order = "nim,openrouter,ollama"
+    raw_order = "groq,nim,gemini,openrouter,ollama"
 
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
@@ -118,7 +118,7 @@ LLM_PROVIDER_ORDER = [
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["nim", "openrouter", "ollama"]
+    LLM_PROVIDER_ORDER = ["groq", "nim", "gemini", "openrouter", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
@@ -1228,8 +1228,9 @@ def _repair_json(raw: str) -> str:
     raw = _re.sub(r"\bFalse\b", "false", raw)
     # Trailing commas before } or ]
     raw = _re.sub(r",\s*([}\]])", r"\1", raw)
-    # Single-quoted strings → double-quoted (basic, non-nested)
-    raw = _re.sub(r"(?<![\\])'([^']*?)(?<![\\])'", r'"\1"', raw)
+    # Single-quoted keys and values → double-quoted (without destroying internal apostrophes in double quotes)
+    raw = _re.sub(r"(?<=[{,\s])'([^'\r\n]+)'\s*:", r'"\1":', raw)
+    raw = _re.sub(r":\s*'([^'\r\n]*)'(?=[,\s}\]])", r': "\1"', raw)
     return raw
 
 
@@ -1801,6 +1802,8 @@ def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]
             text = call_groq_text(messages)
         elif provider == "nim":
             text = call_nim_text(messages)
+        elif provider == "gemini":
+            text = call_gemini_text(messages)
         elif provider == "openrouter":
             text = call_openrouter_text(messages)
         elif provider == "ollama":

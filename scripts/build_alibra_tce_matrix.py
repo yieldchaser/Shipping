@@ -2,7 +2,7 @@ import csv
 import json
 from pathlib import Path
 
-REPO_ROOT = Path("c:/Users/Dell/Github/Shipping")
+REPO_ROOT = Path(__file__).resolve().parent.parent
 ALIBRA_DIR = REPO_ROOT / "docs" / "alibra_data"
 DERIVED_DIR = REPO_ROOT / "data" / "derived"
 

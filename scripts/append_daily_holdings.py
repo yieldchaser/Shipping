@@ -1,5 +1,6 @@
 import os
 import csv
+import re
 from datetime import datetime
 
 BDRY_DAILY = 'data/etf/bdry_holdings.csv'
@@ -33,13 +34,14 @@ def append_daily_to_history(daily_path, hist_path):
         for row in reader:
             if not row or len(row) < 2:
                 continue
-            # Handle daily CSV row format
-            row_date = row[0].strip() if len(row[0]) == 10 and '-' in row[0] else today_str
-            contract_name = row[1].strip() if len(row[0]) == 10 else row[0].strip()
+            # Handle daily CSV row format with strict ISO date validation
+            is_date_col = bool(re.match(r'^\d{4}-\d{2}-\d{2}$', row[0].strip()))
+            row_date = row[0].strip() if is_date_col else today_str
+            contract_name = row[1].strip() if is_date_col else row[0].strip()
 
             key = (row_date, contract_name.lower())
             if key not in existing_records:
-                formatted_row = [row_date] + (row if len(row[0]) != 10 else row[1:])
+                formatted_row = [row_date] + (row[1:] if is_date_col else row)
                 new_rows.append(formatted_row)
                 existing_records.add(key)
 

@@ -538,7 +538,7 @@ def normalize_body(
             anchor["href"] = local_href
             if not link_text:
                 anchor.string = f"Linked asset: {Path(urlparse(mirrored_url).path).name or 'download'}"
-            if local_href.startswith("../../pdfs/"):
+            if local_href.startswith("../pdfs/") or local_href.startswith("../../pdfs/"):
                 pdf_name = Path(local_href).name
                 if pdf_name not in seen_pdfs:
                     downloaded_pdfs.append(pdf_name)
@@ -631,7 +631,7 @@ def extract_and_save(
         )
         if pdf_names:
             pdf_links = "".join(
-                f'<p><a href="../../pdfs/{name}">Download PDF: {name}</a></p>' for name in pdf_names
+                f'<p><a href="../pdfs/{name}">Download PDF: {name}</a></p>' for name in pdf_names
             )
             extra_parts.append(pdf_links)
 

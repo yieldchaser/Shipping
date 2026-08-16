@@ -6,6 +6,34 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 import frontmatter
+import yaml
+
+
+def _fast_load_frontmatter_metadata(path: Path) -> dict:
+    try:
+        lines = []
+        in_fm = False
+        with open(path, "r", encoding="utf-8", errors="replace") as f:
+            for line in f:
+                if line.strip() == "---":
+                    if not in_fm:
+                        in_fm = True
+                        continue
+                    else:
+                        break
+                if in_fm:
+                    lines.append(line)
+        if lines:
+            parsed = yaml.safe_load("".join(lines))
+            if isinstance(parsed, dict):
+                return parsed
+    except Exception:
+        pass
+    try:
+        post = frontmatter.load(path)
+        return dict(post.metadata) if post and post.metadata else {}
+    except Exception:
+        return {}
 
 
 def load_jsonl(path: Path) -> tuple[list[dict], int]:
@@ -106,8 +134,7 @@ def load_document_metadata(repo_root: Path, documents_manifest: Path) -> dict[st
         full_path = repo_root / doc_path
         if not full_path.exists():
             continue
-        post = frontmatter.load(full_path)
-        metadata = dict(post.metadata)
+        metadata = _fast_load_frontmatter_metadata(full_path)
         metadata_by_doc[doc_id] = {
             "doc_id": doc_id,
             "title": metadata.get("title"),

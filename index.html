@@ -27,11 +27,16 @@
 
     :root {
       --bg: #0a0e14;
+      --bg-darker: #06090e;
       --card: #111820;
       --border: #1c2333;
       --text: #d4dce8;
+      --text-primary: #d4dce8;
+      --text-bright: #ffffff;
       --text-muted: #7a8494;
+      --gray: #7a8494;
       --accent: #4d9aff;
+      --purple: #a371f7;
       --green: #3fb950;
       --red: #f85149;
       --yellow: #e3b341;
@@ -3910,6 +3915,7 @@
     var _deconstManualBaseline = null; // Optional user-supplied contemporaneous baseline
     var _deconstPremDiscSpreadPct = 2.50; // User configurable assumption spread (+/-2.50% default)
     var _deconstShocks = { cape: 0, pana: 0, supra: 0, vlcc: 0, suez: 0 };
+    var _deconstMicroShocks = {}; // contract-level custom percentage shocks
     window._deconstShocks = _deconstShocks;
     window._deconstMicroShocks = _deconstMicroShocks;
     window._deconstTargetPrices = _deconstTargetPrices;
@@ -7467,6 +7473,7 @@
         if (!scrubber || !tooltip || !this.timeline.length) return;
 
         var rect = scrubber.getBoundingClientRect();
+        if (rect.width <= 0) return;
         var pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
         var hoverIdx = Math.round(pct * (this.timeline.length - 1));
         var data = this.timeline[hoverIdx];
@@ -7930,7 +7937,14 @@
           if (e.key === 'Escape' || e.code === 'Escape') {
             if (typeof closeContractDetailModal === 'function') closeContractDetailModal();
             if (typeof closeDecisionTicketModal === 'function') closeDecisionTicketModal();
-          } else if (e.code === 'Space') {
+            return;
+          }
+
+          // Hotkey playback controls only apply when ETFs tab is active
+          var isEtfsActive = (!window.currentTab || window.currentTab === 'etfs');
+          if (!isEtfsActive) return;
+
+          if (e.code === 'Space') {
             e.preventDefault();
             self.togglePlay();
           } else if (e.code === 'ArrowRight') {
@@ -9588,7 +9602,7 @@
       </div>
 
       <!-- Institutional Decision Ticket Modal (Global) -->
-      <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;">
+      <div id="decisionTicketModal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeDecisionTicketModal()">
         <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
           <!-- Modal Header -->
           <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
@@ -10397,14 +10411,19 @@
 <script>
 function sq(q) {
       window.sq = sq; document.getElementById('qaQuery').value = q; runQAQuery(); }
-document.getElementById('tabs').addEventListener('click', function(e) {
-  const tab = e.target.closest('.sq-tab');
-  if (!tab) return;
-  document.querySelectorAll('.sq-tab').forEach(t => t.classList.remove('active'));
-  document.querySelectorAll('.sq-panel').forEach(p => p.classList.remove('visible'));
-  tab.classList.add('active');
-  document.getElementById('panel-' + tab.dataset.cat).classList.add('visible');
-});
+const intelTabsContainer = document.getElementById('tabs');
+if (intelTabsContainer) {
+  intelTabsContainer.addEventListener('click', function(e) {
+    const tab = e.target.closest('.sq-tab');
+    if (!tab) return;
+    intelTabsContainer.querySelectorAll('.sq-tab').forEach(t => t.classList.remove('active'));
+    const parentContainer = intelTabsContainer.parentElement || document;
+    parentContainer.querySelectorAll('.sq-panel').forEach(p => p.classList.remove('visible'));
+    tab.classList.add('active');
+    const targetPanel = document.getElementById('panel-' + tab.dataset.cat);
+    if (targetPanel) targetPanel.classList.add('visible');
+  });
+}
 </script>
           <div id="qaResultPanel" style="display:none;" class="qa-result-panel">
             <div id="qaStatus" class="qa-status"></div>
@@ -10760,7 +10779,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (price < minPrice) {
           minPrice = price;
         } else {
-          const gainPct = ((price - minPrice) / minPrice) * 100;
+          const gainPct = minPrice > 0 ? ((price - minPrice) / minPrice) * 100 : 0;
           if (gainPct > maxGainPct) {
             maxGainPct = gainPct;
           }
@@ -11622,7 +11641,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const zScore = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
 
       const max1y = vals1y.length ? vals1y.reduce((a, b) => a > b ? a : b, -Infinity) : currentPrice;
-      const drawdown = (currentPrice - max1y) / max1y;
+      const drawdown = max1y > 0 ? (currentPrice - max1y) / max1y : 0;
 
       const row20d = rows.filter(r => r.date <= cutoff20d);
       const price20d = row20d.length ? row20d[row20d.length - 1][productKey] : null;
@@ -20129,7 +20148,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (pts.length < 2) return;
         var front = pts[0].price;
         var back = pts[pts.length - 1].price;
-        var slope = ((back - front) / front) * 100;
+        var slope = front > 0 ? ((back - front) / front) * 100 : 0;
         var structure = slope > 1.5 ? 'Contango' : slope < -1.5 ? 'Backwardation' : 'Flat';
         var structureColor = slope < -1.5 ? '#3fb950' : slope > 1.5 ? '#f85149' : '#e3b341';
         var structureIcon = slope < -1.5 ? '' : slope > 1.5 ? '' : '->';
@@ -22921,11 +22940,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _bm25Score(docTokens, queryTerms, avgLen) {
       const k1 = 1.5, b = 0.75, dl = docTokens.length;
+      const safeAvgLen = (avgLen && avgLen > 0) ? avgLen : 1;
       const tf = {};
       for (const t of docTokens) tf[t] = (tf[t] || 0) + 1;
       return queryTerms.reduce((sc, term) => {
         const f = tf[term] || 0;
-        return f ? sc + (f * (k1 + 1)) / (f + k1 * (1 - b + b * dl / avgLen)) : sc;
+        return f ? sc + (f * (k1 + 1)) / (f + k1 * (1 - b + b * dl / safeAvgLen)) : sc;
       }, 0);
     }
 
@@ -24810,10 +24830,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // 5. Active Browser UI State
       if (useDeep) {
         lines.push("\n--- CURRENT INTERACTIVE SCENARIO & SIMULATOR UI STATE ---");
-        lines.push("  Active Macro Slider Shocks: Cape=" + (_deconstShocks.cape||0) + "%, Pana=" + (_deconstShocks.pana||0) + "%, Supra=" + (_deconstShocks.supra||0) + "%, VLCC=" + (_deconstShocks.vlcc||0) + "%, Suez=" + (_deconstShocks.suez||0) + "%");
-        lines.push("  Scenario Book Mode: " + _deconstScenarioMode + " | Pricing Regime: " + _deconstPricingMode);
-        if (_deconstRollInLegs && _deconstRollInLegs.length) {
-          lines.push("  Custom User Roll-In Legs Specified: " + _deconstRollInLegs.map(function(l) { return l.name + " (" + l.lots + " lots, target $" + l.targetPrice + ")"; }).join('; '));
+        var activeShocks = typeof _deconstShocks !== 'undefined' ? _deconstShocks : {};
+        lines.push("  Active Macro Slider Shocks: Cape=" + (activeShocks.cape||0) + "%, Pana=" + (activeShocks.pana||0) + "%, Supra=" + (activeShocks.supra||0) + "%, VLCC=" + (activeShocks.vlcc||0) + "%, Suez=" + (activeShocks.suez||0) + "%");
+        var activeScenMode = typeof _deconstScenarioMode !== 'undefined' ? _deconstScenarioMode : 'FROZEN_BOOK';
+        var activePricingMode = typeof _deconstPricingMode !== 'undefined' ? _deconstPricingMode : 'DEFAULT';
+        lines.push("  Scenario Book Mode: " + activeScenMode + " | Pricing Regime: " + activePricingMode);
+        var customLegs = (typeof _deconstRollInLegs !== 'undefined' && _deconstRollInLegs && _deconstRollInLegs[fKey]) || [];
+        if (customLegs.length) {
+          lines.push("  Custom User Roll-In Legs Specified: " + customLegs.map(function(l) { return (l.name || l.contract || 'Leg') + " (" + (l.lots || 0) + " lots, target $" + (l.targetPrice != null ? l.targetPrice : l.price || 0) + ")"; }).join('; '));
         }
       }
 
@@ -24932,11 +24956,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (scenarioObj.suez != null) _deconstShocks.suez = scenarioObj.suez;
 
       // Update slider inputs in DOM if present
-      var sCape = document.getElementById('deconstShockCape'); if (sCape && scenarioObj.cape != null) sCape.value = scenarioObj.cape;
-      var sPana = document.getElementById('deconstShockPana'); if (sPana && scenarioObj.pana != null) sPana.value = scenarioObj.pana;
-      var sSupra = document.getElementById('deconstShockSupra'); if (sSupra && scenarioObj.supra != null) sSupra.value = scenarioObj.supra;
-      var sVlcc = document.getElementById('deconstShockVlcc'); if (sVlcc && scenarioObj.vlcc != null) sVlcc.value = scenarioObj.vlcc;
-      var sSuez = document.getElementById('deconstShockSuez'); if (sSuez && scenarioObj.suez != null) sSuez.value = scenarioObj.suez;
+      var sCape = document.getElementById('deconstSliderCape'); if (sCape && scenarioObj.cape != null) sCape.value = scenarioObj.cape;
+      var sPana = document.getElementById('deconstSliderPana'); if (sPana && scenarioObj.pana != null) sPana.value = scenarioObj.pana;
+      var sSupra = document.getElementById('deconstSliderSupra'); if (sSupra && scenarioObj.supra != null) sSupra.value = scenarioObj.supra;
+      var sVlcc = document.getElementById('deconstSliderVlcc'); if (sVlcc && scenarioObj.vlcc != null) sVlcc.value = scenarioObj.vlcc;
+      var sSuez = document.getElementById('deconstSliderSuez'); if (sSuez && scenarioObj.suez != null) sSuez.value = scenarioObj.suez;
 
       if (_deconstCardCollapsed) toggleDeconstCardCollapse(false);
       renderETFDeconstructionEngine();

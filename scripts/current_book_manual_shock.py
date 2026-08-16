@@ -15,7 +15,7 @@ import json
 import hashlib
 import numpy as np
 import pandas as pd
-from datetime import datetime, date, timezone
+from datetime import datetime, date, timezone, timedelta
 from typing import Dict, Any, Optional, List, Tuple
 
 from contract_spec_registry import (
@@ -50,7 +50,7 @@ def compute_business_days_between(d1: date, d2: date) -> int:
     current = d1
     business_days = 0
     while current < d2:
-        current = current + pd.Timedelta(days=1)
+        current = current + timedelta(days=1)
         if current.weekday() < 5:  # Monday = 0, Friday = 4
             business_days += 1
     return business_days

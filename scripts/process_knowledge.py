@@ -3710,7 +3710,7 @@ def main():
     except Exception as exc:
         log_error(Path(__file__), f"fatal: {exc}\n{traceback.format_exc()}")
         print(f"[FATAL] {exc}")
-        return 0
+        return 1
 
 
 if __name__ == "__main__":
