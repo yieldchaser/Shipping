@@ -67,8 +67,8 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 4  # number of recent Breakwave reports to feed into the brief
-BALTIC_REPORTS = 4  # number of weekly Baltic Exchange reports to feed into the brief
+RECENT_REPORTS = 24  # comprehensive Breakwave reports archive to feed into the brief
+BALTIC_REPORTS = 20  # comprehensive weekly Baltic Exchange reports archive to feed into the brief
 
 # Baltic Exchange weekly HTML report directories
 BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
@@ -442,7 +442,7 @@ def compute_confluence(
     return "NEUTRAL"
 
 
-def wiki_excerpt(path: Path, max_chars: int = 500) -> str:
+def wiki_excerpt(path: Path, max_chars: int = 8000) -> str:
     try:
         text = path.read_text(encoding="utf-8")
         if text.startswith("---"):
@@ -641,198 +641,188 @@ def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
 
 
 def load_physical_signals_context() -> str:
-    """Extract exhaustive multi-period insights from all physical derived datasets (TCE matrix, 22-month forward curves, restocking, valuations, gas)."""
+    """Extract maximized multi-period insights across all physical and derivative series (180d spot, SGX curves, 24w Alibra, 22m tanker forward, 2y restocking, 10y S&P, 120d ETF flows)."""
     lines = []
     
-    # 1. Alibra Period TCE Matrix (Full Tenors & Basin Spreads)
-    p_tce = ROOT / "data" / "derived" / "alibra_tce_matrix.json"
-    if p_tce.exists():
-        try:
-            with open(p_tce, encoding="utf-8") as f:
-                tce = json.load(f)
-            rep_date = tce.get("report_date", "")
-            lines.append(f"=== 1. ALIBRA INSTITUTIONAL PERIOD TIME CHARTER BENCHMARKS (Report Date: {rep_date}) ===")
-            
-            # Dry Bulk Full Table with Atlantic vs Pacific and 6M->5Y Tenors
-            lines.append("  [DRY BULK PERIOD FIXTURES - $/DAY & WoW DELTAS]")
-            dry_items = tce.get("dry_bulk", [])
-            for b in dry_items:
-                size = b.get("size")
-                r6m_a = b.get("rate_6m_atl")
-                r1y_a = b.get("rate_1y_atl")
-                r2y_a = b.get("rate_2y_atl")
-                r3y_a = b.get("rate_3y_atl")
-                r5y_a = b.get("rate_5y_atl")
-                c1y_a = b.get("chg_1y_atl", 0)
-                
-                r6m_p = b.get("rate_6m_pac")
-                r1y_p = b.get("rate_1y_pac")
-                r2y_p = b.get("rate_2y_pac")
-                c1y_p = b.get("chg_1y_pac", 0)
-                
-                tenors_atl = []
-                if r6m_a: tenors_atl.append(f"6M: ${r6m_a:,.0f}/d")
-                if r1y_a: tenors_atl.append(f"1Y: ${r1y_a:,.0f}/d ({c1y_a:+.1f}%)")
-                if r2y_a: tenors_atl.append(f"2Y: ${r2y_a:,.0f}/d")
-                if r3y_a: tenors_atl.append(f"3Y: ${r3y_a:,.0f}/d")
-                if r5y_a: tenors_atl.append(f"5Y: ${r5y_a:,.0f}/d")
-                
-                tenors_pac = []
-                if r6m_p: tenors_pac.append(f"6M: ${r6m_p:,.0f}/d")
-                if r1y_p: tenors_pac.append(f"1Y: ${r1y_p:,.0f}/d ({c1y_p:+.1f}%)")
-                if r2y_p: tenors_pac.append(f"2Y: ${r2y_p:,.0f}/d")
-                
-                lines.append(f"    • {size:<24} | ATLANTIC: {', '.join(tenors_atl)}")
-                if tenors_pac:
-                    lines.append(f"      {' '*24} | PACIFIC : {', '.join(tenors_pac)}")
-            
-            # Tankers Full Table across all segments (VLCC, Suezmax, Aframax, LR2, LR1, MR, Handymax)
-            lines.append("\n  [TANKER PERIOD FIXTURES - $/DAY & TERM STRUCTURE]")
-            tanker_items = tce.get("tankers", [])
-            for t in tanker_items:
-                size = t.get("size")
-                r1y = t.get("rate_1y")
-                r2y = t.get("rate_2y")
-                r3y = t.get("rate_3y")
-                r5y = t.get("rate_5y")
-                c1y = t.get("chg_1y", 0)
-                t_strs = []
-                if r1y: t_strs.append(f"1Y: ${r1y:,.0f}/d ({c1y:+.1f}%)")
-                if r2y: t_strs.append(f"2Y: ${r2y:,.0f}/d")
-                if r3y: t_strs.append(f"3Y: ${r3y:,.0f}/d")
-                if r5y: t_strs.append(f"5Y: ${r5y:,.0f}/d")
-                
-                # Compute term slope (1Y vs 3Y / 5Y discount/premium)
-                slope_note = ""
-                if r1y and r3y and r1y > 0:
-                    slope_pct = ((r1y - r3y) / r1y) * 100
-                    slope_note = f" -> 3Y Term Discount: -{slope_pct:.1f}%" if slope_pct > 0 else f" -> 3Y Term Premium: +{abs(slope_pct):.1f}%"
-                lines.append(f"    • {size:<16} | {', '.join(t_strs)}{slope_note}")
-        except Exception:
-            pass
+    # 1. Macro & Baltic Spot Indices Rolling 180-Day Daily Time Series Table
+    indices_files = {
+        "BDI": ROOT / "data" / "indices" / "bdiy_historical.csv",
+        "Capesize": ROOT / "data" / "indices" / "cape_historical.csv",
+        "Panamax": ROOT / "data" / "indices" / "panama_historical.csv",
+        "Supramax": ROOT / "data" / "indices" / "suprama_historical.csv",
+        "Handysize": ROOT / "data" / "indices" / "handysize_historical.csv",
+        "Dirty_Tanker": ROOT / "data" / "indices" / "dirtytanker_historical.csv",
+        "Clean_Tanker": ROOT / "data" / "indices" / "cleantanker_historical.csv",
+    }
+    daily_matrix = {}
+    for idx_name, path in indices_files.items():
+        if path.exists():
+            with open(path, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    d_raw = row.get("Date") or row.get("date")
+                    val = row.get("Index") or row.get("value") or row.get("price")
+                    if d_raw and val:
+                        try:
+                            if "-" in d_raw and len(d_raw.split("-")[0]) == 2:
+                                dt = datetime.strptime(d_raw, "%d-%m-%Y").strftime("%Y-%m-%d")
+                            else:
+                                dt = d_raw[:10]
+                            if dt not in daily_matrix:
+                                daily_matrix[dt] = {}
+                            daily_matrix[dt][idx_name] = float(val)
+                        except Exception:
+                            pass
+                            
+    sorted_dates = sorted(daily_matrix.keys(), reverse=True)
+    recent_180_dates = sorted_dates[:180]
+    
+    lines.append("=== 1. ROLLING 180-DAY DAILY SPOT FREIGHT BENCHMARK MATRIX ===")
+    lines.append(f"  {'DATE':<12} {'BDI':>8} {'CAPESIZE':>10} {'PANAMAX':>10} {'SUPRAMAX':>10} {'HANDY':>8} {'BDTI (DIRTY)':>14} {'BCTI (CLEAN)':>14}")
+    lines.append("  " + "─" * 84)
+    for dt in recent_180_dates:
+        m = daily_matrix[dt]
+        bdi = m.get("BDI", 0)
+        c = m.get("Capesize", 0)
+        p = m.get("Panamax", 0)
+        s = m.get("Supramax", 0)
+        h = m.get("Handysize", 0)
+        d_tank = m.get("Dirty_Tanker", 0)
+        c_tank = m.get("Clean_Tanker", 0)
+        lines.append(f"  {dt:<12} {bdi:>8.0f} {c:>10.0f} {p:>10.0f} {s:>10.0f} {h:>8.0f} {d_tank:>14.0f} {c_tank:>14.0f}")
+        
+    # 2. SGX Dry Bulk FFA Forward Curves (Cape, Panamax, Supramax, Handy - All Expiries)
+    sgx_files = {
+        "Capesize": ROOT / "data" / "futures" / "sgx_cape_futures.csv",
+        "Panamax": ROOT / "data" / "futures" / "sgx_panamax_futures.csv",
+        "Supramax": ROOT / "data" / "futures" / "sgx_supramax_futures.csv",
+        "Handysize": ROOT / "data" / "futures" / "sgx_handysize_futures.csv",
+    }
+    lines.append("\n=== 2. SGX DRY BULK FFA FORWARD CURVE MATRIX (Prompt through Cal+3) ===")
+    for cls_name, p in sgx_files.items():
+        if p.exists():
+            with open(p, encoding="utf-8") as f:
+                c_map = {}
+                for row in csv.DictReader(f):
+                    c = row.get("contract")
+                    px = float(row.get("price") or 0)
+                    dt = row.get("date", "")
+                    if c and px > 0:
+                        if c not in c_map or dt >= c_map[c]["date"]:
+                            c_map[c] = {"contract": c, "price": px, "date": dt}
+                pts = [f"{c['contract']}: ${c['price']:,.0f}/d" for c in list(c_map.values())[:24]]
+                lines.append(f"  [{cls_name.upper()} SGX FFA CURVE]: " + " | ".join(pts))
 
-    # 2. Tanker Forward Curves (Full 22-Month FFA Term Structure)
+    # 3. Alibra Period TCE Matrix - 24-Week Historical Time Series
+    p_tc = ROOT / "data" / "derived" / "time_charter_rates.csv"
+    if p_tc.exists():
+        lines.append("\n=== 3. ALIBRA PERIOD TIME CHARTER MATRIX (24-Week Historical Fixtures) ===")
+        tc_rows = []
+        with open(p_tc, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                tc_rows.append(row)
+        tc_by_date = {}
+        for r in tc_rows:
+            d = r.get("date")
+            if d:
+                if d not in tc_by_date: tc_by_date[d] = []
+                tc_by_date[d].append(r)
+        sorted_tc_dates = sorted(tc_by_date.keys(), reverse=True)[:24]
+        for d in sorted_tc_dates:
+            lines.append(f"\n  --- Alibra Assessment Date: {d} ---")
+            for r in tc_by_date[d]:
+                sec = str(r.get("sector") or "")
+                cls = str(r.get("vessel_class") or "")
+                tenor = str(r.get("tenor") or "")
+                basin = str(r.get("basin") or "")
+                rate = float(r.get("rate_usd_day") or 0)
+                chg = float(r.get("wow_change_pct") or 0)
+                lines.append(f"    • {sec:<8} | {cls:<22} | Tenor: {tenor:<3} | Basin: {basin:<8} | Rate: ${rate:>7,.0f}/day ({chg:+.1f}%)")
+
+    # 4. Tanker FFA Forward Curves (22 Months + Eco Premiums)
     p_fwd = ROOT / "data" / "derived" / "tanker_forward_curves.csv"
     if p_fwd.exists():
-        try:
-            fwd_rows = []
-            with open(p_fwd, encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    fwd_rows.append(row)
-            if fwd_rows:
-                lines.append(f"\n=== 2. TANKER FFA FORWARD CURVE MATRIX (22 Forward Months) ===")
-                lines.append(f"  {'MONTH':<12} {'VLCC TD3C':>12} {'VLCC ECO':>12} {'ECO DIFF':>10} {'SUEZ TD20':>12} {'AFRA TD25':>12} {'LR1 TC5':>10} {'MR TC2':>10}")
-                lines.append("  " + "─" * 84)
-                for r in fwd_rows:
-                    m = r.get("forward_month", "")
-                    v = float(r.get("vlcc_td3c") or 0)
-                    v_eco = float(r.get("vlcc_eco_td3c") or 0)
-                    diff = v - v_eco if v > 0 and v_eco > 0 else 0
-                    s = float(r.get("suezmax_td20") or 0)
-                    a = float(r.get("aframax_td25") or 0)
-                    lr1 = float(r.get("clean_lr1_tc5") or 0)
-                    mr = float(r.get("clean_mr_tc2") or 0)
-                    lines.append(f"  {m:<12} ${v:>10,.0f} ${v_eco:>10,.0f} ${diff:>8,.0f} ${s:>10,.0f} ${a:>10,.0f} ${lr1:>8,.0f} ${mr:>8,.0f}")
-                
-                # Compute term slope summary
-                p_v = float(fwd_rows[0].get("vlcc_td3c") or 0)
-                m6_v = float(fwd_rows[min(5, len(fwd_rows)-1)].get("vlcc_td3c") or 0)
-                m12_v = float(fwd_rows[min(11, len(fwd_rows)-1)].get("vlcc_td3c") or 0)
-                m22_v = float(fwd_rows[-1].get("vlcc_td3c") or 0)
-                lines.append(f"\n  Curve Dynamics: Prompt ${p_v:,.0f}/d -> M6 ${m6_v:,.0f}/d -> M12 ${m12_v:,.0f}/d -> M22 ${m22_v:,.0f}/d")
-                if p_v > 0:
-                    lines.append(f"  Annualized 1Y Forward Slope: {((p_v - m12_v)/p_v*100):+.1f}% ({'Backwardation' if p_v > m12_v else 'Contango'})")
-        except Exception:
-            pass
+        fwd_rows = []
+        with open(p_fwd, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                fwd_rows.append(row)
+        lines.append("\n=== 4. TANKER FFA FORWARD CURVE 22-MONTH MATRIX & ECO PREMIUMS ===")
+        lines.append(f"  {'MONTH':<12} {'VLCC TD3C':>12} {'VLCC ECO':>12} {'ECO SAVINGS':>14} {'SUEZ TD20':>12} {'AFRA TD25':>12} {'LR1 TC5':>10} {'MR TC2':>10}")
+        lines.append("  " + "─" * 90)
+        for r in fwd_rows:
+            m = r.get("forward_month", "")
+            v = float(r.get("vlcc_td3c") or 0)
+            v_eco = float(r.get("vlcc_eco_td3c") or 0)
+            diff = v - v_eco if v > 0 and v_eco > 0 else 0
+            s = float(r.get("suezmax_td20") or 0)
+            a = float(r.get("aframax_td25") or 0)
+            lr1 = float(r.get("clean_lr1_tc5") or 0)
+            mr = float(r.get("clean_mr_tc2") or 0)
+            lines.append(f"  {m:<12} ${v:>10,.0f} ${v_eco:>10,.0f} ${diff:>12,.0f} ${s:>10,.0f} ${a:>10,.0f} ${lr1:>8,.0f} ${mr:>8,.0f}")
 
-    # 3. Raw Material Restocking & China Steel Trajectory (Last 10 Weekly Prints)
+    # 5. China Raw Material Restocking & Steel Production (Full 2-Year Weekly History)
     p_ore = ROOT / "data" / "derived" / "iron_ore_restocking.csv"
     if p_ore.exists():
-        try:
-            ore_rows = []
-            with open(p_ore, encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    if row.get("cfr_62") or row.get("inventories_mt"):
-                        ore_rows.append(row)
-            if ore_rows:
-                lines.append(f"\n=== 3. CHINA RAW MATERIAL RESTOCKING & STEEL PRODUCTION TRAJECTORY ===")
-                lines.append(f"  {'DATE':<12} {'PORT STOCKS (MT)':>18} {'62% Fe CFR':>12} {'65% CARAJAS':>14} {'SPREAD (65-62)':>16} {'CRUDE STEEL (MT)':>18}")
-                lines.append("  " + "─" * 94)
-                recent_ores = ore_rows[-10:]
-                for r in recent_ores:
-                    d = r.get("date", "")
-                    inv = r.get("inventories_mt") or "-"
-                    fe62 = float(r.get("cfr_62") or 0)
-                    fe65 = float(r.get("cfr_65") or 0)
-                    sp = f"+${(fe65 - fe62):.1f}/t" if fe62 > 0 and fe65 > 0 else "-"
-                    st = r.get("steel_production_mt") or "-"
-                    fe62_s = f"${fe62:.1f}/t" if fe62 > 0 else "-"
-                    fe65_s = f"${fe65:.1f}/t" if fe65 > 0 else "-"
-                    lines.append(f"  {d:<12} {inv:>18} {fe62_s:>12} {fe65_s:>14} {sp:>16} {st:>18}")
-        except Exception:
-            pass
+        ore_rows = []
+        with open(p_ore, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get("cfr_62") or row.get("inventories_mt"):
+                    ore_rows.append(row)
+        lines.append("\n=== 5. CHINA RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (104-Week Trajectory) ===")
+        lines.append(f"  {'DATE':<12} {'QINGDAO PORT (MT)':>18} {'62% Fe CFR':>12} {'65% CARAJAS':>14} {'SPREAD (65-62)':>16} {'CRUDE STEEL (MT)':>18} {'STEEL INVENT (MT)':>18}")
+        lines.append("  " + "─" * 114)
+        for r in ore_rows[-104:]:
+            d = r.get("date", "")
+            inv = r.get("inventories_mt") or "-"
+            fe62 = float(r.get("cfr_62") or 0)
+            fe65 = float(r.get("cfr_65") or 0)
+            sp = f"+${(fe65 - fe62):.1f}/t" if fe62 > 0 and fe65 > 0 else "-"
+            st = r.get("steel_production_mt") or "-"
+            st_inv = r.get("steel_inventories_mt") or "-"
+            fe62_s = f"${fe62:.1f}/t" if fe62 > 0 else "-"
+            fe65_s = f"${fe65:.1f}/t" if fe65 > 0 else "-"
+            lines.append(f"  {d:<12} {inv:>18} {fe62_s:>12} {fe65_s:>14} {sp:>16} {st:>18} {st_inv:>18}")
 
-    # 4. Vessel Valuations & Scrappage Cycle (10Y Secondhand vs Demolition Floor & 5Y Ranges)
+    # 6. Vessel Valuations & Scrappage Cycles (10-Year S&P History)
     p_val = ROOT / "data" / "derived" / "vessel_valuations.csv"
     p_scrap = ROOT / "data" / "derived" / "scrappage_prices.csv"
     if p_val.exists() and p_scrap.exists():
-        try:
-            val_history = {}
-            with open(p_val, encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    cls = row.get("vessel_class")
-                    tenor = row.get("tenor_type")
-                    val = float(row.get("valuation_usd_m") or 0)
-                    dt = row.get("date")
-                    if cls and tenor and val > 0:
-                        key = f"{cls} ({tenor})"
-                        if key not in val_history:
-                            val_history[key] = []
-                        val_history[key].append((dt, val))
-            
-            scrap_rows = []
-            with open(p_scrap, encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    scrap_rows.append(row)
-                    
-            lines.append(f"\n=== 4. VESSEL CAPITAL CYCLE, SECONDHAND S&P & SCRAP DEMOLITION FLOOR ===")
-            if scrap_rows:
-                ls = scrap_rows[-1]
-                lines.append(f"  Demolition Scrap Benchmark ({ls.get('date')}): India Dry ${ls.get('dry_india')}/LDT | India Tanker ${ls.get('tanker_india')}/LDT | Bangla Dry ${ls.get('dry_bangla')}/LDT | Turkey ${ls.get('dry_turkey')}/LDT")
-            
-            lines.append(f"  {'VESSEL CLASS':<28} {'LATEST VALUE':>14} {'SCRAP FLOOR':>14} {'EQUITY CUSHION':>16} {'5Y RANGE (MIN - MAX)':>24}")
-            lines.append("  " + "─" * 98)
-            
-            targets = [
-                ("Capesize (Japanese) (10Y)", 21000, "dry_india"),
-                ("Capesize (Chinese) (10Y)", 21000, "dry_india"),
-                ("Panamax (Japanese) (10Y)", 12500, "dry_india"),
-                ("Ultramax (Japanese) (10Y)", 10500, "dry_india"),
-                ("VLCC (WET-10)", 38000, "tanker_india"),
-                ("Suezmax (WET-10)", 24000, "tanker_india"),
-                ("Aframax / LR2 (WET-10)", 17500, "tanker_india"),
-                ("MR (WET-10)", 10000, "tanker_india"),
-            ]
-            
-            ls = scrap_rows[-1] if scrap_rows else {}
-            for key, ldt, scrap_col in targets:
-                if key in val_history:
-                    pts = val_history[key]
-                    latest_dt, latest_val = pts[-1]
-                    min_val = min(p[1] for p in pts[-60:]) if len(pts) >= 60 else min(p[1] for p in pts)
-                    max_val = max(p[1] for p in pts[-60:]) if len(pts) >= 60 else max(p[1] for p in pts)
-                    scrap_rate = float(ls.get(scrap_col) or 420.0)
-                    scrap_floor = (ldt * scrap_rate) / 1e6
-                    cushion = latest_val - scrap_floor
-                    lines.append(f"  {key:<28} ${latest_val:>12.1f}M ${scrap_floor:>12.1f}M ${cushion:>14.1f}M ${min_val:.1f}M - ${max_val:.1f}M")
-        except Exception:
-            pass
+        val_rows = []
+        with open(p_val, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                val_rows.append(row)
+        scrap_rows = []
+        with open(p_scrap, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                scrap_rows.append(row)
+        lines.append("\n=== 6. VESSEL SECONDHAND ASSET VALUES & DEMOLITION SCRAP BENCHMARKS (120-Month History) ===")
+        val_10y = [r for r in val_rows if '10' in r.get('tenor_type', '')][-200:]
+        for r in val_10y:
+            lines.append(f"    • {r.get('date')} | {r.get('vessel_class'):<24} | Tenor: {r.get('tenor_type'):<6} | Value: ${float(r.get('valuation_usd_m') or 0):>6.1f}M")
 
-    # 5. Gas Shipping Benchmarks (LPG & LNG Recent History)
+    # 7. ETF Daily Holdings & Creation/Redemption Flows (120 Sessions)
+    p_bdry_f = ROOT / "data" / "etf" / "BDRY_flows.csv"
+    p_bwet_f = ROOT / "data" / "etf" / "BWET_flows.csv"
+    lines.append("\n=== 7. ETF CREATION/REDEMPTION FLOWS & LIQUIDITY (Last 120 Sessions) ===")
+    if p_bdry_f.exists():
+        with open(p_bdry_f, encoding="utf-8") as f:
+            bdry_flows = list(csv.DictReader(f))[-120:]
+            lines.append("  [BDRY (Dry Bulk ETF) Daily Net Flows - $M]")
+            for r in bdry_flows:
+                lines.append(f"    • {r.get('date')}: Net Flow = ${float(r.get('flow_usd_m') or r.get('net_flow') or 0):>+6.2f}M | Shares Out = {float(r.get('shares_out') or 0):>10,.0f} | NAV = ${float(r.get('nav') or 0):>5.2f}")
+    if p_bwet_f.exists():
+        with open(p_bwet_f, encoding="utf-8") as f:
+            bwet_flows = list(csv.DictReader(f))[-120:]
+            lines.append("  [BWET (Tanker ETF) Daily Net Flows - $M]")
+            for r in bwet_flows:
+                lines.append(f"    • {r.get('date')}: Net Flow = ${float(r.get('flow_usd_m') or r.get('net_flow') or 0):>+6.2f}M | Shares Out = {float(r.get('shares_out') or 0):>10,.0f} | NAV = ${float(r.get('nav') or 0):>5.2f}")
+
+    # 8. Gas Shipping Benchmarks (LPG & LNG Fleet History)
     p_lpg = ROOT / "data" / "derived" / "lpg_charter_rates.csv"
     p_lng = ROOT / "data" / "derived" / "lng_charter_rates.csv"
     if p_lpg.exists() and p_lng.exists():
@@ -842,7 +832,7 @@ def load_physical_signals_context() -> str:
             with open(p_lng, encoding="utf-8") as f:
                 lng_rows = list(csv.DictReader(f))
             if lpg_rows and lng_rows:
-                lines.append(f"\n=== 5. GAS SHIPPING BENCHMARKS (LPG & LNG) ===")
+                lines.append(f"\n=== 8. GAS SHIPPING BENCHMARKS (LPG & LNG) ===")
                 last_lpg = lpg_rows[-1]
                 last_lng = lng_rows[-1]
                 vlgc_pcm = float(last_lpg.get("vlgc_84k_tc") or 0)
@@ -855,12 +845,7 @@ def load_physical_signals_context() -> str:
 
 
 def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> str:
-    """Load all chunk sections for the most recent N reports.
-
-    Feeds the LLM the complete analyst narrative — Overview + Fundamentals —
-    so it can reference geopolitical events, supply/demand data, etc.
-    Each full report is ~200-230 tokens, so 12 reports x 2 categories = ~5400 tokens total.
-    """
+    """Load all chunk sections for the most recent N reports."""
     chunk_map = {
         "drybulk": [
             KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
@@ -886,7 +871,6 @@ def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> s
                         continue
         except FileNotFoundError:
             continue
-    # Group by date, sort dates descending, take top N report dates
     chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
     seen_dates: list[str] = []
     for chunk in chunks:
@@ -919,7 +903,6 @@ def _strip_html(html: str) -> str:
     return text.strip()
 
 
-# Boilerplate phrases to skip when extracting Baltic paragraph text
 _BALTIC_SKIP_PHRASES = (
     "this site uses cookies",
     "back to all",
@@ -932,24 +915,11 @@ _BALTIC_SKIP_PHRASES = (
 
 
 def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str:
-    """Load the N most recent Baltic Exchange weekly HTML reports for a sector.
-
-    Args:
-        sector: "dry" or "tanker"
-        n_reports: how many weekly reports to include
-
-    Returns:
-        Formatted string with extracted narrative paragraphs from each report.
-        Vessel-class sections (Capesize, Panamax, etc.) are preserved.
-        Each paragraph capped at 400 chars to control token budget.
-        Approximate token cost: ~350 tokens per report × 8 = ~2,800 per sector.
-    """
+    """Load the N most recent Baltic Exchange weekly HTML reports for a sector."""
     base_dir = BALTIC_DRY_DIR if sector == "dry" else BALTIC_TANKER_DIR
     if not base_dir.exists():
         return "No Baltic Exchange reports available."
 
-    # Collect all HTML files across all year subdirectories, prefer dated prefix over undated.
-    # Key = (year, week_number) so week-19/2026 and week-19/2025 are separate entries.
     key_to_file: dict = {}
     for html_file in sorted(base_dir.rglob("*.html")):
         name = html_file.name
@@ -965,7 +935,6 @@ def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str
         if existing is None or (is_dated and not existing[0]):
             key_to_file[key] = (is_dated, html_file)
 
-    # Sort by (year DESC, week DESC) — most recent week first across all years
     sorted_files = sorted(key_to_file.items(), key=lambda x: x[0], reverse=True)
     selected = [path for _, (_, path) in sorted_files[:n_reports]]
 
@@ -976,17 +945,13 @@ def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str
         except OSError:
             continue
 
-        # Extract date from filename (prefer dated format) or from meta tag
         date_m = re.match(r"(\d{4}-\d{2}-\d{2})_", html_path.name)
         if date_m:
             report_date = date_m.group(1)
         else:
-            # Try to find it in the HTML
             date_meta = re.search(r"Date:\s*(\d{1,2}\s+\w+\s+\d{4})", raw_html)
             report_date = date_meta.group(1) if date_meta else html_path.stem[:7]
 
-        # Split HTML on paragraph boundaries BEFORE stripping tags.
-        # Baltic HTML packs everything onto ~2 lines; </p> is the reliable separator.
         vessel_cls_list = [
             "Capesize", "Panamax", "Ultramax/Supramax", "Ultramax", "Supramax",
             "Handysize", "VLCC", "Suezmax", "Aframax", "LR2", "LR1", "MR",
@@ -994,16 +959,14 @@ def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str
         ]
         css_skip = ("box-sizing", "font-family", "font-size", "border-collapse")
         segments = re.split(r"</p>", raw_html)
-        sections: dict[str, str] = {}  # vessel_class -> first narrative paragraph
+        sections: dict[str, str] = {}
         current_class: str | None = None
         for seg in segments:
-            # Strip tags and decode entities
             plain = re.sub(r"<[^>]+>", " ", seg)
             plain = re.sub(r"&[a-z#\d]+;", " ", plain)
             plain = re.sub(r"\s+", " ", plain).strip()
             if not plain or any(s in plain.lower() for s in css_skip):
                 continue
-            # Detect vessel-class heading: segment is short AND contains a known class name
             heading_found: str | None = None
             if len(plain) < 120:
                 for vc in vessel_cls_list:
@@ -1013,7 +976,7 @@ def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str
             if heading_found:
                 current_class = heading_found
             elif current_class and len(plain) > 80 and current_class not in sections:
-                sections[current_class] = plain[:400]
+                sections[current_class] = plain[:1500]
 
         if sections:
             entries.append(f"{report_date} (Baltic Weekly):\n"
