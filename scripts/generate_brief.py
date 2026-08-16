@@ -649,29 +649,77 @@ def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
 
 
 def load_physical_signals_context() -> str:
-    """Extract summary insights from all physical derived datasets (TCE matrix, forward curves, restocking, valuations, gas)."""
+    """Extract exhaustive multi-period insights from all physical derived datasets (TCE matrix, 22-month forward curves, restocking, valuations, gas)."""
     lines = []
     
-    # 1. Alibra Period TCE Matrix
+    # 1. Alibra Period TCE Matrix (Full Tenors & Basin Spreads)
     p_tce = ROOT / "data" / "derived" / "alibra_tce_matrix.json"
     if p_tce.exists():
         try:
             with open(p_tce, encoding="utf-8") as f:
                 tce = json.load(f)
             rep_date = tce.get("report_date", "")
+            lines.append(f"=== 1. ALIBRA INSTITUTIONAL PERIOD TIME CHARTER BENCHMARKS (Report Date: {rep_date}) ===")
+            
+            # Dry Bulk Full Table with Atlantic vs Pacific and 6M->5Y Tenors
+            lines.append("  [DRY BULK PERIOD FIXTURES - $/DAY & WoW DELTAS]")
             dry_items = tce.get("dry_bulk", [])
+            for b in dry_items:
+                size = b.get("size")
+                r6m_a = b.get("rate_6m_atl")
+                r1y_a = b.get("rate_1y_atl")
+                r2y_a = b.get("rate_2y_atl")
+                r3y_a = b.get("rate_3y_atl")
+                r5y_a = b.get("rate_5y_atl")
+                c1y_a = b.get("chg_1y_atl", 0)
+                
+                r6m_p = b.get("rate_6m_pac")
+                r1y_p = b.get("rate_1y_pac")
+                r2y_p = b.get("rate_2y_pac")
+                c1y_p = b.get("chg_1y_pac", 0)
+                
+                tenors_atl = []
+                if r6m_a: tenors_atl.append(f"6M: ${r6m_a:,.0f}/d")
+                if r1y_a: tenors_atl.append(f"1Y: ${r1y_a:,.0f}/d ({c1y_a:+.1f}%)")
+                if r2y_a: tenors_atl.append(f"2Y: ${r2y_a:,.0f}/d")
+                if r3y_a: tenors_atl.append(f"3Y: ${r3y_a:,.0f}/d")
+                if r5y_a: tenors_atl.append(f"5Y: ${r5y_a:,.0f}/d")
+                
+                tenors_pac = []
+                if r6m_p: tenors_pac.append(f"6M: ${r6m_p:,.0f}/d")
+                if r1y_p: tenors_pac.append(f"1Y: ${r1y_p:,.0f}/d ({c1y_p:+.1f}%)")
+                if r2y_p: tenors_pac.append(f"2Y: ${r2y_p:,.0f}/d")
+                
+                lines.append(f"    • {size:<24} | ATLANTIC: {', '.join(tenors_atl)}")
+                if tenors_pac:
+                    lines.append(f"      {' '*24} | PACIFIC : {', '.join(tenors_pac)}")
+            
+            # Tankers Full Table across all segments (VLCC, Suezmax, Aframax, LR2, LR1, MR, Handymax)
+            lines.append("\n  [TANKER PERIOD FIXTURES - $/DAY & TERM STRUCTURE]")
             tanker_items = tce.get("tankers", [])
-            lines.append(f"  • Live Period Time Charter Benchmarks (Alibra Weekly - {rep_date}):")
-            if dry_items:
-                dry_strs = [f"{b.get('size')}: 1Y Atl ${b.get('rate_1y_atl', 0):,.0f}/d (2Y: ${b.get('rate_2y_atl', 0):,.0f}/d), 1Y Pac ${b.get('rate_1y_pac', 0):,.0f}/d" for b in dry_items[:3]]
-                lines.append("      - Dry Bulk: " + " | ".join(dry_strs))
-            if tanker_items:
-                tanker_strs = [f"{t.get('size')}: 1Y ${t.get('rate_1y', 0):,.0f}/d, 3Y ${t.get('rate_3y', 0):,.0f}/d, 5Y ${t.get('rate_5y', 0):,.0f}/d" for t in tanker_items if t.get('size') in ('VLCC', 'Suezmax', 'Aframax', 'MR IMO3')]
-                lines.append("      - Tankers: " + " | ".join(tanker_strs))
+            for t in tanker_items:
+                size = t.get("size")
+                r1y = t.get("rate_1y")
+                r2y = t.get("rate_2y")
+                r3y = t.get("rate_3y")
+                r5y = t.get("rate_5y")
+                c1y = t.get("chg_1y", 0)
+                t_strs = []
+                if r1y: t_strs.append(f"1Y: ${r1y:,.0f}/d ({c1y:+.1f}%)")
+                if r2y: t_strs.append(f"2Y: ${r2y:,.0f}/d")
+                if r3y: t_strs.append(f"3Y: ${r3y:,.0f}/d")
+                if r5y: t_strs.append(f"5Y: ${r5y:,.0f}/d")
+                
+                # Compute term slope (1Y vs 3Y / 5Y discount/premium)
+                slope_note = ""
+                if r1y and r3y and r1y > 0:
+                    slope_pct = ((r1y - r3y) / r1y) * 100
+                    slope_note = f" -> 3Y Term Discount: -{slope_pct:.1f}%" if slope_pct > 0 else f" -> 3Y Term Premium: +{abs(slope_pct):.1f}%"
+                lines.append(f"    • {size:<16} | {', '.join(t_strs)}{slope_note}")
         except Exception:
             pass
 
-    # 2. Tanker 22-Month Forward Curves
+    # 2. Tanker Forward Curves (Full 22-Month FFA Term Structure)
     p_fwd = ROOT / "data" / "derived" / "tanker_forward_curves.csv"
     if p_fwd.exists():
         try:
@@ -681,20 +729,32 @@ def load_physical_signals_context() -> str:
                 for row in reader:
                     fwd_rows.append(row)
             if fwd_rows:
-                p_f = fwd_rows[0]
-                m12_f = fwd_rows[min(11, len(fwd_rows) - 1)]
-                v_p = float(p_f.get("vlcc_td3c") or 0)
-                v_eco = float(p_f.get("vlcc_eco_td3c") or 0)
-                v_12 = float(m12_f.get("vlcc_td3c") or 0)
-                slope_pct = ((v_p - v_12) / v_p * 100) if v_p > 0 else 0.0
-                slope_str = "Backwardation" if slope_pct > 0 else "Contango"
-                lines.append(f"  • Tanker FFA Forward Term Structure (22-Month Curve - Prompt {p_f.get('forward_month', '')}):")
-                lines.append(f"      - VLCC TD3C: Prompt ${v_p:,.0f}/d -> M12 ${v_12:,.0f}/d ({abs(slope_pct):.1f}% {slope_str}) | Eco Premium: +${abs(v_p - v_eco):,.0f}/d")
-                lines.append(f"      - Suezmax TD20: Prompt ${float(p_f.get('suezmax_td20') or 0):,.0f}/d | Aframax TD25: Prompt ${float(p_f.get('aframax_td25') or 0):,.0f}/d")
+                lines.append(f"\n=== 2. TANKER FFA FORWARD CURVE MATRIX (22 Forward Months) ===")
+                lines.append(f"  {'MONTH':<12} {'VLCC TD3C':>12} {'VLCC ECO':>12} {'ECO DIFF':>10} {'SUEZ TD20':>12} {'AFRA TD25':>12} {'LR1 TC5':>10} {'MR TC2':>10}")
+                lines.append("  " + "─" * 84)
+                for r in fwd_rows:
+                    m = r.get("forward_month", "")
+                    v = float(r.get("vlcc_td3c") or 0)
+                    v_eco = float(r.get("vlcc_eco_td3c") or 0)
+                    diff = v - v_eco if v > 0 and v_eco > 0 else 0
+                    s = float(r.get("suezmax_td20") or 0)
+                    a = float(r.get("aframax_td25") or 0)
+                    lr1 = float(r.get("clean_lr1_tc5") or 0)
+                    mr = float(r.get("clean_mr_tc2") or 0)
+                    lines.append(f"  {m:<12} ${v:>10,.0f} ${v_eco:>10,.0f} ${diff:>8,.0f} ${s:>10,.0f} ${a:>10,.0f} ${lr1:>8,.0f} ${mr:>8,.0f}")
+                
+                # Compute term slope summary
+                p_v = float(fwd_rows[0].get("vlcc_td3c") or 0)
+                m6_v = float(fwd_rows[min(5, len(fwd_rows)-1)].get("vlcc_td3c") or 0)
+                m12_v = float(fwd_rows[min(11, len(fwd_rows)-1)].get("vlcc_td3c") or 0)
+                m22_v = float(fwd_rows[-1].get("vlcc_td3c") or 0)
+                lines.append(f"\n  Curve Dynamics: Prompt ${p_v:,.0f}/d -> M6 ${m6_v:,.0f}/d -> M12 ${m12_v:,.0f}/d -> M22 ${m22_v:,.0f}/d")
+                if p_v > 0:
+                    lines.append(f"  Annualized 1Y Forward Slope: {((p_v - m12_v)/p_v*100):+.1f}% ({'Backwardation' if p_v > m12_v else 'Contango'})")
         except Exception:
             pass
 
-    # 3. Raw Material Restocking & China Steel
+    # 3. Raw Material Restocking & China Steel Trajectory (Last 10 Weekly Prints)
     p_ore = ROOT / "data" / "derived" / "iron_ore_restocking.csv"
     if p_ore.exists():
         try:
@@ -702,48 +762,85 @@ def load_physical_signals_context() -> str:
             with open(p_ore, encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
-                    if row.get("inventories_mt") or row.get("cfr_62"):
+                    if row.get("cfr_62") or row.get("inventories_mt"):
                         ore_rows.append(row)
             if ore_rows:
-                last_ore = ore_rows[-1]
-                lines.append(f"  • Iron Ore Restocking & Steel Fundamentals ({last_ore.get('date', '')}):")
-                lines.append(f"      - Qingdao Port Inventory: {last_ore.get('inventories_mt') or 'N/A'} MT | 62% Fe CFR: ${last_ore.get('cfr_62') or 'N/A'}/t | 65% Carajas: ${last_ore.get('cfr_65') or 'N/A'}/t | Crude Steel Output: {last_ore.get('steel_production_mt') or 'N/A'} MT")
+                lines.append(f"\n=== 3. CHINA RAW MATERIAL RESTOCKING & STEEL PRODUCTION TRAJECTORY ===")
+                lines.append(f"  {'DATE':<12} {'PORT STOCKS (MT)':>18} {'62% Fe CFR':>12} {'65% CARAJAS':>14} {'SPREAD (65-62)':>16} {'CRUDE STEEL (MT)':>18}")
+                lines.append("  " + "─" * 94)
+                recent_ores = ore_rows[-10:]
+                for r in recent_ores:
+                    d = r.get("date", "")
+                    inv = r.get("inventories_mt") or "-"
+                    fe62 = float(r.get("cfr_62") or 0)
+                    fe65 = float(r.get("cfr_65") or 0)
+                    sp = f"+${(fe65 - fe62):.1f}/t" if fe62 > 0 and fe65 > 0 else "-"
+                    st = r.get("steel_production_mt") or "-"
+                    fe62_s = f"${fe62:.1f}/t" if fe62 > 0 else "-"
+                    fe65_s = f"${fe65:.1f}/t" if fe65 > 0 else "-"
+                    lines.append(f"  {d:<12} {inv:>18} {fe62_s:>12} {fe65_s:>14} {sp:>16} {st:>18}")
         except Exception:
             pass
 
-    # 4. Vessel Valuations & Scrappage
+    # 4. Vessel Valuations & Scrappage Cycle (10Y Secondhand vs Demolition Floor & 5Y Ranges)
     p_val = ROOT / "data" / "derived" / "vessel_valuations.csv"
     p_scrap = ROOT / "data" / "derived" / "scrappage_prices.csv"
     if p_val.exists() and p_scrap.exists():
         try:
-            val_map = {}
+            val_history = {}
             with open(p_val, encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
-                    if "10" in row.get("tenor_type", ""):
-                        val_map[row.get("vessel_class")] = float(row.get("valuation_usd_m") or 0)
+                    cls = row.get("vessel_class")
+                    tenor = row.get("tenor_type")
+                    val = float(row.get("valuation_usd_m") or 0)
+                    dt = row.get("date")
+                    if cls and tenor and val > 0:
+                        key = f"{cls} ({tenor})"
+                        if key not in val_history:
+                            val_history[key] = []
+                        val_history[key].append((dt, val))
+            
             scrap_rows = []
             with open(p_scrap, encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     scrap_rows.append(row)
-            if scrap_rows and val_map:
+                    
+            lines.append(f"\n=== 4. VESSEL CAPITAL CYCLE, SECONDHAND S&P & SCRAP DEMOLITION FLOOR ===")
+            if scrap_rows:
                 ls = scrap_rows[-1]
-                cape_val = val_map.get("Capesize (Japanese)") or val_map.get("Capesize (Chinese)") or val_map.get("Capesize")
-                vlcc_val = val_map.get("VLCC")
-                scrap_dry = float(ls.get("dry_india") or ls.get("dry_bangla") or 0)
-                scrap_tank = float(ls.get("tanker_india") or ls.get("tanker_bangla") or 0)
-                lines.append(f"  • Vessel Capital Cycle & Asset Valuations (Secondhand vs Demolition Floor - {ls.get('date', '')}):")
-                if cape_val and scrap_dry > 0:
-                    cape_scrap = (21000 * scrap_dry) / 1e6
-                    lines.append(f"      - Capesize 10Y Asset: ${cape_val:.1f}M | Scrap Floor: ${cape_scrap:.1f}M (${scrap_dry:,.0f}/LDT) | Demolition Cushion: +${(cape_val - cape_scrap):.1f}M")
-                if vlcc_val and scrap_tank > 0:
-                    vlcc_scrap = (38000 * scrap_tank) / 1e6
-                    lines.append(f"      - VLCC 10Y Asset: ${vlcc_val:.1f}M | Scrap Floor: ${vlcc_scrap:.1f}M (${scrap_tank:,.0f}/LDT) | Demolition Cushion: +${(vlcc_val - vlcc_scrap):.1f}M")
+                lines.append(f"  Demolition Scrap Benchmark ({ls.get('date')}): India Dry ${ls.get('dry_india')}/LDT | India Tanker ${ls.get('tanker_india')}/LDT | Bangla Dry ${ls.get('dry_bangla')}/LDT | Turkey ${ls.get('dry_turkey')}/LDT")
+            
+            lines.append(f"  {'VESSEL CLASS':<28} {'LATEST VALUE':>14} {'SCRAP FLOOR':>14} {'EQUITY CUSHION':>16} {'5Y RANGE (MIN - MAX)':>24}")
+            lines.append("  " + "─" * 98)
+            
+            targets = [
+                ("Capesize (Japanese) (10Y)", 21000, "dry_india"),
+                ("Capesize (Chinese) (10Y)", 21000, "dry_india"),
+                ("Panamax (Japanese) (10Y)", 12500, "dry_india"),
+                ("Ultramax (Japanese) (10Y)", 10500, "dry_india"),
+                ("VLCC (WET-10)", 38000, "tanker_india"),
+                ("Suezmax (WET-10)", 24000, "tanker_india"),
+                ("Aframax / LR2 (WET-10)", 17500, "tanker_india"),
+                ("MR (WET-10)", 10000, "tanker_india"),
+            ]
+            
+            ls = scrap_rows[-1] if scrap_rows else {}
+            for key, ldt, scrap_col in targets:
+                if key in val_history:
+                    pts = val_history[key]
+                    latest_dt, latest_val = pts[-1]
+                    min_val = min(p[1] for p in pts[-60:]) if len(pts) >= 60 else min(p[1] for p in pts)
+                    max_val = max(p[1] for p in pts[-60:]) if len(pts) >= 60 else max(p[1] for p in pts)
+                    scrap_rate = float(ls.get(scrap_col) or 420.0)
+                    scrap_floor = (ldt * scrap_rate) / 1e6
+                    cushion = latest_val - scrap_floor
+                    lines.append(f"  {key:<28} ${latest_val:>12.1f}M ${scrap_floor:>12.1f}M ${cushion:>14.1f}M ${min_val:.1f}M - ${max_val:.1f}M")
         except Exception:
             pass
 
-    # 5. Gas Shipping Benchmarks
+    # 5. Gas Shipping Benchmarks (LPG & LNG Recent History)
     p_lpg = ROOT / "data" / "derived" / "lpg_charter_rates.csv"
     p_lng = ROOT / "data" / "derived" / "lng_charter_rates.csv"
     if p_lpg.exists() and p_lng.exists():
@@ -753,15 +850,15 @@ def load_physical_signals_context() -> str:
             with open(p_lng, encoding="utf-8") as f:
                 lng_rows = list(csv.DictReader(f))
             if lpg_rows and lng_rows:
+                lines.append(f"\n=== 5. GAS SHIPPING BENCHMARKS (LPG & LNG) ===")
                 last_lpg = lpg_rows[-1]
                 last_lng = lng_rows[-1]
                 vlgc_pcm = float(last_lpg.get("vlgc_84k_tc") or 0)
-                lines.append(f"  • Gas Carrier Shipping Benchmarks (LPG & LNG):")
-                lines.append(f"      - LPG VLGC 84k 1Y TC: ${vlgc_pcm/30.4375:,.0f}/day (${vlgc_pcm:,.0f}/month) | MGC 38k 1Y: ${float(last_lpg.get('mgc_38k_tc') or 0):,.0f}/month")
-                lines.append(f"      - LNG 174k 2-Stroke Long Term: 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day")
+                lines.append(f"  • LPG Fleet: VLGC 84k 1Y TC ${vlgc_pcm/30.4375:,.0f}/day (${vlgc_pcm:,.0f}/month) | MGC 38k ${float(last_lpg.get('mgc_38k_tc') or 0):,.0f}/month | Handy 22k ${float(last_lpg.get('hdy_22k_tc') or 0):,.0f}/month")
+                lines.append(f"  • LNG Fleet: 174k 2-Stroke 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day | Newbuilding Order: ${float(last_lng.get('lngc_80k_nb_price') or 262):,.0f}M")
         except Exception:
             pass
-
+            
     return "\n".join(lines)
 
 
