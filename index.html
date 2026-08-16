@@ -8452,27 +8452,27 @@
       <div class="chart-container mb-20" id="etfDailyBriefCard" style="margin-top:24px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,0.4);position:relative;">
         
         <!-- Header & Active Controls -->
-        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
+        <div class="chart-header" style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:nowrap;gap:16px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
           <div style="flex:1 1 auto;min-width:0;">
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <div class="chart-title" style="font-size:15px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
                   <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
                 </svg>
               </div>
               <span>Daily Freight &amp; ETF Market Intelligence Brief</span>
-              <span id="etfBriefDateBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);">2026-08-14</span>
-              <span id="etfBriefEngineBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;" data-tooltip="Synthesized via server-side quantitative pipeline &amp; NVIDIA NIM / LLM models. Zero client-side API keys required.">
-                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (NIM / LLM)
+              <span id="etfBriefDateBadge" style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);">2026-08-16</span>
+              <span id="etfBriefEngineBadge" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);display:inline-flex;align-items:center;gap:4px;" data-tooltip="Synthesized via server-side quantitative pipeline &amp; LLM models. Zero client-side API keys required.">
+                <svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> AI Grounded
               </span>
             </div>
-            <div style="font-size:12px;color:var(--text-muted);margin-top:4px;">
+            <div style="font-size:12px;color:var(--text-muted);margin-top:4px;line-height:1.4;">
               Multi-factor quantitative confluence, desk momentum grades, and forward curve roll dynamics synthesized by the server-side intelligence engine.
             </div>
           </div>
 
           <!-- Controls: Fund Filter & Expand/Collapse -->
-          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;">
+          <div style="flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;flex-shrink:0;margin-left:auto;">
             <!-- Fund Filter Tabs -->
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="etfBriefFilterAll" onclick="setEtfBriefFocus('all')" style="padding:4px 10px;border-radius:4px;border:none;cursor:pointer;font-size:11px;font-weight:700;background:var(--accent);color:#fff;transition:all 0.15s;" data-tooltip="Show combined macro, dry bulk, and tanker intelligence.">All Markets</button>
@@ -24370,9 +24370,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Update engine badge
       var engBadge = document.getElementById('etfBriefEngineBadge');
       if (engBadge && data.generation) {
-        var prov = data.generation.provider_used || 'LLM';
-        var mod = data.generation.model ? (' / ' + data.generation.model.split('/').pop().replace(/-instruct|-versatile/g, '')) : '';
-        engBadge.innerHTML = '<svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> Server Synthesizer (' + prov.toUpperCase() + mod + ')';
+        var prov = (data.generation.provider_used || 'LLM').toUpperCase();
+        var mod = data.generation.model ? (' (' + data.generation.model + ')') : '';
+        engBadge.innerHTML = '<svg width="8" height="8" viewBox="0 0 24 24" fill="#3fb950"><circle cx="12" cy="12" r="12"/></svg> AI Grounded';
+        engBadge.setAttribute('data-tooltip', 'Synthesized via ' + prov + mod + ' server pipeline. Zero client-side API keys required.');
       }
 
       var esc = function(str) {
