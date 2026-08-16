@@ -67,8 +67,8 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 24  # comprehensive Breakwave reports archive to feed into the brief
-BALTIC_REPORTS = 20  # comprehensive weekly Baltic Exchange reports archive to feed into the brief
+RECENT_REPORTS = 6  # Breakwave reports per sector (6 ≈ 6-8 weeks of analysis)
+BALTIC_REPORTS = 2  # Baltic Exchange weekly reports (2 weeks of vessel-class detail)
 
 # Baltic Exchange weekly HTML report directories
 BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
@@ -92,7 +92,7 @@ NIM_BACKOFF_BASE_SEC = float(os.environ.get("NIM_BACKOFF_BASE_SEC", "1.5"))
 NIM_MAX_BACKOFF_SEC = float(os.environ.get("NIM_MAX_BACKOFF_SEC", "15.0"))
 
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip()
-GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "llama-3.3-70b-versatile").strip()
+GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "llama-3.1-8b-instant").strip()
 GROQ_BASE_URL = (os.environ.get("GROQ_BASE_URL") or "https://api.groq.com/openai/v1").strip().rstrip("/")
 GROQ_MIN_INTERVAL_SEC = float(os.environ.get("GROQ_MIN_INTERVAL_SEC", "1.5"))
 GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
@@ -442,7 +442,7 @@ def compute_confluence(
     return "NEUTRAL"
 
 
-def wiki_excerpt(path: Path, max_chars: int = 8000) -> str:
+def wiki_excerpt(path: Path, max_chars: int = 1800) -> str:
     try:
         text = path.read_text(encoding="utf-8")
         if text.startswith("---"):
@@ -675,12 +675,12 @@ def load_physical_signals_context() -> str:
                             pass
                             
     sorted_dates = sorted(daily_matrix.keys(), reverse=True)
-    recent_180_dates = sorted_dates[:180]
+    recent_14_dates = sorted_dates[:14]
     
-    lines.append("=== 1. ROLLING 180-DAY DAILY SPOT FREIGHT BENCHMARK MATRIX ===")
+    lines.append("=== 1. ROLLING 14-DAY DAILY SPOT FREIGHT BENCHMARK MATRIX ===")
     lines.append(f"  {'DATE':<12} {'BDI':>8} {'CAPESIZE':>10} {'PANAMAX':>10} {'SUPRAMAX':>10} {'HANDY':>8} {'BDTI (DIRTY)':>14} {'BCTI (CLEAN)':>14}")
     lines.append("  " + "─" * 84)
-    for dt in recent_180_dates:
+    for dt in recent_14_dates:
         m = daily_matrix[dt]
         bdi = m.get("BDI", 0)
         c = m.get("Capesize", 0)
@@ -710,13 +710,13 @@ def load_physical_signals_context() -> str:
                     if c and px > 0:
                         if c not in c_map or dt >= c_map[c]["date"]:
                             c_map[c] = {"contract": c, "price": px, "date": dt}
-                pts = [f"{c['contract']}: ${c['price']:,.0f}/d" for c in list(c_map.values())[:24]]
+                pts = [f"{c['contract']}: ${c['price']:,.0f}/d" for c in list(c_map.values())[:6]]
                 lines.append(f"  [{cls_name.upper()} SGX FFA CURVE]: " + " | ".join(pts))
 
-    # 3. Alibra Period TCE Matrix - 24-Week Historical Time Series
+    # 3. Alibra Period TCE Matrix - 6-Week Historical Time Series
     p_tc = ROOT / "data" / "derived" / "time_charter_rates.csv"
     if p_tc.exists():
-        lines.append("\n=== 3. ALIBRA PERIOD TIME CHARTER MATRIX (24-Week Historical Fixtures) ===")
+        lines.append("\n=== 3. ALIBRA PERIOD TIME CHARTER MATRIX (6-Week Historical Fixtures) ===")
         tc_rows = []
         with open(p_tc, encoding="utf-8") as f:
             reader = csv.DictReader(f)
@@ -728,7 +728,7 @@ def load_physical_signals_context() -> str:
             if d:
                 if d not in tc_by_date: tc_by_date[d] = []
                 tc_by_date[d].append(r)
-        sorted_tc_dates = sorted(tc_by_date.keys(), reverse=True)[:24]
+        sorted_tc_dates = sorted(tc_by_date.keys(), reverse=True)[:4]
         for d in sorted_tc_dates:
             lines.append(f"\n  --- Alibra Assessment Date: {d} ---")
             for r in tc_by_date[d]:
@@ -762,7 +762,7 @@ def load_physical_signals_context() -> str:
             mr = float(r.get("clean_mr_tc2") or 0)
             lines.append(f"  {m:<12} ${v:>10,.0f} ${v_eco:>10,.0f} ${diff:>12,.0f} ${s:>10,.0f} ${a:>10,.0f} ${lr1:>8,.0f} ${mr:>8,.0f}")
 
-    # 5. China Raw Material Restocking & Steel Production (Full 2-Year Weekly History)
+    # 5. China Raw Material Restocking & Steel Production (16-Week Trajectory)
     p_ore = ROOT / "data" / "derived" / "iron_ore_restocking.csv"
     if p_ore.exists():
         ore_rows = []
@@ -771,10 +771,10 @@ def load_physical_signals_context() -> str:
             for row in reader:
                 if row.get("cfr_62") or row.get("inventories_mt"):
                     ore_rows.append(row)
-        lines.append("\n=== 5. CHINA RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (104-Week Trajectory) ===")
+        lines.append("\n=== 5. CHINA RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (16-Week Trajectory) ===")
         lines.append(f"  {'DATE':<12} {'QINGDAO PORT (MT)':>18} {'62% Fe CFR':>12} {'65% CARAJAS':>14} {'SPREAD (65-62)':>16} {'CRUDE STEEL (MT)':>18} {'STEEL INVENT (MT)':>18}")
         lines.append("  " + "─" * 114)
-        for r in ore_rows[-104:]:
+        for r in ore_rows[-12:]:
             d = r.get("date", "")
             inv = r.get("inventories_mt") or "-"
             fe62 = float(r.get("cfr_62") or 0)
@@ -786,7 +786,7 @@ def load_physical_signals_context() -> str:
             fe65_s = f"${fe65:.1f}/t" if fe65 > 0 else "-"
             lines.append(f"  {d:<12} {inv:>18} {fe62_s:>12} {fe65_s:>14} {sp:>16} {st:>18} {st_inv:>18}")
 
-    # 6. Vessel Valuations & Scrappage Cycles (10-Year S&P History)
+    # 6. Vessel Valuations & Scrappage Cycles (24-Month S&P History)
     p_val = ROOT / "data" / "derived" / "vessel_valuations.csv"
     p_scrap = ROOT / "data" / "derived" / "scrappage_prices.csv"
     if p_val.exists() and p_scrap.exists():
@@ -800,24 +800,24 @@ def load_physical_signals_context() -> str:
             reader = csv.DictReader(f)
             for row in reader:
                 scrap_rows.append(row)
-        lines.append("\n=== 6. VESSEL SECONDHAND ASSET VALUES & DEMOLITION SCRAP BENCHMARKS (120-Month History) ===")
-        val_10y = [r for r in val_rows if '10' in r.get('tenor_type', '')][-200:]
+        lines.append("\n=== 6. VESSEL SECONDHAND ASSET VALUES & DEMOLITION SCRAP BENCHMARKS (24-Month History) ===")
+        val_10y = [r for r in val_rows if '10' in r.get('tenor_type', '')][-18:]
         for r in val_10y:
             lines.append(f"    • {r.get('date')} | {r.get('vessel_class'):<24} | Tenor: {r.get('tenor_type'):<6} | Value: ${float(r.get('valuation_usd_m') or 0):>6.1f}M")
 
-    # 7. ETF Daily Holdings & Creation/Redemption Flows (120 Sessions)
+    # 7. ETF Daily Holdings & Creation/Redemption Flows (20 Sessions)
     p_bdry_f = ROOT / "data" / "etf" / "BDRY_flows.csv"
     p_bwet_f = ROOT / "data" / "etf" / "BWET_flows.csv"
-    lines.append("\n=== 7. ETF CREATION/REDEMPTION FLOWS & LIQUIDITY (Last 120 Sessions) ===")
+    lines.append("\n=== 7. ETF CREATION/REDEMPTION FLOWS & LIQUIDITY (Last 20 Sessions) ===")
     if p_bdry_f.exists():
         with open(p_bdry_f, encoding="utf-8") as f:
-            bdry_flows = list(csv.DictReader(f))[-120:]
+            bdry_flows = list(csv.DictReader(f))[-14:]
             lines.append("  [BDRY (Dry Bulk ETF) Daily Net Flows - $M]")
             for r in bdry_flows:
                 lines.append(f"    • {r.get('date')}: Net Flow = ${float(r.get('flow_usd_m') or r.get('net_flow') or 0):>+6.2f}M | Shares Out = {float(r.get('shares_out') or 0):>10,.0f} | NAV = ${float(r.get('nav') or 0):>5.2f}")
     if p_bwet_f.exists():
         with open(p_bwet_f, encoding="utf-8") as f:
-            bwet_flows = list(csv.DictReader(f))[-120:]
+            bwet_flows = list(csv.DictReader(f))[-14:]
             lines.append("  [BWET (Tanker ETF) Daily Net Flows - $M]")
             for r in bwet_flows:
                 lines.append(f"    • {r.get('date')}: Net Flow = ${float(r.get('flow_usd_m') or r.get('net_flow') or 0):>+6.2f}M | Shares Out = {float(r.get('shares_out') or 0):>10,.0f} | NAV = ${float(r.get('nav') or 0):>5.2f}")
