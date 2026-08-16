@@ -1721,7 +1721,14 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
         return None
     retries = retries or OPENROUTER_MAX_RETRIES
     global _last_openrouter_call_ts
-    or_candidates = [OPENROUTER_MODEL, "google/gemini-2.0-flash-exp:free", "deepseek/deepseek-r1:free", "meta-llama/llama-3.1-70b-instruct:free", "mistralai/mistral-small-24b-instruct-2501:free"]
+    or_candidates = [
+        OPENROUTER_MODEL,                              # paid primary (env-configured)
+        "nvidia/nemotron-3-ultra-550b-a55b:free",      # 1M ctx, 550B, free tier
+        "nvidia/nemotron-3-super-120b-a12b:free",      # 262k ctx, 120B, free tier
+        "google/gemma-4-31b-it:free",                  # 262k ctx, instruction-tuned, free
+        "openai/gpt-oss-20b:free",                     # 131k ctx, free tier
+        "nvidia/nemotron-nano-12b-v2-vl:free",         # 128k ctx, free tier (smallest fallback)
+    ]
     for candidate in or_candidates:
         for attempt in range(retries):
             try:
@@ -1736,8 +1743,11 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
             except Exception as exc:
                 exc_text = str(exc)
                 print(f"[brief] OpenRouter attempt {attempt + 1}/{retries} ({candidate}) failed: {exc_text}", file=sys.stderr)
-                if "HTTP 404:" in exc_text or "unavailable for free" in exc_text:
+                if "HTTP 404:" in exc_text or "unavailable for free" in exc_text or "No endpoints found" in exc_text:
                     print(f"[brief] OpenRouter model {candidate} unavailable/404; trying next candidate.", file=sys.stderr)
+                    break
+                if "HTTP 402:" in exc_text:
+                    print(f"[brief] OpenRouter model {candidate} requires credits (402); trying next free candidate.", file=sys.stderr)
                     break
                 if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
                     print("[brief] OpenRouter auth/client error detected; skipping further retries.", file=sys.stderr)
