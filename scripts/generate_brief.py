@@ -1219,6 +1219,20 @@ Return ONLY valid JSON matching this schema:
 }}"""
 
 
+def _repair_json(raw: str) -> str:
+    """Best-effort repairs for common LLM JSON mistakes."""
+    import re as _re
+    # Python literals → JSON
+    raw = _re.sub(r"\bNone\b", "null", raw)
+    raw = _re.sub(r"\bTrue\b", "true", raw)
+    raw = _re.sub(r"\bFalse\b", "false", raw)
+    # Trailing commas before } or ]
+    raw = _re.sub(r",\s*([}\]])", r"\1", raw)
+    # Single-quoted strings → double-quoted (basic, non-nested)
+    raw = _re.sub(r"(?<![\\])'([^']*?)(?<![\\])'", r'"\1"', raw)
+    return raw
+
+
 def _extract_json_payload(text: str | None) -> dict | None:
     if not text:
         return None
@@ -1229,14 +1243,24 @@ def _extract_json_payload(text: str | None) -> dict | None:
     match = re.search(r"\{.*\}", raw, re.S)
     if match:
         raw = match.group(0)
+    # First attempt: parse as-is
     try:
         payload = json.loads(raw)
         if isinstance(payload, dict):
             return payload
         return None
     except json.JSONDecodeError as exc:
-        print(f"[brief] JSONDecodeError: {exc}. Raw text: {raw[:1000]}", file=sys.stderr)
-        return None
+        print(f"[brief] JSONDecodeError: {exc}. Raw text: {raw[:200]}", file=sys.stderr)
+    # Second attempt: apply common repairs
+    try:
+        repaired = _repair_json(raw)
+        payload = json.loads(repaired)
+        if isinstance(payload, dict):
+            print("[brief] JSON repair succeeded.", file=sys.stderr)
+            return payload
+    except json.JSONDecodeError:
+        pass
+    return None
 
 
 def _clean_text(value) -> str:
@@ -1758,6 +1782,9 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
                     break
                 if "HTTP 402:" in exc_text:
                     print(f"[brief] OpenRouter model {candidate} requires credits (402); trying next free candidate.", file=sys.stderr)
+                    break
+                if "HTTP 429:" in exc_text:
+                    print(f"[brief] OpenRouter model {candidate} rate-limited (429); trying next candidate.", file=sys.stderr)
                     break
                 if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "invalid_api_key")):
                     print("[brief] OpenRouter auth/client error detected; skipping further retries.", file=sys.stderr)
