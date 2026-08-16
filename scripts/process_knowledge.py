@@ -3421,6 +3421,8 @@ def build_derived(llm_enabled: bool = False):
             ore_inv = clean_mt((fundamentals.get("China Iron Ore Inventories") or {}).get("ytd"))
             steel_prod = clean_mt((fundamentals.get("China Steel Production") or {}).get("ytd"))
             steel_inv = clean_mt((fundamentals.get("China Steel Inventories") or {}).get("ytd"))
+            if steel_inv and steel_inv > 50:
+                steel_inv = round(steel_inv / 100.0, 2)
             if ore_inv or steel_prod or steel_inv:
                 if date_str not in iron_ore_records:
                     iron_ore_records[date_str] = {}
