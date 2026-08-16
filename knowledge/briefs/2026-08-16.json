@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:44:20.647847+00:00",
+  "generated_at": "2026-08-16T08:48:52.586690+00:00",
   "brief_date": "2026-08-16",
   "constituent_holdings": {
     "bdry": {
@@ -56,10 +56,10 @@
     "provider_used": "template",
     "model": "",
     "provider_order": [
-      "nim"
+      "openrouter"
     ],
     "attempted_providers": [
-      "nim"
+      "openrouter"
     ]
   },
   "executive_tldr": [
