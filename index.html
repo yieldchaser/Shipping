@@ -11143,9 +11143,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       DATA.bdryFlows = DATA.bdryFlows || [];
       DATA.bwetFlows = DATA.bwetFlows || [];
 
-      // Pre-calculate total promises up front (PRODUCT_KEYS count + 19 specific file fetches + 4 SGX files)
+      // Pre-calculate total promises up front (PRODUCT_KEYS count + 21 specific file fetches + 4 SGX files)
       const sgxFileKeys = ['cape', 'panamax', 'supramax', 'handysize'];
-      let total = PRODUCT_KEYS.length + 19 + sgxFileKeys.length;
+      let total = PRODUCT_KEYS.length + 21 + sgxFileKeys.length;
 
       function tick(label) {
         loaded++;
@@ -11358,6 +11358,30 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           });
         });
 
+        const lngCharterPromise = safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
+          DATA.lngCharter = r.map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(row => row.date != null);
+        });
+
+        const tceMatrixPromise = fetch('data/derived/alibra_tce_matrix.json')
+          .then(resp => resp.ok ? resp.json() : null)
+          .then(json => {
+            if (json) DATA.tceMatrix = json;
+            tick('Alibra TCE Matrix');
+          })
+          .catch(e => {
+            tick('Alibra TCE Matrix (fail)');
+            console.warn('[Alibra TCE Matrix] Load failed:', e.message);
+          });
+
         const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
           DATA.blpg = r.map(row => {
             const d = parseDate(row.Date);
@@ -11385,6 +11409,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           bdryHistPromise, bwetHistPromise,
           tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
           lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise,
+          lngCharterPromise, tceMatrixPromise,
           ...sgxPromises
         ];
 
@@ -17319,14 +17344,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? '$' + Math.round(c.parsed.y).toLocaleString() + '/day' : '—');
+                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? '$' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day' : '—');
                 }
               }
             }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function(v) { return v != null ? '$' + Math.round(v).toLocaleString() : ''; } }, title: { display: true, text: 'Forward TCE ($/day)', color: '#8b949e', font: { size: 11 } } }
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: function(v) { return v != null ? '$' + Math.round(v).toLocaleString('en-US') : ''; } }, title: { display: true, text: 'Forward TCE ($/day)', color: '#8b949e', font: { size: 11 } } }
           },
           onClick: function(evt, elements) {
             if (!elements || !elements.length) return;
@@ -17341,12 +17366,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               drillTitle.textContent = 'Contract Month: ' + (r.contractLabel || r.forwardMonth) + ' (Snapshot ' + r.snapshotDate + ')';
               
               let items = [];
-              if (r.vlcc_td3c) items.push('<span><strong>VLCC Standard:</strong> $' + Math.round(r.vlcc_td3c).toLocaleString() + '/d</span>');
-              if (r.vlcc_eco_td3c) items.push('<span><strong>VLCC ECO:</strong> $' + Math.round(r.vlcc_eco_td3c).toLocaleString() + '/d</span>');
-              if (r.suezmax_td20) items.push('<span><strong>Suezmax TD20:</strong> $' + Math.round(r.suezmax_td20).toLocaleString() + '/d</span>');
-              if (r.aframax_td25) items.push('<span><strong>Aframax TD25:</strong> $' + Math.round(r.aframax_td25).toLocaleString() + '/d</span>');
-              if (r.lr1_tc5) items.push('<span><strong>LR1 TC5:</strong> $' + Math.round(r.lr1_tc5).toLocaleString() + '/d</span>');
-              if (r.mr_triangulation) items.push('<span><strong>MR Triangulation:</strong> $' + Math.round(r.mr_triangulation).toLocaleString() + '/d</span>');
+              if (r.vlcc_td3c) items.push('<span><strong>VLCC Standard:</strong> $' + Math.round(r.vlcc_td3c).toLocaleString('en-US') + '/d</span>');
+              if (r.vlcc_eco_td3c) items.push('<span><strong>VLCC ECO:</strong> $' + Math.round(r.vlcc_eco_td3c).toLocaleString('en-US') + '/d</span>');
+              if (r.suezmax_td20) items.push('<span><strong>Suezmax TD20:</strong> $' + Math.round(r.suezmax_td20).toLocaleString('en-US') + '/d</span>');
+              if (r.aframax_td25) items.push('<span><strong>Aframax TD25:</strong> $' + Math.round(r.aframax_td25).toLocaleString('en-US') + '/d</span>');
+              if (r.lr1_tc5) items.push('<span><strong>LR1 TC5:</strong> $' + Math.round(r.lr1_tc5).toLocaleString('en-US') + '/d</span>');
+              if (r.mr_triangulation) items.push('<span><strong>MR Triangulation:</strong> $' + Math.round(r.mr_triangulation).toLocaleString('en-US') + '/d</span>');
               
               drillBody.innerHTML = items.join('<span style="color:var(--border);">|</span>');
             }
@@ -17447,7 +17472,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const matrix = DATA.tceMatrix;
       if (!matrix) {
-        // Fallback: build matrix on the fly if needed
+        fetch('data/derived/alibra_tce_matrix.json')
+          .then(r => r.ok ? r.json() : null)
+          .then(json => {
+            if (json) {
+              DATA.tceMatrix = json;
+              renderTCEMatrixTable();
+            }
+          }).catch(function(){});
         return;
       }
 
@@ -17468,7 +17500,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       function fmtRate(v) {
         if (v == null || isNaN(v) || v === 0) return '—';
-        return '$' + Math.round(v).toLocaleString() + '/d';
+        return '$' + Math.round(v).toLocaleString('en-US') + '/d';
       }
 
       if (activeTab === 'dry') {
@@ -17536,6 +17568,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const lngRows = DATA.lngCharter || [];
       if (!lngRows.length) {
+        if (typeof fetchCSV === 'function') {
+          fetchCSV('data/derived/lng_charter_rates.csv')
+            .then(r => {
+              DATA.lngCharter = r.map(row => {
+                const out = { date: parseDateISO(row.date), dateStr: row.date };
+                for (const k in row) {
+                  if (k !== 'date') {
+                    const val = parseFloat(row[k]);
+                    out[k] = isNaN(val) ? null : val;
+                  }
+                }
+                return out;
+              }).filter(row => row.date != null);
+              if (DATA.lngCharter.length) renderLNGCharterChart(productKey);
+            }).catch(function(){});
+        }
         container.style.display = 'none';
         return;
       }
