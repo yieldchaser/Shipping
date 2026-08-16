@@ -18167,18 +18167,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       ioRows.forEach(r => {
         let spotVal = lookupSpot(spotMapObj, r.dateStr, r.date);
 
-        const cfr62 = r.cfr_62;
-        const portStock62 = r.port_stock_62;
-
-        if (spotVal != null && (cfr62 != null || portStock62 != null)) {
-          aligned.push({
-            date: r.date,
-            dateStr: r.dateStr,
-            spot: spotVal,
-            cfr62: cfr62,
-            portStock: portStock62
-          });
-        }
+        aligned.push({
+          date: r.date,
+          dateStr: r.dateStr,
+          spot: spotVal,
+          cfr62: r.cfr_62,
+          cfr65: r.cfr_65,
+          portStock: r.port_stock_62,
+          portStock62: r.port_stock_62,
+          portStock65: r.port_stock_65,
+          steelProd: r.steel_production_mt,
+          steelInv: r.steel_inventories_mt,
+          oreInvMt: r.inventories_mt
+        });
       });
 
       if (!aligned.length) return;
@@ -18226,10 +18227,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       const labels = rows.map(r => fmtDate(r.date));
-      const spotSeries = rows.map(r => r.spot);
-      const cfr62Series = rows.map(r => r.cfr62);
-      const portStockSeries = rows.map(r => r.portStock);
-
       const spotLabel = PRODUCTS[spotKey] ? PRODUCTS[spotKey].label : spotKey;
 
       const activeGrade = window.oreGrade || '62';
@@ -18237,23 +18234,26 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       if (activeGrade === 'steel') {
         ioDatasets = [
-          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-          { label: 'China Monthly Crude Steel Output (MT, Right)', data: rows.map(r => r.steelProd), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-          { label: 'Steel Mill Warehouse Inventories (MT, Right)', data: rows.map(r => r.steelInv), yAxisID: 'yRight', borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false }
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, spanGaps: true, tension: 0.1 },
+          { label: 'China Monthly Crude Steel Output (MT, Right)', data: rows.map(r => r.steelProd), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 2, fill: false, spanGaps: true, tension: 0.1 },
+          { label: 'Steel Mill Warehouse Inventories (MT, Right)', data: rows.map(r => r.steelInv), yAxisID: 'yRight', borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 2, fill: false, spanGaps: true, tension: 0.1 }
         ];
       } else if (activeGrade === '65') {
         ioDatasets = [
-          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-          { label: 'CFR 65% Carajas Ore Price ($/dmt, Left)', data: rows.map(r => r.cfr65 || r.cfr62), yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, borderDash: [2, 2] },
-          { label: 'Port Inventory 65% (Right)', data: rows.map(r => r.portStock65 || r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, spanGaps: true, tension: 0.1 },
+          { label: 'CFR 65% Carajas Ore Price ($/dmt, Left)', data: rows.map(r => r.cfr65 != null ? r.cfr65 : r.cfr62), yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, borderDash: [2, 2], spanGaps: true, tension: 0.1 },
+          { label: 'Port Inventory 65% (10k t, Right)', data: rows.map(r => r.portStock65 != null ? r.portStock65 : r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true, spanGaps: true, tension: 0.1 }
         ];
       } else {
         ioDatasets = [
-          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-          { label: 'CFR 62% Standard Ore ($/dmt, Left)', data: rows.map(r => r.cfr62), yAxisID: 'yLeft', borderColor: '#ff6b6b', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
-          { label: 'Qingdao Port Inventory (10k tons, Right)', data: rows.map(r => r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, spanGaps: true, tension: 0.1 },
+          { label: 'CFR 62% Standard Ore ($/dmt, Left)', data: rows.map(r => r.cfr62), yAxisID: 'yLeft', borderColor: '#ff6b6b', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2], spanGaps: true, tension: 0.1 },
+          { label: 'Qingdao Port Inventory (10k tons, Right)', data: rows.map(r => r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true, spanGaps: true, tension: 0.1 }
         ];
       }
+
+      const isSteel = activeGrade === 'steel';
+      const yRightTitle = isSteel ? 'Steel Output & Inventories (Million MT)' : 'Port Inventory (10k tons)';
 
       updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
@@ -18269,21 +18269,30 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.label.includes('Inventory')) return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y) + 'k tons';
-                  if (c.dataset.label.includes('CFR')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(1) + '/dmt';
-                  if (c.dataset.label.includes('Spot')) {
-                    const rawVal = Math.round(c.parsed.y / spotMultiplier);
-                    return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day (' + rawVal.toLocaleString() + ' index points)';
+                  const val = c.parsed.y;
+                  if (val == null) return ' ' + c.dataset.label + ': —';
+                  if (c.dataset.label.includes('Steel Output') || c.dataset.label.includes('Steel Mill')) {
+                    return ' ' + c.dataset.label + ': ' + val.toFixed(1) + ' MT';
                   }
-                  return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y);
+                  if (c.dataset.label.includes('Inventory') || c.dataset.label.includes('Port')) {
+                    return ' ' + c.dataset.label + ': ' + Math.round(val).toLocaleString('en-US') + 'k tons';
+                  }
+                  if (c.dataset.label.includes('CFR') || c.dataset.label.includes('Ore Price')) {
+                    return ' ' + c.dataset.label + ': $' + val.toFixed(1) + '/dmt';
+                  }
+                  if (c.dataset.label.includes('Spot')) {
+                    const rawVal = Math.round(val / spotMultiplier);
+                    return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString('en-US') + '/day (' + rawVal.toLocaleString('en-US') + ' index points)';
+                  }
+                  return ' ' + c.dataset.label + ': ' + val;
                 }
               }
             }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => '$' + Math.round(v).toLocaleString() }, title: { display: isMainCall, text: 'Index / Price (USD)', color: '#8b949e', font: { size: 11 } } },
-            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 } }, title: { display: isMainCall, text: 'Port Inventory (10k tons)', color: '#8b949e', font: { size: 11 } } }
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString('en-US') : '' }, title: { display: isMainCall, text: 'Freight Spot / Ore Price ($/day or $/dmt)', color: '#8b949e', font: { size: 11 } } },
+            yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? (isSteel ? v.toFixed(0) + ' MT' : Math.round(v).toLocaleString('en-US') + 'k t') : '' }, title: { display: isMainCall, text: yRightTitle, color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
