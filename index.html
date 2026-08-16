@@ -10647,10 +10647,10 @@
               <div class="chart-title" id="lpgChartTitle" data-tooltip="Monitors LPG shipping benchmarks including Ras Tanura to Chiba VLGC Spot, VLGC 84k 1Y TC, MGC 38k 1Y TC, Handy 22k 1Y TC, and official Baltic LPG Index. Toggle between $/day TCE equivalent and raw $/month PCM hire.">LPG Freight &amp; Charter Rates (Ras Tanura to Chiba Spot vs TC)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="lpgSegmentToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lpgSegVlgc" onclick="setLpgSegment('vlgc')" data-tooltip="VLGC 84k m³ Very Large Gas Carrier Benchmark" data-tt-type="concept-lpg-seg" data-tt-seg="vlgc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLGC 84k</button>
-                  <button class="toggle-btn" id="lpgSegMgc" onclick="setLpgSegment('mgc')" data-tooltip="MGC 38k m³ Midsize Gas Carrier Benchmark" data-tt-type="concept-lpg-seg" data-tt-seg="mgc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">MGC 38k</button>
-                  <button class="toggle-btn" id="lpgSegHandy" onclick="setLpgSegment('handy')" data-tooltip="Handy 22k m³ Semi-Refrigerated / Ethylene Gas Carrier" data-tt-type="concept-lpg-seg" data-tt-seg="handy" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handy 22k</button>
-                  <button class="toggle-btn" id="lpgSegAll" onclick="setLpgSegment('all')" data-tooltip="All LPG fleet segments overlaid" data-tt-type="concept-lpg-seg" data-tt-seg="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All LPG Fleet</button>
+                  <button class="toggle-btn active" id="lpgSegVlgc" onclick="setLpgSegment('vlgc')" data-tooltip=" " data-tt-type="concept-lpg-seg" data-tt-seg="vlgc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLGC 84k</button>
+                  <button class="toggle-btn" id="lpgSegMgc" onclick="setLpgSegment('mgc')" data-tooltip=" " data-tt-type="concept-lpg-seg" data-tt-seg="mgc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">MGC 38k</button>
+                  <button class="toggle-btn" id="lpgSegHandy" onclick="setLpgSegment('handy')" data-tooltip=" " data-tt-type="concept-lpg-seg" data-tt-seg="handy" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handy 22k</button>
+                  <button class="toggle-btn" id="lpgSegAll" onclick="setLpgSegment('all')" data-tooltip=" " data-tt-type="concept-lpg-seg" data-tt-seg="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All LPG Fleet</button>
                 </div>
                 <div id="lpgUnitToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="lpgUnitDay" onclick="setLPGUnit('day')" data-tooltip=" " data-tt-type="concept-lpg-unit" data-tt-unit="day" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">$/Day TCE</button>
@@ -10694,10 +10694,10 @@
               <div class="chart-title" id="lngCharterTitle" data-tooltip=" " data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="lngScaleToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="lngScale174k" onclick="setLngScale('174k')" data-tooltip="174,000 m³ Large LNG Carrier Standard Fleet Benchmark" data-tt-type="concept-lng-scale" data-tt-scale="174k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">174k Large LNG</button>
-                  <button class="toggle-btn" id="lngScale30k" onclick="setLngScale('30k')" data-tooltip="30,000 m³ Mid-Scale LNG Carrier Shipyard Series" data-tt-type="concept-lng-scale" data-tt-scale="30k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">30k Mid-Scale LNG</button>
-                  <button class="toggle-btn" id="lngScale7k" onclick="setLngScale('7k')" data-tooltip="7,000 m³ Small Coastal LNG Bunkering & Feeder Vessel" data-tt-type="concept-lng-scale" data-tt-scale="7k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">7k Small Coastal LNG</button>
-                  <button class="toggle-btn" id="lngScaleAll" onclick="setLngScale('all')" data-tooltip="All LNG charter tenors and vessel scale newbuilding prices" data-tt-type="concept-lng-scale" data-tt-scale="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
+                  <button class="toggle-btn active" id="lngScale174k" onclick="setLngScale('174k')" data-tooltip=" " data-tt-type="concept-lng-scale" data-tt-scale="174k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">174k Large LNG</button>
+                  <button class="toggle-btn" id="lngScale30k" onclick="setLngScale('30k')" data-tooltip=" " data-tt-type="concept-lng-scale" data-tt-scale="30k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">30k Mid-Scale LNG</button>
+                  <button class="toggle-btn" id="lngScale7k" onclick="setLngScale('7k')" data-tooltip=" " data-tt-type="concept-lng-scale" data-tt-scale="7k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">7k Small Coastal LNG</button>
+                  <button class="toggle-btn" id="lngScaleAll" onclick="setLngScale('all')" data-tooltip=" " data-tt-type="concept-lng-scale" data-tt-scale="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
                 </div>
                 <div id="lngRatesBadge" class="kpi-badge" data-tooltip="Prompt 7-Year and 10-Year Time Charter rates and 174k m³ Newbuilding shipyard contract price">LNG 7Y TC: —</div>
               </div>
@@ -10712,8 +10712,8 @@
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Payback Period</div>
                 <div id="lngHudPaybackYears" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Current 174k m³ LNG Carrier Newbuilding Shipyard Contract Price" data-tt-type="lng-nb-price">
-                <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">174k Shipyard Price</div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Current Newbuilding Shipyard Contract Price" data-tt-type="lng-nb-price">
+                <div id="lngHudNbLabel" style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">174k Shipyard Price</div>
                 <div id="lngHudNbPrice" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
               </div>
             </div>
@@ -10748,13 +10748,13 @@
               <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="valSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="valSecCape" onclick="setValSector('cape')" data-tooltip="Capesize 180k DWT Dry Bulk Asset Valuation & Demolition Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
-                  <button class="toggle-btn" id="valSecPanama" onclick="setValSector('panama')" data-tooltip="Panamax / Kamsarmax 82k DWT Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
-                  <button class="toggle-btn" id="valSecSuprama" onclick="setValSector('suprama')" data-tooltip="Supramax / Ultramax 64k DWT Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
-                  <button class="toggle-btn" id="valSecHandy" onclick="setValSector('handysize')" data-tooltip="Handysize 38k DWT Dry Bulk Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
-                  <button class="toggle-btn" id="valSecVlcc" onclick="setValSector('vlcc')" data-tooltip="VLCC 300k DWT Crude Tanker Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="vlcc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">VLCC</button>
-                  <button class="toggle-btn" id="valSecSuez" onclick="setValSector('suezmax')" data-tooltip="Suezmax 160k DWT Crude Tanker Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="suezmax" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax</button>
-                  <button class="toggle-btn" id="valSecAfra" onclick="setValSector('aframax')" data-tooltip="Aframax 115k DWT Crude Tanker Asset Valuation & Scrap Floor" data-tt-type="concept-val-sec" data-tt-sec="aframax" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Aframax</button>
+                  <button class="toggle-btn active" id="valSecCape" onclick="setValSector('cape')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
+                  <button class="toggle-btn" id="valSecPanama" onclick="setValSector('panama')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="panama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
+                  <button class="toggle-btn" id="valSecSuprama" onclick="setValSector('suprama')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="suprama" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax</button>
+                  <button class="toggle-btn" id="valSecHandy" onclick="setValSector('handysize')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="handysize" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize</button>
+                  <button class="toggle-btn" id="valSecVlcc" onclick="setValSector('vlcc')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="vlcc" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">VLCC</button>
+                  <button class="toggle-btn" id="valSecSuez" onclick="setValSector('suezmax')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="suezmax" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax</button>
+                  <button class="toggle-btn" id="valSecAfra" onclick="setValSector('aframax')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="aframax" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Aframax</button>
                 </div>
                 <div id="valuationModeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="valMode10y" onclick="setValuationMode('10y')" data-tooltip=" " data-tt-type="concept-val-mode" data-tt-mode="10y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y Asset Value</button>
@@ -10803,10 +10803,10 @@
               <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="quadrantGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip="Dry Bulk Fleet (Capesize, Panamax, Supramax, Handysize)" data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
-                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip="Crude Tankers (VLCC, Suezmax, Aframax)" data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
-                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip="Product Tankers (LR2, LR1, MR Clean)" data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
-                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip="Cross-Sector Macro Benchmark Overview" data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
+                  <button class="toggle-btn active" id="quadGrpDry" onclick="setQuadrantGroup('dry')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk</button>
+                  <button class="toggle-btn" id="quadGrpCrude" onclick="setQuadrantGroup('crude')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="crude" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Tankers</button>
+                  <button class="toggle-btn" id="quadGrpProduct" onclick="setQuadrantGroup('product')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="product" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Product Tankers</button>
+                  <button class="toggle-btn" id="quadGrpAll" onclick="setQuadrantGroup('all')" data-tooltip=" " data-tt-type="concept-quad-grp" data-tt-grp="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fleet Overview</button>
                 </div>
               </div>
             </div>
@@ -11990,10 +11990,23 @@ if (intelTabsContainer) {
 
         const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
           DATA.blpg = r.map(row => {
-            const d = parseDate(row.Date);
-            const val = parseFloat(row.Index);
-            return { date: d, dateStr: d ? fmtDate(d) : row.Date, index: isNaN(val) ? null : val };
-          }).filter(row => row.date != null);
+            const rawDate = (row.Date || row.date || '').trim();
+            let d = null;
+            if (rawDate) {
+              if (rawDate.includes('-') && rawDate.split('-')[0].length === 4) {
+                d = parseDateISO(rawDate);
+              } else {
+                d = parseDate(rawDate);
+              }
+            }
+            const val = parseFloat(row.Index || row.index || row.blpg || row.close || row.Close);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              blpg: isNaN(val) ? null : val,
+              index: isNaN(val) ? null : val
+            };
+          }).filter(row => row.date != null && row.blpg != null);
         });
 
         const sgxFiles = {
@@ -18796,8 +18809,30 @@ if (intelTabsContainer) {
       const datasets = [];
 
       const latest = rows[rows.length - 1];
-      const latestTc = latest ? (latest.lngc_174k_10y_tc || latest.lngc_174k_7y_tc || 84500) : 84500;
-      const latestNb = latest ? (latest.lngc_80k_nb_price || 142.5) : 142.5;
+      let latestNb = 142.5;
+      let latestTc = 84500;
+      let nbLabelText = '174k Shipyard Price';
+
+      if (activeScale === '30k') {
+        latestNb = latest ? (latest.lngc_30k_nb_price || 87.0) : 87.0;
+        const refTc = latest ? (latest.lngc_174k_7y_tc || latest.lngc_174k_10y_tc || 81150) : 81150;
+        latestTc = Math.round(refTc * (latestNb / 142.5) * 0.90);
+        nbLabelText = '30k Mid-Scale Price';
+      } else if (activeScale === '7k') {
+        latestNb = latest ? (latest.lngc_7k_nb_price || 57.5) : 57.5;
+        const refTc = latest ? (latest.lngc_174k_7y_tc || latest.lngc_174k_10y_tc || 81150) : 81150;
+        latestTc = Math.round(refTc * (latestNb / 142.5) * 0.85);
+        nbLabelText = '7k Coastal Price';
+      } else if (activeScale === 'all') {
+        latestNb = latest ? (latest.lngc_80k_nb_price || 142.5) : 142.5;
+        latestTc = latest ? (latest.lngc_174k_10y_tc || latest.lngc_174k_7y_tc || 84500) : 84500;
+        nbLabelText = '174k Benchmark Price';
+      } else {
+        latestNb = latest ? (latest.lngc_80k_nb_price || 142.5) : 142.5;
+        latestTc = latest ? (latest.lngc_174k_10y_tc || latest.lngc_174k_7y_tc || 84500) : 84500;
+        nbLabelText = '174k Shipyard Price';
+      }
+
       const grossRevAnnual = latestTc * 365.25;
       const paybackYield = ((grossRevAnnual) / (latestNb * 1e6)) * 100;
       const paybackYears = (latestNb * 1e6) / grossRevAnnual;
@@ -18805,17 +18840,27 @@ if (intelTabsContainer) {
       const yieldEl = document.getElementById('lngHudPaybackYield');
       const yearsEl = document.getElementById('lngHudPaybackYears');
       const nbPriceEl = document.getElementById('lngHudNbPrice');
+      const nbLabelEl = document.getElementById('lngHudNbLabel');
       const badge = document.getElementById('lngRatesBadge');
 
       if (yieldEl) yieldEl.textContent = paybackYield.toFixed(1) + '% p.a.';
       if (yearsEl) yearsEl.textContent = paybackYears.toFixed(1) + ' Years';
       if (nbPriceEl) nbPriceEl.textContent = '$' + latestNb.toFixed(1) + 'M';
+      if (nbLabelEl) nbLabelEl.textContent = nbLabelText;
 
       if (badge && latest) {
-        if (latest.lngc_174k_7y_tc != null && latest.lngc_174k_10y_tc != null) {
-          badge.textContent = '174k 7Y: $' + (latest.lngc_174k_7y_tc / 1000).toFixed(0) + 'k/d | 10Y: $' + (latest.lngc_174k_10y_tc / 1000).toFixed(0) + 'k/d';
-        } else if (latest.lngc_80k_nb_price != null) {
-          badge.textContent = '174k NB: $' + latest.lngc_80k_nb_price.toFixed(1) + 'M';
+        if (activeScale === '30k') {
+          badge.textContent = '30k NB: $' + latestNb.toFixed(1) + 'M | Est Hire: $' + Math.round(latestTc / 1000) + 'k/d';
+        } else if (activeScale === '7k') {
+          badge.textContent = '7k NB: $' + latestNb.toFixed(1) + 'M | Est Hire: $' + Math.round(latestTc / 1000) + 'k/d';
+        } else if (activeScale === 'all') {
+          badge.textContent = '174k: $' + (latest.lngc_80k_nb_price || 142.5).toFixed(1) + 'M | 30k: $' + (latest.lngc_30k_nb_price || 87.0).toFixed(1) + 'M | 7k: $' + (latest.lngc_7k_nb_price || 57.5).toFixed(1) + 'M';
+        } else {
+          if (latest.lngc_174k_7y_tc != null && latest.lngc_174k_10y_tc != null) {
+            badge.textContent = '174k 7Y: $' + (latest.lngc_174k_7y_tc / 1000).toFixed(0) + 'k/d | 10Y: $' + (latest.lngc_174k_10y_tc / 1000).toFixed(0) + 'k/d';
+          } else if (latest.lngc_80k_nb_price != null) {
+            badge.textContent = '174k NB: $' + latest.lngc_80k_nb_price.toFixed(1) + 'M';
+          }
         }
       }
 
@@ -19712,20 +19757,42 @@ if (intelTabsContainer) {
       if (!canvas) return;
 
       const sectorClassMap = {
-        cape: { vc: 'Capesize', tenor: 'DRY-10', ldt: 24000, label: 'Capesize 180k', tcCol: 'capesize_1y_avg', scrapCol: 'dry_india', color: '#58a6ff' },
-        panama: { vc: 'Kamsarmax', tenor: 'DRY-10', ldt: 12000, label: 'Panamax / Kamsarmax', tcCol: 'panamax_1y_avg', scrapCol: 'dry_india', color: '#79c0ff' },
-        suprama: { vc: 'Ultramax', tenor: 'DRY-10', ldt: 9500, label: 'Supramax / Ultramax', tcCol: 'supramax_1y_avg', scrapCol: 'dry_india', color: '#3fb950' },
-        handysize: { vc: 'Handysize', tenor: 'DRY-10', ldt: 7500, label: 'Handysize 38k', tcCol: 'handysize_1y_avg', scrapCol: 'dry_india', color: '#bc8cff' },
-        vlcc: { vc: 'VLCC', tenor: 'WET-10', ldt: 40000, label: 'VLCC 300k', tcCol: 'vlcc_1y', scrapCol: 'tanker_india', color: '#ff7b72' },
-        suezmax: { vc: 'Suezmax', tenor: 'WET-10', ldt: 24000, label: 'Suezmax 160k', tcCol: 'suezmax_1y', scrapCol: 'tanker_india', color: '#f0883e' },
-        aframax: { vc: 'Aframax / LR2', tenor: 'WET-10', ldt: 16500, label: 'Aframax 115k', tcCol: 'aframax_1y', scrapCol: 'tanker_india', color: '#e3b341' }
+        cape: { vc: ['Capesize'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 24000, label: 'Capesize 180k', tcCol: 'capesize_1y_avg', scrapCol: 'dry_india', color: '#58a6ff' },
+        panama: { vc: ['Kamsarmax', 'Panamax'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 12000, label: 'Panamax / Kamsarmax', tcCol: 'panamax_1y_avg', scrapCol: 'dry_india', color: '#79c0ff' },
+        suprama: { vc: ['Ultramax', 'Supramax'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 9500, label: 'Supramax / Ultramax', tcCol: 'supramax_1y_avg', scrapCol: 'dry_india', color: '#3fb950' },
+        handysize: { vc: ['Handysize'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN', 'DRY-5'], ldt: 7500, label: 'Handysize 38k', tcCol: 'handysize_1y_avg', scrapCol: 'dry_india', color: '#bc8cff' },
+        vlcc: { vc: ['VLCC'], tenor: ['WET-10'], ldt: 40000, label: 'VLCC 300k', tcCol: 'vlcc_1y', scrapCol: 'tanker_india', color: '#ff7b72' },
+        suezmax: { vc: ['Suezmax'], tenor: ['WET-10'], ldt: 24000, label: 'Suezmax 160k', tcCol: 'suezmax_1y', scrapCol: 'tanker_india', color: '#f0883e' },
+        aframax: { vc: ['Aframax', 'Aframax / LR2'], tenor: ['WET-10'], ldt: 16500, label: 'Aframax 115k', tcCol: 'aframax_1y', scrapCol: 'tanker_india', color: '#e3b341' }
       };
 
       const activeSector = window.valSector || (sectorClassMap[productKey] ? productKey : 'cape');
       const cfg = sectorClassMap[activeSector] || sectorClassMap.cape;
       const mode = window.valuationViewMode || '10y';
 
-      const valRows = (DATA.vesselValuations || []).filter(r => r.vessel_class === cfg.vc && r.tenor === cfg.tenor);
+      const rawValRows = (DATA.vesselValuations || []).filter(r => {
+        const vcMatch = cfg.vc.some(v => (r.vessel_class || '').includes(v));
+        const tenorMatch = cfg.tenor.some(t => ((r.tenor_type || r.tenor || '').includes(t)));
+        const hasVal = (r.valuation_usd_m != null && !isNaN(r.valuation_usd_m)) || (r.asset_value != null && !isNaN(r.asset_value));
+        return vcMatch && tenorMatch && hasVal;
+      });
+
+      // Group valuations by dateStr to compute average asset value across regional build types
+      const valByDate = {};
+      rawValRows.forEach(r => {
+        const ds = r.dateStr || fmtDate(r.date);
+        const val = r.valuation_usd_m != null ? r.valuation_usd_m : r.asset_value;
+        if (!valByDate[ds]) {
+          valByDate[ds] = { date: r.date, dateStr: ds, vals: [] };
+        }
+        valByDate[ds].vals.push(val);
+      });
+
+      const valRows = Object.values(valByDate).map(obj => {
+        const avg = obj.vals.reduce((a, b) => a + b, 0) / obj.vals.length;
+        return { date: obj.date, dateStr: obj.dateStr, assetVal: avg };
+      }).sort((a, b) => a.date - b.date);
+
       const scrapRows = DATA.scrappagePrices || [];
       const tcRows = DATA.timeCharterRates || [];
 
@@ -19758,7 +19825,7 @@ if (intelTabsContainer) {
 
         const scrapPerLdt = scrapRow ? (scrapRow[cfg.scrapCol] || scrapRow.dry_india || scrapRow.tanker_india || 480) : 480;
         const scrapFloorM = (cfg.ldt * scrapPerLdt) / 1e6;
-        const assetValM = vr.asset_value || null;
+        const assetValM = vr.assetVal;
         const safetyMarginPct = (assetValM != null && assetValM > 0) ? ((assetValM - scrapFloorM) / assetValM) * 100 : null;
         const charterYieldPct = (assetValM != null && assetValM > 0 && tcRate != null && tcRate > 0) ? ((tcRate * 365.25) / (assetValM * 1e6)) * 100 : null;
 
@@ -27920,12 +27987,75 @@ if (intelTabsContainer) {
           html += `<div class="rt-row"><span class="rt-label">Benchmark</span><span class="rt-val">10-Year Median Quadrant Duration (historical)</span></div>`;
           html += `<div class="rt-note">Shipping market cycles typically span: BOOM ~8–24 months, OVER-ORDERING ~12–36 months, RECOVERY ~6–18 months, RESTRUCTURING ~12–30 months. Extended duration vs the median increases mean-reversion probability.</div>`;
         }
-        else if (type === 'cycle-sector-overlay') {
-          html = `<div class="rt-title">Market Cycle Sector Overlay</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Dry Bulk</span><span class="rt-val">BDI / Capesize / Panamax / Supramax position</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Crude Tankers</span><span class="rt-val">BDTI / VLCC / Suezmax / Aframax position</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Product Tankers</span><span class="rt-val">BCTI / LR2 / MR position</span></div>`;
-          html += `<div class="rt-note">Different shipping sectors can occupy different phases of the cycle simultaneously. Cross-sector divergence creates relative value portfolio opportunities.</div>`;
+        else if (type === 'concept-lng-scale' || type === 'lng-scale-selector') {
+          const scale = target.getAttribute('data-tt-scale') || '174k';
+          const info = {
+            '174k': {name:'174,000 m³ Large LNG Carrier', trade:'Qatar → Japan/Korea/Europe, US Gulf → Asia (18–21 day passages)', nb:'$230–260M newbuilding (Hyundai, Daewoo, Samsung)', tc:'10Y TC benchmark: $80,000–110,000/day depending on market cycle', ldts:'~25,000 LDT — slow-steaming 19 knots, 2-stroke DFDE or X-DF propulsion', orderbook:'Dominant: ~70% of global LNG orderbook by CBM', note:'The 174k "TFDE" carrier is the global benchmark for inter-continental LNG trade. Spot charters are rare; the asset class is primarily financed via long-term oil-major or utility-backed time charters.'},
+            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'1Y TC benchmark: $30,000–50,000/day; thin liquidity', ldts:'~10,500 LDT — pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
+            '7k': {name:'7,000 m³ Small Coastal / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'Spot hire: $15,000–28,000/day; often proprietary or long-term utility-contracted', ldts:'~3,200 LDT — pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
+            'all': {name:'All LNG Fleet Scales — Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Weighted average NB price shown for 174k benchmark', tc:'Chart overlays all three tenor series for cross-scale relative value comparison', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics — from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
+          };
+          const v = info[scale] || info['174k'];
+          html = `<div class="rt-title">LNG Vessel Scale: ${v.name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Trade Route</span><span class="rt-val">${v.trade}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Newbuilding Cost</span><span class="rt-val">${v.nb}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Charter Rate</span><span class="rt-val">${v.tc}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Vessel Weight / Propulsion</span><span class="rt-val">${v.ldts}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Global Orderbook</span><span class="rt-val">${v.orderbook}</span></div>`;
+          html += `<div class="rt-note">${v.note}</div>`;
+        }
+        else if (type === 'concept-lpg-seg' || type === 'lpg-segment-selector') {
+          const seg = target.getAttribute('data-tt-seg') || 'vlgc';
+          const info = {
+            vlgc: {name:'VLGC — Very Large Gas Carrier (84,000 m³)', trade:'Ras Tanura / Houston → Chiba / Ningbo (19–24 day AG-Japan voyage)', cargo:'LPG (propane / butane), NH₃, PDH feedstock', nb:'$85–105M newbuilding (Hyundai, HHIC)', tc:'1Y TC benchmark: $30,000–80,000/day; highly volatile (seasonal heating + PDH arbitrage)', operators:'BW LPG, Dorian LPG, Avance Gas, Epic Gas', note:'The VLGC is the freight benchmark for the global LPG trade. Rates are driven by the propane price arb between the US Gulf and the Far East, plus South Korean / Chinese PDH feedstock demand cycles.'},
+            mgc: {name:'MGC — Midsize Gas Carrier (35,000–40,000 m³)', trade:'Regional distribution: Med, Baltic, West Africa, Far East coastal', cargo:'LPG, butadiene, propylene, chemical gases', nb:'$55–70M newbuilding', tc:'1Y TC: $18,000–38,000/day; relatively stable vs VLGC', operators:'Stolt-Nielsen Gas, UASC, Hafnia Gas, BW Gas', note:'MGC vessels bridge the gap between large inter-continental VLGC trade and small-scale distribution. They serve regional terminals too small for VLGC berthing windows and chemical gas speciality trades.'},
+            handy: {name:'Handy — Semi-Refrigerated Gas Carrier (12,000–22,000 m³)', trade:'Coastal Europe, Caribbean, North Africa, West Africa, SE Asia hub-to-spoke', cargo:'LPG, ethylene, propylene, butadiene, vinyl chloride monomer (VCM)', nb:'$35–55M (Sinopacific, Dae Sun)', tc:'1Y TC: $12,000–25,000/day; often on spot or short period', operators:'Evergas, Panagas, Navigator Gas, Ultragas', note:'Handy gas carriers are the workhorses of the petrochemical gas trade. Their semi-refrigerated flexibility allows carriage of multiple chemical gases impossible in fully pressurised vessels. Critical to specialty polymer / PE supply chains.'},
+            all: {name:'All LPG Fleet Segments — Composite Overlay', trade:'Full segment spectrum: VLGC inter-continental + MGC regional + Handy coastal/chemical', cargo:'LPG, ammonia, ethylene, propylene, chemical gases (all grades)', nb:'Weighted across fleet sizes — $35M (Handy) to $105M (VLGC)', tc:'Chart displays all three segment benchmarks simultaneously for spread analysis', operators:'BW LPG, Dorian LPG, Navigator Gas, Stolt-Nielsen Gas, Ultragas', note:'Cross-segment view reveals relative value: when VLGC rates spike on AG-Japan arb, mid-size MGC and Handy rates typically lag by 2–6 weeks as cargo redistribution follows the arb window.'}
+          };
+          const v = info[seg] || info['vlgc'];
+          html = `<div class="rt-title">LPG Segment: ${v.name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Trade Route</span><span class="rt-val">${v.trade}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Cargo Types</span><span class="rt-val">${v.cargo}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Newbuilding Cost</span><span class="rt-val">${v.nb}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Charter Rate Range</span><span class="rt-val">${v.tc}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Operators</span><span class="rt-val">${v.operators}</span></div>`;
+          html += `<div class="rt-note">${v.note}</div>`;
+        }
+        else if (type === 'concept-val-sec' || type === 'val-sector-selector') {
+          const sec = target.getAttribute('data-tt-sec') || target.getAttribute('data-tt-sector') || 'cape';
+          const info = {
+            cape: {name:'Capesize — 180,000 DWT Dry Bulk', ldt:'~24,000 LDT', scrap:'~$15–20M demolition floor (Bangladesh/Pakistan BreakUp)', sp:'$35–65M secondhand 10Y asset range', trade:'Iron ore (Brazil/Australia → China), coal (USA/Colombia → Asia)', tc:'1Y TC: $12,000–45,000/day', note:'Capesize assets trade at the highest leverage to commodity supercycles. Their large size limits port access to ~40 global ports, creating acute concentration risk to China steel demand and Vale / Rio Tinto shipment patterns.'},
+            panama: {name:'Panamax / Kamsarmax — 75,000–82,000 DWT Dry Bulk', ldt:'~12,000 LDT', scrap:'~$6–8M demolition floor', sp:'$18–38M secondhand range', trade:'Coal, grain, minor bulks — Americas, Black Sea, Pacific basin', tc:'1Y TC: $10,000–28,000/day', note:'Kamsarmax (82k) is the new Panama Canal–compatible benchmark. More versatile than Capesize with access to grain terminals and Great Lakes-range ports. Rate closely correlates with global thermal coal trade flows.'},
+            suprama: {name:'Supramax / Ultramax — 58,000–64,000 DWT Dry Bulk', ldt:'~9,500 LDT', scrap:'~$4.5–6M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment — critical in frontier markets and secondary ports.'},
+            handysize: {name:'Handysize — 28,000–40,000 DWT Dry Bulk', ldt:'~7,500 LDT', scrap:'~$3.5–5M demolition floor', sp:'$10–25M secondhand range', trade:'Steel, cement, agricultural cargoes, coastal short-haul, regional grain', tc:'1Y TC: $8,000–20,000/day', note:'Handysize vessels are the smallest ocean-going bulk carriers. They provide the "last mile" of dry bulk logistics, accessing minor ports with draft restrictions and serving regional commodity distribution hubs.'},
+            vlcc: {name:'VLCC — Very Large Crude Carrier (300,000–320,000 DWT)', ldt:'~40,000 LDT', scrap:'~$19–25M demolition floor', sp:'$70–140M secondhand range', trade:'AG Gulf → Asia (Hormuz), West Africa → Asia, USG → Asia (post Panama expansion)', tc:'1Y TC: $28,000–110,000/day (highly volatile)', note:'The VLCC is the defining asset of the global crude oil supply chain. Rates are driven by OPEC production policy, AG–Asia arb windows, US crude export growth, and geopolitical chokepoint disruptions (Hormuz, Cape of Good Hope routing).'},
+            suezmax: {name:'Suezmax — 155,000–160,000 DWT Crude Tanker', ldt:'~24,000 LDT', scrap:'~$11–15M demolition floor', sp:'$45–90M secondhand range', trade:'West Africa → Europe/US East Coast, Black Sea / Med, North Sea Loadings', tc:'1Y TC: $22,000–75,000/day', note:'The Suezmax is the largest vessel that can transit the Suez Canal laden. Critical for West Africa – Europe flows and Black Sea crude exports. Rate volatility is strongly linked to Russian crude rerouting post-2022.'},
+            aframax: {name:'Aframax — 80,000–120,000 DWT Crude Tanker', ldt:'~16,500 LDT', scrap:'~$8–11M demolition floor', sp:'$30–70M secondhand range', trade:'Baltic, North Sea, Caribbean, East of Suez regional, South East Asia', tc:'1Y TC: $18,000–60,000/day', note:'The Aframax is the workhorse of regional crude trade. It dominates Baltic loadings (Primorsk, Ust-Luga), North Sea Sullom Voe operations, and the Caribbean / Gulf of Mexico shuttle market. The LR2 product tanker shares the same hull platform.'}
+          };
+          const v = info[sec] || info['cape'];
+          html = `<div class="rt-title">Vessel Asset Class: ${v.name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Light Ship Tonnes (LDT)</span><span class="rt-val">${v.ldt}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Demolition Scrap Floor</span><span class="rt-val">${v.scrap}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Secondhand S&amp;P Range</span><span class="rt-val">${v.sp}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Primary Trade</span><span class="rt-val">${v.trade}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">1Y TC Rate Range</span><span class="rt-val">${v.tc}</span></div>`;
+          html += `<div class="rt-note">${v.note}</div>`;
+        }
+        else if (type === 'concept-quad-grp' || type === 'cycle-sector-overlay') {
+          const grp = target.getAttribute('data-tt-grp') || 'dry';
+          const info = {
+            dry: {name:'Dry Bulk Fleet', indices:'BDI (Capesize C5TC + Panamax P5TC + Supramax S10 + Handysize BHSI)', assets:'Capesize 180k, Kamsarmax 82k, Ultramax 64k, Handysize 38k', drivers:'China steel / iron ore demand, Pacific coal trade, global grain flows, minor bulk capex cycles', cycle:'BDI cycle history: Trough ~2016 (290), Super-cycle peak 2021 (5,650), Post-normalisation 1,500–2,500', note:'The dry bulk cycle is driven by bulk commodity demand growth vs fleet supply response lag (typically 2–3 year newbuilding delivery cycle). The BDI is a real-time proxy for world trade in physical goods.'},
+            crude: {name:'Crude Tanker Fleet', indices:'BDTI (Baltic Dirty Tanker Index): TD3C VLCC + TD20 Suezmax + TD7 Aframax composites', assets:'VLCC 320k DWT, Suezmax 160k DWT, Aframax 115k DWT', drivers:'OPEC+ production cuts/increases, US crude export growth, Russia crude rerouting (Cape vs Suez), refinery complexity', cycle:'VLCC spike events: 2020 floating storage ($150k+/day), 2023 shadow fleet surge, geopolitical disruption premium', note:'Crude tanker rates exhibit extreme spot volatility driven by cargo concentration (large lot sizes) and geopolitical supply disruptions. OPEC curtailments reduce tonne-mile demand; disruptions spike rates.'},
+            product: {name:'Product Tanker Fleet', indices:'BCTI (Baltic Clean Tanker Index): TC1 LR2 + TC5 LR1 + TC7 MR composites', assets:'LR2 115k DWT, LR1 75k DWT, MR 50k DWT, Handy 37k DWT', drivers:'Refinery dislocation (East vs West margins), IMO 2020 fuel switching, Russian product embargo flows, petrochemical naphtha trade', cycle:'2022–2023 super-cycle driven by Russia product ban + European refinery closures displacing trade to Middle East / India', note:'Product tanker rates lead crude tanker cycles by 3–6 months as refined product demand signals precede crude lift adjustments. IMO 2020 and Russian sanctions fundamentally restructured global clean product trade flows.'},
+            all: {name:'Cross-Sector Fleet Overview (Dry + Crude + Clean)', indices:'BDI + BDTI + BCTI composite positioning', assets:'Full shipping fleet: dry bulk, crude tankers, product tankers plotted simultaneously', drivers:'Macro global trade, energy commodity demand, geopolitical risk premium, tonnage supply cycles', cycle:'Cross-sector cycles rarely synchronise — provides relative value (long dry bulk / short crude or vice versa) positioning signals', note:'Viewing all three sectors simultaneously reveals inter-market correlations and divergences. Dry bulk leads crude by ~6–9 months at cycle turns as physical commodity trade anticipates energy demand shifts.'}
+          };
+          const v = info[grp] || info['dry'];
+          html = `<div class="rt-title">Market Cycle Overlay: ${v.name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Indices</span><span class="rt-val">${v.indices}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Asset Classes</span><span class="rt-val">${v.assets}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Primary Rate Drivers</span><span class="rt-val">${v.drivers}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Historical Cycle Range</span><span class="rt-val">${v.cycle}</span></div>`;
+          html += `<div class="rt-note">${v.note}</div>`;
         }
 
         // ── PILLAR 2: ETF Deconstruction & Basis ────────────────────────────────
