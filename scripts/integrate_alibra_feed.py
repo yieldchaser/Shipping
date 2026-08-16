@@ -291,6 +291,11 @@ def main():
     print("=== RUNNING ALIBRA FEED INTEGRATION ===")
     integrate_historical_time_charter()
     integrate_tanker_forward_curves()
+    try:
+        import build_alibra_tce_matrix
+        build_alibra_tce_matrix.generate_tce_matrix_json()
+    except Exception as _e:
+        print(f"[WARN] build_alibra_tce_matrix failed: {_e}")
     print("=== INTEGRATION COMPLETED SUCCESSFULLY ===")
 
 if __name__ == "__main__":

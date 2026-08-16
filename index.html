@@ -10034,6 +10034,12 @@
                   <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip="5-Year: 5-Year Long-Term Time Charter period rate (Eco/Scrubber fitted)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
                   <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip="All Tenors (Term Structure): Overlays all available period horizons (4/6M, 1Y, 2Y, 3Y, 5Y) alongside Spot" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
                 </div>
+                <div id="tcBasinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="tcBasinAvg" onclick="setTcBasin('avg')" data-tooltip="Global Blended Rate: Mean of Atlantic & Pacific" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Global</button>
+                  <button class="toggle-btn" id="tcBasinAtl" onclick="setTcBasin('atl')" data-tooltip="Atlantic Basin Time Charter Rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic</button>
+                  <button class="toggle-btn" id="tcBasinPac" onclick="setTcBasin('pac')" data-tooltip="Pacific Basin Time Charter Rate" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific</button>
+                  <button class="toggle-btn" id="tcBasinBoth" onclick="setTcBasin('both')" data-tooltip="Dual Overlay: Show Atlantic (cyan) & Pacific (orange) together" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+                </div>
                 <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip="Merged Series: Combines Fearnleys (2000-2021) and Alibra OCR (2021-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
                   <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip="Single Source: Pure Fearnleys Hasura GraphQL dataset (2000-present)" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
@@ -10055,6 +10061,21 @@
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
+          </div>
+
+          <!-- Live Period TCE Rate Matrix Heatmap Table -->
+          <div class="chart-container mb-20" id="tceMatrixContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="tceMatrixTitle" data-tooltip="Live Institutional Period TCE Rate Matrix — weekly benchmark rates across all Dry Bulk (Atl/Pac) and Tanker classes with color-coded week-on-week changes." data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
+                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
+                </div>
+                <div id="tceMatrixDateBadge" class="kpi-badge">Report Date: —</div>
+              </div>
+            </div>
+            <div id="tceMatrixTableWrap" style="overflow-x:auto;margin-top:10px;"></div>
           </div>
 
           <!-- Tanker 22-Month Forward Curves & Eco Spreads -->
@@ -10115,7 +10136,14 @@
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
               <div class="chart-title" id="restockingTitle" data-tooltip="Port Stocks vs Freight Spot — tracks relationship between China Qingdao iron ore inventories, CFR 62% ore prices, and Capesize spot rates. Low port inventories combined with high steel margins signal aggressive restocking demand." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
-              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
+                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
+                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
+                </div>
+                <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
+              </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
               <div class="index-range-label">
@@ -10155,6 +10183,34 @@
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="lpgFreightChart"></canvas></div>
+          </div>
+
+          <!-- LNG Carrier 7Y/10Y Long-Term Period Rates & Newbuilding Asset Values -->
+          <div class="chart-container mb-20" id="lngCharterContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="lngCharterTitle" data-tooltip="LNG Carrier Long-Term Period Rates & Newbuilding Prices — tracks 7-Year and 10-Year Time Charter rates for modern 174k m³ LNG carriers ($/day) against shipyard newbuilding prices ($M) from 2017 to present." data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="lngSeriesToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="lngBtn7y" onclick="setLngSeries('7y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">7-Year TC</button>
+                  <button class="toggle-btn" id="lngBtn10y" onclick="setLngSeries('10y')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">10-Year TC</button>
+                  <button class="toggle-btn" id="lngBtnNb" onclick="setLngSeries('nb')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newbuilding $M</button>
+                  <button class="toggle-btn" id="lngBtnAll" onclick="setLngSeries('all')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Series</button>
+                </div>
+                <div id="lngRatesBadge" class="kpi-badge">LNG 7Y TC: —</div>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="lngRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="lngRangeTrack">
+                <div class="dual-range-fill" id="lngRangeFill"></div>
+                <input type="range" id="lngRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="lngRangeEnd" min="0" max="100" value="100" step="1">
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="lngCharterChart"></canvas></div>
           </div>
         </div>
       </div>
@@ -16543,10 +16599,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       } else if (sectionId === 'signals-sec-physical') {
         fns = [
           function () { renderTimeCharterChart(productKey); },
+          function () { renderTCEMatrixTable(); },
           function () { renderTankerForwardChart(); },
           function () { renderBasinSpreadChart(productKey); },
           function () { renderIronOreRestockingChart(productKey); },
           function () { renderLPGFreightChart(productKey); },
+          function () { renderLNGCharterChart(productKey); },
         ];
       } else if (sectionId === 'signals-sec-capital') {
         fns = [
@@ -16768,9 +16826,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       let spotKey = 'cape';
-      let tc4_6mCol = 'capesize_4_6m_avg';
-      let tc1yCol = 'capesize_1y_avg';
-      let tc2yCol = 'capesize_2y_avg';
+      const basin = window.tcBasin || 'avg';
+      const isDrySector = ['cape', 'panama', 'suprama', 'handysize', 'bdiy', 'bdry_spot', 'bdry', 'bdryff'].includes(productKey);
+      const tcBasinToggle = document.getElementById('tcBasinToggle');
+      if (tcBasinToggle) {
+        tcBasinToggle.style.display = isDrySector ? 'inline-flex' : 'none';
+      }
+
+      let tc4_6mCol = basin === 'atl' ? 'capesize_4_6m_atl' : (basin === 'pac' ? 'capesize_4_6m_pac' : 'capesize_4_6m_avg');
+      let tc1yCol = basin === 'atl' ? 'capesize_1y_atl' : (basin === 'pac' ? 'capesize_1y_pac' : 'capesize_1y_avg');
+      let tc2yCol = basin === 'atl' ? 'capesize_2y_atl' : (basin === 'pac' ? 'capesize_2y_pac' : 'capesize_2y_avg');
       let tc3yCol = null;
       let tc5yCol = null;
       let intermodal1yCol = 'capesize_1y_tc';
@@ -16787,25 +16852,25 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         labelPrefix = productKey === 'bdiy' ? 'BDI' : (productKey === 'bdry_spot' ? 'BDRY Spot' : (productKey === 'bdry' ? 'BDRY' : 'BDRYFF'));
       } else if (productKey === 'panama') {
         spotKey = 'panama';
-        tc4_6mCol = 'panamax_4_6m_avg';
-        tc1yCol = 'panamax_1y_avg';
-        tc2yCol = 'panamax_2y_avg';
+        tc4_6mCol = basin === 'atl' ? 'panamax_4_6m_atl' : (basin === 'pac' ? 'panamax_4_6m_pac' : 'panamax_4_6m_avg');
+        tc1yCol = basin === 'atl' ? 'panamax_1y_atl' : (basin === 'pac' ? 'panamax_1y_pac' : 'panamax_1y_avg');
+        tc2yCol = basin === 'atl' ? 'panamax_2y_atl' : (basin === 'pac' ? 'panamax_2y_pac' : 'panamax_2y_avg');
         intermodal1yCol = 'panamax_1y_tc';
         intermodal3yCol = 'panamax_3y_tc';
         labelPrefix = 'Panamax';
       } else if (productKey === 'suprama') {
         spotKey = 'suprama';
-        tc4_6mCol = 'supramax_4_6m_avg';
-        tc1yCol = 'supramax_1y_avg';
-        tc2yCol = 'supramax_2y_avg';
+        tc4_6mCol = basin === 'atl' ? 'supramax_4_6m_atl' : (basin === 'pac' ? 'supramax_4_6m_pac' : 'supramax_4_6m_avg');
+        tc1yCol = basin === 'atl' ? 'supramax_1y_atl' : (basin === 'pac' ? 'supramax_1y_pac' : 'supramax_1y_avg');
+        tc2yCol = basin === 'atl' ? 'supramax_2y_atl' : (basin === 'pac' ? 'supramax_2y_pac' : 'supramax_2y_avg');
         intermodal1yCol = 'supramax_1y_tc';
         intermodal3yCol = 'supramax_3y_tc';
         labelPrefix = 'Supramax';
       } else if (productKey === 'handysize') {
         spotKey = 'handysize';
-        tc4_6mCol = 'handysize_4_6m_avg';
-        tc1yCol = 'handysize_1y_avg';
-        tc2yCol = 'handysize_2y_avg';
+        tc4_6mCol = basin === 'atl' ? 'handysize_4_6m_atl' : (basin === 'pac' ? 'handysize_4_6m_pac' : 'handysize_4_6m_avg');
+        tc1yCol = basin === 'atl' ? 'handysize_1y_atl' : (basin === 'pac' ? 'handysize_1y_pac' : 'handysize_1y_avg');
+        tc2yCol = basin === 'atl' ? 'handysize_2y_atl' : (basin === 'pac' ? 'handysize_2y_pac' : 'handysize_2y_avg');
         intermodal1yCol = 'handysize_1y_tc';
         intermodal3yCol = 'handysize_3y_tc';
         labelPrefix = 'Handysize';
@@ -17290,7 +17355,322 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
     }
 
-    function renderBasinSpreadChart(productKey, canvasId) {
+
+    // =========================================================================
+    // TC BASIN TOGGLE STATE & HANDLER
+    // =========================================================================
+    window.tcBasin = window.tcBasin || 'avg';
+    window.setTcBasin = function(basin) {
+      window.tcBasin = basin;
+      ['avg', 'atl', 'pac', 'both'].forEach(function(b) {
+        const btn = document.getElementById('tcBasin' + (b.charAt(0).toUpperCase() + b.slice(1)));
+        if (btn) {
+          if (b === basin) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderTimeCharterChart(window.currentProduct || 'cape');
+    };
+
+    // =========================================================================
+    // ORE GRADE TOGGLE STATE & HANDLER
+    // =========================================================================
+    window.oreGrade = window.oreGrade || '62';
+    window.setOreGrade = function(grade) {
+      window.oreGrade = grade;
+      ['62', '65', 'steel'].forEach(function(g) {
+        const btn = document.getElementById('oreBtn' + (g === 'steel' ? 'Steel' : g));
+        if (btn) {
+          if (g === grade) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderIronOreRestockingChart(window.currentProduct || 'cape');
+    };
+
+    // =========================================================================
+    // LNG SERIES TOGGLE STATE & HANDLER
+    // =========================================================================
+    window.lngSeries = window.lngSeries || '7y';
+    window.setLngSeries = function(series) {
+      window.lngSeries = series;
+      ['7y', '10y', 'nb', 'all'].forEach(function(s) {
+        const btn = document.getElementById('lngBtn' + (s.charAt(0).toUpperCase() + s.slice(1)));
+        if (btn) {
+          if (s === series) {
+            btn.style.background = 'var(--accent)';
+            btn.style.color = '#fff';
+          } else {
+            btn.style.background = 'var(--card)';
+            btn.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderLNGCharterChart(window.currentProduct || 'cape');
+    };
+
+    // =========================================================================
+    // TCE MATRIX TAB TOGGLE & TABLE RENDERER
+    // =========================================================================
+    window.tceTab = window.tceTab || 'dry';
+    window.setTceTab = function(tab) {
+      window.tceTab = tab;
+      const btnDry = document.getElementById('tceTabDry');
+      const btnWet = document.getElementById('tceTabWet');
+      if (btnDry && btnWet) {
+        if (tab === 'dry') {
+          btnDry.style.background = 'var(--accent)'; btnDry.style.color = '#fff';
+          btnWet.style.background = 'var(--card)'; btnWet.style.color = 'var(--text-muted)';
+        } else {
+          btnWet.style.background = 'var(--accent)'; btnWet.style.color = '#fff';
+          btnDry.style.background = 'var(--card)'; btnDry.style.color = 'var(--text-muted)';
+        }
+      }
+      renderTCEMatrixTable();
+    };
+
+    function renderTCEMatrixTable() {
+      const container = document.getElementById('tceMatrixContainer');
+      const wrap = document.getElementById('tceMatrixTableWrap');
+      const dateBadge = document.getElementById('tceMatrixDateBadge');
+      if (!container || !wrap) return;
+
+      const matrix = DATA.tceMatrix;
+      if (!matrix) {
+        // Fallback: build matrix on the fly if needed
+        return;
+      }
+
+      if (dateBadge && matrix.report_date) {
+        dateBadge.textContent = 'Report Date: ' + matrix.report_date;
+      }
+
+      const activeTab = window.tceTab || 'dry';
+      let html = '';
+
+      function renderChange(val) {
+        if (val == null || isNaN(val) || val === 0) return '<span style="color:var(--text-muted);font-size:11px;">—</span>';
+        const isPos = val > 0;
+        const color = isPos ? '#3fb950' : '#f85149';
+        const sign = isPos ? '+' : '';
+        return `<span style="color:${color};font-weight:600;font-size:11px;background:${isPos ? 'rgba(63,185,80,0.1)' : 'rgba(248,81,73,0.1)'};padding:2px 5px;border-radius:3px;">${sign}${val}%</span>`;
+      }
+
+      function fmtRate(v) {
+        if (v == null || isNaN(v) || v === 0) return '—';
+        return '$' + Math.round(v).toLocaleString() + '/d';
+      }
+
+      if (activeTab === 'dry') {
+        const rows = matrix.dry_bulk || [];
+        html = `<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
+          <thead>
+            <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
+              <th style="text-align:left;padding:8px 10px;">Vessel Sector</th>
+              <th style="padding:8px 10px;">6M Atlantic</th>
+              <th style="padding:8px 10px;">6M Pacific</th>
+              <th style="padding:8px 10px;">1Y Atlantic</th>
+              <th style="padding:8px 10px;">1Y Pacific</th>
+              <th style="padding:8px 10px;">2Y Atlantic</th>
+              <th style="padding:8px 10px;">2Y Pacific</th>
+            </tr>
+          </thead>
+          <tbody>`;
+        rows.forEach(r => {
+          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">
+            <td style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);">${r.size}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_6m_atl)} ${renderChange(r.chg_6m_atl)}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_6m_pac)} ${renderChange(r.chg_6m_pac)}</td>
+            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y_atl)} ${renderChange(r.chg_1y_atl)}</td>
+            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y_pac)} ${renderChange(r.chg_1y_pac)}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_2y_atl)} ${renderChange(r.chg_2y_atl)}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_2y_pac)} ${renderChange(r.chg_2y_pac)}</td>
+          </tr>`;
+        });
+        html += `</tbody></table>`;
+      } else {
+        const rows = matrix.tankers || [];
+        html = `<table class="kpi-table" style="width:100%;border-collapse:collapse;font-size:12px;text-align:right;">
+          <thead>
+            <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">
+              <th style="text-align:left;padding:8px 10px;">Tanker Class</th>
+              <th style="padding:8px 10px;">1-Year Period</th>
+              <th style="padding:8px 10px;">2-Year Period</th>
+              <th style="padding:8px 10px;">3-Year Period</th>
+              <th style="padding:8px 10px;">5-Year Long Term</th>
+            </tr>
+          </thead>
+          <tbody>`;
+        rows.forEach(r => {
+          html += `<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">
+            <td style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);">${r.size}</td>
+            <td style="padding:8px 10px;font-weight:600;">${fmtRate(r.rate_1y)} ${renderChange(r.chg_1y)}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_2y)} ${renderChange(r.chg_2y)}</td>
+            <td style="padding:8px 10px;">${fmtRate(r.rate_3y)} ${renderChange(r.chg_3y)}</td>
+            <td style="padding:8px 10px;color:var(--accent);font-weight:600;">${fmtRate(r.rate_5y)} ${renderChange(r.chg_5y)}</td>
+          </tr>`;
+        });
+        html += `</tbody></table>`;
+      }
+
+      wrap.innerHTML = html;
+    }
+
+    // =========================================================================
+    // LNG CHARTER RATES & NEWBUILDING ASSET VALUES CHART
+    // =========================================================================
+    function renderLNGCharterChart(productKey) {
+      const container = document.getElementById('lngCharterContainer');
+      const canvas = document.getElementById('lngCharterChart');
+      if (!canvas || !container) return;
+
+      const lngRows = DATA.lngCharter || [];
+      if (!lngRows.length) {
+        container.style.display = 'none';
+        return;
+      }
+      container.style.display = '';
+
+      initDualRangeSlider('lngRange', lngRows, function(isManual) { if (isManual) renderLNGCharterChart(productKey); });
+      const sEl = document.getElementById('lngRangeStart');
+      const eEl = document.getElementById('lngRangeEnd');
+      const s = sEl ? parseInt(sEl.value) : 0;
+      const e = eEl ? parseInt(eEl.value) : lngRows.length - 1;
+      const rows = lngRows.slice(s, e + 1);
+      if (!rows.length) return;
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const activeSeries = window.lngSeries || '7y';
+      const datasets = [];
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('lngRatesBadge');
+      if (badge && latest) {
+        if (latest.lngc_174k_7y_tc != null) {
+          badge.textContent = `LNG 7Y TC: $${(latest.lngc_174k_7y_tc / 1000).toFixed(1)}k/d | 10Y: $${(latest.lngc_174k_10y_tc / 1000).toFixed(1)}k/d`;
+        } else if (latest.lngc_80k_nb_price != null) {
+          badge.textContent = `174k NB: $${latest.lngc_80k_nb_price.toFixed(1)}M`;
+        }
+      }
+
+      if (activeSeries === '7y' || activeSeries === 'all') {
+        datasets.push({
+          label: 'LNG 174k 7Y TC ($/day)',
+          data: rows.map(r => r.lngc_174k_7y_tc),
+          borderColor: '#58a6ff',
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          pointRadius: 0,
+          yAxisID: 'yLeft',
+          tension: 0.1
+        });
+      }
+
+      if (activeSeries === '10y' || activeSeries === 'all') {
+        datasets.push({
+          label: 'LNG 174k 10Y TC ($/day)',
+          data: rows.map(r => r.lngc_174k_10y_tc),
+          borderColor: '#bc8cff',
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          borderDash: activeSeries === 'all' ? [4, 4] : [],
+          pointRadius: 0,
+          yAxisID: 'yLeft',
+          tension: 0.1
+        });
+      }
+
+      if (activeSeries === 'nb' || activeSeries === 'all') {
+        datasets.push({
+          label: '174k m³ Large LNG NB ($M)',
+          data: rows.map(r => r.lngc_80k_nb_price),
+          borderColor: '#e3b341',
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          pointRadius: 0,
+          yAxisID: activeSeries === 'all' ? 'yRight' : 'yLeft',
+          tension: 0.1
+        });
+        if (activeSeries === 'nb') {
+          datasets.push({
+            label: '30k m³ Mid-Scale LNG NB ($M)',
+            data: rows.map(r => r.lngc_30k_nb_price),
+            borderColor: '#f0883e',
+            backgroundColor: 'transparent',
+            borderWidth: 1.5,
+            borderDash: [3, 3],
+            pointRadius: 0,
+            yAxisID: 'yLeft',
+            tension: 0.1
+          });
+          datasets.push({
+            label: '7k m³ Small Coastal LNG NB ($M)',
+            data: rows.map(r => r.lngc_7k_nb_price),
+            borderColor: '#bc8cff',
+            backgroundColor: 'transparent',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            pointRadius: 0,
+            yAxisID: 'yLeft',
+            tension: 0.1
+          });
+        }
+      }
+
+      destroyChart('lngCharterChart');
+      updateOrCreateChart('lngCharterChart', canvas, {
+        type: 'line',
+        data: { labels: labels, datasets: datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: {
+              callbacks: {
+                label: function (c) {
+                  const val = c.parsed.y;
+                  if (val == null) return ' ' + c.dataset.label + ': —';
+                  if (c.dataset.yAxisID === 'yRight' || activeSeries === 'nb') {
+                    return ' ' + c.dataset.label + ': $' + val.toFixed(1) + 'M';
+                  }
+                  return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
+            yLeft: {
+              position: 'left',
+              grid: { color: '#151a22' },
+              ticks: { font: { size: 11 }, callback: v => activeSeries === 'nb' ? '$' + v + 'M' : '$' + Math.round(v).toLocaleString() },
+              title: { display: true, text: activeSeries === 'nb' ? 'Newbuilding Price ($M)' : 'Time Charter Rate ($/day)', color: '#8b949e', font: { size: 11 } }
+            },
+            yRight: {
+              display: activeSeries === 'all',
+              position: 'right',
+              grid: { drawOnChartArea: false },
+              ticks: { font: { size: 11 }, callback: v => '$' + v + 'M' },
+              title: { display: true, text: 'Asset Value ($M)', color: '#e3b341', font: { size: 11 } }
+            }
+          }
+        }
+      });
+    }
+
+        function renderBasinSpreadChart(productKey, canvasId) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'basinSpreadChart';
       const container = document.getElementById('basinSpreadContainer');
@@ -17804,15 +18184,34 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const spotLabel = PRODUCTS[spotKey] ? PRODUCTS[spotKey].label : spotKey;
 
+      const activeGrade = window.oreGrade || '62';
+      let ioDatasets = [];
+
+      if (activeGrade === 'steel') {
+        ioDatasets = [
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+          { label: 'China Monthly Crude Steel Output (MT, Right)', data: rows.map(r => r.steelProd), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+          { label: 'Steel Mill Warehouse Inventories (MT, Right)', data: rows.map(r => r.steelInv), yAxisID: 'yRight', borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false }
+        ];
+      } else if (activeGrade === '65') {
+        ioDatasets = [
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+          { label: 'CFR 65% Carajas Ore Price ($/dmt, Left)', data: rows.map(r => r.cfr65 || r.cfr62), yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, borderDash: [2, 2] },
+          { label: 'Port Inventory 65% (Right)', data: rows.map(r => r.portStock65 || r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+        ];
+      } else {
+        ioDatasets = [
+          { label: `${spotLabel} Spot ($/d, Left)`, data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
+          { label: 'CFR 62% Standard Ore ($/dmt, Left)', data: rows.map(r => r.cfr62), yAxisID: 'yLeft', borderColor: '#ff6b6b', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
+          { label: 'Qingdao Port Inventory (10k tons, Right)', data: rows.map(r => r.portStock62), yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
+        ];
+      }
+
       updateOrCreateChart(actualCanvasId, canvas, {
         type: 'line',
         data: {
           labels: labels,
-          datasets: [
-            { label: `${spotLabel} Spot (Left)`, data: spotSeries, yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-            { label: 'CFR 62% Iron Ore Price (Left)', data: cfr62Series, yAxisID: 'yLeft', borderColor: '#ff6b6b', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2] },
-            { label: 'Qingdao Port Inventory (Right)', data: portStockSeries, yAxisID: 'yRight', borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true }
-          ]
+          datasets: ioDatasets
         },
         options: {
           responsive: true, maintainAspectRatio: false,
@@ -18234,15 +18633,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         yLeftTitle = 'Vessel Valuation ($ Millions)';
         yLeftCallback = v => '$' + v.toFixed(0) + 'M';
       } else {
-        // scrap mode
         const isTanker = (activeKey === 'dirtytanker' || activeKey === 'cleantanker');
         const indiaScrap = rows.map(r => r[activeCfg.scrapCol]);
         const banglaScrap = rows.map(r => isTanker ? r.tanker_bangla : r.dry_bangla);
         const pakScrap = rows.map(r => isTanker ? r.tanker_pak : r.dry_pak);
+        const turkeyScrap = rows.map(r => r.dry_turkey);
+        const containerScrap = rows.map(r => r.container_india);
         chartDatasets = [
           { label: 'India Demolition ($/LDT, Left)', data: indiaScrap, yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, spanGaps: true },
           { label: 'Bangladesh Demolition ($/LDT, Left)', data: banglaScrap, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2], spanGaps: true },
           { label: 'Pakistan Demolition ($/LDT, Left)', data: pakScrap, yAxisID: 'yLeft', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [2, 2], spanGaps: true },
+          { label: 'Turkey Aliağa Demolition ($/LDT, Left)', data: turkeyScrap, yAxisID: 'yLeft', borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [4, 4], spanGaps: true },
+          { label: 'Container Ship Scrap ($/LDT, Left)', data: containerScrap, yAxisID: 'yLeft', borderColor: '#bc8cff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, borderDash: [4, 4], spanGaps: true },
           { label: `${activeCfg.label} Est Scrap Floor ($M, Right)`, data: scrapFloorSeries, yAxisID: 'yRight', borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.05)', borderWidth: 1.5, pointRadius: 0, fill: true, spanGaps: true }
         ];
         yLeftTitle = 'Demolition Price ($/LDT)';
@@ -24962,6 +25364,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           } else {
             html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a single sector to display cycle analysis.</div>`;
           }
+        }
+        else if (type === 'concept-lngtc') {
+          html = `<div class="rt-title">LNG Carrier Long-Term Period Rates & Assets</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>7Y & 10Y Period Charters</strong>: Due to extreme capital intensity ($250M+ per vessel) and long liquefaction project horizons, LNG carriers are leased on long multi-year contracts (7Y & 10Y TC).</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Newbuilding Pricing</strong>: Shipyard construction costs for 174k m³ LNG carriers reflect shipyard capacity tightness and cryogenic containment system demand.</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Toggle between 7-Year TC, 10-Year TC, and Newbuilding Asset Values.</div>`;
+        }
+        else if (type === 'concept-tcemap') {
+          html = `<div class="rt-title">Live Period TCE Rate Matrix</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Weekly Institutional Rates</strong>: Sourced directly from Alibra benchmark assessments across all dry bulk vessels (Atlantic vs Pacific) and crude/product tankers.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Momentum Signals</strong>: Green pills indicate positive week-on-week rate increases; red pills indicate contract concessions.</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Switch tabs to toggle between Dry Bulk and Tankers.</div>`;
         }
         else if (type === 'llm-provider-info') {
           const selectVal = (target.tagName === 'SELECT') ? target.value : (target.closest('.qa-key-row')?.querySelector('.qa-provider-select')?.value);

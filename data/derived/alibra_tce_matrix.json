@@ -1,0 +1,144 @@
+{
+  "report_date": "12/08/2026",
+  "dry_bulk": [
+    {
+      "size": "Handysize (38dwt)",
+      "rate_6m_atl": 21000.0,
+      "chg_6m_atl": 1.0,
+      "rate_1y_atl": 19000.0,
+      "chg_1y_atl": 12.0,
+      "rate_2y_atl": 17000.0,
+      "chg_2y_atl": 19.0,
+      "rate_6m_pac": 19000.0,
+      "chg_6m_pac": 5.0,
+      "rate_1y_pac": 15750.0,
+      "chg_1y_pac": 16.0,
+      "rate_2y_pac": 14500.0,
+      "chg_2y_pac": 22.0
+    },
+    {
+      "size": "Supramax / Ultramax",
+      "rate_6m_atl": 23250.0,
+      "chg_6m_atl": 1.0,
+      "rate_1y_atl": 20500.0,
+      "chg_1y_atl": 10.0,
+      "rate_2y_atl": 19000.0,
+      "chg_2y_atl": 18.0,
+      "rate_6m_pac": 22000.0,
+      "chg_6m_pac": 0.0,
+      "rate_1y_pac": 19500.0,
+      "chg_1y_pac": 11.0,
+      "rate_2y_pac": 18250.0,
+      "chg_2y_pac": 17.0
+    },
+    {
+      "size": "Panamax / Kamsarmax",
+      "rate_6m_atl": 23500.0,
+      "chg_6m_atl": -6.0,
+      "rate_1y_atl": 20500.0,
+      "chg_1y_atl": 11.0,
+      "rate_2y_atl": 17500.0,
+      "chg_2y_atl": 28.0,
+      "rate_6m_pac": 20000.0,
+      "chg_6m_pac": -25.0,
+      "rate_1y_pac": 18250.0,
+      "chg_1y_pac": 9.0,
+      "rate_2y_pac": 16000.0,
+      "chg_2y_pac": 20.0
+    },
+    {
+      "size": "Capesize",
+      "rate_6m_atl": 48500.0,
+      "chg_6m_atl": 0.0,
+      "rate_1y_atl": 37000.0,
+      "chg_1y_atl": 24.0,
+      "rate_2y_atl": 32500.0,
+      "chg_2y_atl": 33.0,
+      "rate_6m_pac": 33500.0,
+      "chg_6m_pac": 0.0,
+      "rate_1y_pac": 33000.0,
+      "chg_1y_pac": 4.0,
+      "rate_2y_pac": 30000.0,
+      "chg_2y_pac": 13.0
+    }
+  ],
+  "tankers": [
+    {
+      "size": "Handymax",
+      "rate_1y": 25000.0,
+      "chg_1y": 0.0,
+      "rate_2y": 21000.0,
+      "chg_2y": 0.0,
+      "rate_3y": 21500.0,
+      "chg_3y": 0.0,
+      "rate_5y": 19000.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "MR IMO3",
+      "rate_1y": 27000.0,
+      "chg_1y": 0.0,
+      "rate_2y": 24000.0,
+      "chg_2y": 0.0,
+      "rate_3y": 25000.0,
+      "chg_3y": 0.0,
+      "rate_5y": 22000.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "LR1",
+      "rate_1y": 36000.0,
+      "chg_1y": -7.0,
+      "rate_2y": 32500.0,
+      "chg_2y": 0.0,
+      "rate_3y": 30500.0,
+      "chg_3y": 0.0,
+      "rate_5y": 28500.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "LR2",
+      "rate_1y": 55500.0,
+      "chg_1y": 2.0,
+      "rate_2y": 39500.0,
+      "chg_2y": 0.0,
+      "rate_3y": 40000.0,
+      "chg_3y": 0.0,
+      "rate_5y": 37500.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "Aframax",
+      "rate_1y": 57500.0,
+      "chg_1y": 0.0,
+      "rate_2y": 41500.0,
+      "chg_2y": 7.0,
+      "rate_3y": 39000.0,
+      "chg_3y": 0.0,
+      "rate_5y": 36500.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "Suezmax",
+      "rate_1y": 75000.0,
+      "chg_1y": 0.0,
+      "rate_2y": 51500.0,
+      "chg_2y": 3.0,
+      "rate_3y": 47500.0,
+      "chg_3y": 0.0,
+      "rate_5y": 40000.0,
+      "chg_5y": 0.0
+    },
+    {
+      "size": "VLCC",
+      "rate_1y": 107500.0,
+      "chg_1y": 0.0,
+      "rate_2y": 80000.0,
+      "chg_2y": 6.0,
+      "rate_3y": 75000.0,
+      "chg_3y": 0.0,
+      "rate_5y": 55000.0,
+      "chg_5y": 0.0
+    }
+  ]
+}
