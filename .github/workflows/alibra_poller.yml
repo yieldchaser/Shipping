@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/alibra_data/ data/derived/time_charter_rates.csv data/derived/tanker_forward_curves.csv data/derived/tanker_forward_curves_history.csv
+          git add docs/alibra_data/ data/derived/time_charter_rates.csv data/derived/tanker_forward_curves.csv data/derived/tanker_forward_curves_history.csv data/derived/alibra_tce_matrix.json
           if git diff --staged --quiet; then
             echo "No new Alibra data or updates to commit."
             exit 0

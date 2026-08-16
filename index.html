@@ -18704,7 +18704,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const wrapper = canvas.parentNode;
         if (window.signalsViewMode === 'all') {
           const phaseTextEl = document.getElementById('quadrantPhaseText');
-          if (phaseTextEl) phaseTextEl.parentNode.style.display = 'none';
+          if (phaseTextEl && phaseTextEl.parentNode && phaseTextEl.parentNode.style) {
+            phaseTextEl.parentNode.style.display = 'none';
+          }
 
           if (wrapper.querySelector('.signals-grid')) {
             wrapper.innerHTML = `<canvas id="marketCycleQuadrantChart"></canvas>`;
@@ -18833,7 +18835,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           return;
         } else {
           const phaseTextEl = document.getElementById('quadrantPhaseText');
-          if (phaseTextEl) phaseTextEl.parentNode.style.display = '';
+          if (phaseTextEl && phaseTextEl.parentNode && phaseTextEl.parentNode.style) {
+            phaseTextEl.parentNode.style.display = '';
+          }
 
           if (wrapper.querySelector('.signals-grid')) {
             wrapper.innerHTML = `<canvas id="marketCycleQuadrantChart"></canvas>`;
@@ -22838,6 +22842,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (brief.cross_sector_analysis?.relative_value)
         lines.push(`  Cross-sector: ${brief.cross_sector_analysis.relative_value}`);
 
+      if (typeof DATA !== 'undefined') {
+        if (DATA.tceMatrix && DATA.tceMatrix.report_date) {
+          lines.push('', `— ALIBRA INSTITUTIONAL PERIOD TCE BENCHMARKS (${DATA.tceMatrix.report_date}) —`);
+          if (DATA.tceMatrix.dry_bulk && DATA.tceMatrix.dry_bulk.length) {
+            lines.push('  Dry Bulk: ' + DATA.tceMatrix.dry_bulk.map(b => `${b.size} (1Y Atl: $${(b.rate_1y_atl||0).toLocaleString()}/d, 1Y Pac: $${(b.rate_1y_pac||0).toLocaleString()}/d)`).join('; '));
+          }
+          if (DATA.tceMatrix.tankers && DATA.tceMatrix.tankers.length) {
+            lines.push('  Tankers: ' + DATA.tceMatrix.tankers.map(t => `${t.size} (1Y: $${(t.rate_1y||0).toLocaleString()}/d, 3Y: $${(t.rate_3y||0).toLocaleString()}/d)`).join('; '));
+          }
+        }
+        if (DATA.tankerForwardCurves && DATA.tankerForwardCurves.length) {
+          const fwdPrompt = DATA.tankerForwardCurves[0];
+          lines.push('', `— TANKER FFA FORWARD CURVES (PROMPT ${fwdPrompt.forward_month || ''}) —`);
+          lines.push(`  VLCC TD3C: $${Number(fwdPrompt.vlcc_td3c||0).toLocaleString()}/d (Eco: $${Number(fwdPrompt.vlcc_eco_td3c||0).toLocaleString()}/d) | Suezmax TD20: $${Number(fwdPrompt.suezmax_td20||0).toLocaleString()}/d | Aframax TD25: $${Number(fwdPrompt.aframax_td25||0).toLocaleString()}/d`);
+        }
+      }
+
       return lines.join('\n');
     }
 
@@ -24491,6 +24512,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 lines.push("  " + cls.toUpperCase() + " FORWARD CURVE: " + pts);
               }
             });
+          }
+          if (DATA.tankerForwardCurves && DATA.tankerForwardCurves.length) {
+            var fwdPoints = DATA.tankerForwardCurves.slice(0, 12).map(function(fc) {
+              return (fc.contract_label || fc.forward_month) + ": VLCC $" + Number(fc.vlcc_td3c||0).toLocaleString() + "/d (Eco: $" + Number(fc.vlcc_eco_td3c||0).toLocaleString() + "/d) | Suez $" + Number(fc.suezmax_td20||0).toLocaleString() + "/d";
+            }).join(' | ');
+            lines.push("  TANKER 22-MONTH FORWARD CURVE: " + fwdPoints);
           }
         } catch(e) {}
       }

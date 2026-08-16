@@ -294,13 +294,16 @@ Comprehensive analytical suite arranged into **3 thematic quantitative sections*
   - **ETF Fund Flow Signals**: 5-day rolling flow vs NAV price to detect accumulation vs distribution divergences.
 
 #### Section 2: Physical Freight & Cargo
-- **Time Charter Curve (Spot vs 1Y TC)**: Spot $/day TCE earnings vs 1-Year Time Charter rates with broker source toggle (Merged, Fearnleys, Both).
-- **Tonnage Basin Arbitrage**: Atlantic vs Pacific 1Y TC rate spread per vessel class.
-- **Leading Restocking Pressures**: Spot freight vs CFR 62% Iron Ore price and Qingdao Port Inventory.
-- **LPG Freight & Charter Rates**: VLGC 84k, MGC 38k, Handy 22k spot + charter rates with unit toggle ($/Day TCE vs $/Month PCM).
+- **Time Charter Curve (Spot vs Period Term Structure)**: Spot $/day TCE earnings vs Period TC rates across all tenors (`[ 4/6M ] [ 1Y ] [ 2Y ] [ 3Y ] [ 5Y ] [ All Tenors ]`), Broker source toggles (`[ Merged ] [ Fearnleys ] [ Intermodal ] [ Both ]`), and Regional Basin selectors (`[ Global Blended ] [ Atlantic ] [ Pacific ] [ Both ]`).
+- **Live Period TCE Rate Matrix Heatmap Table**: Weekly Alibra benchmark matrix for all 11 shipping classes with tab switcher (`[ Dry Bulk (Atl/Pac) ] [ Crude & Product Tankers ]`) and color-coded Week-on-Week change momentum badges (`+12%`, `-6%`).
+- **Tanker FFA Forward Term Structures (22-Month Horizon)**: 22-month forward TCE expectations across 12 tanker routes (`[ VLCC TD3C ] [ Suezmax TD20 ] [ Aframax TD25 ] [ Clean LR1 TC5 ] [ Clean MR ] [ Overlaid ]`) with Eco fuel-efficiency premium spreads.
+- **Tonnage Basin Arbitrage (Atlantic vs Pacific Spread)**: Regional basin spreads and arbitrage ratios across 4/6M, 1Y, and 2Y period tenors with clean continuous historical baseline.
+- **Leading Restocking Pressures & Raw Material Balances**: Spot Capesize freight vs Iron Ore prices and Qingdao Port Inventory with grade selector (`[ 62% Standard Fe ] [ 65% Carajas Fines ] [ China Steel Output & Inventories ]`).
+- **LPG Freight & Charter Rates**: Ras Tanura to Chiba VLGC 84k, MGC 38k, Handy 22k spot vs 1Y TC vs Baltic BLPG index with unit toggle (`[ $/Day TCE ] [ $/Month PCM ]`).
+- **LNG Carrier Long-Term Period Rates & Shipyard Asset Values**: Modern 174k m³ 7-Year and 10-Year Time Charter rates ($/day) against shipyard newbuilding prices ($M) across 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers.
 
 #### Section 3: Vessel Capital Cycle
-- **Vessel Valuations & Scrap Floor**: S&P secondhand prices (1970–2026) with 3 sub-modes (10Y Asset Value, Scrap Floor $/LDT, Implied Charter Yield %).
+- **Vessel Valuations & Demolition Scrap Floors**: S&P secondhand 5Y/10Y prices (1970–2026) with 3 sub-modes (`[ 10Y Asset Value ] [ Demolition Scrap Floor ] [ Implied Charter Yield % ]`) and multi-country recycling floors (India, Bangladesh, Pakistan, Turkey Aliağa, and Container Ship Scrappage $/LDT).
 - **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores.
 
 ---
