@@ -268,6 +268,11 @@ Structured in the **"Executive Intelligence First"** workflow:
    - Annualized 20D, 60D, and 1Y HV with Regime Detection: Blue (Low <25th), Green (Normal 25-75th), Amber (Elevated 75-90th), Red (Spike >90th).
 10. **Cross-Asset Correlation Matrix (`#etfCorrMatrix`)**:
     - Multi-timeframe Pearson correlation matrix comparing ETF prices against BDI, BCI, BPI, BSI, BHSI, BDTI, and BCTI.
+11. **Contract Roll Schedule Badges** *(New)*: Holdings table rows display color-coded roll schedule badges — M0 (amber), M+1 (teal), M+2 (muted), Q-strip (blue) — with calendar days to expiry shown inline.
+12. **Portfolio Weighted Average Maturity (WAM)** *(New)*: Provenance banner displays the portfolio-level WAM in days: `WAM = Σ(Weight_i × DaysToExpiry_i)`.
+13. **Lot Size Sparklines** *(New)*: Inline 70×24px SVG sparklines showing the trailing 30-day lot size trajectory per holding row for rapid visual trend assessment.
+14. **Basis Fund Selector** *(New)*: BDRY / BWET / Dual Comparison toggle for the Futures vs Spot Basis chart, enabling side-by-side dry vs wet basis analysis.
+15. **Annualized Roll Yield Drag HUD** *(New)*: Dedicated HUD card computing `((Futures − Spot) / Spot) × (365 / DaysToRoll) × 100%` with automatic Backwardation / Contango regime classification badge.
 
 ---
 
@@ -287,8 +292,9 @@ Comprehensive analytical suite arranged into **3 thematic quantitative sections*
   - **Rate-of-Change (ROC) Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
   - **Seasonal Pattern Decomposition**: Historical average intra-year pattern $\pm 1\sigma$ band overlaid with current year.
 - **C. Cross-Asset Attribution & Lead-Lag**:
-  - **BDI Vessel Class Daily Contribution**: Daily point move attribution (50% Cape, 40% Pana, 10% Supra).
-  - **Lead-Lag Cross-Correlation Analysis**: Cross-correlation of log returns (-30 to +30 days) identifying predictive lead times.
+  - **BDI Vessel Class Daily Contribution**: Daily point move attribution (50% Cape, 40% Pana, 10% Supra). *(Enhanced: Daily / 30D Cumulative / 90D Cumulative rolling attribution mode toggle. Speculative Cape vs Geared Divergence Alert badge — divergence = Cape 30D contrib − Pana+Supra 30D contrib.)*
+  - **Lead-Lag Cross-Correlation Analysis**: Cross-correlation of log returns (-30 to +30 days) identifying predictive lead times. *(Enhanced: 5 pre-configured institutional shipping asset pair presets with Optimal Peak Correlation marker showing peak r and t-test significance (t = r√((N−2)/(1−r²)), p < 0.05 threshold).)*
+  - **Win-Rate Matrices** *(New)*: Quarterly (Q1–Q4) and Monthly (Jan–Dec) empirical win-rate tables across 10Y / 20Y / All-Time lookback windows, color-coded green (>60%) / amber (40–60%) / red (<40%).
 - **D. ETF Market Timing & Sentiment Signals**:
   - **ETF Premium/Discount Z-Score**: Standardized sentiment oscillator identifying extreme overextension ($Z > +2$) vs forced liquidation ($Z < -2$).
   - **ETF Fund Flow Signals**: 5-day rolling flow vs NAV price to detect accumulation vs distribution divergences.
@@ -304,14 +310,14 @@ Comprehensive analytical suite arranged into **3 thematic quantitative sections*
   - **Interactive Vessel Diagnostic Drilldown** expanding comprehensive vessel specifications (DWT, cargo, primary global routes) and momentum metrics upon row selection.
   - **Rich Interactive Tooltips** dynamically personalized across all cells, buttons, sparklines, cycle ranks, and arbitrage spreads.
 - **Tanker FFA Forward Term Structures (22-Month Horizon)**: 22-month forward TCE expectations across 12 tanker routes (`[ VLCC TD3C ] [ Suezmax TD20 ] [ Aframax TD25 ] [ Clean LR1 TC5 ] [ Clean MR ] [ Overlaid ]`) with Eco fuel-efficiency premium spreads.
-- **Tonnage Basin Arbitrage (Atlantic vs Pacific Spread)**: Regional basin spreads and arbitrage ratios across 4/6M, 1Y, and 2Y period tenors with clean continuous historical baseline.
-- **Leading Restocking Pressures & Raw Material Balances**: Spot Capesize freight vs Iron Ore prices and Qingdao Port Inventory with grade selector (`[ 62% Standard Fe ] [ 65% Carajas Fines ] [ China Steel Output & Inventories ]`).
-- **LPG Freight & Charter Rates**: Ras Tanura to Chiba VLGC 84k, MGC 38k, Handy 22k spot vs 1Y TC vs Baltic BLPG index with unit toggle (`[ $/Day TCE ] [ $/Month PCM ]`).
-- **LNG Carrier Long-Term Period Rates & Shipyard Asset Values**: Modern 174k m³ 7-Year and 10-Year Time Charter rates ($/day) against shipyard newbuilding prices ($M) across 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers.
+- **Tonnage Basin Arbitrage (Atlantic vs Pacific Spread)**: Regional basin spreads and arbitrage ratios across 4/6M, 1Y, and 2Y period tenors with clean continuous historical baseline. *(Enhanced: multi-sector vessel toggle — Capesize / Panamax / Supramax / Handysize / All Dry Sectors. Basin Arbitrage HUD displays Net Spread $/day, Atlantic Premium %, 30D Moving Average Spread, and 90th Percentile Corridor.)*
+- **Leading Restocking Pressures & Raw Material Balances**: Spot Capesize freight vs Iron Ore prices and Qingdao Port Inventory with grade selector (`[ 62% Standard Fe ] [ 65% Carajas Fines ] [ China Steel Output & Inventories ]`). *(Enhanced: Inventory Coverage Days gauge (Port Inventory MT ÷ Daily Consumption), 30D Drawdown Velocity (MT/week), and Freight-to-Commodity Landed Cost Ratio % (Freight $/t ÷ CFR 62% $/t × 100).)*
+- **LPG Freight & Charter Rates**: Ras Tanura to Chiba VLGC 84k, MGC 38k, Handy 22k spot vs 1Y TC vs Baltic BLPG index with unit toggle (`[ $/Day TCE ] [ $/Month PCM ]`). *(Enhanced: segment selector — VLGC 84k / MGC 38k / Handy 22k / All LPG Fleet — with Spot-to-Period Arbitrage Spread indicator (Spot TCE $/d minus 1Y Period TC $/d).)*
+- **LNG Carrier Long-Term Period Rates & Shipyard Asset Values**: Modern 174k m³ 7-Year and 10-Year Time Charter rates ($/day) against shipyard newbuilding prices ($M) across 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers. *(Enhanced: vessel scale selector — 174k / 30k / 7k / All — with Implied Cash-on-Cash Payback Yield HUD: `Yield% = (10Y TC Rate × 365.25 / NB Price $M) × 100%`.)*
 
 #### Section 3: Vessel Capital Cycle
-- **Vessel Valuations & Demolition Scrap Floors**: S&P secondhand 5Y/10Y prices (1970–2026) with 3 sub-modes (`[ 10Y Asset Value ] [ Demolition Scrap Floor ] [ Implied Charter Yield % ]`) and multi-country recycling floors (India, Bangladesh, Pakistan, Turkey Aliağa, and Container Ship Scrappage $/LDT).
-- **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores.
+- **Vessel Valuations & Demolition Scrap Floors**: S&P secondhand 5Y/10Y prices (1970–2026) with 3 sub-modes (`[ 10Y Asset Value ] [ Demolition Scrap Floor ] [ Implied Charter Yield % ]`) and multi-country recycling floors (India, Bangladesh, Pakistan, Turkey Aliağa, and Container Ship Scrappage $/LDT). *(Enhanced: sector selector — Capesize / Panamax / Supramax / Handysize / VLCC / Suezmax / Aframax — with Scrap Floor Margin of Safety Cushion %: `(Asset Value − Scrap Floor) / Asset Value × 100%`.)*
+- **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores. *(Enhanced: Days-in-Regime Counter vs 10Y Median Duration benchmark, and Dry/Crude/Product sector overlay toggle.)*
 
 ---
 
@@ -322,6 +328,14 @@ Executive macro desk and deep research workspace.
 - **Section 1: Signal & Confluence Engine (`#intelAlertGrid`)**:
   - Multi-factor quantitative scoring combining 50% fundamentals, 30% sentiment, and 20% momentum.
   - Active market alerts, conviction grades, and sector positioning biases.
+  - **Executive Macro Health Radar** *(New)*: 0–100 composite score built from 5 pillars × 20 pts each:
+    1. Freight Momentum — 30D BDI ROC vs 90D MA
+    2. Term Structure Slope — Cape 4–6M vs 2Y
+    3. Futures Basis Arb — BDRYFF vs spot
+    4. Port Restocking Dynamics — inventory cover days
+    5. Asset Cycle Safety — scrap margin of safety
+    - Regime classification: 🟢 **Bullish Expansion** (75–100) · 🟡 **Balanced Mid-Cycle** (45–74) · 🔴 **Contraction/Value Trough** (0–44).
+  - **Institutional Tactical Playbook** *(New)*: 3-card regime-keyed playbook providing ETF and charter strategy guidance aligned to the active Health Radar regime.
 - **Section 2: Daily Market Brief (`#intelBriefContent`)**:
   - Daily synthesized desk intelligence briefing with executive TL;DR, dry bulk & tanker breakdowns, and previous/next calendar date history navigation.
 - **Section 3: Research Q&A Assistant**:
@@ -371,6 +385,14 @@ Executive macro desk and deep research workspace.
 | **Tanker Curve Slope** | $\text{Slope}_{\text{FFA}} = \frac{\text{M12 Deferred (USD/day)} - \text{M1 Prompt (USD/day)}}{\text{M1 Prompt (USD/day)}} \times 100\%$ | Negative = Backwardation / Prompt Tightness; Positive = Contango / Winter Storage Demand. |
 | **Cycle Quadrant Coordinates** | $X = \text{RoC}_{60}(\text{Spot}), \quad Y = Z_{252}\Big(\frac{\text{Spot}}{\text{1Y TC}}\Big)$ | Maps 4 shipping cycle phases: **Recovery** ($X>0, Y<0$), **Boom** ($X>0, Y>0$), **Over-ordering** ($X<0, Y>0$), **Restructuring** ($X<0, Y<0$). |
 | **LNG Replacement Multiple** | $\text{Multiple}_{\text{LNG}} = \frac{\text{Newbuilding Price (USD M)}}{\text{7Y TC (USD/day)} \times 365 / 10^6}$ | Multi-year asset payback period in years. Low multiples indicate attractive shipyard contract entry. |
+| **LNG Cash-on-Cash Yield** | $\text{Yield\%} = \frac{\text{10Y TC Rate} \times 365.25}{\text{NB Price \$M} \times 10^6} \times 100\%$ | Implied investor return on a vessel financed at newbuilding cost against long-dated period charter. |
+| **Scrap Floor Margin of Safety** | $\text{Cushion\%} = \frac{\text{Asset Value} - \text{Scrap Floor}}{\text{Asset Value}} \times 100\%$ | Downside buffer vs demolition floor; Cushion < 10% signals near-scrap pricing / distressed supply withdrawal. |
+| **Iron Ore Landed Cost Ratio** | $\text{Ratio\%} = \frac{\text{Freight (USD/t)}}{\text{CFR 62\% (USD/t)}} \times 100\%$ | Freight as % of commodity cost; high ratios compress mill margins and restocking incentives. |
+| **Inventory Coverage Days** | $\text{Cover} = \frac{\text{Port Inventory (MT)}}{\text{Daily Consumption (MT/day)}}$ | Days of supply at current consumption. <20 days triggers restocking urgency; >35 days suppresses spot demand. |
+| **Spot-to-Period Arb Spread** | $\text{Spread} = \text{Spot TCE (USD/d)} - \text{1Y Period TC (USD/d)}$ | Positive = Spot premium / cargo urgency; Negative = forward demand weakness. |
+| **Annualized Roll Yield Drag** | $\text{Drag\%} = \frac{\text{Futures} - \text{Spot}}{\text{Spot}} \times \frac{365}{\text{DaysToRoll}} \times 100\%$ | Annualized cost (Contango drag) or benefit (Backwardation carry) of holding a rolling futures position. |
+| **Portfolio WAM** | $\text{WAM} = \sum_i w_i \times \text{DaysToExpiry}_i$ | Weighted average contract maturity; shorter WAM = higher roll frequency and execution risk. |
+| **Lead-Lag t-Statistic** | $t = r\sqrt{\frac{N-2}{1-r^2}}$ | Tests whether the peak cross-correlation coefficient $r$ at lag $L$ is statistically significant ($p < 0.05$). |
 
 ---
 
