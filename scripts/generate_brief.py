@@ -1750,12 +1750,10 @@ def call_openrouter_text(messages: list, retries: int | None = None) -> str | No
     retries = retries or OPENROUTER_MAX_RETRIES
     global _last_openrouter_call_ts
     or_candidates = [
-        OPENROUTER_MODEL,                              # paid primary (env-configured)
-        "nvidia/nemotron-3-ultra-550b-a55b:free",      # 1M ctx, 550B, free tier
-        "nvidia/nemotron-3-super-120b-a12b:free",      # 262k ctx, 120B, free tier
-        "google/gemma-4-31b-it:free",                  # 262k ctx, instruction-tuned, free
-        "openai/gpt-oss-20b:free",                     # 131k ctx, free tier
-        "nvidia/nemotron-nano-12b-v2-vl:free",         # 128k ctx, free tier (smallest fallback)
+        OPENROUTER_MODEL,    # paid primary (env-configured, e.g. meta-llama/llama-3.3-70b-instruct)
+        "openrouter/free",   # meta-router: auto-selects best free model (21 models, filters for
+                             # structured output support, load-balances, avoids rate-limited providers)
+                             # top routed models: gpt-oss-120b (13.9%), Hy3 (11.7%), nemotron-nano-30b (8.6%)
     ]
     for candidate in or_candidates:
         for attempt in range(retries):
