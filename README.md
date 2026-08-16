@@ -241,7 +241,7 @@ Structured in the **"Executive Intelligence First"** workflow:
    - 1-Click Action Hooks: `⚡ Apply Setup` (dials scenario sliders to match the brief) and `💬 What is a 3-Month Hold a Bet On?` (pre-populates multi-horizon prompt).
 3. **Institutional ETF & Scenario Intelligence Copilot ("Ask Anything") (`#etfQaCard`)**:
    - **Multi-Horizon Bet Deconstruction Core**: Rigorously decomposes any holding thesis across **1 Month ($T_{30}$)**, **3 Months ($T_{90}$)**, **6 Months ($T_{180}$)**, **1 Year ($T_{365}$)**, or **Multi-Year Macro Cycles ($1\text{Y} \to 3\text{Y}$)** into prompt cash settlements against physical Baltic spot averages, rollover lot decay across business days 1–15, contango drag hurdle rates, and physical commodity catalysts.
-   - **Per-Contract Dollar Sensitivity**: Computes line-by-line NAV impact per share for every constituent position (e.g. Capesize Aug 26 moves BDRY by exact **\$0.0705/share** per $+\$1,000/\text{day}$ change).
+   - **Per-Contract Dollar Sensitivity**: Computes line-by-line NAV impact per share for every constituent position (e.g. Capesize Aug 26 moves BDRY by exact **$0.0705/share** per **+$1,000/day** change).
    - **Full Tenor Forward Curves**: Injects complete SGX settlement curves across all tenors (Prompt, $M+1, M+2, Q_1, Q_2, Q_3, Q_4, \text{Cal}+1, \text{Cal}+2$).
    - Direct client-side execution via **Groq** (`llama-3.3-70b-versatile`, `deepseek-r1-distill-llama-70b`, `openai/gpt-oss-120b`, `qwen/qwen3.6-27b`), **Google Gemini** (`gemini-2.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`).
    - 5 curated suggestion categories (30 prompts): *Contract Exposures*, *Roll Yield & Carry*, *Scenario Shocks & PnL*, *Fund Flows & AUM*, *Strategy & Holding*.
@@ -332,7 +332,7 @@ Executive macro desk and deep research workspace.
 
 - **Calendar Day Z-Score**: $Z_{\text{cal}}(t) = \frac{x(t) - \mu_{\text{cal}}}{\sigma_{\text{cal}}}$
 - **Rolling 252-Day Z-Score**: $Z_{252}(t) = \frac{x(t) - \mu_{252}(t)}{\sigma_{252}(t)}$
-- **Percentile Rank**: $P(x) = \frac{|\{y \in W : y \le x\}|}{|W|} \times 100\%$
+- **Percentile Rank**: $P(x) = \frac{\lvert \{y \in W : y \le x\} \rvert}{\lvert W \rvert} \times 100\%$
 - **52-Week Drawdown**: $D_{52}(t) = \frac{x(t) - \max_{\tau \in [t-365, t]} x(\tau)}{\max_{\tau \in [t-365, t]} x(\tau)}$
 - **20-Day Rate of Change**: $\text{RoC}_{20}(t) = \frac{x(t) - x(t-20)}{x(t-20)} \times 100\%$
 
@@ -341,16 +341,16 @@ Executive macro desk and deep research workspace.
 | Metric | Calculation / Formula |
 | :--- | :--- |
 | **Percentile Rank** | Fraction of historical values $\le$ current within lookback window ($W$) |
-| **Z-Score (Calendar)** | $(x(t) - \mu_{\text{calendar\_session}}) / \sigma_{\text{calendar\_session}}$ |
+| **Z-Score (Calendar)** | $(x(t) - \mu_{\text{session}}) / \sigma_{\text{session}}$ |
 | **Z-Score (252D)** | $(x(t) - \text{SMA}_{252}(t)) / \sigma_{252}(t)$ |
 | **52-Week Drawdown** | $(x(t) - \max_{365\text{D}}(x)) / \max_{365\text{D}}(x)$ |
 | **Rate of Change (20D)** | $(x(t) - x(t-20)) / x(t-20) \times 100\%$ |
 | **Bollinger Bands** | $\text{SMA}(20) \pm 2 \times \sigma_{20}$ |
 | **BDRY Spot** | $0.50 \cdot \text{BCI} + 0.40 \cdot \text{BPI} + 0.10 \cdot \text{BSI}$ |
-| **Volatility %** | $(\max(y) - \min(y)) / |\text{mean}(y)| \times 100\%$ |
+| **Volatility %** | $(\max(y) - \min(y)) / \lvert \text{mean}(y) \rvert \times 100\%$ |
 | **Trough → Peak %** | $(\max(y) - \min(y)) / \min(y) \times 100\%$ |
 | **Safe Liquidity Capacity** | $\lfloor \text{Volume} \times \text{Tier\%} \rfloor \times \text{Close}$ |
-| **Per-Contract NAV Sensitivity** | $(\text{Lots}_i \times 1,000) / \text{Shares Outstanding}$ |
+| **Per-Contract NAV Sensitivity** | $(\text{Lots}_i \times 1{,}000) / \text{Shares Outstanding}$ |
 | **Implied Monthly Roll Yield** | $\sum_{v} \left( w_v \times \frac{\text{Prompt}_v - \text{Next}_v}{\text{Prompt}_v} \times 100\% \right)$ |
 | **Multi-Month Contango Hurdle** | $1 - \prod_{m=1}^{H} (1 - \text{RollYield}_m) + \text{OER} \times \frac{H}{12}$ |
 
@@ -358,12 +358,12 @@ Executive macro desk and deep research workspace.
 
 | Metric / Model | Mathematical Formulation | Economic Interpretation & Trigger |
 | :--- | :--- | :--- |
-| **Implied Charter Yield** | $\text{Yield}_{\text{TC}} = \frac{\text{1Y TC (\$/d)} \times 365}{\text{10Y Asset Value (\$M)} \times 10^6} \times 100\%$ | Measures cash-on-cash annual return on vessel hardware. Yields $>25\%$ signal extreme historical undervaluation. |
-| **Demolition Scrap Floor** | $\text{Floor}_{\text{Scrap}} = \frac{\text{LDT (Lightweight Tons)} \times \text{Scrap Price (\$/LDT)}}{10^6}$ | Absolute liquidation floor. Secondhand prices approaching scrap floor represent zero-downside option asymmetry. |
-| **Basin Arbitrage Ratio** | $\text{Ratio}_{\text{Basin}} = \frac{\text{Atlantic TC (\$/d)}}{\text{Pacific TC (\$/d)}}$ | $>1.25\text{x}$ triggers Atlantic fleet repositioning; $<0.80\text{x}$ signals Pacific coal/grain premium. |
-| **Tanker Curve Slope** | $\text{Slope}_{\text{FFA}} = \frac{\text{M12 Deferred (\$/d)} - \text{M1 Prompt (\$/d)}}{\text{M1 Prompt (\$/d)}} \times 100\%$ | Negative = Backwardation / Prompt Tightness; Positive = Contango / Winter Storage Demand. |
+| **Implied Charter Yield** | $\text{Yield}_{\text{TC}} = \frac{\text{1Y TC (USD/day)} \times 365}{\text{10Y Asset Value (USD M)} \times 10^6} \times 100\%$ | Measures cash-on-cash annual return on vessel hardware. Yields $>25\%$ signal extreme historical undervaluation. |
+| **Demolition Scrap Floor** | $\text{Floor}_{\text{Scrap}} = \frac{\text{LDT (Lightweight Tons)} \times \text{Scrap Price (USD/LDT)}}{10^6}$ | Absolute liquidation floor. Secondhand prices approaching scrap floor represent zero-downside option asymmetry. |
+| **Basin Arbitrage Ratio** | $\text{Ratio}_{\text{Basin}} = \frac{\text{Atlantic TC (USD/day)}}{\text{Pacific TC (USD/day)}}$ | $>1.25\text{x}$ triggers Atlantic fleet repositioning; $<0.80\text{x}$ signals Pacific coal/grain premium. |
+| **Tanker Curve Slope** | $\text{Slope}_{\text{FFA}} = \frac{\text{M12 Deferred (USD/day)} - \text{M1 Prompt (USD/day)}}{\text{M1 Prompt (USD/day)}} \times 100\%$ | Negative = Backwardation / Prompt Tightness; Positive = Contango / Winter Storage Demand. |
 | **Cycle Quadrant Coordinates** | $X = \text{RoC}_{60}(\text{Spot}), \quad Y = Z_{252}\left(\frac{\text{Spot}}{\text{1Y TC}}\right)$ | Maps 4 shipping cycle phases: **Recovery** ($X>0, Y<0$), **Boom** ($X>0, Y>0$), **Over-ordering** ($X<0, Y>0$), **Restructuring** ($X<0, Y<0$). |
-| **LNG Replacement Multiple** | $\text{Multiple}_{\text{LNG}} = \frac{\text{Newbuilding Price (\$M)}}{\text{7Y TC (\$/d)} \times 365 / 10^6}$ | Multi-year asset payback period in years. Low multiples indicate attractive shipyard contract entry. |
+| **LNG Replacement Multiple** | $\text{Multiple}_{\text{LNG}} = \frac{\text{Newbuilding Price (USD M)}}{\text{7Y TC (USD/day)} \times 365 / 10^6}$ | Multi-year asset payback period in years. Low multiples indicate attractive shipyard contract entry. |
 
 ---
 
