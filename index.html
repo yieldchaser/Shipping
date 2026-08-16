@@ -16739,7 +16739,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           sectors.forEach(s => { spotMaps[s] = getSpotMap(s); });
 
           var cacheKey = 'tc_all_' + activeTenor + '_' + tcSrc;
-          var aligned = getCachedAligned(singleCacheKey, productKey);
+          var aligned = getCachedAligned(cacheKey, 'all');
           if (!aligned) {
             aligned = [];
             tcRows.forEach(r => {
@@ -16759,7 +16759,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
               });
               aligned.push(rowData);
             });
-            setCachedAligned(singleCacheKey, productKey, aligned);
+            setCachedAligned(cacheKey, 'all', aligned);
           }
 
           const cutoff = new Date('2000-01-01');
@@ -16857,6 +16857,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (tcBasinToggle) {
         tcBasinToggle.style.display = isDrySector ? 'inline-flex' : 'none';
       }
+
+      // Contextual tenor button visibility:
+      // Dry bulk has 4/6M, 1Y, 2Y (no 3Y/5Y Alibra dry rates)
+      // Tankers have 1Y, 2Y, 3Y, 5Y (no 4/6M tanker rates)
+      const btn4_6m = document.getElementById('tcTenor4_6m');
+      const btn3y = document.getElementById('tcTenor3y');
+      const btn5y = document.getElementById('tcTenor5y');
+      if (btn4_6m) btn4_6m.style.display = isDrySector ? '' : 'none';
+      if (btn3y) btn3y.style.display = isDrySector ? 'none' : '';
+      if (btn5y) btn5y.style.display = isDrySector ? 'none' : '';
+
+      let effectiveTenor = activeTenor;
+      if (isDrySector && (activeTenor === '3y' || activeTenor === '5y')) effectiveTenor = '1y';
+      if (!isDrySector && activeTenor === '4_6m') effectiveTenor = '1y';
 
       let tc4_6mCol = basin === 'atl' ? 'capesize_4_6m_atl' : (basin === 'pac' ? 'capesize_4_6m_pac' : 'capesize_4_6m_avg');
       let tc1yCol = basin === 'atl' ? 'capesize_1y_atl' : (basin === 'pac' ? 'capesize_1y_pac' : 'capesize_1y_avg');
@@ -16977,8 +16991,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!spotRows.length || !tcRows.length) return;
 
       const spotMapObj = getSpotMap(spotKey);
-      var singleCacheKey = 'tc_single_' + productKey + '_' + activeTenor + '_' + tcSrc;
-      var aligned = getCachedAligned(cacheKey, productKey);
+      var singleCacheKey = 'tc_single_' + productKey + '_' + effectiveTenor + '_' + basin + '_' + tcSrc;
+      var aligned = getCachedAligned(singleCacheKey, productKey);
 
       if (!aligned) {
         aligned = [];
@@ -17030,15 +17044,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         // Compute ratio based on active tenor
         aligned.forEach(function(r) {
           let compareRate = r.tc1y;
-          if (activeTenor === '4_6m' && r.tc4_6m) compareRate = r.tc4_6m;
-          else if (activeTenor === '2y' && r.tc2y) compareRate = r.tc2y;
-          else if (activeTenor === '3y' && r.tc3y) compareRate = r.tc3y;
-          else if (activeTenor === '5y' && r.tc5y) compareRate = r.tc5y;
+          if (effectiveTenor === '4_6m' && r.tc4_6m) compareRate = r.tc4_6m;
+          else if (effectiveTenor === '2y' && r.tc2y) compareRate = r.tc2y;
+          else if (effectiveTenor === '3y' && r.tc3y) compareRate = r.tc3y;
+          else if (effectiveTenor === '5y' && r.tc5y) compareRate = r.tc5y;
 
           r.ratio = (r.spot != null && compareRate && compareRate > 0) ? Math.min(2.5, r.spot / compareRate) : null;
         });
 
-        setCachedAligned(cacheKey, productKey, aligned);
+        setCachedAligned(singleCacheKey, productKey, aligned);
       }
 
       if (!aligned.length) return;
@@ -17059,8 +17073,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const latest = rows[rows.length - 1];
       const ratioBadge = document.getElementById('spotTcRatioBadge');
-      if (isMainCall && ratioBadge && latest.ratio != null) {
-        ratioBadge.textContent = `Spot/${activeTenor.toUpperCase()} TC: ${latest.ratio.toFixed(2)}x`;
+      if (isMainCall && ratioBadge && latest && latest.ratio != null) {
+        ratioBadge.textContent = `Spot/${effectiveTenor.toUpperCase()} TC: ${latest.ratio.toFixed(2)}x`;
         ratioBadge.removeAttribute('data-tooltip');
         ratioBadge.setAttribute('data-tt-type', 'ratio-badge');
         ratioBadge.setAttribute('data-tt-spot', latest.spot || 0);
@@ -17141,24 +17155,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
 
       if (showMerged) {
-        if (activeTenor === 'all') {
-          if (tc4_6mCol) tcDatasets.push({ label: '4/6 Months TC', data: rows.map(r => r.tc4_6m), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [2, 2], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        if (effectiveTenor === 'all') {
+          if (tc4_6mCol && rows.some(r => r.tc4_6m != null)) tcDatasets.push({ label: '4/6 Months TC', data: rows.map(r => r.tc4_6m), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [2, 2], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
           tcDatasets.push({ label: '1-Year TC', data: rows.map(r => r.tc1y), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
           tcDatasets.push({ label: '2-Year TC', data: rows.map(r => r.tc2y), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [6, 3], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-          if (tc3yCol) tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc3y), yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [8, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-          if (tc5yCol) tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc5y), yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [10, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-        } else if (activeTenor === '4_6m') {
+          if (tc3yCol && rows.some(r => r.tc3y != null)) tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc3y), yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [8, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+          if (tc5yCol && rows.some(r => r.tc5y != null)) tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc5y), yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [10, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (effectiveTenor === '4_6m' && tc4_6mCol) {
           tcDatasets.push({ label: '4/6 Months TC', data: rows.map(r => r.tc4_6m), yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-        } else if (activeTenor === '2y') {
+        } else if (effectiveTenor === '2y') {
           tcDatasets.push({ label: '2-Year TC', data: rows.map(r => r.tc2y), yAxisID: 'yLeft', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-        } else if (activeTenor === '3y') {
-          const s3 = rows.map(r => r.tc3y || null);
-          tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: s3, yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
-        } else if (activeTenor === '5y') {
-          const s5 = rows.map(r => r.tc5y || null);
-          tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: s5, yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (effectiveTenor === '3y' && tc3yCol) {
+          tcDatasets.push({ label: '3-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc3y), yAxisID: 'yLeft', borderColor: '#d29922', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
+        } else if (effectiveTenor === '5y' && tc5yCol) {
+          tcDatasets.push({ label: '5-Year TC (Eco/Scrubber)', data: rows.map(r => r.tc5y), yAxisID: 'yLeft', borderColor: '#f85149', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
         } else {
-          // Default 1y
           tcDatasets.push({ label: '1-Year TC' + (tcSrc === 'both' ? ' (Alibra)' : ''), data: rows.map(r => r.tc1y), yAxisID: 'yLeft', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true });
         }
       }
@@ -17173,7 +17184,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       tcDatasets.push({
-        label: `Spot/${activeTenor.toUpperCase()} Ratio`,
+        label: `Spot/${effectiveTenor.toUpperCase()} Ratio`,
         data: ratioSeries,
         yAxisID: 'yRight',
         borderColor: '#e3b341',
@@ -18857,8 +18868,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                 tooltip: {
                   callbacks: {
                     label: function (c) {
-                      const pt = c.raw;
-                      return ` [${c.dataset.label}] ${pt.label}: Momentum=${pt.x.toFixed(1)}%, Z-Score=${pt.y.toFixed(2)}σ`;
+                      const pt = c.raw || c.parsed || {};
+                      const dateLbl = pt.label || '';
+                      const xVal = pt.x != null ? pt.x : (c.parsed ? c.parsed.x : 0);
+                      const yVal = pt.y != null ? pt.y : (c.parsed ? c.parsed.y : 0);
+                      return ` [${c.dataset.label}] ${dateLbl ? dateLbl + ': ' : ''}Momentum=${(xVal || 0).toFixed(1)}%, Z-Score=${(yVal || 0).toFixed(2)}σ`;
                     }
                   }
                 }
@@ -19042,8 +19056,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  const pt = c.raw;
-                  return ` ${pt.label}: Momentum=${pt.x.toFixed(1)}%, Z-Score=${pt.y.toFixed(2)}σ`;
+                  const pt = c.raw || c.parsed || {};
+                  const dateLbl = pt.label || '';
+                  const xVal = pt.x != null ? pt.x : (c.parsed ? c.parsed.x : 0);
+                  const yVal = pt.y != null ? pt.y : (c.parsed ? c.parsed.y : 0);
+                  return ` ${dateLbl ? dateLbl + ': ' : ''}Momentum=${(xVal || 0).toFixed(1)}%, Z-Score=${(yVal || 0).toFixed(2)}σ`;
                 }
               }
             }
@@ -19340,8 +19357,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const startEl = document.getElementById('bbRangeStart');
       const endEl = document.getElementById('bbRangeEnd');
-      const s = startEl ? parseInt(startEl.value) : 0;
-      const e = endEl ? parseInt(endEl.value) : allRows.length - 1;
+      if (startEl && (!startEl._allRows || startEl._allRows !== allRows)) {
+        initDualRangeSlider('bbRange', allRows, () => renderBollingerBands(productKey));
+      }
+      const s = startEl ? parseInt(startEl.value) || 0 : 0;
+      const eVal = endEl ? parseInt(endEl.value) : NaN;
+      const e = (!isNaN(eVal) && eVal > 0) ? eVal : allRows.length - 1;
 
       const rows = allRows.slice(s, e + 1);
       if (!rows.length) return;
