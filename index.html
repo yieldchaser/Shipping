@@ -10084,14 +10084,14 @@
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <!-- Sector Toggle -->
                 <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
-                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="Crude & Product Tanker Benchmarks" data-tt-cargo="Crude & Clean Fleet" data-tt-desc="Institutional period charter rates across VLCC, Suezmax, Aframax, LR2, LR1, and MR classes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
+                  <button class="toggle-btn active" id="tceTabDry" onclick="setTceTab('dry')" data-tooltip=" " data-tt-type="concept-tce-sector" data-tt-sector="dry" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulk (Atl/Pac)</button>
+                  <button class="toggle-btn" id="tceTabWet" onclick="setTceTab('wet')" data-tooltip=" " data-tt-type="concept-tce-sector" data-tt-sector="wet" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude & Product Tankers</button>
                 </div>
                 <!-- Multi-Horizon Momentum Toggle -->
                 <div id="tceHorizonToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tceHor1w" onclick="setTceHorizon('1w')" data-tooltip="Show 1-Week (Week-on-Week) percentage rate revision" style="padding:3px 8px;border:none;cursor:pointer;background:rgba(88,166,255,0.2);color:#58a6ff;font-size:11px;font-weight:600;font-family:inherit;">1W WoW</button>
-                  <button class="toggle-btn" id="tceHor1m" onclick="setTceHorizon('1m')" data-tooltip="Show 1-Month (Month-on-Month) percentage rate momentum" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M MoM</button>
-                  <button class="toggle-btn" id="tceHor1y" onclick="setTceHorizon('1y')" data-tooltip="Show 1-Year (Year-on-Year) structural percentage rate change" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y YoY</button>
+                  <button class="toggle-btn active" id="tceHor1w" onclick="setTceHorizon('1w')" data-tooltip=" " data-tt-type="concept-tce-horizon" data-tt-hor="1w" style="padding:3px 8px;border:none;cursor:pointer;background:rgba(88,166,255,0.2);color:#58a6ff;font-size:11px;font-weight:600;font-family:inherit;">1W WoW</button>
+                  <button class="toggle-btn" id="tceHor1m" onclick="setTceHorizon('1m')" data-tooltip=" " data-tt-type="concept-tce-horizon" data-tt-hor="1m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M MoM</button>
+                  <button class="toggle-btn" id="tceHor1y" onclick="setTceHorizon('1y')" data-tooltip=" " data-tt-type="concept-tce-horizon" data-tt-hor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y YoY</button>
                 </div>
                 <div id="tceMatrixDateBadge" class="kpi-badge" data-tooltip="Official publication date of Alibra Shipbrokers weekly period fixture assessments">Report Date: —</div>
               </div>
@@ -17625,7 +17625,7 @@ if (intelTabsContainer) {
         const effChg = getCellChg(row, tenor, chg);
         const chgPill = renderChange(effChg);
         const rateFmt = fmtRate(rate);
-        return '<td data-tooltip=" " data-tt-type="tce-matrix-cell" data-tt-vessel="' + vessel + '" data-tt-tenor="' + tenor + '" data-tt-basin="' + basin + '" data-tt-rate="' + (rate || 0) + '" data-tt-chg="' + (effChg || 0) + '" data-tt-tab="' + tab + '" style="padding:8px 8px;cursor:pointer;transition:background 0.15s ease;" onmouseenter="this.style.background=\'rgba(88,166,255,0.08)\'" onmouseleave="this.style.background=\'transparent\'">' + rateFmt + ' ' + chgPill + '</td>';
+        return '<td data-tooltip=" " data-tt-type="tce-matrix-cell" data-tt-vessel="' + vessel + '" data-tt-tenor="' + tenor + '" data-tt-basin="' + basin + '" data-tt-rate="' + (rate || 0) + '" data-tt-chg="' + (effChg || 0) + '" data-tt-tab="' + tab + '" data-tt-horizon="' + activeHor + '" data-tt-low="' + (row.low_52w || 0) + '" data-tt-high="' + (row.high_52w || 0) + '" data-tt-median="' + (row.median_10y || 0) + '" data-tt-pctile="' + (row.pctile_10y || 0) + '" style="padding:8px 8px;cursor:pointer;transition:background 0.15s ease;" onmouseenter="this.style.background=\'rgba(88,166,255,0.08)\'" onmouseleave="this.style.background=\'transparent\'">' + rateFmt + ' ' + chgPill + '</td>';
       }
 
       if (activeTab === 'dry') {
@@ -17695,13 +17695,13 @@ if (intelTabsContainer) {
           '<thead>' +
             '<tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Dry Bulk Vessel Sector" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="dry" style="text-align:left;padding:8px 10px;cursor:pointer;">Vessel Sector</th>' +
-              '<th data-tooltip="52-Week 1-Year Time Charter Rate Trajectory & Range" style="text-align:center;padding:8px 6px;">52W Trend</th>' +
-              '<th data-tooltip="10-Year Historical Cycle Percentile Rank (2016-2026)" style="text-align:center;padding:8px 6px;">10Y Cycle</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-tce-horizon" data-tt-hor="1y" style="text-align:center;padding:8px 6px;cursor:pointer;">52W Trend</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-timecharter" style="text-align:center;padding:8px 6px;cursor:pointer;">10Y Cycle</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Atlantic" data-tt-tenor="6M" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">6M Atlantic</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="6-Month Pacific" data-tt-tenor="6M" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">6M Pacific</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Atlantic Benchmark" data-tt-tenor="1Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Atlantic</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Pacific Benchmark" data-tt-tenor="1Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1Y Pacific</th>' +
-              '<th data-tooltip="Atlantic Premium over Pacific Basin (1Y Benchmark Spread: Atlantic $/d - Pacific $/d)" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);">Basin Spread (1Y)</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-basinspread" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);cursor:pointer;">Basin Spread (1Y)</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Atlantic Period" data-tt-tenor="2Y" data-tt-basin="Atlantic Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">2Y Atlantic</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Pacific Period" data-tt-tenor="2Y" data-tt-basin="Pacific Basin" data-tt-tab="dry" style="padding:8px 8px;cursor:pointer;">2Y Pacific</th>' +
             '</tr>' +
@@ -17721,17 +17721,17 @@ if (intelTabsContainer) {
           let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
           if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
           else if (r.pctile_10y < 75) { cycleColor = '#d29922'; cycleBg = 'rgba(210,153,34,0.15)'; cycleBrd = 'rgba(210,153,34,0.3)'; }
-          const pctileBadge = '<span class="kpi-badge" data-tooltip="10Y Percentile: ' + r.pctile_10y + '% (10Y Median: $' + (r.median_10y || 0).toLocaleString() + '/d) | Status: ' + (r.cycle_label || '') + '" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
+          const pctileBadge = '<span class="kpi-badge" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
 
           html += '<tr onclick="selectTceRow(' + idx + ', \'dry\')" style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;cursor:pointer;' + bg + '">' +
             '<td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="' + r.size + '" data-tt-dwt="' + meta.dwt + '" data-tt-cargo="' + meta.cargo + '" data-tt-routes="' + meta.routes + '" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);"><div style="font-weight:600;">' + r.size + '</div><div style="font-size:10px;color:var(--text-muted);font-weight:normal;">' + meta.dwt.split(' ')[0] + '</div></td>' +
-            '<td data-tooltip="52-Week Range: $' + (r.low_52w || 0).toLocaleString() + '/d – $' + (r.high_52w || 0).toLocaleString() + '/d | 1M: ' + (r.mom_1m > 0 ? '+' : '') + r.mom_1m + '% | 1Y: ' + (r.mom_1y > 0 ? '+' : '') + r.mom_1y + '%" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
-            '<td style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-sparkline" data-tt-vessel="' + r.size + '" data-tt-low="' + (r.low_52w || 0) + '" data-tt-high="' + (r.high_52w || 0) + '" data-tt-mom1m="' + (r.mom_1m || 0) + '" data-tt-mom1y="' + (r.mom_1y || 0) + '" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-cycle-rank" data-tt-vessel="' + r.size + '" data-tt-pctile="' + (r.pctile_10y || 0) + '" data-tt-median="' + (r.median_10y || 0) + '" data-tt-label="' + (r.cycle_label || '') + '" style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
             renderCell(r.size, '6-Month', 'Atlantic', r.rate_6m_atl, r.chg_6m_atl, 'dry', r) +
             renderCell(r.size, '6-Month', 'Pacific', r.rate_6m_pac, r.chg_6m_pac, 'dry', r) +
             renderCell(r.size, '1-Year Benchmark', 'Atlantic', r.rate_1y_atl, r.chg_1y_atl, 'dry', r) +
             renderCell(r.size, '1-Year Benchmark', 'Pacific', r.rate_1y_pac, r.chg_1y_pac, 'dry', r) +
-            '<td style="text-align:center;padding:8px 8px;">' + basinPill + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-basin-spread" data-tt-vessel="' + r.size + '" data-tt-spread="' + (r.basin_spread_1y || 0) + '" data-tt-pct="' + (r.basin_spread_pct_1y || 0) + '" data-tt-atl="' + (r.rate_1y_atl || 0) + '" data-tt-pac="' + (r.rate_1y_pac || 0) + '" style="text-align:center;padding:8px 8px;">' + basinPill + '</td>' +
             renderCell(r.size, '2-Year Period', 'Atlantic', r.rate_2y_atl, r.chg_2y_atl, 'dry', r) +
             renderCell(r.size, '2-Year Period', 'Pacific', r.rate_2y_pac, r.chg_2y_pac, 'dry', r) +
           '</tr>';
@@ -17842,14 +17842,14 @@ if (intelTabsContainer) {
           '<thead>' +
             '<tr style="border-bottom:1px solid var(--border);color:var(--text-muted);font-size:11px;">' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="Tanker Class & Vessel Type" data-tt-tenor="Standard Fleet" data-tt-basin="Global" data-tt-tab="tankers" style="text-align:left;padding:8px 10px;cursor:pointer;">Tanker Class</th>' +
-              '<th data-tooltip="52-Week 1-Year Time Charter Rate Trajectory & Range" style="text-align:center;padding:8px 6px;">52W Trend</th>' +
-              '<th data-tooltip="10-Year Historical Cycle Percentile Rank (2016-2026)" style="text-align:center;padding:8px 6px;">10Y Cycle</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-tce-horizon" data-tt-hor="1y" style="text-align:center;padding:8px 6px;cursor:pointer;">52W Trend</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-timecharter" style="text-align:center;padding:8px 6px;cursor:pointer;">10Y Cycle</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="1-Year Period Benchmark" data-tt-tenor="1Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;font-weight:700;color:var(--text-primary);">1-Year Period</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="2-Year Period Contract" data-tt-tenor="2Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;">2-Year Period</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="3-Year Period (Eco/Scrubber)" data-tt-tenor="3Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;">3-Year Period</th>' +
               '<th data-tooltip=" " data-tt-type="tce-col-header" data-tt-header="5-Year Long-Term Commitment" data-tt-tenor="5Y" data-tt-basin="Global" data-tt-tab="tankers" style="padding:8px 8px;cursor:pointer;color:var(--accent);font-weight:700;">5-Year Long Term</th>' +
-              '<th data-tooltip="Daily fuel efficiency advantage of modern Eco / Scrubber fitted hulls over standard conventional tonnage" style="text-align:center;padding:8px 8px;font-weight:700;color:#58a6ff;">Eco Hull Premium</th>' +
-              '<th data-tooltip="Term Structure Curve Shape: 1Y Prompt Rate vs 3Y Forward Rate Spread (Positive = Backwardation / Prompt Tightness; Negative = Contango)" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);">Curve Structure</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-forwardcurves" style="text-align:center;padding:8px 8px;font-weight:700;color:#58a6ff;cursor:pointer;">Eco Hull Premium</th>' +
+              '<th data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="all" style="text-align:center;padding:8px 8px;font-weight:700;color:var(--accent);cursor:pointer;">Curve Structure</th>' +
             '</tr>' +
           '</thead>' +
           '<tbody>';
@@ -17868,18 +17868,18 @@ if (intelTabsContainer) {
           let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
           if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
           else if (r.pctile_10y < 75) { cycleColor = '#d29922'; cycleBg = 'rgba(210,153,34,0.15)'; cycleBrd = 'rgba(210,153,34,0.3)'; }
-          const pctileBadge = '<span class="kpi-badge" data-tooltip="10Y Percentile: ' + r.pctile_10y + '% (10Y Median: $' + (r.median_10y || 0).toLocaleString() + '/d) | Status: ' + (r.cycle_label || '') + '" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
+          const pctileBadge = '<span class="kpi-badge" style="font-size:10px;font-weight:700;background:' + cycleBg + ';color:' + cycleColor + ';border:1px solid ' + cycleBrd + ';padding:2px 6px;border-radius:4px;">' + r.pctile_10y + '%ile</span>';
 
           html += '<tr onclick="selectTceRow(' + idx + ', \'tankers\')" style="border-bottom:1px solid rgba(255,255,255,0.05);transition:background 0.15s ease;cursor:pointer;' + bg + '">' +
             '<td data-tooltip=" " data-tt-type="tce-vessel-info" data-tt-vessel="' + r.size + '" data-tt-dwt="' + meta.dwt + '" data-tt-cargo="' + meta.cargo + '" data-tt-routes="' + meta.routes + '" style="text-align:left;padding:8px 10px;font-weight:600;color:var(--text-primary);"><div style="font-weight:600;">' + r.size + '</div><div style="font-size:10px;color:var(--text-muted);font-weight:normal;">' + meta.dwt.split(' ')[0] + '</div></td>' +
-            '<td data-tooltip="52-Week Range: $' + (r.low_52w || 0).toLocaleString() + '/d – $' + (r.high_52w || 0).toLocaleString() + '/d | 1M: ' + (r.mom_1m > 0 ? '+' : '') + r.mom_1m + '% | 1Y: ' + (r.mom_1y > 0 ? '+' : '') + r.mom_1y + '%" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
-            '<td style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-sparkline" data-tt-vessel="' + r.size + '" data-tt-low="' + (r.low_52w || 0) + '" data-tt-high="' + (r.high_52w || 0) + '" data-tt-mom1m="' + (r.mom_1m || 0) + '" data-tt-mom1y="' + (r.mom_1y || 0) + '" style="text-align:center;padding:8px 6px;">' + sparkSvg + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-cycle-rank" data-tt-vessel="' + r.size + '" data-tt-pctile="' + (r.pctile_10y || 0) + '" data-tt-median="' + (r.median_10y || 0) + '" data-tt-label="' + (r.cycle_label || '') + '" style="text-align:center;padding:8px 6px;">' + pctileBadge + '</td>' +
             renderCell(r.size, '1-Year Period', 'Global', r.rate_1y, r.chg_1y, 'tankers', r) +
             renderCell(r.size, '2-Year Period', 'Global', r.rate_2y, r.chg_2y, 'tankers', r) +
             renderCell(r.size, '3-Year Period (Eco)', 'Global', r.rate_3y, r.chg_3y, 'tankers', r) +
             renderCell(r.size, '5-Year Long Term', 'Global', r.rate_5y, r.chg_5y, 'tankers', r) +
-            '<td style="text-align:center;padding:8px 8px;">' + ecoPill + '</td>' +
-            '<td style="text-align:center;padding:8px 8px;">' + slopePill + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-eco-premium" data-tt-vessel="' + r.size + '" data-tt-premium="' + (r.eco_premium_day || 0) + '" data-tt-rate="' + (r.rate_1y || 0) + '" style="text-align:center;padding:8px 8px;">' + ecoPill + '</td>' +
+            '<td data-tooltip=" " data-tt-type="tce-curve-slope" data-tt-vessel="' + r.size + '" data-tt-slope="' + (r.curve_slope_3y || 0) + '" data-tt-state="' + (r.curve_slope_state || 'Flat') + '" data-tt-rate1y="' + (r.rate_1y || 0) + '" data-tt-rate3y="' + (r.rate_3y || 0) + '" style="text-align:center;padding:8px 8px;">' + slopePill + '</td>' +
           '</tr>';
         });
         html += '</tbody></table>';
@@ -26012,13 +26012,165 @@ if (intelTabsContainer) {
           html += `<div class="rt-row"><span class="rt-label">Position Dollar P&L</span><span class="rt-val ${simCls}">${simPnl} <span style="font-size:10px;color:var(--text-muted);">(${shares} sh)</span></span></div>`;
           html += `<div class="rt-note">Click this cell to instantly apply these exact dual-rate shocks to the active scenario engine.</div>`;
         }
+        else if (type === 'concept-tce-horizon') {
+          const hor = target.getAttribute('data-tt-hor') || '1w';
+          const names = {
+            '1w': '1-Week Week-on-Week (WoW)',
+            '1m': '1-Month Month-on-Month (30D MoM)',
+            '1y': '1-Year Year-on-Year (52W YoY)'
+          };
+          const descs = {
+            '1w': 'Calculates the net percentage rate revision between the latest weekly broker assessment and the preceding week. Reflects immediate fixture sentiment and prompt fixture liquidity.',
+            '1m': 'Calculates the 30-day percentage momentum in period charter rates. Smooths out single-week noise to capture intermediate freight momentum and quarterly positioning.',
+            '1y': 'Calculates the 52-week structural expansion or contraction in time charter benchmarks. Measures macroeconomic multi-year shipping cycle trajectory.'
+          };
+          html = `<div class="rt-title">Period Rate Momentum: ${names[hor] || hor.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Lookback Window</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${hor === '1w' ? '7 Calendar Days' : hor === '1m' ? '30 Calendar Days' : '365 Calendar Days'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Assessment Source</span><span class="rt-val">Alibra Period TC Benchmarks</span></div>`;
+          html += `<div class="rt-note">${descs[hor] || ''}</div>`;
+        }
+        else if (type === 'concept-tce-sector') {
+          const sector = target.getAttribute('data-tt-sector') || 'dry';
+          if (sector === 'dry') {
+            html = `<div class="rt-title">Dry Bulk Period Charter Benchmarks</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Sectors Covered</span><span class="rt-val">Capesize, Panamax, Supramax, Handysize</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Basins</span><span class="rt-val">Atlantic Basin vs Pacific Basin</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Tenors</span><span class="rt-val">6-Month Prompt, 1-Year Benchmark, 2-Year Period</span></div>`;
+            html += `<div class="rt-note">Tracks non-geared post-panamax cape sizes down to geared handysize tonnage across primary global iron ore, coal, and grain corridors.</div>`;
+          } else {
+            html = `<div class="rt-title">Crude & Product Tanker Period Benchmarks</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Sectors Covered</span><span class="rt-val">VLCC, Suezmax, Aframax, LR2, LR1, MR, Handymax</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Fleet Scope</span><span class="rt-val">Dirty Crude Carriers & Clean Product Tankers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Tenors</span><span class="rt-val">1-Year, 2-Year, 3-Year (Eco/Scrubber), 5-Year Long-Term</span></div>`;
+            html += `<div class="rt-note">Institutional period lease rates for modern double-hull tonnage with Eco scrubber fuel savings specifications.</div>`;
+          }
+        }
+        else if (type === 'tce-sparkline') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
+          const low = parseFloat(target.getAttribute('data-tt-low'));
+          const high = parseFloat(target.getAttribute('data-tt-high'));
+          const mom1m = parseFloat(target.getAttribute('data-tt-mom1m'));
+          const mom1y = parseFloat(target.getAttribute('data-tt-mom1y'));
+
+          html = `<div class="rt-title">${vessel} • 52-Week 1Y TC Rate Trend</div>`;
+          if (!isNaN(high) && !isNaN(low) && high > 0) {
+            html += `<div class="rt-row"><span class="rt-label">52-Week High</span><span class="rt-val pos">$${Math.round(high).toLocaleString('en-US')}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">52-Week Low</span><span class="rt-val neg">$${Math.round(low).toLocaleString('en-US')}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">52-Week Range Spread</span><span class="rt-val">$${Math.round(high - low).toLocaleString('en-US')}/day</span></div>`;
+          }
+          if (!isNaN(mom1m)) {
+            const cls1m = mom1m > 0 ? 'pos' : mom1m < 0 ? 'neg' : '';
+            html += `<div class="rt-row"><span class="rt-label">Trailing 30D Momentum</span><span class="rt-val ${cls1m}">${mom1m >= 0 ? '+' : ''}${mom1m.toFixed(1)}%</span></div>`;
+          }
+          if (!isNaN(mom1y)) {
+            const cls1y = mom1y > 0 ? 'pos' : mom1y < 0 ? 'neg' : '';
+            html += `<div class="rt-row"><span class="rt-label">Trailing 1Y Momentum</span><span class="rt-val ${cls1y}">${mom1y >= 0 ? '+' : ''}${mom1y.toFixed(1)}%</span></div>`;
+          }
+          html += `<div class="rt-note">Continuous 52-week historical time charter trajectory compiled from weekly broker fixture logs.</div>`;
+        }
+        else if (type === 'tce-cycle-rank') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
+          const pctile = parseFloat(target.getAttribute('data-tt-pctile'));
+          const median = parseFloat(target.getAttribute('data-tt-median'));
+          const label = target.getAttribute('data-tt-label') || '';
+
+          let rankCls = 'pos';
+          let interp = 'Supercycle regime: Current prompt period rates trade in the top quartile of the decade.';
+          if (pctile < 40) {
+            rankCls = 'neg';
+            interp = 'Trough / Value territory: Period rates trade well below historical norms, offering attractive time charter entry points for charterers.';
+          } else if (pctile < 75) {
+            rankCls = '';
+            interp = 'Mid-Cycle equilibrium: Period rates trade around historical median operating levels.';
+          }
+
+          html = `<div class="rt-title">${vessel} • 10-Year Cycle Rank</div>`;
+          if (!isNaN(pctile)) {
+            html += `<div class="rt-row"><span class="rt-label">10-Year Percentile</span><span class="rt-val ${rankCls}" style="font-weight:700;">${pctile}%ile (${label || 'Active'})</span></div>`;
+          }
+          if (!isNaN(median) && median > 0) {
+            html += `<div class="rt-row"><span class="rt-label">10-Year Historical Median</span><span class="rt-val">$${Math.round(median).toLocaleString('en-US')}/day</span></div>`;
+          }
+          html += `<div class="rt-row"><span class="rt-label">Historical Sample</span><span class="rt-val">2016 – 2026 (10-Year Time Series)</span></div>`;
+          html += `<div class="rt-note">${interp}</div>`;
+        }
+        else if (type === 'tce-basin-spread') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
+          const spread = parseFloat(target.getAttribute('data-tt-spread'));
+          const pct = parseFloat(target.getAttribute('data-tt-pct'));
+          const atl = parseFloat(target.getAttribute('data-tt-atl'));
+          const pac = parseFloat(target.getAttribute('data-tt-pac'));
+
+          const isPos = spread >= 0;
+          const spreadCls = isPos ? 'pos' : 'neg';
+
+          html = `<div class="rt-title">${vessel} • Atlantic vs Pacific Arbitrage</div>`;
+          if (!isNaN(atl) && atl > 0) html += `<div class="rt-row"><span class="rt-label">1Y Atlantic Benchmark</span><span class="rt-val">$${Math.round(atl).toLocaleString('en-US')}/day</span></div>`;
+          if (!isNaN(pac) && pac > 0) html += `<div class="rt-row"><span class="rt-label">1Y Pacific Benchmark</span><span class="rt-val">$${Math.round(pac).toLocaleString('en-US')}/day</span></div>`;
+          if (!isNaN(spread)) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(255,255,255,0.08);padding-top:4px;margin-top:4px;"><span class="rt-label">Net Basin Spread (Atl - Pac)</span><span class="rt-val ${spreadCls}" style="font-weight:700;">${isPos ? '+' : ''}$${Math.round(spread).toLocaleString('en-US')}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Atlantic Premium %</span><span class="rt-val ${spreadCls}">${pct >= 0 ? '+' : ''}${pct.toFixed(1)}%</span></div>`;
+          }
+          html += `<div class="rt-note">Positive spread indicates Atlantic premium driven by long-haul West Africa/Brazil iron ore or US Gulf grain export volume requiring ballast voyages from the Pacific.</div>`;
+        }
+        else if (type === 'tce-eco-premium') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Tanker';
+          const premium = parseFloat(target.getAttribute('data-tt-premium'));
+          const rate1y = parseFloat(target.getAttribute('data-tt-rate'));
+          const annSavings = (!isNaN(premium) && premium > 0) ? ((premium * 365.25) / 1000000).toFixed(2) : 'N/A';
+
+          html = `<div class="rt-title">${vessel} • Modern Eco / Scrubber Premium</div>`;
+          if (!isNaN(premium) && premium > 0) {
+            html += `<div class="rt-row"><span class="rt-label">Daily Fuel Efficiency Savings</span><span class="rt-val pos" style="font-weight:700;">+$${Math.round(premium).toLocaleString('en-US')}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annualized Fuel Value</span><span class="rt-val pos">+$${annSavings}M / year / vessel</span></div>`;
+          }
+          if (!isNaN(rate1y) && rate1y > 0 && !isNaN(premium)) {
+            const premPct = ((premium / rate1y) * 100).toFixed(1);
+            html += `<div class="rt-row"><span class="rt-label">Premium as % of 1Y Rate</span><span class="rt-val" style="color:var(--accent);">${premPct}% premium</span></div>`;
+          }
+          html += `<div class="rt-note">Reflects charterer willingness to pay higher daily hire for electronic Tier III engines and SOx scrubber-fitted hulls consuming lower-cost HSFO vs VLSFO bunker fuels.</div>`;
+        }
+        else if (type === 'tce-curve-slope') {
+          const vessel = target.getAttribute('data-tt-vessel') || 'Tanker';
+          const slope = parseFloat(target.getAttribute('data-tt-slope'));
+          const state = target.getAttribute('data-tt-state') || 'Flat';
+          const rate1y = parseFloat(target.getAttribute('data-tt-rate1y'));
+          const rate3y = parseFloat(target.getAttribute('data-tt-rate3y'));
+
+          const isBack = slope > 2000;
+          const isCtg = slope < -2000;
+          const slopeCls = isBack ? 'pos' : isCtg ? 'neg' : '';
+
+          html = `<div class="rt-title">${vessel} • Term Structure Curve Shape</div>`;
+          if (!isNaN(rate1y) && rate1y > 0) html += `<div class="rt-row"><span class="rt-label">1-Year Prompt Period</span><span class="rt-val">$${Math.round(rate1y).toLocaleString('en-US')}/day</span></div>`;
+          if (!isNaN(rate3y) && rate3y > 0) html += `<div class="rt-row"><span class="rt-label">3-Year Forward Period</span><span class="rt-val">$${Math.round(rate3y).toLocaleString('en-US')}/day</span></div>`;
+          if (!isNaN(slope)) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(255,255,255,0.08);padding-top:4px;margin-top:4px;"><span class="rt-label">Term Spread (1Y - 3Y)</span><span class="rt-val ${slopeCls}" style="font-weight:700;">${slope >= 0 ? '+' : ''}$${Math.round(slope).toLocaleString('en-US')}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Curve Structure</span><span class="rt-val ${slopeCls}" style="font-weight:700;">${state}</span></div>`;
+          }
+          let note = 'Backwardation indicates prompt tonnage tightness where charterers pay a high scarcity premium for immediate 1-year capacity compared to 3-year commitments.';
+          if (isCtg) note = 'Contango indicates market expectation of higher future rates or surplus prompt tonnage.';
+          else if (!isBack) note = 'Flat curve indicates equilibrium across prompt and multi-year lease horizons.';
+          html += `<div class="rt-note">${note}</div>`;
+        }
         else if (type === 'tce-matrix-cell') {
           const vessel = target.getAttribute('data-tt-vessel') || 'Vessel';
           const tenor = target.getAttribute('data-tt-tenor') || 'Period';
           const basin = target.getAttribute('data-tt-basin') || 'Global';
           const rate = parseFloat(target.getAttribute('data-tt-rate'));
           const chg = parseFloat(target.getAttribute('data-tt-chg'));
-          const isTanker = target.getAttribute('data-tt-tab') === 'tankers';
+          const hor = target.getAttribute('data-tt-horizon') || (typeof window !== 'undefined' ? window.tceHorizon : '1w') || '1w';
+          const low = parseFloat(target.getAttribute('data-tt-low'));
+          const high = parseFloat(target.getAttribute('data-tt-high'));
+          const median = parseFloat(target.getAttribute('data-tt-median'));
+          const pctile = parseFloat(target.getAttribute('data-tt-pctile'));
+
+          const horLabels = {
+            '1w': 'Week-on-Week Delta (1W WoW)',
+            '1m': 'Month-on-Month Momentum (30D MoM)',
+            '1y': 'Year-on-Year Momentum (52W YoY)'
+          };
+          const horLabel = horLabels[hor] || 'Rate Delta';
 
           const rateStr = (!isNaN(rate) && rate > 0) ? '$' + Math.round(rate).toLocaleString('en-US') + '/day' : 'N/A';
           const annRevM = (!isNaN(rate) && rate > 0) ? ((rate * 365.25) / 1000000).toFixed(2) : 'N/A';
@@ -26030,21 +26182,28 @@ if (intelTabsContainer) {
           html = `<div class="rt-title">${vessel} • ${tenor} (${basin})</div>`;
           html += `<div class="rt-row"><span class="rt-label">Daily Period Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${rateStr}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Annualized Revenue</span><span class="rt-val">$${annRevM}M / year</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Week-on-Week Delta</span><span class="rt-val ${chgCls}">${chgStr}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">${horLabel}</span><span class="rt-val ${chgCls}">${chgStr}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Dollar Value Shift</span><span class="rt-val ${chgCls}">${dollarChgStr}</span></div>`;
+
+          if (!isNaN(low) && !isNaN(high) && low > 0) {
+            html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">$${Math.round(low).toLocaleString('en-US')} – $${Math.round(high).toLocaleString('en-US')}/d</span></div>`;
+          }
+          if (!isNaN(pctile) && pctile > 0) {
+            html += `<div class="rt-row"><span class="rt-label">10Y Cycle Rank</span><span class="rt-val ${pctile > 75 ? 'pos' : pctile < 40 ? 'neg' : ''}">${pctile}%ile (Med: $${Math.round(median).toLocaleString('en-US')}/d)</span></div>`;
+          }
 
           let contextNote = '';
           if (chg > 5) {
-            contextNote = 'Strong upward rate revision by Alibra brokers, indicating rising fleet chartering demand or tonnage scarcity.';
+            contextNote = 'Strong upward rate momentum, indicating rising period chartering appetite and tonnage tightness.';
           } else if (chg < -5) {
-            contextNote = 'Substantial downward rate concession, reflecting softer cargo availability or excess prompt vessel supply.';
+            contextNote = 'Substantial downward rate concession, reflecting softer cargo availability or expanding prompt supply.';
           } else if (chg === 0) {
-            contextNote = 'Benchmark rate steady week-on-week, reflecting balanced fixture liquidity and unchanged broker consensus.';
+            contextNote = 'Benchmark rate steady, reflecting balanced fixture liquidity and steady broker consensus.';
           } else {
-            contextNote = 'Moderate weekly rate adjustment in line with broader freight market sentiment.';
+            contextNote = 'Moderate rate adjustment in line with broader freight cycle momentum.';
           }
 
-          html += `<div class="rt-note">${contextNote} Annualized revenue basis assumes 365.25 on-hire trading days.</div>`;
+          html += `<div class="rt-note">${contextNote} Click row to open full vessel diagnostic card.</div>`;
         }
         else if (type === 'tce-col-header') {
           const header = target.getAttribute('data-tt-header') || 'Period Benchmark';
