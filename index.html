@@ -23072,16 +23072,30 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (DATA.tceMatrix && DATA.tceMatrix.report_date) {
           lines.push('', `— ALIBRA INSTITUTIONAL PERIOD TCE BENCHMARKS (${DATA.tceMatrix.report_date}) —`);
           if (DATA.tceMatrix.dry_bulk && DATA.tceMatrix.dry_bulk.length) {
-            lines.push('  Dry Bulk: ' + DATA.tceMatrix.dry_bulk.map(b => `${b.size} (1Y Atl: $${(b.rate_1y_atl||0).toLocaleString()}/d, 1Y Pac: $${(b.rate_1y_pac||0).toLocaleString()}/d)`).join('; '));
+            lines.push('  Dry Bulk: ' + DATA.tceMatrix.dry_bulk.map(b => `${b.size} (1Y Atl: $${(b.rate_1y_atl||0).toLocaleString('en-US')}/d, 1Y Pac: $${(b.rate_1y_pac||0).toLocaleString('en-US')}/d)`).join('; '));
           }
           if (DATA.tceMatrix.tankers && DATA.tceMatrix.tankers.length) {
-            lines.push('  Tankers: ' + DATA.tceMatrix.tankers.map(t => `${t.size} (1Y: $${(t.rate_1y||0).toLocaleString()}/d, 3Y: $${(t.rate_3y||0).toLocaleString()}/d)`).join('; '));
+            lines.push('  Tankers: ' + DATA.tceMatrix.tankers.map(t => `${t.size} (1Y: $${(t.rate_1y||0).toLocaleString('en-US')}/d, 3Y: $${(t.rate_3y||0).toLocaleString('en-US')}/d)`).join('; '));
           }
         }
         if (DATA.tankerForwardCurves && DATA.tankerForwardCurves.length) {
           const fwdPrompt = DATA.tankerForwardCurves[0];
+          const fwdM12 = DATA.tankerForwardCurves[Math.min(11, DATA.tankerForwardCurves.length - 1)];
           lines.push('', `— TANKER FFA FORWARD CURVES (PROMPT ${fwdPrompt.forward_month || ''}) —`);
-          lines.push(`  VLCC TD3C: $${Number(fwdPrompt.vlcc_td3c||0).toLocaleString()}/d (Eco: $${Number(fwdPrompt.vlcc_eco_td3c||0).toLocaleString()}/d) | Suezmax TD20: $${Number(fwdPrompt.suezmax_td20||0).toLocaleString()}/d | Aframax TD25: $${Number(fwdPrompt.aframax_td25||0).toLocaleString()}/d`);
+          lines.push(`  VLCC TD3C: Prompt $${Number(fwdPrompt.vlcc_td3c||0).toLocaleString('en-US')}/d (Eco: $${Number(fwdPrompt.vlcc_eco_td3c||0).toLocaleString('en-US')}/d) -> M12 $${Number(fwdM12.vlcc_td3c||0).toLocaleString('en-US')}/d | Suezmax TD20: Prompt $${Number(fwdPrompt.suezmax_td20||0).toLocaleString('en-US')}/d | Aframax TD25: Prompt $${Number(fwdPrompt.aframax_td25||0).toLocaleString('en-US')}/d`);
+        }
+        if (DATA.restocking && DATA.restocking.length) {
+          const lastOre = DATA.restocking[DATA.restocking.length - 1];
+          lines.push('', `— RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (${lastOre.date || ''}) —`);
+          lines.push(`  Qingdao Port Inventory: ${lastOre.inventories_mt || 'N/A'} MT | CFR 62% Fe: $${lastOre.cfr_62 || 'N/A'}/t | 65% Carajas: $${lastOre.cfr_65 || 'N/A'}/t | Crude Steel Output: ${lastOre.steel_production_mt || 'N/A'} MT`);
+        }
+        if (DATA.vesselValuations && DATA.scrappage) {
+          lines.push('', `— VESSEL CAPITAL CYCLE & SECONDHAND VALUATIONS —`);
+          lines.push(`  Capesize 10Y Asset: ~$59M (Scrap Floor ~$15.2M @ $420/LDT) | VLCC 10Y Asset: ~$110M (Scrap Floor ~$21.5M @ $440/LDT)`);
+        }
+        if (DATA.lpgCharter && DATA.lngCharter) {
+          lines.push('', `— GAS SHIPPING BENCHMARKS —`);
+          lines.push(`  LPG VLGC 84k 1Y TC: ~$72,000/day ($2.2M/month) | LNG 174k 2-Stroke: 7Y TC ~$81,000/day, Newbuilding ~$262M`);
         }
       }
 

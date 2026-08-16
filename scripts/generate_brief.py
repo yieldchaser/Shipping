@@ -639,10 +639,127 @@ def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
         lines.append(f"  BDRY (Dry Bulk): Prompt {bdry_m['prompt_contract'].get('name','')} (${bdry_m['prompt_contract'].get('price',0):,.0f}/d) -> Next {bdry_m['next_contract'].get('name','')} (${bdry_m['next_contract'].get('price',0):,.0f}/d) | Monthly Roll Yield: {bdry_m['implied_roll_yield_pct']:+.2f}% ({bdry_m['curve_regime']})")
         lines.append(f"    * {bdry_m['holding_bet_summary_30d']}")
         lines.append(f"    * {bdry_m['holding_bet_summary_90d']}")
-    if bwet_m:
-        lines.append(f"  BWET (Tanker): Prompt {bwet_m['prompt_contract'].get('name','')} (WS {bwet_m['prompt_contract'].get('price',0):.1f}) -> Next {bwet_m['next_contract'].get('name','')} (WS {bwet_m['next_contract'].get('price',0):.1f}) | Monthly Roll Yield: {bwet_m['implied_roll_yield_pct']:+.2f}% ({bwet_m['curve_regime']})")
-        lines.append(f"    * {bwet_m['holding_bet_summary_30d']}")
+    # Add Physical Freight, Period Time Charter & Capital Cycle Signals
+    phys_ctx = load_physical_signals_context()
+    if phys_ctx:
+        lines.append("\nPHYSICAL FREIGHT, PERIOD TIME CHARTER & CAPITAL CYCLE SIGNALS:")
+        lines.append(phys_ctx)
         
+    return "\n".join(lines)
+
+
+def load_physical_signals_context() -> str:
+    """Extract summary insights from all physical derived datasets (TCE matrix, forward curves, restocking, valuations, gas)."""
+    lines = []
+    
+    # 1. Alibra Period TCE Matrix
+    p_tce = ROOT / "data" / "derived" / "alibra_tce_matrix.json"
+    if p_tce.exists():
+        try:
+            with open(p_tce, encoding="utf-8") as f:
+                tce = json.load(f)
+            rep_date = tce.get("report_date", "")
+            dry_items = tce.get("dry_bulk", [])
+            tanker_items = tce.get("tankers", [])
+            lines.append(f"  • Live Period Time Charter Benchmarks (Alibra Weekly - {rep_date}):")
+            if dry_items:
+                dry_strs = [f"{b.get('size')}: 1Y Atl ${b.get('rate_1y_atl', 0):,.0f}/d (2Y: ${b.get('rate_2y_atl', 0):,.0f}/d), 1Y Pac ${b.get('rate_1y_pac', 0):,.0f}/d" for b in dry_items[:3]]
+                lines.append("      - Dry Bulk: " + " | ".join(dry_strs))
+            if tanker_items:
+                tanker_strs = [f"{t.get('size')}: 1Y ${t.get('rate_1y', 0):,.0f}/d, 3Y ${t.get('rate_3y', 0):,.0f}/d, 5Y ${t.get('rate_5y', 0):,.0f}/d" for t in tanker_items if t.get('size') in ('VLCC', 'Suezmax', 'Aframax', 'MR IMO3')]
+                lines.append("      - Tankers: " + " | ".join(tanker_strs))
+        except Exception:
+            pass
+
+    # 2. Tanker 22-Month Forward Curves
+    p_fwd = ROOT / "data" / "derived" / "tanker_forward_curves.csv"
+    if p_fwd.exists():
+        try:
+            fwd_rows = []
+            with open(p_fwd, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    fwd_rows.append(row)
+            if fwd_rows:
+                p_f = fwd_rows[0]
+                m12_f = fwd_rows[min(11, len(fwd_rows) - 1)]
+                v_p = float(p_f.get("vlcc_td3c") or 0)
+                v_eco = float(p_f.get("vlcc_eco_td3c") or 0)
+                v_12 = float(m12_f.get("vlcc_td3c") or 0)
+                slope_pct = ((v_p - v_12) / v_p * 100) if v_p > 0 else 0.0
+                slope_str = "Backwardation" if slope_pct > 0 else "Contango"
+                lines.append(f"  • Tanker FFA Forward Term Structure (22-Month Curve - Prompt {p_f.get('forward_month', '')}):")
+                lines.append(f"      - VLCC TD3C: Prompt ${v_p:,.0f}/d -> M12 ${v_12:,.0f}/d ({abs(slope_pct):.1f}% {slope_str}) | Eco Premium: +${abs(v_p - v_eco):,.0f}/d")
+                lines.append(f"      - Suezmax TD20: Prompt ${float(p_f.get('suezmax_td20') or 0):,.0f}/d | Aframax TD25: Prompt ${float(p_f.get('aframax_td25') or 0):,.0f}/d")
+        except Exception:
+            pass
+
+    # 3. Raw Material Restocking & China Steel
+    p_ore = ROOT / "data" / "derived" / "iron_ore_restocking.csv"
+    if p_ore.exists():
+        try:
+            ore_rows = []
+            with open(p_ore, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if row.get("inventories_mt") or row.get("cfr_62"):
+                        ore_rows.append(row)
+            if ore_rows:
+                last_ore = ore_rows[-1]
+                lines.append(f"  • Iron Ore Restocking & Steel Fundamentals ({last_ore.get('date', '')}):")
+                lines.append(f"      - Qingdao Port Inventory: {last_ore.get('inventories_mt') or 'N/A'} MT | 62% Fe CFR: ${last_ore.get('cfr_62') or 'N/A'}/t | 65% Carajas: ${last_ore.get('cfr_65') or 'N/A'}/t | Crude Steel Output: {last_ore.get('steel_production_mt') or 'N/A'} MT")
+        except Exception:
+            pass
+
+    # 4. Vessel Valuations & Scrappage
+    p_val = ROOT / "data" / "derived" / "vessel_valuations.csv"
+    p_scrap = ROOT / "data" / "derived" / "scrappage_prices.csv"
+    if p_val.exists() and p_scrap.exists():
+        try:
+            val_map = {}
+            with open(p_val, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if "10" in row.get("tenor_type", ""):
+                        val_map[row.get("vessel_class")] = float(row.get("valuation_usd_m") or 0)
+            scrap_rows = []
+            with open(p_scrap, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    scrap_rows.append(row)
+            if scrap_rows and val_map:
+                ls = scrap_rows[-1]
+                cape_val = val_map.get("Capesize (Japanese)") or val_map.get("Capesize") or 59.0
+                vlcc_val = val_map.get("VLCC") or 110.0
+                scrap_dry = float(ls.get("dry_india") or 420.0)
+                scrap_tank = float(ls.get("tanker_india") or 440.0)
+                cape_scrap = (21000 * scrap_dry) / 1e6
+                vlcc_scrap = (38000 * scrap_tank) / 1e6
+                lines.append(f"  • Vessel Capital Cycle & Asset Valuations (Secondhand vs Demolition Floor):")
+                lines.append(f"      - Capesize 10Y Asset: ${cape_val:.1f}M | Scrap Floor: ${cape_scrap:.1f}M (${scrap_dry:,.0f}/LDT) | Demolition Cushion: +${(cape_val - cape_scrap):.1f}M")
+                lines.append(f"      - VLCC 10Y Asset: ${vlcc_val:.1f}M | Scrap Floor: ${vlcc_scrap:.1f}M (${scrap_tank:,.0f}/LDT) | Demolition Cushion: +${(vlcc_val - vlcc_scrap):.1f}M")
+        except Exception:
+            pass
+
+    # 5. Gas Shipping Benchmarks
+    p_lpg = ROOT / "data" / "derived" / "lpg_charter_rates.csv"
+    p_lng = ROOT / "data" / "derived" / "lng_charter_rates.csv"
+    if p_lpg.exists() and p_lng.exists():
+        try:
+            with open(p_lpg, encoding="utf-8") as f:
+                lpg_rows = list(csv.DictReader(f))
+            with open(p_lng, encoding="utf-8") as f:
+                lng_rows = list(csv.DictReader(f))
+            if lpg_rows and lng_rows:
+                last_lpg = lpg_rows[-1]
+                last_lng = lng_rows[-1]
+                vlgc_pcm = float(last_lpg.get("vlgc_84k_tc") or 0)
+                lines.append(f"  • Gas Carrier Shipping Benchmarks (LPG & LNG):")
+                lines.append(f"      - LPG VLGC 84k 1Y TC: ${vlgc_pcm/30.4375:,.0f}/day (${vlgc_pcm:,.0f}/month) | MGC 38k 1Y: ${float(last_lpg.get('mgc_38k_tc') or 0):,.0f}/month")
+                lines.append(f"      - LNG 174k 2-Stroke Long Term: 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day")
+        except Exception:
+            pass
+
     return "\n".join(lines)
 
 
