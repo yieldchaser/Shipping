@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:12:16.578203+00:00",
+  "generated_at": "2026-08-16T08:16:20.170179+00:00",
   "brief_date": "2026-08-16",
   "constituent_holdings": {
     "bdry": {
@@ -58,14 +58,12 @@
     "provider_order": [
       "groq",
       "nim",
-      "gemini",
       "openrouter",
       "ollama"
     ],
     "attempted_providers": [
       "groq",
       "nim",
-      "gemini",
       "openrouter",
       "ollama"
     ]
@@ -146,11 +144,11 @@
       "momentum_grade": "UP",
       "positioning_bias": "NEUTRAL",
       "confidence_score": 0.45,
-      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 1 pos/0 neg/2 neu; Fundamentals 0 pos/0 neg/3 neu.",
-      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:3). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 1 pos/0 neg/2 neu; Fundamentals 0 pos/0 neg/3 neu.",
+      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 4 Breakwave reports: Sentiment 0 pos/0 neg/4 neu; Momentum 1 pos/1 neg/2 neu; Fundamentals 0 pos/0 neg/4 neu.",
+      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:4). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 4 Breakwave reports: Sentiment 0 pos/0 neg/4 neu; Momentum 1 pos/1 neg/2 neu; Fundamentals 0 pos/0 neg/4 neu.",
       "key_signals": [
         "Quant: BDI value=3083.0, z=+1.85sigma, 5Y percentile=92.1%.",
-        "Qual: last 3 reports sentiment mix -> neutral:3.",
+        "Qual: last 4 reports sentiment mix -> neutral:4.",
         "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
         "Latest report 2026-08-04: momentum=positive, fundamentals=neutral."
       ],
@@ -162,7 +160,8 @@
       "report_dates": [
         "2026-08-04",
         "2026-07-21",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-06-23"
       ]
     },
     "tanker": {
@@ -170,11 +169,11 @@
       "momentum_grade": "UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 2 pos/0 neg/1 neu; Fundamentals 3 pos/0 neg/0 neu.",
-      "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:3). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 3 Breakwave reports: Sentiment 0 pos/0 neg/3 neu; Momentum 2 pos/0 neg/1 neu; Fundamentals 3 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 4 Breakwave reports: Sentiment 0 pos/1 neg/3 neu; Momentum 2 pos/1 neg/1 neu; Fundamentals 4 pos/0 neg/0 neu.",
+      "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:3, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 4 Breakwave reports: Sentiment 0 pos/1 neg/3 neu; Momentum 2 pos/1 neg/1 neu; Fundamentals 4 pos/0 neg/0 neu.",
       "key_signals": [
         "Quant: CLEAN_TANKER value=1387.0, z=+0.81sigma, 5Y percentile=94.2%.",
-        "Qual: last 3 reports sentiment mix -> neutral:3.",
+        "Qual: last 4 reports sentiment mix -> neutral:3, negative:1.",
         "Cross-check: DIRTY_TANKER value=2644.0, z=+1.04sigma.",
         "Latest report 2026-08-11: momentum=neutral, fundamentals=positive."
       ],
@@ -186,7 +185,8 @@
       "report_dates": [
         "2026-08-11",
         "2026-07-28",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-06-30"
       ]
     }
   },
@@ -200,8 +200,10 @@
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",
     "breakwave_drybulk_2026-07-07",
+    "breakwave_drybulk_2026-06-23",
     "breakwave_tankers_2026-08-11",
     "breakwave_tankers_2026-07-28",
-    "breakwave_tankers_2026-07-14"
+    "breakwave_tankers_2026-07-14",
+    "breakwave_tankers_2026-06-30"
   ]
 }

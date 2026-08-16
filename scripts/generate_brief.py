@@ -67,8 +67,8 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 3
-BALTIC_REPORTS = 2  # number of weekly Baltic Exchange reports to feed into the brief
+RECENT_REPORTS = 4  # number of recent Breakwave reports to feed into the brief
+BALTIC_REPORTS = 4  # number of weekly Baltic Exchange reports to feed into the brief
 
 # Baltic Exchange weekly HTML report directories
 BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
@@ -91,13 +91,6 @@ NIM_MAX_RETRIES = int(os.environ.get("NIM_MAX_RETRIES", "3"))
 NIM_BACKOFF_BASE_SEC = float(os.environ.get("NIM_BACKOFF_BASE_SEC", "1.5"))
 NIM_MAX_BACKOFF_SEC = float(os.environ.get("NIM_MAX_BACKOFF_SEC", "15.0"))
 
-GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
-GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
-GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
-GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
-GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "1.5"))
-GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "15.0"))
-
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip()
 GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "llama-3.3-70b-versatile").strip()
 GROQ_BASE_URL = (os.environ.get("GROQ_BASE_URL") or "https://api.groq.com/openai/v1").strip().rstrip("/")
@@ -107,17 +100,17 @@ GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
 OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
-OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "google/gemini-2.0-flash-exp:free").strip()
+OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "meta-llama/llama-3.3-70b-instruct").strip()
 OPENROUTER_BASE_URL = (os.environ.get("OPENROUTER_BASE_URL") or "https://openrouter.ai/api/v1").strip().rstrip("/")
 OPENROUTER_MIN_INTERVAL_SEC = float(os.environ.get("OPENROUTER_MIN_INTERVAL_SEC", "1.5"))
 OPENROUTER_MAX_RETRIES = int(os.environ.get("OPENROUTER_MAX_RETRIES", "3"))
 OPENROUTER_BACKOFF_BASE_SEC = float(os.environ.get("OPENROUTER_BACKOFF_BASE_SEC", "1.5"))
 OPENROUTER_MAX_BACKOFF_SEC = float(os.environ.get("OPENROUTER_MAX_BACKOFF_SEC", "15.0"))
 
-ALLOWED_PROVIDERS = {"nim", "groq", "gemini", "openrouter", "ollama"}
+ALLOWED_PROVIDERS = {"groq", "nim", "openrouter", "ollama"}
 raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
 if not raw_order:
-    raw_order = "groq,nim,gemini,openrouter,ollama"
+    raw_order = "groq,nim,openrouter,ollama"
 
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
@@ -125,12 +118,11 @@ LLM_PROVIDER_ORDER = [
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["groq", "nim", "gemini", "openrouter", "ollama"]
+    LLM_PROVIDER_ORDER = ["groq", "nim", "openrouter", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
 _last_groq_call_ts = 0.0
-_last_gemini_call_ts = 0.0
 _last_openrouter_call_ts = 0.0
 
 _QUAL_SCORES = {
@@ -1797,12 +1789,10 @@ def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]
     for provider in LLM_PROVIDER_ORDER:
         attempted.append(provider)
         text = None
-        if provider == "nim":
-            text = call_nim_text(messages)
-        elif provider == "groq":
+        if provider == "groq":
             text = call_groq_text(messages)
-        elif provider == "gemini":
-            text = call_gemini_text(messages)
+        elif provider == "nim":
+            text = call_nim_text(messages)
         elif provider == "openrouter":
             text = call_openrouter_text(messages)
         elif provider == "ollama":
