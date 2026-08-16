@@ -3245,6 +3245,19 @@ def build_derived(llm_enabled: bool = False):
                         _vals = _obs.get("values") or []
                         if not _seg or not _vals:
                             continue
+                        def _norm_rate(v):
+                            if v is None:
+                                return None
+                            try:
+                                val = float(v)
+                                if 0 < val < 100:
+                                    return val * 1000.0
+                                if 100 <= val <= 2500:
+                                    return val * 10.0
+                                return val
+                            except Exception:
+                                return v
+                        _vals = [_norm_rate(v) for v in _vals]
                         if _cat == "dry_charter":
                             _rates = _vals[-6:]
                             if len(_rates) == 6:
