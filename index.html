@@ -8920,7 +8920,7 @@
         <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
           <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
           <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
-            <option value="groq" selected>Groq (Ultra Fast - Llama 3.3 70B / GPT OSS)</option>
+            <option value="groq" selected>Groq (Ultra Fast - GPT OSS 120B / Qwen 3.6)</option>
             <option value="openrouter">OpenRouter (Multi-Model)</option>
           </select>
           <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -10910,7 +10910,7 @@
           <div class="qa-key-row">
             <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onQAProviderChange()">
-              <option value="groq" selected>Groq (Ultra Fast - Llama 3.3 70B / GPT OSS)</option>
+              <option value="groq" selected>Groq (Ultra Fast - GPT OSS 120B / Qwen 3.6)</option>
               <option value="openrouter">OpenRouter (Multi-Model)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -24446,19 +24446,19 @@ if (intelTabsContainer) {
 
     const QA_PROVIDER_CONFIG = {
       groq: {
-        label: 'Groq (Ultra Fast - Llama 3.3 70B / Llama 3.1 8B)',
+        label: 'Groq (Ultra Fast - GPT OSS 120B / Qwen 3.6)',
         keyStorage: 'qa_key_groq',
         modelStorage: 'qa_model_groq',
-        defaultModel: 'llama-3.3-70b-versatile',
+        defaultModel: 'openai/gpt-oss-120b',
         keyLabel: 'Groq Key',
         keyPlaceholder: 'gsk_... (free at console.groq.com)',
         hasBaseUrl: false,
-        maxContextTokens: 4800,
+        maxContextTokens: 5000,
         suggestions: [
-          'llama-3.3-70b-versatile',
-          'llama-3.1-8b-instant',
-          'qwen-2.5-32b',
-          'mixtral-8x7b-32768'
+          'openai/gpt-oss-120b',
+          'openai/gpt-oss-20b',
+          'qwen/qwen3.6-27b',
+          'groq/compound'
         ]
       },
       openrouter: {
@@ -24469,14 +24469,15 @@ if (intelTabsContainer) {
         keyLabel: 'OpenRouter Key',
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
+        keyOptional: true,
         maxContextTokens: 32000,
         suggestions: [
           'openrouter/free',
+          'openai/gpt-oss-120b:free',
+          'openai/gpt-oss-20b:free',
           'meta-llama/llama-3.3-70b-instruct:free',
-          'google/gemini-2.0-flash-exp:free',
-          'deepseek/deepseek-r1:free',
-          'mistralai/mistral-small-24b-instruct-2501:free',
-          'qwen/qwen-2.5-72b-instruct:free'
+          'qwen/qwen-2.5-72b-instruct:free',
+          'mistralai/mistral-small-24b-instruct-2501:free'
         ]
       }
     };
@@ -24489,7 +24490,7 @@ if (intelTabsContainer) {
       if (provider === 'openrouter') {
         cfg.maxContextTokens = 32000;
       } else if (provider === 'groq') {
-        cfg.maxContextTokens = 4800;
+        cfg.maxContextTokens = 5000;
       }
       return cfg;
     }
@@ -24506,8 +24507,13 @@ if (intelTabsContainer) {
     }
 
     function _saveProviderKey(provider, value) {
+      const cleanVal = (value || '').trim();
+      if (provider === 'groq' && cleanVal.startsWith('sk-or-')) {
+        console.warn('[QA] OpenRouter key entered in Groq slot - auto-saving to OpenRouter storage');
+        if (typeof localStorage !== 'undefined') localStorage.setItem('qa_key_openrouter', cleanVal);
+      }
       const cfg = _providerConfig(provider);
-      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.keyStorage, value);
+      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.keyStorage, cleanVal);
     }
 
     function _loadProviderModel(provider) {
@@ -25033,19 +25039,33 @@ if (intelTabsContainer) {
 
       const doStream = !!onToken && !options?.enableWebSearch;
       const fetchSignal = options?.signal;
+      const cleanModel = (model || '').replace(/\s*\((default|custom)\)/gi, '').replace(/^['"]+|['"]+$/g, '').trim();
+
+      // ── Key cross-provider auto-detection ──
+      let effectiveProvider = provider;
+      let effectiveKey = (apiKey || '').trim();
+      if (provider === 'groq' && effectiveKey.startsWith('sk-or-')) {
+        console.warn('[QA] OpenRouter key format (sk-or-...) detected on Groq provider; auto-routing to OpenRouter.');
+        effectiveProvider = 'openrouter';
+      } else if (provider === 'openrouter' && effectiveKey.startsWith('gsk_')) {
+        console.warn('[QA] Groq key format (gsk_...) detected on OpenRouter provider; auto-routing to Groq.');
+        effectiveProvider = 'groq';
+      }
+
       // ── Groq ──────────────────────────────────────────────────────────────
-      if (provider === 'groq') {
-        const groqCandidates = [model];
-        if (!groqCandidates.includes('llama-3.3-70b-versatile')) groqCandidates.push('llama-3.3-70b-versatile');
-        if (!groqCandidates.includes('llama-3.1-8b-instant')) groqCandidates.push('llama-3.1-8b-instant');
+      if (effectiveProvider === 'groq') {
+        const groqCandidates = [cleanModel || 'openai/gpt-oss-120b'];
+        if (!groqCandidates.includes('openai/gpt-oss-120b')) groqCandidates.push('openai/gpt-oss-120b');
+        if (!groqCandidates.includes('openai/gpt-oss-20b')) groqCandidates.push('openai/gpt-oss-20b');
+        if (!groqCandidates.includes('qwen/qwen3.6-27b')) groqCandidates.push('qwen/qwen3.6-27b');
 
         let lastGroqErr = null;
         for (const curModel of groqCandidates) {
           try {
-            // Use safe completion token limit (1500) so prompt + completion fits comfortably in TPM quota
+            // Use safe completion token limit (1500) so prompt + completion fits comfortably in 8K TPM quota
             const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
               method: 'POST',
-              headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+              headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${effectiveKey}` },
               body: JSON.stringify({ model: curModel, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 1500, stream: doStream }),
               signal: fetchSignal
             });
@@ -25063,7 +25083,7 @@ if (intelTabsContainer) {
                 const nextCandidate = groqCandidates[groqCandidates.indexOf(curModel) + 1];
                 console.warn('[Groq] Model ' + curModel + ' error (' + msg + '). Auto-trying next candidate ' + nextCandidate);
                 if (isDecomm) {
-                  localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
+                  localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
                   _syncQAProviderUI();
                 }
                 lastGroqErr = new Error(msg);
@@ -25087,12 +25107,13 @@ if (intelTabsContainer) {
       }
 
       // ── OpenRouter ────────────────────────────────────────────────────────
-      if (provider === 'openrouter') {
-        const orCandidates = [model];
+      if (effectiveProvider === 'openrouter') {
+        const orCandidates = [cleanModel || 'openrouter/free'];
         const backupOrModels = [
           'openrouter/free',
+          'openai/gpt-oss-120b:free',
+          'openai/gpt-oss-20b:free',
           'meta-llama/llama-3.3-70b-instruct:free',
-          'google/gemini-2.0-flash-exp:free',
           'qwen/qwen-2.5-72b-instruct:free',
           'mistralai/mistral-small-24b-instruct-2501:free'
         ];
@@ -25101,13 +25122,13 @@ if (intelTabsContainer) {
         let lastOrErr = null;
         for (const curModel of orCandidates) {
           try {
-            const isFreeModel = !apiKey || curModel === 'openrouter/free' || curModel.endsWith(':free');
+            const isFreeModel = !effectiveKey || curModel === 'openrouter/free' || curModel.endsWith(':free');
             const orStream = doStream && !isFreeModel;
             const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer ${apiKey}`,
+                'Authorization': `Bearer ${effectiveKey}`,
                 'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
                 'X-Title': 'Shipping Intelligence Dashboard',
               },
@@ -25115,20 +25136,23 @@ if (intelTabsContainer) {
                 model: curModel,
                 messages: [{ role: 'user', content: prompt }],
                 temperature: 0.2,
-                max_tokens: 8192,
+                max_tokens: 4096,
                 stream: orStream
               }),
               signal: fetchSignal
             });
-            const selectedModel = res.headers.get('X-OpenRouter-Selected-Model') || res.headers.get('x-openrouter-selected-model');
-            if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
             if (!res.ok) {
               const err = await res.json().catch(() => ({}));
-              const msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
-              if (res.status === 503 || res.status === 429 || res.status === 404 || res.status === 400) {
-                lastOrErr = new Error('OpenRouter (' + curModel + '): ' + msg);
-                if (curModel !== orCandidates[orCandidates.length - 1]) {
-                  console.warn('[OpenRouter] Model ' + curModel + ' returned HTTP ' + res.status + ' (' + msg + '). Trying next backup candidate...');
+              let msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
+              if (res.status === 429) {
+                const resetIn = res.headers.get('x-ratelimit-reset');
+                msg += ` (Rate limited; reset in ${resetIn || '60s'})`;
+              }
+              if (res.status === 503 || res.status === 429) {
+                const nextCandidate = orCandidates[orCandidates.indexOf(curModel) + 1];
+                if (nextCandidate) {
+                  console.warn(`[OpenRouter] Model ${curModel} returned HTTP ${res.status} (${msg}). Auto-trying next candidate: ${nextCandidate}`);
+                  lastOrErr = new Error(msg);
                   continue;
                 }
               }
@@ -25189,16 +25213,20 @@ if (intelTabsContainer) {
     function _migrateQALocalStorage() {
       const groqStored = localStorage.getItem('qa_model_groq') || '';
       const decommissioned = [
+        'llama-3.3-70b-versatile',
+        'llama-3.1-8b-instant',
         'deepseek-r1-distill-llama-70b',
         'llama3-70b-8192',
         'llama3-8b-8192',
         'llama-3.1-70b-versatile',
         'llama-3.2-11b-text-preview',
-        'llama-3.2-90b-text-preview'
+        'llama-3.2-90b-text-preview',
+        'qwen-2.5-32b',
+        'mixtral-8x7b-32768'
       ];
-      if (!groqStored || decommissioned.includes(groqStored)) {
-        console.log('[QA] Migrating decommissioned Groq model (' + groqStored + ') → llama-3.3-70b-versatile');
-        localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
+      if (!groqStored || decommissioned.includes(groqStored) || decommissioned.some(d => groqStored.includes(d))) {
+        console.log('[QA] Migrating decommissioned Groq model (' + groqStored + ') → openai/gpt-oss-120b');
+        localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
       }
     }
 

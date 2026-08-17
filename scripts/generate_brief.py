@@ -92,7 +92,7 @@ NIM_BACKOFF_BASE_SEC = float(os.environ.get("NIM_BACKOFF_BASE_SEC", "1.5"))
 NIM_MAX_BACKOFF_SEC = float(os.environ.get("NIM_MAX_BACKOFF_SEC", "15.0"))
 
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip()
-GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "llama-3.1-8b-instant").strip()
+GROQ_MODEL = (os.environ.get("GROQ_MODEL") or "openai/gpt-oss-120b").strip()
 GROQ_BASE_URL = (os.environ.get("GROQ_BASE_URL") or "https://api.groq.com/openai/v1").strip().rstrip("/")
 GROQ_MIN_INTERVAL_SEC = float(os.environ.get("GROQ_MIN_INTERVAL_SEC", "1.5"))
 GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
