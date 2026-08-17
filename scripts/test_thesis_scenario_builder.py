@@ -33,17 +33,37 @@ from scenario_snapshot_schema import (
 )
 
 class TestThesisScenarioTranslatorHardening(unittest.TestCase):
-    
+
     def setUp(self):
-        # Injected reference time: 2026-08-14 12:00:00 UTC (1 business day after 2026-08-13 snapshot)
-        self.ref_time = datetime(2026, 8, 14, 12, 0, 0, tzinfo=timezone.utc)
+        # Use current UTC time so the test is always contemporaneous with the
+        # live snapshot regardless of when update_etf_holdings.py last ran.
+        self.ref_time = datetime.now(timezone.utc)
         self.builder_bdry = ThesisScenarioBuilder(fund='BDRY', reference_time_utc=self.ref_time)
         self.builder_bwet = ThesisScenarioBuilder(fund='BWET', reference_time_utc=self.ref_time)
+
+        # Derive live prompt tickers from the actual snapshot so tests survive
+        # any contract roll (Q26 → U26 → V26, etc.) without code changes.
+        bdry_positions = self.builder_bdry.snapshot['positions']
+        bwet_positions = self.builder_bwet.snapshot['positions']
+
+        # BDRY: first Capesize position = prompt contract; second = next contract
+        cape_positions = [p for p in bdry_positions if 'C5TCM' in p.get('ticker', '')]
+        self._cape_prompt_ticker = cape_positions[0]['ticker'] if len(cape_positions) >= 1 else None
+        self._cape_next_ticker   = cape_positions[1]['ticker'] if len(cape_positions) >= 2 else None
+
+        # BDRY: first Oct/V or next non-prompt Capesize used in forward-book test
+        # Use the second distinct Capesize ticker for the USER_SPECIFIED_FORWARD_BOOK test
+        self._cape_fwd_ticker = self._cape_next_ticker or self._cape_prompt_ticker
+
+        # BWET: first TD3C (VLCC) prompt contract
+        vlcc_positions = [p for p in bwet_positions if 'DD3CM' in p.get('ticker', '')]
+        self._vlcc_prompt_ticker = vlcc_positions[0]['ticker'] if vlcc_positions else None
+
 
     def test_no_synthetic_future_roll_lots_in_frozen_book(self):
         """Prove that FROZEN_BOOK preserves exact disclosed lots without any .5x / 1.5x synthetic scaling."""
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: 40000.0},
             scenario_mode='FROZEN_BOOK'
         )
         self.assertEqual(res['scenario_mode'], 'FROZEN_BOOK')
@@ -61,7 +81,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         fail closed for per-share projections and emit the required governance message.
         """
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: 40000.0},
             scenario_mode='FROZEN_BOOK'
         )
         self.assertGreater(res['gross_futures_pnl_dollars'], 0)
@@ -74,37 +94,39 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         """Prove that missing baseline fields do not trigger hardcoded defaults ($10, 1M shares)."""
         self.builder_bdry.baseline['is_contemporaneous'] = False
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': 42000.0}
+            target_contract_prices={self._cape_prompt_ticker: 42000.0}
         )
         self.assertIsNone(res['approximate_nav_target_range'])
         self.assertIsNone(res['approximate_etf_market_price_target_range'])
+
         self.assertEqual(res['per_share_status'], "PER_SHARE_UNAVAILABLE_NON_CONTEMPORANEOUS_BASELINE")
 
     def test_exact_contract_target_isolation(self):
         """Prove that entering a target mark for one specific contract maturity does NOT affect other maturities."""
         aug_target_px = 45000.0
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': aug_target_px},
+            target_contract_prices={self._cape_prompt_ticker: aug_target_px},
             scenario_mode='FROZEN_BOOK'
         )
-        
-        c_aug = None
-        c_sep = None
+
+        c_prompt = None
+        c_other = None
         for row in res['contract_breakdown']:
-            if row['ticker'] == 'C5TCM Q26 INDEX':
-                c_aug = row
-            elif 'Sep 26' in row['contract_name']:
-                c_sep = row
-                
-        self.assertIsNotNone(c_aug)
-        self.assertIsNotNone(c_sep)
-        self.assertEqual(c_aug['target_mark_price'], aug_target_px)
-        self.assertNotEqual(c_aug['delta_mark_dollars'], 0.0)
-        self.assertNotEqual(c_aug['gross_futures_pnl_dollars'], 0.0)
-        
-        self.assertEqual(c_sep['target_mark_price'], c_sep['current_mark_price'])
-        self.assertEqual(c_sep['delta_mark_dollars'], 0.0)
-        self.assertEqual(c_sep['gross_futures_pnl_dollars'], 0.0)
+            if row['ticker'] == self._cape_prompt_ticker:
+                c_prompt = row
+            elif row['ticker'] == self._cape_next_ticker and c_other is None:
+                c_other = row
+
+        self.assertIsNotNone(c_prompt, f"Prompt Capesize contract {self._cape_prompt_ticker} missing from breakdown")
+        self.assertIsNotNone(c_other, f"Next Capesize contract {self._cape_next_ticker} missing from breakdown")
+        self.assertEqual(c_prompt['target_mark_price'], aug_target_px)
+        self.assertNotEqual(c_prompt['delta_mark_dollars'], 0.0)
+        self.assertNotEqual(c_prompt['gross_futures_pnl_dollars'], 0.0)
+
+        self.assertEqual(c_other['target_mark_price'], c_other['current_mark_price'])
+        self.assertEqual(c_other['delta_mark_dollars'], 0.0)
+        self.assertEqual(c_other['gross_futures_pnl_dollars'], 0.0)
+
 
     def test_manually_supplied_dated_baseline(self):
         """Prove that a valid contemporaneous manual baseline unlocks per-share estimates with correct math."""
@@ -117,55 +139,52 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
             'as_of_date': snap_dt,
             'source': 'Verified User Manual Input'
         }
-        
-        base_q26_mark = float(self.builder_bdry.snapshot['positions'][0]['price'])
-        target_prices = {'C5TCM Q26 INDEX': base_q26_mark + 1000.0}
+
+        # Use the prompt Capesize contract dynamically — whatever is currently in the snapshot.
+        prompt_pos = next(p for p in self.builder_bdry.snapshot['positions']
+                          if p['ticker'] == self._cape_prompt_ticker)
+        base_prompt_mark = float(prompt_pos['price'])
+        shock_per_day = 1000.0
+        target_prices = {self._cape_prompt_ticker: base_prompt_mark + shock_per_day}
         res = self.builder_bdry.build_scenario(
             target_contract_prices=target_prices,
             scenario_mode='FROZEN_BOOK',
             manual_dated_baseline=manual_baseline,
             premium_discount_spread_pct=2.50
         )
-        
+
         self.assertEqual(res['per_share_status'], "PER_SHARE_ESTIMATE_AVAILABLE")
         self.assertIsNotNone(res['approximate_nav_target_range'])
         self.assertIsNotNone(res['approximate_etf_market_price_target_range'])
-        
+
         nav_rng = res['approximate_nav_target_range']
         mkt_rng = res['approximate_etf_market_price_target_range']
-        
+
         # Derive expected P&L from live snapshot lots — stays correct regardless of AUM changes.
-        # Shock is +$1,000/day on the Aug 26 (Q26) Capesize contract.
-        cape_q26_pos = next(
-            (p for p in self.builder_bdry.snapshot['positions'] if p['ticker'] == 'C5TCM Q26 INDEX'),
-            None
-        )
-        self.assertIsNotNone(cape_q26_pos, "C5TCM Q26 INDEX must be in BDRY snapshot")
-        live_cape_lots = float(cape_q26_pos['lots'])
-        live_cape_multiplier = float(cape_q26_pos.get('multiplier', 1.0))
-        shock_per_day = 1000.0
-        expected_cape_pnl = live_cape_lots * live_cape_multiplier * shock_per_day
+        live_lots = float(prompt_pos['lots'])
+        live_mult = float(prompt_pos.get('multiplier', 1.0))
+        expected_cape_pnl = live_lots * live_mult * shock_per_day
         expected_total_nav = 30_000_000.0 + expected_cape_pnl
         expected_nav_per_sh = expected_total_nav / 2_000_000
-        
+
         self.assertAlmostEqual(nav_rng['projected_total_fund_nav_dollars'], expected_total_nav, places=2)
         self.assertAlmostEqual(nav_rng['projected_nav_per_share'], expected_nav_per_sh, places=4)
         self.assertAlmostEqual(mkt_rng['base_target_nav_parity'], round(expected_nav_per_sh, 2), places=2)
 
     def test_user_specified_forward_book(self):
         """Prove that USER_SPECIFIED_FORWARD_BOOK evaluates explicit custom forward lots and is labeled correctly."""
-        oct_pos = next(p for p in self.builder_bdry.snapshot['positions'] if p['ticker'] == 'C5TCM V26 INDEX')
-        oct_base_price = float(oct_pos['price'])
-        target_oct_price = oct_base_price + 1500.0
-        
+        fwd_pos = next(p for p in self.builder_bdry.snapshot['positions']
+                       if p['ticker'] == self._cape_fwd_ticker)
+        fwd_base_price = float(fwd_pos['price'])
+        target_fwd_price = fwd_base_price + 1500.0
+
+        # Zero out the prompt contract and override the forward contract lots.
         custom_lots = {
-            'C5TCM Q26 INDEX': 0.0,
-            'C5TCM V26 INDEX': 200.0
+            self._cape_prompt_ticker: 0.0,
+            self._cape_fwd_ticker: 200.0
         }
-        target_prices = {
-            'C5TCM V26 INDEX': target_oct_price
-        }
-        
+        target_prices = {self._cape_fwd_ticker: target_fwd_price}
+
         res = self.builder_bdry.build_scenario(
             target_contract_prices=target_prices,
             scenario_mode='USER_SPECIFIED_FORWARD_BOOK',
@@ -173,14 +192,14 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         )
         self.assertEqual(res['scenario_mode'], 'USER_SPECIFIED_FORWARD_BOOK')
         self.assertEqual(res['scenario_mode_label'], 'User-assumed forward book')
-        
+
         for row in res['contract_breakdown']:
-            if row['ticker'] == 'C5TCM Q26 INDEX':
+            if row['ticker'] == self._cape_prompt_ticker:
                 self.assertEqual(row['effective_lots'], 0.0)
                 self.assertEqual(row['gross_futures_pnl_dollars'], 0.0)
-            elif row['ticker'] == 'C5TCM V26 INDEX':
+            elif row['ticker'] == self._cape_fwd_ticker:
                 self.assertEqual(row['effective_lots'], 200.0)
-                expected_pnl = 200.0 * 1.0 * (target_oct_price - oct_base_price)
+                expected_pnl = 200.0 * 1.0 * (target_fwd_price - fwd_base_price)
                 self.assertAlmostEqual(row['gross_futures_pnl_dollars'], expected_pnl, places=2)
 
     def test_rejected_synthetic_modes(self):
@@ -190,11 +209,12 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
 
     def test_bwet_tanker_exact_shock(self):
         """Prove that BWET tanker pricing evaluates 1000 MT multiplier correctly."""
-        c_vlcc_pos = next(p for p in self.builder_bwet.snapshot['positions'] if p['ticker'] == 'DD3CM Q26 INDEX')
+        c_vlcc_pos = next(p for p in self.builder_bwet.snapshot['positions']
+                          if p['ticker'] == self._vlcc_prompt_ticker)
         vlcc_base_mark = float(c_vlcc_pos['price'])
         target_vlcc_mark = vlcc_base_mark + 5.0
-        
-        target_prices = {'DD3CM Q26 INDEX': target_vlcc_mark}
+
+        target_prices = {self._vlcc_prompt_ticker: target_vlcc_mark}
         res = self.builder_bwet.build_scenario(
             target_contract_prices=target_prices,
             scenario_mode='FROZEN_BOOK'
@@ -202,7 +222,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         self.assertGreater(res['gross_futures_pnl_dollars'], 0)
         c_vlcc = None
         for row in res['contract_breakdown']:
-            if row['ticker'] == 'DD3CM Q26 INDEX':
+            if row['ticker'] == self._vlcc_prompt_ticker:
                 c_vlcc = row
                 break
         self.assertIsNotNone(c_vlcc)
@@ -211,7 +231,9 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
 
     def test_stale_snapshot_rejection(self):
         """Prove that builder rejects stale snapshot (> 3 business days)."""
-        stale_ref_time = datetime(2026, 8, 25, 12, 0, 0, tzinfo=timezone.utc)
+        # Always use a reference time sufficiently far in the future (10 business days ≈ 14 calendar days)
+        # regardless of what today's date is.
+        stale_ref_time = self.ref_time + timedelta(days=14)
         with self.assertRaises(StaleSnapshotError):
             ThesisScenarioBuilder(fund='BDRY', reference_time_utc=stale_ref_time, max_stale_business_days=3)
 
@@ -268,16 +290,17 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         """Prove that inconsistent manual NAV / shares / NAV-per-share is rejected or marked invalid."""
         # Total NAV = $30M, Shares = 2M => Implied NAV/sh = $15.00.
         # But supplied nav_per_share is $12.00 (difference $3.00 > tolerance $0.05).
+        snap_dt = self.builder_bdry.snapshot['snapshot_date']
         inconsistent_baseline = {
             'total_nav_dollars': 30_000_000.0,
             'shares_outstanding': 2_000_000,
             'nav_per_share': 12.00,  # Inconsistent!
             'market_price': 14.80,
-            'as_of_date': '2026-08-14',
+            'as_of_date': snap_dt,   # Use live snapshot date so it's contemporaneous
             'source': 'Corrupted Manual Input'
         }
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: 40000.0},
             manual_dated_baseline=inconsistent_baseline,
             manual_baseline_tolerance=0.05
         )
@@ -289,36 +312,45 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
     # --- SAFEGUARD 3 TESTS ---
     def test_output_preserves_and_displays_all_three_dates(self):
         """Prove that output bundle preserves holdings snapshot date, baseline date, and scenario horizon date."""
+        from datetime import date
         snap_dt = self.builder_bdry.snapshot['snapshot_date']
+
+        # Use a baseline date 7 calendar days before the snapshot — always non-contemporaneous.
+        snap_date_obj = date.fromisoformat(snap_dt)
+        baseline_date_obj = snap_date_obj - timedelta(days=7)
+        baseline_date_str = baseline_date_obj.isoformat()
+        expected_gap_days = (snap_date_obj - baseline_date_obj).days  # exactly 7
+
         manual_base = {
             'total_nav_dollars': 30_000_000.0,
             'shares_outstanding': 2_000_000,
             'nav_per_share': 15.00,
             'market_price': 14.80,
-            'as_of_date': '2026-08-10',  # 4 days before Aug 14 snapshot
+            'as_of_date': baseline_date_str,
             'source': 'Historical Baseline'
         }
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={'C5TCM Q26 INDEX': 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: 40000.0},
             scenario_horizon_date='2026-09-30',
             manual_dated_baseline=manual_base
         )
         prov_dates = res['provenance_dates']
         self.assertEqual(prov_dates['holdings_snapshot_as_of_date'], snap_dt)
-        self.assertEqual(prov_dates['baseline_as_of_date'], '2026-08-10')
+        self.assertEqual(prov_dates['baseline_as_of_date'], baseline_date_str)
         self.assertEqual(prov_dates['scenario_horizon_date'], '2026-09-30')
-        self.assertEqual(prov_dates['baseline_to_holdings_gap_days'], 4)
+        self.assertEqual(prov_dates['baseline_to_holdings_gap_days'], expected_gap_days)
         self.assertFalse(prov_dates['is_baseline_contemporaneous_with_snapshot'])
         self.assertIn("differs from holdings snapshot date", prov_dates['date_alignment_disclaimer'])
 
     # --- SAFEGUARD 4 TESTS ---
     def test_missing_scenario_snapshot_provenance_blocks_price_range(self):
         """Prove that missing scenario-snapshot provenance fields block price-range output."""
+        snap_dt = self.builder_bdry.snapshot['snapshot_date']
         invalid_snapshot = {
             'schema_version': '1.0.0',
             # Missing generation_timestamp_utc, source_urls, source_hashes, etc.
             'fund_symbol': 'BDRY',
-            'holdings_snapshot_as_of_date': '2026-08-14'
+            'holdings_snapshot_as_of_date': snap_dt
         }
         with self.assertRaises(MissingProvenanceRecordError):
             ThesisScenarioBuilder(
@@ -363,17 +395,15 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
             'as_of_date': snap_dt,
             'source': 'Verified Contemporaneous Baseline'
         }
-        base_q26_mark = float(self.builder_bdry.snapshot['positions'][0]['price'])
-        # Build a target price that yields exactly +$1,000,000 gross P&L from the Q26 contract.
+        # Build a target price that yields exactly +$1,000,000 gross P&L from the prompt contract.
         # Derive live lots from snapshot so this stays correct after any AUM-driven lot change.
-        cape_q26_pos = next(
-            (p for p in self.builder_bdry.snapshot['positions'] if p['ticker'] == 'C5TCM Q26 INDEX'),
-            self.builder_bdry.snapshot['positions'][0]
-        )
-        live_lots = float(cape_q26_pos['lots'])
-        live_mult = float(cape_q26_pos.get('multiplier', 1.0))
-        target_marks = {'C5TCM Q26 INDEX': base_q26_mark + (1_000_000.0 / (live_lots * live_mult))}
-        
+        prompt_pos = next(p for p in self.builder_bdry.snapshot['positions']
+                          if p['ticker'] == self._cape_prompt_ticker)
+        base_prompt_mark = float(prompt_pos['price'])
+        live_lots = float(prompt_pos['lots'])
+        live_mult = float(prompt_pos.get('multiplier', 1.0))
+        target_marks = {self._cape_prompt_ticker: base_prompt_mark + (1_000_000.0 / (live_lots * live_mult))}
+
         # 1. Carry forward premium mode: Market Target Base = $10.50 * (1 + 5%) = $11.025
         res_prem = self.builder_bdry.build_scenario(
             target_contract_prices=target_marks,
