@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-08-17T17:32:34.846983+00:00",
+  "generation_timestamp_utc": "2026-08-17T17:44:22.041164+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-08-17",
@@ -20,8 +20,8 @@
     "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-08-17.csv",
     "expected_registry_sha256": "383228df9ce1ef112af2b19655f04b3d7b4e8e55d2373bc8ba1b36bf66099ae5",
     "computed_archive_sha256": "383228df9ce1ef112af2b19655f04b3d7b4e8e55d2373bc8ba1b36bf66099ae5",
-    "snapshot_content_sha256": "96d6caaf09b766e24ebf4725213838bd35bc1fe0f16fd1b539c695a70d2d819c",
-    "manifest_snapshot_sha256": "96d6caaf09b766e24ebf4725213838bd35bc1fe0f16fd1b539c695a70d2d819c",
+    "snapshot_content_sha256": "28dd72fc306e2cacbd19dda1e4d35d9a0396e74e0bcfb133a0bd24cd252bf3fd",
+    "manifest_snapshot_sha256": "28dd72fc306e2cacbd19dda1e4d35d9a0396e74e0bcfb133a0bd24cd252bf3fd",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
@@ -29,7 +29,7 @@
     "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-08-17T17:32:34.846983+00:00"
+    "reference_time_utc": "2026-08-17T17:44:22.041164+00:00"
   },
   "baseline": {
     "as_of_date": "2026-08-17",
@@ -37,7 +37,7 @@
     "total_nav_dollars": 83936470.91,
     "shares_outstanding": 225000,
     "nav_per_share": 372.91,
-    "market_price": 374.5499877929688,
+    "market_price": 375.2001037597656,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
