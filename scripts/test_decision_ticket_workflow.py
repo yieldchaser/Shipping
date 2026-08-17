@@ -48,7 +48,10 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         return hashes
 
     def setUp(self):
-        self.ref_time = datetime(2026, 8, 14, 15, 0, 0, tzinfo=timezone.utc)
+        # Use current date to avoid future-dated snapshot validation errors
+        self.ref_time = datetime.now(timezone.utc).replace(hour=15, minute=0, second=0, microsecond=0)
+        self.ref_date_str = self.ref_time.strftime('%Y-%m-%d')
+        self.ref_date_compact = self.ref_time.strftime('%Y%m%d')
         self.pre_test_hashes = self._compute_prod_hashes()
 
     def tearDown(self):
@@ -66,22 +69,22 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket = generate_decision_ticket(
             fund='BDRY',
             target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
                 'total_nav_dollars': 30000000.0,
                 'shares_outstanding': 2169200,
                 'nav_per_share': 13.83,
                 'market_price': 13.79,
-                'as_of_date': '2026-08-14',
+                'as_of_date': self.ref_date_str,
                 'source': 'Manual Contemporaneous Baseline'
             }
         )
         
         # Verify identification & metadata
-        self.assertTrue(ticket['ticket_id'].startswith('DT-BDRY-20260814-'))
+        self.assertTrue(ticket['ticket_id'].startswith(f'DT-BDRY-{self.ref_date_compact}-'))
         self.assertEqual(ticket['fund_symbol'], 'BDRY')
-        self.assertEqual(ticket['provenance_and_dates']['holdings_snapshot_as_of_date'], '2026-08-14')
+        self.assertEqual(ticket['provenance_and_dates']['holdings_snapshot_as_of_date'], self.ref_date_str)
         self.assertEqual(ticket['book_classification']['scenario_mode'], 'FROZEN_BOOK')
         
         # Verify P&L and Route Attribution
@@ -128,14 +131,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
                 'DD3CM Q26 INDEX': 105.167,  # +10.00 $/MT on 160 lots * 1000 MT = +$1,600,000
                 'DD20M Q26 INDEX': 43.507    # +5.00 $/MT on 30 lots * 1000 MT = +$150,000
             },
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
                 'total_nav_dollars': 15000000.0,
                 'shares_outstanding': 44200,
                 'nav_per_share': 339.37,
                 'market_price': 357.33,
-                'as_of_date': '2026-08-14',
+                'as_of_date': self.ref_date_str,
                 'source': 'Manual Contemporaneous Baseline'
             }
         )
@@ -159,7 +162,7 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket = generate_decision_ticket(
             fund='BDRY',
             target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time
             # Omit manual_dated_baseline => default non-contemporaneous baseline
         )
@@ -185,14 +188,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket = generate_decision_ticket(
             fund='BDRY',
             target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
                 'total_nav_dollars': 30000000.0,
                 'shares_outstanding': 2169200, # implied = 13.83
                 'nav_per_share': 25.00,        # mismatched!
                 'market_price': 13.79,
-                'as_of_date': '2026-08-14',
+                'as_of_date': self.ref_date_str,
                 'source': 'Bad Input'
             }
         )
@@ -219,14 +222,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
                     'roll_transaction_cost_dollars': 5000.0
                 }
             ],
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
                 'total_nav_dollars': 30000000.0,
                 'shares_outstanding': 2169200,
                 'nav_per_share': 13.83,
                 'market_price': 13.79,
-                'as_of_date': '2026-08-14',
+                'as_of_date': self.ref_date_str,
                 'source': 'Manual Contemporaneous Baseline'
             }
         )
@@ -255,14 +258,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket = generate_decision_ticket(
             fund='BDRY',
             target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
                 'total_nav_dollars': 30000000.0,
                 'shares_outstanding': 2169200,
                 'nav_per_share': 13.83,
                 'market_price': 13.79,
-                'as_of_date': '2026-08-14',
+                'as_of_date': self.ref_date_str,
                 'source': 'Manual Contemporaneous Baseline'
             }
         )
@@ -280,7 +283,7 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket_bdry = generate_decision_ticket(
             fund='BDRY',
             route_percentage_shocks={'Capesize': 5.0, 'Panamax': -2.0, 'Supramax': 1.0},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time
         )
         self.assertIsNotNone(ticket_bdry['ticket_id'])
@@ -290,7 +293,7 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         ticket_bwet = generate_decision_ticket(
             fund='BWET',
             route_percentage_shocks={'VLCC': 4.0, 'Suezmax': -1.5},
-            scenario_horizon_date='2026-08-14',
+            scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time
         )
         self.assertIsNotNone(ticket_bwet['ticket_id'])
