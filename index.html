@@ -11597,6 +11597,10 @@ if (intelTabsContainer) {
       Chart.defaults.plugins.tooltip.enabled = false;
       Chart.defaults.plugins.tooltip.external = function (context) {
         if (!window.updateChartTooltip) return;
+        // If the chart explicitly enabled native canvas tooltip, do NOT render the external DOM tooltip
+        if (context.chart && context.chart.options && context.chart.options.plugins && context.chart.options.plugins.tooltip && context.chart.options.plugins.tooltip.enabled) {
+          return;
+        }
         
         const tooltipModel = context.tooltip;
         const chartWrapper = context.chart.canvas.parentNode;
@@ -23497,6 +23501,14 @@ if (intelTabsContainer) {
         const cleanCanvas = canvas.cloneNode(true);
         canvas.parentNode.replaceChild(cleanCanvas, canvas);
         canvas = cleanCanvas;
+
+        // Clear any orphan DOM chart tooltip inside radar wrapper
+        const radarWrap = canvas.closest('.mhr-radar-wrap') || canvas.parentNode;
+        if (radarWrap) {
+          const orphanTt = radarWrap.querySelector('.chart-tooltip');
+          if (orphanTt) orphanTt.remove();
+        }
+
         const ctx = canvas.getContext('2d');
 
         // Use multi-line label arrays from _PILLAR_META for clean display
@@ -23537,6 +23549,7 @@ if (intelTabsContainer) {
               legend: { display: false },
               tooltip: {
                 enabled: true,
+                external: function() {}, // Strictly override global external DOM tooltip
                 mode: 'nearest',
                 intersect: true,
                 displayColors: false,
