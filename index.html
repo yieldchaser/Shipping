@@ -23432,7 +23432,7 @@ if (intelTabsContainer) {
       if (!DATA.loaded) return;
 
       const result = _computeMacroHealthScore();
-      const { total, pillars, regime, cls, emoji } = result;
+      const { total, pillars, regime, cls } = result;
 
       const accentRgb = cls === 'mhr-bull' ? '63,185,80' : cls === 'mhr-mid' ? '227,179,65' : '248,81,73';
       const accentHex = cls === 'mhr-bull' ? '#3fb950' : cls === 'mhr-mid' ? '#e3b341' : '#f85149';
@@ -23447,7 +23447,9 @@ if (intelTabsContainer) {
       // Update regime badge
       const badgeEl = document.getElementById('mhrRegimeBadge');
       if (badgeEl) {
-        badgeEl.textContent = emoji + ' ' + regime;
+        badgeEl.innerHTML =
+          '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;flex-shrink:0;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="' + accentHex + '"/></svg>' +
+          regime;
         badgeEl.className = 'mhr-regime-badge ' + cls;
       }
 
@@ -23462,7 +23464,10 @@ if (intelTabsContainer) {
           const pct = Math.round((p.score / p.max) * 100);
           const barColor = pct >= 70 ? '#3fb950' : pct >= 40 ? '#e3b341' : '#f85149';
           const meta = _PILLAR_META[p.label] || {};
-          const interpretation = pct >= 70 ? '🟢 Strong' : pct >= 40 ? '🟡 Moderate' : '🔴 Weak';
+          const dotColor = pct >= 70 ? '#3fb950' : pct >= 40 ? '#e3b341' : '#f85149';
+          const dotSvg = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:4px;flex-shrink:0;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="' + dotColor + '"/></svg>';
+          const interpLabel = pct >= 70 ? 'Strong' : pct >= 40 ? 'Moderate' : 'Weak';
+          const interpretation = dotSvg + '<span style="color:' + dotColor + ';font-weight:700;">' + interpLabel + '</span>';
           const signalLines = (meta.signals || []).join('<br>');
           const tooltipHtml =
             '<div class="mhr-pillar-tooltip" id="mhrPillarTT' + i + '">' +
@@ -23550,7 +23555,7 @@ if (intelTabsContainer) {
                     const idx = items[0].dataIndex;
                     const p = pillars[idx];
                     const pct = p.score / p.max;
-                    const interp = pct >= 0.7 ? '🟢 Strong' : pct >= 0.4 ? '🟡 Moderate' : '🔴 Weak signal';
+                    const interp = pct >= 0.7 ? '● Strong' : pct >= 0.4 ? '● Moderate' : '● Weak signal';
                     const meta = _PILLAR_META[p.label] || {};
                     const descShort = (meta.desc || '').split('. ')[0];
                     return interp + (descShort ? '\n' + descShort : '');
@@ -23764,12 +23769,12 @@ if (intelTabsContainer) {
       })();
 
       const total = pillars.reduce((a, p) => a + p.score, 0);
-      let regime, cls, emoji;
-      if (total >= 75)      { regime = 'Bullish Expansion';       cls = 'mhr-bull'; emoji = '🟢'; }
-      else if (total >= 45) { regime = 'Balanced Mid-Cycle';      cls = 'mhr-mid';  emoji = '🟡'; }
-      else                  { regime = 'Contraction / Value Trough'; cls = 'mhr-bear'; emoji = '🔴'; }
+      let regime, cls;
+      if (total >= 75)      { regime = 'Bullish Expansion';          cls = 'mhr-bull'; }
+      else if (total >= 45) { regime = 'Balanced Mid-Cycle';         cls = 'mhr-mid';  }
+      else                  { regime = 'Contraction / Value Trough'; cls = 'mhr-bear'; }
 
-      return { total, pillars, regime, cls, emoji };
+      return { total, pillars, regime, cls };
     }
 
 
@@ -28550,11 +28555,14 @@ if (intelTabsContainer) {
 
         // ── PILLAR 4: Intelligence Tab Macro Health Radar ───────────────────────
         else if (type === 'macro-health-radar-gauge') {
+          const greenDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#3fb950"/></svg>';
+          const yellowDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#e3b341"/></svg>';
+          const redDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#f85149"/></svg>';
           html = `<div class="rt-title">Executive Shipping Macro Health Radar</div>`;
           html += `<div class="rt-row"><span class="rt-label">Score Range</span><span class="rt-val">0–100 composite index (5 pillars × 20 pts each)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#3fb950">🟢 Bullish Expansion Regime</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">45–74</span><span class="rt-val" style="color:#e3b341">🟡 Balanced Mid-Cycle Regime</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#f85149">🔴 Contraction / Value Trough</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#3fb950">${greenDot}Bullish Expansion Regime</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">45–74</span><span class="rt-val" style="color:#e3b341">${yellowDot}Balanced Mid-Cycle Regime</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#f85149">${redDot}Contraction / Value Trough</span></div>`;
           html += `<div class="rt-note">Aggregates: Freight Momentum (30D BDI ROC), Term Structure Slope (Cape 4–6M vs 2Y spread), Futures Basis Arbitrage (BDRYFF vs spot), Port Restocking Dynamics (inventory cover days), and Asset Cycle Safety (scrap margin of safety).</div>`;
         }
         else if (type === 'macro-playbook-card') {
