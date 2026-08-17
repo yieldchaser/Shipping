@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-17_2026_08_17_russia_turns_north_arctic_oil_flows_reshape_the_route_to_asia__root",
+  "doc_id": "breakwave_insights_insights_2026-08-17_2026_08_17_russia_turns_north_arctic_oil_flows_reshape_the_route_to_asia",
+  "parent_id": null,
+  "title": "Russia Turns North: Arctic Oil Flows Reshape the Route to Asia",
+  "section_path": [
+    "Russia Turns North: Arctic Oil Flows Reshape the Route to Asia"
+  ],
+  "section_path_text": "Russia Turns North: Arctic Oil Flows Reshape the Route to Asia",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Panagiota Kinti\nRussia's Arctic oil corridor is gaining momentum, adding another layer to an already rapidly changing tanker trade. Seven crude cargoes carrying around 6 million barrels are already heading to Asia via the Northern Sea Route (NSR) this season, nearly half of the roughly 13 million barrels shipped during the entire 2025 navigation window. According to LSEG shipping data, six of these voyages are being performed by Aframax tankers, with one Suezmax, while China remains the primary destination for these flows.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "already",
+    "arctic",
+    "are",
+    "around",
+    "nsr",
+    "reduce",
+    "route"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 378,
+  "source_path": "reports/breakwave/2026/2026-08-17_russia-turns-north-arctic-oil-flows-reshape-the-route-to-asia.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/17/russia-turns-north-arctic-oil-flows-reshape-the-route-to-asia",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-17_2026_08_17_russia_turns_north_arctic_oil_flows_reshape_the_route_to_asia__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-17_2026_08_17_russia_turns_north_arctic_oil_flows_reshape_the_route_to_asia",
+      "parent_id": "breakwave_insights_insights_2026-08-17_2026_08_17_russia_turns_north_arctic_oil_flows_reshape_the_route_to_asia__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Panagiota Kinti\nRussia's Arctic oil corridor is gaining momentum, adding another layer to an already rapidly changing tanker trade. Seven crude cargoes carrying around 6 million barrels are already heading to Asia via the Northern Sea Route (NSR) this season, nearly half of the roughly 13 million barrels shipped during the entire 2025 navigation window.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "already",
+        "arctic",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 376,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
