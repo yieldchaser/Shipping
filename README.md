@@ -613,9 +613,7 @@ python scripts/verify_production_artifact_integrity.py
 python scratch/run_all_test_suites.py
 python scripts/test_decision_ticket_workflow.py
 
-# 6. Run LLM Providers, Dropdown & Headless DOM Simulation Runtime Tests
-node scratch/test_etf_daily_brief_and_nim_removal.js
-node scratch/test_rich_tooltips_full.js
+# 6. Run Headless DOM Simulation Runtime Tests
 node scratch/simulate_dom_runtime.js
 
 # 7. Fetch BDRY / BWET Playwright fund flows
