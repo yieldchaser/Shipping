@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T15:37:07Z",
-  "current_date": "2026-08-16",
-  "warning_count": 6,
+  "generated_at": "2026-08-17T11:10:14Z",
+  "current_date": "2026-08-17",
+  "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,9 +11,90 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {}
+    "divergences": {
+      "watch": 2
+    }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "china_steel_and_iron_ore",
+      "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "china_steel_and_iron_ore",
+        "title": "China Steel and Iron Ore",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.04,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-08-14"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 3,
+            "latest_date": "2026-08-04"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-08-17"
+          }
+        ],
+        "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "dry_bulk_market",
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral.",
+      "details": {
+        "topic_id": "dry_bulk_market",
+        "title": "Dry Bulk Market",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.17,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-08-15"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-08-14"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 2,
+            "latest_date": "2026-08-04"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-08-17"
+          }
+        ],
+        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
