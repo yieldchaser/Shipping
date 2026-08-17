@@ -23490,9 +23490,13 @@ if (intelTabsContainer) {
       }
 
       // Render radar chart with proper multi-line labels and rich tooltips
-      const canvas = document.getElementById('mhrRadarCanvas');
+      let canvas = document.getElementById('mhrRadarCanvas');
       if (canvas) {
         destroyChart('mhrRadarCanvas');
+        // Clean DOM node replacement to remove any stale event listeners from prior renders
+        const cleanCanvas = canvas.cloneNode(true);
+        canvas.parentNode.replaceChild(cleanCanvas, canvas);
+        canvas = cleanCanvas;
         const ctx = canvas.getContext('2d');
 
         // Use multi-line label arrays from _PILLAR_META for clean display
@@ -23533,7 +23537,12 @@ if (intelTabsContainer) {
               legend: { display: false },
               tooltip: {
                 enabled: true,
+                mode: 'nearest',
+                intersect: true,
                 displayColors: false,
+                filter: function(tooltipItem, index) {
+                  return index === 0;
+                },
                 backgroundColor: 'rgba(10,14,20,0.97)',
                 borderColor: 'rgba(255,255,255,0.13)',
                 borderWidth: 1,
@@ -23546,19 +23555,23 @@ if (intelTabsContainer) {
                 padding: 10,
                 callbacks: {
                   title: function(items) {
+                    if (!items || !items.length) return '';
                     const idx = items[0].dataIndex;
-                    return pillars[idx].label;
+                    return (pillars[idx] && pillars[idx].label) ? pillars[idx].label : '';
                   },
                   label: function(item) {
                     const idx = item.dataIndex;
                     const p = pillars[idx];
+                    if (!p) return '';
                     const pct = Math.round((p.score / p.max) * 100);
                     const bar = '█'.repeat(Math.round(pct / 10)) + '░'.repeat(10 - Math.round(pct / 10));
                     return bar + '  ' + p.score + '/' + p.max + ' pts (' + pct + '%)';
                   },
                   footer: function(items) {
+                    if (!items || !items.length) return '';
                     const idx = items[0].dataIndex;
                     const p = pillars[idx];
+                    if (!p) return '';
                     const pct = p.score / p.max;
                     const interp = pct >= 0.7 ? '● Strong' : pct >= 0.4 ? '● Moderate' : '● Weak signal';
                     const meta = _PILLAR_META[p.label] || {};
