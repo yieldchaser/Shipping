@@ -23629,8 +23629,8 @@ if (intelTabsContainer) {
           ];
         }
         const regimeCls = total >= 75 ? 'bull' : total >= 45 ? 'mid' : 'bear';
-        playbookEl.innerHTML = plays.map(p =>
-          '<div class="mhr-pb-card" data-tt-type="macro-playbook-card" data-tt-regime="' + regimeCls + '">' +
+        playbookEl.innerHTML = plays.map((p, idx) =>
+          '<div class="mhr-pb-card" data-tt-type="macro-playbook-card" data-tt-regime="' + regimeCls + '" data-tt-play-idx="' + idx + '">' +
             '<div class="mhr-pb-card-label" style="color:' + p.accent + '">' + p.tag + '</div>' +
             '<div class="mhr-pb-card-title">' + p.title + '</div>' +
             '<div class="mhr-pb-card-note">' + p.note + '</div>' +
@@ -28572,21 +28572,89 @@ if (intelTabsContainer) {
         }
         else if (type === 'macro-playbook-card') {
           const regime = target.getAttribute('data-tt-regime') || 'mid';
-          const regimeLabels = {bull:'Bullish Expansion',mid:'Balanced Mid-Cycle',bear:'Contraction / Value Trough'};
-          html = `<div class="rt-title">Institutional Tactical Playbook: ${regimeLabels[regime] || 'Current Regime'}</div>`;
-          if (regime === 'bull') {
-            html += `<div class="rt-row"><span class="rt-label">ETF Strategy</span><span class="rt-val">Overweight physical ETF (BDRY/BWET) exposure</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Charter Strategy</span><span class="rt-val">Ladder spot-to-TC arbitrage harvesting</span></div>`;
-            html += `<div class="rt-note">Backwardation conditions allow ETF roll yield to supplement spot returns. Period TC rates lag spot in early expansion — lock in spot and delay period covers.</div>`;
-          } else if (regime === 'mid') {
-            html += `<div class="rt-row"><span class="rt-label">ETF Strategy</span><span class="rt-val">Equal-weight BDRY/BWET; monitor roll drag</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Charter Strategy</span><span class="rt-val">Blend 30–50% period coverage vs spot exposure</span></div>`;
-            html += `<div class="rt-note">Mid-cycle markets offer balanced risk/reward. Focus on roll efficiency and basis arbitrage rather than directional bets.</div>`;
-          } else {
-            html += `<div class="rt-row"><span class="rt-label">ETF Strategy</span><span class="rt-val">Reduce ETF exposure; accumulate below scrap floor</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Charter Strategy</span><span class="rt-val">Sell volatility via covered period charters</span></div>`;
-            html += `<div class="rt-note">Value trough regimes offer the best secondhand vessel buying opportunities. ETF contango drag is highest — minimize unhedged ETF exposure and focus on physical asset accumulation.</div>`;
-          }
+          const playIdx = parseInt(target.getAttribute('data-tt-play-idx') || '0', 10);
+
+          const PLAYBOOK_TOOLTIPS = {
+            bull: [
+              {
+                title: 'Expansion Mandate: Physical ETF Overweight',
+                objective: 'Maximize beta participation during cyclical freight momentum upswings',
+                rules: 'Overweight BDRY (Dry Bulk) & BWET (Tankers) while BDI spot exceeds 90-day MA and 30-day rate-of-change is accelerating.',
+                metric: 'Freight Momentum > 16/20 pts & BDI 30D ROC > +5%',
+                risk: 'Trail stops at 20-day EMA; monitor Capesize cargo volume velocity.'
+              },
+              {
+                title: 'Derivatives Arb: Spot-to-TC Arbitrage Harvesting',
+                objective: 'Capture forward curve backwardation and positive roll carry',
+                rules: 'Lock near-term period time-charters (4–6M) above the forward FFA curve. Monetize positive roll yield while prompt freight trades at a structural premium.',
+                metric: 'Term Structure Slope > 16/20 pts (Cape 4–6M vs 2Y Spread > +5%)',
+                risk: 'Hedge prompt delivery risk if Atlantic vessel ballasting spikes unexpectedly.'
+              },
+              {
+                title: 'High-Conviction Flow: Long Front-Quarter FFA Exposure',
+                objective: 'Direct institutional derivatives positioning on seasonal cargo tightness',
+                rules: 'Accumulate front-quarter Capesize 5TC contracts when Chinese port inventories draw down and term structure slope steepens.',
+                metric: 'Port Restocking Urgency + Positive FFA Basis Spread',
+                risk: 'Strict VaR limit; hedge with Panamax short if Cape/Panamax ratio exceeds 2.2x.'
+              }
+            ],
+            mid: [
+              {
+                title: 'Balance Sheet Mandate: Symmetric Sector Allocation',
+                objective: 'Maintain balanced market exposure across dry bulk and tanker segments',
+                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Harvest cross-sector volatility dispersion without taking aggressive directional duration risk.',
+                metric: 'Composite Macro Score between 45 and 74 pts',
+                risk: 'Rebalance monthly; shift to directional overweight upon regime breakout (> 75 or < 45).'
+              },
+              {
+                title: 'Carry & Basis Watch: Futures Basis Arbitrage',
+                objective: 'Eliminate negative roll drag and identify short-lived carry opportunities',
+                rules: 'Track spot BDI against front-month BDRYFF futures. Avoid aggressive ETF accumulation during flat carry or negative contango regimes.',
+                metric: 'Spot-to-Futures Basis Spread & Calendar Roll Efficiency (12/20 pts)',
+                risk: 'Apply ETF hedge overlay if prompt contango roll penalty exceeds 3.5% per roll.'
+              },
+              {
+                title: 'Risk Management Mandate: Mean-Reversion Tactical Trimming',
+                objective: 'Protect unrealized gains and avoid bull traps in range-bound markets',
+                rules: 'Trim tactical long positions when composite score drifts near 70; re-accumulate near 48 support. Use historical percentile ranks to time trims.',
+                metric: '30-Day Rolling Momentum Percentiles & Overbought Indicators',
+                risk: 'Enforce trailing stop-losses; exit speculative longs if macroeconomic leading indicators deteriorate.'
+              }
+            ],
+            bear: [
+              {
+                title: 'Capital Preservation: Distressed Floor Accumulation',
+                objective: 'Exploit deep cycle asset depression with asymmetric margin of safety',
+                rules: 'Secondhand vessel prices approaching scrap value represent generational entry points. Accumulate hard assets and low-leverage operators on severe weakness.',
+                metric: 'Asset Cycle Safety (Margin to Scrap Value < 15%)',
+                risk: 'Require minimum 24-month liquidity runway to endure extended cycle troughs.'
+              },
+              {
+                title: 'Volatility Harvesting: Covered Period Charters',
+                objective: 'Monetize implied freight volatility while spot rates are depressed',
+                rules: 'Fix vessels on 6–12 month time-charters above spot breakeven to secure positive operating cash flow and eliminate voyage demurrage risk.',
+                metric: 'Period TC Premium vs Spot Breakeven Spread',
+                risk: 'Avoid locking longer than 18 months at cycle troughs to retain recovery upside.'
+              },
+              {
+                title: 'Contrarian Setup: Port Stockpile Restocking Catalyst',
+                objective: 'Position ahead of inventory replenishment waves before rates ignite',
+                rules: 'Track weekly Chinese iron ore & bauxite port stockpile draws. When inventory drops below critical thresholds, stage long ETF and FFA entries.',
+                metric: 'Port Inventory Cover Days (< 115 Mt) & Blast Furnace Utilization',
+                risk: 'Tranche entries into 3 equal tranches; deploy final tranche only upon spot ROC confirmation.'
+              }
+            ]
+          };
+
+          const tipList = PLAYBOOK_TOOLTIPS[regime] || PLAYBOOK_TOOLTIPS.mid;
+          const tip = tipList[playIdx] || tipList[0];
+
+          html = `<div class="rt-title">${tip.title}</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">${tip.objective}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Execution</span><span class="rt-val" style="color:var(--text);">${tip.rules}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Signal</span><span class="rt-val" style="color:var(--accent);">${tip.metric}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Risk Control</span><span class="rt-val" style="color:#e3b341;">${tip.risk}</span></div>`;
+          html += `<div class="rt-note">Calibrated continuously from physical spot rates, forward freight curves, and macro inventory data.</div>`;
         }
         else if (type === 'concept-etf-dailybrief') {
           html = `<div class="rt-title">Daily Freight &amp; ETF Market Intelligence Brief</div>`;
