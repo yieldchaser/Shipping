@@ -8830,7 +8830,7 @@
         <!-- Header & Active Controls -->
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:nowrap;gap:16px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);">
           <div style="flex:1 1 auto;min-width:0;">
-            <div class="chart-title" style="font-size:15px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <div class="chart-title" id="etfDailyBriefTitle" data-tooltip=" " data-tt-type="concept-etf-dailybrief" style="font-size:15px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;cursor:help;">
               <div class="icon-tile icon-tile-accent icon-tile-md" style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;">
                   <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
@@ -8882,7 +8882,7 @@
         <!-- Header & Active Badge -->
         <div class="chart-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
           <div style="flex:1 1 auto;min-width:0;">
-            <div class="chart-title" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+            <div class="chart-title" id="etfQaTitle" data-tooltip=" " data-tt-type="concept-etf-copilot" style="font-size:16px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap;cursor:help;">
               <div class="icon-tile icon-tile-accent icon-tile-md">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
@@ -9175,28 +9175,28 @@
         <!-- Simulation KPI Summary Cards -->
         <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(210px, 1fr));gap:12px;margin-bottom:16px;">
           <!-- Card 1: Gross Futures P&L / Net Scenario P&L -->
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Gross Futures Variation Margin P&L ($) = Σ [ Scenario Lots × Multiplier × (Target Mark - Current Mark) ] - User Roll Costs">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;cursor:help;" data-tooltip=" " data-tt-type="deconst-kpi-futures-pnl">
             <div id="deconstKpiFuturesPnlTitle" style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Gross Futures P&amp;L ($)</div>
             <div id="deconstKpiFuturesPnl" style="font-size:22px;font-weight:800;color:#58a6ff;margin-top:2px;">+$0.00</div>
             <div id="deconstKpiFuturesPnlSub" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Notional: $33.94M</div>
           </div>
 
           <!-- Card 2: Approximate Target NAV -->
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Approximate Projected NAV ($) = Baseline Fund Net Assets + Gross Futures P&L ($). Requires contemporaneous or manual baseline.">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;cursor:help;" data-tooltip=" " data-tt-type="deconst-kpi-nav">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Approx Target NAV</div>
             <div id="deconstKpiNav" style="font-size:22px;font-weight:800;color:#3fb950;margin-top:2px;">UNAVAILABLE</div>
             <div id="deconstKpiNavDesc" style="font-size:11px;color:var(--text-muted);margin-top:2px;">Baseline Non-Contemporaneous</div>
           </div>
 
           <!-- Card 3: Approximate ETF Market Price Range -->
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Approximate Secondary Market Price Target Range incorporating low (-2.5% discount), base (NAV parity), and high (+2.5% premium) assumption bands.">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;cursor:help;" data-tooltip=" " data-tt-type="deconst-kpi-market-range">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;">Approx Market Price Range</div>
             <div id="deconstKpiMarketRange" style="font-size:16px;font-weight:800;color:var(--accent);margin-top:5px;">UNAVAILABLE</div>
             <div style="font-size:10px;color:var(--text-muted);margin-top:3px;">Low (-2.5%) &bull; Base &bull; High (+2.5%) [Assumption]</div>
           </div>
 
           <!-- Card 4: Position P&L on Custom Shares -->
-          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;" data-tooltip="Simulates dollar P&L on your custom position share count based on approximate NAV return.">
+          <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px;text-align:center;cursor:help;" data-tooltip=" " data-tt-type="deconst-kpi-pnl">
             <div style="font-size:11px;color:var(--text-muted);font-weight:600;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:4px;flex-wrap:wrap;">
               <span>PnL FOR</span>
               <input type="number" id="deconstShareCountInput" value="1000" min="1" step="100" oninput="onDeconstShareCountInput(this)" style="width:65px;background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:1px 4px;font-size:11px;font-weight:700;text-align:center;">
@@ -10154,21 +10154,21 @@
             <!-- Basis & Roll Drag HUD -->
             <div id="basisHudGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(210px, 1fr));gap:10px;margin-top:12px;margin-bottom:12px;">
               <!-- HUD Card 1: Net Basis Spread -->
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;" data-tooltip="<div class='rt-title'>Net Basis Spread ($/pt &amp; %)</div><div class='rt-row'><span class='rt-label'>Formula</span><span class='rt-val'>Futures Mark - Spot Mark</span></div><div class='rt-row'><span class='rt-label'>Percentage</span><span class='rt-val'>((Futures - Spot) / Spot) &times; 100%</span></div><div class='rt-note'>Measures prompt front-month contract premium or discount relative to contemporaneous physical spot freight index.</div>" data-tt-type="basis-hud-spread">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;" data-tooltip=" " data-tt-type="basis-hud-spread">
                 <div style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Net Basis Spread ($/pt &amp; %)</div>
                 <div id="basisHudSpreadVal" style="font-size:18px;font-weight:800;color:var(--accent);margin-top:2px;">Loading…</div>
                 <div id="basisHudSpreadSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Futures Mark vs Spot Composite</div>
               </div>
 
               <!-- HUD Card 2: Annualized Implied Roll Yield Drag -->
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;" data-tooltip="<div class='rt-title'>Annualized Implied Roll Yield Drag</div><div class='rt-row'><span class='rt-label'>Formula</span><span class='rt-val'>((Futures - Spot) / Spot) &times; (365 / Days_to_roll)</span></div><div class='rt-note'>Annualized cost of carry (roll drag) incurred when rolling forward long futures positions in contango, or roll yield captured in backwardation.</div>" data-tt-type="roll-yield-drag">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;" data-tooltip=" " data-tt-type="roll-yield-drag">
                 <div style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Annualized Implied Roll Drag %</div>
                 <div id="basisHudRollDragVal" style="font-size:18px;font-weight:800;color:#f85149;margin-top:2px;">Loading…</div>
                 <div id="basisHudRollDragSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Based on Days to Prompt Expiry</div>
               </div>
 
               <!-- HUD Card 3: Roll Structure Regime -->
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;" data-tooltip="<div class='rt-title'>Roll Structure Regime</div><div class='rt-row'><span class='rt-label'>Contango</span><span class='rt-val neg'>Negative Roll Drag (Futures &gt; Spot)</span></div><div class='rt-row'><span class='rt-label'>Backwardation</span><span class='rt-val pos'>Positive Roll Yield (Futures &lt; Spot)</span></div><div class='rt-note'>Identifies whether the active forward curve regime delivers structural roll yield or imposes headwind roll drag on long ETF holders.</div>" data-tt-type="basis-hud-regime">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;" data-tooltip=" " data-tt-type="basis-hud-regime">
                 <div style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Roll Structure Regime</div>
                 <div id="basisHudRegimeVal" style="font-size:14px;font-weight:800;color:#3fb950;margin-top:4px;">Loading…</div>
                 <div id="basisHudRegimeSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Forward Curve Slope Structure</div>
@@ -10661,15 +10661,15 @@
             </div>
             <!-- LPG Arbitrage & Fleet HUD -->
             <div id="lpgHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Spot-to-Period Arbitrage Spread (Spot $/d minus 1Y TC $/d or $M/mo PCM)" data-tt-type="lpg-spot-tc-spread">
+              <div id="lpgHudSpreadCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lpg-spot-tc-spread">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Spot-to-Period Spread</div>
                 <div id="lpgHudSpotTcSpread" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Spot Rate Premium / Discount relative to 1Y Period Time Charter" data-tt-type="lpg-spot-tc-premium">
+              <div id="lpgHudPremCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lpg-spot-tc-premium">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Spot vs TC Premium %</div>
                 <div id="lpgHudPremPct" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Official Baltic LPG Benchmark Index (BLPG)" data-tt-type="lpg-blpg-index">
+              <div id="lpgHudBlpgCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lpg-blpg-index">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic LPG Index</div>
                 <div id="lpgHudBlpgIndex" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
               </div>
@@ -10704,15 +10704,15 @@
             </div>
             <!-- LNG Payback Yield & Fleet Capex HUD -->
             <div id="lngHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Implied Gross Cash-on-Cash Payback Yield % = ((10Y TC * 365.25) / Newbuilding Price $M) * 100%" data-tt-type="lng-payback-yield">
+              <div id="lngHudYieldCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lng-payback-yield">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Fleet Payback Yield</div>
                 <div id="lngHudPaybackYield" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Implied Payback Period in Years = Shipyard Capex / Annual Gross Charter Revenue" data-tt-type="lng-payback-years">
+              <div id="lngHudYearsCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lng-payback-years">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Payback Period</div>
                 <div id="lngHudPaybackYears" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Current Newbuilding Shipyard Contract Price" data-tt-type="lng-nb-price">
+              <div id="lngHudNbCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="lng-nb-price">
                 <div id="lngHudNbLabel" style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">174k Shipyard Price</div>
                 <div id="lngHudNbPrice" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
               </div>
@@ -10766,19 +10766,19 @@
             </div>
             <!-- Valuation & Cushion HUD -->
             <div id="valHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Demolition Scrap Floor Margin of Safety Cushion % = ((Secondhand Asset Value - Scrap Floor) / Secondhand Asset Value) * 100%" data-tt-type="val-safety-margin">
+              <div id="valHudSafetyCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-safety-margin">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Scrap Margin of Safety</div>
                 <div id="valHudSafetyMargin" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="10-Year-Old Secondhand Vessel Asset Valuation ($ Millions)" data-tt-type="val-10y-value">
+              <div id="valHudValCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-10y-value">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">10Y Secondhand Value</div>
                 <div id="valHud10yValue" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Demolition Steel Scrap Floor Liquidation Value ($ Millions)" data-tt-type="val-scrap-floor">
+              <div id="valHudScrapCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-scrap-floor">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Demolition Scrap Floor</div>
                 <div id="valHudScrapFloor" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
               </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Implied Gross 1-Year Time Charter Yield on Secondhand Asset Capex" data-tt-type="val-charter-yield">
+              <div id="valHudYieldCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-charter-yield">
                 <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Implied 1Y Yield</div>
                 <div id="valHudCharterYield" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
               </div>
@@ -18843,10 +18843,40 @@ if (intelTabsContainer) {
       const nbLabelEl = document.getElementById('lngHudNbLabel');
       const badge = document.getElementById('lngRatesBadge');
 
+      const yieldCard = document.getElementById('lngHudYieldCard');
+      const yearsCard = document.getElementById('lngHudYearsCard');
+      const nbCard = document.getElementById('lngHudNbCard');
+
       if (yieldEl) yieldEl.textContent = paybackYield.toFixed(1) + '% p.a.';
       if (yearsEl) yearsEl.textContent = paybackYears.toFixed(1) + ' Years';
       if (nbPriceEl) nbPriceEl.textContent = '$' + latestNb.toFixed(1) + 'M';
       if (nbLabelEl) nbLabelEl.textContent = nbLabelText;
+
+      if (yieldCard) {
+        yieldCard.setAttribute('data-tooltip', ' ');
+        yieldCard.setAttribute('data-tt-type', 'lng-payback-yield');
+        yieldCard.setAttribute('data-tt-scale', activeScale);
+        yieldCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
+        yieldCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
+        yieldCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString() + '/day');
+        yieldCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
+      }
+      if (yearsCard) {
+        yearsCard.setAttribute('data-tooltip', ' ');
+        yearsCard.setAttribute('data-tt-type', 'lng-payback-years');
+        yearsCard.setAttribute('data-tt-scale', activeScale);
+        yearsCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
+        yearsCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
+        yearsCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString() + '/day');
+        yearsCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
+      }
+      if (nbCard) {
+        nbCard.setAttribute('data-tooltip', ' ');
+        nbCard.setAttribute('data-tt-type', 'lng-nb-price');
+        nbCard.setAttribute('data-tt-scale', activeScale);
+        nbCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
+        nbCard.setAttribute('data-tt-label', nbLabelText);
+      }
 
       if (badge && latest) {
         if (activeScale === '30k') {
@@ -19658,6 +19688,10 @@ if (intelTabsContainer) {
       var blpgEl = document.getElementById('lpgHudBlpgIndex');
       var badge = document.getElementById('lpgRatesBadge');
 
+      var spreadCard = document.getElementById('lpgHudSpreadCard');
+      var premCard = document.getElementById('lpgHudPremCard');
+      var blpgCard = document.getElementById('lpgHudBlpgCard');
+
       if (spreadEl) {
         spreadEl.textContent = (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString() + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo');
         spreadEl.style.color = scaledSpread >= 0 ? '#3fb950' : '#f85149';
@@ -19668,6 +19702,28 @@ if (intelTabsContainer) {
       }
       if (blpgEl) {
         blpgEl.textContent = latest.blpg != null ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—';
+      }
+
+      if (spreadCard) {
+        spreadCard.setAttribute('data-tooltip', ' ');
+        spreadCard.setAttribute('data-tt-type', 'lpg-spot-tc-spread');
+        spreadCard.setAttribute('data-tt-seg', activeSegment);
+        spreadCard.setAttribute('data-tt-spread', (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString() + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo'));
+        spreadCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString() + '/day');
+        spreadCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString() + '/day');
+      }
+      if (premCard) {
+        premCard.setAttribute('data-tooltip', ' ');
+        premCard.setAttribute('data-tt-type', 'lpg-spot-tc-premium');
+        premCard.setAttribute('data-tt-seg', activeSegment);
+        premCard.setAttribute('data-tt-prem', (premPct >= 0 ? '+' : '') + premPct.toFixed(1) + '%');
+        premCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString() + '/day');
+        premCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString() + '/day');
+      }
+      if (blpgCard) {
+        blpgCard.setAttribute('data-tooltip', ' ');
+        blpgCard.setAttribute('data-tt-type', 'lpg-blpg-index');
+        blpgCard.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—');
       }
 
       if (badge && latest) {
@@ -19870,6 +19926,11 @@ if (intelTabsContainer) {
       const yieldEl = document.getElementById('valHudCharterYield');
       const badge = document.getElementById('scrapFloorBadge');
 
+      const safetyCard = document.getElementById('valHudSafetyCard');
+      const valCard = document.getElementById('valHudValCard');
+      const scrapCard = document.getElementById('valHudScrapCard');
+      const yieldCard = document.getElementById('valHudYieldCard');
+
       if (safetyEl) {
         safetyEl.textContent = safetyMargin.toFixed(1) + '% Buffer';
         safetyEl.style.color = safetyMargin > 40 ? '#3fb950' : (safetyMargin > 20 ? '#e3b341' : '#f85149');
@@ -19877,6 +19938,39 @@ if (intelTabsContainer) {
       if (valEl) valEl.textContent = '$' + assetVal.toFixed(1) + 'M';
       if (scrapEl) scrapEl.textContent = '$' + scrapFloor.toFixed(2) + 'M';
       if (yieldEl) yieldEl.textContent = charterYield.toFixed(1) + '%';
+
+      if (safetyCard) {
+        safetyCard.setAttribute('data-tooltip', ' ');
+        safetyCard.setAttribute('data-tt-type', 'val-safety-margin');
+        safetyCard.setAttribute('data-tt-sector', activeSector);
+        safetyCard.setAttribute('data-tt-label', cfg.label);
+        safetyCard.setAttribute('data-tt-cushion', safetyMargin.toFixed(1) + '%');
+        safetyCard.setAttribute('data-tt-asset', '$' + assetVal.toFixed(1) + 'M');
+        safetyCard.setAttribute('data-tt-scrap', '$' + scrapFloor.toFixed(2) + 'M');
+      }
+      if (valCard) {
+        valCard.setAttribute('data-tooltip', ' ');
+        valCard.setAttribute('data-tt-type', 'val-10y-value');
+        valCard.setAttribute('data-tt-sector', activeSector);
+        valCard.setAttribute('data-tt-label', cfg.label);
+        valCard.setAttribute('data-tt-asset', '$' + assetVal.toFixed(1) + 'M');
+      }
+      if (scrapCard) {
+        scrapCard.setAttribute('data-tooltip', ' ');
+        scrapCard.setAttribute('data-tt-type', 'val-scrap-floor');
+        scrapCard.setAttribute('data-tt-sector', activeSector);
+        scrapCard.setAttribute('data-tt-label', cfg.label);
+        scrapCard.setAttribute('data-tt-scrap', '$' + scrapFloor.toFixed(2) + 'M');
+        scrapCard.setAttribute('data-tt-ldt', cfg.ldt.toLocaleString() + ' LDT');
+      }
+      if (yieldCard) {
+        yieldCard.setAttribute('data-tooltip', ' ');
+        yieldCard.setAttribute('data-tt-type', 'val-charter-yield');
+        yieldCard.setAttribute('data-tt-sector', activeSector);
+        yieldCard.setAttribute('data-tt-label', cfg.label);
+        yieldCard.setAttribute('data-tt-yield', charterYield.toFixed(1) + '%');
+        yieldCard.setAttribute('data-tt-asset', '$' + assetVal.toFixed(1) + 'M');
+      }
 
       if (isMainCall && badge && latest) {
         badge.textContent = cfg.label + ' Safety Cushion: ' + safetyMargin.toFixed(1) + '%';
@@ -27421,47 +27515,131 @@ if (intelTabsContainer) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Measures ocean transport burden on total landed ore price. High ratios (&gt;25%) indicate shipping constraints; low ratios (&lt;15%) leave substantial headroom for freight expansion.</div>`;
         }
         else if (type === 'lpg-spot-tc-spread') {
+          const seg = (target.getAttribute('data-tt-seg') || 'vlgc').toUpperCase();
+          const spread = target.getAttribute('data-tt-spread');
+          const spot = target.getAttribute('data-tt-spot');
+          const tc = target.getAttribute('data-tt-tc');
           html = `<div class="rt-title">LPG Spot-to-Period Arbitrage Spread</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: Spot Freight Rate − 1-Year Time Charter Rate (in $/day TCE or $M/month PCM).</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">A positive spread shows spot voyages generating abnormal profits above period asset commitments.</div>`;
+          if (spread) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Segment</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${seg}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Current Spread</span><span class="rt-val ${spread.startsWith('+') ? 'pos' : 'neg'}" style="font-weight:700;">${spread}</span></div>`;
+            if (spot) html += `<div class="rt-row"><span class="rt-label">Spot Rate</span><span class="rt-val">${spot}</span></div>`;
+            if (tc) html += `<div class="rt-row"><span class="rt-label">1Y TC Rate</span><span class="rt-val">${tc}</span></div>`;
+          }
         }
         else if (type === 'lpg-spot-tc-premium') {
+          const seg = (target.getAttribute('data-tt-seg') || 'vlgc').toUpperCase();
+          const prem = target.getAttribute('data-tt-prem');
+          const spot = target.getAttribute('data-tt-spot');
+          const tc = target.getAttribute('data-tt-tc');
           html = `<div class="rt-title">Spot vs Period Time Charter Premium %</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((Spot Rate − 1Y TC Rate) / 1Y TC Rate) × 100%.</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Percentage premium or discount of spot voyage earnings relative to 12-month period charter fixtures.</div>`;
+          if (prem) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Segment</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${seg}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Spot Premium %</span><span class="rt-val ${prem.startsWith('+') ? 'pos' : 'neg'}" style="font-weight:700;">${prem}</span></div>`;
+            if (spot) html += `<div class="rt-row"><span class="rt-label">Spot Rate</span><span class="rt-val">${spot}</span></div>`;
+            if (tc) html += `<div class="rt-row"><span class="rt-label">1Y TC Rate</span><span class="rt-val">${tc}</span></div>`;
+          }
         }
         else if (type === 'lpg-blpg-index') {
+          const blpg = target.getAttribute('data-tt-blpg');
           html = `<div class="rt-title">Baltic LPG Index (BLPG)</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Official Baltic Exchange index evaluating global Very Large Gas Carrier (VLGC 84,000 m³) freight benchmarks.</div>`;
+          if (blpg) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Latest BLPG Index</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${blpg}</span></div>`;
+          }
         }
         else if (type === 'lng-payback-yield') {
+          const scale = (target.getAttribute('data-tt-scale') || '174k').toUpperCase();
+          const yieldVal = target.getAttribute('data-tt-yield');
+          const price = target.getAttribute('data-tt-price');
+          const tc = target.getAttribute('data-tt-tc');
+          const years = target.getAttribute('data-tt-years');
           html = `<div class="rt-title">LNG Fleet Cash-on-Cash Payback Yield</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((10-Year Time Charter Rate × 365.25) / Newbuilding Shipyard Capex) × 100%.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((Period TC Rate × 365.25) / Newbuilding Shipyard Capex) × 100%.</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Measures gross cash return on capital expenditure generated by long-term take-or-pay LNG period charters.</div>`;
+          if (yieldVal) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Class</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${scale}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Payback Yield</span><span class="rt-val pos" style="font-weight:700;">${yieldVal}</span></div>`;
+            if (price) html += `<div class="rt-row"><span class="rt-label">Newbuilding Capex</span><span class="rt-val">${price}</span></div>`;
+            if (tc) html += `<div class="rt-row"><span class="rt-label">Period TC Hire</span><span class="rt-val">${tc}</span></div>`;
+            if (years) html += `<div class="rt-row"><span class="rt-label">Payback Period</span><span class="rt-val">${years}</span></div>`;
+          }
         }
         else if (type === 'lng-payback-years') {
+          const scale = (target.getAttribute('data-tt-scale') || '174k').toUpperCase();
+          const years = target.getAttribute('data-tt-years');
+          const price = target.getAttribute('data-tt-price');
+          const tc = target.getAttribute('data-tt-tc');
+          const yieldVal = target.getAttribute('data-tt-yield');
           html = `<div class="rt-title">LNG Implied Shipyard Capex Payback Period</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: Shipyard Newbuilding Price / Annual Gross 10Y Charter Revenue. Measures years required to fully amortize vessel shipyard build costs.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: Shipyard Newbuilding Price / Annual Gross Period Charter Revenue. Measures years required to fully amortize vessel shipyard build costs.</div>`;
+          if (years) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Class</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${scale}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Amortization Period</span><span class="rt-val" style="color:#58a6ff;font-weight:700;">${years}</span></div>`;
+            if (price) html += `<div class="rt-row"><span class="rt-label">Newbuilding Capex</span><span class="rt-val">${price}</span></div>`;
+            if (tc) html += `<div class="rt-row"><span class="rt-label">Period TC Hire</span><span class="rt-val">${tc}</span></div>`;
+            if (yieldVal) html += `<div class="rt-row"><span class="rt-label">Payback Yield</span><span class="rt-val pos">${yieldVal}</span></div>`;
+          }
         }
         else if (type === 'lng-nb-price') {
-          html = `<div class="rt-title">174k m³ LNG Carrier Newbuilding Price</div>`;
+          const scale = (target.getAttribute('data-tt-scale') || '174k').toUpperCase();
+          const price = target.getAttribute('data-tt-price');
+          const label = target.getAttribute('data-tt-label') || 'LNG Carrier Newbuilding Price';
+          html = `<div class="rt-title">${label}</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Benchmark Tier-1 shipyard contracting price (South Korea / China) for dual-fuel modern LNG carriers.</div>`;
+          if (price) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Class</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${scale}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Newbuilding Price</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${price}</span></div>`;
+          }
         }
         else if (type === 'val-safety-margin') {
-          html = `<div class="rt-title">Demolition Scrap Floor Margin of Safety</div>`;
+          const label = target.getAttribute('data-tt-label') || 'Vessel';
+          const cushion = target.getAttribute('data-tt-cushion');
+          const asset = target.getAttribute('data-tt-asset');
+          const scrap = target.getAttribute('data-tt-scrap');
+          html = `<div class="rt-title">${label} Scrap Floor Margin of Safety</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((Secondhand Asset Value − Scrap Floor) / Secondhand Asset Value) × 100%.</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Measures downside downside equity cushion. When asset values trade near scrap (cushion &lt;20%), residual asset downside is strictly truncated.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Measures downside equity cushion. When asset values trade near scrap (cushion &lt;20%), residual asset downside is strictly truncated.</div>`;
+          if (cushion) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Safety Cushion</span><span class="rt-val pos" style="font-weight:700;">${cushion}</span></div>`;
+            if (asset) html += `<div class="rt-row"><span class="rt-label">10Y Asset Value</span><span class="rt-val">${asset}</span></div>`;
+            if (scrap) html += `<div class="rt-row"><span class="rt-label">Demolition Scrap Floor</span><span class="rt-val">${scrap}</span></div>`;
+          }
         }
         else if (type === 'val-10y-value') {
-          html = `<div class="rt-title">10-Year-Old Secondhand Asset Valuation</div>`;
+          const label = target.getAttribute('data-tt-label') || 'Vessel';
+          const asset = target.getAttribute('data-tt-asset');
+          html = `<div class="rt-title">${label} 10-Year Secondhand Value</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Fair market secondhand resale transaction price for 10-year-old active trading tonnage in Million USD.</div>`;
+          if (asset) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">10Y Asset Valuation</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${asset}</span></div>`;
+          }
         }
         else if (type === 'val-scrap-floor') {
-          html = `<div class="rt-title">Demolition Steel Scrap Floor Value</div>`;
+          const label = target.getAttribute('data-tt-label') || 'Vessel';
+          const scrap = target.getAttribute('data-tt-scrap');
+          const ldt = target.getAttribute('data-tt-ldt');
+          html = `<div class="rt-title">${label} Demolition Scrap Floor</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: (Vessel Light Displacement Tonnage LDT × Regional Scrap Price $/LDT) / 1,000,000. Hard steel liquidation floor.</div>`;
+          if (scrap) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Scrap Floor Value</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${scrap}</span></div>`;
+            if (ldt) html += `<div class="rt-row"><span class="rt-label">Light Displacement (LDT)</span><span class="rt-val">${ldt}</span></div>`;
+          }
         }
         else if (type === 'val-charter-yield') {
-          html = `<div class="rt-title">Implied 1-Year Time Charter Yield %</div>`;
+          const label = target.getAttribute('data-tt-label') || 'Vessel';
+          const yieldVal = target.getAttribute('data-tt-yield');
+          const asset = target.getAttribute('data-tt-asset');
+          html = `<div class="rt-title">${label} 1-Year Time Charter Yield</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((1Y TC Rate × 365.25) / (10Y Asset Value × 1,000,000)) × 100%. Gross asset cash yield on current secondhand price.</div>`;
+          if (yieldVal) {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">1Y Charter Yield</span><span class="rt-val pos" style="font-weight:700;">${yieldVal}</span></div>`;
+            if (asset) html += `<div class="rt-row"><span class="rt-label">10Y Asset Value</span><span class="rt-val">${asset}</span></div>`;
+          }
         }
         else if (type === 'concept-tcemap') {
           html = `<div class="rt-title">Live Period TCE Rate Matrix</div>`;
@@ -28166,6 +28344,112 @@ if (intelTabsContainer) {
             html += `<div class="rt-note">Value trough regimes offer the best secondhand vessel buying opportunities. ETF contango drag is highest — minimize unhedged ETF exposure and focus on physical asset accumulation.</div>`;
           }
         }
+        else if (type === 'concept-etf-dailybrief') {
+          html = `<div class="rt-title">Daily Freight &amp; ETF Market Intelligence Brief</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Server-Side Synthesis</strong>: AI-grounded daily intelligence report compiling multi-factor freight desk sentiment, term structure slopes, and forward curve roll dynamics.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val" style="color:var(--accent);">Macro, BDRY (Dry Bulk), BWET (Tankers)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Engine Architecture</span><span class="rt-val">Quantitative Pipeline &amp; LLM Ensemble</span></div>`;
+          html += `<div class="rt-note">Zero client-side API keys required. Updated continuously alongside institutional market closes.</div>`;
+        }
+        else if (type === 'concept-etf-copilot') {
+          html = `<div class="rt-title">ETF &amp; Scenario Intelligence Copilot</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Interactive Financial Copilot</strong>: Grounded in exact constituent futures holding positions, SGX/NYMEX forward curves, and the 5-axiom calendar roll decay model.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Context Modes</span><span class="rt-val" style="color:var(--accent);">BDRY (Dry Bulk) &amp; BWET (Tankers)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">CORS Architecture</span><span class="rt-val">Direct Browser-to-API (Groq, Gemini, DeepSeek, Claude, OpenAI)</span></div>`;
+          html += `<div class="rt-note">Ask complex multi-leg freight questions, scenario stresses, or portfolio attribution inquiries.</div>`;
+        }
+        else if (type === 'basis-title') {
+          const fund = (window.basisFund || 'bdry').toUpperCase();
+          html = `<div class="rt-title">Futures vs Spot Basis Arbitrage (${fund})</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Basis Mechanics</strong>: Compares prompt front-month freight futures against contemporaneous physical spot indices.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Contango (&gt;0%)</span><span class="rt-val neg">Futures &gt; Spot (Roll Drag Headwind)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Backwardation (&lt;0%)</span><span class="rt-val pos">Spot &gt; Futures (Roll Carry Tailwind)</span></div>`;
+          html += `<div class="rt-note">Sustained contango (>5%) imposes cost-of-carry decay on long ETF holders; backwardation delivers structural roll yield.</div>`;
+        }
+        else if (type === 'basis-window') {
+          const w = target.getAttribute('data-tt-window') || target.textContent.trim() || '1Y';
+          html = `<div class="rt-title">Basis Analysis Window: ${w.toUpperCase()}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Timeframe</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${w === '3M' || w === '3m' ? 'Last 3 Months' : (w === '1Y' || w === '1y' ? 'Last 12 Months' : 'Full Historical Series')}</span></div>`;
+          html += `<div class="rt-note">Adjusts the lookback window across prompt futures contracts and physical spot freight benchmarks.</div>`;
+        }
+        else if (type === 'basis-hud-spread') {
+          const val = document.getElementById('basisHudSpreadVal')?.textContent.trim() || '—';
+          const sub = document.getElementById('basisHudSpreadSub')?.textContent.trim() || '';
+          html = `<div class="rt-title">Net Basis Spread ($/pt &amp; %)</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">Futures Mark − Spot Mark</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Percentage Formula</span><span class="rt-val">((Futures − Spot) / Spot) × 100%</span></div>`;
+          if (val && val !== 'Loading…' && val !== '—') {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Current Basis</span><span class="rt-val" style="font-weight:700;">${val}</span></div>`;
+            if (sub) html += `<div class="rt-row"><span class="rt-label">Components</span><span class="rt-val">${sub}</span></div>`;
+          }
+          html += `<div class="rt-note">Measures prompt contract premium or discount relative to contemporaneous physical spot freight index.</div>`;
+        }
+        else if (type === 'basis-hud-regime') {
+          const val = document.getElementById('basisHudRegimeVal')?.textContent.trim() || '—';
+          const sub = document.getElementById('basisHudRegimeSub')?.textContent.trim() || '';
+          html = `<div class="rt-title">Forward Curve Roll Structure Regime</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Contango</span><span class="rt-val neg">Negative Roll Drag (Futures &gt; Spot)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Backwardation</span><span class="rt-val pos">Positive Roll Yield (Futures &lt; Spot)</span></div>`;
+          if (val && val !== 'Loading…' && val !== '—') {
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Current Regime</span><span class="rt-val" style="font-weight:700;">${val}</span></div>`;
+            if (sub) html += `<div class="rt-row"><span class="rt-label">Curve Dynamic</span><span class="rt-val">${sub}</span></div>`;
+          }
+          html += `<div class="rt-note">Identifies whether the active forward curve regime delivers structural roll yield or imposes headwind roll drag on ETF holders.</div>`;
+        }
+        else if (type === 'provenance-banner') {
+          html = `<div class="rt-title">Data Provenance &amp; Clearing Rulebooks</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Clearing Exchanges</span><span class="rt-val" style="color:var(--accent);">NYMEX (CME Group) &amp; SGX Derivatives</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Audit Hash</span><span class="rt-val pos">SHA-256 Verified at snapshot generation</span></div>`;
+          html += `<div class="rt-note">Every holding position is grounded in official exchange contract specs and statutory index methodology rulebooks.</div>`;
+        }
+        else if (type === 'baseline-note') {
+          html = `<div class="rt-title">Contemporaneous Baseline Status</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Function</span><span class="rt-val">AUM, Shares &amp; NAV Synchronization</span></div>`;
+          html += `<div class="rt-note">Indicates whether contemporaneous NAV and shares outstanding are verified for per-share price projections.</div>`;
+        }
+        else if (type === 'baseline-override') {
+          html = `<div class="rt-title">Manual Contemporaneous Baseline Override</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Purpose</span><span class="rt-val">Custom Fund Accounting Input</span></div>`;
+          html += `<div class="rt-note">Opens the manual baseline drawer to input exact dated fund AUM, shares outstanding, and NAV/share for per-share price projection.</div>`;
+        }
+        else if (type === 'deconst-kpi-futures-pnl') {
+          const val = document.getElementById('deconstKpiFuturesPnl')?.textContent.trim() || '+$0.00';
+          const sub = document.getElementById('deconstKpiFuturesPnlSub')?.textContent.trim() || '';
+          html = `<div class="rt-title">Gross Futures Variation Margin P&amp;L</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">Σ [ Lots × Multiplier × (Sim Mark − Current Mark) ]</span></div>`;
+          if (val) html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Simulated P&amp;L</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Portfolio Scope</span><span class="rt-val">${sub}</span></div>`;
+          html += `<div class="rt-note">Aggregated mark-to-market variation margin across all constituent futures contracts under modeled macro percentage shocks.</div>`;
+        }
+        else if (type === 'deconst-kpi-nav') {
+          const val = document.getElementById('deconstKpiNav')?.textContent.trim() || '-';
+          const sub = document.getElementById('deconstKpiNavDesc')?.textContent.trim() || '';
+          html = `<div class="rt-title">Approximate Projected NAV Target</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">Baseline Fund Net Assets + Gross Futures P&amp;L ($)</span></div>`;
+          if (val) html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Projected NAV</span><span class="rt-val pos" style="font-weight:700;">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val">${sub}</span></div>`;
+          html += `<div class="rt-note">Simulates projected fund Net Asset Value per share under contemporaneous baseline accounting.</div>`;
+        }
+        else if (type === 'deconst-kpi-market-range') {
+          const val = document.getElementById('deconstKpiMarketRange')?.textContent.trim() || '-';
+          html = `<div class="rt-title">Secondary Market Price Target Band</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Uncertainty Band</span><span class="rt-val">&plusmn;2.50% around NAV</span></div>`;
+          if (val) html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Estimated Range</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
+          html += `<div class="rt-note">Incorporates low (-2.5% discount), base (NAV parity), and high (+2.5% premium) assumption bands for ETF secondary market trading.</div>`;
+        }
+        else if (type === 'deconst-kpi-pnl') {
+          const val = document.getElementById('deconstKpiPnl')?.textContent.trim() || '$0.00';
+          const sub = document.getElementById('deconstKpiPnlSub')?.textContent.trim() || '';
+          const shares = document.getElementById('deconstShareCountInput')?.value || '1,000';
+          html = `<div class="rt-title">Position P&amp;L on Custom Shares</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Position Size</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${shares} Shares</span></div>`;
+          if (val) html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Simulated Return</span><span class="rt-val" style="font-weight:700;">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Capital Basis</span><span class="rt-val">${sub}</span></div>`;
+          html += `<div class="rt-note">Simulates mark-to-market dollar return on your exact share capital given modeled futures rate changes.</div>`;
+        }
+        else {
+          html = '';
+        }
 
         return html;
       }
@@ -28183,21 +28467,23 @@ if (intelTabsContainer) {
         const staticText = target.getAttribute('data-tooltip');
         const richContent = getCalculatedTooltip(target);
         
-        if (!staticText && !richContent) return;
+        if ((!staticText || !staticText.trim()) && (!richContent || !richContent.trim())) return;
         if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
 
         // Reset positioning constraints temporarily to get true natural size
         tt.style.left = '0px';
         tt.style.top = '0px';
 
-        if (richContent) {
+        if (richContent && richContent.trim()) {
           tt.innerHTML = richContent;
-        } else if (staticText) {
+        } else if (staticText && staticText.trim()) {
           if (staticText.includes('<') && staticText.includes('>')) {
             tt.innerHTML = staticText;
           } else {
             tt.textContent = staticText;
           }
+        } else {
+          return;
         }
         
         tt.classList.add('visible');
