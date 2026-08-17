@@ -2197,7 +2197,7 @@
     .mhr-subtitle { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
     .mhr-body {
       display: grid;
-      grid-template-columns: 260px 1fr;
+      grid-template-columns: 300px 1fr;
       gap: 0;
     }
     @media (max-width: 768px) {
@@ -2228,56 +2228,82 @@
     .mhr-regime-badge.mhr-bear  { background: rgba(248,81,73,.15);  border: 1px solid #f85149; color: #f85149; }
     .mhr-score-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
     .mhr-pillars {
-      display: flex; flex-direction: column; gap: 6px; width: 100%; margin-top: 8px;
+      display: flex; flex-direction: column; gap: 8px; width: 100%; margin-top: 8px;
     }
     .mhr-pillar-row {
-      display: flex; align-items: center; justify-content: space-between; gap: 8px;
+      display: flex; align-items: center; gap: 8px;
+      padding: 4px 6px; border-radius: 6px; cursor: default;
+      transition: background 0.15s ease;
+      position: relative;
     }
-    .mhr-pillar-label { font-size: 10px; color: var(--text-muted); flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .mhr-pillar-row:hover { background: rgba(255,255,255,0.04); }
+    .mhr-pillar-label {
+      font-size: 10px; color: var(--text-muted); flex: 0 0 auto;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      max-width: 118px; min-width: 0;
+    }
     .mhr-pillar-bar-track {
-      width: 72px; height: 4px; border-radius: 2px;
-      background: rgba(255,255,255,0.05);
-      flex-shrink: 0; overflow: hidden;
+      flex: 1; height: 5px; border-radius: 3px;
+      background: rgba(255,255,255,0.07);
+      min-width: 48px; flex-shrink: 1; overflow: hidden;
     }
     .mhr-pillar-bar-fill {
-      height: 100%; border-radius: 2px; transition: width 0.5s ease;
-      background: var(--accent);
+      height: 100%; border-radius: 3px; transition: width 0.6s ease;
     }
-    .mhr-pillar-val { font-size: 10px; font-weight: 700; color: var(--text); width: 30px; text-align: right; flex-shrink: 0; }
+    .mhr-pillar-val { font-size: 10px; font-weight: 700; color: var(--text); width: 32px; text-align: right; flex-shrink: 0; }
+    .mhr-pillar-pct { font-size: 9px; color: var(--text-muted); width: 28px; text-align: right; flex-shrink: 0; }
+
 
     /* Radar chart panel */
-    .mhr-radar-panel { padding: 20px 24px; position: relative; }
+    .mhr-radar-panel { padding: 16px 20px 12px; position: relative; display: flex; flex-direction: column; justify-content: center; }
     .mhr-radar-wrap {
-      position: relative; width: 100%; max-width: 340px; margin: 0 auto;
+      position: relative; width: 100%; max-width: 440px; margin: 0 auto;
     }
     .mhr-radar-canvas { width: 100%; aspect-ratio: 1/1; }
+
+    /* Pillar detail tooltip */
+    .mhr-pillar-tooltip {
+      position: absolute; left: 0; right: 0; bottom: calc(100% + 4px);
+      background: rgba(10,15,20,0.98); border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 8px; padding: 10px 12px; font-size: 11px; color: var(--text);
+      line-height: 1.55; z-index: 9999; pointer-events: none;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+      opacity: 0; transition: opacity 0.15s ease; white-space: normal;
+      min-width: 220px; max-width: 280px;
+    }
+    .mhr-pillar-tooltip.visible { opacity: 1; }
+    .mhr-pillar-tooltip-title { font-weight: 700; font-size: 11.5px; margin-bottom: 4px; color: var(--accent-text, #8b949e); }
+    .mhr-pillar-tooltip-body { color: var(--text-muted); }
+    .mhr-pillar-tooltip-score { margin-top: 5px; font-weight: 700; font-size: 11px; }
 
     /* Tactical Playbook */
     .mhr-playbook {
       border-top: 1px solid var(--border);
       padding: 16px 20px;
-      display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px;
     }
     @media (max-width: 900px) { .mhr-playbook { grid-template-columns: 1fr; } }
     .mhr-pb-card {
       background: rgba(255,255,255,0.025);
       border: 1px solid var(--border);
       border-radius: 8px; padding: 12px 14px;
-      transition: border-color 0.2s, background 0.2s;
+      transition: border-color 0.2s, background 0.2s, transform 0.15s;
+      cursor: default;
     }
-    .mhr-pb-card:hover { border-color: rgba(255,255,255,0.14); background: rgba(255,255,255,0.04); }
+    .mhr-pb-card:hover { border-color: rgba(255,255,255,0.16); background: rgba(255,255,255,0.045); transform: translateY(-1px); }
     .mhr-pb-card-label {
       font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px;
       color: var(--text-muted); margin-bottom: 5px;
     }
-    .mhr-pb-card-title { font-size: 12px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
-    .mhr-pb-card-note { font-size: 11px; color: var(--text-muted); line-height: 1.5; }
+    .mhr-pb-card-title { font-size: 12px; font-weight: 700; color: var(--text); margin-bottom: 5px; }
+    .mhr-pb-card-note { font-size: 11px; color: var(--text-muted); line-height: 1.55; }
     .mhr-playbook-header {
       padding: 10px 20px 0;
       font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
       color: var(--text-muted);
       border-top: 1px solid var(--border);
     }
+
 
     /* ── Intelligence Tab ─────────────────────────────────────────────────── */
     .intel-section { margin-bottom: 2.5rem; }
@@ -23367,13 +23393,248 @@ if (intelTabsContainer) {
 
     // ── Macro Health Radar ────────────────────────────────────────────────────
 
+    // ── Pillar metadata: descriptions, thresholds, interpretation ────────────
+    const _PILLAR_META = {
+      'Freight Momentum': {
+        shortLabel: 'Freight Momentum',
+        radarLabel: ['Freight', 'Momentum'],
+        desc: 'BDI 30-day rate-of-change vs its 90-day rolling average. Measures whether freight rates are accelerating above their medium-term trend.',
+        signals: ['≥20/20 — BDI > 90D MA & ROC > +5%: Strong trend continuation', '16/20 — BDI > MA & ROC > 0%: Mild uptrend', '12/20 — BDI above MA, flat ROC: Sideways above trend', '8/20 — ROC positive but below MA: Early recovery', '4/20 — ROC between −5% and 0%: Mild pullback', '0/20 — ROC < −5%: Momentum breakdown']
+      },
+      'Term Structure Slope': {
+        shortLabel: 'Term Structure',
+        radarLabel: ['Term Structure', 'Slope'],
+        desc: 'Capesize near-term (4–6M avg) vs long-term (2Y avg) charter rate spread. Backwardation (near > far) is structurally bullish; contango (near < far) signals oversupply expectations.',
+        signals: ['≥20/20 — Spread > +15%: Strong backwardation (bullish)', '16/20 — Spread > +5%: Mild backwardation', '12/20 — Spread 0–5%: Near flat / neutral curve', '6/20 — Spread −10% to 0%: Mild contango', '2/20 — Spread < −10%: Steep contango (bearish oversupply)']
+      },
+      'Futures Basis Arb': {
+        shortLabel: 'Futures Basis',
+        radarLabel: ['Futures Basis', 'Arb'],
+        desc: 'BDI spot vs BDRYFF front-month futures basis. Positive basis (spot > futures) = backwardation = roll yield harvesting opportunity. Negative basis = contango drag.',
+        signals: ['20/20 — Basis > +10%: Strong backwardation / roll premium', '16/20 — Basis +4–10%: Mild roll yield', '12/20 — Basis 0–4%: Near flat carry', '7/20 — Basis −5–0%: Mild contango drag', '3/20 — Basis −15–−5%: Significant carry cost', '0/20 — Basis < −15%: Severe contango penalty']
+      },
+      'Port Restocking': {
+        shortLabel: 'Port Restocking',
+        radarLabel: ['Port', 'Restocking'],
+        desc: 'Chinese iron ore port inventories (Mt). Low inventory → urgent restocking → surging Capesize demand. High inventory → demand saturation → rate suppression.',
+        signals: ['20/20 — < 110 Mt: Critically low, restocking urgency', '17/20 — 110–125 Mt: Below comfort, demand pull positive', '13/20 — 125–140 Mt: Balanced inventory', '8/20 — 140–155 Mt: Adequate, mild demand headwind', '4/20 — 155–170 Mt: High inventory, bearish demand', '1/20 — > 170 Mt: Oversupplied, rate suppressive']
+      },
+      'Asset Cycle Safety': {
+        shortLabel: 'Asset Safety',
+        radarLabel: ['Asset Cycle', 'Safety'],
+        desc: 'Capesize S&P value vs scrap value margin of safety. Measures distance from distressed asset pricing. Sweet spot (25–40% margin) = value entry zone with downside protection.',
+        signals: ['20/20 — Margin 25–40%: Sweet spot — value + upside', '15/20 — Margin 40–55%: Defensive floor pricing', '12/20 — Margin 15–25%: Approaching fair value', '10/20 — Margin > 55%: Deep asset depression', '6/20 — Margin 5–15%: Market overheating', '2/20 — Margin < 5%: Bubble territory — extreme caution']
+      }
+    };
+
+
+    function _renderMacroHealthRadar() {
+      if (!DATA.loaded) return;
+
+      const result = _computeMacroHealthScore();
+      const { total, pillars, regime, cls, emoji } = result;
+
+      const accentRgb = cls === 'mhr-bull' ? '63,185,80' : cls === 'mhr-mid' ? '227,179,65' : '248,81,73';
+      const accentHex = cls === 'mhr-bull' ? '#3fb950' : cls === 'mhr-mid' ? '#e3b341' : '#f85149';
+
+      // Update score num
+      const scoreEl = document.getElementById('mhrScoreNum');
+      if (scoreEl) {
+        scoreEl.textContent = total;
+        scoreEl.className = 'mhr-score-num ' + cls;
+      }
+
+      // Update regime badge
+      const badgeEl = document.getElementById('mhrRegimeBadge');
+      if (badgeEl) {
+        badgeEl.textContent = emoji + ' ' + regime;
+        badgeEl.className = 'mhr-regime-badge ' + cls;
+      }
+
+      // Update timestamp
+      const tsEl = document.getElementById('mhrTimestamp');
+      if (tsEl) tsEl.textContent = 'Computed: ' + new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
+      // Update pillar bars with rich hover tooltips
+      const pillarsEl = document.getElementById('mhrPillars');
+      if (pillarsEl) {
+        pillarsEl.innerHTML = pillars.map((p, i) => {
+          const pct = Math.round((p.score / p.max) * 100);
+          const barColor = pct >= 70 ? '#3fb950' : pct >= 40 ? '#e3b341' : '#f85149';
+          const meta = _PILLAR_META[p.label] || {};
+          const interpretation = pct >= 70 ? '🟢 Strong' : pct >= 40 ? '🟡 Moderate' : '🔴 Weak';
+          const signalLines = (meta.signals || []).join('<br>');
+          const tooltipHtml =
+            '<div class="mhr-pillar-tooltip" id="mhrPillarTT' + i + '">' +
+              '<div class="mhr-pillar-tooltip-title">' + p.label + '</div>' +
+              '<div class="mhr-pillar-tooltip-body">' + (meta.desc || '') + '</div>' +
+              (signalLines ? '<div class="mhr-pillar-tooltip-body" style="margin-top:6px;font-size:10px;opacity:0.8;">' + signalLines + '</div>' : '') +
+              '<div class="mhr-pillar-tooltip-score" style="color:' + barColor + '">' +
+                interpretation + ' — ' + p.score + '/' + p.max + ' pts (' + pct + '%)' +
+              '</div>' +
+            '</div>';
+          return '<div class="mhr-pillar-row" ' +
+              'onmouseenter="document.getElementById(\'mhrPillarTT' + i + '\').classList.add(\'visible\')" ' +
+              'onmouseleave="document.getElementById(\'mhrPillarTT' + i + '\').classList.remove(\'visible\')">' +
+              '<span class="mhr-pillar-label">' + (meta.shortLabel || p.label) + '</span>' +
+              '<div class="mhr-pillar-bar-track"><div class="mhr-pillar-bar-fill" style="width:' + pct + '%;background:' + barColor + ';"></div></div>' +
+              '<span class="mhr-pillar-val" style="color:' + barColor + '">' + p.score + '/' + p.max + '</span>' +
+              tooltipHtml +
+            '</div>';
+        }).join('');
+      }
+
+      // Render radar chart with proper multi-line labels and rich tooltips
+      const canvas = document.getElementById('mhrRadarCanvas');
+      if (canvas) {
+        if (canvas._mhrChart) { canvas._mhrChart.destroy(); canvas._mhrChart = null; }
+        const ctx = canvas.getContext('2d');
+
+        // Use multi-line label arrays from _PILLAR_META for clean display
+        const labels = pillars.map(p => (_PILLAR_META[p.label] || {}).radarLabel || [p.label]);
+        const dataVals = pillars.map(p => p.score);
+        const maxVals  = pillars.map(p => p.max);
+
+        canvas._mhrChart = new Chart(ctx, {
+          type: 'radar',
+          data: {
+            labels: labels,
+            datasets: [{
+              label: 'Health Score',
+              data: dataVals,
+              backgroundColor: 'rgba(' + accentRgb + ',0.10)',
+              borderColor: 'rgba(' + accentRgb + ',0.85)',
+              borderWidth: 2,
+              pointBackgroundColor: pillars.map(p => {
+                const pct = p.score / p.max;
+                return pct >= 0.7 ? '#3fb950' : pct >= 0.4 ? '#e3b341' : '#f85149';
+              }),
+              pointBorderColor: '#111820',
+              pointBorderWidth: 2,
+              pointRadius: 5,
+              pointHoverRadius: 7,
+              pointHoverBorderColor: accentHex,
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            animation: { duration: 700, easing: 'easeOutQuart' },
+            plugins: {
+              legend: { display: false },
+              tooltip: {
+                enabled: true,
+                backgroundColor: 'rgba(10,14,20,0.97)',
+                borderColor: 'rgba(255,255,255,0.13)',
+                borderWidth: 1,
+                titleColor: '#8b949e',
+                bodyColor: '#d4dce8',
+                titleFont: { size: 11, weight: '600' },
+                bodyFont: { size: 12, weight: '700' },
+                footerColor: 'rgba(139,148,158,0.7)',
+                footerFont: { size: 10 },
+                padding: 10,
+                callbacks: {
+                  title: function(items) {
+                    const idx = items[0].dataIndex;
+                    return pillars[idx].label;
+                  },
+                  label: function(item) {
+                    const idx = item.dataIndex;
+                    const p = pillars[idx];
+                    const pct = Math.round((p.score / p.max) * 100);
+                    const bar = '█'.repeat(Math.round(pct / 10)) + '░'.repeat(10 - Math.round(pct / 10));
+                    return bar + '  ' + p.score + '/' + p.max + ' pts (' + pct + '%)';
+                  },
+                  footer: function(items) {
+                    const idx = items[0].dataIndex;
+                    const p = pillars[idx];
+                    const pct = p.score / p.max;
+                    const interp = pct >= 0.7 ? '🟢 Strong' : pct >= 0.4 ? '🟡 Moderate' : '🔴 Weak signal';
+                    const meta = _PILLAR_META[p.label] || {};
+                    const descShort = (meta.desc || '').split('. ')[0];
+                    return interp + (descShort ? '\n' + descShort : '');
+                  }
+                }
+              }
+            },
+            scales: {
+              r: {
+                min: 0,
+                max: 20,
+                ticks: {
+                  stepSize: 5,
+                  display: false,
+                  backdropColor: 'transparent'
+                },
+                grid: {
+                  color: 'rgba(40,50,70,0.85)',
+                  lineWidth: 1
+                },
+                angleLines: {
+                  color: 'rgba(40,50,70,0.7)',
+                  lineWidth: 1
+                },
+                pointLabels: {
+                  color: function(ctx) {
+                    const idx = ctx.index;
+                    if (!pillars[idx]) return '#7a8494';
+                    const pct = pillars[idx].score / pillars[idx].max;
+                    return pct >= 0.7 ? '#3fb950' : pct >= 0.4 ? '#e3b341' : '#f85149';
+                  },
+                  font: { size: 10.5, family: "'IBM Plex Sans', sans-serif", weight: '600' },
+                  padding: 14
+                }
+              }
+            }
+          }
+        });
+      }
+
+      // Render Tactical Playbook
+      const playbookEl = document.getElementById('mhrPlaybook');
+      if (playbookEl) {
+        let plays;
+        const pillarMap = {};
+        pillars.forEach(p => { pillarMap[p.label] = { pct: Math.round((p.score / p.max) * 100), score: p.score, max: p.max }; });
+        const weakest = pillars.slice().sort((a, b) => (a.score / a.max) - (b.score / b.max))[0];
+
+        if (total >= 75) {
+          plays = [
+            { tag: 'Expansion Mandate', title: 'Overweight Physical ETF Exposure', note: 'Add BDRY & BWET on momentum confirmation. BDI > 90D MA + positive ROC = trend continuation setup.', accent: '#3fb950' },
+            { tag: 'Arb Strategy',       title: 'Ladder Spot-to-TC Arb Harvesting', note: 'Exploit backwardation by locking near-term TC rates above forward curve. Harvest roll yield while term structure is inverted.', accent: '#3fb950' },
+            { tag: 'Conviction Trade',   title: 'Long Capesize FFA Front-Quarter', note: 'Iron ore restocking urgency and strong term structure slope support aggressive FFA length. Weakest pillar: ' + weakest.label + ' (' + weakest.score + '/' + weakest.max + ').', accent: '#e3b341' }
+          ];
+        } else if (total >= 45) {
+          plays = [
+            { tag: 'Balance Sheet',    title: 'Equal-Weight Dry Bulk / Tanker', note: 'Hold symmetric BDRY/BWET allocation. No strong directional bias — monitor for regime break above 75 or below 45.', accent: '#e3b341' },
+            { tag: 'Basis Watch',      title: 'Monitor Futures Basis Roll Drag', note: 'Neutral basis signals flat carry. Watch BDRYFF vs BDI spread for backwardation emergence. Current weakest pillar: ' + weakest.label + '.', accent: '#e3b341' },
+            { tag: 'Risk Management',  title: 'Trim Overweight on Mean Reversion', note: 'Mid-cycle inflections are high-reversal zones. Use percentile ranks to time tactical trim when composite drifts toward 45 or 75 thresholds.', accent: '#f85149' }
+          ];
+        } else {
+          plays = [
+            { tag: 'Defensive',         title: 'Accumulate Below Scrap Value Floors', note: 'Asset cycle safety near floor = rare capital preservation entry. Accumulate on weakness with defined stop above scrap.', accent: '#f85149' },
+            { tag: 'Vol Harvesting',    title: 'Sell Volatility via Covered TC', note: 'High implied vol in trough = sell forward TC contracts above spot. Collect risk premium while market seeks equilibrium.', accent: '#e3b341' },
+            { tag: 'Contrarian Setup',  title: 'Inventory-Led Restocking Catalyst Watch', note: 'Extreme port stock drawdowns signal imminent restocking wave. Position ahead of BDI reversal — watch weekly China port inventory prints.', accent: '#3fb950' }
+          ];
+        }
+        const regimeCls = total >= 75 ? 'bull' : total >= 45 ? 'mid' : 'bear';
+        playbookEl.innerHTML = plays.map(p =>
+          '<div class="mhr-pb-card" data-tt-type="macro-playbook-card" data-tt-regime="' + regimeCls + '">' +
+            '<div class="mhr-pb-card-label" style="color:' + p.accent + '">' + p.tag + '</div>' +
+            '<div class="mhr-pb-card-title">' + p.title + '</div>' +
+            '<div class="mhr-pb-card-note">' + p.note + '</div>' +
+          '</div>'
+        ).join('');
+      }
+    }
+
     /**
      * Compute the 5-pillar Macro Health Score (0–100) from real DATA fields.
-     * Returns { total, pillars: [{label, score, max}], regime, cls }
+     * Returns { total, pillars: [{label, score, max}], regime, cls, emoji }
      */
     function _computeMacroHealthScore() {
       const pillars = [];
-
       // ── Pillar 1: Freight Momentum Score (0–20) ────────────────────────────
       // BDI 30D ROC vs its own 90D rolling average
       (function() {
@@ -23511,151 +23772,6 @@ if (intelTabsContainer) {
       return { total, pillars, regime, cls, emoji };
     }
 
-    function _renderMacroHealthRadar() {
-      if (!DATA.loaded) return;
-
-      const result = _computeMacroHealthScore();
-      const { total, pillars, regime, cls, emoji } = result;
-
-      // Update score num
-      const scoreEl = document.getElementById('mhrScoreNum');
-      if (scoreEl) {
-        scoreEl.textContent = total;
-        scoreEl.className = 'mhr-score-num ' + cls;
-      }
-
-      // Update regime badge
-      const badgeEl = document.getElementById('mhrRegimeBadge');
-      if (badgeEl) {
-        badgeEl.textContent = emoji + ' ' + regime;
-        badgeEl.className = 'mhr-regime-badge ' + cls;
-      }
-
-      // Update timestamp
-      const tsEl = document.getElementById('mhrTimestamp');
-      if (tsEl) tsEl.textContent = 'Computed: ' + new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-
-      // Update pillar bars
-      const pillarsEl = document.getElementById('mhrPillars');
-      if (pillarsEl) {
-        pillarsEl.innerHTML = pillars.map(p => {
-          const pct = Math.round((p.score / p.max) * 100);
-          const barColor = pct >= 70 ? '#3fb950' : pct >= 40 ? '#e3b341' : '#f85149';
-          return '<div class="mhr-pillar-row">' +
-            '<span class="mhr-pillar-label" title="' + p.label + '">' + p.label + '</span>' +
-            '<div class="mhr-pillar-bar-track"><div class="mhr-pillar-bar-fill" style="width:' + pct + '%;background:' + barColor + ';"></div></div>' +
-            '<span class="mhr-pillar-val">' + p.score + '/' + p.max + '</span>' +
-            '</div>';
-        }).join('');
-      }
-
-      // Render radar chart
-      const canvas = document.getElementById('mhrRadarCanvas');
-      if (canvas) {
-        if (canvas._mhrChart) { canvas._mhrChart.destroy(); canvas._mhrChart = null; }
-        const ctx = canvas.getContext('2d');
-        const labels = pillars.map(p => p.label);
-        const dataVals = pillars.map(p => p.score);
-        const maxVals  = pillars.map(p => p.max);
-        const accentRgb = cls === 'mhr-bull' ? '63,185,80' : cls === 'mhr-mid' ? '227,179,65' : '248,81,73';
-        canvas._mhrChart = new Chart(ctx, {
-          type: 'radar',
-          data: {
-            labels: labels,
-            datasets: [{
-              label: 'Health Score',
-              data: dataVals,
-              backgroundColor: 'rgba(' + accentRgb + ',0.12)',
-              borderColor: 'rgba(' + accentRgb + ',0.85)',
-              borderWidth: 2,
-              pointBackgroundColor: 'rgba(' + accentRgb + ',1)',
-              pointBorderColor: '#111820',
-              pointBorderWidth: 2,
-              pointRadius: 4,
-              pointHoverRadius: 6,
-            }]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: true,
-            animation: { duration: 600, easing: 'easeOutQuart' },
-            plugins: {
-              legend: { display: false },
-              tooltip: {
-                enabled: true,
-                backgroundColor: 'rgba(15,20,25,0.95)',
-                borderColor: 'rgba(255,255,255,0.1)',
-                borderWidth: 1,
-                titleColor: '#8b949e',
-                bodyColor: '#d4dce8',
-                bodyFont: { size: 12, weight: '600' },
-                callbacks: {
-                  label: function(ctx) {
-                    return ctx.label + ': ' + ctx.raw + '/' + maxVals[ctx.dataIndex] + ' pts';
-                  }
-                }
-              }
-            },
-            scales: {
-              r: {
-                min: 0,
-                max: 20,
-                ticks: {
-                  stepSize: 5,
-                  display: false,
-                  backdropColor: 'transparent'
-                },
-                grid: {
-                  color: 'rgba(28,35,51,0.9)',
-                  lineWidth: 1
-                },
-                angleLines: {
-                  color: 'rgba(28,35,51,0.8)',
-                  lineWidth: 1
-                },
-                pointLabels: {
-                  color: '#7a8494',
-                  font: { size: 10, family: "'IBM Plex Sans', sans-serif" },
-                  padding: 6
-                }
-              }
-            }
-          }
-        });
-      }
-
-      // Render Tactical Playbook
-      const playbookEl = document.getElementById('mhrPlaybook');
-      if (playbookEl) {
-        let plays;
-        if (total >= 75) {
-          plays = [
-            { tag: 'Expansion Mandate', title: 'Overweight Physical ETF Exposure', note: 'Add BDRY & BWET on momentum confirmation. BDI > 90D MA + positive ROC = trend continuation setup.' },
-            { tag: 'Arb Strategy',       title: 'Ladder Spot-to-TC Arb Harvesting', note: 'Exploit backwardation by locking near-term TC rates above forward curve. Harvest roll yield.' },
-            { tag: 'Conviction Trade',   title: 'Long Capesize FFA Front-Quarter', note: 'Iron ore restocking urgency and strong term structure slope support aggressive FFA length.' }
-          ];
-        } else if (total >= 45) {
-          plays = [
-            { tag: 'Balance Sheet',    title: 'Equal-Weight Dry Bulk / Tanker', note: 'Hold symmetric BDRY/BWET allocation. No strong directional bias — monitor for regime break.' },
-            { tag: 'Basis Watch',      title: 'Monitor Futures Basis Roll Drag', note: 'Neutral basis signals flat carry. Watch BDRYFF vs BDI spread for backwardation emergence.' },
-            { tag: 'Risk Management',  title: 'Trim Overweight on Mean Reversion', note: 'Mid-cycle inflections are high-reversal zones. Use percentile ranks to time tactical trim.' }
-          ];
-        } else {
-          plays = [
-            { tag: 'Defensive',         title: 'Accumulate Below Scrap Value Floors', note: 'Asset cycle safety near floor = rare capital preservation entry. Accumulate on weakness.' },
-            { tag: 'Vol Harvesting',    title: 'Sell Volatility via Covered TC', note: 'High implied vol in trough = sell forward TC contracts above spot. Collect premium.' },
-            { tag: 'Contrarian Setup',  title: 'Inventory-Led Restocking Catalyst Watch', note: 'Extreme port stock drawdowns signal imminent restocking wave. Position ahead of BDI reversal.' }
-          ];
-        }
-        playbookEl.innerHTML = plays.map(p =>
-          '<div class="mhr-pb-card" data-tt-type="macro-playbook-card">' +
-            '<div class="mhr-pb-card-label">' + p.tag + '</div>' +
-            '<div class="mhr-pb-card-title">' + p.title + '</div>' +
-            '<div class="mhr-pb-card-note">' + p.note + '</div>' +
-          '</div>'
-        ).join('');
-      }
-    }
 
     // ── Signals loader ────────────────────────────────────────────────────────
     // Pre-filter to Breakwave lines before JSON parsing - avoids stalling on
