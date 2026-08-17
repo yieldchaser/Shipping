@@ -19879,10 +19879,10 @@ if (intelTabsContainer) {
           if (idx >= 0 && tcRows[idx][cfg.tcCol] != null) tcRate = tcRows[idx][cfg.tcCol];
         }
 
-        const scrapPerLdt = scrapRow ? (scrapRow[cfg.scrapCol] || scrapRow.dry_india || scrapRow.tanker_india || 480) : 480;
-        const scrapFloorM = (cfg.ldt * scrapPerLdt) / 1e6;
+        const scrapPerLdt = scrapRow ? (scrapRow[cfg.scrapCol] || scrapRow.dry_india || scrapRow.tanker_india || null) : null;
+        const scrapFloorM = (scrapPerLdt != null) ? (cfg.ldt * scrapPerLdt) / 1e6 : null;
         const assetValM = vr.assetVal;
-        const safetyMarginPct = (assetValM != null && assetValM > 0) ? ((assetValM - scrapFloorM) / assetValM) * 100 : null;
+        const safetyMarginPct = (assetValM != null && assetValM > 0 && scrapFloorM != null) ? ((assetValM - scrapFloorM) / assetValM) * 100 : null;
         const charterYieldPct = (assetValM != null && assetValM > 0 && tcRate != null && tcRate > 0) ? ((tcRate * 365.25) / (assetValM * 1e6)) * 100 : null;
 
         aligned.push({
@@ -19891,10 +19891,10 @@ if (intelTabsContainer) {
           assetVal: assetValM,
           scrapFloor: scrapFloorM,
           scrapPerLdt: scrapPerLdt,
-          scrapIndia: scrapRow ? (scrapRow.dry_india || scrapRow.tanker_india) : scrapPerLdt,
-          scrapBangla: scrapRow ? (scrapRow.dry_bangladesh || scrapRow.tanker_bangladesh) : scrapPerLdt,
-          scrapPak: scrapRow ? (scrapRow.dry_pakistan || scrapRow.tanker_pakistan) : scrapPerLdt,
-          scrapTurk: scrapRow ? (scrapRow.dry_turkey || scrapRow.tanker_turkey) : (scrapPerLdt * 0.65),
+          scrapIndia: scrapRow ? (scrapRow.dry_india || scrapRow.tanker_india || null) : null,
+          scrapBangla: scrapRow ? (scrapRow.dry_bangladesh || scrapRow.tanker_bangladesh || null) : null,
+          scrapPak: scrapRow ? (scrapRow.dry_pakistan || scrapRow.tanker_pakistan || null) : null,
+          scrapTurk: scrapRow ? (scrapRow.dry_turkey || scrapRow.tanker_turkey || null) : null,
           tcRate: tcRate,
           safetyMargin: safetyMarginPct,
           charterYield: charterYieldPct
@@ -19915,10 +19915,10 @@ if (intelTabsContainer) {
       if (!rows.length) return;
 
       const latest = rows[rows.length - 1];
-      const safetyMargin = latest ? (latest.safetyMargin || 0) : 0;
-      const assetVal = latest ? (latest.assetVal || 0) : 0;
-      const scrapFloor = latest ? (latest.scrapFloor || 0) : 0;
-      const charterYield = latest ? (latest.charterYield || 0) : 0;
+      const safetyMargin = latest ? latest.safetyMargin : null;
+      const assetVal = latest ? latest.assetVal : null;
+      const scrapFloor = latest ? latest.scrapFloor : null;
+      const charterYield = latest ? latest.charterYield : null;
 
       const safetyEl = document.getElementById('valHudSafetyMargin');
       const valEl = document.getElementById('valHud10yValue');
@@ -19932,21 +19932,26 @@ if (intelTabsContainer) {
       const yieldCard = document.getElementById('valHudYieldCard');
 
       if (safetyEl) {
-        safetyEl.textContent = safetyMargin.toFixed(1) + '% Buffer';
-        safetyEl.style.color = safetyMargin > 40 ? '#3fb950' : (safetyMargin > 20 ? '#e3b341' : '#f85149');
+        if (safetyMargin != null) {
+          safetyEl.textContent = safetyMargin.toFixed(1) + '% Buffer';
+          safetyEl.style.color = safetyMargin > 40 ? '#3fb950' : (safetyMargin > 20 ? '#e3b341' : '#f85149');
+        } else {
+          safetyEl.textContent = '—';
+          safetyEl.style.color = 'var(--text-muted)';
+        }
       }
-      if (valEl) valEl.textContent = '$' + assetVal.toFixed(1) + 'M';
-      if (scrapEl) scrapEl.textContent = '$' + scrapFloor.toFixed(2) + 'M';
-      if (yieldEl) yieldEl.textContent = charterYield.toFixed(1) + '%';
+      if (valEl) valEl.textContent = assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—';
+      if (scrapEl) scrapEl.textContent = scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—';
+      if (yieldEl) yieldEl.textContent = charterYield != null ? charterYield.toFixed(1) + '%' : '—';
 
       if (safetyCard) {
         safetyCard.setAttribute('data-tooltip', ' ');
         safetyCard.setAttribute('data-tt-type', 'val-safety-margin');
         safetyCard.setAttribute('data-tt-sector', activeSector);
         safetyCard.setAttribute('data-tt-label', cfg.label);
-        safetyCard.setAttribute('data-tt-cushion', safetyMargin.toFixed(1) + '%');
-        safetyCard.setAttribute('data-tt-asset', '$' + assetVal.toFixed(1) + 'M');
-        safetyCard.setAttribute('data-tt-scrap', '$' + scrapFloor.toFixed(2) + 'M');
+        safetyCard.setAttribute('data-tt-cushion', safetyMargin != null ? safetyMargin.toFixed(1) + '%' : '—');
+        safetyCard.setAttribute('data-tt-asset', assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—');
+        safetyCard.setAttribute('data-tt-scrap', scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—');
       }
       if (valCard) {
         valCard.setAttribute('data-tooltip', ' ');
@@ -19960,7 +19965,7 @@ if (intelTabsContainer) {
         scrapCard.setAttribute('data-tt-type', 'val-scrap-floor');
         scrapCard.setAttribute('data-tt-sector', activeSector);
         scrapCard.setAttribute('data-tt-label', cfg.label);
-        scrapCard.setAttribute('data-tt-scrap', '$' + scrapFloor.toFixed(2) + 'M');
+        scrapCard.setAttribute('data-tt-scrap', scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—');
         scrapCard.setAttribute('data-tt-ldt', cfg.ldt.toLocaleString() + ' LDT');
       }
       if (yieldCard) {
@@ -19968,19 +19973,25 @@ if (intelTabsContainer) {
         yieldCard.setAttribute('data-tt-type', 'val-charter-yield');
         yieldCard.setAttribute('data-tt-sector', activeSector);
         yieldCard.setAttribute('data-tt-label', cfg.label);
-        yieldCard.setAttribute('data-tt-yield', charterYield.toFixed(1) + '%');
-        yieldCard.setAttribute('data-tt-asset', '$' + assetVal.toFixed(1) + 'M');
+        yieldCard.setAttribute('data-tt-yield', charterYield != null ? charterYield.toFixed(1) + '%' : '—');
+        yieldCard.setAttribute('data-tt-asset', assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—');
       }
 
       if (isMainCall && badge && latest) {
-        badge.textContent = cfg.label + ' Safety Cushion: ' + safetyMargin.toFixed(1) + '%';
-        if (safetyMargin > 45) {
-          badge.style.background = '#3fb950';
-          badge.style.color = '#fff';
-        } else if (safetyMargin < 20) {
-          badge.style.background = '#f85149';
-          badge.style.color = '#fff';
+        if (safetyMargin != null) {
+          badge.textContent = cfg.label + ' Safety Cushion: ' + safetyMargin.toFixed(1) + '%';
+          if (safetyMargin > 45) {
+            badge.style.background = '#3fb950';
+            badge.style.color = '#fff';
+          } else if (safetyMargin < 20) {
+            badge.style.background = '#f85149';
+            badge.style.color = '#fff';
+          } else {
+            badge.style.background = 'var(--border)';
+            badge.style.color = 'var(--text-muted)';
+          }
         } else {
+          badge.textContent = cfg.label + ' Safety Cushion: —';
           badge.style.background = 'var(--border)';
           badge.style.color = 'var(--text-muted)';
         }
@@ -19990,10 +20001,10 @@ if (intelTabsContainer) {
       if (isMainCall && valTitle && latest) {
         valTitle.setAttribute('data-tooltip', ' ');
         valTitle.setAttribute('data-tt-type', 'concept-scrapfloor');
-        valTitle.setAttribute('data-tt-asset', assetVal.toFixed(1));
-        valTitle.setAttribute('data-tt-scrap', scrapFloor.toFixed(2));
-        valTitle.setAttribute('data-tt-cushion', safetyMargin.toFixed(1));
-        valTitle.setAttribute('data-tt-yield', charterYield.toFixed(1));
+        valTitle.setAttribute('data-tt-asset', assetVal != null ? assetVal.toFixed(1) : '—');
+        valTitle.setAttribute('data-tt-scrap', scrapFloor != null ? scrapFloor.toFixed(2) : '—');
+        valTitle.setAttribute('data-tt-cushion', safetyMargin != null ? safetyMargin.toFixed(1) : '—');
+        valTitle.setAttribute('data-tt-yield', charterYield != null ? charterYield.toFixed(1) : '—');
         valTitle.setAttribute('data-tt-product', activeSector);
       }
 
