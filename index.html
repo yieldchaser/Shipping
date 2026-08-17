@@ -23492,7 +23492,7 @@ if (intelTabsContainer) {
       // Render radar chart with proper multi-line labels and rich tooltips
       const canvas = document.getElementById('mhrRadarCanvas');
       if (canvas) {
-        if (canvas._mhrChart) { canvas._mhrChart.destroy(); canvas._mhrChart = null; }
+        destroyChart('mhrRadarCanvas');
         const ctx = canvas.getContext('2d');
 
         // Use multi-line label arrays from _PILLAR_META for clean display
@@ -23500,7 +23500,7 @@ if (intelTabsContainer) {
         const dataVals = pillars.map(p => p.score);
         const maxVals  = pillars.map(p => p.max);
 
-        canvas._mhrChart = new Chart(ctx, {
+        chartRegistry['mhrRadarCanvas'] = new Chart(ctx, {
           type: 'radar',
           data: {
             labels: labels,
@@ -23525,10 +23525,15 @@ if (intelTabsContainer) {
             responsive: true,
             maintainAspectRatio: true,
             animation: { duration: 700, easing: 'easeOutQuart' },
+            interaction: {
+              mode: 'nearest',
+              intersect: true
+            },
             plugins: {
               legend: { display: false },
               tooltip: {
                 enabled: true,
+                displayColors: false,
                 backgroundColor: 'rgba(10,14,20,0.97)',
                 borderColor: 'rgba(255,255,255,0.13)',
                 borderWidth: 1,
@@ -24030,9 +24035,9 @@ if (intelTabsContainer) {
     function _renderZSparkline(canvasId, zHistory) {
       const canvas = document.getElementById(canvasId);
       if (!canvas || !zHistory || !zHistory.length) return;
-      if (canvas._chartInstance) { canvas._chartInstance.destroy(); }
+      destroyChart(canvasId);
       const ctx = canvas.getContext('2d');
-      canvas._chartInstance = new Chart(ctx, {
+      chartRegistry[canvasId] = new Chart(ctx, {
         type: 'line',
         data: { labels: zHistory.map((_, i) => i), datasets: [{ data: zHistory, borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.08)', borderWidth: 1.5, pointRadius: 0, hoverRadius: 4, hitRadius: 10, fill: true, tension: 0.3 }] },
         options: { responsive: true, maintainAspectRatio: false, interaction: { mode: "index", intersect: false }, plugins: { legend: { display: false }, tooltip: { enabled: false,
