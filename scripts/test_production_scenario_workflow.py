@@ -31,15 +31,27 @@ class TestProductionScenarioWorkflow(unittest.TestCase):
         # Apply +$1,000 on prompt Capesize Aug 26
         shocks = {'C5TCM Q26 INDEX': 1000.0}
         res = self.wf_bdry.evaluate_scenario(shocks)
-        
-        # 155 lots * 1.0 multiplier * $1,000 = $155,000.00
-        self.assertEqual(res['gross_futures_vm_impact_dollars'], 155000.0)
+
+        # Derive expected P&L from the live snapshot's own lot count and multiplier.
+        # This stays correct regardless of daily AUM-driven lot-count changes.
+        snap = self.wf_bdry.snapshot
+        cape_pos = next(
+            (p for p in snap['positions'] if p.get('ticker', '').upper() == 'C5TCM Q26 INDEX'),
+            None
+        )
+        self.assertIsNotNone(cape_pos, "C5TCM Q26 INDEX must be present in BDRY snapshot")
+        live_lots = float(cape_pos['lots'])
+        live_mult = float(cape_pos.get('multiplier', 1.0))
+
+        expected_pos_pnl = live_lots * live_mult * 1000.0
+        self.assertAlmostEqual(res['gross_futures_vm_impact_dollars'], expected_pos_pnl, delta=0.01)
         self.assertEqual(res['nav_direction'], 'POSITIVE_NAV_EXPANSION')
-        
-        # Negative shock
+
+        # Negative shock (−$2,000)
         neg_shocks = {'C5TCM Q26 INDEX': -2000.0}
         res_neg = self.wf_bdry.evaluate_scenario(neg_shocks)
-        self.assertEqual(res_neg['gross_futures_vm_impact_dollars'], -310000.0)
+        expected_neg_pnl = live_lots * live_mult * (-2000.0)
+        self.assertAlmostEqual(res_neg['gross_futures_vm_impact_dollars'], expected_neg_pnl, delta=0.01)
         self.assertEqual(res_neg['nav_direction'], 'NEGATIVE_NAV_CONTRACTION')
 
     def test_all_five_residual_flags_present(self):

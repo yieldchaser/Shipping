@@ -134,7 +134,18 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         nav_rng = res['approximate_nav_target_range']
         mkt_rng = res['approximate_etf_market_price_target_range']
         
-        expected_total_nav = 30_000_000.0 + 155_000.0
+        # Derive expected P&L from live snapshot lots — stays correct regardless of AUM changes.
+        # Shock is +$1,000/day on the Aug 26 (Q26) Capesize contract.
+        cape_q26_pos = next(
+            (p for p in self.builder_bdry.snapshot['positions'] if p['ticker'] == 'C5TCM Q26 INDEX'),
+            None
+        )
+        self.assertIsNotNone(cape_q26_pos, "C5TCM Q26 INDEX must be in BDRY snapshot")
+        live_cape_lots = float(cape_q26_pos['lots'])
+        live_cape_multiplier = float(cape_q26_pos.get('multiplier', 1.0))
+        shock_per_day = 1000.0
+        expected_cape_pnl = live_cape_lots * live_cape_multiplier * shock_per_day
+        expected_total_nav = 30_000_000.0 + expected_cape_pnl
         expected_nav_per_sh = expected_total_nav / 2_000_000
         
         self.assertAlmostEqual(nav_rng['projected_total_fund_nav_dollars'], expected_total_nav, places=2)
@@ -353,8 +364,15 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
             'source': 'Verified Contemporaneous Baseline'
         }
         base_q26_mark = float(self.builder_bdry.snapshot['positions'][0]['price'])
-        # Scenario: futures move yields +$1,000,000 P&L (+ $0.50/sh => Projected NAV/sh = $10.50)
-        target_marks = {'C5TCM Q26 INDEX': base_q26_mark + (1000000.0 / 155.0)}
+        # Build a target price that yields exactly +$1,000,000 gross P&L from the Q26 contract.
+        # Derive live lots from snapshot so this stays correct after any AUM-driven lot change.
+        cape_q26_pos = next(
+            (p for p in self.builder_bdry.snapshot['positions'] if p['ticker'] == 'C5TCM Q26 INDEX'),
+            self.builder_bdry.snapshot['positions'][0]
+        )
+        live_lots = float(cape_q26_pos['lots'])
+        live_mult = float(cape_q26_pos.get('multiplier', 1.0))
+        target_marks = {'C5TCM Q26 INDEX': base_q26_mark + (1_000_000.0 / (live_lots * live_mult))}
         
         # 1. Carry forward premium mode: Market Target Base = $10.50 * (1 + 5%) = $11.025
         res_prem = self.builder_bdry.build_scenario(
