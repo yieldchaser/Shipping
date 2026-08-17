@@ -24,8 +24,8 @@ The production analytical dashboard is served directly from this repository via 
 
 ```mermaid
 flowchart LR
-    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify ETFs, SGX Futures"] --> B["⚙️ <b>GitHub Actions</b><br/>6 Automated Cron Workflows<br/>(Scrapers & Ingestion)"]
-    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (12 CSV Series)<br/>knowledge/ (RAG Corpus)"]
+    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify ETFs, SGX Futures"] --> B["⚙️ <b>GitHub Actions</b><br/>9 Automated Workflows<br/>(7 Scheduled Crons + Ingestion)"]
+    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (42+ CSV/JSON Series)<br/>knowledge/ (RAG Corpus)"]
     C --> D["🌐 <b>Web Terminal</b><br/>index.html Dashboard &<br/>Browser RAG Assistant"]
 ```
 
@@ -478,7 +478,7 @@ The repository maintains itself via 9 idempotent GitHub Actions workflows:
 
 ## 7. Codebase Inventory & Python Scripts Reference (`scripts/`)
 
-The repository contains 52 specialized Python modules across quantitative pricing, data ingestion, governance, and verification:
+The repository contains 54 specialized Python modules across quantitative pricing, data ingestion, governance, and verification:
 
 | Script Name | Size | Primary Role & Description |
 | :--- | :--- | :--- |
@@ -597,7 +597,7 @@ python scripts/validate_knowledge.py
    - Derived time series (`time_charter_rates.csv`, `iron_ore_restocking.csv`) use ISO format `YYYY-MM-DD` (e.g. `2021-07-07`).
    - Ensure new rows match the existing date format of the target file.
 2. **Preserve Exact Header Order**:
-   - When appending to [`time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv), preserve the column order: `date, source` + 48 rate columns.
+   - When appending to [`time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv), preserve the column order: `date, source` + 64 rate columns (66 cols total).
 3. **Source Provenance (CRITICAL)**:
    - Every row in `time_charter_rates.csv` MUST have a `source` column value (`fearnleys` or `alibra_ocr`).
    - `scrappage_prices.csv` is the pipeline output for demolition data — do NOT write scrappage data to `vessel_valuations.csv` (which contains Fearnleys S&P data).
@@ -614,7 +614,7 @@ python scripts/validate_knowledge.py
 ## 🏴‍☠️ Henry Avery Ticker
 
 The dashboard features an animated global ticker at the top, named after the legendary "King of Pirates":
-- **22 Curated Quotes**: A blended mix of Henry Avery lore, maritime strategy (Sir Francis Drake, Themistocles), and ancient Nordic wisdom from the *Hávamál*.
+- **25 Curated Quotes**: A blended mix of Henry Avery lore, maritime strategy (Sir Francis Drake, Themistocles), Captain Jack Sparrow, and ancient Nordic wisdom from the *Hávamál*.
 - **Interactive Controls**: Pauses on hover, fully copy-paste enabled.
 
 ---
