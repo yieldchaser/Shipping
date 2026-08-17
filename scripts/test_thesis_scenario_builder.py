@@ -329,18 +329,21 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
             'as_of_date': baseline_date_str,
             'source': 'Historical Baseline'
         }
+        # Scenario horizon: always 45 calendar days from today — always in the future.
+        horizon_date_str = (snap_date_obj + timedelta(days=45)).isoformat()
         res = self.builder_bdry.build_scenario(
             target_contract_prices={self._cape_prompt_ticker: 40000.0},
-            scenario_horizon_date='2026-09-30',
+            scenario_horizon_date=horizon_date_str,
             manual_dated_baseline=manual_base
         )
         prov_dates = res['provenance_dates']
         self.assertEqual(prov_dates['holdings_snapshot_as_of_date'], snap_dt)
         self.assertEqual(prov_dates['baseline_as_of_date'], baseline_date_str)
-        self.assertEqual(prov_dates['scenario_horizon_date'], '2026-09-30')
+        self.assertEqual(prov_dates['scenario_horizon_date'], horizon_date_str)
         self.assertEqual(prov_dates['baseline_to_holdings_gap_days'], expected_gap_days)
         self.assertFalse(prov_dates['is_baseline_contemporaneous_with_snapshot'])
         self.assertIn("differs from holdings snapshot date", prov_dates['date_alignment_disclaimer'])
+
 
     # --- SAFEGUARD 4 TESTS ---
     def test_missing_scenario_snapshot_provenance_blocks_price_range(self):
