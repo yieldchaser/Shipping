@@ -8920,7 +8920,7 @@
         <div class="qa-key-row" style="background:var(--bg);padding:10px 12px;border-radius:6px;border:1px solid var(--border);margin-bottom:12px;">
           <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
           <select id="etfQaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onEtfQAProviderChange()">
-            <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
+            <option value="groq" selected>Groq (Ultra Fast - Llama 3.3 70B / GPT OSS)</option>
             <option value="openrouter">OpenRouter (Multi-Model)</option>
           </select>
           <span id="etfQaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -10910,7 +10910,7 @@
           <div class="qa-key-row">
             <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" data-tt-type="llm-provider-info" onchange="onQAProviderChange()">
-              <option value="groq" selected>Groq (Ultra Fast - DeepSeek / GPT OSS)</option>
+              <option value="groq" selected>Groq (Ultra Fast - Llama 3.3 70B / GPT OSS)</option>
               <option value="openrouter">OpenRouter (Multi-Model)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
@@ -24446,19 +24446,18 @@ if (intelTabsContainer) {
 
     const QA_PROVIDER_CONFIG = {
       groq: {
-        label: 'Groq (Ultra Fast - DeepSeek / GPT OSS)',
+        label: 'Groq (Ultra Fast - Llama 3.3 70B / Llama 3.1 8B)',
         keyStorage: 'qa_key_groq',
         modelStorage: 'qa_model_groq',
-        defaultModel: 'deepseek-r1-distill-llama-70b',
+        defaultModel: 'llama-3.3-70b-versatile',
         keyLabel: 'Groq Key',
         keyPlaceholder: 'gsk_... (free at console.groq.com)',
         hasBaseUrl: false,
-        maxContextTokens: 8000,
+        maxContextTokens: 4800,
         suggestions: [
-          'deepseek-r1-distill-llama-70b',
-          'openai/gpt-oss-120b',
-          'qwen/qwen3.6-27b',
+          'llama-3.3-70b-versatile',
           'llama-3.1-8b-instant',
+          'qwen-2.5-32b',
           'mixtral-8x7b-32768'
         ]
       },
@@ -24474,6 +24473,7 @@ if (intelTabsContainer) {
         suggestions: [
           'openrouter/free',
           'meta-llama/llama-3.3-70b-instruct:free',
+          'google/gemini-2.0-flash-exp:free',
           'deepseek/deepseek-r1:free',
           'mistralai/mistral-small-24b-instruct-2501:free',
           'qwen/qwen-2.5-72b-instruct:free'
@@ -24489,7 +24489,7 @@ if (intelTabsContainer) {
       if (provider === 'openrouter') {
         cfg.maxContextTokens = 32000;
       } else if (provider === 'groq') {
-        cfg.maxContextTokens = 8000;
+        cfg.maxContextTokens = 4800;
       }
       return cfg;
     }
@@ -25035,73 +25035,141 @@ if (intelTabsContainer) {
       const fetchSignal = options?.signal;
       // ── Groq ──────────────────────────────────────────────────────────────
       if (provider === 'groq') {
-        const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 8192, stream: doStream }),
-          signal: fetchSignal
-        });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          let msg = err?.error?.message || `Groq HTTP ${res.status}`;
-          if (res.status === 429) {
-            const retryAfter = res.headers.get('retry-after');
-            const resetIn = res.headers.get('x-ratelimit-reset-tokens');
-            msg += ` (Wait ${retryAfter ? retryAfter + 's' : (resetIn || '60s')})`;
+        const groqCandidates = [model];
+        if (!groqCandidates.includes('llama-3.3-70b-versatile')) groqCandidates.push('llama-3.3-70b-versatile');
+        if (!groqCandidates.includes('llama-3.1-8b-instant')) groqCandidates.push('llama-3.1-8b-instant');
+
+        let lastGroqErr = null;
+        for (const curModel of groqCandidates) {
+          try {
+            // Use safe completion token limit (1500) so prompt + completion fits comfortably in TPM quota
+            const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+              body: JSON.stringify({ model: curModel, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 1500, stream: doStream }),
+              signal: fetchSignal
+            });
+            if (!res.ok) {
+              const err = await res.json().catch(() => ({}));
+              let msg = err?.error?.message || `Groq HTTP ${res.status}`;
+              if (res.status === 429) {
+                const retryAfter = res.headers.get('retry-after');
+                const resetIn = res.headers.get('x-ratelimit-reset-tokens');
+                msg += ` (Wait ${retryAfter ? retryAfter + 's' : (resetIn || '60s')})`;
+              }
+              const isDecomm = /decommissioned|not.found|invalid.model|model_decommissioned|does.not.exist/i.test(msg);
+              const isTooLarge = /request.too.large|tokens.per.minute|tpm|rate.limit|limit \d+/i.test(msg);
+              if ((isDecomm || isTooLarge) && curModel !== groqCandidates[groqCandidates.length - 1]) {
+                const nextCandidate = groqCandidates[groqCandidates.indexOf(curModel) + 1];
+                console.warn('[Groq] Model ' + curModel + ' error (' + msg + '). Auto-trying next candidate ' + nextCandidate);
+                if (isDecomm) {
+                  localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
+                  _syncQAProviderUI();
+                }
+                lastGroqErr = new Error(msg);
+                continue;
+              }
+              throw new Error(msg);
+            }
+            if (doStream && res.body) return _readSSE(res, onToken);
+            const data = await res.json();
+            return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
+          } catch (gErr) {
+            lastGroqErr = gErr;
+            if (gErr.name === 'AbortError') throw gErr;
+            if (/decommissioned|not.found|invalid.model|model_decommissioned|request.too.large|tokens.per.minute|tpm/i.test(gErr.message) && curModel !== groqCandidates[groqCandidates.length - 1]) {
+              continue;
+            }
+            throw gErr;
           }
-          throw new Error(msg);
         }
-        if (doStream && res.body) return _readSSE(res, onToken);
-        const data = await res.json();
-        return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
+        throw lastGroqErr || new Error('Groq failed with model ' + model);
       }
 
       // ── OpenRouter ────────────────────────────────────────────────────────
       if (provider === 'openrouter') {
-        // Free-tier OpenRouter models often return empty SSE streams.
-        // Force non-streaming for reliability; fall back to stream only on paid models.
-        const isFreeModel = !apiKey || model === 'openrouter/free' || model.endsWith(':free');
-        const orStream = doStream && !isFreeModel;
-        const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${apiKey}`,
-            'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
-            'X-Title': 'Shipping Intelligence Dashboard',
-          },
-          body: JSON.stringify({
-            model,
-            messages: [{ role: 'user', content: prompt }],
-            temperature: 0.2,
-            max_tokens: 8192,
-            stream: orStream
-          }),
-          signal: fetchSignal
-        });
-        const selectedModel = res.headers.get('X-OpenRouter-Selected-Model') || res.headers.get('x-openrouter-selected-model');
-        if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          const msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
-          if (res.status === 503) throw new Error('OpenRouter: all free models at capacity. ' + msg);
-          if (res.status === 429) throw new Error('OpenRouter: rate limited. ' + msg);
-          throw new Error(msg);
-        }
-        if (orStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
-        const data = await res.json();
-        if (data?.error) throw new Error('OpenRouter error: ' + (data.error.message || JSON.stringify(data.error)));
-        let orText = data?.choices?.[0]?.message?.content || '';
-        
-        // Strip leading safety classification lines if prepended
-        orText = orText.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+        const orCandidates = [model];
+        const backupOrModels = [
+          'openrouter/free',
+          'meta-llama/llama-3.3-70b-instruct:free',
+          'google/gemini-2.0-flash-exp:free',
+          'qwen/qwen-2.5-72b-instruct:free',
+          'mistralai/mistral-small-24b-instruct-2501:free'
+        ];
+        backupOrModels.forEach(m => { if (!orCandidates.includes(m)) orCandidates.push(m); });
 
-        if (!orText || /^User Safety:\s*safe\s*$/i.test(orText) || /^Safety:\s*safe\s*$/i.test(orText) || (orText.length < 25 && /safe/i.test(orText))) {
-          const finishReason = data?.choices?.[0]?.finish_reason;
-          throw new Error('OpenRouter free router returned a safety guardrail stub ("' + orText + '") instead of the actual completion (finish_reason=' + (finishReason || 'null') + '). Retrying with fallback...');
+        let lastOrErr = null;
+        for (const curModel of orCandidates) {
+          try {
+            const isFreeModel = !apiKey || curModel === 'openrouter/free' || curModel.endsWith(':free');
+            const orStream = doStream && !isFreeModel;
+            const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${apiKey}`,
+                'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
+                'X-Title': 'Shipping Intelligence Dashboard',
+              },
+              body: JSON.stringify({
+                model: curModel,
+                messages: [{ role: 'user', content: prompt }],
+                temperature: 0.2,
+                max_tokens: 8192,
+                stream: orStream
+              }),
+              signal: fetchSignal
+            });
+            const selectedModel = res.headers.get('X-OpenRouter-Selected-Model') || res.headers.get('x-openrouter-selected-model');
+            if (selectedModel) console.log('[OpenRouter] Routed to model:', selectedModel);
+            if (!res.ok) {
+              const err = await res.json().catch(() => ({}));
+              const msg = err?.error?.message || `OpenRouter HTTP ${res.status}`;
+              if (res.status === 503 || res.status === 429 || res.status === 404 || res.status === 400) {
+                lastOrErr = new Error('OpenRouter (' + curModel + '): ' + msg);
+                if (curModel !== orCandidates[orCandidates.length - 1]) {
+                  console.warn('[OpenRouter] Model ' + curModel + ' returned HTTP ' + res.status + ' (' + msg + '). Trying next backup candidate...');
+                  continue;
+                }
+              }
+              throw new Error(msg);
+            }
+            if (orStream && res.body) return _readSSE(res, onToken, 'OpenRouter');
+            const data = await res.json();
+            if (data?.error) {
+              const errMsg = data.error.message || JSON.stringify(data.error);
+              lastOrErr = new Error('OpenRouter error: ' + errMsg);
+              if (curModel !== orCandidates[orCandidates.length - 1]) {
+                console.warn('[OpenRouter] Model ' + curModel + ' errored. Trying next backup candidate...');
+                continue;
+              }
+              throw lastOrErr;
+            }
+            let orText = data?.choices?.[0]?.message?.content || '';
+            orText = orText.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+
+            if (!orText || /^User Safety:\s*safe\s*$/i.test(orText) || /^Safety:\s*safe\s*$/i.test(orText) || (orText.length < 25 && /safe/i.test(orText))) {
+              const finishReason = data?.choices?.[0]?.finish_reason;
+              lastOrErr = new Error('OpenRouter (' + curModel + ') safety guardrail stub or error (finish_reason=' + (finishReason || 'null') + ')');
+              if (curModel !== orCandidates[orCandidates.length - 1]) {
+                console.warn('[OpenRouter] Model ' + curModel + ' returned empty stub. Trying backup candidate...');
+                continue;
+              }
+              throw lastOrErr;
+            }
+            if (onToken) onToken(orText);
+            return { text: orText, webCitations: [] };
+          } catch (oErr) {
+            lastOrErr = oErr;
+            if (oErr.name === 'AbortError') throw oErr;
+            if (curModel !== orCandidates[orCandidates.length - 1]) {
+              console.warn('[OpenRouter] Error on ' + curModel + ' (' + oErr.message + '). Trying next backup candidate...');
+              continue;
+            }
+            throw oErr;
+          }
         }
-        if (onToken) onToken(orText);
-        return { text: orText, webCitations: [] };
+        throw lastOrErr || new Error('All OpenRouter candidate models failed.');
       }
 
       throw new Error('Unknown provider: ' + provider);
@@ -25120,9 +25188,17 @@ if (intelTabsContainer) {
     // Migrate stale localStorage values from previous provider configurations.
     function _migrateQALocalStorage() {
       const groqStored = localStorage.getItem('qa_model_groq') || '';
-      if (!groqStored || groqStored === 'llama-3.3-70b-versatile') {
-        console.log('[QA] Migrating decommissioned Groq model → deepseek-r1-distill-llama-70b');
-        localStorage.setItem('qa_model_groq', 'deepseek-r1-distill-llama-70b');
+      const decommissioned = [
+        'deepseek-r1-distill-llama-70b',
+        'llama3-70b-8192',
+        'llama3-8b-8192',
+        'llama-3.1-70b-versatile',
+        'llama-3.2-11b-text-preview',
+        'llama-3.2-90b-text-preview'
+      ];
+      if (!groqStored || decommissioned.includes(groqStored)) {
+        console.log('[QA] Migrating decommissioned Groq model (' + groqStored + ') → llama-3.3-70b-versatile');
+        localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
       }
     }
 
@@ -25733,7 +25809,7 @@ if (intelTabsContainer) {
           }
 
           try {
-            statEl.textContent = 'Asking ' + pCfg.label + ' (' + docs.length + ' passages, ~' + estTokens + ' tokens)' + (webSearch && p === 'gemini' ? ' + 🌐 Web Search' : '') + '...';
+            statEl.textContent = 'Asking ' + pCfg.label + ' (' + docs.length + ' passages, ~' + estTokens + ' tokens)' + (webSearch ? ' + 🌐 Web Search' : '') + '...';
             const resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               (partial) => { ansEl.innerHTML = _formatQAAnswer(partial); },
