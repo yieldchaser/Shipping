@@ -24735,19 +24735,20 @@ if (intelTabsContainer) {
         label: 'OpenRouter (Multi-Model)',
         keyStorage: 'qa_key_openrouter',
         modelStorage: 'qa_model_openrouter',
-        defaultModel: 'openrouter/free',
+        defaultModel: 'meta-llama/llama-3.3-70b-instruct:free',
         keyLabel: 'OpenRouter Key',
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
         keyOptional: true,
         maxContextTokens: 32000,
         suggestions: [
-          'openrouter/free',
+          'meta-llama/llama-3.3-70b-instruct:free',
           'openai/gpt-oss-120b:free',
           'openai/gpt-oss-20b:free',
-          'meta-llama/llama-3.3-70b-instruct:free',
           'qwen/qwen-2.5-72b-instruct:free',
-          'mistralai/mistral-small-24b-instruct-2501:free'
+          'google/gemma-4-31b-it:free',
+          'nvidia/nemotron-3-super-120b-a12b:free',
+          'deepseek/deepseek-r1:free'
         ]
       }
     };
@@ -25378,21 +25379,22 @@ if (intelTabsContainer) {
 
       // ── OpenRouter ────────────────────────────────────────────────────────
       if (effectiveProvider === 'openrouter') {
-        const orCandidates = [cleanModel || 'openrouter/free'];
+        const orCandidates = [cleanModel || 'meta-llama/llama-3.3-70b-instruct:free'];
         const backupOrModels = [
-          'openrouter/free',
+          'meta-llama/llama-3.3-70b-instruct:free',
           'openai/gpt-oss-120b:free',
           'openai/gpt-oss-20b:free',
-          'meta-llama/llama-3.3-70b-instruct:free',
           'qwen/qwen-2.5-72b-instruct:free',
-          'mistralai/mistral-small-24b-instruct-2501:free'
+          'google/gemma-4-31b-it:free',
+          'nvidia/nemotron-3-super-120b-a12b:free',
+          'deepseek/deepseek-r1:free'
         ];
         backupOrModels.forEach(m => { if (!orCandidates.includes(m)) orCandidates.push(m); });
 
         let lastOrErr = null;
         for (const curModel of orCandidates) {
           try {
-            const isFreeModel = !effectiveKey || curModel === 'openrouter/free' || curModel.endsWith(':free');
+            const isFreeModel = !effectiveKey || curModel.endsWith(':free');
             const orStream = doStream && !isFreeModel;
             const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
               method: 'POST',
@@ -25418,13 +25420,13 @@ if (intelTabsContainer) {
                 const resetIn = res.headers.get('x-ratelimit-reset');
                 msg += ` (Rate limited; reset in ${resetIn || '60s'})`;
               }
-              if (res.status === 503 || res.status === 429) {
+              const isRecoverable = res.status === 503 || res.status === 429 || res.status === 400 || res.status === 404 ||
+                /unavailable|decommissioned|not.found|invalid|paid|slug|rate.limit/i.test(msg);
+              if (isRecoverable && curModel !== orCandidates[orCandidates.length - 1]) {
                 const nextCandidate = orCandidates[orCandidates.indexOf(curModel) + 1];
-                if (nextCandidate) {
-                  console.warn(`[OpenRouter] Model ${curModel} returned HTTP ${res.status} (${msg}). Auto-trying next candidate: ${nextCandidate}`);
-                  lastOrErr = new Error(msg);
-                  continue;
-                }
+                console.warn(`[OpenRouter] Model ${curModel} returned HTTP ${res.status} (${msg}). Auto-trying next candidate: ${nextCandidate}`);
+                lastOrErr = new Error(msg);
+                continue;
               }
               throw new Error(msg);
             }
@@ -25506,6 +25508,18 @@ if (intelTabsContainer) {
       if (storedProvider === 'gemini' || storedProvider === 'ollama' || storedProvider === 'nim') {
         console.log('[QA] Resetting decommissioned provider', storedProvider, '→ groq');
         localStorage.setItem('qa_provider', 'groq');
+      }
+      // Auto-migrate stale / decommissioned OpenRouter free model slugs
+      const storedORModel = (localStorage.getItem('qa_model_openrouter') || '').trim();
+      const deprecatedSlugs = [
+        'openrouter/free',
+        'mistralai/mistral-small-24b-instruct-2501:free',
+        'mistralai/mistral-small-24b-instruct-2501',
+        'mistralai/mistral-7b-instruct:free'
+      ];
+      if (!storedORModel || deprecatedSlugs.includes(storedORModel) || storedORModel.includes('openrouter/free')) {
+        console.log('[QA] Migrating decommissioned OpenRouter model (' + storedORModel + ') → meta-llama/llama-3.3-70b-instruct:free');
+        localStorage.setItem('qa_model_openrouter', 'meta-llama/llama-3.3-70b-instruct:free');
       }
     }
 
