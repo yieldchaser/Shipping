@@ -3079,6 +3079,28 @@
     }
     .qa-answer .katex { font-size: 1.08em; color: #e6edf3; }
     .qa-answer .katex-display { margin: 0; padding: 0; }
+    .qa-sup {
+      font-size: 0.72em;
+      vertical-align: super;
+      color: #58a6ff;
+      font-weight: 700;
+      margin: 0 2px;
+      padding: 1px 4px;
+      border-radius: 3px;
+      background: rgba(88, 166, 255, 0.12);
+      border: 1px solid rgba(88, 166, 255, 0.25);
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-block;
+      line-height: 1.1;
+      transition: all 0.15s ease;
+    }
+    .qa-sup:hover {
+      background: rgba(88, 166, 255, 0.3);
+      border-color: #58a6ff;
+      color: #ffffff;
+      transform: translateY(-1px);
+    }
     .qa-cit-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; padding-top: 10px; border-top: 1px solid rgba(88, 166, 255, 0.1); }
     .qa-cit {
       background: rgba(22, 27, 34, 0.8); border: 1px solid rgba(88, 166, 255, 0.16); border-radius: 4px;
@@ -24918,6 +24940,29 @@ if (intelTabsContainer) {
       _migrateOpenRouterModel();
       providerEl.value = _currentQAProvider();
       _syncQAProviderUI();
+
+      const ansEl = document.getElementById('qaAnswer');
+      if (ansEl && !ansEl._hasSupClickListener) {
+        ansEl._hasSupClickListener = true;
+        ansEl.addEventListener('click', (e) => {
+          const sup = e.target.closest('.qa-sup');
+          if (!sup) return;
+          const docNum = sup.getAttribute('data-doc');
+          if (!docNum) return;
+          const targetCit = document.getElementById('qa-cit-' + docNum);
+          if (targetCit) {
+            targetCit.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            targetCit.style.borderColor = '#58a6ff';
+            targetCit.style.background = 'rgba(88, 166, 255, 0.35)';
+            targetCit.style.color = '#ffffff';
+            setTimeout(() => {
+              targetCit.style.borderColor = '';
+              targetCit.style.background = '';
+              targetCit.style.color = '';
+            }, 1600);
+          }
+        });
+      }
     }
 
     function saveQASettings() {
@@ -25862,20 +25907,30 @@ if (intelTabsContainer) {
       if (!text) return '';
       let esc = String(text);
 
-      // Handle multi-citation groups like [DOC-1, DOC-2, DOC-3]
-      esc = esc.replace(/\[DOC-\s*(\d+(?:\s*,\s*DOC-\s*\d+)*)\]/gi, (match) => {
-        const nums = match.match(/\d+/g);
-        return nums.map(n => `<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">${n}</sup>`).join(', ');
+      // 1. Normalize unicode dashes/hyphens (‑, –, —, etc.) to standard hyphen
+      esc = esc.replace(/[\u2010\u2011\u2012\u2013\u2014\u2015]/g, '-');
+
+      // 2. Comprehensive pattern for brackets [DOC-1], [DOC 1], [DOC-1, DOC-2], [DOC: 3], [DOC-1; 2; 3]
+      esc = esc.replace(/\[\s*DOC\s*[-_:\s]*\s*(\d+(?:(?:\s*[,;]\s*|\s+)(?:DOC\s*[-_:\s]*)?\d+)*)\s*\]/gi, (match) => {
+        const nums = match.match(/\d+/g) || [];
+        return nums.map(n => `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`).join(' ');
       });
 
-      // Convert single [DOC-N] or [DOC - N] to superscript references
-      esc = esc.replace(/\[DOC-\s*(\d+)\]/gi, '<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">$1</sup>');
+      // 3. Parentheses style: (DOC-1), (DOC 1), (DOC: 2)
+      esc = esc.replace(/\(\s*DOC\s*[-_:\s]*\s*(\d+(?:(?:\s*[,;]\s*|\s+)(?:DOC\s*[-_:\s]*)?\d+)*)\s*\)/gi, (match) => {
+        const nums = match.match(/\d+/g) || [];
+        return nums.map(n => `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`).join(' ');
+      });
 
-      // Also handle plain text citations like "doc 11", "doc 1", "doc eleven", etc.
+      // 4. Standalone plain-text doc references: 'doc 1', 'document 2', 'doc eleven'
       const _docWordMap = { 'zero':0, 'one':1, 'two':2, 'three':3, 'four':4, 'five':5, 'six':6, 'seven':7, 'eight':8, 'nine':9, 'ten':10, 'eleven':11, 'twelve':12, 'thirteen':13, 'fourteen':14, 'fifteen':15, 'sixteen':16, 'seventeen':17, 'eighteen':18, 'nineteen':19, 'twenty':20 };
-      esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(\d+)/gi, '[DOC-$1]');
-      esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b/gi, (m, word) => '[DOC-' + _docWordMap[word.toLowerCase()] + ']');
-      esc = esc.replace(/\[DOC-\s*(\d+)\]/gi, '<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">$1</sup>');
+      esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b/gi, (m, word) => {
+        const n = _docWordMap[word.toLowerCase()];
+        return `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`;
+      });
+      esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(\d+)\b/gi, (m, n) => {
+        return `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`;
+      });
 
       return renderRichMarkdownAndMath(esc);
     }
@@ -26166,7 +26221,7 @@ if (intelTabsContainer) {
         ansEl.innerHTML  = _formatQAAnswer(answer);
         citEl.innerHTML  = [
           ...finalDocs.map((d, i) =>
-            '<span class="qa-cit" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
+            '<span class="qa-cit" id="qa-cit-' + (i+1) + '" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
           ),
           ...(finalWebCitations || []).map(w =>
             '<a class="qa-cit qa-cit-web" href="' + w.url.replace(/"/g, '&quot;') + '" target="_blank" rel="noopener noreferrer" title="' + w.title.replace(/"/g, '&quot;') + '">🌐 ' + w.title.slice(0, 45) + (w.title.length > 45 ? '…' : '') + ' ↗</a>'
