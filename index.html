@@ -24740,7 +24740,7 @@ if (intelTabsContainer) {
         keyPlaceholder: 'sk-or-... (free at openrouter.ai)',
         hasBaseUrl: false,
         keyOptional: true,
-        maxContextTokens: 32000,
+        maxContextTokens: 16000,
         suggestions: [
           'meta-llama/llama-3.3-70b-instruct:free',
           'openai/gpt-oss-120b:free',
@@ -25761,7 +25761,7 @@ if (intelTabsContainer) {
       });
 
       // 0a. Also parse plain-text reasoning blocks like "Here's a thinking process: ... [Final Output / Section 1 / ### / etc.]"
-      rawText = rawText.replace(/(?:^|\n\n)((?:Here's a thinking process|Thinking Process|Here is the thinking process|Here is a thinking process|Okay, here's a thinking process)[\s\S]*?)(?=(?:\n\n(?:[#0-9]+\.|\#{1,4}\s+|EXECUTIVE SUMMARY|1\.\s+EXECUTIVE|===|---)|\n\n\*\*1\.|\n\n\*\*Executive|$))/i, function(match, thought) {
+      rawText = rawText.replace(/(?:^|\n\n)((?:Here's a thinking process|Thinking Process|Here is the thinking process|Here is a thinking process|Okay, here's a thinking process|Let me analyze the question|Let me review the context|Let me check the provided context)[\s\S]*?)(?=(?:\n\n(?:[#0-9]+\.|\#{1,4}\s+|EXECUTIVE SUMMARY|1\.\s+EXECUTIVE|===|---|Based on the provided|According to the provided|In summary|Summary:|\*\*Summary|\*\*Executive|\*\*Key|\*\*1\.|$)))/i, function(match, thought) {
         return '\n\n<details class="qa-think-block" style="background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:6px;padding:8px 12px;margin-bottom:14px;"><summary style="cursor:pointer;color:var(--text-muted);font-size:11.5px;font-weight:600;display:inline-flex;align-items:center;gap:5px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>Model Reasoning Trace (Click to Expand)</summary><div class="qa-think-body" style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.06);color:var(--text-muted);font-size:12px;line-height:1.5;">' + _escapeHtml(thought.trim()).replace(/\n/g, '<br>') + '</div></details>\n\n';
       });
 
@@ -26078,12 +26078,13 @@ if (intelTabsContainer) {
           const today = new Date().toISOString().split('T')[0];
           const wordLimit = isLargeCtx ? 750 : 350;
           const promptText = 'You are a senior institutional shipping freight market analyst. Today\'s date is ' + today + '.\n' +
-            'Answer the question using the provided context passages and live freight intelligence.\n\n' +
+            'Answer the question directly and professionally using the provided context passages and live freight intelligence.\n\n' +
             'STRICT RULES:\n' +
-            '1. Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
-            '2. If the user asks about real-time or breaking events, integrate live data and web grounding while grounding factual statistics in the context.\n' +
-            '3. Do NOT invent or extrapolate data, dates, or statistics.\n' +
-            '4. Lead with the key finding. Compare multi-year historical trends against current market conditions where relevant. Under ' + wordLimit + ' words.\n\n' +
+            '1. Direct Answer: Provide a structured, executive-ready synthesis directly answering the question. Do NOT output internal monologues, scratchpad reasoning, search commentary, or "Let me..." thinking text.\n' +
+            '2. Inline Citations: Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
+            '3. Live Context: If the user asks about real-time or breaking events, integrate live data and web grounding while grounding factual statistics in the context.\n' +
+            '4. Accuracy: Do NOT invent or extrapolate data, dates, or statistics.\n' +
+            '5. Formatting & Length: Use markdown headings, bullet points, and data tables where applicable. Under ' + wordLimit + ' words.\n\n' +
             'Question: ' + queryText + '\n\n' +
             'Context Passages:\n' + ctxText;
 
