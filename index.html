@@ -11183,9 +11183,10 @@ if (intelTabsContainer) {
     // Pre-built spot lookup: { dateStr -> value } + sorted timestamps + values for binary search
     var _spotMapCache = {};
     function getSpotMap(spotKey) {
-      if (_spotMapCache[spotKey]) return _spotMapCache[spotKey];
+      if (_spotMapCache[spotKey] && _spotMapCache[spotKey].sortedTs && _spotMapCache[spotKey].sortedTs.length > 0) return _spotMapCache[spotKey];
       const mult = (typeof SPOT_MULTIPLIERS !== 'undefined' ? SPOT_MULTIPLIERS[spotKey] : null) || 1;
       const spotRows = getRows(spotKey);
+      if (!spotRows || !spotRows.length) return { byDate: {}, sortedTs: [], sortedVals: [] };
       const byDate = {};
       const sortedTs = new Array(spotRows.length);
       const sortedVals = new Array(spotRows.length);
@@ -19796,7 +19797,7 @@ if (intelTabsContainer) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Capesize Spot Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => (v != null && v >= 1000) ? '$' + Math.round(v).toLocaleString() : (v === 0 ? '$0' : (v != null ? '$' + v : '')) }, title: { display: isMainCall, text: 'Capesize Spot Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + v : '' }, title: { display: isMainCall, text: 'CFR Iron Ore ($/dmt)', color: '#8b949e', font: { size: 11 } } },
             yRight2: { display: activeGrade !== 'steel', position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 10 : 8 }, callback: v => v != null ? v.toLocaleString() : '' }, title: { display: isMainCall && activeGrade !== 'steel', text: 'Port Inventory (10k tonnes)', color: '#8b949e', font: { size: 11 } } }
           }
