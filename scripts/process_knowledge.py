@@ -3460,20 +3460,39 @@ def build_derived(llm_enabled: bool = False):
                 if steel_inv:
                     iron_ore_records[date_str]["steel_inventories_mt"] = steel_inv
 
+    # Write Iron Ore Restocking additively (preserve all historical PDF archive data)
     io_file = derived_dir / "iron_ore_restocking.csv"
     io_cols = ["date", "cfr_62", "cfr_65", "port_stock_62", "port_stock_65", "inventories_mt", "steel_production_mt", "steel_inventories_mt"]
+    existing_io = {}
+    if io_file.exists():
+        import csv
+        with open(io_file, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for r in reader:
+                d = r.get("date")
+                if d:
+                    existing_io[d] = {k: float(v) if v and v != "" else None for k, v in r.items() if k != "date"}
+    # Merge new in-memory records additively
+    for d, data in iron_ore_records.items():
+        if d not in existing_io:
+            existing_io[d] = {}
+        for k, v in data.items():
+            if v is not None and (existing_io[d].get(k) is None or existing_io[d].get(k) == ""):
+                existing_io[d][k] = v
+
     with open(io_file, "w", encoding="utf-8", newline="") as f:
         import csv
         writer = csv.writer(f)
         writer.writerow(io_cols)
-        for date in sorted(iron_ore_records.keys()):
+        for date in sorted(existing_io.keys()):
             row = [date]
-            data = iron_ore_records[date]
+            data = existing_io[date]
             for col in io_cols[1:]:
-                row.append(data.get(col, ""))
+                val = data.get(col)
+                row.append("" if val is None else str(val))
             writer.writerow(row)
 
-    # 3. Compile Demolition Scrap Prices (Weekly)
+    # 3. Compile Demolition Scrap Prices (Weekly) additively
     demo_records = {}
     for r in signal_rows:
         source = r.get("source")
@@ -3504,17 +3523,35 @@ def build_derived(llm_enabled: bool = False):
                     "container_india": matches[2][0]
                 }
     
-    val_file = derived_dir / "scrappage_prices.csv"  # Write scrappage to its own file (vessel_valuations.csv now contains Fearnleys S&P data)
+    val_file = derived_dir / "scrappage_prices.csv"
     val_cols = ["date", "dry_india", "dry_bangla", "dry_pak", "dry_turkey", "tanker_india", "tanker_bangla", "tanker_pak", "container_india"]
+    existing_demo = {}
+    if val_file.exists():
+        import csv
+        with open(val_file, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for r in reader:
+                d = r.get("date")
+                if d:
+                    existing_demo[d] = {k: float(v) if v and v != "" else None for k, v in r.items() if k != "date"}
+    # Merge new in-memory records additively
+    for d, data in demo_records.items():
+        if d not in existing_demo:
+            existing_demo[d] = {}
+        for k, v in data.items():
+            if v is not None and (existing_demo[d].get(k) is None or existing_demo[d].get(k) == ""):
+                existing_demo[d][k] = v
+
     with open(val_file, "w", encoding="utf-8", newline="") as f:
         import csv
         writer = csv.writer(f)
         writer.writerow(val_cols)
-        for date in sorted(demo_records.keys()):
+        for date in sorted(existing_demo.keys()):
             row = [date]
-            data = demo_records[date]
+            data = existing_demo[date]
             for col in val_cols[1:]:
-                row.append(data.get(col, ""))
+                val = data.get(col)
+                row.append("" if val is None else str(val))
             writer.writerow(row)
     build_wiki(
         repo_root=REPO_ROOT,
