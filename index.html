@@ -25832,6 +25832,7 @@ if (intelTabsContainer) {
       s = _renderMarkdownLists(s);
 
       // 9. Inlines
+      s = s.replace(/\\([*_{}[\]()#+!])/g, '$1');
       s = s.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
       s = s.replace(/__([^_]+?)__/g, '<strong>$1</strong>');
       s = s.replace(/(^|[^\*])\*([^\*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
