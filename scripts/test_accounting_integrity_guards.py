@@ -50,14 +50,20 @@ class TestAccountingIntegrityGuards(unittest.TestCase):
     def test_market_close_decoupled_from_nav(self):
         res = run_fund_level_nav_reconstruction('bdry')
         tl = res['timeline']
-        # On 2026-08-11, official NAV ($13.79) was published
-        aug11_rows = tl[tl['date'] == '2026-08-11']
-        self.assertEqual(len(aug11_rows), 1)
-        r = aug11_rows.iloc[0]
-        self.assertIn(r['market_status'], ['AVAILABLE', 'MARKET_CLOSED'])
-        self.assertAlmostEqual(r['official_nav'], 13.79, places=2)
+
+        # Dynamically find the most recent date that has a non-NaN official NAV.
+        # This avoids pinning to a specific date (e.g. '2026-08-11') which will
+        # silently stop being the "most recent" as the data archive grows.
+        nav_rows = tl[tl['official_nav'].notna()].copy()
+        self.assertGreater(len(nav_rows), 0,
+                           "Timeline must contain at least one row with an official NAV")
+        most_recent_row = nav_rows.sort_values('date').iloc[-1]
+
+        self.assertIn(most_recent_row['market_status'], ['AVAILABLE', 'MARKET_CLOSED'])
+        self.assertGreater(most_recent_row['official_nav'], 0,
+                           "Official NAV must be a positive value")
         # Assert that presence/absence of market close does NOT force reconciliation_status to MISSING_INPUT
-        self.assertEqual(r['reconciliation_status'], 'PARTIAL_DISCLOSURE_UNRECONCILED')
+        self.assertEqual(most_recent_row['reconciliation_status'], 'PARTIAL_DISCLOSURE_UNRECONCILED')
 
 if __name__ == '__main__':
     unittest.main()

@@ -72,8 +72,12 @@ class TestFinalHardeningPass(unittest.TestCase):
             self.assertEqual(len(snap['provenance_record']['expected_sha256']), 64)
 
     def test_business_day_freshness_guard_with_injected_clock(self):
-        # Using an injected reference clock 10 business days ahead must raise StaleSnapshotError
-        future_clock = datetime(2026, 9, 1, tzinfo=timezone.utc)
+        # Use a dynamic future clock: always 30 calendar days ahead of today.
+        # This ensures the injected clock is always genuinely in the future,
+        # and the live snapshot (always from the present) will always be stale
+        # relative to it — permanently correct regardless of the current date.
+        from datetime import timedelta
+        future_clock = datetime.now(timezone.utc) + timedelta(days=30)
         with self.assertRaises(StaleSnapshotError):
             load_latest_official_snapshot('BDRY', max_stale_business_days=3, reference_time_utc=future_clock)
 

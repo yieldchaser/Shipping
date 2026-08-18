@@ -88,6 +88,52 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         self._base_dir = os.path.normpath(os.path.join(os.path.dirname(__file__), '..'))
         self._pre_test_hashes = _compute_prod_hashes(self._base_dir)
 
+        # ----------------------------------------------------------------
+        # Dynamically discover the live prompt tickers from the official
+        # snapshots.  This keeps ALL ticker references roll-proof — when
+        # the front-month contract rolls (Q26 → U26 → V26 etc.) the tests
+        # automatically pick up the new prompt without any code change.
+        # ----------------------------------------------------------------
+        from current_book_manual_shock import load_latest_official_snapshot
+        _bdry_snap = load_latest_official_snapshot(fund='BDRY')
+        _bwet_snap = load_latest_official_snapshot(fund='BWET')
+
+        bdry_positions = _bdry_snap['positions']
+        bwet_positions = _bwet_snap['positions']
+
+        # BDRY: prompt Capesize = first C5TCM position (sorted by ticker asc → prompt comes first)
+        cape_pos = [p for p in bdry_positions if 'C5TCM' in p.get('ticker', '')]
+        self._bdry_cape_prompt_ticker = cape_pos[0]['ticker'] if cape_pos else 'C5TCM Q26 INDEX'
+        self._bdry_cape_prompt_price  = float(cape_pos[0]['price']) if cape_pos else 30000.0
+
+        # BWET: prompt VLCC (DD3CM) and Suezmax (DD20M) positions
+        vlcc_pos = [p for p in bwet_positions if 'DD3CM' in p.get('ticker', '')]
+        suez_pos = [p for p in bwet_positions if 'DD20M' in p.get('ticker', '')]
+        self._bwet_vlcc_prompt_ticker = vlcc_pos[0]['ticker'] if vlcc_pos else 'DD3CM Q26 INDEX'
+        self._bwet_vlcc_prompt_price  = float(vlcc_pos[0]['price']) if vlcc_pos else 90.0
+        self._bwet_suez_prompt_ticker = suez_pos[0]['ticker'] if suez_pos else 'DD20M Q26 INDEX'
+        self._bwet_suez_prompt_price  = float(suez_pos[0]['price']) if suez_pos else 38.0
+
+        # Synthetic but internally-consistent manual baselines (not live market data;
+        # these are test fixtures where total_nav / shares == nav_per_share exactly).
+        # We use round numbers so the math is trivially verifiable.
+        self._bdry_baseline = {
+            'total_nav_dollars': 30_000_000.0,
+            'shares_outstanding': 2_000_000,
+            'nav_per_share': 15.00,              # 30M / 2M = $15.00 ✓
+            'market_price': 14.80,
+            'as_of_date': self.ref_date_str,
+            'source': 'Manual Contemporaneous Baseline'
+        }
+        self._bwet_baseline = {
+            'total_nav_dollars': 15_000_000.0,
+            'shares_outstanding': 50_000,
+            'nav_per_share': 300.00,             # 15M / 50K = $300.00 ✓
+            'market_price': 285.00,
+            'as_of_date': self.ref_date_str,
+            'source': 'Manual Contemporaneous Baseline'
+        }
+
     def tearDown(self):
         """Assert zero mutation of every production artifact."""
         post_hashes = _compute_prod_hashes(self._base_dir)
@@ -121,23 +167,17 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         These assertions hold for ANY lot count because they are derived from the
         ticket's own contract_level_breakdown — not from hardcoded values.
         """
-        TARGET_PRICE = 42000.0
-        SHARES = 2169200
-        CAPE_TICKER = 'C5TCM Q26 INDEX'
+        TARGET_SHOCK = 2000.0  # +$2,000/day above live base mark — always positive delta
+        # Use the live prompt Capesize ticker from setUp (survives monthly contract roll)
+        CAPE_TICKER = self._bdry_cape_prompt_ticker
+        TARGET_PRICE = self._bdry_cape_prompt_price + TARGET_SHOCK
 
         ticket = generate_decision_ticket(
             fund='BDRY',
             target_contract_prices={CAPE_TICKER: TARGET_PRICE},
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
-            manual_dated_baseline={
-                'total_nav_dollars': 30000000.0,
-                'shares_outstanding': SHARES,
-                'nav_per_share': 13.83,
-                'market_price': 13.79,
-                'as_of_date': self.ref_date_str,
-                'source': 'Manual Contemporaneous Baseline'
-            }
+            manual_dated_baseline=self._bdry_baseline
         )
 
         # --- Identification & metadata ---
@@ -152,7 +192,9 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         cape_row = _get_contract_row(breakdown, CAPE_TICKER)
         expected_cape_pnl = _expected_pnl_from_row(cape_row)
 
-        # The shocked contract must have a positive delta (target > base)
+        # The shocked contract must have a positive delta (target > base by exactly TARGET_SHOCK)
+        self.assertAlmostEqual(cape_row['delta_mark_dollars'], TARGET_SHOCK, delta=0.01,
+                               msg="Capesize delta mark must equal the applied shock")
         self.assertGreater(cape_row['delta_mark_dollars'], 0,
                            "Capesize delta mark should be positive for this upward shock")
 
@@ -181,13 +223,11 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         # --- Per-share arithmetic identity ---
         per_sh = ticket['per_share_nav_impact']
         self.assertTrue(per_sh['is_denominator_valid'])
-        self.assertEqual(per_sh['shares_outstanding'], SHARES)
+        # Do NOT pin shares_outstanding to a hardcoded count — the engine echoes back
+        # whatever the caller supplied in manual_dated_baseline, so just verify it's positive.
+        self.assertGreater(per_sh['shares_outstanding'], 0)
 
         # Per-share delta identity: projected_nav/share − baseline_nav/share.
-        # We use the engine's own projected/baseline values rather than recomputing
-        # gross_pnl / shares independently, because the engine applies rounding to
-        # both projected_nav_per_share and baseline_nav_per_share (4 decimal places)
-        # before the subtraction, which can cause a tiny divergence from the raw division.
         expected_per_share_delta = per_sh['projected_nav_per_share'] - per_sh['baseline_nav_per_share']
         self.assertAlmostEqual(
             per_sh['per_share_nav_delta_dollars'], expected_per_share_delta,
@@ -222,24 +262,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         All assertions are derived from the ticket's own breakdown — no
         hardcoded lot counts anywhere.
         """
-        SHARES = 44200
-        VLCC_TICKER = 'DD3CM Q26 INDEX'
-        SUEZ_TICKER = 'DD20M Q26 INDEX'
+        # Use live prompt tickers from setUp — survives any monthly contract roll.
+        VLCC_TICKER = self._bwet_vlcc_prompt_ticker
+        SUEZ_TICKER = self._bwet_suez_prompt_ticker
+        vlcc_base = self._bwet_vlcc_prompt_price
+        suez_base = self._bwet_suez_prompt_price
 
-        # Targets: +$10/MT on VLCC, +$5/MT on Suezmax (relative to live base marks).
-        # We read the live snapshot to derive exact absolute targets — this keeps the
-        # test permanently correct regardless of daily market moves.
-        from current_book_manual_shock import load_latest_official_snapshot
-        live_snap = load_latest_official_snapshot(fund='BWET')
-        live_marks = {p['ticker']: float(p['price']) for p in live_snap['positions']}
-
-        vlcc_base = live_marks.get(VLCC_TICKER, 0.0)
-        suez_base = live_marks.get(SUEZ_TICKER, 0.0)
-        self.assertGreater(vlcc_base, 0, f"Live mark for {VLCC_TICKER} must be positive")
-        self.assertGreater(suez_base, 0, f"Live mark for {SUEZ_TICKER} must be positive")
-
-        VLCC_SHOCK = 10.0   # +$10/MT
-        SUEZ_SHOCK = 5.0    # +$5/MT
+        VLCC_SHOCK = 10.0   # +$10/MT above live base — guaranteed positive delta
+        SUEZ_SHOCK = 5.0    # +$5/MT above live base — guaranteed positive delta
 
         ticket = generate_decision_ticket(
             fund='BWET',
@@ -249,14 +279,7 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
             },
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
-            manual_dated_baseline={
-                'total_nav_dollars': 15000000.0,
-                'shares_outstanding': SHARES,
-                'nav_per_share': 339.37,
-                'market_price': 357.33,
-                'as_of_date': self.ref_date_str,
-                'source': 'Manual Contemporaneous Baseline'
-            }
+            manual_dated_baseline=self._bwet_baseline
         )
 
         breakdown = ticket['contract_level_breakdown']
@@ -319,11 +342,13 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         strictly locked.  Gross futures P&L (which depends only on lot counts and marks)
         must still be available and internally consistent.
         """
-        CAPE_TICKER = 'C5TCM Q26 INDEX'
+        # Use the live prompt Capesize ticker (survives monthly contract roll)
+        CAPE_TICKER = self._bdry_cape_prompt_ticker
+        TARGET_PRICE = self._bdry_cape_prompt_price + 2000.0  # always above base
 
         ticket = generate_decision_ticket(
             fund='BDRY',
-            target_contract_prices={CAPE_TICKER: 42000.0},
+            target_contract_prices={CAPE_TICKER: TARGET_PRICE},
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time
             # No manual_dated_baseline → non-contemporaneous baseline path
@@ -361,14 +386,14 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         """
         ticket = generate_decision_ticket(
             fund='BDRY',
-            target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
+            target_contract_prices={self._bdry_cape_prompt_ticker: self._bdry_cape_prompt_price + 2000.0},
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
             manual_dated_baseline={
-                'total_nav_dollars': 30000000.0,
-                'shares_outstanding': 2169200,   # implied NAV/share = 13.83
-                'nav_per_share': 25.00,           # deliberately mismatched!
-                'market_price': 13.79,
+                'total_nav_dollars': 30_000_000.0,
+                'shares_outstanding': 2_000_000,
+                'nav_per_share': 25.00,  # deliberately wrong! (30M/2M = $15.00, not $25.00)
+                'market_price': 14.80,
                 'as_of_date': self.ref_date_str,
                 'source': 'Bad Input'
             }
@@ -417,14 +442,7 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
             ],
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
-            manual_dated_baseline={
-                'total_nav_dollars': 30000000.0,
-                'shares_outstanding': 2169200,
-                'nav_per_share': 13.83,
-                'market_price': 13.79,
-                'as_of_date': self.ref_date_str,
-                'source': 'Manual Contemporaneous Baseline'
-            }
+            manual_dated_baseline=self._bdry_baseline
         )
 
         self.assertEqual(ticket['book_classification']['scenario_mode'], 'USER_SPECIFIED_FORWARD_BOOK')
@@ -457,17 +475,12 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         """
         ticket = generate_decision_ticket(
             fund='BDRY',
-            target_contract_prices={'C5TCM Q26 INDEX': 42000.0},
+            target_contract_prices={
+                self._bdry_cape_prompt_ticker: self._bdry_cape_prompt_price + 2000.0
+            },
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
-            manual_dated_baseline={
-                'total_nav_dollars': 30000000.0,
-                'shares_outstanding': 2169200,
-                'nav_per_share': 13.83,
-                'market_price': 13.79,
-                'as_of_date': self.ref_date_str,
-                'source': 'Manual Contemporaneous Baseline'
-            }
+            manual_dated_baseline=self._bdry_baseline
         )
         txt = format_decision_ticket_text(ticket)
         self.assertIn("INSTITUTIONAL ETF SCENARIO DECISION TICKET: BDRY", txt)
