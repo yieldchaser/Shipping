@@ -92,7 +92,8 @@ def generate_tce_matrix_json():
                 spread_2y = r_2y_atl - r_2y_pac
 
                 sparkline = []
-                mom_1m = 0.0
+                mom_1w = 0.0   # true 1-week change: sparkline[-2] → sparkline[-1]
+                mom_1m = 0.0   # 4-week change:       sparkline[-5] → sparkline[-1]
                 mom_1y = 0.0
                 high_52w = max(r_1y_atl, r_1y_pac)
                 low_52w = min(r_1y_atl, r_1y_pac)
@@ -102,6 +103,8 @@ def generate_tce_matrix_json():
                 if df_d_atl is not None and col_a in df_d_atl.columns:
                     s_vals = df_d_atl[col_a].dropna().tolist()
                     sparkline = [float(v) for v in s_vals[-52:]]
+                    if len(sparkline) >= 2 and sparkline[-2] > 0:
+                        mom_1w = round(((sparkline[-1] - sparkline[-2]) / sparkline[-2]) * 100.0, 1)
                     if len(sparkline) >= 5 and sparkline[-5] > 0:
                         mom_1m = round(((sparkline[-1] - sparkline[-5]) / sparkline[-5]) * 100.0, 1)
                     if len(sparkline) >= 20 and sparkline[0] > 0:
@@ -145,9 +148,9 @@ def generate_tce_matrix_json():
                     "basin_spread_6m": spread_6m,
                     "basin_spread_2y": spread_2y,
                     "sparkline_52w": sparkline,
-                    "mom_1w": mom_1m,         # best short-term proxy (sparkline 5-wk pct chg); no 1-wk data from Alibra
-                    "chg_1yr_atl_pct": chg_1y_atl,  # actual 1-year ATL rate change % from Alibra table
-                    "mom_1m": mom_1m,
+                    "mom_1w": mom_1w,            # true 1-week % change: sparkline[-2] → sparkline[-1]
+                    "chg_1yr_atl_pct": chg_1y_atl,  # 1-year ATL rate change % from Alibra table
+                    "mom_1m": mom_1m,            # 4-week % change: sparkline[-5] → sparkline[-1]
                     "mom_1y": mom_1y,
                     "high_52w": high_52w,
                     "low_52w": low_52w,
@@ -195,7 +198,8 @@ def generate_tce_matrix_json():
                     slope_badge = "flat"
 
                 sparkline = []
-                mom_1m = 0.0
+                mom_1w = 0.0   # true 1-week change: sparkline[-2] → sparkline[-1]
+                mom_1m = 0.0   # 4-week change:       sparkline[-5] → sparkline[-1]
                 mom_1y = 0.0
                 high_52w = r_1y
                 low_52w = r_1y
@@ -205,6 +209,8 @@ def generate_tce_matrix_json():
                 if df_t_1y is not None and col_t in df_t_1y.columns:
                     s_vals = df_t_1y[col_t].dropna().tolist()
                     sparkline = [float(v) for v in s_vals[-52:]]
+                    if len(sparkline) >= 2 and sparkline[-2] > 0:
+                        mom_1w = round(((sparkline[-1] - sparkline[-2]) / sparkline[-2]) * 100.0, 1)
                     if len(sparkline) >= 5 and sparkline[-5] > 0:
                         mom_1m = round(((sparkline[-1] - sparkline[-5]) / sparkline[-5]) * 100.0, 1)
                     if len(sparkline) >= 20 and sparkline[0] > 0:
@@ -247,9 +253,9 @@ def generate_tce_matrix_json():
                     "curve_slope_badge": slope_badge,
                     "eco_premium_day": eco_val,
                     "sparkline_52w": sparkline,
-                    "mom_1w": mom_1m,       # best short-term proxy (sparkline 5-wk pct chg); no 1-wk data from Alibra
-                    "chg_1yr_pct": chg_1y,  # actual 1-year rate change % from Alibra table
-                    "mom_1m": mom_1m,
+                    "mom_1w": mom_1w,          # true 1-week % change: sparkline[-2] → sparkline[-1]
+                    "chg_1yr_pct": chg_1y,     # 1-year rate change % from Alibra table
+                    "mom_1m": mom_1m,           # 4-week % change: sparkline[-5] → sparkline[-1]
                     "mom_1y": mom_1y,
                     "high_52w": high_52w,
                     "low_52w": low_52w,
