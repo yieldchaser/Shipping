@@ -51,6 +51,12 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         self._cape_prompt_ticker = cape_positions[0]['ticker'] if len(cape_positions) >= 1 else None
         self._cape_next_ticker   = cape_positions[1]['ticker'] if len(cape_positions) >= 2 else None
 
+        # Live prices for the prompt Capesize — used as the base for all relative shocks.
+        # This guarantees every price target is strictly above (or below) the live mark
+        # regardless of current freight market levels.
+        self._cape_prompt_price = float(cape_positions[0]['price']) if cape_positions else 30000.0
+        self._cape_next_price   = float(cape_positions[1]['price']) if len(cape_positions) >= 2 else self._cape_prompt_price
+
         # BDRY: first Oct/V or next non-prompt Capesize used in forward-book test
         # Use the second distinct Capesize ticker for the USER_SPECIFIED_FORWARD_BOOK test
         self._cape_fwd_ticker = self._cape_next_ticker or self._cape_prompt_ticker
@@ -58,12 +64,15 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         # BWET: first TD3C (VLCC) prompt contract
         vlcc_positions = [p for p in bwet_positions if 'DD3CM' in p.get('ticker', '')]
         self._vlcc_prompt_ticker = vlcc_positions[0]['ticker'] if vlcc_positions else None
+        self._vlcc_prompt_price  = float(vlcc_positions[0]['price']) if vlcc_positions else 90.0
+
+
 
 
     def test_no_synthetic_future_roll_lots_in_frozen_book(self):
         """Prove that FROZEN_BOOK preserves exact disclosed lots without any .5x / 1.5x synthetic scaling."""
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: self._cape_prompt_price + 2000.0},
             scenario_mode='FROZEN_BOOK'
         )
         self.assertEqual(res['scenario_mode'], 'FROZEN_BOOK')
@@ -81,7 +90,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         fail closed for per-share projections and emit the required governance message.
         """
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: self._cape_prompt_price + 2000.0},
             scenario_mode='FROZEN_BOOK'
         )
         self.assertGreater(res['gross_futures_pnl_dollars'], 0)
@@ -94,7 +103,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         """Prove that missing baseline fields do not trigger hardcoded defaults ($10, 1M shares)."""
         self.builder_bdry.baseline['is_contemporaneous'] = False
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: 42000.0}
+            target_contract_prices={self._cape_prompt_ticker: self._cape_prompt_price + 2000.0}
         )
         self.assertIsNone(res['approximate_nav_target_range'])
         self.assertIsNone(res['approximate_etf_market_price_target_range'])
@@ -103,9 +112,10 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
 
     def test_exact_contract_target_isolation(self):
         """Prove that entering a target mark for one specific contract maturity does NOT affect other maturities."""
-        aug_target_px = 45000.0
+        # Use live mark + $2000 — always above the current prompt price, permanently roll-proof.
+        target_px = self._cape_prompt_price + 2000.0
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: aug_target_px},
+            target_contract_prices={self._cape_prompt_ticker: target_px},
             scenario_mode='FROZEN_BOOK'
         )
 
@@ -119,7 +129,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
 
         self.assertIsNotNone(c_prompt, f"Prompt Capesize contract {self._cape_prompt_ticker} missing from breakdown")
         self.assertIsNotNone(c_other, f"Next Capesize contract {self._cape_next_ticker} missing from breakdown")
-        self.assertEqual(c_prompt['target_mark_price'], aug_target_px)
+        self.assertAlmostEqual(c_prompt['target_mark_price'], target_px, places=4)
         self.assertNotEqual(c_prompt['delta_mark_dollars'], 0.0)
         self.assertNotEqual(c_prompt['gross_futures_pnl_dollars'], 0.0)
 
@@ -300,7 +310,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
             'source': 'Corrupted Manual Input'
         }
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: self._cape_prompt_price + 2000.0},
             manual_dated_baseline=inconsistent_baseline,
             manual_baseline_tolerance=0.05
         )
@@ -332,7 +342,7 @@ class TestThesisScenarioTranslatorHardening(unittest.TestCase):
         # Scenario horizon: always 45 calendar days from today — always in the future.
         horizon_date_str = (snap_date_obj + timedelta(days=45)).isoformat()
         res = self.builder_bdry.build_scenario(
-            target_contract_prices={self._cape_prompt_ticker: 40000.0},
+            target_contract_prices={self._cape_prompt_ticker: self._cape_prompt_price + 2000.0},
             scenario_horizon_date=horizon_date_str,
             manual_dated_baseline=manual_base
         )
