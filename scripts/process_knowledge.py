@@ -67,6 +67,7 @@ SOURCES_MANIFEST = MANIFESTS_DIR / "sources.json"
 LINT_REPORT = MANIFESTS_DIR / "lint_report.json"
 COVERAGE_REPORT = MANIFESTS_DIR / "coverage_report.json"
 SIGNALS_DERIVED = DERIVED_DIR / "signals.jsonl"
+BREAKWAVE_SIGNALS_DERIVED = DERIVED_DIR / "breakwave_signals.json"
 THEMES_DERIVED = DERIVED_DIR / "themes.jsonl"
 SECTION_INDEX_DERIVED = DERIVED_DIR / "section_index.jsonl"
 TOPIC_EVIDENCE_DERIVED = DERIVED_DIR / "topic_evidence.jsonl"
@@ -3126,8 +3127,21 @@ def build_derived(llm_enabled: bool = False):
                     })
 
     SIGNALS_DERIVED.write_text("", encoding="utf-8")
+    bw_compact_signals = []
     for row in sorted(signal_rows, key=lambda item: (item.get("date") or "", item.get("doc_id") or "")):
         append_jsonl(SIGNALS_DERIVED, row)
+        if row.get("source") == "breakwave" and row.get("sentiment") is not None and row.get("date") and row.get("date") != "0000-00-00":
+            bw_compact_signals.append({
+                "date": row["date"],
+                "source": row.get("source"),
+                "category": row.get("category"),
+                "sentiment": row.get("sentiment"),
+                "momentum": row.get("momentum"),
+                "fundamentals": row.get("fundamentals"),
+                "doc_id": row.get("doc_id")
+            })
+
+    BREAKWAVE_SIGNALS_DERIVED.write_text(json.dumps(bw_compact_signals, indent=2, ensure_ascii=False), encoding="utf-8")
 
     THEMES_DERIVED.write_text("", encoding="utf-8")
     for row in theme_rows:

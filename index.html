@@ -23893,18 +23893,24 @@ if (intelTabsContainer) {
 
 
     // ── Signals loader ────────────────────────────────────────────────────────
-    // Pre-filter to Breakwave lines before JSON parsing - avoids stalling on
-    // large Hellenic nested-JSON entries that dominate the file.
+    // Loads dedicated compact breakwave_signals.json (50-60 KB) for instant
+    // qualitative intelligence, with fallback to signals.jsonl if needed.
 
     async function _intelLoadSignals() {
       try {
-        // signals.jsonl can be large (80+ MB). Use a 6-second AbortController
-        // timeout so a slow/unavailable fetch never stalls the tab.
+        // 1. Fetch the lightweight dedicated breakwave_signals.json (~60 KB)
+        const compactData = await _fetchJsonWithFallback('knowledge/derived/breakwave_signals.json');
+        if (Array.isArray(compactData) && compactData.length > 0) {
+          INTEL.signals = compactData.filter(s => s && s.sentiment != null && s.date && s.date !== '0000-00-00');
+          return;
+        }
+
+        // 2. Fallback to signals.jsonl if breakwave_signals.json is not present
         const controller = new AbortController();
         const timeoutId = setTimeout(() => {
           controller.abort();
-          console.warn('[Intel] signals.jsonl fetch aborted after 6s timeout');
-        }, 6000);
+          console.warn('[Intel] signals.jsonl fetch aborted after 8s timeout');
+        }, 8000);
 
         let text = '';
         try {
@@ -23914,12 +23920,11 @@ if (intelTabsContainer) {
           });
           if (resp.ok) text = await resp.text();
         } catch (fetchErr) {
-          // Timed out or network error — try raw GitHub fallback
           const fallbackUrl = _rawFallbackUrl('knowledge/derived/signals.jsonl');
           if (fallbackUrl && !controller.signal.aborted) {
             try {
               const ctrl2 = new AbortController();
-              const tid2 = setTimeout(() => ctrl2.abort(), 6000);
+              const tid2 = setTimeout(() => ctrl2.abort(), 8000);
               const resp2 = await fetch(fallbackUrl, { cache: 'no-store', signal: ctrl2.signal });
               if (resp2.ok) text = await resp2.text();
               clearTimeout(tid2);
