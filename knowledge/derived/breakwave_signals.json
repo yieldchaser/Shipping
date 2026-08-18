@@ -2554,5 +2554,14 @@
     "momentum": "neutral",
     "fundamentals": "positive",
     "doc_id": "breakwave_tankers_2026-08-11"
+  },
+  {
+    "date": "2026-08-18",
+    "source": "breakwave",
+    "category": "drybulk",
+    "sentiment": "neutral",
+    "momentum": "neutral",
+    "fundamentals": "neutral",
+    "doc_id": "breakwave_drybulk_2026-08-18"
   }
 ]

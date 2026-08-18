@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_drybulk_2026-08-18__root",
+  "doc_id": "breakwave_drybulk_2026-08-18",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - August 18, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - August 18, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - August 18, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Steady As She Goes - Realized volatility across the dry bulk sector has collapsed Atlantic Iron Ore Netback Falls Below $60/ton - As iron ore prices drift lower due Our Long-term View - The last few years have been characterized by increased",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "yoy",
+    "ytd"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 346,
+  "source_path": "reports/drybulk/2026/2026-08-18_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-08-18__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-08-18",
+      "parent_id": "breakwave_drybulk_2026-08-18__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Steady As She Goes - Realized volatility across the dry bulk sector has collapsed\n- Atlantic Iron Ore Netback Falls Below $60/ton - As iron ore prices drift lower due\n- Our Long-term View - The last few years have been characterized by increased",
+      "keywords": [
+        "atlantic",
+        "iron_ore",
+        "iron",
+        "ore",
+        "below",
+        "characterized",
+        "collapsed",
+        "drift"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 54,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-08-18__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-08-18",
+      "parent_id": "breakwave_drybulk_2026-08-18__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 577mt, YOY: -2.9%)\n- China Steel Inventories (YTD: 5.1mt, YOY: 23.4%)\n- China Iron Ore Inventories (YTD: 157mt, YOY: 19.7%)\n- China Iron Ore Imports (YTD: 1997mt, YOY: 3.2%)\n- China Coal Imports (YTD: 759mt, YOY: -5.2%)\n- China Soybean Imports (YTD: 174mt, YOY: 4.6%)\n- Brazil Iron Ore Exports (YTD: 643mt, YOY: 4.7%)\n- Australia Iron Ore Exports (YTD: 1398mt, YOY: 2.8%)\n- Dry Bulk Fleet (YTD: 1093 mdwt, YOY: 3.7%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 2,452)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 31,063)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 17,808)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 291,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
