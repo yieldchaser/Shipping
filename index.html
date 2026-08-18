@@ -11296,16 +11296,22 @@ if (intelTabsContainer) {
     // =====================================================================
     function parseDate(str) {
       if (!str) return null;
+      if (str instanceof Date) return isNaN(str.getTime()) ? null : str;
+      if (typeof str !== 'string') str = String(str);
       const [d, m, y] = str.split('-');
       if (!d || !m || !y) return null;
-      return new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
+      const dt = new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
+      return isNaN(dt.getTime()) ? null : dt;
     }
 
     function parseDateISO(str) {
       if (!str) return null;
+      if (str instanceof Date) return isNaN(str.getTime()) ? null : str;
+      if (typeof str !== 'string') str = String(str);
       const [y, m, d] = str.split('-');
       if (!y || !m || !d) return null;
-      return new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
+      const dt = new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
+      return isNaN(dt.getTime()) ? null : dt;
     }
 
     function parseVal(str) {
@@ -23405,10 +23411,10 @@ if (intelTabsContainer) {
           if (INTEL.signals && INTEL.signals.length) _renderSignalAlerts();
         }).catch(() => {});
       }
-      _renderSignalAlerts();
-      _renderMacroHealthRadar();
-      _renderDailyBrief();
-      _initQAPanel();
+      try { _renderSignalAlerts(); } catch (e) { console.error('[Intel] Signal Alerts render error:', e); }
+      try { _renderMacroHealthRadar(); } catch (e) { console.error('[Intel] Macro Health Radar render error:', e); }
+      try { await _renderDailyBrief(); } catch (e) { console.error('[Intel] Daily Brief render error:', e); }
+      try { _initQAPanel(); } catch (e) { console.error('[Intel] QA Panel init error:', e); }
     }
 
     // ── Macro Health Radar ────────────────────────────────────────────────────
