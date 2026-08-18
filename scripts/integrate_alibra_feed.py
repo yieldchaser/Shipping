@@ -72,30 +72,36 @@ def parse_iso_date(tag_str, fallback_date_str=""):
     return None
 
 def parse_archive_file(filepath):
-    """Parses an Alibra dry bulk archive CSV into {date: {handysize, supramax, panamax, capesize}}."""
+    """Parses an Alibra dry bulk archive CSV into {date: {handysize, supramax, panamax, capesize}}.
+
+    Expected CSV columns (header row):
+        BULK CARRIER | Date | HANDYSIZE | SMAX/ULTRA | PANAMAX | CAPESIZE | <optional tag col>
+    Uses DictReader so any column reorder or insertion produces a KeyError/warning
+    rather than silently mapping the wrong value to the wrong field.
+    """
     records = {}
     if not filepath.exists():
         return records
     with open(filepath, encoding="utf-8") as f:
-        reader = csv.reader(f)
-        header = next(reader, None)
+        reader = csv.DictReader(f)
+        # Warn once if expected columns are absent (schema change upstream)
+        required_cols = {"Date", "HANDYSIZE", "SMAX/ULTRA", "PANAMAX", "CAPESIZE"}
+        if reader.fieldnames:
+            missing = required_cols - set(reader.fieldnames)
+            if missing:
+                print(f"[WARNING] parse_archive_file: missing expected columns in {filepath.name}: {missing}")
         for row in reader:
-            if not row or len(row) < 6:
-                continue
-            date_col = row[1] if len(row) > 1 else ""
-            tag_col = row[6] if len(row) > 6 else (row[5] if len(row) > 5 else "")
+            date_col = row.get("Date", "")
+            # Last column (variable name) acts as the ISO tag
+            tag_col = row.get(reader.fieldnames[-1], "") if reader.fieldnames else ""
             iso_date = parse_iso_date(tag_col, date_col)
             if not iso_date or iso_date < "2008-01-01":
                 continue
-            handy = clean_num(row[2])
-            supra = clean_num(row[3])
-            pana = clean_num(row[4])
-            cape = clean_num(row[5])
             records[iso_date] = {
-                "handysize": handy,
-                "supramax": supra,
-                "panamax": pana,
-                "capesize": cape
+                "handysize": clean_num(row.get("HANDYSIZE", "")),
+                "supramax":  clean_num(row.get("SMAX/ULTRA", "")),
+                "panamax":   clean_num(row.get("PANAMAX", "")),
+                "capesize":  clean_num(row.get("CAPESIZE", "")),
             }
     return records
 
@@ -223,12 +229,36 @@ def integrate_tanker_forward_curves():
 
         file_rows = []
         with open(fc_file, encoding="utf-8") as f:
-            reader = csv.reader(f)
-            header = next(reader, None)
+            reader = csv.DictReader(f)
+            raw_fields = reader.fieldnames or []
+
+            # Map Alibra's verbose column names to our internal keys by keyword fragments.
+            # This is resilient: if Alibra renames the column slightly, we still match it.
+            # Emit a warning if any expected route cannot be identified.
+            ROUTE_MAP = {
+                "vlcc_td3c":        lambda h: "TD3C" in h.upper() and "ECO" not in h.upper(),
+                "vlcc_eco_td3c":    lambda h: "TD3C" in h.upper() and "ECO" in h.upper(),
+                "suezmax_td20":     lambda h: "TD20" in h.upper(),
+                "aframax_td25":     lambda h: "TD25" in h.upper(),
+                "lr1_tc5":          lambda h: "TC5" in h.upper() and "ECO" not in h.upper(),
+                "lr1_eco_tc5":      lambda h: "TC5" in h.upper() and "ECO" in h.upper(),
+                "mr_tc2":           lambda h: "TC2" in h.upper() and "ECO" not in h.upper() and "14" not in h,
+                "mr_eco_tc2":       lambda h: "TC2" in h.upper() and "ECO" in h.upper(),
+                "mr_tc14":          lambda h: "TC14" in h.upper() and "ECO" not in h.upper(),
+                "mr_eco_tc14":      lambda h: "TC14" in h.upper() and "ECO" in h.upper(),
+                "mr_tc6":           lambda h: "TC6" in h.upper() and "TRIANGULATION" not in h.upper(),
+                "mr_triangulation": lambda h: "TRIANGULATION" in h.upper(),
+            }
+            col_map = {}  # internal_key → csv_field_name
+            for key, matcher in ROUTE_MAP.items():
+                matched = [f for f in raw_fields if matcher(f)]
+                if matched:
+                    col_map[key] = matched[0]
+                else:
+                    print(f"[WARNING] integrate_tanker_forward_curves: cannot find column for '{key}' in {fc_file.name}")
+
             for row in reader:
-                if not row or len(row) < 13:
-                    continue
-                month_str = row[0].strip()
+                month_str = (row.get(raw_fields[0], "") if raw_fields else "").strip()
                 if not month_str:
                     continue
 
@@ -241,21 +271,10 @@ def integrate_tanker_forward_curves():
                         fwd_iso = month_str
 
                 item = {
-                    "snapshot_date": snapshot_date,
-                    "forward_month": fwd_iso,
-                    "contract_label": month_str,
-                    "vlcc_td3c": clean_num(row[1]),
-                    "vlcc_eco_td3c": clean_num(row[2]),
-                    "suezmax_td20": clean_num(row[3]),
-                    "aframax_td25": clean_num(row[4]),
-                    "lr1_tc5": clean_num(row[5]),
-                    "lr1_eco_tc5": clean_num(row[6]),
-                    "mr_tc2": clean_num(row[7]),
-                    "mr_eco_tc2": clean_num(row[8]),
-                    "mr_tc14": clean_num(row[9]),
-                    "mr_eco_tc14": clean_num(row[10]),
-                    "mr_tc6": clean_num(row[11]),
-                    "mr_triangulation": clean_num(row[12]),
+                    "snapshot_date":   snapshot_date,
+                    "forward_month":   fwd_iso,
+                    "contract_label":  month_str,
+                    **{key: clean_num(row.get(field, "")) for key, field in col_map.items()},
                 }
                 file_rows.append(item)
                 all_history_rows.append(item)

@@ -1,5 +1,6 @@
 import csv
 import json
+from datetime import date as _date
 from pathlib import Path
 import pandas as pd
 
@@ -25,7 +26,10 @@ def generate_tce_matrix_json():
             df_tc['date'] = pd.to_datetime(df_tc['date'])
             df_10y = df_tc[df_tc['date'] >= '2016-01-01']
 
-    report_date = "2026-08-12"
+    # Fallback to today if no stamp file exists yet (e.g. first run or empty stamp dir).
+    # Previously this was a hardcoded past date which would silently publish a stale
+    # "as of" label to the UI whenever the stamp poll failed.
+    report_date = _date.today().strftime("%Y-%m-%d")
     if stamp_files:
         with open(stamp_files[-1], encoding="utf-8") as f:
             txt = f.read().strip()
@@ -141,7 +145,8 @@ def generate_tce_matrix_json():
                     "basin_spread_6m": spread_6m,
                     "basin_spread_2y": spread_2y,
                     "sparkline_52w": sparkline,
-                    "mom_1w": chg_1y_atl,
+                    "mom_1w": mom_1m,         # best short-term proxy (sparkline 5-wk pct chg); no 1-wk data from Alibra
+                    "chg_1yr_atl_pct": chg_1y_atl,  # actual 1-year ATL rate change % from Alibra table
                     "mom_1m": mom_1m,
                     "mom_1y": mom_1y,
                     "high_52w": high_52w,
@@ -242,7 +247,8 @@ def generate_tce_matrix_json():
                     "curve_slope_badge": slope_badge,
                     "eco_premium_day": eco_val,
                     "sparkline_52w": sparkline,
-                    "mom_1w": chg_1y,
+                    "mom_1w": mom_1m,       # best short-term proxy (sparkline 5-wk pct chg); no 1-wk data from Alibra
+                    "chg_1yr_pct": chg_1y,  # actual 1-year rate change % from Alibra table
                     "mom_1m": mom_1m,
                     "mom_1y": mom_1y,
                     "high_52w": high_52w,
