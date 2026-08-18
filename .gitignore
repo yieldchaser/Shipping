@@ -16,6 +16,7 @@ scratch/
 .code-review-graph/
 .codex/
 .cursor/
+.freebuff/
 .gemini/
 .kiro/
 .opencode.json
