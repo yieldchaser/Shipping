@@ -26709,35 +26709,35 @@ if (intelTabsContainer) {
       var snap = data.market_snapshot || {};
 
       // BDRY dynamic values
-      var bdryPromptName = bdryH.prompt_contract?.name ? bdryH.prompt_contract.name.replace(/Capesize 5TC FFA 180kt Timecharter Average M /i, '').replace(/ INDEX/i, '') : 'Sep 26';
-      var bdryPromptPx = bdryH.prompt_contract?.price ? ('$' + Number(bdryH.prompt_contract.price).toLocaleString('en-US') + '/d') : '$39,882/d';
-      var bdryNextName = bdryH.next_contract?.name ? bdryH.next_contract.name.replace(/Capesize 5TC FFA 180kt Timecharter Average M /i, '').replace(/ INDEX/i, '') : 'Aug 26';
-      var bdryNextPx = bdryH.next_contract?.price ? ('$' + Number(bdryH.next_contract.price).toLocaleString('en-US') + '/d') : '$39,343/d';
-      var bdryRollYield = (typeof bdryH.implied_roll_yield_pct === 'number') ? bdryH.implied_roll_yield_pct : 1.35;
-      var bdryRegime = bdryH.curve_regime || (bdryRollYield >= 0 ? 'BACKWARDATION_CARRY' : 'CONTANGO_DRAG');
+      var bdryPromptName = bdryH.prompt_contract?.name ? bdryH.prompt_contract.name.replace(/Capesize 5TC FFA 180kt Timecharter Average M /i, '').replace(/ INDEX/i, '').trim() : 'Prompt Month';
+      var bdryPromptPx = bdryH.prompt_contract?.price ? ('$' + Number(bdryH.prompt_contract.price).toLocaleString('en-US') + '/d') : (snap.capesize?.value ? ('$' + Number(snap.capesize.value).toLocaleString('en-US') + '/d') : 'n/a');
+      var bdryNextName = bdryH.next_contract?.name ? bdryH.next_contract.name.replace(/Capesize 5TC FFA 180kt Timecharter Average M /i, '').replace(/ INDEX/i, '').trim() : 'Next Month';
+      var bdryNextPx = bdryH.next_contract?.price ? ('$' + Number(bdryH.next_contract.price).toLocaleString('en-US') + '/d') : 'n/a';
+      var bdryRollYield = (typeof bdryH.implied_roll_yield_pct === 'number') ? bdryH.implied_roll_yield_pct : 0;
+      var bdryRegime = bdryH.curve_regime || (bdryRollYield > 0 ? 'BACKWARDATION_CARRY' : (bdryRollYield < 0 ? 'CONTANGO_DRAG' : 'FLAT'));
       var bdryRegimeLabel = bdryRegime === 'BACKWARDATION_CARRY' ? ('+' + bdryRollYield.toFixed(2) + '%/mo Backwardation Carry') : (bdryRollYield.toFixed(2) + '%/mo Contango Friction');
       var bdryRegimeBg = bdryRollYield >= 0 ? 'rgba(63,185,80,0.15)' : 'rgba(210,153,34,0.15)';
       var bdryRegimeColor = bdryRollYield >= 0 ? '#3fb950' : '#e3b341';
       var bdryHurdleText = bdryH.holding_bet_summary_30d || '60-day position requires physical Capesize spot settlements to average above forward marks to overcome roll friction.';
       
-      var bdryCapePrompt = bdryH.prompt_contract?.price ? ('$' + Number(bdryH.prompt_contract.price).toLocaleString('en-US') + '/d') : (snap.capesize?.value ? (Number(snap.capesize.value).toLocaleString('en-US') + ' pts') : '$39,882/d');
-      var bdryPanaPrompt = snap.panamax?.value ? (Number(snap.panamax.value).toLocaleString('en-US') + ' pts') : '$16,850/d';
-      var bdrySupraPrompt = snap.supramax?.value ? (Number(snap.supramax.value).toLocaleString('en-US') + ' pts') : '$14,200/d';
+      var bdryCapePrompt = bdryH.prompt_contract?.price ? ('$' + Number(bdryH.prompt_contract.price).toLocaleString('en-US') + '/d') : (snap.capesize?.value ? (Number(snap.capesize.value).toLocaleString('en-US') + ' pts') : 'n/a');
+      var bdryPanaPrompt = snap.panamax?.value ? (Number(snap.panamax.value).toLocaleString('en-US') + ' pts') : 'n/a';
+      var bdrySupraPrompt = snap.supramax?.value ? (Number(snap.supramax.value).toLocaleString('en-US') + ' pts') : 'n/a';
 
       // BWET dynamic values
-      var bwetPromptName = bwetH.prompt_contract?.name ? bwetH.prompt_contract.name.replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT M /i, '').replace(/ INDEX/i, '') : 'Sep 26';
-      var bwetPromptPx = bwetH.prompt_contract?.price ? ('WS ' + Number(bwetH.prompt_contract.price).toFixed(1)) : 'WS 98.0';
-      var bwetNextName = bwetH.next_contract?.name ? bwetH.next_contract.name.replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT M /i, '').replace(/ INDEX/i, '') : 'Aug 26';
-      var bwetNextPx = bwetH.next_contract?.price ? ('WS ' + Number(bwetH.next_contract.price).toFixed(1)) : 'WS 95.5';
-      var bwetRollYield = (typeof bwetH.implied_roll_yield_pct === 'number') ? bwetH.implied_roll_yield_pct : 2.53;
-      var bwetRegime = bwetH.curve_regime || (bwetRollYield >= 0 ? 'BACKWARDATION_CARRY' : 'CONTANGO_DRAG');
+      var bwetPromptName = bwetH.prompt_contract?.name ? bwetH.prompt_contract.name.replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT M /i, '').replace(/ INDEX/i, '').trim() : 'Prompt Month';
+      var bwetPromptPx = bwetH.prompt_contract?.price ? ('WS ' + Number(bwetH.prompt_contract.price).toFixed(1)) : 'n/a';
+      var bwetNextName = bwetH.next_contract?.name ? bwetH.next_contract.name.replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT M /i, '').replace(/ INDEX/i, '').trim() : 'Next Month';
+      var bwetNextPx = bwetH.next_contract?.price ? ('WS ' + Number(bwetH.next_contract.price).toFixed(1)) : 'n/a';
+      var bwetRollYield = (typeof bwetH.implied_roll_yield_pct === 'number') ? bwetH.implied_roll_yield_pct : 0;
+      var bwetRegime = bwetH.curve_regime || (bwetRollYield > 0 ? 'BACKWARDATION_CARRY' : (bwetRollYield < 0 ? 'CONTANGO_DRAG' : 'FLAT'));
       var bwetRegimeLabel = bwetRegime === 'BACKWARDATION_CARRY' ? ('+' + bwetRollYield.toFixed(2) + '%/mo Backwardation Carry') : (bwetRollYield.toFixed(2) + '%/mo Contango Friction');
       var bwetRegimeBg = bwetRollYield >= 0 ? 'rgba(63,185,80,0.15)' : 'rgba(210,153,34,0.15)';
       var bwetRegimeColor = bwetRollYield >= 0 ? '#3fb950' : '#e3b341';
       var bwetHurdleText = bwetH.holding_bet_summary_30d || '60-day position captures positive prompt carry while holding asymmetric exposure to winter refinery restocking cycles.';
 
-      var bwetVlccPrompt = bwetH.prompt_contract?.price ? ('WS ' + Number(bwetH.prompt_contract.price).toFixed(1)) : 'WS 98.0';
-      var bwetSuezPrompt = snap.dirty_tanker?.value ? (Number(snap.dirty_tanker.value).toLocaleString('en-US') + ' pts') : 'WS 112.5';
+      var bwetVlccPrompt = bwetH.prompt_contract?.price ? ('WS ' + Number(bwetH.prompt_contract.price).toFixed(1)) : 'n/a';
+      var bwetSuezPrompt = snap.dirty_tanker?.value ? (Number(snap.dirty_tanker.value).toLocaleString('en-US') + ' pts') : 'n/a';
 
       var dryHtml = '';
       if (showDry && db) {
