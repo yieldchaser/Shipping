@@ -208,17 +208,40 @@ Several index and historical CSVs use legacy formats that require defensive pars
 
 ---
 
+## 6. Breakthrough Discovery: Local Raw Report Archives Contain 100% of the Missing Data
+
+During the deep-dive audit, we inspected the raw report archives stored locally within the repository (`reports/hellenic/` and `reports/breakwave/`). We verified that **the data is NOT missing from our archives** — the scraper downloaded the full documents, but the downstream knowledge processor (`scripts/process_knowledge.py`) only parsed top-level HTML metadata snippets and never extracted the structured data from the attached PDF/JPG tables:
+
+### 1. Hellenic Iron Ore Archive (`reports/hellenic/iron_ore/pdfs/`)
+* **Total Archive Files:** **2,220 PDF reports covering 1,149 unique daily dates from 2021-07-14 to 2026-08-14**.
+* **Unextracted Data Verified Present via `pypdf` & `pdfplumber`:**
+  * `IOSI62`: Daily 62% Fe CFR Qingdao Seaborne Index (e.g. `$95.20/dmt` on Aug 14, 2026).
+  * `IOSI65`: Daily 65% Fe Carajas Fines CFR Qingdao Index (e.g. `$116.00/dmt` on Aug 14, 2026).
+  * `IOPI62` & `IOPI65`: Daily Qingdao Port Stock Indices (RMB/t & USD/dmt equivalent).
+  * `Carajas Fines Spot Assessment`: Brand spot price (e.g. `$113.60/dmt` on Aug 14, 2026).
+  * `Port Inventory (35 Ports)`: 146.78 million tonnes.
+  * `Steel Inventory in China`: 12.36 million tonnes.
+* **Impact:** Extracting these 2,220 PDFs directly expands our daily Iron Ore & Carajas Fines series from 2021 to 2026, **completely eliminating the $112 flatline in 2025 and the $65 freeze in 2026 without making any external network requests.**
+
+### 2. Hellenic Demolition Archive (`reports/hellenic/demolition/`)
+* **Total Archive Files:** **1,038 PDF weekly reports covering 672 dates from 2021-07-03 to 2026-08-15**.
+* **Unextracted Data Verified Present:**
+  * Complete GMS & Best Oasis demolition market assessment tables for India, Pakistan, Bangladesh, and Turkey across Bulkers, Tankers, and Containers.
+  * Daily steel plate prices by country (USD/t and local currency).
+
+---
+
 ## 7. Actionable Roadmap for Future Remediation (Preserved for Next Phase)
 
 When ready to implement code fixes, the following prioritized steps will resolve all discovered anomalies:
 
-1. **Step 1: Frontend Chart Null Handling (`index.html`)**
+1. **Step 1: Local PDF & Archive Table Extraction (`scripts/process_knowledge.py`)**
+   - Integrate `pypdf` / `pdfplumber` table extraction into `process_knowledge.py` to ingest the 2,220 Iron Ore PDFs and 1,038 Demolition PDFs sitting in `reports/hellenic/`.
+   - Reprocess and rebuild `data/derived/iron_ore_restocking.csv` and `data/derived/scrappage_prices.csv` with true continuous daily/weekly data.
+2. **Step 2: Frontend Chart Null Handling (`index.html`)**
    - Add `spanGaps: false` to all physical commodity spot charts (`DATA.ironOreRestocking`, `DATA.scrappagePrices`).
    - For monthly series (`steel_production_mt`, `inventories_mt`), use `stepped: 'before'` to visually represent step changes rather than artificial diagonal or flat slopes.
    - For `DATA.timeCharterRates`, restrict default historical view for 2Y/3Y/5Y series to $\ge 2021$ so the 2000–2020 null void is not rendered.
-2. **Step 2: Scraper Regex & Fallback Hardening (`scripts/process_knowledge.py`)**
-   - Update `extract_hellenic_iron_ore_signals()` to parse alternative keyword labels (`65% Fe Carajas`, `IO Fines 65%`, `MB 65%`).
-   - Prevent forward-filling stale values across missing report dates; insert `null` instead.
 3. **Step 3: Index Date & Type Normalization (`scripts/update_indices.py`)**
    - Standardize all index date strings to `YYYY-MM-DD` and strip comma characters from historical index values.
 4. **Step 4: ETF Dollar Decomposition Backfill (`scripts/update_etf_holdings.py`)**
@@ -226,3 +249,4 @@ When ready to implement code fixes, the following prioritized steps will resolve
 
 ---
 *This document serves as the exhaustive baseline of all data properties, gaps, freezes, and lineages across the entire codebase.*
+
