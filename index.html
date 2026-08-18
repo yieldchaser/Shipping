@@ -26744,6 +26744,7 @@ if (intelTabsContainer) {
         var dbConf = db.confluence_type || 'NEUTRAL';
         var dbBias = db.positioning_bias || 'NEUTRAL';
         var dbBiasColor = dbBias === 'LONG' ? 'var(--green)' : (dbBias === 'SHORT' ? 'var(--red)' : 'var(--text-muted)');
+        var bdryThesis = bdryHurdleText.replace(/^30-Day Hold:\s*/i, '').replace(/Capesize 5TC FFA 180kt Timecharter Average M /gi, 'Capesize ');
 
         dryHtml = '<div class="etf-brief-panel ' + (dryIsFocus ? 'active-focus' : '') + '" id="etfBriefPanelDry">' +
           '<div class="etf-brief-panel-head">' +
@@ -26758,23 +26759,23 @@ if (intelTabsContainer) {
           '</div>' +
           '<div class="etf-brief-subhead" style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">' +
             '<span>Constituent Portfolio Weights &amp; NAV Beta</span>' +
-            '<span style="font-size:9.5px;color:var(--text-muted);font-weight:normal;text-transform:none;">Δ +10% move impact</span>' +
+            '<span style="font-size:9.5px;color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%) ℹ</span>' +
           '</div>' +
           '<div class="etf-beta-grid">' +
             '<div class="etf-beta-item">' +
-              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Capesize (60%)</div>' +
+              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Capesize (60% Weight)</div>' +
               '<div style="font-size:13px;font-weight:700;color:#58a6ff;margin:2px 0;">+6.0% NAV</div>' +
-              '<div style="font-size:9.5px;color:var(--text-muted);">Prompt: ' + esc(bdryCapePrompt) + '</div>' +
+              '<div style="font-size:9.5px;color:var(--text-muted);">FFA Prompt: ' + esc(bdryCapePrompt) + '</div>' +
             '</div>' +
             '<div class="etf-beta-item">' +
-              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Panamax (30%)</div>' +
+              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Panamax (30% Weight)</div>' +
               '<div style="font-size:13px;font-weight:700;color:#58a6ff;margin:2px 0;">+3.0% NAV</div>' +
-              '<div style="font-size:9.5px;color:var(--text-muted);">Index: ' + esc(bdryPanaPrompt) + '</div>' +
+              '<div style="font-size:9.5px;color:var(--text-muted);">BPI Index: ' + esc(bdryPanaPrompt) + '</div>' +
             '</div>' +
             '<div class="etf-beta-item">' +
-              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Supramax (10%)</div>' +
+              '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Supramax (10% Weight)</div>' +
               '<div style="font-size:13px;font-weight:700;color:#58a6ff;margin:2px 0;">+1.0% NAV</div>' +
-              '<div style="font-size:9.5px;color:var(--text-muted);">Index: ' + esc(bdrySupraPrompt) + '</div>' +
+              '<div style="font-size:9.5px;color:var(--text-muted);">BSI Index: ' + esc(bdrySupraPrompt) + '</div>' +
             '</div>' +
           '</div>' +
           '<div style="background:rgba(88,166,255,0.04);border:1px solid rgba(88,166,255,0.18);border-radius:6px;padding:8px 10px;margin-top:6px;font-size:11px;">' +
@@ -26782,11 +26783,11 @@ if (intelTabsContainer) {
               '<span style="font-weight:600;color:var(--text);">Prompt: <strong style="color:#58a6ff;">' + esc(bdryPromptPx) + '</strong> (' + esc(bdryPromptName) + ') &rarr; Next: <strong style="color:var(--text);">' + esc(bdryNextPx) + '</strong> (' + esc(bdryNextName) + ')</span>' +
               '<span style="font-size:10px;padding:2px 6px;border-radius:4px;background:' + bdryRegimeBg + ';color:' + bdryRegimeColor + ';font-weight:600;">' + esc(bdryRegimeLabel) + '</span>' +
             '</div>' +
-            '<div style="color:var(--text-muted);font-size:10.5px;line-height:1.35;">🎯 <strong>Holding Bet:</strong> ' + esc(bdryHurdleText) + '</div>' +
+            '<div style="color:var(--text-muted);font-size:10.5px;line-height:1.35;">🎯 <strong>30-Day Holding Thesis:</strong> ' + esc(bdryThesis) + '</div>' +
           '</div>' +
           '<div style="display:flex;justify-content:space-between;align-items:center;padding:5px 8px;background:rgba(255,255,255,0.02);border:1px dashed rgba(255,255,255,0.08);border-radius:5px;margin-top:6px;font-size:10.5px;color:var(--text-muted);">' +
-            '<span><strong style="color:var(--text);">Roll Protocol:</strong> Solactive Axiom 1 (1st–5th business day)</span>' +
-            '<span style="color:#79c0ff;font-weight:600;">Active Target: ' + esc(bdryPromptName) + '</span>' +
+            '<span><strong style="color:var(--text);">📜 Roll Schedule:</strong> 5-Day Window (1st–5th business day)</span>' +
+            '<span style="color:#79c0ff;font-weight:600;">🎯 Primary Futures Leg: ' + esc(bdryPromptName) + '</span>' +
           '</div>' +
           '<div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">' +
             '<button class="etf-qa-action-btn" onclick="applyBriefScenario(\'bdry\')" style="font-size:11px;padding:4px 8px;" data-tooltip="Transfer analyzed Cape &amp; Panamax percentage shocks to the interactive scenario matrix below."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply Cape Spike (+20% Cape / +10% Pana)</button>' +
@@ -26800,6 +26801,7 @@ if (intelTabsContainer) {
         var tkConf = tk.confluence_type || 'NEUTRAL';
         var tkBias = tk.positioning_bias || 'NEUTRAL';
         var tkBiasColor = tkBias === 'LONG' ? 'var(--green)' : (tkBias === 'SHORT' ? 'var(--red)' : 'var(--text-muted)');
+        var bwetThesis = bwetHurdleText.replace(/^30-Day Hold:\s*/i, '').replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT M /gi, 'VLCC ');
 
         tankerHtml = '<div class="etf-brief-panel ' + (tankerIsFocus ? 'active-focus' : '') + '" id="etfBriefPanelTanker">' +
           '<div class="etf-brief-panel-head">' +
@@ -26814,18 +26816,18 @@ if (intelTabsContainer) {
           '</div>' +
           '<div class="etf-brief-subhead" style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">' +
             '<span>Constituent Portfolio Weights &amp; NAV Beta</span>' +
-            '<span style="font-size:9.5px;color:var(--text-muted);font-weight:normal;text-transform:none;">Δ +10% move impact</span>' +
+            '<span style="font-size:9.5px;color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%) ℹ</span>' +
           '</div>' +
           '<div class="etf-beta-grid">' +
             '<div class="etf-beta-item etf-beta-item-tanker">' +
               '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">VLCC TD3C (90% Weight)</div>' +
               '<div style="font-size:13px;font-weight:700;color:#f0883e;margin:2px 0;">+9.0% NAV</div>' +
-              '<div style="font-size:9.5px;color:var(--text-muted);">Prompt: ' + esc(bwetVlccPrompt) + '</div>' +
+              '<div style="font-size:9.5px;color:var(--text-muted);">TD3C Prompt: ' + esc(bwetVlccPrompt) + '</div>' +
             '</div>' +
             '<div class="etf-beta-item etf-beta-item-tanker">' +
               '<div style="font-size:10px;color:var(--text-muted);font-weight:600;">Suezmax TD20 (10% Weight)</div>' +
               '<div style="font-size:13px;font-weight:700;color:#f0883e;margin:2px 0;">+1.0% NAV</div>' +
-              '<div style="font-size:9.5px;color:var(--text-muted);">Index: ' + esc(bwetSuezPrompt) + '</div>' +
+              '<div style="font-size:9.5px;color:var(--text-muted);">BDTI Index: ' + esc(bwetSuezPrompt) + '</div>' +
             '</div>' +
           '</div>' +
           '<div style="background:rgba(240,136,62,0.04);border:1px solid rgba(240,136,62,0.18);border-radius:6px;padding:8px 10px;margin-top:6px;font-size:11px;">' +
@@ -26833,11 +26835,11 @@ if (intelTabsContainer) {
               '<span style="font-weight:600;color:var(--text);">Prompt: <strong style="color:#f0883e;">' + esc(bwetPromptPx) + '</strong> (' + esc(bwetPromptName) + ') &rarr; Next: <strong style="color:var(--text);">' + esc(bwetNextPx) + '</strong> (' + esc(bwetNextName) + ')</span>' +
               '<span style="font-size:10px;padding:2px 6px;border-radius:4px;background:' + bwetRegimeBg + ';color:' + bwetRegimeColor + ';font-weight:600;">' + esc(bwetRegimeLabel) + '</span>' +
             '</div>' +
-            '<div style="color:var(--text-muted);font-size:10.5px;line-height:1.35;">🎯 <strong>Holding Bet:</strong> ' + esc(bwetHurdleText) + '</div>' +
+            '<div style="color:var(--text-muted);font-size:10.5px;line-height:1.35;">🎯 <strong>30-Day Holding Thesis:</strong> ' + esc(bwetThesis) + '</div>' +
           '</div>' +
           '<div style="display:flex;justify-content:space-between;align-items:center;padding:5px 8px;background:rgba(255,255,255,0.02);border:1px dashed rgba(255,255,255,0.08);border-radius:5px;margin-top:6px;font-size:10.5px;color:var(--text-muted);">' +
-            '<span><strong style="color:var(--text);">Roll Protocol:</strong> Solactive Axiom 1 (1st–5th business day)</span>' +
-            '<span style="color:#f0883e;font-weight:600;">Active Target: ' + esc(bwetPromptName) + '</span>' +
+            '<span><strong style="color:var(--text);">📜 Roll Schedule:</strong> 5-Day Window (1st–5th business day)</span>' +
+            '<span style="color:#f0883e;font-weight:600;">🎯 Primary Futures Leg: ' + esc(bwetPromptName) + '</span>' +
           '</div>' +
           '<div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">' +
             '<button class="etf-qa-action-btn" onclick="applyBriefScenario(\'bwet\')" style="font-size:11px;padding:4px 8px;border-color:rgba(240,136,62,0.4);background:rgba(240,136,62,0.15);" data-tooltip="Transfer analyzed Tanker percentage shocks to the interactive scenario matrix below."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:2px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Apply Tanker Surge (+20% VLCC / +15% Suez)</button>' +
