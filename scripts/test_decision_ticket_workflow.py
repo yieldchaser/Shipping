@@ -226,15 +226,26 @@ class TestDecisionTicketWorkflow(unittest.TestCase):
         VLCC_TICKER = 'DD3CM Q26 INDEX'
         SUEZ_TICKER = 'DD20M Q26 INDEX'
 
-        # Targets: +$10/MT on VLCC, +$5/MT on Suezmax (relative to live base marks)
-        # We will compute exact targets after reading the live snapshot prices via
-        # a preliminary zero-shock call.  Using the same target_contract_prices as
-        # the existing test is fine — but we verify math rather than assume lot counts.
+        # Targets: +$10/MT on VLCC, +$5/MT on Suezmax (relative to live base marks).
+        # We read the live snapshot to derive exact absolute targets — this keeps the
+        # test permanently correct regardless of daily market moves.
+        from current_book_manual_shock import load_latest_official_snapshot
+        live_snap = load_latest_official_snapshot(fund='BWET')
+        live_marks = {p['ticker']: float(p['price']) for p in live_snap['positions']}
+
+        vlcc_base = live_marks.get(VLCC_TICKER, 0.0)
+        suez_base = live_marks.get(SUEZ_TICKER, 0.0)
+        self.assertGreater(vlcc_base, 0, f"Live mark for {VLCC_TICKER} must be positive")
+        self.assertGreater(suez_base, 0, f"Live mark for {SUEZ_TICKER} must be positive")
+
+        VLCC_SHOCK = 10.0   # +$10/MT
+        SUEZ_SHOCK = 5.0    # +$5/MT
+
         ticket = generate_decision_ticket(
             fund='BWET',
             target_contract_prices={
-                VLCC_TICKER: 105.167,   # +$10/MT above the live base mark
-                SUEZ_TICKER: 43.507,    # +$5/MT above the live base mark
+                VLCC_TICKER: vlcc_base + VLCC_SHOCK,  # +$10/MT above live base mark
+                SUEZ_TICKER: suez_base + SUEZ_SHOCK,  # +$5/MT above live base mark
             },
             scenario_horizon_date=self.ref_date_str,
             reference_time_utc=self.ref_time,
