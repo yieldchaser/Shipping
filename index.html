@@ -23397,8 +23397,13 @@ if (intelTabsContainer) {
 
     async function renderIntelligenceTab() {
       if (!INTEL.loaded) {
-        await _intelLoadSignals();
+        // Mark loaded immediately so Macro Health Radar + Daily Market Brief
+        // render right away without waiting for the large signals.jsonl fetch.
+        // Signal Alerts will re-render in the background once signals arrive.
         INTEL.loaded = true;
+        _intelLoadSignals().then(() => {
+          if (INTEL.signals && INTEL.signals.length) _renderSignalAlerts();
+        }).catch(() => {});
       }
       _renderSignalAlerts();
       _renderMacroHealthRadar();
@@ -23887,7 +23892,37 @@ if (intelTabsContainer) {
 
     async function _intelLoadSignals() {
       try {
-        const text = await _fetchTextWithFallback('knowledge/derived/signals.jsonl');
+        // signals.jsonl can be large (80+ MB). Use a 6-second AbortController
+        // timeout so a slow/unavailable fetch never stalls the tab.
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => {
+          controller.abort();
+          console.warn('[Intel] signals.jsonl fetch aborted after 6s timeout');
+        }, 6000);
+
+        let text = '';
+        try {
+          const resp = await fetch('knowledge/derived/signals.jsonl', {
+            cache: 'no-store',
+            signal: controller.signal,
+          });
+          if (resp.ok) text = await resp.text();
+        } catch (fetchErr) {
+          // Timed out or network error — try raw GitHub fallback
+          const fallbackUrl = _rawFallbackUrl('knowledge/derived/signals.jsonl');
+          if (fallbackUrl && !controller.signal.aborted) {
+            try {
+              const ctrl2 = new AbortController();
+              const tid2 = setTimeout(() => ctrl2.abort(), 6000);
+              const resp2 = await fetch(fallbackUrl, { cache: 'no-store', signal: ctrl2.signal });
+              if (resp2.ok) text = await resp2.text();
+              clearTimeout(tid2);
+            } catch {}
+          }
+        } finally {
+          clearTimeout(timeoutId);
+        }
+
         if (!text) return;
         INTEL.signals = text.split('\n')
           .filter(l => l.includes('"source": "breakwave"'))
