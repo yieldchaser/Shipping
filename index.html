@@ -10622,6 +10622,14 @@
                   <button class="toggle-btn" id="fwdMr" onclick="setTankerFwdRoute('mr')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="mr" data-tt-name="Clean MR Atlantic Basket" data-tt-cargo="37,000 MT Gasoline / Diesel (TC2, TC14, TC6)" data-tt-desc="Medium Range tanker triangulation covering transatlantic and US Gulf diesel exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Clean MR</button>
                   <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="All Tanker Benchmark Routes" data-tt-cargo="Multi-Segment Crude & Clean Product Basket" data-tt-desc="Overlays all dirty and clean tanker forward curves for fleet-wide macro analysis." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
+                <div id="tankerFwdCompToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="tankerCompNone" onclick="setTankerFwdComp('none')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">None</button>
+                  <button class="toggle-btn" id="tankerComp1w" onclick="setTankerFwdComp('1w')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1W ago</button>
+                  <button class="toggle-btn" id="tankerComp2w" onclick="setTankerFwdComp('2w')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2W ago</button>
+                  <button class="toggle-btn" id="tankerComp1m" onclick="setTankerFwdComp('1m')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M ago</button>
+                  <button class="toggle-btn" id="tankerComp3m" onclick="setTankerFwdComp('3m')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3M ago</button>
+                </div>
+                <div id="tankerFwdShiftBadge" class="kpi-badge" style="display:none;" data-tooltip="Curve Shift: Net $/day change in prompt contract between today and historical comparison snapshot">Shift: —</div>
                 <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Negative = Backwardation; Positive = Contango">Term Structure: —</div>
                 <div id="tankerFwdEcoBadge" class="kpi-badge" data-tooltip="Eco Fuel-Efficiency Premium: Average $/day savings of modern Eco/Scrubber vessels over conventional standard hulls">Eco Premium: —</div>
               </div>
@@ -11849,10 +11857,12 @@ if (intelTabsContainer) {
       DATA.bwetLiquidity = DATA.bwetLiquidity || [];
       DATA.bdryFlows = DATA.bdryFlows || [];
       DATA.bwetFlows = DATA.bwetFlows || [];
+      DATA.tankerForwardCurves = DATA.tankerForwardCurves || [];
+      DATA.tankerForwardCurvesHistory = DATA.tankerForwardCurvesHistory || [];
 
-      // Pre-calculate total promises up front (PRODUCT_KEYS count + 21 specific file fetches + 4 SGX files)
+      // Pre-calculate total promises up front (PRODUCT_KEYS count + 22 specific file fetches + 4 SGX files)
       const sgxFileKeys = ['cape', 'panamax', 'supramax', 'handysize'];
-      let total = PRODUCT_KEYS.length + 21 + sgxFileKeys.length;
+      let total = PRODUCT_KEYS.length + 22 + sgxFileKeys.length;
 
       function tick(label) {
         loaded++;
@@ -12065,6 +12075,28 @@ if (intelTabsContainer) {
           });
         });
 
+        const tankerFwdHistPromise = safeFetch('data/derived/tanker_forward_curves_history.csv', 'Tanker Forward Curves History', [], r => {
+          DATA.tankerForwardCurvesHistory = r.map(row => {
+            return {
+              snapshotDate: row.snapshot_date,
+              forwardMonth: row.forward_month,
+              contractLabel: row.contract_label,
+              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
+              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
+              suezmax_td20: parseFloat(row.suezmax_td20) || null,
+              aframax_td25: parseFloat(row.aframax_td25) || null,
+              lr1_tc5: parseFloat(row.lr1_tc5) || null,
+              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
+              mr_tc2: parseFloat(row.mr_tc2) || null,
+              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
+              mr_tc14: parseFloat(row.mr_tc14) || null,
+              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
+              mr_tc6: parseFloat(row.mr_tc6) || null,
+              mr_triangulation: parseFloat(row.mr_triangulation) || null
+            };
+          });
+        });
+
         const lngCharterPromise = safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
           DATA.lngCharter = r.map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
@@ -12128,7 +12160,7 @@ if (intelTabsContainer) {
           bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
           bdryHistPromise, bwetHistPromise,
           tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
-          lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise,
+          lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise, tankerFwdHistPromise,
           lngCharterPromise, tceMatrixPromise,
           ...sgxPromises
         ];
@@ -18104,6 +18136,28 @@ if (intelTabsContainer) {
       renderTankerForwardChart();
     };
 
+    window.tankerFwdComp = 'none';
+    window.setTankerFwdComp = function(comp) {
+      window.tankerFwdComp = comp;
+      const btns = ['tankerCompNone', 'tankerComp1w', 'tankerComp2w', 'tankerComp1m', 'tankerComp3m'];
+      const activeMap = { none: 'tankerCompNone', '1w': 'tankerComp1w', '2w': 'tankerComp2w', '1m': 'tankerComp1m', '3m': 'tankerComp3m' };
+      btns.forEach(function(id) {
+        const el = document.getElementById(id);
+        if (el) {
+          if (id === activeMap[comp]) {
+            el.classList.add('active');
+            el.style.background = 'var(--accent)';
+            el.style.color = '#fff';
+          } else {
+            el.classList.remove('active');
+            el.style.background = 'var(--card)';
+            el.style.color = 'var(--text-muted)';
+          }
+        }
+      });
+      renderTankerForwardChart();
+    };
+
     function renderTankerForwardChart() {
       const canvas = document.getElementById('tankerForwardChart');
       if (!canvas) return;
@@ -18116,6 +18170,7 @@ if (intelTabsContainer) {
 
       const ecoBadge = document.getElementById('tankerFwdEcoBadge');
       const slopeBadge = document.getElementById('tankerFwdSlopeBadge');
+      const shiftBadge = document.getElementById('tankerFwdShiftBadge');
       
       const prompt = rows[0];
       const m12 = rows.length >= 12 ? rows[11] : rows[rows.length - 1];
@@ -18131,17 +18186,17 @@ if (intelTabsContainer) {
         const slope = prompt[primaryCol] - m12[primaryCol];
         const pct = (slope / prompt[primaryCol]) * 100;
         if (slope > 5000) {
-          slopeBadge.textContent = 'Backwardation: -$' + Math.round(slope).toLocaleString() + '/d (-' + Math.abs(pct).toFixed(0) + '% M1-M12)';
+          slopeBadge.textContent = 'Backwardation: -$' + Math.round(slope).toLocaleString('en-US') + '/d (-' + Math.abs(pct).toFixed(0) + '% M1-M12)';
           slopeBadge.style.background = 'rgba(248,81,73,0.2)';
           slopeBadge.style.color = '#f85149';
           slopeBadge.style.border = '1px solid rgba(248,81,73,0.4)';
         } else if (slope < -2000) {
-          slopeBadge.textContent = 'Contango: +$' + Math.round(Math.abs(slope)).toLocaleString() + '/d (+' + Math.abs(pct).toFixed(0) + '% M1-M12)';
+          slopeBadge.textContent = 'Contango: +$' + Math.round(Math.abs(slope)).toLocaleString('en-US') + '/d (+' + Math.abs(pct).toFixed(0) + '% M1-M12)';
           slopeBadge.style.background = 'rgba(63,185,80,0.2)';
           slopeBadge.style.color = '#3fb950';
           slopeBadge.style.border = '1px solid rgba(63,185,80,0.4)';
         } else {
-          slopeBadge.textContent = 'Flat Term Structure: $' + Math.round(prompt[primaryCol]).toLocaleString() + '/d';
+          slopeBadge.textContent = 'Flat Term Structure: $' + Math.round(prompt[primaryCol]).toLocaleString('en-US') + '/d';
           slopeBadge.style.background = 'var(--border)';
           slopeBadge.style.color = 'var(--text-muted)';
           slopeBadge.style.border = 'none';
@@ -18151,11 +18206,11 @@ if (intelTabsContainer) {
       if (ecoBadge) {
         if (route === 'lr1' && prompt && prompt.lr1_tc5 && prompt.lr1_eco_tc5) {
           const diff = prompt.lr1_tc5 - prompt.lr1_eco_tc5;
-          ecoBadge.textContent = 'LR1 Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+          ecoBadge.textContent = 'LR1 Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString('en-US') + '/d';
           ecoBadge.style.display = '';
         } else if (prompt && prompt.vlcc_td3c && prompt.vlcc_eco_td3c) {
           const diff = prompt.vlcc_td3c - prompt.vlcc_eco_td3c;
-          ecoBadge.textContent = 'VLCC Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString() + '/d';
+          ecoBadge.textContent = 'VLCC Eco Spread: $' + Math.round(Math.abs(diff)).toLocaleString('en-US') + '/d';
           ecoBadge.style.display = '';
         } else {
           ecoBadge.style.display = 'none';
@@ -18195,6 +18250,80 @@ if (intelTabsContainer) {
           { label: 'Clean LR1 TC5', data: rows.map(function(r) { return r.lr1_tc5; }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true },
           { label: 'MR Triangulation', data: rows.map(function(r) { return r.mr_triangulation; }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, tension: 0.15, pointRadius: 2, spanGaps: true }
         ];
+      }
+
+      // Historical comparison overlay
+      const comp = window.tankerFwdComp || 'none';
+      if (comp !== 'none' && DATA.tankerForwardCurvesHistory && DATA.tankerForwardCurvesHistory.length) {
+        const daysBack = { '1w': 7, '2w': 14, '1m': 30, '3m': 90 }[comp] || 7;
+        const latestSnapDateStr = rows[0] && rows[0].snapshotDate ? rows[0].snapshotDate : '2026-08-12';
+        const latestSnapDate = new Date(latestSnapDateStr);
+        const targetTime = latestSnapDate.getTime() - (daysBack * 86400000);
+
+        const snapshots = {};
+        DATA.tankerForwardCurvesHistory.forEach(function(h) {
+          const sd = h.snapshotDate;
+          if (sd) {
+            if (!snapshots[sd]) snapshots[sd] = [];
+            snapshots[sd].push(h);
+          }
+        });
+
+        const snapDates = Object.keys(snapshots).sort();
+        let chosenSnapDate = null;
+        for (let i = snapDates.length - 1; i >= 0; i--) {
+          const d = new Date(snapDates[i]);
+          if (d.getTime() <= targetTime || (i === 0 && !chosenSnapDate)) {
+            chosenSnapDate = snapDates[i];
+            if (d.getTime() <= targetTime) break;
+          }
+        }
+
+        if (chosenSnapDate && snapshots[chosenSnapDate]) {
+          const histRows = snapshots[chosenSnapDate];
+          const histMap = {};
+          histRows.forEach(function(hr) {
+            histMap[hr.contractLabel || hr.forwardMonth] = hr;
+          });
+
+          const compData = rows.map(function(r) {
+            const key = r.contractLabel || r.forwardMonth;
+            const match = histMap[key];
+            return match ? match[primaryCol] : null;
+          });
+
+          const compLabelTag = { '1w': '1W ago', '2w': '2W ago', '1m': '1M ago', '3m': '3M ago' }[comp] || comp;
+          datasets.push({
+            label: compLabelTag + ' (' + chosenSnapDate + ')',
+            data: compData,
+            borderColor: 'rgba(139,148,158,0.7)',
+            backgroundColor: 'transparent',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            tension: 0.15,
+            pointRadius: 2,
+            spanGaps: true
+          });
+
+          const histPromptVal = compData[0];
+          const currPromptVal = prompt ? prompt[primaryCol] : null;
+          if (shiftBadge && histPromptVal != null && currPromptVal != null) {
+            const diff = currPromptVal - histPromptVal;
+            const pct = (diff / histPromptVal) * 100;
+            const diffSign = diff >= 0 ? '+' : '-';
+            shiftBadge.textContent = compLabelTag + ' Shift: ' + diffSign + '$' + Math.round(Math.abs(diff)).toLocaleString('en-US') + '/d (' + (diff >= 0 ? '+' : '') + pct.toFixed(1) + '%)';
+            shiftBadge.style.display = '';
+            shiftBadge.style.background = diff >= 0 ? 'rgba(63,185,80,0.15)' : 'rgba(248,81,73,0.15)';
+            shiftBadge.style.color = diff >= 0 ? '#3fb950' : '#f85149';
+            shiftBadge.style.border = '1px solid ' + (diff >= 0 ? 'rgba(63,185,80,0.3)' : 'rgba(248,81,73,0.3)');
+          } else if (shiftBadge) {
+            shiftBadge.style.display = 'none';
+          }
+        } else if (shiftBadge) {
+          shiftBadge.style.display = 'none';
+        }
+      } else if (shiftBadge) {
+        shiftBadge.style.display = 'none';
       }
 
       updateOrCreateChart('tankerForwardChart', canvas, {
