@@ -10623,11 +10623,11 @@
                   <button class="toggle-btn" id="fwdAll" onclick="setTankerFwdRoute('all')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="all" data-tt-name="All Tanker Benchmark Routes" data-tt-cargo="Multi-Segment Crude & Clean Product Basket" data-tt-desc="Overlays all dirty and clean tanker forward curves for fleet-wide macro analysis." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
                 <div id="tankerFwdCompToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tankerCompNone" onclick="setTankerFwdComp('none')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">None</button>
-                  <button class="toggle-btn" id="tankerComp1w" onclick="setTankerFwdComp('1w')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1W ago</button>
-                  <button class="toggle-btn" id="tankerComp2w" onclick="setTankerFwdComp('2w')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2W ago</button>
-                  <button class="toggle-btn" id="tankerComp1m" onclick="setTankerFwdComp('1m')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M ago</button>
-                  <button class="toggle-btn" id="tankerComp3m" onclick="setTankerFwdComp('3m')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3M ago</button>
+                  <button class="toggle-btn active" id="tankerCompNone" onclick="setTankerFwdComp('none')" data-tooltip="Live snapshot only without historical reference overlay" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">None</button>
+                  <button class="toggle-btn" id="tankerComp1w" onclick="setTankerFwdComp('1w')" data-tooltip="Overlay historical tanker forward curve from 1 week ago" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1W ago</button>
+                  <button class="toggle-btn" id="tankerComp2w" onclick="setTankerFwdComp('2w')" data-tooltip="Overlay historical tanker forward curve from 2 weeks ago" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2W ago</button>
+                  <button class="toggle-btn" id="tankerComp1m" onclick="setTankerFwdComp('1m')" data-tooltip="Overlay historical tanker forward curve from 1 month ago" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1M ago</button>
+                  <button class="toggle-btn" id="tankerComp3m" onclick="setTankerFwdComp('3m')" data-tooltip="Overlay historical tanker forward curve from 3 months ago" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3M ago</button>
                 </div>
                 <div id="tankerFwdShiftBadge" class="kpi-badge" style="display:none;" data-tooltip="Curve Shift: Net $/day change in prompt contract between today and historical comparison snapshot">Shift: —</div>
                 <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Negative = Backwardation; Positive = Contango">Term Structure: —</div>
@@ -18308,14 +18308,22 @@ if (intelTabsContainer) {
           const histPromptVal = compData[0];
           const currPromptVal = prompt ? prompt[primaryCol] : null;
           if (shiftBadge && histPromptVal != null && currPromptVal != null) {
-            const diff = currPromptVal - histPromptVal;
-            const pct = (diff / histPromptVal) * 100;
-            const diffSign = diff >= 0 ? '+' : '-';
-            shiftBadge.textContent = compLabelTag + ' Shift: ' + diffSign + '$' + Math.round(Math.abs(diff)).toLocaleString('en-US') + '/d (' + (diff >= 0 ? '+' : '') + pct.toFixed(1) + '%)';
-            shiftBadge.style.display = '';
-            shiftBadge.style.background = diff >= 0 ? 'rgba(63,185,80,0.15)' : 'rgba(248,81,73,0.15)';
-            shiftBadge.style.color = diff >= 0 ? '#3fb950' : '#f85149';
-            shiftBadge.style.border = '1px solid ' + (diff >= 0 ? 'rgba(63,185,80,0.3)' : 'rgba(248,81,73,0.3)');
+            if (chosenSnapDate === latestSnapDateStr && snapDates.length <= 1) {
+              shiftBadge.textContent = compLabelTag + ': History Baseline (' + chosenSnapDate + ')';
+              shiftBadge.style.display = '';
+              shiftBadge.style.background = 'rgba(88,166,255,0.15)';
+              shiftBadge.style.color = '#58a6ff';
+              shiftBadge.style.border = '1px solid rgba(88,166,255,0.3)';
+            } else {
+              const diff = currPromptVal - histPromptVal;
+              const pct = histPromptVal !== 0 ? (diff / histPromptVal) * 100 : 0;
+              const diffSign = diff >= 0 ? '+' : '-';
+              shiftBadge.textContent = compLabelTag + ' Shift: ' + diffSign + '$' + Math.round(Math.abs(diff)).toLocaleString('en-US') + '/d (' + (diff >= 0 ? '+' : '') + pct.toFixed(1) + '%)';
+              shiftBadge.style.display = '';
+              shiftBadge.style.background = diff >= 0 ? 'rgba(63,185,80,0.15)' : 'rgba(248,81,73,0.15)';
+              shiftBadge.style.color = diff >= 0 ? '#3fb950' : '#f85149';
+              shiftBadge.style.border = '1px solid ' + (diff >= 0 ? 'rgba(63,185,80,0.3)' : 'rgba(248,81,73,0.3)');
+            }
           } else if (shiftBadge) {
             shiftBadge.style.display = 'none';
           }

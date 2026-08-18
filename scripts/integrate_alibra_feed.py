@@ -194,98 +194,113 @@ def integrate_historical_time_charter():
     print(f"Successfully integrated Alibra historical archives into {tc_file} ({len(merged_rows)} total rows)!")
 
 def integrate_tanker_forward_curves():
-    """Parses latest forward_curves CSV and saves formatted snapshot and historical archive."""
+    """Parses all forward_curves CSVs and saves formatted latest snapshot and historical archive."""
     fc_dir = ALIBRA_DATA_DIR / "forward_curves"
     fc_files = sorted(list(fc_dir.glob("*.csv")))
     if not fc_files:
         print("No forward curve files found.")
         return
 
-    latest_file = fc_files[-1]
-    snapshot_date = latest_file.stem  # e.g. 2026-08-15
-
-    # Check if last_updated_stamp is available
+    # Check if last_updated_stamp is available for latest file
     stamp_dir = ALIBRA_DATA_DIR / "last_updated_stamp"
     stamp_files = sorted(list(stamp_dir.glob("*.csv")))
+    latest_stamp_date = None
     if stamp_files:
         with open(stamp_files[-1], encoding="utf-8") as f:
             stamp_text = f.read().strip()
             parsed_stamp = parse_iso_date("", stamp_text)
             if parsed_stamp:
-                snapshot_date = parsed_stamp
+                latest_stamp_date = parsed_stamp
 
-    forward_rows = []
-    with open(latest_file, encoding="utf-8") as f:
-        reader = csv.reader(f)
-        header = next(reader, None)
-        for row in reader:
-            if not row or len(row) < 13:
-                continue
-            month_str = row[0].strip()
-            if not month_str:
-                continue
+    all_history_rows = []
+    latest_rows = []
 
-            # Format forward contract month (e.g. 1-Aug-26 -> 2026-08-01)
-            fwd_iso = parse_iso_date("", month_str)
-            if not fwd_iso:
-                # parse 1-Aug-26
-                try:
-                    dt = datetime.strptime(month_str, "%d-%b-%y")
-                    fwd_iso = dt.strftime("%Y-%m-%d")
-                except ValueError:
-                    fwd_iso = month_str
+    for idx, fc_file in enumerate(fc_files):
+        snapshot_date = fc_file.stem
+        # For the latest file, override with stamp if available
+        if idx == len(fc_files) - 1 and latest_stamp_date:
+            snapshot_date = latest_stamp_date
 
-            forward_rows.append({
-                "snapshot_date": snapshot_date,
-                "forward_month": fwd_iso,
-                "contract_label": month_str,
-                "vlcc_td3c": clean_num(row[1]),
-                "vlcc_eco_td3c": clean_num(row[2]),
-                "suezmax_td20": clean_num(row[3]),
-                "aframax_td25": clean_num(row[4]),
-                "lr1_tc5": clean_num(row[5]),
-                "lr1_eco_tc5": clean_num(row[6]),
-                "mr_tc2": clean_num(row[7]),
-                "mr_eco_tc2": clean_num(row[8]),
-                "mr_tc14": clean_num(row[9]),
-                "mr_eco_tc14": clean_num(row[10]),
-                "mr_tc6": clean_num(row[11]),
-                "mr_triangulation": clean_num(row[12]),
-            })
+        file_rows = []
+        with open(fc_file, encoding="utf-8") as f:
+            reader = csv.reader(f)
+            header = next(reader, None)
+            for row in reader:
+                if not row or len(row) < 13:
+                    continue
+                month_str = row[0].strip()
+                if not month_str:
+                    continue
 
-    if not forward_rows:
+                fwd_iso = parse_iso_date("", month_str)
+                if not fwd_iso:
+                    try:
+                        dt = datetime.strptime(month_str, "%d-%b-%y")
+                        fwd_iso = dt.strftime("%Y-%m-%d")
+                    except ValueError:
+                        fwd_iso = month_str
+
+                item = {
+                    "snapshot_date": snapshot_date,
+                    "forward_month": fwd_iso,
+                    "contract_label": month_str,
+                    "vlcc_td3c": clean_num(row[1]),
+                    "vlcc_eco_td3c": clean_num(row[2]),
+                    "suezmax_td20": clean_num(row[3]),
+                    "aframax_td25": clean_num(row[4]),
+                    "lr1_tc5": clean_num(row[5]),
+                    "lr1_eco_tc5": clean_num(row[6]),
+                    "mr_tc2": clean_num(row[7]),
+                    "mr_eco_tc2": clean_num(row[8]),
+                    "mr_tc14": clean_num(row[9]),
+                    "mr_eco_tc14": clean_num(row[10]),
+                    "mr_tc6": clean_num(row[11]),
+                    "mr_triangulation": clean_num(row[12]),
+                }
+                file_rows.append(item)
+                all_history_rows.append(item)
+
+        if idx == len(fc_files) - 1:
+            latest_rows = file_rows
+
+    if not latest_rows:
         return
 
     # 1. Write current snapshot CSV
     out_snapshot = DERIVED_DIR / "tanker_forward_curves.csv"
-    fc_fieldnames = list(forward_rows[0].keys())
+    fc_fieldnames = list(latest_rows[0].keys())
     with open(out_snapshot, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fc_fieldnames)
         writer.writeheader()
-        for r in forward_rows:
+        for r in latest_rows:
             writer.writerow(r)
 
-    # 2. Append to historical forward curves archive
+    # 2. Write historical forward curves archive (deduplicated)
     out_history = DERIVED_DIR / "tanker_forward_curves_history.csv"
     existing_keys = set()
+    historical_merged = []
     if out_history.exists():
         with open(out_history, encoding="utf-8") as f:
             rdr = csv.DictReader(f)
             for r in rdr:
-                existing_keys.add((r.get("snapshot_date"), r.get("forward_month")))
+                k = (r.get("snapshot_date"), r.get("forward_month"))
+                if k not in existing_keys:
+                    existing_keys.add(k)
+                    historical_merged.append(r)
 
-    write_history_header = not out_history.exists()
-    with open(out_history, "a", encoding="utf-8", newline="") as f:
+    for r in all_history_rows:
+        k = (r["snapshot_date"], r["forward_month"])
+        if k not in existing_keys:
+            existing_keys.add(k)
+            historical_merged.append(r)
+
+    with open(out_history, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fc_fieldnames)
-        if write_history_header:
-            writer.writeheader()
-        for r in forward_rows:
-            k = (r["snapshot_date"], r["forward_month"])
-            if k not in existing_keys:
-                writer.writerow(r)
-                existing_keys.add(k)
+        writer.writeheader()
+        for r in historical_merged:
+            writer.writerow(r)
 
-    print(f"Successfully generated {out_snapshot} and updated {out_history} ({len(forward_rows)} contracts for {snapshot_date})!")
+    print(f"Successfully generated {out_snapshot} and updated {out_history} ({len(historical_merged)} total history rows across {len(fc_files)} snapshots)!")
 
 def main():
     print("=== RUNNING ALIBRA FEED INTEGRATION ===")
