@@ -1,0 +1,10 @@
+vessel_class,sector,dwt,price_newbuild_usd_m,price_5y_usd_m,price_10y_usd_m,price_15y_usd_m,scrap_demolition_usd_m,ratio_5y_to_newbuild_pct,implied_1y_charter_yield_pct
+Capesize,Dry Bulk,180000,76.50,67.50,48.00,31.50,10.80,88.24,20.01
+Newcastlemax,Dry Bulk,210000,84.00,74.50,53.00,35.00,12.60,88.69,19.11
+Kamsarmax,Dry Bulk,82000,38.50,34.20,26.50,18.20,5.10,88.83,17.63
+Ultramax,Dry Bulk,64000,35.50,31.50,24.00,16.50,4.20,88.73,17.96
+Handysize,Dry Bulk,38000,31.00,26.50,19.50,13.00,2.80,85.48,17.21
+VLCC,Tanker,300000,129.50,115.00,86.00,59.00,18.90,88.80,17.46
+Suezmax,Tanker,160000,88.00,78.50,59.00,41.00,10.50,89.20,17.68
+Aframax / LR2,Tanker,115000,75.50,68.00,51.50,35.50,7.80,90.07,18.26
+MR Product Tanker,Tanker,50000,48.50,43.00,33.00,23.50,4.10,88.66,19.53

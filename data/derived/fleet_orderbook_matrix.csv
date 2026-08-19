@@ -1,0 +1,14 @@
+vessel_class,sector,active_fleet_count,active_fleet_dwt_m,orderbook_count,orderbook_dwt_m,orderbook_to_fleet_pct,deliveries_2026_h2_dwt_m,deliveries_2027_dwt_m,deliveries_2028_dwt_m,deliveries_2029_plus_dwt_m,fleet_age_gt_15y_pct,fleet_age_gt_20y_pct,avg_shipyard_lead_time_months
+Capesize (120k-205k DWT),Dry Bulk,1780,338.2,108,20.6,6.09,4.2,8.9,5.8,1.7,18.4,5.2,34
+Newcastlemax (205k-220k DWT),Dry Bulk,285,58.5,38,7.8,13.33,1.6,3.7,2.1,0.4,11.2,2.1,36
+VLOC / Valemax (250k-400k DWT),Dry Bulk,195,68.4,12,3.9,5.70,0.8,1.6,1.5,0.0,22.1,7.8,38
+Kamsarmax / Panamax (70k-90k DWT),Dry Bulk,3240,265.4,312,25.6,9.65,5.8,11.2,6.9,1.7,21.6,7.9,32
+Ultramax / Supramax (50k-68k DWT),Dry Bulk,3820,229.2,385,24.1,10.51,5.2,10.8,6.4,1.7,19.8,6.4,30
+Handysize (10k-40k DWT),Dry Bulk,3110,104.8,215,8.2,7.82,1.9,3.6,2.1,0.6,29.4,14.2,28
+VLCC (200k-320k DWT),Tanker,920,285.2,72,22.2,7.78,3.1,9.4,7.8,1.9,16.8,6.1,38
+Suezmax (120k-200k DWT),Tanker,690,109.8,98,15.6,14.21,2.8,6.9,4.7,1.2,17.2,5.8,35
+Aframax / LR2 (80k-120k DWT),Tanker,1180,129.8,142,16.1,12.40,3.4,6.8,4.6,1.3,19.1,7.2,32
+MR Product Tanker (40k-55k DWT),Tanker,1890,92.6,220,11.0,11.88,2.4,4.8,3.1,0.7,22.4,8.9,30
+Container (Total TEU m),Container,6150,31.2,840,6.9,22.12,1.8,2.8,1.8,0.5,14.5,4.8,36
+LNG Carrier (160k-174k cbm),Gas,740,68.2,340,31.6,46.33,5.2,12.4,10.8,3.2,8.9,2.4,42
+LPG VLGC (78k-93k cbm),Gas,390,21.8,82,5.1,23.39,1.1,2.2,1.4,0.4,15.2,4.6,34

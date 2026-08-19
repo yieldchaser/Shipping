@@ -1,0 +1,8 @@
+arbitrage_metric,route_or_pair,unit,current_value,1y_avg,5y_percentile,arbitrage_signal,freight_implication
+Atlantic-Pacific Ore Freight Skew,C3 (Tubarão) vs C5 (WAus),$/ton,16.85,14.20,88.4,ATLANTIC_PREMIUM,Long Atlantic Capesize round voyages; wide C3-C5 spread incentivizes ballasters to Atlantic
+Cape Implied TCE Differential,C3 Round TCE vs C5 Round TCE,$/day,6850.00,4200.00,84.2,ATLANTIC_TCE_LIFT,"Atlantic round voyage earnings command +,850/d premium over Pacific basin fixtures"
+Brent-Dubai EFS Spread,Brent Front vs Dubai Swap,$/bbl,1.85,1.45,68.0,MODERATE_EFS,Narrow EFS encourages Asian refiners to pull Atlantic long-haul crude on VLCCs
+WTI-Houston vs Brent Arb,WTI Houston CFR Asia vs Brent,$/bbl,-2.40,-1.80,42.0,US_EXPORTS_ATTRACTIVE,"US Gulf to China/India crude arb open, driving VLCC TD22 tonne-mile demand"
+China Port Iron Ore Inventory Days,Port Stocks (157 Mt) / Daily Melt,Days,39.2,35.4,74.5,INVENTORY_COMFORTABLE,"Stocks adequate for 39 days; mills buying hand-to-mouth, dampening prompt speculative ore surges"
+Atlantic Grain Tonne-Mile Premium,Santos/Paranagua vs US Gulf to Qingdao,$/ton,4.20,3.50,72.1,SOUTH_AMERICA_DOMINANT,South American grain export volume captures longer sailing distance vs US Gulf
+Panamax US Gulf vs Pacific Coal TCE Skew,T/C 4 Round vs T/C 3 Pacific,$/day,3850.00,2900.00,78.0,ATLANTIC_PANAMAX_LEAD,US Gulf grain & coal loading sustains Atlantic Panamax earnings premium over Pacific

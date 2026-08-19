@@ -1,0 +1,11 @@
+chokepoint,region,daily_transit_count,pre_disruption_baseline_count,diverted_pct,avg_rerouting_voyage_days_added,implied_tonne_mile_expansion_pct,max_draft_feet,queue_waiting_days,disruption_status
+Bab-el-Mandeb / Red Sea,Middle East / East Africa,14.2,52.8,73.11,14.5,28.4,70.0,0.5,ACTIVE_REROUTING
+Suez Canal (Northbound/Southbound),Egypt / Mediterranean,18.4,68.5,73.14,14.5,28.4,66.0,1.2,LOW_UTILIZATION
+Panama Canal (Neo-Panamax),Central America,9.8,11.5,14.78,8.0,12.2,44.0,3.8,RESTRICTED_SLOTS
+Panama Canal (Panamax),Central America,24.2,26.0,6.92,6.5,8.5,39.5,4.5,NORMAL_RESTRICTED
+Strait of Hormuz,Arabian Gulf / Oman,118.5,124.0,4.44,0.0,0.0,75.0,0.8,MONITORED_OPEN
+Malacca Strait,Southeast Asia,228.0,225.0,0.0,0.0,0.0,68.0,1.0,HIGH_DENSITY
+Port Hedland Iron Ore Terminal,Western Australia,7.2,7.5,0.0,0.0,0.0,62.0,3.2,CONGESTION_NORMAL
+Tubarão Iron Ore Terminal,Brazil (Atlantic),4.1,4.5,0.0,0.0,0.0,68.0,4.8,CONGESTION_MODERATE
+Qingdao / Caofeidian Bulk Terminal,China (Pacific),18.5,16.2,0.0,0.0,0.0,65.0,5.4,CONGESTION_ELEVATED
+Newcastle Coal Terminal,East Coast Australia,6.8,7.2,0.0,0.0,0.0,52.0,6.2,CONGESTION_SEASONAL

@@ -23560,27 +23560,27 @@ if (intelTabsContainer) {
 
     const QA_CHUNK_FILES = {
       breakwave: {
-        recent:         ['knowledge/chunks/breakwave_drybulk_2026.jsonl', 'knowledge/chunks/breakwave_tankers_2026.jsonl', 'knowledge/chunks/breakwave_insights_insights_2026.jsonl'],
+        recent:         ['knowledge/chunks/breakwave_drybulk_2026.jsonl', 'knowledge/chunks/breakwave_tankers_2026.jsonl', 'knowledge/chunks/breakwave_insights_insights_2026.jsonl', 'knowledge/chunks/regional_freight_spreads_2026.jsonl'],
         historical:     ['knowledge/chunks/breakwave_drybulk.jsonl', 'knowledge/chunks/breakwave_tankers.jsonl', 'knowledge/chunks/breakwave_insights_insights_2025.jsonl', 'knowledge/chunks/breakwave_insights_insights_2024.jsonl', 'knowledge/chunks/breakwave_insights_insights_2023.jsonl', 'knowledge/chunks/breakwave_insights_insights_2022.jsonl'],
         deep_historical:['knowledge/chunks/breakwave_insights_insights.jsonl'],
       },
       baltic: {
-        recent:         ['knowledge/chunks/baltic_dry_2026.jsonl', 'knowledge/chunks/baltic_tanker_2026.jsonl', 'knowledge/chunks/baltic_container_2026.jsonl', 'knowledge/chunks/baltic_gas_2026.jsonl', 'knowledge/chunks/baltic_ningbo_2026.jsonl'],
+        recent:         ['knowledge/chunks/baltic_dry_2026.jsonl', 'knowledge/chunks/baltic_tanker_2026.jsonl', 'knowledge/chunks/baltic_container_2026.jsonl', 'knowledge/chunks/baltic_gas_2026.jsonl', 'knowledge/chunks/baltic_ningbo_2026.jsonl', 'knowledge/chunks/chokepoint_and_congestion_2026.jsonl', 'knowledge/chunks/regional_freight_spreads_2026.jsonl'],
         historical:     ['knowledge/chunks/baltic_dry.jsonl', 'knowledge/chunks/baltic_tanker.jsonl', 'knowledge/chunks/baltic_container.jsonl', 'knowledge/chunks/baltic_gas.jsonl', 'knowledge/chunks/baltic_ningbo.jsonl'],
         deep_historical:[],
       },
       hellenic: {
-        recent:         ['knowledge/chunks/hellenic_dry_charter_2026.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2026.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2026.jsonl'],
+        recent:         ['knowledge/chunks/hellenic_dry_charter_2026.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2026.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2026.jsonl', 'knowledge/chunks/bunker_and_carbon_spreads_2026.jsonl', 'knowledge/chunks/sp_asset_valuations_2026.jsonl'],
         historical:     ['knowledge/chunks/hellenic_dry_charter_2025.jsonl', 'knowledge/chunks/hellenic_dry_charter_2024.jsonl', 'knowledge/chunks/hellenic_dry_charter_2023.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2025.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2024.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2023.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2025.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2024.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2023.jsonl'],
         deep_historical:['knowledge/chunks/hellenic_dry_charter_2022.jsonl', 'knowledge/chunks/hellenic_dry_charter_2021.jsonl', 'knowledge/chunks/hellenic_dry_charter_2014.jsonl', 'knowledge/chunks/hellenic_dry_charter_0000.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2022.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2021.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2014.jsonl', 'knowledge/chunks/hellenic_tanker_charter_0000.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2022.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2021.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2014.jsonl'],
       },
       ironOre: {
-        recent:         ['knowledge/chunks/hellenic_iron_ore_2026.jsonl'],
+        recent:         ['knowledge/chunks/hellenic_iron_ore_2026.jsonl', 'knowledge/chunks/regional_freight_spreads_2026.jsonl'],
         historical:     ['knowledge/chunks/hellenic_iron_ore_2025.jsonl', 'knowledge/chunks/hellenic_iron_ore_2024.jsonl', 'knowledge/chunks/hellenic_iron_ore_2023.jsonl'],
         deep_historical:['knowledge/chunks/hellenic_iron_ore_2022.jsonl', 'knowledge/chunks/hellenic_iron_ore_2021.jsonl', 'knowledge/chunks/hellenic_iron_ore_2018.jsonl', 'knowledge/chunks/hellenic_iron_ore_2014.jsonl'],
       },
       shipbuilding: {
-        recent:         ['knowledge/chunks/hellenic_shipbuilding_2026.jsonl', 'knowledge/chunks/hellenic_demolition_2026.jsonl'],
+        recent:         ['knowledge/chunks/fleet_orderbook_2026.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2026.jsonl', 'knowledge/chunks/hellenic_demolition_2026.jsonl', 'knowledge/chunks/sp_asset_valuations_2026.jsonl'],
         historical:     ['knowledge/chunks/hellenic_shipbuilding_2025.jsonl', 'knowledge/chunks/hellenic_demolition_2025.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2024.jsonl', 'knowledge/chunks/hellenic_demolition_2024.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2023.jsonl', 'knowledge/chunks/hellenic_demolition_2023.jsonl'],
         deep_historical:['knowledge/chunks/hellenic_shipbuilding_2022.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2021.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2014.jsonl', 'knowledge/chunks/hellenic_demolition_2022.jsonl', 'knowledge/chunks/hellenic_demolition_2021.jsonl', 'knowledge/chunks/hellenic_demolition_2014.jsonl', 'knowledge/chunks/hellenic_demolition_0000.jsonl'],
       },
@@ -26222,10 +26222,10 @@ if (intelTabsContainer) {
       const active = new Set();
 
       if (/breakwave|analyst sentiment|conviction|qual analysis|grade/i.test(q)) active.add('breakwave');
-      if (/baltic|spot rate|exchange|market comment/i.test(q)) active.add('baltic');
-      if (/charter|timecharter|tc rate|vessel valuation|second.hand/i.test(q)) active.add('hellenic');
-      if (/iron ore|ore demand|capesize demand|china steel|ton.mile/i.test(q)) active.add('ironOre');
-      if (/newbuild|orderbook|demolition|scrapping|fleet size|eexi|cii/i.test(q)) active.add('shipbuilding');
+      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread/i.test(q)) active.add('baltic');
+      if (/charter|timecharter|tc rate|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon/i.test(q)) active.add('hellenic');
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|port stock|inventory days/i.test(q)) active.add('ironOre');
+      if (/newbuild|orderbook|delivery schedule|berth|yard capacity|demolition|scrapping|fleet size|fleet growth|eexi|cii/i.test(q)) active.add('shipbuilding');
       if (/explain|fundamentals|background|textbook|historical context/i.test(q)) active.add('books');
 
       return active;
