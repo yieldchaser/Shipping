@@ -26221,12 +26221,35 @@ if (intelTabsContainer) {
       const q = (query || '').toLowerCase();
       const active = new Set();
 
-      if (/breakwave|analyst sentiment|conviction|qual analysis|grade/i.test(q)) active.add('breakwave');
-      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread/i.test(q)) active.add('baltic');
-      if (/charter|timecharter|tc rate|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon/i.test(q)) active.add('hellenic');
-      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|port stock|inventory days/i.test(q)) active.add('ironOre');
-      if (/newbuild|orderbook|delivery schedule|berth|yard capacity|demolition|scrapping|fleet size|fleet growth|eexi|cii/i.test(q)) active.add('shipbuilding');
-      if (/explain|fundamentals|background|textbook|historical context/i.test(q)) active.add('books');
+      // 1. Breakwave & Macro Analyst Narrative
+      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward/i.test(q)) {
+        active.add('breakwave');
+      }
+
+      // 2. Baltic Exchange, Spot Rates, Spreads, Chokepoints & Quant Regimes
+      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa/i.test(q)) {
+        active.add('baltic');
+      }
+
+      // 3. Hellenic, Time Charter Rates, S&P Valuations, Bunkers & Carbon
+      if (/charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase/i.test(q)) {
+        active.add('hellenic');
+      }
+
+      // 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|port stock|inventory days|steel margin|bauxite|coal|grain|soybean|export flow/i.test(q)) {
+        active.add('ironOre');
+      }
+
+      // 5. Shipbuilding, Orderbooks, Deliveries, Scrapping & Fleet Supply
+      if (/newbuild|orderbook|delivery schedule|berth|yard capacity|demolition|scrapping|fleet size|fleet growth|fleet supply|yoy growth|eexi|cii|shipyard|subcontinent/i.test(q)) {
+        active.add('shipbuilding');
+      }
+
+      // 6. Foundational Textbooks, Theory & Explanations
+      if (/explain|fundamentals|background|textbook|historical context|theory|how.*computed|scoring.*computed/i.test(q)) {
+        active.add('books');
+      }
 
       return active;
     }
