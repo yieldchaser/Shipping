@@ -24951,20 +24951,19 @@ if (intelTabsContainer) {
 
     const QA_PROVIDER_CONFIG = {
       groq: {
-        label: 'Groq (Ultra Fast - Llama 3.3 70B / DeepSeek R1)',
+        label: 'Groq (Ultra Fast - GPT OSS 120B / Qwen 3.6)',
         keyStorage: 'qa_key_groq',
         modelStorage: 'qa_model_groq',
-        defaultModel: 'llama-3.3-70b-versatile',
+        defaultModel: 'openai/gpt-oss-120b',
         keyLabel: 'Groq Key',
         keyPlaceholder: 'gsk_... (free at console.groq.com)',
         hasBaseUrl: false,
         maxContextTokens: 6000,
         suggestions: [
-          'llama-3.3-70b-versatile',
-          'llama-3.1-8b-instant',
-          'deepseek-r1-distill-llama-70b',
-          'mixtral-8x7b-32768',
-          'gemma2-9b-it'
+          'openai/gpt-oss-120b',
+          'openai/gpt-oss-20b',
+          'qwen/qwen3.6-27b',
+          'groq/compound'
         ]
       },
       openrouter: {
@@ -25472,56 +25471,48 @@ if (intelTabsContainer) {
       return lines.join('\n');
     }
 
-    // ── LLM reranker: small fast call to re-order BM25 candidates ─────────
-    async function _llmRerank(provider, apiKey, model, chunks, query) {
-      if (chunks.length <= 3) return chunks;
-      const snippets = chunks.map((c, i) =>
-        `[${i+1}] ${(c.section_title || c.category || '').slice(0,40)} (${c.source} ${c.date||''}): ${c.text.slice(0,110).replace(/\n/g,' ')}…`
-      ).join('\n');
-      const prompt = 'Output ONLY a JSON array ranking passage numbers most→least relevant. No text.\nExample: [3,1,7,2]\n\nQuestion: ' + query + '\n\nPassages:\n' + snippets;
-      try {
-        const endpoint = provider === 'groq'
-          ? 'https://api.groq.com/openai/v1/chat/completions'
-          : 'https://openrouter.ai/api/v1/chat/completions';
-        const hdrs = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` };
-        if (provider === 'openrouter') hdrs['HTTP-Referer'] = 'https://yieldchaser.github.io/Shipping';
-        const res = await fetch(endpoint, {
-          method: 'POST', headers: hdrs,
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0, max_tokens: 150, stream: false }),
-        });
-        if (!res.ok) return chunks;
-        const raw  = (await res.json())?.choices?.[0]?.message?.content || '';
-        const arr  = JSON.parse(raw.match(/\[[\d,\s]+\]/)?.[0] || '[]');
-        if (!arr.length || arr.some(i => typeof i !== 'number')) return chunks;
-        const ranked = arr.filter(i => i >= 1 && i <= chunks.length).map(i => chunks[i-1]);
-        const inSet  = new Set(ranked.map(c => c.chunk_id));
-        return [...ranked, ...chunks.filter(c => !inSet.has(c.chunk_id))];
-      } catch { return chunks; }
+    function _providerConfig(provider) {
+      const baseCfg = QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
+      const cfg = { ...baseCfg };
+      
+      if (provider === 'openrouter') {
+        cfg.maxContextTokens = 32000;
+      } else if (provider === 'groq') {
+        cfg.maxContextTokens = 6000;
+      }
+      return cfg;
     }
 
-    async function _fetchText(url) {
-      if (INTEL.wikiCache[url] !== undefined) return INTEL.wikiCache[url];
-      try {
-        const t = await _fetchTextWithFallback(url);
-        return (INTEL.wikiCache[url] = t);
-      } catch { return (INTEL.wikiCache[url] = ''); }
+    function _currentQAProvider() {
+      const stored = typeof localStorage !== 'undefined' ? localStorage.getItem('qa_provider') : 'groq';
+      const selected = (document.getElementById('qaProvider')?.value || stored || 'groq').trim().toLowerCase();
+      return QA_PROVIDER_CONFIG[selected] ? selected : 'groq';
     }
 
-    async function _loadChunks(url) {
-      if (INTEL.chunkCache[url]) return INTEL.chunkCache[url];
-      try {
-        const text = await _fetchTextWithFallback(url);
-        if (!text) return (INTEL.chunkCache[url] = []);
-        const rows = text.split('\n').filter(l => l.trim())
-          .map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
-        return (INTEL.chunkCache[url] = rows);
-      } catch { return (INTEL.chunkCache[url] = []); }
+    function _loadProviderKey(provider) {
+      const cfg = _providerConfig(provider);
+      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.keyStorage) : '') || '';
     }
 
-    function _stripFM(md) {
-      if (!md.startsWith('---')) return md;
-      const e = md.indexOf('---', 3);
-      return e > 0 ? md.slice(e + 3).trim() : md;
+    function _saveProviderKey(provider, value) {
+      const cleanVal = (value || '').trim();
+      if (provider === 'groq' && cleanVal.startsWith('sk-or-')) {
+        console.warn('[QA] OpenRouter key entered in Groq slot - auto-saving to OpenRouter storage');
+        if (typeof localStorage !== 'undefined') localStorage.setItem('qa_key_openrouter', cleanVal);
+      }
+      const cfg = _providerConfig(provider);
+      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.keyStorage, cleanVal);
+    }
+
+    function _loadProviderModel(provider) {
+      const cfg = _providerConfig(provider);
+      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.modelStorage) : '') || cfg.defaultModel;
+    }
+
+    function _saveProviderModel(provider, value) {
+      const cfg = _providerConfig(provider);
+      const cleanVal = (value || '').trim();
+      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.modelStorage, cleanVal);
     }
 
     async function _runProviderLLM(provider, apiKey, model, prompt, onToken, options) {
@@ -25552,7 +25543,9 @@ if (intelTabsContainer) {
               if (finishReason === 'error') {
                 throw new Error((providerLabel || 'Provider') + ' returned finish_reason=error mid-stream');
               }
-              full += (obj?.choices?.[0]?.delta?.content || '');
+              const delta = obj?.choices?.[0]?.delta;
+              const textPiece = delta?.content != null ? delta.content : (delta?.text != null ? delta.text : (delta?.reasoning_content != null ? delta.reasoning_content : ''));
+              full += textPiece;
               var displayFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '');
               onTok(displayFull);
             } catch (err) {
@@ -25561,7 +25554,7 @@ if (intelTabsContainer) {
           }
         }
         var cleanedFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
-        if (/^User Safety:\s*safe\s*$/i.test(cleanedFull) || /^Safety:\s*safe\s*$/i.test(cleanedFull) || (cleanedFull.length < 25 && /safe/i.test(cleanedFull))) {
+        if (/^User Safety:\s*safe\s*$/i.test(cleanedFull) || /^Safety:\s*safe\s*$/i.test(cleanedFull) || (cleanedFull.length < 25 && /safe/i.test(cleanedFull) && !cleanedFull.includes(' '))) {
           throw new Error((providerLabel || 'Provider') + ' emitted a safety guardrail stub ("' + cleanedFull + '") instead of the actual completion. Retrying...');
         }
         return { text: cleanedFull || '(no response)', webCitations: [] };
@@ -25584,20 +25577,26 @@ if (intelTabsContainer) {
 
       // ── Groq ──────────────────────────────────────────────────────────────
       if (effectiveProvider === 'groq') {
-        const groqCandidates = [cleanModel || 'llama-3.3-70b-versatile'];
-        if (!groqCandidates.includes('llama-3.3-70b-versatile')) groqCandidates.push('llama-3.3-70b-versatile');
-        if (!groqCandidates.includes('llama-3.1-8b-instant')) groqCandidates.push('llama-3.1-8b-instant');
-        if (!groqCandidates.includes('deepseek-r1-distill-llama-70b')) groqCandidates.push('deepseek-r1-distill-llama-70b');
-        if (!groqCandidates.includes('mixtral-8x7b-32768')) groqCandidates.push('mixtral-8x7b-32768');
+        const groqCandidates = [cleanModel || 'openai/gpt-oss-120b'];
+        if (!groqCandidates.includes('openai/gpt-oss-120b')) groqCandidates.push('openai/gpt-oss-120b');
+        if (!groqCandidates.includes('qwen/qwen3.6-27b')) groqCandidates.push('qwen/qwen3.6-27b');
+        if (!groqCandidates.includes('openai/gpt-oss-20b')) groqCandidates.push('openai/gpt-oss-20b');
+        if (!groqCandidates.includes('groq/compound')) groqCandidates.push('groq/compound');
 
         let lastGroqErr = null;
         for (const curModel of groqCandidates) {
           try {
-            // Use safe completion token limit (1500) so prompt + completion fits comfortably in 8K TPM quota
             const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${effectiveKey}` },
-              body: JSON.stringify({ model: curModel, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 1500, stream: doStream }),
+              body: JSON.stringify({
+                model: curModel,
+                messages: [{ role: 'user', content: prompt }],
+                temperature: 0.2,
+                max_tokens: 3500,
+                max_completion_tokens: 3500,
+                stream: doStream
+              }),
               signal: fetchSignal
             });
             if (!res.ok) {
@@ -25614,7 +25613,7 @@ if (intelTabsContainer) {
                 const nextCandidate = groqCandidates[groqCandidates.indexOf(curModel) + 1];
                 console.warn('[Groq] Model ' + curModel + ' error (' + msg + '). Auto-trying next candidate ' + nextCandidate);
                 if (isDecomm) {
-                  localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
+                  localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
                   _syncQAProviderUI();
                 }
                 lastGroqErr = new Error(msg);
@@ -25624,7 +25623,9 @@ if (intelTabsContainer) {
             }
             if (doStream && res.body) return _readSSE(res, onToken);
             const data = await res.json();
-            return { text: data?.choices?.[0]?.message?.content || '(no response)', webCitations: [] };
+            const msg = data?.choices?.[0]?.message;
+            const contentText = (msg?.content != null && msg?.content !== '') ? msg.content : (msg?.reasoning_content || msg?.text || '');
+            return { text: contentText || '(no response)', webCitations: [] };
           } catch (gErr) {
             lastGroqErr = gErr;
             if (gErr.name === 'AbortError') throw gErr;
@@ -25680,11 +25681,12 @@ if (intelTabsContainer) {
                 const resetIn = res.headers.get('x-ratelimit-reset');
                 msg += ` (Rate limited; reset in ${resetIn || '60s'})`;
               }
-              const isRecoverable = res.status === 503 || res.status === 429 || res.status === 400 || res.status === 404 ||
-                /unavailable|decommissioned|not.found|invalid|paid|slug|rate.limit/i.test(msg);
-              if (isRecoverable && curModel !== orCandidates[orCandidates.length - 1]) {
+              const isDecomm = /decommissioned|not.found|invalid.model|model_decommissioned|does.not.exist|no.longer.available/i.test(msg);
+              if (isDecomm && curModel !== orCandidates[orCandidates.length - 1]) {
                 const nextCandidate = orCandidates[orCandidates.indexOf(curModel) + 1];
-                console.warn(`[OpenRouter] Model ${curModel} returned HTTP ${res.status} (${msg}). Auto-trying next candidate: ${nextCandidate}`);
+                console.warn('[OpenRouter] Model ' + curModel + ' decommissioned. Auto-trying next candidate ' + nextCandidate);
+                localStorage.setItem('qa_model_openrouter', 'meta-llama/llama-3.3-70b-instruct:free');
+                _syncQAProviderUI();
                 lastOrErr = new Error(msg);
                 continue;
               }
