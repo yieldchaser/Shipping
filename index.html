@@ -26003,15 +26003,18 @@ if (intelTabsContainer) {
       if (lines.length < 2) return lines.join('\n');
       const parseRow = (row) => {
         let r = row.trim();
+        // Unescape escaped pipes
+        r = r.replace(/\\\|/g, '|');
         if (r.startsWith('|')) r = r.slice(1);
         if (r.endsWith('|')) r = r.slice(0, -1);
         return r.split('|').map(c => c.trim());
       };
-      const headerCols = parseRow(lines[0]);
+
+      let headerCols = parseRow(lines[0]);
       
       let startBodyIdx = 1;
       const alignments = [];
-      if (lines[1].includes('---') || lines[1].includes(':--')) {
+      if (lines[1] && (lines[1].includes('---') || lines[1].includes(':--'))) {
         startBodyIdx = 2;
         const sepCols = parseRow(lines[1]);
         sepCols.forEach(c => {
@@ -26021,6 +26024,33 @@ if (intelTabsContainer) {
         });
       }
 
+      // Collect body rows & determine max column count across table
+      const bodyRows = [];
+      let maxCols = headerCols.length;
+      for (let r = startBodyIdx; r < lines.length; r++) {
+        const cols = parseRow(lines[r]);
+        if (!cols.length || (cols.length === 1 && !cols[0])) continue;
+        if (cols.length > maxCols) maxCols = cols.length;
+        bodyRows.push(cols);
+      }
+
+      // Auto-rebalance: if body rows have more columns than headers, split mashed headers (e.g. "INDIA \ BANGLADESH")
+      if (bodyRows.length > 0 && maxCols > headerCols.length) {
+        const expanded = [];
+        headerCols.forEach(h => {
+          if (expanded.length + (headerCols.length - 1) < maxCols && /[\/\\]/.test(h) && !h.startsWith('http')) {
+            const parts = h.split(/[\/\\]/).map(p => p.trim()).filter(Boolean);
+            expanded.push(...parts);
+          } else {
+            expanded.push(h);
+          }
+        });
+        while (expanded.length < maxCols) {
+          expanded.push(`Column ${expanded.length + 1}`);
+        }
+        headerCols = expanded;
+      }
+
       let html = '<div class="qa-table-wrap"><table class="qa-table"><thead><tr>';
       headerCols.forEach((h, idx) => {
         const align = alignments[idx] ? ` style="text-align:${alignments[idx]};"` : '';
@@ -26028,16 +26058,15 @@ if (intelTabsContainer) {
       });
       html += '</tr></thead><tbody>';
 
-      for (let r = startBodyIdx; r < lines.length; r++) {
-        const cols = parseRow(lines[r]);
-        if (!cols.length || (cols.length === 1 && !cols[0])) continue;
+      bodyRows.forEach(cols => {
         html += '<tr>';
-        cols.forEach((c, idx) => {
+        for (let idx = 0; idx < headerCols.length; idx++) {
+          const c = cols[idx] != null ? cols[idx] : '';
           const align = alignments[idx] ? ` style="text-align:${alignments[idx]};"` : '';
           html += `<td${align}>${c}</td>`;
-        });
+        }
         html += '</tr>';
-      }
+      });
       html += '</tbody></table></div>';
       return html;
     }
@@ -26446,7 +26475,7 @@ if (intelTabsContainer) {
             '2. Inline Citations: Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
             '3. Live Context: If the user asks about real-time or breaking events, integrate live data and web grounding while grounding factual statistics in the context.\n' +
             '4. Accuracy: Do NOT invent or extrapolate data, dates, or statistics.\n' +
-            '5. Formatting & Length: Use clear markdown headings, bullet points, and data tables where applicable. Keep under ' + wordLimit + ' words.\n\n' +
+            '5. Formatting & Tables: Use clear markdown headings, bullet points, and clean markdown tables where applicable. In markdown tables, always ensure each column has its own distinct pipe delimiter | and distinct column header (e.g. | WEEK | INDIA ($/LDT) | BANGLADESH ($/LDT) | PAKISTAN ($/LDT) |). Keep under ' + wordLimit + ' words.\n\n' +
             'Question: ' + queryText + '\n\n' +
             'Context Passages:\n' + ctxText;
 
