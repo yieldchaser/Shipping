@@ -24951,19 +24951,20 @@ if (intelTabsContainer) {
 
     const QA_PROVIDER_CONFIG = {
       groq: {
-        label: 'Groq (Ultra Fast - GPT OSS 120B / Qwen 3.6)',
+        label: 'Groq (Ultra Fast - Llama 3.3 70B / DeepSeek R1)',
         keyStorage: 'qa_key_groq',
         modelStorage: 'qa_model_groq',
-        defaultModel: 'openai/gpt-oss-120b',
+        defaultModel: 'llama-3.3-70b-versatile',
         keyLabel: 'Groq Key',
         keyPlaceholder: 'gsk_... (free at console.groq.com)',
         hasBaseUrl: false,
-        maxContextTokens: 5000,
+        maxContextTokens: 6000,
         suggestions: [
-          'openai/gpt-oss-120b',
-          'openai/gpt-oss-20b',
-          'qwen/qwen3.6-27b',
-          'groq/compound'
+          'llama-3.3-70b-versatile',
+          'llama-3.1-8b-instant',
+          'deepseek-r1-distill-llama-70b',
+          'mixtral-8x7b-32768',
+          'gemma2-9b-it'
         ]
       },
       openrouter: {
@@ -25583,10 +25584,11 @@ if (intelTabsContainer) {
 
       // ── Groq ──────────────────────────────────────────────────────────────
       if (effectiveProvider === 'groq') {
-        const groqCandidates = [cleanModel || 'openai/gpt-oss-120b'];
-        if (!groqCandidates.includes('openai/gpt-oss-120b')) groqCandidates.push('openai/gpt-oss-120b');
-        if (!groqCandidates.includes('openai/gpt-oss-20b')) groqCandidates.push('openai/gpt-oss-20b');
-        if (!groqCandidates.includes('qwen/qwen3.6-27b')) groqCandidates.push('qwen/qwen3.6-27b');
+        const groqCandidates = [cleanModel || 'llama-3.3-70b-versatile'];
+        if (!groqCandidates.includes('llama-3.3-70b-versatile')) groqCandidates.push('llama-3.3-70b-versatile');
+        if (!groqCandidates.includes('llama-3.1-8b-instant')) groqCandidates.push('llama-3.1-8b-instant');
+        if (!groqCandidates.includes('deepseek-r1-distill-llama-70b')) groqCandidates.push('deepseek-r1-distill-llama-70b');
+        if (!groqCandidates.includes('mixtral-8x7b-32768')) groqCandidates.push('mixtral-8x7b-32768');
 
         let lastGroqErr = null;
         for (const curModel of groqCandidates) {
@@ -25612,7 +25614,7 @@ if (intelTabsContainer) {
                 const nextCandidate = groqCandidates[groqCandidates.indexOf(curModel) + 1];
                 console.warn('[Groq] Model ' + curModel + ' error (' + msg + '). Auto-trying next candidate ' + nextCandidate);
                 if (isDecomm) {
-                  localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
+                  localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
                   _syncQAProviderUI();
                 }
                 lastGroqErr = new Error(msg);
@@ -25741,22 +25743,22 @@ if (intelTabsContainer) {
     }
     // Migrate stale localStorage values from previous provider configurations.
     function _migrateQALocalStorage() {
-      const groqStored = localStorage.getItem('qa_model_groq') || '';
-      const decommissioned = [
-        'llama-3.3-70b-versatile',
-        'llama-3.1-8b-instant',
-        'deepseek-r1-distill-llama-70b',
+      const groqStored = (localStorage.getItem('qa_model_groq') || '').trim();
+      const invalidGroqSlugs = [
+        'openai/gpt-oss-120b',
+        'openai/gpt-oss-20b',
+        'qwen/qwen3.6-27b',
+        'groq/compound',
         'llama3-70b-8192',
         'llama3-8b-8192',
         'llama-3.1-70b-versatile',
         'llama-3.2-11b-text-preview',
         'llama-3.2-90b-text-preview',
-        'qwen-2.5-32b',
-        'mixtral-8x7b-32768'
+        'qwen-2.5-32b'
       ];
-      if (!groqStored || decommissioned.includes(groqStored) || decommissioned.some(d => groqStored.includes(d))) {
-        console.log('[QA] Migrating decommissioned Groq model (' + groqStored + ') → openai/gpt-oss-120b');
-        localStorage.setItem('qa_model_groq', 'openai/gpt-oss-120b');
+      if (!groqStored || invalidGroqSlugs.includes(groqStored) || invalidGroqSlugs.some(d => groqStored.includes(d))) {
+        console.log('[QA] Migrating invalid Groq model (' + groqStored + ') → llama-3.3-70b-versatile');
+        localStorage.setItem('qa_model_groq', 'llama-3.3-70b-versatile');
       }
     }
 
