@@ -25471,6 +25471,58 @@ if (intelTabsContainer) {
       return lines.join('\n');
     }
 
+    // ── LLM reranker: small fast call to re-order BM25 candidates ─────────
+    async function _llmRerank(provider, apiKey, model, chunks, query) {
+      if (chunks.length <= 3) return chunks;
+      const snippets = chunks.map((c, i) =>
+        `[${i+1}] ${(c.section_title || c.category || '').slice(0,40)} (${c.source} ${c.date||''}): ${c.text.slice(0,110).replace(/\n/g,' ')}…`
+      ).join('\n');
+      const prompt = 'Output ONLY a JSON array ranking passage numbers most→least relevant. No text.\nExample: [3,1,7,2]\n\nQuestion: ' + query + '\n\nPassages:\n' + snippets;
+      try {
+        const endpoint = provider === 'groq'
+          ? 'https://api.groq.com/openai/v1/chat/completions'
+          : 'https://openrouter.ai/api/v1/chat/completions';
+        const hdrs = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` };
+        if (provider === 'openrouter') hdrs['HTTP-Referer'] = 'https://yieldchaser.github.io/Shipping';
+        const res = await fetch(endpoint, {
+          method: 'POST', headers: hdrs,
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0, max_tokens: 150, stream: false }),
+        });
+        if (!res.ok) return chunks;
+        const raw  = (await res.json())?.choices?.[0]?.message?.content || '';
+        const arr  = JSON.parse(raw.match(/\[[\d,\s]+\]/)?.[0] || '[]');
+        if (!arr.length || arr.some(i => typeof i !== 'number')) return chunks;
+        const ranked = arr.filter(i => i >= 1 && i <= chunks.length).map(i => chunks[i-1]);
+        const inSet  = new Set(ranked.map(c => c.chunk_id));
+        return [...ranked, ...chunks.filter(c => !inSet.has(c.chunk_id))];
+      } catch { return chunks; }
+    }
+
+    async function _fetchText(url) {
+      if (INTEL.wikiCache[url] !== undefined) return INTEL.wikiCache[url];
+      try {
+        const t = await _fetchTextWithFallback(url);
+        return (INTEL.wikiCache[url] = t);
+      } catch { return (INTEL.wikiCache[url] = ''); }
+    }
+
+    async function _loadChunks(url) {
+      if (INTEL.chunkCache[url]) return INTEL.chunkCache[url];
+      try {
+        const text = await _fetchTextWithFallback(url);
+        if (!text) return (INTEL.chunkCache[url] = []);
+        const rows = text.split('\n').filter(l => l.trim())
+          .map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
+        return (INTEL.chunkCache[url] = rows);
+      } catch { return (INTEL.chunkCache[url] = []); }
+    }
+
+    function _stripFM(md) {
+      if (!md.startsWith('---')) return md;
+      const e = md.indexOf('---', 3);
+      return e > 0 ? md.slice(e + 3).trim() : md;
+    }
+
     function _providerConfig(provider) {
       const baseCfg = QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
       const cfg = { ...baseCfg };
