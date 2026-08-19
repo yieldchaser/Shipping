@@ -10250,11 +10250,11 @@
                 <div id="basisHudSpreadSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Futures Mark vs Spot Composite</div>
               </div>
 
-              <!-- HUD Card 2: Annualized Implied Roll Yield Drag -->
+              <!-- HUD Card 2: Implied Roll Carry / Yield -->
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;" data-tooltip=" " data-tt-type="roll-yield-drag">
-                <div style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Annualized Implied Roll Drag %</div>
-                <div id="basisHudRollDragVal" style="font-size:18px;font-weight:800;color:#f85149;margin-top:2px;">Loading…</div>
-                <div id="basisHudRollDragSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Based on Days to Prompt Expiry</div>
+                <div style="font-size:10px;color:var(--text-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Implied Prompt Roll Carry %</div>
+                <div id="basisHudRollDragVal" style="font-size:18px;font-weight:800;color:#3fb950;margin-top:2px;">Loading…</div>
+                <div id="basisHudRollDragSub" style="font-size:10px;color:var(--text-muted);margin-top:2px;">Monthly Roll Carry &amp; Annualized Rate</div>
               </div>
 
               <!-- HUD Card 3: Roll Structure Regime -->
@@ -18187,15 +18187,15 @@ if (intelTabsContainer) {
         const slope = prompt[primaryCol] - m12[primaryCol];
         const pct = (slope / prompt[primaryCol]) * 100;
         if (slope > 5000) {
-          slopeBadge.textContent = 'Backwardation: -$' + Math.round(slope).toLocaleString('en-US') + '/d (-' + Math.abs(pct).toFixed(0) + '% M1-M12)';
-          slopeBadge.style.background = 'rgba(248,81,73,0.2)';
-          slopeBadge.style.color = '#f85149';
-          slopeBadge.style.border = '1px solid rgba(248,81,73,0.4)';
-        } else if (slope < -2000) {
-          slopeBadge.textContent = 'Contango: +$' + Math.round(Math.abs(slope)).toLocaleString('en-US') + '/d (+' + Math.abs(pct).toFixed(0) + '% M1-M12)';
+          slopeBadge.textContent = 'Backwardation: +$' + Math.round(slope).toLocaleString('en-US') + '/d (+' + Math.abs(pct).toFixed(0) + '% M1-M12 Prompt Carry)';
           slopeBadge.style.background = 'rgba(63,185,80,0.2)';
           slopeBadge.style.color = '#3fb950';
           slopeBadge.style.border = '1px solid rgba(63,185,80,0.4)';
+        } else if (slope < -2000) {
+          slopeBadge.textContent = 'Contango: -$' + Math.round(Math.abs(slope)).toLocaleString('en-US') + '/d (-' + Math.abs(pct).toFixed(0) + '% M1-M12 Roll Drag)';
+          slopeBadge.style.background = 'rgba(248,81,73,0.2)';
+          slopeBadge.style.color = '#f85149';
+          slopeBadge.style.border = '1px solid rgba(248,81,73,0.4)';
         } else {
           slopeBadge.textContent = 'Flat Term Structure: $' + Math.round(prompt[primaryCol]).toLocaleString('en-US') + '/d';
           slopeBadge.style.background = 'var(--border)';
@@ -22849,25 +22849,63 @@ if (intelTabsContainer) {
           }
         });
       } else if (fund === 'bwet') {
+        // Pre-compute rolling ratio or baseline normalization for BWETFF vs Tanker Spot
+        var bwetNormRatio = null;
+        for (var i = DATA.master.length - 1; i >= 0; i--) {
+          var mr = DATA.master[i];
+          if (mr.bwetff > 0 && mr.dirtytanker > 0) {
+            bwetNormRatio = mr.bwetff / mr.dirtytanker;
+            break;
+          }
+        }
+        bwetNormRatio = bwetNormRatio || 2.42;
+
         DATA.master.forEach(function(r) {
-          var spot = r.dirtytanker != null ? r.dirtytanker : (r.cleantanker != null ? r.cleantanker : null);
-          if (spot != null && spot > 0 && r.bwetff != null && r.bwetff > 0) {
-            var spread = r.bwetff - spot;
-            var pct = (spread / spot) * 100;
-            basisSeries.push({ date: r.date, value: pct, spot: spot, ff: r.bwetff, spread: spread, fund: 'bwet' });
+          var rawSpot = r.dirtytanker != null ? r.dirtytanker : (r.cleantanker != null ? r.cleantanker : null);
+          if (rawSpot != null && rawSpot > 0 && r.bwetff != null && r.bwetff > 0) {
+            // Check if contemporaneous forward curve carry exists
+            var fwdCarry = null;
+            if (typeof DATA !== 'undefined' && DATA.tankerForwardCurves && DATA.tankerForwardCurves.length >= 2) {
+              var p0 = DATA.tankerForwardCurves[0];
+              var p1 = DATA.tankerForwardCurves[1];
+              if (p0 && p1) {
+                var v0 = (p0.vlcc_td3c || 450210) * 0.9 + (p0.suezmax_td20 || 92625) * 0.1;
+                var v1 = (p1.vlcc_td3c || 387764) * 0.9 + (p1.suezmax_td20 || 99008) * 0.1;
+                if (v0 > 0) fwdCarry = ((v1 - v0) / v0) * 100;
+              }
+            }
+            var normalizedSpot = rawSpot * bwetNormRatio;
+            var spread = fwdCarry != null ? (fwdCarry / 100) * r.bwetff : (r.bwetff - normalizedSpot);
+            var pct = fwdCarry != null ? fwdCarry : ((spread / normalizedSpot) * 100);
+            basisSeries.push({ date: r.date, value: pct, spot: rawSpot, ff: r.bwetff, spread: spread, fund: 'bwet' });
           }
         });
       } else { // dual
+        var bwetNorm = 2.42;
         DATA.master.forEach(function(r) {
           var bdrySpot = r.bdry_spot != null ? r.bdry_spot : (r.cape != null && r.panama != null && r.suprama != null ? (0.5 * r.cape + 0.4 * r.panama + 0.1 * r.suprama) : null);
           var bdryValid = (bdrySpot != null && bdrySpot > 0 && r.bdryff != null && r.bdryff > 0);
           var bdryVal = bdryValid ? (((r.bdryff - bdrySpot) / bdrySpot) * 100) : null;
           var bdrySpread = bdryValid ? (r.bdryff - bdrySpot) : null;
 
-          var bwetSpot = r.dirtytanker != null ? r.dirtytanker : (r.cleantanker != null ? r.cleantanker : null);
-          var bwetValid = (bwetSpot != null && bwetSpot > 0 && r.bwetff != null && r.bwetff > 0);
-          var bwetVal = bwetValid ? (((r.bwetff - bwetSpot) / bwetSpot) * 100) : null;
-          var bwetSpread = bwetValid ? (r.bwetff - bwetSpot) : null;
+          var rawTankerSpot = r.dirtytanker != null ? r.dirtytanker : (r.cleantanker != null ? r.cleantanker : null);
+          var bwetValid = (rawTankerSpot != null && rawTankerSpot > 0 && r.bwetff != null && r.bwetff > 0);
+          var bwetVal = null;
+          var bwetSpread = null;
+          if (bwetValid) {
+            var fwdCarry = null;
+            if (typeof DATA !== 'undefined' && DATA.tankerForwardCurves && DATA.tankerForwardCurves.length >= 2) {
+              var p0 = DATA.tankerForwardCurves[0];
+              var p1 = DATA.tankerForwardCurves[1];
+              if (p0 && p1) {
+                var v0 = (p0.vlcc_td3c || 450210) * 0.9 + (p0.suezmax_td20 || 92625) * 0.1;
+                var v1 = (p1.vlcc_td3c || 387764) * 0.9 + (p1.suezmax_td20 || 99008) * 0.1;
+                if (v0 > 0) fwdCarry = ((v1 - v0) / v0) * 100;
+              }
+            }
+            bwetVal = fwdCarry != null ? fwdCarry : (((r.bwetff - (rawTankerSpot * bwetNorm)) / (rawTankerSpot * bwetNorm)) * 100);
+            bwetSpread = fwdCarry != null ? (fwdCarry / 100) * r.bwetff : (r.bwetff - (rawTankerSpot * bwetNorm));
+          }
 
           if (bdryValid || bwetValid) {
             basisSeries.push({
@@ -22877,7 +22915,7 @@ if (intelTabsContainer) {
               bdrySpot: bdrySpot,
               bdryFf: r.bdryff,
               bdrySpread: bdrySpread,
-              bwetSpot: bwetSpot,
+              bwetSpot: rawTankerSpot,
               bwetFf: r.bwetff,
               bwetSpread: bwetSpread,
               fund: 'dual'
@@ -22916,37 +22954,42 @@ if (intelTabsContainer) {
       if (fund === 'bdry' || fund === 'bwet') {
         var sp = latest.spread || 0;
         var bp = latest.value || 0;
-        var rollDragAnnPct = (bp * (365 / daysToRoll));
+        var isBackwardation = bp < -0.5;
+        var isContango = bp > 0.5;
+        // In backwardation (Futures < Spot, bp < 0), roll yield is positive
+        var monthlyCarryPct = -bp;
+        var annualizedCarryPct = monthlyCarryPct * 12;
 
         if (hudSpreadVal) {
           hudSpreadVal.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' (' + (bp >= 0 ? '+' : '') + bp.toFixed(2) + '%)';
-          hudSpreadVal.style.color = bp > 0 ? '#f85149' : (bp < 0 ? '#3fb950' : 'var(--accent)');
+          hudSpreadVal.style.color = isContango ? '#f85149' : (isBackwardation ? '#3fb950' : 'var(--accent)');
         }
         if (hudSpreadSub) {
           hudSpreadSub.textContent = (fund === 'bdry' ? 'BDRYFF: ' : 'BWETFF: ') + fmt(latest.ff, 2) + ' | Spot: ' + fmt(latest.spot, 2);
         }
 
         if (hudRollDragVal) {
-          if (bp > 0) {
-            hudRollDragVal.textContent = '-' + Math.abs(rollDragAnnPct).toFixed(1) + '% Roll Drag';
-            hudRollDragVal.style.color = '#f85149';
-          } else if (bp < 0) {
-            hudRollDragVal.textContent = '+' + Math.abs(rollDragAnnPct).toFixed(1) + '% Roll Yield';
+          if (isBackwardation) {
+            hudRollDragVal.textContent = '+' + Math.abs(monthlyCarryPct).toFixed(1) + '% / mo Roll Yield';
             hudRollDragVal.style.color = '#3fb950';
+          } else if (isContango) {
+            hudRollDragVal.textContent = '-' + Math.abs(monthlyCarryPct).toFixed(1) + '% / mo Roll Drag';
+            hudRollDragVal.style.color = '#f85149';
           } else {
-            hudRollDragVal.textContent = '0.0% Flat Parity';
+            hudRollDragVal.textContent = '0.0% / mo Flat Parity';
             hudRollDragVal.style.color = 'var(--text-muted)';
           }
         }
         if (hudRollDragSub) {
-          hudRollDragSub.textContent = 'Implied carry based on ' + daysToRoll + 'd to Prompt Roll';
+          var annStr = (annualizedCarryPct >= 0 ? '+' : '-') + Math.abs(annualizedCarryPct).toFixed(1) + '%';
+          hudRollDragSub.textContent = 'Annualized carry: ' + annStr + ' (12x Monthly Roll Cycle)';
         }
 
         if (hudRegimeVal) {
-          if (bp > 0.5) {
+          if (isContango) {
             hudRegimeVal.textContent = 'Contango (Negative Roll Drag)';
             hudRegimeVal.style.color = '#f85149';
-          } else if (bp < -0.5) {
+          } else if (isBackwardation) {
             hudRegimeVal.textContent = 'Backwardation (Positive Roll Yield)';
             hudRegimeVal.style.color = '#3fb950';
           } else {
@@ -22955,13 +22998,15 @@ if (intelTabsContainer) {
           }
         }
         if (hudRegimeSub) {
-          if (bp > 0.5) hudRegimeSub.textContent = 'Futures > Spot (Upward Forward Curve)';
-          else if (bp < -0.5) hudRegimeSub.textContent = 'Spot > Futures (Prompt Supply Scarcity)';
+          if (isContango) hudRegimeSub.textContent = 'Futures > Spot (Upward Forward Curve)';
+          else if (isBackwardation) hudRegimeSub.textContent = 'Spot > Futures (Prompt Supply Scarcity)';
           else hudRegimeSub.textContent = 'Arbitrage Parity (Futures ~= Spot)';
         }
       } else { // dual mode HUD
         var bdryP = latest.bdryVal != null ? latest.bdryVal : 0;
         var bwetP = latest.bwetVal != null ? latest.bwetVal : 0;
+        var bdryMonthly = -bdryP;
+        var bwetMonthly = -bwetP;
         if (hudSpreadVal) {
           hudSpreadVal.innerHTML = '<span style="color:#58a6ff;">Dry ' + (bdryP >= 0 ? '+' : '') + bdryP.toFixed(1) + '%</span> &bull; <span style="color:#ff6b6b;">Tanker ' + (bwetP >= 0 ? '+' : '') + bwetP.toFixed(1) + '%</span>';
         }
@@ -22969,12 +23014,10 @@ if (intelTabsContainer) {
           hudSpreadSub.textContent = 'BDRY Spread: ' + (latest.bdrySpread != null ? (latest.bdrySpread >= 0 ? '+$' : '-$') + Math.abs(latest.bdrySpread).toFixed(1) : 'N/A') + ' | BWET Spread: ' + (latest.bwetSpread != null ? (latest.bwetSpread >= 0 ? '+$' : '-$') + Math.abs(latest.bwetSpread).toFixed(1) : 'N/A');
         }
         if (hudRollDragVal) {
-          var bdryDrag = bdryP * (365 / daysToRoll);
-          var bwetDrag = bwetP * (365 / daysToRoll);
-          hudRollDragVal.innerHTML = '<span style="color:' + (bdryDrag > 0 ? '#f85149' : '#3fb950') + ';">Dry ' + (bdryDrag >= 0 ? '-' : '+') + Math.abs(bdryDrag).toFixed(0) + '%</span> &bull; <span style="color:' + (bwetDrag > 0 ? '#f85149' : '#3fb950') + ';">Tanker ' + (bwetDrag >= 0 ? '-' : '+') + Math.abs(bwetDrag).toFixed(0) + '%</span>';
+          hudRollDragVal.innerHTML = '<span style="color:' + (bdryMonthly >= 0 ? '#3fb950' : '#f85149') + ';">Dry ' + (bdryMonthly >= 0 ? '+' : '') + bdryMonthly.toFixed(1) + '%/mo</span> &bull; <span style="color:' + (bwetMonthly >= 0 ? '#3fb950' : '#f85149') + ';">Tanker ' + (bwetMonthly >= 0 ? '+' : '') + bwetMonthly.toFixed(1) + '%/mo</span>';
         }
         if (hudRollDragSub) {
-          hudRollDragSub.textContent = 'Annualized Carry based on ' + daysToRoll + 'd to Prompt Roll';
+          hudRollDragSub.textContent = 'Annualized: Dry ' + (bdryMonthly * 12 >= 0 ? '+' : '') + (bdryMonthly * 12).toFixed(0) + '% | Tanker ' + (bwetMonthly * 12 >= 0 ? '+' : '') + (bwetMonthly * 12).toFixed(0) + '%';
         }
         if (hudRegimeVal) {
           hudRegimeVal.textContent = 'Dual Cross-Commodity Basis Overlay';
@@ -28960,11 +29003,12 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">Switching between dry and wet basis allows cross-sector roll yield comparison, identifying which ETF offers more efficient futures carry economics at any point in time.</div>`;
         }
         else if (type === 'roll-yield-drag') {
-          html = `<div class="rt-title">Annualized Roll Yield / Contango Drag</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">((Futures − Spot) ÷ Spot) × (365 ÷ Days to Roll) × 100%</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Backwardation</span><span class="rt-val">Futures &lt; Spot → Positive Roll Yield (ETF outperforms)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Contango</span><span class="rt-val">Futures &gt; Spot → Negative Roll Drag (ETF underperforms)</span></div>`;
-          html += `<div class="rt-note">In backwardation, rolling expiring contracts at a lower price than spot generates a positive roll yield. In contango, the roll creates a structural drag on ETF total returns vs the spot index.</div>`;
+          html = `<div class="rt-title">Implied Prompt Roll Carry &amp; Annualized Rate</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Monthly Carry</span><span class="rt-val">((Spot − Prompt Futures) ÷ Spot) × 100% per roll</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Annualized Carry</span><span class="rt-val">Monthly Carry % × 12 (standard roll cadence)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Backwardation</span><span class="rt-val pos">Futures &lt; Spot → Positive Roll Yield (Tailwind)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Contango</span><span class="rt-val neg">Futures &gt; Spot → Negative Roll Drag (Headwind)</span></div>`;
+          html += `<div class="rt-note">In backwardation, buying subsequent deferred contracts at a discount to expiring prompt positions delivers structural roll carry. In contango, rolling forward at a premium generates persistent decay drag on ETF NAV.</div>`;
         }
 
         // ── PILLAR 3: Attribution, Lead-Lag & Seasonality ───────────────────────
