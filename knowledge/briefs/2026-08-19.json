@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:07:34.120138+00:00",
+  "generated_at": "2026-08-19T10:13:15.135749+00:00",
   "brief_date": "2026-08-19",
   "constituent_holdings": {
     "bdry": {
@@ -52,23 +52,28 @@
     }
   },
   "generation": {
-    "mode": "llm",
-    "provider_used": "openrouter",
-    "model": "meta-llama/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
+      "groq",
       "nim",
+      "gemini",
       "openrouter",
       "ollama"
     ],
     "attempted_providers": [
+      "groq",
       "nim",
-      "openrouter"
+      "gemini",
+      "openrouter",
+      "ollama"
     ]
   },
   "executive_tldr": [
     "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Dry Bulk displays stronger statistical momentum than Tankers (Z-differential +0.81σ), favoring dry bulk spread positioning.",
     "Tactical Desk Strategy: Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum.",
-    "Catalyst & Risk Boundary: China’s August customs commodity trade data, the US EIA weekly petroleum status report, and the start of the September grain loading season. Invalidation Trigger: A Chinese iron‑ore import volume below 95 million tonnes in the upcoming customs release would signal demand destruction and invalidate the current rate‑supporting thesis."
+    "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
   "market_snapshot": {
     "bdi": {
@@ -139,23 +144,21 @@
     "dry_bulk": {
       "confluence_type": "NEUTRAL",
       "momentum_grade": "UP",
-      "positioning_bias": "SHORT_SPREAD_VS_TANKER",
-      "confidence_score": 0.85,
+      "positioning_bias": "NEUTRAL",
+      "confidence_score": 0.45,
       "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "The BDI remains in the top‑quartile of its 5‑year range, currently at 3083 points, a level historically associated with robust freight demand and elevated charter rates. Momentum is UP, driven by a +1.85σ Z‑score but a -2.2% ROC60, indicating a rapid six‑month recovery that is now losing steam. Analysts maintain a NEUTRAL stance, with dry‑bulk sentiment evenly split and fundamentals flat, while the quant metrics show strong Z‑score but weakening momentum, creating a divergence between price level and rate‑of‑change that favors cautious positioning across Capesize, Panamax and Handysize. Geopolitical tensions around Iran and China’s oil import slowdown add upside risk to tonnage demand, supporting higher charter rates despite the recent ROC slowdown.",
+      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
-        "Capesize rates at 5105 points (+1.85σ) sit in the 99th percentile, indicating that owners are commanding a premium that historically precedes sustained FFA curve steepening.",
-        "The BDI’s +1.85σ Z‑score and 92nd percentile ranking confirm the market is in a top‑quartile distribution, yet the -2.2% ROC60 signals a near‑term deceleration of the six‑month rally.",
-        "A widening Capesize–Panamax spread of +2799 points highlights a shift toward iron‑ore and coal‑driven voyages, crowding out grain‑focused Handysize and Supramax activity.",
-        "Handysize’s +0.82σ Z‑score and +2.6% ROC60 mark the only expansion among vessel classes, suggesting relative resilience in smaller‑scale trades despite broader market softness.",
-        "The neutral analyst consensus (0 pos/0 neg/6 neu) aligns with the mixed quant signal of strong Z‑score but negative ROC, indicating divergent views on whether the current level reflects sustained strength or a near‑term pullback.",
-        "Geopolitical risk from Iran‑China oil dynamics adds a tail risk to freight volumes, potentially compressing tonnage if supply disruptions ease."
+        "Quant: BDI value=3083.0, z=+1.85sigma, 5Y percentile=92.1%.",
+        "Qual: last 6 reports sentiment mix -> neutral:6.",
+        "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
+        "Latest report 2026-08-18: momentum=neutral, fundamentals=neutral."
       ],
-      "trade_idea": "No high-conviction setup: a sustained ROC60 above +5% and Capesize FFA above $40,000/day would be needed to justify a LONG position.",
-      "outlook": "We expect dry‑bulk rates to hold near current levels over the next 2‑4 weeks unless geopolitical tensions around Iran intensify or Chinese iron‑ore imports surge, which would push the BDI above 3200 points.",
-      "catalyst_watch": "China’s August customs commodity trade data, the US EIA weekly petroleum status report, and the start of the September grain loading season.",
-      "watch": "China’s August customs commodity trade data, the US EIA weekly petroleum status report, and the start of the September grain loading season.",
-      "risk_note": "A Chinese iron‑ore import volume below 95 million tonnes in the upcoming customs release would signal demand destruction and invalidate the current rate‑supporting thesis.",
+      "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "catalyst_watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
       "report_dates": [
         "2026-08-18",
         "2026-08-04",
@@ -168,23 +171,21 @@
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "momentum_grade": "UP",
-      "positioning_bias": "LONG_SPREAD_VS_DRY",
-      "confidence_score": 0.85,
+      "positioning_bias": "LONG",
+      "confidence_score": 0.8,
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 6 Breakwave reports: Sentiment 0 pos/1 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 4 pos/0 neg/2 neu.",
-      "summary": "The tanker market is in a distribution phase, with Clean_Tanker at 1387 points (+0.58σ) in the 94th percentile and Dirty_Tanker at 2644 points (+1.04σ) in the 97th percentile, indicating a bullish bias relative to historical levels. Momentum is UP, driven by a +1.04σ Z‑score for Dirty_Tanker and a +11.3% ROC60, while the Clean_Tanker’s +0.58σ Z‑score and modest +2.4% ROC60 show a more tempered expansion. Analysts maintain a BULL_CONFLUENCE stance, with fundamentals overwhelmingly positive (4 pos/0 neg/2 neu) and momentum mixed, aligning with the quant signal of rising dirty tanker rates but diverging on the cleaner segment’s slower growth. Geopolitical risk premiums from Hormuz tensions and OPEC+ supply cuts are boosting VLCC and Suezmax earnings, supporting a LONG bias on dirty tanker FFA exposure over the next 2‑4 weeks.",
+      "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:5, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 6 Breakwave reports: Sentiment 0 pos/1 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 4 pos/0 neg/2 neu.",
       "key_signals": [
-        "Dirty_Tanker’s +1.04σ Z‑score and 97th percentile ranking confirm that VLCC and Suezmax freight rates are at historically high levels, making the segment the strongest beneficiary of current geopolitical supply constraints.",
-        "The Clean_Tanker’s +0.58σ Z‑score and 94th percentile placement reveal a relative weakness in product tankers, creating a spread advantage for dirty tankers that could persist if oil demand remains robust.",
-        "Momentum is UP, with Dirty_Tanker’s +11.3% ROC60 indicating a rapid acceleration in freight rates that historically precedes a steepening forward curve for charterers.",
-        "Analyst sentiment is mixed (0 pos/1 neg/5 neu) but fundamentals are overwhelmingly positive (4 pos/0 neg/2 neu), confirming the bullish case despite neutral overall tone.",
-        "The widening Clean–Dirty tanker spread of -1257 points underscores a structural shift toward crude oil transport over refined products, reinforcing the upside bias for dirty tanker assets.",
-        "Geopolitical risk from Iran‑China oil flow disruptions adds a tail risk to the upside, as any de‑escalation could compress VLCC rates and reverse the current rally."
+        "Quant: CLEAN_TANKER value=1387.0, z=+0.81sigma, 5Y percentile=94.2%.",
+        "Qual: last 6 reports sentiment mix -> neutral:5, negative:1.",
+        "Cross-check: DIRTY_TANKER value=2644.0, z=+1.04sigma.",
+        "Latest report 2026-08-11: momentum=neutral, fundamentals=positive."
       ],
-      "trade_idea": "Take a LONG position in the Dirty_Tanker 5TC FFA at $48,000/day, targeting exit if the Clean–Dirty spread narrows below 500 points or geopolitical risk premiums drop below 10%.",
-      "outlook": "Dirty tanker rates are likely to stay elevated over the next 2‑4 weeks unless a rapid de‑escalation of Iran‑China tensions or a surprise increase in US crude inventories, which would compress VLCC premiums.",
-      "catalyst_watch": "The September OPEC+ ministerial meeting, the US EIA weekly crude stock report, and China’s August customs commodity trade data release.",
-      "watch": "The September OPEC+ ministerial meeting, the US EIA weekly crude stock report, and China’s August customs commodity trade data release.",
-      "risk_note": "If the September OPEC+ meeting produces no supply cuts and US EIA data shows a surprise increase in crude inventories, it would signal weakening oil demand and could collapse VLCC rates, invalidating the bullish tanker thesis.",
+      "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "catalyst_watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
         "2026-08-11",
         "2026-07-28",

@@ -99,6 +99,13 @@ GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
 GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
+GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
+GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
+GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
+GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "1.5"))
+GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "15.0"))
+
 OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
 OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "meta-llama/llama-3.3-70b-instruct").strip()
 OPENROUTER_BASE_URL = (os.environ.get("OPENROUTER_BASE_URL") or "https://openrouter.ai/api/v1").strip().rstrip("/")
@@ -123,6 +130,7 @@ if not LLM_PROVIDER_ORDER:
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
 _last_groq_call_ts = 0.0
+_last_gemini_call_ts = 0.0
 _last_openrouter_call_ts = 0.0
 
 _QUAL_SCORES = {
