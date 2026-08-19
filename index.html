@@ -25530,7 +25530,7 @@ if (intelTabsContainer) {
       if (provider === 'openrouter') {
         cfg.maxContextTokens = 32000;
       } else if (provider === 'groq') {
-        cfg.maxContextTokens = 6000;
+        cfg.maxContextTokens = 4000;
       }
       return cfg;
     }
@@ -25599,6 +25599,8 @@ if (intelTabsContainer) {
               const textPiece = delta?.content != null ? delta.content : (delta?.text != null ? delta.text : (delta?.reasoning_content != null ? delta.reasoning_content : ''));
               full += textPiece;
               var displayFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '');
+              displayFull = displayFull.replace(/<think>[\s\S]*?<\/think>/gi, '').replace(/<think>[\s\S]*$/gi, '');
+              displayFull = displayFull.replace(/<thought>[\s\S]*?<\/thought>/gi, '').replace(/<thought>[\s\S]*$/gi, '');
               onTok(displayFull);
             } catch (err) {
               if (err.message && (err.message.includes('stream error') || err.message.includes('finish_reason'))) throw err;
@@ -25606,6 +25608,7 @@ if (intelTabsContainer) {
           }
         }
         var cleanedFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+        cleanedFull = cleanedFull.replace(/<think>[\s\S]*?<\/think>/gi, '').replace(/<thought>[\s\S]*?<\/thought>/gi, '').trim();
         if (/^User Safety:\s*safe\s*$/i.test(cleanedFull) || /^Safety:\s*safe\s*$/i.test(cleanedFull) || (cleanedFull.length < 25 && /safe/i.test(cleanedFull) && !cleanedFull.includes(' '))) {
           throw new Error((providerLabel || 'Provider') + ' emitted a safety guardrail stub ("' + cleanedFull + '") instead of the actual completion. Retrying...');
         }
@@ -26176,6 +26179,12 @@ if (intelTabsContainer) {
       if (!text) return '';
       let esc = String(text);
 
+      // 0. Strip <think>...</think>, <thought>...</thought>, and meta scratchpad preambles
+      esc = esc.replace(/<think>[\s\S]*?<\/think>/gi, '');
+      esc = esc.replace(/<thought>[\s\S]*?<\/thought>/gi, '');
+      esc = esc.replace(/^The user asks:\s*["'].*?["']\s*(?:We need to[\s\S]*?)(?=(?:###|##|#|\*\*|Based on|According to|Executive Summary|Summary|1\.|In summary|The latest|As of))/i, '');
+      esc = esc.trim();
+
       // 1. Normalize unicode dashes/hyphens (‑, –, —, etc.) to standard hyphen
       esc = esc.replace(/[\u2010\u2011\u2012\u2013\u2014\u2015]/g, '-');
 
@@ -26351,9 +26360,10 @@ if (intelTabsContainer) {
         function _buildPromptForBudget(providerKey, scoredWikiArr, topChunksArr, queryText, isDeep, hasWeb) {
           const pCfg = _providerConfig(providerKey);
           let maxCtx = pCfg.maxContextTokens || 8000;
+          if (providerKey === 'groq') maxCtx = Math.min(maxCtx, 4000);
           if (isDeep && maxCtx > 10000) maxCtx = Math.max(maxCtx, 32000);
           const isLargeCtx = maxCtx >= 20000;
-          const budget = maxCtx - (hasWeb ? 1500 : 800); // reserve for system prompt + response
+          const budget = maxCtx - (hasWeb ? 1500 : (providerKey === 'groq' ? 500 : 800)); // reserve for system prompt + response
 
           const docs = [];
           let used = 0;
@@ -26403,13 +26413,13 @@ if (intelTabsContainer) {
           const today = new Date().toISOString().split('T')[0];
           const wordLimit = isLargeCtx ? 750 : 350;
           const promptText = 'You are a senior institutional shipping freight market analyst. Today\'s date is ' + today + '.\n' +
-            'Answer the question directly and professionally using the provided context passages and live freight intelligence.\n\n' +
-            'STRICT RULES:\n' +
-            '1. Direct Answer: Provide a structured, executive-ready synthesis directly answering the question. Do NOT output internal monologues, scratchpad reasoning, search commentary, or "Let me..." thinking text.\n' +
+            'Synthesize an executive-ready market brief directly answering the question using the provided context passages and live freight intelligence.\n\n' +
+            'STRICT COMPLIANCE DIRECTIVES:\n' +
+            '1. IMMEDIATE DIRECT RESPONSE: Start your answer IMMEDIATELY with the executive synthesis. NEVER repeat or echo the prompt, NEVER write "The user asks...", NEVER output meta-scratchpads like "We need to extract...", and NEVER output <think> or <thought> tags.\n' +
             '2. Inline Citations: Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
             '3. Live Context: If the user asks about real-time or breaking events, integrate live data and web grounding while grounding factual statistics in the context.\n' +
             '4. Accuracy: Do NOT invent or extrapolate data, dates, or statistics.\n' +
-            '5. Formatting & Length: Use markdown headings, bullet points, and data tables where applicable. Under ' + wordLimit + ' words.\n\n' +
+            '5. Formatting & Length: Use clear markdown headings, bullet points, and data tables where applicable. Keep under ' + wordLimit + ' words.\n\n' +
             'Question: ' + queryText + '\n\n' +
             'Context Passages:\n' + ctxText;
 
