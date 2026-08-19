@@ -114,10 +114,10 @@ OPENROUTER_MAX_RETRIES = int(os.environ.get("OPENROUTER_MAX_RETRIES", "3"))
 OPENROUTER_BACKOFF_BASE_SEC = float(os.environ.get("OPENROUTER_BACKOFF_BASE_SEC", "1.5"))
 OPENROUTER_MAX_BACKOFF_SEC = float(os.environ.get("OPENROUTER_MAX_BACKOFF_SEC", "15.0"))
 
-ALLOWED_PROVIDERS = {"groq", "nim", "gemini", "openrouter", "ollama"}
+ALLOWED_PROVIDERS = {"groq", "nim", "openrouter", "ollama"}
 raw_order = (os.environ.get("LLM_PROVIDER_ORDER") or "").strip()
 if not raw_order:
-    raw_order = "groq,nim,gemini,openrouter,ollama"
+    raw_order = "groq,nim,openrouter,ollama"
 
 LLM_PROVIDER_ORDER = [
     part.strip().lower()
@@ -125,7 +125,7 @@ LLM_PROVIDER_ORDER = [
     if part.strip().lower() in ALLOWED_PROVIDERS
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["groq", "nim", "gemini", "openrouter", "ollama"]
+    LLM_PROVIDER_ORDER = ["groq", "nim", "openrouter", "ollama"]
 
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0

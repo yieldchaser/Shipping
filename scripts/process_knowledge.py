@@ -106,11 +106,11 @@ LINKED_ASSET_FIELD_NAMES = [
 ]
 LLM_PROVIDER_ORDER = [
     provider
-    for provider in [part.strip().lower() for part in os.environ.get("LLM_PROVIDER_ORDER", "ollama,gemini,nim").split(",")]
-    if provider in {"gemini", "ollama", "nim"}
+    for provider in [part.strip().lower() for part in os.environ.get("LLM_PROVIDER_ORDER", "ollama,nim").split(",")]
+    if provider in {"ollama", "nim"}
 ]
 if not LLM_PROVIDER_ORDER:
-    LLM_PROVIDER_ORDER = ["ollama", "gemini", "nim"]
+    LLM_PROVIDER_ORDER = ["ollama", "nim"]
 _last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0

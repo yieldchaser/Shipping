@@ -62,8 +62,6 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-2.5-flash' }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NIM_API_KEY }}
@@ -72,7 +70,7 @@ jobs:
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL || 'https://api.ollama.com/v1' }}
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL || 'llama3.2' }}
-          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'groq,nim,gemini,openrouter,ollama' }}
+          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'groq,nim,openrouter,ollama' }}
           OLLAMA_MIN_INTERVAL_SEC: "1.5"
           OLLAMA_MAX_RETRIES: "3"
           OLLAMA_BACKOFF_BASE_SEC: "1.5"
