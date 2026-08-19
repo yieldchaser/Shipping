@@ -25712,6 +25712,16 @@ if (intelTabsContainer) {
           try {
             const isFreeModel = !effectiveKey || curModel.endsWith(':free');
             const orStream = doStream && !isFreeModel;
+            const orBody = {
+              model: curModel,
+              messages: [{ role: 'user', content: prompt }],
+              temperature: 0.2,
+              max_tokens: 4096,
+              stream: orStream
+            };
+            if (options?.enableWebSearch) {
+              orBody.plugins = [{ id: 'web' }];
+            }
             const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
               method: 'POST',
               headers: {
@@ -25720,13 +25730,7 @@ if (intelTabsContainer) {
                 'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
                 'X-Title': 'Shipping Intelligence Dashboard',
               },
-              body: JSON.stringify({
-                model: curModel,
-                messages: [{ role: 'user', content: prompt }],
-                temperature: 0.2,
-                max_tokens: 4096,
-                stream: orStream
-              }),
+              body: JSON.stringify(orBody),
               signal: fetchSignal
             });
             if (!res.ok) {
