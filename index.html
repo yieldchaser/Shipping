@@ -9053,7 +9053,7 @@
           <!-- Panel 1: Contract Exposures & Thesis Translation -->
           <div class="sq-panel visible" id="etf-panel-exposures">
             <button class="sq-q" onclick="etfSq('If I buy BDRY or BWET today and hold for 2 to 3 months, which exact futures contracts am I betting on, and how does the lot transition work across months?')">Multi-Month Hold: Exact contract bets &amp; rollover path</button>
-            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share based on today\'s lot weights?')">Contract with largest $/share sensitivity</button>
+            <button class="sq-q" onclick="etfSq('Which specific constituent contract currently has the largest dollar impact per ETF share based on current lot weights?')">Contract with largest $/share sensitivity</button>
             <button class="sq-q" onclick="etfSq('Translate a macro thesis: If Capesize rates surge +25% while Panamax stays flat, what is the exact ETF share price target and dollar gain on 2,500 shares?')">Translate +25% Capesize thesis to ETF target</button>
             <button class="sq-q" onclick="etfSq('Why does the fund hold a laddered basket of prompt and deferred contracts rather than concentrating 100% in the front-month contract?')">Why laddered contracts instead of front month only?</button>
             <button class="sq-q" onclick="etfSq('How is portfolio notional exposure currently split across vessel classes and contract maturities?')">Portfolio exposure split across vessel classes</button>
@@ -9072,7 +9072,7 @@
 
           <!-- Panel 3: Scenario Shocks & PnL Sensitivity -->
           <div class="sq-panel" id="etf-panel-shocks">
-            <button class="sq-q" onclick="etfSq('If I invest today and hold for 3 months, which contract months\' rates must rise and in what specific order for my trade to be profitable?')">3-Month Hold: Which months must rise in what order?</button>
+            <button class="sq-q" onclick="etfSq('If I invest today and hold for 3 months, which contract month rates must rise and in what specific order for my trade to be profitable?')">3-Month Hold: Which months must rise in what order?</button>
             <button class="sq-q" onclick="etfSq('If Capesize freight rates rally +20% and Panamax drops -10%, what is the projected ETF share price and net portfolio PnL?')">Capesize +20% / Panamax -10%: Share price &amp; PnL</button>
             <button class="sq-q" onclick="etfSq('What uniform freight rate rally % across all contracts is required to achieve a 25% target increase in ETF share price?')">Required freight rally % for target share price</button>
             <button class="sq-q" onclick="etfSq('If tanker VLCC TD3C freight rates spike on geopolitical rerouting, how does that shock transmit to ETF share price?')">Tanker geopolitical freight spike transmission</button>
@@ -11047,7 +11047,7 @@
   </div>
 
   <div class="sq-panel visible" id="panel-briefing">
-    <button class="sq-q" onclick="sq('What is today\'s confluence verdict and executive positioning takeaway across dry bulk and tanker markets?')">Today's top trade &amp; confluence verdict</button>
+    <button class="sq-q" onclick="sq('What is the current confluence verdict and executive positioning takeaway across dry bulk and tanker markets?')">Today's top trade &amp; confluence verdict</button>
     <button class="sq-q" onclick="sq('What are the top downside risks and thesis invalidation triggers flagged in the latest reports?')">Biggest downside risks &amp; invalidation triggers</button>
     <button class="sq-q" onclick="sq('Compare Breakwave analyst sentiment against Baltic spot rate momentum for dry bulk this week.')">Breakwave sentiment vs Baltic spot momentum</button>
     <button class="sq-q" onclick="sq('Summarize the latest Hellenic Shipping News charter rates and vessel valuations update.')">Latest Hellenic charter rates &amp; valuations</button>
@@ -11066,16 +11066,16 @@
 
   <div class="sq-panel" id="panel-supply">
     <button class="sq-q" onclick="sq('What is the current Capesize and Newcastlemax orderbook-to-fleet ratio and delivery schedule?')">Capesize orderbook &amp; delivery schedule</button>
+    <button class="sq-q" onclick="sq('Does the Clarksons 405.9m GT orderbook surge indicate 2008-style oversupply for dry bulk and tankers?')">Clarksons 405.9m GT orderbook vs 2008</button>
     <button class="sq-q" onclick="sq('What is the VLCC and Suezmax orderbook status through 2027, and how tight is shipyard berth supply?')">Tanker orderbook &amp; shipyard berths</button>
     <button class="sq-q" onclick="sq('What is the Panamax and Supramax fleet supply outlook and scrapping rate trend?')">Panamax / Supramax fleet growth &amp; scrapping</button>
-    <button class="sq-q" onclick="sq('How are environmental regulations (CII ratings, EEXI, EU ETS) affecting effective vessel speed and supply?')">CII / EEXI / EU ETS supply impacts</button>
+    <button class="sq-q" onclick="sq('Are 5-year secondhand Capesize and VLCC prices trading near newbuild parity, and what is the implied charter yield?')">5Y secondhand asset values vs newbuild parity</button>
     <button class="sq-q" onclick="sq('Are demolition/scrapping prices rising or falling in Bangladesh, India, and Pakistan?')">Subcontinent ship demolition price trends</button>
-    <button class="sq-q" onclick="sq('What is the current global dry bulk fleet YoY growth rate, and is supply outpacing demand?')">Dry bulk fleet YoY supply vs demand balance</button>
   </div>
 
   <div class="sq-panel" id="panel-macro">
     <button class="sq-q" onclick="sq('How are Chinese steel production, mill profit margins, and iron ore port inventories affecting Capesize rates?')">Chinese steel margins &amp; iron ore demand</button>
-    <button class="sq-q" onclick="sq('What is the latest Atlantic basin coal and grain export flow outlook for Panamax and Supramax?')">Atlantic coal &amp; grain trade outlook</button>
+    <button class="sq-q" onclick="sq('What does the Capesize Atlantic C3 vs Pacific C5 freight spread ($16.85/t) reveal about tonnage supply and voyage TCE premiums?')">Atlantic C3 vs Pacific C5 freight skew</button>
     <button class="sq-q" onclick="sq('How are Middle East geopolitical tensions, Strait of Hormuz risks, and Red Sea diversions impacting tanker ton-miles?')">Hormuz / Red Sea geopolitical ton-mile impacts</button>
     <button class="sq-q" onclick="sq('What is the global crude demand and OPEC+ production quota outlook for dirty tankers?')">OPEC+ production &amp; dirty tanker demand</button>
     <button class="sq-q" onclick="sq('How are refinery utilization rates and product export margins driving Clean Tanker (CPP) earnings?')">Refinery runs &amp; clean tanker demand</button>
@@ -11085,9 +11085,9 @@
   <div class="sq-panel" id="panel-trade">
     <button class="sq-q" onclick="sq('What is the current relative-value trade between dry bulk (BDI) and dirty tankers (BDTI)?')">Dry Bulk vs Tankers relative-value skew</button>
     <button class="sq-q" onclick="sq('Which vessel segment (Capesize, Panamax, Supramax, VLCC, Suezmax) offers the most asymmetric risk-reward today?')">Best risk-reward vessel segment today</button>
+    <button class="sq-q" onclick="sq('How is the Singapore Hi-5 bunker spread ($144.50/t) driving scrubber vs non-scrubber TCE earnings for Capesize and VLCC?')">Hi-5 bunker spread &amp; scrubber TCE uplift</button>
     <button class="sq-q" onclick="sq('What specific catalyst or data print would trigger a long Capesize FFA position?')">Capesize FFA entry &amp; invalidation triggers</button>
     <button class="sq-q" onclick="sq('What is the 3-6 month consensus outlook for VLCC Middle East-Asia (TD3C) TCE earnings?')">3-6 month VLCC TD3C earnings consensus</button>
-    <button class="sq-q" onclick="sq('If iron ore prices break below 2-year lows, how would that transmit to the Capesize-Panamax spread?')">Iron ore drop transmission to spread trades</button>
     <button class="sq-q" onclick="sq('Based on current statistical percentiles and fundamental sentiment, what is the optimal multi-asset allocation?')">Optimal multi-asset freight allocation</button>
   </div>
 
