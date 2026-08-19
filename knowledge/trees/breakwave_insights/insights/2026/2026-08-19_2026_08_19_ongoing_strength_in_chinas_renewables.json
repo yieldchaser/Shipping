@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+  "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+  "parent_id": null,
+  "title": "Ongoing Strength in China's Renewables",
+  "section_path": [
+    "Ongoing Strength in China's Renewables"
+  ],
+  "section_path_text": "Ongoing Strength in China's Renewables",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, Chinese electricity production set a record last month. Electricity production totaled a record 943.9 billion kilowatt hours, which is up year-on-year by 2%. Of note, though, is that thermal coal-derived electricity generation contracted year-on-year by 3%.",
+  "keywords": [
+    "china",
+    "coal",
+    "billion",
+    "kilowatt",
+    "hours",
+    "production",
+    "asset",
+    "image",
+    "kwh",
+    "year-on-year",
+    "linked",
+    "power"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1247,
+  "source_path": "reports/breakwave/2026/2026-08-19_ongoing-strength-in-chinas-renewables.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/19/ongoing-strength-in-chinas-renewables",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+      "parent_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, Chinese electricity production set a record last month. Electricity production totaled a record 943.9 billion kilowatt hours, which is up year-on-year by 2%.",
+      "keywords": [
+        "china",
+        "coal",
+        "billion",
+        "kilowatt",
+        "hours",
+        "production",
+        "year-on-year",
+        "power"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 520,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__s02_linked_asset_2026_08_19_ongoing_strength_in_chinas_renewables_img_chart1_11a5f57e6857_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+      "parent_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+      "title": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg\n\nLinked image asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg\n\nImage metadata: JPEG 1189x434 mode=RGB\n\nOCR text:\nChinese Hydropower Production\n180kwh\n100kwh\n20kwh\n2018 2019 2020 2021 2022 2023 2024 #=+%|.2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinese",
+        "hours",
+        "hydropower"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__s03_linked_asset_2026_08_19_ongoing_strength_in_chinas_renewables_img_chart2_ea5cb8d3f852_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+      "parent_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+      "title": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg\n\nLinked image asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg\n\nImage metadata: JPEG 1189x434 mode=RGB\n\nOCR text:\nChinese Wind Power Production\n120kwh\n60kwh\nOkwh\n2018 2019 2020 2021 2022 2023 2024 2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "kwh",
+        "billion",
+        "chinese",
+        "hours",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__s04_linked_asset_2026_08_19_ongoing_strength_in_chinas_renewables_img_chart3_7102feb01799_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+      "parent_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+      "title": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg\n\nLinked image asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg\n\nImage metadata: JPEG 1189x434 mode=RGB\n\nOCR text:\nChinese Nuclear Power Production\n50kwh\n25kwh ;\nOkwh\n2018 2019 2020 2021 2022 2023 2024 2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "kwh",
+        "billion",
+        "chinese",
+        "hours",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__s05_linked_asset_2026_08_19_ongoing_strength_in_chinas_renewables_img_chart4_751d81c342b0_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables",
+      "parent_id": "breakwave_insights_insights_2026-08-19_2026_08_19_ongoing_strength_in_chinas_renewables__root",
+      "title": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg\n\nLinked image asset: 2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg\n\nImage metadata: JPEG 1189x434 mode=RGB\n\nOCR text:\nChinese Solar Power Production\n80kwh\n60kwh\n40kwh\n20kwh\nOkwh\n2018 2019 2020 2021 2022 2023 2024 2025 2026\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinese",
+        "hours",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
