@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-20_2026_08_20_chinas_crude_return_the_next_test_for_tanker_markets__root",
+  "doc_id": "breakwave_insights_insights_2026-08-20_2026_08_20_chinas_crude_return_the_next_test_for_tanker_markets",
+  "parent_id": null,
+  "title": "China's Crude Return: The Next Test for Tanker Markets",
+  "section_path": [
+    "China's Crude Return: The Next Test for Tanker Markets"
+  ],
+  "section_path_text": "China's Crude Return: The Next Test for Tanker Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Panagiota Kinti\nChina's retreat from the crude market has defined tanker demand in 2026. The real question now: what happens when the world's largest importer comes back, and where those barrels come from. Poten & Partners data show Chinese seaborne imports sliding from 11.8 million b/d in February to just 5.8 million b/d in June, before clawing back to 7.3 million b/d in July.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "us_gulf",
+    "b/d",
+    "barrels",
+    "demand",
+    "how",
+    "million",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 479,
+  "source_path": "reports/breakwave/2026/2026-08-20_chinas-crude-return-the-next-test-for-tanker-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/20/chinas-crude-return-the-next-test-for-tanker-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-20_2026_08_20_chinas_crude_return_the_next_test_for_tanker_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-20_2026_08_20_chinas_crude_return_the_next_test_for_tanker_markets",
+      "parent_id": "breakwave_insights_insights_2026-08-20_2026_08_20_chinas_crude_return_the_next_test_for_tanker_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Panagiota Kinti\nChina's retreat from the crude market has defined tanker demand in 2026. The real question now: what happens when the world's largest importer comes back, and where those barrels come from.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "us_gulf",
+        "b/d",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 477,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

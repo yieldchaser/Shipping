@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace__root",
+  "doc_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace",
+  "parent_id": null,
+  "title": "Dry Bulk Deals Gather Pace",
+  "section_path": [
+    "Dry Bulk Deals Gather Pace"
+  ],
+  "section_path_text": "Dry Bulk Deals Gather Pace",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk Sale & Purchase market remained highly active during the first seven months of 2026, with 496 bulk carriers changing hands, compared to 428 vessels during the corresponding period of 2025, representing a 16% year-on-year increase. Activity accelerated particularly during May, when a remarkable 90 transactions were concluded, making it the busiest month of the year, while monthly sales remained consistently above 2025 levels for most of the period. The sustained level of transactions reflects continued confidence in dry bulk asset values, supported by a healthier freight environment and improving underlying market fundamentals compared to last year.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "singapore",
+    "japan",
+    "sales",
+    "vessels",
+    "remained",
+    "during",
+    "activity",
+    "eee"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1466,
+  "source_path": "reports/breakwave/2026/2026-08-20_dry-bulk-deals-gather-pace.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/20/dry-bulk-deals-gather-pace",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace",
+      "parent_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk Sale & Purchase market remained highly active during the first seven months of 2026, with 496 bulk carriers changing hands, compared to 428 vessels during the corresponding period of 2025, representing a 16% year-on-year increase. Activity accelerated particularly during May, when a remarkable 90 transactions were concluded, making it the busiest month of the year, while monthly sales remained consistently above 2025 levels for most of the period.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "singapore",
+        "japan",
+        "sales",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 796,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace__s02_linked_asset_2026_08_20_dry_bulk_deals_gather_pace_img_unsplash_image_3j1kq7kf6ka_0a106d587a4e_jpg",
+      "doc_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace",
+      "parent_id": "breakwave_insights_insights_2026-08-20_2026_08_20_dry_bulk_deals_gather_pace__root",
+      "title": "Linked asset: 2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg\n\nLinked image asset: 2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg\n\nImage metadata: JPEG 1080x720 mode=RGB\n\nOCR text:\n© 139 5 ie |\n~ f= Ne ee mie = th a a\nPY peers tn ee ime $ Esme oaeen \"3:\nj S base a \"ts a AN ye Pa. « ‘ -\n; 2 ae gle Serene: hepas eS ES BORN %\n= a Sie ge OS I ee RN he 56\n- See hse ) aaa ae ee Pe aaa ts ty Ee te PKs 8 Se ain a eee its\nJ.",
+      "keywords": [
+        "eee",
+        "aaa",
+        "aes",
+        "asset",
+        "image",
+        "sane",
+        "aay",
+        "aed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 624,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
