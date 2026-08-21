@@ -2,28 +2,28 @@
 window.SCENARIO_SNAPSHOTS = {
   bdry: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-08-20T14:41:29.978443+00:00",
+  "generation_timestamp_utc": "2026-08-21T14:39:53.747084+00:00",
   "fund_symbol": "BDRY",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
-  "holdings_snapshot_as_of_date": "2026-08-20",
+  "holdings_snapshot_as_of_date": "2026-08-21",
   "is_official_as_of_date": true,
   "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
   "source_urls": [
     "https://amplifyetfs.com/bdry-holdings/"
   ],
   "source_hashes": {
-    "expected_registry_sha256": "2af322ca870f97bc11179ecc6ed4c9666d541d26af122516b07d3498316d2ac6",
-    "computed_archive_sha256": "2af322ca870f97bc11179ecc6ed4c9666d541d26af122516b07d3498316d2ac6"
+    "expected_registry_sha256": "397e7e60dc48582977c78e2abc40d9a36e18a68de0dabb1738c2f42663b55b10",
+    "computed_archive_sha256": "397e7e60dc48582977c78e2abc40d9a36e18a68de0dabb1738c2f42663b55b10"
   },
   "provenance": {
     "official_source_url": "https://amplifyetfs.com/bdry-holdings/",
-    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-08-20.csv",
-    "raw_source_sha256": "661e0eb8898545cc5dcf30dbdd1797852c978bf7b386385f572e7665273431b2",
-    "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-08-20.csv",
-    "expected_registry_sha256": "2af322ca870f97bc11179ecc6ed4c9666d541d26af122516b07d3498316d2ac6",
-    "computed_archive_sha256": "2af322ca870f97bc11179ecc6ed4c9666d541d26af122516b07d3498316d2ac6",
-    "snapshot_content_sha256": "bd76c5f4ab176b6bed25745fb9f58db7cd5b8eebee4f53cc3e0697143b973520",
-    "manifest_snapshot_sha256": "bd76c5f4ab176b6bed25745fb9f58db7cd5b8eebee4f53cc3e0697143b973520",
+    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-08-21.csv",
+    "raw_source_sha256": "6cccbfa24143f2afefd3900b8f42d66d05f840f38d368a06a0003d8550e330d1",
+    "immutable_archive_path": "data/etf/raw_holdings/BDRY/2026-08-21.csv",
+    "expected_registry_sha256": "397e7e60dc48582977c78e2abc40d9a36e18a68de0dabb1738c2f42663b55b10",
+    "computed_archive_sha256": "397e7e60dc48582977c78e2abc40d9a36e18a68de0dabb1738c2f42663b55b10",
+    "snapshot_content_sha256": "6b8cc755e4a8043b945a2c50abb8c6a51ab8e85b03073293f1c6624abf5185cd",
+    "manifest_snapshot_sha256": "6b8cc755e4a8043b945a2c50abb8c6a51ab8e85b03073293f1c6624abf5185cd",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
@@ -31,15 +31,15 @@ window.SCENARIO_SNAPSHOTS = {
     "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-08-20T14:41:29.978443+00:00"
+    "reference_time_utc": "2026-08-21T14:39:53.747084+00:00"
   },
   "baseline": {
-    "as_of_date": "2026-08-20",
+    "as_of_date": "2026-08-21",
     "is_contemporaneous": true,
-    "total_nav_dollars": 30670045.0,
+    "total_nav_dollars": 31398832.61,
     "shares_outstanding": 2200000,
-    "nav_per_share": 13.94,
-    "market_price": 14.279899597167969,
+    "nav_per_share": 14.27,
+    "market_price": 14.5,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
@@ -50,12 +50,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 155.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 38543.0,
+      "price": 39093.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 5974165.0
+      "position_notional": 6059415.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Sep 26",
@@ -64,54 +64,54 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 155.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 39614.0,
+      "price": 41021.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 6140170.0
+      "position_notional": 6358255.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Oct 26",
       "ticker": "C5TCM V26 INDEX",
       "cusip": "C5TCM V26",
-      "lots": 50.0,
+      "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 40821.0,
+      "price": 42229.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 2041050.0
+      "position_notional": 2533740.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Nov 26",
       "ticker": "C5TCM X26 INDEX",
       "cusip": "C5TCM X26",
-      "lots": 50.0,
+      "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 39171.0,
+      "price": 40264.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1958550.0
+      "position_notional": 2415840.0
     },
     {
       "contract_name": "Capesize 5TC FFA 180kt Timecharter Average M Dec 26",
       "ticker": "C5TCM Z26 INDEX",
       "cusip": "C5TCM Z26",
-      "lots": 50.0,
+      "lots": 60.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 37593.0,
+      "price": 38636.0,
       "product_code": "CWF / C5T (SGX), C5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 680",
       "route_class": "Capesize",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1879650.0
+      "position_notional": 2318160.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Aug 26",
@@ -120,12 +120,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 205.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 19671.0,
+      "price": 19743.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 4032555.0
+      "position_notional": 4047315.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Sep 26",
@@ -134,12 +134,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 205.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 20296.0,
+      "price": 20811.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 4160680.0
+      "position_notional": 4266255.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Oct 26",
@@ -148,12 +148,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 100.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 21500.0,
+      "price": 21943.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 2150000.0
+      "position_notional": 2194300.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Nov 26",
@@ -162,12 +162,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 100.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 21164.0,
+      "price": 21604.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 2116400.0
+      "position_notional": 2160400.0
     },
     {
       "contract_name": "Panamax 5TC FFA 82kt Timecharter Average M Dec 26",
@@ -176,12 +176,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 100.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 19964.0,
+      "price": 20286.0,
       "product_code": "P4T / P5T (SGX), P5 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 681",
       "route_class": "Panamax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1996400.0
+      "position_notional": 2028600.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Aug 26",
@@ -190,12 +190,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 55.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 18625.0,
+      "price": 18586.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1024375.0
+      "position_notional": 1022230.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Sep 26",
@@ -204,12 +204,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 55.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 19925.0,
+      "price": 19979.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 1095875.0
+      "position_notional": 1098845.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Oct 26",
@@ -218,12 +218,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 25.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 20754.0,
+      "price": 20818.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 518850.0
+      "position_notional": 520450.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Nov 26",
@@ -232,12 +232,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 25.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 20075.0,
+      "price": 20136.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 501875.0
+      "position_notional": 503400.0
     },
     {
       "contract_name": "Supramax 58 TC FFA 58kt Timecharter Average M Dec 26",
@@ -246,39 +246,39 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 25.0,
       "multiplier": 1.0,
       "multiplier_unit": "Calendar Day of Time Charter (1 USD/day)",
-      "price": 18793.0,
+      "price": 18850.0,
       "product_code": "S10 / S5T (SGX), S1 (CME)",
       "rulebook_ref": "SGX-DC Clearing Rules Chapter 8 / SGX Freight Product Manual; CME NYMEX Chapter 682",
       "route_class": "Supramax",
       "exchange": "SGX-DC (Singapore Exchange) / CME ClearPort / ICE Clear Europe",
-      "position_notional": 469825.0
+      "position_notional": 471250.0
     }
   ]
 },
   bwet: {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-08-20T14:41:29.978443+00:00",
+  "generation_timestamp_utc": "2026-08-21T14:39:53.747084+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
-  "holdings_snapshot_as_of_date": "2026-08-20",
+  "holdings_snapshot_as_of_date": "2026-08-21",
   "is_official_as_of_date": true,
   "date_sourcing": "OFFICIAL_SOURCE_DISCLOSED",
   "source_urls": [
     "https://amplifyetfs.com/bwet-holdings/"
   ],
   "source_hashes": {
-    "expected_registry_sha256": "fb277206d38785b11f77039fb50fdae4dc8f75574d58f236b26d8eafdd9f6059",
-    "computed_archive_sha256": "fb277206d38785b11f77039fb50fdae4dc8f75574d58f236b26d8eafdd9f6059"
+    "expected_registry_sha256": "41ed678d1f15dc0d4c027c781246766ced32da814a58443781503c5823f5f247",
+    "computed_archive_sha256": "41ed678d1f15dc0d4c027c781246766ced32da814a58443781503c5823f5f247"
   },
   "provenance": {
     "official_source_url": "https://amplifyetfs.com/bwet-holdings/",
-    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-08-20.csv",
-    "raw_source_sha256": "661e0eb8898545cc5dcf30dbdd1797852c978bf7b386385f572e7665273431b2",
-    "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-08-20.csv",
-    "expected_registry_sha256": "fb277206d38785b11f77039fb50fdae4dc8f75574d58f236b26d8eafdd9f6059",
-    "computed_archive_sha256": "fb277206d38785b11f77039fb50fdae4dc8f75574d58f236b26d8eafdd9f6059",
-    "snapshot_content_sha256": "8706d0755b7015500c2b2a4721dc66588e9da4c33a1212685c9cc1e571ff6275",
-    "manifest_snapshot_sha256": "8706d0755b7015500c2b2a4721dc66588e9da4c33a1212685c9cc1e571ff6275",
+    "raw_source_path": "data/etf/raw_sources/amplify_master_2026-08-21.csv",
+    "raw_source_sha256": "6cccbfa24143f2afefd3900b8f42d66d05f840f38d368a06a0003d8550e330d1",
+    "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-08-21.csv",
+    "expected_registry_sha256": "41ed678d1f15dc0d4c027c781246766ced32da814a58443781503c5823f5f247",
+    "computed_archive_sha256": "41ed678d1f15dc0d4c027c781246766ced32da814a58443781503c5823f5f247",
+    "snapshot_content_sha256": "5364e9141ca1587cb99131b632f25493754ba25928dafcbbd7df37c438a01fa3",
+    "manifest_snapshot_sha256": "5364e9141ca1587cb99131b632f25493754ba25928dafcbbd7df37c438a01fa3",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
@@ -286,15 +286,15 @@ window.SCENARIO_SNAPSHOTS = {
     "business_day_age": 0,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-08-20T14:41:29.978443+00:00"
+    "reference_time_utc": "2026-08-21T14:39:53.747084+00:00"
   },
   "baseline": {
-    "as_of_date": "2026-08-20",
+    "as_of_date": "2026-08-21",
     "is_contemporaneous": true,
-    "total_nav_dollars": 127953231.79,
-    "shares_outstanding": 300000,
-    "nav_per_share": 419.38,
-    "market_price": 434.1390075683594,
+    "total_nav_dollars": 167618661.26,
+    "shares_outstanding": 375000,
+    "nav_per_share": 440.94,
+    "market_price": 465.0,
     "source_description": "Official Amplified Disclosures & CFTC Statements"
   },
   "positions": [
@@ -305,12 +305,12 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 160.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 102.038,
+      "price": 103.295,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 16326080.0
+      "position_notional": 16527200.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26",
@@ -319,54 +319,54 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 265.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 112.654,
+      "price": 121.26,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 29853309.999999996
+      "position_notional": 32133900.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26",
       "ticker": "DD3CM V26 INDEX",
       "cusip": "DD3CM V26",
-      "lots": 182.0,
+      "lots": 212.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 106.159,
+      "price": 113.18,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 19320938.000000004
+      "position_notional": 23994160.0
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
       "ticker": "DD3CM X26 INDEX",
       "cusip": "DD3CM X26",
-      "lots": 182.0,
+      "lots": 237.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 101.05,
+      "price": 106.1,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 18391100.0
+      "position_notional": 25145699.999999996
     },
     {
       "contract_name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Dec 26",
       "ticker": "DD3CM Z26 INDEX",
       "cusip": "DD3CM Z26",
-      "lots": 182.0,
+      "lots": 192.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 95.941,
+      "price": 103.07,
       "product_code": "TL (Monthly Futures), TLB (BALMO)",
       "rulebook_ref": "NYMEX Rulebook Chapter 684 (\"Freight Route TD3C (Baltic) Futures\")",
       "route_class": "VLCC",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 17461262.0
+      "position_notional": 19789440.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Aug 26",
@@ -375,68 +375,68 @@ window.SCENARIO_SNAPSHOTS = {
       "lots": 30.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 44.922,
+      "price": 45.972,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 1347659.9999999998
+      "position_notional": 1379160.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Sep 26",
       "ticker": "DD20M U26 INDEX",
       "cusip": "DD20M U26",
-      "lots": 100.0,
+      "lots": 105.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 50.646,
+      "price": 51.39,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 5064600.0
+      "position_notional": 5395950.0
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Oct 26",
       "ticker": "DD20M V26 INDEX",
       "cusip": "DD20M V26",
-      "lots": 150.0,
+      "lots": 190.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 44.805,
+      "price": 45.348,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 6720750.0
+      "position_notional": 8616119.999999998
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Nov 26",
       "ticker": "DD20M X26 INDEX",
       "cusip": "DD20M X26",
-      "lots": 150.0,
+      "lots": 190.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 40.367,
+      "price": 42.54,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 6055049.999999999
+      "position_notional": 8082599.999999999
     },
     {
       "contract_name": "TD20 FFA 130kt West Africa to Continent USD/MT M Dec 26",
       "ticker": "DD20M Z26 INDEX",
       "cusip": "DD20M Z26",
-      "lots": 150.0,
+      "lots": 190.0,
       "multiplier": 1000.0,
       "multiplier_unit": "1,000 Metric Tons (MT) of Crude Oil Cargo",
-      "price": 38.071,
+      "price": 39.701,
       "product_code": "T2D (Monthly Futures), T2B (BALMO), T2M (Mini)",
       "rulebook_ref": "NYMEX Rulebook Chapter 944 (\"Freight Route TD20 (Baltic) Futures\")",
       "route_class": "Suezmax",
       "exchange": "NYMEX (New York Mercantile Exchange) / CME ClearPort",
-      "position_notional": 5710650.0
+      "position_notional": 7543190.000000001
     }
   ]
 }
