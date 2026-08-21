@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report August 20 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report August 20 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report August 20 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIron ore futures traded weak today. The DCE most-active contract I2701 settled at RMB 707/mt, down 1.19% from the previous trading day.Spot prices at Qingdao Port fell RMB 4-5/mt. Traders showed low enthusiasm in offering, while mills restocked on an as-needed basis at a measured pace, leaving overall spot transactions light.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "singapore",
+    "iron_ore",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "ore",
+    "iron",
+    "fines",
+    "grade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 13585,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-20-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iron ore futures traded weak today. The DCE most-active contract I2701 settled at RMB 707/mt, down 1.19% from the previous trading day.Spot prices at Qingdao Port fell RMB 4-5/mt.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "ore",
+        "iron",
+        "down",
+        "million",
+        "near",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__s02_linked_asset_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026_20082026chinese3_2b807347a792_jpg",
+      "doc_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__root",
+      "title": "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_20082026chinese3_2b807347a792.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_20082026chinese3_2b807347a792.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_20082026chinese3_2b807347a792.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_20082026chinese3_2b807347a792.jpg\n\nLinked image asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_20082026chinese3_2b807347a792.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Aug 20th, 2026\nIRON ORE PORT STOCK INDEX (IOP!)\nAug 20th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "change",
+        "fefines",
+        "high",
+        "low",
+        "mtd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 827,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__s03_linked_asset_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026_mmi_daily_iron_ore_report_for_20th_a_b4a93bf6076d_pdf",
+      "doc_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026",
+      "parent_id": "hellenic_iron_ore_2026-08-20_2026_08_20_mmi_daily_iron_ore_index_report_august_20_2026__root",
+      "title": "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_mmi-daily-iron-ore-report-for-20th-a_b4a93bf6076d.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_mmi-daily-iron-ore-report-for-20th-a_b4a93bf6076d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_mmi-daily-iron-ore-report-for-20th-a_b4a93bf6076d.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-08-20_mmi-daily-iron-ore-index-report-august-20-2026_mmi-daily-iron-ore-report-for-20th-a_b4a93bf6076d.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report\nMMi Dashboard\nIron Ore Price Indices\nExchange Traded Contracts\nFreight Rates Steel Price\nInventory Levels Steel Price\nPage 1/6\nA\nA\nA\nu\nu\nu\ng\ng\ng\n2\n2\n2\n0\n0\n0\nIro n O re P o rt S to c k (F O T Q in g d a o )\nIO P I6 1 6 1 % F e F in e s R M B / t\n6 9 1\n- 7 - 0 . 9\nth , 2 0 2 6\nIro n O re S e a b o rn e (C F R Q in g d a o )\nIO S I6 1 6 1 % F e F in e s U S D / d m t\n9 5 .",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12459,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
