@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-08-21T11:06:32Z'
+generated_at: '2026-08-21T12:55:43Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 8
@@ -8,9 +8,9 @@ warning_count: 8
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8656
-- Chunks: 100020
-- Sections: 30639
+- Documents: 8657
+- Chunks: 100021
+- Sections: 30640
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -24,7 +24,7 @@ warning_count: 8
 | baltic/tanker | 2026-08-14 | 7 | 7 | healthy | 7 | 12 |
 | baltic/gas | 2026-08-14 | 7 | 7 | healthy | 7 | 0 |
 | baltic/container | 2026-08-14 | 7 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-08-14 | 7 | 7 | healthy | 7 | 32 |
+| baltic/ningbo | 2026-08-21 | 0 | 7 | healthy | 7 | 32 |
 | breakwave_insights/insights | 2026-08-21 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/dry_charter | 2026-08-19 | 2 | 14 | healthy | 7 | 1 |
 | hellenic/tanker_charter | 2026-08-19 | 2 | 14 | healthy | 7 | 0 |
@@ -47,7 +47,7 @@ warning_count: 8
 | Coal and Grain Flows | 2026-08-21 | 131 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-08-20 | 100 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | LNG and LPG Shipping | 2026-08-14 | 172 | 250 | baltic, hellenic | - | healthy |
-| Container and Ningbo Routes | 2026-08-19 | 195 | 250 | baltic, hellenic | - | healthy |
+| Container and Ningbo Routes | 2026-08-21 | 195 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
 - `watch` Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
