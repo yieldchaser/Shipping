@@ -1,0 +1,47 @@
+{
+  "node_id": "baltic_container_2026-08-21_2026_08_21_container_report_week_34_container__root",
+  "doc_id": "baltic_container_2026-08-21_2026_08_21_container_report_week_34_container",
+  "parent_id": null,
+  "title": "Container Report - Week 34",
+  "section_path": [
+    "Container Report - Week 34"
+  ],
+  "section_path_text": "Container Report - Week 34",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n21 Aug 2026\nContainer Report - Week 34",
+  "keywords": [
+    "container",
+    "aug",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 14,
+  "source_path": "reports/baltic/container/2026/2026-08-21_container-report-week-34_container.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_container_2026-08-21_2026_08_21_container_report_week_34_container__s01_main",
+      "doc_id": "baltic_container_2026-08-21_2026_08_21_container_report_week_34_container",
+      "parent_id": "baltic_container_2026-08-21_2026_08_21_container_report_week_34_container__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "21 Aug 2026\nContainer Report - Week 34",
+      "keywords": [
+        "container",
+        "aug"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

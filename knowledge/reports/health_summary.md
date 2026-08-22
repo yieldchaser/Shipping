@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-08-21T12:55:43Z'
+generated_at: '2026-08-21T16:53:32Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 8
@@ -8,9 +8,9 @@ warning_count: 8
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8657
-- Chunks: 100021
-- Sections: 30640
+- Documents: 8661
+- Chunks: 100025
+- Sections: 30644
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -20,10 +20,10 @@ warning_count: 8
 |---|---|---:|---:|---|---:|---:|
 | breakwave/drybulk | 2026-08-18 | 3 | 14 | healthy | 14 | 0 |
 | breakwave/tankers | 2026-08-11 | 10 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-08-14 | 7 | 7 | healthy | 7 | 8 |
-| baltic/tanker | 2026-08-14 | 7 | 7 | healthy | 7 | 12 |
-| baltic/gas | 2026-08-14 | 7 | 7 | healthy | 7 | 0 |
-| baltic/container | 2026-08-14 | 7 | 7 | healthy | 7 | 0 |
+| baltic/dry | 2026-08-21 | 0 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-08-21 | 0 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-08-21 | 0 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-08-21 | 0 | 7 | healthy | 7 | 0 |
 | baltic/ningbo | 2026-08-21 | 0 | 7 | healthy | 7 | 32 |
 | breakwave_insights/insights | 2026-08-21 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/dry_charter | 2026-08-19 | 2 | 14 | healthy | 7 | 1 |
@@ -46,8 +46,8 @@ warning_count: 8
 | China Steel and Iron Ore | 2026-08-21 | 97 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Coal and Grain Flows | 2026-08-21 | 131 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-08-20 | 100 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| LNG and LPG Shipping | 2026-08-14 | 172 | 250 | baltic, hellenic | - | healthy |
-| Container and Ningbo Routes | 2026-08-21 | 195 | 250 | baltic, hellenic | - | healthy |
+| LNG and LPG Shipping | 2026-08-21 | 173 | 250 | baltic, hellenic | - | healthy |
+| Container and Ningbo Routes | 2026-08-21 | 196 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
 - `watch` Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
