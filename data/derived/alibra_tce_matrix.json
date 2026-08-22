@@ -1,5 +1,5 @@
 {
-  "report_date": "19/08/2026",
+  "report_date": "2026-08-19",
   "dry_bulk": [
     {
       "size": "Handysize (38dwt)",
@@ -78,7 +78,7 @@
       "mom_1y": 40.7,
       "high_52w": 19000.0,
       "low_52w": 11000.0,
-      "pctile_10y": 83.5,
+      "pctile_10y": 83.4,
       "median_10y": 10000,
       "cycle_label": "Bullish (Upper Quartile)",
       "cycle_badge": "bull"
@@ -324,7 +324,7 @@
       "mom_1y": 75.6,
       "high_52w": 39500.0,
       "low_52w": 22500.0,
-      "pctile_10y": 97.6,
+      "pctile_10y": 97.9,
       "median_10y": 17000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
