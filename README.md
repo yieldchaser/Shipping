@@ -498,14 +498,15 @@ The dashboard features a high-performance **client-side RAG search engine** tune
 
 ```mermaid
 flowchart LR
-    A["1. Query Intent & Aliases<br/>(40+ Maritime Aliases)"] --> B["2. Inverted Index<br/>(BM25 Fast Filtering)"]
+    A["1. Query Intent & Aliases<br/>(40+ Maritime Aliases)"] --> B["2. Pre-built Search Index<br/>(BM25 ranking over 77 shard indexes,<br/>fetch only hit shards)"]
     B --> C["3. Dynamic Context Sizing<br/>(Fast 3.8K vs Deep 32K)"]
     C --> D["4. LLM Synthesis + Citations<br/>([DOC-N] + 🌐 Live Web Grounding)"]
 ```
 
 #### Key RAG & Q&A Features:
 - **Curated Institutional Questions**: 30 high-utility suggested questions across 5 core disciplines (Daily Briefing, Market Signals, Fleet Supply, Macro & Cargo, Trade Strategy).
-- **Multi-Tier Candidate Retrieval**: Dynamic loading across Recent (2026), Historical (2023–2025), and Deep Historical (2014–2022) archives + full domain wiki textbooks.
+- **Pre-Built Search Index Fast Path**: The compiler publishes compact BM25-ready posting indexes (`knowledge/chunks/search/`, ~39 MB across all shards vs ~141 MB of raw text). Queries rank the corpus from these tiny files first and download only the shards containing hits — no more full-tier streaming or in-browser index building. Transparent fallback to the legacy multi-tier scan whenever the manifest is unavailable; per-line `chunk_id` verification guards against stale indexes.
+- **Multi-Tier Candidate Retrieval (legacy path)**: Dynamic loading across Recent (2026), Historical (2023–2025), and Deep Historical (2014–2022) archives + full domain wiki textbooks.
 - **Deep Research Mode (128K Context Scaling)**: Expands context from 12 passages up to **60 ranked passages (~32,000+ tokens)** for multi-year cycle analysis and structural macro cross-referencing.
 - **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
 - **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
@@ -546,7 +547,9 @@ The repository contains 54 specialized Python modules across quantitative pricin
 | :--- | :--- | :--- |
 | [`integrate_alibra_feed.py`](file:///c:/Users/Dell/Github/Shipping/scripts/integrate_alibra_feed.py) | 11.4 KB | Ingestion & harmonization engine for 2008–2026 deep historical archives, 22-month tanker forward curves, and weekly TCE tables. |
 | [`alibra_poller.py`](file:///c:/Users/Dell/Github/Shipping/scripts/alibra_poller.py) | 7.2 KB | Automated multi-daily Alibra Google Sheet poller with canonical date stamping, retries, and `--integrate` flag. |
-| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 151.4 KB | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. |
+| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 151.4 KB | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. Incremental derived builds (content-addressed caches), shard manifest + pre-built search indexes, structured-table-aware charter rescan. |
+| [`search_index_build.py`](file:///c:/Users/Dell/Github/Shipping/scripts/search_index_build.py) | 8.1 KB | Compiles per-shard BM25-ready posting indexes (`knowledge/chunks/search/*.idx.json`) so the browser Q&A ranks candidates without downloading/tokenizing raw shards. |
+| [`table_extract.py`](file:///c:/Users/Dell/Github/Shipping/scripts/table_extract.py) | 9.8 KB | Geometry-based structured table recovery from OCR word boxes (row clustering + column-gap detection) for image-backed Alibra/MMI market tables. |
 | [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 94.4 KB | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (NVIDIA NIM). |
 | [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 49.3 KB | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
 | [`thesis_scenario_builder.py`](file:///c:/Users/Dell/Github/Shipping/scripts/thesis_scenario_builder.py) | 42.6 KB | Authoritative Python ETF scenario builder executing 4-regime pricing & decision ticket translation. |

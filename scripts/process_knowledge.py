@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import os, re, json, time, argparse, traceback, shutil, sys, warnings, stat, csv, random
+import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings, stat, csv, random
 from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlparse
@@ -72,6 +72,8 @@ THEMES_DERIVED = DERIVED_DIR / "themes.jsonl"
 SECTION_INDEX_DERIVED = DERIVED_DIR / "section_index.jsonl"
 TOPIC_EVIDENCE_DERIVED = DERIVED_DIR / "topic_evidence.jsonl"
 TIMELINES_DERIVED = DERIVED_DIR / "timelines.json"
+DERIVED_CACHE_PATH = MANIFESTS_DIR / "derived_cache.json"
+CACHE_SCHEMA_VERSION = 1
 HEALTH_SUMMARY = KNOWLEDGE_REPORTS_DIR / "health_summary.md"
 COMPILER_VERSION = 2
 REPO_ROOT_RESOLVED = REPO_ROOT.resolve()
@@ -399,6 +401,161 @@ def infer_charter_unit(line_lower: str) -> str | None:
     if any(token in line_lower for token in ["usd", "$", "/day", "pdpr", "per day", "k/day"]):
         return "usd_per_day"
     return None
+
+
+_TC_SEGMENT_KEYWORDS = {
+    "capesize": "capesize",
+    "panamax": "panamax",
+    "supramax": "supramax",
+    "handysize": "handysize",
+    "cape": "capesize",
+    "pmax": "panamax",
+    "smax": "supramax",
+    "handy": "handysize",
+}
+_TC_TENOR_KEYWORDS = {
+    "4-6m": "4_6m",
+    "4_6m": "4_6m",
+    "1y": "1y",
+    "1-year": "1y",
+    "1 year": "1y",
+    "2y": "2y",
+    "2-year": "2y",
+    "2 year": "2y",
+}
+_TC_REGION_KEYWORDS = {
+    "atlantic": "atl",
+    "pacific": "pac",
+    "atl": "atl",
+    "pac": "pac",
+}
+
+
+def _tc_cell_hints(lower_text: str) -> dict:
+    """Extract tenor/region hints embedded in one header cell."""
+    hints = {}
+    for kw, canon in _TC_TENOR_KEYWORDS.items():
+        if re.search(r"(?<![a-z0-9])" + re.escape(kw) + r"(?![a-z0-9])", lower_text):
+            hints["tenor"] = canon
+            break
+    for kw, canon in _TC_REGION_KEYWORDS.items():
+        if re.search(r"\b" + re.escape(kw) + r"\b", lower_text):
+            hints["region"] = canon
+            break
+    return hints
+
+
+def parse_structured_charter_rows(text: str) -> list[dict]:
+    """Parse '[structured table]' pipe-table markdown into labeled charter rows.
+
+    Tenor/region may appear in data cells (row-label style) OR in the header
+    row above value columns; header hints are carried down per column, and a
+    row whose value columns span several tenor headers emits one observation
+    per tenor so labeled writes never mix tenors into one positional list.
+    """
+    parsed = []
+    seen = set()
+    in_table = False
+    header_hints: dict[int, dict] = {}
+    header_checked = False
+
+    def emit(segment, tenor, region, numbers):
+        key = (segment, tenor or "", region or "", tuple(numbers))
+        if key in seen:
+            return
+        seen.add(key)
+        parsed.append({"segment": segment, "tenor": tenor, "region": region, "values": numbers})
+
+    for raw_line in (text or "").splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        if line.startswith("[structured table]"):
+            in_table = True
+            continue
+        if not in_table:
+            continue
+        if not line.startswith("|"):
+            break
+        inner = line.strip("|")
+        if not inner or set(inner.replace("|", "").strip()) <= {"-"}:
+            continue  # markdown separator row
+        cells = [norm_space(c.replace("\\|", "|")) for c in re.split(r"(?<!\\)\|", inner)]
+        lower_cells = [c.lower() for c in cells]
+
+        # Header discovery: markdown tables put a header row first. Accept the
+        # first pipe row as the header only when it carries a tenor hint AND
+        # no numeric cells — region-only words like "Atlantic" also appear in
+        # ordinary data rows, so they must not trigger header detection.
+        if not header_checked:
+            header_checked = True
+            has_numeric = any(re.fullmatch(r"[$€£]?[\d,.]+%?", c.strip()) for c in cells)
+            if not has_numeric:
+                hints = {i: h for i, lc in enumerate(lower_cells) if (h := _tc_cell_hints(lc))}
+                if any(h.get("tenor") for h in hints.values()):
+                    header_hints = hints
+                    continue
+
+        segment = None
+        seg_idx = -1
+        for i, lc in enumerate(lower_cells):
+            for kw, canon in _TC_SEGMENT_KEYWORDS.items():
+                if re.search(r"\b" + re.escape(kw) + r"\b", lc):
+                    segment = canon
+                    seg_idx = i
+                    break
+            if segment:
+                break
+        if not segment:
+            continue
+
+        # Explicit region cell wins; else header hints on the segment row.
+        region = None
+        for i, lc in enumerate(lower_cells):
+            if i == seg_idx:
+                continue
+            for kw, canon in _TC_REGION_KEYWORDS.items():
+                if re.search(r"\b" + re.escape(kw) + r"\b", lc):
+                    region = canon
+                    break
+            if region:
+                break
+
+        row_lower = " ".join(lower_cells)
+        row_tenor = None
+        for kw, canon in _TC_TENOR_KEYWORDS.items():
+            if re.search(r"(?<![a-z0-9])" + re.escape(kw) + r"(?![a-z0-9])", row_lower):
+                row_tenor = canon
+                break
+
+        # Numeric cells grouped by their resolved (tenor, region) label pair.
+        # Explicit region cells override per-column header regions.
+        by_label: dict = {}
+        for i, cell in enumerate(cells):
+            if i == seg_idx:
+                continue
+            cleaned = cell.replace(",", "").replace("$", "").replace("%", "").strip()
+            if not re.fullmatch(r"-?\d+(?:\.\d+)?", cleaned):
+                continue
+            num = float(cleaned)
+            col_tenor = row_tenor
+            col_region = region
+            if col_tenor is None:
+                col_tenor = header_hints.get(i, {}).get("tenor")
+            if col_region is None:
+                col_region = header_hints.get(i, {}).get("region")
+            bucket = by_label.setdefault((col_tenor or "", col_region or ""), {"numbers": []})
+            if num not in bucket["numbers"]:
+                bucket["numbers"].append(num)
+
+        if not by_label:
+            continue
+        multi = len(by_label) > 1
+        for (tenor, reg), bucket in by_label.items():
+            if multi and not tenor and not reg:
+                continue  # ambiguous unlabeled column mixed with labeled ones
+            emit(segment, tenor or None, reg or None, bucket["numbers"])
+    return parsed
 
 
 def extract_hellenic_charter_signals(text: str, category: str) -> dict:
@@ -2061,6 +2218,15 @@ def extract_linked_image_text(path: Path) -> str:
                 upscale = ImageOps.autocontrast(gray).resize((max(1, gray.width * 2), max(1, gray.height * 2)))
                 candidates.append(upscale)
 
+                # Structured table recovery (B2): geometry-based grid from OCR
+                # word boxes. Additive — raw OCR text is still emitted below.
+                structured_table_md = None
+                try:
+                    from table_extract import extract_table_text
+                    structured_table_md = extract_table_text(image) or extract_table_text(upscale)
+                except Exception:
+                    structured_table_md = None
+
                 ocr_text = ""
                 for candidate in candidates:
                     text = norm_multiline(
@@ -2068,7 +2234,10 @@ def extract_linked_image_text(path: Path) -> str:
                     )
                     if len(text) > len(ocr_text):
                         ocr_text = text
-            if ocr_text:
+            if ocr_text and structured_table_md:
+                lines.append("[structured table]\n" + structured_table_md)
+                lines.append("[raw ocr]\n" + truncate_linked_text(ocr_text, limit=LINKED_IMAGE_OCR_CHAR_LIMIT))
+            elif ocr_text:
                 lines.append("OCR text:\n" + truncate_linked_text(ocr_text, limit=LINKED_IMAGE_OCR_CHAR_LIMIT))
             else:
                 lines.append("[No OCR text detected in linked image.]")
@@ -3025,6 +3194,398 @@ def process_file(path: Path, adapted: dict, source_hash_value: str | None = None
     return metadata, chunks, manifest_row
 
 
+def _load_derived_cache() -> dict:
+    """Load knowledge/manifests/derived_cache.json (self-healing on any damage)."""
+    try:
+        payload = json.loads(DERIVED_CACHE_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        payload = None
+    if not isinstance(payload, dict) or payload.get("v") != CACHE_SCHEMA_VERSION:
+        return {"v": CACHE_SCHEMA_VERSION, "docs": {}, "chunk_files": {}}
+    if not isinstance(payload.get("docs"), dict):
+        payload["docs"] = {}
+    if not isinstance(payload.get("chunk_files"), dict):
+        payload["chunk_files"] = {}
+    return payload
+
+
+def _save_derived_cache(cache: dict) -> None:
+    try:
+        DERIVED_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+        tmp = DERIVED_CACHE_PATH.with_suffix(".json.tmp")
+        tmp.write_text(
+            json.dumps(cache, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
+        os.replace(tmp, DERIVED_CACHE_PATH)
+    except OSError as exc:
+        print(f"[WARN] derived cache write skipped: {exc}")
+
+
+def _doc_cache_entry_key(doc_bytes: bytes, tree_bytes: bytes | None) -> str:
+    digest = hashlib.sha256()
+    digest.update(doc_bytes)
+    digest.update(b":")
+    digest.update(str(CACHE_SCHEMA_VERSION).encode("utf-8"))
+    if tree_bytes is not None:
+        # Trees feed section_index rows; fold them in so tree-only edits
+        # still invalidate the cached contributions for this doc.
+        digest.update(b":")
+        digest.update(tree_bytes)
+    return digest.hexdigest()
+
+
+def _timeline_skeleton() -> dict:
+    return {
+        "breakwave_drybulk": None,
+        "breakwave_tankers": None,
+        "baltic_dry": None,
+        "baltic_tanker": None,
+        "baltic_gas": None,
+        "baltic_container": None,
+        "baltic_ningbo": None,
+    }
+
+
+def _clean_metric_tons(val_str):
+    if not val_str:
+        return None
+    m = re.search(r"(\d+\.?\d*)", str(val_str))
+    if m:
+        return float(m.group(1))
+    return None
+
+
+def _breakwave_iron_ore_contribution(meta: dict) -> dict | None:
+    """Per-doc result of the breakwave drybulk fundamentals merge used by the
+    iron-ore restocking CSV; cached so that pass never re-parses frontmatter."""
+    if meta.get("source") != "breakwave" or meta.get("category") != "drybulk":
+        return None
+    date_str = meta.get("date")
+    if not date_str:
+        return None
+    fundamentals = meta.get("fundamentals_table", {}) or {}
+    ore_inv = _clean_metric_tons((fundamentals.get("China Iron Ore Inventories") or {}).get("ytd"))
+    steel_prod = _clean_metric_tons((fundamentals.get("China Steel Production") or {}).get("ytd"))
+    steel_inv = _clean_metric_tons((fundamentals.get("China Steel Inventories") or {}).get("ytd"))
+    if steel_inv and steel_inv > 50:
+        steel_inv = round(steel_inv / 100.0, 2)
+    if not (ore_inv or steel_prod or steel_inv):
+        return None
+    fields = {}
+    if ore_inv:
+        fields["inventories_mt"] = ore_inv
+    if steel_prod:
+        fields["steel_production_mt"] = steel_prod
+    if steel_inv:
+        fields["steel_inventories_mt"] = steel_inv
+    return {"date": date_str, "fields": fields}
+
+
+def _build_doc_contributions(doc: dict, doc_path: Path, key: str) -> dict:
+    """Parse one document exactly as build_derived always has and capture its
+    per-doc contributions (theme row, signal rows, section rows, timeline
+    update, iron-ore fundamentals) so they can be cached verbatim."""
+    entry = {"k": key, "theme": None, "signals": [], "sections": [], "timeline": None, "io_fund": None}
+    try:
+        post = frontmatter.load(doc_path)
+    except Exception:
+        return entry
+
+    meta = post.metadata
+    source = meta.get("source")
+    category = meta.get("category")
+    date_str = meta.get("date")
+    doc_id = meta.get("doc_id")
+
+    # Archived bot-challenge / CDN error pages carry no market signal;
+    # keep them out of signals/timelines entirely.
+    if meta.get("is_error_page"):
+        return entry
+
+    entry["theme"] = {
+        "doc_id": doc_id,
+        "themes": meta.get("themes", []),
+        "key_entities": meta.get("key_entities", []),
+        "market_tone": meta.get("market_tone"),
+    }
+
+    if source == "breakwave":
+        signals = meta.get("signals", {}) or {}
+        fundamentals = meta.get("fundamentals_table", {}) or {}
+        row = {
+            "date": date_str,
+            "source": source,
+            "category": category,
+            "doc_id": doc_id,
+            "momentum": signals.get("momentum"),
+            "sentiment": signals.get("sentiment"),
+            "fundamentals": signals.get("fundamentals"),
+        }
+        if category == "drybulk":
+            row.update({
+                "bdryff": signals.get("bdryff"),
+                "bdi": signals.get("bdi"),
+                "bdi_spot": signals.get("bdi_spot"),
+                "bdryff_30d_pct": signals.get("bdryff_30d_pct"),
+                "bdryff_ytd_pct": signals.get("bdryff_ytd_pct"),
+                "bdryff_yoy_pct": signals.get("bdryff_yoy_pct"),
+                "bdi_30d_pct": signals.get("bdi_spot_30d_pct"),
+                "bdi_ytd_pct": signals.get("bdi_spot_ytd_pct"),
+                "bdi_yoy_pct": signals.get("bdi_spot_yoy_pct"),
+                "china_iron_ore_imports_yoy": parse_pct((fundamentals.get("China Iron Ore Imports") or {}).get("yoy_pct")),
+                "dry_bulk_fleet_yoy": parse_pct((fundamentals.get("Dry Bulk Fleet") or {}).get("yoy_pct")),
+            })
+        else:
+            row.update({
+                "bwetff": signals.get("bwetff"),
+                "vlcc_meg_asia": signals.get("vlcc_meg_asia"),
+                "bwetff_30d_pct": signals.get("bwetff_30d_pct"),
+                "bwetff_ytd_pct": signals.get("bwetff_ytd_pct"),
+                "bwetff_yoy_pct": signals.get("bwetff_yoy_pct"),
+                "vlcc_meg_asia_30d_pct": signals.get("vlcc_meg_asia_30d_pct"),
+                "vlcc_meg_asia_ytd_pct": signals.get("vlcc_meg_asia_ytd_pct"),
+                "vlcc_meg_asia_yoy_pct": signals.get("vlcc_meg_asia_yoy_pct"),
+                "world_oil_demand_yoy": parse_pct((fundamentals.get("World Oil Demand") or {}).get("yoy_pct")),
+                "tanker_fleet_yoy": parse_pct((fundamentals.get("Tanker Fleet") or {}).get("yoy_pct")),
+            })
+        entry["signals"].append(row)
+    elif source == "hellenic":
+        signals = meta.get("signals", {}) or {}
+        if signals:
+            row = {
+                "date": date_str,
+                "source": source,
+                "category": category,
+                "doc_id": doc_id,
+                "signal_family": signals.get("signal_family"),
+                "signals": signals,
+            }
+            if category in HELLENIC_CHARTER_CATEGORIES:
+                observations = signals.get("rate_observations", []) or []
+                row.update({
+                    "rate_observation_count": len(observations),
+                    "charter_rate_summary": signals.get("rate_summary", {}),
+                    "charter_timeframes": signals.get("timeframes", []),
+                    "metric_units": signals.get("metric_units", []),
+                })
+            elif category == "iron_ore":
+                metrics = signals.get("iron_ore_metrics", []) or []
+                row.update({
+                    "metric_observation_count": len(metrics),
+                    "benchmark_prices": signals.get("benchmark_prices", {}),
+                    "metric_units": signals.get("metric_units", []),
+                })
+            entry["signals"].append(row)
+    elif source in {"baltic", "breakwave_insights"}:
+        numeric_observations = meta.get("numeric_observations", []) or []
+        if numeric_observations:
+            entry["signals"].append({
+                "date": date_str,
+                "source": source,
+                "category": category,
+                "doc_id": doc_id,
+                "signal_family": "numeric_observations",
+                "numeric_observation_count": len(numeric_observations),
+                "numeric_observations": numeric_observations[:80],
+            })
+
+    if source in {"breakwave", "baltic"} and date_str:
+        try:
+            iso = datetime.strptime(date_str, "%Y-%m-%d").isocalendar()
+            week_key = f"{iso.year}-W{iso.week:02d}"
+            field = f"{source}_{category}"
+            entry["timeline"] = {"key": week_key, "field": field, "value": doc_id}
+        except ValueError:
+            pass
+
+    entry["io_fund"] = _breakwave_iron_ore_contribution(meta)
+
+    tree_path = doc.get("tree_path")
+    if tree_path and (REPO_ROOT / tree_path).exists():
+        try:
+            tree = json.loads((REPO_ROOT / tree_path).read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            tree = None
+        if tree:
+            for node in iter_tree_nodes(tree):
+                if node.get("level") == 0:
+                    continue
+                entry["sections"].append({
+                    "doc_id": doc_id,
+                    "source": source,
+                    "category": category,
+                    "date": date_str,
+                    "node_id": node.get("node_id"),
+                    "parent_id": node.get("parent_id"),
+                    "title": node.get("title"),
+                    "section_path": node.get("section_path", []),
+                    "section_path_text": node.get("section_path_text"),
+                    "level": node.get("level"),
+                    "ordinal": node.get("ordinal"),
+                    "summary": node.get("summary"),
+                    "keywords": node.get("keywords", []),
+                    "page_start": node.get("page_start"),
+                    "page_end": node.get("page_end"),
+                    "token_count": node.get("token_count"),
+                })
+    return entry
+
+
+def _normalize_charter_rate(v):
+    if v is None:
+        return None
+    try:
+        val = float(v)
+        if 0 < val < 100:
+            return val * 1000.0
+        if 100 <= val <= 2500:
+            return val * 10.0
+        return val
+    except Exception:
+        return v
+
+
+def _clamp_tc_rate(val):
+    """Plausibility guard for OCR-recovered time-charter rates ($/day).
+
+    The x1000/x10 dotted-value rescaling occasionally misfires on OCR noise
+    (e.g. a page number read as '2,026' -> 20260 is fine, but '12' from a
+    footnote -> 12000 pollutes the series). Rates outside 300..200,000 $/day
+    are physically implausible for every covered class, so they are dropped
+    with a warning instead of being written into time_charter_rates.csv.
+    """
+    if val is None:
+        return None
+    try:
+        fval = float(val)
+    except (TypeError, ValueError):
+        return val
+    if not (300.0 <= fval <= 200000.0):
+        print(f"[table-extract] dropping implausible charter rate {fval} $/day (outside 300..200000)", file=sys.stderr)
+        return None
+    return fval
+
+
+def _scan_charter_chunk_file(path: Path, category: str) -> list[dict]:
+    """Full rescan of one charter chunk JSONL into replayable TC-rate rows."""
+    rows: list[dict] = []
+    with open(path, encoding="utf-8") as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                chunk = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            date = chunk.get("date")
+            if date == "2022-10-21":
+                date = "2022-10-19"
+            text = chunk.get("text", "")
+            if not date or not text:
+                continue
+            # Only process chunks that have OCR text (image asset chunks)
+            if not any(marker in text for marker in ("OCR text:", "[structured table]", "[raw ocr]")) and "TIME CHARTER" not in text.upper():
+                continue
+            # Structured pipe-table rows (B2) take precedence: labeled cells
+            # replace positional vals[-6:] guesswork when present.
+            struct_rows = parse_structured_charter_rows(text) if category == "dry_charter" else []
+            extracted = extract_hellenic_charter_signals(text, category)
+            rate_obs = extracted.get("rate_observations", []) or []
+            if not rate_obs and not struct_rows:
+                continue
+            obs_rows = []
+            if struct_rows:
+                for srow in struct_rows:
+                    svals = [c for c in (_clamp_tc_rate(_normalize_charter_rate(v)) for v in srow.get("values", [])) if c is not None]
+                    if not svals:
+                        continue
+                    obs_rows.append({
+                        "s": srow["segment"],
+                        "v": svals,
+                        "tenor": srow.get("tenor"),
+                        "region": srow.get("region"),
+                    })
+            for obs in rate_obs:
+                seg = obs.get("segment")
+                vals = [_clamp_tc_rate(_normalize_charter_rate(v)) for v in (obs.get("values") or [])]
+                vals = [v for v in vals if v is not None]
+                obs_rows.append({"s": seg, "v": vals})
+            rows.append({"d": date, "c": category, "o": obs_rows})
+    return rows
+
+
+def _apply_tc_chunk_rows(rows: list[dict], tc_records: dict) -> None:
+    """Merge cached/scanned charter chunk rows into tc_records with the exact
+    semantics of the original inline scan loop."""
+    for entry in rows:
+        date = entry.get("d")
+        category = entry.get("c")
+        if not date or category not in HELLENIC_CHARTER_CATEGORIES:
+            continue
+        if date not in tc_records:
+            tc_records[date] = {}
+        for ob in entry.get("o", []):
+            seg = ob.get("s")
+            vals = ob.get("v") or []
+            if not seg or not vals:
+                continue
+            # Structured (labeled) rows write directly to their tenor/region
+            # columns — no positional inference needed.
+            if ob.get("tenor") and category == "dry_charter":
+                tenor = ob["tenor"]
+                region = ob.get("region")
+                if region:
+                    tc_records[date][f"{seg}_{tenor}_{region}"] = vals[0]
+                    tc_records[date][f"{seg}_{tenor}_avg"] = (
+                        (tc_records[date][f"{seg}_{tenor}_atl"] + tc_records[date][f"{seg}_{tenor}_pac"]) / 2.0
+                        if f"{seg}_{tenor}_atl" in tc_records[date] and f"{seg}_{tenor}_pac" in tc_records[date]
+                        else vals[0]
+                    )
+                else:
+                    tc_records[date][f"{seg}_{tenor}_avg"] = sum(vals) / len(vals)
+                continue
+            if category == "dry_charter":
+                rates = vals[-6:]
+                if len(rates) == 6:
+                    tc_records[date][f"{seg}_4_6m_atl"] = rates[0]
+                    tc_records[date][f"{seg}_4_6m_pac"] = rates[1]
+                    tc_records[date][f"{seg}_4_6m_avg"] = (rates[0] + rates[1]) / 2.0
+                    tc_records[date][f"{seg}_1y_atl"] = rates[2]
+                    tc_records[date][f"{seg}_1y_pac"] = rates[3]
+                    tc_records[date][f"{seg}_1y_avg"] = (rates[2] + rates[3]) / 2.0
+                    tc_records[date][f"{seg}_2y_atl"] = rates[4]
+                    tc_records[date][f"{seg}_2y_pac"] = rates[5]
+                    tc_records[date][f"{seg}_2y_avg"] = (rates[4] + rates[5]) / 2.0
+                elif len(rates) == 5:
+                    tc_records[date][f"{seg}_4_6m_pac"] = rates[0]
+                    tc_records[date][f"{seg}_4_6m_avg"] = rates[0]
+                    tc_records[date][f"{seg}_1y_atl"] = rates[1]
+                    tc_records[date][f"{seg}_1y_pac"] = rates[2]
+                    tc_records[date][f"{seg}_1y_avg"] = (rates[1] + rates[2]) / 2.0
+                    tc_records[date][f"{seg}_2y_atl"] = rates[3]
+                    tc_records[date][f"{seg}_2y_pac"] = rates[4]
+                    tc_records[date][f"{seg}_2y_avg"] = (rates[3] + rates[4]) / 2.0
+            else:  # tanker_charter
+                rates = vals[-4:]
+                if len(rates) == 4:
+                    # Only write if not already set from document-level signals
+                    k1 = f"{seg}_1y"
+                    if k1 not in tc_records[date]:
+                        tc_records[date][f"{seg}_1y"] = rates[0]
+                        tc_records[date][f"{seg}_2y"] = rates[1]
+                        tc_records[date][f"{seg}_3y"] = rates[2]
+                        tc_records[date][f"{seg}_5y"] = rates[3]
+
+
+def _chunk_file_cache_key(path: Path) -> str:
+    try:
+        return path.resolve().relative_to(REPO_ROOT.resolve()).as_posix()
+    except Exception:
+        return path.as_posix()
+
+
 def write_chunk_index() -> dict:
     """Emit knowledge/chunks/index.json describing every chunk shard.
 
@@ -3062,169 +3623,71 @@ def write_chunk_index() -> dict:
     return payload
 
 
-def build_derived(llm_enabled: bool = False):
+def build_derived(llm_enabled: bool = False, force_full: bool = False):
     documents = load_jsonl(DOCUMENTS_MANIFEST)
     SIGNALS_DERIVED.parent.mkdir(parents=True, exist_ok=True)
     signal_rows = []
     theme_rows = []
     section_rows = []
     timelines = {}
+    io_fund_updates = []
+
+    # Content-addressed caches (KNOWLEDGE_FULL_DERIVED=1 / --rebuild bypass
+    # reads but still refresh the cache files for subsequent runs).
+    env_force_full = os.environ.get("KNOWLEDGE_FULL_DERIVED") == "1"
+    prior_cache = (
+        _load_derived_cache()
+        if not (force_full or env_force_full)
+        else {"v": CACHE_SCHEMA_VERSION, "docs": {}, "chunk_files": {}}
+    )
+    docs_store: dict[str, dict] = {}
+    reused_docs = 0
+    reprocessed_docs = 0
 
     for doc in documents:
-        doc_path = REPO_ROOT / doc["doc_path"]
+        doc_rel = doc["doc_path"]
+        doc_path = REPO_ROOT / doc_rel
         if not doc_path.exists():
             continue
         try:
-            post = frontmatter.load(doc_path)
-        except Exception:
+            raw_bytes = doc_path.read_bytes()
+        except OSError:
             continue
+        tree_rel = doc.get("tree_path")
+        tree_bytes = None
+        if tree_rel and (REPO_ROOT / tree_rel).exists():
+            try:
+                tree_bytes = (REPO_ROOT / tree_rel).read_bytes()
+            except OSError:
+                tree_bytes = None
+        content_key = _doc_cache_entry_key(raw_bytes, tree_bytes)
+        cache_id = doc.get("doc_id") or f"path::{doc_rel}"
+        prior_entry = prior_cache["docs"].get(cache_id)
+        if prior_entry is not None and prior_entry.get("k") == content_key:
+            reused_docs += 1
+            entry = prior_entry
+        else:
+            reprocessed_docs += 1
+            entry = _build_doc_contributions(doc, doc_path, content_key)
+        docs_store[cache_id] = entry
 
-        meta = post.metadata
-        source = meta.get("source")
-        category = meta.get("category")
-        date_str = meta.get("date")
-        doc_id = meta.get("doc_id")
-
-        # Archived bot-challenge / CDN error pages carry no market signal;
-        # keep them out of signals/timelines entirely.
-        if meta.get("is_error_page"):
-            continue
-
-        theme_rows.append({
-            "doc_id": doc_id,
-            "themes": meta.get("themes", []),
-            "key_entities": meta.get("key_entities", []),
-            "market_tone": meta.get("market_tone"),
-        })
-
-        if source == "breakwave":
-            signals = meta.get("signals", {}) or {}
-            fundamentals = meta.get("fundamentals_table", {}) or {}
-            row = {
-                "date": date_str,
-                "source": source,
-                "category": category,
-                "doc_id": doc_id,
-                "momentum": signals.get("momentum"),
-                "sentiment": signals.get("sentiment"),
-                "fundamentals": signals.get("fundamentals"),
-            }
-            if category == "drybulk":
-                row.update({
-                    "bdryff": signals.get("bdryff"),
-                    "bdi": signals.get("bdi"),
-                    "bdi_spot": signals.get("bdi_spot"),
-                    "bdryff_30d_pct": signals.get("bdryff_30d_pct"),
-                    "bdryff_ytd_pct": signals.get("bdryff_ytd_pct"),
-                    "bdryff_yoy_pct": signals.get("bdryff_yoy_pct"),
-                    "bdi_30d_pct": signals.get("bdi_spot_30d_pct"),
-                    "bdi_ytd_pct": signals.get("bdi_spot_ytd_pct"),
-                    "bdi_yoy_pct": signals.get("bdi_spot_yoy_pct"),
-                    "china_iron_ore_imports_yoy": parse_pct((fundamentals.get("China Iron Ore Imports") or {}).get("yoy_pct")),
-                    "dry_bulk_fleet_yoy": parse_pct((fundamentals.get("Dry Bulk Fleet") or {}).get("yoy_pct")),
-                })
-            else:
-                row.update({
-                    "bwetff": signals.get("bwetff"),
-                    "vlcc_meg_asia": signals.get("vlcc_meg_asia"),
-                    "bwetff_30d_pct": signals.get("bwetff_30d_pct"),
-                    "bwetff_ytd_pct": signals.get("bwetff_ytd_pct"),
-                    "bwetff_yoy_pct": signals.get("bwetff_yoy_pct"),
-                    "vlcc_meg_asia_30d_pct": signals.get("vlcc_meg_asia_30d_pct"),
-                    "vlcc_meg_asia_ytd_pct": signals.get("vlcc_meg_asia_ytd_pct"),
-                    "vlcc_meg_asia_yoy_pct": signals.get("vlcc_meg_asia_yoy_pct"),
-                    "world_oil_demand_yoy": parse_pct((fundamentals.get("World Oil Demand") or {}).get("yoy_pct")),
-                    "tanker_fleet_yoy": parse_pct((fundamentals.get("Tanker Fleet") or {}).get("yoy_pct")),
-                })
+        if entry.get("theme"):
+            theme_rows.append(entry["theme"])
+        for row in entry.get("signals", []):
             signal_rows.append(row)
-        elif source == "hellenic":
-            signals = meta.get("signals", {}) or {}
-            if signals:
-                row = {
-                    "date": date_str,
-                    "source": source,
-                    "category": category,
-                    "doc_id": doc_id,
-                    "signal_family": signals.get("signal_family"),
-                    "signals": signals,
-                }
-                if category in HELLENIC_CHARTER_CATEGORIES:
-                    observations = signals.get("rate_observations", []) or []
-                    row.update({
-                        "rate_observation_count": len(observations),
-                        "charter_rate_summary": signals.get("rate_summary", {}),
-                        "charter_timeframes": signals.get("timeframes", []),
-                        "metric_units": signals.get("metric_units", []),
-                    })
-                elif category == "iron_ore":
-                    metrics = signals.get("iron_ore_metrics", []) or []
-                    row.update({
-                        "metric_observation_count": len(metrics),
-                        "benchmark_prices": signals.get("benchmark_prices", {}),
-                        "metric_units": signals.get("metric_units", []),
-                    })
-                signal_rows.append(row)
-        elif source in {"baltic", "breakwave_insights"}:
-            numeric_observations = meta.get("numeric_observations", []) or []
-            if numeric_observations:
-                signal_rows.append({
-                    "date": date_str,
-                    "source": source,
-                    "category": category,
-                    "doc_id": doc_id,
-                    "signal_family": "numeric_observations",
-                    "numeric_observation_count": len(numeric_observations),
-                    "numeric_observations": numeric_observations[:80],
-                })
+        for row in entry.get("sections", []):
+            section_rows.append(row)
+        tl = entry.get("timeline")
+        if tl:
+            timelines.setdefault(tl["key"], _timeline_skeleton())
+            timelines[tl["key"]][tl["field"]] = tl["value"]
+        if entry.get("io_fund"):
+            io_fund_updates.append(entry["io_fund"])
 
-        if source in {"breakwave", "baltic"} and date_str:
-            try:
-                iso = datetime.strptime(date_str, "%Y-%m-%d").isocalendar()
-                key = f"{iso.year}-W{iso.week:02d}"
-                timelines.setdefault(key, {
-                    "breakwave_drybulk": None,
-                    "breakwave_tankers": None,
-                    "baltic_dry": None,
-                    "baltic_tanker": None,
-                    "baltic_gas": None,
-                    "baltic_container": None,
-                    "baltic_ningbo": None,
-                })
-                if source == "breakwave":
-                    timelines[key][f"breakwave_{category}"] = doc_id
-                else:
-                    timelines[key][f"baltic_{category}"] = doc_id
-            except ValueError:
-                pass
-
-        tree_path = doc.get("tree_path")
-        if tree_path and (REPO_ROOT / tree_path).exists():
-            try:
-                tree = json.loads((REPO_ROOT / tree_path).read_text(encoding="utf-8"))
-            except (OSError, json.JSONDecodeError):
-                tree = None
-            if tree:
-                for node in iter_tree_nodes(tree):
-                    if node.get("level") == 0:
-                        continue
-                    section_rows.append({
-                        "doc_id": doc_id,
-                        "source": source,
-                        "category": category,
-                        "date": date_str,
-                        "node_id": node.get("node_id"),
-                        "parent_id": node.get("parent_id"),
-                        "title": node.get("title"),
-                        "section_path": node.get("section_path", []),
-                        "section_path_text": node.get("section_path_text"),
-                        "level": node.get("level"),
-                        "ordinal": node.get("ordinal"),
-                        "summary": node.get("summary"),
-                        "keywords": node.get("keywords", []),
-                        "page_start": node.get("page_start"),
-                        "page_end": node.get("page_end"),
-                        "token_count": node.get("token_count"),
-                    })
+    print(
+        f"[DERIVED] incremental: reused={reused_docs} reprocessed={reprocessed_docs}"
+        + (" (full refresh)" if (force_full or env_force_full) else "")
+    )
 
     SIGNALS_DERIVED.write_text("", encoding="utf-8")
     bw_compact_signals = []
@@ -3311,6 +3774,7 @@ def build_derived(llm_enabled: bool = False):
     # Also scan chunk JSONL files directly for tanker_charter and dry_charter.
     # The TC rate table is embedded as an image OCR text in chunk files,
     # not in document-level metadata, so the signal_rows loop above misses it.
+    # Results are cached per chunk file keyed by (size, mtime_ns).
     all_tc_chunk_files = []
     import glob as _glob2
     
@@ -3328,83 +3792,30 @@ def build_derived(llm_enabled: bool = False):
     for _sf in sorted(_glob2.glob(str(CHUNKS_DIR / "hellenic_dry_charter_*.jsonl"))):
         all_tc_chunk_files.append((Path(_sf), "dry_charter"))
 
+    chunk_store: dict[str, dict] = {}
+    rescanned_chunk_files = 0
     for _cf, _cat in all_tc_chunk_files:
         try:
-            with open(_cf, encoding="utf-8") as _fh:
-                for _line in _fh:
-                    _line = _line.strip()
-                    if not _line:
-                        continue
-                    try:
-                        _chunk = json.loads(_line)
-                    except json.JSONDecodeError:
-                        continue
-                    _date = _chunk.get("date")
-                    if _date == "2022-10-21":
-                        _date = "2022-10-19"
-                    _text = _chunk.get("text", "")
-                    if not _date or not _text:
-                        continue
-                    # Only process chunks that have OCR text (image asset chunks)
-                    if "OCR text:" not in _text and "TIME CHARTER" not in _text.upper():
-                        continue
-                    _extracted = extract_hellenic_charter_signals(_text, _cat)
-                    _rate_obs = _extracted.get("rate_observations", []) or []
-                    if not _rate_obs:
-                        continue
-                    if _date not in tc_records:
-                        tc_records[_date] = {}
-                    for _obs in _rate_obs:
-                        _seg = _obs.get("segment")
-                        _vals = _obs.get("values") or []
-                        if not _seg or not _vals:
-                            continue
-                        def _norm_rate(v):
-                            if v is None:
-                                return None
-                            try:
-                                val = float(v)
-                                if 0 < val < 100:
-                                    return val * 1000.0
-                                if 100 <= val <= 2500:
-                                    return val * 10.0
-                                return val
-                            except Exception:
-                                return v
-                        _vals = [_norm_rate(v) for v in _vals]
-                        if _cat == "dry_charter":
-                            _rates = _vals[-6:]
-                            if len(_rates) == 6:
-                                tc_records[_date][f"{_seg}_4_6m_atl"] = _rates[0]
-                                tc_records[_date][f"{_seg}_4_6m_pac"] = _rates[1]
-                                tc_records[_date][f"{_seg}_4_6m_avg"] = (_rates[0] + _rates[1]) / 2.0
-                                tc_records[_date][f"{_seg}_1y_atl"] = _rates[2]
-                                tc_records[_date][f"{_seg}_1y_pac"] = _rates[3]
-                                tc_records[_date][f"{_seg}_1y_avg"] = (_rates[2] + _rates[3]) / 2.0
-                                tc_records[_date][f"{_seg}_2y_atl"] = _rates[4]
-                                tc_records[_date][f"{_seg}_2y_pac"] = _rates[5]
-                                tc_records[_date][f"{_seg}_2y_avg"] = (_rates[4] + _rates[5]) / 2.0
-                            elif len(_rates) == 5:
-                                tc_records[_date][f"{_seg}_4_6m_pac"] = _rates[0]
-                                tc_records[_date][f"{_seg}_4_6m_avg"] = _rates[0]
-                                tc_records[_date][f"{_seg}_1y_atl"] = _rates[1]
-                                tc_records[_date][f"{_seg}_1y_pac"] = _rates[2]
-                                tc_records[_date][f"{_seg}_1y_avg"] = (_rates[1] + _rates[2]) / 2.0
-                                tc_records[_date][f"{_seg}_2y_atl"] = _rates[3]
-                                tc_records[_date][f"{_seg}_2y_pac"] = _rates[4]
-                                tc_records[_date][f"{_seg}_2y_avg"] = (_rates[3] + _rates[4]) / 2.0
-                        else: # tanker_charter
-                            _rates = _vals[-4:]
-                            if len(_rates) == 4:
-                                # Only write if not already set from document-level signals
-                                _k1 = f"{_seg}_1y"
-                                if _k1 not in tc_records[_date]:
-                                    tc_records[_date][f"{_seg}_1y"] = _rates[0]
-                                    tc_records[_date][f"{_seg}_2y"] = _rates[1]
-                                    tc_records[_date][f"{_seg}_3y"] = _rates[2]
-                                    tc_records[_date][f"{_seg}_5y"] = _rates[3]
+            _st = _cf.stat()
         except OSError:
             continue
+        _ckey = _chunk_file_cache_key(_cf)
+        _prior_cf = prior_cache["chunk_files"].get(_ckey)
+        if (
+            isinstance(_prior_cf, dict)
+            and _prior_cf.get("size") == _st.st_size
+            and _prior_cf.get("mtime_ns") == _st.st_mtime_ns
+            and isinstance(_prior_cf.get("rows"), list)
+        ):
+            _rows = _prior_cf["rows"]
+        else:
+            try:
+                _rows = _scan_charter_chunk_file(_cf, _cat)
+            except OSError:
+                continue
+            rescanned_chunk_files += 1
+        chunk_store[_ckey] = {"size": _st.st_size, "mtime_ns": _st.st_mtime_ns, "rows": _rows}
+        _apply_tc_chunk_rows(_rows, tc_records)
 
     tc_file = derived_dir / "time_charter_rates.csv"
     tc_cols = [
@@ -3523,42 +3934,15 @@ def build_derived(llm_enabled: bool = False):
                         if 300 <= v <= 1800:
                             iron_ore_records[date]["port_stock_65"] = v
                             break
-    # Now merge Breakwave fundamentals (inventories)
-    for doc in documents:
-        doc_path = REPO_ROOT / doc["doc_path"]
-        if not doc_path.exists():
-            continue
-        try:
-            post = frontmatter.load(doc_path)
-        except Exception:
-            continue
-        meta = post.metadata
-        source = meta.get("source")
-        category = meta.get("category")
-        date_str = meta.get("date")
-        if source == "breakwave" and category == "drybulk" and date_str:
-            fundamentals = meta.get("fundamentals_table", {}) or {}
-            def clean_mt(val_str):
-                if not val_str:
-                    return None
-                m = re.search(r"(\d+\.?\d*)", str(val_str))
-                if m:
-                    return float(m.group(1))
-                return None
-            ore_inv = clean_mt((fundamentals.get("China Iron Ore Inventories") or {}).get("ytd"))
-            steel_prod = clean_mt((fundamentals.get("China Steel Production") or {}).get("ytd"))
-            steel_inv = clean_mt((fundamentals.get("China Steel Inventories") or {}).get("ytd"))
-            if steel_inv and steel_inv > 50:
-                steel_inv = round(steel_inv / 100.0, 2)
-            if ore_inv or steel_prod or steel_inv:
-                if date_str not in iron_ore_records:
-                    iron_ore_records[date_str] = {}
-                if ore_inv:
-                    iron_ore_records[date_str]["inventories_mt"] = ore_inv
-                if steel_prod:
-                    iron_ore_records[date_str]["steel_production_mt"] = steel_prod
-                if steel_inv:
-                    iron_ore_records[date_str]["steel_inventories_mt"] = steel_inv
+    # Now merge Breakwave fundamentals (inventories). Contributions were
+    # captured per-doc during the cached document pass above; replay them in
+    # manifest order (last writer wins, exactly as the original second pass).
+    for _upd in io_fund_updates:
+        _io_date = _upd["date"]
+        if _io_date not in iron_ore_records:
+            iron_ore_records[_io_date] = {}
+        for _k, _v in _upd["fields"].items():
+            iron_ore_records[_io_date][_k] = _v
 
     # Write Iron Ore Restocking additively (preserve all historical PDF archive data)
     io_file = derived_dir / "iron_ore_restocking.csv"
@@ -3653,6 +4037,15 @@ def build_derived(llm_enabled: bool = False):
                 val = data.get(col)
                 row.append("" if val is None else str(val))
             writer.writerow(row)
+    _save_derived_cache({
+        "v": CACHE_SCHEMA_VERSION,
+        "docs": docs_store,
+        "chunk_files": chunk_store,
+    })
+    print(
+        f"[DERIVED] cache: docs={len(docs_store)} chunk_files={len(chunk_store)} "
+        f"rescanned={rescanned_chunk_files} -> {DERIVED_CACHE_PATH.name}"
+    )
     build_wiki(
         repo_root=REPO_ROOT,
         config_dir=CONFIG_DIR,
@@ -3679,6 +4072,17 @@ def build_derived(llm_enabled: bool = False):
     )
     chunk_index = write_chunk_index()
     print(f"[CHUNK-INDEX] wrote knowledge/chunks/index.json ({chunk_index['count']} shards)")
+    # B1: pre-tokenized browser search indexes for the Q&A fast path.
+    # Soft import so an incomplete checkout degrades to "no fast path" in the
+    # frontend instead of failing the whole derived rebuild.
+    try:
+        from search_index_build import build_all as _build_search_indexes
+
+        search_manifest = _build_search_indexes(CHUNKS_DIR, CHUNKS_DIR / "search")
+        n_shards = search_manifest.get("count") or len(search_manifest.get("files", []))
+        print(f"[SEARCH-INDEX] wrote {n_shards} shard indexes")
+    except Exception as exc:
+        print(f"[SEARCH-INDEX] skipped ({exc})", file=sys.stderr)
 
 
 def main():
@@ -3850,7 +4254,7 @@ def main():
                     except PermissionError:
                         pass
 
-        build_derived(llm_enabled=llm_enabled)
+        build_derived(llm_enabled=llm_enabled, force_full=args.rebuild)
         print(f"[DONE] processed={processed_count} skipped={skipped_count} errors={error_count}")
         print(
             "[LINKED_ASSETS] "

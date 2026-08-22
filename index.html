@@ -11096,7 +11096,7 @@
 
       <!-- Section 3: Q&A Assistant -->
       <div class="intel-section">
-        <div class="intel-section-title"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div> &nbsp;Research Q&amp;A</div>
+        <div class="intel-section-title"><div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div> &nbsp;Research Q&amp;A<span style="font-size:10px;font-weight:600;color:var(--text-muted);margin-left:8px;" data-tooltip=" " data-tt-type="concept-qa-fastpath">⚡ indexed retrieval</span></div>
         <div style="background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;">
           <div class="qa-key-row">
             <span class="qa-key-label" data-tooltip="Select AI inference provider. Direct client-side CORS execution.">Provider</span>
@@ -24228,6 +24228,201 @@ if (intelTabsContainer) {
     }
     window._resolveQAChunkTable = _resolveQAChunkTable;
 
+    // ------------------------------------------------------------------
+    // Pre-built search index fast path (B1). The compiler publishes
+    // knowledge/chunks/search/{stem}.idx.json — compact per-shard BM25-ready
+    // posting lists. Queries rank candidates from these tiny files first and
+    // download only the shards that actually contain hits, instead of
+    // streaming every tier shard and tokenizing it in-browser.
+    // Any failure anywhere falls back to the legacy full-scan path below.
+    // ------------------------------------------------------------------
+    var _qaSearchIdxManifest = null;   // parsed manifest, or false while "known bad"
+    var _qaSearchIdxFailedAt = 0;      // ms timestamp of last manifest failure
+    var _qaSearchIdxCache = {};        // idx url -> parsed payload
+
+    function _qaGroupsForStem(stem) {
+      for (var i = 0; i < _QA_GROUP_PREFIXES.length; i++) {
+        if (stem.indexOf(_QA_GROUP_PREFIXES[i][0]) === 0) return _QA_GROUP_PREFIXES[i][1];
+      }
+      return [];
+    }
+
+    async function _resolveQASearchIndex() {
+      if (_qaSearchIdxManifest) return _qaSearchIdxManifest;
+      // Negative cache for 5 minutes so a transient failure doesn't refetch per query
+      if (_qaSearchIdxManifest === false && (Date.now() - _qaSearchIdxFailedAt) < 300000) return null;
+      try {
+        const ctl = new AbortController();
+        const timer = setTimeout(() => ctl.abort(), 6000);
+        const resp = await fetch('knowledge/chunks/search/index.json', { cache: 'no-cache', signal: ctl.signal });
+        clearTimeout(timer);
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const m = await resp.json();
+        if (!m || m.v !== 1 || !Array.isArray(m.files) || !m.files.length) throw new Error('bad manifest');
+        m.files.forEach(f => { f._groups = _qaGroupsForStem(f.stem || ''); });
+        _qaSearchIdxManifest = m;
+      } catch (e) {
+        console.warn('[QA] search index unavailable, using legacy scan:', e.message);
+        _qaSearchIdxManifest = false;
+        _qaSearchIdxFailedAt = Date.now();
+      }
+      return _qaSearchIdxManifest || null;
+    }
+    window._resolveQASearchIndex = _resolveQASearchIndex;
+
+    async function _loadSearchIdx(url) {
+      if (_qaSearchIdxCache[url]) return _qaSearchIdxCache[url];
+      const ctl = new AbortController();
+      const timer = setTimeout(() => ctl.abort(), 15000);
+      const resp = await fetch(url, { cache: 'no-cache', signal: ctl.signal });
+      clearTimeout(timer);
+      if (!resp.ok) throw new Error('HTTP ' + resp.status + ' for ' + url);
+      const parsed = await resp.json();
+      if (!parsed || parsed.v !== 1 || !Array.isArray(parsed.docs)) throw new Error('bad idx ' + url);
+      return (_qaSearchIdxCache[url] = parsed);
+    }
+
+    /**
+     * BM25 (k1=1.4, b=0.75) over one parsed idx file's docs for the given
+     * query terms. Returns [{score, doc}] with score > 0 only.
+     */
+    function _bm25ScoreIdxFile(parsed, termSet) {
+      const docs = parsed.docs || [];
+      const N = docs.length;
+      if (!N) return [];
+      const vidOf = new Map();
+      (parsed.vocab || []).forEach((t, i) => vidOf.set(t, i));
+      const qvids = [];
+      termSet.forEach(term => { const v = vidOf.get(term); if (v != null) qvids.push(v); });
+      if (!qvids.length) return [];
+
+      const df = new Map();
+      docs.forEach(d => {
+        const seen = new Set();
+        d.t.forEach(p => { const v = p[0]; if (!seen.has(v)) { seen.add(v); df.set(v, (df.get(v) || 0) + 1); } });
+      });
+      const avgdl = docs.reduce((s, d) => s + d.n, 0) / N || 1;
+      const k1 = 1.4, b = 0.75;
+      const idfCache = new Map();
+      const out = [];
+      docs.forEach(d => {
+        let score = 0;
+        for (let qi = 0; qi < qvids.length; qi++) {
+          const vid = qvids[qi];
+          let tf = 0;
+          for (let ti = 0; ti < d.t.length; ti++) {
+            if (d.t[ti][0] === vid) { tf = d.t[ti][1]; break; }
+          }
+          if (!tf) continue;
+          let idf = idfCache.get(vid);
+          if (idf == null) {
+            const n = df.get(vid) || 0;
+            idf = Math.log(1 + (N - n + 0.5) / (n + 0.5));
+            idfCache.set(vid, idf);
+          }
+          score += idf * (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * d.n / avgdl));
+        }
+        if (score > 0) out.push({ score: score, doc: d });
+      });
+      return out;
+    }
+
+    /**
+     * Fast-path candidate generation. Returns an array of materialized chunk
+     * rows (same shape as _loadChunks output), or null to signal fallback.
+     */
+    async function _qaFastPathCandidates(opts) {
+      const manifest = await _resolveQASearchIndex();
+      if (!manifest) return null;
+      const statusEl = opts.statEl;
+
+      const wantedStems = manifest.files
+        .filter(f => f._groups && f._groups.some(g => opts.srcMap[g]))
+        .map(f => ({ stem: f.stem, url: 'knowledge/chunks/search/' + f.idx.split('/').pop() }));
+      if (!wantedStems.length) return null;
+
+      if (statusEl) statusEl.textContent = 'Ranking corpus (fast index)…';
+      const termSet = new Set(opts.terms);
+      const titleTerms = new Set(opts.terms);
+      const nowMs = opts.now || Date.now();
+      const ninetyDays = 90 * 86400000;
+
+      let cands = [];
+      const loadedIdx = [];
+      for (const w of wantedStems) {
+        try {
+          const parsed = await _loadSearchIdx(w.url);
+          loadedIdx.push(parsed);
+          cands.push(..._bm25ScoreIdxFile(parsed, termSet));
+        } catch (e) {
+          console.warn('[QA fast path] idx load failed:', w.url, e.message);
+          return null; // any idx failure → legacy path (consistent corpus view)
+        }
+      }
+      if (!cands.length) return [];   // index healthy but zero lexical hits
+
+      // Recency boost (+90d ×1.5), section-title boost, date-intent filter
+      const df = opts.dateFilter;
+      cands = cands.filter(c => {
+        if (!df || !c.doc.D) return true;
+        return c.doc.D >= df.from && c.doc.D <= df.to;
+      }).map(c => {
+        let s = c.score;
+        const dt = c.doc.D ? Date.parse(c.doc.D) : NaN;
+        if (!isNaN(dt) && (nowMs - dt) <= ninetyDays) s *= 1.5;
+        if (c.doc.s) {
+          let th = 0;
+          String(c.doc.s).toLowerCase().split(/[^a-z0-9]+/).forEach(tok => {
+            if (tok.length >= 2 && titleTerms.has(tok)) th++;
+          });
+          if (th) s *= (1 + 0.4 * th);
+        }
+        return { score: s, doc: c.doc };
+      }).sort((a, b) => b.score - a.score);
+
+      const want = Math.max(opts.maxTopChunks * 4, 24);
+      const top = cands.slice(0, want);
+
+      // Fetch ONLY shards containing hits; verify chunk identity per line
+      if (statusEl) statusEl.textContent = 'Fetching top sources…';
+      const shardOfDoc = new Map();
+      loadedIdx.forEach(parsed => parsed.docs.forEach(d => shardOfDoc.set(d.c, parsed.stem)));
+      const byShard = new Map();
+      top.forEach(c => {
+        const stem = shardOfDoc.get(c.doc.c);
+        if (!stem) return;
+        if (!byShard.has(stem)) byShard.set(stem, []);
+        byShard.get(stem).push(c.doc);
+      });
+
+      const out = [];
+      for (const [stem, docsWanted] of byShard) {
+        const rows = await _loadChunks('knowledge/chunks/' + stem + '.jsonl');
+        const byId = new Map();
+        docsWanted.forEach(d => byId.set(d.c, d));
+        rows.forEach((row, lineNo) => {
+          const d = byId.get(row.chunk_id);
+          if (!d) return;
+          if (lineNo !== d.i) throw new Error('stale index: ' + stem + ' line ' + lineNo);
+          out.push(row);
+          byId.delete(row.chunk_id);
+        });
+        if (byId.size) throw new Error('stale index: missing chunks in ' + stem);
+      }
+      return out;
+    }
+    window._qaFastPathCandidates = _qaFastPathCandidates;
+
+    window._qaSearchDebug = function () {
+      return {
+        manifestLoaded: !!_qaSearchIdxManifest,
+        manifestFiles: _qaSearchIdxManifest ? _qaSearchIdxManifest.files.length : 0,
+        idxCacheKeys: Object.keys(_qaSearchIdxCache),
+        dynamicTierTable: !!QA_CHUNK_FILES_DYNAMIC,
+      };
+    };
+
+
     const QA_WIKI_FILES = [
       { key: 'dry_bulk_market',          path: 'knowledge/wiki/dry_bulk_market.md',          label: 'Dry Bulk Market' },
       { key: 'capesize',                 path: 'knowledge/wiki/capesize.md',                  label: 'Capesize' },
@@ -26985,37 +27180,77 @@ if (intelTabsContainer) {
           const isLargeCtx = maxFallbackCtx >= 20000 || deepResearch;
           const maxTopChunks = deepResearch ? 60 : (isLargeCtx ? 35 : 12);
 
-          statEl.textContent = 'Loading recent data...';
-          let allChunks = (await Promise.all(_getUrls('recent').map(_loadChunks))).flat();
-
-          // Always load historical for large-context; load for small only when < 5 results
-          statEl.textContent = 'Loading historical data...';
-          const histChunks = (await Promise.all(_getUrls('historical').map(_loadChunks))).flat();
-          allChunks = [...allChunks, ...histChunks];
-
-          // Deep historical archives for Deep Research / large context
-          if (isLargeCtx || deepResearch) {
-            statEl.textContent = 'Loading deep historical archives (2014-2022)...';
-            const deepChunks = (await Promise.all(_getUrls('deep_historical').map(_loadChunks))).flat();
-            allChunks = [...allChunks, ...deepChunks];
-          }
-
-          // Build/cache inverted index keyed by loaded URL set (invalidated on source toggle)
-          const urlKey = [..._getUrls('recent'), ..._getUrls('historical')].sort().join('|');
-          if (!INTEL._invertedIndex || INTEL._invertedIndex._urlKey !== urlKey) {
-            statEl.textContent = 'Building search index…';
-            INTEL._invertedIndex = _buildInvertedIndex(allChunks);
-            INTEL._invertedIndex._urlKey = urlKey;
-            INTEL._bm25Stats = _buildDfStats(allChunks, c => c.text + ' ' + (c.keywords || []).join(' '));
-          }
-
-          // Narrow candidate pool: only chunks matching ≥1 expanded query term
+          // ── Fast path (B1): rank via pre-built search index, fetch only hit shards ──
+          // Falls back to the legacy full tier scan below on any failure.
           const dateFilter    = _extractDateFilter(query);
-          let   candidatePool = _lookupCandidates(INTEL._invertedIndex, terms);
-          candidatePool       = _applyDateFilter(candidatePool, dateFilter);
+          let candidatePool   = null;
+          let usedFastPath    = false;
+          let fastBm25Stats   = null;
+          try {
+            const fastRows = await _qaFastPathCandidates({
+              terms,
+              dateFilter,
+              maxTopChunks,
+              now: Date.now(),
+              statEl,
+              srcMap: {
+                breakwave:    _src('qaSrcBreakwave',    'breakwave'),
+                baltic:       _src('qaSrcBaltic',       'baltic'),
+                hellenic:     _src('qaSrcHellenic',     'hellenic'),
+                ironOre:      _src('qaSrcIronOre',      'ironOre'),
+                shipbuilding: _src('qaSrcShipbuilding', 'shipbuilding'),
+                books:        _src('qaSrcBooks',        'books'),
+              },
+            });
+            if (fastRows && fastRows.length) {
+              candidatePool = fastRows;
+              usedFastPath = true;
+              fastBm25Stats = _buildDfStats(candidatePool, c => c.text + ' ' + (c.keywords || []).join(' '));
+            } else if (fastRows && !fastRows.length) {
+              // Index healthy but zero lexical hits — keep pool empty so the
+              // low-confidence warning fires without a full corpus download.
+              candidatePool = [];
+              usedFastPath = true;
+              fastBm25Stats = _buildDfStats([], c => c.text);
+            }
+          } catch (e) {
+            console.warn('[QA fast path] abandoned, legacy scan:', e.message);
+            candidatePool = null;
+            usedFastPath = false;
+          }
+
+          if (!usedFastPath) {
+            statEl.textContent = 'Loading recent data...';
+            let allChunks = (await Promise.all(_getUrls('recent').map(_loadChunks))).flat();
+
+            // Always load historical for large-context; load for small only when < 5 results
+            statEl.textContent = 'Loading historical data...';
+            const histChunks = (await Promise.all(_getUrls('historical').map(_loadChunks))).flat();
+            allChunks = [...allChunks, ...histChunks];
+
+            // Deep historical archives for Deep Research / large context
+            if (isLargeCtx || deepResearch) {
+              statEl.textContent = 'Loading deep historical archives (2014-2022)...';
+              const deepChunks = (await Promise.all(_getUrls('deep_historical').map(_loadChunks))).flat();
+              allChunks = [...allChunks, ...deepChunks];
+            }
+
+            // Build/cache inverted index keyed by loaded URL set (invalidated on source toggle)
+            const urlKey = [..._getUrls('recent'), ..._getUrls('historical')].sort().join('|');
+            if (!INTEL._invertedIndex || INTEL._invertedIndex._urlKey !== urlKey) {
+              statEl.textContent = 'Building search index…';
+              INTEL._invertedIndex = _buildInvertedIndex(allChunks);
+              INTEL._invertedIndex._urlKey = urlKey;
+              INTEL._bm25Stats = _buildDfStats(allChunks, c => c.text + ' ' + (c.keywords || []).join(' '));
+            }
+
+            // Narrow candidate pool: only chunks matching ≥1 expanded query term
+            candidatePool = _lookupCandidates(INTEL._invertedIndex, terms);
+            candidatePool = _applyDateFilter(candidatePool, dateFilter);
+          }
 
           const avgCLen    = candidatePool.reduce((s, c) => s + _tokenize(c.text).length, 0) / (candidatePool.length || 1);
-          const rankedChunks = _scoreChunksRanked(candidatePool, terms, avgCLen, 90, 1.5, INTEL._bm25Stats);
+          const rankedChunks = _scoreChunksRanked(candidatePool, terms, avgCLen, 90, 1.5, usedFastPath ? fastBm25Stats : INTEL._bm25Stats);
           topChunks = _deduplicateByDoc(rankedChunks, isLargeCtx ? 3 : 2)
             .slice(0, maxTopChunks).map(x => x.item);
 
@@ -28972,6 +29207,11 @@ if (intelTabsContainer) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Full contract lives with available settlements</strong>: pick any expired contract month to study how it traded through its life — listing, run-up into expiry, and final settlement. SGX serves settlement history from early-2024 expiries onward.</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Use case</strong>: expired-contract traces reveal how forward expectations compared to eventual physical reality — the empirical base rate for curve risk premium on this vessel class.</div>`;
           html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Archive history (~2-6 MB per vessel class) loads once, on first open, then stays cached for the session.</div>`;
+        }
+        else if (type === 'concept-qa-fastpath') {
+          html = `<div class="rt-title">⚡ Indexed Retrieval</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pre-built search indexes</strong>: the compiler publishes compact BM25 posting lists for every report shard. Queries rank the whole corpus against these tiny files first, then download only the reports that actually contain hits.</div>`;
+          html += `<div class="rt-note">Falls back automatically to full-archive scanning if indexes are unavailable — answers never change, only speed.</div>`;
         }
         else if (type === 'concept-scrapfloor') {
           const ldtVal = parseFloat(target.getAttribute('data-tt-ldt'));

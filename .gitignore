@@ -35,3 +35,8 @@ QODER.md
 !reports/
 !knowledge/
 !knowledge/briefs/
+
+# Derived-build speed caches (local-only; CI rebuilds from scratch)
+knowledge/manifests/derived_cache.json
+knowledge/derived/.wiki_score_cache.json
+knowledge/derived/.wiki_meta_cache.json

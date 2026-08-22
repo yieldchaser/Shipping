@@ -233,21 +233,41 @@ bumped to avoid triggering a mass re-OCR/re-LLM rebuild.
    uses the 62 KB relative-path file instead of downloading the 88 MB
    `signals.jsonl` fallback from raw.githubusercontent.
 
-### Known limitations / roadmap (documented, not yet implemented)
+### Known limitations / roadmap
 
-- **B1 — Pre-built browser search index**: Q&A still downloads up to ~40 raw
-  JSONL shards (~141 MB total on disk; recent/historical tiers only) per query
-  and builds an inverted index in-browser. Emitting a compact tokenized
-  postings index (`knowledge/derived/search_index.json`) from `build_derived`
-  would make queries instant and mobile-friendly. Highest-value next step.
-- **B2 — Structured table extraction**: Alibra/MMI image-backed tables are
-  OCR'd as text and recovered positionally (`vals[-6:]`, ×1000 heuristics);
-  img2table/Pix2Text would replace guesswork (per the plan in `CLAUDE.md`).
-- **B3 — Cross-source dedup**: every Breakwave PDF also exists as a
-  breakwave_insights article; simhash/minhash dedup would stop wiki/Q&A
-  double-counting identical analysis.
-- **B4 — Incremental derived/wiki builds**: `build_derived` + wiki scoring are
-  O(corpus) on every run even when nothing changed.
+- ~~**B1 — Pre-built browser search index**~~ **APPLIED 2026-08-22**: every
+  chunk shard now has a compact BM25-ready companion
+  `knowledge/chunks/search/{stem}.idx.json` (vocab + per-doc top-40 posting
+  lists; 38.6 MB total across 77 shards vs ~141 MB of raw text) plus a
+  `search/index.json` manifest, emitted by `scripts/search_index_build.py`
+  after every derived rebuild. The frontend Q&A ranks candidates from these
+  tiny indexes first and downloads only the shards containing hits, instead of
+  streaming every tier shard and building an inverted index in-browser. Any
+  manifest/index failure falls back to the legacy scan transparently;
+  per-line `chunk_id` verification guards against stale indexes.
+- ~~**B2 — Structured table extraction**~~ **APPLIED 2026-08-22**: new
+  `scripts/table_extract.py` recovers market tables from OCR word-box geometry
+  (row clustering + column-gap detection, no new dependencies). Image assets
+  that yield a numeric grid emit a `[structured table]` markdown block above
+  the raw OCR text; the charter rescan prefers those labeled rows over the
+  old positional `vals[-6:]` guesswork and clamps implausible rates outside
+  300–200,000 $/day with a logged warning. Forward-looking: applies to newly
+  processed documents and future chunk rescans.
+- ~~**B4 — Incremental derived/wiki builds**~~ **APPLIED 2026-08-22**:
+  content-addressed caches make rebuilds skip unchanged work — doc-level
+  (`knowledge/manifests/derived_cache.json`, sha256 of file bytes), chunk-file
+  rescans keyed by (path,size,mtime), and wiki score/meta caches under
+  `knowledge/derived/.wiki_*_cache.json` invalidated by config hash. Measured
+  on the full corpus: 1,777s cold → 474s warm (3.75×), all outputs
+  byte-identical (timestamp-normalized) between full and incremental runs.
+  The caches are **local-only** (gitignored, ~305 MB); ephemeral CI runners
+  keep today's full-rebuild cost unless an `actions/cache` layer is added
+  later. `KNOWLEDGE_FULL_DERIVED=1` forces a full refresh.
+- **B3 — Cross-source dedup** (Breakwave PDF ↔ insights article twins):
+  documented, deliberately not implemented (per product decision).
+- **B5+ — img2table/Pix2Text upgrade path**: B2's geometry core is the
+  dependency-free baseline; swapping in ML-backed table parsers later only
+  replaces `words_from_image`/grid construction, not downstream consumers.
 - **Q6 — Wiki recency cap**: topic evidence keeps top-250 newest rows, so
   "Historical Patterns" spans ~10 weeks of a 2014–2026 corpus; stratified
   old/new sampling would fix it.

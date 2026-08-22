@@ -1,12 +1,120 @@
 from __future__ import annotations
 
+import hashlib
 import json
+import os
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
 import frontmatter
 import yaml
+
+SCORE_VERSION = 1
+WIKI_SCORE_CACHE_FILENAME = ".wiki_score_cache.json"
+WIKI_SCORE_CACHE_MAX_ENTRIES = 500000
+WIKI_META_CACHE_FILENAME = ".wiki_meta_cache.json"
+META_CACHE_SCHEMA_VERSION = 1
+
+
+def _canonical_json(value) -> str:
+    return json.dumps(value, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+
+
+def _wiki_config_hash(config_dir: Path) -> str:
+    config_path = config_dir / "wiki_topics.json"
+    digest = hashlib.sha256()
+    digest.update(config_path.read_bytes())
+    digest.update(b":")
+    digest.update(str(SCORE_VERSION).encode("utf-8"))
+    return digest.hexdigest()
+
+
+def _score_cache_path(output_path: Path) -> Path:
+    return output_path.parent / WIKI_SCORE_CACHE_FILENAME
+
+
+def _meta_cache_path(output_path: Path) -> Path:
+    return output_path.parent / WIKI_META_CACHE_FILENAME
+
+
+def _load_meta_cache(output_path: Path) -> dict:
+    if os.environ.get("KNOWLEDGE_FULL_DERIVED") == "1":
+        return {}
+    try:
+        payload = json.loads(_meta_cache_path(output_path).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if (
+        not isinstance(payload, dict)
+        or payload.get("v") != META_CACHE_SCHEMA_VERSION
+        or not isinstance(payload.get("docs"), dict)
+    ):
+        return {}
+    return payload["docs"]
+
+
+def _save_meta_cache(meta_cache: dict, output_path: Path) -> None:
+    cache_path = _meta_cache_path(output_path)
+    tmp_path = cache_path.with_name(cache_path.name + ".tmp")
+    try:
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        tmp_path.write_text(
+            json.dumps(
+                {"v": META_CACHE_SCHEMA_VERSION, "docs": meta_cache},
+                ensure_ascii=False,
+                separators=(",", ":"),
+            ),
+            encoding="utf-8",
+        )
+        os.replace(tmp_path, cache_path)
+    except OSError:
+        try:
+            tmp_path.unlink(missing_ok=True)
+        except OSError:
+            pass
+
+
+def _load_score_cache(output_path: Path, config_hash: str) -> dict:
+    if os.environ.get("KNOWLEDGE_FULL_DERIVED") == "1":
+        return {}
+    try:
+        payload = json.loads(_score_cache_path(output_path).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if (
+        not isinstance(payload, dict)
+        or payload.get("v") != SCORE_VERSION
+        or payload.get("config_hash") != config_hash
+        or not isinstance(payload.get("scores"), dict)
+    ):
+        return {}
+    return payload["scores"]
+
+
+def _save_score_cache(scores: dict, config_hash: str, output_path: Path) -> None:
+    if len(scores) > WIKI_SCORE_CACHE_MAX_ENTRIES:
+        stale_count = len(scores) - WIKI_SCORE_CACHE_MAX_ENTRIES
+        for key in list(scores.keys())[:stale_count]:
+            del scores[key]
+    cache_path = _score_cache_path(output_path)
+    tmp_path = cache_path.with_name(cache_path.name + ".tmp")
+    try:
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        tmp_path.write_text(
+            json.dumps(
+                {"v": SCORE_VERSION, "config_hash": config_hash, "scores": scores},
+                ensure_ascii=False,
+                separators=(",", ":"),
+            ),
+            encoding="utf-8",
+        )
+        os.replace(tmp_path, cache_path)
+    except OSError:
+        try:
+            tmp_path.unlink(missing_ok=True)
+        except OSError:
+            pass
 
 
 def _fast_load_frontmatter_metadata(path: Path) -> dict:
@@ -120,11 +228,13 @@ def load_topics(config_dir: Path) -> list[dict]:
     return normalized
 
 
-def load_document_metadata(repo_root: Path, documents_manifest: Path) -> dict[str, dict]:
+def load_document_metadata(repo_root: Path, documents_manifest: Path, meta_cache: dict | None = None) -> dict[str, dict]:
     documents, malformed = load_jsonl(documents_manifest)
     if malformed:
         raise ValueError(f"Malformed document manifest lines: {malformed}")
 
+    cache_hits = 0
+    cache_misses = 0
     metadata_by_doc = {}
     for row in documents:
         doc_id = row.get("doc_id")
@@ -134,7 +244,35 @@ def load_document_metadata(repo_root: Path, documents_manifest: Path) -> dict[st
         full_path = repo_root / doc_path
         if not full_path.exists():
             continue
-        metadata = _fast_load_frontmatter_metadata(full_path)
+        if meta_cache is not None:
+            try:
+                raw = full_path.read_bytes()
+                key = hashlib.sha256(
+                    raw + b":" + str(META_CACHE_SCHEMA_VERSION).encode("utf-8")
+                ).hexdigest()
+                prior = meta_cache.get(doc_id)
+                if (
+                    isinstance(prior, dict)
+                    and prior.get("k") == key
+                    and isinstance(prior.get("meta"), dict)
+                ):
+                    cache_hits += 1
+                    metadata = prior["meta"]
+                else:
+                    cache_misses += 1
+                    metadata = _fast_load_frontmatter_metadata(full_path)
+                    entry = {"k": key, "meta": metadata}
+                    try:
+                        json.dumps(entry)
+                        meta_cache[doc_id] = entry
+                    except (TypeError, ValueError):
+                        # Non-JSON-safe frontmatter values (e.g. YAML dates):
+                        # keep parsing fresh so cached round-trips never diverge.
+                        meta_cache.pop(doc_id, None)
+            except OSError:
+                metadata = _fast_load_frontmatter_metadata(full_path)
+        else:
+            metadata = _fast_load_frontmatter_metadata(full_path)
         metadata_by_doc[doc_id] = {
             "doc_id": doc_id,
             "title": metadata.get("title"),
@@ -153,6 +291,8 @@ def load_document_metadata(repo_root: Path, documents_manifest: Path) -> dict[st
             "source_path": row.get("source_path"),
             "source_url": metadata.get("source_url"),
         }
+    if meta_cache is not None:
+        print(f"[WIKI] meta cache: hits={cache_hits} misses={cache_misses}")
     return metadata_by_doc
 
 
@@ -272,8 +412,21 @@ def score_evidence(topic: dict, section: dict, doc_meta: dict, signal_row: dict 
     return score, sorted(set(matched_terms))
 
 
-def select_topic_evidence(topics: list[dict], section_rows: list[dict], docs_by_id: dict[str, dict], signals_by_doc: dict[str, dict], max_rows: int = 250) -> list[dict]:
+def select_topic_evidence(
+    topics: list[dict],
+    section_rows: list[dict],
+    docs_by_id: dict[str, dict],
+    signals_by_doc: dict[str, dict],
+    max_rows: int = 250,
+    score_cache: dict | None = None,
+    config_hash: str = "",
+) -> list[dict]:
     rows_by_topic: dict[str, list[dict]] = defaultdict(list)
+    cache_active = score_cache is not None
+    cache_hits = 0
+    cache_misses = 0
+    doc_fp_memo: dict[str, str] = {}
+    sig_fp_memo: dict[str, str] = {}
 
     for section in section_rows:
         doc_id = section.get("doc_id")
@@ -282,8 +435,43 @@ def select_topic_evidence(topics: list[dict], section_rows: list[dict], docs_by_
             continue
         signal_row = signals_by_doc.get(doc_id)
 
+        section_fp = hashlib.sha256(_canonical_json(section).encode("utf-8")).hexdigest()
+        doc_fp = doc_fp_memo.get(doc_id)
+        if doc_fp is None:
+            doc_fp = hashlib.sha256(_canonical_json(doc_meta).encode("utf-8")).hexdigest()
+            doc_fp_memo[doc_id] = doc_fp
+        sig_fp = sig_fp_memo.get(doc_id)
+        if sig_fp is None:
+            sig_fp = (
+                "null"
+                if signal_row is None
+                else hashlib.sha256(_canonical_json(signal_row).encode("utf-8")).hexdigest()
+            )
+            sig_fp_memo[doc_id] = sig_fp
+
         for topic in topics:
-            score, matched_terms = score_evidence(topic, section, doc_meta, signal_row)
+            score = 0
+            matched_terms: list[str] = []
+            from_cache = False
+            cache_key = None
+            if cache_active:
+                cache_key = hashlib.sha256(
+                    "\x00".join((section_fp, doc_fp, sig_fp, topic["topic_id"], config_hash)).encode("utf-8")
+                ).hexdigest()
+                cached = score_cache.get(cache_key)
+                if isinstance(cached, (list, tuple)) and len(cached) == 2:
+                    try:
+                        score = int(cached[0])
+                        matched_terms = [str(term) for term in cached[1]]
+                        from_cache = True
+                        cache_hits += 1
+                    except (TypeError, ValueError):
+                        from_cache = False
+            if not from_cache:
+                score, matched_terms = score_evidence(topic, section, doc_meta, signal_row)
+                if cache_active:
+                    cache_misses += 1
+                    score_cache[cache_key] = [score, matched_terms]
             if score < topic.get("min_score", 5):
                 continue
 
@@ -326,6 +514,7 @@ def select_topic_evidence(topics: list[dict], section_rows: list[dict], docs_by_
                 break
         selected_rows.extend(kept)
 
+    print(f"[WIKI] score cache: hits={cache_hits} misses={cache_misses}")
     return sorted(selected_rows, key=lambda row: (row.get("topic_id") or "", row.get("date") or "", row.get("score") or 0, row.get("doc_id") or ""), reverse=False)
 
 
@@ -500,13 +689,25 @@ def build_wiki(
 ):
     del themes_path, llm_enabled
     topics = load_topics(config_dir)
-    docs_by_id = load_document_metadata(repo_root, documents_manifest)
+    config_hash = _wiki_config_hash(config_dir)
+    score_cache = _load_score_cache(output_path, config_hash)
+    meta_cache = _load_meta_cache(output_path)
+    docs_by_id = load_document_metadata(repo_root, documents_manifest, meta_cache=meta_cache)
+    _save_meta_cache(meta_cache, output_path)
     section_rows, malformed_sections = load_jsonl(section_index_path)
     if malformed_sections:
         raise ValueError(f"Malformed section index lines: {malformed_sections}")
 
     signals_by_doc = build_signal_map(signals_path)
-    evidence_rows = select_topic_evidence(topics, section_rows, docs_by_id, signals_by_doc)
+    evidence_rows = select_topic_evidence(
+        topics,
+        section_rows,
+        docs_by_id,
+        signals_by_doc,
+        score_cache=score_cache,
+        config_hash=config_hash,
+    )
+    _save_score_cache(score_cache, config_hash, output_path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("", encoding="utf-8")
