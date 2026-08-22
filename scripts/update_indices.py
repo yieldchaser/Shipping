@@ -457,6 +457,7 @@ SGX_HISTORY_URL = (
     "https://api.sgx.com/derivatives/v1.0/history/symbol/{ticker}"
     "?days=5d&category=futures"
     "&params=base-date%2Ctotal-volume%2Cdaily-settlement-price-abs"
+    "%2Copen-interest"
 )
 
 SGX_HEADERS = {
@@ -488,7 +489,7 @@ def generate_sgx_tickers(product_code):
 
 def fetch_sgx_latest(ticker):
     """
-    Fetch last 5 days for ticker. Returns list of (date DD-MM-YYYY, price, volume)
+    Fetch last 5 days for ticker. Returns list of (date DD-MM-YYYY, price, volume, open_interest)
     for all available days, or None if contract has no data.
     """
     url = SGX_HISTORY_URL.format(ticker=ticker)
@@ -502,11 +503,12 @@ def fetch_sgx_latest(ticker):
         for entry in data:
             price     = entry.get('daily-settlement-price-abs')
             volume    = entry.get('total-volume')
+            oi        = entry.get('open-interest')
             base_date = entry.get('base-date')  # "20260303"
             if price is None or base_date is None:
                 continue
             d = datetime.strptime(str(base_date), '%Y%m%d')
-            rows.append((d.strftime('%d-%m-%Y'), float(price), float(volume or 0)))
+            rows.append((d.strftime('%d-%m-%Y'), float(price), float(volume or 0), float(oi or 0)))
         return rows if rows else None
     except Exception as e:
         print(f"  {ticker}: error — {e}")
@@ -527,8 +529,11 @@ def update_sgx_csv(filename, product_code):
         # Back-fill expiry_date column if it was added after initial creation
         if 'expiry_date' not in existing.columns:
             existing['expiry_date'] = ''
+        # Back-fill open_interest column if it was added after initial creation
+        if 'open_interest' not in existing.columns:
+            existing['open_interest'] = ''
     else:
-        existing = pd.DataFrame(columns=['contract','expiry_month','expiry_year','date','price','volume','expiry_date'])
+        existing = pd.DataFrame(columns=['contract','expiry_month','expiry_year','date','price','volume','open_interest','expiry_date'])
 
     tickers = generate_sgx_tickers(product_code)
     new_rows = []
@@ -546,7 +551,7 @@ def update_sgx_csv(filename, product_code):
             continue  # not active — skip silently
 
         active_count += 1
-        for date_str, price, volume in results:
+        for date_str, price, volume, oi in results:
             date_dt = pd.Timestamp(datetime.strptime(date_str, '%d-%m-%Y'))
 
             already = (
@@ -563,9 +568,10 @@ def update_sgx_csv(filename, product_code):
                 'date':         date_str,
                 'price':        price,
                 'volume':       volume,
+                'open_interest': oi,
                 'expiry_date':  expiry_str,
             })
-        print(f"  {ticker} ({month_name} {year}, exp {expiry_str}): {price}  vol={volume}")
+        print(f"  {ticker} ({month_name} {year}, exp {expiry_str}): {price}  vol={volume}  oi={oi}")
         time.sleep(0.15)  # polite delay between calls
 
     if skipped_expired:

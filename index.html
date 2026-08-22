@@ -10204,7 +10204,7 @@
               </div>
             </div>
             <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
-              Latest settlement prices per contract month. Click any point to view full contract history below, or open the contract archive to explore every expired contract with available settlement history.
+              Latest settlement prices per contract month. Click any point to view full contract history below, or open the contract archive to explore expired contracts — labels show each one's archived traded-day count (SGX records settlements only on cleared sessions; daily depth is available from Mar 2026).
             </div>
             <div id="ffaNoData"
               style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
@@ -22761,6 +22761,7 @@ if (intelTabsContainer) {
         if (isNaN(price) || price <= 0) return;
 
         var volume = parseFloat(row.volume) || 0;
+        var oi = (row.open_interest !== undefined && row.open_interest !== '') ? (parseFloat(row.open_interest) || 0) : null;
 
         if (!contractMap[contract]) {
           // Derive expiry from contract ticker or expiry_date column
@@ -22794,7 +22795,7 @@ if (intelTabsContainer) {
             history: [],
           };
         }
-        contractMap[contract].history.push({ date: date, price: price, volume: volume });
+        contractMap[contract].history.push({ date: date, price: price, volume: volume, oi: oi });
       });
 
       // Sort histories chronologically
@@ -22922,7 +22923,13 @@ if (intelTabsContainer) {
       Object.keys(expiredByYear).map(Number).sort(function (a, b) { return b - a; }).forEach(function (y) {
         html += '<optgroup label="Expired ' + y + '">';
         expiredByYear[y].forEach(function (c) {
-          html += '<option value="' + c.contract + '">' + c.contract + ' · ' + c.expiryLabel + '</option>';
+          // Traded-day count: SGX publishes settlements only on sessions that
+          // actually cleared, so pre-2026 expiries show sparse lives. Make the
+          // depth visible instead of surprising the user after they click.
+          var nTraded = 0;
+          c.history.forEach(function (r) { if (r.price > 0) nTraded++; });
+          var suffix = nTraded ? ' · ' + nTraded + 'd' : '';
+          html += '<option value="' + c.contract + '">' + c.contract + ' · ' + c.expiryLabel + suffix + '</option>';
         });
         html += '</optgroup>';
       });
@@ -29204,8 +29211,8 @@ if (intelTabsContainer) {
         }
         else if (type === 'concept-ffa-archive') {
           html = `<div class="rt-title">SGX FFA Contract Archive</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Full contract lives with available settlements</strong>: pick any expired contract month to study how it traded through its life — listing, run-up into expiry, and final settlement. SGX serves settlement history from early-2024 expiries onward.</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Use case</strong>: expired-contract traces reveal how forward expectations compared to eventual physical reality — the empirical base rate for curve risk premium on this vessel class.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any expired contract</strong> to study how it traded through its life — listing, run-up into expiry, and final settlement. The <strong>·Nd</strong> suffix shows how many traded days the archive holds, because SGX publishes settlements only on sessions that actually cleared.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Data availability tiers (verified at source)</strong>: daily granularity from Mar 2026 onward (our live collection); sparse traded-day prints only for 2024–2025 expiries — SGX redacts lookback prices outside its entitlement window (volume and open-interest remain fully archived back to 2022 in the CSVs).</div>`;
           html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Archive history (~2-6 MB per vessel class) loads once, on first open, then stays cached for the session.</div>`;
         }
         else if (type === 'concept-qa-fastpath') {

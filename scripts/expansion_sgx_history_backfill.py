@@ -50,7 +50,7 @@ SGX_HEADERS = {
     'Accept': 'application/json',
 }
 
-FIELDNAMES = ['contract', 'expiry_month', 'expiry_year', 'date', 'price', 'volume', 'expiry_date']
+FIELDNAMES = ['contract', 'expiry_month', 'expiry_year', 'date', 'price', 'volume', 'open_interest', 'expiry_date']
 
 SESSION = requests.Session()
 RETRIES = 3
@@ -95,10 +95,19 @@ def fetch_with_retry(url):
 
 
 def fetch_contract_history(ticker):
-    """Fetch the contract's entire life. Returns list of row dicts (may be empty)."""
+    """Fetch the contract's entire life. Returns list of row dicts (may be empty).
+
+    Verified 2026-08-22 against the live API: SGX publishes a real
+    daily-settlement-price only on sessions where the contract actually
+    cleared (7 traded days for CWFZ25's whole life); every other session
+    carries price=0 while volume and open-interest remain fully populated,
+    including the 2025 lookback window where prices are redacted server-side.
+    We therefore store all three series verbatim - the zeros are the truth.
+    """
     url = (f"https://api.sgx.com/derivatives/v1.0/history/symbol/{ticker}"
            f"?days=2200d&category=futures"
-           f"&params=base-date%2Ctotal-volume%2Cdaily-settlement-price-abs")
+           f"&params=base-date%2Ctotal-volume%2Cdaily-settlement-price-abs"
+           f"%2Copen-interest")
     payload = fetch_with_retry(url)
     if not payload:
         return []
@@ -118,19 +127,21 @@ def fetch_contract_history(ticker):
             continue
         price = entry.get('daily-settlement-price-abs')
         volume = entry.get('total-volume')
-        rows_out.append({'_date': d, 'price': price, 'volume': volume})
+        oi = entry.get('open-interest')
+        rows_out.append({'_date': d, 'price': price, 'volume': volume, 'open_interest': oi})
     return rows_out
 
 
 def earliest_data_year(existing):
     """Earliest contract-expiry year holding any nonzero settlement price.
 
-    The SGX history API serves real settlement rows only for contracts that
-    expired from ~Jan 2024 onward; older tickers return zero-filled lives
-    forever (verified across all four products on 2026-08-22). Probing them
-    again each run is pure waste, so the upsert loop skips tickers expiring
-    before this floor. Escape hatch if SGX ever backfills deep history:
-    delete the product CSV and rerun with --rebuild-style fresh state.
+    The SGX history API serves real settlement PRICES only for sessions where
+    the contract actually cleared; for contracts expiring before ~Jan 2024
+    every price field reads 0 forever (verified across all four products on
+    2026-08-22), and even post-2024 expiries carry only ~7 traded-day prices
+    per life. Volume and open-interest ARE served full-depth back to 2022
+    regardless. The daily refresh uses this floor purely to skip wasted
+    probes; --rebuild bypasses it to capture full-depth volume/OI.
     Returns None when unknown (no file / no priced rows yet) -> probe all.
     """
     years = []
@@ -143,18 +154,24 @@ def earliest_data_year(existing):
     return min(years) if years else None
 
 
-def upsert_product(product_code, out_path):
+def upsert_product(product_code, out_path, rebuild=False):
     existing = {}
-    if os.path.exists(out_path):
+    if os.path.exists(out_path) and not rebuild:
         with open(out_path, encoding='utf-8', newline='') as f:
             for row in csv.DictReader(f):
                 existing[(row['contract'], row['date'])] = row
     before = len(existing)
 
-    floor_year = earliest_data_year(existing)
+    # Daily refreshes skip pre-floor tickers (their PRICES are zero-filled
+    # upstream). --rebuild probes everything instead: volume and open-interest
+    # ARE served full-depth back to 2022 even where prices are redacted.
+    floor_year = None if rebuild else earliest_data_year(existing)
     if floor_year:
         print(f"  [{product_code}] probing contracts expiring {floor_year}+ "
               f"(older tickers have no settlement data upstream)")
+    elif rebuild:
+        print(f"  [{product_code}] REBUILD: probing all contracts "
+              f"(volume/open-interest exist pre-floor even where prices do not)")
     floor_cutoff = date(floor_year, 1, 1) if floor_year else None
 
     tickers = generate_all_tickers(product_code)
@@ -181,6 +198,7 @@ def upsert_product(product_code, out_path):
                 'date': key[1],
                 'price': '' if e['price'] is None else str(float(e['price'])),
                 'volume': '' if e['volume'] is None else str(float(e['volume'])),
+                'open_interest': '' if e.get('open_interest') is None else str(float(e['open_interest'])),
                 'expiry_date': expiry_str,
                 '_dt': e['_date'],
             })
@@ -212,10 +230,14 @@ def upsert_product(product_code, out_path):
 
 
 def main():
+    rebuild = '--rebuild' in sys.argv
+    if rebuild:
+        print("[rebuild] probing every ticker and regenerating archives "
+              "(schema migrations / full-depth volume+OI recovery)")
     total = 0
     for product_code, out_path in SGX_PRODUCTS.items():
         try:
-            total += upsert_product(product_code, out_path)
+            total += upsert_product(product_code, out_path, rebuild=rebuild)
         except Exception as e:
             print(f"[FAIL] {product_code}: {e}", file=sys.stderr)
     print(f"SGX history backfill complete: +{total} rows")
