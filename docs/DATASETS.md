@@ -73,10 +73,10 @@ This document outlines the complete dataset inventory, publishing frequencies, p
 | [`sgx_panamax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures.csv) | SGX Panamax FFA Forward Curve | Dec 2024 | Daily | Singapore Exchange (SGX) | Active |
 | [`sgx_supramax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures.csv) | SGX Supramax FFA Forward Curve | Aug 2024 | Daily | Singapore Exchange (SGX) | Active |
 | [`sgx_handysize_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures.csv) | SGX Handysize FFA Forward Curve | Dec 2024 | Daily | Singapore Exchange (SGX) | Active |
-| [`sgx_cape_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures_history.csv) | SGX Capesize FFA **Full Contract Lives** (all settlements since 2017) | Mar 2017 | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~119k rows) |
-| [`sgx_panamax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures_history.csv) | SGX Panamax FFA Full Contract Lives | Mar 2017 | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~37k rows) |
-| [`sgx_supramax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures_history.csv) | SGX Supramax FFA Full Contract Lives | Mar 2017 | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~122k rows) |
-| [`sgx_handysize_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures_history.csv) | SGX Handysize FFA Full Contract Lives | Mar 2017 | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~46k rows) |
+| [`sgx_cape_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures_history.csv) | SGX Capesize FFA **Full Contract Lives** (real settlements for contracts expiring Jan 2024 onward; SGX serves zero-filled rows for older lives and the collector auto-skips them) | Jan 2024 expiries | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~119k rows; consumed by the frontend **Contract Archive** selector — lazy per-vessel-class load, session-cached) |
+| [`sgx_panamax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures_history.csv) | SGX Panamax FFA Full Contract Lives | Jan 2024 expiries | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~37k rows) |
+| [`sgx_supramax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures_history.csv) | SGX Supramax FFA Full Contract Lives | Jan 2024 expiries | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~122k rows) |
+| [`sgx_handysize_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures_history.csv) | SGX Handysize FFA Full Contract Lives | Jan 2024 expiries | Daily (backfill + Mon–Thu CI refresh) | Singapore Exchange (SGX) via `expansion_sgx_history_backfill.py` | Active (~46k rows) |
 
 ---
 
@@ -90,7 +90,7 @@ existing data.
 |:---|:---|:---:|:---:|:---|:---:|
 | [`data/congestion/chokepoint_transits_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/chokepoint_transits_daily.csv) | Daily transit counts across 28 maritime chokepoints (Suez, Panama, Bosporus, Malacca, ...) by vessel class | 2019-01-01 → live | Daily (incremental) | IMF PortWatch ArcGIS (`Daily_Chokepoints_Data`) via `expansion_portwatch.py` | Active (~78k rows; upstream lags ~5 days) |
 | [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | Daily port call volumes for curated major ports by segment | 2026-08 window → live | Daily (incremental) | IMF PortWatch ArcGIS (`Daily_Ports_Data`) via `expansion_portwatch.py` | Active (curated set) |
-| [`data/macro/commodities_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices — iron ore, coal, crude, natgas, LNG, refined products, grains, metals + CMO indices. Core cargo-demand inputs for dry bulk & tanker analysis | Jan 1960 → live (monthly) | Monthly (~4th of month, prior-month data) | World Bank CMO xlsx via `expansion_worldbank_pinksheet.py` | Active (current through Jul 2026) |
+| [`data/macro/commodities_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices — iron ore, coal, crude, natgas, LNG, grains, metals + CMO indices. Core cargo-demand inputs for dry bulk & tanker analysis; rendered on the Signals tab as **Cargo Demand Drivers**. Series the Pink Sheet no longer publishes (all-empty columns, e.g. `coal_newcastle` after the 2026 WB series restructure) are auto-dropped from the schema on each refresh | Jan 1960 → live (monthly) | Monthly (~4th of month, prior-month data) | World Bank CMO xlsx via `expansion_worldbank_pinksheet.py` | Active (current through Jul 2026) |
 | [`data/bunkers/bunker_prices_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/bunkers/bunker_prices_daily.csv) | Bunker fuel prices ($/mt): VLSFO / MGO / IFO380 across global average, regional averages and 8 major hubs (Singapore, Rotterdam, Fujairah, Houston, ...) | Live snapshots accumulate | Daily (snapshot append) | Ship & Bunker tabbed price tables via `expansion_bunker_prices.py` | Active |
 
 > [!NOTE]
@@ -100,6 +100,14 @@ existing data.
 > $/LDT needs are served by `data/derived/scrappage_prices.csv` from Hellenic OCR),
 > Intermodal fleet/orderbook PDFs (form-gated), and macro rates/FX (`rates_fx.csv`
 > had no consumer in this shipping-focused repo).
+
+### 5.1 Knowledge Pipeline Artifacts Consumed by the Frontend
+
+| File | Producer | Consumer | Notes |
+|:---|:---|:---|:---|
+| `knowledge/chunks/index.json` | `process_knowledge.py::write_chunk_index()` (emitted after every derived rebuild) | Q&A panel shard discovery + `generate_brief.py` | Small stat-only manifest (`file/stem/year/bytes` per `.jsonl` shard). Fixes the Jan-1 year-rollover bug where hardcoded shard lists silently missed the new year's files. Frontend falls back to its static list when the manifest is absent (e.g. stale local checkout). |
+| `knowledge/chunks/*.jsonl` | `process_knowledge.py` | Q&A BM25 retrieval | New/reprocessed documents get sentence-aware chunk boundaries and full Breakwave bullet sentences; existing corpus is untouched until a natural re-process (no `COMPILER_VERSION` bump, avoiding a mass re-OCR run). Chunks now carry `source_url` provenance. Archived bot-challenge pages are labelled `is_error_page` and excluded from signals/derived data. |
+| `knowledge/derived/breakwave_signals.json` | `build_derived()` | Signals tab fast path | Kept in the Pages deploy (62 KB) so production uses the relative-path load instead of the 88 MB `signals.jsonl` raw.githubusercontent fallback. |
 
 ---
 

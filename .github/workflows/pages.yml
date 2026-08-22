@@ -43,7 +43,15 @@ jobs:
 
       - name: Clean Heavy Folders Before Pages Packaging
         run: |
-          rm -rf reports scratch knowledge/docs knowledge/derived knowledge/trees knowledge/manifests .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
+          rm -rf reports scratch knowledge/docs knowledge/trees knowledge/manifests .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
+          # knowledge/derived is ~135 MB; the frontend only needs the compact
+          # breakwave_signals.json (62 KB) from it. Deleting the heavy files but
+          # keeping that one lets the Signals tab use its fast relative-path load
+          # in production instead of falling back to an 88 MB signals.jsonl
+          # download from raw.githubusercontent.com.
+          rm -f knowledge/derived/signals.jsonl knowledge/derived/section_index.jsonl \
+            knowledge/derived/topic_evidence.jsonl knowledge/derived/themes.jsonl \
+            knowledge/derived/timelines.json
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

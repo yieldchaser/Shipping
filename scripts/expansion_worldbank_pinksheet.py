@@ -269,10 +269,20 @@ def main():
         existing[d] = row
 
     rows = [{k: r.get(k, '') or '' for k in FIELDNAMES} for r in (existing[d] for d in sorted(existing))]
+    # Drop series that the Pink Sheet no longer publishes (all-empty columns,
+    # e.g. coal_newcastle/gasoline after WB's 2026 series restructure) so the
+    # CSV only carries fields that actually contain data.
+    live_fields = [FIELDNAMES[0]] + [
+        k for k in FIELDNAMES[1:] if any(r[k].strip() for r in rows)
+    ]
+    if len(live_fields) < len(FIELDNAMES):
+        dropped = [k for k in FIELDNAMES if k not in live_fields]
+        print(f"[info] dropping empty columns: {', '.join(dropped)}")
+        rows = [{k: r[k] for k in live_fields} for r in rows]
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     tmp = OUT_PATH + '.tmp'
     with open(tmp, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(f, fieldnames=live_fields)
         writer.writeheader()
         writer.writerows(rows)
     import shutil as _sh

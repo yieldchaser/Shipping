@@ -122,6 +122,27 @@ def fetch_contract_history(ticker):
     return rows_out
 
 
+def earliest_data_year(existing):
+    """Earliest contract-expiry year holding any nonzero settlement price.
+
+    The SGX history API serves real settlement rows only for contracts that
+    expired from ~Jan 2024 onward; older tickers return zero-filled lives
+    forever (verified across all four products on 2026-08-22). Probing them
+    again each run is pure waste, so the upsert loop skips tickers expiring
+    before this floor. Escape hatch if SGX ever backfills deep history:
+    delete the product CSV and rerun with --rebuild-style fresh state.
+    Returns None when unknown (no file / no priced rows yet) -> probe all.
+    """
+    years = []
+    for row in existing.values():
+        try:
+            if float(row.get('price') or 0) > 0 and row.get('expiry_year'):
+                years.append(int(row['expiry_year']))
+        except (TypeError, ValueError):
+            continue
+    return min(years) if years else None
+
+
 def upsert_product(product_code, out_path):
     existing = {}
     if os.path.exists(out_path):
@@ -130,14 +151,25 @@ def upsert_product(product_code, out_path):
                 existing[(row['contract'], row['date'])] = row
     before = len(existing)
 
+    floor_year = earliest_data_year(existing)
+    if floor_year:
+        print(f"  [{product_code}] probing contracts expiring {floor_year}+ "
+              f"(older tickers have no settlement data upstream)")
+    floor_cutoff = date(floor_year, 1, 1) if floor_year else None
+
     tickers = generate_all_tickers(product_code)
     new_rows = []
     fetched = 0
-    for ticker, month_num, year, month_name, expiry_str, _expiry in tickers:
+    skipped = 0
+    for ticker, month_num, year, month_name, expiry_str, expiry in tickers:
+        if floor_cutoff and expiry < floor_cutoff:
+            skipped += 1
+            continue
         entries = fetch_contract_history(ticker)
         fetched += 1
         if fetched % 40 == 0:
-            print(f"  [{product_code}] {fetched}/{len(tickers)} contracts probed, {len(new_rows)} new rows")
+            print(f"  [{product_code}] {fetched}/{len(tickers)} contracts probed "
+                  f"({skipped} skipped pre-floor), {len(new_rows)} new rows")
         for e in entries:
             key = (ticker, e['_date'].strftime('%d-%m-%Y'))
             if key in existing:

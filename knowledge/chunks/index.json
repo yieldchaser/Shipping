@@ -1,0 +1,546 @@
+{
+ "generated_at": "2026-08-22T05:36:46Z",
+ "compiler_version": 2,
+ "count": 77,
+ "files": [
+  {
+   "file": "baltic_container.jsonl",
+   "path": "knowledge/chunks/baltic_container.jsonl",
+   "stem": "baltic_container",
+   "year": null,
+   "bytes": 67652
+  },
+  {
+   "file": "baltic_container_2026.jsonl",
+   "path": "knowledge/chunks/baltic_container_2026.jsonl",
+   "stem": "baltic_container_2026",
+   "year": 2026,
+   "bytes": 34436
+  },
+  {
+   "file": "baltic_dry.jsonl",
+   "path": "knowledge/chunks/baltic_dry.jsonl",
+   "stem": "baltic_dry",
+   "year": null,
+   "bytes": 3759727
+  },
+  {
+   "file": "baltic_dry_2026.jsonl",
+   "path": "knowledge/chunks/baltic_dry_2026.jsonl",
+   "stem": "baltic_dry_2026",
+   "year": 2026,
+   "bytes": 32516
+  },
+  {
+   "file": "baltic_gas.jsonl",
+   "path": "knowledge/chunks/baltic_gas.jsonl",
+   "stem": "baltic_gas",
+   "year": null,
+   "bytes": 523129
+  },
+  {
+   "file": "baltic_gas_2026.jsonl",
+   "path": "knowledge/chunks/baltic_gas_2026.jsonl",
+   "stem": "baltic_gas_2026",
+   "year": 2026,
+   "bytes": 31428
+  },
+  {
+   "file": "baltic_ningbo.jsonl",
+   "path": "knowledge/chunks/baltic_ningbo.jsonl",
+   "stem": "baltic_ningbo",
+   "year": null,
+   "bytes": 1010226
+  },
+  {
+   "file": "baltic_ningbo_2026.jsonl",
+   "path": "knowledge/chunks/baltic_ningbo_2026.jsonl",
+   "stem": "baltic_ningbo_2026",
+   "year": 2026,
+   "bytes": 40703
+  },
+  {
+   "file": "baltic_tanker.jsonl",
+   "path": "knowledge/chunks/baltic_tanker.jsonl",
+   "stem": "baltic_tanker",
+   "year": null,
+   "bytes": 3416274
+  },
+  {
+   "file": "baltic_tanker_2026.jsonl",
+   "path": "knowledge/chunks/baltic_tanker_2026.jsonl",
+   "stem": "baltic_tanker_2026",
+   "year": 2026,
+   "bytes": 33460
+  },
+  {
+   "file": "books.jsonl",
+   "path": "knowledge/chunks/books.jsonl",
+   "stem": "books",
+   "year": null,
+   "bytes": 16120164
+  },
+  {
+   "file": "breakwave_drybulk.jsonl",
+   "path": "knowledge/chunks/breakwave_drybulk.jsonl",
+   "stem": "breakwave_drybulk",
+   "year": null,
+   "bytes": 443737
+  },
+  {
+   "file": "breakwave_drybulk_2026.jsonl",
+   "path": "knowledge/chunks/breakwave_drybulk_2026.jsonl",
+   "stem": "breakwave_drybulk_2026",
+   "year": 2026,
+   "bytes": 26569
+  },
+  {
+   "file": "breakwave_insights_insights.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights.jsonl",
+   "stem": "breakwave_insights_insights",
+   "year": null,
+   "bytes": 51673967
+  },
+  {
+   "file": "breakwave_insights_insights_2022.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights_2022.jsonl",
+   "stem": "breakwave_insights_insights_2022",
+   "year": 2022,
+   "bytes": 119813
+  },
+  {
+   "file": "breakwave_insights_insights_2023.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights_2023.jsonl",
+   "stem": "breakwave_insights_insights_2023",
+   "year": 2023,
+   "bytes": 101231
+  },
+  {
+   "file": "breakwave_insights_insights_2024.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights_2024.jsonl",
+   "stem": "breakwave_insights_insights_2024",
+   "year": 2024,
+   "bytes": 340015
+  },
+  {
+   "file": "breakwave_insights_insights_2025.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights_2025.jsonl",
+   "stem": "breakwave_insights_insights_2025",
+   "year": 2025,
+   "bytes": 117928
+  },
+  {
+   "file": "breakwave_insights_insights_2026.jsonl",
+   "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
+   "stem": "breakwave_insights_insights_2026",
+   "year": 2026,
+   "bytes": 3091261
+  },
+  {
+   "file": "breakwave_tankers.jsonl",
+   "path": "knowledge/chunks/breakwave_tankers.jsonl",
+   "stem": "breakwave_tankers",
+   "year": null,
+   "bytes": 136396
+  },
+  {
+   "file": "breakwave_tankers_2026.jsonl",
+   "path": "knowledge/chunks/breakwave_tankers_2026.jsonl",
+   "stem": "breakwave_tankers_2026",
+   "year": 2026,
+   "bytes": 22839
+  },
+  {
+   "file": "bunker_and_carbon_spreads_2026.jsonl",
+   "path": "knowledge/chunks/bunker_and_carbon_spreads_2026.jsonl",
+   "stem": "bunker_and_carbon_spreads_2026",
+   "year": 2026,
+   "bytes": 3218
+  },
+  {
+   "file": "chokepoint_and_congestion_2026.jsonl",
+   "path": "knowledge/chunks/chokepoint_and_congestion_2026.jsonl",
+   "stem": "chokepoint_and_congestion_2026",
+   "year": 2026,
+   "bytes": 3454
+  },
+  {
+   "file": "fleet_orderbook_2026.jsonl",
+   "path": "knowledge/chunks/fleet_orderbook_2026.jsonl",
+   "stem": "fleet_orderbook_2026",
+   "year": 2026,
+   "bytes": 7195
+  },
+  {
+   "file": "hellenic_demolition.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition.jsonl",
+   "stem": "hellenic_demolition",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_demolition_0000.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_0000.jsonl",
+   "stem": "hellenic_demolition_0000",
+   "year": 0,
+   "bytes": 5174
+  },
+  {
+   "file": "hellenic_demolition_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2014.jsonl",
+   "stem": "hellenic_demolition_2014",
+   "year": 2014,
+   "bytes": 813
+  },
+  {
+   "file": "hellenic_demolition_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2021.jsonl",
+   "stem": "hellenic_demolition_2021",
+   "year": 2021,
+   "bytes": 1083706
+  },
+  {
+   "file": "hellenic_demolition_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2022.jsonl",
+   "stem": "hellenic_demolition_2022",
+   "year": 2022,
+   "bytes": 3271290
+  },
+  {
+   "file": "hellenic_demolition_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2023.jsonl",
+   "stem": "hellenic_demolition_2023",
+   "year": 2023,
+   "bytes": 2941479
+  },
+  {
+   "file": "hellenic_demolition_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2024.jsonl",
+   "stem": "hellenic_demolition_2024",
+   "year": 2024,
+   "bytes": 4401443
+  },
+  {
+   "file": "hellenic_demolition_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2025.jsonl",
+   "stem": "hellenic_demolition_2025",
+   "year": 2025,
+   "bytes": 4714614
+  },
+  {
+   "file": "hellenic_demolition_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_demolition_2026.jsonl",
+   "stem": "hellenic_demolition_2026",
+   "year": 2026,
+   "bytes": 2665477
+  },
+  {
+   "file": "hellenic_dry_charter.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter.jsonl",
+   "stem": "hellenic_dry_charter",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_dry_charter_0000.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_0000.jsonl",
+   "stem": "hellenic_dry_charter_0000",
+   "year": 0,
+   "bytes": 1394
+  },
+  {
+   "file": "hellenic_dry_charter_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2014.jsonl",
+   "stem": "hellenic_dry_charter_2014",
+   "year": 2014,
+   "bytes": 801
+  },
+  {
+   "file": "hellenic_dry_charter_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2021.jsonl",
+   "stem": "hellenic_dry_charter_2021",
+   "year": 2021,
+   "bytes": 105938
+  },
+  {
+   "file": "hellenic_dry_charter_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2022.jsonl",
+   "stem": "hellenic_dry_charter_2022",
+   "year": 2022,
+   "bytes": 174174
+  },
+  {
+   "file": "hellenic_dry_charter_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2023.jsonl",
+   "stem": "hellenic_dry_charter_2023",
+   "year": 2023,
+   "bytes": 183698
+  },
+  {
+   "file": "hellenic_dry_charter_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2024.jsonl",
+   "stem": "hellenic_dry_charter_2024",
+   "year": 2024,
+   "bytes": 198280
+  },
+  {
+   "file": "hellenic_dry_charter_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2025.jsonl",
+   "stem": "hellenic_dry_charter_2025",
+   "year": 2025,
+   "bytes": 179276
+  },
+  {
+   "file": "hellenic_dry_charter_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_dry_charter_2026.jsonl",
+   "stem": "hellenic_dry_charter_2026",
+   "year": 2026,
+   "bytes": 107478
+  },
+  {
+   "file": "hellenic_iron_ore.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore.jsonl",
+   "stem": "hellenic_iron_ore",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_iron_ore_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2014.jsonl",
+   "stem": "hellenic_iron_ore_2014",
+   "year": 2014,
+   "bytes": 741
+  },
+  {
+   "file": "hellenic_iron_ore_2018.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2018.jsonl",
+   "stem": "hellenic_iron_ore_2018",
+   "year": 2018,
+   "bytes": 4163
+  },
+  {
+   "file": "hellenic_iron_ore_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2021.jsonl",
+   "stem": "hellenic_iron_ore_2021",
+   "year": 2021,
+   "bytes": 25023153
+  },
+  {
+   "file": "hellenic_iron_ore_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2022.jsonl",
+   "stem": "hellenic_iron_ore_2022",
+   "year": 2022,
+   "bytes": 17515864
+  },
+  {
+   "file": "hellenic_iron_ore_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2023.jsonl",
+   "stem": "hellenic_iron_ore_2023",
+   "year": 2023,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_iron_ore_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2024.jsonl",
+   "stem": "hellenic_iron_ore_2024",
+   "year": 2024,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_iron_ore_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2025.jsonl",
+   "stem": "hellenic_iron_ore_2025",
+   "year": 2025,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_iron_ore_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
+   "stem": "hellenic_iron_ore_2026",
+   "year": 2026,
+   "bytes": 3375668
+  },
+  {
+   "file": "hellenic_shipbuilding.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding.jsonl",
+   "stem": "hellenic_shipbuilding",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2014.jsonl",
+   "stem": "hellenic_shipbuilding_2014",
+   "year": 2014,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2021.jsonl",
+   "stem": "hellenic_shipbuilding_2021",
+   "year": 2021,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2022.jsonl",
+   "stem": "hellenic_shipbuilding_2022",
+   "year": 2022,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2023.jsonl",
+   "stem": "hellenic_shipbuilding_2023",
+   "year": 2023,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2024.jsonl",
+   "stem": "hellenic_shipbuilding_2024",
+   "year": 2024,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_shipbuilding_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2025.jsonl",
+   "stem": "hellenic_shipbuilding_2025",
+   "year": 2025,
+   "bytes": 35234
+  },
+  {
+   "file": "hellenic_shipbuilding_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_shipbuilding_2026.jsonl",
+   "stem": "hellenic_shipbuilding_2026",
+   "year": 2026,
+   "bytes": 184209
+  },
+  {
+   "file": "hellenic_tanker_charter.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter.jsonl",
+   "stem": "hellenic_tanker_charter",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_tanker_charter_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2014.jsonl",
+   "stem": "hellenic_tanker_charter_2014",
+   "year": 2014,
+   "bytes": 781
+  },
+  {
+   "file": "hellenic_tanker_charter_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2021.jsonl",
+   "stem": "hellenic_tanker_charter_2021",
+   "year": 2021,
+   "bytes": 101992
+  },
+  {
+   "file": "hellenic_tanker_charter_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2022.jsonl",
+   "stem": "hellenic_tanker_charter_2022",
+   "year": 2022,
+   "bytes": 175769
+  },
+  {
+   "file": "hellenic_tanker_charter_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2023.jsonl",
+   "stem": "hellenic_tanker_charter_2023",
+   "year": 2023,
+   "bytes": 186708
+  },
+  {
+   "file": "hellenic_tanker_charter_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2024.jsonl",
+   "stem": "hellenic_tanker_charter_2024",
+   "year": 2024,
+   "bytes": 201263
+  },
+  {
+   "file": "hellenic_tanker_charter_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2025.jsonl",
+   "stem": "hellenic_tanker_charter_2025",
+   "year": 2025,
+   "bytes": 182332
+  },
+  {
+   "file": "hellenic_tanker_charter_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_tanker_charter_2026.jsonl",
+   "stem": "hellenic_tanker_charter_2026",
+   "year": 2026,
+   "bytes": 109251
+  },
+  {
+   "file": "hellenic_vessel_valuations.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations.jsonl",
+   "stem": "hellenic_vessel_valuations",
+   "year": null,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2014.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2014.jsonl",
+   "stem": "hellenic_vessel_valuations_2014",
+   "year": 2014,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2021.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2021.jsonl",
+   "stem": "hellenic_vessel_valuations_2021",
+   "year": 2021,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2022.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2022.jsonl",
+   "stem": "hellenic_vessel_valuations_2022",
+   "year": 2022,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2023.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2023.jsonl",
+   "stem": "hellenic_vessel_valuations_2023",
+   "year": 2023,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2024.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2024.jsonl",
+   "stem": "hellenic_vessel_valuations_2024",
+   "year": 2024,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2025.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2025.jsonl",
+   "stem": "hellenic_vessel_valuations_2025",
+   "year": 2025,
+   "bytes": 0
+  },
+  {
+   "file": "hellenic_vessel_valuations_2026.jsonl",
+   "path": "knowledge/chunks/hellenic_vessel_valuations_2026.jsonl",
+   "stem": "hellenic_vessel_valuations_2026",
+   "year": 2026,
+   "bytes": 63818
+  },
+  {
+   "file": "regional_freight_spreads_2026.jsonl",
+   "path": "knowledge/chunks/regional_freight_spreads_2026.jsonl",
+   "stem": "regional_freight_spreads_2026",
+   "year": 2026,
+   "bytes": 3461
+  },
+  {
+   "file": "sp_asset_valuations_2026.jsonl",
+   "path": "knowledge/chunks/sp_asset_valuations_2026.jsonl",
+   "stem": "sp_asset_valuations_2026",
+   "year": 2026,
+   "bytes": 1868
+  }
+ ]
+}

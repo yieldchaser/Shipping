@@ -274,6 +274,32 @@ def norm_multiline(text: str) -> str:
     return "\n".join([line for line in lines if line]).strip()
 
 
+# Markers identifying bot-challenge / CDN error pages that scrapers sometimes
+# archive by mistake. Documents matching these are labelled error pages and
+# excluded from signal extraction so challenge boilerplate never pollutes
+# derived data.
+_ERROR_PAGE_MARKERS = (
+    "just a moment",
+    "checking your browser",
+    "attention required! | cloudflare",
+    "sorry, you have been blocked",
+    "cloudflare ray id",
+    "enable javascript and cookies to continue",
+    "ddos protection by",
+    "access denied | ",
+    "request unsuccessful. incapsula",
+    "please verify you are a human",
+)
+
+
+def is_error_page_text(text: str) -> bool:
+    """True when the text looks like a bot-challenge / CDN block page."""
+    if not text:
+        return False
+    lower = str(text).lower()
+    return any(marker in lower for marker in _ERROR_PAGE_MARKERS)
+
+
 def parse_pct(value):
     if value is None:
         return None
@@ -629,7 +655,19 @@ def chunk_text(text: str, max_tokens: int, overlap: int) -> list[str]:
     start = 0
     while start < len(tokens):
         end = min(start + max_tokens, len(tokens))
-        chunks.append(TOKENIZER.decode(tokens[start:end]).strip())
+        piece = TOKENIZER.decode(tokens[start:end])
+        # Snap the cut to a sentence/paragraph boundary when one is close by,
+        # so chunks stop ending mid-sentence or mid-table row. Only snap
+        # backwards within a small window to preserve chunk size targets.
+        if end < len(tokens):
+            window_start = max(0, len(piece) - 120)
+            window = piece[window_start:]
+            best = max(window.rfind(". "), window.rfind(".\n"), window.rfind("! "), window.rfind("? "), window.rfind("\n"))
+            if best >= len(window) - 100 and best > 0:
+                piece = piece[: window_start + best + 1]
+        piece = piece.strip()
+        if piece:
+            chunks.append(piece)
         step = max_tokens - overlap
         if step <= 0:
             break
@@ -2183,6 +2221,10 @@ def extract_numeric_observations(sections: list[dict], limit: int = 160) -> list
                 continue
             if "http://" in lower or "https://" in lower:
                 continue
+            # Skip bot-challenge / error-page noise so Ray IDs, timestamps and
+            # challenge boilerplate never become numeric "observations".
+            if is_error_page_text(line):
+                continue
 
             values = extract_line_numbers(line, limit=10, min_abs_value=0.01)
             if not values:
@@ -2347,7 +2389,16 @@ def adapt_breakwave(pdf_path: Path, category: str, llm_enabled: bool, existing_m
     expected_fields = BREAKWAVE_DRY_FIELDS if category == "drybulk" else BREAKWAVE_TANKER_FIELDS
     fundamentals = extract_breakwave_fundamentals(page_tables[1] if len(page_tables) > 1 else [], expected_fields)
 
-    bullet_lines = [line.lstrip("•").strip() for line in page_one_lines if line.startswith("•")]
+    # Join wrapped PDF lines into their parent bullet: pdfplumber breaks long
+    # bullets across physical lines, and treating each "•" line alone produced
+    # overview chunks that were clipped mid-clause. A bullet item continues
+    # until the next "•" line.
+    bullet_lines: list[str] = []
+    for line in page_one_lines:
+        if line.startswith("•"):
+            bullet_lines.append(line.lstrip("•").strip())
+        elif bullet_lines and line.strip() and not re.match(r"^[A-Za-z]+\s+\d{1,2},\s+\d{4}$", line.strip()):
+            bullet_lines[-1] = (bullet_lines[-1] + " " + line.strip()).strip()
     if not bullet_lines:
         bullet_lines = [line for line in page_one_lines if len(line.split()) > 8][:6]
 
@@ -2565,6 +2616,11 @@ def adapt_archive_html(
     source_url = find_archive_source_url(soup)
     root = soup.select_one("body > section") or soup.select_one("section") or soup.body or soup
 
+    # Bot-challenge / CDN block pages sometimes get archived when a scraper
+    # hits a WAF. Label them so downstream signal extraction and wiki scoring
+    # can exclude them instead of mining "Cloudflare Ray ID" as market data.
+    error_page = is_error_page_text(soup.get_text(" ", strip=True)[:4000])
+
     sections = []
     current_heading = None
     current_lines = []
@@ -2662,7 +2718,8 @@ def adapt_archive_html(
         "source_path": relpath(html_path),
         "source_url": source_url,
         "source_stem": html_path.stem,
-        "document_type": infer_document_type(source, category),
+        "document_type": "error_page" if error_page else infer_document_type(source, category),
+        "is_error_page": error_page,
         "vessel_classes": vessels,
         "regions": regions,
         "commodities": commodities,
@@ -2900,6 +2957,7 @@ def build_chunks(adapted: dict) -> list[dict]:
                 "section_chunk_index": section_index,
                 "page_start": section.get("page_start"),
                 "page_end": section.get("page_end"),
+                "source_url": metadata.get("source_url"),
                 "text": text,
                 "token_count": token_count(text),
                 "keywords": extract_keywords(text),
@@ -2967,6 +3025,43 @@ def process_file(path: Path, adapted: dict, source_hash_value: str | None = None
     return metadata, chunks, manifest_row
 
 
+def write_chunk_index() -> dict:
+    """Emit knowledge/chunks/index.json describing every chunk shard.
+
+    The frontend Q&A panel and generate_brief.py used to hardcode year-sharded
+    filenames; every January rollover they silently stopped seeing the new
+    year's files. This manifest (small, deployed to Pages) is the single
+    source of truth for dynamic discovery. Cheap: stat-only per shard.
+    """
+    entries = []
+    for path in sorted(CHUNKS_DIR.glob("*.jsonl")):
+        name = path.name
+        match = re.search(r"_(\d{4})\.jsonl$", name)
+        year = int(match.group(1)) if match else None
+        stem = name[: -len(".jsonl")]
+        entries.append(
+            {
+                "file": name,
+                "path": f"knowledge/chunks/{name}",
+                "stem": stem,
+                "year": year,
+                "bytes": path.stat().st_size,
+            }
+        )
+    payload = {
+        "generated_at": utc_now_iso(),
+        "compiler_version": COMPILER_VERSION,
+        "count": len(entries),
+        "files": entries,
+    }
+    CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
+    out = CHUNKS_DIR / "index.json"
+    tmp = out.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(payload, indent=1), encoding="utf-8")
+    os.replace(tmp, out)
+    return payload
+
+
 def build_derived(llm_enabled: bool = False):
     documents = load_jsonl(DOCUMENTS_MANIFEST)
     SIGNALS_DERIVED.parent.mkdir(parents=True, exist_ok=True)
@@ -2989,6 +3084,11 @@ def build_derived(llm_enabled: bool = False):
         category = meta.get("category")
         date_str = meta.get("date")
         doc_id = meta.get("doc_id")
+
+        # Archived bot-challenge / CDN error pages carry no market signal;
+        # keep them out of signals/timelines entirely.
+        if meta.get("is_error_page"):
+            continue
 
         theme_rows.append({
             "doc_id": doc_id,
@@ -3577,6 +3677,8 @@ def build_derived(llm_enabled: bool = False):
         summary_path=HEALTH_SUMMARY,
         generated_at=utc_now_iso(),
     )
+    chunk_index = write_chunk_index()
+    print(f"[CHUNK-INDEX] wrote knowledge/chunks/index.json ({chunk_index['count']} shards)")
 
 
 def main():

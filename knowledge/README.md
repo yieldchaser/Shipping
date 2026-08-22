@@ -197,7 +197,65 @@ A healthy run should have:
 - Local Windows ACL/file locks can block writes; rerun with proper permissions when needed.
 
 
-## 9) Dependency Baseline
+## 9) Pipeline Quality Audit (2026-08-22) & Applied Improvements
+
+A full end-to-end audit of the document pipeline (ingest → extract → chunk →
+derive → serve) produced the following changes, all verified with unit tests.
+Unless stated otherwise, extraction improvements apply to **newly processed
+documents only** — the existing 8,657-doc corpus re-chunks lazily via the
+normal content-hash skip logic, and `COMPILER_VERSION` was deliberately NOT
+bumped to avoid triggering a mass re-OCR/re-LLM rebuild.
+
+### Applied
+
+1. **Chunk shard manifest (`knowledge/chunks/index.json`)** — emitted by
+   `write_chunk_index()` after every derived rebuild (stat-only per shard, no
+   full-file scans). The frontend Q&A tier table and `generate_brief.py` now
+   discover shards dynamically; hardcoded year lists (which silently broke
+   every January 1) are demoted to fallbacks. Deployed to Pages inside
+   `knowledge/chunks/`.
+2. **Sentence-aware chunk boundaries** — `chunk_text()` snaps cuts backward to
+   the nearest `. ! ? \n` within a 120-char window, ending the mid-sentence /
+   mid-table-row truncation that hurt BM25 precision. Overlap stepping is
+   unchanged, so no token coverage is lost.
+3. **Breakwave bullet de-wrapping** — `adapt_breakwave()` now joins wrapped
+   PDF lines into their parent `•` bullet instead of emitting each physical
+   line as its own fragment (overview chunks were literally clipped
+   mid-clause: "- ...characterized by increased").
+4. **Bot-challenge page filter** — archived Cloudflare/Incapsula challenge
+   pages are labelled `document_type=error_page` + `is_error_page: true`,
+   excluded from signals/themes/timelines in `build_derived()`, and their
+   lines are rejected by `extract_numeric_observations()` (a Cloudflare Ray ID
+   previously entered `signals.jsonl` as numeric "observations").
+5. **Chunk provenance** — chunks carry `source_url` (already available on
+   trees/docs), enabling clickable citations downstream.
+6. **Pages deploy keeps `breakwave_signals.json`** — production Signals tab
+   uses the 62 KB relative-path file instead of downloading the 88 MB
+   `signals.jsonl` fallback from raw.githubusercontent.
+
+### Known limitations / roadmap (documented, not yet implemented)
+
+- **B1 — Pre-built browser search index**: Q&A still downloads up to ~40 raw
+  JSONL shards (~141 MB total on disk; recent/historical tiers only) per query
+  and builds an inverted index in-browser. Emitting a compact tokenized
+  postings index (`knowledge/derived/search_index.json`) from `build_derived`
+  would make queries instant and mobile-friendly. Highest-value next step.
+- **B2 — Structured table extraction**: Alibra/MMI image-backed tables are
+  OCR'd as text and recovered positionally (`vals[-6:]`, ×1000 heuristics);
+  img2table/Pix2Text would replace guesswork (per the plan in `CLAUDE.md`).
+- **B3 — Cross-source dedup**: every Breakwave PDF also exists as a
+  breakwave_insights article; simhash/minhash dedup would stop wiki/Q&A
+  double-counting identical analysis.
+- **B4 — Incremental derived/wiki builds**: `build_derived` + wiki scoring are
+  O(corpus) on every run even when nothing changed.
+- **Q6 — Wiki recency cap**: topic evidence keeps top-250 newest rows, so
+  "Historical Patterns" spans ~10 weeks of a 2014–2026 corpus; stratified
+  old/new sampling would fix it.
+- Legacy undated docs persist as date `0000-00-00`; wrong `archive-date` meta
+  is trusted verbatim during Hellenic/Baltic ingest.
+
+
+## 10) Dependency Baseline
 
 Knowledge pipeline dependencies are in `requirements_knowledge.txt`, including:
 

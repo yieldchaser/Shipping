@@ -10180,7 +10180,7 @@
           <!-- 7. SGX FFA Forward Curve -->
           <div class="chart-container mb-20" style="margin-top:4px;">
             <div class="chart-header">
-              <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
+              <div class="chart-title" data-tooltip="SGX FFA Forward Curve - Singapore Exchange-cleared FFA settlements across all live contract months for the selected vessel class (Capesize, Panamax, Supramax, Handysize). Click any data point to drill into that contract's full price history, or use the contract archive selector to open any expired contract with available settlement history. Compare vs previous periods to see whether the curve has shifted in or out.">SGX FFA Forward Curve</div>
               <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
                 <div style="display:flex;gap:4px;">
                   <button class="toggle-btn active" id="ffaBtnCape" onclick="setFFAProduct('cape')">Cape</button>
@@ -10188,6 +10188,11 @@
                   <button class="toggle-btn" id="ffaBtnSupramax" onclick="setFFAProduct('supramax')">Supramax</button>
                   <button class="toggle-btn" id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
                 </div>
+                <select id="ffaContractPick" onchange="onFFAPickChange()" onfocus="ensureFFAArchiveLoaded()"
+                  data-tooltip=" " data-tt-type="concept-ffa-archive"
+                  style="padding:4px 8px;border:1px solid var(--border);border-radius:4px;background:var(--card);color:var(--text);font-size:11px;font-family:inherit;max-width:190px;cursor:pointer;">
+                  <option value="">Contract archive…</option>
+                </select>
                 <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
                   <span style="font-size:11px;color:var(--text-muted);">vs</span>
                   <button class="toggle-btn" id="ffaComp1w" onclick="setFFAComp('1w')">1W ago</button>
@@ -10199,7 +10204,7 @@
               </div>
             </div>
             <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
-              Latest settlement prices per contract month. Click any point to view full contract history below.
+              Latest settlement prices per contract month. Click any point to view full contract history below, or open the contract archive to explore every expired contract with available settlement history.
             </div>
             <div id="ffaNoData"
               style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
@@ -10775,6 +10780,55 @@
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
+          </div>
+
+          <!-- 9b. Global Commodity Prices - Cargo Demand Drivers (World Bank Pink Sheet) -->
+          <div class="chart-container mb-20" id="commodityContainer">
+            <div class="chart-header">
+              <div class="chart-title" id="commodityTitle" data-tooltip=" " data-tt-type="concept-commodities" data-tt-group="ore">Cargo Demand Drivers — World Bank Commodity Prices</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="commodityGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="ore" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
+                  <button class="toggle-btn" id="comGrpEnergy" onclick="setCommodityGroup('energy')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="energy" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Energy</button>
+                  <button class="toggle-btn" id="comGrpGrain" onclick="setCommodityGroup('grain')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="grain" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Grains</button>
+                  <button class="toggle-btn" id="comGrpMetals" onclick="setCommodityGroup('metals')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="metals" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Base Metals</button>
+                  <button class="toggle-btn" id="comGrpIndex" onclick="setCommodityGroup('index')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="index" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WB Indices</button>
+                </div>
+                <div id="commodityViewToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="comViewUsd" onclick="setCommodityView('usd')" data-tooltip=" " data-tt-type="concept-commodity-view" data-tt-view="usd" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">USD</button>
+                  <button class="toggle-btn" id="comViewPct" onclick="setCommodityView('pct')" data-tooltip=" " data-tt-type="concept-commodity-view" data-tt-view="pct" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">% vs 5Y ago</button>
+                </div>
+                <div id="commodityWinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn" id="comWin5y" onclick="setCommodityWindow('5y')" data-tooltip="Last 5 years of monthly prints" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">5Y</button>
+                  <button class="toggle-btn active" id="comWin10y" onclick="setCommodityWindow('10y')" data-tooltip="Last 10 years of monthly prints" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y</button>
+                  <button class="toggle-btn" id="comWinMax" onclick="setCommodityWindow('max')" data-tooltip="Full history back to 1960" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">MAX</button>
+                </div>
+              </div>
+            </div>
+            <!-- Commodity Price HUD -->
+            <div id="commodityHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Iron ore 62% Fe CFR China benchmark from the World Bank Pink Sheet — the single largest dry bulk cargo by tonnage" data-tt-type="commodity-hud-cell" data-tt-series="iron_ore">
+                <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Iron Ore ($/dmt)</div>
+                <div id="comHudIronOre" style="font-size:14px;font-weight:700;color:#ff6b6b;">—</div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Thermal coal Australian benchmark — second pillar of Pacific dry bulk demand" data-tt-type="commodity-hud-cell" data-tt-series="coal_australian">
+                <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Coal AUS ($/t)</div>
+                <div id="comHudCoal" style="font-size:14px;font-weight:700;color:#d29922;">—</div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Brent crude benchmark — proxy for tanker cargo value and global energy trade intensity" data-tt-type="commodity-hud-cell" data-tt-series="crude_brent">
+                <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Brent ($/bbl)</div>
+                <div id="comHudBrent" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+              </div>
+              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="World Bank total non-energy commodity index — aggregate raw-material trade pulse" data-tt-type="commodity-hud-cell" data-tt-series="total_index">
+                <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Total Index (2010=100)</div>
+                <div id="comHudTotalIdx" style="font-size:14px;font-weight:700;color:#a371f7;">—</div>
+              </div>
+            </div>
+            <div id="commodityNoData" style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">Loading World Bank Pink Sheet series…</div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="commodityChart"></canvas></div>
+            <div style="font-size:10px;color:var(--text-muted);margin-top:6px;padding:0 2px;">
+              Source: World Bank Commodity Markets (Pink Sheet), monthly nominal USD. Updated ~4th business day of each month with prior-month data.
+            </div>
           </div>
 
           <!-- LPG Freight & Charter Rates -->
@@ -17562,6 +17616,7 @@ if (intelTabsContainer) {
           function () { renderTankerForwardChart(); },
           function () { renderBasinSpreadChart(productKey); },
           function () { renderIronOreRestockingChart(productKey); },
+          function () { renderCommodityChart(); },
           function () { renderLPGFreightChart(productKey); },
           function () { renderLNGCharterChart(productKey); },
         ];
@@ -19870,6 +19925,298 @@ if (intelTabsContainer) {
           }
         }
       });
+    }
+
+    // =========================================================================
+    // WORLD BANK COMMODITY PRICES - CARGO DEMAND DRIVERS
+    // Data: data/macro/commodities_monthly.csv (World Bank Pink Sheet, monthly)
+    // Lazy-loaded on first render; never blocks initial page load.
+    // =========================================================================
+    var _commodityData = null;          // parsed rows: [{date:Date, ts, [series]:number|null}]
+    var _commodityFetch = null;         // in-flight promise
+    var _commodityGroup = 'ore';
+    var _commodityView = 'usd';
+    var _commodityWindow = '10y';
+
+    var COMMODITY_SERIES = {
+      iron_ore:        { label: 'Iron Ore 62% ($/dmt)', color: '#ff6b6b' },
+      coal_australian: { label: 'Thermal Coal AUS ($/t)', color: '#d29922' },
+      crude_brent:     { label: 'Brent Crude ($/bbl)', color: '#58a6ff' },
+      natgas_eu:       { label: 'Nat Gas TTF ($/MMBtu)', color: '#3fb950' },
+      lng_japan:       { label: 'LNG Japan ($/MMBtu)', color: '#39c5cf' },
+      wheat_srw:       { label: 'Wheat SRW ($/t)', color: '#e3b341' },
+      maize:           { label: 'Maize ($/t)', color: '#f778ba' },
+      soybeans:        { label: 'Soybeans ($/t)', color: '#a371f7' },
+      copper:          { label: 'Copper ($/t)', color: '#ff9f43' },
+      aluminum:        { label: 'Aluminium ($/t)', color: '#8b949e' },
+      nickel:          { label: 'Nickel ($/t)', color: '#79c0ff' },
+      energy_index:    { label: 'Energy Index (2010=100)', color: '#58a6ff' },
+      agri_index:      { label: 'Agriculture Index (2010=100)', color: '#3fb950' },
+      total_index:     { label: 'Total Index (2010=100)', color: '#a371f7' },
+    };
+
+    var COMMODITY_GROUPS = {
+      ore:    ['iron_ore', 'coal_australian'],
+      energy: ['crude_brent', 'natgas_eu', 'lng_japan'],
+      grain:  ['wheat_srw', 'maize', 'soybeans'],
+      metals: ['copper', 'aluminum', 'nickel'],
+      index:  ['energy_index', 'agri_index', 'total_index'],
+    };
+
+    function setCommodityGroup(g) {
+      window.setCommodityGroup = setCommodityGroup;
+      _commodityGroup = g;
+      var ids = { ore: 'Ore', energy: 'Energy', grain: 'Grain', metals: 'Metals', index: 'Index' };
+      Object.keys(ids).forEach(function (k) {
+        var el = document.getElementById('comGrp' + ids[k]);
+        if (el) {
+          el.classList.toggle('active', k === g);
+          el.style.background = (k === g) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (k === g) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderCommodityChart();
+    }
+
+    function setCommodityView(v) {
+      window.setCommodityView = setCommodityView;
+      _commodityView = v;
+      [['usd', 'Usd'], ['pct', 'Pct']].forEach(function (pair) {
+        var el = document.getElementById('comView' + pair[1]);
+        if (el) {
+          el.classList.toggle('active', pair[0] === v);
+          el.style.background = (pair[0] === v) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (pair[0] === v) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderCommodityChart();
+    }
+
+    function setCommodityWindow(w) {
+      window.setCommodityWindow = setCommodityWindow;
+      _commodityWindow = w;
+      [['5y', '5y'], ['10y', '10y'], ['max', 'Max']].forEach(function (pair) {
+        var el = document.getElementById('comWin' + pair[1]);
+        if (el) {
+          el.classList.toggle('active', pair[0] === w);
+          el.style.background = (pair[0] === w) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (pair[0] === w) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderCommodityChart();
+    }
+
+    function ensureCommodityData(done) {
+      if (_commodityData) { done(); return; }
+      if (!_commodityFetch) {
+        _commodityFetch = fetchCSV('data/macro/commodities_monthly.csv').then(function (rows) {
+          var parsed = [];
+          (rows || []).forEach(function (row) {
+            var d = parseDateISO((row.date || '').trim());
+            if (!d || isNaN(d.getTime())) return;
+            var out = { date: d, ts: d.getTime() };
+            for (var k in row) {
+              if (k === 'date') continue;
+              var v = parseFloat(row[k]);
+              out[k] = isNaN(v) ? null : v;
+            }
+            parsed.push(out);
+          });
+          parsed.sort(function (a, b) { return a.ts - b.ts; });
+          _commodityData = parsed;
+        }).catch(function (e) {
+          console.warn('[WB Commodities] Load failed:', e.message);
+          _commodityData = [];
+        });
+      }
+      _commodityFetch.then(done);
+    }
+
+    /**
+     * Rolling % change vs ~60 months prior. Finds the nearest earlier non-null
+     * baseline within an 18-month lookback so series gaps degrade gracefully.
+     */
+    function commodityPctVs5y(seriesKey) {
+      if (!_commodityData) return [];
+      return _commodityData.map(function (row, i) {
+        var v = row[seriesKey];
+        if (v == null) return null;
+        var base = null, baseIdx = i - 60;
+        for (var back = 0; back <= 18; back++) {
+          var j = baseIdx - back;
+          if (j < 0) break;
+          var bv = _commodityData[j][seriesKey];
+          if (bv != null && bv > 0) { base = bv; break; }
+        }
+        if (base == null) return null;
+        return (v / base - 1) * 100;
+      });
+    }
+
+    function renderCommodityChart() {
+      var canvas = document.getElementById('commodityChart');
+      var noDataEl = document.getElementById('commodityNoData');
+      if (!canvas) return;
+
+      ensureCommodityData(function () {
+        // Re-check generation: a product switch may have re-triggered renders while loading.
+        try { _renderCommodityChartInner(); } catch (e) { console.error('[CommodityChart]', e); }
+      });
+
+      if (!_commodityData) {
+        if (noDataEl) noDataEl.style.display = '';
+        canvas.style.display = 'none';
+        return;
+      }
+    }
+
+    function _renderCommodityChartInner() {
+      var canvas = document.getElementById('commodityChart');
+      var noDataEl = document.getElementById('commodityNoData');
+      var titleEl = document.getElementById('commodityTitle');
+      if (!canvas || !_commodityData) return;
+
+      var rows = _commodityData;
+      if (!rows.length) {
+        if (noDataEl) noDataEl.style.display = '';
+        canvas.style.display = 'none';
+        return;
+      }
+      if (noDataEl) noDataEl.style.display = 'none';
+      canvas.style.display = '';
+
+      var cutoff = null;
+      if (_commodityWindow === '5y') cutoff = new Date(rows[rows.length - 1].date.getFullYear() - 5, rows[rows.length - 1].date.getMonth(), 1);
+      else if (_commodityWindow === '10y') cutoff = new Date(rows[rows.length - 1].date.getFullYear() - 10, rows[rows.length - 1].date.getMonth(), 1);
+
+      var startIdx = 0;
+      if (cutoff) {
+        for (var i = 0; i < rows.length; i++) {
+          if (rows[i].date >= cutoff) { startIdx = i; break; }
+        }
+      }
+      var visible = rows.slice(startIdx);
+      var labels = visible.map(function (r) {
+        var d = r.date;
+        return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0');
+      });
+
+      var seriesKeys = COMMODITY_GROUPS[_commodityGroup] || [];
+      var pctCache = (_commodityView === 'pct') ? {} : null;
+      var datasets = [];
+
+      seriesKeys.forEach(function (key) {
+        var meta = COMMODITY_SERIES[key];
+        if (!meta) return;
+        var data;
+        if (pctCache) {
+          if (!pctCache[key]) pctCache[key] = commodityPctVs5y(key);
+          data = pctCache[key].slice(startIdx);
+        } else {
+          data = visible.map(function (r) { return r[key]; });
+        }
+        datasets.push({
+          label: meta.label,
+          data: data,
+          borderColor: meta.color,
+          backgroundColor: meta.color + '1a',
+          borderWidth: 2,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          fill: false,
+          tension: 0.25,
+          spanGaps: true,
+        });
+      });
+
+      // Dynamic title tooltip payload (latest values + momentum for this group)
+      if (titleEl) {
+        titleEl.setAttribute('data-tt-group', _commodityGroup);
+        var lastRow = rows[rows.length - 1];
+        var prevRow = rows.length > 1 ? rows[rows.length - 2] : lastRow;
+        var yearAgo = rows.length > 12 ? rows[rows.length - 13] : rows[0];
+        seriesKeys.forEach(function (key) {
+          var v = lastRow[key], m = prevRow[key], y = yearAgo[key];
+          if (v != null) titleEl.setAttribute('data-tt-latest-' + key, v.toFixed(2));
+          if (m != null && v != null && m > 0) titleEl.setAttribute('data-tt-mom-' + key, (((v / m) - 1) * 100).toFixed(2));
+          if (y != null && v != null && y > 0) titleEl.setAttribute('data-tt-yoy-' + key, (((v / y) - 1) * 100).toFixed(2));
+        });
+        titleEl.setAttribute('data-tt-asof', fmtDateUser(fmtISOFromRow(lastRow)));
+      }
+
+      updateCommodityHud();
+
+      destroyChart('commodityChart');
+      chartRegistry['commodityChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: { labels: labels, datasets: datasets },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 }, boxWidth: 8 } },
+            tooltip: {
+              callbacks: {
+                title: function (items) {
+                  if (!items || !items.length) return '';
+                  var lbl = items[0].label || '';
+                  var parts = lbl.split('-');
+                  if (parts.length === 2) {
+                    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+                    return months[parseInt(parts[1]) - 1] + ' ' + parts[0];
+                  }
+                  return lbl;
+                },
+                label: function (c) {
+                  if (c.parsed.y == null) return null;
+                  if (_commodityView === 'pct') return ' ' + c.dataset.label.replace(/\s*\(.*\)$/, '') + ': ' + (c.parsed.y >= 0 ? '+' : '') + c.parsed.y.toFixed(1) + '%';
+                  return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y, c.parsed.y >= 1000 ? 0 : 2);
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, maxTicksLimit: 10, maxRotation: 0 } },
+            y: {
+              grid: { color: '#151a22' },
+              ticks: {
+                font: { size: 11 },
+                callback: function (v) { return _commodityView === 'pct' ? (v > 0 ? '+' : '') + v + '%' : fmt(v); }
+              },
+              title: { display: true, text: _commodityView === 'pct' ? '% change vs 5 years prior' : 'USD (nominal)', color: '#8b949e', font: { size: 10 } }
+            }
+          }
+        }
+      });
+    }
+
+    function fmtISOFromRow(row) {
+      if (!row || !row.date) return '';
+      return fmtDate(row.date);
+    }
+
+    function updateCommodityHud() {
+      if (!_commodityData || !_commodityData.length) return;
+      var rows = _commodityData;
+      var last = rows[rows.length - 1];
+      var yearAgo = rows.length > 12 ? rows[rows.length - 13] : null;
+      function hud(elId, valElId, key) {
+        var el = document.getElementById(valElId);
+        if (!el) return;
+        var v = last[key];
+        if (v == null) { el.textContent = '—'; return; }
+        var yoyTxt = '';
+        if (yearAgo && yearAgo[key] != null && yearAgo[key] > 0) {
+          var yoy = ((v / yearAgo[key]) - 1) * 100;
+          var cls = yoy >= 0 ? '#3fb950' : '#f85149';
+          yoyTxt = ' <span style="font-size:10px;font-weight:600;color:' + cls + ';">' + (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '% YoY</span>';
+        }
+        el.innerHTML = fmt(v, v >= 1000 ? 0 : 1) + yoyTxt;
+      }
+      hud('comHudIronOre', 'comHudIronOre', 'iron_ore');
+      hud('comHudCoal', 'comHudCoal', 'coal_australian');
+      hud('comHudBrent', 'comHudBrent', 'crude_brent');
+      hud('comHudTotalIdx', 'comHudTotalIdx', 'total_index');
     }
 
     // =========================================================================
@@ -22473,6 +22820,128 @@ if (intelTabsContainer) {
     }
     window.getFFAProcessed = getFFAProcessed;
 
+    // ------------------------------------------------------------------
+    // Contract archive: lazy-loaded full-life histories (2018 -> present).
+    // History files are 2-6 MB each, so they are fetched only when the user
+    // opens the archive selector, one product at a time, then cached.
+    // ------------------------------------------------------------------
+    var _sgxHistoryPromises = {};
+    var _sgxHistoryRequested = {};
+    var _ffaMergedCache = {};
+
+    function loadFFAHistory(p) {
+      if (!_sgxHistoryRequested[p]) {
+        _sgxHistoryRequested[p] = true;
+        DATA.sgxHistory = DATA.sgxHistory || {};
+        _sgxHistoryPromises[p] = fetchCSV('data/futures/sgx_' + p + '_futures_history.csv')
+          .then(function (rows) {
+            DATA.sgxHistory[p] = rows || [];
+            _ffaMergedCache[p] = null;
+          })
+          .catch(function (e) {
+            console.warn('[SGX ' + p + ' archive] Load failed:', e.message);
+            DATA.sgxHistory[p] = [];
+          });
+      }
+      return _sgxHistoryPromises[p] || Promise.resolve();
+    }
+
+    function ensureFFAArchiveLoaded() {
+      window.ensureFFAArchiveLoaded = ensureFFAArchiveLoaded;
+      refreshFFAPick(); // instant paint with active contracts from current data
+      loadFFAHistory(_ffaProduct).then(function () { refreshFFAPick(true); });
+    }
+
+    /**
+     * Full contract list for a product = current snapshot merged with the
+     * deep archive. Current-file rows win on duplicate (contract, date) so
+     * the freshest daily snapshot is always authoritative.
+     */
+    function getFFAMerged(p) {
+      if (!DATA.sgx) return [];
+      var base = getFFAProcessed();
+      var baseList = (base && base[p]) || [];
+      var histRows = DATA.sgxHistory ? DATA.sgxHistory[p] : null;
+      if (!histRows || !histRows.length) return baseList;
+      if (_ffaMergedCache[p]) return _ffaMergedCache[p];
+
+      var byId = {};
+      baseList.forEach(function (c) { byId[c.contract] = c; });
+
+      parseSGXRows(histRows).forEach(function (hc) {
+        var bc = byId[hc.contract];
+        if (bc) {
+          var tsMap = {};
+          hc.history.forEach(function (r) { tsMap[r.date.getTime()] = r; });
+          bc.history.forEach(function (r) { tsMap[r.date.getTime()] = r; }); // current wins
+          bc.history = Object.keys(tsMap).map(function (k) { return tsMap[k]; })
+            .sort(function (a, b) { return a.date - b.date; });
+          if (bc.expiry == null && hc.expiry != null) {
+            bc.expiry = hc.expiry;
+            bc.sortKey = hc.sortKey;
+          }
+          if (!bc.expiryLabel || bc.expiryLabel === bc.contract) bc.expiryLabel = hc.expiryLabel;
+        } else {
+          byId[hc.contract] = hc;
+        }
+      });
+
+      var merged = Object.keys(byId).map(function (k) { return byId[k]; });
+      merged.sort(function (a, b) { return a.sortKey - b.sortKey; });
+      _ffaMergedCache[p] = merged;
+      return merged;
+    }
+
+    function refreshFFAPick(keepSelection) {
+      var sel = document.getElementById('ffaContractPick');
+      if (!sel) return;
+      var prev = keepSelection ? sel.value : '';
+      var today = new Date(); today.setHours(0, 0, 0, 0);
+      var contracts = getFFAMerged(_ffaProduct);
+
+      var active = [], expiredByYear = {};
+      contracts.forEach(function (c) {
+        if (!c.contract) return;
+        if (c.isActive) active.push(c);
+        else {
+          var y = c.expiry ? c.expiry.getFullYear() : '----';
+          if (!expiredByYear[y]) expiredByYear[y] = [];
+          expiredByYear[y].push(c);
+        }
+      });
+      active.sort(function (a, b) { return a.sortKey - b.sortKey; });
+
+      var html = '<option value="">Contract archive…</option>';
+      if (active.length) {
+        html += '<optgroup label="Active">';
+        active.forEach(function (c) {
+          html += '<option value="' + c.contract + '">' + c.contract + ' · ' + c.expiryLabel + '</option>';
+        });
+        html += '</optgroup>';
+      }
+      Object.keys(expiredByYear).map(Number).sort(function (a, b) { return b - a; }).forEach(function (y) {
+        html += '<optgroup label="Expired ' + y + '">';
+        expiredByYear[y].forEach(function (c) {
+          html += '<option value="' + c.contract + '">' + c.contract + ' · ' + c.expiryLabel + '</option>';
+        });
+        html += '</optgroup>';
+      });
+      sel.innerHTML = html;
+      if (prev) sel.value = prev;
+      if (prev && sel.value !== prev) sel.value = '';
+    }
+
+    function onFFAPickChange() {
+      window.onFFAPickChange = onFFAPickChange;
+      var sel = document.getElementById('ffaContractPick');
+      if (!sel || !sel.value) return;
+      var contractId = sel.value;
+      loadFFAHistory(_ffaProduct).then(function () {
+        var match = getFFAMerged(_ffaProduct).filter(function (c) { return c.contract === contractId; })[0];
+        if (match) renderFFAContractHistory(match);
+      });
+    }
+
     function setFFAProduct(p) {
       window.setFFAProduct = setFFAProduct;
       _ffaProduct = p;
@@ -22484,6 +22953,7 @@ if (intelTabsContainer) {
       // Close any open history panel when switching product
       var hp = document.getElementById('ffaHistoryPanel');
       if (hp) { hp.style.display = 'none'; destroyChart('ffaHistoryChart'); }
+      refreshFFAPick();
       renderFFAForwardCurve();
     }
 
@@ -23655,6 +24125,108 @@ if (intelTabsContainer) {
         deep_historical:[],
       },
     };
+
+    // ------------------------------------------------------------------
+    // Dynamic chunk-shard discovery (fixes the Jan-1 year-rollover bug).
+    // QA_CHUNK_FILES above is a static fallback; when the compiler-published
+    // knowledge/chunks/index.json manifest exists it takes precedence, so a
+    // new year's shard files are picked up automatically without editing
+    // this file. Tiers: newest year = recent, next 3 years = historical,
+    // older/legacy undated shards = deep_historical.
+    // ------------------------------------------------------------------
+    var QA_CHUNK_FILES_DYNAMIC = null;
+    var _qaChunkIndexPromise = null;
+
+    var _QA_GROUP_PREFIXES = [
+      ['books',                      ['books']],
+      ['hellenic_iron_ore',          ['ironOre']],
+      ['fleet_orderbook',            ['shipbuilding']],
+      ['hellenic_shipbuilding',      ['shipbuilding']],
+      ['hellenic_demolition',        ['shipbuilding']],
+      ['sp_asset_valuations',        ['hellenic']],
+      ['bunker_and_carbon_spreads',  ['hellenic']],
+      ['regional_freight_spreads',   ['breakwave', 'baltic', 'ironOre']],
+      ['chokepoint_and_congestion',  ['baltic']],
+      ['breakwave_insights_insights',['breakwave']],
+      ['breakwave_drybulk',          ['breakwave']],
+      ['breakwave_tankers',          ['breakwave']],
+      ['baltic_',                    ['baltic']],
+      ['hellenic_',                  ['hellenic']],
+    ];
+
+    function buildQATiersFromIndex(idx) {
+      try {
+        if (!idx || !Array.isArray(idx.files) || !idx.files.length) return null;
+        var byGroupYear = {}; // group -> { years:Set, nullYears:count }
+        var perFile = [];
+        idx.files.forEach(function (f) {
+          if (!f || !f.stem || !f.path) return;
+          var groups = [];
+          for (var i = 0; i < _QA_GROUP_PREFIXES.length && !groups.length; i++) {
+            if (f.stem.indexOf(_QA_GROUP_PREFIXES[i][0]) === 0) groups = _QA_GROUP_PREFIXES[i][1];
+          }
+          if (!groups.length) return;
+          perFile.push({ path: f.path, groups: groups, year: f.year });
+          groups.forEach(function (g) {
+            if (!byGroupYear[g]) byGroupYear[g] = { hasYears: false, maxYear: -Infinity };
+            if (f.year != null && f.year > 0) {
+              byGroupYear[g].hasYears = true;
+              if (f.year > byGroupYear[g].maxYear) byGroupYear[g].maxYear = f.year;
+            }
+          });
+        });
+        if (!perFile.length) return null;
+
+        var table = {};
+        Object.keys(byGroupYear).forEach(function (g) {
+          table[g] = { recent: [], historical: [], deep_historical: [] };
+        });
+        perFile.forEach(function (f) {
+          f.groups.forEach(function (g) {
+            if (!table[g]) return;
+            if (g === 'books') { table[g].recent.push(f.path); return; }
+            var info = byGroupYear[g];
+            if (f.year == null || f.year <= 0 || !info.hasYears) {
+              // Legacy undated full-history shards sit in historical, or in
+              // recent when no dated shards exist at all.
+              if (info.hasYears) table[g].historical.push(f.path);
+              else table[g].recent.push(f.path);
+            } else if (f.year === info.maxYear) {
+              table[g].recent.push(f.path);
+            } else if (f.year >= info.maxYear - 3) {
+              table[g].historical.push(f.path);
+            } else {
+              table[g].deep_historical.push(f.path);
+            }
+          });
+        });
+        // Sanity: every populated group must expose at least one file
+        var ok = false;
+        Object.keys(table).forEach(function (g) {
+          if (table[g].recent.length || table[g].historical.length) ok = true;
+        });
+        return ok ? table : null;
+      } catch (e) {
+        console.warn('[QA] chunk index parse failed:', e);
+        return null;
+      }
+    }
+
+    function _resolveQAChunkTable() {
+      if (QA_CHUNK_FILES_DYNAMIC) return Promise.resolve(QA_CHUNK_FILES_DYNAMIC);
+      if (!_qaChunkIndexPromise) {
+        _qaChunkIndexPromise = fetch('knowledge/chunks/index.json', { cache: 'no-cache' })
+          .then(function (r) { return r.ok ? r.json() : null; })
+          .then(function (idx) {
+            var built = idx && buildQATiersFromIndex(idx);
+            if (built) QA_CHUNK_FILES_DYNAMIC = built;
+            return QA_CHUNK_FILES_DYNAMIC;
+          })
+          .catch(function () { return null; });
+      }
+      return _qaChunkIndexPromise;
+    }
+    window._resolveQAChunkTable = _resolveQAChunkTable;
 
     const QA_WIKI_FILES = [
       { key: 'dry_bulk_market',          path: 'knowledge/wiki/dry_bulk_market.md',          label: 'Dry Bulk Market' },
@@ -25612,49 +26184,9 @@ if (intelTabsContainer) {
       return e > 0 ? md.slice(e + 3).trim() : md;
     }
 
-    function _providerConfig(provider) {
-      const baseCfg = QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
-      const cfg = { ...baseCfg };
-      
-      if (provider === 'openrouter') {
-        cfg.maxContextTokens = 32000;
-      } else if (provider === 'groq') {
-        cfg.maxContextTokens = 4000;
-      }
-      return cfg;
-    }
-
-    function _currentQAProvider() {
-      const stored = typeof localStorage !== 'undefined' ? localStorage.getItem('qa_provider') : 'groq';
-      const selected = (document.getElementById('qaProvider')?.value || stored || 'groq').trim().toLowerCase();
-      return QA_PROVIDER_CONFIG[selected] ? selected : 'groq';
-    }
-
-    function _loadProviderKey(provider) {
-      const cfg = _providerConfig(provider);
-      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.keyStorage) : '') || '';
-    }
-
-    function _saveProviderKey(provider, value) {
-      const cleanVal = (value || '').trim();
-      if (provider === 'groq' && cleanVal.startsWith('sk-or-')) {
-        console.warn('[QA] OpenRouter key entered in Groq slot - auto-saving to OpenRouter storage');
-        if (typeof localStorage !== 'undefined') localStorage.setItem('qa_key_openrouter', cleanVal);
-      }
-      const cfg = _providerConfig(provider);
-      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.keyStorage, cleanVal);
-    }
-
-    function _loadProviderModel(provider) {
-      const cfg = _providerConfig(provider);
-      return (typeof localStorage !== 'undefined' ? localStorage.getItem(cfg.modelStorage) : '') || cfg.defaultModel;
-    }
-
-    function _saveProviderModel(provider, value) {
-      const cfg = _providerConfig(provider);
-      const cleanVal = (value || '').trim();
-      if (typeof localStorage !== 'undefined') localStorage.setItem(cfg.modelStorage, cleanVal);
-    }
+    // NOTE: _providerConfig/_currentQAProvider/_loadProviderKey/_saveProviderKey/
+    // _loadProviderModel/_saveProviderModel are defined once further down in this
+    // script scope (the earlier duplicates were removed as dead hoisted code).
 
     async function _runProviderLLM(provider, apiKey, model, prompt, onToken, options) {
       // ── Shared SSE reader for OpenAI-compatible streams ───────────────────
@@ -26431,16 +26963,19 @@ if (intelTabsContainer) {
         // Step 2 - Chunks (progressive: recent first, expand if needed)
         let topChunks = [];
         if (!wikiOnly) {
+          // Prefer compiler-published shard manifest (auto year rollover),
+          // falling back to the static table above when it is unavailable.
+          const chunkTable = (await _resolveQAChunkTable()) || QA_CHUNK_FILES;
           // src() = manually checked OR auto-detected from query — union of both, never intersection
           const _isChecked = id => document.getElementById(id)?.checked;
           const _src = (id, key) => _isChecked(id) || autoSrc.has(key);
           const _getUrls = tier => [
-            ...(_src('qaSrcBreakwave',    'breakwave')    ? (QA_CHUNK_FILES.breakwave[tier]    || []) : []),
-            ...(_src('qaSrcBaltic',       'baltic')       ? (QA_CHUNK_FILES.baltic[tier]       || []) : []),
-            ...(_src('qaSrcHellenic',     'hellenic')     ? (QA_CHUNK_FILES.hellenic[tier]     || []) : []),
-            ...(_src('qaSrcIronOre',      'ironOre')      ? (QA_CHUNK_FILES.ironOre[tier]      || []) : []),
-            ...(_src('qaSrcShipbuilding', 'shipbuilding') ? (QA_CHUNK_FILES.shipbuilding[tier] || []) : []),
-            ...(_src('qaSrcBooks',        'books')        ? (QA_CHUNK_FILES.books[tier]        || []) : []),
+            ...(_src('qaSrcBreakwave',    'breakwave')    ? (chunkTable.breakwave[tier]    || []) : []),
+            ...(_src('qaSrcBaltic',       'baltic')       ? (chunkTable.baltic[tier]       || []) : []),
+            ...(_src('qaSrcHellenic',     'hellenic')     ? (chunkTable.hellenic[tier]     || []) : []),
+            ...(_src('qaSrcIronOre',      'ironOre')      ? (chunkTable.ironOre[tier]      || []) : []),
+            ...(_src('qaSrcShipbuilding', 'shipbuilding') ? (chunkTable.shipbuilding[tier] || []) : []),
+            ...(_src('qaSrcBooks',        'books')        ? (chunkTable.books[tier]        || []) : []),
           ];
           // Size retrieval for the largest context available anywhere in fallback order
           const maxFallbackCtx = fallbackOrder.reduce(
@@ -28374,6 +28909,69 @@ if (intelTabsContainer) {
           } else {
             html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Select a dry bulk sector to display restocking data.</div>`;
           }
+        }
+        else if (type === 'concept-commodities') {
+          const grp = target.getAttribute('data-tt-group') || 'ore';
+          const asof = target.getAttribute('data-tt-asof') || '';
+          var grpDesc = {
+            ore: '<strong>Ore &amp; Coal</strong>: Iron ore and thermal coal are the two largest dry bulk cargoes by ton-miles. Their price levels signal steel-mill economics and power-sector import appetite — firm prices with low port stocks historically precede Capesize rate spikes.',
+            energy: '<strong>Energy Cargo Values</strong>: Brent, TTF gas and Japan LNG benchmarks track the value density of tanker and gas-carrier cargoes. Wide crude-to-gas spreads drive LNG export arb flows and VLGC ton-mile demand.',
+            grain: '<strong>Grain Harvests</strong>: Wheat, maize and soybean prices move with harvest outcomes. Price spikes after shortfalls (e.g., Black Sea disruptions) trigger urgent long-haul import programs — a classic Small Panamax/Supramax demand catalyst.',
+            metals: '<strong>Base Metals</strong>: Copper, aluminium and nickel prices proxy industrial construction and electrification demand. Sustained rallies pull more bauxite, laterite and concentrate tonnage onto Supramax/Ultramax routes.',
+            index: '<strong>World Bank Indices</strong>: Nominal USD indices (2010=100) for energy, agriculture and total non-energy commodities. The cleanest single-glance measure of global raw-material trade intensity.'
+          }[grp] || '';
+          html = `<div class="rt-title">Cargo Demand Drivers — World Bank Pink Sheet</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Why it matters</strong>: Commodity price levels are the leading layer of the shipping demand stack — production and import economics decide cargo volumes before freight rates react.</div>`;
+          if (grpDesc) html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">${grpDesc}</div>`;
+          var keys = { ore: ['iron_ore', 'coal_australian'], energy: ['crude_brent', 'natgas_eu', 'lng_japan'], grain: ['wheat_srw', 'maize', 'soybeans'], metals: ['copper', 'aluminum', 'nickel'], index: ['energy_index', 'agri_index', 'total_index'] }[grp] || [];
+          var names = { iron_ore: 'Iron Ore 62% CFR', coal_australian: 'Thermal Coal AUS', crude_brent: 'Brent Crude', natgas_eu: 'Nat Gas TTF', lng_japan: 'LNG Japan', wheat_srw: 'Wheat SRW', maize: 'Maize', soybeans: 'Soybeans', copper: 'Copper LME', aluminum: 'Aluminium', nickel: 'Nickel', energy_index: 'Energy Index', agri_index: 'Agri Index', total_index: 'Total Index' };
+          var any = false;
+          keys.forEach(function (k) {
+            var lv = parseFloat(target.getAttribute('data-tt-latest-' + k));
+            if (isNaN(lv)) return;
+            any = true;
+            var mom = parseFloat(target.getAttribute('data-tt-mom-' + k));
+            var yoy = parseFloat(target.getAttribute('data-tt-yoy-' + k));
+            var momTxt = !isNaN(mom) ? '<span class="' + (mom >= 0 ? 'pos' : 'neg') + '">' + (mom >= 0 ? '+' : '') + mom.toFixed(1) + '% MoM</span>' : '—';
+            var yoyTxt = !isNaN(yoy) ? '<span class="' + (yoy >= 0 ? 'pos' : 'neg') + '">' + (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '% YoY</span>' : '—';
+            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;margin-top:4px;"><span class="rt-label">${names[k] || k}</span><span class="rt-val">${fmt(lv, lv >= 1000 ? 0 : 2)} &nbsp; ${momTxt} &nbsp; ${yoyTxt}</span></div>`;
+          });
+          if (!any) html += `<div class="rt-note">Hover after the chart finishes loading to see live values.</div>`;
+          if (asof) html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);margin-top:6px;padding-top:4px;text-align:center;">Latest print: ${asof} · World Bank CMO, monthly nominal USD</div>`;
+        }
+        else if (type === 'concept-commodity-grp') {
+          const g = target.getAttribute('data-tt-grp') || '';
+          var gName = { ore: 'Ore & Coal', energy: 'Energy', grain: 'Grains', metals: 'Base Metals', index: 'WB Indices' }[g] || g;
+          var gDesc = {
+            ore: 'Iron ore + Australian thermal coal — top dry bulk ton-mile drivers.',
+            energy: 'Crude, European gas and Japan LNG — tanker & gas carrier cargo values.',
+            grain: 'Wheat, maize, soybeans — harvest-driven Supramax/Panamax programs.',
+            metals: 'Copper, aluminium, nickel — industrial demand proxy.',
+            index: 'Nominal USD commodity indices (2010=100) — aggregate trade pulse.'
+          }[g] || '';
+          html = `<div class="rt-title">${gName} Series Group</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;line-height:1.35;">${gDesc}</div>`;
+        }
+        else if (type === 'concept-commodity-view') {
+          const vw = target.getAttribute('data-tt-view') || 'usd';
+          html = `<div class="rt-title">${vw === 'pct' ? '% vs 5 Years Ago (rolling)' : 'Nominal USD Prices'}</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;line-height:1.35;">${vw === 'pct'
+            ? 'Each point shows the % change versus the same series roughly 5 years earlier (nearest available monthly baseline within an 18-month lookback). Normalises across unlike units so ore ($/dmt), gas ($/MMBtu) and copper ($/t) are directly comparable.'
+            : 'Raw monthly settlement prices in current US dollars from the World Bank Pink Sheet. Best for reading absolute affordability and cost-push levels.'}</div>`;
+        }
+        else if (type === 'commodity-hud-cell') {
+          const sKey = target.getAttribute('data-tt-series') || '';
+          var cellNames = { iron_ore: 'Iron Ore 62% Fe CFR China', coal_australian: 'Thermal Coal (Australia)', crude_brent: 'Brent Crude', total_index: 'Total Non-Energy Index (2010=100)' };
+          var cellUnits = { iron_ore: '$/dmt', coal_australian: '$/t', crude_brent: '$/bbl', total_index: 'index pts' };
+          html = `<div class="rt-title">${cellNames[sKey] || 'Commodity Benchmark'}</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>YoY badge</strong>: latest monthly print vs the print 12 months earlier. Green = building import affordability, red = contracting.</div>`;
+          html += `<div class="rt-note">Source: World Bank Commodity Markets (Pink Sheet). Monthly cadence, published ~4th business day with prior-month data.</div>`;
+        }
+        else if (type === 'concept-ffa-archive') {
+          html = `<div class="rt-title">SGX FFA Contract Archive</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Full contract lives with available settlements</strong>: pick any expired contract month to study how it traded through its life — listing, run-up into expiry, and final settlement. SGX serves settlement history from early-2024 expiries onward.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Use case</strong>: expired-contract traces reveal how forward expectations compared to eventual physical reality — the empirical base rate for curve risk premium on this vessel class.</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Archive history (~2-6 MB per vessel class) loads once, on first open, then stays cached for the session.</div>`;
         }
         else if (type === 'concept-scrapfloor') {
           const ldtVal = parseFloat(target.getAttribute('data-tt-ldt'));

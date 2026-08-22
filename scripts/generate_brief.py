@@ -879,16 +879,22 @@ def load_physical_signals_context() -> str:
 def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> str:
     """Load all chunk sections for the most recent N reports."""
     chunk_map = {
-        "drybulk": [
-            KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
-            KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl",
-        ],
-        "tankers": [
-            KNOWLEDGE / "chunks" / "breakwave_tankers_2026.jsonl",
-            KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl",
-        ],
+        "drybulk": "breakwave_drybulk",
+        "tankers": "breakwave_tankers",
     }
-    paths = chunk_map.get(category, [])
+    stem = chunk_map.get(category)
+    paths: list[Path] = []
+    if stem:
+        # Discover shards dynamically (dated year-shards newest-first, then
+        # the legacy undated full-history file) so briefs keep reading fresh
+        # chunks after every January rollover without code changes.
+        dated = sorted(
+            (KNOWLEDGE / "chunks").glob(f"{stem}_*.jsonl"),
+            key=lambda p: p.name,
+            reverse=True,
+        )
+        legacy = KNOWLEDGE / "chunks" / f"{stem}.jsonl"
+        paths = dated + ([legacy] if legacy.exists() else [])
     chunks: list[dict] = []
     for path in paths:
         try:
