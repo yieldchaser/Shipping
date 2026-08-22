@@ -110,6 +110,7 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`data/futures/sgx_panamax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Panamax FFA forward curves & settlement history |
 | [`data/futures/sgx_supramax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Supramax FFA forward curves & settlement history |
 | [`data/futures/sgx_handysize_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Handysize FFA forward curves & settlement history |
+| [`data/futures/sgx_*_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures_history.csv) | **Full Contract Lives** (4 files) | 03-2017 | ~324,547 | Complete SGX FFA settlement history per contract since 2017 (`contract, expiry_month, expiry_year, date, price, volume, expiry_date`), backfilled & refreshed Mon–Thu via `scripts/expansion_sgx_history_backfill.py` |
 | [`data/etf/bdry_holdings.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_holdings.csv) | Daily Holdings | Live | ~21 | BDRY FFA contract holdings (Capesize, Panamax, Supramax 5TC) |
 | [`data/etf/bwet_holdings.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bwet_holdings.csv) | Daily Holdings | Live | ~15 | BWET FFA contract holdings (TD3C VLCC & TD20 Suezmax) |
 | [`data/etf/bdry_holdings_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BDRY ETF FFA contract positions |
@@ -121,7 +122,24 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`data/flows/all_flows_summary.json`](file:///c:/Users/Dell/Github/Shipping/data/flows/all_flows_summary.json) | JSON Summary | Live | — | Unified JSON payload containing synced ETF flow metrics |
 | [`data/etf/bdry_liquidity.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_liquidity.csv) | Liquidity | 22-03-2018 | ~2,096 | Daily Close, Volume, Dollar Value Traded, Tier, Safe Liquidity $ |
 
-### 2.5 Official ETF Documentation & Dataset Catalog (`docs/`)
+### 2.5 Expansion Collectors (`data/congestion/`, `data/macro/`, `data/bunkers/`)
+
+Mon–Thu 05:00 UTC via `.github/workflows/data_expansion.yml` (idempotent upserts, graceful failure, existing data never rewritten).
+
+| File Path | Description | Coverage | Source |
+| :--- | :--- | :--- | :--- |
+| [`data/congestion/chokepoint_transits_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/chokepoint_transits_daily.csv) | Daily transits across 28 maritime chokepoints by vessel class (Suez, Panama, Bosporus, Malacca, ...) | 2019 → live (~78k rows) | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
+| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | Daily port-call volumes for curated major ports by segment | rolling window | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
+| [`data/macro/commodities_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices + CMO indices — iron ore / coal / crude / natgas / grains / metals, the core cargo-demand drivers behind dry bulk & tanker freight | 1960 → current month−1 (monthly) | World Bank CMO xlsx (`expansion_worldbank_pinksheet.py`) |
+| [`data/bunkers/bunker_prices_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/bunkers/bunker_prices_daily.csv) | Bunker fuel prices ($/mt): VLSFO / MGO / IFO380 across global & regional averages plus 8 major hubs | daily snapshots accumulate | Ship & Bunker (`expansion_bunker_prices.py`) |
+
+> [!NOTE]
+> **Retired targets** (removed after source access was lost): OPEC MOMR
+> (Cloudflare block on all opec.org routes), GMS weekly demolition rates
+> (portal-gated; $/LDT needs served by `data/derived/scrappage_prices.csv`),
+> Intermodal fleet PDFs (form-gated), macro rates/FX (no consumer in this repo).
+
+### 2.6 Official ETF Documentation & Dataset Catalog (`docs/`)
 
 | File Path | Document Type | Description |
 | :--- | :--- | :--- |
@@ -501,19 +519,21 @@ flowchart LR
 
 ## 6. Automated GitHub Actions Workflows
 
-The repository maintains itself via 9 idempotent GitHub Actions workflows:
+The repository maintains itself via 11 idempotent GitHub Actions workflows:
 
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
 | [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via Groq / Gemini / NVIDIA NIM cascade & updates `knowledge/briefs/manifest.json`. |
 | [`alibra_poller.yml`](file:///.github/workflows/alibra_poller.yml) | `0 7,16 * * *` | Twice Daily (7 AM & 4 PM UTC) / Dispatch | `python scripts/alibra_poller.py --integrate` | Polls 10 Alibra Google Sheet endpoints, archives new reports, and auto-integrates forward curves & TC data. |
 | [`daily_update.yml`](file:///.github/workflows/daily_update.yml) | `30 10 * * *`<br>`0 14,19,22 * * *` | Scheduled / Dispatch | `python scripts/update_indices.py`<br>`python scripts/fetch_flows_shipping.py`<br>`python scripts/alibra_poller.py --integrate` | Scrapes Baltic indices, SGX futures, BDRY/BWET Playwright ETF fund flows, and polls Alibra feeds. |
-| [`baltic_new_indices_update.yml`](file:///.github/workflows/baltic_new_indices_update.yml) | `30 10 * * 1-5`<br>`0 14,19,22 * * 1-5` | Mon–Fri Scheduled | `python scripts/baltic_new_indices.py` | Updates BLNG, BLPG, FBX, BAI from Baltic ticker API & validates CSV tails. |
+| [`baltic_new_indices_update.yml`](file:///.github/workflows/baltic_new_indices_update.yml) | `30 10 * * 1-5`<br>`0 14,19,22 * * 1-5` | Mon–Fri Scheduled | `python scripts/baltic_new_indices.py` | Updates BLNG, BLPG, FBX, BAI from Baltic ticker API & validates CSV tails (graceful skip on partial upstream payloads). |
 | [`etf_holdings_update.yml`](file:///.github/workflows/etf_holdings_update.yml) | `0 14 * * 1-5` | Mon–Fri 2 PM UTC | `python scripts/update_etf_holdings.py` | Downloads Amplify master CSV, parses BDRY/BWET holdings, updates provenance manifest & scenario snapshots. |
 | [`report_ingest.yml`](file:///.github/workflows/report_ingest.yml) | `0 8,12,16 * * 1-5`<br>`30 9 * * 1-5` | Mon–Fri Scheduled | `scripts/breakwave_scraper.py`<br>`scripts/baltic_scraper.py`<br>`scripts/hellenic_scraper.py` | Ingests new Breakwave PDFs, Baltic roundups, and Hellenic HTML report categories. |
 | [`process_knowledge.yml`](file:///.github/workflows/process_knowledge.yml) | On push to `reports/**` | Push / Dispatch | `scripts/process_knowledge.py`<br>`scripts/build_wiki.py`<br>`scripts/validate_knowledge.py` | Compiles raw reports into markdown, chunks, trees, derived signals, and wiki pages. |
 | [`daily_knowledge_update.yml`](file:///.github/workflows/daily_knowledge_update.yml) | `30 15 * * *` | Daily 3:30 PM UTC | `python scripts/check_breakwave_freshness.py` | Incremental health check; triggers rebuild if source files outpace knowledge base. |
-| [`pages.yml`](file:///.github/workflows/pages.yml) | On push to `main` | Push to `main` | Static Artifact Upload & Deploy | Deploys static site to GitHub Pages with `cancel-in-progress: true` (~15–20s build). |
+| [`fearnleys_weekly.yml`](file:///.github/workflows/fearnleys_weekly.yml) | `45 6 * * 3` | Wednesdays 6:45 AM UTC / Dispatch | `python scripts/fetch_fearnleys_tc.py` | Pulls the weekly Fearnleys TC edition into `data/derived/time_charter_rates_fearnleys.csv`. |
+| [`data_expansion.yml`](file:///.github/workflows/data_expansion.yml) | `0 5 * * 1-4` | Mon–Thu 5 AM UTC / Dispatch | `expansion_sgx_history_backfill.py`<br>`expansion_worldbank_pinksheet.py`<br>`expansion_portwatch.py`<br>`expansion_bunker_prices.py` | Runs the expansion collectors (SGX full contract lives, World Bank Pink Sheet, PortWatch chokepoints/ports, Ship & Bunker prices); idempotent upserts with per-step graceful failure. |
+| [`pages.yml`](file:///.github/workflows/pages.yml) | On push to `main` + after any data workflow completes | `workflow_run` ×10 / Push / Dispatch | Static Artifact Upload & Deploy | Deploys static site to GitHub Pages; re-deploys whenever any upstream data workflow finishes so published data stays fresh. |
 
 ---
 

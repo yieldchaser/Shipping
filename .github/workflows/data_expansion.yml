@@ -39,11 +39,6 @@ jobs:
         timeout-minutes: 20
         run: if [ -f scripts/expansion_sgx_history_backfill.py ]; then python scripts/expansion_sgx_history_backfill.py; fi
 
-      - name: Macro rates & FX collector
-        continue-on-error: true
-        timeout-minutes: 20
-        run: if [ -f scripts/expansion_macro_rates_fx.py ]; then python scripts/expansion_macro_rates_fx.py; fi
-
       - name: World Bank commodity collector
         continue-on-error: true
         timeout-minutes: 20
@@ -58,21 +53,6 @@ jobs:
         continue-on-error: true
         timeout-minutes: 20
         run: if [ -f scripts/expansion_bunker_prices.py ]; then python scripts/expansion_bunker_prices.py; fi
-
-      - name: GMS recycling collector
-        continue-on-error: true
-        timeout-minutes: 20
-        run: if [ -f scripts/expansion_gms_recycling.py ]; then python scripts/expansion_gms_recycling.py; fi
-
-      - name: OPEC MOMR collector
-        continue-on-error: true
-        timeout-minutes: 20
-        run: if [ -f scripts/expansion_opec_momr.py ]; then python scripts/expansion_opec_momr.py; fi
-
-      - name: Intermodal fleet collector
-        continue-on-error: true
-        timeout-minutes: 20
-        run: if [ -f scripts/expansion_intermodal_fleet.py ]; then python scripts/expansion_intermodal_fleet.py; fi
 
       - name: Commit and push changes
         run: |
