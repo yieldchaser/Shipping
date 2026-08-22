@@ -17,6 +17,26 @@ import numpy as np
 from datetime import datetime
 from typing import Dict, Any, List, Tuple
 from test_10q_golden_fixtures import SEC_10Q_MARCH_31_2026
+from contract_spec_registry import resolve_contract_spec, UnknownContractSpecError
+
+FUTURES_MARKER_TOKENS = ('FFA', 'TD3C', 'TD20', 'C4', 'P4', 'S4')
+CASH_NAME_TOKENS = ('CASH', 'COLLATERAL', 'MAREX', 'USD')
+
+def is_cash_side_holding(name, ticker='', cusip=''):
+    """
+    Single authority for futures-vs-cash-side classification.
+    Futures marker tokens short-circuit to False; otherwise the contract spec
+    registry decides (Collateral/Cash Equivalent vessel class => cash side).
+    Unmapped names fall back to exact-ish cash token matching.
+    """
+    name_str = str(name).upper()
+    if any(token in name_str for token in FUTURES_MARKER_TOKENS):
+        return False
+    try:
+        spec = resolve_contract_spec(str(name), ticker=str(ticker or ''), cusip=str(cusip or ''))
+    except UnknownContractSpecError:
+        return any(token in name_str for token in CASH_NAME_TOKENS)
+    return spec.get('vessel_class') == 'Collateral/Cash Equivalent'
 
 def normalize_holdings_record(df_raw: pd.DataFrame, etf_key: str) -> pd.DataFrame:
     """
@@ -52,7 +72,7 @@ def normalize_holdings_record(df_raw: pd.DataFrame, etf_key: str) -> pd.DataFram
             mv = 0.0
             
         is_money_market = any(x in name_str.upper() for x in ['AGPXX', 'INVESCO', 'GOVERNMENT', 'TREASURY'])
-        is_cash = any(x in name_str.upper() for x in ['CASH', 'COLLATERAL', 'MAREX', 'USD']) and not is_money_market
+        is_cash = is_cash_side_holding(name_str, ticker_str, cusip_str) and not is_money_market
         is_futures = not (is_money_market or is_cash)
         
         route_class = 'other'

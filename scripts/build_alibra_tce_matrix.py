@@ -1,12 +1,40 @@
 import csv
 import json
-from datetime import date as _date
+import re
+from datetime import date as _date, datetime
 from pathlib import Path
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ALIBRA_DIR = REPO_ROOT / "docs" / "alibra_data"
 DERIVED_DIR = REPO_ROOT / "data" / "derived"
+
+def normalize_report_date(raw_stamp):
+    """Normalizes the raw stamp text (e.g. '19/08/2026') to ISO YYYY-MM-DD.
+
+    Reuses alibra_poller.parse_report_date when importable, with local format
+    fallbacks. Returns None for unparseable stamps so the caller can keep a
+    sane default instead of publishing a malformed report_date.
+    """
+    if not raw_stamp:
+        return None
+    try:
+        from alibra_poller import parse_report_date
+        iso = parse_report_date(raw_stamp)
+        if iso:
+            return iso
+    except Exception:
+        pass
+    cleaned = str(raw_stamp).strip().splitlines()[0].strip()
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", cleaned)
+    if m:
+        return m.group(1)
+    for fmt in ("%d %b %Y", "%d-%b-%Y", "%d-%b-%y", "%d/%m/%Y", "%d-%m-%Y"):
+        try:
+            return datetime.strptime(cleaned, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return None
 
 def generate_tce_matrix_json():
     dry_files = sorted(list((ALIBRA_DIR / "dry_bulk_tce_table").glob("*.csv")))
@@ -34,7 +62,11 @@ def generate_tce_matrix_json():
         with open(stamp_files[-1], encoding="utf-8") as f:
             txt = f.read().strip()
             if txt:
-                report_date = txt.splitlines()[0].strip()
+                normalized = normalize_report_date(txt)
+                if normalized:
+                    report_date = normalized
+                else:
+                    print(f"[WARN] Unparseable stamp date '{txt.splitlines()[0]}' - keeping today's ISO date")
 
     # Load Trends
     df_d_atl = pd.read_csv(dry_atl_trend[-1]) if dry_atl_trend else None

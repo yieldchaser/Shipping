@@ -28,6 +28,7 @@ if SCRIPTS_DIR not in sys.path:
 from provenance_manifest_manager import (
     load_manifest,
     calculate_sha256,
+    match_sha256_with_eol_variants,
     compute_snapshot_content_sha256,
     get_base_data_dir,
     get_manifest_path,
@@ -105,8 +106,10 @@ def verify_production_integrity(verbose: bool = True) -> Tuple[bool, List[str], 
         f_summary['provenance_status'] = active_rec.get('provenance_status')
         f_summary['date_sourcing'] = active_rec.get('date_sourcing')
         
-        # Rule: Not Future-Dated
-        if snap_date > today_utc_str:
+        # Rule: Not Future-Dated (guard falsy snap_date instead of TypeError crash)
+        if not snap_date:
+            errors.append(f"{fund} active record missing holdings_as_of_date - cannot verify future-dating")
+        elif snap_date > today_utc_str:
             errors.append(f"{fund} active record date ({snap_date}) is in the future relative to UTC today ({today_utc_str})!")
             
         # Verify Parent Raw Source
@@ -122,12 +125,14 @@ def verify_production_integrity(verbose: bool = True) -> Tuple[bool, List[str], 
             if not os.path.exists(raw_src_full):
                 errors.append(f"{fund} parent raw source file missing on disk: {raw_src_rel} (checked {raw_src_full})")
             else:
-                computed_raw_sha = calculate_sha256(raw_src_full)
                 expected_raw_sha = active_rec.get('raw_source_sha256')
                 f_summary['raw_source_path'] = raw_src_rel
-                f_summary['raw_source_sha256'] = computed_raw_sha
-                if computed_raw_sha != expected_raw_sha:
-                    errors.append(f"{fund} raw source SHA mismatch: expected {expected_raw_sha}, got {computed_raw_sha}")
+                f_summary['raw_source_sha256'] = calculate_sha256(raw_src_full)
+                eol_variant = match_sha256_with_eol_variants(expected_raw_sha, raw_src_full)
+                if not eol_variant:
+                    errors.append(f"{fund} raw source SHA mismatch: expected {expected_raw_sha}, got {f_summary['raw_source_sha256']} (no EOL variant matched)")
+                else:
+                    f_summary['raw_source_sha256_variant'] = eol_variant
                     
         # Verify Derived Immutable Archive
         archive_rel = active_rec.get('immutable_archive_path')
@@ -141,12 +146,14 @@ def verify_production_integrity(verbose: bool = True) -> Tuple[bool, List[str], 
             if not os.path.exists(archive_full):
                 errors.append(f"{fund} immutable archive file missing on disk: {archive_rel} (checked {archive_full})")
             else:
-                computed_arch_sha = calculate_sha256(archive_full)
                 expected_arch_sha = active_rec.get('archive_sha256')
                 f_summary['immutable_archive_path'] = archive_rel
-                f_summary['archive_sha256'] = computed_arch_sha
-                if computed_arch_sha != expected_arch_sha:
-                    errors.append(f"{fund} archive SHA mismatch: expected {expected_arch_sha}, got {computed_arch_sha}")
+                f_summary['archive_sha256'] = calculate_sha256(archive_full)
+                eol_variant = match_sha256_with_eol_variants(expected_arch_sha, archive_full)
+                if not eol_variant:
+                    errors.append(f"{fund} archive SHA mismatch: expected {expected_arch_sha}, got {f_summary['archive_sha256']} (no EOL variant matched)")
+                else:
+                    f_summary['archive_sha256_variant'] = eol_variant
                     
         # Verify Published JSON Snapshot
         json_snap_path = os.path.join(get_snapshots_dir(), f"{f_lower}_scenario_snapshot.json")

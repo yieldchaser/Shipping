@@ -1,0 +1,99 @@
+name: Data Expansion Collectors
+
+on:
+  schedule:
+    # Mon-Thu 05:00 UTC, off-peak, clear of the 06:45/07:00/10:30 data jobs.
+    - cron: '0 5 * * 1-4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pipeline
+  cancel-in-progress: false
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas beautifulsoup4 lxml openpyxl
+
+      - name: Pull latest before run
+        run: git pull --rebase --autostash origin main
+
+      - name: SGX FFA history backfill
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_sgx_history_backfill.py ]; then python scripts/expansion_sgx_history_backfill.py; fi
+
+      - name: Macro rates & FX collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_macro_rates_fx.py ]; then python scripts/expansion_macro_rates_fx.py; fi
+
+      - name: World Bank commodity collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_worldbank_pinksheet.py ]; then python scripts/expansion_worldbank_pinksheet.py; fi
+
+      - name: PortWatch congestion collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_portwatch.py ]; then python scripts/expansion_portwatch.py; fi
+
+      - name: Bunker prices collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_bunker_prices.py ]; then python scripts/expansion_bunker_prices.py; fi
+
+      - name: GMS recycling collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_gms_recycling.py ]; then python scripts/expansion_gms_recycling.py; fi
+
+      - name: OPEC MOMR collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_opec_momr.py ]; then python scripts/expansion_opec_momr.py; fi
+
+      - name: Intermodal fleet collector
+        continue-on-error: true
+        timeout-minutes: 20
+        run: if [ -f scripts/expansion_intermodal_fleet.py ]; then python scripts/expansion_intermodal_fleet.py; fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A data/ docs/
+          if git diff --staged --quiet; then
+            echo "No expansion data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "data(expansion): update collector datasets $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            echo "Push race on attempt $attempt. Retrying in 10s..."
+            sleep 10
+          done
+
+          echo "Failed to push after 3 attempts."
+          exit 1

@@ -22,7 +22,6 @@ import time
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
-import ssl
 
 import pandas as pd
 import numpy as np
@@ -163,7 +162,8 @@ def fetch_live_data(ticker: str, start_date: str, end_date: str, page) -> pd.Dat
 
 
 def apply_derived_metrics(df: pd.DataFrame) -> pd.DataFrame:
-    df["cumulative_flow"] = df["usd_flow"].cumsum()
+    flows_filled = df["usd_flow"].fillna(0.0)
+    df["cumulative_flow"] = flows_filled.cumsum()
     df["daily_inflow"] = df["usd_flow"].clip(lower=0)
     df["daily_outflow"] = df["usd_flow"].clip(upper=0)
 
@@ -190,7 +190,7 @@ def apply_derived_metrics(df: pd.DataFrame) -> pd.DataFrame:
     df["regime"] = df["flow_zscore"].apply(get_regime)
 
     # Streak
-    sign = np.sign(df["usd_flow"])
+    sign = np.sign(flows_filled)
     streak = sign.groupby((sign != sign.shift()).cumsum()).cumsum()
 
     # Pressure calculation
@@ -239,16 +239,12 @@ def fetch_ng_history():
         f"?period1={period1}&period2={period2}&interval=1d&includePrePost=false"
     )
 
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-
     for attempt in range(1, 4):
         try:
             req = urllib.request.Request(url, headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
             })
-            resp = urllib.request.urlopen(req, context=ctx, timeout=30)
+            resp = urllib.request.urlopen(req, timeout=30)
             raw = json.loads(resp.read())
 
             result = raw["chart"]["result"][0]
@@ -368,7 +364,7 @@ def main():
             else:
                 new_raw = new_df[[c for c in RAW_COLS if c in new_df.columns]]
                 df = pd.concat([existing_df, new_raw], ignore_index=True)
-                df = df.drop_duplicates("date").sort_values("date").reset_index(drop=True)
+                df = df.drop_duplicates("date", keep="last").sort_values("date").reset_index(drop=True)
                 logger.info(f"{ticker}: merged {len(existing_df)} existing + {len(new_raw)} new = {len(df)} rows")
 
         if df.empty:
@@ -383,16 +379,15 @@ def main():
                 df[col] = df[col].round(4)
 
         df.replace([np.inf, -np.inf], np.nan, inplace=True)
-        df.fillna(0, inplace=True)
 
         json_dict = {
             "ticker": ticker,
             "updated": today_str,
-            "data": df.to_dict(orient="records")
+            "data": json.loads(df.to_json(orient="records"))
         }
 
         with open(json_out, "w") as f:
-            json.dump(json_dict, f, indent=2)
+            json.dump(json_dict, f, indent=2, allow_nan=False)
 
         logger.info(f"Saved {len(df)} rows to {json_out}")
 
@@ -403,9 +398,10 @@ def main():
         df_csv.to_csv(csv_out, index=False)
         logger.info(f"Saved {len(df_csv)} rows to {csv_out}")
 
-        # Populate summary statistics
-        last_row = df.iloc[-1]
-        last_30d_net = df.tail(30)["usd_flow"].sum()
+        # Populate summary statistics (numeric views treat missing flows as flat days)
+        df_num = df.fillna(0)
+        last_row = df_num.iloc[-1]
+        last_30d_net = df_num.tail(30)["usd_flow"].sum()
 
         actual_latest = df["date"].max()
         if actual_latest:

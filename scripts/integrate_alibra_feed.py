@@ -12,12 +12,15 @@ import csv
 import json
 import os
 import re
+import hashlib
 from datetime import datetime
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ALIBRA_DATA_DIR = REPO_ROOT / "docs" / "alibra_data"
 DERIVED_DIR = REPO_ROOT / "data" / "derived"
+TANKER_CURVE_STATE_FILE = REPO_ROOT / "data" / "manifests" / "tanker_curve_state.json"
+TC_REJECTION_LOG = ALIBRA_DATA_DIR / "integration_rejections.log"
 
 TC_COLS = [
     "date",
@@ -54,6 +57,51 @@ def clean_num(val):
         return float(val_str)
     except ValueError:
         return None
+
+def sha256_file(filepath):
+    """Computes the SHA-256 hex digest of a file's raw bytes."""
+    h = hashlib.sha256()
+    with open(filepath, "rb") as f:
+        while chunk := f.read(65536):
+            h.update(chunk)
+    return h.hexdigest()
+
+def log_tc_rejection(date, column, old, new, source):
+    """Appends a guarded-overwrite rejection to the integration rejection log."""
+    is_new = not TC_REJECTION_LOG.exists()
+    TC_REJECTION_LOG.parent.mkdir(parents=True, exist_ok=True)
+    with open(TC_REJECTION_LOG, "a", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        if is_new:
+            writer.writerow(["date", "column", "old", "new", "source"])
+        writer.writerow([date, column, old, new, source])
+
+def guarded_tc_overwrite(row_dict, col, new_val, source):
+    """Overwrite guard for TC enrichment: skips when an existing non-null value
+    deviates more than 35% from the incoming value; null-cell writes bypass."""
+    old_val = clean_num(row_dict.get(col))
+    if old_val is not None and new_val is not None and old_val != 0:
+        if abs(new_val - old_val) / abs(old_val) > 0.35:
+            print(f"[GUARD] {row_dict.get('date')} {col}: keeping {old_val}, rejected {new_val} from {source}")
+            log_tc_rejection(row_dict.get("date", ""), col, old_val, new_val, source)
+            return
+    row_dict[col] = new_val
+
+def dedupe_forward_rows(rows):
+    """Drops all-None rate rows, then keeps the FIRST occurrence per forward_month
+    so spurious trailing sub-table rows (e.g. repeated 1-Dec-27) never reach the
+    live snapshot or the history accumulator."""
+    seen_months = set()
+    deduped = []
+    for r in rows:
+        rate_cols = [k for k in r.keys() if k not in ("snapshot_date", "forward_month", "contract_label")]
+        if all(r.get(k) is None for k in rate_cols):
+            continue
+        if r["forward_month"] in seen_months:
+            continue
+        seen_months.add(r["forward_month"])
+        deduped.append(r)
+    return deduped
 
 def parse_iso_date(tag_str, fallback_date_str=""):
     """Extract YYYY-MM-DD from ISO tag (e.g. 'Week 1|2008-01-01') or parse date string."""
@@ -122,13 +170,17 @@ def integrate_historical_time_charter():
     pac_files = sorted(list((ALIBRA_DATA_DIR / "dry_bulk_archive_pac").glob("*.csv")))
 
     atl_records = {}
+    atl_source_name = ""
     if atl_files:
         atl_records = parse_archive_file(atl_files[-1])
+        atl_source_name = atl_files[-1].name
         print(f"Loaded {len(atl_records)} Atlantic archive rows ({min(atl_records.keys())} -> {max(atl_records.keys())})")
 
     pac_records = {}
+    pac_source_name = ""
     if pac_files:
         pac_records = parse_archive_file(pac_files[-1])
+        pac_source_name = pac_files[-1].name
         print(f"Loaded {len(pac_records)} Pacific archive rows ({min(pac_records.keys())} -> {max(pac_records.keys())})")
 
     all_dates = set(existing_rows.keys()) | set(atl_records.keys()) | set(pac_records.keys())
@@ -144,8 +196,10 @@ def integrate_historical_time_charter():
 
         # Set source provenance
         if not row_dict.get("source"):
-            if d < "2021-07-07":
-                row_dict["source"] = "alibra_archive" if (d in atl_records or d in pac_records) else "fearnleys"
+            if d in atl_records or d in pac_records:
+                row_dict["source"] = "alibra_archive"
+            elif d < "2021-07-07":
+                row_dict["source"] = "fearnleys"
             else:
                 row_dict["source"] = "alibra_ocr"
 
@@ -153,25 +207,25 @@ def integrate_historical_time_charter():
         if d in atl_records:
             a = atl_records[d]
             if a["capesize"] is not None:
-                row_dict["capesize_1y_atl"] = a["capesize"]
+                guarded_tc_overwrite(row_dict, "capesize_1y_atl", a["capesize"], atl_source_name)
             if a["panamax"] is not None:
-                row_dict["panamax_1y_atl"] = a["panamax"]
+                guarded_tc_overwrite(row_dict, "panamax_1y_atl", a["panamax"], atl_source_name)
             if a["supramax"] is not None:
-                row_dict["supramax_1y_atl"] = a["supramax"]
+                guarded_tc_overwrite(row_dict, "supramax_1y_atl", a["supramax"], atl_source_name)
             if a["handysize"] is not None:
-                row_dict["handysize_1y_atl"] = a["handysize"]
+                guarded_tc_overwrite(row_dict, "handysize_1y_atl", a["handysize"], atl_source_name)
 
         # Enrich Pacific rates
         if d in pac_records:
             p = pac_records[d]
             if p["capesize"] is not None:
-                row_dict["capesize_1y_pac"] = p["capesize"]
+                guarded_tc_overwrite(row_dict, "capesize_1y_pac", p["capesize"], pac_source_name)
             if p["panamax"] is not None:
-                row_dict["panamax_1y_pac"] = p["panamax"]
+                guarded_tc_overwrite(row_dict, "panamax_1y_pac", p["panamax"], pac_source_name)
             if p["supramax"] is not None:
-                row_dict["supramax_1y_pac"] = p["supramax"]
+                guarded_tc_overwrite(row_dict, "supramax_1y_pac", p["supramax"], pac_source_name)
             if p["handysize"] is not None:
-                row_dict["handysize_1y_pac"] = p["handysize"]
+                guarded_tc_overwrite(row_dict, "handysize_1y_pac", p["handysize"], pac_source_name)
 
         # Compute averages if both atl and pac are present
         for seg in ["capesize", "panamax", "supramax", "handysize"]:
@@ -223,9 +277,25 @@ def integrate_tanker_forward_curves():
 
     for idx, fc_file in enumerate(fc_files):
         snapshot_date = fc_file.stem
-        # For the latest file, override with stamp if available
-        if idx == len(fc_files) - 1 and latest_stamp_date:
-            snapshot_date = latest_stamp_date
+        # For the latest file, the stamp date applies only when the archive
+        # content actually changed since the last integration. Weekly source,
+        # polled daily: freshness by stamp, not by content, fabricated snapshots.
+        if idx == len(fc_files) - 1:
+            apply_stamp = True
+            if TANKER_CURVE_STATE_FILE.exists() and latest_stamp_date:
+                try:
+                    with open(TANKER_CURVE_STATE_FILE, encoding="utf-8") as f:
+                        state = json.load(f)
+                    if state.get("sha256") == sha256_file(fc_file):
+                        prior_date = state.get("snapshot_date")
+                        if prior_date:
+                            snapshot_date = prior_date
+                            apply_stamp = False
+                            print(f"[INFO] Forward-curves content unchanged; reusing snapshot_date {prior_date} (stamp {latest_stamp_date} not applied)")
+                except (ValueError, OSError) as _e:
+                    print(f"[WARNING] Could not read tanker-curve state file: {_e}")
+            if apply_stamp and latest_stamp_date:
+                snapshot_date = latest_stamp_date
 
         file_rows = []
         with open(fc_file, encoding="utf-8") as f:
@@ -277,7 +347,10 @@ def integrate_tanker_forward_curves():
                     **{key: clean_num(row.get(field, "")) for key, field in col_map.items()},
                 }
                 file_rows.append(item)
-                all_history_rows.append(item)
+
+        # Live-writer dedup: drop all-None rows and duplicate forward months (keep-first)
+        file_rows = dedupe_forward_rows(file_rows)
+        all_history_rows.extend(file_rows)
 
         if idx == len(fc_files) - 1:
             latest_rows = file_rows
@@ -318,6 +391,18 @@ def integrate_tanker_forward_curves():
         writer.writeheader()
         for r in historical_merged:
             writer.writerow(r)
+
+    # Persist integration state (hash + date actually used) only when integration proceeded
+    try:
+        TANKER_CURVE_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(TANKER_CURVE_STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump({
+                "sha256": sha256_file(fc_files[-1]),
+                "snapshot_date": latest_rows[-1]["snapshot_date"] if latest_rows else None,
+                "updated": datetime.utcnow().strftime("%Y-%m-%d")
+            }, f, indent=2)
+    except OSError as _e:
+        print(f"[WARNING] Could not persist tanker-curve state file: {_e}")
 
     print(f"Successfully generated {out_snapshot} and updated {out_history} ({len(historical_merged)} total history rows across {len(fc_files)} snapshots)!")
 

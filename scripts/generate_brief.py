@@ -271,6 +271,24 @@ def load_etf_holdings_data(fund_key: str) -> list[dict]:
     return holdings
 
 
+def parse_curve_date(date_str):
+    """Parses SGX curve dates (strict DD-MM-YYYY, ISO fallback) to datetime for
+    correct chronological comparison; returns None when unparseable."""
+    s = str(date_str or "").strip()
+    if not s:
+        return None
+    try:
+        return datetime.strptime(s, "%d-%m-%Y")
+    except ValueError:
+        pass
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", s):
+        try:
+            return datetime.strptime(s, "%Y-%m-%d")
+        except ValueError:
+            return None
+    return None
+
+
 def load_sgx_curve_data() -> dict[str, list[dict]]:
     curves: dict[str, list[dict]] = {}
     for cls, p in SGX_CURVE_FILES.items():
@@ -286,7 +304,13 @@ def load_sgx_curve_data() -> dict[str, list[dict]]:
                         continue
                     try:
                         px = float(row.get("price", 0) or 0)
-                        if c not in contract_map or row.get("date", "") >= contract_map[c].get("date", ""):
+                        prev = contract_map.get(c)
+                        row_dt = parse_curve_date(row.get("date", ""))
+                        prev_dt = parse_curve_date(prev.get("date", "")) if prev else None
+                        is_newer = prev is None or (
+                            row_dt is not None and prev_dt is not None and row_dt >= prev_dt
+                        ) or ((row_dt is None or prev_dt is None) and str(row.get("date", "")) >= str(prev.get("date", "")))
+                        if is_newer:
                             contract_map[c] = {
                                 "contract": c,
                                 "expiry_month": row.get("expiry_month"),

@@ -5436,6 +5436,37 @@
         }
         if (!initialPrice) initialPrice = isBdry ? 11.58 : 217.75;
 
+        // Derive monthly roll carry from the latest futures-vs-spot basis in
+        // master data (mirrors renderBasisChart) instead of hardcoding values.
+        var _basisCarryMonthly = null;
+        (function() {
+          var m = _DATA.master || [];
+          if (isBdry) {
+            for (var i = m.length - 1; i >= 0; i--) {
+              var r = m[i];
+              var spot = r.bdry_spot != null ? r.bdry_spot : (r.cape != null && r.panama != null && r.suprama != null ? (0.5 * r.cape + 0.4 * r.panama + 0.1 * r.suprama) : null);
+              if (spot != null && spot > 0 && r.bdryff != null && r.bdryff > 0) {
+                _basisCarryMonthly = ((r.bdryff - spot) / spot) * 100;
+                return;
+              }
+            }
+          } else {
+            var normRatio = null;
+            for (var j = m.length - 1; j >= 0; j--) {
+              if (m[j].bwetff > 0 && m[j].dirtytanker > 0) { normRatio = m[j].bwetff / m[j].dirtytanker; break; }
+            }
+            normRatio = normRatio || 2.42;
+            for (var k = m.length - 1; k >= 0; k--) {
+              var rr = m[k];
+              var rawSpot = rr.dirtytanker != null ? rr.dirtytanker : (rr.cleantanker != null ? rr.cleantanker : null);
+              if (rawSpot != null && rawSpot > 0 && rr.bwetff != null && rr.bwetff > 0) {
+                _basisCarryMonthly = ((rr.bwetff - rawSpot * normRatio) / (rawSpot * normRatio)) * 100;
+                return;
+              }
+            }
+          }
+        })();
+
         var p_sim = initialPrice;
         var peakPrice = initialPrice;
         var peakDayIdx = 0;
@@ -5517,7 +5548,7 @@
             var dtDays = Math.round((dCur - dPrev) / (1000 * 60 * 60 * 24));
             var bDays = Math.max(1, Math.min(isNaN(dtDays) ? 1 : dtDays, 3));
             cashYield = ((0.0485 - 0.0145) / 252) * bDays;
-            netRet = weightedFreightRet + cashYield;
+            netRet = weightedFreightRet * grossExposureRatio + cashYield;
 
             p_sim = p_sim * (1 + netRet);
             dailyReturnsSim.push(netRet);
@@ -5620,7 +5651,7 @@
               peakDay: peakDayIdx + 1,
               sharpe: rollingSharpe,
               annVol: rollingAnnVol,
-              carryYield: isBdry ? -3.42 : 1.85,
+              carryYield: _basisCarryMonthly != null ? _basisCarryMonthly * 12 : null,
               trackingError: Math.abs(spreadBps !== null ? spreadBps : (spreads.length ? spreads[spreads.length - 1] : 0)),
               spreadBps: spreadBps,
               rmseSpreadBps: rollingRmseSpread
@@ -7767,7 +7798,7 @@
 
           // In forward scenarios: futures return calculated strictly from PRIOR-DAY notional/exposure
           var weightedFreightRet = (t > 0 && prevFutNotional > 0) ? (heldPnl / prevFutNotional) : 0;
-          var cashFeeDrag = (0.0485 - 0.0350) / 252;
+          var cashFeeDrag = (0.0485 - 0.0145) / 252;
           var netDailyRet = t === 0 ? 0 : ((weightedFreightRet * exposureRatio) + cashFeeDrag);
 
           if (t > 0) {
@@ -8270,13 +8301,20 @@
           sharpeEl.style.color = shVal >= 1.0 ? '#3fb950' : (shVal >= 0 ? '#58a6ff' : '#f85149');
         }
         if (carryEl) {
-          var cVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : 0;
-          carryEl.textContent = (cVal >= 0 ? '+' : '') + cVal.toFixed(2) + '% / yr';
-          carryEl.className = 'hud-val ' + (cVal >= 0 ? 'pos' : 'neg');
+          var cVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : null;
+          if (cVal == null || isNaN(cVal)) {
+            carryEl.textContent = '—';
+            carryEl.className = 'hud-val';
+          } else {
+            carryEl.textContent = (cVal >= 0 ? '+' : '') + cVal.toFixed(2) + '% / yr';
+            carryEl.className = 'hud-val ' + (cVal >= 0 ? 'pos' : 'neg');
+          }
         }
         if (carrySub) {
-          var cVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : 0;
-          carrySub.textContent = 'Monthly: ' + (cVal / 12 >= 0 ? '+' : '') + (cVal / 12).toFixed(2) + '% \u2022 Roll carry';
+          var cSubVal = (state.risk && state.risk.carryYield !== undefined) ? state.risk.carryYield : null;
+          carrySub.textContent = (cSubVal == null || isNaN(cSubVal))
+            ? 'No basis data \u2022 Roll carry'
+            : 'Monthly: ' + (cSubVal / 12 >= 0 ? '+' : '') + (cSubVal / 12).toFixed(2) + '% \u2022 Roll carry';
         }
         if (mddEl) {
           var mddVal = (state.risk && state.risk.mdd !== undefined) ? state.risk.mdd : 0;
@@ -8627,8 +8665,8 @@
           <div style="padding: 16px 4px; font-size: 13px; line-height: 1.8; color: var(--text-muted);">
             <p style="margin-bottom:12px"><strong style="color:var(--text)">Percentile Ranks (All-Time, 10Y,
                 5Y):</strong> The current index value is ranked against all historical daily values within the
-              respective lookback window. A percentile of 80 means the index is currently higher than 80% of all daily
-              readings in that period.</p>
+              respective lookback window. A percentile of 80 means the index is at or above 80% of all daily
+              readings in that period (readings ≤ current ÷ total, current point included).</p>
             <p style="margin-bottom:12px"><strong style="color:var(--text)">Z-Score:</strong> Computed as <code
                 style="background:var(--bg);padding:2px 5px;border-radius:3px;color:var(--accent)">(current value - mean of same calendar trading day across all years) / standard deviation</code>.
               Values above +2 or below -2 indicate statistically unusual levels relative to seasonal norms.</p>
@@ -11581,7 +11619,7 @@ if (intelTabsContainer) {
         }
         const count = pairsA.length;
         if (count < 10) {
-          results.push({ lag, corr: null });
+          results.push({ lag, corr: null, count });
           continue;
         }
         const mA = pairsA.reduce((s, v) => s + v, 0) / count;
@@ -11595,7 +11633,7 @@ if (intelTabsContainer) {
           dB += db * db;
         }
         const denom = Math.sqrt(dA * dB);
-        results.push({ lag, corr: denom === 0 ? 0 : num / denom });
+        results.push({ lag, corr: denom === 0 ? 0 : num / denom, count });
       }
       return results;
     }
@@ -11640,22 +11678,31 @@ if (intelTabsContainer) {
     // CHANGE 3 - Pearson correlation
     // =====================================================================
     function pearsonCorr(keyA, keyB, cutoffDate) {
-      const pairsA = [], pairsB = [];
+      // Correlate daily % RETURNS of date-intersected level pairs, not raw price
+      // levels (level correlation is dominated by shared trend, pinning r≈1).
+      const pairs = [];
       for (const row of DATA.master) {
         if (cutoffDate && row.date < cutoffDate) continue;
         if (row[keyA] != null && row[keyB] != null) {
-          pairsA.push(row[keyA]);
-          pairsB.push(row[keyB]);
+          pairs.push([row.date, row[keyA], row[keyB]]);
         }
       }
-      const n = pairsA.length;
+      const retsA = [], retsB = [];
+      for (let i = 1; i < pairs.length; i++) {
+        const prevA = pairs[i - 1][1], prevB = pairs[i - 1][2];
+        if (prevA > 0 && prevB > 0) {
+          retsA.push((pairs[i][1] - prevA) / prevA);
+          retsB.push((pairs[i][2] - prevB) / prevB);
+        }
+      }
+      const n = retsA.length;
       if (n < 5) return null;
-      const mA = pairsA.reduce((s, v) => s + v, 0) / n;
-      const mB = pairsB.reduce((s, v) => s + v, 0) / n;
+      const mA = retsA.reduce((s, v) => s + v, 0) / n;
+      const mB = retsB.reduce((s, v) => s + v, 0) / n;
       let num = 0, dA = 0, dB = 0;
       for (let i = 0; i < n; i++) {
-        const da = pairsA[i] - mA;
-        const db = pairsB[i] - mB;
+        const da = retsA[i] - mA;
+        const db = retsB[i] - mB;
         num += da * db;
         dA += da * da;
         dB += db * db;
@@ -12355,7 +12402,6 @@ if (intelTabsContainer) {
       const cutoff10y = new Date(now); cutoff10y.setFullYear(now.getFullYear() - 10);
       const cutoff5y = new Date(now); cutoff5y.setFullYear(now.getFullYear() - 5);
       const cutoff1y = new Date(now); cutoff1y.setDate(now.getDate() - 365);
-      const cutoff20d = new Date(now); cutoff20d.setDate(now.getDate() - 20);
 
       const allVals = rows.map(r => r[productKey]);
       const vals10y = rows.filter(r => r.date >= cutoff10y).map(r => r[productKey]);
@@ -12365,6 +12411,7 @@ if (intelTabsContainer) {
       const alltimePctl = percentileRank(allVals, currentPrice);
       const pctl10y = percentileRank(vals10y, currentPrice);
       const pctl5y = percentileRank(vals5y, currentPrice);
+      const pctl1y = percentileRank(vals1y, currentPrice);
 
       // Use per-product trading day for same-day comparison (O(1) pre-indexed lookup)
       const tdKey = productKey + '_td';
@@ -12374,25 +12421,29 @@ if (intelTabsContainer) {
       const allStdDev = stddev(sameDayVals.length >= 3 ? sameDayVals : allVals);
       const zScore = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
 
+      // Rolling 252-trading-day Z (population std) used by signal gates
+      const zScore252 = computeRollingZscoreArr(allVals, 252).at(-1) ?? 0;
+
       const max1y = vals1y.length ? vals1y.reduce((a, b) => a > b ? a : b, -Infinity) : currentPrice;
       const drawdown = max1y > 0 ? (currentPrice - max1y) / max1y : 0;
 
-      const row20d = rows.filter(r => r.date <= cutoff20d);
-      const price20d = row20d.length ? row20d[row20d.length - 1][productKey] : null;
+      // RoC over exactly the prior 20 TRADING rows (rows are sessions)
+      const row20d = rows.length > 20 ? rows[rows.length - 21] : null;
+      const price20d = row20d ? row20d[productKey] : null;
       const roc20 = price20d ? ((currentPrice - price20d) / price20d) * 100 : null;
 
       return {
-        currentPrice, pctChange, alltimePctl, pctl10y, pctl5y, zScore, drawdown, roc20,
+        currentPrice, pctChange, alltimePctl, pctl10y, pctl5y, pctl1y, zScore, zScore252, drawdown, roc20,
         max1y, allMean,
       };
     }
 
     function tradingSignal(stats) {
       if (!stats) return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
-      const { pctl5y, zScore, alltimePctl } = stats;
+      const { pctl5y, zScore252, alltimePctl } = stats;
       if (pctl5y > 0.8) return { label: 'SELL (Overheated)', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> SELL (Overheated)', cls: 'signal-sell' };
-      if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4) return { label: 'GOLDEN DIP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> GOLDEN DIP', cls: 'signal-golden' };
-      if (pctl5y < 0.1 && zScore < -0.6) return { label: 'CATCHING KNIFE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg> CATCHING KNIFE', cls: 'signal-knife' };
+      if (pctl5y < 0.2 && zScore252 < -0.5 && alltimePctl > 0.4) return { label: 'GOLDEN DIP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> GOLDEN DIP', cls: 'signal-golden' };
+      if (pctl5y < 0.1 && zScore252 < -0.6) return { label: 'CATCHING KNIFE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg> CATCHING KNIFE', cls: 'signal-knife' };
       if (pctl5y < 0.3 && alltimePctl < 0.3) return { label: 'VALUE TRAP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> VALUE TRAP', cls: 'signal-trap' };
       if (pctl5y < 0.4) return { label: 'ACCUMULATE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> ACCUMULATE', cls: 'signal-accumulate' };
       return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
@@ -12492,7 +12543,8 @@ if (intelTabsContainer) {
       zsEl.className = 'stat-value ' + (stats.zScore < -1 ? 'val-red' : stats.zScore > 1 ? 'val-green' : 'val-yellow');
       zsEl.setAttribute('data-tt-type', 'zscore');
       zsEl.setAttribute('data-tt-val', stats.zScore.toFixed(2));
-      zsEl.setAttribute('data-tt-pctl1y', Math.round(stats.pctl5y * 100));
+      zsEl.setAttribute('data-tt-zwin', 'same calendar trading day across history (seasonal)');
+      zsEl.setAttribute('data-tt-pctl1y', Math.round((stats.pctl1y ?? stats.pctl5y) * 100));
 
       const ddEl = document.getElementById('statDrawdown');
       ddEl.textContent = (stats.drawdown * 100).toFixed(1) + '%';
@@ -13816,7 +13868,9 @@ if (intelTabsContainer) {
     // ---- CHANGE 6: Win-Rate KPI Cards ----
     function renderWinRateCards(productKey) {
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
-      const years = getProductYears(productKey);
+      const cy = new Date().getFullYear();
+      // Only COMPLETE years count (exclude the current incomplete year)
+      const years = getProductYears(productKey).filter(y => y < cy);
 
       // Build quarter avgs per year - use cache
       const qAvg = {};
@@ -14124,7 +14178,7 @@ if (intelTabsContainer) {
           <div class="index-stat-mini-val ${ytdCls}">${ytdStr}</div>
         </div>
         <div class="index-stat-mini">
-          <div class="index-stat-mini-label" data-tooltip="Recovery from Trough - % gained from the lowest point seen in the last 365 days to today. A recovery >30% from trough that still shows a low 52W position often signals the early innings of a sustained trend.">From Last Trough</div>
+          <div class="index-stat-mini-label" data-tooltip="Recovery from Trough - % gained from the lowest point seen in the last 365 trading sessions to today. A recovery >30% from trough that still shows a low 52W position often signals the early innings of a sustained trend.">From Last Trough</div>
           <div class="index-stat-mini-val ${troughCls}">${troughStr}</div>
         </div>
       </div>`;
@@ -15408,6 +15462,12 @@ if (intelTabsContainer) {
         .replace(/M (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) (\d+)/, '$1 $2');
     }
 
+    // Live-quote request versioning: two independent proxy cascades per ticker
+    // can otherwise last-writer-win stale-over-fresh. Every cascade captures its
+    // version at start and bails before any DOM write when superseded.
+    var _quoteVers = {};
+    function _nextQuoteVer(ticker) { _quoteVers[ticker] = (_quoteVers[ticker] || 0) + 1; return _quoteVers[ticker]; }
+
     async function renderETFCard(ticker, name, holdings, etfKey, grid) {
       const card = document.createElement('div');
       card.className = 'etf-card';
@@ -15424,7 +15484,7 @@ if (intelTabsContainer) {
           const vals52w = prices.slice(-252);
           const wHigh = Math.max(...vals52w);
           const wLow = Math.min(...vals52w);
-          const pos = ((latestVal - wLow) / (wHigh - wLow) * 100);
+          const pos = (wHigh > wLow) ? ((latestVal - wLow) / (wHigh - wLow) * 100) : 50;
           const vals365 = prices.slice(-365);
           const trough = Math.min(...vals365);
           const troughPct = ((latestVal - trough) / trough * 100);
@@ -15466,6 +15526,7 @@ if (intelTabsContainer) {
       }
 
       try {
+        const qVer = _nextQuoteVer(ticker);
         const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
         // Try multiple CORS proxies in sequence for reliability
         const proxyFns = [
@@ -15492,13 +15553,14 @@ if (intelTabsContainer) {
           } catch { continue; }
         }
         if (meta) {
+          if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
           const price = meta.regularMarketPrice;
           const chgPct = meta.regularMarketChangePercent;
           const sign = chgPct >= 0 ? '+' : '';
           const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
           priceHTML = `
         <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '-'}</span>
-        <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
+        <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : '—'}</span>`;
 
           // Update 52W stats with live price
           if (liqRows && liqRows.length) {
@@ -15506,7 +15568,7 @@ if (intelTabsContainer) {
             const vals52w = prices.slice(-252);
             const wHigh = Math.max(...vals52w, price);
             const wLow = Math.min(...vals52w, price);
-            const pos = ((price - wLow) / (wHigh - wLow) * 100);
+            const pos = (wHigh > wLow) ? ((price - wLow) / (wHigh - wLow) * 100) : 50;
             const vals365 = prices.slice(-365);
             const trough = Math.min(...vals365, price);
             const troughPct = ((price - trough) / trough * 100);
@@ -15526,6 +15588,7 @@ if (intelTabsContainer) {
             }
           }
         } else {
+          if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
           priceHTML = liqFallbackHTML(etfKey);
         }
         const navEl = card.querySelector(`#etfNav_${etfKey}`);
@@ -15546,7 +15609,7 @@ if (intelTabsContainer) {
       }
 
       const priceEl = card.querySelector('.etf-price-row');
-      if (priceEl) priceEl.innerHTML = priceHTML;
+      if (priceEl && _quoteVers[ticker] === qVer) priceEl.innerHTML = priceHTML;
     }
 
     // =====================================================================
@@ -15556,6 +15619,7 @@ if (intelTabsContainer) {
     var _lastEtfFetchTime = 0;
 
     async function fetchLiveETFQuote(ticker, etfKey) {
+      var qVer = _nextQuoteVer(ticker);
       var yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1m&range=1d`;
       var proxyFns = [
         u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
@@ -15582,10 +15646,12 @@ if (intelTabsContainer) {
       }
 
       if (meta && meta.regularMarketPrice != null) {
+        if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
         var price = meta.regularMarketPrice;
-        var chgPct = meta.regularMarketChangePercent || 0;
+        var chgPct = meta.regularMarketChangePercent;
         var sign = chgPct >= 0 ? '+' : '';
         var chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+        var chgTxt = chgPct != null ? sign + chgPct.toFixed(2) + '%' : '—';
         var nowStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
 
         // Update big price card
@@ -15593,7 +15659,7 @@ if (intelTabsContainer) {
         if (priceRow) {
           priceRow.innerHTML = `
             <span class="etf-price">$${price.toFixed(2)}</span>
-            <span class="etf-change ${chgCls}">${sign}${chgPct.toFixed(2)}%</span>`;
+            <span class="etf-change ${chgCls}">${chgTxt}</span>`;
         }
 
         // Update live badge timestamp
@@ -15610,7 +15676,7 @@ if (intelTabsContainer) {
           var vals52w = prices.slice(-252);
           var wHigh = Math.max(...vals52w, price);
           var wLow = Math.min(...vals52w, price);
-          var pos = ((price - wLow) / (wHigh - wLow) * 100);
+          var pos = (wHigh > wLow) ? ((price - wLow) / (wHigh - wLow) * 100) : 50;
           var vals365 = prices.slice(-365);
           var trough = Math.min(...vals365, price);
           var troughPct = ((price - trough) / trough * 100);
@@ -17274,9 +17340,10 @@ if (intelTabsContainer) {
     // Returns fraction of years where avg(period) > avg(prior period)
     function _computeWinRate(productKey, periods, getPeriodAvg, allYears, windowYears) {
       var cy = new Date().getFullYear();
+      // Exclude the current incomplete year: only COMPLETE years count
       var years = windowYears > 0
-        ? allYears.filter(function (y) { return y > cy - windowYears && y <= cy; })
-        : allYears.slice();
+        ? allYears.filter(function (y) { return y > cy - windowYears && y < cy; })
+        : allYears.filter(function (y) { return y < cy; });
       var rates = {};
       periods.forEach(function (p, pi) {
         var wins = 0, total = 0;
@@ -20131,9 +20198,9 @@ if (intelTabsContainer) {
           scrapFloor: scrapFloorM,
           scrapPerLdt: scrapPerLdt,
           scrapIndia: scrapRow ? (scrapRow.dry_india || scrapRow.tanker_india || null) : null,
-          scrapBangla: scrapRow ? (scrapRow.dry_bangladesh || scrapRow.tanker_bangladesh || null) : null,
-          scrapPak: scrapRow ? (scrapRow.dry_pakistan || scrapRow.tanker_pakistan || null) : null,
-          scrapTurk: scrapRow ? (scrapRow.dry_turkey || scrapRow.tanker_turkey || null) : null,
+          scrapBangla: scrapRow ? (scrapRow.dry_bangla || scrapRow.tanker_bangla || null) : null,
+          scrapPak: scrapRow ? (scrapRow.dry_pak || scrapRow.tanker_pak || null) : null,
+          scrapTurk: (scrapRow && cfg.scrapCol === 'dry_india') ? scrapRow.dry_turkey : null,
           tcRate: tcRate,
           safetyMargin: safetyMarginPct,
           charterYield: charterYieldPct
@@ -21052,14 +21119,8 @@ if (intelTabsContainer) {
 
         html += '<tr><td style="text-align:left;color:var(--text);font-weight:600;padding:8px 10px;">' + prodLabels[key] + '</td>';
         periods.forEach(function (p) {
-          // Find row approx p.days ago
-          var target = new Date(latest.date);
-          target.setDate(target.getDate() - p.days);
-          // Find nearest row at or before target
-          var pastRow = null;
-          for (var i = rows.length - 1; i >= 0; i--) {
-            if (rows[i].date <= target) { pastRow = rows[i]; break; }
-          }
+          // Rows are trading sessions: index back exactly p.days ROWS
+          var pastRow = rows.length > p.days ? rows[rows.length - 1 - p.days] : null;
           if (!pastRow || pastRow[key] == null || pastRow[key] === 0) {
             html += '<td style="color:#484f58">-</td>';
             return;
@@ -21139,11 +21200,12 @@ if (intelTabsContainer) {
         curYearBySlot[dateToSlot(r.date)] = r[productKey];
       });
 
-      // Month labels placed at exact proportional slots (1st of each month / 365)
+      // Month labels placed at exact proportional slots (1st of each month /
+      // days-in-plotted-year) so leap years no longer shift Mar-Dec one slot early
       var MONTH_NAMES_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-      var monthStartDoys = [1, 32, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335]; // Jan1=1, Feb1=32 ...
-      var monthSlots = monthStartDoys.map(function (doy) {
-        return Math.floor((doy / 365) * SLOTS);
+      var monthSlots = MONTH_NAMES_SHORT.map(function (_, mi) {
+        var doy = dayOfYear(new Date(currentYear, mi, 1));
+        return Math.floor((doy / daysInYear(currentYear)) * SLOTS);
       });
 
       var labels = [], avgLine = [], upperBand = [], lowerBand = [], currentYearLine = [];
@@ -21289,7 +21351,7 @@ if (intelTabsContainer) {
         var daysBack = { '1w': 7, '2w': 14, '1m': 30, '3m': 91 }[_termComp] || 0;
         var today = new Date(); today.setHours(0, 0, 0, 0);
         var refDate = new Date(today.getTime() - daysBack * 86400000);
-        var refDateStr = refDate.toISOString().split('T')[0];
+        var refDateStr = fmtDate(refDate);
         
         var historyRows = etfKey === 'bdry' ? DATA.bdryHoldingsHistory : DATA.bwetHoldingsHistory;
         compHoldings = getHoldingsAsOf(historyRows, refDateStr);
@@ -22958,7 +23020,8 @@ if (intelTabsContainer) {
         var isContango = bp > 0.5;
         // In backwardation (Futures < Spot, bp < 0), roll yield is positive
         var monthlyCarryPct = -bp;
-        var annualizedCarryPct = monthlyCarryPct * 12;
+        // Annualize over the actual days to the prompt roll, not a flat 12x
+        var annualizedCarryPct = monthlyCarryPct * 365 / Math.max(1, daysToRoll || 1);
 
         if (hudSpreadVal) {
           hudSpreadVal.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' (' + (bp >= 0 ? '+' : '') + bp.toFixed(2) + '%)';
@@ -22982,7 +23045,7 @@ if (intelTabsContainer) {
         }
         if (hudRollDragSub) {
           var annStr = (annualizedCarryPct >= 0 ? '+' : '-') + Math.abs(annualizedCarryPct).toFixed(1) + '%';
-          hudRollDragSub.textContent = 'Annualized carry: ' + annStr + ' (12x Monthly Roll Cycle)';
+          hudRollDragSub.textContent = 'Annualized carry: ' + annStr + ' (' + (daysToRoll || '?') + ' days to prompt roll)';
         }
 
         if (hudRegimeVal) {
@@ -23419,8 +23482,10 @@ if (intelTabsContainer) {
         }
       });
 
-      // t-test significance: t = r * sqrt((N-2)/(1-r^2)), df = N-2
-      const N = returnsA.length;
+      // t-test significance at the PEAK lag: t = r * sqrt((N-2)/(1-r^2)), df = N-2
+      // N is the overlap count at that lag, not the full-sample length.
+      const peakEntry = crossCorr.find(x => x.lag === peakLag);
+      const N = (peakEntry && peakEntry.count) ? peakEntry.count : returnsA.length;
       let sigLabel = 'Not Significant';
       if (N > 2 && Math.abs(peakVal) < 1) {
         const t = peakVal * Math.sqrt((N - 2) / (1 - peakVal * peakVal));
@@ -24392,7 +24457,7 @@ if (intelTabsContainer) {
         '<div class="intel-conf-banner ' + cfg.cls + '" data-tt-type="confluence" data-tt-conf-type="' + confObj.type + '" data-tt-conf-pct="' + confPct + '">' + cfg.note + '</div>' +
         '<div class="intel-body"><div class="intel-col">' +
           '<div class="intel-col-label" data-tooltip="Quantitative indicators derived from live exchange data and historical price action.">Quantitative</div>' +
-          '<div class="z-gauge-wrap" data-tt-type="zscore" data-tt-val="' + (z != null ? z.toFixed(2) : '') + '" data-tt-pctl1y="' + (pctl1yFmt != null ? pctl1yFmt : '') + '"><div class="z-value" style="color:' + zCol + '">' + zLabel + '</div><div class="z-gauge"><div class="z-gauge-dot" style="left:' + zPct + '%;background:' + zCol + ';"></div></div><div class="z-gauge-labels"><span>-3σ Negative</span><span>0</span><span>Positive +3σ</span></div></div>' +
+          '<div class="z-gauge-wrap" data-tt-type="zscore" data-tt-val="' + (z != null ? z.toFixed(2) : '') + '" data-tt-zwin="rolling 252 trading days" data-tt-pctl1y="' + (pctl1yFmt != null ? pctl1yFmt : '') + '"><div class="z-value" style="color:' + zCol + '">' + zLabel + '</div><div class="z-gauge"><div class="z-gauge-dot" style="left:' + zPct + '%;background:' + zCol + ';"></div></div><div class="z-gauge-labels"><span>-3σ Negative</span><span>0</span><span>Positive +3σ</span></div></div>' +
           '<div class="intel-spark-label" data-tooltip="30-Day moving Z-Score trend. Values >2σ or <-2σ signal historical extremes. Hover to view daily values.">Z-Score (30D)</div><div class="intel-spark-wrap"><canvas id="' + sparkId + '"></canvas></div>' +
           pctlBar('1Y Pctl', q.pctl1y) + pctlBar('5Y Pctl', q.pctl5y) + pctlBar('All-Time', q.pctlAll) +
           '<div class="intel-regime-row" data-tt-type="regime" data-tt-regime="' + (q.regime || '') + '" data-tt-roc60="' + (q.roc60 != null ? q.roc60.toFixed(2) : '') + '" data-tt-ma200="' + (q.ma200 || '') + '" data-tt-current="' + (q.current || '') + '"><span class="intel-regime-emoji">' + q.emoji + '</span><div><div class="intel-regime-label">' + q.regime + '</div><div class="intel-regime-sub">Level: ' + fmtN(q.current) + '</div></div><span class="intel-roc" data-tt-type="roc60" data-tt-roc60="' + (q.roc60 != null ? q.roc60.toFixed(2) : '') + '">ROC(60D) ' + fmtPc(q.roc60) + '</span></div>' +
@@ -25271,33 +25336,50 @@ if (intelTabsContainer) {
       return [...expanded];
     }
 
-    function _bm25Score(docTokens, queryTerms, avgLen) {
+    function _bm25Score(docTokens, queryTerms, avgLen, dfStats) {
       const k1 = 1.5, b = 0.75, dl = docTokens.length;
       const safeAvgLen = (avgLen && avgLen > 0) ? avgLen : 1;
       const tf = {};
       for (const t of docTokens) tf[t] = (tf[t] || 0) + 1;
+      const N = dfStats ? dfStats.N : 0;
       return queryTerms.reduce((sc, term) => {
         const f = tf[term] || 0;
-        return f ? sc + (f * (k1 + 1)) / (f + k1 * (1 - b + b * dl / safeAvgLen)) : sc;
+        if (!f) return sc;
+        const tfNorm = (f * (k1 + 1)) / (f + k1 * (1 - b + b * dl / safeAvgLen));
+        // Standard BM25 IDF downweights ubiquitous terms; identity when no corpus stats
+        const df = (dfStats && dfStats.df) ? (dfStats.df[term] || 0) : 0;
+        const idf = N > 0 ? Math.log(1 + (N - df + 0.5) / (df + 0.5)) : 1;
+        return sc + tfNorm * idf;
       }, 0);
     }
 
-    function _scoreItems(items, queryTerms, textFn, avgLen) {
+    // Precompute document frequencies once per corpus load for BM25 IDF
+    function _buildDfStats(items, textFn) {
+      const df = {};
+      let N = 0;
+      for (const item of items) {
+        N++;
+        for (const t of new Set(_tokenize(textFn(item)))) df[t] = (df[t] || 0) + 1;
+      }
+      return { N, df };
+    }
+
+    function _scoreItems(items, queryTerms, textFn, avgLen, dfStats) {
       return items
-        .map(item => ({ item, score: _bm25Score(_tokenize(textFn(item)), queryTerms, avgLen) }))
+        .map(item => ({ item, score: _bm25Score(_tokenize(textFn(item)), queryTerms, avgLen, dfStats) }))
         .filter(x => x.score > 0)
         .sort((a, b) => b.score - a.score);
     }
 
     // Score chunks: keywords 2x weight + section-title boost + recency multiplier
-    function _scoreChunksRanked(chunks, queryTerms, avgLen, boostDays, boostFactor) {
+    function _scoreChunksRanked(chunks, queryTerms, avgLen, boostDays, boostFactor, dfStats) {
       const cutoff = boostDays ? Date.now() - boostDays * 86400000 : 0;
       const qtSet  = new Set(queryTerms);
       return chunks
         .map(item => {
           const bodyScore = _bm25Score(
             _tokenize(item.text + ' ' + (item.keywords || []).join(' ') + ' ' + (item.keywords || []).join(' ')),
-            queryTerms, avgLen
+            queryTerms, avgLen, dfStats
           );
           if (!bodyScore) return { item, score: 0 };
           // Section title is a strong topical focus signal — boost per matched term
@@ -25324,31 +25406,38 @@ if (intelTabsContainer) {
     }
 
     // ── Date filter: extract temporal intent from query ───────────────────
+    // Precedence: quarter token > month token > bare year. Quarter/month tokens
+    // consume an explicit year when present; month ranges use the TRUE last day
+    // (new Date(y, m, 0).getDate()) so day-31 chunks are never dropped.
     function _extractDateFilter(query) {
       const q   = (query || '').toLowerCase();
       const now = new Date();
-      const y   = now.getFullYear();
+      const defaultY = now.getFullYear();
+      const isoY = q.match(/\b(20\d{2})\b/);
+      const yr   = isoY ? parseInt(isoY[1]) : null;
 
-      const yearM = q.match(/\b(20\d{2})\b/);
-      if (yearM) {
-        const yr = parseInt(yearM[1]);
-        return { from: `${yr}-01-01`, to: `${yr}-12-31` };
-      }
+      const pad = n => String(n).padStart(2, '0');
+      const monthRange = (y, m1, m2) => ({
+        from: `${y}-${pad(m1)}-01`,
+        to: `${y}-${pad(m2)}-${pad(new Date(y, m2, 0).getDate())}`
+      });
 
       const qMap = { q1:1, q2:2, q3:3, q4:4, 'first quarter':1, 'second quarter':2, 'third quarter':3, 'fourth quarter':4 };
       for (const [pat, n] of Object.entries(qMap)) {
         if (q.includes(pat)) {
-          const qS = [0,1,4,7,10][n], qE = [0,3,6,9,12][n];
-          return { from: `${y}-${String(qS).padStart(2,'0')}-01`, to: `${y}-${String(qE).padStart(2,'0')}-30` };
+          return monthRange(yr || defaultY, [1,4,7,10][n - 1], [3,6,9,12][n - 1]);
         }
       }
 
       const months = ['january','february','march','april','may','june','july','august','september','october','november','december'];
       for (let i = 0; i < months.length; i++) {
         if (q.includes(months[i])) {
-          const m = String(i+1).padStart(2,'0');
-          return { from: `${y}-${m}-01`, to: `${y}-${m}-30` };
+          return monthRange(yr || defaultY, i + 1, i + 1);
         }
+      }
+
+      if (yr) {
+        return { from: `${yr}-01-01`, to: `${yr}-12-31` };
       }
 
       if (/\b(recent|current|latest|today|this week|last week|this month|last month|now|right now)\b/.test(q)) {
@@ -26337,7 +26426,7 @@ if (intelTabsContainer) {
         )).filter(Boolean);
 
         const avgWLen    = wikiItems.reduce((s, w) => s + _tokenize(w.text).length, 0) / (wikiItems.length || 1);
-        const scoredWiki = _scoreItems(wikiItems, terms, w => w.text, avgWLen).slice(0, deepResearch ? 6 : 3);
+        const scoredWiki = _scoreItems(wikiItems, terms, w => w.text, avgWLen, _buildDfStats(wikiItems, w => w.text)).slice(0, deepResearch ? 6 : 3);
 
         // Step 2 - Chunks (progressive: recent first, expand if needed)
         let topChunks = [];
@@ -26382,6 +26471,7 @@ if (intelTabsContainer) {
             statEl.textContent = 'Building search index…';
             INTEL._invertedIndex = _buildInvertedIndex(allChunks);
             INTEL._invertedIndex._urlKey = urlKey;
+            INTEL._bm25Stats = _buildDfStats(allChunks, c => c.text + ' ' + (c.keywords || []).join(' '));
           }
 
           // Narrow candidate pool: only chunks matching ≥1 expanded query term
@@ -26390,7 +26480,7 @@ if (intelTabsContainer) {
           candidatePool       = _applyDateFilter(candidatePool, dateFilter);
 
           const avgCLen    = candidatePool.reduce((s, c) => s + _tokenize(c.text).length, 0) / (candidatePool.length || 1);
-          const rankedChunks = _scoreChunksRanked(candidatePool, terms, avgCLen, 90, 1.5);
+          const rankedChunks = _scoreChunksRanked(candidatePool, terms, avgCLen, 90, 1.5, INTEL._bm25Stats);
           topChunks = _deduplicateByDoc(rankedChunks, isLargeCtx ? 3 : 2)
             .slice(0, maxTopChunks).map(x => x.item);
 
@@ -27180,7 +27270,7 @@ if (intelTabsContainer) {
       } else {
         if (typeof switchDeconstETF === 'function') switchDeconstETF('bdry');
         if (typeof _deconstShocks !== 'undefined') {
-          _deconstShocks.cape = 15;
+          _deconstShocks.cape = 20;
           _deconstShocks.pana = 10;
           _deconstShocks.supra = 5;
           _deconstShocks.vlcc = 0;
@@ -27976,20 +28066,21 @@ if (intelTabsContainer) {
         else if (type === 'zscore') {
           const z = parseFloat(target.getAttribute('data-tt-val'));
           const pctl1y = target.getAttribute('data-tt-pctl1y');
+          const zWin = target.getAttribute('data-tt-zwin') || 'rolling 252 trading days';
           const label = isNaN(z) ? '-' : (z >= 0 ? '+' : '') + z.toFixed(2) + 'σ';
           const zCls  = isNaN(z) ? '' : z > 0.5 ? 'pos' : z < -0.5 ? 'neg' : '';
           const interp = isNaN(z) ? 'No data' :
-            z >  2   ? 'Extreme bull — well above 1-year mean' :
+            z >  2   ? `Extreme bull — well above the ${zWin} mean` :
             z >  1   ? 'Elevated — above normal range' :
             z >  0.5 ? 'Mildly positive — slightly above mean' :
-            z > -0.5 ? 'Neutral — near the 1-year mean' :
+            z > -0.5 ? `Neutral — near the ${zWin} mean` :
             z > -1   ? 'Mildly negative — slightly below mean' :
             z > -2   ? 'Depressed — below normal range' :
-                       'Extreme bear — well below 1-year mean';
+                       `Extreme bear — well below the ${zWin} mean`;
           html += `<div class="rt-row"><span class="rt-label">Z-Score</span><span class="rt-val ${zCls}">${label}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Reading</span><span class="rt-val ${zCls}">${interp}</span></div>`;
           if (pctl1y) html += `<div class="rt-row"><span class="rt-label">1Y Percentile</span><span class="rt-val">${pctl1y}th</span></div>`;
-          html += `<div class="rt-note">Deviation from 1-year rolling mean. ±1σ = normal range; beyond ±2σ covers only 5% of readings.</div>`;
+          html += `<div class="rt-note">Deviation from the ${zWin} mean. ±1σ = normal range; beyond ±2σ covers only 5% of readings.</div>`;
         }
 
         else if (type === 'percentile') {

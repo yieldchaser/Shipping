@@ -27,6 +27,9 @@ DATA_DIR = os.path.join(WORKSPACE_DIR, 'data')
 DERIVED_DIR = os.path.join(DATA_DIR, 'derived')
 os.makedirs(DERIVED_DIR, exist_ok=True)
 
+# Trading-day staleness above which an input is flagged (any_input_stale).
+STALENESS_WARN_TRADING_DAYS = 15
+
 def run_backtest():
     # 1. Load BDI
     bdi_df = pd.read_csv(os.path.join(DATA_DIR, 'indices', 'bdiy_historical.csv'))
@@ -75,6 +78,17 @@ def run_backtest():
     bdryff_vals = bdryff_df[['date', 'bdryff']].dropna().set_index('date')['bdryff'].to_dict()
 
     dates = master['date'].tolist()
+    master_dates_np = master['date'].values
+
+    def trading_day_staleness(idx, last_obs_date):
+        """Trading sessions between the evaluation date and the input's last
+        observation (position-based, master frame = trading sessions)."""
+        if last_obs_date is None or pd.isna(last_obs_date):
+            return idx + 1
+        pos = np.searchsorted(master_dates_np, np.datetime64(last_obs_date), side='right') - 1
+        if pos < 0:
+            return idx + 1
+        return int(idx - pos)
 
     for idx, d in enumerate(dates):
         cur_bdi = master.loc[idx, 'bdiy']
@@ -105,6 +119,7 @@ def run_backtest():
         # Pillar 2: Term Structure Slope (0-20)
         past_tc = tc_df[tc_df['date'] <= d]
         p2 = 10
+        staleness_p2 = trading_day_staleness(idx, past_tc.iloc[-1]['date'] if len(past_tc) > 0 else None)
         if len(past_tc) > 0:
             last_tc = past_tc.iloc[-1]
             near_term = last_tc.get('capesize_4_6m_avg')
@@ -125,6 +140,7 @@ def run_backtest():
         # Pillar 3: Futures Basis (0-20)
         p3 = 10
         past_ff = bdryff_df[bdryff_df['date'] <= d]
+        staleness_p3 = trading_day_staleness(idx, past_ff.iloc[-1]['date'] if len(past_ff) > 0 else None)
         if len(past_ff) > 0:
             ff_val = past_ff.iloc[-1]['bdryff']
             if pd.notnull(ff_val) and ff_val > 0:
@@ -145,6 +161,7 @@ def run_backtest():
         # Pillar 4: Port Restocking (0-20)
         past_io = io_df[(io_df['date'] <= d) & (io_df['inventories_mt'].notnull())]
         p4 = 10
+        staleness_p4 = trading_day_staleness(idx, past_io.iloc[-1]['date'] if len(past_io) > 0 else None)
         if len(past_io) > 0:
             inv = past_io.iloc[-1]['inventories_mt']
             if inv < 110:
@@ -164,6 +181,11 @@ def run_backtest():
         past_val = val_cape[val_cape['date'] <= d]
         past_scrap = scrap_df[(scrap_df['date'] <= d) & (scrap_df['dry_india'].notnull())]
         p5 = 10
+        p5_last_obs = None
+        cand_dates = [df.iloc[-1]['date'] for df in (past_val, past_scrap) if len(df) > 0]
+        if cand_dates:
+            p5_last_obs = max(cand_dates)
+        staleness_p5 = trading_day_staleness(idx, p5_last_obs)
         if len(past_val) > 0 and len(past_scrap) > 0:
             sp_val = past_val.iloc[-1]['valuation_usd_m']
             scrap_val_m = (past_scrap.iloc[-1]['dry_india'] * 17000) / 1e6
@@ -205,6 +227,8 @@ def run_backtest():
         fwd_6m_bdi = ((master.loc[idx + 126, 'bdiy'] - cur_bdi) / cur_bdi) * 100 if idx + 126 < len(master) else np.nan
         fwd_6m_bdry = ((master.loc[idx + 126, 'bdry'] - cur_bdry) / cur_bdry) * 100 if idx + 126 < len(master) else np.nan
 
+        staleness_p1 = 0  # pillar 1 consumes the current session's BDI directly
+
         records.append({
             'date': d.strftime('%Y-%m-%d'),
             'bdi': cur_bdi,
@@ -216,6 +240,12 @@ def run_backtest():
             'p5_asset_safety': p5,
             'total_score': total,
             'regime': regime,
+            'input_staleness_p1': staleness_p1,
+            'input_staleness_p2': staleness_p2,
+            'input_staleness_p3': staleness_p3,
+            'input_staleness_p4': staleness_p4,
+            'input_staleness_p5': staleness_p5,
+            'any_input_stale': bool(max(staleness_p1, staleness_p2, staleness_p3, staleness_p4, staleness_p5) > STALENESS_WARN_TRADING_DAYS),
             'bdi_fwd_1W': fwd_1w_bdi,
             'bdry_fwd_1W': fwd_1w_bdry,
             'bdi_fwd_1M': fwd_1m_bdi,

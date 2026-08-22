@@ -18,3 +18,10 @@ data/**/*.csv text eol=lf
 data/**/*.json text eol=lf
 data/**/*.js text eol=lf
 data/**/*.txt text eol=lf
+
+# Immutable raw captures must stay byte-identical to what the source served:
+# provenance SHA-256 hashes are registered over raw bytes, so git must never
+# rewrite line endings (CRLF->LF) inside these directories.
+data/etf/raw_sources/** -text
+data/etf/raw_holdings/** -text
+data/cftc_statements/raw_pdf/** -text

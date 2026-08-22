@@ -21,10 +21,13 @@ Performs strict accounting decomposition of daily ETF holdings:
 
 import os
 import hashlib
+import logging
 import pandas as pd
 import numpy as np
 from typing import Dict, Any, List, Optional, Tuple
 from contract_spec_registry import resolve_contract_spec, get_authoritative_multiplier, UnknownContractSpecError
+
+logger = logging.getLogger(__name__)
 
 def run_daily_dollar_decomposition(fund: str) -> Tuple[pd.DataFrame, Dict[str, Any]]:
     h_file = f'data/etf/{fund.lower()}_holdings_history.csv'
@@ -42,9 +45,15 @@ def run_daily_dollar_decomposition(fund: str) -> Tuple[pd.DataFrame, Dict[str, A
     df_f['date'] = pd.to_datetime(df_f['date']).dt.strftime('%Y-%m-%d')
     df_l['date'] = pd.to_datetime(df_l['date']).dt.strftime('%Y-%m-%d')
     
-    # Numeric cleaning
-    df_h['Lots'] = pd.to_numeric(df_h['Lots'].astype(str).str.replace(',', '').str.strip(), errors='coerce').fillna(0.0)
-    df_h['Price'] = pd.to_numeric(df_h['Price'].astype(str).str.replace('$', '').str.replace(',', '').str.strip(), errors='coerce').fillna(0.0)
+    # Numeric cleaning (fail-closed: rows missing Lots/Price are dropped, never zero-filled)
+    lots_clean = pd.to_numeric(df_h['Lots'].astype(str).str.replace(',', '').str.strip(), errors='coerce')
+    price_clean = pd.to_numeric(df_h['Price'].astype(str).str.replace('$', '').str.replace(',', '').str.strip(), errors='coerce')
+    missing_marks = int((lots_clean.isna() | price_clean.isna()).sum())
+    if missing_marks:
+        logger.warning(f"{fund}: dropped {missing_marks} holdings rows with missing Lots/Price marks")
+    df_h = df_h[lots_clean.notna() & price_clean.notna()].copy()
+    df_h['Lots'] = lots_clean[lots_clean.notna() & price_clean.notna()]
+    df_h['Price'] = price_clean[lots_clean.notna() & price_clean.notna()]
     
     if fund.upper() == 'BDRY':
         df_h_fut = df_h[df_h['Name'].str.contains('Capesize|Panamax|Supramax', case=False, na=False)].copy()

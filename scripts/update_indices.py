@@ -225,11 +225,34 @@ def fetch_solactive_live(isin):
         level_raw    = data[schema['level']]
         level = float(level_raw)
 
-        # Solactive timestamps are in CET (UTC+1); convert to local CET date.
+        # Solactive quotes are stamped in Europe/Berlin local time (CET UTC+1 /
+        # CEST UTC+2). Use zoneinfo when available with a manual DST-offset
+        # fallback (CEST: last Sunday of March -> last Sunday of October) so
+        # tzdata-less runners never crash and evening quotes land on the
+        # correct local date year-round.
         from datetime import timezone, timedelta as _td
-        cet = timezone(_td(hours=1))
-        dt_cet = datetime.fromtimestamp(timestamp_ms / 1000, tz=cet)
-        date_normalized = pd.Timestamp(dt_cet.date())
+        berlin_offset = _td(hours=1)
+        try:
+            from zoneinfo import ZoneInfo
+            dt_local = datetime.fromtimestamp(timestamp_ms / 1000, tz=ZoneInfo("Europe/Berlin"))
+        except Exception:
+            def _last_sunday(year, month):
+                # Last Sunday of given month at 01:00 UTC (DST transition moment approximated by date only)
+                if month == 12:
+                    nxt = datetime(year + 1, 1, 1)
+                else:
+                    nxt = datetime(year, month + 1, 1)
+                d = nxt - _td(days=1)
+                while d.weekday() != 6:
+                    d -= _td(days=1)
+                return d.date()
+            naive = datetime.utcfromtimestamp(timestamp_ms / 1000)
+            y = naive.year
+            cest_start = datetime.combine(_last_sunday(y, 3), datetime.min.time())
+            cest_end = datetime.combine(_last_sunday(y, 10), datetime.min.time())
+            offset_hours = 2 if cest_start <= naive < cest_end else 1
+            dt_local = datetime.fromtimestamp(timestamp_ms / 1000, tz=timezone(_td(hours=offset_hours)))
+        date_normalized = pd.Timestamp(dt_local.date())
 
         return pd.DataFrame([{'date': date_normalized, 'value': level}])
 
@@ -299,9 +322,9 @@ def update_solactive_with_fallback(isin, filename):
         print(f"  {filename}: SKIP live — live date {live_date.date()} is not after batch latest {latest_in_csv.date()}")
         return
 
-    # ── Safeguard 3: live date must not be beyond the expected last trading day ──
-    if live_date > last_td:
-        print(f"  {filename}: SKIP live — live date {live_date.date()} is ahead of expected {last_td.date()}")
+    # ── Safeguard 3: live date must exactly equal the expected last trading day ──
+    if live_date != last_td:
+        print(f"  {filename}: SKIP live — live date {live_date.date()} does not exactly match expected last trading day {last_td.date()}")
         return
 
     # ── Safeguard 4: live date must not already be in the CSV ────────────────

@@ -385,11 +385,15 @@ def publish_staged_artifacts_transactionally(staging_dir: str, base_dest: str) -
 import base64
 
 AMPLIFY_FIRESTORE_PROJECT_ID = "amplify-etfs-data-feed"
-# Public read-only client key for Amplify's frontend Firestore data feed
-AMPLIFY_FIRESTORE_API_KEY = os.environ.get(
-    "AMPLIFY_FIRESTORE_API_KEY",
-    base64.b64decode(b"QUl6YVN5Q2liaEdvNGx1OFpBTHRCdmZfWlQzNTFCRE1VUHFPWWpj").decode("utf-8")
-)
+# Public read-only client key for Amplify's frontend Firestore data feed.
+# Env-var override preferred so the embedded key can be rotated without a code deploy.
+_EMBEDDED_FIRESTORE_API_KEY = base64.b64decode(b"QUl6YVN5Q2liaEdvNGx1OFpBTHRCdmZfWlQzNTFCRE1VUHFPWWpj").decode("utf-8")
+AMPLIFY_FIRESTORE_API_KEY = os.environ.get("AMPLIFY_FIRESTORE_API_KEY")
+if AMPLIFY_FIRESTORE_API_KEY:
+    print("[INFO] Using AMPLIFY_FIRESTORE_API_KEY from environment")
+else:
+    print("[WARNING] AMPLIFY_FIRESTORE_API_KEY not set - falling back to embedded key")
+    AMPLIFY_FIRESTORE_API_KEY = _EMBEDDED_FIRESTORE_API_KEY
 
 def fetch_official_firestore_master_feed() -> bytes:
     """
@@ -446,8 +450,11 @@ def fetch_official_firestore_master_feed() -> bytes:
                         lots = float(lots)
                         break
             if lots is None:
-                lots = 0.0
-                
+                raise ValueError(
+                    f"Missing Lots for holding '{name or ticker_val or cusip}' ({ticker}): "
+                    f"refusing to fabricate a zero-lot position at the authoritative ingestion point"
+                )
+
             price = None
             if "Price" in hf:
                 v = hf["Price"]
@@ -455,7 +462,10 @@ def fetch_official_firestore_master_feed() -> bytes:
                 if price is not None:
                     price = float(price)
             if price is None:
-                price = 1.0
+                raise ValueError(
+                    f"Missing Price for holding '{name or ticker_val or cusip}' ({ticker}): "
+                    f"refusing to fabricate a placeholder mark at the authoritative ingestion point"
+                )
                 
             mv = None
             for k in ["MarketValue", "Market_Value"]:

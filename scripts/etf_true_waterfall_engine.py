@@ -15,6 +15,26 @@ import numpy as np
 from datetime import datetime
 from typing import Dict, Any, List, Optional
 from etf_provenance_registry import get_observation_provenance
+from contract_spec_registry import resolve_contract_spec, UnknownContractSpecError
+
+FUTURES_MARKER_TOKENS = ('FFA', 'TD3C', 'TD20', 'C4', 'P4', 'S4')
+CASH_NAME_TOKENS = ('CASH', 'COLLATERAL', 'MAREX', 'USD')
+
+def is_cash_side_holding(name, ticker='', cusip=''):
+    """
+    Single authority for futures-vs-cash-side classification.
+    Futures marker tokens short-circuit to False; otherwise the contract spec
+    registry decides (Collateral/Cash Equivalent vessel class => cash side).
+    Unmapped names fall back to exact-ish cash token matching.
+    """
+    name_str = str(name).upper()
+    if any(token in name_str for token in FUTURES_MARKER_TOKENS):
+        return False
+    try:
+        spec = resolve_contract_spec(str(name), ticker=str(ticker or ''), cusip=str(cusip or ''))
+    except UnknownContractSpecError:
+        return any(token in name_str for token in CASH_NAME_TOKENS)
+    return spec.get('vessel_class') == 'Collateral/Cash Equivalent'
 
 def load_canonical_holdings(etf_key: str) -> pd.DataFrame:
     fpath = f"data/etf/{etf_key.lower()}_holdings_history.csv"
@@ -82,9 +102,10 @@ def run_fund_level_nav_reconstruction(etf_key: str) -> Dict[str, Any]:
     days_data = []
     for d in dates:
         sub = df_raw[df_raw['date'] == d]
-        fut_rows = sub[~sub['Name'].str.contains('Invesco|AGPXX|Cash|USD|Collateral|Marex', case=False, na=False)]
+        fut_mask = ~sub.apply(lambda r: is_cash_side_holding(r['Name'], r.get('Ticker', ''), r.get('CUSIP', '')), axis=1)
+        fut_rows = sub[fut_mask]
         col_rows = sub[sub['Name'].str.contains('Invesco|AGPXX', case=False, na=False)]
-        csh_rows = sub[sub['Name'].str.contains('Cash|USD|Collateral|Marex', case=False, na=False) & ~sub['Name'].str.contains('Invesco|AGPXX', case=False, na=False)]
+        csh_rows = sub[sub.apply(lambda r: is_cash_side_holding(r['Name'], r.get('Ticker', ''), r.get('CUSIP', '')), axis=1) & ~sub['Name'].str.contains('Invesco|AGPXX', case=False, na=False)]
         
         fut_notional = (fut_rows['Lots'] * fut_rows['Price'] * multiplier).sum()
         col_val = col_rows['Market_Value'].sum()

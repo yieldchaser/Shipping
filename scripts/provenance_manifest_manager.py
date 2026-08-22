@@ -47,7 +47,7 @@ OFFICIAL_SOURCE_URLS = {
 }
 
 def calculate_sha256(filepath: str) -> str:
-    """Computes standard SHA-256 hexadecimal digest of a file on disk."""
+    """Computes standard SHA-256 hexadecimal digest of a file on disk (raw bytes)."""
     h = hashlib.sha256()
     with open(filepath, 'rb') as f:
         while chunk := f.read(8192):
@@ -57,6 +57,33 @@ def calculate_sha256(filepath: str) -> str:
 def calculate_bytes_sha256(data_bytes: bytes) -> str:
     """Computes standard SHA-256 hexadecimal digest of in-memory bytes."""
     return hashlib.sha256(data_bytes).hexdigest()
+
+def match_sha256_with_eol_variants(expected_sha256: Optional[str], filepath: str) -> Optional[str]:
+    """
+    Verifies a registered SHA-256 against a file, tolerating line-ending drift.
+
+    The raw on-disk bytes are ALWAYS tried first and remain the canonical basis: new
+    registrations must record the RAW on-disk bytes hash. If the raw hash does not match,
+    the expected digest is retried against normalized variants
+    (LF->CRLF and CRLF->LF) so legacy manifests whose hashes were computed over
+    CRLF-as-served bytes (before .gitattributes forced LF storage) still reconcile.
+
+    Returns the name of the matching variant ('raw', 'lf_to_crlf', 'crlf_to_lf'),
+    or None when nothing matches.
+    """
+    if not expected_sha256:
+        return None
+    if calculate_sha256(filepath) == expected_sha256:
+        return 'raw'
+    with open(filepath, 'rb') as f:
+        raw = f.read()
+    for variant_name, candidate in (
+        ('lf_to_crlf', raw.replace(b'\n', b'\r\n')),
+        ('crlf_to_lf', raw.replace(b'\r\n', b'\n')),
+    ):
+        if calculate_bytes_sha256(candidate) == expected_sha256:
+            return variant_name
+    return None
 
 def compute_snapshot_content_sha256(snapshot_payload: Dict[str, Any]) -> str:
     """

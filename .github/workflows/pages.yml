@@ -7,12 +7,15 @@ on:
   workflow_run:
     workflows:
       - "Daily Market Brief"
-      - "Daily Knowledge Ingestion"
+      - "Daily Knowledge Update"
       - "Process Knowledge Base"
-      - "Daily Freight Pipeline"
-      - "ETF Holdings Daily Ingestion"
-      - "Alibra OCR Time Charter Poller"
-      - "Baltic New Indices Daily Ingestion"
+      - "Ingest Market Reports"
+      - "Daily Baltic Index Update"
+      - "ETF Holdings Update (BDRY/BWET)"
+      - "Alibra Forward Curves & Time Charter Poller"
+      - "Baltic New Indices Update"
+      - "Fearnleys Weekly TC Update"
+      - "Data Expansion Collectors"
     types:
       - completed
 
