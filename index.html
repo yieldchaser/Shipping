@@ -15677,16 +15677,36 @@ if (intelTabsContainer) {
 
       if (meta && meta.regularMarketPrice != null) {
         var price = meta.regularMarketPrice;
-        var chgPct = meta.regularMarketChangePercent;
-        var sign = chgPct >= 0 ? '+' : '';
-        var chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
-        var chgTxt = chgPct != null ? sign + chgPct.toFixed(2) + '%' : '—';
+        var chgPct = (meta.regularMarketChangePercent != null && !isNaN(meta.regularMarketChangePercent)) 
+          ? meta.regularMarketChangePercent 
+          : null;
+
+        var prevClose = meta.chartPreviousClose ?? meta.previousClose;
+        if (chgPct == null && prevClose && !isNaN(prevClose) && prevClose > 0) {
+          chgPct = ((price - prevClose) / prevClose) * 100;
+        }
+
+        var liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+        if (chgPct == null && liqRows && liqRows.length > 1) {
+          var lastCl = parseFloat(liqRows[liqRows.length - 1].close);
+          var prevCl = parseFloat(liqRows[liqRows.length - 2].close);
+          if (price === lastCl && !isNaN(prevCl) && prevCl > 0) {
+            chgPct = ((price - prevCl) / prevCl) * 100;
+          } else if (price !== lastCl && !isNaN(lastCl) && lastCl > 0) {
+            chgPct = ((price - lastCl) / lastCl) * 100;
+          }
+        }
+
+        var sign = (chgPct != null && chgPct >= 0) ? '+' : '';
+        var chgCls = chgPct == null ? '' : (chgPct >= 0 ? 'change-pos' : 'change-neg');
+        var chgTxt = (chgPct != null && !isNaN(chgPct)) ? sign + chgPct.toFixed(2) + '%' : '';
+        var chgHTML = chgTxt ? `<span class="etf-change ${chgCls}">${chgTxt}</span>` : '';
         var nowStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
 
         if (priceRow) {
           priceRow.innerHTML = `
             <span class="etf-price">$${price.toFixed(2)}</span>
-            <span class="etf-change ${chgCls}">${chgTxt}</span>`;
+            ${chgHTML}`;
         }
 
         if (badge) {
