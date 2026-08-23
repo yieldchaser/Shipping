@@ -6,6 +6,7 @@ commodities:
 date: '2024-04-02'
 doc_id: hellenic_iron_ore_2024-04-02_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - Vale
 keywords:
@@ -39,7 +40,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 3.09
-  - 409.0
+  - 2409.0
   - 768.0
   - 779.0
   - -780.0
@@ -47,7 +48,7 @@ numeric_observations:
   - 30.0
   - 5.0
   - 1.8694
-  - 82.7
+  - 82700.0
 - &id002
   section: Main
   section_type: null
@@ -59,9 +60,11 @@ numeric_observations:
   - -2.0
   - 2.0
   - -2024.0
+  - 1.0
   - 2042024.0
   - 385.0
-  - 64.0
+  - 1.0
+  - 264.0
 - &id003
   section: 'Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg'
   section_type: linked_image_asset
@@ -73,9 +76,11 @@ numeric_observations:
   - -2.0
   - 2.0
   - -2024.0
+  - 1.0
   - 2042024.0
   - 385.0
-  - 64.0
+  - 1.0
+  - 264.0
 - &id004
   section: 'Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg'
   section_type: linked_image_asset
@@ -83,7 +88,7 @@ numeric_observations:
   unit: null
   values:
   - 1600.0
-  - 43.0
+  - 743.0
 - &id005
   section: 'Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg'
   section_type: linked_image_asset
@@ -118,7 +123,7 @@ numeric_observations:
     -0.7% 116.38 121.03 100.95 140.24
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 810.0
   - -5.2
@@ -135,6 +140,7 @@ numeric_observations:
     104.50 106.10 87.74 128.13
   unit: pct
   values:
+  - 8.0
   - 58.0
   - 660.0
   - -8.4
@@ -143,8 +149,7 @@ numeric_observations:
   - 781.0
   - 668.0
   - 963.0
-  - 86.56
-  - -1.18
+  - 86560.0
 - &id010
   section: 'Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg'
   section_type: linked_image_asset
@@ -152,7 +157,7 @@ numeric_observations:
     -0.6% 132.21 139.47 116.19 155.37
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 922.0
   - -5.0
@@ -196,14 +201,14 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 62.0
+  - 162.0
   - 62.0
   - 105.47
   - -0.39
   - -0.37
   - 116.42
   - 116.42
-  - 99.2
+  - 99200.0
   - 146.75
 - &id014
   section: 'Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg'
@@ -225,7 +230,7 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 5.0
+  - 65.0
   - 65.0
   - 119.58
   - -0.35
@@ -252,8 +257,8 @@ numeric_observations:
     -8.39% 126.95 136.27 114.47 153.57
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 900.0
   - -80.0
   - -8.2
@@ -281,7 +286,7 @@ signals:
     unit: pct
     values:
     - 3.09
-    - 409.0
+    - 2409.0
     - 768.0
     - 779.0
     - -780.0
@@ -297,9 +302,9 @@ signals:
     - -2.0
     - 2.0
     - -2024.0
+    - 1.0
     - 2042024.0
     - 385.0
-    - 64.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Apr 2nd, 2024
     unit: null
@@ -320,7 +325,7 @@ signals:
       -0.7% 116.38 121.03 100.95 140.24
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 810.0
     - -5.2
@@ -333,6 +338,7 @@ signals:
       104.50 106.10 87.74 128.13
     unit: pct
     values:
+    - 8.0
     - 58.0
     - 660.0
     - -8.4
@@ -340,13 +346,12 @@ signals:
     - 785.0
     - 781.0
     - 668.0
-    - 963.0
   - metric: index_65_fines
     source_line: IOPI65 65% Fe Fines 922 -5.0 -0.54% 996 1026 881 1175 121.13 -0.71
       -0.6% 132.21 139.47 116.19 155.37
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 922.0
     - -5.0
@@ -382,7 +387,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 62.0
+    - 162.0
     - 62.0
     - 105.47
     - -0.39
@@ -396,7 +401,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 5.0
+    - 65.0
     - 65.0
     - 119.58
     - -0.35

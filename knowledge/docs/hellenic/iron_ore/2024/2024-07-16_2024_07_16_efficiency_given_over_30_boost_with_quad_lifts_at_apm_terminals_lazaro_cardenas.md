@@ -6,6 +6,7 @@ commodities:
 date: '2024-07-16'
 doc_id: hellenic_iron_ore_2024-07-16_2024_07_16_efficiency_given_over_30_boost_with_quad_lifts_at_apm_terminals_lazaro_cardenas
 document_type: commodity_update
+is_error_page: false
 key_entities: []
 keywords:
 - container

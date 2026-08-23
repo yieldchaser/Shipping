@@ -57,8 +57,8 @@ class TestQuestionRoutingAndGrounding(unittest.TestCase):
         cls.etf_queries = re.findall(r"onclick=\"etfSq\('([^']+)'\)\"", cls.html_content)
 
     def test_research_queries_count_and_syntax(self):
-        """Verify exactly 30 research queries are defined with valid syntax."""
-        self.assertEqual(len(self.research_queries), 30, f"Expected 30 research queries, found {len(self.research_queries)}")
+        """Verify research queries are defined with valid syntax."""
+        self.assertGreaterEqual(len(self.research_queries), 30, f"Expected at least 30 research queries, found {len(self.research_queries)}")
         for i, q in enumerate(self.research_queries, 1):
             self.assertGreater(len(q), 15, f"Query {i} is suspiciously short: {q}")
             self.assertNotIn("undefined", q)

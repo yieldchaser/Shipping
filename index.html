@@ -19804,7 +19804,7 @@ if (intelTabsContainer) {
 
         if (activeGrade === '65') {
           stockVal = r.port_stock_65 != null ? r.port_stock_65 : (r.inventories_mt ? r.inventories_mt * 0.22 : null);
-          priceVal = r.cfr_65 != null ? r.cfr_65 : (r.cfr_62 ? r.cfr_62 * 1.15 : null);
+          priceVal = r.cfr_65;
         } else if (activeGrade === 'steel') {
           stockVal = r.steel_inventories_mt;
           priceVal = r.steel_production_mt;
@@ -19928,7 +19928,7 @@ if (intelTabsContainer) {
         const stockLabel = activeGrade === '65' ? 'Port Stock 65% (10k t)' : 'Qingdao Port Inventory (10k t)';
         datasets = [
           { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-          { label: gradeLabel, data: rows.map(r => r.price), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+          { label: gradeLabel, data: rows.map(r => r.price), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: false },
           { label: stockLabel, data: rows.map(r => r.stock), yAxisID: 'yRight2', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true }
         ];
       }

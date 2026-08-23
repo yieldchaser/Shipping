@@ -6,6 +6,7 @@ commodities:
 date: '2023-05-18'
 doc_id: hellenic_iron_ore_2023-05-18_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -53,9 +54,11 @@ numeric_observations:
   - -18.0
   - 18.0
   - -2023.0
-  - 908.0
-  - 65.0
+  - 1.0
   - 5.0
+  - 908.0
+  - 365.0
+  - 85.0
 - &id003
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
   section_type: linked_image_asset
@@ -67,9 +70,11 @@ numeric_observations:
   - -18.0
   - 18.0
   - -2023.0
-  - 908.0
-  - 65.0
+  - 1.0
   - 5.0
+  - 908.0
+  - 365.0
+  - 85.0
 - &id004
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
   section_type: linked_image_asset
@@ -77,7 +82,7 @@ numeric_observations:
   unit: null
   values:
   - 1600.0
-  - 43.0
+  - 743.0
 - &id005
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
   section_type: linked_image_asset
@@ -112,7 +117,7 @@ numeric_observations:
     120.06 120.58 117.93 122.93
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 824.0
   - 5.0
@@ -130,14 +135,14 @@ numeric_observations:
   unit: pct
   values:
   - 1.0
-  - 8.0
+  - 58.0
   - 58.0
   - 704.0
   - 813.0
   - 798.0
   - 761.0
   - 793.0
-  - 93.96
+  - 93960.0
   - -0.3
 - &id010
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
@@ -147,7 +152,7 @@ numeric_observations:
   unit: pct
   values:
   - 1.0
-  - 5.0
+  - 65.0
   - 65.0
   - 935.0
   - 5.0
@@ -185,14 +190,14 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 62.0
+  - 162.0
   - 62.0
   - 105.45
   - 0.7
   - 0.67
   - 114.93
   - 124.09
-  - 83.9
+  - 83900.0
   - 147.9
 - &id014
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
@@ -202,12 +207,12 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 5.0
+  - 65.0
   - 65.0
   - 122.55
   - 125.05
   - 139.87
-  - 94.45
+  - 94450.0
   - 171.85
 - &id015
   section: 'Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg'
@@ -227,8 +232,8 @@ numeric_observations:
     -7.05% 120.00 137.50 94.72 179.54
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 915.0
   - -30.0
   - -3.2
@@ -268,9 +273,9 @@ signals:
     - -18.0
     - 18.0
     - -2023.0
-    - 908.0
-    - 65.0
+    - 1.0
     - 5.0
+    - 908.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report | May 18th, 2023
     unit: null
@@ -291,7 +296,7 @@ signals:
       120.06 120.58 117.93 122.93
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 824.0
     - 5.0
@@ -305,7 +310,7 @@ signals:
     unit: pct
     values:
     - 1.0
-    - 8.0
+    - 58.0
     - 58.0
     - 704.0
     - 0.0
@@ -318,7 +323,7 @@ signals:
     unit: pct
     values:
     - 1.0
-    - 5.0
+    - 65.0
     - 65.0
     - 935.0
     - 5.0
@@ -342,7 +347,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 62.0
+    - 162.0
     - 62.0
     - 105.45
     - 0.7
@@ -356,7 +361,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 5.0
+    - 65.0
     - 65.0
     - 122.55
     - 0.0

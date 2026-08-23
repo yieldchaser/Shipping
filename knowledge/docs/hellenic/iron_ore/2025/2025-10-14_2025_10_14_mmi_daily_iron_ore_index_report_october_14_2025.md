@@ -6,6 +6,7 @@ commodities:
 date: '2025-10-14'
 doc_id: hellenic_iron_ore_2025-10-14_2025_10_14_mmi_daily_iron_ore_index_report_october_14_2025
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - Vale
 keywords:
@@ -38,7 +39,7 @@ numeric_observations:
     purchases at lower levels
   unit: tonnage
   values:
-  - 601.0
+  - 2601.0
   - 782.0
   - 2.07
   - 778.0
@@ -59,9 +60,10 @@ numeric_observations:
   - -14.0
   - 14.0
   - -2025.0
+  - 1.0
   - 14102025.0
-  - 9.0
-  - 73.0
+  - 69.0
+  - 473.0
 - &id003
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -74,8 +76,8 @@ numeric_observations:
   - 14.0
   - -2025.0
   - 14102025.0
-  - 9.0
-  - 73.0
+  - 69.0
+  - 473.0
 - &id004
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -83,7 +85,7 @@ numeric_observations:
   unit: null
   values:
   - 1600.0
-  - 43.0
+  - 743.0
 - &id005
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -118,7 +120,7 @@ numeric_observations:
     101.35 108.67 89.33 140.24
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 787.0
   - -17.0
@@ -135,7 +137,7 @@ numeric_observations:
     89.09 95.63 80.25 128.13
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 725.0
   - -11.0
@@ -144,7 +146,7 @@ numeric_observations:
   - 730.0
   - 610.0
   - 963.0
-  - 95.44
+  - 95440.0
 - &id010
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -153,7 +155,7 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 65.0
+  - 165.0
   - 65.0
   - 898.0
   - -16.0
@@ -195,6 +197,7 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
+  - 8.0
   - 785.0
   - -790.0
   - 15.0
@@ -207,14 +210,14 @@ numeric_observations:
   unit: worldscale_pct
   values:
   - 10.0
-  - 62.0
+  - 162.0
   - 62.0
   - 108.6
   - 10273.0
   - 10950.0
-  - 89.79
+  - 89790.0
   - 4.0
-  - 65.0
+  - 265.0
 - &id015
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -224,14 +227,14 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 5.0
+  - 65.0
   - 65.0
   - 123.65
   - -1.45
   - -1.16
   - -113.23
   - 124.19
-  - 98.23
+  - 98230.0
   - 171.65
 - &id016
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_14102025chinese_f69e473bafca.jpg'
@@ -259,8 +262,8 @@ numeric_observations:
     112.60 121.45 102.77 153.57
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 920.0
   - 903.0
   - 969.0
@@ -280,9 +283,10 @@ numeric_observations:
   - -14.0
   - 14.0
   - -2025.0
+  - 1.0
   - 14102025.0
-  - 9.0
-  - 73.0
+  - 69.0
+  - 473.0
 - &id020
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -290,7 +294,7 @@ numeric_observations:
   unit: null
   values:
   - 1600.0
-  - 43.0
+  - 743.0
 - &id021
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -325,7 +329,7 @@ numeric_observations:
     101.35 108.67 89.33 140.24
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 787.0
   - -17.0
@@ -342,7 +346,7 @@ numeric_observations:
     89.09 95.63 80.25 128.13
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 725.0
   - -11.0
@@ -351,7 +355,7 @@ numeric_observations:
   - 730.0
   - 610.0
   - 963.0
-  - 95.44
+  - 95440.0
 - &id026
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -360,7 +364,7 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 65.0
+  - 165.0
   - 65.0
   - 898.0
   - -16.0
@@ -402,6 +406,7 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
+  - 8.0
   - 785.0
   - -790.0
   - 15.0
@@ -414,14 +419,14 @@ numeric_observations:
   unit: worldscale_pct
   values:
   - 10.0
-  - 62.0
+  - 162.0
   - 62.0
   - 108.6
   - 10273.0
   - 10950.0
-  - 89.79
+  - 89790.0
   - 4.0
-  - 65.0
+  - 265.0
 - &id031
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
   section_type: linked_image_asset
@@ -431,14 +436,14 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 5.0
+  - 65.0
   - 65.0
   - 123.65
   - -1.45
   - -1.16
   - -113.23
   - 124.19
-  - 98.23
+  - 98230.0
   - 171.65
 - &id032
   section: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
@@ -466,8 +471,8 @@ numeric_observations:
     112.60 121.45 102.77 153.57
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 920.0
   - 903.0
   - 969.0
@@ -485,7 +490,7 @@ signals:
   benchmark_prices:
     index_58_fines: 58.0
     index_62_fines: 62.0
-    index_65_fines: 65.0
+    index_65_fines: 165.0
   iron_ore_metrics:
   - metric: numeric_observation
     source_line: Iron ore futures fell sharply today, trading in the doldrums throughout
@@ -494,7 +499,7 @@ signals:
       purchases at lower levels
     unit: pct
     values:
-    - 601.0
+    - 2601.0
     - 782.0
     - 2.07
     - 778.0
@@ -512,8 +517,8 @@ signals:
     - 14.0
     - -2025.0
     - 14102025.0
-    - 9.0
-    - 73.0
+    - 69.0
+    - 473.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Oct 14th, 2025
     unit: null
@@ -534,7 +539,7 @@ signals:
       101.35 108.67 89.33 140.24
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 787.0
     - -17.0
@@ -547,7 +552,7 @@ signals:
       89.09 95.63 80.25 128.13
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 725.0
     - -11.0
@@ -561,7 +566,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 65.0
+    - 165.0
     - 65.0
     - 898.0
     - -16.0
@@ -595,6 +600,7 @@ signals:
     values:
     - 2.0
     - 2.0
+    - 8.0
     - 785.0
     - -790.0
     - 15.0
@@ -605,13 +611,13 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 62.0
+    - 162.0
     - 62.0
     - 108.6
+    - 0.0
     - 10273.0
     - 10950.0
-    - 89.79
-    - 4.0
+    - 89790.0
   - metric: index_65_fines
     source_line: 10SI65 65% FeFines| 123.65 -1.45 = --1.16% =--113.23 124.19 = 98.23
       171.65 _ || mrocucton is retativetysmailin the near term, and iron oe demand
@@ -619,7 +625,7 @@ signals:
     unit: pct
     values:
     - 10.0
-    - 5.0
+    - 65.0
     - 65.0
     - 123.65
     - -1.45
@@ -641,6 +647,18 @@ signals:
     unit: pct
     values:
     - 7.0
+  - metric: index
+    source_line: 'Linked asset: 2025-10-14_mmi-daily-iron-ore-index-report-october-14-2025_img1_14102025chinese_f69e473bafca.jpg'
+    unit: null
+    values:
+    - 2025.0
+    - -10.0
+    - -14.0
+    - 14.0
+    - -2025.0
+    - 1.0
+    - 14102025.0
+    - 69.0
   metric_units:
   - pct
   - usd
