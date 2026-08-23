@@ -17,11 +17,11 @@ def auto_select_sources(query):
     active = set()
 
     # 1. Breakwave & Macro Analyst Narrative
-    if re.search(r'breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward', q, re.I):
+    if re.search(r'breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting', q, re.I):
         active.add('breakwave')
 
     # 2. Baltic Exchange, Spot Rates, Spreads, Chokepoints & Quant Regimes
-    if re.search(r'baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa', q, re.I):
+    if re.search(r'baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|td20|td25|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa|ton.mile|tonmile|sts|cpc|black sea|cape of good hope', q, re.I):
         active.add('baltic')
 
     # 3. Hellenic, Time Charter Rates, S&P Valuations, Bunkers & Carbon
@@ -29,7 +29,7 @@ def auto_select_sources(query):
         active.add('hellenic')
 
     # 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
-    if re.search(r'iron ore|ore demand|capesize demand|china steel|ton.mile|port stock|inventory days|steel margin|bauxite|coal|grain|soybean|export flow', q, re.I):
+    if re.search(r'iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow', q, re.I):
         active.add('ironOre')
 
     # 5. Shipbuilding, Orderbooks, Deliveries, Scrapping & Fleet Supply
@@ -58,7 +58,7 @@ class TestQuestionRoutingAndGrounding(unittest.TestCase):
 
     def test_research_queries_count_and_syntax(self):
         """Verify research queries are defined with valid syntax."""
-        self.assertGreaterEqual(len(self.research_queries), 30, f"Expected at least 30 research queries, found {len(self.research_queries)}")
+        self.assertGreaterEqual(len(self.research_queries), 38, f"Expected at least 38 research queries, found {len(self.research_queries)}")
         for i, q in enumerate(self.research_queries, 1):
             self.assertGreater(len(q), 15, f"Query {i} is suspiciously short: {q}")
             self.assertNotIn("undefined", q)
@@ -66,8 +66,8 @@ class TestQuestionRoutingAndGrounding(unittest.TestCase):
             self.assertNotIn("\\'", q)  # No raw escaped quotes in prompt
 
     def test_etf_queries_count_and_syntax(self):
-        """Verify exactly 30 ETF queries are defined with valid syntax."""
-        self.assertEqual(len(self.etf_queries), 30, f"Expected 30 ETF queries, found {len(self.etf_queries)}")
+        """Verify ETF queries are defined with valid syntax."""
+        self.assertGreaterEqual(len(self.etf_queries), 30, f"Expected at least 30 ETF queries, found {len(self.etf_queries)}")
         for i, q in enumerate(self.etf_queries, 1):
             self.assertGreater(len(q), 20, f"ETF Query {i} is suspiciously short: {q}")
             self.assertNotIn("undefined", q)
@@ -108,6 +108,18 @@ class TestQuestionRoutingAndGrounding(unittest.TestCase):
         self.assertTrue(len(q_asset) > 0, "5Y asset valuations question missing")
         scopes = auto_select_sources(q_asset[0])
         self.assertIn('hellenic', scopes, f"5Y asset query must route to 'hellenic', got {scopes}")
+
+        # 5. Brazil vs Australia 3.2x Ton-Mile Multiplier
+        q_brazil = [q for q in self.research_queries if '3.2x' in q or 'Brazil-to-China' in q]
+        self.assertTrue(len(q_brazil) > 0, "Brazil vs Australia ton-mile query missing")
+        scopes = auto_select_sources(q_brazil[0])
+        self.assertTrue('baltic' in scopes or 'ironOre' in scopes, f"Ton-mile query must route to baltic/ironOre, got {scopes}")
+
+        # 6. VLCC Atlantic vs MEG Ton-Mile Geometry
+        q_vlcc_geo = [q for q in self.research_queries if 'VLCC' in q and 'Atlantic' in q]
+        self.assertTrue(len(q_vlcc_geo) > 0, "VLCC Atlantic ton-mile query missing")
+        scopes = auto_select_sources(q_vlcc_geo[0])
+        self.assertIn('baltic', scopes, f"VLCC geometry query must route to baltic, got {scopes}")
 
     def test_knowledge_chunks_data_integrity(self):
         """Verify all 5 recent knowledge chunk files exist, parse cleanly as JSON, and retain exact figures."""

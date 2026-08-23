@@ -9094,6 +9094,7 @@
             <button class="sq-tab" data-cat="roll"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>Roll Yield &amp; Carry</button>
             <button class="sq-tab" data-cat="shocks"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Scenario Shocks &amp; PnL</button>
             <button class="sq-tab" data-cat="flows"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M3 21h18M3 10h18M5 6l7-3 7 3M4 10v11M20 10v11M8 14v4M12 14v4M16 14v4"/></svg>Fund Flows &amp; AUM</button>
+            <button class="sq-tab" data-cat="tonmile"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>Ton-Mile &amp; Trade Flows</button>
             <button class="sq-tab" data-cat="strategy"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;margin-right:4px;"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>Strategy &amp; Holding</button>
           </div>
 
@@ -9137,7 +9138,12 @@
             <button class="sq-q" onclick="etfSq('How does secondary market premium/discount arbitrage operate during severe market liquidity dislocations?')">Premium/Discount arbitrage in volatility</button>
           </div>
 
-          <!-- Panel 5: Trade Strategy & Holding Period -->
+          <!-- Panel 5: Ton-Mile Demand & Trade Flows -->
+          <div class="sq-panel" id="etf-panel-tonmile">
+            <!-- Dynamically populated by renderEtfSuggestedQuestions -->
+          </div>
+
+          <!-- Panel 6: Trade Strategy & Holding Period -->
           <div class="sq-panel" id="etf-panel-strategy">
             <button class="sq-q" onclick="etfSq('What are the primary structural risks of holding commodity shipping ETFs beyond a single monthly roll cycle?')">Risks of holding shipping ETFs longer than 3 months</button>
             <button class="sq-q" onclick="etfSq('How does holding freight futures ETFs differ from investing in physical dry bulk and tanker shipping equities?')">Freight Futures ETFs vs Shipping Equities</button>
@@ -10789,6 +10795,13 @@
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
+            <!-- Ton-Mile Demand Copilot Quick Action Bar -->
+            <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--border);align-items:center;">
+              <span style="font-size:10px;font-weight:600;text-transform:uppercase;color:var(--accent);letter-spacing:0.5px;">⚡ Ton-Mile Copilot:</span>
+              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(88,166,255,0.1);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);" onclick="triggerSignalCopilot('Compare the 3.2x ton-mile multiplier of Brazil-to-China vs Australia-to-China iron ore routes and their impact on Capesize C3 vs C5 freight rates.')">Brazil vs Australia 3.2x Multiplier</button>
+              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(63,185,80,0.1);color:#3fb950;border:1px solid rgba(63,185,80,0.3);" onclick="triggerSignalCopilot('How does the long-haul bauxite and iron ore corridor from Guinea (Simandou) to China structurally expand Capesize and Newcastlemax ton-mile demand?')">Guinea Simandou Bauxite/Ore Catalyst</button>
+              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(227,179,65,0.1);color:#e3b341;border:1px solid rgba(227,179,65,0.3);" onclick="triggerSignalCopilot('How does a shift in Chinese crude sourcing from the Middle East to Atlantic Basin barrels (Brazil, Guyana, US Gulf) expand VLCC ton-miles and TD3C earnings?')">VLCC Atlantic vs MEG Ton-Mile Geometry</button>
+            </div>
           </div>
 
           <!-- 9b. Global Commodity Prices - Cargo Demand Drivers (World Bank Pink Sheet) -->
@@ -11145,6 +11158,7 @@
     <button class="sq-tab" data-cat="signals">Market Signals</button>
     <button class="sq-tab" data-cat="supply">Fleet Supply</button>
     <button class="sq-tab" data-cat="macro">Macro &amp; Cargo</button>
+    <button class="sq-tab" data-cat="tonmile">Ton-Mile &amp; Trade Flows</button>
     <button class="sq-tab" data-cat="trade">Trade Strategy</button>
   </div>
 
@@ -11185,6 +11199,17 @@
     <button class="sq-q" onclick="sq('What is the long-term ton-mile trajectory for bauxite and minor bulk trades from West Africa to China?')">West Africa bauxite &amp; minor bulk ton-miles</button>
   </div>
 
+  <div class="sq-panel" id="panel-tonmile">
+    <button class="sq-q" onclick="sq('Compare the 3.2x ton-mile multiplier of Brazil-to-China vs Australia-to-China iron ore routes and their impact on Capesize C3 vs C5 freight rates.')">Capesize Brazil vs Australia 3.2x ton-mile multiplier</button>
+    <button class="sq-q" onclick="sq('How does the long-haul bauxite and iron ore corridor from Guinea (Simandou) to China structurally expand Capesize and Newcastlemax ton-mile demand?')">Guinea Simandou bauxite &amp; ore ton-mile expansion</button>
+    <button class="sq-q" onclick="sq('How do Panama Canal draught restrictions and Gatun Lake water levels divert US Gulf grain exports via the Cape of Good Hope, expanding Panamax ton-miles?')">Panama Canal grain reroutings &amp; Panamax ton-miles</button>
+    <button class="sq-q" onclick="sq('What is the impact of Red Sea avoidance and Ukraine Black Sea corridor shifts on Supramax and Ultramax trading routes?')">Red Sea &amp; Black Sea grain route dislocations</button>
+    <button class="sq-q" onclick="sq('How does a shift in Chinese crude sourcing from the Middle East to Atlantic Basin barrels (Brazil, Guyana, US Gulf) expand VLCC ton-miles and TD3C earnings?')">VLCC Atlantic vs MEG crude ton-mile geometry</button>
+    <button class="sq-q" onclick="sq('Quantify the ton-mile demand expansion from Suez Canal avoidance forcing Suezmax and Aframax tankers onto the Cape of Good Hope route.')">Suezmax &amp; Aframax Cape of Good Hope rerouting uplift</button>
+    <button class="sq-q" onclick="sq('How do Ship-to-Ship (STS) crude lightering operations in the Mediterranean and Arabian Gulf tie up active tanker fleet supply?')">STS transfer hubs &amp; tanker fleet supply friction</button>
+    <button class="sq-q" onclick="sq('How do European refinery runs and CPC Black Sea crude export vulnerabilities drive Suezmax TD20 and Aframax freight rates?')">European refinery crude intake &amp; CPC Black Sea risks</button>
+  </div>
+
   <div class="sq-panel" id="panel-trade">
     <button class="sq-q" onclick="sq('What is the current relative-value trade between dry bulk (BDI) and dirty tankers (BDTI)?')">Dry Bulk vs Tankers relative-value skew</button>
     <button class="sq-q" onclick="sq('Which vessel segment (Capesize, Panamax, Supramax, VLCC, Suezmax) offers the most asymmetric risk-reward today?')">Best risk-reward vessel segment today</button>
@@ -11199,7 +11224,24 @@
 
 <script>
 function sq(q) {
-      window.sq = sq; document.getElementById('qaQuery').value = q; runQAQuery(); }
+  window.sq = sq; 
+  const el = document.getElementById('qaQuery');
+  if (el) el.value = q; 
+  if (typeof runQAQuery === 'function') runQAQuery(); 
+}
+window.sq = sq;
+
+function triggerSignalCopilot(q) {
+  const intelNavBtn = document.getElementById('nav-intelligence') || document.querySelector('[data-tab="intelligence"]');
+  if (intelNavBtn) intelNavBtn.click();
+  setTimeout(function() {
+    const el = document.getElementById('qaQuery');
+    if (el) el.value = q;
+    if (typeof runQAQuery === 'function') runQAQuery();
+  }, 120);
+}
+window.triggerSignalCopilot = triggerSignalCopilot;
+
 const intelTabsContainer = document.getElementById('tabs');
 if (intelTabsContainer) {
   intelTabsContainer.addEventListener('click', function(e) {
@@ -27303,12 +27345,12 @@ if (intelTabsContainer) {
       const active = new Set();
 
       // 1. Breakwave & Macro Analyst Narrative
-      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward/i.test(q)) {
+      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting/i.test(q)) {
         active.add('breakwave');
       }
 
       // 2. Baltic Exchange, Spot Rates, Spreads, Chokepoints & Quant Regimes
-      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa/i.test(q)) {
+      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|td20|td25|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa|ton.mile|tonmile|sts|cpc|black sea|cape of good hope/i.test(q)) {
         active.add('baltic');
       }
 
@@ -27318,7 +27360,7 @@ if (intelTabsContainer) {
       }
 
       // 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
-      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|port stock|inventory days|steel margin|bauxite|coal|grain|soybean|export flow/i.test(q)) {
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow/i.test(q)) {
         active.add('ironOre');
       }
 
@@ -27861,6 +27903,52 @@ if (intelTabsContainer) {
           {
             q: "How does secondary market premium/discount arbitrage operate for " + fundUpper + " during severe freight market liquidity dislocations?",
             label: "Premium/Discount arbitrage in volatility"
+          }
+        ],
+        tonmile: [
+          {
+            q: isBwet
+              ? "How does Atlantic Basin crude export growth (US Gulf, Brazil, Guyana \u2192 Asia) in " + dm.m0.shortName + " expand VLCC ton-miles by 2.2x vs short-haul Middle East crude, and what is the BWET NAV sensitivity?"
+              : "How does a shift in Chinese iron ore sourcing from Australia (C5) to Brazil (C3) in " + dm.m0.shortName + " apply a 3.2x ton-mile multiplier to Capesize vessel demand and BDRY NAV?",
+            label: isBwet
+              ? "Atlantic vs MEG 2.2x VLCC ton-mile multiplier & BWET NAV"
+              : "Brazil vs Australia 3.2x Capesize ton-mile multiplier & BDRY NAV"
+          },
+          {
+            q: isBwet
+              ? "If Red Sea / Bab el-Mandeb security avoidance forces Suezmax (TD20) and Aframax tankers around the Cape of Good Hope through " + dm.m2.shortName + ", what is the projected ton-mile uplift and BWET share price target?"
+              : "What is the expected BDRY share price impact if Panama Canal draught restrictions force US Gulf grain shipments around the Cape of Good Hope during " + dm.m1.shortName + " harvest?",
+            label: isBwet
+              ? "Suezmax / Aframax Cape of Good Hope rerouting uplift"
+              : "Panama Canal grain reroutings & Panamax ton-mile impact"
+          },
+          {
+            q: isBwet
+              ? "How do Ship-to-Ship (STS) crude lightering bottlenecks in Fujairah and the Mediterranean absorb active tanker fleet capacity and widen TD3C prompt backwardation?"
+              : "Quantify the structural long-haul ton-mile demand uplift from the Guinea Simandou bauxite and iron ore corridor on Capesize and Newcastlemax 5TC freight rates.",
+            label: isBwet
+              ? "STS lightering hubs & tanker fleet friction in " + dm.m0.shortName
+              : "Guinea Simandou bauxite/ore long-haul ton-mile catalyst"
+          },
+          {
+            q: isBwet
+              ? "How do European refinery crack spreads and CPC Black Sea crude export vulnerabilities in " + dm.m0.shortName + " / " + dm.m1.shortName + " drive Suezmax TD20 and Aframax freight rates?"
+              : "How does the seasonal grain export surge from South America (ECSA) vs US Gulf affect Panamax 4TC and Supramax 10TC ton-mile balance across " + dm.m0.shortName + " through " + dm.m2.shortName + "?",
+            label: isBwet
+              ? "European refinery pull & CPC Black Sea risks"
+              : "ECSA vs US Gulf grain ton-mile balance (" + dm.m0.shortName + " \u2192 " + dm.m2.shortName + ")"
+          },
+          {
+            q: isBwet
+              ? "Compare the ton-mile elasticity of dirty crude tankers (VLCC, Suezmax, Aframax) vs clean product tankers (LR2, MR) under prolonged geopolitical chokepoint disruptions."
+              : "How do bauxite and minor bulk trades from West Africa to China act as a structural multi-year ton-mile floor for geared dry bulk vessels?",
+            label: isBwet
+              ? "Dirty vs Clean Tanker ton-mile elasticity"
+              : "West Africa bauxite multi-year ton-mile floor"
+          },
+          {
+            q: "What specific vessel speed adjustments (slow steaming vs full speed) and port congestion metrics indicate that ton-mile tightening is translating into a physical rate squeeze for " + fundUpper + "?",
+            label: "Slow steaming & fleet speed vs ton-mile squeeze indicators"
           }
         ],
         strategy: [
