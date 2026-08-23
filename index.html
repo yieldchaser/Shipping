@@ -11918,12 +11918,10 @@ if (intelTabsContainer) {
     function parsePDCsv(rows) {
       const out = [];
       for (const row of rows) {
-        const raw = (row['Rate Date'] || '').trim();
+        const raw = (row['Rate Date'] || row['date'] || row['Date'] || row['RateDate'] || '').trim();
         if (!raw) continue;
-        // Date is DD-MM-YYYY format
-        const d = parseDate(raw);
-        // Premium/Discount may have % sign e.g. "0.74%" or plain "-2.92"
-        const pdRaw = (row['Premium/Discount'] || '').trim().replace('%', '');
+        const d = parseDate(raw) || parseDateISO(raw);
+        const pdRaw = (row['Premium/Discount'] || row['premium_discount'] || row['Premium / Discount'] || row['pd'] || '').trim().replace('%', '');
         const pd = parseFloat(pdRaw);
         if (d && !isNaN(d.getTime()) && !isNaN(pd)) {
           out.push({ date: d, pd });
@@ -11937,7 +11935,7 @@ if (intelTabsContainer) {
       var out = [];
       for (var i = 0; i < rows.length; i++) {
         var r = rows[i];
-        var d = parseDateISO(r.date);
+        var d = parseDateISO(r.date) || parseDate(r.date);
         if (d && !isNaN(d.getTime())) {
           out.push({
             date: d,
@@ -14530,23 +14528,27 @@ if (intelTabsContainer) {
       const bdryAll = DATA.bdryPD || [];
       if (!bdryAll.length) return;
       const startEl = document.getElementById('pdRangeStart');
-      if (startEl && !startEl._pdInited) {
-        initDualRangeSlider('pdRange', bdryAll, (isManual) => {
-          if (isManual) {
-            ['1m', '3m', '6m', '1y', '3y', 'all'].forEach(x => {
-              const el = document.getElementById('pdBtn' + x);
-              if (el) el.classList.remove('active');
-            });
-          }
+      if (startEl) {
+        if (!startEl._pdInited) {
+          initDualRangeSlider('pdRange', bdryAll, (isManual) => {
+            if (isManual) {
+              ['1m', '3m', '6m', '1y', '3y', 'all'].forEach(x => {
+                const el = document.getElementById('pdBtn' + x);
+                if (el) el.classList.remove('active');
+              });
+            }
+            renderPDHistoryChart();
+          });
+          // Default to last 1Y
+          const cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - 1);
+          const sIdx = bdryAll.findIndex(r => r.date >= cutoff);
+          startEl.value = sIdx < 0 ? 0 : sIdx;
+          document.getElementById('pdRangeEnd').value = bdryAll.length - 1;
+          startEl._pdInited = true;
+          startEl.dispatchEvent(new Event('input'));
+        } else {
           renderPDHistoryChart();
-        });
-        // Default to last 1Y
-        const cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - 1);
-        const sIdx = bdryAll.findIndex(r => r.date >= cutoff);
-        startEl.value = sIdx < 0 ? 0 : sIdx;
-        document.getElementById('pdRangeEnd').value = bdryAll.length - 1;
-        startEl._pdInited = true;
-        startEl.dispatchEvent(new Event('input'));
+        }
       }
     }
 
@@ -15190,19 +15192,16 @@ if (intelTabsContainer) {
       });
     }
 
-    async function renderETFTab() {
+    function renderETFTab() {
       const grid = document.getElementById('etfGrid');
-      if (grid.dataset.rendered) return;
-      grid.dataset.rendered = '1';
-      grid.innerHTML = '';
-
-      await Promise.all([
-        renderETFCard('BDRY', 'Breakwave Dry Bulk Shipping ETF', DATA.bdryHoldings, 'bdry', grid),
-        renderETFCard('BWET', 'Breakwave Tanker Shipping ETF', DATA.bwetHoldings, 'bwet', grid),
-      ]);
+      if (grid && !grid.children.length) {
+        grid.innerHTML = '';
+        try { renderETFCard('BDRY', 'Breakwave Dry Bulk Shipping ETF', DATA.bdryHoldings, 'bdry', grid); } catch (e) { console.error('[ETFTab BDRY Card]', e); }
+        try { renderETFCard('BWET', 'Breakwave Tanker Shipping ETF', DATA.bwetHoldings, 'bwet', grid); } catch (e) { console.error('[ETFTab BWET Card]', e); }
+      }
 
       // Load BDRY liquidity tracker (async, non-blocking)
-      renderBdryLiquidityTracker();
+      try { renderBdryLiquidityTracker(); } catch (e) { console.error('[ETFTab Liq]', e); }
 
       // P/D history chart
       try { initPDHistoryRange(); } catch (e) { console.error('[ETFTab P/D]', e); }
@@ -15559,13 +15558,39 @@ if (intelTabsContainer) {
     var _quoteVers = {};
     function _nextQuoteVer(ticker) { _quoteVers[ticker] = (_quoteVers[ticker] || 0) + 1; return _quoteVers[ticker]; }
 
-    async function renderETFCard(ticker, name, holdings, etfKey, grid) {
+    // Helper: fall back to last known close from pre-loaded liquidity CSV
+    function liqFallbackHTML(etfKey) {
+      const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+      if (liqRows && liqRows.length) {
+        const last = liqRows[liqRows.length - 1];
+        const price = parseFloat(last.close);
+        const prev = liqRows.length > 1 ? parseFloat(liqRows[liqRows.length - 2].close) : null;
+        let dateStr = last.date || '';
+        const parsedD = parseDateISO(dateStr);
+        if (parsedD) {
+          dateStr = fmtDateUser(parsedD);
+        }
+        if (!isNaN(price)) {
+          let chgHTML = '';
+          if (prev && !isNaN(prev)) {
+            const chgPct = ((price - prev) / prev) * 100;
+            const sign = chgPct >= 0 ? '+' : '';
+            const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+            chgHTML = `<span class="etf-change ${chgCls}">${sign}${chgPct.toFixed(2)}%</span>`;
+          }
+          return `<span class="etf-price" title="Official close (${dateStr})">$${price.toFixed(2)}</span> ${chgHTML}`
+            + `<span style="color:var(--text-muted);font-size:11px;margin-left:6px;" title="Official close from daily dataset">as of ${dateStr}</span>`;
+        }
+      }
+      return '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+    }
+
+    function renderETFCard(ticker, name, holdings, etfKey, grid) {
       const card = document.createElement('div');
       card.className = 'etf-card';
       card.id = `etfCard_${etfKey}`;
       grid.appendChild(card);
 
-      let priceHTML = '<span style="color:var(--text-muted)">Fetching…</span>';
       const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
       let stats52w = { range: '-', pos: '-', posCls: '', trough: '-', troughCls: '' };
       if (liqRows && liqRows.length) {
@@ -15589,118 +15614,26 @@ if (intelTabsContainer) {
         }
       }
 
+      const priceHTML = liqFallbackHTML(etfKey);
       card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w);
-      buildETFDonut(etfKey, holdings);
-      renderETFYearlyPerfTable(etfKey);
-      renderMacroCyclesTable(etfKey, `macroCyclesTable_${etfKey}`, `macroCyclesDlBtn_${etfKey}`);
-      renderETFDrawdownChart(etfKey);
+
+      try { buildETFDonut(etfKey, holdings); } catch (e) { console.error('[Donut]', e); }
+      try { renderETFYearlyPerfTable(etfKey); } catch (e) { console.error('[YearlyPerf]', e); }
+      try { renderMacroCyclesTable(etfKey, `macroCyclesTable_${etfKey}`, `macroCyclesDlBtn_${etfKey}`); } catch (e) { console.error('[MacroCycles]', e); }
+      try { renderETFDrawdownChart(etfKey); } catch (e) { console.error('[Drawdown]', e); }
+
+      // Set initial NAV element from liquidity dataset
+      const navEl = card.querySelector(`#etfNav_${etfKey}`);
+      if (navEl && liqRows && liqRows.length) {
+        const lastClose = parseFloat(liqRows[liqRows.length - 1].close);
+        if (!isNaN(lastClose)) navEl.textContent = '$' + lastClose.toFixed(2);
+      }
 
       // Wire CSV download buttons (CHANGE 8)
       const dlBtn = card.querySelector(`.etf-dl-btn`);
       if (dlBtn) {
         dlBtn.addEventListener('click', () => downloadETFHoldings(ticker, etfKey, holdings));
       }
-
-      // Helper: fall back to last known close from pre-loaded liquidity CSV
-      function liqFallbackHTML(etfKey) {
-        const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
-        if (liqRows && liqRows.length) {
-          const last = liqRows[liqRows.length - 1];
-          const price = parseFloat(last.close);
-          const dateStr = last.date || '';
-          if (!isNaN(price)) {
-            return `<span class="etf-price" title="Last known close (${dateStr}) - live feed unavailable">$${price.toFixed(2)}</span>`
-              + `<span style="color:var(--text-muted);font-size:11px;margin-left:6px;" title="Sourced from local CSV, not live">as of ${dateStr}</span>`;
-          }
-        }
-        return '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
-      }
-
-      try {
-        const qVer = _nextQuoteVer(ticker);
-        const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
-        // Try multiple CORS proxies in sequence for reliability
-        const proxyFns = [
-          u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
-          u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
-          u => `https://thingproxy.freeboard.io/fetch/${u}`,
-          u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
-        ];
-        let meta = null;
-        for (const makeProxy of proxyFns) {
-          try {
-            const proxyUrl = makeProxy(yahooUrl);
-            const resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(8000) });
-            if (!resp.ok) continue;
-            const text = await resp.text();
-            // allorigins wraps in {contents:...}; others return raw JSON
-            let parsed;
-            try {
-              const wrapper = JSON.parse(text);
-              parsed = (wrapper.contents) ? JSON.parse(wrapper.contents) : wrapper;
-            } catch { continue; }
-            const r = parsed?.chart?.result?.[0]?.meta;
-            if (r && r.regularMarketPrice != null) { meta = r; break; }
-          } catch { continue; }
-        }
-        if (meta) {
-          if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
-          const price = meta.regularMarketPrice;
-          const chgPct = meta.regularMarketChangePercent;
-          const sign = chgPct >= 0 ? '+' : '';
-          const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
-          priceHTML = `
-        <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '-'}</span>
-        <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : '—'}</span>`;
-
-          // Update 52W stats with live price
-          if (liqRows && liqRows.length) {
-            const prices = liqRows.map(r => parseFloat(r.close)).filter(v => !isNaN(v));
-            const vals52w = prices.slice(-252);
-            const wHigh = Math.max(...vals52w, price);
-            const wLow = Math.min(...vals52w, price);
-            const pos = (wHigh > wLow) ? ((price - wLow) / (wHigh - wLow) * 100) : 50;
-            const vals365 = prices.slice(-365);
-            const trough = Math.min(...vals365, price);
-            const troughPct = ((price - trough) / trough * 100);
-
-            const rangeEl = card.querySelector(`#etfW52Range_${etfKey}`);
-            const posEl = card.querySelector(`#etfW52Pos_${etfKey}`);
-            const troughEl = card.querySelector(`#etfTrough_${etfKey}`);
-
-            if (rangeEl) rangeEl.textContent = `${fmt(wHigh, 2)} - ${fmt(wLow, 2)}`;
-            if (posEl) {
-              posEl.textContent = pos.toFixed(1) + '%';
-              posEl.className = 'etf-metric-value etf-w52-pos ' + (pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'));
-            }
-            if (troughEl) {
-              troughEl.textContent = (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%';
-              troughEl.className = 'etf-metric-value etf-trough ' + (troughPct >= 0 ? 'val-green' : 'val-red');
-            }
-          }
-        } else {
-          if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
-          priceHTML = liqFallbackHTML(etfKey);
-        }
-        const navEl = card.querySelector(`#etfNav_${etfKey}`);
-        if (navEl) {
-          let nav = null;
-          if (meta) {
-            nav = meta.navPrice ?? meta.regularMarketPrice;
-          } else {
-            const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
-            if (liqRows && liqRows.length) {
-              nav = parseFloat(liqRows[liqRows.length - 1].close);
-            }
-          }
-          navEl.textContent = nav != null ? '$' + nav.toFixed(2) : '-';
-        }
-      } catch (e) {
-        priceHTML = liqFallbackHTML(etfKey);
-      }
-
-      const priceEl = card.querySelector('.etf-price-row');
-      if (priceEl && _quoteVers[ticker] === qVer) priceEl.innerHTML = priceHTML;
     }
 
     // =====================================================================
@@ -15723,7 +15656,7 @@ if (intelTabsContainer) {
       for (const makeProxy of proxyFns) {
         try {
           var proxyUrl = makeProxy(yahooUrl);
-          var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(6000) });
+          var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(3000) });
           if (!resp.ok) continue;
           var text = await resp.text();
           var parsed;
@@ -15736,8 +15669,13 @@ if (intelTabsContainer) {
         } catch { continue; }
       }
 
+      if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
+
+      var priceRow = document.getElementById(`etfPriceRow_${etfKey}`);
+      var badge = document.getElementById(`etfLiveBadge_${etfKey}`);
+      var card = document.getElementById(`etfCard_${etfKey}`);
+
       if (meta && meta.regularMarketPrice != null) {
-        if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
         var price = meta.regularMarketPrice;
         var chgPct = meta.regularMarketChangePercent;
         var sign = chgPct >= 0 ? '+' : '';
@@ -15745,24 +15683,29 @@ if (intelTabsContainer) {
         var chgTxt = chgPct != null ? sign + chgPct.toFixed(2) + '%' : '—';
         var nowStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
 
-        // Update big price card
-        var priceRow = document.getElementById(`etfPriceRow_${etfKey}`);
         if (priceRow) {
           priceRow.innerHTML = `
             <span class="etf-price">$${price.toFixed(2)}</span>
             <span class="etf-change ${chgCls}">${chgTxt}</span>`;
         }
 
-        // Update live badge timestamp
-        var badge = document.getElementById(`etfLiveBadge_${etfKey}`);
         if (badge) {
-          badge.textContent = ` LIVE ${nowStr}`;
+          badge.textContent = `● LIVE ${nowStr}`;
+          badge.style.display = 'inline-block';
+          badge.style.color = '#3fb950';
+          badge.style.background = 'rgba(63,185,80,0.15)';
           badge.setAttribute('data-tooltip', `Live price auto-updated at ${nowStr}. Refreshes every 5 minutes.`);
+        }
+
+        var navEl = card ? card.querySelector(`#etfNav_${etfKey}`) : null;
+        if (navEl) {
+          const nav = meta.navPrice ?? meta.regularMarketPrice;
+          if (nav != null) navEl.textContent = '$' + Number(nav).toFixed(2);
         }
 
         // Update 52W metrics with live price
         var liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
-        if (liqRows && liqRows.length) {
+        if (liqRows && liqRows.length && card) {
           var prices = liqRows.map(r => parseFloat(r.close)).filter(v => !isNaN(v));
           var vals52w = prices.slice(-252);
           var wHigh = Math.max(...vals52w, price);
@@ -15772,26 +15715,28 @@ if (intelTabsContainer) {
           var trough = Math.min(...vals365, price);
           var troughPct = ((price - trough) / trough * 100);
 
-          var card = document.getElementById(`etfCard_${etfKey}`);
-          if (card) {
-            var rangeEl = card.querySelector(`#etfW52Range_${etfKey}`);
-            var posEl = card.querySelector(`#etfW52Pos_${etfKey}`);
-            var troughEl = card.querySelector(`#etfTrough_${etfKey}`);
-            if (rangeEl) rangeEl.textContent = `${fmt(wHigh, 2)} - ${fmt(wLow, 2)}`;
-            if (posEl) {
-              posEl.textContent = pos.toFixed(1) + '%';
-              posEl.className = 'etf-metric-value etf-w52-pos ' + (pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'));
-            }
-            if (troughEl) {
-              troughEl.textContent = (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%';
-              troughEl.className = 'etf-metric-value etf-trough ' + (troughPct >= 0 ? 'val-green' : 'val-red');
-            }
+          var rangeEl = card.querySelector(`#etfW52Range_${etfKey}`);
+          var posEl = card.querySelector(`#etfW52Pos_${etfKey}`);
+          var troughEl = card.querySelector(`#etfTrough_${etfKey}`);
+          if (rangeEl) rangeEl.textContent = `${fmt(wHigh, 2)} - ${fmt(wLow, 2)}`;
+          if (posEl) {
+            posEl.textContent = pos.toFixed(1) + '%';
+            posEl.className = 'etf-metric-value etf-w52-pos ' + (pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'));
+          }
+          if (troughEl) {
+            troughEl.textContent = (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%';
+            troughEl.className = 'etf-metric-value etf-trough ' + (troughPct >= 0 ? 'val-green' : 'val-red');
           }
         }
 
         // Synchronize with Deconstruction Engine if active
         if (typeof renderETFDeconstructionEngine === 'function') {
-          renderETFDeconstructionEngine();
+          try { renderETFDeconstructionEngine(); } catch (e) {}
+        }
+      } else {
+        // Fallback to local close if priceRow is still showing Fetching
+        if (priceRow && (!priceRow.textContent || priceRow.textContent.includes('Fetching') || priceRow.textContent.includes('unavailable'))) {
+          priceRow.innerHTML = liqFallbackHTML(etfKey);
         }
       }
     }
@@ -16031,8 +15976,8 @@ if (intelTabsContainer) {
         'BDRY — Breakwave Dry Bulk Shipping ETF. Holds near-dated FFA futures weighted: 50% Capesize 5TC (180K DWT, iron ore & coal routes), 40% Panamax 5TC (82K DWT, grain & coal), 10% Supramax 58TC. Contracts roll quarterly. NAV tracks the Solactive Baltic Exchange Dry Bulk Shipping Index. The only US-listed pure-play dry bulk ETF.' :
         'BWET — Breakwave Tanker Shipping ETF. The world’s first crude oil tanker ETF. Portfolio: 90% TD3C VLCC futures (270K MT, Middle East Gulf → China, the “Dow Jones of tanker markets”) + 10% TD20 Suezmax futures (130K MT, West Africa → UK-Continent). Targets 50–90 day average contract maturity. NAV tracks the Breakwave Wet Freight Futures Index.'
       }">${ticker}</div>
-      <div class="etf-name">${name}</div>
-      <div class="etf-price-row">${priceHTML}</div>
+      <div class="etf-name">${name} <span id="etfLiveBadge_${etfKey}" class="etf-live-badge" style="font-size:10px;font-weight:700;padding:2px 6px;border-radius:6px;background:rgba(255,255,255,0.06);color:var(--text-muted);margin-left:6px;display:none;"></span></div>
+      <div class="etf-price-row" id="etfPriceRow_${etfKey}">${priceHTML}</div>
     </div>
     <div style="font-size:11px;color:var(--text-muted);padding:4px 0;margin-bottom:12px;" data-tooltip="Futures Exposure Ratio = total notional value of FFA positions / total fund cash. A ratio near 100% = fully replicated. Above 100% = leveraged. BDRY and BWET typically target ~100% replication with no leverage.">
       Futures Exposure: <span style="color:var(--text);font-weight:600;">${leverageStr}</span>
