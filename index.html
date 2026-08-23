@@ -11058,8 +11058,8 @@
         <div class="mhr-wrap">
           <div class="mhr-header">
             <div data-tt-type="macro-health-radar-gauge" style="cursor:help;display:inline-block;">
-              <div class="mhr-title">Shipping Macro Health Score</div>
-              <div class="mhr-subtitle">5-pillar composite — 0–100 pts · Computed from live CSV data</div>
+              <div class="mhr-title">Shipping Macro Heat Score</div>
+              <div class="mhr-subtitle">5-pillar cycle-heat composite · contrarian at extremes · 0–100 pts</div>
             </div>
             <div id="mhrRegimeBadge" class="mhr-regime-badge mhr-mid">—</div>
           </div>
@@ -24508,32 +24508,32 @@ if (intelTabsContainer) {
       'Freight Momentum': {
         shortLabel: 'Freight Momentum',
         radarLabel: ['Freight', 'Momentum'],
-        desc: 'BDI 30-day rate-of-change vs its 90-day rolling average. Measures whether freight rates are accelerating above their medium-term trend.',
-        signals: ['≥20/20 — BDI > 90D MA & ROC > +5%: Strong trend continuation', '16/20 — BDI > MA & ROC > 0%: Mild uptrend', '12/20 — BDI above MA, flat ROC: Sideways above trend', '8/20 — ROC positive but below MA: Early recovery', '4/20 — ROC between −5% and 0%: Mild pullback', '0/20 — ROC < −5%: Momentum breakdown']
+        desc: 'Graded blend of BDI gap vs its 90-day average and 30-day rate-of-change. Continuous scoring — no cliff steps. Note: extreme momentum readings have historically preceded BDI pullbacks (mean-reverting cycle).',
+        signals: ['~20/20 — Deep above MA with strong ROC: maximum heat (reversal watch)', '~17/20 — Above MA, solid ROC: strong trend', '~13-15/20 — Modestly above MA: mild uptrend', '~10/20 — Near MA, flat ROC: neutral drift', '~6-8/20 — Below MA but positive ROC: early repair', '~0-4/20 — Below MA and falling: capitulation zone (historically bullish fwd)']
       },
       'Term Structure Slope': {
         shortLabel: 'Term Structure',
         radarLabel: ['Term Structure', 'Slope'],
-        desc: 'Capesize near-term (4–6M avg) vs long-term (2Y avg) charter rate spread. Backwardation (near > far) is structurally bullish; contango (near < far) signals oversupply expectations.',
-        signals: ['≥20/20 — Spread > +15%: Strong backwardation (bullish)', '16/20 — Spread > +5%: Mild backwardation', '12/20 — Spread 0–5%: Near flat / neutral curve', '6/20 — Spread −10% to 0%: Mild contango', '2/20 — Spread < −10%: Steep contango (bearish oversupply)']
+        desc: 'Capesize near-term (4–6M avg) vs long-term (2Y avg) charter spread, mapped continuously from −15% contango to +15% backwardation. Steep backwardation = late-cycle heat; contango = oversupply expectations.',
+        signals: ['~20/20 — Spread ≥ +15%: extreme backwardation (late-cycle)', '~15/20 — +5–15%: mild backwardation', '~11/20 — Flat curve: neutral', '~7/20 — −5–0%: mild contango', '~2/20 — ≤ −15%: steep contango (deep distress pricing)']
       },
       'Futures Basis Arb': {
         shortLabel: 'Futures Basis',
         radarLabel: ['Futures Basis', 'Arb'],
-        desc: 'BDI spot vs BDRYFF front-month futures basis. Positive basis (spot > futures) = backwardation = roll yield harvesting opportunity. Negative basis = contango drag.',
-        signals: ['20/20 — Basis > +10%: Strong backwardation / roll premium', '16/20 — Basis +4–10%: Mild roll yield', '12/20 — Basis 0–4%: Near flat carry', '7/20 — Basis −5–0%: Mild contango drag', '3/20 — Basis −15–−5%: Significant carry cost', '0/20 — Basis < −15%: Severe contango penalty']
+        desc: 'BDI spot vs BDRYFF front-month basis, mapped continuously from −15% futures premium to +10% spot premium. Strong spot premium has historically been the strongest single reversal signal in the composite.',
+        signals: ['~20/20 — Basis ≥ +10%: extreme spot premium (peak heat)', '~15/20 — +4–10%: elevated', '~11/20 — Flat basis: balanced carry', '~4.5/20 — −5–0%: mild futures premium', '~0/20 — ≤ −15%: deep futures discount (panic hedging, historically a floor)']
       },
       'Port Restocking': {
         shortLabel: 'Port Restocking',
         radarLabel: ['Port', 'Restocking'],
-        desc: 'Chinese iron ore port inventories (Mt). Low inventory → urgent restocking → surging Capesize demand. High inventory → demand saturation → rate suppression.',
-        signals: ['20/20 — < 110 Mt: Critically low, restocking urgency', '17/20 — 110–125 Mt: Below comfort, demand pull positive', '13/20 — 125–140 Mt: Balanced inventory', '8/20 — 140–155 Mt: Adequate, mild demand headwind', '4/20 — 155–170 Mt: High inventory, bearish demand', '1/20 — > 170 Mt: Oversupplied, rate suppressive']
+        desc: 'Chinese iron ore port inventories ranked as an inverted percentile of their own expanding history (min 126 obs, cap 1260). Self-calibrating against structural port-capacity growth — low percentile = restocking urgency.',
+        signals: ['~20/20 — ≤5th pct: critically low vs own history', '~16/20 — ~25th pct: below comfort', '~12/20 — median: balanced', '~7/20 — ~75th pct: ample stocks', '~2.5/20 — ≥95th pct: oversupplied vs capacity']
       },
-      'Asset Cycle Safety': {
-        shortLabel: 'Asset Safety',
-        radarLabel: ['Asset Cycle', 'Safety'],
-        desc: 'Capesize S&P value vs scrap value margin of safety. Measures distance from distressed asset pricing. Sweet spot (25–40% margin) = value entry zone with downside protection.',
-        signals: ['20/20 — Margin 25–40%: Sweet spot — value + upside', '15/20 — Margin 40–55%: Defensive floor pricing', '12/20 — Margin 15–25%: Approaching fair value', '10/20 — Margin > 55%: Deep asset depression', '6/20 — Margin 5–15%: Market overheating', '2/20 — Margin < 5%: Bubble territory — extreme caution']
+      'Asset Cycle Heat': {
+        shortLabel: 'Asset Heat',
+        radarLabel: ['Asset Cycle', 'Heat'],
+        desc: 'Capesize 10Y S&P value vs scrap-floor margin, tent-mapped through its expanding percentile. Peak score when margins sit mid-history (value zone); stretched margins (assets far above scrap) score low as late-cycle heat.',
+        signals: ['~20/20 — Margin ~median of history: sweet-spot valuation', '~14-17/20 — Slightly rich/cheap vs history', '~10/20 — Approaching extremes', '~5/20 — Margin ≥95th pct: assets extremely stretched vs scrap', '~6/20 — Margin ≤5th pct: distress pricing, scrap-floor support']
       }
     };
 
@@ -24851,35 +24851,37 @@ if (intelTabsContainer) {
         const strongest = pillars.slice().sort((a, b) => (b.score / b.max) - (a.score / a.max))[0];
 
         if (total >= 75) {
-          // Super-Cycle Expansion (75-100 pts) — Backtest 3M Win Rate: 59.8% - 100%
+          // Overheated - Reversal Risk (>=75 pts) — Backtest fwd 3M BDI: -23.8% avg, 10% win rate (81 days)
           plays = [
-            { tag: 'Super-Cycle Mandate', title: 'Overweight Physical ETF Exposure', note: 'Aggressive beta accumulation across BDRY & BWET. Spot BDI > 90D MA with positive roll yield confirms macro expansion.', accent: '#3fb950' },
-            { tag: 'Carry Harvesting',    title: 'Exploit Backwardation & Roll Yield', note: 'Prompt freight trades at a structural premium. Roll yield is positive across front-month contracts; harvest contango-free carry.', accent: '#3fb950' },
-            { tag: 'Conviction Trade',    title: 'Long Capesize Front-Quarter FFA', note: 'Term structure slope and spot momentum confirm cargo tightness. Macro anchor: ' + strongest.label + ' (' + strongest.score + '/' + strongest.max + ').', accent: '#58a6ff' }
+            { tag: 'Cycle-Top Discipline', title: 'Trim Beta Into Strength', note: 'Composite heat is at reversal-risk extremes. Since 2018 this band preceded a -23.8% average 3M BDI drawdown (10% win rate). Reduce ETF/FFA longs on strength rather than adding.', accent: '#f85149' },
+            { tag: 'Defensive Carry',      title: 'Harvest Backwardation Without Direction', note: 'Prompt freight trades at extreme premiums. Express caution via covered TC cover or selling forward strength — not by chasing spot beta.', accent: '#e3b341' },
+            { tag: 'Invalidation Level',   title: 'Re-Rate Bullish Only Above Prior Highs', note: 'Weakest pillar: ' + weakest.label + ' (' + weakest.score + '/' + weakest.max + '). Only re-rate bullish if breadth improves while the composite holds above 75.', accent: '#f85149' }
           ];
         } else if (total >= 60) {
-          // Constructive Expansion (60-74 pts) — Backtest 3M Avg Return: +23.4%, Win Rate: 62.2%
+          // Late-Cycle Strength (60-74) — Backtest fwd 3M BDI: -5.3% avg, 38% win rate (387 days)
           plays = [
-            { tag: 'Constructive Bias',   title: 'Overweight Momentum with Trailing Stops', note: 'Freight momentum and term structure are active (' + strongest.label + ': ' + strongest.score + '/' + strongest.max + '). Historical 3M forward win rate is 62.2%.', accent: '#58a6ff' },
-            { tag: 'Macro Governor',      title: 'Monitor ' + weakest.label + ' Bottleneck', note: 'Current governor: ' + weakest.label + ' at ' + weakest.score + '/' + weakest.max + ' pts. Upside is gated until this constraint unlocks.', accent: '#e3b341' },
-            { tag: 'Tactical Execution',  title: 'Front-Month Roll Management', note: 'Maintain tactical long positions; enforce a 20-day EMA trailing stop to protect against sudden spot pullbacks.', accent: '#58a6ff' }
+            { tag: 'Late-Cycle Bias',     title: 'Hold Cores With Trailing Stops', note: 'Momentum is strong but the cycle is late: this band averaged -5.3% fwd 3M BDI (38% win) since 2018. Run winners with a 20-day EMA trailing stop; sell rips, do not chase.', accent: '#e3b341' },
+            { tag: 'Risk Governor',       title: 'Watch ' + weakest.label + ' Bottleneck', note: 'Current governor: ' + weakest.label + ' at ' + weakest.score + '/' + weakest.max + '. Deterioration here historically led the index down into the mid-cycle band.', accent: '#e3b341' },
+            { tag: 'Hedge Execution',     title: 'Own Crash Protection While It Is Cheap', note: 'FFA puts / put spreads remain reasonably priced before heat peaks. Rolling hedges here beats hedging after the top band prints.', accent: '#58a6ff' }
           ];
         } else if (total >= 45) {
-          // Balanced Mid-Cycle (45-59 pts) — Backtest 3M Avg Return: -0.04%, Win Rate: 44.8%
+          // Mid-Cycle Equilibrium (45-59) — Backtest fwd 3M BDI: +8.8% avg, 44% win rate (736 days)
           plays = [
-            { tag: 'Balance Sheet',       title: 'Equal-Weight Dry Bulk / Tanker Parity', note: 'Hold 50/50 BDRY/BWET allocation. Symmetrical market posture — monitor for breakout above 60 or breakdown below 45.', accent: '#e3b341' },
+            { tag: 'Balance Sheet',       title: 'Equal-Weight Dry Bulk / Tanker Parity', note: 'Hold 50/50 BDRY/BWET allocation. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018 — constructive but rangebound. Monitor for breakout above 60 (late-cycle) or breakdown below 45 (value).', accent: '#58a6ff' },
             { tag: 'Basis Watch',         title: 'Monitor Futures Basis Roll Drag', note: 'Neutral basis signals flat carry. Avoid speculative ETF overweights while roll cost is non-accretive.', accent: '#e3b341' },
-            { tag: 'Risk Management',     title: 'Mean-Reversion Tactical Trimming', note: 'Rangebound market conditions dominate. Trim long exposure on strength towards 58; re-accumulate near 45 support.', accent: '#f85149' }
+            { tag: 'Accumulation Ladder', title: 'Scale In Toward The Trough Band', note: 'Historically the highest-quality entries occurred as the composite fell below 45. Ladder limit orders under the band rather than waiting for the print.', accent: '#3fb950' }
           ];
         } else {
-          // Contraction / Trough (< 45 pts) — Deep Distress / High Physical Rebound Opportunity
+          // Trough - Accumulation Zone (<45) — Backtest fwd 3M BDI: +34.7% avg, 70% win rate (780 days)
           plays = [
-            { tag: 'Defensive Value',     title: 'Accumulate Near Scrap Value Floor', note: 'Capesize S&P valuations near scrap floor provide high margin of safety. Deep value entry zone for long-term capital.', accent: '#f85149' },
-            { tag: 'Vol Harvesting',       title: 'Sell Implied Vol via Covered TC', note: 'High cyclical volatility in troughs = sell forward time-charter contracts above depressed spot to harvest risk premium.', accent: '#e3b341' },
-            { tag: 'Catalyst Watch',      title: 'Inventory-Led Restocking Reversal', note: 'Watch weekly Chinese port inventory draws and FFA basis inflection for the primary cycle bottom trigger.', accent: '#3fb950' }
+            { tag: 'Generational Value',  title: 'Accumulate Near Scrap Value Floor', note: 'Deep trough readings preceded +34.7% average fwd 3M BDI with a 70% win rate since 2018. Capesize S&P values near scrap floors provide asymmetric entry for patient capital.', accent: '#3fb950' },
+            { tag: 'Vol Harvesting',      title: 'Sell Implied Vol via Covered TC', note: 'Cyclical volatility peaks in troughs; sell forward time-charter contracts above depressed spot to harvest risk premium while owning the rebound.', accent: '#3fb950' },
+            { tag: 'Confirmation Watch',  title: 'Inventory-Led Restocking Trigger', note: 'Watch weekly Chinese port inventory percentile draws and FFA basis inflection — the strongest historical bottom confirmations.', accent: '#e3b341' }
           ];
         }
-        const regimeCls = total >= 75 ? 'bull' : total >= 60 ? 'constructive' : total >= 45 ? 'mid' : 'bear';
+        // Tooltip keys follow the v2 contrarian mapping: high heat = 'bear'
+        // (reversal risk), trough = 'bull' (accumulation zone)
+        const regimeCls = total >= 75 ? 'bear' : total >= 60 ? 'mid' : total >= 45 ? 'constructive' : 'bull';
         playbookEl.innerHTML = plays.map((p, idx) =>
           '<div class="mhr-pb-card" data-tt-type="macro-playbook-card" data-tt-regime="' + regimeCls + '" data-tt-play-idx="' + idx + '">' +
             '<div class="mhr-pb-card-label" style="color:' + p.accent + '">' + p.tag + '</div>' +
@@ -24891,8 +24893,70 @@ if (intelTabsContainer) {
     }
 
     /**
-     * Compute the 5-pillar Macro Health Score (0–100) from real DATA fields.
-     * Supports optional targetDate timestamp for historical point-in-time calculation.
+     * Piecewise-linear interpolation through [x, score] anchors (clipped).
+     * Shared by all graded pillar transforms.
+     */
+    function _pillarLinMap(x, anchors) {
+      if (x == null || isNaN(x)) return null;
+      if (x <= anchors[0][0]) return anchors[0][1];
+      for (let i = 1; i < anchors.length; i++) {
+        if (x <= anchors[i][0]) {
+          const x0 = anchors[i - 1][0], y0 = anchors[i - 1][1];
+          const x1 = anchors[i][0], y1 = anchors[i][1];
+          return y0 + (y1 - y0) * ((x - x0) / (x1 - x0));
+        }
+      }
+      return anchors[anchors.length - 1][1];
+    }
+
+    const _PCTL_MIN_OBS = 126;
+    const _PCTL_MAX_OBS = 1260;
+
+    /**
+     * Percentile rank of cur within the strictly-past observation window.
+     * Returns null when fewer than _PCTL_MIN_OBS observations exist
+     * (caller falls back to warm-up scoring).
+     */
+    function _pillarPercentile(priorVals, cur) {
+      if (!priorVals || priorVals.length < _PCTL_MIN_OBS || cur == null || isNaN(cur)) return null;
+      const w = priorVals.length > _PCTL_MAX_OBS ? priorVals.slice(priorVals.length - _PCTL_MAX_OBS) : priorVals;
+      let le = 0;
+      for (let i = 0; i < w.length; i++) if (w[i] <= cur) le++;
+      return le / w.length;
+    }
+
+    /**
+     * Cape S&P-vs-scrap margin history, paired point-in-time: each valuation
+     * matched against the latest scrap print on/before its own date.
+     * Memoized on DATA (inputs are static per page load).
+     */
+    function _capeMarginSeries() {
+      if (DATA._capeMarginPts) return DATA._capeMarginPts;
+      const scrap = (DATA.scrappagePrices || [])
+        .filter(r => r.dry_india != null && parseDateISO(r.date))
+        .map(r => ({ t: parseDateISO(r.date).getTime(), v: r.dry_india }))
+        .sort((a, b) => a.t - b.t);
+      const vals = (DATA.vesselValuations || [])
+        .filter(r => r.category === 'S&P' && r.tenor_type === 'DRY-10' && r.vessel_class === 'Capesize' && r.valuation_usd_m != null && parseDateISO(r.date))
+        .map(r => ({ t: parseDateISO(r.date).getTime(), sp: r.valuation_usd_m }))
+        .sort((a, b) => a.t - b.t);
+      const pts = [];
+      let ptr = 0, lastScrap = null;
+      for (const vr of vals) {
+        while (ptr < scrap.length && scrap[ptr].t <= vr.t) { lastScrap = scrap[ptr].v; ptr++; }
+        if (lastScrap != null && lastScrap > 0 && vr.sp > 0) {
+          pts.push({ t: vr.t, m: ((vr.sp - lastScrap * 17000 / 1e6) / vr.sp) * 100 });
+        }
+      }
+      return (DATA._capeMarginPts = pts);
+    }
+
+    /**
+     * Compute the 5-pillar Macro Heat Score (0–100) from real DATA fields.
+     * v2 evidence-based engine: graded pillar transforms + self-calibrating
+     * percentiles; regimes labelled by realized forward returns (freight is a
+     * strongly mean-reverting cycle, so high heat = elevated reversal risk).
+     * Supports optional targetDate timestamp for historical point-in-time calc.
      * Returns { total, pillars: [{label, score, max, detail}], regime, cls }
      */
     function _computeMacroHealthScore(targetDate) {
@@ -24900,7 +24964,7 @@ if (intelTabsContainer) {
       const targetTs = targetDate ? (typeof targetDate.getTime === 'function' ? targetDate.getTime() : new Date(targetDate).getTime()) : Infinity;
 
       // ── Pillar 1: Freight Momentum Score (0–20) ────────────────────────────
-      // BDI 30D ROC vs its own 90D rolling average
+      // Graded blend: BDI gap vs 90D MA + 30D ROC (continuous, no cliffs)
       (function() {
         const allBdi = getRows('bdiy').filter(r => r.date && r.date.getTime() <= targetTs);
         const vals = allBdi.map(r => r.bdiy);
@@ -24914,13 +24978,9 @@ if (intelTabsContainer) {
           const roc30  = (v30 != null && v30 > 0) ? ((cur - v30) / v30) * 100 : 0;
           const maGapPct = ma90 > 0 ? ((cur - ma90) / ma90) * 100 : 0;
           if (cur != null && ma90 != null && roc30 != null) {
-            if (cur > ma90 && roc30 > 5)       score = 20;
-            else if (cur > ma90 && roc30 > 0)  score = 16;
-            else if (cur > ma90)               score = 12;
-            else if (roc30 > 20)               score = 12; // Explosive V-bottom turnaround
-            else if (roc30 > 0)                score = 8;
-            else if (roc30 > -5)               score = 4;
-            else                               score = 0;
+            const f = _pillarLinMap(maGapPct, [[-20, -4], [-5, -2], [0, 0], [2.5, 1.5], [10, 3], [30, 4]]);
+            const g = _pillarLinMap(roc30, [[-20, -6], [-5, -3], [0, -1.5], [2.5, 0.5], [5, 2], [20, 4]]);
+            score = Math.round(Math.min(20, Math.max(0, 10 + f + g)) * 10) / 10;
             detail = 'BDI ' + Math.round(cur).toLocaleString() + ' vs 90D MA ' + Math.round(ma90).toLocaleString() + ' (' + (maGapPct >= 0 ? '+' : '') + maGapPct.toFixed(1) + '%) · 30D ROC: ' + (roc30 >= 0 ? '+' : '') + roc30.toFixed(1) + '%';
           }
         }
@@ -24928,7 +24988,7 @@ if (intelTabsContainer) {
       })();
 
       // ── Pillar 2: Term Structure Slope Score (0–20) ────────────────────────
-      // Capesize 4-6M avg vs 2Y avg spread from timeCharterRates
+      // Capesize 4-6M vs 2Y TC spread — continuous map, backwardation > contango
       (function() {
         let score = 10;
         let detail = '';
@@ -24943,11 +25003,8 @@ if (intelTabsContainer) {
           if (nearTerm != null && longTerm != null && longTerm > 0) {
             const spread = nearTerm - longTerm;
             const spreadPct = (spread / longTerm) * 100;
-            if (spreadPct > 15)       score = 20;  // strong backwardation — bullish
-            else if (spreadPct > 5)   score = 16;
-            else if (spreadPct > 0)   score = 12;
-            else if (spreadPct > -10) score = 6;   // mild contango
-            else                      score = 2;   // steep contango — bearish
+            const mapped = _pillarLinMap(spreadPct, [[-15, 2], [-5, 7], [0, 11], [5, 15.5], [15, 20]]);
+            score = Math.round(mapped * 10) / 10;
             detail = 'Cape 4–6M $' + Math.round(nearTerm).toLocaleString() + '/d vs 2Y $' + Math.round(longTerm).toLocaleString() + '/d (' + (spreadPct >= 0 ? '+' : '') + spreadPct.toFixed(1) + '% ' + (spreadPct >= 0 ? 'Backwardation' : 'Contango') + ')';
           }
         }
@@ -24966,12 +25023,8 @@ if (intelTabsContainer) {
           const ffVal   = bdryffRows[bdryffRows.length - 1].bdryff;
           if (spotVal != null && ffVal != null && ffVal > 0) {
             const basisPct = ((spotVal - ffVal) / ffVal) * 100;
-            if (basisPct > 10)        score = 20;
-            else if (basisPct > 4)    score = 16;
-            else if (basisPct > 0)    score = 12;
-            else if (basisPct > -5)   score = 7;
-            else if (basisPct > -15)  score = 3;
-            else                      score = 0;
+            const mapped = _pillarLinMap(basisPct, [[-15, 0], [-5, 4.5], [0, 11], [4, 15], [10, 20]]);
+            score = Math.round(mapped * 10) / 10;
             detail = 'Spot BDI ' + Math.round(spotVal).toLocaleString() + ' vs Futures ' + Math.round(ffVal).toLocaleString() + ' (' + (basisPct >= 0 ? '+' : '') + basisPct.toFixed(1) + '% ' + (basisPct >= 0 ? 'Spot Premium' : 'Futures Premium') + ')';
           }
         }
@@ -24979,7 +25032,8 @@ if (intelTabsContainer) {
       })();
 
       // ── Pillar 4: Port Restocking Dynamics Score (0–20) ────────────────────
-      // Chinese iron ore port inventories_mt (millions of tonnes).
+      // Chinese iron ore port inventories — inverted expanding percentile of the
+      // observation history (self-calibrating against port capacity growth).
       (function() {
         let score = 10;
         let detail = '';
@@ -24991,20 +25045,25 @@ if (intelTabsContainer) {
           const last = ioData[ioData.length - 1];
           if (last && last.inventories_mt != null) {
             const inv = last.inventories_mt;
-            if (inv < 110)        score = 20;
-            else if (inv < 125)   score = 17;
-            else if (inv < 140)   score = 13;
-            else if (inv < 155)   score = 8;
-            else if (inv < 170)   score = 4;
-            else                  score = 1;
-            detail = 'Port Stockpiles: ' + inv.toFixed(1) + ' Mt (' + (inv < 125 ? 'Low Stockpiles / Urgent Pull' : (inv > 150 ? 'High Stockpiles / Demand Saturation' : 'Balanced Inventory')) + ')';
+            const prior = [];
+            for (let i = 0; i < ioData.length - 1; i++) prior.push(ioData[i].inventories_mt);
+            const pr = _pillarPercentile(prior, inv);
+            if (pr == null) {
+              score = inv < 110 ? 20 : inv < 125 ? 17 : inv < 140 ? 13 : inv < 155 ? 8 : inv < 170 ? 4 : 1;
+              detail = 'Port Stockpiles: ' + inv.toFixed(1) + ' Mt (warming up percentile baseline)';
+            } else {
+              score = Math.round(_pillarLinMap(pr, [[0.05, 19.5], [0.25, 16], [0.5, 12], [0.75, 7], [0.95, 2.5]]) * 10) / 10;
+              detail = 'Port Stockpiles: ' + inv.toFixed(1) + ' Mt · ' + Math.round(pr * 100) + 'th pct of own history (' + (pr < 0.3 ? 'Low vs Capacity / Restocking Pull' : (pr > 0.7 ? 'High vs Capacity / Demand Saturation' : 'Balanced Inventory')) + ')';
+            }
           }
         }
         pillars.push({ label: 'Port Restocking', score: score, max: 20, detail: detail });
       })();
 
-      // ── Pillar 5: Asset Cycle Safety Score (0–20) ──────────────────────────
-      // Scrap margin of safety for Capesize: (S&P valuation − scrap value) / S&P valuation
+      // ── Pillar 5: Asset Cycle Heat Score (0–20) ────────────────────────────
+      // Cape S&P-vs-scrap margin percentile tent: peak score when margins sit
+      // mid-history (value zone), low when asset prices are stretched far above
+      // scrap (overheated) or compressed towards it (distress).
       (function() {
         let score = 10;
         let detail = '';
@@ -25028,25 +25087,35 @@ if (intelTabsContainer) {
             const scrapM   = (lastScrap.dry_india * 17000) / 1e6;
             if (spVal > 0 && scrapM > 0) {
               const marginPct = ((spVal - scrapM) / spVal) * 100;
-              if (marginPct >= 25 && marginPct <= 40) score = 20;
-              else if (marginPct > 40 && marginPct <= 55) score = 15;
-              else if (marginPct > 55) score = 10;
-              else if (marginPct >= 15) score = 12;
-              else if (marginPct >= 5)  score = 6;
-              else                      score = 2;
-              detail = '10Y Cape S&P $' + spVal.toFixed(1) + 'M vs Scrap Floor $' + scrapM.toFixed(1) + 'M (' + marginPct.toFixed(1) + '% Margin)';
+              const curT = parseDateISO(lastValRow.date).getTime();
+              const pts = _capeMarginSeries();
+              const prior = [];
+              for (const p of pts) if (p.t < curT) prior.push(p.m);
+              const pr = _pillarPercentile(prior, marginPct);
+              if (pr == null) {
+                score = (marginPct >= 25 && marginPct <= 40) ? 20 : (marginPct > 40 && marginPct <= 55) ? 15 :
+                        marginPct > 55 ? 10 : marginPct >= 15 ? 12 : marginPct >= 5 ? 6 : 2;
+                detail = '10Y Cape S&P $' + spVal.toFixed(1) + 'M vs Scrap Floor $' + scrapM.toFixed(1) + 'M (' + marginPct.toFixed(1) + '% Margin, warming up)';
+              } else {
+                score = Math.round((pr <= 0.5
+                  ? _pillarLinMap(pr, [[0.05, 6], [0.5, 20]])
+                  : _pillarLinMap(pr, [[0.5, 20], [0.95, 5]])) * 10) / 10;
+                detail = '10Y Cape S&P $' + spVal.toFixed(1) + 'M vs Scrap Floor $' + scrapM.toFixed(1) + 'M · Margin ' + Math.round(pr * 100) + 'th pct of own history';
+              }
             }
           }
         }
-        pillars.push({ label: 'Asset Cycle Safety', score: score, max: 20, detail: detail });
+        pillars.push({ label: 'Asset Cycle Heat', score: score, max: 20, detail: detail });
       })();
 
       const total = pillars.reduce((a, p) => a + p.score, 0);
       let regime, cls;
-      if (total >= 75)      { regime = 'Bullish Expansion';          cls = 'mhr-bull'; }
-      else if (total >= 60) { regime = 'Constructive Expansion';     cls = 'mhr-constructive'; }
-      else if (total >= 45) { regime = 'Balanced Mid-Cycle';         cls = 'mhr-mid';  }
-      else                  { regime = 'Contraction / Value Trough'; cls = 'mhr-bear'; }
+      // Regime labels encode realized forward-return evidence (2018-26 backtest):
+      // high composite heat has preceded negative BDI returns and vice versa.
+      if (total >= 75)      { regime = 'Overheated - Reversal Risk';    cls = 'mhr-bear'; }
+      else if (total >= 60) { regime = 'Late-Cycle Strength';           cls = 'mhr-mid'; }
+      else if (total >= 45) { regime = 'Mid-Cycle Equilibrium';         cls = 'mhr-constructive'; }
+      else                  { regime = 'Trough - Accumulation Zone';    cls = 'mhr-bull'; }
 
       return { total, pillars, regime, cls };
     }
@@ -30254,13 +30323,13 @@ if (intelTabsContainer) {
           const blueDot  = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#58a6ff"/></svg>';
           const yellowDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#e3b341"/></svg>';
           const redDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#f85149"/></svg>';
-          html = `<div class="rt-title">Executive Shipping Macro Health Radar</div>`;
+          html = `<div class="rt-title">Executive Macro Heat Radar</div>`;
           html += `<div class="rt-row"><span class="rt-label">Score Range</span><span class="rt-val">0–100 composite index (5 pillars × 20 pts each)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#3fb950">${greenDot}Bullish Super-Cycle Expansion (3M Win Rate: 59.8%–100%)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">60–74</span><span class="rt-val" style="color:#58a6ff">${blueDot}Constructive Expansion (3M Avg Return: +23.4%, 62.2% Win Rate)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">45–59</span><span class="rt-val" style="color:#e3b341">${yellowDot}Balanced Mid-Cycle (3M Avg Return: -0.04%, 44.8% Win Rate)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#f85149">${redDot}Contraction / Value Trough (Floor Accumulation Zone)</span></div>`;
-          html += `<div class="rt-note">Aggregates: Freight Momentum (30D BDI ROC), Term Structure Slope (Cape 4–6M vs 2Y spread), Futures Basis Arbitrage (BDRYFF vs spot), Port Restocking Dynamics (China port inventories), and Asset Cycle Safety (scrap margin of safety).</div>`;
+          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#f85149">${redDot}Overheated — Reversal Risk (fwd 3M BDI avg: −23.8%, 10% win)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">60–74</span><span class="rt-val" style="color:#e3b341">${yellowDot}Late-Cycle Strength (fwd 3M BDI avg: −5.3%, 38% win)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">45–59</span><span class="rt-val" style="color:#58a6ff">${blueDot}Mid-Cycle Equilibrium (fwd 3M BDI avg: +8.8%, 44% win)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#3fb950">${greenDot}Trough — Accumulation Zone (fwd 3M BDI avg: +34.7%, 70% win)</span></div>`;
+          html += `<div class="rt-note">Freight is a strongly mean-reverting cycle: high composite heat has preceded BDI drawdowns, deep troughs preceded rebounds (2018–2026 backtest, 1,984 sessions). Aggregates: Freight Momentum (graded MA-gap + ROC), Term Structure Slope (continuous spread map), Futures Basis (continuous basis map), Port Restocking (inverted expanding percentile), Asset Cycle Heat (margin percentile tent).</div>`;
         }
         else if (type === 'macro-trend-badge') {
           const diffStr = target.getAttribute('data-tt-diff-str') || '→ 0 pts';
@@ -30275,36 +30344,36 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">Score expansion (&gt;0) indicates accelerating freight momentum and tightening forward term structure. Contraction (&lt;0) flags post-peak mean reversion or inventory accumulation headwinds.</div>`;
         }
         else if (type === 'macro-regime-badge') {
-          const regime = target.getAttribute('data-tt-regime') || 'Balanced Mid-Cycle';
+          const regime = target.getAttribute('data-tt-regime') || 'Mid-Cycle Equilibrium';
           const score = target.getAttribute('data-tt-score') || '—';
           const cls = target.getAttribute('data-tt-cls') || 'mhr-mid';
           const color = cls === 'mhr-bull' ? '#3fb950' : cls === 'mhr-constructive' ? '#58a6ff' : cls === 'mhr-mid' ? '#e3b341' : '#f85149';
           const dot = `<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="${color}"/></svg>`;
-          
+
           const REGIME_SPECS = {
-            'mhr-bull': {
+            'mhr-bear': {
               range: '75–100 pts',
-              stance: 'Super-Cycle Overweight & Spot-to-TC Carry Harvesting',
-              backtest: 'Forward 3M: -22.8% (Cycle Peak / Arb Focus) · 1M: -14.6%',
-              desc: 'Freight momentum and term structure backwardation are at cyclical fever pitch. Maximize spot-to-TC arb and roll yield while enforcing trailing stops.'
-            },
-            'mhr-constructive': {
-              range: '60–74 pts',
-              stance: 'Trend Participation with 20D EMA Trailing Stops',
-              backtest: 'Forward 1W: +1.29% | 1M: +0.75% | 3M: +3.72% | 6M: +6.89%',
-              desc: 'Strong freight momentum and active term structure. High win-rate trend continuation environment with positive forward returns across all horizons.'
+              stance: 'Cycle-Top Discipline — Trim Beta, Hedge, Avoid New Longs',
+              backtest: 'Fwd 3M BDI: −23.8% avg · 10% win rate (81 sessions since 2018)',
+              desc: 'Composite heat is at cyclical extremes. Momentum and backwardation peak exactly at cycle tops in a mean-reverting freight market — treat high readings as a reversal-risk gauge, not a buy signal.'
             },
             'mhr-mid': {
-              range: '45–59 pts',
-              stance: 'Symmetric 50/50 Dry/Tanker Parity & Mean-Reversion Trimming',
-              backtest: 'Forward 1W: +0.06% | 1M: +0.14% | 3M: +9.84%',
-              desc: 'Balanced supply-demand fundamentals. Hold equal-weight BDRY/BWET exposure and trim tactically when drifting towards regime boundaries.'
+              range: '60–74 pts',
+              stance: 'Late-Cycle Strength — Hold With Trailing Stops, Sell Rips',
+              backtest: 'Fwd 3M BDI: −5.3% avg · 38% win rate (387 sessions)',
+              desc: 'Strong readings with the cycle already extended. Run winners with tight trailing stops and pre-position hedges; historical forward returns in this band were mildly negative on average.'
             },
-            'mhr-bear': {
+            'mhr-constructive': {
+              range: '45–59 pts',
+              stance: 'Mid-Cycle Equilibrium — Balanced 50/50 Dry/Tanker Parity',
+              backtest: 'Fwd 3M BDI: +8.8% avg · 44% win rate (736 sessions)',
+              desc: 'Balanced supply-demand fundamentals with positive average drift. Hold equal-weight BDRY/BWET exposure; ladder accumulation toward the trough boundary rather than chasing strength.'
+            },
+            'mhr-bull': {
               range: '0–44 pts',
-              stance: 'Scrap Floor Hard-Asset Accumulation & Covered Charters',
-              backtest: 'Forward 1M: +21.7% | 3M: +36.1% | 6M: +54.9% (Generational Rebound)',
-              desc: 'Cyclical distress zone where vessel valuations approach scrap floors. Represents high-conviction asymmetric risk/reward for long-term capital.'
+              stance: 'Trough Accumulation — Scrap-Floor Value & Covered Charters',
+              backtest: 'Fwd 3M BDI: +34.7% avg · 70% win rate (780 sessions)',
+              desc: 'Deep trough zone where vessel valuations approach scrap floors and sentiment capitulates. Historically the highest-conviction asymmetric entry window for long-horizon capital.'
             }
           };
           const spec = REGIME_SPECS[cls] || REGIME_SPECS['mhr-mid'];
@@ -30327,29 +30396,29 @@ if (intelTabsContainer) {
 
           const PILLAR_DESCS = {
             'Freight Momentum': {
-              formula: 'BDI 30D Rate-of-Change vs 90D Rolling Simple Moving Average',
-              driver: 'Measures directional velocity of dry bulk spot earnings across Capesize, Panamax, and Supramax vessels. BDI > 90D MA confirms trend health.',
-              implication: pct >= 70 ? 'Freight rates are surging above medium-term trend — bullish spot momentum.' : pct >= 40 ? 'Rates are fluctuating around trend with moderate momentum.' : 'Negative rate-of-change indicates cyclical cooling or seasonal trough.'
+              formula: 'Graded blend: BDI gap vs 90D SMA + 30D ROC (continuous, no cliff steps)',
+              driver: 'Measures directional velocity of dry bulk spot earnings. In a mean-reverting cycle, extreme momentum readings have historically preceded BDI pullbacks.',
+              implication: pct >= 70 ? 'Maximum cycle heat — freight far above trend with strong ROC; historically a reversal-risk zone rather than a chase signal.' : pct >= 40 ? 'Rates fluctuate around medium-term trend with moderate momentum.' : 'Deep negative momentum marks capitulation territory — historically the strongest forward-return zone.'
             },
             'Term Structure Slope': {
-              formula: 'Capesize 4–6M Time-Charter Rate vs 2-Year Time-Charter Rate Spread',
-              driver: 'Captures physical fleet tightness across prompt vs multi-year charter horizons. Positive spread = Backwardation (cargo urgency); Negative = Contango.',
-              implication: pct >= 70 ? 'Steep backwardation (near-term TC > 2Y) indicates urgent tonnage demand and positive roll yield.' : pct >= 40 ? 'Flat term structure signals balanced fleet supply.' : 'Contango structure indicates fleet overcapacity and forward roll decay drag.'
+              formula: 'Capesize 4–6M vs 2-Year TC spread mapped continuously from −15% contango to +15% backwardation',
+              driver: 'Captures physical fleet tightness across prompt vs multi-year horizons. Steep backwardation = late-cycle heat; deep contango = distress pricing.',
+              implication: pct >= 70 ? 'Extreme backwardation — late-cycle tightness that has historically faded as tonnage supply responds.' : pct >= 40 ? 'Flat term structure signals balanced fleet supply.' : 'Contango structure indicates overcapacity pricing — historically coincided with cycle troughs.'
             },
             'Futures Basis Arb': {
-              formula: 'Contemporaneous Spot BDI vs Prompt Front-Month BDRYFF Futures Spread',
-              driver: 'Evaluates pricing parity between prompt FFA futures and real-world physical spot rates. Spot > Futures provides positive calendar roll accretion.',
-              implication: pct >= 70 ? 'Spot trades at a substantial premium to futures — strong roll carry tailwind.' : pct >= 40 ? 'Neutral basis spread indicates fair pricing across spot and derivatives.' : 'Futures trade at an elevated premium (contango), generating roll drag on long ETF holders.'
+              formula: 'Spot BDI vs prompt BDRYFF basis mapped continuously from −15% to +10%',
+              driver: 'Pricing parity between prompt FFAs and physical spot. The strongest single reversal signal in the composite: extreme spot premiums preceded drawdowns.',
+              implication: pct >= 70 ? 'Large spot premium to futures — peak heat; historically followed by negative forward BDI returns.' : pct >= 40 ? 'Neutral basis spread indicates fair pricing across spot and derivatives.' : 'Futures premium (contango) generates roll drag on long ETF holders but has marked panic-floor zones.'
             },
             'Port Restocking': {
-              formula: 'Chinese Iron Ore Port Inventories (Millions of Tonnes — Mt)',
-              driver: 'Tracks supply cover at major Chinese discharge ports. Low stockpiles (<120 Mt) trigger urgent coastal restocking voyages, spiking Capesize freight demand.',
-              implication: pct >= 70 ? 'Critically low inventories force urgent restocking fixtures — powerful Capesize demand catalyst.' : pct >= 40 ? 'Balanced port inventories satisfy near-term industrial consumption.' : 'Elevated stockpiles (>155 Mt) create demand saturation, muting import urgency.'
+              formula: 'Chinese iron ore port inventories — inverted expanding percentile of own history (min 126 obs, cap 1,260)',
+              driver: 'Self-calibrating stockpile gauge: low percentile vs own capacity-adjusted history triggers urgent restocking voyages; high percentile signals demand saturation.',
+              implication: pct >= 70 ? 'Inventories critically low vs their own history — restocking urgency supports Capesize demand.' : pct >= 40 ? 'Balanced inventories satisfy near-term industrial consumption.' : 'Elevated inventories vs historical norms create demand saturation, muting import urgency.'
             },
-            'Asset Cycle Safety': {
-              formula: '10-Year Capesize S&P Secondhand Valuation vs Indian Subcontinent Scrap Value Floor',
-              driver: 'Calculates the capital preservation margin of safety against intrinsic demolition scrap values. Sweet spot (25–40% margin) offers asymmetric risk/reward.',
-              implication: pct >= 70 ? 'Valuations sit in the optimal sweet spot (25–40% margin to scrap) — high upside with defined floor.' : pct >= 40 ? 'Defensive valuation floor provides capital preservation.' : 'Valuations are either depressed or excessively elevated relative to demolition scrap values.'
+            'Asset Cycle Heat': {
+              formula: 'Cape 10Y S&P-vs-scrap margin percentile tent (peak at mid-history margins)',
+              driver: 'Margin stretched far above its historical middle = assets rich vs intrinsic scrap value (late-cycle); compressed toward scrap = distress floor.',
+              implication: pct >= 70 ? 'Margins near the historical sweet spot — valuation-supported entry zone with defined downside.' : pct >= 40 ? 'Valuations drifting away from the historical margin midpoint.' : 'Margins at historical extremes — either overheated asset pricing or distressed scrap-floor support.'
             }
           };
 
@@ -30373,59 +30442,59 @@ if (intelTabsContainer) {
           const playIdx = parseInt(target.getAttribute('data-tt-play-idx') || '0', 10);
 
           const PLAYBOOK_TOOLTIPS = {
-            bull: [
+            bear: [
               {
-                title: 'Super-Cycle Mandate: Physical ETF Overweight',
-                objective: 'Maximize beta participation during cyclical freight momentum super-surges',
-                rules: 'Overweight BDRY (Dry Bulk) & BWET (Tankers) while BDI spot exceeds 90-day MA and 30-day rate-of-change is accelerating.',
-                metric: 'Freight Momentum > 16/20 pts & BDI 30D ROC > +5%',
-                risk: 'Trail stops at 20-day EMA; monitor Capesize cargo volume velocity.'
+                title: 'Cycle-Top Discipline: Trim Beta Into Strength',
+                objective: 'Reduce directional exposure at reversal-risk extremes',
+                rules: 'Composite heat >= 75 preceded a −23.8% average fwd 3M BDI move with a 10% win rate since 2018. Reduce ETF/FFA longs into strength rather than adding.',
+                metric: 'Composite Score >= 75 pts (Overheated — Reversal Risk band)',
+                risk: 'Do not short outright — late-cycle squeezes can extend; use trailing stops on remaining longs.'
               },
               {
-                title: 'Carry Harvesting: Forward Curve Backwardation Exploitation',
-                objective: 'Capture forward curve backwardation and positive roll carry',
-                rules: 'Lock near-term period time-charters (4–6M) above the forward FFA curve. Monetize positive roll yield while prompt freight trades at a structural premium.',
-                metric: 'Term Structure Slope > 16/20 pts (Cape 4–6M vs 2Y Spread > +5%)',
-                risk: 'Hedge prompt delivery risk if Atlantic vessel ballasting spikes unexpectedly.'
+                title: 'Defensive Carry: Monetize Backwardation Without Direction',
+                objective: 'Harvest prompt premiums while staying directionally light',
+                rules: 'Lock period TC cover or sell forward strength via covered structures; avoid outright spot-beta chasing when the composite prints reversal-risk readings.',
+                metric: 'Term Structure Slope >= 16/20 (Cape 4–6M vs 2Y Spread > +5%)',
+                risk: 'Hedge prompt delivery risk if Atlantic ballasting spikes unexpectedly.'
               },
               {
-                title: 'High-Conviction Flow: Long Front-Quarter FFA Exposure',
-                objective: 'Direct institutional derivatives positioning on seasonal cargo tightness',
-                rules: 'Accumulate front-quarter Capesize 5TC contracts when Chinese port inventories draw down and term structure slope steepens.',
-                metric: 'Port Restocking Urgency + Positive FFA Basis Spread',
-                risk: 'Strict VaR limit; hedge with Panamax short if Cape/Panamax ratio exceeds 2.2x.'
-              }
-            ],
-            constructive: [
-              {
-                title: 'Constructive Momentum: Trend Participation with Trailing Stops',
-                objective: 'Capture positive freight momentum while respecting single-factor bottlenecks',
-                rules: 'Maintain overweight equity/ETF posture. Backtested 3-month forward returns in this regime average +23.4% with a 62.2% win rate.',
-                metric: 'Composite Score 60–74 pts with strong Freight Momentum or Term Structure',
-                risk: 'Enforce a 20-day EMA trailing stop to guard against sharp spot pullbacks.'
-              },
-              {
-                title: 'Governor Bottleneck: Macro Constraint Monitoring',
-                objective: 'Identify and track the single lagging pillar holding the composite below 75',
-                rules: 'Track the weakest pillar (e.g. port inventory or basis) to detect early unlocking catalysts or deteriorating spillover.',
-                metric: 'Weakest Pillar Score (< 10/20 pts)',
-                risk: 'Avoid premature full-leverage deployment before the governor metric inflects.'
-              },
-              {
-                title: 'Roll Management: Front-Month Roll Timing Optimization',
-                objective: 'Optimize futures roll windows to minimize transition friction',
-                rules: 'Stage calendar rolls during prompt spot strength windows to capture favorable roll spreads.',
-                metric: 'BDRYFF Prompt Basis Spread vs Spot BDI',
-                risk: 'Shift roll window forward if front-month basis abruptly compresses.'
+                title: 'Invalidation Watch: What Would Re-Rate Bullish',
+                objective: 'Define the evidence that would override the reversal-risk stance',
+                rules: 'Only re-rate bullish if breadth improves (weakest pillar inflects upward) while the composite holds above 75 — otherwise treat strength as distribution liquidity.',
+                metric: 'Weakest Pillar Score trajectory + composite persistence >= 75',
+                risk: 'Re-entry discipline: require the composite to rebuild from below 60, not from an extended peak.'
               }
             ],
             mid: [
               {
+                title: 'Late-Cycle Bias: Hold Cores With Trailing Stops',
+                objective: 'Stay engaged while respecting late-cycle forward-return asymmetry',
+                rules: 'This band averaged −5.3% fwd 3M BDI (38% win) since 2018. Run winners with a 20-day EMA trailing stop; sell rips rather than chasing.',
+                metric: 'Composite Score 60–74 pts (Late-Cycle Strength band)',
+                risk: 'Escalate hedging if the composite prints >= 75 (reversal-risk band).'
+              },
+              {
+                title: 'Governor Bottleneck: Macro Constraint Monitoring',
+                objective: 'Identify the lagging pillar most likely to lead the composite lower',
+                rules: 'Track the weakest pillar (port inventory percentile or basis) — its deterioration has historically led the index into the mid-cycle band.',
+                metric: 'Weakest Pillar Score (< 10/20 pts)',
+                risk: 'Avoid initiating fresh longs before the governor metric inflects upward.'
+              },
+              {
+                title: 'Hedge Execution: Crash Protection While Cheap',
+                objective: 'Pre-position downside protection before heat peaks',
+                rules: 'FFA put spreads / put structures are typically cheaper here than after the top band prints. Roll small hedges systematically.',
+                metric: 'BDRYFF implied skew vs composite 30D velocity',
+                risk: 'Cap hedge spend at a fixed premium budget per quarter to avoid bleed.'
+              }
+            ],
+            constructive: [
+              {
                 title: 'Balance Sheet Mandate: Symmetric Sector Allocation',
-                objective: 'Maintain balanced market exposure across dry bulk and tanker segments',
-                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Harvest cross-sector volatility dispersion without taking aggressive directional duration risk.',
+                objective: 'Maintain balanced exposure across dry bulk and tanker segments',
+                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018 — constructive but rangebound.',
                 metric: 'Composite Macro Score between 45 and 59 pts',
-                risk: 'Rebalance monthly; shift to directional overweight upon regime breakout (> 60 or < 45).'
+                risk: 'Rebalance monthly; ladder accumulation toward < 45 rather than chasing > 60.'
               },
               {
                 title: 'Carry & Basis Watch: Futures Basis Arbitrage',
@@ -30435,33 +30504,33 @@ if (intelTabsContainer) {
                 risk: 'Apply ETF hedge overlay if prompt contango roll penalty exceeds 3.5% per roll.'
               },
               {
-                title: 'Risk Management Mandate: Mean-Reversion Tactical Trimming',
-                objective: 'Protect unrealized gains and avoid bull traps in range-bound markets',
-                rules: 'Trim tactical long positions when composite score drifts near 58; re-accumulate near 45 support. Historical forward return is neutral (-0.04%).',
-                metric: '30-Day Rolling Momentum Percentiles & Overbought Indicators',
-                risk: 'Enforce trailing stop-losses; exit speculative longs if macroeconomic leading indicators deteriorate.'
+                title: 'Accumulation Ladder: Scale Toward The Trough Band',
+                objective: 'Position for the historically strongest forward-return window',
+                rules: 'The < 45 band produced +34.7% avg fwd 3M with a 70% win rate. Stage limit orders under the band boundary instead of waiting for the print.',
+                metric: 'Composite distance to 45 + weakest-pillar trajectory',
+                risk: 'Tranche entries into 3 equal parts; deploy the final tranche only on spot ROC confirmation.'
               }
             ],
-            bear: [
+            bull: [
               {
-                title: 'Capital Preservation: Distressed Floor Accumulation',
-                objective: 'Exploit deep cycle asset depression with asymmetric margin of safety',
-                rules: 'Secondhand vessel prices approaching scrap value represent generational entry points. Accumulate hard assets and low-leverage operators on severe weakness.',
-                metric: 'Asset Cycle Safety (Margin to Scrap Value < 15%)',
+                title: 'Generational Value: Scrap-Floor Asset Accumulation',
+                objective: 'Exploit deep-cycle distress with asymmetric margin of safety',
+                rules: 'Trough readings (< 45) preceded +34.7% average fwd 3M BDI with a 70% win rate since 2018. Accumulate hard assets and low-leverage operators on severe weakness.',
+                metric: 'Asset Cycle Heat near percentile lows (margin compressed toward scrap)',
                 risk: 'Require minimum 24-month liquidity runway to endure extended cycle troughs.'
               },
               {
                 title: 'Volatility Harvesting: Covered Period Charters',
                 objective: 'Monetize implied freight volatility while spot rates are depressed',
-                rules: 'Fix vessels on 6–12 month time-charters above spot breakeven to secure positive operating cash flow and eliminate voyage demurrage risk.',
+                rules: 'Fix vessels on 6–12 month time-charters above spot breakeven to secure positive operating cash flow while owning the rebound.',
                 metric: 'Period TC Premium vs Spot Breakeven Spread',
                 risk: 'Avoid locking longer than 18 months at cycle troughs to retain recovery upside.'
               },
               {
                 title: 'Contrarian Setup: Port Stockpile Restocking Catalyst',
                 objective: 'Position ahead of inventory replenishment waves before rates ignite',
-                rules: 'Track weekly Chinese iron ore & bauxite port stockpile draws. When inventory drops below critical thresholds, stage long ETF and FFA entries.',
-                metric: 'Port Inventory Cover Days (< 115 Mt) & Blast Furnace Utilization',
+                rules: 'Track weekly Chinese iron ore port stockpile percentile draws. When inventories fall to low percentiles of their own history, stage long ETF and FFA entries.',
+                metric: 'Port Restocking percentile (< 30th pct of own history) & blast furnace utilization',
                 risk: 'Tranche entries into 3 equal tranches; deploy final tranche only upon spot ROC confirmation.'
               }
             ]

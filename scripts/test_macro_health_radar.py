@@ -1,28 +1,35 @@
 """
-Automated Unit Tests for Executive Macro Health Radar Engine
+Automated Unit Tests for Executive Macro Heat Radar Engine (v2)
 Tests:
-1. 5-Pillar Score computation and weights (Freight Momentum, Term Structure, Futures Basis, Port Restocking, Asset Safety)
-2. 4-Tier Calibrated Regime thresholds (Bullish >=75, Constructive 60-74, Mid-Cycle 45-59, Trough <45)
-3. Historical backtest dataset integrity (data/derived/macro_health_score_backtest.csv)
-4. Empirical hit rates and return distribution properties across all regimes
+1. Backtest dataset schema/integrity
+2. Pillar bounds [0,20] and total-score summation
+3. Regime labels match evidence-based band boundaries
+4. Contrarian predictive structure: troughs precede rebounds,
+   overheated bands precede drawdowns; composite carries negative IC.
 """
 
 import os
 import unittest
 import pandas as pd
-import numpy as np
 
 WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BACKTEST_CSV_PATH = os.path.join(WORKSPACE_DIR, 'data', 'derived', 'macro_health_score_backtest.csv')
 
-class TestMacroHealthRadarEngine(unittest.TestCase):
+REGIMES = {
+    'Overheated - Reversal Risk': (75, 101),
+    'Late-Cycle Strength': (60, 75),
+    'Mid-Cycle Equilibrium': (45, 60),
+    'Trough - Accumulation Zone': (-1, 45),
+}
+
+
+class TestMacroHeatRadarEngine(unittest.TestCase):
 
     def setUp(self):
         self.assertTrue(os.path.exists(BACKTEST_CSV_PATH), f"Backtest dataset missing: {BACKTEST_CSV_PATH}")
         self.df = pd.read_csv(BACKTEST_CSV_PATH)
 
     def test_01_dataset_schema_and_integrity(self):
-        """Verify backtest dataset has all required pillars, columns, and non-empty rows."""
         required_cols = [
             'date', 'bdi', 'bdry', 'p1_momentum', 'p2_term_structure',
             'p3_futures_basis', 'p4_port_restock', 'p5_asset_safety',
@@ -30,11 +37,9 @@ class TestMacroHealthRadarEngine(unittest.TestCase):
         ]
         for col in required_cols:
             self.assertIn(col, self.df.columns, f"Missing required column: {col}")
-        
         self.assertGreater(len(self.df), 1000, "Historical sample size must span at least 1,000 trading days")
 
     def test_02_pillar_bounds_and_total_score_sum(self):
-        """Ensure all 5 pillars are strictly within [0, 20] and sum to total_score."""
         for p in ['p1_momentum', 'p2_term_structure', 'p3_futures_basis', 'p4_port_restock', 'p5_asset_safety']:
             self.assertTrue((self.df[p] >= 0).all(), f"{p} has values < 0")
             self.assertTrue((self.df[p] <= 20).all(), f"{p} has values > 20")
@@ -46,42 +51,49 @@ class TestMacroHealthRadarEngine(unittest.TestCase):
             self.df['p4_port_restock'] +
             self.df['p5_asset_safety']
         )
-        np.testing.assert_array_almost_equal(self.df['total_score'].values, computed_total.values)
+        pd.testing.assert_series_equal(
+            computed_total.round(1), self.df['total_score'].round(1), check_names=False
+        )
         self.assertTrue((self.df['total_score'] >= 0).all())
         self.assertTrue((self.df['total_score'] <= 100).all())
 
     def test_03_regime_classification_consistency(self):
-        """Verify 4-tier regime assignments match exact score boundaries."""
+        """Verify regime assignments match exact score boundaries."""
         for _, row in self.df.iterrows():
             score = row['total_score']
             regime = row['regime']
-            if score >= 75:
-                self.assertIn(regime, ['Bullish Expansion'])
-            elif score >= 60:
-                self.assertIn(regime, ['Constructive Expansion'])
-            elif score >= 45:
-                self.assertIn(regime, ['Balanced Mid-Cycle'])
-            else:
-                self.assertIn(regime, ['Contraction / Trough', 'Contraction / Value Trough'])
+            self.assertIn(regime, REGIMES, f"Unknown regime label: {regime}")
+            lo, hi = REGIMES[regime]
+            self.assertGreaterEqual(score, lo, f"{score} below {regime} floor")
+            self.assertLess(score, hi, f"{score} at/above {regime} ceiling")
 
-    def test_04_empirical_predictive_power_validation(self):
-        """Verify empirical shipping cycle properties across regimes:
-        - Constructive Expansion generates consistent positive forward momentum (1W, 1M, 3M, 6M).
-        - Contraction/Trough generates powerful multi-month mean-reversion rebounds (+36% 3M).
-        - Bullish Super-Cycle identifies peak momentum and spot backwardation arb harvesting windows.
+    def test_04_pillars_are_information_bearing(self):
+        """v2 graded/percentile pillars must carry variance (no dead pillars).
+
+        Regression guard: v1's P5 was constant (std=0) because its fixed
+        sweet-spot anchors were unreachable with real margin levels.
         """
-        valid_3m = self.df.dropna(subset=['bdi_fwd_3M'])
-        
-        valid_1w = self.df.dropna(subset=['bdi_fwd_1W'])
-        constructive_1w = valid_1w[valid_1w['regime'] == 'Constructive Expansion']['bdi_fwd_1W'].mean()
-        constructive_3m = valid_3m[valid_3m['regime'] == 'Constructive Expansion']['bdi_fwd_3M'].mean()
-        trough_3m = valid_3m[valid_3m['regime'] == 'Contraction / Trough']['bdi_fwd_3M'].mean()
-        
-        # Constructive Expansion forward returns must be positive
-        self.assertGreater(constructive_1w, 0.0, "Constructive Expansion 1W return must be positive")
-        self.assertGreater(constructive_3m, 0.0, "Constructive Expansion 3M return must be positive")
-        # Contraction troughs must exhibit high rebound potential
-        self.assertGreater(trough_3m, 20.0, "Contraction Trough mean-reversion rebound must exceed +20%")
+        for p in ['p1_momentum', 'p2_term_structure', 'p3_futures_basis', 'p4_port_restock', 'p5_asset_safety']:
+            std = self.df.loc[self.df.index > 300, p].std()  # skip warm-up window
+            self.assertGreater(std, 0.8, f"{p} is near-dead (std={std:.2f}) — scoring transform collapsed")
+
+    def test_05_contrarian_predictive_structure(self):
+        """Evidence-based cycle semantics must hold in the shipped dataset:
+
+        - Trough band precedes strong positive forward BDI returns (> +20% avg 3M).
+        - Overheated band precedes negative forward BDI returns (< 0% avg 3M).
+        - Composite Spearman IC vs fwd 3M BDI is materially negative (< -0.20),
+          i.e. the gauge reads as cycle heat / reversal risk, not momentum chase.
+        """
+        valid = self.df.dropna(subset=['bdi_fwd_3M'])
+        trough_3m = valid[valid['regime'] == 'Trough - Accumulation Zone']['bdi_fwd_3M'].mean()
+        hot_3m = valid[valid['regime'] == 'Overheated - Reversal Risk']['bdi_fwd_3M'].mean()
+        ic = valid['total_score'].corr(valid['bdi_fwd_3M'], method='spearman')
+
+        self.assertGreater(trough_3m, 20.0, "Trough band must precede strong rebounds")
+        self.assertLess(hot_3m, 0.0, "Overheated band must precede drawdowns")
+        self.assertLess(ic, -0.20, f"Composite IC collapsed to {ic:.3f} — re-validate engine")
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -95,7 +95,7 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`alibra_tce_matrix.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/alibra_tce_matrix.json) | **Live Period TCE Rate Matrix** — weekly benchmark rates across Dry Bulk (Atl/Pac) and Tanker classes with multi-horizon momentum (`1W WoW`, `1M MoM`, `1Y YoY`), 52-week SVG trend sparklines, 10-year historical cycle percentile ranks (2016–2026), Atlantic vs Pacific basin spreads, and Eco fuel efficiency premiums | Live | 11 Classes | `report_date, dry_bulk: [size, 6M/1Y/2Y (Atl/Pac), sparkline_52w, pctile_10y, basin_spread_1y, mom_1w/1m/1y], tankers: [size, 1Y/2Y/3Y/5Y, sparkline_52w, pctile_10y, eco_premium_day, curve_slope_3y, mom_1w/1m/1y]` |
 | [`fearnleys_catalog.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_catalog.csv) | Catalog of all route metrics, subtypes, & counts available in Fearnleys Hasura API | — | ~356 | `id, unit, rate_type, rate_subtype, route, count, min_date, max_date` |
 | [`iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 2018-07-03 | ~1,244 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
-| [`macro_health_score_backtest.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/macro_health_score_backtest.csv) | **Historical Macro Health Score & Regime Backtest** — point-in-time 5-pillar composite scores and multi-horizon forward returns (1W, 1M, 3M, 6M) across daily freight history | 2018-03-22 | ~1,984 | `date, bdi, bdry, p1_momentum, p2_term_structure, p3_futures_basis, p4_port_restock, p5_asset_safety, total_score, regime, bdi_fwd_1W, bdry_fwd_1W, bdi_fwd_1M, bdry_fwd_1M, bdi_fwd_3M, bdry_fwd_3M, bdi_fwd_6M, bdry_fwd_6M` |
+| [`macro_health_score_backtest.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/macro_health_score_backtest.csv) | **Historical Macro Heat Score & Regime Backtest (v2 engine)** — point-in-time 5-pillar composite scores with percentile diagnostics and multi-horizon forward returns (1W, 1M, 3M, 6M) across daily freight history | 2018-03-22 | ~1,984 | `date, bdi, bdry, p1_momentum, p2_term_structure, p3_futures_basis, p4_port_restock, p4_inv_pctl, p5_asset_safety, p5_margin_pctl, total_score, regime, input_staleness_*, any_input_stale, bdi_fwd_1W, bdry_fwd_1W, bdi_fwd_1M, bdry_fwd_1M, bdi_fwd_3M, bdry_fwd_3M, bdi_fwd_6M, bdry_fwd_6M` |
 
 > [!NOTE]
 > **Dual-Source TC Rates**: The merged file contains data from two brokers with a ~8% median divergence in the overlap period. The `source` column identifies the broker. The Fearnleys-only file provides a clean single-source reference for comparison. The dashboard offers a **Merged / Fearnleys / Both** toggle to visualize the divergence.
@@ -348,20 +348,22 @@ Executive macro desk and deep research workspace.
 - **Section 1: Signal & Confluence Engine (`#intelAlertGrid`)**:
   - Multi-factor quantitative scoring combining 50% fundamentals, 30% sentiment, and 20% momentum.
   - Active market alerts, conviction grades, and sector positioning biases.
-  - **Executive Macro Health Radar** *(5-Pillar Calibrated Quantitative Engine)*:
-    - 0–100 composite index calculated live from underlying physical, charter, and derivative datasets across 5 independent pillars (20 pts each):
-      1. **Freight Momentum (0–20 pts)**: BDI 30-Day Rate-of-Change vs. 90-Day Rolling Simple Moving Average, with V-bottom turnaround detection.
-      2. **Term Structure Slope (0–20 pts)**: Capesize 4–6M vs. 2-Year Period Time-Charter Rate Spread (Backwardation vs. Contango).
-      3. **Futures Basis Arbitrage (0–20 pts)**: Physical Spot BDI vs. Prompt Front-Month BDRYFF Futures Basis Spread.
-      4. **Port Restocking Dynamics (0–20 pts)**: Chinese Iron Ore Port Stockpiles ($M\text{t}$) and inventory cover urgency.
-      5. **Asset Cycle Safety (0–20 pts)**: 10-Year Capesize S&P Secondhand Valuation vs. Indian Subcontinent Demolition Scrap Floor ($M).
-    - **4-Tier Calibrated Macro Regimes**:
-      - 🟢 **Bullish Super-Cycle (75–100 pts)**: Forward curve backwardation and spot-to-TC carry harvesting peak.
-      - 🔵 **Constructive Expansion (60–74 pts)**: High-conviction trend continuation (+1.29% 1W, +0.75% 1M, +3.72% 3M, +6.89% 6M).
-      - 🟡 **Balanced Mid-Cycle (45–59 pts)**: Rangebound fundamentals; 50/50 Dry/Tanker parity allocation.
-      - 🔴 **Contraction / Value Trough (0–44 pts)**: Asset accumulation near demolition scrap floor (+36.09% 3M, +54.93% 6M rebound).
+  - **Executive Macro Heat Radar** *(5-Pillar Evidence-Calibrated Engine, v2)*:
+    - 0–100 composite index calculated live from underlying physical, charter, and derivative datasets across 5 independent pillars (20 pts each), using graded transforms and self-calibrating percentiles (no cliff steps):
+      1. **Freight Momentum (0–20 pts)**: Graded blend of BDI gap vs. 90-day SMA and 30-day ROC.
+      2. **Term Structure Slope (0–20 pts)**: Capesize 4–6M vs. 2-Year period TC spread, mapped continuously from −15% contango to +15% backwardation.
+      3. **Futures Basis Arb (0–20 pts)**: Spot BDI vs. prompt BDRYFF basis, mapped continuously from −15% to +10%.
+      4. **Port Restocking (0–20 pts)**: Chinese iron ore port stockpiles ranked as an **inverted expanding percentile** of their own history (self-calibrating against port-capacity growth).
+      5. **Asset Cycle Heat (0–20 pts)**: Cape 10Y S&P-vs-scrap margin ranked through an **expanding-percentile tent** — peak score at mid-history margins, low scores when assets stretch far above scrap.
+    - **Cycle-Heat Regimes (labels encode realized forward returns, not momentum direction)**:
+      - 🔴 **Overheated — Reversal Risk (75–100 pts)**: historically preceded −23.8% avg fwd 3M BDI (10% win rate). Trim beta, hedge, avoid new longs.
+      - 🟡 **Late-Cycle Strength (60–74 pts)**: −5.3% avg fwd 3M (38% win). Hold cores with trailing stops; sell rips.
+      - 🔵 **Mid-Cycle Equilibrium (45–59 pts)**: +8.8% avg fwd 3M (44% win). Balanced 50/50 dry/tanker parity.
+      - 🟢 **Trough — Accumulation Zone (0–44 pts)**: +34.7% avg fwd 3M (70% win). Scrap-floor asset accumulation; historically the best entry window.
+    - **Why contrarian**: freight is a strongly mean-reverting cycle. The composite measures cycle *heat*, and heat mean-reverts — the Spearman IC between the composite and forward 3M BDI returns is **−0.35** (negative in 8 of 8 calendar years, 2019–2026). High scores are a reversal-risk gauge, not a buy signal.
     - **30-Day Score Velocity & 1Y Range Badge (`#mhrTrendBadge`)**: Computes $S(t) - S(t-30\text{D})$ point-in-time momentum acceleration alongside the 1-year historical min–max score range.
-    - **Full Interactive Tooltip Suite**: Rich, personalized floating cards on gauge, regime badge, 30D velocity badge, and every individual pillar bar with live metrics, formulas, and market drivers.
+    - **Full Interactive Tooltip Suite**: Rich floating cards on gauge, regime badge, 30D velocity badge, and every pillar bar with live metrics, formulas, and realized backtest stats.
+    - **WB Commodity Confirmation Note (`#mhrCommodityNote`)**: display-only divergence check comparing Pillar-1 momentum against World Bank Pink Sheet iron ore + thermal coal YoY — flags low-quality rallies (bullish freight against falling cargo prices) and inverse inflections. Does not feed the score.
   - **Institutional Tactical Playbook (`#mhrPlaybook`)**: 3-card dynamic execution blueprint keyed to the active macro regime with quantitative entry rules, key metric hurdles, and risk controls.
 - **Section 2: Daily Market Brief (`#intelBriefContent`)**:
   - Daily synthesized desk intelligence briefing with executive TL;DR, dry bulk & tanker breakdowns, and previous/next calendar date history navigation.
@@ -421,38 +423,63 @@ Executive macro desk and deep research workspace.
 | **Portfolio WAM** | $\text{WAM} = \sum_i w_i \times \text{DaysToExpiry}_i$ | Weighted average contract maturity; shorter WAM = higher roll frequency and execution risk. |
 | **Lead-Lag t-Statistic** | $t = r\sqrt{\frac{N-2}{1-r^2}}$ | Tests whether the peak cross-correlation coefficient $r$ at lag $L$ is statistically significant ($p < 0.05$). |
 
-### 4.4 Executive Shipping Macro Health Radar Engine (5-Pillar Calibration & 1,984-Day Backtest)
+### 4.4 Executive Macro Heat Radar Engine (5-Pillar Evidence Calibration & 1,984-Day Backtest)
 
-The Executive Macro Health Score ($S_{\text{macro}} \in [0, 100]$) aggregates five structural pillars ($P_1 \dots P_5 \in [0, 20]$):
+The Macro Heat Score ($S_{\text{heat}} \in [0, 100]$) aggregates five structural pillars ($P_1 \dots P_5 \in [0, 20]$):
 
-$$S_{\text{macro}}(t) = P_{\text{momentum}}(t) + P_{\text{term\_struct}}(t) + P_{\text{basis\_arb}}(t) + P_{\text{port\_restock}}(t) + P_{\text{asset\_safety}}(t)$$
+$$S_{\text{heat}}(t) = P_{\text{momentum}}(t) + P_{\text{term\_struct}}(t) + P_{\text{basis\_arb}}(t) + P_{\text{port\_restock}}(t) + P_{\text{asset\_heat}}(t)$$
 
 ```mermaid
 graph TD
-    subgraph Macro_Health_Composite [Executive Macro Health Score 0-100 pts]
-        P1["P1: Freight Momentum (20 pts)<br/>BDI vs 90D MA & 30D ROC"]
-        P2["P2: Term Structure (20 pts)<br/>Cape 4-6M vs 2Y TC Spread"]
-        P3["P3: Futures Basis (20 pts)<br/>Spot BDI vs BDRYFF Prompt"]
-        P4["P4: Port Restocking (20 pts)<br/>China Iron Ore Port Stocks"]
-        P5["P5: Asset Safety (20 pts)<br/>10Y S&P vs Scrap Margin"]
+    subgraph Macro_Heat_Composite [Executive Macro Heat Score 0-100 pts]
+        P1["P1: Freight Momentum (20 pts)<br/>Graded MA-gap + ROC blend"]
+        P2["P2: Term Structure (20 pts)<br/>Continuous spread map"]
+        P3["P3: Futures Basis (20 pts)<br/>Continuous basis map"]
+        P4["P4: Port Restocking (20 pts)<br/>Inverted expanding percentile"]
+        P5["P5: Asset Cycle Heat (20 pts)<br/>Margin percentile tent"]
     end
     P1 & P2 & P3 & P4 & P5 --> Total["Composite Score S(t)"]
-    Total --> Bull["🟢 Bullish Super-Cycle (>=75 pts)<br/>Spot-to-TC Arb & Beta Peak"]
-    Total --> Constructive["🔵 Constructive Expansion (60-74 pts)<br/>+3.72% 3M (+6.89% 6M Forward)"]
-    Total --> Mid["🟡 Balanced Mid-Cycle (45-59 pts)<br/>50/50 Parity & Mean Reversion"]
-    Total --> Trough["🔴 Contraction / Trough (<45 pts)<br/>+36.09% 3M (+54.93% 6M Rebound)"]
+    Total --> Hot["🔴 Overheated — Reversal Risk (>=75)<br/>−23.8% avg fwd 3M BDI · 10% win"]
+    Total --> Late["🟡 Late-Cycle Strength (60-74)<br/>−5.3% avg fwd 3M · 38% win"]
+    Total --> Mid["🔵 Mid-Cycle Equilibrium (45-59)<br/>+8.8% avg fwd 3M · 44% win"]
+    Total --> Trough["🟢 Trough — Accumulation Zone (<45)<br/>+34.7% avg fwd 3M · 70% win"]
 ```
+
+#### v2 Engine Notes (evidence-based redesign, Aug 2026)
+
+The original cliff-step engine was recalibrated after a full quant audit of the
+2018–2026 sample revealed two structural defects:
+
+1. **Dead pillar**: the Asset Safety pillar's fixed "25–40% margin sweet spot"
+   anchors were unreachable with real market data — Cape S&P-vs-scrap margins
+   have sat above 55% on every observation since scrap data began (2021), so
+   the pillar returned a constant 10/20 with zero variance.
+2. **Rotting anchors**: absolute port-inventory thresholds (`<110 Mt = max`)
+   decay structurally as Chinese port capacity grows monotonically.
+
+v2 replaces all five pillars with graded transforms (piecewise-linear maps and
+strictly point-in-time expanding percentiles: min 126 obs, cap 1,260), which
+halves bound-pegging (82.7% → ~52% of days for the BDI-derived pillars) and
+restores variance to every pillar. Regime **labels** now encode realized
+forward-return evidence instead of momentum-chasing language.
 
 #### Empirical Backtest & Forward Return Profiles (`data/derived/macro_health_score_backtest.csv`)
 
-Evaluated across 1,984 consecutive trading days (`2018–2026`):
+Evaluated across 1,984 consecutive trading days (`2018–2026`). The composite is
+a **cycle-heat gauge with contrarian predictive structure** — Spearman IC vs
+forward BDI returns: 1W −0.17 · 1M −0.32 · **3M −0.35** · 6M −0.30, negative in
+every calendar year 2019–2026:
 
-| Calibrated Regime | Score Range | 1-Week Fwd | 1-Month Fwd | 3-Month Fwd | 6-Month Fwd | Trading Days | Strategic Action |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Bullish Super-Cycle** | 75 – 100 | -5.57% | -14.64% | -22.76% | -14.80% | 131 days | Spot-to-TC Arb Carry Lock; 20D EMA Trailing Stop |
-| **Constructive Expansion** | 60 – 74 | **+1.29%** | **+0.75%** | **+3.72%** | **+6.89%** | 469 days | High Win-Rate Trend Following; Overweight Beta |
-| **Balanced Mid-Cycle** | 45 – 59 | **+0.06%** | **+0.14%** | **+9.84%** | **+14.57%** | 726 days | 50/50 BDRY/BWET Capital Parity; Rangebound Trimming |
-| **Contraction / Trough** | 0 – 44 | **+3.41%** | **+21.74%** | **+36.09%** | **+54.93%** | 658 days | Scrap Floor Asset Accumulation; Generational Entry |
+| Calibrated Regime | Score Range | 1-Week Fwd | 1-Month Fwd | 3-Month Fwd | 6-Month Fwd | Trading Days | 3M Win Rate | Strategic Action |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Overheated — Reversal Risk** | 75 – 100 | −4.05% | −14.27% | **−23.81%** | −26.08% | 81 days | 10% | Trim beta into strength; hedge; no new longs |
+| **Late-Cycle Strength** | 60 – 74 | −1.12% | −4.35% | −5.26% | +2.93% | 387 days | 38% | Hold cores w/ 20D EMA trailing stops; sell rips |
+| **Mid-Cycle Equilibrium** | 45 – 59 | +0.05% | +0.51% | +8.77% | +14.74% | 736 days | 44% | 50/50 BDRY/BWET parity; ladder toward trough |
+| **Trough — Accumulation Zone** | 0 – 44 | +3.69% | +19.57% | **+34.69%** | +49.75% | 780 days | **70%** | Scrap-floor asset accumulation; generational entry |
+
+Engine parity: the Python backtester (`scripts/backtest_macro_health_radar.py`)
+and the browser engine (`_computeMacroHealthScore` in `index.html`) produce
+identical totals and regimes on common dates (verified by harness).
 
 ---
 
