@@ -684,8 +684,56 @@ def pick_metric_value(metric: str, values: list[float]) -> float | None:
         for value in values:
             if -50 <= value <= 120:
                 return value
-        return None
     return values[0]
+
+
+# OCR-mangled tag tolerance for the Hellenic MMI iron-ore tables. The IOSI
+# price-index tags regularly arrive with confused glyphs (IOSI6S, lOSIB,
+# IOPIG2, IOPIGS) after PDF rasterization, so tag matching runs fuzzily over
+# the de-punctuated line: I/l/1/L collapse, O/0 collapse, S/5 collapse and
+# G/6 collapse. Exact spellings still match these classes.
+_FUZZY_IOSI62 = re.compile(r"[I1L][O0][S5][I1L][G6][2Z]")
+_FUZZY_IOSI65 = re.compile(r"[I1L][O0][S5][I1L][G6][5S]")
+# Fe-grade tokens (58%/61%/62%/62.5%/64%/65%/66%) that OCR merges into data
+# rows; picking one as a price is the signature of the 2026 cfr_62 freeze at
+# exactly 62.5 for 52 straight days.
+_IO_PRICE_GRADE_TOKENS = {58.0, 61.0, 62.0, 62.5, 64.0, 65.0, 66.0}
+# CFR 65% trades at a modest premium to CFR 62% (historically $5-20); a wider
+# gap than this means the parser paired two unrelated numbers from an OCR-
+# scrambled row.
+_IO_CFR_SPREAD_LIMIT = 40.0
+# Daily-move continuity gate: iron ore never reprices >$40 in one report;
+# candidates further than this from the last trusted level are junk picks.
+_IO_CONTINUITY_LIMIT = 40.0
+
+
+def _match_iosi_tag(line: str) -> str | None:
+    compact = re.sub(r"[^A-Za-z0-9]", "", (line or "").upper())
+    if not compact:
+        return None
+    if _FUZZY_IOSI62.search(compact):
+        return "cfr_62"
+    if _FUZZY_IOSI65.search(compact):
+        return "cfr_65"
+    return None
+
+
+def _pick_cfr_value(vals: list[float], prev: float | None) -> float | None:
+    candidates: list[float] = []
+    for v in vals:
+        if 40 <= v <= 250 and v not in candidates:
+            candidates.append(v)
+    if not candidates:
+        return None
+    non_grade = [v for v in candidates if v not in _IO_PRICE_GRADE_TOKENS]
+    if non_grade:
+        candidates = non_grade
+    if prev is None:
+        return candidates[0]
+    best = min(candidates, key=lambda v: abs(v - prev))
+    if abs(best - prev) <= _IO_CONTINUITY_LIMIT:
+        return best
+    return None
 
 
 def extract_hellenic_iron_ore_signals(text: str) -> dict:
@@ -3897,43 +3945,54 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
 
     # 2. Compile Iron Ore Restocking (Daily/Weekly)
     iron_ore_records = {}
-    for r in signal_rows:
-        source = r.get("source")
-        category = r.get("category")
+    io_prev = {"cfr_62": None, "cfr_65": None}
+    io_rejects = 0
+    ordered_io_rows = sorted(
+        (r for r in signal_rows if r.get("source") == "hellenic" and r.get("category") == "iron_ore" and r.get("date")),
+        key=lambda r: r.get("date") or "",
+    )
+    for r in ordered_io_rows:
         date = r.get("date")
-        if source == "hellenic" and category == "iron_ore" and date:
-            signals = r.get("signals", {}) or {}
-            obs_list = signals.get("iron_ore_metrics", []) or []
-            if not obs_list:
+        signals = r.get("signals", {}) or {}
+        obs_list = signals.get("iron_ore_metrics", []) or []
+        if not obs_list:
+            continue
+        day = iron_ore_records.setdefault(date, {})
+        for obs in obs_list:
+            line = obs.get("source_line", "")
+            vals = obs.get("values") or []
+            if not line or not vals:
                 continue
-            if date not in iron_ore_records:
-                iron_ore_records[date] = {}
-            for obs in obs_list:
-                line = obs.get("source_line", "")
-                vals = obs.get("values") or []
-                if not line or not vals:
+            line_lower = line.lower()
+            target = _match_iosi_tag(line)
+            if target is not None and len(vals) >= 3:
+                picked = _pick_cfr_value(vals[2:], io_prev[target])
+                if picked is None:
+                    io_rejects += 1
                     continue
-                line_lower = line.lower()
-                if "iosi62" in line_lower and len(vals) >= 3:
-                    for v in vals[2:]:
-                        if 40 <= v <= 250:
-                            iron_ore_records[date]["cfr_62"] = v
-                            break
-                elif "iosi65" in line_lower and len(vals) >= 3:
-                    for v in vals[2:]:
-                        if 40 <= v <= 250:
-                            iron_ore_records[date]["cfr_65"] = v
-                            break
-                elif "iopi62" in line_lower and len(vals) >= 3:
-                    for v in vals[2:]:
-                        if 300 <= v <= 1800:
-                            iron_ore_records[date]["port_stock_62"] = v
-                            break
-                elif "iopi65" in line_lower and len(vals) >= 3:
-                    for v in vals[2:]:
-                        if 300 <= v <= 1800:
-                            iron_ore_records[date]["port_stock_65"] = v
-                            break
+                day[target] = picked
+                io_prev[target] = picked
+            elif "iopi62" in line_lower and len(vals) >= 3:
+                for v in vals[2:]:
+                    if 300 <= v <= 1800:
+                        day["port_stock_62"] = v
+                        break
+            elif "iopi65" in line_lower and len(vals) >= 3:
+                for v in vals[2:]:
+                    if 300 <= v <= 1800:
+                        day["port_stock_65"] = v
+                        break
+    # Same-date cross-check: CFR 65% always trades near CFR 62% (modest
+    # premium); a wider-than-market gap means OCR paired two unrelated
+    # numbers from one scrambled row, so neither value can be trusted.
+    for date in sorted(iron_ore_records):
+        day = iron_ore_records[date]
+        v62, v65 = day.get("cfr_62"), day.get("cfr_65")
+        if v62 is not None and v65 is not None and abs(v65 - v62) > _IO_CFR_SPREAD_LIMIT:
+            del day["cfr_62"]
+            del day["cfr_65"]
+            io_rejects += 1
+    print(f"[IRON-ORE] dates_parsed={len(iron_ore_records)} rejected_observations={io_rejects}")
     # Now merge Breakwave fundamentals (inventories). Contributions were
     # captured per-doc during the cached document pass above; replay them in
     # manifest order (last writer wins, exactly as the original second pass).
@@ -3956,13 +4015,42 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
                 d = r.get("date")
                 if d:
                     existing_io[d] = {k: float(v) if v and v != "" else None for k, v in r.items() if k != "date"}
-    # Merge new in-memory records additively
+    # Merge new in-memory records additively. A stored price exactly equal
+    # to an Fe-grade token is a known OCR misparse (see the 2026 cfr_62=62.5
+    # freeze); when this run produced a trusted value for that cell, the
+    # corrupted cell is replaced instead of preserved.
+    io_grade_repairs = 0
     for d, data in iron_ore_records.items():
         if d not in existing_io:
             existing_io[d] = {}
         for k, v in data.items():
-            if v is not None and (existing_io[d].get(k) is None or existing_io[d].get(k) == ""):
+            if v is None:
+                continue
+            cur = existing_io[d].get(k)
+            if cur is None or cur == "":
                 existing_io[d][k] = v
+            elif k in {"cfr_62", "cfr_65"} and cur in _IO_PRICE_GRADE_TOKENS and cur != v:
+                existing_io[d][k] = v
+                io_grade_repairs += 1
+    if io_grade_repairs:
+        print(f"[IRON-ORE] repaired grade-token cells: {io_grade_repairs}")
+    # Stored pairs whose 65-vs-62 spread exceeds the market-plausible band
+    # are replaced wholesale when this run produced a validated pair.
+    io_spread_repairs = 0
+    for d, day in iron_ore_records.items():
+        row = existing_io.get(d)
+        if not row:
+            continue
+        s62, s65 = row.get("cfr_62"), row.get("cfr_65")
+        n62, n65 = day.get("cfr_62"), day.get("cfr_65")
+        stored_bad = s62 is not None and s65 is not None and abs(s65 - s62) > _IO_CFR_SPREAD_LIMIT
+        new_ok = n62 is not None and n65 is not None and abs(n65 - n62) <= _IO_CFR_SPREAD_LIMIT
+        if stored_bad and new_ok and (n62 != s62 or n65 != s65):
+            row["cfr_62"] = n62
+            row["cfr_65"] = n65
+            io_spread_repairs += 1
+    if io_spread_repairs:
+        print(f"[IRON-ORE] repaired spread-violating pairs: {io_spread_repairs}")
 
     with open(io_file, "w", encoding="utf-8", newline="") as f:
         import csv
