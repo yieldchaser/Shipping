@@ -140,3 +140,34 @@ To systematically fix both the data pipelines and the user-facing charts without
 
 ---
 *Document saved to `docs/DATA_STALENESS_AND_FLATLINE_AUDIT.md` for team and pipeline reference.*
+
+---
+
+## 6. Remediation Log — Iron Ore Type-1 Freeze (2026-08-23)
+
+### Forensics (what actually happened)
+
+1. **Shard truncation**: commit `87ca94041` (2026-06-22, "partial knowledge build") emptied `knowledge/chunks/hellenic_iron_ore_{2023,2024,2025}.jsonl` (−6,781 / −5,525 / −7,529 lines). Daily CI never healed it because `artifacts_current()` only checks file *existence* — an empty shard still counts as current.
+2. **Live freeze mechanism (cfr_62 = 62.5 for 52 days, Jun 1 – Aug 14 2026)**: MMI report OCR mangles index tags (`IOSI65`→`IOSI6S`/`10162`/`lOSIB`, `IOPI62`→`IOPIG2`) and merges multi-tag unit-legend lines (`IOSI61 … IOSI65 … IOPLI 62.5% Fe Lump RMB/t`) into data rows. The old parser's exact-substring + first-value-in-range logic then locked onto **Fe-grade tokens (58/61/62/62.5/64/65/66)** instead of prices.
+3. **Average-table clobbering**: monthly-summary tables (Feb/Mar/… MTD/QTD/YTD columns) reuse the same IOSI tags; last-write-wins let stale averages override daily prints.
+4. **Impossible spreads shipped silently** (`cfr_65=$143` vs `cfr_62=$62` on 2026-08-18 — a $81 premium vs the historical ~$15): nothing validated pairs against market structure, and the additive merge only ever fills empty cells, so corruption persisted forever once written.
+
+### Fixes applied
+
+| Layer | Fix |
+|---|---|
+| Tag matching | Fuzzy IOSI62/IOSI65 matcher over de-punctuated lines: I/1/L, O/0, S/5/1, G/6 confusion classes + short variant for dropped glyphs |
+| Value selection | Grade-token exclusion set {58, 61, 62, 62.5, 64, 65, 66}; $40–250 range; ±$40 daily continuity gate vs last trusted level |
+| Row filtering | Rejects unit legends (≥2 unit strings), freight-contaminated merges (W. Australia / Qingdao C5 / route tables), MTD/QTD/YTD headers. Month names deliberately NOT matched — prose ("prices may soften", "late July") shares the line |
+| Table priority | First accepted hit wins per series per date (daily table precedes summary tables in every report) replacing last-write-wins |
+| Pair validation | Same-date \|cfr_65 − cfr_62\| > $40 → both values rejected at parse time |
+| Merge repair | Stored grade-token cells replaced when a trusted value exists, blanked (2026+ era only) when none does; stored spread-violating pairs replaced by validated pairs |
+| Frontend | `spanGaps:false` on the CFR series; removed the silent `cfr_62 × 1.15` fabrication of missing 65% values — gaps now render as gaps |
+| Knowledge base | `scripts/repair_iron_ore_shards.py` re-ingests all 2023–25 iron ore reports from intact source HTML, rebuilding the three truncated shards (~700 docs) |
+
+### Residual limitations (honest)
+
+- **Jul–Aug 2026 `cfr_62` picks can carry the 5-day-average column** where OCR mashed the daily print into its neighbor (`98.00 0.10` → `98000`); values sit in the plausible band and track the trend but are not exact daily settlements.
+- **2026-08-18/19 `cfr_65` keeps stored $143/$138**: those two reports' daily rows are unusable at the OCR level; no replacement is fabricated. The chart shows the blip rather than hiding it.
+- **2021 super-spike era**: several reports rasterize so badly that even repaired pairs carry ±$10 noise (e.g. 2021-07-14).
+- Port-stock columns keep exact-substring matching (no observed tag confusion; fuzzy-widening them risks pairing RMB/t prices into USD index columns).

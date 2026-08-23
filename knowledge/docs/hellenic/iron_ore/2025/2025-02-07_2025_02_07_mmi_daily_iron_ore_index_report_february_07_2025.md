@@ -8,6 +8,7 @@ commodities:
 date: '2025-02-07'
 doc_id: hellenic_iron_ore_2025-02-07_2025_02_07_mmi_daily_iron_ore_index_report_february_07_2025
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -43,7 +44,7 @@ numeric_observations:
     decreasing compared to the
   unit: tonnage
   values:
-  - 505.0
+  - 2505.0
   - 817.0
   - 0.86
   - 805.0
@@ -64,9 +65,11 @@ numeric_observations:
   - -7.0
   - 7.0
   - -2025.0
+  - 1.0
   - 7022025.0
-  - 55.0
+  - 355.0
   - 6047.0
+  - 9.0
 - &id003
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -82,11 +85,11 @@ numeric_observations:
     RMB/t
   unit: pct
   values:
-  - 2.0
   - 62.0
-  - 5.0
+  - 62.0
   - 65.0
-  - 8.0
+  - 65.0
+  - 58.0
   - 58.0
 - &id005
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
@@ -105,7 +108,7 @@ numeric_observations:
   values:
   - 5.0
   - 0.62
-  - 5.0
+  - 5000.0
   - 0.54
   - 2.0
   - 0.28
@@ -128,11 +131,11 @@ numeric_observations:
     Fe Lump RMB/t
   unit: usd_per_unit
   values:
-  - 2.0
   - 62.0
-  - 5.0
+  - 62.0
   - 65.0
-  - 62.5
+  - 65.0
+  - 62500.0
 - &id009
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -179,10 +182,10 @@ numeric_observations:
   source_line: I2505 (May) RMB/t (3pm close) March 25 USD/dmt RB2505 (Jan) RMB/t
   unit: usd_per_unit
   values:
-  - 505.0
+  - 2505.0
   - 3.0
   - 25.0
-  - 505.0
+  - 2505.0
 - &id014
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -216,20 +219,29 @@ numeric_observations:
   - 3.0
   - 7.0
   - 2025.0
-  - 5.3
+  - 5300.0
   - 7.0
   - 2025.0
   - 3.0
 - &id017
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
+  source_line: C3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel
+    Rebar (China Domestic) RMB/t
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 5.0
+- &id018
+  section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
+  section_type: linked_pdf
   source_line: 16.78 6.73 3396
   unit: null
   values:
-  - 16.78
-  - 6.73
+  - 16780.0
+  - 6730.0
   - 3396.0
-- &id018
+- &id019
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: -0.09 -0.53% 0.39 6.15% 7 0.21%
@@ -238,10 +250,10 @@ numeric_observations:
   - -0.09
   - -0.53
   - 0.39
-  - 6.15
+  - 6150.0
   - 7.0
   - 0.21
-- &id019
+- &id020
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 6th, 2025 Feb 6th, 2025 Week Ending Feb 7th, 2025
@@ -253,23 +265,23 @@ numeric_observations:
   - 2025.0
   - 7.0
   - 2025.0
-- &id020
+- &id021
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
   unit: null
   values:
   - 35.0
-- &id021
+- &id022
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 149.91 18.02 3436
   unit: null
   values:
   - 149.91
-  - 18.02
+  - 18020.0
   - 3436.0
-- &id022
+- &id023
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 4.63 3.19% -0.04 -0.19% -3 -0.10%
@@ -281,7 +293,7 @@ numeric_observations:
   - -0.19
   - -3.0
   - -0.1
-- &id023
+- &id024
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Week Ending Feb 7th, 2025 Week Ending Feb 7th, 2025 Week Ending Feb
@@ -294,7 +306,7 @@ numeric_observations:
   - 2025.0
   - 7.0
   - 2025.0
-- &id024
+- &id025
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: www.mmiprices.com Page 1/6 Feb 7th, 2025
@@ -304,7 +316,7 @@ numeric_observations:
   - 6.0
   - 7.0
   - 2025.0
-- &id025
+- &id026
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 7th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
@@ -315,14 +327,14 @@ numeric_observations:
   - 2025.0
   - 13.0
   - 13.0
-- &id026
+- &id027
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI62 62% Fe Fines 818 5 0.6% 785 863 683 1063 105.99 0.66 0.6% 101.57
     112.71 89.33 140.24
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 818.0
   - 5.0
@@ -332,14 +344,14 @@ numeric_observations:
   - 683.0
   - 1063.0
   - 105.99
-- &id027
+- &id028
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines 708 2 0.3% 695 757 610 963 92.23 0.26 0.3% 90.36
     99.51 80.25 128.13
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 708.0
   - 2.0
@@ -348,15 +360,15 @@ numeric_observations:
   - 757.0
   - 610.0
   - 963.0
-  - 92.23
-- &id028
+  - 92230.0
+- &id029
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 930 5 0.5% 897 974 794 1175 121.01 0.66 0.5% 116.58
     127.77 104.47 155.37
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 930.0
   - 5.0
@@ -366,7 +378,7 @@ numeric_observations:
   - 794.0
   - 1175.0
   - 121.01
-- &id029
+- &id030
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 7th, 2025 CFR Qingdao, USD/dry tonne Today,ÊDalianÊironÊoreÊfuturesÊcon(cid:415)nuedÊtoÊfluctuateÊupward.ÊTheÊmost-tradedÊI2505ÊcontractÊclosedÊatÊ817Êyuan/mt,ÊupÊ0.86%ÊforÊtheÊday.Ê
@@ -375,10 +387,10 @@ numeric_observations:
   - 7.0
   - 2025.0
   - 415.0
-  - 505.0
+  - 2505.0
   - 817.0
   - 0.86
-- &id030
+- &id031
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Price Change Change % MTD YTD Low 2 High 2 M to a
@@ -397,7 +409,7 @@ numeric_observations:
   - 415.0
   - -5.0
   - 80.0
-- &id031
+- &id032
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: AsÊofÊFebruaryÊ7,ÊaccordingÊtoÊSMMÊdata,ÊtotalÊinventoryÊatÊ35ÊportsÊreachedÊ149.91ÊmillionÊmt,ÊupÊ4.63ÊmillionÊmtÊfromÊpre-holidayÊlevelsÊandÊ
@@ -407,31 +419,31 @@ numeric_observations:
   - 35.0
   - 149.91
   - 4.63
-- &id032
+- &id033
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOSI62 62% Fe Fines 105.80 -0.08 -0.08% 103.02 113.83 89.79 142.65
     upÊ23.65ÊmillionÊmtÊYoY.ÊTheÊdailyÊportÊpick-upÊvolumeÊofÊimportedÊoreÊaveragedÊ2.584ÊmillionÊmt,ÊdownÊ610,000ÊmtÊfromÊpre-holidayÊlevelsÊ
   unit: tonnage
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 105.8
   - -0.08
   - -0.08
   - 103.02
   - 113.83
-  - 89.79
+  - 89790.0
   - 142.65
-  - 23.65
-- &id033
+  - 23650.0
+- &id034
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: andÊdownÊ350,000ÊmtÊYoY.ÊThisÊweek,ÊaffectedÊbyÊtheÊChineseÊNewÊYearÊholiday,ÊsteelÊmillsÊsuspendedÊrestockingÊduringÊtheÊholiday,ÊleadingÊtoÊ
   unit: tonnage
   values:
   - 350000.0
-- &id034
+- &id035
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: aÊsignificantÊdecreaseÊinÊportÊpick-upÊvolumesÊandÊaÊno(cid:415)ceableÊaccumula(cid:415)onÊofÊportÊinventories.ÊLookingÊaheadÊtoÊnextÊweek,Êpost-holidayÊ
@@ -439,20 +451,20 @@ numeric_observations:
   values:
   - 415.0
   - 415.0
-- &id035
+- &id036
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOSI65 65% Fe Fines 116.80 0.00 0.00% 114.77 130.49 98.28 171.65 restockingÊbyÊsteelÊmillsÊisÊexpectedÊtoÊboostÊportÊpick-upÊvolumes,ÊwhichÊmayÊresultÊinÊaÊdeclineÊinÊportÊinventories.ÊInÊtheÊshortÊterm,ÊtheÊ
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 116.8
   - 114.77
   - 130.49
-  - 98.28
+  - 98280.0
   - 171.65
-- &id036
+- &id037
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Week Ending Feb 7th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
@@ -464,7 +476,7 @@ numeric_observations:
   - 13.0
   - 13.0
   - 3.0
-- &id037
+- &id038
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW
@@ -475,15 +487,15 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id038
+- &id039
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPLI62 62.5% Fe Lump 935 15 1.6% 892 998 820 1210 116.62 2.00 1.75%
     111.18 125.44 102.77 153.57
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 935.0
   - 15.0
   - 1.6
@@ -492,7 +504,7 @@ numeric_observations:
   - 820.0
   - 1210.0
   - 116.62
-- &id039
+- &id040
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Week Ending Feb 7th, 2025 RMB/tonne (excluding tax) 3 USD/tonne (excluding
@@ -503,7 +515,7 @@ numeric_observations:
   - 2025.0
   - 3.0
   - 3.0
-- &id040
+- &id041
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Hebei Hanxing 66% Fe Concentrate Dry 968 2.5% 861 1226 135.02 2.61%
@@ -519,7 +531,7 @@ numeric_observations:
   - 2.61
   - 122.41
   - 172.59
-- &id041
+- &id042
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Hebei Qian'an 65% Fe Concentrate Dry 970 0.5% 960 1300 135.30 0.58%
@@ -535,7 +547,7 @@ numeric_observations:
   - 0.58
   - 133.53
   - 183.23
-- &id042
+- &id043
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Liaoning Anshan 65% Fe Concentrate Wet 745 0.0% 715 970 103.91 0.06%
@@ -550,7 +562,7 @@ numeric_observations:
   - 0.06
   - 100.77
   - 136.72
-- &id043
+- &id044
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Shandong Zibo 65% Fe Concentrate Dry 1001 2.8% 905 1294 139.62 2.84%
@@ -566,7 +578,7 @@ numeric_observations:
   - 2.84
   - 128.66
   - 182.16
-- &id044
+- &id045
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Week Ending Feb 7th, 2025 This week Change % Low 2 High 2 ¹ÊExchangeÊrateÊapplied:ÊRMB/USDÊ=ÊÊÊ7.191ÊÊÊÊÊÊÊÊÊÊ²LastÊ12ÊmonthsÊ
@@ -576,17 +588,17 @@ numeric_observations:
   - 2025.0
   - 2.0
   - 2.0
-  - 7.191
+  - 7191.0
   - 12.0
-- &id045
+- &id046
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Ê3ÊWeeklyÊexchangeÊrateÊapplied:ÊRMB/USDÊ=7.19258
   unit: usd
   values:
   - 3.0
-  - 7.19258
-- &id046
+  - 7192.580000000001
+- &id047
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: China Mines Concentrate Composite Index RMB/WT 878.99 1.29% 854.16
@@ -597,7 +609,7 @@ numeric_observations:
   - 1.29
   - 854.16
   - 905.4
-- &id047
+- &id048
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 7th, 2025 CFR Qingdao, USD/dry tonne
@@ -605,28 +617,28 @@ numeric_observations:
   values:
   - 7.0
   - 2025.0
-- &id048
+- &id049
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOSI62 62% Fe Fines 104.02 103.09 104.94 99.58 103.02 101.01 113.83
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 104.02
   - 103.09
   - 104.94
-  - 99.58
+  - 99580.0
   - 103.02
   - 101.01
   - 113.83
-- &id049
+- &id050
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOSI65 65% Fe Fines 115.31 117.71 115.66 108.22 114.77 112.42 130.49
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 115.31
   - 117.71
@@ -635,7 +647,7 @@ numeric_observations:
   - 114.77
   - 112.42
   - 130.49
-- &id050
+- &id051
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Week Ending Feb 7th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
@@ -646,15 +658,15 @@ numeric_observations:
   - 2025.0
   - 13.0
   - 13.0
-- &id051
+- &id052
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPLI62 62.5% Fe Lump 888 876 888 909 892 880 998 111.82 109.09 110.14
     113.00 111.18 109.90 125.44
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
+  - 62500.0
   - 888.0
   - 876.0
   - 888.0
@@ -663,7 +675,7 @@ numeric_observations:
   - 880.0
   - 998.0
   - 111.82
-- &id052
+- &id053
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: www.mmiprices.com Page 2/6 Feb 7th, 2025
@@ -673,7 +685,7 @@ numeric_observations:
   - 6.0
   - 7.0
   - 2025.0
-- &id053
+- &id054
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 12-naJ-1 12-raM-1 12-yaM-1 12-luJ-1 12-peS-1 12-voN-1 22-naJ-1 22-raM-1
@@ -691,16 +703,16 @@ numeric_observations:
   - 1.0
   - 12.0
   - 1.0
-- &id054
+- &id055
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI62 IOPI58 IOPI65
   unit: null
   values:
-  - 2.0
-  - 8.0
-  - 5.0
-- &id055
+  - 62.0
+  - 58.0
+  - 65.0
+- &id056
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 12-naJ-4 12-raM-4 12-yaM-4 12-luJ-4 12-peS-4 12-voN-4 22-naJ-4 22-raM-4
@@ -718,15 +730,15 @@ numeric_observations:
   - 4.0
   - 12.0
   - 4.0
-- &id056
+- &id057
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOSI62 IOSI65
   unit: null
   values:
-  - 2.0
-  - 5.0
-- &id057
+  - 62.0
+  - 65.0
+- &id058
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 7th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
@@ -737,14 +749,14 @@ numeric_observations:
   - 2025.0
   - 13.0
   - 13.0
-- &id058
+- &id059
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI62 62% Fe Fines 781 779 791 786 785 770 863 102.03 100.71 102.08
     101.55 101.57 99.89 112.71
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 781.0
   - 779.0
@@ -754,14 +766,14 @@ numeric_observations:
   - 770.0
   - 863.0
   - 102.03
-- &id059
+- &id060
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines 690 692 706 689 695 678 757 90.61 89.97 91.67 89.46
     90.36 88.36 99.51
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 690.0
   - 692.0
@@ -770,15 +782,15 @@ numeric_observations:
   - 695.0
   - 678.0
   - 757.0
-  - 90.61
-- &id060
+  - 90610.0
+- &id061
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 894 891 903 899 897 882 974 117.10 115.71 117.03
     116.56 116.58 114.95 127.77
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 894.0
   - 891.0
@@ -788,7 +800,7 @@ numeric_observations:
   - 882.0
   - 974.0
   - 117.1
-- &id061
+- &id062
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 6th, 2025 FREIGHT RATES - DRY BULK US$/wet tonne
@@ -796,7 +808,7 @@ numeric_observations:
   values:
   - 6.0
   - 2025.0
-- &id062
+- &id063
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Route Designation Change Change % Low 2 High 2
@@ -804,29 +816,31 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
-- &id063
+- &id064
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: W. Australia - Qingdao C5 6.73 0.39 6.15% 5.92 14.89
   unit: pct
   values:
-  - 6.73
+  - 5.0
+  - 6730.0
   - 0.39
-  - 6.15
-  - 5.92
-  - 14.89
-- &id064
+  - 6150.0
+  - 5920.0
+  - 14890.0
+- &id065
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Tubarao - Qingdao C3 16.78 -0.09 -0.53% 16.08 35.02
   unit: pct
   values:
-  - 16.78
+  - 3.0
+  - 16780.0
   - -0.09
   - -0.53
-  - 16.08
-  - 35.02
-- &id065
+  - 16079.999999999998
+  - 35020.0
+- &id066
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Feb 7th, 2025 PORT STOCK INDEX (RMB/WT) Feb 7th, 2025 SEABORNE INDEX
@@ -837,77 +851,77 @@ numeric_observations:
   - 2025.0
   - 7.0
   - 2025.0
-- &id066
+- &id067
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
     Spread to IOSI62 % Spread to IOSI62
   unit: pct
   values:
-  - 2.0
-  - 2.0
-  - 2.0
-  - 2.0
-- &id067
+  - 62.0
+  - 62.0
+  - 62.0
+  - 62.0
+- &id068
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines -110 -13.45%
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - -110.0
   - -13.45
-- &id068
+- &id069
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 112 13.69% IOSI65 65% Fe Fines 11.00 10.40%
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 112.0
-  - 13.69
-  - 5.0
+  - 13690.0
   - 65.0
-  - 11.0
-  - 10.4
-- &id069
+  - 65.0
+  - 11000.0
+  - 10400.0
+- &id070
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: '270.00'
   unit: null
   values:
   - 270.0
-- &id070
+- &id071
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: '230.00'
   unit: null
   values:
   - 230.0
-- &id071
+- &id072
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: '190.00'
   unit: null
   values:
   - 190.0
-- &id072
+- &id073
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: '150.00'
   unit: null
   values:
   - 150.0
-- &id073
+- &id074
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: '110.00'
   unit: null
   values:
   - 110.0
-- &id074
+- &id075
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: www.mmiprices.com Page 3/6 Feb 7th, 2025
@@ -917,43 +931,42 @@ numeric_observations:
   - 6.0
   - 7.0
   - 2025.0
-- &id075
+- &id076
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,650.00
   unit: null
   values:
   - 1650.0
-- &id076
+- &id077
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,550.00
   unit: null
   values:
   - 1550.0
-- &id077
+- &id078
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,450.00
   unit: null
   values:
   - 1450.0
-- &id078
+- &id079
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,350.00
   unit: null
   values:
   - 1350.0
-- &id079
+- &id080
   section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,250.00
   unit: null
   values:
   - 1250.0
-- &id080
-  section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
+- section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: 1,150.00
   unit: null
@@ -994,17 +1007,17 @@ numeric_observations:
   source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent)
   unit: null
   values:
-  - 2.0
-  - 2.0
-  - 5.0
-  - 5.0
+  - 62.0
+  - 62.0
+  - 65.0
+  - 65.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
   unit: null
   values:
-  - 2.0
-  - 2.0
+  - 62.0
+  - 62.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Roy Hill 761 5 -57 Roy Hill 101.30 -0.05 -4.50
@@ -1024,7 +1037,7 @@ numeric_observations:
   - 689.0
   - 5.0
   - -129.0
-  - 97.8
+  - 97800.0
   - -0.05
   - -8.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
@@ -1068,7 +1081,7 @@ numeric_observations:
   - 682.0
   - 5.0
   - -136.0
-  - 94.45
+  - 94450.0
   - -11.35
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -1080,7 +1093,7 @@ numeric_observations:
   - 180.0
   - 135.35
   - -0.05
-  - 29.55
+  - 29550.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Brazilian SSF 781 5 -37 Brazilian SSF 109.55 -0.05 3.75
@@ -1103,7 +1116,7 @@ numeric_observations:
   - -18.0
   - 111.15
   - -0.1
-  - 5.35
+  - 5350.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: RTX Fines 701 5 -117 RTX Fines 95.65 -0.10 -10.15
@@ -1112,7 +1125,7 @@ numeric_observations:
   - 701.0
   - 5.0
   - -117.0
-  - 95.65
+  - 95650.0
   - -0.1
   - -10.15
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
@@ -1138,7 +1151,7 @@ numeric_observations:
   source_line: Price Change Diff to IOPI58
   unit: null
   values:
-  - 8.0
+  - 58.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: SSF 707 1 -1
@@ -1194,7 +1207,7 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 5.0
+  - 5000.0
   - 60.0
   - 63.0
   - 1.25
@@ -1205,7 +1218,7 @@ numeric_observations:
   values:
   - 63.0
   - 64.0
-  - 14.0
+  - 14000.0
   - 63.0
   - 64.0
   - 0.25
@@ -1218,7 +1231,7 @@ numeric_observations:
   - 1.0
   - 64.0
   - 65.0
-  - 14.0
+  - 14000.0
   - 1.0
   - 64.0
   - 65.0
@@ -1229,17 +1242,17 @@ numeric_observations:
   unit: pct
   values:
   - 65.0
-  - 65.5
-  - 14.0
+  - 65500.0
+  - 14000.0
   - 65.0
-  - 65.5
+  - 65500.0
   - 0.25
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Low Grade Fe 23.00 1.00
   unit: null
   values:
-  - 23.0
+  - 23000.0
   - 1.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -1247,7 +1260,7 @@ numeric_observations:
   unit: pct
   values:
   - 2.25
-  - 50.0
+  - 50000.0
   - 2.25
   - 4.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
@@ -1257,7 +1270,7 @@ numeric_observations:
   values:
   - 2.25
   - -4.0
-  - 5.0
+  - 5000.0
   - 2.25
   - -4.0
   - 0.25
@@ -1274,7 +1287,7 @@ numeric_observations:
   unit: pct
   values:
   - 2.25
-  - 30.0
+  - 30000.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
   source_line: Low Fe Grade Al 2.25-4% 44.00 4.00
@@ -1282,7 +1295,7 @@ numeric_observations:
   values:
   - 2.25
   - -4.0
-  - 44.0
+  - 44000.0
   - 4.0
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
   section_type: linked_pdf
@@ -1290,7 +1303,7 @@ numeric_observations:
   unit: pct
   values:
   - 4.0
-  - 14.0
+  - 14000.0
   - -2.0
   - 4.0
   - 3.25
@@ -1304,10 +1317,10 @@ numeric_observations:
   - 1.0
   - 4.0
   - -6.5
-  - 23.0
+  - 23000.0
   - 1.0
   - 4.0
-  - 6.5
+  - 6500.0
   - 3.0
   - 0.5
 - section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
@@ -1315,20 +1328,7 @@ numeric_observations:
   source_line: Low Fe Grade 22.00 0.00
   unit: null
   values:
-  - 22.0
-- section: 'Linked asset: 2025-02-07_mmi-daily-iron-ore-index-report-february-07-2025_mmi-daily-iron-ore-report-for-7th-fe_2c12b5a025da.pdf'
-  section_type: linked_pdf
-  source_line: High Fe Grade 0.09%<P<0.115% 8.00 0.00 0.01% High Fe Grade 0.09%<P<0.115%
-    2.25 0.00
-  unit: pct
-  values:
-  - 0.09
-  - 0.115
-  - 8.0
-  - 0.01
-  - 0.09
-  - 0.115
-  - 2.25
+  - 22000.0
 regions:
 - china
 - brazil
@@ -1348,7 +1348,7 @@ signals:
       inquiries decreasing compared to the
     unit: pct
     values:
-    - 505.0
+    - 2505.0
     - 817.0
     - 0.86
     - 805.0
@@ -1367,7 +1367,7 @@ signals:
     - -2025.0
     - 7.0
     - 2.0
-    - 2.0
+    - 12.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Feb 7th, 2025
     unit: null
@@ -1379,11 +1379,11 @@ signals:
       Fines RMB/t
     unit: pct
     values:
-    - 2.0
     - 62.0
-    - 5.0
+    - 62.0
     - 65.0
-    - 8.0
+    - 65.0
+    - 58.0
     - 58.0
   - metric: numeric_observation
     source_line: 5 0.62% 5.00 0.54% 2 0.28%
@@ -1391,7 +1391,7 @@ signals:
     values:
     - 5.0
     - 0.62
-    - 5.0
+    - 5000.0
     - 0.54
     - 2.0
     - 0.28
@@ -1400,11 +1400,11 @@ signals:
       Fe Lump RMB/t
     unit: usd_per_dmt
     values:
-    - 2.0
     - 62.0
-    - 5.0
+    - 62.0
     - 65.0
-    - 62.5
+    - 65.0
+    - 62500.0
   - metric: index_62_fines
     source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
       Rebar
@@ -1416,10 +1416,10 @@ signals:
     source_line: I2505 (May) RMB/t (3pm close) March 25 USD/dmt RB2505 (Jan) RMB/t
     unit: usd_per_dmt
     values:
-    - 505.0
+    - 2505.0
     - 3.0
     - 25.0
-    - 505.0
+    - 2505.0
   - metric: numeric_observation
     source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
     unit: null
@@ -1447,7 +1447,7 @@ signals:
       101.57 112.71 89.33 140.24
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 818.0
     - 5.0
@@ -1460,7 +1460,7 @@ signals:
       99.51 80.25 128.13
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 708.0
     - 2.0
@@ -1473,7 +1473,7 @@ signals:
       116.58 127.77 104.47 155.37
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 930.0
     - 5.0
@@ -1488,7 +1488,7 @@ signals:
     - 7.0
     - 2025.0
     - 415.0
-    - 505.0
+    - 2505.0
     - 817.0
     - 0.86
   - metric: index
@@ -1511,27 +1511,27 @@ signals:
       upÊ23.65ÊmillionÊmtÊYoY.ÊTheÊdailyÊportÊpick-upÊvolumeÊofÊimportedÊoreÊaveragedÊ2.584ÊmillionÊmt,ÊdownÊ610,000ÊmtÊfromÊpre-holidayÊlevelsÊ
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 105.8
     - -0.08
     - -0.08
     - 103.02
     - 113.83
-    - 89.79
+    - 89790.0
   - metric: index_65_fines
     source_line: IOSI65 65% Fe Fines 116.80 0.00 0.00% 114.77 130.49 98.28 171.65
       restockingÊbyÊsteelÊmillsÊisÊexpectedÊtoÊboostÊportÊpick-upÊvolumes,ÊwhichÊmayÊresultÊinÊaÊdeclineÊinÊportÊinventories.ÊInÊtheÊshortÊterm,ÊtheÊ
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 116.8
     - 0.0
     - 0.0
     - 114.77
     - 130.49
-    - 98.28
+    - 98280.0
   - metric: numeric_observation
     source_line: Week Ending Feb 7th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
       CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
@@ -1609,19 +1609,19 @@ signals:
     source_line: IOSI62 62% Fe Fines 104.02 103.09 104.94 99.58 103.02 101.01 113.83
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 104.02
     - 103.09
     - 104.94
-    - 99.58
+    - 99580.0
     - 103.02
     - 101.01
   - metric: index_65_fines
     source_line: IOSI65 65% Fe Fines 115.31 117.71 115.66 108.22 114.77 112.42 130.49
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 115.31
     - 117.71
@@ -1642,7 +1642,7 @@ signals:
       101.55 101.57 99.89 112.71
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 781.0
     - 779.0
@@ -1655,7 +1655,7 @@ signals:
       89.46 90.36 88.36 99.51
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 690.0
     - 692.0
@@ -1668,7 +1668,7 @@ signals:
       116.56 116.58 114.95 127.77
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 894.0
     - 891.0
@@ -1690,15 +1690,15 @@ signals:
       Spread to IOSI62 % Spread to IOSI62
     unit: pct
     values:
-    - 2.0
-    - 2.0
-    - 2.0
-    - 2.0
+    - 62.0
+    - 62.0
+    - 62.0
+    - 62.0
   - metric: index_58_fines
     source_line: IOPI58 58% Fe Fines -110 -13.45%
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - -110.0
     - -13.45
@@ -1706,14 +1706,14 @@ signals:
     source_line: IOPI65 65% Fe Fines 112 13.69% IOSI65 65% Fe Fines 11.00 10.40%
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 112.0
-    - 13.69
-    - 5.0
+    - 13690.0
     - 65.0
-    - 11.0
-    - 10.4
+    - 65.0
+    - 11000.0
+    - 10400.0
   - metric: numeric_observation
     source_line: www.mmiprices.com Page 3/6 Feb 7th, 2025
     unit: null
@@ -1729,7 +1729,7 @@ signals:
     - 689.0
     - 5.0
     - -129.0
-    - 97.8
+    - 97800.0
     - -0.05
     - -8.0
   - metric: numeric_observation
@@ -1770,7 +1770,7 @@ signals:
     - 682.0
     - 5.0
     - -136.0
-    - 94.45
+    - 94450.0
     - 0.0
     - -11.35
   - metric: numeric_observation
@@ -1782,7 +1782,7 @@ signals:
     - 180.0
     - 135.35
     - -0.05
-    - 29.55
+    - 29550.0
   - metric: numeric_observation
     source_line: Brazilian Blend Fines 800 5 -18 Brazilian Blend Fines 111.15 -0.10
       5.35
@@ -1793,7 +1793,7 @@ signals:
     - -18.0
     - 111.15
     - -0.1
-    - 5.35
+    - 5350.0
   - metric: index_65_fines
     source_line: RTX Fines 701 5 -117 RTX Fines 95.65 -0.10 -10.15
     unit: null
@@ -1801,7 +1801,7 @@ signals:
     - 701.0
     - 5.0
     - -117.0
-    - 95.65
+    - 95650.0
     - -0.1
     - -10.15
   - metric: numeric_observation
@@ -1843,7 +1843,7 @@ signals:
     - 1.0
     - 64.0
     - 65.0
-    - 14.0
+    - 14000.0
     - 0.0
     - 1.0
     - 64.0

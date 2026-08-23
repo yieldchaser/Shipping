@@ -689,14 +689,19 @@ def pick_metric_value(metric: str, values: list[float]) -> float | None:
 
 # OCR-mangled tag tolerance for the Hellenic MMI iron-ore tables. The IOSI
 # price-index tags regularly arrive with confused glyphs (IOSI6S, lOSIB,
-# IOPIG2, IOPIGS) after PDF rasterization, so tag matching runs fuzzily over
-# the de-punctuated line: I/l/1/L collapse, O/0 collapse, S/5 collapse and
-# G/6 collapse. Exact spellings still match these classes.
-_FUZZY_IOSI62 = re.compile(r"[I1L][O0][S5][I1L][G6][2Z]")
-_FUZZY_IOSI65 = re.compile(r"[I1L][O0][S5][I1L][G6][5S]")
+# 10162, IOPIG2, IOPIGS) after PDF rasterization, so tag matching runs fuzzily
+# over the de-punctuated line: I/l/1/L collapse, O/0 collapse, S/5/1 collapse
+# and G/6 collapse. Exact spellings still match these classes.
+_FUZZY_IOSI62 = re.compile(r"[I1L][O0][S51L][I1L][G6][2Z]")
+_FUZZY_IOSI65 = re.compile(r"[I1L][O0][S51L][I1L][G6][5S]")
+# Rasterization sometimes drops a glyph entirely ("IOSI62" -> "10162"); these
+# shorter variants are checked only after the full ones.
+_FUZZY_IOSI62_SHORT = re.compile(r"[I1L][O0][S51L][G6][2Z]")
+_FUZZY_IOSI65_SHORT = re.compile(r"[I1L][O0][S51L][G6][5S]")
 # Fe-grade tokens (58%/61%/62%/62.5%/64%/65%/66%) that OCR merges into data
-# rows; picking one as a price is the signature of the 2026 cfr_62 freeze at
-# exactly 62.5 for 52 straight days.
+# rows and multi-tag header lines ("IOSI61 ... IOSI65 ... IOPLI 62.5% Fe Lump")
+# — picking one as a price produced the 2026 cfr_62 freeze at exactly 62.5
+# for 52 straight days.
 _IO_PRICE_GRADE_TOKENS = {58.0, 61.0, 62.0, 62.5, 64.0, 65.0, 66.0}
 # CFR 65% trades at a modest premium to CFR 62% (historically $5-20); a wider
 # gap than this means the parser paired two unrelated numbers from an OCR-
@@ -705,6 +710,13 @@ _IO_CFR_SPREAD_LIMIT = 40.0
 # Daily-move continuity gate: iron ore never reprices >$40 in one report;
 # candidates further than this from the last trusted level are junk picks.
 _IO_CONTINUITY_LIMIT = 40.0
+# Rows that never hold the daily settlement: freight-rate tables OCR-merged
+# into index rows, period-average columns (MTD/QTD/YTD) and unit legend lines
+# ("IOSI61 .. USD/dmt IOSI65 .. RMB/t"). Month names are deliberately NOT
+# matched here — report prose ("prices may soften", "late July") sits on the
+# same text lines as legitimate daily prices.
+_IO_SUMMARY_ROW_RE = re.compile(r"\b(mtd|qtd|ytd)\b", re.IGNORECASE)
+_IO_FREIGHT_ROW_RE = re.compile(r"(w\.\s*australia|rout(e)?\s*design|qingdao\s*c\d)", re.IGNORECASE)
 
 
 def _match_iosi_tag(line: str) -> str | None:
@@ -715,7 +727,19 @@ def _match_iosi_tag(line: str) -> str | None:
         return "cfr_62"
     if _FUZZY_IOSI65.search(compact):
         return "cfr_65"
+    if _FUZZY_IOSI62_SHORT.search(compact):
+        return "cfr_62"
+    if _FUZZY_IOSI65_SHORT.search(compact):
+        return "cfr_65"
     return None
+
+
+def _is_io_summary_row(line: str) -> bool:
+    low = (line or "").lower()
+    if _IO_SUMMARY_ROW_RE.search(low) or _IO_FREIGHT_ROW_RE.search(low):
+        return True
+    # Unit legend / multi-index header rows carry two or more unit strings.
+    return low.count("usd/dmt") + low.count("rmb/t") >= 2
 
 
 def _pick_cfr_value(vals: list[float], prev: float | None) -> float | None:
@@ -723,17 +747,15 @@ def _pick_cfr_value(vals: list[float], prev: float | None) -> float | None:
     for v in vals:
         if 40 <= v <= 250 and v not in candidates:
             candidates.append(v)
-    if not candidates:
-        return None
     non_grade = [v for v in candidates if v not in _IO_PRICE_GRADE_TOKENS]
-    if non_grade:
-        candidates = non_grade
-    if prev is None:
-        return candidates[0]
-    best = min(candidates, key=lambda v: abs(v - prev))
-    if abs(best - prev) <= _IO_CONTINUITY_LIMIT:
-        return best
-    return None
+    # An all-grade candidate list means a header/label row: never valid.
+    if not non_grade:
+        return None
+    best = non_grade[0]
+    if prev is not None and abs(best - prev) > _IO_CONTINUITY_LIMIT:
+        near = next((v for v in non_grade[1:] if abs(v - prev) <= _IO_CONTINUITY_LIMIT), None)
+        return near
+    return best
 
 
 def extract_hellenic_iron_ore_signals(text: str) -> dict:
@@ -3958,30 +3980,57 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
         if not obs_list:
             continue
         day = iron_ore_records.setdefault(date, {})
+        # First accepted hit wins per series: the daily-settlement table is
+        # emitted before the weekly/monthly-average tables in every report,
+        # so scanning in document order and stopping per series keeps later
+        # average columns from clobbering the daily price (the original
+        # last-write-wins bug).
         for obs in obs_list:
             line = obs.get("source_line", "")
             vals = obs.get("values") or []
-            if not line or not vals:
+            if not line or len(vals) < 3:
+                continue
+            if _is_io_summary_row(line):
+                continue
+            target = _match_iosi_tag(line)
+            if target is None or day.get(target) is not None:
+                continue
+            picked = _pick_cfr_value(vals[2:], io_prev[target])
+            if picked is None:
+                io_rejects += 1
+                continue
+            day[target] = picked
+            io_prev[target] = picked
+        # Port-inventory indices keep the exact-substring match (their tags
+        # have not shown OCR confusion; fuzzy-widening them would risk
+        # pairing RMB/t prices into USD index columns).
+        for obs in obs_list:
+            line = obs.get("source_line", "")
+            vals = obs.get("values") or []
+            if not line or len(vals) < 3:
                 continue
             line_lower = line.lower()
-            target = _match_iosi_tag(line)
-            if target is not None and len(vals) >= 3:
-                picked = _pick_cfr_value(vals[2:], io_prev[target])
-                if picked is None:
-                    io_rejects += 1
-                    continue
-                day[target] = picked
-                io_prev[target] = picked
-            elif "iopi62" in line_lower and len(vals) >= 3:
+            if "iopi62" in line_lower and day.get("port_stock_62") is None:
                 for v in vals[2:]:
                     if 300 <= v <= 1800:
                         day["port_stock_62"] = v
                         break
-            elif "iopi65" in line_lower and len(vals) >= 3:
+            elif "iopi65" in line_lower and day.get("port_stock_65") is None:
                 for v in vals[2:]:
                     if 300 <= v <= 1800:
                         day["port_stock_65"] = v
                         break
+    # Same-date cross-check: CFR 65% always trades near CFR 62% (modest
+    # premium); a wider-than-market gap means OCR paired two unrelated
+    # numbers from one scrambled row, so neither value can be trusted.
+    for date in sorted(iron_ore_records):
+        day = iron_ore_records[date]
+        v62, v65 = day.get("cfr_62"), day.get("cfr_65")
+        if v62 is not None and v65 is not None and abs(v65 - v62) > _IO_CFR_SPREAD_LIMIT:
+            del day["cfr_62"]
+            del day["cfr_65"]
+            io_rejects += 1
+    print(f"[IRON-ORE] dates_parsed={len(iron_ore_records)} rejected_observations={io_rejects}")
     # Same-date cross-check: CFR 65% always trades near CFR 62% (modest
     # premium); a wider-than-market gap means OCR paired two unrelated
     # numbers from one scrambled row, so neither value can be trusted.
@@ -4032,8 +4081,20 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
             elif k in {"cfr_62", "cfr_65"} and cur in _IO_PRICE_GRADE_TOKENS and cur != v:
                 existing_io[d][k] = v
                 io_grade_repairs += 1
+    # A stored price exactly equal to an Fe-grade token with no trusted
+    # replacement from this run stays corrupted forever; null it so the
+    # chart shows a gap instead of a freeze. Scoped to the OCR-format-change
+    # era (2026+) because genuine $62/$65 handles existed pre-2020.
+    for d, row in existing_io.items():
+        if d < "2026-01-01":
+            continue
+        for k in ("cfr_62", "cfr_65"):
+            cur = row.get(k)
+            if isinstance(cur, float) and cur in _IO_PRICE_GRADE_TOKENS and iron_ore_records.get(d, {}).get(k) is None:
+                row[k] = None
+                io_grade_repairs += 1
     if io_grade_repairs:
-        print(f"[IRON-ORE] repaired grade-token cells: {io_grade_repairs}")
+        print(f"[IRON-ORE] grade-token cells repaired/blanked: {io_grade_repairs}")
     # Stored pairs whose 65-vs-62 spread exceeds the market-plausible band
     # are replaced wholesale when this run produced a validated pair.
     io_spread_repairs = 0
@@ -4041,8 +4102,10 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
         row = existing_io.get(d)
         if not row:
             continue
-        s62, s65 = row.get("cfr_62"), row.get("cfr_65")
-        n62, n65 = day.get("cfr_62"), day.get("cfr_65")
+        def _num(v):
+            return v if isinstance(v, (int, float)) else None
+        s62, s65 = _num(row.get("cfr_62")), _num(row.get("cfr_65"))
+        n62, n65 = _num(day.get("cfr_62")), _num(day.get("cfr_65"))
         stored_bad = s62 is not None and s65 is not None and abs(s65 - s62) > _IO_CFR_SPREAD_LIMIT
         new_ok = n62 is not None and n65 is not None and abs(n65 - n62) <= _IO_CFR_SPREAD_LIMIT
         if stored_bad and new_ok and (n62 != s62 or n65 != s65):

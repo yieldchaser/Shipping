@@ -6,6 +6,7 @@ commodities:
 date: '2024-09-30'
 doc_id: hellenic_iron_ore_2024-09-30_2024_09_30_pre_mepc_82_briefing_on_black_carbon_ghgs_scrubbers_noise_plastics_other_shippin
 document_type: commodity_update
+is_error_page: false
 key_entities: []
 keywords:
 - alliance
@@ -37,7 +38,7 @@ numeric_observations:
     30 September - 4 Oc
   unit: null
   values:
-  - 2.0
+  - 82.0
   - 82.0
   - 30.0
   - 4.0
@@ -57,7 +58,7 @@ signals:
       Committee (MEPC 82, 30 September - 4 Oc
     unit: null
     values:
-    - 2.0
+    - 82.0
     - 82.0
     - 30.0
     - 4.0

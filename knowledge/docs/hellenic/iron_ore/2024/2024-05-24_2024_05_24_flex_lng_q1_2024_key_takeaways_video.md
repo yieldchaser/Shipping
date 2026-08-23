@@ -7,6 +7,7 @@ commodities:
 date: '2024-05-24'
 doc_id: hellenic_iron_ore_2024-05-24_2024_05_24_flex_lng_q1_2024_key_takeaways_video
 document_type: commodity_update
+is_error_page: false
 key_entities: []
 keywords:
 - lng
@@ -29,8 +30,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Key highlights from the Flex LNG Ltd Q1-2024 Result Presentation on
     May 23, 2024. The full presentation, includinga Q&A session, will be available
@@ -38,6 +38,7 @@ numeric_observations:
     growing market for Liquefied Natura
   unit: null
   values:
+  - 1.0
   - -2024.0
   - 23.0
   - 2024.0
@@ -51,7 +52,19 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: Key highlights from the Flex LNG Ltd Q1-2024 Result Presentation
+      on May 23, 2024. The full presentation, includinga Q&A session, will be available
+      on YouTube on May 23, 2024. Flex LNG Ltd is a shipping company focused on the
+      growing market for Liquefied Natura
+    unit: null
+    values:
+    - -2024.0
+    - 23.0
+    - 2024.0
+    - 23.0
+    - 2024.0
 source: hellenic
 source_path: reports/hellenic/iron_ore/2024/2024-05-24_flex-lng-q1-2024-key-takeaways-video.html
 source_stem: 2024-05-24_flex-lng-q1-2024-key-takeaways-video
