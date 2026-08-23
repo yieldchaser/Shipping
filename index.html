@@ -24609,7 +24609,7 @@ if (intelTabsContainer) {
       // Update score num
       const scoreEl = document.getElementById('mhrScoreNum');
       if (scoreEl) {
-        scoreEl.textContent = total;
+        scoreEl.textContent = (total % 1 === 0) ? total.toFixed(0) : total.toFixed(1);
         scoreEl.className = 'mhr-score-num ' + cls;
       }
 
@@ -24623,7 +24623,7 @@ if (intelTabsContainer) {
         badgeEl.setAttribute('data-tt-type', 'macro-regime-badge');
         badgeEl.setAttribute('data-tt-regime', regime);
         badgeEl.setAttribute('data-tt-cls', cls);
-        badgeEl.setAttribute('data-tt-score', total);
+        badgeEl.setAttribute('data-tt-score', (total % 1 === 0) ? total.toFixed(0) : total.toFixed(1));
         badgeEl.style.cursor = 'help';
       }
 
@@ -24637,8 +24637,10 @@ if (intelTabsContainer) {
         if (bdiRows && bdiRows.length >= 35) {
           const score30Row = bdiRows[Math.max(0, bdiRows.length - 31)];
           const score30Result = _computeMacroHealthScore(score30Row ? score30Row.date : null);
-          const diff30 = total - (score30Result ? score30Result.total : total);
-          const diff30Str = diff30 > 0 ? ('↑ +' + diff30) : diff30 < 0 ? ('↓ ' + diff30) : '→ 0';
+          const rawDiff = total - (score30Result ? score30Result.total : total);
+          const diff30 = Math.round(rawDiff * 10) / 10;
+          const diff30Formatted = (diff30 % 1 === 0) ? diff30.toFixed(0) : diff30.toFixed(1);
+          const diff30Str = diff30 > 0 ? ('↑ +' + diff30Formatted) : diff30 < 0 ? ('↓ ' + diff30Formatted) : '→ 0';
           const diff30Color = diff30 > 0 ? '#3fb950' : diff30 < 0 ? '#f85149' : '#e3b341';
           const diff30Label = diff30 > 0 ? 'Expanding' : diff30 < 0 ? 'Contracting' : 'Stable';
 
@@ -24653,17 +24655,19 @@ if (intelTabsContainer) {
               if (sc.total > max1y) max1y = sc.total;
             }
           }
+          const min1yStr = (min1y % 1 === 0) ? min1y.toFixed(0) : min1y.toFixed(1);
+          const max1yStr = (max1y % 1 === 0) ? max1y.toFixed(0) : max1y.toFixed(1);
 
           const trendBadgeEl = document.getElementById('mhrTrendBadge');
           if (trendBadgeEl) {
             trendBadgeEl.innerHTML =
               '30D Momentum: <span class="mhr-trend-val" style="color:' + diff30Color + '">' + diff30Str + ' pts (' + diff30Label + ')</span>' +
-              '<span class="mhr-trend-range">1Y Range: ' + min1y + '–' + max1y + '</span>';
+              '<span class="mhr-trend-range">1Y Range: ' + min1yStr + '–' + max1yStr + '</span>';
             trendBadgeEl.setAttribute('data-tt-type', 'macro-trend-badge');
             trendBadgeEl.setAttribute('data-tt-diff', diff30);
             trendBadgeEl.setAttribute('data-tt-diff-str', diff30Str);
             trendBadgeEl.setAttribute('data-tt-diff-label', diff30Label);
-            trendBadgeEl.setAttribute('data-tt-range', min1y + '–' + max1y);
+            trendBadgeEl.setAttribute('data-tt-range', min1yStr + '–' + max1yStr);
             trendBadgeEl.style.cursor = 'help';
             trendBadgeEl.style.display = 'inline-flex';
           }
@@ -25100,7 +25104,7 @@ if (intelTabsContainer) {
         pillars.push({ label: 'Asset Cycle Heat', score: score, max: 20, detail: detail });
       })();
 
-      const total = pillars.reduce((a, p) => a + p.score, 0);
+      const total = Math.round(pillars.reduce((a, p) => a + p.score, 0) * 10) / 10;
       let regime, cls;
       // Regime labels encode realized forward-return evidence (2018-26 backtest):
       // high composite heat has preceded negative BDI returns and vice versa.
