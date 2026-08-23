@@ -27253,22 +27253,39 @@ if (intelTabsContainer) {
       esc = esc.replace(/^The user asks:\s*["'].*?["']\s*(?:We need to[\s\S]*?)(?=(?:###|##|#|\*\*|Based on|According to|Executive Summary|Summary|1\.|In summary|The latest|As of))/i, '');
       esc = esc.trim();
 
-      // 1. Normalize unicode dashes/hyphens (‑, –, —, etc.) to standard hyphen
+      // 1. Normalize full-width alphanumeric characters (e.g. １, ２, Ｄ, Ｏ, Ｃ) to ASCII
+      esc = esc.replace(/[\uff01-\uff5e]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xfee0));
+
+      // 2. Normalize unicode dashes/hyphens (‑, –, —, etc.) to standard hyphen
       esc = esc.replace(/[\u2010\u2011\u2012\u2013\u2014\u2015]/g, '-');
 
-      // 2. Comprehensive pattern for brackets [DOC-1], [DOC 1], [DOC-1, DOC-2], [DOC: 3], [DOC-1; 2; 3]
-      esc = esc.replace(/\[\s*DOC\s*[-_:\s]*\s*(\d+(?:(?:\s*[,;]\s*|\s+)(?:DOC\s*[-_:\s]*)?\d+)*)\s*\]/gi, (match) => {
+      // 3. Comprehensive pattern for brackets [DOC-1], 【DOC-1】, ［DOC-1］, 〖DOC-1〗, 〔DOC-1〕, 《DOC-1》, 〈DOC-1〉, [PASSAGE-1], [CHUNK-1], [REF-1], etc.
+      const bracketOpen = '(?:\\[|【|［|〔|〖|《|〈|\\{)';
+      const bracketClose = '(?:\\]|】|］|〕|〗|》|〉|\\})';
+      const tagPrefix = '(?:DOC|DOCUMENT|PASSAGE|CHUNK|REF|REFERENCE|SOURCE|SRC|WIKI|CIT|CITATION)';
+
+      const bracketRegex = new RegExp(
+        bracketOpen + '\\s*' + tagPrefix + '\\s*[-_:#/\\s]*\\s*(\\d+(?:(?:\\s*[,;&]\\s*|\\s+)(?:' + tagPrefix + '\\s*[-_:#/\\s]*)?\\d+)*)\\s*' + bracketClose,
+        'gi'
+      );
+
+      esc = esc.replace(bracketRegex, (match) => {
         const nums = match.match(/\d+/g) || [];
         return nums.map(n => `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`).join(' ');
       });
 
-      // 3. Parentheses style: (DOC-1), (DOC 1), (DOC: 2)
-      esc = esc.replace(/\(\s*DOC\s*[-_:\s]*\s*(\d+(?:(?:\s*[,;]\s*|\s+)(?:DOC\s*[-_:\s]*)?\d+)*)\s*\)/gi, (match) => {
+      // 4. Parentheses style: (DOC-1), (DOC 1), (DOC: 2), (PASSAGE-1), (REF-1)
+      const parenRegex = new RegExp(
+        '\\(\\s*' + tagPrefix + '\\s*[-_:#/\\s]*\\s*(\\d+(?:(?:\\s*[,;&]\\s*|\\s+)(?:' + tagPrefix + '\\s*[-_:#/\\s]*)?\\d+)*)\\s*\\)',
+        'gi'
+      );
+
+      esc = esc.replace(parenRegex, (match) => {
         const nums = match.match(/\d+/g) || [];
         return nums.map(n => `<sup class="qa-sup" data-doc="${n}" title="Citation: DOC-${n}">[${n}]</sup>`).join(' ');
       });
 
-      // 4. Standalone plain-text doc references: 'doc 1', 'document 2', 'doc eleven'
+      // 5. Standalone plain-text doc references: 'doc 1', 'document 2', 'doc eleven'
       const _docWordMap = { 'zero':0, 'one':1, 'two':2, 'three':3, 'four':4, 'five':5, 'six':6, 'seven':7, 'eight':8, 'nine':9, 'ten':10, 'eleven':11, 'twelve':12, 'thirteen':13, 'fourteen':14, 'fifteen':15, 'sixteen':16, 'seventeen':17, 'eighteen':18, 'nineteen':19, 'twenty':20 };
       esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b/gi, (m, word) => {
         const n = _docWordMap[word.toLowerCase()];
