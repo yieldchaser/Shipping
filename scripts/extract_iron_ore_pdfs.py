@@ -39,81 +39,76 @@ def parse_iron_ore_pdf(pdf_path: Path):
                 return None
             fh.seek(0)
             reader = pypdf.PdfReader(fh, strict=False)
-            combined = ""
-            for i in range(min(2, len(reader.pages))):
-                combined += reader.pages[i].extract_text() + "\n"
+            pages_text = []
+            for p in reader.pages:
+                pages_text.append(p.extract_text() or "")
+            combined = "\n".join(pages_text)
     except Exception:
         return None
 
     lines = [l.strip() for l in combined.splitlines() if l.strip()]
 
-    # 1. IOSI 62% Fe
-    for idx, line in enumerate(lines):
+    # 1. IOSI 62% Fe Daily Settlement
+    for line in lines:
         if "IOSI62" in line.upper():
-            window = lines[max(0, idx-4) : min(len(lines), idx+5)]
-            window_str = " ".join(window)
-            floats = re.findall(r"\b(\d{2,3}\.\d{1,2})\b", window_str)
-            for f in floats:
-                val = float(f)
-                if 45.0 <= val <= 250.0:
+            if re.search(r'\b(february|march|april|may|june|july|august|september|october|november|december|spread|equivalent)\b', line, re.I):
+                continue
+            m_p = re.search(r'IOSI62\s*(?:62%?\s*Fe\s*Fines)?\s*([0-9]{2,3}\.[0-9]{1,2})\b', line, re.I)
+            if m_p:
+                val = float(m_p.group(1))
+                if 40.0 <= val <= 250.0 and val not in [58.0, 61.0, 62.0, 62.5, 65.0]:
                     rec["cfr_62"] = val
                     break
-            if rec["cfr_62"]:
-                break
 
-    # 2. IOSI 65% Fe
-    for idx, line in enumerate(lines):
+    # 2. IOSI 65% Fe Daily Settlement
+    for line in lines:
         if "IOSI65" in line.upper():
-            window = lines[max(0, idx-4) : min(len(lines), idx+5)]
-            window_str = " ".join(window)
-            floats = re.findall(r"\b(\d{2,3}\.\d{1,2})\b", window_str)
-            for f in floats:
-                val = float(f)
-                if 55.0 <= val <= 300.0:
+            if re.search(r'\b(february|march|april|may|june|july|august|september|october|november|december|spread|equivalent)\b', line, re.I):
+                continue
+            m_p = re.search(r'IOSI65\s*(?:65%?\s*Fe\s*Fines)?\s*([0-9]{2,3}\.[0-9]{1,2})\b', line, re.I)
+            if m_p:
+                val = float(m_p.group(1))
+                if 50.0 <= val <= 300.0 and val not in [58.0, 61.0, 62.0, 62.5, 65.0]:
                     rec["cfr_65"] = val
                     break
-            if rec["cfr_65"]:
-                break
 
-    # 3. IOPI 62%
-    for idx, line in enumerate(lines):
-        if "IOPI62" in line.upper() or "IOPI61" in line.upper():
-            window = lines[max(0, idx-3) : min(len(lines), idx+4)]
-            window_str = " ".join(window)
-            ints = re.findall(r"\b(\d{3,4})\b", window_str)
-            for i_str in ints:
-                val = float(i_str)
-                if 450.0 <= val <= 1750.0:
+    # 3. IOPI 62% Port Stock Price (RMB/wt)
+    for line in lines:
+        if "IOPI62" in line.upper():
+            if re.search(r'\b(february|march|april|may|june|july|august|september|october|november|december|spread|equivalent)\b', line, re.I):
+                continue
+            m_p = re.search(r'IOPI62\s*(?:62%?\s*Fe\s*Fines)?\s*([0-9]{3,4})\b', line, re.I)
+            if m_p:
+                val = float(m_p.group(1))
+                if 350.0 <= val <= 1800.0:
                     rec["port_stock_62"] = val
                     break
-            if rec["port_stock_62"]:
-                break
 
-    # 4. IOPI 65%
-    for idx, line in enumerate(lines):
+    # 4. IOPI 65% Port Stock Price (RMB/wt)
+    for line in lines:
         if "IOPI65" in line.upper():
-            window = lines[max(0, idx-3) : min(len(lines), idx+4)]
-            window_str = " ".join(window)
-            ints = re.findall(r"\b(\d{3,4})\b", window_str)
-            for i_str in ints:
-                val = float(i_str)
-                if 500.0 <= val <= 1950.0:
+            if re.search(r'\b(february|march|april|may|june|july|august|september|october|november|december|spread|equivalent)\b', line, re.I):
+                continue
+            m_p = re.search(r'IOPI65\s*(?:65%?\s*Fe\s*Fines)?\s*([0-9]{3,4})\b', line, re.I)
+            if m_p:
+                val = float(m_p.group(1))
+                if 400.0 <= val <= 2000.0:
                     rec["port_stock_65"] = val
                     break
-            if rec["port_stock_65"]:
-                break
 
-    # 5. 35 Ports Inventory
-    m_inv = re.search(r"35\s*major\s*ports\s*stood\s*at\s*(\d{2,3}\.\d{1,2})\s*million", combined, re.IGNORECASE)
-    if not m_inv:
-        m_inv = re.search(r"Inventory\s*at\s*Chinese\s*Ports\s*\([0-9]+\)\s*(?:million\s*tonnes\s*)?(\d{2,3}\.\d{1,2})", combined, re.IGNORECASE)
-    if m_inv:
-        try:
-            val = float(m_inv.group(1))
-            if 50.0 <= val <= 220.0:
-                rec["port_inventory_mt"] = val
-        except ValueError:
-            pass
+    # 5. Total (35 Ports) Inventory in Mt
+    for line in lines:
+        if "TOTAL (35 PORTS)" in line.upper() or "35 PORTS" in line.upper():
+            m_inv = re.search(r'Total\s*\(\s*35\s*Ports\s*\)\s*([0-9]{2,3}\.[0-9]{1,2})\b', line, re.I)
+            if not m_inv:
+                m_inv = re.search(r'35\s*major\s*ports\s*stood\s*at\s*([0-9]{2,3}\.[0-9]{1,2})\s*million', line, re.I)
+            if not m_inv:
+                m_inv = re.search(r'Inventory\s*at\s*Chinese\s*Ports\s*\([0-9]+\)\s*(?:million\s*tonnes\s*)?([0-9]{2,3}\.[0-9]{1,2})', line, re.I)
+            if m_inv:
+                val = float(m_inv.group(1))
+                if 50.0 <= val <= 220.0:
+                    rec["port_inventory_mt"] = val
+                    break
 
     # 6. Steel Inventory in China
     m_steel = re.search(r"Steel\s*Inventory\s*in\s*China\s*(?:million\s*tonnes\s*)?(\d{1,2}\.\d{1,2})", combined, re.IGNORECASE)

@@ -3995,7 +3995,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
             target = _match_iosi_tag(line)
             if target is None or day.get(target) is not None:
                 continue
-            picked = _pick_cfr_value(vals[2:], io_prev[target])
+            picked = _pick_cfr_value([v for v in vals if v not in _IO_PRICE_GRADE_TOKENS], io_prev[target])
             if picked is None:
                 io_rejects += 1
                 continue
@@ -4007,16 +4007,16 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
         for obs in obs_list:
             line = obs.get("source_line", "")
             vals = obs.get("values") or []
-            if not line or len(vals) < 3:
+            if not line or len(vals) < 2:
                 continue
             line_lower = line.lower()
             if "iopi62" in line_lower and day.get("port_stock_62") is None:
-                for v in vals[2:]:
+                for v in vals:
                     if 300 <= v <= 1800:
                         day["port_stock_62"] = v
                         break
             elif "iopi65" in line_lower and day.get("port_stock_65") is None:
-                for v in vals[2:]:
+                for v in vals:
                     if 300 <= v <= 1800:
                         day["port_stock_65"] = v
                         break

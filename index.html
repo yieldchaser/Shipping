@@ -19768,17 +19768,17 @@ if (intelTabsContainer) {
         let steelInv = r.steel_inventories_mt || null;
 
         if (activeGrade === '65') {
-          stockVal = r.port_stock_65 != null ? r.port_stock_65 : (r.inventories_mt ? r.inventories_mt * 0.22 : null);
+          stockVal = r.inventories_mt != null ? r.inventories_mt * 0.22 : null;
           priceVal = r.cfr_65;
         } else if (activeGrade === 'steel') {
           stockVal = r.steel_inventories_mt;
           priceVal = r.steel_production_mt;
         } else {
-          stockVal = r.port_stock_62 != null ? r.port_stock_62 : (r.inventories_mt ? r.inventories_mt * 0.78 : null);
+          stockVal = r.inventories_mt != null ? r.inventories_mt : null;
           priceVal = r.cfr_62;
         }
 
-        const totalInvMt = r.inventories_mt != null ? r.inventories_mt : (r.port_stock_62 ? (r.port_stock_62 * 10000 / 1e6) : null);
+        const totalInvMt = r.inventories_mt != null ? r.inventories_mt : null;
 
         aligned.push({
           date: r.date,
@@ -19890,10 +19890,10 @@ if (intelTabsContainer) {
         ];
       } else {
         const gradeLabel = activeGrade === '65' ? 'CFR 65% Carajas Fines ($/dmt)' : 'CFR 62% Standard Ore ($/dmt)';
-        const stockLabel = activeGrade === '65' ? 'Port Stock 65% (10k t)' : 'Qingdao Port Inventory (10k t)';
+        const stockLabel = activeGrade === '65' ? 'Port Stock 65% Est. (Mt)' : 'China Port Inventory (Mt)';
         datasets = [
           { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
-          { label: gradeLabel, data: rows.map(r => r.price), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: false },
+          { label: gradeLabel, data: rows.map(r => r.price), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
           { label: stockLabel, data: rows.map(r => r.stock), yAxisID: 'yRight2', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true }
         ];
       }
@@ -19912,8 +19912,8 @@ if (intelTabsContainer) {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
                   if (c.dataset.label.includes('Spot')) return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
-                  if (c.dataset.label.includes('CFR')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + '/dmt';
-                  if (c.dataset.label.includes('Inventory') || c.dataset.label.includes('Stock')) return ' ' + c.dataset.label + ': ' + Math.round(c.parsed.y).toLocaleString() + ' (10k tonnes)';
+                  if (c.dataset.label.includes('CFR') || c.dataset.label.includes('Steel Output')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + '/dmt';
+                  if (c.dataset.label.includes('Inventory') || c.dataset.label.includes('Stock')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(1) + ' Mt';
                   return ' ' + c.dataset.label + ': ' + c.parsed.y.toLocaleString();
                 }
               }
@@ -19923,7 +19923,7 @@ if (intelTabsContainer) {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
             yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => (v != null && v >= 1000) ? '$' + Math.round(v).toLocaleString() : (v === 0 ? '$0' : (v != null ? '$' + v : '')) }, title: { display: isMainCall, text: 'Capesize Spot Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + v : '' }, title: { display: isMainCall, text: 'CFR Iron Ore ($/dmt)', color: '#8b949e', font: { size: 11 } } },
-            yRight2: { display: activeGrade !== 'steel', position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 10 : 8 }, callback: v => v != null ? v.toLocaleString() : '' }, title: { display: isMainCall && activeGrade !== 'steel', text: 'Port Inventory (10k tonnes)', color: '#8b949e', font: { size: 11 } } }
+            yRight2: { display: activeGrade !== 'steel', position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 10 : 8 }, callback: v => v != null ? v.toLocaleString() + ' Mt' : '' }, title: { display: isMainCall && activeGrade !== 'steel', text: 'Port Inventory (Million Tonnes)', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
