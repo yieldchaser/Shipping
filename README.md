@@ -481,6 +481,46 @@ Engine parity: the Python backtester (`scripts/backtest_macro_health_radar.py`)
 and the browser engine (`_computeMacroHealthScore` in `index.html`) produce
 identical totals and regimes on common dates (verified by harness).
 
+#### 4.4b Signal & Confluence Engine — Evidence Audit (285 Breakwave reports, 2018–2026)
+
+The Signal Engine's confluence labels (`BULL_CONFLUENCE` / `BEAR_CONFLUENCE` /
+`DIVERGENCE` / `NEUTRAL`) were reconstructed point-in-time at every Breakwave
+report date (decay-weighted analyst sentiment vs the 252-day quant Z-score,
+browser thresholds ±0.5σ/±0.25) and scored against forward index returns:
+
+**Dry Bulk** (BDI, n=200 report dates) — *analyst consensus is contrarian*:
+
+| Label | Fwd 1M | Fwd 3M | 3M Win | Days |
+| :--- | ---: | ---: | :---: | :---: |
+| BULL_CONFLUENCE | +3.6% | +12.1% | 55% | 22 |
+| **BEAR_CONFLUENCE** | +32.3% | **+75.7%** | **61%** | 18 |
+| DIVERGENCE | −1.6% | +5.6% | 50% | 26 |
+| NEUTRAL | +3.2% | +8.2% | 46% | 134 |
+
+Sentiment IC vs fwd 3M BDI = **−0.24**: bearish analyst alignment has marked
+cycle-bottom value zones, while bullish alignment added nothing versus neutral.
+
+**Tankers** (clean+dirty average, n=70) — *consensus is genuinely informative*:
+
+| Label | Fwd 1M | Fwd 3M | 3M Win | Days |
+| :--- | ---: | ---: | :---: | :---: |
+| **BULL_CONFLUENCE** | +5.4% | **+24.8%** | 54% | 22 |
+| DIVERGENCE | +4.4% | +15.6% | **86%** | 21 |
+| NEUTRAL | +1.1% | −2.7% | 38% | 27 |
+
+Sentiment IC vs fwd 3M = **+0.48**. Tanker fear-heavy divergences resolved
+upward 86% of the time.
+
+Actions taken from this audit:
+1. UI confluence banners and tooltips now carry these realized profiles per
+   sector instead of generic "aligned bullish/bearish setup" language.
+2. The brief generator's confluence thresholds (±0.15) were unified with the
+   browser engine (±0.25) so LLM briefs and UI cards agree.
+3. Brief system message gained RULE 9D instructing the writer-LLM to treat
+   dry-bulk bearish alignment as a potential contrarian value signal.
+4. The 50/30/20 fundamentals-sentiment-momentum weights are retained as
+   editorial priors (no evidence supports refitting them on this sample).
+
 ---
 
 ## 5. Intelligence Knowledge Base Engine & RAG Architecture

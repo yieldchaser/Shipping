@@ -465,11 +465,16 @@ def compute_confluence(
         # Fallback: sentiment 60%, momentum 40% (legacy behaviour)
         qual_score = 0.60 * s_score + 0.40 * m_score
 
-    if z_score > 0.5 and qual_score > 0.15:
+    # Thresholds unified with the browser Signal Engine (+/-0.25) so brief
+    # labels and UI cards agree. Evidence audit (285 Breakwave reports,
+    # 2018-2026): dry-bulk consensus is contrarian (sentiment IC vs fwd 3M
+    # BDI = -0.24; bearish confluence preceded +76% avg fwd 3M), tanker
+    # consensus is pro-cyclical (IC +0.48).
+    if z_score > 0.5 and qual_score > 0.25:
         return "BULL_CONFLUENCE"
-    if z_score < -0.5 and qual_score < -0.15:
+    if z_score < -0.5 and qual_score < -0.25:
         return "BEAR_CONFLUENCE"
-    if (z_score > 0.5 and qual_score < -0.15) or (z_score < -0.5 and qual_score > 0.15):
+    if (z_score > 0.5 and qual_score < -0.25) or (z_score < -0.5 and qual_score > 0.25):
         return "DIVERGENCE"
     return "NEUTRAL"
 
@@ -1183,6 +1188,15 @@ def build_system_message() -> str:
         "divergence warnings: a freight rally against falling iron ore/coal YoY is a LOW-QUALITY rally — say so; "
         "firm cargo prices against weak freight flag a potential inflection. Always respect the publication lag — "
         "never present these as real-time prints.\n\n"
+
+        "RULE 9D — CONFLUENCE EVIDENCE CALIBRATION: A historical audit (285 Breakwave reports, 2018-2026) shows "
+        "dry-bulk analyst consensus is CONTRARIAN: BEAR_CONFLUENCE on dry bulk preceded +75.7% average forward "
+        "3M BDI moves (61% win rate), while BULL_CONFLUENCE added nothing versus neutral regimes. Tanker "
+        "sentiment is pro-cyclical: BULL_CONFLUENCE preceded +24.8% average forward 3M tanker-index moves and "
+        "fear-heavy DIVERGENCE resolved upward 86% of the time. When writing the dry_bulk section, treat bearish "
+        "analyst alignment as a potential cycle-bottom value signal rather than pure downside confirmation, and "
+        "never present dry-bullish consensus as self-sufficient bullish evidence. For tankers, aligned bullish "
+        "consensus is legitimate supporting evidence.\n\n"
 
         "RULE 10 — KEY SIGNALS: Aim for 6-8 signals. Cover: the headline index interpretation, "
         "the momentum character, the cross-segment spread story, at least one contrarian or fragility signal, "

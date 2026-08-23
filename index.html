@@ -25298,8 +25298,29 @@ if (intelTabsContainer) {
         NEUTRAL:         { cls:'ci-neut', badge:'neut', label:'NEUTRAL',
           note: 'No strong directional confluence detected.' },
       };
+      // Evidence-audited label profiles (285 Breakwave reports, 2018-2026,
+      // forward BDI / clean+dirty tanker index returns at each report date):
+      // dry-bulk analyst consensus is CONTRARIAN (sentiment IC vs fwd 3M = -0.24;
+      // bearish consensus preceded +76% avg fwd 3M BDI), while tanker consensus
+      // is pro-cyclical (IC +0.48; bull confluence preceded +25% avg fwd 3M).
+      const evDry = {
+        BULL_CONFLUENCE: 'Backtest 2018-26: +12.1% avg fwd 3M BDI (55% win, n=22) - broadly in line with neutral regimes.',
+        BEAR_CONFLUENCE: 'Backtest 2018-26: +75.7% avg fwd 3M BDI (61% win, n=18) - dry-bulk bearish consensus has historically marked cycle-bottom value zones.',
+        DIVERGENCE: 'Backtest 2018-26: +5.6% avg fwd 3M BDI (50% win, n=26).',
+        NEUTRAL: 'Backtest 2018-26: +8.2% avg fwd 3M BDI (46% win, n=134).'
+      };
+      const evTanker = {
+        BULL_CONFLUENCE: 'Backtest 2018-26: +24.8% avg fwd 3M tanker index (54% win, n=22) - tanker analyst sentiment has carried genuine positive information.',
+        BEAR_CONFLUENCE: 'Rare signal in sample - treat as cautionary, not a timing trigger.',
+        DIVERGENCE: 'Backtest 2018-26: +15.6% avg fwd 3M tanker index with an 86% win rate (n=21) - fear-heavy divergences resolved upward.',
+        NEUTRAL: 'Backtest 2018-26: -2.7% avg fwd 3M tanker index (38% win, n=27).'
+      };
+      const evMap = title.includes('Dry') ? evDry : evTanker;
       const confObj = typeof confluence === 'object' ? confluence : { type: confluence, confidence: 0 };
-      const cfg = cfgMap[confObj.type] || cfgMap.NEUTRAL;
+      const cfgRaw = cfgMap[confObj.type] || cfgMap.NEUTRAL;
+      const cfg = Object.assign({}, cfgRaw, {
+        note: cfgRaw.note + (evMap[confObj.type] ? ' <span style="opacity:.72;font-size:11px;">' + evMap[confObj.type] + '</span>' : '')
+      });
 
       // Confidence label
       const confPct = confObj.confidence || 0;
@@ -29120,9 +29141,9 @@ if (intelTabsContainer) {
           const confPct  = parseInt(target.getAttribute('data-tt-conf-pct') || '0');
           const confCls  = confPct >= 65 ? 'pos' : confPct <= 35 ? 'neg' : '';
           const typeDesc = {
-            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive — aligned bullish setup.',
-            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative — aligned bearish setup.',
-            DIVERGENCE:      'Quant and qual signals contradict. Elevated positioning risk; potential mean-reversion setup.',
+            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive — aligned setup. Evidence note: this label carried +24.8% avg fwd 3M on tankers (pro-cyclical) but only in-line-with-neutral returns on dry bulk, where analyst consensus is contrarian.',
+            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative — aligned setup. Evidence note: on dry bulk this label historically marked cycle-bottom value zones (+75.7% avg fwd 3M BDI, 61% win since 2018) — freight is a strongly mean-reverting cycle.',
+            DIVERGENCE:      'Quant and qual signals contradict. On tankers, fear-heavy divergences resolved upward 86% of the time (+15.6% avg fwd 3M); on dry bulk the label was noisy (50% win).',
             NEUTRAL:         'No strong directional signal detected from either quant or qual data.',
           };
           html += `<div class="rt-row"><span class="rt-label">Signal</span><span class="rt-val">${confType.replace(/_/g, ' ')}</span></div>`;
