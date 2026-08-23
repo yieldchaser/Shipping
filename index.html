@@ -8683,10 +8683,11 @@
             <p style="margin-bottom:12px"><strong style="color:var(--text)">Max Drawdown:</strong> The maximum
               percentage decline from any peak to subsequent trough within the selected lookback window.</p>
             <p style="margin-bottom:0"><strong style="color:var(--text)">Algorithmic Signal:</strong> The signal badge
-              is derived from a combination of Z-score level, percentile rank, and recent rate of change. <em>GOLDEN
-                DIP</em> and <em>ACCUMULATE</em> indicate statistically low or improving conditions; <em>SELL</em> and
-              <em>CATCHING KNIFE</em> indicate elevated or rapidly deteriorating conditions; <em>WAIT</em> and <em>VALUE
-                TRAP</em> indicate ambiguous or transitioning conditions.
+              is derived from a combination of 5Y percentile rank, 252-day Z-score, and all-time rank. Backtested on
+              BDI since 1991 (n=8,930): <em>SELL</em> (&gt;80th pct) preceded −1.1% avg fwd 3M vs +7.5% unconditional;
+              <em>GOLDEN DIP</em> +21.4%, <em>VALUE TRAP</em> +23.9% (69% win), and <em>CATCHING KNIFE</em> +32.6%
+              (75% win) — deep-distress labels flag volatility risk, but historically marked the strongest
+              forward-return zones in this strongly mean-reverting index.
             </p>
           </div>
         </div>
@@ -12557,7 +12558,7 @@ if (intelTabsContainer) {
       const sigEl = document.getElementById('dashSignal');
       sigEl.innerHTML = sig.text;
       sigEl.className = 'signal-badge ' + sig.cls;
-      sigEl.setAttribute('data-tooltip', `Marine Intelligence Signal for ${prod.label} - synthesized from 5Y Percentile and Z-Score. Identifies high-conviction 'Golden Dip' capitulation vs. systemic overextension.`);
+      sigEl.setAttribute('data-tooltip', `Marine Intelligence Signal for ${prod.label} - evidence-calibrated ladder over 5Y Percentile and Z-Score. Backtested on BDI since 1991: overheated (>80th pctl) preceded -1.1% avg fwd 3M vs +7.5% unconditional; deep-distress zones (Knife/Trap) preceded +24% to +33% avg fwd 3M with 69-75% win rates.`);
 
       // MOMENTUM REGIME (NEW)
       renderRegimeBadge(productKey, stats.currentPrice);
@@ -12567,12 +12568,38 @@ if (intelTabsContainer) {
       const bearishEl = document.getElementById('alertBearish');
       const bullishTxt = document.getElementById('alertBullishText');
       const bearishTxt = document.getElementById('alertBearishText');
-      if (sig.label.includes('ACCUMULATE') || sig.label.includes('GOLDEN')) {
-        bullishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> : Market positioned in value accumulation zone (' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile).';
+      // Alerts banner — evidence-audited ladder (BDI backtest 1991-2026, n=8,930):
+      // SELL >80th pct: -1.1% avg fwd 3M vs +7.5% uncond. | GOLDEN DIP +21.4% (58% win)
+      // VALUE TRAP +23.9% (69% win) | CATCHING KNIFE +32.6% (75% win).
+      // KNIFE/TRAP names warn about volatility/structural doubt, but empirically
+      // deep-distress zones were the strongest forward-return territory — so they
+      // route to the constructive banner with their realized profiles attached.
+      const pctTxt = (stats.pctl5y * 100).toFixed(1);
+      const bdiCal = productKey === 'bdiy';
+      let bannerTone = null;
+      let bannerMsg = '';
+      if (sig.label === 'GOLDEN DIP') {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Market positioned in value accumulation zone (' + pctTxt + '% 5Y Percentile).' + (bdiCal ? ' Since 1991: <strong>+21.4% avg fwd 3M BDI</strong> (58% win).' : '');
+      } else if (sig.label === 'ACCUMULATE') {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Sub-40th-percentile value zone (' + pctTxt + '% 5Y Percentile).' + (bdiCal ? ' Modestly positive fwd returns since 1991; the strongest edge sits deeper in the distribution.' : '');
+      } else if (sig.label === 'CATCHING KNIFE') {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>' + sig.label + ' ZONE</strong> : Deep-distress pricing (' + pctTxt + '% 5Y Percentile, z \u2264 \u22120.6). The label warns of volatility, but since 1991 this was the strongest forward-return zone on BDI (<strong>+32.6% avg fwd 3M, 75% win</strong>). Scale in via tranches.';
+      } else if (sig.label === 'VALUE TRAP') {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>' + sig.label + ' WATCH</strong> : Cheap on both 5Y and all-time windows (' + pctTxt + '% 5Y Percentile). Named for structural-doubt risk, yet historically <strong>+23.9% avg fwd 3M (69% win)</strong> on BDI since 1991.';
+      } else if (sig.label.indexOf('SELL') !== -1) {
+        bannerTone = 'bear';
+        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Market overextended at ' + pctTxt + '% 5Y Percentile.' + (bdiCal ? ' Since 1991: <strong>\u22121.1% avg fwd 3M BDI</strong> vs +7.5% unconditional.' : '') + ' Profit taking &amp; hedging recommended.';
+      }
+      if (bannerTone === 'bull') {
+        bullishTxt.innerHTML = bannerMsg;
         bullishEl.style.display = 'block';
         bearishEl.style.display = 'none';
-      } else if (sig.label.includes('SELL') || sig.label.includes('KNIFE') || sig.label.includes('TRAP')) {
-        bearishTxt.innerHTML = '<strong>' + sig.label + ' ACTIVE</strong> : Market overextended at ' + (stats.pctl5y * 100).toFixed(1) + '% 5Y Percentile. Profit taking & hedging recommended.';
+      } else if (bannerTone === 'bear') {
+        bearishTxt.innerHTML = bannerMsg;
         bearishEl.style.display = 'block';
         bullishEl.style.display = 'none';
       } else {

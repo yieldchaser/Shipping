@@ -521,6 +521,33 @@ Actions taken from this audit:
 4. The 50/30/20 fundamentals-sentiment-momentum weights are retained as
    editorial priors (no evidence supports refitting them on this sample).
 
+#### 4.4c Dashboard Signal Ladder — Evidence Audit (BDI 1991–2026, n=8,930)
+
+The dashboard's `tradingSignal` ladder (5Y-percentile + 252d-z gates) was
+reconstructed point-in-time across the full BDI history:
+
+| Signal | Gate | Days | Fwd 3M | 3M Win |
+| :--- | :--- | ---: | ---: | :---: |
+| SELL (Overheated) | pctl5y > 0.80 | 2,584 | −1.1% | 47% |
+| WAIT | — | 2,831 | +1.8% | 47% |
+| ACCUMULATE | pctl5y < 0.40 | 1,238 | +1.0% | 47% |
+| GOLDEN DIP | <0.20 & z<−0.5 & allPctl>0.40 | 283 | +21.4% | 58% |
+| VALUE TRAP | <0.30 & allPctl<0.30 | 925 | **+23.9%** | **69%** |
+| CATCHING KNIFE | <0.10 & z<−0.60 | 1,069 | **+32.6%** | **75%** |
+
+Unconditional fwd 3M: +7.5%. Decile calibration is monotone from <10th pct
+(+32.0% fwd 3M, 73% win) up to the 80–90 bucket (−3.7%), confirming both the
+contrarian structure and the 0.80 SELL threshold; the extreme >90 bucket
+partially recovers (+0.3%) during supercycle blow-offs. BDRY ETF (2023+) shows
+the same shape (KNIFE +36.7%, 81% win).
+
+Audit outcome: the ladder's mean-reverting structure is genuine and its
+thresholds are well-placed — but KNIFE/TRAP had been routed to the red banner
+with "market overextended / profit taking" copy despite being the two strongest
+*buy* zones in 35 years. Banner copy now carries per-label realized profiles
+(numeric stats on BDI only), KNIFE/TRAP route to the constructive banner with
+explicit volatility warnings, and the signal tooltip/legend document the audit.
+
 ---
 
 ## 5. Intelligence Knowledge Base Engine & RAG Architecture
