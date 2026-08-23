@@ -872,7 +872,70 @@ def load_physical_signals_context() -> str:
                 lines.append(f"  • LNG Fleet: 174k 2-Stroke 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day | Newbuilding Order: ${float(last_lng.get('lngc_80k_nb_price') or 262):,.0f}M")
         except Exception:
             pass
-            
+
+    # 9. World Bank Commodity Demand Drivers (CMO Pink Sheet monthly averages)
+    p_wb = ROOT / "data" / "macro" / "commodities_monthly.csv"
+    if p_wb.exists():
+        try:
+            with open(p_wb, encoding="utf-8") as f:
+                wb_rows = [
+                    r for r in csv.DictReader(f)
+                    if any((v or "").strip() for k, v in r.items() if k != "date")
+                ]
+            if len(wb_rows) >= 13:
+                wb_keys = [
+                    ("iron_ore", "Iron Ore 62% ($/dmt)", 1),
+                    ("coal_australian", "Thermal Coal AUS ($/t)", 1),
+                    ("crude_brent", "Brent Crude ($/bbl)", 1),
+                    ("natgas_eu", "Nat Gas TTF ($/MMBtu)", 2),
+                    ("lng_japan", "LNG Japan ($/MMBtu)", 2),
+                    ("maize", "Maize ($/t)", 1),
+                    ("wheat_srw", "Wheat SRW ($/t)", 1),
+                    ("soybeans", "Soybeans ($/t)", 1),
+                    ("copper", "Copper ($/t)", 0),
+                    ("aluminum", "Aluminium ($/t)", 0),
+                    ("nickel", "Nickel ($/t)", 0),
+                    ("energy_index", "Energy Index (2010=100)", 1),
+                    ("agri_index", "Agriculture Index (2010=100)", 1),
+                    ("total_index", "Total Index (2010=100)", 1),
+                ]
+
+                def _wbf(row, key):
+                    raw = str(row.get(key) or "").strip()
+                    try:
+                        return float(raw) if raw not in ("", "-") else None
+                    except ValueError:
+                        return None
+
+                def _wbpct(cur, base):
+                    if cur is None or base is None or base == 0:
+                        return None
+                    return (cur - base) / base * 100
+
+                latest_wb = wb_rows[-1]
+                prev_wb = wb_rows[-2]
+                year_ago_wb = wb_rows[-13]
+                lines.append("\n=== 9. WORLD BANK COMMODITY DEMAND DRIVERS (CMO Pink Sheet monthly averages) ===")
+                lines.append("  NOTE: Monthly averages published ~4 weeks in arrears — treat as demand backdrop, NOT real-time prints.")
+                lines.append(f"  Latest month: {latest_wb.get('date', '')}")
+                lines.append(f"  {'SERIES':<28} {'LATEST':>10} {'MoM':>9} {'YoY':>9}")
+                lines.append("  " + "-" * 60)
+                for key, label, digits in wb_keys:
+                    cur = _wbf(latest_wb, key)
+                    if cur is None:
+                        continue
+                    mom_s = "-"
+                    yoy_s = "-"
+                    mom = _wbpct(cur, _wbf(prev_wb, key))
+                    yoy = _wbpct(cur, _wbf(year_ago_wb, key))
+                    if mom is not None:
+                        mom_s = f"{mom:+.1f}%"
+                    if yoy is not None:
+                        yoy_s = f"{yoy:+.1f}%"
+                    lines.append(f"  {label:<28} {cur:>10,.{digits}f} {mom_s:>9} {yoy_s:>9}")
+        except Exception:
+            pass
+
     return "\n".join(lines)
 
 
@@ -1113,6 +1176,13 @@ def build_system_message() -> str:
         "(4) Flag it in the relevant sector's risk_note or catalyst_watch with an explicit trigger that would confirm escalation or de-escalation. "
         "If no geopolitical disruption is mentioned in the analyst reports, do not invent one. "
         "But if it IS in the reports and you fail to surface it, you have failed the desk.\n\n"
+
+        "RULE 9C — CARGO DEMAND DRIVER MANDATE: The WORLD BANK COMMODITY DEMAND DRIVERS block gives "
+        "monthly Pink Sheet averages (iron ore, thermal coal, crude, LNG, grains, base metals, indices) "
+        "published ~4 weeks in arrears. Weave them into dry_bulk/tanker analysis as demand-side evidence or "
+        "divergence warnings: a freight rally against falling iron ore/coal YoY is a LOW-QUALITY rally — say so; "
+        "firm cargo prices against weak freight flag a potential inflection. Always respect the publication lag — "
+        "never present these as real-time prints.\n\n"
 
         "RULE 10 — KEY SIGNALS: Aim for 6-8 signals. Cover: the headline index interpretation, "
         "the momentum character, the cross-segment spread story, at least one contrarian or fragility signal, "

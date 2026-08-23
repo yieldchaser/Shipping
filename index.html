@@ -2237,6 +2237,14 @@
     }
     .mhr-trend-badge .mhr-trend-val { font-weight: 700; }
     .mhr-trend-badge .mhr-trend-range { font-size: 9.5px; color: var(--text-muted); opacity: 0.85; margin-left: 4px; padding-left: 6px; border-left: 1px solid rgba(255,255,255,0.12); }
+    .mhr-commodity-note {
+      display: none; align-items: center; justify-content: center; flex-wrap: wrap; gap: 4px 10px;
+      width: 100%; margin-top: 4px; padding: 6px 10px; border-radius: 6px;
+      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07);
+      font-size: 10px; line-height: 1.5;
+    }
+    .mhr-com-note-tag { font-weight: 700; letter-spacing: 0.02em; white-space: nowrap; }
+    .mhr-com-note-data { color: var(--text-muted); }
     .mhr-pillars {
       display: flex; flex-direction: column; gap: 8px; width: 100%; margin-top: 8px;
     }
@@ -11061,6 +11069,7 @@
               <div id="mhrScoreNum" class="mhr-score-num mhr-mid">—</div>
               <div class="mhr-score-label">/ 100 pts</div>
               <div id="mhrTrendBadge" class="mhr-trend-badge" style="display:none;"></div>
+              <div id="mhrCommodityNote" class="mhr-commodity-note"></div>
               <div class="mhr-pillars" id="mhrPillars">
                 <!-- Populated by JS -->
               </div>
@@ -11167,6 +11176,7 @@
 
   <div class="sq-panel" id="panel-macro">
     <button class="sq-q" onclick="sq('How are Chinese steel production, mill profit margins, and iron ore port inventories affecting Capesize rates?')">Chinese steel margins &amp; iron ore demand</button>
+    <button class="sq-q" onclick="sq('What do the latest World Bank commodity prices (iron ore, thermal coal, grains, copper) imply for dry bulk and tanker cargo demand, and do they confirm or contradict current freight momentum?')">World Bank commodity drivers vs freight momentum</button>
     <button class="sq-q" onclick="sq('What does the Capesize Atlantic C3 vs Pacific C5 freight spread ($16.85/t) reveal about tonnage supply and voyage TCE premiums?')">Atlantic C3 vs Pacific C5 freight skew</button>
     <button class="sq-q" onclick="sq('How are Middle East geopolitical tensions, Strait of Hormuz risks, and Red Sea diversions impacting tanker ton-miles?')">Hormuz / Red Sea geopolitical ton-mile impacts</button>
     <button class="sq-q" onclick="sq('What is the global crude demand and OPEC+ production quota outlook for dirty tankers?')">OPEC+ production &amp; dirty tanker demand</button>
@@ -24528,6 +24538,73 @@ if (intelTabsContainer) {
     };
 
 
+    // ── WB commodity context (display-layer only — never feeds the score) ────
+    // Returns {latest, prev, yoy} rows from the lazily-loaded Pink Sheet data,
+    // or null when fewer than 13 months are available for a YoY comparison.
+    function _wbCommodityLatest() {
+      if (typeof _commodityData === 'undefined' || !Array.isArray(_commodityData) || _commodityData.length < 13) return null;
+      const rows = _commodityData.filter(r => r && r.ts);
+      if (rows.length < 13) return null;
+      const latest = rows[rows.length - 1];
+      const prev = rows[rows.length - 2];
+      const yoy = rows[rows.length - 13];
+      if (!latest || !yoy || !(latest.date instanceof Date) || isNaN(latest.date.getTime())) return null;
+      return { latest: latest, prev: prev, yoy: yoy };
+    }
+
+    function _wbCommodityPct(cur, base) {
+      if (cur == null || base == null || base <= 0) return null;
+      return ((cur - base) / base) * 100;
+    }
+
+    function _wbCommodityFmt(v, digits, suffix) {
+      if (v == null) return 'n/a';
+      return '$' + Number(v).toLocaleString('en-US', { maximumFractionDigits: digits == null ? 0 : digits }) + (suffix || '');
+    }
+
+    function _wbCommoditySgnPct(v) {
+      if (v == null) return 'n/a';
+      return (v >= 0 ? '+' : '') + v.toFixed(1) + '%';
+    }
+
+    /**
+     * Commodity confirmation/divergence note under the radar score.
+     * Compares Pillar 1 (Freight Momentum) direction against World Bank
+     * Pink Sheet dry-bulk cargo drivers (iron ore + thermal coal YoY).
+     * Purely contextual annotation — does NOT alter any pillar or total.
+     */
+    function _renderMhrCommodityNote(pillars) {
+      const el = document.getElementById('mhrCommodityNote');
+      if (!el) return;
+      const ctxData = _wbCommodityLatest();
+      if (!ctxData) { el.style.display = 'none'; return; }
+      const latest = ctxData.latest, yrAgo = ctxData.yoy;
+      const parts = [], demandVals = [];
+      const ioYoY = _wbCommodityPct(latest.iron_ore, yrAgo.iron_ore);
+      const coalYoY = _wbCommodityPct(latest.coal_australian, yrAgo.coal_australian);
+      if (latest.iron_ore != null && ioYoY != null) {
+        parts.push('Iron Ore ' + _wbCommodityFmt(latest.iron_ore, 0, '/t') + ' ' + _wbCommoditySgnPct(ioYoY) + ' YoY');
+        demandVals.push(ioYoY);
+      }
+      if (latest.coal_australian != null && coalYoY != null) {
+        parts.push('Thermal Coal ' + _wbCommodityFmt(latest.coal_australian, 0, '/t') + ' ' + _wbCommoditySgnPct(coalYoY) + ' YoY');
+        demandVals.push(coalYoY);
+      }
+      if (!parts.length) { el.style.display = 'none'; return; }
+      const p1 = pillars && pillars.find ? pillars.find(x => x.label === 'Freight Momentum') : null;
+      const demandAvg = demandVals.reduce((a, b) => a + b, 0) / demandVals.length;
+      let verdict, color;
+      if (p1 && p1.score >= 12 && demandAvg < -5)     { verdict = 'Divergence — rally lacks cargo-price confirmation'; color = '#f85149'; }
+      else if (p1 && p1.score <= 8 && demandAvg > 5)  { verdict = 'Divergence — soft freight vs firm cargo prices'; color = '#e3b341'; }
+      else if (p1 && p1.score >= 12)                  { verdict = 'Cargo backdrop confirms freight momentum'; color = '#3fb950'; }
+      else if (p1 && p1.score <= 8)                   { verdict = 'Cargo backdrop aligns with freight weakness'; color = '#f85149'; }
+      else                                            { verdict = 'Neutral cargo backdrop vs freight trend'; color = '#8b949e'; }
+      el.innerHTML =
+        '<span class="mhr-com-note-tag" style="color:' + color + '">' + verdict + '</span>' +
+        '<span class="mhr-com-note-data">WB Pink Sheet ' + latest.date.toISOString().slice(0, 7) + ' (~4wk lag): ' + parts.join(' · ') + '</span>';
+      el.style.display = 'flex';
+    }
+
     function _renderMacroHealthRadar() {
       if (!DATA.loaded) return;
 
@@ -24601,6 +24678,15 @@ if (intelTabsContainer) {
         }
       } catch (err) {
         console.warn('[MacroHealthRadar] Trend calc notice:', err);
+      }
+
+      // WB commodity confirmation/divergence note (display-only context)
+      try {
+        ensureCommodityData(function () {
+          try { _renderMhrCommodityNote(pillars); } catch (e2) { console.warn('[MacroHealthRadar] Commodity note render error:', e2); }
+        });
+      } catch (err2) {
+        console.warn('[MacroHealthRadar] Commodity data load failed:', err2);
       }
 
       // Update pillar bars with rich hover tooltips & live metric telemetry
@@ -26334,6 +26420,46 @@ if (intelTabsContainer) {
       return lines.join('\n');
     }
 
+    /**
+     * Compact World Bank Pink Sheet commodity context for Q&A prompts.
+     * Monthly averages (~4 weeks in arrears) for freight-relevant series.
+     * Returns null when the lazily-loaded data is not (yet) available.
+     */
+    function _wbCommoditySnapshotAsText() {
+      const ctxData = _wbCommodityLatest();
+      if (!ctxData) return null;
+      const latest = ctxData.latest, prev = ctxData.prev, yrAgo = ctxData.yoy;
+      const series = [
+        ['iron_ore', 'Iron Ore 62% $/dmt', 0],
+        ['coal_australian', 'Thermal Coal AUS $/t', 0],
+        ['crude_brent', 'Brent Crude $/bbl', 1],
+        ['natgas_eu', 'Nat Gas TTF $/MMBtu', 2],
+        ['lng_japan', 'LNG Japan $/MMBtu', 2],
+        ['maize', 'Maize $/t', 1],
+        ['wheat_srw', 'Wheat SRW $/t', 1],
+        ['soybeans', 'Soybeans $/t', 1],
+        ['copper', 'Copper $/t', 0],
+        ['aluminum', 'Aluminium $/t', 0],
+        ['nickel', 'Nickel $/t', 0],
+        ['energy_index', 'Energy Index (2010=100)', 1],
+        ['agri_index', 'Agriculture Index (2010=100)', 1],
+        ['total_index', 'WB Total Commodity Index (2010=100)', 1],
+      ];
+      const lines = [
+        'WORLD BANK COMMODITY DEMAND DRIVERS (CMO Pink Sheet, month ' + latest.date.toISOString().slice(0, 7) + ')',
+        'Monthly averages published ~4 weeks in arrears — demand-side backdrop, not real-time prints.',
+        'SERIES | LATEST | MoM% | YoY%'
+      ];
+      for (const [key, label, digits] of series) {
+        const cur = latest[key];
+        if (cur == null) continue;
+        const mom = _wbCommodityPct(cur, prev ? prev[key] : null);
+        const yoy = _wbCommodityPct(cur, yrAgo[key]);
+        lines.push(label + ' | ' + Number(cur).toLocaleString('en-US', { maximumFractionDigits: digits }) + ' | ' + _wbCommoditySgnPct(mom) + ' | ' + _wbCommoditySgnPct(yoy));
+      }
+      return lines.join('\n');
+    }
+
     // ── LLM reranker: small fast call to re-order BM25 candidates ─────────
     async function _llmRerank(provider, apiKey, model, chunks, query) {
       if (chunks.length <= 3) return chunks;
@@ -27297,6 +27423,16 @@ if (intelTabsContainer) {
             if (liveText) {
               docs.push({ type: 'live', label: 'Live Market Snapshot + Analyst Consensus', text: liveText });
               used += _estimateTokens(liveText);
+            }
+          }
+
+          // Inject World Bank commodity demand drivers when loaded
+          // (monthly Pink Sheet context; skipped silently if data not yet fetched)
+          if (typeof _wbCommoditySnapshotAsText === 'function') {
+            const comText = _wbCommoditySnapshotAsText();
+            if (comText) {
+              docs.push({ type: 'live', label: 'World Bank Commodity Demand Drivers (monthly avg, ~4wk publication lag)', text: comText });
+              used += _estimateTokens(comText);
             }
           }
 
